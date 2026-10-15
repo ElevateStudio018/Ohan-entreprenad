@@ -77,16 +77,21 @@ button { font: inherit; color: inherit; }
 .burger span { display: block; height: 2px; background: #fff; transition: transform .2s; }
 .burger[aria-expanded="true"] span:first-child { transform: translateY(5.5px) rotate(45deg); }
 .burger[aria-expanded="true"] span:last-child { transform: translateY(-5.5px) rotate(-45deg); }
-.menu { background: var(--dark); border-top: 1px solid rgb(255 255 255 / .15); max-height: calc(100svh - var(--head-h)); overflow-y: auto; }
+.menu { position: absolute; left: 0; right: 0; top: 100%; background: var(--dark); border-top: 1px solid rgb(255 255 255 / .15); box-shadow: 0 24px 40px rgb(0 0 0 / .35); max-height: calc(100svh - var(--head-h)); overflow-y: auto; }
 .menu .wrap { padding-top: 12px; padding-bottom: 32px; }
 .menu-main a { display: block; padding: 12px 0; font-size: 26px; font-weight: 700; text-decoration: none; }
 .menu-h { margin-top: 20px; font-size: 14px; letter-spacing: .1em; text-transform: uppercase; color: #a3a3a3; }
 .menu-svc a { display: block; padding: 7px 0; text-decoration: none; }
 .menu .pill { margin-top: 24px; }
-@media (min-width: 1100px) {
-  .nav { display: flex; }
-  .head-call { display: inline-flex; margin-left: 8px; }
-  .head-round, .burger, .menu { display: none !important; }
+/* Hamburger menu on every screen size; on wide screens the call button stays in the bar and the menu opens in two columns */
+@media (min-width: 900px) {
+  .head-call { display: inline-flex; margin-left: auto; }
+  .head-round { display: none; }
+  .menu .wrap { display: grid; grid-template-columns: 1fr 1fr; gap: 0 64px; padding-top: 32px; padding-bottom: 48px; }
+  .menu-main { grid-row: span 3; }
+  .menu-main a { font-size: 30px; }
+  .menu-h { margin-top: 12px; }
+  .menu .pill { justify-self: start; }
 }
 
 /* Hero: the photo across the page, darkened enough to read white text on it */
