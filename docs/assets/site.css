@@ -93,6 +93,11 @@ button { font: inherit; color: inherit; }
   .menu-h { margin-top: 12px; }
   .menu .pill { justify-self: start; }
 }
+/* Wide screens: the links are back in the bar, next to the call button and the hamburger */
+@media (min-width: 1100px) {
+  .nav { display: flex; }
+  .head-call { margin-left: 8px; }
+}
 
 /* Hero: the photo across the page, darkened enough to read white text on it */
 .hero { position: relative; isolation: isolate; display: flex; align-items: center; min-height: calc(100vh - var(--head-h)); min-height: calc(100svh - var(--head-h)); color: #fff; background: var(--dark-2); }
