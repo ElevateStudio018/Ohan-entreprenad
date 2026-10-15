@@ -5,6 +5,7 @@ Run:  python3 scripts/build.py docs
 All text, services and contact details live in this file. The service texts are based on ohanentreprenad.se;
 the lists "Det kan ingå", the work process and the FAQ answers are suggestions that Ohan should confirm or edit.
 """
+import hashlib
 import html
 import json
 import pathlib
@@ -12,6 +13,11 @@ import sys
 from urllib.parse import quote_plus
 
 OUT = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else "docs")
+
+
+def ver(path):
+    """A short hash of an asset, added as ?v= so browsers fetch the new file after every change."""
+    return hashlib.md5((OUT / path).read_bytes()).hexdigest()[:8]
 
 # --- Company details (ohanentreprenad.se) ---------------------------------------------------------------------------
 NAME = "Ohan Entreprenad AB"
@@ -227,7 +233,7 @@ def footer(home):
     </div>
   </div>
 </footer>
-<script src="assets/site.js" defer></script>
+<script src="assets/site.js?v={ver("assets/site.js")}" defer></script>
 </body>
 </html>
 '''
@@ -263,7 +269,7 @@ def page(name, title, desc, main, home=False, image="hero-grav"):
 <meta name="theme-color" content="#1d1d1d">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
-<link rel="stylesheet" href="assets/site.css">
+<link rel="stylesheet" href="assets/site.css?v={ver("assets/site.css")}">
 <link rel="icon" href="img/favicon.svg" type="image/svg+xml">
 {jsonld() if home else ''}
 </head>
