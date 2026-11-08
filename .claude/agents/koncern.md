@@ -20,10 +20,13 @@ koncernkänsla och vilka arketyper som finns). Verktygen ligger i `koncern/`:
 
 ## Arbetsgång
 
-1. **Ta reda på fakta om företaget.** Läs företagets egen webbplats (WebFetch) och sök (WebSearch) efter: fullständigt namn,
+1. **Ta reda på fakta om företaget.** Läs företagets egen webbplats och sök (WebSearch) efter: fullständigt namn,
    vad koncernen gör, affärsområden, orter, nyckeltal (omsättning, medarbetare, fastighetsvärde …), några projekt, hållbarhetsmål,
    om bolaget är börsnoterat (aktie, lista, rapporter), karriär, kontaktuppgifter och org.nr. Notera varumärkesfärgen om den syns
    tydligt (logga, knappar) – den kan styra paketet med `--farg`.
+   Hämta sidorna med `curl -sL -A "Mozilla/5.0" <url>` via Bash (WebFetch når ofta inte företagssajter i den här miljön) och
+   plocka ut texten, t.ex. med `python3 -I -c` och en enkel regex som tar bort taggar. Läs startsidan, "om oss", verksamhet/tjänster,
+   projekt, kontakt och eventuell investerarsida.
    Hitta inte på siffror eller fakta och presentera dem som sanna. Saknas något: skriv en neutral formulering eller lämna det
    ute, och lista i din slutrapport vad som är bekräftat och vad som är förslag som kunden ska godkänna. Om sajten inte går att
    nå: säg det och arbeta med det du hittar via sökning.
