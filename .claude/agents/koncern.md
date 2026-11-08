@@ -43,18 +43,24 @@ koncernkänsla och vilka arketyper som finns). Verktygen ligger i `koncern/`:
    - `bolag` är koncernens dotterbolag/varumärken – det viktigaste koncerntecknet. Använd företagets riktiga bolag.
    - `tagg` väljer bild ur bildbanken: kontor, bostad, hem, bygg, stad, tra, natur, infra, people, interior, industri, el, anlaggning.
      Välj taggar som passar ämnet (en batterifabrik = industri, en skola = people eller tra).
-   - Lämna `kurs` tom om bolaget inte är noterat (då visas ägarformen i stället).
+   - Lämna `kurs` tom om bolaget inte är noterat (då visas ägarformen, och genvägen "Aktieinformation" byts mot "Kontakta oss").
+     Ta då också bort `ir` ur `ordning_lista` i paketet om du inte vill visa ägarform/rapporter på startsidan.
+   - Valfria fält: `text2` per affärsområde (en mening till på verksamhetssidan), `kultur` (karriärpanelen), en tredje
+     sträng per nyhet som ingress (`[datum, rubrik, ingress]`), `trend` (lista med tal) och `trend_text` per nyckeltal om
+     dashboard-blocket ska rita en kurva – annars ritas ingen. Hitta inte på trender.
    Skriv på svenska, kort och sakligt, i koncernton: stora påståenden i rubriken, konkret innehåll i texten. Hero-rubriken ska
    rymmas på 2–3 rader (max cirka 45 tecken), `tagline` högst 4 ord (den står bredvid loggan).
 
-3. **Skapa ett unikt grafiskt paket:**
+3. **Skapa ett unikt grafiskt paket.** Alla sajter har husstilen (samma som exemplet Sjöstaden: Plus Jakarta Sans,
+   pillerknappar, kantiga bilder, ordbild i versaler) – det som skiljer dem är färgerna och sektionerna. Använd `--egen-stil`
+   bara om användaren uttryckligen ber om eget typsnitt och egen form.
    ```bash
    python3 koncern/paket.py ny "<Fullständigt namn>" --bransch <bygg|fastighet|bostad|infra|installation|konsult|tra|samhalle> \
      [--farg "#hex"] [--stil <arketyp>] --ut koncern/kunder/<slug>/paket.json --registrera
    ```
    - Utan `--stil` väljer motorn den arketyp och kombination som skiljer sig mest från allt i registret. Använd `--stil` bara
      om användaren ber om en viss känsla (`python3 koncern/paket.py arketyper` listar dem).
-   - Använd `--farg` när företaget har en tydlig varumärkesfärg.
+   - Använd `--farg` när företaget har en tydlig varumärkesfärg, och `--accent` för varumärkets andra färg (t.ex. marinblå + orange).
    - `--registrera` sparar paketet i `koncern/register.json`, så att nästa sajt undviker det. Glöm aldrig det, och kopiera aldrig
      ett paket från en annan kund eller ett exempel.
    - Paketet väljer också **egna block**, så att sajten skiljer sig i struktur och inte bara i färg: `block.vagval`

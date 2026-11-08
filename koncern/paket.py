@@ -216,14 +216,14 @@ def slumpa(rng, axel, tvang=None):
     return rng.choices(list(alt), weights=list(alt.values()))[0]
 
 
-def kandidat(rng, namn, bransch, farg=None, stil=None):
+def kandidat(rng, namn, bransch, farg=None, stil=None, accent=None):
     if not stil or stil not in ARKETYPER:
         stil = rng.choice(list(ARKETYPER))
     ark = ARKETYPER[stil]
     typer = [t for t in TYPSNITT if t["kat"] in ark["typkat"]]
     ty = rng.choice(typer)
     if farg:
-        pal = dict(id="egen", fam="egen", primar=farg, accent=blanda(farg, "#ffffff", 0.45), mork=justera(farg, -0.25, -0.1),
+        pal = dict(id="egen", fam="egen", primar=farg, accent=accent or blanda(farg, "#ffffff", 0.45), mork=justera(farg, -0.25, -0.1),
                    ton=blanda(farg, "#ffffff", 0.9), ton2=blanda(farg, "#ffffff", 0.78))
     else:
         pal = rng.choice(PALETTER)
@@ -348,13 +348,43 @@ def register():
     return json.loads(REGISTER.read_text(encoding="utf-8")) if REGISTER.exists() else []
 
 
-def nytt(namn, bransch="bygg", farg=None, stil=None, antal=600):
-    """Väljer den kandidat som ligger längst ifrån alla paket i registret (max-min-avstånd)."""
+SJOSTADEN_STIL = {
+    # Husstilen (från exemplet Sjöstaden): samma typsnitt, knappar, former, logga och header på alla sajter.
+    # Sajterna skiljer sig i färg och i sektionerna.
+    "typsnitt": {"id": "plusjakarta", "kategori": "geometrisk", "rubrik": "Plus Jakarta Sans", "text": "Plus Jakarta Sans", "rubrik_vikt": 600,
+                 "spatiering": "-0.025em", "versaler": False, "skala": 1.0, "rubrik_fallback": "system-ui, sans-serif",
+                 "rubrik_vikter": "400;500;600;700", "siffra_vikt": 600, "logo_vikt": 800, "logo_versaler": True,
+                 "logo_spatiering": "0.08em", "nav_versaler": False, "knapp_versaler": False, "logo_font": "text"},
+    "form": {"namn": "piller-kantig", "knapp": 999, "kort": 0, "bild": 0, "hero": 0},
+    "meny": "inline", "kort": "overlay", "knappstil": "fylld", "panel": "mork", "sidhero": "bild", "sidfot": "primar",
+    "motiv": "inget", "sidfot_stor_logga": False, "maxbredd": 1360, "header_hojd": 80,
+}
+
+
+def husstil(k, farger_om=None):
+    """Lägger husstilen på ett paket men behåller färger och sektioner."""
+    k.update({a: (dict(v) if isinstance(v, dict) else v) for a, v in SJOSTADEN_STIL.items()})
+    k["header"] = "transparent" if k["hero"] in ("helskarm", "centrerad", "kurs") else "ljus"
+    if k.get("ruta") not in ("vanster", "mork"):
+        k["ruta"] = "vanster"
+    k["logga"].update(form="ingen", gemener=False)
+    k["block"]["nyheter"] = k["block"].get("nyheter", "lista")
+    k["farger"]["panel"], k["farger"]["panel_ink"] = k["farger"]["mork"], "#ffffff"
+    fot = k["farger"]["primar"]
+    k["farger"].update(sidfot=fot, sidfot_ink=ink_for(fot))
+    return k
+
+
+def nytt(namn, bransch="bygg", farg=None, stil=None, antal=600, accent=None, egen_stil=False):
+    """Väljer den kandidat som ligger längst ifrån alla paket i registret (max-min-avstånd).
+    Som standard får paketet husstilen (Sjöstadens typsnitt och form) – då skiljer sig sajterna i färg och sektioner."""
     rng = random.Random(hashlib.md5(namn.encode()).hexdigest())
     tidigare = [r for r in register() if r["for"] != namn]
     best, best_d = None, -1
     for _ in range(antal):
-        k = kandidat(rng, namn, bransch, farg, stil)
+        k = kandidat(rng, namn, bransch, farg, stil, accent)
+        if not egen_stil:
+            k = husstil(k)
         d = min((avstand(k, t) for t in tidigare), default=99) + rng.random() * 0.3
         if d > best_d:
             best, best_d = k, d
@@ -374,9 +404,11 @@ def main():
     ap.add_argument("namn", nargs="?")
     ap.add_argument("--bransch", default="bygg")
     ap.add_argument("--farg")
+    ap.add_argument("--accent", help="varumärkets andra färg (#hex), används med --farg")
     ap.add_argument("--stil", choices=list(ARKETYPER))
     ap.add_argument("--ut")
     ap.add_argument("--registrera", action="store_true")
+    ap.add_argument("--egen-stil", action="store_true", help="eget typsnitt och egen form i stället för husstilen")
     a = ap.parse_args()
     if a.kommando == "arketyper":
         for k, v in ARKETYPER.items():
@@ -388,7 +420,7 @@ def main():
         return
     if not a.namn:
         sys.exit("Ange företagsnamn")
-    p = nytt(a.namn, a.bransch, a.farg, a.stil)
+    p = nytt(a.namn, a.bransch, a.farg, a.stil, accent=a.accent, egen_stil=a.egen_stil)
     txt = json.dumps(p, ensure_ascii=False, indent=1)
     if a.ut:
         pathlib.Path(a.ut).write_text(txt, encoding="utf-8")
