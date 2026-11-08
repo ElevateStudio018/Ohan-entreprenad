@@ -729,3 +729,8 @@ body[data-motiv="rutnat"] .statement-bild::after { right: 12px; top: 8px; }
 .fot-mitt-kontakt { margin-top: 22px; font-size: 14.5px; opacity: .85; }
 .fot-centrerad .fot-slut { justify-content: center; text-align: center; }
 @media (max-width: 759px) { .anno { display: none; } }
+.vagval { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (min-width: 760px) { .vagval { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (min-width: 1100px) { .vagval { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+.vagval a span, .vv-nummer .t, .vv-cirklar span, .vv-bild .t { hyphens: auto; -webkit-hyphens: auto; overflow-wrap: break-word; min-width: 0; }
+@media (max-width: 599px) { .vagval a { font-size: 14px; padding-inline: 12px; } .vagval a span { overflow-wrap: anywhere; } }

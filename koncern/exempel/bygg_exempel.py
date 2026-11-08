@@ -64,12 +64,26 @@ VAL = {
                   knapp_accent=True, nav_versaler=True, hero_tagg="el", bildtyngd=["el", "industri", "people"], motiv="inget",
                   block=dict(vagval="rutor", bolag="vagg", siffror="rad", nyheter="lista"),
                   ordning_lista=["vagval", "berattelser", "panel", "bolag", "siffror", "projekt", "hb", "ir", "nyheter", "snabb"])),
-    "brofors": ("konsult", "teknisk", dict(fot="standard", typsnitt="plex-mono", palett="petrol-sand", hero="statement", statement="ton", header="ljus", meny="burger",
+    "brofors": ("konsult", "teknisk", dict(fot="standard", typsnitt="plex-mono", palett="petrol-sand", hero="split", split="mork", header="ljus", meny="burger",
                 ruta="vanster", panel="mork", kort="under", nyheter="kolumner", form="rundad", sidfot="mork", logga="romb", hero_tagg="infra",
                 sidfot_stor_logga=True, motiv="rutnat", block=dict(vagval="expertis", bolag="kort", siffror="rad", nyheter="lista"),
                 ordning_lista=["vagval", "projekt", "bolag", "siffror", "berattelser", "hb", "ir", "nyheter"],
                 bakgrund=dict(vagval="pa-mork", projekt="", bolag="pa-ton", siffror="pa-farg", berattelser="", hb="pa-ton", nyheter="", ir=""))),
 }
+
+
+# Gemensam stil: alla exempel har Sjöstadens typsnitt, knappar, former, logga och header. De skiljer sig i färg
+# (egen palett) och i sektionerna (hero, block, ordning, bakgrunder, sidfot).
+def sjostaden_stil(val):
+    v = dict(val)
+    v.update(typsnitt="plusjakarta", skala=1.0, logo_versaler=True, logo_spatiering="0.08em", nav_versaler=False, logo_font="text",
+             form="piller-kantig", knappstil="fylld", kort="overlay", panel="mork", sidhero="bild", sidfot="primar", meny="inline",
+             logga="ingen", gemener=False, knapp_accent=False, motiv="inget", sidfot_stor_logga=False, maxbredd=1360, header_hojd=80,
+             header="transparent" if val.get("hero") in ("helskarm", "centrerad", "kurs") else "ljus")
+    if v.get("ruta") not in (None, "vanster"):
+        v["ruta"] = "vanster"
+    v.pop("statement", None)
+    return v
 
 
 def main():
@@ -84,7 +98,7 @@ def main():
         alla.append((b, p))
     for slug, (bransch, stil, val) in VAL.items():
         b = json.loads((EX / f"{slug}.json").read_text(encoding="utf-8"))
-        p = paket.fran_val(b["namn"], bransch, val, stil)
+        p = paket.fran_val(b["namn"], bransch, sjostaden_stil(val), stil)
         p["exempel"] = True
         alla.append((b, p))
     # Kontroll: hur olika är exemplen inbördes?

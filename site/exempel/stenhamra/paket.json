@@ -5,12 +5,12 @@
  "arketyp": "koncernband",
  "fro": "07439fca",
  "typsnitt": {
-  "id": "manrope-inter",
+  "id": "plusjakarta",
   "kategori": "geometrisk",
-  "rubrik": "Manrope",
-  "text": "Inter",
+  "rubrik": "Plus Jakarta Sans",
+  "text": "Plus Jakarta Sans",
   "rubrik_vikt": 600,
-  "spatiering": "-0.03em",
+  "spatiering": "-0.025em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -18,8 +18,8 @@
   "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "-0.03em",
-  "nav_versaler": true,
+  "logo_spatiering": "0.08em",
+  "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "text"
  },
@@ -43,13 +43,10 @@
   "mork_ink": "#ffffff",
   "etikett": "#13403a",
   "siffra": "#13403a",
-  "knapp": "#d07a43",
-  "knapp2": "#c46a31",
-  "knapp_ink": "#14171b",
   "ruta": "#13403a",
   "ruta_ink": "#ffffff",
   "ruta_hover": "#55543d",
-  "panel": "#13403a",
+  "panel": "#0a2622",
   "panel_ink": "#ffffff",
   "topp": "#eef4f1",
   "topp_ink": "#14171b",
@@ -71,17 +68,17 @@
   "band2": "#d07a43"
  },
  "form": {
-  "namn": "lätt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
-  "hero": 4
+  "namn": "piller-kantig",
+  "knapp": 999,
+  "kort": 0,
+  "bild": 0,
+  "hero": 0
  },
  "hero": "band",
  "header": "ljus",
  "meny": "inline",
- "ruta": "solid",
- "panel": "primar",
+ "ruta": "vanster",
+ "panel": "mork",
  "kort": "overlay",
  "knappstil": "fylld",
  "projekt": "karusell",
@@ -116,7 +113,7 @@
   "form": "ingen",
   "farg": "#13403a",
   "ink": "#ffffff",
-  "gemener": true,
+  "gemener": false,
   "tagline": true
  },
  "bildtyngd": [
@@ -124,9 +121,9 @@
   "industri",
   "people"
  ],
- "maxbredd": 1400,
- "header_hojd": 76,
+ "maxbredd": 1360,
+ "header_hojd": 80,
  "hero_tagg": "el",
  "exempel": true,
- "min_avstand": 17.43
+ "min_avstand": 10.44
 }

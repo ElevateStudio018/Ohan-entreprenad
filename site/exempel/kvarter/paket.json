@@ -5,12 +5,12 @@
  "arketyp": "finans",
  "fro": "08c221a0",
  "typsnitt": {
-  "id": "libre-franklin",
-  "kategori": "humanistisk",
-  "rubrik": "Libre Franklin",
-  "text": "Libre Franklin",
+  "id": "plusjakarta",
+  "kategori": "geometrisk",
+  "rubrik": "Plus Jakarta Sans",
+  "text": "Plus Jakarta Sans",
   "rubrik_vikt": 600,
-  "spatiering": "-0.02em",
+  "spatiering": "-0.025em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -18,8 +18,8 @@
   "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.1em",
-  "nav_versaler": true,
+  "logo_spatiering": "0.08em",
+  "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "text"
  },
@@ -43,9 +43,9 @@
   "mork_ink": "#ffffff",
   "etikett": "#2b3a4a",
   "siffra": "#2b3a4a",
-  "ruta": "#18222c",
+  "ruta": "#2b3a4a",
   "ruta_ink": "#ffffff",
-  "ruta_hover": "#233140",
+  "ruta_hover": "#43607d",
   "panel": "#18222c",
   "panel_ink": "#ffffff",
   "topp": "#eef2f5",
@@ -56,7 +56,7 @@
   "head_fast_ink": "#14171b",
   "meny": "#2b3a4a",
   "meny_ink": "#ffffff",
-  "sidfot": "#18222c",
+  "sidfot": "#2b3a4a",
   "sidfot_ink": "#ffffff",
   "sidfot_knapp": "#6fa8dc",
   "sidfot_knapp_ink": "#14171b",
@@ -68,16 +68,16 @@
   "band2": "#6fa8dc"
  },
  "form": {
-  "namn": "lätt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
-  "hero": 4
+  "namn": "piller-kantig",
+  "knapp": 999,
+  "kort": 0,
+  "bild": 0,
+  "hero": 0
  },
  "hero": "kurs",
  "header": "transparent",
  "meny": "inline",
- "ruta": "mork",
+ "ruta": "vanster",
  "panel": "mork",
  "kort": "overlay",
  "knappstil": "fylld",
@@ -105,11 +105,11 @@
   "snabb"
  ],
  "panel_omvand": true,
- "sidfot": "mork",
+ "sidfot": "primar",
  "fot": "cta",
  "sidfot_stor_logga": false,
  "logga": {
-  "form": "kvadrat",
+  "form": "ingen",
   "farg": "#2b3a4a",
   "ink": "#ffffff",
   "gemener": false,
@@ -119,8 +119,8 @@
   "kontor",
   "stad"
  ],
- "maxbredd": 1400,
- "header_hojd": 88,
+ "maxbredd": 1360,
+ "header_hojd": 80,
  "bakgrund": {
   "siffror": "pa-ton",
   "vagval": "",
@@ -133,5 +133,5 @@
  },
  "hero_tagg": "kontor",
  "exempel": true,
- "min_avstand": 18.33
+ "min_avstand": 11.73
 }
