@@ -48,6 +48,12 @@ koncernkänsla och vilka arketyper som finns). Verktygen ligger i `koncern/`:
    - Valfria fält: `text2` per affärsområde (en mening till på verksamhetssidan), `kultur` (karriärpanelen), en tredje
      sträng per nyhet som ingress (`[datum, rubrik, ingress]`), `trend` (lista med tal) och `trend_text` per nyckeltal om
      dashboard-blocket ska rita en kurva – annars ritas ingen. Hitta inte på trender.
+   - Anpassa sajten efter vad bolaget gör: `tidslinje` ([[år, text]] + `tidslinje_rubrik`/`tidslinje_text`) för bolag med lång
+     historia, `kontor_lista` ([[ort, adress]] + `kontor_rubrik`/`kontor_text`) för bolag med många orter, `process` för en
+     värdekedja, `sok` + `service` för bostadsbolag. Lägg till blocken `tidslinje`/`kontor` i `ordning_lista`.
+   - Demosajt till ett riktigt bolag (inte beställd av bolaget): sätt `demo` till en mening i stil med "Förslag från Elevate
+     Studio – inte bolagets officiella webbplats". Då visas en etikett och sidan får noindex.
+   - Heron är alltid helskärm – det sköter generatorn.
    Skriv på svenska, kort och sakligt, i koncernton: stora påståenden i rubriken, konkret innehåll i texten. Hero-rubriken ska
    rymmas på 2–3 rader (max cirka 45 tecken), `tagline` högst 4 ord (den står bredvid loggan).
 
