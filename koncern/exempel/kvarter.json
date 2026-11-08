@@ -196,5 +196,89 @@
   "epost": "info@kvarter.se",
   "orgnr": "556000-0000"
  },
- "intro_rubrik": "Stabila kassaflöden, långa avtal"
+ "intro_rubrik": "Stabila kassaflöden, långa avtal",
+ "tagline": "Långsiktig avkastning",
+ "vagval_rubrik": "Vad söker du?",
+ "tjanster": [
+  {
+   "titel": "Lediga lokaler",
+   "ikon": "lada",
+   "href": "verksamhet.html#omr-0"
+  },
+  {
+   "titel": "Logistik",
+   "ikon": "kran",
+   "href": "verksamhet.html#omr-0"
+  },
+  {
+   "titel": "Lätt industri",
+   "ikon": "fabrik",
+   "href": "verksamhet.html#omr-1"
+  },
+  {
+   "titel": "Sale & leaseback",
+   "ikon": "nyckel",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Rapporter",
+   "ikon": "dokument",
+   "href": "investerare.html#rapporter"
+  },
+  {
+   "titel": "Aktien",
+   "ikon": "graf",
+   "href": "investerare.html"
+  },
+  {
+   "titel": "Bolagsstyrning",
+   "ikon": "skold",
+   "href": "investerare.html"
+  },
+  {
+   "titel": "Press",
+   "ikon": "megafon",
+   "href": "om-oss.html#press"
+  }
+ ],
+ "bolag": [
+  {
+   "namn": "Kvarter Logistik",
+   "segment": "Logistik",
+   "rubrik": "Lager nära transportlederna",
+   "text": "Moderna logistikfastigheter i Norden.",
+   "tagg": "bygg"
+  },
+  {
+   "namn": "Kvarter Industri",
+   "segment": "Lätt industri",
+   "rubrik": "Flexibla lokaler",
+   "text": "För produktion och service.",
+   "tagg": "industri"
+  },
+  {
+   "namn": "Kvarter Utveckling",
+   "segment": "Utveckling",
+   "rubrik": "Nybyggnation på egen mark",
+   "text": "Med förhyrning före byggstart.",
+   "tagg": "kontor"
+  }
+ ],
+ "berattelser": [
+  {
+   "rubrik": "Logistikportfölj i Danmark",
+   "text": "14 fastigheter för 2,1 miljarder kronor.",
+   "tagg": "kontor"
+  },
+  {
+   "rubrik": "12 MW solceller på taken",
+   "text": "Lagertaken i Norrköping blir solpark.",
+   "tagg": "industri"
+  },
+  {
+   "rubrik": "Fullt uthyrt i Jönköping",
+   "text": "85 000 kvm logistikpark med 15-åriga avtal.",
+   "tagg": "bygg"
+  }
+ ]
 }

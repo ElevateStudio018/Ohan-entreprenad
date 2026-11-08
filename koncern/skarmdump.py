@@ -39,9 +39,9 @@ def main():
                     pg.add_style_tag(content="html{scroll-behavior:auto!important}.reveal{opacity:1!important;transform:none!important}.hero-bild img{animation:none!important}")
                     for y in range(0, 12000, 700):
                         pg.evaluate(f"window.scrollTo(0,{y})")
-                        pg.wait_for_timeout(60)
+                        pg.wait_for_timeout(180)
                     pg.evaluate("window.scrollTo(0,0)")
-                    pg.wait_for_timeout(600)
+                    pg.wait_for_timeout(1500)
                     bredd = pg.evaluate("document.documentElement.scrollWidth")
                     if typ == "dator":
                         pg.screenshot(path=str(ut / f"{namn}-dator.jpg"), full_page=True, type="jpeg", quality=70)

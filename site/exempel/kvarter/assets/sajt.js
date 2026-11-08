@@ -24,12 +24,42 @@
     onScroll();
   }
 
+  // Bildspel i heron: byter bild var 7:e sekund, prickar och nästa-knapp. Pausar när man håller muspekaren över.
+  document.querySelectorAll("[data-bildspel]").forEach(function (spel) {
+    var slides = spel.querySelectorAll(".bild-slide");
+    var prickar = spel.querySelectorAll(".spel-prickar button");
+    var nasta = spel.querySelector(".spel-nasta");
+    if (slides.length < 2) return;
+    var i = 0, timer = null, reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    var visa = function (n) {
+      i = (n + slides.length) % slides.length;
+      slides.forEach(function (s, k) { s.classList.toggle("aktiv", k === i); s.setAttribute("aria-hidden", String(k !== i)); });
+      prickar.forEach(function (p, k) { p.setAttribute("aria-current", String(k === i)); });
+    };
+    var start = function () { if (!reduce) { clearInterval(timer); timer = setInterval(function () { visa(i + 1); }, 7000); } };
+    prickar.forEach(function (p, k) { p.addEventListener("click", function () { visa(k); start(); }); });
+    if (nasta) nasta.addEventListener("click", function () { visa(i + 1); start(); });
+    spel.addEventListener("mouseenter", function () { clearInterval(timer); });
+    spel.addEventListener("mouseleave", start);
+    visa(0);
+    start();
+  });
+
+  // Projektkarusellen: pilknappar scrollar en bredd i taget.
+  document.querySelectorAll("[data-karusell]").forEach(function (k) {
+    var lista = document.getElementById(k.getAttribute("data-karusell"));
+    if (!lista) return;
+    k.querySelectorAll("button").forEach(function (b) {
+      b.addEventListener("click", function () { lista.scrollBy({ left: (b.classList.contains("bak") ? -1 : 1) * lista.clientWidth * 0.9, behavior: "smooth" }); });
+    });
+  });
+
   // Innehåll som glider in när det syns.
   var els = document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window) {
     var io = new IntersectionObserver(function (entries) {
       entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add("syns"); io.unobserve(en.target); } });
-    }, { rootMargin: "0px 0px -8% 0px" });
+    }, { rootMargin: "0px 0px -6% 0px" });
     els.forEach(function (el) { io.observe(el); });
   } else {
     els.forEach(function (el) { el.classList.add("syns"); });

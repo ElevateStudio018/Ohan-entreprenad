@@ -196,5 +196,96 @@
   "epost": "info@norrvik.se",
   "orgnr": "556000-0000"
  },
- "intro_rubrik": "Från detaljplan till färdig stad"
+ "intro_rubrik": "Från detaljplan till färdig stad",
+ "tagline": "Vi bygger samhället",
+ "vagval_rubrik": "Vad vill du bygga med oss?",
+ "tjanster": [
+  {
+   "titel": "Bostäder",
+   "ikon": "hus",
+   "href": "verksamhet.html#omr-2"
+  },
+  {
+   "titel": "Kontor & lokaler",
+   "ikon": "kontor",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Skolor & vård",
+   "ikon": "skola",
+   "href": "verksamhet.html#omr-0"
+  },
+  {
+   "titel": "Vägar & broar",
+   "ikon": "bro",
+   "href": "verksamhet.html#omr-1"
+  },
+  {
+   "titel": "VA & mark",
+   "ikon": "ror",
+   "href": "verksamhet.html#omr-1"
+  },
+  {
+   "titel": "Projektutveckling",
+   "ikon": "ritning",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Hållbart byggande",
+   "ikon": "lov",
+   "href": "hallbarhet.html"
+  },
+  {
+   "titel": "Lediga jobb",
+   "ikon": "sok",
+   "href": "karriar.html"
+  }
+ ],
+ "bolag": [
+  {
+   "namn": "Norrvik Bygg",
+   "segment": "Byggverksamhet",
+   "rubrik": "Vi bygger det som håller i generationer",
+   "text": "Nyproduktion och ombyggnad av bostäder, skolor, vård och kontor i hela Sverige.",
+   "tagg": "bygg"
+  },
+  {
+   "namn": "Norrvik Anläggning",
+   "segment": "Infrastruktur",
+   "rubrik": "Vägar, broar och VA",
+   "text": "Anläggning för stat, kommun och näringsliv.",
+   "tagg": "infra"
+  },
+  {
+   "namn": "Norrvik Bostad",
+   "segment": "Bostadsutveckling",
+   "rubrik": "Hem i växande städer",
+   "text": "Bostadsrätter och egnahem från idé till inflyttning.",
+   "tagg": "bostad"
+  },
+  {
+   "namn": "Norrvik Fastigheter",
+   "segment": "Kommersiell utveckling",
+   "rubrik": "Arbetsplatser för framtiden",
+   "text": "Kontor och logistik som vi utvecklar och förvaltar.",
+   "tagg": "kontor"
+  }
+ ],
+ "berattelser": [
+  {
+   "rubrik": "Tolv våningar trä vid hamnen",
+   "text": "Kvarteret Fyren i Sundsvall blir ett av Sveriges högsta trähus med 312 bostäder.",
+   "tagg": "tra"
+  },
+  {
+   "rubrik": "En ny bro för Lidingö",
+   "text": "Vi ersätter den gamla bron med en ny för spårväg, gång och cykel.",
+   "tagg": "infra"
+  },
+  {
+   "rubrik": "Fossilfria byggplatser",
+   "text": "Alla våra arbetsplatser drivs nu med fossilfri el och HVO.",
+   "tagg": "bygg"
+  }
+ ]
 }

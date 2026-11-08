@@ -151,8 +151,8 @@ sida(f'''<h2>Sammanfattning</h2>
 </ol></div>
 <div class="recept"><h3>Receptet</h3>
 <p>En koncernsajt i toppklass har nästan alltid:</p>
-<ul><li>Helskärmsbild/film med <b>en enda stor rubrik</b> (60–100 px)</li><li>Transparent header som blir solid vid scroll</li><li>Ett distinkt typsnitt – eget eller ovanligt</li><li>En stark färg, sparsamt använd mot mycket vitt</li><li>Pillerknappar men kantiga bilder</li><li>Nyckeltal i stor siffra tidigt på sidan</li><li>Affärsområden, projekt, hållbarhet, investerare, karriär</li><li>Mörk eller färgad sidfot med tydlig struktur</li></ul>
-<p class="liten">Men: alla som följer receptet blir lika varandra. Därför bygger våra 10 sajter på <b>olika arketyper</b> (sid. 13–14) och agenten mäter avståndet till alla tidigare paket.</p></div></div>''')
+<ul><li>Helskärmsbild/film med <b>en enda stor rubrik</b> (60–100 px)</li><li>Topprad för koncernen och en header som blir solid vid scroll</li><li>Ett distinkt typsnitt – eget eller ovanligt</li><li><b>Varumärkesfärgen i stora ytor</b>: vägvalsrutor, paneler, sidfot</li><li>Vägval med ikoner direkt efter heron</li><li><b>Våra bolag</b> som stora bildkort</li><li>Pillerknappar men kantiga bilder</li><li>Nyckeltal, projekt med status, hållbarhet, investerare, karriär</li><li>Helfärgad sidfot</li></ul>
+<p class="liten">Men: alla som följer receptet blir lika varandra. Därför bygger våra 10 sajter på <b>olika arketyper</b> (sid. 14–15) och agenten mäter avståndet till alla tidigare paket.</p></div></div>''')
 
 # 3. Metod
 uteslutna = ", ".join(f'{u["namn"]} ({u["skal"].lower()})' for u in S["uteslutna"])
@@ -252,6 +252,30 @@ sida(f'''<h2>Vad skiljer de bästa från de svaga?</h2>
 <p>Eget typsnitt och serif-rubriker är dubbelt så vanligt i toppen – ett distinkt typsnitt är det snabbaste sättet att inte se ut som alla andra.</p>
 <p>Hållbarhet och investerare är vanligare hos de bästa: innehållet i menyn bidrar lika mycket som formen.</p></div></div>''')
 
+# 9b. Hela sidan
+def hela(namn):
+    src = DATA / "hela" / f"{namn}.jpg"
+    dst = BILD / f"hela-{namn}.jpg"
+    if not dst.exists() and src.exists():
+        im = Image.open(src).convert("RGB")
+        im.thumbnail((520, 20000))
+        im.save(dst, quality=72, optimize=True)
+    return f"bilder/{dst.name}"
+sida(f'''<h2>Hela sidan: så är de bästa uppbyggda längre ned</h2>
+<div class="hela"><div class="hela-bilder">{"".join(f'<figure><div class="hela-ram"><img src="{hela(n)}" alt=""></div><figcaption>{t}</figcaption></figure>' for n, t in [("granitor", "Granitor"), ("hemso", "Hemsö"), ("castellum", "Castellum"), ("wallenstam", "Wallenstam")])}</div>
+<div><p class="ingress" style="font-size:14px">Första skärmen avgör intrycket – men koncernkänslan byggs längre ned. En andra genomgång av hela startsidan hos toppsajterna visar samma återkommande block:</p>
+<ol class="fynd" style="margin-top:6px">
+<li><b>Färgen i stora ytor.</b> Varumärkesfärgen fyller hela block, rutor och sidfoten – inte bara knappar. Granitors vinröda dörrar och sidfot, Castellums mörkgröna paneler.</li>
+<li><b>Vägval med ikoner.</b> "Dörrar till nya möjligheter" (Granitor), "Letar du bostad? Vill du bygga?" (Peab): 8–12 färgade rutor med linjeikoner direkt efter heron.</li>
+<li><b>Bild och färgpanel kant i kant.</b> En bild och en solid färgpanel med rubrik och länk, ofta växelvis (Castellum, Hemsö, Wallenstam).</li>
+<li><b>Våra bolag.</b> Koncernens dotterbolag som stora bildkort med bolagsnamnet i versaler – det tydligaste koncerntecknet.</li>
+<li><b>Berättelser och projekt.</b> Bildkort med text ovanpå, projekt med statusetiketter (Kommande, Pågående) och runda pilknappar.</li>
+<li><b>Tonade sektioner.</b> Ljusrosa, mint eller isblått som bakgrund bryter av det vita och knyter ihop med varumärkesfärgen.</li>
+<li><b>Topprad för koncernen.</b> Koncernstartsida, Våra bolag, Investerare och Språk ovanför huvudmenyn.</li>
+<li><b>Helfärgad sidfot</b> med kontakt, genvägar och "Scrolla till toppen".</li>
+</ol>
+<p class="liten">Den här genomgången gjordes efter att den första versionen av exempelsajterna bedömts som för bleka. Mallen byggdes om efter blocken ovan.</p></div></div>''')
+
 # 10–11. Arketyper
 ark = defaultdict(list)
 for s in SAJ:
@@ -282,7 +306,7 @@ sida(f'''<h2>Från undersökning till 10 olika koncernsajter</h2>
 
 # 13–14. De tio sajterna
 def ex_kort(e):
-    return f'<figure class="ex"><div class="ex-ram"><img src="{exbild("exempel-" + e["slug"] + "-index-dator.jpg", 560, 2900)}" alt=""></div><figcaption><b>{E(e["kortnamn"])}</b> · {E(e["paket"]["arketyp"])}</figcaption></figure>'
+    return f'<figure class="ex"><div class="ex-ram"><img src="{exbild("exempel-" + e["slug"] + "-index-dator.jpg", 560, 4400)}" alt=""></div><figcaption><b>{E(e["kortnamn"])}</b> · {E(e["paket"]["arketyp"])}</figcaption></figure>'
 sida(f'<h2>De tio sajterna</h2><div class="ex-grid">{"".join(ex_kort(e) for e in EX[:5])}</div>', "tat")
 sida(f'<h2>De tio sajterna (forts.)</h2><div class="ex-grid">{"".join(ex_kort(e) for e in EX[5:])}</div>', "tat")
 
@@ -377,6 +401,10 @@ td .sw {{ width: 14px; height: 14px; margin-right: 3px; vertical-align: -3px; }}
 .tabell.mini td, .tabell.mini th {{ padding: 2.4px 4px; }}
 .tabell.mini td .sw {{ width: 9px; height: 9px; }}
 .ex-grid {{ display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }}
+.hela {{ display: grid; grid-template-columns: 1.25fr 1fr; gap: 24px; }}
+.hela-bilder {{ display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }}
+.hela-ram {{ height: 148mm; overflow: hidden; border: 1px solid #e3e5e8; }}
+.hela-ram img {{ width: 100%; display: block; }}
 .ex-ram {{ height: 150mm; overflow: hidden; border: 1px solid #e3e5e8; }}
 .ex-ram img {{ width: 100%; height: auto; display: block; }}
 '''

@@ -34,11 +34,11 @@ python3 research/rapport.py
 
 | Fil | Vad den gör |
 | --- | --- |
-| `paket.py` | Skapar grafiska paket. Axlar och alternativ kommer från undersökningen: 21 typsnittspar, 16 paletter, 5 formfamiljer, 6 hero-layouter, 4 headers, 5 korttyper, 3 knappstilar, 4 rytmer, 10 loggformer och 10 arketyper. Väljer det paket som ligger längst ifrån alla i `register.json`. |
-| `generera.py` | Bygger en sajt med sju sidor från `brief.json` + `paket.json` |
-| `mall/bas.css`, `mall/sajt.js` | Den gemensamma koden. Paketet styr den via `tokens.css` och `data-*`-attribut på `<body>` |
+| `paket.py` | Skapar grafiska paket. Axlar och alternativ kommer från undersökningen: 23 typsnittspar, 14 paletter med djupa varumärkesfärger och ljusa toner, 5 formfamiljer, 6 hero-layouter, 3 headers, 4 stilar på vägvalsrutor, 3 panelfärger, 4 rytmer, 3 sektionsordningar, 11 loggformer och 10 arketyper. Väljer det paket som ligger längst ifrån alla i `register.json`. |
+| `generera.py` | Bygger en sajt med åtta sidor (Start, Verksamhet, Våra bolag, Projekt, Vårt ansvar, Investerare, Jobba hos oss, Om oss) från `brief.json` + `paket.json`. Startsidan följer hur toppsajterna är uppbyggda hela vägen ned: topprad, hero med bildspel, vägval med ikoner, berättelser, bild + färgpanel, våra bolag, nyckeltal, projekt med status, hållbarhet, investerare, nyheter, snabbrutor, helfärgad sidfot |
+| `mall/bas.css`, `mall/sajt.js`, `mall/ikoner.py` | Den gemensamma koden. Paketet styr den via `tokens.css` och `data-*`-attribut på `<body>` |
 | `skarmdump.py` | Skärmdumpar på dator och mobil + kontroll av horisontell scroll |
-| `bildbank/`, `bildbank.tsv` | 49 taggade stockfoton från Pexels |
+| `bildbank/`, `bildbank.tsv` | 83 taggade stockfoton från Pexels |
 | `exempel/` | Innehållet till de 10 exemplen och `bygg_exempel.py`, som bygger dem |
 | `register.json` | Alla paket som använts – så att nästa sajt blir annorlunda |
 

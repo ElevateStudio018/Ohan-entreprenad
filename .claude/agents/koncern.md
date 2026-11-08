@@ -29,14 +29,20 @@ koncernkänsla och vilka arketyper som finns). Verktygen ligger i `koncern/`:
    nå: säg det och arbeta med det du hittar via sökning.
 
 2. **Skriv innehållet** i `koncern/kunder/<slug>/brief.json` (slug = kortnamnet i gemener, a–z, siffror, bindestreck).
-   Formatet är exakt samma som exemplen i `koncern/exempel/*.json` – öppna ett av dem och följ det:
-   `namn, kortnamn, slug, typ, slogan, hero_rubrik, hero_text, intro_rubrik, om[2], affarsomraden[4]{titel,text,tagg},
-   nyckeltal[4]{varde,enhet,etikett}, projekt[6]{namn,ort,typ,ar,text,tagg}, hallbarhet{rubrik,text,mal[3][varde,text]},
-   investerare{aktie,lista,kurs,forandring,rapporter[[titel,datum]],kalender[[titel,datum]]}, karriar{rubrik,text,jobb[[titel,ort]]},
-   nyheter[[datum,rubrik]], kontakt{adress,postnr,ort,telefon,epost,orgnr}`.
-   `tagg` väljer bild ur bildbanken. Lämna `kurs` tom om bolaget inte är noterat (då visas ägarform i stället).
+   Formatet är exakt samma som exemplen i `koncern/exempel/*.json` – öppna ett av dem (t.ex. `stenhamra.json`) och följ det:
+   `namn, kortnamn, slug, typ, tagline, slogan, hero_rubrik, hero_text, intro_rubrik, om[2], vagval_rubrik,
+   tjanster[8–12]{titel, ikon, href}, affarsomraden[4]{titel,text,tagg}, bolag[3–4]{namn, segment, rubrik, text, tagg},
+   berattelser[3]{rubrik, text, tagg}, nyckeltal[4]{varde,enhet,etikett}, projekt[6]{namn,ort,typ,ar,text,tagg},
+   hallbarhet{rubrik,text,mal[3][varde,text]}, investerare{aktie,lista,kurs,forandring,rapporter[[titel,datum]],kalender[[titel,datum]]},
+   karriar{rubrik,text,jobb[[titel,ort]]}, nyheter[[datum,rubrik]], kontakt{adress,postnr,ort,telefon,epost,orgnr}`.
+   - `tjanster` blir de färgade vägvalsrutorna ("Dörrar till nya möjligheter") – välj 8 eller 12 och en ikon till varje:
+     blixt, bro, dokument, fabrik, folk, glob, graf, hem, hjalm, hus, karta, kontor, kran, kugge, lada, laddning, lov, megafon, nyckel, pil, portfolj, ritning, robot, ror, skog, skola, skold, sok, sol, upp, vag, vard, vatten, vind.
+   - `bolag` är koncernens dotterbolag/varumärken – det viktigaste koncerntecknet. Använd företagets riktiga bolag.
+   - `tagg` väljer bild ur bildbanken: kontor, bostad, hem, bygg, stad, tra, natur, infra, people, interior, industri, el, anlaggning.
+     Välj taggar som passar ämnet (en batterifabrik = industri, en skola = people eller tra).
+   - Lämna `kurs` tom om bolaget inte är noterat (då visas ägarformen i stället).
    Skriv på svenska, kort och sakligt, i koncernton: stora påståenden i rubriken, konkret innehåll i texten. Hero-rubriken ska
-   rymmas på 2–3 rader (max cirka 45 tecken).
+   rymmas på 2–3 rader (max cirka 45 tecken), `tagline` högst 4 ord (den står bredvid loggan).
 
 3. **Skapa ett unikt grafiskt paket:**
    ```bash
@@ -61,8 +67,9 @@ koncernkänsla och vilka arketyper som finns). Verktygen ligger i `koncern/`:
    ```bash
    python3 koncern/skarmdump.py site/kunder/<slug> /tmp/koncern-<slug> index.html verksamhet.html investerare.html
    ```
-   Läs bilderna (Read). Kontrollera att ingen sida har horisontell scroll, att rubriker inte bryts konstigt, att bilderna passar
-   branschen och att menyn öppnas på mobil. Rätta texten i `brief.json` (eller en bildtagg) och bygg om tills det ser rätt ut.
+   Läs bilderna (Read). Jämför med en av toppsajterna i undersökningen (t.ex. granitor.se eller skanska.se): har sidan samma tyngd –
+   färgen i stora ytor, vägval, bolag, berättelser, helfärgad sidfot? Kontrollera att ingen sida har horisontell scroll, att rubriker inte
+   bryts konstigt, att bilderna passar ämnet och att menyn öppnas på mobil. Rätta texten i `brief.json` (eller en bildtagg) och bygg om tills det ser rätt ut.
 
 6. **Rapportera** kort till användaren: vilken arketyp, vilka typsnitt, färger och former paketet fick och hur det skiljer sig från
    närmaste tidigare sajt (`min_avstand` i paket.json), var sajten ligger, vad i innehållet som är bekräftade fakta och vad som är

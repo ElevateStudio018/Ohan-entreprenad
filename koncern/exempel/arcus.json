@@ -192,5 +192,89 @@
   "epost": "info@arcus.se",
   "orgnr": "556000-0000"
  },
- "intro_rubrik": "En långsiktig partner till det offentliga"
+ "intro_rubrik": "En långsiktig partner till det offentliga",
+ "tagline": "Samhällets viktigaste rum",
+ "vagval_rubrik": "Vilken verksamhet bedriver du?",
+ "tjanster": [
+  {
+   "titel": "Skola & förskola",
+   "ikon": "skola",
+   "href": "verksamhet.html#omr-0"
+  },
+  {
+   "titel": "Vård",
+   "ikon": "vard",
+   "href": "verksamhet.html#omr-1"
+  },
+  {
+   "titel": "Omsorg",
+   "ikon": "folk",
+   "href": "verksamhet.html#omr-2"
+  },
+  {
+   "titel": "Rättsväsende",
+   "ikon": "skold",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Projektutveckling",
+   "ikon": "ritning",
+   "href": "projekt.html"
+  },
+  {
+   "titel": "Hyresgäst",
+   "ikon": "nyckel",
+   "href": "om-oss.html#kontakt"
+  },
+  {
+   "titel": "Investerare",
+   "ikon": "graf",
+   "href": "investerare.html"
+  },
+  {
+   "titel": "Lediga jobb",
+   "ikon": "sok",
+   "href": "karriar.html"
+  }
+ ],
+ "bolag": [
+  {
+   "namn": "Arcus Utbildning",
+   "segment": "Utbildning",
+   "rubrik": "Skolor där barn vill vara",
+   "text": "Förskolor, skolor och universitetslokaler.",
+   "tagg": "people"
+  },
+  {
+   "namn": "Arcus Vård & Omsorg",
+   "segment": "Vård och omsorg",
+   "rubrik": "Trygga lokaler för vård",
+   "text": "Vårdcentraler, sjukhus och äldreboenden.",
+   "tagg": "interior"
+  },
+  {
+   "namn": "Arcus Rättsfastigheter",
+   "segment": "Rättsväsende",
+   "rubrik": "Säkra fastigheter",
+   "text": "Polishus, domstolar och kriminalvård.",
+   "tagg": "kontor"
+  }
+ ],
+ "berattelser": [
+  {
+   "rubrik": "Ängskolan invigd",
+   "text": "900 elever flyttar in i Norrtäljes nya skola i massivträ.",
+   "tagg": "tra"
+  },
+  {
+   "rubrik": "Sju nya skolor i portföljen",
+   "text": "Arcus förvärvar skolfastigheter i Västra Götaland.",
+   "tagg": "people"
+  },
+  {
+   "rubrik": "Hus som håller i 100 år",
+   "text": "Så bygger vi flexibelt för nya verksamheter.",
+   "tagg": "kontor"
+  }
+ ]
 }

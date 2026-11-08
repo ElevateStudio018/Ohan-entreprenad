@@ -196,5 +196,109 @@
   "epost": "info@stenhamra.se",
   "orgnr": "556000-0000"
  },
- "intro_rubrik": "Lokalt entreprenörskap, koncernens styrka"
+ "intro_rubrik": "Lokalt entreprenörskap, koncernens styrka",
+ "tagline": "Teknik som fungerar",
+ "vagval_rubrik": "Dörrar till nya möjligheter. Vilken vill du öppna?",
+ "tjanster": [
+  {
+   "titel": "Elteknik",
+   "ikon": "blixt",
+   "href": "verksamhet.html#omr-0"
+  },
+  {
+   "titel": "Fastighetsautomation",
+   "ikon": "robot",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Säkerhetslösningar",
+   "ikon": "skold",
+   "href": "verksamhet.html"
+  },
+  {
+   "titel": "VVS & energi",
+   "ikon": "vatten",
+   "href": "verksamhet.html#omr-1"
+  },
+  {
+   "titel": "Ventilation",
+   "ikon": "vind",
+   "href": "verksamhet.html#omr-2"
+  },
+  {
+   "titel": "Laddinfrastruktur",
+   "ikon": "laddning",
+   "href": "verksamhet.html#omr-0"
+  },
+  {
+   "titel": "Solceller",
+   "ikon": "sol",
+   "href": "verksamhet.html#omr-0"
+  },
+  {
+   "titel": "Service & underhåll",
+   "ikon": "kugge",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Industri",
+   "ikon": "fabrik",
+   "href": "verksamhet.html"
+  },
+  {
+   "titel": "Hållbarhet",
+   "ikon": "lov",
+   "href": "hallbarhet.html"
+  },
+  {
+   "titel": "Investerare",
+   "ikon": "graf",
+   "href": "investerare.html"
+  },
+  {
+   "titel": "Lediga jobb",
+   "ikon": "sok",
+   "href": "karriar.html"
+  }
+ ],
+ "bolag": [
+  {
+   "namn": "Stenhamra Electro",
+   "segment": "El & teknik",
+   "rubrik": "El, tele och laddinfrastruktur",
+   "text": "Elinstallation och service för bygg, fastighet och industri.",
+   "tagg": "el"
+  },
+  {
+   "namn": "Stenhamra Energi",
+   "segment": "VVS & energi",
+   "rubrik": "Värme, vatten och värmepumpar",
+   "text": "Energilösningar som sänker driftkostnaden.",
+   "tagg": "industri"
+  },
+  {
+   "namn": "Stenhamra Systems",
+   "segment": "Automation",
+   "rubrik": "Smarta fastigheter",
+   "text": "Styr- och reglerteknik och fastighetsautomation.",
+   "tagg": "interior"
+  }
+ ],
+ "berattelser": [
+  {
+   "rubrik": "600 laddpunkter vid Arlanda",
+   "text": "Laddpark för elbilar och tunga fordon i drift.",
+   "tagg": "el"
+  },
+  {
+   "rubrik": "Batterifabriken i Skellefteå",
+   "text": "Processventilation och elkraft för batteriproduktion.",
+   "tagg": "industri"
+  },
+  {
+   "rubrik": "Norrlandsel blir en del av koncernen",
+   "text": "Vi välkomnar 140 nya kollegor.",
+   "tagg": "people"
+  }
+ ]
 }

@@ -188,5 +188,89 @@
   "epost": "info@ekbacka.se",
   "orgnr": "556000-0000"
  },
- "intro_rubrik": "Tryggt att köpa nytt"
+ "intro_rubrik": "Tryggt att köpa nytt",
+ "tagline": "Hem för livets alla skeden",
+ "vagval_rubrik": "Var i livet är du?",
+ "tjanster": [
+  {
+   "titel": "Köpa bostadsrätt",
+   "ikon": "hus",
+   "href": "projekt.html"
+  },
+  {
+   "titel": "Radhus & parhus",
+   "ikon": "hem",
+   "href": "projekt.html"
+  },
+  {
+   "titel": "Seniorboende",
+   "ikon": "folk",
+   "href": "verksamhet.html#omr-2"
+  },
+  {
+   "titel": "Kommande projekt",
+   "ikon": "ritning",
+   "href": "projekt.html"
+  },
+  {
+   "titel": "Kundservice",
+   "ikon": "nyckel",
+   "href": "om-oss.html#kontakt"
+  },
+  {
+   "titel": "Svanenmärkt",
+   "ikon": "lov",
+   "href": "hallbarhet.html"
+  },
+  {
+   "titel": "Investerare",
+   "ikon": "graf",
+   "href": "investerare.html"
+  },
+  {
+   "titel": "Jobba hos oss",
+   "ikon": "portfolj",
+   "href": "karriar.html"
+  }
+ ],
+ "bolag": [
+  {
+   "namn": "Ekbacka Bostadsrätter",
+   "segment": "Bostadsrätter",
+   "rubrik": "Lägenheter med genomtänkta planlösningar",
+   "text": "Ljusa hem nära natur, skola och kommunikationer.",
+   "tagg": "bostad"
+  },
+  {
+   "namn": "Ekbacka Hus",
+   "segment": "Radhus & parhus",
+   "rubrik": "Egen trädgård, plats för alla",
+   "text": "Radhus och parhus i trä för familjer.",
+   "tagg": "tra"
+  },
+  {
+   "namn": "Ekbacka Senior",
+   "segment": "Seniorboende",
+   "rubrik": "Bekvämt och gemenskap",
+   "text": "Bostadsrätter för dig över 55 år.",
+   "tagg": "hem"
+  }
+ ],
+ "berattelser": [
+  {
+   "rubrik": "40 procent sålt första helgen",
+   "text": "Säljstart för Brf Ekhagen i Täby – 86 ljusa lägenheter.",
+   "tagg": "bostad"
+  },
+  {
+   "rubrik": "Radhus i trä i Uppsala",
+   "text": "34 radhus med egen trädgård i Lärkängen.",
+   "tagg": "tra"
+  },
+  {
+   "rubrik": "Högsta betyg av våra kunder",
+   "text": "Ekbacka toppar Nöjd Kund-undersökningen för tredje året.",
+   "tagg": "hem"
+  }
+ ]
 }

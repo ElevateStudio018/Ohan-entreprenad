@@ -192,5 +192,89 @@
   "epost": "info@lindhem.se",
   "orgnr": "556000-0000"
  },
- "intro_rubrik": "Närvarande förvaltning i 24 städer"
+ "intro_rubrik": "Närvarande förvaltning i 24 städer",
+ "tagline": "Mer än fyra väggar",
+ "vagval_rubrik": "Hur kan vi hjälpa dig?",
+ "tjanster": [
+  {
+   "titel": "Lediga lägenheter",
+   "ikon": "hus",
+   "href": "projekt.html"
+  },
+  {
+   "titel": "Felanmälan",
+   "ikon": "kugge",
+   "href": "om-oss.html#kontakt"
+  },
+  {
+   "titel": "Bostadskö",
+   "ikon": "dokument",
+   "href": "om-oss.html#kontakt"
+  },
+  {
+   "titel": "Nyproduktion",
+   "ikon": "kran",
+   "href": "projekt.html"
+  },
+  {
+   "titel": "Lokaler",
+   "ikon": "lada",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Grannskap",
+   "ikon": "folk",
+   "href": "verksamhet.html#omr-2"
+  },
+  {
+   "titel": "Hållbarhet",
+   "ikon": "lov",
+   "href": "hallbarhet.html"
+  },
+  {
+   "titel": "Sommarjobb",
+   "ikon": "sol",
+   "href": "karriar.html"
+  }
+ ],
+ "bolag": [
+  {
+   "namn": "Lindhem Förvaltning",
+   "segment": "Hyresrätter",
+   "rubrik": "31 000 hem i 24 städer",
+   "text": "Närvarande förvaltning med egna bovärdar.",
+   "tagg": "bostad"
+  },
+  {
+   "namn": "Lindhem Nyproduktion",
+   "segment": "Nyproduktion",
+   "rubrik": "800 nya hyresrätter per år",
+   "text": "Vi bygger hållbart och med rimliga hyror.",
+   "tagg": "bygg"
+  },
+  {
+   "namn": "Lindhem Grannskap",
+   "segment": "Samhälle",
+   "rubrik": "Trygga och levande områden",
+   "text": "Läxhjälp, sommarjobb och mötesplatser.",
+   "tagg": "people"
+  }
+ ],
+ "berattelser": [
+  {
+   "rubrik": "450 ungdomar fick sommarjobb",
+   "text": "Unga i våra områden jobbade med allt från trädgård till kundservice.",
+   "tagg": "people"
+  },
+  {
+   "rubrik": "Inflyttning i Kv. Linden",
+   "text": "142 nya hyresrätter med solceller i Örebro.",
+   "tagg": "bostad"
+  },
+  {
+   "rubrik": "Renovering utan stora hyreshöjningar",
+   "text": "1 200 lägenheter i Malmö renoveras varsamt.",
+   "tagg": "hem"
+  }
+ ]
 }

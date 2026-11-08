@@ -179,5 +179,96 @@
   "epost": "info@brofors.se",
   "orgnr": "556000-0000"
  },
- "intro_rubrik": "Hundra år av ingenjörskonst"
+ "intro_rubrik": "Hundra år av ingenjörskonst",
+ "tagline": "Ingenjörskonst sedan 1924",
+ "vagval_rubrik": "Vilken utmaning arbetar du med?",
+ "tjanster": [
+  {
+   "titel": "Arkitektur",
+   "ikon": "ritning",
+   "href": "verksamhet.html#omr-0"
+  },
+  {
+   "titel": "Stadsplanering",
+   "ikon": "karta",
+   "href": "verksamhet.html#omr-1"
+  },
+  {
+   "titel": "Infrastruktur",
+   "ikon": "bro",
+   "href": "verksamhet.html#omr-1"
+  },
+  {
+   "titel": "Vatten & klimat",
+   "ikon": "vatten",
+   "href": "verksamhet.html#omr-2"
+  },
+  {
+   "titel": "Energi",
+   "ikon": "vind",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Industri",
+   "ikon": "fabrik",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Digitalisering",
+   "ikon": "robot",
+   "href": "verksamhet.html"
+  },
+  {
+   "titel": "Karriär",
+   "ikon": "folk",
+   "href": "karriar.html"
+  }
+ ],
+ "bolag": [
+  {
+   "namn": "Brofors Arkitekter",
+   "segment": "Arkitektur & design",
+   "rubrik": "Byggnader, landskap och inredning",
+   "text": "Arkitektur som håller över tid.",
+   "tagg": "tra"
+  },
+  {
+   "namn": "Brofors Samhälle",
+   "segment": "Samhällsbyggnad",
+   "rubrik": "Städer, trafik och infrastruktur",
+   "text": "Från detaljplan till färdig bro.",
+   "tagg": "infra"
+  },
+  {
+   "namn": "Brofors Miljö",
+   "segment": "Vatten & miljö",
+   "rubrik": "Klimatanpassning",
+   "text": "Skyfallsplaner, VA och miljöutredningar.",
+   "tagg": "natur"
+  },
+  {
+   "namn": "Brofors Energi",
+   "segment": "Energi & industri",
+   "rubrik": "Industriell omställning",
+   "text": "Vindkraft, vätgas och elnät.",
+   "tagg": "el"
+  }
+ ],
+ "berattelser": [
+  {
+   "rubrik": "Vinnare: Kulturhuset Ljuset",
+   "text": "Brofors Arkitekter vinner tävlingen i Skellefteå.",
+   "tagg": "tra"
+  },
+  {
+   "rubrik": "Så klimatanpassar vi städerna",
+   "text": "Ny rapport om skyfall och 100-årsregn.",
+   "tagg": "stad"
+  },
+  {
+   "rubrik": "Fyra nya tunnelbanestationer",
+   "text": "Vi projekterar den nya tunnelbanan i söder.",
+   "tagg": "infra"
+  }
+ ]
 }

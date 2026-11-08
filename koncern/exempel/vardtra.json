@@ -179,5 +179,89 @@
   "epost": "info@vardtra.se",
   "orgnr": "556000-0000"
  },
- "intro_rubrik": "Skog, sågverk och fabrik – i egen regi"
+ "intro_rubrik": "Skog, sågverk och fabrik – i egen regi",
+ "tagline": "Från skog till hem",
+ "vagval_rubrik": "Vad vill du bygga i trä?",
+ "tjanster": [
+  {
+   "titel": "Flerbostadshus",
+   "ikon": "hus",
+   "href": "verksamhet.html#omr-0"
+  },
+  {
+   "titel": "Skolor & förskolor",
+   "ikon": "skola",
+   "href": "verksamhet.html#omr-1"
+  },
+  {
+   "titel": "Hotell",
+   "ikon": "kontor",
+   "href": "verksamhet.html#omr-2"
+  },
+  {
+   "titel": "Studentbostäder",
+   "ikon": "nyckel",
+   "href": "verksamhet.html#omr-2"
+  },
+  {
+   "titel": "Vår skog",
+   "ikon": "skog",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Klimatberäkning",
+   "ikon": "lov",
+   "href": "hallbarhet.html"
+  },
+  {
+   "titel": "Så bygger vi",
+   "ikon": "ritning",
+   "href": "projekt.html"
+  },
+  {
+   "titel": "Jobba hos oss",
+   "ikon": "hjalm",
+   "href": "karriar.html"
+  }
+ ],
+ "bolag": [
+  {
+   "namn": "Vårdträ Hus",
+   "segment": "Byggsystem",
+   "rubrik": "Industriellt byggande i trä",
+   "text": "Flerbostadshus, skolor och hotell som monteras på veckor.",
+   "tagg": "tra"
+  },
+  {
+   "namn": "Vårdträ Skog",
+   "segment": "Skog & sågverk",
+   "rubrik": "Egen skog, eget sågverk",
+   "text": "Spårbart virke från Jämtland.",
+   "tagg": "natur"
+  },
+  {
+   "namn": "Vårdträ Fabrik",
+   "segment": "Produktion",
+   "rubrik": "Fossilfri fabrik i Bräcke",
+   "text": "Väggar, bjälklag och volymer i fabrik.",
+   "tagg": "industri"
+  }
+ ],
+ "berattelser": [
+  {
+   "rubrik": "Tolv våningar på sju veckor",
+   "text": "Trätornet i Östersund når taknock.",
+   "tagg": "tra"
+  },
+  {
+   "rubrik": "420 studentbostäder i Umeå",
+   "text": "Volymelement i trä för Campus Umeå.",
+   "tagg": "bostad"
+  },
+  {
+   "rubrik": "Tre träd för varje träd",
+   "text": "Så tar vi hand om skogen vi bygger av.",
+   "tagg": "natur"
+  }
+ ]
 }

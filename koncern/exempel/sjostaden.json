@@ -192,5 +192,89 @@
   "epost": "info@sjostaden.se",
   "orgnr": "556000-0000"
  },
- "intro_rubrik": "Vi tror på stadens kraft"
+ "intro_rubrik": "Vi tror på stadens kraft",
+ "tagline": "Där Stockholm möts",
+ "vagval_rubrik": "Vad letar du efter?",
+ "tjanster": [
+  {
+   "titel": "Lediga kontor",
+   "ikon": "kontor",
+   "href": "verksamhet.html#omr-0"
+  },
+  {
+   "titel": "Butik & restaurang",
+   "ikon": "lada",
+   "href": "verksamhet.html#omr-1"
+  },
+  {
+   "titel": "Flexkontor",
+   "ikon": "portfolj",
+   "href": "verksamhet.html#omr-3"
+  },
+  {
+   "titel": "Stadsutveckling",
+   "ikon": "karta",
+   "href": "verksamhet.html#omr-2"
+  },
+  {
+   "titel": "För hyresgäster",
+   "ikon": "nyckel",
+   "href": "om-oss.html#kontakt"
+  },
+  {
+   "titel": "Hållbarhet",
+   "ikon": "lov",
+   "href": "hallbarhet.html"
+  },
+  {
+   "titel": "Investerare",
+   "ikon": "graf",
+   "href": "investerare.html"
+  },
+  {
+   "titel": "Jobba hos oss",
+   "ikon": "folk",
+   "href": "karriar.html"
+  }
+ ],
+ "bolag": [
+  {
+   "namn": "Sjöstaden Kontor",
+   "segment": "Kontor",
+   "rubrik": "Arbetsplatser i stadens bästa lägen",
+   "text": "Hållbara kontor i city, Hammarby och Solna.",
+   "tagg": "interior"
+  },
+  {
+   "namn": "Hamnen Work",
+   "segment": "Flexkontor",
+   "rubrik": "Flexibla kontor och mötesrum",
+   "text": "Coworking och projektrum för företag i förändring.",
+   "tagg": "interior"
+  },
+  {
+   "namn": "Sjöstaden Stadsutveckling",
+   "segment": "Utveckling",
+   "rubrik": "Hela kvarter som lever dygnet runt",
+   "text": "Vi förädlar områden tillsammans med staden.",
+   "tagg": "stad"
+  }
+ ],
+ "berattelser": [
+  {
+   "rubrik": "Glasbruket står klart",
+   "text": "18 000 kvadratmeter kontor i trä och glas i Hammarby Sjöstad.",
+   "tagg": "kontor"
+  },
+  {
+   "rubrik": "Ett torg i stället för en galleria",
+   "text": "Torghuset i Solna öppnas upp mot gatan.",
+   "tagg": "stad"
+  },
+  {
+   "rubrik": "Grön obligation om 1 miljard",
+   "text": "Finansierar energieffektiviseringar i hela beståndet.",
+   "tagg": "kontor"
+  }
+ ]
 }
