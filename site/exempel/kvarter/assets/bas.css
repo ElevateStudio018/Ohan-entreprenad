@@ -882,3 +882,75 @@ body[data-motiv="rutnat"] .statement-bild::after { right: 12px; top: 8px; }
 .snabb-band a { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: clamp(22px, 2.6vw, 36px) clamp(10px, 1.4vw, 24px); border-left: 1px solid rgba(0,0,0,.15); text-decoration: none; font: var(--w-r) clamp(18px, 1.6vw, 24px)/1.2 var(--font-r); letter-spacing: var(--tr-r); }
 .snabb-band a:first-child { border-left: 0; }
 .snabb-band a:hover .pil { transform: translateX(5px); }
+
+/* =====================================================================================================================
+   Version 5: helskärmshero på alla varianter + nya block (tidslinje, kontor, demo-rad)
+   ===================================================================================================================== */
+:root { --topp-h: 36px; --hero-h: calc(100svh - var(--topp-h)); }
+/* Alla heroer fyller skärmen; headern ligger transparent ovanpå */
+.hero-helskarm .bildspel, .hero-helskarm .bild-slide, .hero-centrerad .bildspel, .hero-centrerad .bild-slide { min-height: var(--hero-h); }
+.hero-kurs { min-height: var(--hero-h); }
+/* band: färgbanden finns kvar, bilden fyller skärmen */
+.hero-band .band-bild { height: var(--hero-h); min-height: 560px; border-radius: 0; }
+.hero-band .band-ram { grid-template-columns: clamp(10px, 1.6vw, 22px) 1fr clamp(10px, 1.6vw, 22px); gap: 0; }
+.hero-band .band-ram::before, .hero-band .band-ram::after { margin: 0; }
+.hero-band .slide-text { bottom: clamp(48px, 10vh, 120px); }
+/* split: hela skärmhöjden */
+.hero-split { min-height: var(--hero-h); }
+@media (min-width: 960px) { .hero-split { min-height: var(--hero-h); } .hero-split .split-text { padding-top: calc(var(--head-h) + 40px); } }
+@media (max-width: 959px) { .hero-split .split-text { padding-top: calc(var(--head-h) + 32px); } .hero-split .split-bild { min-height: 48svh; } }
+body[data-hero="split"] .hero-split .split-text { color: var(--c-split-ink); }
+/* statement: jätterubrik ovanpå helskärmsbild */
+.hero-statement.full { position: relative; display: flex; align-items: flex-end; min-height: var(--hero-h); padding: 0; color: #fff; background: var(--c-dark); }
+.hero-statement.full > .bild-fyll::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.05) 35%, rgba(0,0,0,.7)); }
+.hero-statement.full .wrap { position: relative; z-index: 1; padding-block: calc(var(--head-h) + 80px) clamp(48px, 9vh, 110px); }
+.hero-statement.full h1 { color: #fff; font-size: calc(clamp(46px, 8.6vw, 140px) * var(--skala-r)); max-width: 11em; }
+.hero-statement.full .etikett { color: #fff; opacity: .85; }
+.hero-statement.full .ingress { color: #fff; opacity: .92; }
+.hero-statement.full .statement-rad { margin-top: 28px; }
+.hero-statement.full .textlank { color: #fff; }
+/* mosaik: tre bilder fyller skärmen, texten ovanpå */
+.hero-mosaik.full { position: relative; min-height: var(--hero-h); padding: 0; color: #fff; display: grid; }
+.hero-mosaik.full .mosaik-bg { position: absolute; inset: 0; display: grid; grid-template-columns: 1.6fr 1fr; grid-template-rows: 1fr 1fr; gap: 6px; background: var(--c-dark); }
+.hero-mosaik.full .mosaik-bg > div { position: relative; overflow: hidden; }
+.hero-mosaik.full .mosaik-bg > div:first-child { grid-row: 1 / 3; }
+.hero-mosaik.full .mosaik-bg::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(0,0,0,.72) 0%, rgba(0,0,0,.35) 55%, rgba(0,0,0,.1)); }
+.hero-mosaik.full .wrap { position: relative; z-index: 1; align-self: end; padding-block: calc(var(--head-h) + 80px) clamp(48px, 9vh, 110px); }
+.hero-mosaik.full h1 { color: #fff; max-width: 12em; }
+.hero-mosaik.full .ingress { color: #fff; opacity: .92; max-width: 34em; margin-top: 20px; }
+.hero-mosaik.full .textlank { color: #fff; }
+@media (max-width: 699px) { .hero-mosaik.full .mosaik-bg { grid-template-columns: 1fr; grid-template-rows: 1fr; } .hero-mosaik.full .mosaik-bg > div:not(:first-child) { display: none; } }
+/* sök: helskärmsbild med sökkortet ovanpå */
+.hero-sok.full { position: relative; display: flex; align-items: flex-end; min-height: var(--hero-h); }
+.hero-sok.full .sok-bild { position: absolute; inset: 0; height: auto; }
+.hero-sok.full .sok-bild .bild-fyll::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.25), rgba(0,0,0,0) 40%, rgba(0,0,0,.35)); }
+.hero-sok.full .sok-in { margin: 0; padding-block: calc(var(--head-h) + 60px) clamp(32px, 7vh, 80px); position: relative; z-index: 1; }
+/* Alla heroer: transparent header ovanpå */
+body.har-hero[data-header="transparent"] .hero-split .split-text { padding-top: calc(var(--head-h) + 40px); }
+
+/* Tidslinje */
+.tidslinje { position: relative; display: grid; gap: 0; }
+.tidslinje::before { content: ""; position: absolute; left: 92px; top: 6px; bottom: 6px; width: 2px; background: var(--c-line); }
+.pa-mork .tidslinje::before, .pa-farg .tidslinje::before { background: rgba(255,255,255,.25); }
+.tidslinje li { position: relative; display: grid; grid-template-columns: 76px 1fr; gap: 40px; padding: 14px 0; }
+.tidslinje li::after { content: ""; position: absolute; left: 86px; top: 22px; width: 14px; height: 14px; border-radius: 50%; background: var(--c-p); box-shadow: 0 0 0 4px var(--c-bg); }
+.pa-ton .tidslinje li::after { box-shadow: 0 0 0 4px var(--c-ton); }
+.pa-mork .tidslinje li::after, .pa-farg .tidslinje li::after { background: var(--c-a); box-shadow: none; }
+.tidslinje b { font: var(--w-siffra) 22px/1.3 var(--font-r); color: var(--c-siffra); text-align: right; }
+.pa-mork .tidslinje b, .pa-farg .tidslinje b { color: inherit; }
+.tidslinje span { font-size: 16.5px; }
+.tl-grid { display: grid; gap: 40px; }
+@media (min-width: 960px) { .tl-grid { grid-template-columns: 1fr 1.5fr; gap: 72px; align-items: start; } .tl-grid .tl-head { position: sticky; top: calc(var(--head-h) + 40px); } }
+/* Kontor */
+.kontor { display: grid; gap: 1px; background: var(--c-line); border: 1px solid var(--c-line); grid-template-columns: repeat(2, 1fr); }
+@media (min-width: 760px) { .kontor { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); } }
+@media (min-width: 1100px) { .kontor:has(li:nth-child(10)) { grid-template-columns: repeat(5, 1fr); } }
+.kontor li { padding: 22px; background: var(--c-bg); }
+.pa-ton .kontor li { background: var(--c-ton); }
+.kontor b { display: block; font: var(--w-r) 20px/1.2 var(--font-r); color: var(--c-rubrik); }
+.kontor span { display: block; margin-top: 6px; font-size: 14px; color: var(--c-mut); }
+/* Demo-rad (förslag, inte officiell webbplats) */
+.demo-rad { position: fixed; left: 12px; bottom: 12px; z-index: 90; max-width: min(420px, calc(100% - 24px)); background: rgba(17,17,17,.92); color: #fff; font: 600 11.5px/1.4 system-ui, sans-serif; padding: 8px 14px; border-radius: 999px; box-shadow: 0 4px 16px rgba(0,0,0,.25); pointer-events: none; }
+.demo-rad a { color: #fff; }
+/* Split-hero har fast header ovanför – fyll resten av skärmen */
+@media (min-width: 960px) { body[data-hero="split"] .hero-split { min-height: calc(var(--hero-h) - var(--head-h)); } body[data-hero="split"] .hero-split .split-text { padding-top: 72px; } }

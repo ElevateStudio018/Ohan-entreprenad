@@ -213,9 +213,15 @@ class Sajt:
     def textlank(self, text, href):
         return f'<a class="textlank" href="{href}"><span>{E(text)}</span>{PIL}</a>'
 
+    def demo_rad(self):
+        d = self.b.get("demo")
+        if not d:
+            return ""
+        return f'<div class="demo-rad" role="note">{E(d)}</div>'
+
     def body_attr(self, har_hero):
         p = self.p
-        attr = {"hero": p["hero"], "header": p["header"], "meny": p["meny"], "ruta": p.get("ruta", "solid"), "kort": p.get("kort", "overlay"),
+        attr = {"hero": p["hero"], "header": "transparent" if har_hero and p["hero"] != "split" else ("ljus" if p["header"] == "transparent" else p["header"]), "meny": p["meny"], "ruta": p.get("ruta", "solid"), "kort": p.get("kort", "overlay"),
                 "knapp": p.get("knappstil", "fylld"), "projekt": p.get("projekt", "karusell"), "nyheter": p.get("nyheter", "lista"),
                 "sidhero": p.get("sidhero", "bild"), "motiv": p.get("motiv", "inget")}
         return ('class="har-hero" ' if har_hero else "") + " ".join(f'data-{k}="{v}"' for k, v in attr.items())
@@ -295,7 +301,7 @@ class Sajt:
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>{E(titel)}</title>
 <meta name="description" content="{E(beskrivning)}">
-<meta name="theme-color" content="{p["farger"]["primar"]}">
+<meta name="theme-color" content="{p["farger"]["primar"]}">{'<meta name="robots" content="noindex, nofollow">' if self.b.get("demo") else ""}
 <meta property="og:title" content="{E(titel)}"><meta property="og:description" content="{E(beskrivning)}"><meta property="og:image" content="{Bilder.prefix}{self.hero_bild["id"]}.jpg">
 {google_fonts(p)}
 <link rel="stylesheet" href="assets/tokens.css?v={ver(a / "tokens.css")}">
@@ -303,7 +309,7 @@ class Sajt:
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 </head>
 <body {self.body_attr(har_hero)}>
-{self.header(aktiv)}
+{self.demo_rad()}{self.header(aktiv)}
 <main id="main">
 {main}
 </main>
@@ -360,11 +366,10 @@ class Sajt:
             b2 = self.b.get("sok", {})
             ort = "".join(f"<option>{E(o)}</option>" for o in b2.get("orter", ["Stockholm", "Uppsala", "Göteborg", "Malmö"]))
             typ = "".join(f"<option>{E(o)}</option>" for o in b2.get("typer", ["Lägenhet", "Radhus", "Parhus"]))
-            return f'''<section class="hero hero-sok" aria-labelledby="h1"><div class="sok-bild"><div class="bild-fyll">{img}</div><span class="foto-not">Illustrationsbild</span></div>
+            return f'''<section class="hero hero-sok full" aria-labelledby="h1"><div class="sok-bild"><div class="bild-fyll">{img}</div><span class="foto-not">Illustrationsbild</span></div>
   <div class="wrap sok-in"><div class="sok-kort"><span class="etikett">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1><p class="ingress">{E(b["hero_text"])}</p>
-  <form class="sok-form" action="projekt.html"><label><span>Var vill du bo?</span><select name="ort"><option>Alla orter</option>{ort}</select></label><label><span>Bostadstyp</span><select name="typ"><option>Alla typer</option>{typ}</select></label>
-  <button class="knapp knapp-primar" type="submit">{ikon("sok")}<span>{E(b2.get("knapp", "Hitta bostad"))}</span></button></form>
-  <p class="sok-under">{self.textlank("Se alla projekt", "projekt.html")}</p></div></div></section>'''
+  <form class="sok-form" action="projekt.html"><label><span>Var?</span><select name="ort"><option>Alla orter</option>{ort}</select></label><label><span>Typ</span><select name="typ"><option>Alla typer</option>{typ}</select></label>
+  <button class="knapp knapp-primar" type="submit">{ikon("sok")}<span>{E(b2.get("knapp", "Sök"))}</span></button></form></div></div></section>'''
         if h == "kurs":
             inv = b["investerare"]
             upp = inv.get("forandring", "+").startswith("+")
@@ -375,15 +380,13 @@ class Sajt:
   <svg viewBox="0 0 300 80" preserveAspectRatio="none" aria-hidden="true"><path d="M0 64 L25 58 L50 62 L75 48 L100 52 L125 40 L150 44 L175 30 L200 34 L225 22 L250 26 L275 12 L300 16" fill="none" stroke="currentColor" stroke-width="2.5"/><path d="M0 64 L25 58 L50 62 L75 48 L100 52 L125 40 L150 44 L175 30 L200 34 L225 22 L250 26 L275 12 L300 16 V80 H0Z" fill="currentColor" opacity=".12"/></svg>
   <dl>{"".join(f"<div><dt>{E(n['etikett'])}</dt><dd>{E(n['varde'])} {E(n['enhet'])}</dd></div>" for n in b["nyckeltal"][:3])}</dl><small>Fördröjd kurs. Exempeldata.</small></aside></div><span class="foto-not">Illustrationsbild</span></section>'''
         if h == "statement":
-            anno = ""
-            if self.p.get("motiv") == "rutnat":
-                anno = '<span class="anno anno-a" aria-hidden="true">N 59°19′ E 18°04′</span><span class="anno anno-b" aria-hidden="true">SKALA 1:500 · BLAD 01</span>'
-            return f'''<section class="hero hero-statement" aria-labelledby="h1">{anno}<div class="wrap"><span class="etikett">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
-  <div class="statement-rad"><p class="ingress">{E(b["hero_text"])}</p>{btns}</div><div class="statement-bild"><div class="bild-fyll">{img}</div><span class="foto-not">Illustrationsbild</span></div></div></section>'''
+            return f'''<section class="hero hero-statement full" aria-labelledby="h1"><div class="bild-fyll">{img}</div><div class="wrap"><span class="etikett">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
+  <div class="statement-rad"><p class="ingress">{E(b["hero_text"])}</p><div class="knappar">{self.knapp("Upptäck vår verksamhet", "verksamhet.html", "ljus")}{self.textlank("Se våra projekt", "projekt.html")}</div></div></div><span class="foto-not">Illustrationsbild</span></section>'''
         if h == "mosaik":
-            fig = "".join(f'<figure><div class="bild-fyll">{self.bilder.img(x, "(min-width:900px) 33vw, 50vw")}</div></figure>' for x in [self.hero_bild, self.bilder.ta("people"), self.bilder.ta(), self.bilder.ta("natur")])
-            return f'''<section class="hero hero-mosaik" aria-labelledby="h1"><div class="wrap"><div class="mosaik-topp"><div><span class="etikett">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1></div>
-  <div><p class="ingress">{E(b["hero_text"])}</p>{btns}</div></div><div class="mosaik">{fig}</div></div></section>'''
+            extra = [self.bilder.ta(t) for t in self.p.get("mosaik_taggar", ["people", "natur"])]
+            bg = "".join(f'<div class="bild-fyll" style="position:relative">{self.bilder.img(x, "(min-width:700px) 50vw, 100vw", lazy=k > 0)}</div>' for k, x in enumerate([self.hero_bild] + extra))
+            return f'''<section class="hero hero-mosaik full" aria-labelledby="h1"><div class="mosaik-bg">{bg}</div><div class="wrap"><span class="etikett" style="color:#fff;opacity:.85">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
+  <p class="ingress">{E(b["hero_text"])}</p><div class="knappar">{self.knapp("Upptäck vår verksamhet", "verksamhet.html", "ljus")}{self.textlank("Se våra projekt", "projekt.html")}</div></div><span class="foto-not">Illustrationsbild</span></section>'''
         raise ValueError(h)
 
     # --- Sektioner ------------------------------------------------------------------------------------------------
@@ -583,6 +586,18 @@ class Sajt:
         return f'''<section class="sek {self.bg("citat")}" aria-label="Citat"><div class="wrap"><figure class="citat reveal"><div class="citat-bild">{self.bilder.img(bild, "320px")}</div>
   <div><blockquote><p>”{E(c["text"])}”</p></blockquote><figcaption><b>{E(c["namn"])}</b><span>{E(c["roll"])}</span></figcaption></div></figure></div></section>'''
 
+    def s_tidslinje(self):
+        tl = self.b.get("tidslinje") or []
+        li = "".join(f'<li class="reveal"><b>{E(a)}</b><span>{E(t)}</span></li>' for a, t in tl)
+        return f'''<section class="sek {self.bg("tidslinje")}" aria-labelledby="tl-h"><div class="wrap tl-grid"><div class="tl-head"><span class="etikett">Historia</span><h2 id="tl-h">{E(self.b.get("tidslinje_rubrik", "Vår historia"))}</h2>
+  <p class="ingress" style="margin-top:18px">{E(self.b.get("tidslinje_text", ""))}</p></div><ol class="tidslinje">{li}</ol></div></section>'''
+
+    def s_kontor(self):
+        ko = self.b.get("kontor_lista") or []
+        li = "".join(f'<li><b>{E(n)}</b><span>{E(a)}</span></li>' for n, a in ko)
+        return f'''<section class="sek {self.bg("kontor")}" aria-labelledby="ko-h"><div class="wrap"><div class="sek-huvud"><div><span class="etikett">Nära dig</span><h2 id="ko-h">{E(self.b.get("kontor_rubrik", "Våra kontor"))}</h2></div>
+  <p class="ingress" style="max-width:32em">{E(self.b.get("kontor_text", ""))}</p></div><ul class="kontor">{li}</ul></div></section>'''
+
     def s_service(self):
         r = self.b.get("service") or [("Lediga lägenheter", "hus", "projekt.html"), ("Felanmälan", "kugge", "om-oss.html#kontakt"), ("Bostadskö", "dokument", "om-oss.html#kontakt"), ("Mina sidor", "nyckel", "#")]
         a = "".join(f'<a href="{h}">{ikon(i)}<span>{E(t)}</span>{PIL}</a>' for t, i, h in r)
@@ -717,10 +732,10 @@ class Sajt:
         p = self.p
         delar = {"vagval": self.s_vagval, "berattelser": self.s_berattelser, "panel": lambda: self.s_panel(p.get("panel_omvand", False)),
                  "bolag": self.s_bolag, "siffror": self.s_siffror, "projekt": self.s_projekt, "hb": self.s_hb, "ir": self.s_ir,
-                 "nyheter": self.s_nyheter, "snabb": self.s_snabb, "process": self.s_process, "citat": self.s_citat, "service": self.s_service}
+                 "nyheter": self.s_nyheter, "snabb": self.s_snabb, "process": self.s_process, "citat": self.s_citat, "service": self.s_service, "tidslinje": self.s_tidslinje, "kontor": self.s_kontor}
         ordning = p.get("ordning_lista") or self.ORDNING[p.get("ordning", "a")]
         main = self.hero() + "\n" + "\n".join(delar[d]() for d in ordning)
-        har = p["hero"] in ("helskarm", "centrerad", "kurs")
+        har = True
         self.sida("index.html", f'{self.b["namn"]} – {self.b["slogan"]}', self.b["hero_text"], main, har_hero=har)
 
     # --- Undersidor -----------------------------------------------------------------------------------------------
