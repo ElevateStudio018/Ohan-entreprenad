@@ -54,6 +54,13 @@ koncernkänsla och vilka arketyper som finns). Verktygen ligger i `koncern/`:
    - Använd `--farg` när företaget har en tydlig varumärkesfärg.
    - `--registrera` sparar paketet i `koncern/register.json`, så att nästa sajt undviker det. Glöm aldrig det, och kopiera aldrig
      ett paket från en annan kund eller ett exempel.
+   - Paketet väljer också **egna block**, så att sajten skiljer sig i struktur och inte bara i färg: `block.vagval`
+     (rutor, rader, chips, nummer, cirklar, bildrutor, lankar, register, expertis), `block.bolag` (kort, flikar, lista, tabell, rund,
+     vagg), `block.siffror` (rad, jatte, band, dashboard), `block.nyheter` (lista, tidning), `motiv` (inget, diagonal, kurva, mjuk,
+     linjer, rutnat), `fot` (standard, cta, centrerad), hero (även `sok` för bostadsbolag och `kurs` för börsbolag) och
+     `ordning_lista` (sektionsordningen, med extrablocken `process`, `citat` och `service`). Använder sajten `citat`, `process`,
+     `service` eller bolagsvägg (`vagg`), fyll i `citat`, `process`, `service` eller `lokala_bolag` i briefen (se ekbacka.json,
+     vardtra.json, lindhem.json och stenhamra.json).
    - Är användaren inte nöjd med paketet: kör om med ett annat `--stil` eller justera enstaka fält i `paket.json` (till exempel
      `farger.primar`) – men se till att sajten fortfarande skiljer sig från de andra i registret (`python3 koncern/paket.py lista`).
 

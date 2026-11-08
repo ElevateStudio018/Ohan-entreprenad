@@ -1,6 +1,6 @@
 {
  "version": 2,
- "id": "5df0ea305a",
+ "id": "76b2c6594c",
  "for": "Arcus Samhällsfastigheter AB",
  "arketyp": "redaktionell",
  "fro": "e390a6e6",
@@ -17,11 +17,11 @@
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
   "logo_vikt": 600,
-  "logo_versaler": true,
-  "logo_spatiering": "0.06em",
+  "logo_versaler": false,
+  "logo_spatiering": "-0.03em",
   "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "rubrik"
+  "logo_font": "text"
  },
  "palett": "skog-salvia",
  "farger": {
@@ -75,19 +75,37 @@
   "hero": 0
  },
  "hero": "statement",
- "header": "ljus",
- "meny": "burger",
+ "header": "centrerad",
+ "meny": "inline",
  "ruta": "solid",
  "panel": "ton",
  "kort": "under",
  "knappstil": "fylld",
- "projekt": "rutnat",
+ "projekt": "karusell",
  "nyheter": "kolumner",
- "rytm": "ljus",
- "ordning": "b",
+ "rytm": "farg",
+ "ordning": "c",
  "sidhero": "ton",
+ "motiv": "linjer",
+ "block": {
+  "vagval": "register",
+  "bolag": "lista",
+  "siffror": "rad",
+  "nyheter": "tidning"
+ },
+ "ordning_lista": [
+  "vagval",
+  "bolag",
+  "berattelser",
+  "siffror",
+  "hb",
+  "projekt",
+  "nyheter",
+  "ir"
+ ],
  "panel_omvand": true,
  "sidfot": "mork",
+ "fot": "centrerad",
  "sidfot_stor_logga": true,
  "logga": {
   "form": "bage",
@@ -101,8 +119,18 @@
   "kontor"
  ],
  "maxbredd": 1400,
- "header_hojd": 88,
+ "header_hojd": 80,
+ "bakgrund": {
+  "vagval": "",
+  "bolag": "",
+  "berattelser": "",
+  "siffror": "",
+  "hb": "pa-ton",
+  "projekt": "",
+  "nyheter": "",
+  "ir": ""
+ },
  "hero_tagg": "people",
  "exempel": true,
- "min_avstand": 12.51
+ "min_avstand": 17.11
 }

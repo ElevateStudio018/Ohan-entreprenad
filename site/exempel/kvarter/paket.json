@@ -1,6 +1,6 @@
 {
  "version": 2,
- "id": "2caed2d07d",
+ "id": "3605ff0c83",
  "for": "Kvarter Invest AB (publ)",
  "arketyp": "finans",
  "fro": "08c221a0",
@@ -12,7 +12,7 @@
   "rubrik_vikt": 600,
   "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 0.94,
+  "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
@@ -21,7 +21,7 @@
   "logo_spatiering": "0.1em",
   "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "rubrik"
+  "logo_font": "text"
  },
  "palett": "stål-himmel",
  "farger": {
@@ -61,9 +61,9 @@
   "sidfot_knapp": "#6fa8dc",
   "sidfot_knapp_ink": "#14171b",
   "sidfot_linje": "rgba(255,255,255,.18)",
-  "split": "#eef2f5",
-  "split_ink": "#14171b",
-  "statement": "#eef2f5",
+  "split": "#2b3a4a",
+  "split_ink": "#ffffff",
+  "statement": "#ffffff",
   "band": "#757f89",
   "band2": "#6fa8dc"
  },
@@ -74,26 +74,45 @@
   "bild": 4,
   "hero": 4
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "kurs",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
  "kort": "overlay",
  "knappstil": "fylld",
- "projekt": "karusell",
- "nyheter": "kolumner",
+ "projekt": "rutnat",
+ "nyheter": "lista",
  "rytm": "ton",
  "ordning": "b",
  "sidhero": "bild",
- "panel_omvand": false,
+ "motiv": "inget",
+ "block": {
+  "vagval": "lankar",
+  "bolag": "tabell",
+  "siffror": "dashboard",
+  "nyheter": "lista"
+ },
+ "ordning_lista": [
+  "siffror",
+  "vagval",
+  "ir",
+  "bolag",
+  "projekt",
+  "hb",
+  "berattelser",
+  "nyheter",
+  "snabb"
+ ],
+ "panel_omvand": true,
  "sidfot": "mork",
+ "fot": "cta",
  "sidfot_stor_logga": false,
  "logga": {
   "form": "kvadrat",
   "farg": "#2b3a4a",
   "ink": "#ffffff",
-  "gemener": true,
+  "gemener": false,
   "tagline": true
  },
  "bildtyngd": [
@@ -102,7 +121,17 @@
  ],
  "maxbredd": 1400,
  "header_hojd": 88,
+ "bakgrund": {
+  "siffror": "pa-ton",
+  "vagval": "",
+  "ir": "",
+  "bolag": "pa-yta",
+  "projekt": "",
+  "hb": "pa-mork",
+  "berattelser": "",
+  "nyheter": "pa-yta"
+ },
  "hero_tagg": "kontor",
  "exempel": true,
- "min_avstand": 10.98
+ "min_avstand": 18.33
 }

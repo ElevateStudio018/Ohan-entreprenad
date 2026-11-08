@@ -54,6 +54,27 @@
     });
   });
 
+  // Bolag i flikar: klick eller piltangenter byter bolag.
+  document.querySelectorAll("[data-flikar]").forEach(function (f) {
+    var flikar = f.querySelectorAll('[role="tab"]');
+    var valj = function (k) {
+      flikar.forEach(function (t, i) {
+        var vald = i === k;
+        t.setAttribute("aria-selected", String(vald));
+        t.tabIndex = vald ? 0 : -1;
+        document.getElementById(t.getAttribute("aria-controls")).hidden = !vald;
+      });
+    };
+    flikar.forEach(function (t, i) {
+      t.addEventListener("click", function () { valj(i); });
+      t.addEventListener("keydown", function (e) {
+        if (e.key === "ArrowDown" || e.key === "ArrowRight") { e.preventDefault(); valj((i + 1) % flikar.length); flikar[(i + 1) % flikar.length].focus(); }
+        if (e.key === "ArrowUp" || e.key === "ArrowLeft") { e.preventDefault(); var n = (i - 1 + flikar.length) % flikar.length; valj(n); flikar[n].focus(); }
+      });
+    });
+    valj(0);
+  });
+
   // Innehåll som glider in när det syns.
   var els = document.querySelectorAll(".reveal");
   if ("IntersectionObserver" in window) {

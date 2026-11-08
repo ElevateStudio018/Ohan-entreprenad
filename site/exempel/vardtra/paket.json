@@ -1,6 +1,6 @@
 {
  "version": 2,
- "id": "b0a64c7ca8",
+ "id": "ae7dee69c9",
  "for": "Vårdträ Bygg AB",
  "arketyp": "skandinavisk",
  "fro": "9fba0899",
@@ -12,16 +12,16 @@
   "rubrik_vikt": 500,
   "spatiering": "-0.015em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
   "logo_vikt": 800,
   "logo_versaler": false,
-  "logo_spatiering": "0.06em",
+  "logo_spatiering": "-0.01em",
   "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "rubrik"
+  "logo_font": "text"
  },
  "palett": "oliv-guld",
  "farger": {
@@ -75,20 +75,39 @@
   "hero": 12
  },
  "hero": "mosaik",
- "header": "ljus",
+ "header": "pill",
  "meny": "burger",
  "ruta": "vanster",
  "panel": "primar",
  "kort": "overlay",
  "knappstil": "fylld",
  "projekt": "rutnat",
- "nyheter": "lista",
+ "nyheter": "kolumner",
  "rytm": "ljus",
- "ordning": "c",
- "sidhero": "bild",
+ "ordning": "a",
+ "sidhero": "ton",
+ "motiv": "inget",
+ "block": {
+  "vagval": "bildrutor",
+  "bolag": "kort",
+  "siffror": "rad",
+  "nyheter": "lista"
+ },
+ "ordning_lista": [
+  "process",
+  "vagval",
+  "berattelser",
+  "siffror",
+  "bolag",
+  "projekt",
+  "hb",
+  "panel",
+  "nyheter"
+ ],
  "panel_omvand": false,
  "sidfot": "primar",
- "sidfot_stor_logga": false,
+ "fot": "centrerad",
+ "sidfot_stor_logga": true,
  "logga": {
   "form": "blad",
   "farg": "#4b5a2a",
@@ -101,8 +120,19 @@
   "natur"
  ],
  "maxbredd": 1320,
- "header_hojd": 80,
+ "header_hojd": 88,
+ "bakgrund": {
+  "process": "pa-ton",
+  "vagval": "",
+  "berattelser": "",
+  "siffror": "pa-farg",
+  "bolag": "",
+  "projekt": "pa-yta",
+  "hb": "",
+  "panel": "",
+  "nyheter": ""
+ },
  "hero_tagg": "tra",
  "exempel": true,
- "min_avstand": 13.47
+ "min_avstand": 17.99
 }

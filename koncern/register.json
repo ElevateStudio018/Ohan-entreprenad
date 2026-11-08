@@ -1,7 +1,7 @@
 [
  {
   "version": 2,
-  "id": "a558603c9d",
+  "id": "0d03bdd29c",
   "for": "Norrvik Gruppen AB",
   "arketyp": "monument",
   "fro": "49db4f48",
@@ -18,11 +18,11 @@
    "rubrik_vikter": "400;500;600;700",
    "siffra_vikt": 500,
    "logo_vikt": 800,
-   "logo_versaler": false,
-   "logo_spatiering": "-0.01em",
-   "nav_versaler": true,
+   "logo_versaler": true,
+   "logo_spatiering": "0.06em",
+   "nav_versaler": false,
    "knapp_versaler": false,
-   "logo_font": "rubrik"
+   "logo_font": "text"
   },
   "palett": "marin-mint",
   "farger": {
@@ -83,12 +83,32 @@
   "kort": "overlay",
   "knappstil": "fylld",
   "projekt": "karusell",
-  "nyheter": "lista",
-  "rytm": "ton",
+  "nyheter": "kolumner",
+  "rytm": "farg",
   "ordning": "a",
   "sidhero": "bild",
-  "panel_omvand": false,
+  "motiv": "inget",
+  "block": {
+   "vagval": "rader",
+   "bolag": "flikar",
+   "siffror": "jatte",
+   "nyheter": "lista"
+  },
+  "ordning_lista": [
+   "vagval",
+   "bolag",
+   "siffror",
+   "berattelser",
+   "projekt",
+   "hb",
+   "panel",
+   "nyheter",
+   "ir",
+   "snabb"
+  ],
+  "panel_omvand": true,
   "sidfot": "mork",
+  "fot": "standard",
   "sidfot_stor_logga": true,
   "logga": {
    "form": "ring",
@@ -101,11 +121,22 @@
    "bygg",
    "people"
   ],
-  "maxbredd": 1400,
-  "header_hojd": 88,
+  "maxbredd": 1360,
+  "header_hojd": 76,
+  "bakgrund": {
+   "vagval": "",
+   "bolag": "pa-ton",
+   "siffror": "",
+   "berattelser": "pa-mork",
+   "projekt": "",
+   "hb": "pa-ton",
+   "panel": "",
+   "nyheter": "",
+   "ir": "pa-yta"
+  },
   "hero_tagg": "bygg",
   "exempel": true,
-  "min_avstand": 11.32
+  "min_avstand": 16.43
  },
  {
   "version": 2,
@@ -213,11 +244,12 @@
   "header_hojd": 80,
   "hero_tagg": "stad",
   "exempel": true,
-  "min_avstand": 14.23
+  "min_avstand": 16.43,
+  "fryst": true
  },
  {
   "version": 2,
-  "id": "e4ec83adee",
+  "id": "a9f75399b1",
   "for": "Ekbacka Bostad AB",
   "arketyp": "varm-bostad",
   "fro": "350e80e5",
@@ -229,14 +261,14 @@
    "rubrik_vikt": 500,
    "spatiering": "-0.02em",
    "versaler": false,
-   "skala": 1.06,
+   "skala": 1.0,
    "rubrik_fallback": "Georgia, serif",
    "rubrik_vikter": "400;500;600;700",
    "siffra_vikt": 500,
    "logo_vikt": 600,
    "logo_versaler": false,
-   "logo_spatiering": "0.06em",
-   "nav_versaler": false,
+   "logo_spatiering": "-0.01em",
+   "nav_versaler": true,
    "knapp_versaler": false,
    "logo_font": "rubrik"
   },
@@ -280,7 +312,7 @@
    "sidfot_linje": "rgba(255,255,255,.18)",
    "split": "#f8efe7",
    "split_ink": "#1b1a18",
-   "statement": "#ffffff",
+   "statement": "#f8efe7",
    "band": "#c78675",
    "band2": "#f0b38f"
   },
@@ -291,20 +323,39 @@
    "bild": 20,
    "hero": 16
   },
-  "hero": "split",
-  "header": "ljus",
+  "hero": "sok",
+  "header": "pill",
   "meny": "inline",
   "ruta": "vanster",
   "panel": "ton",
   "kort": "under",
   "knappstil": "fylld",
   "projekt": "rutnat",
-  "nyheter": "lista",
-  "rytm": "ljus",
+  "nyheter": "kolumner",
+  "rytm": "ton",
   "ordning": "c",
   "sidhero": "bild",
+  "motiv": "mjuk",
+  "block": {
+   "vagval": "chips",
+   "bolag": "kort",
+   "siffror": "rad",
+   "nyheter": "lista"
+  },
+  "ordning_lista": [
+   "vagval",
+   "projekt",
+   "citat",
+   "bolag",
+   "berattelser",
+   "siffror",
+   "hb",
+   "panel",
+   "nyheter"
+  ],
   "panel_omvand": true,
   "sidfot": "primar",
+  "fot": "cta",
   "sidfot_stor_logga": false,
   "logga": {
    "form": "tak",
@@ -319,13 +370,24 @@
   ],
   "maxbredd": 1320,
   "header_hojd": 76,
+  "bakgrund": {
+   "vagval": "pa-ton",
+   "projekt": "",
+   "citat": "pa-farg",
+   "bolag": "",
+   "berattelser": "pa-ton",
+   "siffror": "",
+   "hb": "pa-ton",
+   "panel": "",
+   "nyheter": ""
+  },
   "hero_tagg": "bostad",
   "exempel": true,
-  "min_avstand": 13.47
+  "min_avstand": 17.6
  },
  {
   "version": 2,
-  "id": "c5b5d74a33",
+  "id": "fa09a606f4",
   "for": "Tornberg Infra AB",
   "arketyp": "industriell",
   "fro": "51dd7649",
@@ -343,7 +405,7 @@
    "siffra_vikt": 600,
    "logo_vikt": 800,
    "logo_versaler": true,
-   "logo_spatiering": "-0.03em",
+   "logo_spatiering": "0.06em",
    "nav_versaler": true,
    "knapp_versaler": true,
    "logo_font": "rubrik"
@@ -389,9 +451,9 @@
    "sidfot_knapp": "#f5b400",
    "sidfot_knapp_ink": "#14171b",
    "sidfot_linje": "rgba(255,255,255,.18)",
-   "split": "#121417",
+   "split": "#1f2328",
    "split_ink": "#ffffff",
-   "statement": "#ffffff",
+   "statement": "#f3f1ec",
    "band": "#6d7073",
    "band2": "#f5b400"
   },
@@ -409,13 +471,32 @@
   "panel": "mork",
   "kort": "overlay",
   "knappstil": "fylld",
-  "projekt": "karusell",
+  "projekt": "rutnat",
   "nyheter": "lista",
   "rytm": "mork",
-  "ordning": "a",
-  "sidhero": "bild",
+  "ordning": "c",
+  "sidhero": "ton",
+  "motiv": "diagonal",
+  "block": {
+   "vagval": "nummer",
+   "bolag": "kort",
+   "siffror": "band",
+   "nyheter": "tidning"
+  },
+  "ordning_lista": [
+   "siffror",
+   "vagval",
+   "berattelser",
+   "bolag",
+   "projekt",
+   "panel",
+   "hb",
+   "nyheter",
+   "snabb"
+  ],
   "panel_omvand": true,
   "sidfot": "mork",
+  "fot": "cta",
   "sidfot_stor_logga": false,
   "logga": {
    "form": "staplar",
@@ -430,15 +511,25 @@
   ],
   "maxbredd": 1320,
   "header_hojd": 80,
+  "bakgrund": {
+   "siffror": "pa-accent",
+   "vagval": "",
+   "berattelser": "pa-mork",
+   "bolag": "",
+   "projekt": "pa-yta",
+   "panel": "",
+   "hb": "pa-mork",
+   "nyheter": ""
+  },
   "hero_tagg": "anlaggning",
   "exempel": true,
-  "min_avstand": 11.32
+  "min_avstand": 18.33
  },
  {
   "version": 2,
-  "id": "03aff2bd0a",
+  "id": "97f86c2b1d",
   "for": "Lindhem Bostäder AB",
-  "arketyp": "ramad",
+  "arketyp": "grannskap",
   "fro": "e4173a3a",
   "typsnitt": {
    "id": "public-sans",
@@ -448,14 +539,14 @@
    "rubrik_vikt": 600,
    "spatiering": "-0.02em",
    "versaler": false,
-   "skala": 0.94,
+   "skala": 0.88,
    "rubrik_fallback": "system-ui, sans-serif",
    "rubrik_vikter": "400;500;600;700",
    "siffra_vikt": 600,
    "logo_vikt": 800,
    "logo_versaler": true,
-   "logo_spatiering": "-0.01em",
-   "nav_versaler": false,
+   "logo_spatiering": "0.06em",
+   "nav_versaler": true,
    "knapp_versaler": false,
    "logo_font": "rubrik"
   },
@@ -499,16 +590,16 @@
    "sidfot_linje": "rgba(255,255,255,.18)",
    "split": "#0b4a7a",
    "split_ink": "#ffffff",
-   "statement": "#ecf3f9",
+   "statement": "#ffffff",
    "band": "#6089a9",
    "band2": "#ff7a3d"
   },
   "form": {
-   "namn": "kantig",
-   "knapp": 2,
-   "kort": 0,
-   "bild": 0,
-   "hero": 0
+   "namn": "rundad",
+   "knapp": 10,
+   "kort": 14,
+   "bild": 12,
+   "hero": 12
   },
   "hero": "split",
   "header": "ljus",
@@ -516,15 +607,34 @@
   "ruta": "kontur",
   "panel": "primar",
   "kort": "under",
-  "knappstil": "kontur",
+  "knappstil": "fylld",
   "projekt": "rutnat",
-  "nyheter": "lista",
-  "rytm": "ton",
+  "nyheter": "kolumner",
+  "rytm": "mork",
   "ordning": "a",
-  "sidhero": "ton",
-  "panel_omvand": true,
+  "sidhero": "bild",
+  "motiv": "kurva",
+  "block": {
+   "vagval": "cirklar",
+   "bolag": "rund",
+   "siffror": "rad",
+   "nyheter": "lista"
+  },
+  "ordning_lista": [
+   "service",
+   "vagval",
+   "citat",
+   "bolag",
+   "siffror",
+   "berattelser",
+   "projekt",
+   "hb",
+   "nyheter"
+  ],
+  "panel_omvand": false,
   "sidfot": "primar",
-  "sidfot_stor_logga": true,
+  "fot": "cta",
+  "sidfot_stor_logga": false,
   "logga": {
    "form": "punkt",
    "farg": "#0b4a7a",
@@ -536,15 +646,25 @@
    "bostad",
    "hem"
   ],
-  "maxbredd": 1400,
-  "header_hojd": 80,
+  "maxbredd": 1360,
+  "header_hojd": 76,
+  "bakgrund": {
+   "vagval": "",
+   "citat": "pa-ton",
+   "bolag": "",
+   "siffror": "pa-farg",
+   "berattelser": "",
+   "projekt": "pa-ton",
+   "hb": "",
+   "nyheter": "pa-yta"
+  },
   "hero_tagg": "bostad",
   "exempel": true,
-  "min_avstand": 13.06
+  "min_avstand": 18.2
  },
  {
   "version": 2,
-  "id": "5df0ea305a",
+  "id": "76b2c6594c",
   "for": "Arcus Samhällsfastigheter AB",
   "arketyp": "redaktionell",
   "fro": "e390a6e6",
@@ -561,11 +681,11 @@
    "rubrik_vikter": "400;500;600;700",
    "siffra_vikt": 500,
    "logo_vikt": 600,
-   "logo_versaler": true,
-   "logo_spatiering": "0.06em",
+   "logo_versaler": false,
+   "logo_spatiering": "-0.03em",
    "nav_versaler": true,
    "knapp_versaler": false,
-   "logo_font": "rubrik"
+   "logo_font": "text"
   },
   "palett": "skog-salvia",
   "farger": {
@@ -619,19 +739,37 @@
    "hero": 0
   },
   "hero": "statement",
-  "header": "ljus",
-  "meny": "burger",
+  "header": "centrerad",
+  "meny": "inline",
   "ruta": "solid",
   "panel": "ton",
   "kort": "under",
   "knappstil": "fylld",
-  "projekt": "rutnat",
+  "projekt": "karusell",
   "nyheter": "kolumner",
-  "rytm": "ljus",
-  "ordning": "b",
+  "rytm": "farg",
+  "ordning": "c",
   "sidhero": "ton",
+  "motiv": "linjer",
+  "block": {
+   "vagval": "register",
+   "bolag": "lista",
+   "siffror": "rad",
+   "nyheter": "tidning"
+  },
+  "ordning_lista": [
+   "vagval",
+   "bolag",
+   "berattelser",
+   "siffror",
+   "hb",
+   "projekt",
+   "nyheter",
+   "ir"
+  ],
   "panel_omvand": true,
   "sidfot": "mork",
+  "fot": "centrerad",
   "sidfot_stor_logga": true,
   "logga": {
    "form": "bage",
@@ -645,14 +783,24 @@
    "kontor"
   ],
   "maxbredd": 1400,
-  "header_hojd": 88,
+  "header_hojd": 80,
+  "bakgrund": {
+   "vagval": "",
+   "bolag": "",
+   "berattelser": "",
+   "siffror": "",
+   "hb": "pa-ton",
+   "projekt": "",
+   "nyheter": "",
+   "ir": ""
+  },
   "hero_tagg": "people",
   "exempel": true,
-  "min_avstand": 12.51
+  "min_avstand": 17.11
  },
  {
   "version": 2,
-  "id": "b0a64c7ca8",
+  "id": "ae7dee69c9",
   "for": "Vårdträ Bygg AB",
   "arketyp": "skandinavisk",
   "fro": "9fba0899",
@@ -664,16 +812,16 @@
    "rubrik_vikt": 500,
    "spatiering": "-0.015em",
    "versaler": false,
-   "skala": 1.0,
+   "skala": 1.06,
    "rubrik_fallback": "system-ui, sans-serif",
    "rubrik_vikter": "400;500;600;700",
    "siffra_vikt": 500,
    "logo_vikt": 800,
    "logo_versaler": false,
-   "logo_spatiering": "0.06em",
+   "logo_spatiering": "-0.01em",
    "nav_versaler": true,
    "knapp_versaler": false,
-   "logo_font": "rubrik"
+   "logo_font": "text"
   },
   "palett": "oliv-guld",
   "farger": {
@@ -727,20 +875,39 @@
    "hero": 12
   },
   "hero": "mosaik",
-  "header": "ljus",
+  "header": "pill",
   "meny": "burger",
   "ruta": "vanster",
   "panel": "primar",
   "kort": "overlay",
   "knappstil": "fylld",
   "projekt": "rutnat",
-  "nyheter": "lista",
+  "nyheter": "kolumner",
   "rytm": "ljus",
-  "ordning": "c",
-  "sidhero": "bild",
+  "ordning": "a",
+  "sidhero": "ton",
+  "motiv": "inget",
+  "block": {
+   "vagval": "bildrutor",
+   "bolag": "kort",
+   "siffror": "rad",
+   "nyheter": "lista"
+  },
+  "ordning_lista": [
+   "process",
+   "vagval",
+   "berattelser",
+   "siffror",
+   "bolag",
+   "projekt",
+   "hb",
+   "panel",
+   "nyheter"
+  ],
   "panel_omvand": false,
   "sidfot": "primar",
-  "sidfot_stor_logga": false,
+  "fot": "centrerad",
+  "sidfot_stor_logga": true,
   "logga": {
    "form": "blad",
    "farg": "#4b5a2a",
@@ -753,14 +920,25 @@
    "natur"
   ],
   "maxbredd": 1320,
-  "header_hojd": 80,
+  "header_hojd": 88,
+  "bakgrund": {
+   "process": "pa-ton",
+   "vagval": "",
+   "berattelser": "",
+   "siffror": "pa-farg",
+   "bolag": "",
+   "projekt": "pa-yta",
+   "hb": "",
+   "panel": "",
+   "nyheter": ""
+  },
   "hero_tagg": "tra",
   "exempel": true,
-  "min_avstand": 13.47
+  "min_avstand": 17.99
  },
  {
   "version": 2,
-  "id": "2caed2d07d",
+  "id": "3605ff0c83",
   "for": "Kvarter Invest AB (publ)",
   "arketyp": "finans",
   "fro": "08c221a0",
@@ -772,7 +950,7 @@
    "rubrik_vikt": 600,
    "spatiering": "-0.02em",
    "versaler": false,
-   "skala": 0.94,
+   "skala": 1.0,
    "rubrik_fallback": "system-ui, sans-serif",
    "rubrik_vikter": "400;500;600;700",
    "siffra_vikt": 600,
@@ -781,7 +959,7 @@
    "logo_spatiering": "0.1em",
    "nav_versaler": true,
    "knapp_versaler": false,
-   "logo_font": "rubrik"
+   "logo_font": "text"
   },
   "palett": "stål-himmel",
   "farger": {
@@ -821,9 +999,9 @@
    "sidfot_knapp": "#6fa8dc",
    "sidfot_knapp_ink": "#14171b",
    "sidfot_linje": "rgba(255,255,255,.18)",
-   "split": "#eef2f5",
-   "split_ink": "#14171b",
-   "statement": "#eef2f5",
+   "split": "#2b3a4a",
+   "split_ink": "#ffffff",
+   "statement": "#ffffff",
    "band": "#757f89",
    "band2": "#6fa8dc"
   },
@@ -834,26 +1012,45 @@
    "bild": 4,
    "hero": 4
   },
-  "hero": "band",
-  "header": "ljus",
+  "hero": "kurs",
+  "header": "transparent",
   "meny": "inline",
   "ruta": "mork",
   "panel": "mork",
   "kort": "overlay",
   "knappstil": "fylld",
-  "projekt": "karusell",
-  "nyheter": "kolumner",
+  "projekt": "rutnat",
+  "nyheter": "lista",
   "rytm": "ton",
   "ordning": "b",
   "sidhero": "bild",
-  "panel_omvand": false,
+  "motiv": "inget",
+  "block": {
+   "vagval": "lankar",
+   "bolag": "tabell",
+   "siffror": "dashboard",
+   "nyheter": "lista"
+  },
+  "ordning_lista": [
+   "siffror",
+   "vagval",
+   "ir",
+   "bolag",
+   "projekt",
+   "hb",
+   "berattelser",
+   "nyheter",
+   "snabb"
+  ],
+  "panel_omvand": true,
   "sidfot": "mork",
+  "fot": "cta",
   "sidfot_stor_logga": false,
   "logga": {
    "form": "kvadrat",
    "farg": "#2b3a4a",
    "ink": "#ffffff",
-   "gemener": true,
+   "gemener": false,
    "tagline": true
   },
   "bildtyngd": [
@@ -862,13 +1059,23 @@
   ],
   "maxbredd": 1400,
   "header_hojd": 88,
+  "bakgrund": {
+   "siffror": "pa-ton",
+   "vagval": "",
+   "ir": "",
+   "bolag": "pa-yta",
+   "projekt": "",
+   "hb": "pa-mork",
+   "berattelser": "",
+   "nyheter": "pa-yta"
+  },
   "hero_tagg": "kontor",
   "exempel": true,
-  "min_avstand": 10.98
+  "min_avstand": 18.33
  },
  {
   "version": 2,
-  "id": "e809c463c3",
+  "id": "99deb665c0",
   "for": "Stenhamra Installation AB",
   "arketyp": "koncernband",
   "fro": "07439fca",
@@ -880,16 +1087,16 @@
    "rubrik_vikt": 600,
    "spatiering": "-0.03em",
    "versaler": false,
-   "skala": 1.06,
+   "skala": 1.0,
    "rubrik_fallback": "system-ui, sans-serif",
    "rubrik_vikter": "400;500;600;700",
    "siffra_vikt": 600,
    "logo_vikt": 800,
-   "logo_versaler": false,
+   "logo_versaler": true,
    "logo_spatiering": "-0.03em",
    "nav_versaler": true,
    "knapp_versaler": false,
-   "logo_font": "rubrik"
+   "logo_font": "text"
   },
   "palett": "djupgrön-koppar",
   "farger": {
@@ -952,13 +1159,33 @@
   "panel": "primar",
   "kort": "overlay",
   "knappstil": "fylld",
-  "projekt": "rutnat",
-  "nyheter": "lista",
+  "projekt": "karusell",
+  "nyheter": "kolumner",
   "rytm": "ton",
   "ordning": "a",
   "sidhero": "bild",
-  "panel_omvand": true,
+  "motiv": "inget",
+  "block": {
+   "vagval": "rutor",
+   "bolag": "vagg",
+   "siffror": "rad",
+   "nyheter": "lista"
+  },
+  "ordning_lista": [
+   "vagval",
+   "berattelser",
+   "panel",
+   "bolag",
+   "siffror",
+   "projekt",
+   "hb",
+   "ir",
+   "nyheter",
+   "snabb"
+  ],
+  "panel_omvand": false,
   "sidfot": "primar",
+  "fot": "standard",
   "sidfot_stor_logga": false,
   "logga": {
    "form": "ingen",
@@ -976,11 +1203,11 @@
   "header_hojd": 76,
   "hero_tagg": "el",
   "exempel": true,
-  "min_avstand": 10.98
+  "min_avstand": 17.43
  },
  {
   "version": 2,
-  "id": "46970e524d",
+  "id": "93204b6799",
   "for": "Brofors Teknik AB",
   "arketyp": "teknisk",
   "fro": "0e7a0319",
@@ -997,8 +1224,8 @@
    "rubrik_vikter": "400;500;600;700",
    "siffra_vikt": 500,
    "logo_vikt": 600,
-   "logo_versaler": false,
-   "logo_spatiering": "-0.01em",
+   "logo_versaler": true,
+   "logo_spatiering": "-0.03em",
    "nav_versaler": true,
    "knapp_versaler": false,
    "logo_font": "rubrik"
@@ -1061,29 +1288,57 @@
   "panel": "mork",
   "kort": "under",
   "knappstil": "fylld",
-  "projekt": "karusell",
+  "projekt": "rutnat",
   "nyheter": "kolumner",
-  "rytm": "farg",
-  "ordning": "a",
-  "sidhero": "ton",
+  "rytm": "ton",
+  "ordning": "c",
+  "sidhero": "bild",
+  "motiv": "rutnat",
+  "block": {
+   "vagval": "expertis",
+   "bolag": "kort",
+   "siffror": "rad",
+   "nyheter": "lista"
+  },
+  "ordning_lista": [
+   "vagval",
+   "projekt",
+   "bolag",
+   "siffror",
+   "berattelser",
+   "hb",
+   "ir",
+   "nyheter"
+  ],
   "panel_omvand": false,
   "sidfot": "mork",
+  "fot": "standard",
   "sidfot_stor_logga": true,
   "logga": {
    "form": "romb",
    "farg": "#0e5560",
    "ink": "#ffffff",
-   "gemener": true,
+   "gemener": false,
    "tagline": true
   },
   "bildtyngd": [
    "people",
    "stad"
   ],
-  "maxbredd": 1400,
-  "header_hojd": 80,
+  "maxbredd": 1360,
+  "header_hojd": 76,
+  "bakgrund": {
+   "vagval": "pa-mork",
+   "projekt": "",
+   "bolag": "pa-ton",
+   "siffror": "pa-farg",
+   "berattelser": "",
+   "hb": "pa-ton",
+   "nyheter": "",
+   "ir": ""
+  },
   "hero_tagg": "infra",
   "exempel": true,
-  "min_avstand": 12.51
+  "min_avstand": 17.11
  }
 ]

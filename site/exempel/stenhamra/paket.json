@@ -1,6 +1,6 @@
 {
  "version": 2,
- "id": "e809c463c3",
+ "id": "99deb665c0",
  "for": "Stenhamra Installation AB",
  "arketyp": "koncernband",
  "fro": "07439fca",
@@ -12,16 +12,16 @@
   "rubrik_vikt": 600,
   "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.06,
+  "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": false,
+  "logo_versaler": true,
   "logo_spatiering": "-0.03em",
   "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "rubrik"
+  "logo_font": "text"
  },
  "palett": "djupgrön-koppar",
  "farger": {
@@ -84,13 +84,33 @@
  "panel": "primar",
  "kort": "overlay",
  "knappstil": "fylld",
- "projekt": "rutnat",
- "nyheter": "lista",
+ "projekt": "karusell",
+ "nyheter": "kolumner",
  "rytm": "ton",
  "ordning": "a",
  "sidhero": "bild",
- "panel_omvand": true,
+ "motiv": "inget",
+ "block": {
+  "vagval": "rutor",
+  "bolag": "vagg",
+  "siffror": "rad",
+  "nyheter": "lista"
+ },
+ "ordning_lista": [
+  "vagval",
+  "berattelser",
+  "panel",
+  "bolag",
+  "siffror",
+  "projekt",
+  "hb",
+  "ir",
+  "nyheter",
+  "snabb"
+ ],
+ "panel_omvand": false,
  "sidfot": "primar",
+ "fot": "standard",
  "sidfot_stor_logga": false,
  "logga": {
   "form": "ingen",
@@ -108,5 +128,5 @@
  "header_hojd": 76,
  "hero_tagg": "el",
  "exempel": true,
- "min_avstand": 10.98
+ "min_avstand": 17.43
 }

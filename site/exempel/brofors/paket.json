@@ -1,6 +1,6 @@
 {
  "version": 2,
- "id": "46970e524d",
+ "id": "93204b6799",
  "for": "Brofors Teknik AB",
  "arketyp": "teknisk",
  "fro": "0e7a0319",
@@ -17,8 +17,8 @@
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
   "logo_vikt": 600,
-  "logo_versaler": false,
-  "logo_spatiering": "-0.01em",
+  "logo_versaler": true,
+  "logo_spatiering": "-0.03em",
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik"
@@ -81,28 +81,56 @@
  "panel": "mork",
  "kort": "under",
  "knappstil": "fylld",
- "projekt": "karusell",
+ "projekt": "rutnat",
  "nyheter": "kolumner",
- "rytm": "farg",
- "ordning": "a",
- "sidhero": "ton",
+ "rytm": "ton",
+ "ordning": "c",
+ "sidhero": "bild",
+ "motiv": "rutnat",
+ "block": {
+  "vagval": "expertis",
+  "bolag": "kort",
+  "siffror": "rad",
+  "nyheter": "lista"
+ },
+ "ordning_lista": [
+  "vagval",
+  "projekt",
+  "bolag",
+  "siffror",
+  "berattelser",
+  "hb",
+  "ir",
+  "nyheter"
+ ],
  "panel_omvand": false,
  "sidfot": "mork",
+ "fot": "standard",
  "sidfot_stor_logga": true,
  "logga": {
   "form": "romb",
   "farg": "#0e5560",
   "ink": "#ffffff",
-  "gemener": true,
+  "gemener": false,
   "tagline": true
  },
  "bildtyngd": [
   "people",
   "stad"
  ],
- "maxbredd": 1400,
- "header_hojd": 80,
+ "maxbredd": 1360,
+ "header_hojd": 76,
+ "bakgrund": {
+  "vagval": "pa-mork",
+  "projekt": "",
+  "bolag": "pa-ton",
+  "siffror": "pa-farg",
+  "berattelser": "",
+  "hb": "pa-ton",
+  "nyheter": "",
+  "ir": ""
+ },
  "hero_tagg": "infra",
  "exempel": true,
- "min_avstand": 12.51
+ "min_avstand": 17.11
 }

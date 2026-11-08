@@ -1,6 +1,6 @@
 {
  "version": 2,
- "id": "a558603c9d",
+ "id": "0d03bdd29c",
  "for": "Norrvik Gruppen AB",
  "arketyp": "monument",
  "fro": "49db4f48",
@@ -17,11 +17,11 @@
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
   "logo_vikt": 800,
-  "logo_versaler": false,
-  "logo_spatiering": "-0.01em",
-  "nav_versaler": true,
+  "logo_versaler": true,
+  "logo_spatiering": "0.06em",
+  "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "rubrik"
+  "logo_font": "text"
  },
  "palett": "marin-mint",
  "farger": {
@@ -82,12 +82,32 @@
  "kort": "overlay",
  "knappstil": "fylld",
  "projekt": "karusell",
- "nyheter": "lista",
- "rytm": "ton",
+ "nyheter": "kolumner",
+ "rytm": "farg",
  "ordning": "a",
  "sidhero": "bild",
- "panel_omvand": false,
+ "motiv": "inget",
+ "block": {
+  "vagval": "rader",
+  "bolag": "flikar",
+  "siffror": "jatte",
+  "nyheter": "lista"
+ },
+ "ordning_lista": [
+  "vagval",
+  "bolag",
+  "siffror",
+  "berattelser",
+  "projekt",
+  "hb",
+  "panel",
+  "nyheter",
+  "ir",
+  "snabb"
+ ],
+ "panel_omvand": true,
  "sidfot": "mork",
+ "fot": "standard",
  "sidfot_stor_logga": true,
  "logga": {
   "form": "ring",
@@ -100,9 +120,20 @@
   "bygg",
   "people"
  ],
- "maxbredd": 1400,
- "header_hojd": 88,
+ "maxbredd": 1360,
+ "header_hojd": 76,
+ "bakgrund": {
+  "vagval": "",
+  "bolag": "pa-ton",
+  "siffror": "",
+  "berattelser": "pa-mork",
+  "projekt": "",
+  "hb": "pa-ton",
+  "panel": "",
+  "nyheter": "",
+  "ir": "pa-yta"
+ },
  "hero_tagg": "bygg",
  "exempel": true,
- "min_avstand": 11.32
+ "min_avstand": 16.43
 }

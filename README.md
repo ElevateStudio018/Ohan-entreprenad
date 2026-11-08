@@ -39,7 +39,7 @@ python3 research/rapport.py
 | `mall/bas.css`, `mall/sajt.js`, `mall/ikoner.py` | Den gemensamma koden. Paketet styr den via `tokens.css` och `data-*`-attribut på `<body>` |
 | `skarmdump.py` | Skärmdumpar på dator och mobil + kontroll av horisontell scroll |
 | `bildbank/`, `bildbank.tsv` | 83 taggade stockfoton från Pexels |
-| `exempel/` | Innehållet till de 10 exemplen och `bygg_exempel.py`, som bygger dem |
+| `exempel/` | Innehållet till de 10 exemplen och `bygg_exempel.py`, som bygger dem. Varje exempel har ett eget koncept (egna block för vägval, bolag, nyckeltal, sidfot, motiv och sektionsordning). Sjöstaden är låst och byggs inte om (`FRYSTA`). |
 | `register.json` | Alla paket som använts – så att nästa sajt blir annorlunda |
 
 ```bash

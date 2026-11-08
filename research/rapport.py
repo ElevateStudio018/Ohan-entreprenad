@@ -295,13 +295,15 @@ rad_ex = ""
 for e in EX:
     p = e["paket"]
     f = p["farger"]
+    blk = p.get("block", {})
     rad_ex += (f'<tr><td><b>{E(e["kortnamn"])}</b><br><small>{E(e["typ"])}</small></td><td>{E(p["arketyp"].capitalize())}</td><td>{E(p["hero"])}</td>'
+               f'<td>{E(blk.get("vagval", "rutor"))}</td><td>{E(blk.get("bolag", "kort"))}</td><td>{E(blk.get("siffror", "rad"))}</td><td>{E(p.get("motiv", "inget"))}</td>'
                f'<td>{E(p["typsnitt"]["rubrik"])}<br><small>{E(p["typsnitt"]["kategori"])}</small></td>'
-               f'<td><span class="sw" style="background:{f["primar"]}"></span><span class="sw" style="background:{f["accent"]}"></span><span class="sw" style="background:{f["mork"]}"></span><span class="sw" style="background:{f["yta"]}"></span></td>'
-               f'<td>{E(p["form"]["namn"])}<br><small>knapp {p["form"]["knapp"] if p["form"]["knapp"] < 999 else "piller"} · bild {p["form"]["bild"]} px</small></td><td>{E(p["header"])}</td><td>{E(p["kort"])}</td><td>{E(p["rytm"])}</td></tr>')
+               f'<td><span class="sw" style="background:{f["primar"]}"></span><span class="sw" style="background:{f["accent"]}"></span><span class="sw" style="background:{f["mork"]}"></span><span class="sw" style="background:{f.get("ton", f["yta"])}"></span></td>'
+               f'<td>{E(p["form"]["namn"])}</td><td>{E(p["header"])}</td></tr>')
 sida(f'''<h2>Från undersökning till 10 olika koncernsajter</h2>
-<p class="ingress" style="font-size:14px;max-width:none">Varje sajt bygger på en arketyp från undersökningen men kombinerar typsnitt, färg, form och layout på sitt eget sätt. Paketmotorn mäter hur olika paketen är (0 = identiska); det minsta avståndet mellan två av de tio är {min(e["paket"]["min_avstand"] for e in EX)}.</p>
-<table class="tabell"><thead><tr><th>Koncern (fiktiv)</th><th>Arketyp</th><th>Hero</th><th>Rubriktypsnitt</th><th>Färger</th><th>Form</th><th>Header</th><th>Kort</th><th>Rytm</th></tr></thead><tbody>{rad_ex}</tbody></table>
+<p class="ingress" style="font-size:14px;max-width:none">Varje sajt har ett eget koncept: egna varianter av hero, vägval, bolagsvisning, nyckeltal och sidfot, ett eget grafiskt motiv och egen sektionsordning – utöver eget typsnitt, egen färg och egen form. Paketmotorn mäter hur olika paketen är (0 = identiska); det minsta avståndet mellan två av de tio är {min(e["paket"]["min_avstand"] for e in EX)}.</p>
+<table class="tabell"><thead><tr><th>Koncern (fiktiv)</th><th>Koncept</th><th>Hero</th><th>Vägval</th><th>Bolag</th><th>Nyckeltal</th><th>Motiv</th><th>Rubriktypsnitt</th><th>Färger</th><th>Form</th><th>Header</th></tr></thead><tbody>{rad_ex}</tbody></table>
 <p class="liten">Alla tio är fiktiva koncerner. Sajterna har sidorna Start, Verksamhet, Projekt, Hållbarhet, Investerare, Karriär och Om oss, och bilderna är stockfoton från Pexels.</p>''')
 
 # 13–14. De tio sajterna

@@ -72,8 +72,12 @@ PALETTER = [
 
 AXLAR = {
     # vikt = hur vanligt greppet var bland de bästa sajterna (styr slumpen; avståndsmåttet styr mest)
-    "hero": {"band": 3, "helskarm": 3, "split": 2, "statement": 2, "mosaik": 1, "centrerad": 2},
-    "header": {"ljus": 3, "mork": 1, "transparent": 2},
+    "hero": {"band": 3, "helskarm": 3, "split": 2, "statement": 2, "mosaik": 1, "centrerad": 2, "sok": 1, "kurs": 1},
+    "header": {"ljus": 3, "mork": 1, "transparent": 2, "centrerad": 1, "pill": 1},
+    "vagval": {"rutor": 3, "rader": 2, "chips": 1, "nummer": 1, "cirklar": 1, "bildrutor": 1, "lankar": 1, "register": 1, "expertis": 1},
+    "bolagsblock": {"kort": 3, "flikar": 2, "lista": 2, "tabell": 1, "rund": 1},
+    "siffrblock": {"rad": 3, "jatte": 2, "band": 1, "dashboard": 1},
+    "motiv": {"inget": 3, "diagonal": 1, "kurva": 1, "mjuk": 1, "linjer": 1, "rutnat": 1},
     "meny": {"inline": 3, "burger": 1},
     "ruta": {"solid": 3, "mork": 2, "kontur": 1, "vanster": 2},
     "panel": {"primar": 3, "mork": 2, "ton": 2},
@@ -224,8 +228,19 @@ def kandidat(rng, namn, bransch, farg=None, stil=None):
     else:
         pal = rng.choice(PALETTER)
     v = {ax: slumpa(rng, ax, ark.get(ax)) for ax in AXLAR}
-    if v["header"] == "transparent" and v["hero"] not in ("helskarm", "centrerad"):
+    if v["header"] == "transparent" and v["hero"] not in ("helskarm", "centrerad", "kurs"):
         v["header"] = "ljus"
+    if v["hero"] == "kurs" and bransch not in ("fastighet", "samhalle"):
+        v["hero"] = "helskarm"
+    if v["hero"] == "sok" and bransch not in ("bostad", "fastighet"):
+        v["hero"] = "split"
+    extra = rng.sample(["process", "citat"], rng.choice([0, 1, 1, 2]))
+    if bransch == "bostad" and rng.random() < 0.5:
+        extra.append("service")
+    bas = ["vagval", "berattelser", "panel", "bolag", "siffror", "projekt", "hb", "ir", "nyheter", "snabb"]
+    mitt = bas[1:-1] + [e for e in extra if e != "service"]
+    rng.shuffle(mitt)
+    ordning_lista = (["service"] if "service" in extra else []) + ["vagval"] + mitt + ["snabb"] if rng.random() < 0.6 else (["service"] if "service" in extra else []) + mitt[:2] + ["vagval"] + mitt[2:] + ["snabb"]
     v["typkat"] = ty["kat"]
     v["knapp_accent"] = stil == "koncernband" or rng.random() < 0.25
     knapp, kort, bild = FORMER[v["form"]]
@@ -244,8 +259,10 @@ def kandidat(rng, namn, bransch, farg=None, stil=None):
                      "logo_font": rng.choice(["rubrik", "rubrik", "text"])},
         "palett": pal["id"], "farger": farger,
         "form": {"namn": v["form"], "knapp": knapp, "kort": kort, "bild": bild, "hero": min(bild, 16)},
-        **{ax: v[ax] for ax in ("hero", "header", "meny", "ruta", "panel", "kort", "knappstil", "projekt", "nyheter", "rytm", "ordning", "sidhero")},
-        "panel_omvand": rng.random() < 0.5, "sidfot": v["sidfot"], "sidfot_stor_logga": rng.random() < 0.3,
+        **{ax: v[ax] for ax in ("hero", "header", "meny", "ruta", "panel", "kort", "knappstil", "projekt", "nyheter", "rytm", "ordning", "sidhero", "motiv")},
+        "block": {"vagval": v["vagval"], "bolag": v["bolagsblock"], "siffror": v["siffrblock"], "nyheter": rng.choice(["lista", "lista", "tidning"])},
+        "ordning_lista": ordning_lista,
+        "panel_omvand": rng.random() < 0.5, "sidfot": v["sidfot"], "fot": rng.choice(["standard", "standard", "cta", "centrerad"]), "sidfot_stor_logga": rng.random() < 0.3,
         "logga": {"form": v["logga"], "farg": lg_farg, "ink": "#ffffff" if lum(lg_farg) < 0.4 else "#14171b",
                   "gemener": rng.random() < 0.35, "tagline": True},
         "bildtyngd": BRANSCH_BILD.get(bransch, ["kontor", "bygg"]), "maxbredd": rng.choice([1320, 1360, 1400]), "header_hojd": rng.choice([76, 80, 88]),
@@ -268,9 +285,12 @@ def fran_val(namn, bransch, val, stil="fri"):
     for k in ("skala", "logo_versaler", "logo_spatiering", "nav_versaler", "logo_font", "rubrik_vikt", "siffra_vikt"):
         if k in val:
             p["typsnitt"][k] = val[k]
-    for ax in ("hero", "header", "meny", "ruta", "panel", "kort", "knappstil", "projekt", "nyheter", "rytm", "ordning", "sidhero", "sidfot"):
+    for ax in ("hero", "header", "meny", "ruta", "panel", "kort", "knappstil", "projekt", "nyheter", "rytm", "ordning", "sidhero", "sidfot",
+               "motiv", "ordning_lista", "bakgrund", "fot"):
         if ax in val:
             p[ax] = val[ax]
+    if "block" in val:
+        p["block"] = val["block"]
     form = val.get("form", p["form"]["namn"])
     knapp, kort, bild = FORMER[form]
     p["form"] = {"namn": form, "knapp": knapp, "kort": kort, "bild": bild, "hero": min(bild, 16)}
@@ -318,6 +338,9 @@ def avstand(a, b):
     for k in ("ruta", "panel", "kort", "header", "rytm", "ordning", "projekt", "nyheter", "knappstil", "sidfot", "meny"):
         d += VIKTER[k] * (a.get(k) != b.get(k))
     d += VIKTER["logga"] * (a["logga"]["form"] != b["logga"]["form"])
+    ab, bb = a.get("block", {}), b.get("block", {})
+    d += 1.6 * (ab.get("vagval") != bb.get("vagval")) + 1.4 * (ab.get("bolag") != bb.get("bolag")) + 1.0 * (ab.get("siffror") != bb.get("siffror"))
+    d += 1.2 * (a.get("motiv", "inget") != b.get("motiv", "inget"))
     return d
 
 

@@ -1,6 +1,6 @@
 {
  "version": 2,
- "id": "c5b5d74a33",
+ "id": "fa09a606f4",
  "for": "Tornberg Infra AB",
  "arketyp": "industriell",
  "fro": "51dd7649",
@@ -18,7 +18,7 @@
   "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "-0.03em",
+  "logo_spatiering": "0.06em",
   "nav_versaler": true,
   "knapp_versaler": true,
   "logo_font": "rubrik"
@@ -64,9 +64,9 @@
   "sidfot_knapp": "#f5b400",
   "sidfot_knapp_ink": "#14171b",
   "sidfot_linje": "rgba(255,255,255,.18)",
-  "split": "#121417",
+  "split": "#1f2328",
   "split_ink": "#ffffff",
-  "statement": "#ffffff",
+  "statement": "#f3f1ec",
   "band": "#6d7073",
   "band2": "#f5b400"
  },
@@ -84,13 +84,32 @@
  "panel": "mork",
  "kort": "overlay",
  "knappstil": "fylld",
- "projekt": "karusell",
+ "projekt": "rutnat",
  "nyheter": "lista",
  "rytm": "mork",
- "ordning": "a",
- "sidhero": "bild",
+ "ordning": "c",
+ "sidhero": "ton",
+ "motiv": "diagonal",
+ "block": {
+  "vagval": "nummer",
+  "bolag": "kort",
+  "siffror": "band",
+  "nyheter": "tidning"
+ },
+ "ordning_lista": [
+  "siffror",
+  "vagval",
+  "berattelser",
+  "bolag",
+  "projekt",
+  "panel",
+  "hb",
+  "nyheter",
+  "snabb"
+ ],
  "panel_omvand": true,
  "sidfot": "mork",
+ "fot": "cta",
  "sidfot_stor_logga": false,
  "logga": {
   "form": "staplar",
@@ -105,7 +124,17 @@
  ],
  "maxbredd": 1320,
  "header_hojd": 80,
+ "bakgrund": {
+  "siffror": "pa-accent",
+  "vagval": "",
+  "berattelser": "pa-mork",
+  "bolag": "",
+  "projekt": "pa-yta",
+  "panel": "",
+  "hb": "pa-mork",
+  "nyheter": ""
+ },
  "hero_tagg": "anlaggning",
  "exempel": true,
- "min_avstand": 11.32
+ "min_avstand": 18.33
 }

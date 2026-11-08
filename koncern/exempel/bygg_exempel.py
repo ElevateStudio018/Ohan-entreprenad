@@ -17,44 +17,71 @@ import paket  # noqa: E402
 EX = ROT / "koncern/exempel"
 UT = ROT / "site/exempel"
 
+# Sjöstaden är låst: den byggs inte om, så att ändringar i mallen inte påverkar den.
+FRYSTA = {"sjostaden"}
+
 VAL = {
-    # slug: (bransch, arketyp, val) – handplockade så att de tio skiljer sig åt i hero, typsnitt, palett, form och rytm
-    "norrvik": ("bygg", "monument", dict(typsnitt="inter-tight", palett="marin-mint", hero="helskarm", header="transparent", meny="inline",
-                ruta="solid", panel="primar", kort="overlay", rytm="ton", ordning="a", form="piller-kantig", sidfot="mork", logga="ring",
-                logga_farg="accent", hero_tagg="bygg", skala=1.06, gemener=False)),
-    "sjostaden": ("fastighet", "urban", dict(typsnitt="plusjakarta", palett="kobolt-is", hero="centrerad", header="transparent", meny="inline",
-                  ruta="vanster", panel="mork", kort="overlay", rytm="farg", ordning="c", form="piller-kantig", sidfot="primar", nyheter="kolumner",
-                  logga="ingen", logo_versaler=True, logo_spatiering="0.08em", hero_tagg="stad")),
-    "ekbacka": ("bostad", "varm-bostad", dict(typsnitt="fraunces-inter", palett="terrakotta-kräm", hero="split", split="ton", header="ljus", meny="inline",
-                ruta="vanster", panel="ton", kort="under", rytm="ljus", ordning="c", form="mjuk", sidfot="primar", logga="tak", hero_tagg="bostad")),
-    "tornberg": ("infra", "industriell", dict(typsnitt="barlow-cond", palett="grafit-gul", hero="helskarm", header="mork", meny="inline", ruta="mork",
-                 panel="mork", kort="overlay", rytm="mork", ordning="a", form="kantig", sidfot="mork", logga="staplar", logga_farg="accent",
-                 knapp_accent=True, hero_tagg="anlaggning")),
-    "lindhem": ("bostad", "ramad", dict(typsnitt="public-sans", palett="havsblå-orange", hero="split", split="primar", header="ljus", meny="inline",
-                ruta="kontur", panel="primar", kort="under", projekt="rutnat", rytm="ton", ordning="a", form="kantig", sidfot="primar", logga="punkt",
-                hero_tagg="bostad")),
-    "arcus": ("samhalle", "redaktionell", dict(typsnitt="newsreader-inter", palett="skog-salvia", hero="statement", statement="ton", header="ljus",
-              meny="burger", ruta="solid", panel="ton", kort="under", nyheter="kolumner", rytm="ljus", ordning="b", form="kantig", sidfot="mork",
-              sidhero="ton", logga="bage", hero_tagg="people", sidfot_stor_logga=True)),
-    "vardtra": ("tra", "skandinavisk", dict(typsnitt="outfit-dmsans", palett="oliv-guld", hero="mosaik", header="ljus", meny="burger", ruta="vanster",
-                panel="primar", kort="overlay", projekt="rutnat", rytm="ljus", ordning="c", form="rundad", sidfot="primar", logga="blad", hero_tagg="tra",
-                gemener=True)),
-    "kvarter": ("fastighet", "finans", dict(typsnitt="libre-franklin", palett="stål-himmel", hero="band", header="ljus", meny="inline", ruta="mork",
-                panel="mork", kort="overlay", rytm="ton", ordning="b", form="lätt", sidfot="mork", logga="kvadrat", logo_versaler=True,
-                logo_spatiering="0.1em", hero_tagg="kontor")),
-    "stenhamra": ("installation", "koncernband", dict(typsnitt="manrope-inter", palett="djupgrön-koppar", hero="band", header="ljus", meny="inline",
-                  ruta="solid", panel="primar", kort="overlay", rytm="ton", ordning="a", form="lätt", sidfot="primar", logga="ingen", gemener=True,
-                  knapp_accent=True, nav_versaler=True, hero_tagg="el", bildtyngd=["el", "industri", "people"])),
-    "brofors": ("konsult", "teknisk", dict(typsnitt="plex-mono", palett="petrol-sand", hero="statement", statement="ton", header="ljus", meny="burger",
-                ruta="vanster", panel="mork", kort="under", nyheter="kolumner", rytm="farg", ordning="a", form="rundad", sidfot="mork", logga="romb",
-                hero_tagg="infra", sidfot_stor_logga=True)),
+    # slug: (bransch, arketyp, val). Varje sajt har ett eget koncept med egna block (block, motiv, ordning_lista, bakgrund),
+    # inte bara egna färger och typsnitt.
+    "norrvik": ("bygg", "monument", dict(fot="standard", typsnitt="inter-tight", palett="marin-mint", hero="helskarm", header="transparent", meny="inline",
+                ruta="solid", panel="primar", kort="overlay", form="piller-kantig", sidfot="mork", logga="ring", logga_farg="accent",
+                hero_tagg="bygg", skala=1.06, gemener=False, sidfot_stor_logga=True, motiv="inget",
+                block=dict(vagval="rader", bolag="flikar", siffror="jatte", nyheter="lista"),
+                ordning_lista=["vagval", "bolag", "siffror", "berattelser", "projekt", "hb", "panel", "nyheter", "ir", "snabb"],
+                bakgrund=dict(vagval="", bolag="pa-ton", siffror="", berattelser="pa-mork", projekt="", hb="pa-ton", panel="", nyheter="", ir="pa-yta"))),
+    "ekbacka": ("bostad", "varm-bostad", dict(fot="cta", typsnitt="fraunces-inter", palett="terrakotta-kräm", hero="sok", header="pill", meny="inline",
+                ruta="vanster", panel="ton", kort="under", form="mjuk", sidfot="primar", logga="tak", hero_tagg="bostad", motiv="mjuk",
+                block=dict(vagval="chips", bolag="kort", siffror="rad", nyheter="lista"), projekt="rutnat",
+                ordning_lista=["vagval", "projekt", "citat", "bolag", "berattelser", "siffror", "hb", "panel", "nyheter"],
+                bakgrund=dict(vagval="pa-ton", projekt="", citat="pa-farg", bolag="", berattelser="pa-ton", siffror="", hb="pa-ton", panel="", nyheter=""))),
+    "tornberg": ("infra", "industriell", dict(fot="cta", typsnitt="barlow-cond", palett="grafit-gul", hero="helskarm", header="mork", meny="inline", ruta="mork",
+                 panel="mork", kort="overlay", form="kantig", sidfot="mork", logga="staplar", logga_farg="accent", knapp_accent=True,
+                 hero_tagg="anlaggning", motiv="diagonal", block=dict(vagval="nummer", bolag="kort", siffror="band", nyheter="tidning"),
+                 ordning_lista=["siffror", "vagval", "berattelser", "bolag", "projekt", "panel", "hb", "nyheter", "snabb"],
+                 bakgrund=dict(siffror="pa-accent", vagval="", berattelser="pa-mork", bolag="", projekt="pa-yta", panel="", hb="pa-mork", nyheter=""))),
+    "lindhem": ("bostad", "grannskap", dict(fot="cta", typsnitt="public-sans", palett="havsblå-orange", hero="split", split="primar", header="ljus", meny="inline",
+                ruta="kontur", panel="primar", kort="under", projekt="rutnat", form="rundad", sidfot="primar", logga="punkt", hero_tagg="bostad",
+                motiv="kurva", block=dict(vagval="cirklar", bolag="rund", siffror="rad", nyheter="lista"),
+                ordning_lista=["service", "vagval", "citat", "bolag", "siffror", "berattelser", "projekt", "hb", "nyheter"],
+                bakgrund=dict(vagval="", citat="pa-ton", bolag="", siffror="pa-farg", berattelser="", projekt="pa-ton", hb="", nyheter="pa-yta"))),
+    "arcus": ("samhalle", "redaktionell", dict(fot="centrerad", typsnitt="newsreader-inter", palett="skog-salvia", hero="statement", statement="ton", header="centrerad",
+              meny="inline", ruta="solid", panel="ton", kort="under", form="kantig", sidfot="mork", sidhero="ton", logga="bage", hero_tagg="people",
+              sidfot_stor_logga=True, motiv="linjer", block=dict(vagval="register", bolag="lista", siffror="rad", nyheter="tidning"),
+              ordning_lista=["vagval", "bolag", "berattelser", "siffror", "hb", "projekt", "nyheter", "ir"],
+              bakgrund=dict(vagval="", bolag="", berattelser="", siffror="", hb="pa-ton", projekt="", nyheter="", ir=""))),
+    "vardtra": ("tra", "skandinavisk", dict(fot="centrerad", typsnitt="outfit-dmsans", palett="oliv-guld", hero="mosaik", header="pill", meny="burger", ruta="vanster",
+                panel="primar", kort="overlay", projekt="rutnat", form="rundad", sidfot="primar", logga="blad", hero_tagg="tra", gemener=True,
+                motiv="inget", block=dict(vagval="bildrutor", bolag="kort", siffror="rad", nyheter="lista"), nyheter="kolumner",
+                ordning_lista=["process", "vagval", "berattelser", "siffror", "bolag", "projekt", "hb", "panel", "nyheter"],
+                bakgrund=dict(process="pa-ton", vagval="", berattelser="", siffror="pa-farg", bolag="", projekt="pa-yta", hb="", panel="", nyheter=""))),
+    "kvarter": ("fastighet", "finans", dict(fot="cta", sidfot_stor_logga=False, typsnitt="libre-franklin", palett="stål-himmel", hero="kurs", header="transparent", meny="inline", ruta="mork",
+                panel="mork", kort="overlay", form="lätt", sidfot="mork", logga="kvadrat", logo_versaler=True, logo_spatiering="0.1em",
+                hero_tagg="kontor", motiv="inget", block=dict(vagval="lankar", bolag="tabell", siffror="dashboard", nyheter="lista"),
+                ordning_lista=["siffror", "vagval", "ir", "bolag", "projekt", "hb", "berattelser", "nyheter", "snabb"],
+                bakgrund=dict(siffror="pa-ton", vagval="", ir="", bolag="pa-yta", projekt="", hb="pa-mork", berattelser="", nyheter="pa-yta"))),
+    "stenhamra": ("installation", "koncernband", dict(fot="standard", sidfot_stor_logga=False, typsnitt="manrope-inter", palett="djupgrön-koppar", hero="band", header="ljus", meny="inline",
+                  ruta="solid", panel="primar", kort="overlay", rytm="ton", form="lätt", sidfot="primar", logga="ingen", gemener=True,
+                  knapp_accent=True, nav_versaler=True, hero_tagg="el", bildtyngd=["el", "industri", "people"], motiv="inget",
+                  block=dict(vagval="rutor", bolag="vagg", siffror="rad", nyheter="lista"),
+                  ordning_lista=["vagval", "berattelser", "panel", "bolag", "siffror", "projekt", "hb", "ir", "nyheter", "snabb"])),
+    "brofors": ("konsult", "teknisk", dict(fot="standard", typsnitt="plex-mono", palett="petrol-sand", hero="statement", statement="ton", header="ljus", meny="burger",
+                ruta="vanster", panel="mork", kort="under", nyheter="kolumner", form="rundad", sidfot="mork", logga="romb", hero_tagg="infra",
+                sidfot_stor_logga=True, motiv="rutnat", block=dict(vagval="expertis", bolag="kort", siffror="rad", nyheter="lista"),
+                ordning_lista=["vagval", "projekt", "bolag", "siffror", "berattelser", "hb", "ir", "nyheter"],
+                bakgrund=dict(vagval="pa-mork", projekt="", bolag="pa-ton", siffror="pa-farg", berattelser="", hb="pa-ton", nyheter="", ir=""))),
 }
 
 
 def main():
     UT.mkdir(parents=True, exist_ok=True)
-    reg = [r for r in paket.register() if r["for"] not in {json.loads((EX / f"{s}.json").read_text())["namn"] for s in VAL}]
+    namn_alla = {json.loads((EX / f"{s}.json").read_text())["namn"] for s in list(VAL) + list(FRYSTA)}
+    reg = [r for r in paket.register() if r["for"] not in namn_alla]
     alla = []
+    for slug in FRYSTA:
+        b = json.loads((EX / f"{slug}.json").read_text(encoding="utf-8"))
+        p = json.loads((UT / slug / "paket.json").read_text(encoding="utf-8"))
+        p["fryst"] = True
+        alla.append((b, p))
     for slug, (bransch, stil, val) in VAL.items():
         b = json.loads((EX / f"{slug}.json").read_text(encoding="utf-8"))
         p = paket.fran_val(b["namn"], bransch, val, stil)
@@ -64,8 +91,11 @@ def main():
     for b, p in alla:
         andra = [q for c, q in alla if q is not p]
         p["min_avstand"] = round(min(paket.avstand(p, q) for q in andra), 2)
+    ordning = ["norrvik", "sjostaden", "ekbacka", "tornberg", "lindhem", "arcus", "vardtra", "kvarter", "stenhamra", "brofors"]
+    alla.sort(key=lambda bp: ordning.index(bp[0]["slug"]) if bp[0]["slug"] in ordning else 99)
     for b, p in alla:
-        generera.Sajt(b, p, UT / b["slug"], delad=(ROT / "site/bildbank", "../../bildbank/")).bygg()
+        if not p.get("fryst"):
+            generera.Sajt(b, p, UT / b["slug"], delad=(ROT / "site/bildbank", "../../bildbank/")).bygg()
         reg.append(p)
         print(f'{b["kortnamn"]:10} {p["arketyp"]:13} {p["hero"]:10} {p["typsnitt"]["rubrik"]:18} {p["palett"]:14} {p["form"]["namn"]:13} minsta avstånd {p["min_avstand"]}')
     paket.REGISTER.write_text(json.dumps(reg, ensure_ascii=False, indent=1), encoding="utf-8")

@@ -1,6 +1,6 @@
 {
  "version": 2,
- "id": "e4ec83adee",
+ "id": "a9f75399b1",
  "for": "Ekbacka Bostad AB",
  "arketyp": "varm-bostad",
  "fro": "350e80e5",
@@ -12,14 +12,14 @@
   "rubrik_vikt": 500,
   "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.06,
+  "skala": 1.0,
   "rubrik_fallback": "Georgia, serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
   "logo_vikt": 600,
   "logo_versaler": false,
-  "logo_spatiering": "0.06em",
-  "nav_versaler": false,
+  "logo_spatiering": "-0.01em",
+  "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik"
  },
@@ -63,7 +63,7 @@
   "sidfot_linje": "rgba(255,255,255,.18)",
   "split": "#f8efe7",
   "split_ink": "#1b1a18",
-  "statement": "#ffffff",
+  "statement": "#f8efe7",
   "band": "#c78675",
   "band2": "#f0b38f"
  },
@@ -74,20 +74,39 @@
   "bild": 20,
   "hero": 16
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "sok",
+ "header": "pill",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "ton",
  "kort": "under",
  "knappstil": "fylld",
  "projekt": "rutnat",
- "nyheter": "lista",
- "rytm": "ljus",
+ "nyheter": "kolumner",
+ "rytm": "ton",
  "ordning": "c",
  "sidhero": "bild",
+ "motiv": "mjuk",
+ "block": {
+  "vagval": "chips",
+  "bolag": "kort",
+  "siffror": "rad",
+  "nyheter": "lista"
+ },
+ "ordning_lista": [
+  "vagval",
+  "projekt",
+  "citat",
+  "bolag",
+  "berattelser",
+  "siffror",
+  "hb",
+  "panel",
+  "nyheter"
+ ],
  "panel_omvand": true,
  "sidfot": "primar",
+ "fot": "cta",
  "sidfot_stor_logga": false,
  "logga": {
   "form": "tak",
@@ -102,7 +121,18 @@
  ],
  "maxbredd": 1320,
  "header_hojd": 76,
+ "bakgrund": {
+  "vagval": "pa-ton",
+  "projekt": "",
+  "citat": "pa-farg",
+  "bolag": "",
+  "berattelser": "pa-ton",
+  "siffror": "",
+  "hb": "pa-ton",
+  "panel": "",
+  "nyheter": ""
+ },
  "hero_tagg": "bostad",
  "exempel": true,
- "min_avstand": 13.47
+ "min_avstand": 17.6
 }
