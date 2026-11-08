@@ -1,0 +1,762 @@
+{
+ "skanska": {
+  "namn": "Skanska",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 5,
+  "kommentar": "Helskärmsfilm, jättelik lätt sans (eget typsnitt Shape Sans), transparent header, pillerknapp i headern, kantiga bilder"
+ },
+ "ncc": {
+  "namn": "NCC",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 4,
+  "kommentar": "Inramad hero-bild med överlappande vitt textkort, Roboto, mycket luft, pilar i stället för knappar"
+ },
+ "peab": {
+  "namn": "Peab",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 3,
+  "kommentar": "Två menyrader med IR/Press/Karriär överst, filmband, slab-serif-logga"
+ },
+ "jm": {
+  "namn": "JM",
+  "med": true,
+  "arketyp": "sökdriven",
+  "betyg": 4,
+  "kommentar": "Serif-rubrik över bild med sökfält och ortsknappar – bostadssök i centrum"
+ },
+ "veidekke": {
+  "namn": "Veidekke",
+  "med": true,
+  "arketyp": "split",
+  "betyg": 4,
+  "kommentar": "Färgfält (rosa) + bild, röd rubrik, lila pillerknapp – personligt och varmt"
+ },
+ "bonava": {
+  "namn": "Bonava",
+  "med": true,
+  "arketyp": "split",
+  "betyg": 4,
+  "kommentar": "Mintgrönt färgfält med sökfilter + bild, mjuka pillerknappar"
+ },
+ "besqab": {
+  "namn": "Besqab",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 3,
+  "kommentar": "Stor bild i ram med feta rubriker, svarta knappar"
+ },
+ "wastbygg": {
+  "namn": "Wästbygg",
+  "med": true,
+  "arketyp": "split",
+  "betyg": 3,
+  "kommentar": "Petrolfält + foto, IR-länkar i topprad"
+ },
+ "byggpartner": {
+  "namn": "ByggPartner",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 3,
+  "kommentar": "Grön topprad med aktiekurs, bild + grön textpanel"
+ },
+ "zengun": {
+  "namn": "Zengun",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 4,
+  "kommentar": "Helbild med serif-rubrik och rund 'badge' för årsredovisningen"
+ },
+ "k-fast": {
+  "namn": "K-Fast",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 2,
+  "kommentar": "Mörk helbild, spärrad versal serif, vinröd platta"
+ },
+ "lindbacks": {
+  "namn": "Lindbäcks",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 4,
+  "kommentar": "Typografisk hero med fyra bildkort under – sobert och tydligt"
+ },
+ "derome": {
+  "namn": "Derome",
+  "med": true,
+  "arketyp": "industriell",
+  "betyg": 3,
+  "kommentar": "Mörkgrön header, slider med stencil-versaler"
+ },
+ "riksbyggen": {
+  "namn": "Riksbyggen",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 3,
+  "kommentar": "Bild + överlappande vitt kort med röd knapp"
+ },
+ "hsb": {
+  "namn": "HSB",
+  "med": true,
+  "arketyp": "portal",
+  "betyg": 2,
+  "kommentar": "Kort och ikoner, blå pillerknappar – medlemsportal"
+ },
+ "consto": {
+  "namn": "Consto",
+  "med": false,
+  "skal": "Fel sajt på domänen"
+ },
+ "sh-bygg": {
+  "namn": "SH bygg",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 3,
+  "kommentar": "Mörk helbild, lätt serif, orange accentlinje, pillerknappar"
+ },
+ "hent": {
+  "namn": "Hent",
+  "med": false,
+  "skal": "Cloudflare-spärr"
+ },
+ "implenia": {
+  "namn": "Implenia",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 3,
+  "kommentar": "Film + gul accent, IR-topprad, nyhets-/rapportkolumner"
+ },
+ "af-gruppen": {
+  "namn": "AF Gruppen",
+  "med": true,
+  "arketyp": "centrerad",
+  "betyg": 3,
+  "kommentar": "Mörk film, centrerad text, gul pillerknapp"
+ },
+ "svevia": {
+  "namn": "Svevia",
+  "med": true,
+  "arketyp": "industriell",
+  "betyg": 4,
+  "kommentar": "Helbild, fet sans, gult nyhetsband – anläggning"
+ },
+ "infranord": {
+  "namn": "Infranord",
+  "med": true,
+  "arketyp": "industriell",
+  "betyg": 5,
+  "kommentar": "Svart + orange, gigantisk ordbild, kursiv serif – modigast i urvalet"
+ },
+ "arcona": {
+  "namn": "Arcona",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 3,
+  "kommentar": "Mörk bild, fet sans, kopparbåge"
+ },
+ "jsb": {
+  "namn": "JSB",
+  "med": true,
+  "arketyp": "industriell",
+  "betyg": 4,
+  "kommentar": "Gigantiska smala versaler över foto, neongul"
+ },
+ "byggdialog": {
+  "namn": "Byggdialog",
+  "med": true,
+  "arketyp": "split",
+  "betyg": 3,
+  "kommentar": "Hallonrött färgfält + foto, vertikal 'scrolla'-text"
+ },
+ "thage": {
+  "namn": "Thage",
+  "med": false,
+  "skal": "Litet lokalt bolag, inte koncern"
+ },
+ "magnolia-bostad": {
+  "namn": "Magnolia Bostad",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 3,
+  "kommentar": "Gul header, helbild, gula pillerknappar"
+ },
+ "ikano-bostad": {
+  "namn": "Ikano Bostad",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 4,
+  "kommentar": "Helbild, gul + vit pillerknapp, svart topprad"
+ },
+ "jarntorget": {
+  "namn": "Järntorget",
+  "med": false,
+  "skal": "Leder till Alm Equity (dubblett)"
+ },
+ "titania": {
+  "namn": "Titania",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 3,
+  "kommentar": "Topprad med aktiekurs, helbild med fet kursiv versal"
+ },
+ "byggvesta": {
+  "namn": "ByggVesta",
+  "med": true,
+  "arketyp": "centrerad",
+  "betyg": 3,
+  "kommentar": "Helbild med centrerad text och pillerknappar"
+ },
+ "oscar-properties": {
+  "namn": "Oscar Properties",
+  "med": false,
+  "skal": "Domänen kapad (casino)"
+ },
+ "ssm": {
+  "namn": "SSM",
+  "med": false,
+  "skal": "Domänen visar en blogg"
+ },
+ "wallenstam": {
+  "namn": "Wallenstam",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 4,
+  "kommentar": "Helbild inomhus, vita pillerknappar, minimal meny"
+ },
+ "castellum": {
+  "namn": "Castellum",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 4,
+  "kommentar": "Delade rutor: bild + grön sökpanel, mjukt grönt"
+ },
+ "fabege": {
+  "namn": "Fabege",
+  "med": true,
+  "arketyp": "sökdriven",
+  "betyg": 4,
+  "kommentar": "Stadsvy med lokalsök + kundlogotyper som förtroende"
+ },
+ "atrium-ljungberg": {
+  "namn": "Atrium Ljungberg",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 5,
+  "kommentar": "Monospace jätterubrik över bild + lokalsök – unikt grepp"
+ },
+ "vasakronan": {
+  "namn": "Vasakronan",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 5,
+  "kommentar": "Stor serif centrerad på ljusrosa, stadskort under – redaktionellt"
+ },
+ "akademiska-hus": {
+  "namn": "Akademiska Hus",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 4,
+  "kommentar": "Ljusgul yta, lätt serif vänster, text höger, svart pillerknapp"
+ },
+ "hufvudstaden": {
+  "namn": "Hufvudstaden",
+  "med": true,
+  "arketyp": "centrerad",
+  "betyg": 4,
+  "kommentar": "Lätt serif centrerad på dämpad film – exklusivt"
+ },
+ "balder": {
+  "namn": "Balder",
+  "med": true,
+  "arketyp": "sökdriven",
+  "betyg": 3,
+  "kommentar": "Flikar för hyr/köp ovanpå bild – marknadsplats"
+ },
+ "wihlborgs": {
+  "namn": "Wihlborgs",
+  "med": true,
+  "arketyp": "centrerad",
+  "betyg": 3,
+  "kommentar": "Grå film, serif centrerad, konturknapp"
+ },
+ "platzer": {
+  "namn": "Platzer",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 3,
+  "kommentar": "Film, fet sans, vinröda pillerknappar"
+ },
+ "sagax": {
+  "namn": "Sagax",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 4,
+  "kommentar": "Klassisk serif, kursband i topprad, investerare först"
+ },
+ "dios": {
+  "namn": "Diös",
+  "med": true,
+  "arketyp": "centrerad",
+  "betyg": 3,
+  "kommentar": "Flygbild, fet centrerad rubrik, pillerknapp"
+ },
+ "np3": {
+  "namn": "NP3",
+  "med": true,
+  "arketyp": "centrerad",
+  "betyg": 2,
+  "kommentar": "Svart (film laddade inte), centrerad"
+ },
+ "corem": {
+  "namn": "Corem",
+  "med": true,
+  "arketyp": "centrerad",
+  "betyg": 4,
+  "kommentar": "Film, serif med kursivt accentord, vågformad avslutning"
+ },
+ "heimstaden": {
+  "namn": "Heimstaden",
+  "med": false,
+  "skal": "404-sida"
+ },
+ "akelius": {
+  "namn": "Akelius",
+  "med": true,
+  "arketyp": "portal",
+  "betyg": 1,
+  "kommentar": "Ikonrutor och flaggor – motexempel"
+ },
+ "stena-fastigheter": {
+  "namn": "Stena Fastigheter",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 3,
+  "kommentar": "Smal rubrik i textplattor, lila/blå block"
+ },
+ "rikshem": {
+  "namn": "Rikshem",
+  "med": true,
+  "arketyp": "portal",
+  "betyg": 3,
+  "kommentar": "Lila illustration, runda bilder"
+ },
+ "willhem": {
+  "namn": "Willhem",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 2,
+  "kommentar": "Helbild (cookie-ruta täckte)"
+ },
+ "victoriahem": {
+  "namn": "Victoriahem",
+  "med": true,
+  "arketyp": "sökdriven",
+  "betyg": 3,
+  "kommentar": "Helbild + sökruta"
+ },
+ "specialfastigheter": {
+  "namn": "Specialfastigheter",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 2,
+  "kommentar": "Bild (cookie-ruta täckte)"
+ },
+ "humlegarden": {
+  "namn": "Humlegården",
+  "med": true,
+  "arketyp": "centrerad",
+  "betyg": 4,
+  "kommentar": "Mörk, serif-rubrik, lokalsök på mörk yta – elegant"
+ },
+ "amf-fastigheter": {
+  "namn": "AMF Fastigheter",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 3,
+  "kommentar": "Fet smal rubrik, blå knapp (film laddade inte)"
+ },
+ "alecta-fastigheter": {
+  "namn": "Alecta Fastigheter",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 5,
+  "kommentar": "Jätterubrik i marinblått som överlappar bilden"
+ },
+ "skandia-fastigheter": {
+  "namn": "Skandia Fastigheter",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 4,
+  "kommentar": "Inramad bild med rubrik + sök, rund badge, petrolrutor"
+ },
+ "einar-mattsson": {
+  "namn": "Einar Mattsson",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 3,
+  "kommentar": "Helbild, lätt rubrik, snabblänkskort"
+ },
+ "familjebostader": {
+  "namn": "Familjebostäder",
+  "med": true,
+  "arketyp": "portal",
+  "betyg": 2,
+  "kommentar": "Rund platta och ikoner"
+ },
+ "svenska-bostader": {
+  "namn": "Svenska Bostäder",
+  "med": true,
+  "arketyp": "portal",
+  "betyg": 3,
+  "kommentar": "Bild + vitt kort + tjänsterutor"
+ },
+ "stockholmshem": {
+  "namn": "Stockholmshem",
+  "med": true,
+  "arketyp": "portal",
+  "betyg": 2,
+  "kommentar": "Ren tjänsteportal"
+ },
+ "bostadsbolaget": {
+  "namn": "Bostadsbolaget",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 3,
+  "kommentar": "Bild + mörkt rundat kort"
+ },
+ "poseidon": {
+  "namn": "Poseidon",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 2,
+  "kommentar": "Helbild (cookie)"
+ },
+ "framtiden": {
+  "namn": "Framtiden",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 2,
+  "kommentar": "Inramad slider"
+ },
+ "mkb": {
+  "namn": "MKB",
+  "med": true,
+  "arketyp": "portal",
+  "betyg": 2,
+  "kommentar": "Bild + kort + ikoncirklar"
+ },
+ "uppsalahem": {
+  "namn": "Uppsalahem",
+  "med": true,
+  "arketyp": "portal",
+  "betyg": 2,
+  "kommentar": "Sök + ikoner"
+ },
+ "hemso": {
+  "namn": "Hemsö",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 4,
+  "kommentar": "Mörk helbild, vit fet rubrik, orange pillerknapp"
+ },
+ "sbb": {
+  "namn": "SBB",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 3,
+  "kommentar": "Kursband, flygbild"
+ },
+ "nyfosa": {
+  "namn": "Nyfosa",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 3,
+  "kommentar": "Spärrad versal logga, IR-topprad"
+ },
+ "stendorren": {
+  "namn": "Stendörren",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 3,
+  "kommentar": "Kursband, bild + halvgenomskinlig platta"
+ },
+ "fastpartner": {
+  "namn": "Fastpartner",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 3,
+  "kommentar": "Diagonala former, centrerad fet rubrik"
+ },
+ "pandox": {
+  "namn": "Pandox",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 4,
+  "kommentar": "Helbild, lätt serif, minimal"
+ },
+ "brinova": {
+  "namn": "Brinova",
+  "med": true,
+  "arketyp": "sökdriven",
+  "betyg": 2,
+  "kommentar": "Sökfält + ikonrutor"
+ },
+ "trianon": {
+  "namn": "Trianon",
+  "med": false,
+  "skal": "Tom sida"
+ },
+ "lundbergs": {
+  "namn": "Lundbergs",
+  "med": true,
+  "arketyp": "sökdriven",
+  "betyg": 3,
+  "kommentar": "Mintfält, cirkelbeskuren bild, sök"
+ },
+ "stangastaden": {
+  "namn": "Stångåstaden",
+  "med": true,
+  "arketyp": "split",
+  "betyg": 2,
+  "kommentar": "Serif (cookie täckte)"
+ },
+ "obo": {
+  "namn": "ÖBO",
+  "med": true,
+  "arketyp": "split",
+  "betyg": 2,
+  "kommentar": "Konsumentnära delad hero"
+ },
+ "mimer": {
+  "namn": "Mimer",
+  "med": true,
+  "arketyp": "industriell",
+  "betyg": 3,
+  "kommentar": "Smala feta versaler, magenta knappar"
+ },
+ "vatterhem": {
+  "namn": "Vätterhem",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 3,
+  "kommentar": "Rundad inramad bild, centrerad text"
+ },
+ "botrygg": {
+  "namn": "Botrygg",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 3,
+  "kommentar": "Stor högerställd serif över foto"
+ },
+ "bonnier-fastigheter": {
+  "namn": "Bonnier Fastigheter",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 4,
+  "kommentar": "Mörk helbild, serif, vertikal sidomeny"
+ },
+ "bravida": {
+  "namn": "Bravida",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 4,
+  "kommentar": "Grupp-topprad, film, rundat hörn nere till höger"
+ },
+ "assemblin": {
+  "namn": "Assemblin",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 3,
+  "kommentar": "Mörkgrön header, bild, gul pillerknapp"
+ },
+ "instalco": {
+  "namn": "Instalco",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 4,
+  "kommentar": "Helbild, fet sans, kursband i nederkant"
+ },
+ "caverion": {
+  "namn": "Caverion",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 4,
+  "kommentar": "Rubrik + text över bred bild – lugnt"
+ },
+ "sweco": {
+  "namn": "Sweco",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 3,
+  "kommentar": "Bild med genvägsrutor (cookie täckte)"
+ },
+ "afry": {
+  "namn": "AFRY",
+  "med": false,
+  "skal": "404-sida"
+ },
+ "wsp": {
+  "namn": "WSP",
+  "med": true,
+  "arketyp": "centrerad",
+  "betyg": 4,
+  "kommentar": "Mörk, jättestora versaler, röd platta"
+ },
+ "ramboll": {
+  "namn": "Ramboll",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 5,
+  "kommentar": "Flygbild helskärm, stor lätt sans"
+ },
+ "tyrens": {
+  "namn": "Tyréns",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 4,
+  "kommentar": "Mörk header, flygbild + krämvitt överlappande kort, svarta pillerknappar"
+ },
+ "norconsult": {
+  "namn": "Norconsult",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 4,
+  "kommentar": "Flyglandskap helskärm, limegrön pillerknapp"
+ },
+ "white-arkitekter": {
+  "namn": "White Arkitekter",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 4,
+  "kommentar": "Redaktionellt: bild + fet rubrik under, minimal meny"
+ },
+ "byggfakta": {
+  "namn": "Byggfakta",
+  "med": false,
+  "skal": "SaaS-bolag, inte koncern"
+ },
+ "lindab": {
+  "namn": "Lindab",
+  "med": true,
+  "arketyp": "ramad",
+  "betyg": 2,
+  "kommentar": "Produktbolag – blå platta"
+ },
+ "ramirent": {
+  "namn": "Ramirent",
+  "med": true,
+  "arketyp": "portal",
+  "betyg": 2,
+  "kommentar": "Gul e-handel"
+ },
+ "cramo": {
+  "namn": "Cramo",
+  "med": true,
+  "arketyp": "portal",
+  "betyg": 2,
+  "kommentar": "Uthyrning, ikonrutor"
+ },
+ "nrep": {
+  "namn": "NREP",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 3,
+  "kommentar": "Tunn jättetext i gemener (film laddade inte)"
+ },
+ "kungsleden": {
+  "namn": "Kungsleden",
+  "med": false,
+  "skal": "Visar Castellum (dubblett)"
+ },
+ "klovern": {
+  "namn": "Klövern",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 4,
+  "kommentar": "Gigantisk svart ordbild"
+ },
+ "logistea": {
+  "namn": "Logistea",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 4,
+  "kommentar": "Kursband, svävande rundad meny, lätt stor sans"
+ },
+ "annehem": {
+  "namn": "Annehem",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 3,
+  "kommentar": "Kurs i headern, helbild"
+ },
+ "neobo": {
+  "namn": "Neobo",
+  "med": true,
+  "arketyp": "split",
+  "betyg": 3,
+  "kommentar": "Ljusblått färgfält + bild"
+ },
+ "genova": {
+  "namn": "Genova",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 2,
+  "kommentar": "Spärrad logga, tomt (film laddade inte)"
+ },
+ "fortinova": {
+  "namn": "Fortinova",
+  "med": true,
+  "arketyp": "centrerad",
+  "betyg": 2,
+  "kommentar": "Grå (film laddade inte)"
+ },
+ "tornet": {
+  "namn": "Tornet",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 2,
+  "kommentar": "Bild med pillerknappar"
+ },
+ "region-fastigheter-stockholm": {
+  "namn": "Region Fastigheter Stockholm",
+  "med": true,
+  "arketyp": "split",
+  "betyg": 2,
+  "kommentar": "Portal (cookie)"
+ },
+ "byggmastarna": {
+  "namn": "Byggmästarna",
+  "med": false,
+  "skal": "Litet lokalt bolag"
+ },
+ "folkhem": {
+  "namn": "Folkhem",
+  "med": true,
+  "arketyp": "statement",
+  "betyg": 3,
+  "kommentar": "Serif över trätextur"
+ },
+ "sveafastigheter": {
+  "namn": "Sveafastigheter",
+  "med": true,
+  "arketyp": "sökdriven",
+  "betyg": 3,
+  "kommentar": "Bild + sökfält"
+ },
+ "alm-equity": {
+  "namn": "Alm Equity",
+  "med": true,
+  "arketyp": "finans",
+  "betyg": 4,
+  "kommentar": "Flygbild med nyckeltal (börsvärde, aktiekurs) direkt i heron"
+ },
+ "vincero": {
+  "namn": "Vincero",
+  "med": true,
+  "arketyp": "monument",
+  "betyg": 3,
+  "kommentar": "Helbild med stor geometrisk rubrik, versal spärrad meny"
+ }
+}
