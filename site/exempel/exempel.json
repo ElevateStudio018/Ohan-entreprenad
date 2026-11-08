@@ -98,7 +98,13 @@
     "vagval": "rader",
     "bolag": "flikar",
     "siffror": "jatte",
-    "nyheter": "lista"
+    "nyheter": "kolumner",
+    "berattelser": "stor",
+    "projekt": "",
+    "hb": "helbild",
+    "ir": "kompakt",
+    "panel": "helbild",
+    "snabb": "rutor"
    },
    "ordning_lista": [
     "vagval",
@@ -109,8 +115,7 @@
     "hb",
     "panel",
     "nyheter",
-    "ir",
-    "snabb"
+    "ir"
    ],
    "panel_omvand": true,
    "sidfot": "primar",
@@ -360,7 +365,12 @@
     "vagval": "chips",
     "bolag": "kort",
     "siffror": "rad",
-    "nyheter": "lista"
+    "nyheter": "rad",
+    "berattelser": "tre",
+    "projekt": "",
+    "hb": "split",
+    "ir": "kort",
+    "panel": "panel"
    },
    "ordning_lista": [
     "vagval",
@@ -505,7 +515,12 @@
     "vagval": "nummer",
     "bolag": "kort",
     "siffror": "band",
-    "nyheter": "tidning"
+    "nyheter": "tidning",
+    "berattelser": "tre",
+    "projekt": "lista",
+    "hb": "siffror",
+    "panel": "jobb",
+    "snabb": "band"
    },
    "ordning_lista": [
     "siffror",
@@ -649,7 +664,10 @@
     "vagval": "cirklar",
     "bolag": "rund",
     "siffror": "rad",
-    "nyheter": "lista"
+    "nyheter": "lista",
+    "berattelser": "rad",
+    "projekt": "feature",
+    "hb": "kort"
    },
    "ordning_lista": [
     "service",
@@ -793,7 +811,11 @@
     "vagval": "register",
     "bolag": "lista",
     "siffror": "rad",
-    "nyheter": "tidning"
+    "nyheter": "tidning",
+    "berattelser": "stor",
+    "projekt": "",
+    "hb": "split",
+    "ir": "tabell"
    },
    "ordning_lista": [
     "vagval",
@@ -936,7 +958,11 @@
     "vagval": "bildrutor",
     "bolag": "kort",
     "siffror": "rad",
-    "nyheter": "lista"
+    "nyheter": "lista",
+    "berattelser": "band",
+    "projekt": "",
+    "hb": "helbild",
+    "panel": "panel"
    },
    "ordning_lista": [
     "process",
@@ -1081,7 +1107,12 @@
     "vagval": "lankar",
     "bolag": "tabell",
     "siffror": "dashboard",
-    "nyheter": "lista"
+    "nyheter": "rad",
+    "berattelser": "tre",
+    "projekt": "lista",
+    "hb": "split",
+    "ir": "tabell",
+    "snabb": "band"
    },
    "ordning_lista": [
     "siffror",
@@ -1225,7 +1256,13 @@
     "vagval": "rutor",
     "bolag": "vagg",
     "siffror": "rad",
-    "nyheter": "lista"
+    "nyheter": "lista",
+    "berattelser": "tre",
+    "projekt": "",
+    "hb": "kort",
+    "ir": "kort",
+    "panel": "panel",
+    "snabb": "rutor"
    },
    "ordning_lista": [
     "vagval",
@@ -1361,7 +1398,11 @@
     "vagval": "expertis",
     "bolag": "kort",
     "siffror": "rad",
-    "nyheter": "lista"
+    "nyheter": "lista",
+    "berattelser": "rad",
+    "projekt": "feature",
+    "hb": "siffror",
+    "ir": "kompakt"
    },
    "ordning_lista": [
     "vagval",
@@ -1396,7 +1437,7 @@
     "bolag": "pa-ton",
     "siffror": "pa-farg",
     "berattelser": "",
-    "hb": "pa-ton",
+    "hb": "pa-mork",
     "nyheter": "",
     "ir": ""
    },

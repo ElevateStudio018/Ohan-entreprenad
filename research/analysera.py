@@ -135,6 +135,20 @@ MEASURE = r"""
   out.sections = document.querySelectorAll('main section, main > div').length;
   out.has_video_any = !!first('video');
   out.anim = [...document.querySelectorAll('[data-aos], [class*=animate], [class*=reveal], [class*=fade]')].length;
+  // Tecken på en ålderstigen eller svag sajt
+  out.viewport_meta = !!document.querySelector('meta[name=viewport]');
+  out.generator = (document.querySelector('meta[name=generator]') || {}).content || null;
+  out.jquery = (window.jQuery && window.jQuery.fn && window.jQuery.fn.jquery) || null;
+  const ar = [...(document.body.innerText || '').matchAll(/(?:©|copyright)\s*(?:\d{4}\s*[-–]\s*)?(\d{4})/gi)].map(m => +m[1]).filter(y => y > 1995 && y < 2100);
+  out.copyright_ar = ar.length ? Math.max(...ar) : null;
+  const res = performance.getEntriesByType('resource');
+  out.resurser = res.length;
+  out.vikt_kb = Math.round((res.reduce((s, r) => s + (r.transferSize || 0), 0) + ((performance.getEntriesByType('navigation')[0] || {}).transferSize || 0)) / 1024);
+  out.bilder_utan_alt = [...document.querySelectorAll('img')].filter(i => !i.hasAttribute('alt')).length;
+  out.https = location.protocol === 'https:';
+  out.tabell_layout = [...document.querySelectorAll('table')].filter(t => t.getBoundingClientRect().width > 700).length;
+  out.iframes = document.querySelectorAll('iframe').length;
+  out.laddtid_ms = Math.round((performance.getEntriesByType('navigation')[0] || {}).loadEventEnd || 0);
   return out;
 }
 """
@@ -209,6 +223,8 @@ async def one_inner(browser, row, results):
             await dismiss(m)
             await m.wait_for_timeout(500)
             await m.screenshot(path=str(SHOTS / f"{s}-mob.jpg"), type="jpeg", quality=65)
+            rec["mobil_bredd"] = await m.evaluate("document.documentElement.scrollWidth")
+            rec["mobil_text_px"] = await m.evaluate("parseFloat(getComputedStyle(document.querySelector('main p, p') || document.body).fontSize)")
             rec["ok"] = True
         except Exception as e:
             rec["ok"] = False
