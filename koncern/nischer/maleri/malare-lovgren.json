@@ -1,0 +1,133 @@
+{
+  "profil": "nisch",
+  "nisch": "maleri",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Målare Lövgren i Karlstad AB",
+  "kortnamn": "Målare Lövgren",
+  "slug": "malare-lovgren",
+  "typ": "Liten målerifirma i Karlstad",
+  "tagline": "Tre målare, inga mellanhänder",
+  "slogan": "Anna Lövgren och två anställda målare – du träffar samma personer från första besöket till sista strykningen.",
+  "hero_rubrik": "Den som ger dig priset står på stegen",
+  "hero_text": "Tre målare i Karlstad, ett hus eller en lägenhet åt gången. Öppet timpris på hemsidan och en kalender där du ser när vi har en lucka.",
+  "intro_rubrik": "Litet med flit",
+  "om": [
+    "Anna Lövgren arbetade tolv år på ett av Värmlands större måleribolag innan hon startade eget 2018. Hon ville slippa säljare och projektledare mellan sig och kunden, och hon ville kunna säga nej till jobb som inte går att göra ordentligt på den tid kunden har.",
+    "I dag är vi tre: Anna, Jesper Nyberg och Fatima Rahimi. Vi målar villor, radhus och lägenheter i Karlstad med omnejd, ungefär 40 uppdrag om året. Vi har ingen reklam – nästan alla kunder kommer via grannar, och vi tackar hellre nej än lovar en tid vi inte kan hålla."
+  ],
+  "vagval_rubrik": "Vad behöver du hjälp med?",
+  "tjanster": [
+    {"titel": "Villafasad", "ikon": "hus", "href": "verksamhet.html", "text": "En villa i taget, med skrapning, grund och två strykningar."},
+    {"titel": "Lägenhet och rum", "ikon": "hem", "href": "verksamhet.html", "text": "Väggar, tak och snickerier – också bara ett enda rum."},
+    {"titel": "Tapetsering", "ikon": "pensel", "href": "verksamhet.html", "text": "Anna har tapetserat sedan 2006 och klarar mönsterpassning i trånga hallar."},
+    {"titel": "Fönster och dörrar", "ikon": "las", "href": "verksamhet.html", "text": "Utvändig målning av bågar, karmar och ytterdörrar på plats."},
+    {"titel": "Staket och altan", "ikon": "sol", "href": "verksamhet.html", "text": "Oljning och målning när fasaden ändå är på gång."},
+    {"titel": "Färgråd", "ikon": "lampa", "href": "verksamhet.html", "text": "Vi tar med provburkar och målar provlappar på väggen."},
+    {"titel": "Timpris", "ikon": "dokument", "href": "verksamhet.html", "text": "Öppna priser – både löpande och fast pris."},
+    {"titel": "Ring Anna", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Mobilen är på vardagar mellan 7 och 18."}
+  ],
+  "affarsomraden": [
+    {"titel": "Utvändigt", "text": "Villor och radhus i trä. Vi skrapar och tvättar själva, byter enstaka brädor och målar med den färgtyp som redan sitter på huset.", "text2": "En normal villa tar oss två till tre veckor med tre målare.", "tagg": "maleri"},
+    {"titel": "Invändigt", "text": "Lägenheter inför försäljning, barnrum som ska bli tonårsrum och hallar som har slitits av skor och cyklar. Vi skyddar golv och möbler och tar bort allt skydd när vi går för dagen.", "text2": "Ett rum på 12 kvadratmeter är oftast klart på en dag.", "tagg": "interior"},
+    {"titel": "Tapet", "text": "Från enkel vliestapet till tunga papperstapeter med stora mönster. Vi mäter, beräknar åtgång och hjälper till att beställa rätt antal rullar.", "text2": "Överblivna rullar lämnar vi kvar, märkta med rum och tillverkningsnummer.", "tagg": "hem"},
+    {"titel": "Småjobb", "text": "En ytterdörr, ett trapphus i ett radhus eller fönsterbågarna på framsidan. Många firmor tar inte jobb under en vecka – det gör vi, i luckorna mellan större uppdrag.", "text2": "Kalendern på hemsidan visar när nästa lucka finns.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Anna Lövgren", "segment": "Ägare och målare", "rubrik": "Offerter, tapet och planering", "text": "Gör alla besök och offerter själv, och tapetserar helst. Gesällbrev 2008.", "tagg": "people"},
+    {"namn": "Jesper Nyberg", "segment": "Målare sedan 2014", "rubrik": "Fasader och fönster", "text": "Ansvarar för ställning och utvändiga jobb, och är den som skrapar fram de gamla färglagren.", "tagg": "maleri"},
+    {"namn": "Fatima Rahimi", "segment": "Målare sedan 2021", "rubrik": "Inne och snickerier", "text": "Gick lärlingstiden hos oss och har nu yrkesbevis. Har noggrannast penselföring av oss tre.", "tagg": "interior"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fyra radhus på samma gata", "text": "En granne på Herrhagen tipsade nästa, och nu har hela raden samma ljusgrå panel.", "tagg": "bostad"},
+    {"rubrik": "Fatima fick sitt yrkesbevis", "text": "Efter tre år som lärling är hon nu fullt utbildad målare – och stannar hos oss.", "tagg": "people"},
+    {"rubrik": "Våren 2027 nästan full", "text": "Det finns tre veckor kvar för fasadmålning i april och maj.", "tagg": "maleri"}
+  ],
+  "nyckeltal": [
+    {"varde": "3", "enhet": "målare", "etikett": "Och ingen säljare"},
+    {"varde": "40", "enhet": "uppdrag", "etikett": "Per år, aldrig fler"},
+    {"varde": "590", "enhet": "kr/tim", "etikett": "Timpris före ROT"},
+    {"varde": "2018", "enhet": "", "etikett": "Anna startade eget"}
+  ],
+  "projekt": [
+    {"namn": "Radhusraden på Herrhagen", "ort": "Karlstad, Herrhagen", "typ": "Fyra radhusfasader", "ar": "2026", "text": "Samma kulör, samma vecka, och grannarna delade på ställningen.", "tagg": "bostad"},
+    {"namn": "1930-talsvilla i Haga", "ort": "Karlstad, Haga", "typ": "Fasad och fönster", "ar": "2026", "text": "Skrapning till trä på västsidan och linoljefärg i originalkulören.", "tagg": "maleri"},
+    {"namn": "Lägenhet på Älvgatan", "ort": "Karlstad", "typ": "Inför försäljning", "ar": "2025", "text": "Tre rum och kök målade på fyra dagar inför visning.", "tagg": "interior"},
+    {"namn": "Sommarhus i Skåre", "ort": "Skåre", "typ": "Fasad och altan", "ar": "2025", "text": "Röd slamfärg på panelen och oljad altan mot Vänern.", "tagg": "hem"},
+    {"namn": "Hall och trapphus", "ort": "Hammarö", "typ": "Tapetsering", "ar": "2024", "text": "Mönsterpassad tapet i en hall med fem dörrar och en snedtrappa.", "tagg": "interior"},
+    {"namn": "Villa i Kronoparken", "ort": "Karlstad", "typ": "Fasad", "ar": "2027", "text": "Bokad för maj – ställningen reses dagen efter Valborg.", "tagg": "maleri", "status": "Bokat"}
+  ],
+  "process": [
+    {"titel": "Anna kommer på besök", "text": "Hon tittar på ytorna, frågar vad du vill ha och berättar ärligt om det är värt att måla nu eller om det kan vänta.", "tagg": "people"},
+    {"titel": "Pris samma vecka", "text": "Du väljer fast pris eller löpande räkning med takpris.", "tagg": "hem"},
+    {"titel": "Vi målar", "text": "Samma tre personer från start till slut, och du har Annas mobilnummer hela tiden.", "tagg": "maleri"},
+    {"titel": "Genomgång och faktura", "text": "Vi går igenom jobbet tillsammans innan fakturan skickas. ROT dras direkt.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Små löften som vi håller",
+    "text": "Vi lovar inte mycket, men det vi lovar skriver vi ner. Du får svar inom två arbetsdagar, besök inom två veckor och tre års garanti på allt vi målar. Restfärg lämnar vi kvar till dig eller tar med till återvinningen på Djupdalen.",
+    "mal": [["2 dagar", "till svar på din förfrågan"], ["3 år", "garanti på utfört arbete"], ["0", "underentreprenörer"]]
+  },
+  "karriar": {
+    "rubrik": "Vi är inte många – men vi tar en lärling ibland",
+    "text": "Var tredje år tar vi in en lärling som får gå bredvid oss tills yrkesbeviset är klart. Nästa plats öppnar hösten 2027.",
+    "jobb": [["Lärling måleri, start hösten 2027", "Karlstad"]]
+  },
+  "kultur": "Vi kör i en enda bil, äter lunch i den när det regnar och har aldrig haft ett möte som var längre än en fika.",
+  "citat": {"text": "Jag vill kunna köra förbi varje hus vi har målat och vinka till dem som bor där. Det klarar man bara om man är liten.", "namn": "Anna Lövgren", "roll": "Ägare och målare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Anna sa att baksidan kunde vänta två år. Ingen annan målare har sagt åt mig att köpa mindre.", "namn": "Lennart B.", "ort": "Karlstad, Haga"},
+    {"text": "Samma tre personer varje dag. Våra barn kunde deras namn efter två dagar.", "namn": "Sanna och Erik W.", "ort": "Herrhagen"},
+    {"text": "Tapeten i hallen möts perfekt runt alla fem dörrarna. Jag har letat efter skarven och inte hittat den.", "namn": "Birgitta N.", "ort": "Hammarö"}
+  ],
+  "faq": [
+    ["Varför är ni bara tre?", "För att Anna vill göra offerterna själv och kunna stå på varje jobb. Det betyder att vi ibland får säga nej, men aldrig att någon okänd dyker upp hemma hos dig."],
+    ["Vad är skillnaden mellan fast pris och löpande?", "Fast pris är bäst när ytorna är lätta att bedöma. Löpande räkning med takpris passar när vi inte vet hur mycket färg som släpper vid skrapningen – du betalar aldrig mer än taket."],
+    ["Tar ni jobb som bara tar en dag?", "Ja, i luckorna mellan större uppdrag. Kalendern på hemsidan visar när nästa lucka finns."],
+    ["Hur fungerar ROT-avdraget?", "Du får 30 procent av arbetskostnaden i avdrag. Vi drar det direkt på fakturan och sköter ansökan hos Skatteverket."],
+    ["Köper ni färgen eller jag?", "Vi köper färgen till samma pris som i butiken, utan påslag. Vill du köpa själv går det också bra."],
+    ["Hur långt åker ni?", "Karlstad, Hammarö, Skåre och Kil utan tillägg. Längre bort tar vi en fast reseavgift på 450 kronor per dag."]
+  ],
+  "priser": [
+    {"namn": "Löpande räkning", "pris": "590 kr", "enhet": "per timme och målare", "text": "När ytorna är svåra att bedöma i förväg.", "punkter": ["Takpris i offerten", "Veckovis tidrapport", "Färg utan påslag", "ROT dras direkt"]},
+    {"namn": "Fast pris", "pris": "efter besök", "enhet": "hela uppdraget", "text": "Vanligast för rum, lägenheter och villafasader.", "punkter": ["Pris inom en vecka", "Material ingår", "Tre års garanti", "Inga tillägg i efterhand"], "utvald": true},
+    {"namn": "Lucka i kalendern", "pris": "4 200 kr", "enhet": "per målardag", "text": "En målare en hel dag för småjobb.", "punkter": ["Ytterdörr, fönster eller ett rum", "Bokas med kort varsel", "Material tillkommer", "ROT dras direkt"]}
+  ],
+  "certifikat": [
+    {"titel": "Gesällbrev i måleri", "text": "Anna tog gesällbrev 2008, Jesper 2016.", "ikon": "stjarna"},
+    {"titel": "Måleriavtalet", "text": "Kollektivavtal för båda anställda målare.", "ikon": "dokument"},
+    {"titel": "F-skatt och ROT", "text": "Godkänd för F-skatt och direktavdrag för ROT.", "ikon": "kontor"},
+    {"titel": "Ansvarsförsäkring", "text": "3 miljoner kronor, som täcker skador i ditt hem.", "ikon": "skold"}
+  ],
+  "kunder": ["Brf Älvgatan 6", "Herrhagens Radhusförening", "Hammarö Samfällighet", "Skåre Båtklubb", "Kils Hembygdsförening", "Tandvården på Drottninggatan"],
+  "nyheter": [
+    ["2026-10-15", "Våren 2027 nästan fullbokad", "Tre fasadveckor kvar i april och maj – sommaren är redan full.", "maleri"],
+    ["2026-06-30", "Fatima har tagit yrkesbevis", "Tre år som lärling, nu fullt utbildad målare.", "people"],
+    ["2026-03-12", "Varför vi säger nej ibland", "Anna berättar hur hon väljer vilka jobb vi tar.", "hem"]
+  ],
+  "kontakt": {"adress": "Våxnäsgatan 12", "postnr": "653 43", "ort": "Karlstad", "telefon": "070-174 06 57", "epost": "anna@malarelovgren.se", "orgnr": ""},
+  "oppettider": "Mobilen vardagar 7–18",
+  "omrade": "Karlstad, Hammarö, Skåre och Kil",
+  "fot_cta": "Titta i kalendern och ring Anna – hon svarar själv.",
+  "bild": {"panel": "people", "hb": "hem"},
+  "text": {
+    "ber_etikett": "Senast",
+    "ber_rubrik": "Vad vi tre har gjort på sistone",
+    "proj_rubrik": "Hus och rum i Karlstad",
+    "process_rubrik": "Fyra steg, samma tre personer",
+    "hb_etikett": "Våra löften",
+    "omdomen_rubrik": "Grannarna som tipsade grannarna",
+    "faq_rubrik": "Bra att veta innan du ringer",
+    "priser_rubrik": "Så tar vi betalt",
+    "priser_not": "Alla priser inklusive moms och före ROT-avdrag. Material tillkommer vid löpande räkning.",
+    "priser_utvald": "Oftast valt",
+    "priser_knapp": "Fråga Anna",
+    "boka_rubrik": "Skriv till Anna",
+    "boka_text": "Berätta vad som ska målas och var du bor. Anna svarar inom två arbetsdagar.",
+    "boka_knapp": "Skicka till Anna",
+    "logos_rubrik": "Några av dem vi har målat åt",
+    "certifikat_rubrik": "Utbildning och trygghet",
+    "bolag_rubrik": "Vi tre",
+    "bolag_etikett": "Vilka vi är",
+    "medarbetare": "Vi tre"
+  }
+}

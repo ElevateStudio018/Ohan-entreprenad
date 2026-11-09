@@ -1,0 +1,148 @@
+{
+  "profil": "nisch",
+  "nisch": "batvarv",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Skrovhallen Härnösand ekonomisk förening",
+  "kortnamn": "Skrovhallen",
+  "slug": "skrovhallen-harnosand",
+  "typ": "Gör-det-själv-varv vid Höga kusten",
+  "tagline": "Ditt projekt, våra verktyg",
+  "slogan": "Ett medlemsägt varv där du hyr en arbetsplats, lånar verktygen och får hjälp av en båtbyggare när du kör fast.",
+  "hero_rubrik": "Bygg om båten själv – med varm hall",
+  "hero_text": "Uppvärmda arbetsplatser, verktygsförråd, slipdammsugare och kvällskurser på Härnön. 640 medlemmar renoverar sina båtar själva under vintern.",
+  "intro_rubrik": "Ett varv som ägs av sina användare",
+  "om": [
+    "När det kommunala varvet i Härnösand skulle läggas ner 2013 samlade fyra båtklubbar ihop 1,2 miljoner kronor och bildade en ekonomisk förening. I stället för att göra jobben åt medlemmarna bestämde vi att de skulle få göra dem själva – men med riktiga lokaler och riktiga verktyg.",
+    "I dag har föreningen 640 medlemmar, tre anställda och en båtbyggare på halvtid som går runt i hallen och svarar på frågor. Hallen har 34 uppvärmda arbetsplatser, och på planen står 220 båtar vars ägare arbetar på dem när vädret tillåter."
+  ],
+  "vagval_rubrik": "Vad ska du ta dig an i vinter?",
+  "tjanster": [
+    {"titel": "Arbetsplats i varm hall", "ikon": "sol", "href": "verksamhet.html", "text": "34 platser med +16 grader, el, tryckluft och belysning – hyr per månad."},
+    {"titel": "Verktygsförrådet", "ikon": "verktyg", "href": "verksamhet.html", "text": "Excenterslipar, polermaskiner, fuktmätare och mastkran att låna."},
+    {"titel": "Fråga båtbyggaren", "ikon": "folk", "href": "verksamhet.html", "text": "Lennart finns i hallen tisdag, torsdag och lördag."},
+    {"titel": "Kvällskurser", "ikon": "skola", "href": "verksamhet.html", "text": "Gelcoat, plastlaminering, motorservice och lackering – sex kvällar per kurs."},
+    {"titel": "Plats på planen", "ikon": "lada", "href": "verksamhet.html", "text": "220 uteplatser med el vid varje rad och slipdammsugare."},
+    {"titel": "Lyft och sjösättning", "ikon": "kran", "href": "verksamhet.html", "text": "Föreningens kranbil lyfter båtar upp till 12 ton."},
+    {"titel": "Materialbutiken", "ikon": "lada", "href": "verksamhet.html", "text": "Epoxi, glasfiberväv och slippapper till medlemspris."},
+    {"titel": "Bli medlem", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Insats 2 500 kr, återbetalas om du lämnar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Hallen", "text": "Hallen har 34 arbetsplatser på 6 × 12 meter, med golvvärme, tryckluftsuttag och 16 ampere vid varje plats. Du hyr platsen per månad från oktober till april och har nyckelbricka dygnet runt.", "text2": "En sprutbox med ventilation kan bokas per dag för lackering.", "tagg": "bygg"},
+    {"titel": "Verktyg och maskiner", "text": "I förrådet finns 180 verktyg som medlemmar lånar med sin bricka: slipmaskiner med dammsug, värmefläktar, fuktmätare, hydraulisk domkraft och en mastkran för master upp till 14 meter. Allt kontrolleras när det lämnas tillbaka.", "text2": "Specialverktyg för motorer och drev lånas mot kvittens.", "tagg": "maskin"},
+    {"titel": "Kunskap", "text": "Båtbyggaren Lennart Sjödin arbetar halvtid som handledare i hallen. Han tittar på din skada, förklarar hur du lagar den och kontrollerar resultatet innan du lägger på nästa lager.", "text2": "Kvällskurserna leds av yrkesbåtbyggare och mekaniker från regionen.", "tagg": "people"},
+    {"titel": "Planen och lyften", "text": "Föreningen äger en kranbil och en hydraulisk båtvagn. Sjösättning och upptagning sker på bokade lyftdagar, och medlemmarna hjälper varandra med stöttor och presenningar.", "text2": "Varje medlem ställer upp på två arbetspass per år.", "tagg": "bat"}
+  ],
+  "bolag": [
+    {"namn": "Styrelsen", "segment": "Medlemsvalda", "rubrik": "Sju ledamöter från fyra klubbar", "text": "Beslutar om avgifter, investeringar och regler. Årsstämma i mars.", "tagg": "kontor"},
+    {"namn": "Varvskansliet", "segment": "Tre anställda", "rubrik": "Bokning, lyft och förråd", "text": "Sköter platsbokning, kranbilen och verktygsförrådet.", "tagg": "people"},
+    {"namn": "Handledningen", "segment": "Båtbyggare på halvtid", "rubrik": "Lennart i hallen", "text": "Rådgivning vid arbetsplatserna och genomgång av färdiga lagningar.", "tagg": "tra"},
+    {"namn": "Kursverksamheten", "segment": "I samarbete med studieförbund", "rubrik": "Tolv kurser per vinter", "text": "Kvällskurser i plast, motor, el och lack för medlemmar och allmänhet.", "tagg": "bygg"}
+  ],
+  "berattelser": [
+    {"rubrik": "En Vindö 30 på 22 vintrar", "text": "En medlem har renoverat samma båt i hallen sedan 2014 och sjösätter den äntligen i maj.", "tagg": "bat"},
+    {"rubrik": "Sprutboxen invigd", "text": "Ventilerad lackbox för båtar upp till 28 fot – nu kan medlemmar lackera själva.", "tagg": "maleri"},
+    {"rubrik": "Kurserna fulltecknade", "text": "Alla tolv kvällskurser i vinter fylldes på tre dagar.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "640", "enhet": "medlemmar", "etikett": "Som äger föreningen"},
+    {"varde": "34", "enhet": "platser", "etikett": "I uppvärmd hall"},
+    {"varde": "180", "enhet": "verktyg", "etikett": "Att låna med brickan"},
+    {"varde": "2 500", "enhet": "kr", "etikett": "Insats för att bli medlem"}
+  ],
+  "projekt": [
+    {"namn": "Sprutboxen", "ort": "Härnösand", "typ": "Investering", "ar": "2026", "text": "Lackbox med filter och frånluft, finansierad med medlemsinsatser och ett lån.", "tagg": "maleri", "status": "Klar"},
+    {"namn": "Vindö 30 från 1974", "ort": "Härnösand", "typ": "Medlemsprojekt", "ar": "2026", "text": "Nytt teakdäck, ny motor och omklädd inredning – helt utfört av ägaren.", "tagg": "tra", "status": "I hallen"},
+    {"namn": "Osmoskurs med åtta båtar", "ort": "Härnösand", "typ": "Kurs", "ar": "2025", "text": "Åtta medlemmar skalade och torkade sina bottnar under handledning.", "tagg": "bat"},
+    {"namn": "Kranbilen", "ort": "Härnösand", "typ": "Investering", "ar": "2024", "text": "Begagnad kranbil på 12 ton som ersatte inhyrd kran vid lyftdagarna.", "tagg": "maskin"},
+    {"namn": "Folkbåt till sjöscouterna", "ort": "Härnösand", "typ": "Ideellt projekt", "ar": "2025", "text": "Medlemmar renoverade en skänkt folkbåt som scouterna nu seglar med.", "tagg": "people"},
+    {"namn": "Golvvärme i hallen", "ort": "Härnösand", "typ": "Ombyggnad", "ar": "2023", "text": "Bergvärme och golvvärme ersatte de gamla elradiatorerna.", "tagg": "bygg"}
+  ],
+  "process": [
+    {"titel": "Bli medlem", "text": "Du betalar insatsen och får en nyckelbricka och en introduktion i hallen.", "tagg": "kontor"},
+    {"titel": "Boka plats", "text": "Välj hallplats eller uteplats och boka lyftdag på hösten.", "tagg": "bat"},
+    {"titel": "Arbeta själv", "text": "Låna verktyg, köp material i butiken och fråga Lennart när du behöver.", "tagg": "bygg"},
+    {"titel": "Sjösätt i maj", "text": "På lyftdagen hjälps alla åt – och båten är din egen förtjänst.", "tagg": "natur"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Delade verktyg, delat ansvar",
+    "text": "När 640 båtägare delar på slipmaskiner, värmefläktar och en kranbil behöver ingen köpa egna. All slipning görs med dammsug och all färg- och epoxirest samlas i föreningens miljöstation.",
+    "mal": [["180", "verktyg som delas av alla medlemmar"], ["100 %", "slipning med dammsug"], ["1", "miljöstation för färg och kemikalier"]]
+  },
+  "karriar": {
+    "rubrik": "Engagera dig i föreningen",
+    "text": "Föreningen drivs av medlemmar. Vi söker kursledare inom el och motor och en extra handledare till lördagarna – arvoderat.",
+    "jobb": [["Kursledare båtel, kvällstid", "Härnösand"], ["Handledare lördagar", "Härnösand"]]
+  },
+  "kultur": "Kaffet står på i fikarummet, och den som sjösätter först bjuder på tårta vid lyftdagen.",
+  "citat": {"text": "Vi skulle kunna göra jobben åt medlemmarna, men då hade de aldrig lärt sig sina båtar. Det är det som är poängen.", "namn": "Kerstin Hägglund", "roll": "Ordförande", "tagg": "people"},
+  "omdomen": [
+    {"text": "Jag hade aldrig laminerat förut. Efter kursen och tre lördagar med Lennart var kölskadan lagad – av mig.", "namn": "Ahmed R.", "ort": "Härnösand"},
+    {"text": "Att kunna låna en polermaskin för 4 000 kronor en helg gjorde hela skillnaden.", "namn": "Birgitta L.", "ort": "Kramfors"},
+    {"text": "Hallen är varm, folk hjälper varandra och vi har sparat 40 000 kronor på vår renovering.", "namn": "Tobias och Elin F.", "ort": "Sundsvall"}
+  ],
+  "faq": [
+    ["Måste jag tillhöra en båtklubb?", "Nej, alla kan bli medlemmar. Men medlemmar i de fyra grundarklubbarna får förtur till hallplatser."],
+    ["Kan någon göra jobbet åt mig?", "Föreningen utför inga uppdrag. Vi hänvisar till varv i regionen om du vill köpa arbetet."],
+    ["Vad kostar en hallplats?", "1 450 kr per månad för medlemmar, el och tryckluft ingår. Uteplats kostar 1 900 kr för hela vintern."],
+    ["Får jag använda egna verktyg?", "Ja, men slipmaskiner måste anslutas till dammsug. Heta arbeten kräver tillstånd från kansliet."],
+    ["Vad är arbetspassen?", "Två pass per år, till exempel på lyftdagen eller vid städning av planen. Den som inte kan betalar 600 kr per pass."],
+    ["Får jag tillbaka insatsen?", "Ja, insatsen på 2 500 kr återbetalas när du lämnar föreningen."],
+    ["Vilka kurser finns?", "Gelcoat, plastlaminering, osmos, motorservice, båtel och lackering. Kurserna går på kvällar oktober–mars."]
+  ],
+  "priser": [
+    {"namn": "Uteplats", "pris": "1 900 kr", "enhet": "per vinter", "text": "Plats på planen med el och slipdammsug.", "punkter": ["Lyft på bokad lyftdag", "Låna alla verktyg", "Handledning i hallen", "Medlemspris i butiken"]},
+    {"namn": "Hallplats", "pris": "1 450 kr", "enhet": "per månad", "text": "Varm plats med el och tryckluft dygnet runt.", "punkter": ["+16 grader och golvvärme", "Nyckelbricka dygnet runt", "Låna alla verktyg", "Bokning av sprutboxen"], "utvald": true},
+    {"namn": "Kvällskurs", "pris": "1 800 kr", "enhet": "sex kvällar", "text": "Lär dig gelcoat, laminering, motor eller lack.", "punkter": ["Ledd av yrkesbåtbyggare", "Material ingår", "Öva på riktiga skador", "Intyg efter kursen"]}
+  ],
+  "certifikat": [
+    {"titel": "Ekonomisk förening", "text": "Registrerad hos Bolagsverket, med revisor och öppen årsredovisning för alla medlemmar.", "ikon": "dokument"},
+    {"titel": "Tillstånd för heta arbeten", "text": "Kansliets personal är utbildad tillståndsansvarig enligt Brandskyddsföreningens regler.", "ikon": "eld"},
+    {"titel": "Härdplastutbildning", "text": "Alla som arbetar med epoxi i hallen går föreningens introduktion enligt Arbetsmiljöverkets krav.", "ikon": "hjalm"},
+    {"titel": "Miljöstation", "text": "Anmäld till Härnösands kommun för insamling av färg, lösningsmedel och oljor.", "ikon": "lov"}
+  ],
+  "kunder": ["Härnösands Segelsällskap Södra", "Härnöns Motorbåtsklubb", "Kramfors Båtklubb Ådalen", "Älandsbro Kanotförening", "Härnösands Sjöscoutkår", "Brf Nattviken", "Höga Kustens Folkbåtsflotta"],
+  "nyheter": [
+    ["2026-10-12", "Hallplatserna fördelade", "Alla 34 platser är bokade – nio namn står på väntelistan.", "bygg"],
+    ["2026-09-03", "Vinterns kurser", "Ny kurs i båtel med litiumbatterier och solpaneler.", "people"],
+    ["2026-03-25", "Årsstämman beslutade om ny hall", "Medlemmarna sa ja till att utreda en andra hall med tolv platser.", "kontor"]
+  ],
+  "kontakt": {"adress": "Varvsallén 12", "postnr": "871 33", "ort": "Härnösand", "telefon": "070-174 06 22", "epost": "kansliet@skrovhallen.se", "orgnr": ""},
+  "oppettider": "Hallen dygnet runt för medlemmar, kansliet tis–tors 16–20 och lör 9–14",
+  "omrade": "Härnösand, Kramfors, Sundsvall och Höga kusten",
+  "fot_cta": "Har du en båt som behöver mer än du hinner betala för? Bli medlem.",
+  "bild": {"panel": "people", "hb": "bygg"},
+  "text": {
+    "kontakt_knapp": "Bli medlem",
+    "hero_knapp": "Så fungerar föreningen",
+    "hero_lank": "Medlemmarnas projekt",
+    "vagval_etikett": "I hallen",
+    "ber_etikett": "Från Härnön",
+    "ber_rubrik": "Det medlemmarna gör nu",
+    "proj_etikett": "Projekt",
+    "proj_rubrik": "Medlemsbyggen och investeringar",
+    "proj_rubrik_lista": "Föreningens och medlemmarnas projekt",
+    "status_klart": "Klar",
+    "status_pagaende": "I hallen",
+    "process_etikett": "Ett år som medlem",
+    "process_rubrik": "Från insats till sjösättning",
+    "bolag_etikett": "Föreningen",
+    "bolag_rubrik": "Så styrs Skrovhallen",
+    "bolag_kol": ["Del", "Vem", "Ansvar"],
+    "meny_bolag": "Föreningen",
+    "hb_etikett": "Dela i stället för att köpa",
+    "omdomen_rubrik": "Medlemmar som gjorde det själva",
+    "faq_rubrik": "Om medlemskap och regler",
+    "priser_etikett": "Avgifter",
+    "priser_rubrik": "Avgifter för medlemmar",
+    "priser_knapp": "Anmäl intresse",
+    "priser_utvald": "Störst efterfrågan",
+    "priser_not": "Avgifterna gäller medlemmar 2026/27 och är beslutade av årsstämman.",
+    "boka_rubrik": "Vill du ha en plats?",
+    "boka_text": "Skriv vilken båt du har och vad du vill göra, så kontaktar kansliet dig om medlemskap och lediga platser.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Båt och projekt"],
+    "logos_rubrik": "Klubbarna bakom föreningen",
+    "certifikat_rubrik": "Ordning och säkerhet i hallen",
+    "ny_rubrik": "Medlemsbladet",
+    "medarbetare": "Kansliet"
+  }
+}

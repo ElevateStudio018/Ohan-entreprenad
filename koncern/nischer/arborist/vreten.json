@@ -1,0 +1,139 @@
+{
+  "profil": "arborist",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vretens Trädvård",
+  "kortnamn": "Vreten",
+  "slug": "vreten",
+  "typ": "Trädvård för hästgårdar och lantbruk",
+  "tagline": "Hagar, hästar och läplanteringar",
+  "slogan": "Vi tar hand om träden runt hagar, stall och gårdsplaner i Skaraborg – med koll på vilka träd hästar inte tål.",
+  "hero_rubrik": "Inga giftiga träd i hästhagen",
+  "hero_text": "Tre arborister på en gård utanför Skara. Vi fäller tysklönn och idegran vid hagar, beskär alléer upp till gården och förnyar läplanteringar i hela Skaraborg.",
+  "intro_rubrik": "Gårdens träd har andra regler",
+  "om": [
+    "Vretens Trädvård drivs från gården Vreten utanför Varnhem, där Karin och Henrik Gustavsson har sex hästar och arrenderar ut åkermarken. Karin är utbildad arborist och började 2012 ta hand om träden på grannarnas gårdar, efter att en av deras egna hästar blivit sjuk av frön från en tysklönn.",
+    "Tysklönnens frön och groddplantor kan orsaka atypisk myopati, en muskelsjukdom som ofta är dödlig för hästar. Idegran, robinia och ekar med mycket ollon hör inte heller hemma i en hage. Vi inventerar hagarna, fäller det som behövs och planterar ofarliga träd som ger skugga och lä. Resten av tiden beskär vi alléer, förnyar läplanteringar och fäller träd vid maskinhallar och ladugårdar."
+  ],
+  "vagval_rubrik": "Vad behöver gården?",
+  "tjanster": [
+    {"titel": "Haginventering", "ikon": "sok", "href": "verksamhet.html", "text": "Vi går igenom hagarna och märker träd som är giftiga för hästar."},
+    {"titel": "Fällning av tysklönn", "ikon": "trad", "href": "verksamhet.html", "text": "Tysklönnar vid och i hagar fälls och fröplantorna rycks upp."},
+    {"titel": "Skuggträd i hagen", "ikon": "sol", "href": "verksamhet.html", "text": "Vi planterar lind, björk och rönn som ger skugga utan risk."},
+    {"titel": "Alléer till gården", "ikon": "vag", "href": "verksamhet.html", "text": "Kronhöjning så att hästtransporter och skördetröskor kommer fram."},
+    {"titel": "Läplanteringar", "ikon": "vind", "href": "verksamhet.html", "text": "Uttjänta lähäckar av poppel och gran förnyas i etapper."},
+    {"titel": "Stall och maskinhall", "ikon": "lada", "href": "verksamhet.html", "text": "Träd som hotar tak, hängrännor och ventilation tas ned."},
+    {"titel": "Gårdspriser", "ikon": "dokument", "href": "priser.html", "text": "Fasta priser för inventering och fällning."},
+    {"titel": "Ring Karin", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Karin svarar efter morgonfodringen."}
+  ],
+  "affarsomraden": [
+    {"titel": "Säkra hagar", "text": "Vi går igenom varje hage och dess kanter, märker tysklönn, idegran och andra giftiga träd och föreslår vad som ska fällas. Fröplantor rycks upp för hand, eftersom de är farligast på våren.", "text2": "Du får en karta över hagarna med alla åtgärder markerade.", "tagg": "hast"},
+    {"titel": "Alléer och gårdsträd", "text": "Björk- och lönnalléer upp till gårdarna planterades ofta för hundra år sedan och har vuxit ihop över vägen. Vi kronhöjer till 4,5 meter så att lastbilar och hästtransporter kommer fram utan att skrapa.", "text2": "Alléer i jordbrukslandskapet är biotopskyddade och kräver dispens för fällning, som vi hjälper till att söka.", "tagg": "trad"},
+    {"titel": "Läplanteringar", "text": "Många gårdar i Skaraborg fick läplanteringar av poppel och gran på 1950- och 60-talen. Nu är de gamla och sköra och tappar grenar över betesmark och vägar.", "text2": "Vi förnyar i etapper så att läet finns kvar medan de nya träden växer upp.", "tagg": "natur"},
+    {"titel": "Stall och ekonomibyggnader", "text": "Granar och björkar intill ladugårdar och maskinhallar fyller hängrännor, skuggar solceller och hotar taken vid storm. Vi fäller och kör ut virket på gårdens egen vagn om du vill.", "text2": "Virket kan bli ved till gårdens panna eller säljas till sågverk.", "tagg": "ved"}
+  ],
+  "bolag": [
+    {"namn": "Karin Gustavsson", "segment": "Grundare, arborist och hästägare", "rubrik": "Började efter en sjuk häst", "text": "Karin gör haginventeringarna och har både Svensk Arboristexamen och ETW.", "tagg": "hast"},
+    {"namn": "Henrik Gustavsson", "segment": "Lantbrukare och maskinförare", "rubrik": "Traktor, vagn och flishugg", "text": "Henrik kör traktorn med flishugg och tar hand om virket ute på gårdarna.", "tagg": "ved"},
+    {"namn": "Jonna Tell", "segment": "Arborist", "rubrik": "Klättrar i alléerna", "text": "Jonna klättrar i alléträden och sköter beskärningen av gårdsträd.", "tagg": "trad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Tolv tysklönnar borta vid Hornborgasjön", "text": "Ett stuteri med 30 hästar fick hagarna inventerade och säkrade inför betessläppet.", "tagg": "hast"},
+    {"rubrik": "Lönnallén i Axvall", "text": "Kronhöjd till 4,5 meter, så att hästtransporterna slipper skrapa taket.", "tagg": "trad"},
+    {"rubrik": "Ny läplantering i Götene", "text": "En 300 meter lång poppelrad ersätts med lind, oxel och hassel i tre etapper.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "2012", "enhet": "", "etikett": "Första haginventeringen"},
+    {"varde": "180+", "enhet": "gårdar", "etikett": "Med inventerade hagar"},
+    {"varde": "3", "enhet": "arborister", "etikett": "På gården Vreten"},
+    {"varde": "4,5 m", "enhet": "", "etikett": "Fri höjd i alléerna"}
+  ],
+  "projekt": [
+    {"namn": "Stuteri vid Hornborgasjön", "ort": "Broddetorp", "typ": "Haginventering", "ar": "2026", "text": "Tolv tysklönnar fällda och 400 fröplantor uppryckta.", "tagg": "hast"},
+    {"namn": "Lönnallén", "ort": "Axvall", "typ": "Kronhöjning", "ar": "2026", "text": "Sexton lönnar höjda till 4,5 meter längs infarten.", "tagg": "trad"},
+    {"namn": "Läplantering", "ort": "Götene", "typ": "Förnyelse i etapper", "ar": "2025", "text": "Första tredjedelen av en 300 meter lång poppelrad ersatt.", "tagg": "natur"},
+    {"namn": "Mjölkgård", "ort": "Vara", "typ": "Fällning vid ladugård", "ar": "2025", "text": "Fem granar som fyllde hängrännorna fällda och kapade till ved.", "tagg": "ved"},
+    {"namn": "Ridskola", "ort": "Skara", "typ": "Skuggträd i hage", "ar": "2025", "text": "Sex lindar planterade i två hagar sedan idegranarna tagits bort.", "tagg": "hast"},
+    {"namn": "Hästgård utanför Lidköping", "ort": "Lidköping", "typ": "Haginventering", "ar": "2026", "text": "Inventering planerad före vinterns beskärning.", "tagg": "hast", "status": "Bokat"}
+  ],
+  "process": [
+    {"titel": "Telefon och karta", "text": "Berätta hur många hagar och hästar du har. Skicka gärna en karta över gården.", "tagg": "hast"},
+    {"titel": "Inventering", "text": "Karin går igenom hagar, alléer och gårdsträd och märker allt som behöver åtgärdas.", "tagg": "trad"},
+    {"titel": "Plan och pris", "text": "Du får en karta och ett fast pris. Brådskande giftiga träd prioriteras före betessläppet.", "tagg": "natur"},
+    {"titel": "Utförande", "text": "Vi fäller, rycker upp fröplantor och flisar på plats. Hästarna behöver bara flyttas från den hage där vi arbetar.", "tagg": "ved"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen häst ska bli sjuk av sin hage",
+    "text": "Atypisk myopati ökar i Sverige, och många hästägare vet inte vilka träd som är farliga. Vi inventerar, fäller och planterar ofarliga ersättningsträd, och tysklönn flisas alltid och körs bort så att fröna inte sprids i hagen.",
+    "mal": [["0", "fall av atypisk myopati i hagar vi har säkrat"], ["1:1", "ofarligt skuggträd för varje fällt giftigt"], ["100 %", "av tysklönnens flis körs bort från hagen"]]
+  },
+  "karriar": {
+    "rubrik": "Så går besöket på gården till",
+    "text": "Karin kommer ut, går hagarna med dig och berättar vad hon ser. Besöket kostar 900 kr och dras av om du beställer inventering eller åtgärder.",
+    "jobb": []
+  },
+  "kultur": "Vi stänger alltid grindarna efter oss och frågar innan vi flyttar en häst.",
+  "citat": {"text": "Hästägare kan allt om foder och hovar men sällan något om tysklönn. Det kunde inte jag heller, tills det gällde min egen häst.", "namn": "Karin Gustavsson", "roll": "Grundare", "tagg": "hast"},
+  "omdomen": [
+    {"text": "Vi hade ingen aning om att lönnarna vid ridbanan var tysklönn. Karin hittade tolv, och vi har inte haft ett sjukdomsfall sedan dess.", "namn": "Annika W., stuterichef", "ort": "Broddetorp"},
+    {"text": "Allén var så tät att hästtransporten skrapade varje gång. Nu kör vi in utan att tänka på det.", "namn": "Pernilla S.", "ort": "Axvall"},
+    {"text": "Henrik körde ut veden med traktorn och staplade den vid pannrummet. Gårdsfolk som förstår gårdar.", "namn": "Lennart O.", "ort": "Vara"}
+  ],
+  "faq": [
+    ["Vilka träd är giftiga för hästar?", "Tysklönn (sykomorlönn), idegran, robinia och i större mängd ekollon och bokollon. Även rhododendron och buxbom i rabatter nära hagen är giftiga."],
+    ["Är vanlig skogslönn farlig?", "Skogslönn är inte kopplad till atypisk myopati på samma sätt som tysklönn. Vi visar skillnaden på blad och frön vid besöket."],
+    ["När är riskerna störst?", "På hösten när fröna faller och på våren när groddplantorna kommer upp. Därför inventerar vi helst på sensommaren."],
+    ["Räknas gårdens fällning som RUT?", "Om gården är din bostad och inte drivs som företag kan arbetet på tomten ge RUT. Jordbruksföretag faktureras utan RUT, men momsen är avdragsgill."],
+    ["Behöver jag dispens för att fälla i allén?", "Alléer i jordbrukslandskapet är biotopskyddade. Fällning kräver dispens från länsstyrelsen, men beskärning gör det oftast inte."],
+    ["Måste hästarna flyttas?", "Bara från den hage där vi arbetar just den dagen. Vi planerar arbetet hage för hage."]
+  ],
+  "priser": [
+    {"namn": "Haginventering", "pris": "2 900 kr", "enhet": "upp till fem hagar", "text": "Genomgång och märkning av giftiga träd.", "punkter": ["Karta över hagarna", "Märkning med färgband", "Åtgärdslista i prioritetsordning", "Avräknas vid fällning"], "utvald": true},
+    {"namn": "Fällning vid hage", "pris": "4 600 kr", "enhet": "träd upp till 15 m", "text": "Fällning och bortforsling av giftiga träd.", "punkter": ["Flisning på plats", "Flisen bortkörd från hagen", "Fröplantor uppryckta runt trädet", "Stängslet skyddas"]},
+    {"namn": "Allébeskärning", "pris": "fr. 1 300 kr", "enhet": "per träd", "text": "Kronhöjning till 4,5 meters fri höjd.", "punkter": ["Klättring eller lift", "Döda grenar bort", "Riset flisat vid vägkanten", "Hjälp med dispens vid behov"]}
+  ],
+  "prislista": [
+    ["Arborist på gården, timpris", "660 kr/tim"],
+    ["Traktor med flishugg", "950 kr/tim"],
+    ["Uppryckning av fröplantor", "fr. 1 200 kr/hage"],
+    ["Plantering av skuggträd", "fr. 2 400 kr/st"],
+    ["Förnyelse av läplantering", "fr. 180 kr/löpmeter"],
+    ["Stubbfräsning", "900 kr/stubbe"],
+    ["Första besöket", "900 kr"]
+  ],
+  "certifikat": [
+    {"titel": "ETW och arboristexamen", "text": "Karin är European Tree Worker sedan 2015 och har Svensk Arboristexamen.", "ikon": "skold"},
+    {"titel": "Motorsåg och traktor", "text": "Motorsågskörkort AB för alla och traktorkort för Henrik.", "ikon": "verktyg"},
+    {"titel": "Giftväxter och hästar", "text": "Karin har gått en kurs vid SLU om växter som är giftiga för hästar.", "ikon": "tass"},
+    {"titel": "Försäkrade på gården", "text": "Ansvarsförsäkring på 5 Mkr som täcker stängsel, byggnader och djur.", "ikon": "las"}
+  ],
+  "galleri_taggar": ["hast", "trad", "natur", "ved"],
+  "nyheter": [
+    ["2026-10-09", "Lönnfröna faller nu", "Så känner du igen tysklönn och varför du bör agera före våren.", "hast"],
+    ["2026-08-18", "Skugga utan risk", "Fem träd som ger skugga i hagen och som hästarna tål.", "natur"],
+    ["2026-02-24", "Alléer och biotopskydd", "Det här får du göra med allén till gården utan dispens.", "trad"]
+  ],
+  "kontakt": {"adress": "Vreten 2", "postnr": "532 92", "ort": "Skara", "telefon": "070-174 06 82", "epost": "karin@vretenstradvard.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–17 · Telefon efter morgonfodringen",
+  "omrade": "Skaraborg: Skara, Götene, Vara, Lidköping och Falköping",
+  "fot_cta": "Vet du vilka lönnar som står vid hagen? Låt Karin titta innan fröna faller.",
+  "bild": {"panel": "hast", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Ring Karin",
+    "hero_knapp": "Det vi gör på gårdar",
+    "panel_etikett": "Besök på gården",
+    "ber_rubrik": "Senast på gårdarna",
+    "proj_rubrik": "Hagar och alléer i Skaraborg",
+    "process_rubrik": "Från karta till säker hage",
+    "hb_etikett": "Hästarnas säkerhet",
+    "omdomen_rubrik": "Hästägare och lantbrukare",
+    "faq_rubrik": "Frågor om hagar och giftiga träd",
+    "priser_rubrik": "Gårdspriser",
+    "priser_not": "Priser inklusive moms. RUT gäller bara privat bostadstomt.",
+    "galleri_rubrik": "Hagar, alléer och läplanteringar",
+    "boka_rubrik": "Boka en genomgång av hagarna",
+    "boka_text": "Berätta hur många hagar och hästar du har och var gården ligger.",
+    "bolag_rubrik": "Vi på Vreten",
+    "certifikat_rubrik": "Utbildade för gård och hage",
+    "sida_bolag_ingress": "Tre arborister med bas på gården Vreten utanför Varnhem."
+  }
+}
