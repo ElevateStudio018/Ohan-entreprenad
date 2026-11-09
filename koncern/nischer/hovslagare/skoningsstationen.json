@@ -20,7 +20,7 @@
     {"titel": "Hämtning och hemkörning", "ikon": "bil", "href": "verksamhet.html", "text": "Tre transporter hämtar mellan sju och nio och lämnar tillbaka hästen före klockan fyra."},
     {"titel": "Skoning inomhus", "ikon": "hus", "href": "verksamhet.html", "text": "Fyra platser i uppvärmd verkstad med gummigolv, bra ljus och hårdgjord visningsgång."},
     {"titel": "Drop-in lördagar", "ikon": "kalender", "href": "verksamhet.html", "text": "Kom själv med transport mellan nio och tolv för tappade skor och snabba byten."},
-    {"titel": "Vinterskoning", "ikon": "sol", "href": "verksamhet.html", "text": "Broddhål, snöbollsskydd och isbroddar – inlagt i en varm verkstad där limmet härdar."},
+    {"titel": "Vinterskor i värmen", "ikon": "sol", "href": "verksamhet.html", "text": "Broddhål, snöbollsskydd och isbroddar – inlagt i en varm verkstad där limmet härdar."},
     {"titel": "Tvätt och hovbad", "ikon": "vatten", "href": "verksamhet.html", "text": "Tvättspilta med varmvatten och hovbad för hästar med strålröta."},
     {"titel": "Väntboxar", "ikon": "lada", "href": "verksamhet.html", "text": "Sex boxar med hö och vatten för hästar som väntar på hemtransport."},
     {"titel": "Priser med hämtning", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Transporten kostar efter zon, skoningen lika för alla."},
@@ -28,12 +28,12 @@
   ],
   "affarsomraden": [
     {"titel": "Hämtning med transport", "text": "Våra chaufförer har vana att lasta hästar som inte gillar transporter och kör med kamera i transporten. Hästen hämtas på morgonen och står i väntbox före och efter skoningen tills hemresan.", "text2": "Tre zoner: Sundsvall och Timrå, Njurunda och Matfors, samt Ånge och Härnön.", "tagg": "hast"},
-    {"titel": "Verkstaden", "text": "Inomhus kan hovslagaren arbeta utan vantar, med bra ljus och plant golv. Limskor härdar som de ska, och hästen står torrt även när det är minus tjugo ute.", "text2": "Vi kan ta upp till tjugo hästar per dag på fyra platser.", "tagg": "industri"},
+    {"titel": "Uppvärmd verkstad", "text": "Inomhus kan hovslagaren arbeta utan vantar, med bra ljus och plant golv. Limskor härdar som de ska, och hästen står torrt även när det är minus tjugo ute.", "text2": "Vi kan ta upp till tjugo hästar per dag på fyra platser.", "tagg": "industri"},
     {"titel": "Drop-in för tappade skor", "text": "Lördagar mellan nio och tolv har vi öppet utan bokning. Den som har tappat en sko under veckan kan köra in själv och vara på väg hem inom en halvtimme.", "text2": "Drop-in kostar samma som ett vanligt nypålägg.", "tagg": "hast"},
     {"titel": "Stall utan egen stallgång", "text": "Många hästar i Medelpad står på lösdrift eller i hagar utan inomhusplats. För dem är verkstaden enda sättet att skos torrt hela vintern.", "text2": "Lösdriftsstall med fler än fem hästar får en egen hämtningsdag.", "tagg": "natur"}
   ],
   "bolag": [
-    {"namn": "Verkstaden", "segment": "Fyra hovslagare och en smed", "rubrik": "Tjugo hästar om dagen under tak", "text": "Hovslagarna arbetar i verkstaden alla dagar. Smeden anpassar specialskor och sköter ässjorna.", "tagg": "industri"},
+    {"namn": "Verkstaden i Ljustadalen", "segment": "Hovslagare och smed", "rubrik": "Tjugo hästar om dagen under tak", "text": "Hovslagarna arbetar i verkstaden alla dagar. Smeden anpassar specialskor och sköter ässjorna.", "tagg": "industri"},
     {"namn": "Transporterna", "segment": "Tre chaufförer och djurskötare", "rubrik": "Från hagen och tillbaka före fyra", "text": "Tre lastbilar med plats för två hästar var, och chaufförer som också sköter hästarna i väntboxarna.", "tagg": "hast"},
     {"namn": "Receptionen", "segment": "Två personer", "rubrik": "Bokning, rutter och kaffe", "text": "Receptionen lägger morgonens rutter, tar emot drop-in och ser till att det finns kaffe till väntande ägare.", "tagg": "kontor"}
   ],
@@ -52,7 +52,7 @@
     {"namn": "Lösdriften i Matfors", "ort": "Matfors", "typ": "Hämtningsdag", "ar": "2025", "text": "Nio hästar på lösdrift hämtade samma dag var sjätte vecka hela vintern.", "tagg": "natur"},
     {"namn": "Sundsvalls Ridklubb", "ort": "Sundsvall", "typ": "Ridskola", "ar": "2025", "text": "Tjugotvå lektionshästar skodda i verkstaden fyra åt gången, utan att lektionerna ställdes in.", "tagg": "hast"},
     {"namn": "Travtränare i Bergsåker", "ort": "Bergsåker", "typ": "Drop-in", "ar": "2025", "text": "Lördagsbyten inför söndagens lopp, med skorna på inom en halvtimme.", "tagg": "hast"},
-    {"namn": "Islandshästar på Alnö", "ort": "Alnö", "typ": "Vinterskoning", "ar": "2026", "text": "Tolv islandshästar med isbroddar och snöbollsskydd, hämtade två och två.", "tagg": "hast", "status": "Pågående"},
+    {"namn": "Islandshästar på Alnö", "ort": "Alnö", "typ": "Isbroddar", "ar": "2026", "text": "Tolv islandshästar med isbroddar och snöbollsskydd, hämtade två och två.", "tagg": "hast", "status": "Pågående"},
     {"namn": "Transportovan valack", "ort": "Njurunda", "typ": "Hämtning", "ar": "2024", "text": "Tre provlastningar innan valacken gick på transporten lugnt – nu åker han varje gång.", "tagg": "hast"},
     {"namn": "Gårdsstall i Ånge", "ort": "Ånge", "typ": "Ny zon", "ar": "2025", "text": "Första hämtningen i den nya zonen, med fyra hästar från samma gård.", "tagg": "natur"}
   ],
@@ -73,7 +73,7 @@
     "jobb": [["Gesäll, verkstaden", "Sundsvall"], ["Chaufför och djurskötare", "Sundsvall"]]
   },
   "kultur": "Fikarummet har fönster mot verkstaden – ägare och personal fikar ihop medan hästarna skos.",
-  "citat": {"text": "Jag har skott hästar i minus trettio med pannlampa. Det ska ingen behöva göra igen.", "namn": "Joakim Lindberg", "roll": "Grundare och hovslagare", "tagg": "hast"},
+  "citat": {"text": "Jag har skott hästar i minus trettio med pannlampa. Det ska ingen behöva göra igen.", "namn": "Joakim Lindberg", "roll": "Grundare och verkstadschef", "tagg": "hast"},
   "omdomen": [
     {"text": "Våra hästar står på lösdrift utan stallgång. Förr skodde vi i snön. Nu hämtas de och kommer hem varma och nyskodda.", "namn": "Ulrika M.", "ort": "Matfors"},
     {"text": "Lördagens drop-in räddade söndagens lopp. Jag var hemma igen på fyrtio minuter.", "namn": "Lennart H.", "ort": "Bergsåker"},
@@ -94,10 +94,10 @@
     {"namn": "Hämtning zon 2–3", "pris": "fr. 2 750 kr", "enhet": "fyra skor inkl. transport", "text": "Njurunda, Matfors, Ånge och Härnön.", "punkter": ["Samlade hämtningsdagar", "Rabatt från tre hästar på samma gård", "Sms vid varje steg", "Bild på hovarna"]}
   ],
   "certifikat": [
-    {"titel": "Gesällbrev", "text": "Alla fyra hovslagare har gesällbrev, Joakim även mästarbrev.", "ikon": "lov"},
+    {"titel": "Gesäller och en mästare", "text": "Alla fyra hovslagare har gesällbrev, Joakim även mästarbrev.", "ikon": "lov"},
     {"titel": "Godkänd djurtransportör", "text": "Tillstånd från Jordbruksverket för yrkesmässig transport av hästar, och utbildade chaufförer.", "ikon": "bil"},
     {"titel": "Transportförsäkring", "text": "Hästen är försäkrad från lastning i hagen till avlastning hemma.", "ikon": "skold"},
-    {"titel": "Heta arbeten", "text": "Certifikat för heta arbeten och godkänd brandskyddsrutin i verkstaden.", "ikon": "eld"}
+    {"titel": "Heta arbeten och brandskydd", "text": "Certifikat för heta arbeten och godkänd brandskyddsrutin i verkstaden.", "ikon": "eld"}
   ],
   "kunder": ["Sundsvalls Ridklubb", "Lösdriften i Matfors", "Alnö Islandshästar", "Travtränare i Bergsåker", "Timrå Ryttarförening", "Njurunda Hästgård", "Ånge Ponnyklubb"],
   "nyheter": [
@@ -110,5 +110,5 @@
   "omrade": "Medelpad: Sundsvall, Timrå, Njurunda, Matfors och Ånge",
   "fot_cta": "Slipp den kalla stallgången i vinter – boka hämtning så skor vi hästen inomhus.",
   "bild": {"panel": "industri"},
-  "text": {"kontakt_knapp": "Boka hämtning", "hero_knapp": "Så fungerar hämtningen", "hero_lank": "Stall vi hämtar från", "vagval_etikett": "Verkstaden", "ber_rubrik": "Från verkstaden i Ljustadalen", "proj_rubrik": "Hästar som skos under tak", "proj_rubrik_lista": "Hämtningar och stall", "process_rubrik": "En dag på Skoningsstationen", "bolag_rubrik": "Verkstad, transporter och reception", "hb_etikett": "Arbetsmiljö för alla", "omdomen_rubrik": "Ägare som slapp kylan", "faq_rubrik": "Om hämtning, verkstad och drop-in", "priser_rubrik": "Skoning med eller utan transport", "priser_utvald": "Flest bokar", "priser_knapp": "Boka hämtning", "priser_not": "Priserna inkluderar moms. Vid tre hästar eller fler från samma gård sänks transportavgiften.", "boka_rubrik": "Var ska vi hämta?", "boka_text": "Skriv adress, antal hästar och om de går på transport utan problem. Receptionen ringer upp med en dag.", "boka_falt": ["Namn", "Telefon", "Adress för hämtning", "Antal hästar och behov"], "certifikat_rubrik": "Godkända för transport och verkstad", "logos_rubrik": "Stall och klubbar i Medelpad", "ny_rubrik": "Vinter, transporter och verkstad", "medarbetare": "Vi tio"}
+  "text": {"kontakt_knapp": "Boka hämtning", "hero_knapp": "Så fungerar hämtningen", "hero_lank": "Stall vi hämtar från", "vagval_etikett": "Under tak", "ber_rubrik": "Från verkstaden i Ljustadalen", "proj_rubrik": "Hästar som skos under tak", "proj_rubrik_lista": "Hämtningar och stall", "process_rubrik": "En dag på Skoningsstationen", "bolag_rubrik": "Verkstad, transporter och reception", "hb_etikett": "Arbetsmiljö för alla", "omdomen_rubrik": "Ägare som slapp kylan", "faq_rubrik": "Om hämtning, verkstad och drop-in", "priser_rubrik": "Skoning med eller utan transport", "priser_utvald": "Flest bokar", "priser_knapp": "Boka hämtning", "priser_not": "Priserna inkluderar moms. Vid tre hästar eller fler från samma gård sänks transportavgiften.", "boka_rubrik": "Var ska vi hämta?", "boka_text": "Skriv adress, antal hästar och om de går på transport utan problem. Receptionen ringer upp med en dag.", "boka_falt": ["Namn", "Telefon", "Adress för hämtning", "Antal hästar och behov"], "certifikat_rubrik": "Godkända för transport och verkstad", "logos_rubrik": "Stall och klubbar i Medelpad", "ny_rubrik": "Vinter, transporter och verkstad", "medarbetare": "Vi tio"}
 }

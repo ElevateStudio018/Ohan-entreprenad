@@ -17,26 +17,26 @@
   ],
   "vagval_rubrik": "Var i Sjuhärad står hästen?",
   "tjanster": [
-    {"titel": "Skoning och verkning", "ikon": "hamare", "href": "verksamhet.html", "text": "Rid-, trav- och fritidshästar med fast hovslagare och fast intervall."},
+    {"titel": "Hovvård året runt", "ikon": "hamare", "href": "verksamhet.html", "text": "Rid-, trav- och fritidshästar med fast hovslagare och fast intervall."},
     {"titel": "Vikarie vid sjukdom", "ikon": "folk", "href": "verksamhet.html", "text": "En kollega i samma område tar över, med samma journal och samma pris."},
     {"titel": "Helgjour i turordning", "ikon": "kalender", "href": "verksamhet.html", "text": "En medlem har jour varje helg för tappade skor och hovbölder."},
-    {"titel": "Ortopedi med veterinär", "ikon": "vard", "href": "verksamhet.html", "text": "Tre medlemmar med inriktning på ortopedi tar remisser från hela Sjuhärad."},
+    {"titel": "Tre ortopedspecialister", "ikon": "vard", "href": "verksamhet.html", "text": "Tre medlemmar med inriktning på ortopedi tar remisser från hela Sjuhärad."},
     {"titel": "Ridskolor och klubbar", "ikon": "skola", "href": "verksamhet.html", "text": "Avtal med en ansvarig hovslagare och en ersättare som känner hästarna."},
     {"titel": "Bli medlem", "ikon": "nyckel", "href": "karriar.html", "text": "Gesäller med F-skatt kan söka medlemskap och köpa en andel."},
     {"titel": "Samma pris överallt", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Ingen reseavgift inom Sjuhärad."},
     {"titel": "Ring Marie eller Nils", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Kontoret bokar åt alla fjorton."}
   ],
   "affarsomraden": [
-    {"titel": "Fast hovslagare", "text": "Varje häst har en namngiven hovslagare som är delägare i företaget. Det är hennes eller hans kunder, och de flesta har haft samma stall i över tio år.", "text2": "Hovslagarna sätter själva sina rutter och arbetsdagar, men inom föreningens gemensamma priser.", "tagg": "hast"},
+    {"titel": "En namngiven delägare", "text": "Varje häst har en namngiven hovslagare som är delägare i företaget. Det är hennes eller hans kunder, och de flesta har haft samma stall i över tio år.", "text2": "Hovslagarna sätter själva sina rutter och arbetsdagar, men inom föreningens gemensamma priser.", "tagg": "hast"},
     {"titel": "Vikarier och jour", "text": "En ensam hovslagare som blir sjuk lämnar hästarna utan hovvård i veckor. Hos oss flyttas besöken till en kollega inom två dagar, och helgjouren går runt mellan alla medlemmar.", "text2": "Jourtelefonen är bemannad fredag 16 till måndag 7 alla helger.", "tagg": "people"},
-    {"titel": "Ortopedi", "text": "Tre av medlemmarna har vidareutbildat sig i ortopedisk skoning och tar remisser från veterinärerna i Borås och Ulricehamn. De andra elva skickar svåra fall vidare inom laget.", "text2": "Ortopediska besök kostar samma sak oavsett vem i laget som remitterar.", "tagg": "natur"},
+    {"titel": "Ortopedi inom laget", "text": "Tre av medlemmarna har vidareutbildat sig i ortopedisk skoning och tar remisser från veterinärerna i Borås och Ulricehamn. De andra elva skickar svåra fall vidare inom laget.", "text2": "Ortopediska besök kostar samma sak oavsett vem i laget som remitterar.", "tagg": "natur"},
     {"titel": "Gemensamt inköp", "text": "Föreningen köper skor, söm och gasol för alla fjorton på en gång. Det ger lägre priser som vi låter hästägarna få del av.", "text2": "Varje år går överskottet tillbaka till medlemmarna efter hur mycket var och en har arbetat.", "tagg": "industri"}
   ],
   "bolag": [
     {"namn": "Laget i Ulricehamn", "segment": "Ulricehamn och Tranemo", "rubrik": "Där föreningen startade", "text": "Sex medlemmar runt Åsunden och söderut mot Tranemo. Här bor också två av de tre ortopedhovslagarna.", "tagg": "hast"},
     {"namn": "Laget i Borås", "segment": "Borås, Mark och Bollebygd", "rubrik": "Flest ridskolor och travtränare", "text": "Fem medlemmar som har Sjuhärads största ridanläggningar och travstallen öster om Borås.", "tagg": "hast"},
     {"namn": "Laget i Svenljunga och Herrljunga", "segment": "Södra och norra Sjuhärad", "rubrik": "Långa vägar, få hovslagare", "text": "Tre medlemmar som delar på de glesare delarna av Sjuhärad och på helgjouren där.", "tagg": "natur"},
-    {"namn": "Kontoret", "segment": "Bogesundsgatan, Ulricehamn", "rubrik": "Två anställda, fjorton chefer", "text": "Marie och Nils bokar, fakturerar och sköter inköp. Styrelsen väljs varje år bland medlemmarna.", "tagg": "kontor"}
+    {"namn": "Kontoret på Bogesundsgatan", "segment": "Bokning och fakturering", "rubrik": "Två anställda, fjorton chefer", "text": "Marie och Nils bokar, fakturerar och sköter inköp. Styrelsen väljs varje år bland medlemmarna.", "tagg": "kontor"}
   ],
   "berattelser": [
     {"rubrik": "Fjortonde medlemmen är invald", "text": "Rebecka Al-Sayed köpte andel i september och tar över stallen kring Dalsjöfors.", "tagg": "people"},
@@ -50,10 +50,10 @@
     {"varde": "2008", "enhet": "", "etikett": "Föreningen bildades"}
   ],
   "projekt": [
-    {"namn": "Borås Ridklubb", "ort": "Borås", "typ": "Ridskoleavtal", "ar": "2025", "text": "Fyrtio skolhästar med en ansvarig hovslagare och en ersättare som känner alla hästar.", "tagg": "hast"},
+    {"namn": "Borås Ridklubb", "ort": "Borås", "typ": "Avtal för skolhästar", "ar": "2025", "text": "Fyrtio skolhästar med en ansvarig hovslagare och en ersättare som känner alla hästar.", "tagg": "hast"},
     {"namn": "Sjukskrivningen i Tranemo", "ort": "Tranemo", "typ": "Vikarier", "ar": "2026", "text": "140 hästar fördelade på tre kollegor i sex veckor utan att ett enda besök ställdes in.", "tagg": "people"},
     {"namn": "Stall Hökerum", "ort": "Hökerum", "typ": "Travstall", "ar": "2025", "text": "Sexton travare i träning, skodda av samma hovslagare sedan 2011.", "tagg": "hast"},
-    {"namn": "Ortopedi på remiss", "ort": "Ulricehamn", "typ": "Ortopedi", "ar": "2025", "text": "Fyrtio remisser från veterinärer i Borås och Ulricehamn, fördelade på lagets tre specialister.", "tagg": "natur"},
+    {"namn": "Ortopedi på remiss", "ort": "Ulricehamn", "typ": "Remisser", "ar": "2025", "text": "Fyrtio remisser från veterinärer i Borås och Ulricehamn, fördelade på lagets tre specialister.", "tagg": "natur"},
     {"namn": "Svenljunga Ryttarsällskap", "ort": "Svenljunga", "typ": "Klubbavtal", "ar": "2024", "text": "Klubbens tolv hästar och medlemmarnas privata hästar på samma dag varannan månad.", "tagg": "hast"},
     {"namn": "Dalsjöfors Gårdsstall", "ort": "Dalsjöfors", "typ": "Ny medlem", "ar": "2026", "text": "Rebecka Al-Sayed tar över området efter en medlem som går i pension.", "tagg": "hast", "status": "Pågående"}
   ],
@@ -89,12 +89,12 @@
     ["Kan jag byta hovslagare inom laget?", "Ja, det går bra. Säg till kontoret så ordnar de det utan att någon behöver ta illa upp."],
     ["Vem ska jag vända mig till om jag är missnöjd?", "Först till din hovslagare, sedan till kontoret. Styrelsen tar upp klagomål på varje månadsmöte."]
   ],
-  "prislista": [["Verkning", "720 kr"], ["Skoning fram, två skor", "1 150 kr"], ["Skoning, fyra skor", "1 850 kr"], ["Ortopedisk skoning", "fr. 2 500 kr"], ["Tappad sko, vardag", "450 kr"], ["Helgjour, tillägg", "900 kr"], ["Reseavgift inom Sjuhärad", "0 kr"]],
+  "prislista": [["Verkning, häst eller ponny", "720 kr"], ["Två skor fram", "1 150 kr"], ["Fyra skor, stål", "1 850 kr"], ["Ortopedisk skoning på remiss", "fr. 2 500 kr"], ["Tappad sko, vardag", "450 kr"], ["Helgjour, tillägg", "900 kr"], ["Reseavgift inom Sjuhärad", "0 kr"]],
   "certifikat": [
-    {"titel": "Gesällbrev", "text": "Alla fjorton medlemmar har gesällbrev, och tre har vidareutbildning i ortopedi.", "ikon": "lov"},
-    {"titel": "Sveriges Hovslagareförbund", "text": "Alla medlemmar är med i förbundet och går dess fortbildningsdagar.", "ikon": "folk"},
-    {"titel": "Heta arbeten", "text": "Giltigt certifikat för heta arbeten för alla som arbetar med gasolässja.", "ikon": "eld"},
-    {"titel": "Ansvarsförsäkring", "text": "Föreningen har en gemensam försäkring som täcker alla medlemmar.", "ikon": "skold"}
+    {"titel": "Fjorton gesällbrev", "text": "Alla fjorton medlemmar har gesällbrev, och tre har vidareutbildning i ortopedi.", "ikon": "lov"},
+    {"titel": "Medlemmar i Hovslagareförbundet", "text": "Alla medlemmar är med i förbundet och går dess fortbildningsdagar.", "ikon": "folk"},
+    {"titel": "Heta arbeten för alla", "text": "Giltigt certifikat för heta arbeten för alla som arbetar med gasolässja.", "ikon": "eld"},
+    {"titel": "Gemensam ansvarsförsäkring", "text": "Föreningen har en gemensam försäkring som täcker alla medlemmar.", "ikon": "skold"}
   ],
   "kunder": ["Borås Ridklubb", "Stall Hökerum", "Svenljunga Ryttarsällskap", "Dalsjöfors Gårdsstall", "Ulricehamns Ridsällskap", "Tranemo Islandshästar", "Kinna Hästsportförening", "Herrljunga Ponnyklubb"],
   "nyheter": [

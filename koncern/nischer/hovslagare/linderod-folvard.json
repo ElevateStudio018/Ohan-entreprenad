@@ -29,7 +29,7 @@
   "affarsomraden": [
     {"titel": "Föl 0–6 månader", "text": "Ett föl som föds med inåt- eller utåtvridna ben har några få månader på sig innan tillväxtzonerna i nedre delen av benet sluter sig. Vi verkar varannan vecka och limmar förlängningar när det behövs, så att belastningen styr benet rakt.", "text2": "De flesta lätta felställningar är rättade vid fyra månaders ålder.", "tagg": "hast"},
     {"titel": "Åringar", "text": "En åring som ska säljas på auktion granskas noga av köpare och veterinärer. Vi verkar och kontrollerar hovarna två gånger före auktionen och ger stuteriet bilder som visar utvecklingen sedan fölåret.", "text2": "Bilderna kan visas för köpare som vill se hur benen har korrigerats.", "tagg": "hast"},
-    {"titel": "Unghästar", "text": "Treåringar som ska börja tränas behöver hovar som klarar ökad belastning. Vi lägger de första skorna, ofta lätta och bara fram, i samråd med tränaren.", "text2": "Vi följer hästen till dess att den har startat eller tävlat första gången.", "tagg": "hast"},
+    {"titel": "Treåringar och unghästar", "text": "Treåringar som ska börja tränas behöver hovar som klarar ökad belastning. Vi lägger de första skorna, ofta lätta och bara fram, i samråd med tränaren.", "text2": "Vi följer hästen till dess att den har startat eller tävlat första gången.", "tagg": "hast"},
     {"titel": "Samarbete med veterinär", "text": "Vissa felställningar kräver kirurgi eller röntgen. Vi arbetar nära två hästkliniker i Skåne och har gemensamma journaler för föl som behandlas av båda.", "text2": "Föl som opereras får täta besök direkt efter, enligt veterinärens plan.", "tagg": "natur"}
   ],
   "bolag": [
@@ -52,8 +52,8 @@
     {"namn": "Travstuteri vid Vombsjön", "ort": "Veberöd", "typ": "Stuteriavtal", "ar": "2025", "text": "Fyrtiotvå föl följda varannan vecka från födseln till avvänjning.", "tagg": "hast"},
     {"namn": "Hingsten med utåtvridna ben", "ort": "Sjöbo", "typ": "Förlängningar", "ar": "2025", "text": "Limmade förlängningar i tio veckor och en rak åring på auktionen året efter.", "tagg": "hast"},
     {"namn": "Varmblodsuppfödare i Ystad", "ort": "Ystad", "typ": "Åringar", "ar": "2025", "text": "Sju åringar verkade och dokumenterade inför höstens auktion.", "tagg": "hast"},
-    {"namn": "Opererat föl", "ort": "Lund", "typ": "Veterinärsamarbete", "ar": "2024", "text": "Täta besök efter operation, med gemensam journal mellan kliniken och oss.", "tagg": "natur"},
-    {"namn": "Treåringar i träning", "ort": "Hörby", "typ": "Unghästar", "ar": "2024", "text": "Första skorna på tolv travhästar inför kvallopp, i samråd med tränaren.", "tagg": "hast"},
+    {"namn": "Opererat föl", "ort": "Lund", "typ": "Efter operation", "ar": "2024", "text": "Täta besök efter operation, med gemensam journal mellan kliniken och oss.", "tagg": "natur"},
+    {"namn": "Treåringar i träning", "ort": "Hörby", "typ": "Första skorna", "ar": "2024", "text": "Första skorna på tolv travhästar inför kvallopp, i samråd med tränaren.", "tagg": "hast"},
     {"namn": "Österlenrutten", "ort": "Tomelilla", "typ": "Ny bil", "ar": "2026", "text": "Egen hovslagare för Österlens stuterier från fölsäsongen 2027.", "tagg": "hast", "status": "Pågående"}
   ],
   "process": [
@@ -73,7 +73,7 @@
     "jobb": [["Gesäll, Österlen", "Tomelilla"], ["Säsongsanställd fotograf och journalförare", "Linderöd"]]
   },
   "kultur": "Varje måndag under fölsäsongen går vi igenom veckans bilder tillsammans och diskuterar de svåraste fölen.",
-  "citat": {"text": "Ett föl som står snett i april kan stå rakt i augusti. Men bara om någon börjar i april.", "namn": "Cecilia Bengtsson", "roll": "Grundare och hovslagare", "tagg": "hast"},
+  "citat": {"text": "Ett föl som står snett i april kan stå rakt i augusti. Men bara om någon börjar i april.", "namn": "Cecilia Bengtsson", "roll": "Grundare, mästarhovslagare", "tagg": "hast"},
   "omdomen": [
     {"text": "Vi har fött upp travare i trettio år och trodde att sneda ben var otur. Med Linderöd säljer vi fölen raka.", "namn": "Bengt-Åke O.", "ort": "Veberöd"},
     {"text": "Bilderna från fölåret gjorde att köparen litade på åringen. Han budade utan att tveka.", "namn": "Charlotta W.", "ort": "Ystad"},
@@ -93,8 +93,8 @@
     {"namn": "Åringspaket", "pris": "1 800 kr", "enhet": "per åring", "text": "Inför auktion eller försäljning.", "punkter": ["Två verkningar före auktionen", "Fotodokumentation", "Intyg om hovstatus", "Bilder från fölåret samlade"]}
   ],
   "certifikat": [
-    {"titel": "Mästarbrev", "text": "Cecilia Bengtsson har mästarbrev med inriktning på unga hästar.", "ikon": "stjarna"},
-    {"titel": "Gesällbrev", "text": "Alla fem hovslagare i fölteamet har gesällbrev.", "ikon": "lov"},
+    {"titel": "Mästarbrev för unga hästar", "text": "Cecilia Bengtsson har mästarbrev med inriktning på unga hästar.", "ikon": "stjarna"},
+    {"titel": "Fem gesäller i fölteamet", "text": "Alla fem hovslagare i fölteamet har gesällbrev.", "ikon": "lov"},
     {"titel": "Djursjukskötare i teamet", "text": "Hanna Lund är legitimerad djursjukskötare och håller i journal och foto.", "ikon": "kors"},
     {"titel": "Två hästkliniker", "text": "Gemensamma journaler med två hästkliniker i Skåne för föl som behöver röntgen eller kirurgi.", "ikon": "vard"}
   ],

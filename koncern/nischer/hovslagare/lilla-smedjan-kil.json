@@ -53,7 +53,7 @@
     {"namn": "Kils Ridklubb", "ort": "Kil", "typ": "Lektionsponnyer", "ar": "2025", "text": "Fjorton lektionsponnyer skodda på fast sexveckorsschema sedan 2017.", "tagg": "hast"},
     {"namn": "Hagen bakom villan", "ort": "Forshaga", "typ": "Rädd ponny", "ar": "2026", "text": "Fem korta besök innan shetlandsponnyn Pippi lät oss verka alla fyra hovar.", "tagg": "people"},
     {"namn": "Arvika Ponnyförening", "ort": "Arvika", "typ": "Tävlingsponnyer", "ar": "2025", "text": "Skoning av nio tävlingsponnyer inför distriktsmästerskapen i hoppning.", "tagg": "hast"},
-    {"namn": "Sunne Connemaraavel", "ort": "Sunne", "typ": "Föl", "ar": "2024", "text": "Sex föl med första verkningen vid två månader och uppföljning varje månad.", "tagg": "hast"},
+    {"namn": "Sunne Connemaraavel", "ort": "Sunne", "typ": "Connemaraföl", "ar": "2024", "text": "Sex föl med första verkningen vid två månader och uppföljning varje månad.", "tagg": "hast"},
     {"namn": "Grums Hästsportklubb", "ort": "Grums", "typ": "Hovkollen", "ar": "2026", "text": "Hovkollen för tjugo barn i höstlovsveckan – anmälan pågår.", "tagg": "people", "status": "Pågående"}
   ],
   "process": [
@@ -73,7 +73,7 @@
     "jobb": [["Gesäll, Karlstad och Hammarö", "Kil"]]
   },
   "kultur": "Alla i bilen har en påse äppelbitar och en extra hovkratsa att ge bort till barn som glömt sin.",
-  "citat": {"text": "En ponny som är lugn hos hovslagaren vid fem års ålder är lugn hela livet. Det är värt fyra extra besök.", "namn": "Therese Ek", "roll": "Grundare och hovslagare", "tagg": "hast"},
+  "citat": {"text": "En ponny som är lugn hos hovslagaren vid fem års ålder är lugn hela livet. Det är värt fyra extra besök.", "namn": "Therese Ek", "roll": "Grundare och gesäll", "tagg": "hast"},
   "omdomen": [
     {"text": "Vår shetlandsponny sparkade alla hovslagare vi haft. Efter fem besök med Therese står hon och nästan somnar.", "namn": "Josefin R.", "ort": "Forshaga"},
     {"text": "Min dotter på sju år kan nu förklara vad en hovsula är. Hovkollen var det bästa på hela lägret.", "namn": "Peter A.", "ort": "Kil"},
@@ -89,15 +89,15 @@
     ["Vad kostar Hovkollen?", "Den ingår i ponnyklubbsdagar. Fristående kostar den 1 200 kr för upp till tjugo barn."]
   ],
   "priser": [
-    {"namn": "Shetland och minishetland", "pris": "450 kr", "enhet": "verkning", "text": "Ponnyer upp till 107 cm.", "punkter": ["45 minuter bokad tid", "Lapp med råd till familjen", "Nästa tid bokad direkt", "Barnen får vara med"]},
+    {"namn": "Shetland och minishetland", "pris": "450 kr", "enhet": "verkning", "text": "Ponnyer upp till 107 cm.", "punkter": ["45 minuter bokad tid", "Lapp med råd till familjen", "Ny tid bokas på plats", "Barnen får vara med"]},
     {"namn": "Ponny 108–148 cm", "pris": "550 kr", "enhet": "verkning", "text": "Welsh, connemara, New Forest och B-ponnyer.", "punkter": ["45 minuter bokad tid", "Skoning fram 1 150 kr", "Fyra skor 1 650 kr", "Gruppris vid klubbdagar"], "utvald": true},
     {"namn": "Tillvänjning", "pris": "350 kr", "enhet": "per kort besök", "text": "För ponnyer som är rädda för hovslagare.", "punkter": ["20–30 minuter i ponnyns takt", "Andra och tredje besöket halvt pris", "Övningar till familjen", "Ingen tvångshantering"]}
   ],
   "certifikat": [
-    {"titel": "Gesällbrev", "text": "Therese, Hampus och Jenny har gesällbrev i hovslageri.", "ikon": "lov"},
-    {"titel": "Lärlingsplats", "text": "Moa går lärlingsutbildningen enligt Sveriges Hovslagareförbunds upplägg.", "ikon": "skola"},
+    {"titel": "Tre gesällbrev", "text": "Therese, Hampus och Jenny har gesällbrev i hovslageri.", "ikon": "lov"},
+    {"titel": "Lärling under utbildning", "text": "Moa går lärlingsutbildningen enligt Sveriges Hovslagareförbunds upplägg.", "ikon": "skola"},
     {"titel": "Hästhantering och etologi", "text": "Therese har gått kurs i inlärningsteori för hästar vid en av landets naturbruksskolor.", "ikon": "hjarta"},
-    {"titel": "Ansvarsförsäkring", "text": "Försäkring för skador på ponny och egendom vid verkning och skoning.", "ikon": "skold"}
+    {"titel": "Försäkring vid verkning", "text": "Försäkring för skador på ponny och egendom vid verkning och skoning.", "ikon": "skold"}
   ],
   "kunder": ["Ponnyklubben Frykstad", "Kils Ridklubb", "Arvika Ponnyförening", "Sunne Connemaraavel", "Grums Hästsportklubb", "Forshaga Ryttarförening", "Hammarö Ponnyklubb"],
   "nyheter": [

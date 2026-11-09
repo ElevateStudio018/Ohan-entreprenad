@@ -23,7 +23,7 @@
     {"titel": "Körhästar och vagnar", "ikon": "vag", "href": "verksamhet.html", "text": "Skor som tål asfalt och grus för brudvagnar, kyrkkörning och körsällskap."},
     {"titel": "Handsmide i ässjan", "ikon": "eld", "href": "verksamhet.html", "text": "Tore smider skor i storlek 6 till 9 som inte går att köpa färdiga i Sverige."},
     {"titel": "Unga nordsvenskar", "ikon": "hjarta", "href": "verksamhet.html", "text": "Första verkningen och första skorna för treåringar som ska tillridas eller köras in."},
-    {"titel": "Prislista", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Ett pris per hov oavsett hur stor den är."},
+    {"titel": "Pris per hov", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Ett pris per hov oavsett hur stor den är."},
     {"titel": "Ring Albin", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Han lägger in dig på närmaste rutt, även i Härjedalen."}
   ],
   "affarsomraden": [
@@ -49,7 +49,7 @@
     {"varde": "6", "enhet": "personer", "etikett": "Fyra hovslagare och en smed"}
   ],
   "projekt": [
-    {"namn": "Vemdalens Slädturer", "ort": "Vemdalen", "typ": "Vinterskoning", "ar": "2026", "text": "Tolv ardenner och nordsvenskar med hårdmetallstift och snöbollsskydd från november till april.", "tagg": "hast"},
+    {"namn": "Vemdalens Slädturer", "ort": "Vemdalen", "typ": "Slädhästar på vintern", "ar": "2026", "text": "Tolv ardenner och nordsvenskar med hårdmetallstift och snöbollsskydd från november till april.", "tagg": "hast"},
     {"namn": "Hästskogsbruk i Föllinge", "ort": "Föllinge", "typ": "Skogshästar", "ar": "2025", "text": "Fyra nordsvenskar i gallring, skodda med svetsade broddar inför avverkningssäsongen.", "tagg": "natur"},
     {"namn": "Stall Lugnvik Kallblod", "ort": "Östersund", "typ": "Kallblodstrav", "ar": "2025", "text": "Sju travare i träning med skobyten planerade efter startlistan på Östersundstravet.", "tagg": "hast"},
     {"namn": "Frösö Körsällskap", "ort": "Frösön", "typ": "Körhästar", "ar": "2025", "text": "Skoning av tio körhästar inför sommarens bröllopskörningar och kyrkkörning i Frösö kyrka.", "tagg": "hast"},
@@ -73,7 +73,7 @@
     "jobb": [["Gesäll, fjällområdet", "Järpen"], ["Smedlärling", "Brunflo"]]
   },
   "kultur": "Varje torsdag eftermiddag står alla i smedjan och smider tillsammans – det är där nya skomodeller provas fram.",
-  "citat": {"text": "En ridhäst kan gå med en sko som sitter lite fel. En häst med tre kubik timmer bakom sig kan det inte.", "namn": "Ingrid Moberg", "roll": "Grundare och hovslagare", "tagg": "hast"},
+  "citat": {"text": "En ridhäst kan gå med en sko som sitter lite fel. En häst med tre kubik timmer bakom sig kan det inte.", "namn": "Ingrid Moberg", "roll": "Grundare, hovslagare sedan 1997", "tagg": "hast"},
   "omdomen": [
     {"text": "Skorna Tore smidde till vår ardenner satt i nio veckor genom hela gallringen i Föllinge. Det har ingen annan klarat.", "namn": "Kent Ö.", "ort": "Föllinge"},
     {"text": "Vi kör släde varje dag från jul till påsk. Att en hovslagare finns i Järpen på fredagar har räddat flera helger.", "namn": "Marie L.", "ort": "Vemdalen"},
@@ -87,12 +87,12 @@
     ["Kan jag köpa skor av er till en annan hovslagare?", "Ja. Skicka en mall eller mått så smider Tore efter dem. Leveranstiden är cirka en vecka."],
     ["Hur betalar man?", "Faktura med 20 dagar. Hästföretag med fler än fem hästar får samlingsfaktura en gång i månaden."]
   ],
-  "prislista": [["Verkning, fyra hovar", "850 kr"], ["Skoning, fyra skor, kallblod", "2 200 kr"], ["Vinterskoning med stift och snöbollsskydd", "2 750 kr"], ["Handsmidd sko, per styck", "fr. 520 kr"], ["Svetsade broddar, per sko", "140 kr"], ["Akut besök utanför rutten", "12 kr/mil"]],
+  "prislista": [["Verkning, fyra hovar", "850 kr"], ["Skoning, fyra skor, kallblod", "2 200 kr"], ["Vinterskoning med stift och snöbollsskydd", "2 750 kr"], ["Handsmidd sko, styckpris", "fr. 520 kr"], ["Svetsade broddar, per sko", "140 kr"], ["Akut besök utanför rutten", "12 kr/mil"]],
   "certifikat": [
-    {"titel": "Gesällbrev", "text": "Alla fyra hovslagare har gesällbrev, två av dem från utbildningen på Wången.", "ikon": "lov"},
+    {"titel": "Gesäller från Wången", "text": "Alla fyra hovslagare har gesällbrev, två av dem från utbildningen på Wången.", "ikon": "lov"},
     {"titel": "Smideskunnig smed", "text": "Tore Jonsson har arbetat som smed sedan 1985 och lär ut handsmide på länets folkhögskola.", "ikon": "hamare"},
-    {"titel": "Heta arbeten", "text": "Alla som arbetar vid ässja och gasol har giltigt certifikat för heta arbeten.", "ikon": "eld"},
-    {"titel": "Ansvarsförsäkring", "text": "Försäkring som täcker skador på häst och egendom vid skoning, även i skogen.", "ikon": "skold"}
+    {"titel": "Heta arbeten vid ässjan", "text": "Alla som arbetar vid ässja och gasol har giltigt certifikat för heta arbeten.", "ikon": "eld"},
+    {"titel": "Försäkrade även i skogen", "text": "Försäkring som täcker skador på häst och egendom vid skoning, även i skogen.", "ikon": "skold"}
   ],
   "kunder": ["Vemdalens Slädturer", "Hästskogsbruk i Föllinge", "Stall Lugnvik Kallblod", "Frösö Körsällskap", "Duveds Fjällridning", "Bergs Hästkörarförening", "Ope Gårdsstall", "Hackås Skogshästar"],
   "nyheter": [
@@ -105,5 +105,5 @@
   "omrade": "Jämtland och Härjedalen: Östersund, Krokom, Berg, Åre och Strömsund",
   "fot_cta": "Ska hästen ut i skogen eller framför släden i vinter? Ring Albin före oktober.",
   "bild": {"panel": "natur"},
-  "text": {"kontakt_knapp": "Ring Albin", "hero_knapp": "Hästar vi skor", "hero_lank": "Gårdar och slädföretag", "vagval_etikett": "Brukshästar", "ber_rubrik": "Från skogen, fjället och ässjan", "proj_rubrik": "Hästar som arbetar i våra skor", "proj_rubrik_lista": "Gårdar, slädar och stall", "process_rubrik": "Från mall till säsongsstart", "bolag_rubrik": "Skog, fjäll och smedja", "hb_etikett": "Arbetshästar", "omdomen_rubrik": "Skogskörare och slädförare berättar", "faq_rubrik": "Frågor om stora hovar och långa vägar", "boka_rubrik": "Var står hästarna och vad drar de?", "boka_text": "Skriv by, antal hästar och om de går i skog, släde eller trav – så ringer Albin upp med ett datum.", "boka_falt": ["Namn", "Telefon", "By eller gård", "Hästar och arbete"], "certifikat_rubrik": "Gesäller, smed och heta arbeten", "logos_rubrik": "Skogsbruk, turism och travstall", "ny_rubrik": "Smide och säsonger", "medarbetare": "Hovslagare och smed"}
+  "text": {"kontakt_knapp": "Ring Albin", "hero_knapp": "Brukshästar vi skor", "hero_lank": "Gårdar och slädföretag", "vagval_etikett": "Brukshästar", "ber_rubrik": "Från skogen, fjället och ässjan", "proj_rubrik": "Hästar som arbetar i våra skor", "proj_rubrik_lista": "Gårdar, slädar och stall", "process_rubrik": "Från mall till säsongsstart", "bolag_rubrik": "Skog, fjäll och smedja", "hb_etikett": "Arbetshästar", "omdomen_rubrik": "Skogskörare och slädförare berättar", "faq_rubrik": "Frågor om stora hovar och långa vägar", "boka_rubrik": "Var står hästarna och vad drar de?", "boka_text": "Skriv by, antal hästar och om de går i skog, släde eller trav – så ringer Albin upp med ett datum.", "boka_falt": ["Namn", "Telefon", "By eller gård", "Hästar och arbete"], "certifikat_rubrik": "Gesäller, smed och heta arbeten", "logos_rubrik": "Skogsbruk, turism och travstall", "ny_rubrik": "Smide och säsonger", "medarbetare": "Hovslagare och smed"}
 }

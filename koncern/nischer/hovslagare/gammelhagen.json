@@ -20,7 +20,7 @@
     {"titel": "Verkning i hagen", "ikon": "trad", "href": "verksamhet.html", "text": "Vi kommer till hästen där den står och lyfter benen så lågt som lederna tillåter."},
     {"titel": "PPID och fångrisk", "ikon": "vard", "href": "verksamhet.html", "text": "Vi tittar efter tidiga tecken och tipsar om när det är dags att ta blodprov hos veterinären."},
     {"titel": "Mjuka skor och hovskor", "ikon": "hjarta", "href": "verksamhet.html", "text": "Limskor, plastskor och hovskor för hästar med tunn sula eller artros."},
-    {"titel": "Täta besök", "ikon": "kalender", "href": "verksamhet.html", "text": "Var femte vecka i stället för var åttonde, så att varje verkning blir kort."},
+    {"titel": "Kort intervall", "ikon": "kalender", "href": "verksamhet.html", "text": "Var femte vecka i stället för var åttonde, så att varje verkning blir kort."},
     {"titel": "Pensionsstall", "ikon": "hus", "href": "verksamhet.html", "text": "Fast dag i månaden för stall med pensionärshästar."},
     {"titel": "Råd om foder", "ikon": "sol", "href": "verksamhet.html", "text": "Grönbete, mineraler och tänder – det som påverkar hovarna hos en äldre häst."},
     {"titel": "Priser", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Ett pris oavsett hur lång tid det tar."},
@@ -54,7 +54,7 @@
     {"namn": "Valacken med PPID", "ort": "Karlskrona", "typ": "PPID och fång", "ar": "2025", "text": "Tidiga tecken upptäckta vid verkning, blodprov hos veterinären och medicin innan fånget kom.", "tagg": "natur"},
     {"namn": "Artrosstoet Tindra", "ort": "Karlshamn", "typ": "Stel häst", "ar": "2025", "text": "Verkning med lågt hovstöd och limskor fram efter veterinärens bedömning av knäleden.", "tagg": "hast"},
     {"namn": "Olofströms Ridklubb", "ort": "Olofström", "typ": "Pensionerade skolhästar", "ar": "2024", "text": "Fyra av klubbens tidigare lektionshästar med fasta besök i pensionshagen.", "tagg": "hast"},
-    {"namn": "Gårdsstall i Hasslö", "ort": "Hasslö", "typ": "Hovskor", "ar": "2024", "text": "Två äldre hästar med tunn sula provade ut hovskor för promenader på skärgårdsvägarna.", "tagg": "natur"}
+    {"namn": "Gårdsstall i Hasslö", "ort": "Hasslö", "typ": "Hovskor för grus", "ar": "2024", "text": "Två äldre hästar med tunn sula provade ut hovskor för promenader på skärgårdsvägarna.", "tagg": "natur"}
   ],
   "process": [
     {"titel": "Linnea frågar om historien", "text": "Ålder, sjukdomar, mediciner och hur hästen fungerar med hovslagare – allt skrivs in innan första besöket.", "tagg": "people"},
@@ -73,7 +73,7 @@
     "jobb": []
   },
   "kultur": "Vi tar aldrig mer än sex hästar per dag och person – resten av tiden går till journaler och samtal med ägare.",
-  "citat": {"text": "Ingen häst blir för gammal för bra hovar. Den blir bara för gammal för att stå still länge.", "namn": "Malin Rosengren", "roll": "Grundare", "tagg": "hast"},
+  "citat": {"text": "Ingen häst blir för gammal för bra hovar. Den blir bara för gammal för att stå still länge.", "namn": "Malin Rosengren", "roll": "Grundare och djursjukskötare", "tagg": "hast"},
   "omdomen": [
     {"text": "Kalle är 36 och har aldrig varit så lugn med hovslagare. Malin låter honom ställa ner benet när han vill, och han litar på det.", "namn": "Eva-Lena P.", "ort": "Listerby"},
     {"text": "Jag bor i Göteborg och min gamla häst står i Kallinge. Bilderna efter varje besök gör att jag kan sova.", "namn": "Mattias J.", "ort": "Göteborg"},
@@ -88,15 +88,15 @@
     ["Vad händer om hästen inte orkar en hel verkning?", "Då delar vi upp den på två besök med några dagars mellanrum, utan extra kostnad."]
   ],
   "priser": [
-    {"namn": "Verkning", "pris": "780 kr", "enhet": "per häst", "text": "Hästar och ponnyer över 18 år.", "punkter": ["Verkning i hagen eller boxen", "Lågt hovstöd och pauser", "Bilder efter besöket", "Delad verkning utan extra kostnad"], "utvald": true},
-    {"namn": "Pensionsstall", "pris": "690 kr", "enhet": "per häst och besök", "text": "För stall med minst åtta seniorhästar.", "punkter": ["Fast dag varje månad", "Journal som ägarna kan läsa", "Bilder till varje ägare", "Meddelande till veterinär vid behov"]},
+    {"namn": "Seniorverkning", "pris": "780 kr", "enhet": "per häst", "text": "Hästar och ponnyer över 18 år.", "punkter": ["Verkning i hagen eller boxen", "Lågt hovstöd och pauser", "Bilder efter besöket", "Delad verkning utan extra kostnad"], "utvald": true},
+    {"namn": "Pensionsstall", "pris": "690 kr", "enhet": "per häst, varje besök", "text": "För stall med minst åtta seniorhästar.", "punkter": ["Fast dag varje månad", "Journal som ägarna kan läsa", "Bilder till varje ägare", "Meddelande till veterinär vid behov"]},
     {"namn": "Hovskor och limskor", "pris": "fr. 1 400 kr", "enhet": "per par", "text": "Mjukt skydd för känsliga hovar.", "punkter": ["Provning med testpar i två veckor", "Limskor efter veterinärens råd", "Genomgång av hur du sätter på hovskorna", "Uppföljning efter fyra veckor"]}
   ],
   "certifikat": [
-    {"titel": "Gesällbrev", "text": "Malin och Ola har gesällbrev i hovslageri.", "ikon": "lov"},
+    {"titel": "Två gesällbrev", "text": "Malin och Ola har gesällbrev i hovslageri.", "ikon": "lov"},
     {"titel": "Legitimerad djursjukskötare", "text": "Malin har tio års erfarenhet från hästklinik och legitimation från Jordbruksverket.", "ikon": "kors"},
     {"titel": "Tre veterinärer i Blekinge", "text": "Fast samarbete med tre veterinärer i Blekinge kring hästar med PPID och fång.", "ikon": "vard"},
-    {"titel": "Ansvarsförsäkring", "text": "Försäkring som täcker skador på häst och egendom vid verkning och skoning.", "ikon": "skold"}
+    {"titel": "Försäkrade i hagen", "text": "Försäkring som täcker skador på häst och egendom vid verkning och skoning.", "ikon": "skold"}
   ],
   "kunder": ["Kallinge Pensionsgård", "Olofströms Ridklubb", "Listerby Gårdsstall", "Hasslö Hästgård", "Bräkne-Hoby Ryttarförening", "Rödeby Pensionshästar"],
   "nyheter": [
@@ -109,5 +109,5 @@
   "omrade": "Blekinge: Ronneby, Karlskrona, Karlshamn, Olofström och Sölvesborg",
   "fot_cta": "Har du en häst över tjugo? Ring Linnea så bokar vi ett första besök i lugn takt.",
   "bild": {"panel": "natur", "hb": "hast"},
-  "text": {"kontakt_knapp": "Ring Linnea", "hero_knapp": "Så verkar vi seniorer", "hero_lank": "Hästar vi följer", "vagval_etikett": "Seniorer", "ber_rubrik": "Från hagarna i Blekinge", "proj_rubrik": "Gamla hästar med friska hovar", "proj_rubrik_lista": "Hästar och pensionsstall", "process_rubrik": "Ett besök i hästens takt", "bolag_etikett": "Vi tre", "bolag_rubrik": "Hovslagare, djursjukskötare och bokare", "meny_bolag": "Vi tre", "bolag_kol": ["Namn", "Roll", "Om"], "sida_bolag_ingress": "Vi är tre personer som delar på hästarna, journalerna och telefonen.", "panel_etikett": "Första besöket", "panel_knapp": "Boka första besöket", "panel_alla": "Boka första besöket", "hb_etikett": "Seniorhästens hovar", "omdomen_rubrik": "Ägare till äldre hästar", "faq_rubrik": "Frågor om äldre hästar och hovar", "priser_rubrik": "Ett pris, hur lång tid det än tar", "priser_utvald": "Vanligast", "priser_not": "Priserna inkluderar moms och resa inom Blekinge.", "boka_rubrik": "Berätta om din äldre häst", "boka_text": "Skriv ålder, sjukdomar och mediciner, och om hästen har haft fång. Linnea ringer upp inom två arbetsdagar.", "boka_falt": ["Namn", "Telefon", "Ort", "Hästens ålder och historia"], "certifikat_rubrik": "Gesäller med klinisk bakgrund", "logos_rubrik": "Pensionsstall och gårdar", "ny_rubrik": "Råd om äldre hästar", "medarbetare": "Vi tre"}
+  "text": {"kontakt_knapp": "Ring Linnea", "hero_knapp": "Så verkar vi seniorer", "hero_lank": "Seniorer vi följer", "vagval_etikett": "Seniorer", "ber_rubrik": "Från hagarna i Blekinge", "proj_rubrik": "Gamla hästar med friska hovar", "proj_rubrik_lista": "Hästar och pensionsstall", "process_rubrik": "Ett besök i hästens takt", "bolag_etikett": "Teamet", "bolag_rubrik": "Hovslagare, djursjukskötare och bokare", "meny_bolag": "Teamet", "bolag_kol": ["Namn", "Roll", "Om"], "sida_bolag_ingress": "Vi är tre personer som delar på hästarna, journalerna och telefonen.", "panel_etikett": "Innan vi börjar", "panel_knapp": "Boka ett första möte", "panel_alla": "Boka ett första möte", "hb_etikett": "Seniorhästens hovar", "omdomen_rubrik": "Ägare till äldre hästar", "faq_rubrik": "Frågor om äldre hästar och hovar", "priser_rubrik": "Ett pris, hur lång tid det än tar", "priser_utvald": "Vanligast", "priser_not": "Priserna inkluderar moms och resa inom Blekinge.", "boka_rubrik": "Berätta om din äldre häst", "boka_text": "Skriv ålder, sjukdomar och mediciner, och om hästen har haft fång. Linnea ringer upp inom två arbetsdagar.", "boka_falt": ["Namn", "Telefon", "Ort", "Hästens ålder och historia"], "certifikat_rubrik": "Gesäller med klinisk bakgrund", "logos_rubrik": "Pensionsstall och gårdar", "ny_rubrik": "Råd om äldre hästar", "medarbetare": "Teamet"}
 }

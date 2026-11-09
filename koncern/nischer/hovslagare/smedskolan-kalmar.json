@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Bli hovslagare med lön från dag ett",
     "text": "Lärlingsutbildningen tar tre år och avslutas med gesällprov. Du har lön enligt avtal, en mästare som handledare och teori en dag i veckan. Ansök senast 1 mars.",
-    "jobb": [["Lärling hovslageri, start augusti 2027", "Kalmar"], ["Gesäll med handledaransvar", "Kalmar"], ["Mästarhovslagare, utelaget Öland", "Färjestaden"]]
+    "jobb": [["Lärlingsplats 2027, tre platser", "Kalmar"], ["Gesäll med handledaransvar", "Kalmar"], ["Mästarhovslagare, utelaget Öland", "Färjestaden"]]
   },
   "kultur": "Varje fredag eftermiddag visar lärlingarna veckans svåraste hov för hela verkstaden – och mästarna får också frågor.",
   "citat": {"text": "Den bästa hovslagaren jag känner lärde sig av någon som tog sig tid. Den tiden ska finnas här.", "namn": "Johan Ekstrand", "roll": "Medgrundare, mästarhovslagare", "tagg": "people"},
@@ -91,13 +91,13 @@
   "priser": [
     {"namn": "Verkning i kliniken", "pris": "520 kr", "enhet": "per häst", "text": "Barfotahästar och ponnyer.", "punkter": ["Verkning av lärling", "Kontroll av mästare", "Visning på hård gång", "Kort med nästa tid"]},
     {"namn": "Skoning i kliniken", "pris": "1 350 kr", "enhet": "fyra skor", "text": "Varmskoning med stålsko.", "punkter": ["Lärling i par med mästare", "Inlämning 7.30, hämtning efter lunch", "Hage efter skoningen", "Gruppris från fyra hästar"], "utvald": true},
-    {"namn": "Skoning hemma", "pris": "1 950 kr", "enhet": "fyra skor", "text": "En gesäll eller mästare kommer till stallet.", "punkter": ["Fast hovslagare", "Resa inom Kalmar kommun ingår", "Öland och länet efter rutt", "Journal efter varje besök"]}
+    {"namn": "Skoning hemma", "pris": "1 950 kr", "enhet": "fyra skor", "text": "En gesäll eller mästare kommer till stallet.", "punkter": ["Samma hovslagare varje gång", "Resa inom Kalmar kommun ingår", "Öland och länet efter rutt", "Journal efter varje besök"]}
   ],
   "certifikat": [
-    {"titel": "Mästarbrev", "text": "Fyra av handledarna har mästarbrev i hovslageri, bland dem båda grundarna.", "ikon": "stjarna"},
+    {"titel": "Fyra mästarbrev", "text": "Fyra av handledarna har mästarbrev i hovslageri, bland dem båda grundarna.", "ikon": "stjarna"},
     {"titel": "Godkänd lärlingsplats", "text": "Utbildningen följer Sveriges Hovslagareförbunds krav för lärlingstid och gesällprov.", "ikon": "skola"},
     {"titel": "Handledarutbildning", "text": "Alla som handleder lärlingar har gått förbundets handledarkurs.", "ikon": "folk"},
-    {"titel": "Ansvarsförsäkring", "text": "Försäkringen gäller även när lärlingar skor under handledning.", "ikon": "skold"}
+    {"titel": "Försäkring som täcker lärlingar", "text": "Försäkringen gäller även när lärlingar skor under handledning.", "ikon": "skold"}
   ],
   "kunder": ["Kalmar Ryttarförening", "Färjestadens Ponnyklubb", "Stall Ljungbyholm Trav", "Nybro Hästgård", "Borgholms Ridklubb", "Västerviks Ryttarsällskap", "Mörbylånga Islandshästar", "Naturbruksgymnasiet i Ölands Skogsby"],
   "nyheter": [

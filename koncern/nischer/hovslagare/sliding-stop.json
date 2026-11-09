@@ -33,8 +33,8 @@
     {"titel": "Showservice", "text": "Vid westernshower står en av oss vid arenan från första till sista klass. Vi spikar lösa sliders, byter skor mellan grenar och ger råd om sliderlängd när underlaget ändras under dagen.", "text2": "Showservice bokas av arrangören eller av ett stall som har flera hästar på plats.", "tagg": "people"}
   ],
   "bolag": [
-    {"namn": "Kim Svanberg", "segment": "Grundare, gesäll", "rubrik": "Tre år i Texas, tio på svenska arenor", "text": "Kim tar reiningstallen och de flesta showhelgerna. Hon har lagt sliders på tre svenska mästare.", "tagg": "hast"},
-    {"namn": "Rasmus Hed och Tove Lindahl", "segment": "Gesäller", "rubrik": "Cutting, trail och fritidshästar", "text": "Rasmus har ko-grenarna i Halland, Tove har fritids- och trailhästarna i Bohuslän och Dalsland.", "tagg": "hast"},
+    {"namn": "Kim Svanberg", "segment": "Grundare, utbildad i Texas", "rubrik": "Tre år i Texas, tio på svenska arenor", "text": "Kim tar reiningstallen och de flesta showhelgerna. Hon har lagt sliders på tre svenska mästare.", "tagg": "hast"},
+    {"namn": "Rasmus Hed och Tove Lindahl", "segment": "Gesäller i Halland och Bohuslän", "rubrik": "Cutting, trail och fritidshästar", "text": "Rasmus har ko-grenarna i Halland, Tove har fritids- och trailhästarna i Bohuslän och Dalsland.", "tagg": "hast"},
     {"namn": "Ali Demir", "segment": "Lärling, andra året", "rubrik": "Lär sig glidsko från grunden", "text": "Ali följer med till alla shower och lär sig sko westernhästar i stället för att lära om senare.", "tagg": "people"}
   ],
   "berattelser": [
@@ -53,8 +53,8 @@
     {"namn": "SM i reining", "ort": "Västergötland", "typ": "Showservice", "ar": "2025", "text": "Showhovslagare hela helgen, med elva omspikade sliders och tre finalhästar i våra skor.", "tagg": "people"},
     {"namn": "Ranch vid Hallandsåsen", "ort": "Hallandsåsen", "typ": "Working cow", "ar": "2026", "text": "Tjugo hästar som tränas på ko, skodda för grepp och snabba vändningar.", "tagg": "hast", "status": "Pågående"},
     {"namn": "Appaloosaföreningen i Dalsland", "ort": "Bengtsfors", "typ": "Trail och fritid", "ar": "2025", "text": "Verkning och skoning av elva appaloosor inför sommarens trailtävlingar.", "tagg": "natur"},
-    {"namn": "Quarterföl i Stenungsund", "ort": "Stenungsund", "typ": "Unghästar", "ar": "2024", "text": "Fem föl med verkning varje månad första året för rak benställning.", "tagg": "hast"},
-    {"namn": "Westernklubben i Orust", "ort": "Henån", "typ": "Klubbdag", "ar": "2024", "text": "Tolv hästar på en dag och en kväll om skor och underlag för klubbens medlemmar.", "tagg": "people"}
+    {"namn": "Quarterföl i Stenungsund", "ort": "Stenungsund", "typ": "Föl och åringar", "ar": "2024", "text": "Fem föl med verkning varje månad första året för rak benställning.", "tagg": "hast"},
+    {"namn": "Westernklubben i Orust", "ort": "Henån", "typ": "Medlemsdag", "ar": "2024", "text": "Tolv hästar på en dag och en kväll om skor och underlag för klubbens medlemmar.", "tagg": "people"}
   ],
   "process": [
     {"titel": "Gren och nivå", "text": "Vi frågar vilken gren hästen tävlar i, på vilken nivå och vilka shower som är planerade.", "tagg": "people"},
@@ -73,7 +73,7 @@
     "jobb": [["Gesäll, Göteborg och Kungälv", "Ljungskile"]]
   },
   "kultur": "Alla fyra rider western själva, och varje vinter åker vi tillsammans på en kurs i USA eller Tyskland.",
-  "citat": {"text": "En reininghäst stoppar på bakbenen och litar på att slidern håller. Den tilliten ska vi förtjäna varje gång.", "namn": "Kim Svanberg", "roll": "Grundare och hovslagare", "tagg": "hast"},
+  "citat": {"text": "En reininghäst stoppar på bakbenen och litar på att slidern håller. Den tilliten ska vi förtjäna varje gång.", "namn": "Kim Svanberg", "roll": "Grundare, reininghovslagare", "tagg": "hast"},
   "omdomen": [
     {"text": "Innan Kim fanns var vi tvungna att flyga in en hovslagare inför stora shower. Nu kör hon tjugo minuter till stallet.", "namn": "Jessica H.", "ort": "Ljungskile"},
     {"text": "Rasmus förstod direkt varför min cuttinghäst halkade i vändningarna. Med nya skor vann vi klassen tre veckor senare.", "namn": "Thomas K.", "ort": "Våxtorp"},
@@ -88,15 +88,15 @@
     ["Kan ni sko på showen om jag inte är kund?", "Ja, i mån av tid. Hör av dig dagen före så vet vi vad vi ska ha med."]
   ],
   "priser": [
-    {"namn": "Verkning", "pris": "750 kr", "enhet": "per häst", "text": "Fritidshästar och unga quarterhästar.", "punkter": ["Verkning av fyra hovar", "Kontroll av benställning", "Råd om underlag", "Nästa tid bokad"]},
+    {"namn": "Verkning, fritid och föl", "pris": "750 kr", "enhet": "per häst", "text": "Fritidshästar och unga quarterhästar.", "punkter": ["Alla fyra hovar verkade", "Kontroll av benställning", "Råd om underlag", "Nästa tid bokad"]},
     {"namn": "Reiningskoning", "pris": "2 450 kr", "enhet": "per häst", "text": "Sliders bak och vändningsvänliga skor fram.", "punkter": ["Slider 25–38 mm", "Anpassning efter nivå och arena", "Uppföljning efter första showen", "Skoning en vecka före show"], "utvald": true},
     {"namn": "Showservice", "pris": "fr. 6 500 kr", "enhet": "per showdag", "text": "En hovslagare vid arenan hela dagen.", "punkter": ["Från första till sista klass", "Omspikning av sliders", "Byten mellan grenar", "Material ingår"]}
   ],
   "certifikat": [
-    {"titel": "Gesällbrev", "text": "Kim, Rasmus och Tove har gesällbrev i hovslageri.", "ikon": "lov"},
+    {"titel": "Gesällbrev i Sverige", "text": "Kim, Rasmus och Tove har gesällbrev i hovslageri.", "ikon": "lov"},
     {"titel": "Utbildning i USA", "text": "Kim gick tre år som lärling hos en hovslagare för reiningstall i Texas.", "ikon": "glob"},
     {"titel": "Godkända showhovslagare", "text": "Anlitade av svenska westernförbund som officiella hovslagare vid shower sedan 2017.", "ikon": "stjarna"},
-    {"titel": "Ansvarsförsäkring", "text": "Försäkring som gäller både i stallet och på tävlingsplatsen.", "ikon": "skold"}
+    {"titel": "Försäkrade på tävlingsplatsen", "text": "Försäkring som gäller både i stallet och på tävlingsplatsen.", "ikon": "skold"}
   ],
   "kunder": ["Reiningstall i Ljungskile", "Ranch vid Hallandsåsen", "Appaloosaföreningen i Dalsland", "Westernklubben i Orust", "Stenungsunds Quarteruppfödning", "Uddevalla Westernryttare", "Kungälvs Ranch Riding"],
   "nyheter": [
@@ -108,5 +108,5 @@
   "oppettider": "Sms och telefon: mån–fre 7–17, showhelger enligt schema",
   "omrade": "Bohuslän, Dalsland, Göteborg och Halland – shower i hela Sverige",
   "fot_cta": "Ska hästen stoppa längre i år? Sms:a Kim och berätta om nästa show.",
-  "text": {"kontakt_knapp": "Sms:a Kim", "hero_knapp": "Grenarna vi skor för", "hero_lank": "Stall och shower", "vagval_etikett": "Western", "ber_rubrik": "Från arenorna", "proj_rubrik": "Ranchar, reiningstall och shower", "proj_rubrik_lista": "Hästar och shower", "process_rubrik": "Från gren till show", "bolag_etikett": "Vi fyra", "bolag_rubrik": "Fyra westernryttare med städ", "meny_bolag": "Vi fyra", "bolag_kol": ["Namn", "Roll", "Om"], "sida_bolag_ingress": "Vi är fyra hovslagare som alla rider western själva.", "hb_etikett": "Hästens leder", "omdomen_rubrik": "Ryttare från reining till trail", "faq_rubrik": "Frågor om sliders och shower", "priser_rubrik": "Pris efter gren", "priser_utvald": "För reininghästar", "priser_knapp": "Sms:a Kim", "priser_not": "Moms ingår. Resa inom Uddevalla kommun ingår, i övrigt 15 kr per mil.", "boka_rubrik": "Vilken gren och vilken show?", "boka_text": "Skriv gren, nivå och när nästa show är, så hör Kim av sig inom ett dygn.", "boka_falt": ["Namn", "Telefon", "Stall och ort", "Gren, nivå och nästa show"], "certifikat_rubrik": "Utbildade i Sverige och Texas", "logos_rubrik": "Ranchar, klubbar och uppfödare", "ny_rubrik": "Sliders, shower och underlag", "medarbetare": "Vi fyra"}
+  "text": {"kontakt_knapp": "Sms:a Kim", "hero_knapp": "Grenarna vi skor för", "hero_lank": "Stall och shower", "vagval_etikett": "Western", "ber_rubrik": "Från arenorna", "proj_rubrik": "Ranchar, reiningstall och shower", "proj_rubrik_lista": "Hästar och shower", "process_rubrik": "Från gren till show", "bolag_etikett": "Vi fyra", "bolag_rubrik": "Fyra westernryttare med städ", "meny_bolag": "Vi fyra", "bolag_kol": ["Namn", "Roll", "Om"], "sida_bolag_ingress": "Vi är fyra hovslagare som alla rider western själva.", "hb_etikett": "Hästens leder", "omdomen_rubrik": "Ryttare från reining till trail", "faq_rubrik": "Frågor om sliders och shower", "priser_rubrik": "Pris efter gren", "priser_utvald": "För reininghästar", "priser_knapp": "Sms:a Kim", "priser_not": "Moms ingår. Resa inom Uddevalla kommun ingår, i övrigt 15 kr per mil.", "boka_rubrik": "Vilken gren och vilken show?", "boka_text": "Skriv gren, nivå och när nästa show är, så hör Kim av sig inom ett dygn.", "boka_falt": ["Namn", "Telefon", "Stall och kommun", "Gren, nivå och nästa show"], "certifikat_rubrik": "Utbildade i Sverige och Texas", "logos_rubrik": "Ranchar, klubbar och uppfödare", "ny_rubrik": "Sliders, shower och underlag", "medarbetare": "Vi fyra"}
 }

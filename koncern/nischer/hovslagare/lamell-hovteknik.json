@@ -27,13 +27,13 @@
     {"titel": "Boka i appen", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Välj tid inom din hovslagares rutt."}
   ],
   "affarsomraden": [
-    {"titel": "Skoning och verkning", "text": "Vi gör samma hantverk som alla hovslagare: verkar, varmanpassar och spikar. Skillnaden är att hoven skannas före och efter, och att målvärdena från förra gången finns på skärmen bredvid städet.", "text2": "En skanning tar mindre än en minut per hov och kräver ingenting av hästen.", "tagg": "hast"},
+    {"titel": "Hantverket med skanner", "text": "Vi gör samma hantverk som alla hovslagare: verkar, varmanpassar och spikar. Skillnaden är att hoven skannas före och efter, och att målvärdena från förra gången finns på skärmen bredvid städet.", "text2": "En skanning tar mindre än en minut per hov och kräver ingenting av hästen.", "tagg": "hast"},
     {"titel": "Appen", "text": "I appen ser du dina hästar, varje hovs mätvärden över tid och bilder från alla vinklar. Du får påminnelse när det börjar bli dags och kan boka direkt i hovslagarens rutt.", "text2": "Appen är gratis för hästägare och finns för iPhone och Android.", "tagg": "people"},
-    {"titel": "Veterinärsamarbete", "text": "Veterinärer som behandlar hästar med fång, hovledsartros eller hovbenssjukdom kan följa mätvärdena mellan besöken. De lägger in röntgenbilder och anvisningar direkt i hästens journal.", "text2": "Fyrtio veterinärer i Sörmland och Västmanland har konto i dag.", "tagg": "natur"},
+    {"titel": "Veterinärernas vy", "text": "Veterinärer som behandlar hästar med fång, hovledsartros eller hovbenssjukdom kan följa mätvärdena mellan besöken. De lägger in röntgenbilder och anvisningar direkt i hästens journal.", "text2": "Fyrtio veterinärer i Sörmland och Västmanland har konto i dag.", "tagg": "natur"},
     {"titel": "Lamell Lab", "text": "I verkstaden på Verkstadsgatan utvecklar vi skannern, fräser specialskor i aluminium och testar nya mätmetoder tillsammans med en högskola i Mälardalen.", "text2": "Fräsade skor levereras inom tre arbetsdagar efter skanningen.", "tagg": "industri"}
   ],
   "bolag": [
-    {"namn": "Hovslagarna", "segment": "Elva bilar i Sörmland", "rubrik": "Hantverk med mätverktyg i bilen", "text": "Gesäller och mästare med egna områden från Strängnäs till Nyköping. Alla bilar har skanner, surfplatta och fräsade standardskor.", "tagg": "hast"},
+    {"namn": "Ute hos hästarna", "segment": "Elva bilar i Sörmland", "rubrik": "Hantverk med mätverktyg i bilen", "text": "Gesäller och mästare med egna områden från Strängnäs till Nyköping. Alla bilar har skanner, surfplatta och fräsade standardskor.", "tagg": "hast"},
     {"namn": "Lamell Lab", "segment": "Utveckling och fräsning", "rubrik": "Där skannern och skorna byggs", "text": "Tre utvecklare och en CNC-fräs i Eskilstuna. Här byggs appen, skannerns mjukvara och de fräsade specialskorna.", "tagg": "industri"},
     {"namn": "Bokning och support", "segment": "Två personer i Eskilstuna", "rubrik": "Svar i appen inom en timme", "text": "Bokningen lägger rutterna, svarar på frågor i appens chatt och hjälper veterinärer att komma igång.", "tagg": "kontor"}
   ],
@@ -50,10 +50,10 @@
   ],
   "projekt": [
     {"namn": "Strängnäs Ridklubb", "ort": "Strängnäs", "typ": "Stallavtal", "ar": "2025", "text": "Trettio skolhästar i stallvyn, där ridskolechefen ser varje hästs nästa tid och historik.", "tagg": "hast"},
-    {"namn": "Fångstoet Bella", "ort": "Katrineholm", "typ": "Veterinärsamarbete", "ar": "2025", "text": "Tolv veckors uppföljning med skanning och röntgen bredvid varandra i appen.", "tagg": "natur"},
+    {"namn": "Fångstoet Bella", "ort": "Katrineholm", "typ": "Fånguppföljning", "ar": "2025", "text": "Tolv veckors uppföljning med skanning och röntgen bredvid varandra i appen.", "tagg": "natur"},
     {"namn": "Nyköpings Travsällskap", "ort": "Nyköping", "typ": "Balansanalys", "ar": "2025", "text": "Tryckmatta och video på tio travare för att jämföra balansen före och efter skoning.", "tagg": "hast"},
     {"namn": "Studie om hovbenet", "ort": "Eskilstuna", "typ": "Forskning", "ar": "2026", "text": "Sexhundra skanningar jämförs med röntgen tillsammans med en högskola i Mälardalen.", "tagg": "kontor", "status": "Pågående"},
-    {"namn": "Fräsade skor till hoppvalack", "ort": "Flen", "typ": "Specialskor", "ar": "2024", "text": "Aluminiumskor fräsade efter skanning för en häst med asymmetriska framhovar.", "tagg": "industri"},
+    {"namn": "Fräsade skor till hoppvalack", "ort": "Flen", "typ": "Fräsade skor", "ar": "2024", "text": "Aluminiumskor fräsade efter skanning för en häst med asymmetriska framhovar.", "tagg": "industri"},
     {"namn": "Malmköpings Hästgård", "ort": "Malmköping", "typ": "Stallavtal", "ar": "2024", "text": "Inackorderingsstall där alla tjugo ägare följer sina hästar i appen.", "tagg": "hast"}
   ],
   "process": [
@@ -89,15 +89,15 @@
     ["Hur långt i förväg bokar man?", "Ordinarie besök bokas direkt efter förra skoningen. Nya kunder får normalt tid inom två veckor."]
   ],
   "priser": [
-    {"namn": "Verkning med skanning", "pris": "790 kr", "enhet": "per häst", "text": "Barfotahästar och ponnyer.", "punkter": ["Skanning före och efter", "Mätvärden och bilder i appen", "Påminnelse om nästa tid", "Delning med veterinär"]},
-    {"namn": "Skoning med skanning", "pris": "1 980 kr", "enhet": "fyra skor", "text": "Varmskoning med stålsko.", "punkter": ["Målvärden från förra besöket", "Skanning före och efter", "Kommentar från hovslagaren", "Historik som pdf"], "utvald": true},
+    {"namn": "Verkning med skanning", "pris": "790 kr", "enhet": "per häst", "text": "För hästar utan skor.", "punkter": ["Skanning före och efter", "Mätvärden och bilder i appen", "Påminnelse om nästa tid", "Delning med veterinär"]},
+    {"namn": "Skoning med skanning", "pris": "1 980 kr", "enhet": "fyra skor", "text": "Stålskor, varmt anpassade.", "punkter": ["Målvärden från förra besöket", "Skanning före och efter", "Kommentar från hovslagaren", "Historik som pdf"], "utvald": true},
     {"namn": "Stallabonnemang", "pris": "fr. 1 750 kr", "enhet": "per häst och skoning", "text": "För stall och ridskolor med minst tio hästar.", "punkter": ["Stallvy för stallchefen", "Fasta dagar i rutten", "Samlingsfaktura per månad", "Kvartalsrapport över alla hästar"]}
   ],
   "certifikat": [
-    {"titel": "Gesällbrev", "text": "Alla elva hovslagare har gesällbrev, två av dem även mästarbrev.", "ikon": "lov"},
+    {"titel": "Elva gesäller, två mästare", "text": "Alla elva hovslagare har gesällbrev, två av dem även mästarbrev.", "ikon": "lov"},
     {"titel": "Dataskydd enligt GDPR", "text": "Hästägarnas uppgifter lagras i Sverige och raderas på begäran inom trettio dagar.", "ikon": "las"},
     {"titel": "Forskningssamarbete", "text": "Studie med en högskola i Mälardalen om hur ytmätning speglar hovbenets läge.", "ikon": "sok"},
-    {"titel": "Ansvarsförsäkring", "text": "Försäkring för skador på häst och egendom vid verkning och skoning.", "ikon": "skold"}
+    {"titel": "Försäkring för häst och egendom", "text": "Försäkring för skador på häst och egendom vid verkning och skoning.", "ikon": "skold"}
   ],
   "kunder": ["Strängnäs Ridklubb", "Nyköpings Travsällskap", "Malmköpings Hästgård", "Katrineholms Hästklinik", "Flens Ryttarförening", "Torshälla Ponnyklubb", "Stall Sundbyholm"],
   "nyheter": [

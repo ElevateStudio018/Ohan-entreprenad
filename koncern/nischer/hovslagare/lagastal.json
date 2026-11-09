@@ -28,7 +28,7 @@
   ],
   "affarsomraden": [
     {"titel": "Grossist för hovslagare", "text": "Kärnan i Lagastål är lagret. Hovslagare i Sverige, Norge, Danmark och Finland beställer skor, söm, limskor och förbrukningsmaterial som går ut med kvällens pallar.", "text2": "Order före klockan 15 levereras nästa vardag i Sverige och Danmark, inom två dagar i Norge och Finland.", "tagg": "industri"},
-    {"titel": "Smedjan", "text": "I smedjan bredvid lagret tillverkar tio smeder skor som inte finns färdiga: specialskor efter veterinärens ritning, skor till stora kallblod och handsmidda skor för utställningar och mästerskap.", "text2": "Här svetsar vi också våra gasolässjor och reparerar städ och hovstöd.", "tagg": "svets"},
+    {"titel": "Smedjan bredvid lagret", "text": "I smedjan bredvid lagret tillverkar tio smeder skor som inte finns färdiga: specialskor efter veterinärens ritning, skor till stora kallblod och handsmidda skor för utställningar och mästerskap.", "text2": "Här svetsar vi också våra gasolässjor och reparerar städ och hovstöd.", "tagg": "svets"},
     {"titel": "Hovslageriet i Halland", "text": "Lagastål Hovslageri har åtta hovslagare som skor rid-, trav- och sporthästar i södra Halland och nordvästra Skåne. Här provar vi också nya skor och material innan de kommer in i sortimentet.", "text2": "Hästägare bokar på samma sätt som hos vilket hovslageri som helst – med fast hovslagare.", "tagg": "hast"},
     {"titel": "Utbildning och provning", "text": "Vi bjuder in till produktdagar där hovslagare får prova nya skomodeller och limsystem på levande hästar i vår uppställningshall.", "text2": "Varje vår hålls en heldag med föreläsare från veterinärkåren och tillverkare från Europa.", "tagg": "people"}
   ],
@@ -47,7 +47,7 @@
     {"varde": "2 100", "enhet": "kunder", "etikett": "Hovslagare med konto"},
     {"varde": "400 000", "enhet": "skor", "etikett": "I lager i Laholm"},
     {"varde": "42", "enhet": "medarbetare", "etikett": "Lager, smedja och hovslageri"},
-    {"varde": "96 Mkr", "enhet": "", "etikett": "Omsättning 2025"}
+    {"varde": "96 Mkr", "enhet": "", "etikett": "Nettoomsättning 2025"}
   ],
   "projekt": [
     {"namn": "Hovslagarförbundets mästerskap", "ort": "Halmstad", "typ": "Sponsring och smide", "ar": "2025", "text": "Handsmidda tävlingsskor och material till alla deltagare i mästerskapsklassen.", "tagg": "svets"},
@@ -92,21 +92,21 @@
   "prislista": [["Stålsko, standard, låda 20 par", "fr. 1 480 kr"], ["Söm, ask 250 st", "fr. 165 kr"], ["Ägghälssko, smidd efter mått", "fr. 390 kr/st"], ["Gasolässja, två brännare", "18 900 kr"], ["Hovtång, 14 tum", "fr. 1 650 kr"], ["Bilinredning, komplett", "fr. 64 000 kr"], ["Skoning fyra skor, hovslageriet", "1 900 kr"]],
   "certifikat": [
     {"titel": "ISO 9001", "text": "Lager och smedja är certifierade enligt ISO 9001 sedan 2017.", "ikon": "skold"},
-    {"titel": "Heta arbeten", "text": "Alla i smedjan och hovslageriet har certifikat för heta arbeten.", "ikon": "eld"},
-    {"titel": "Gesällbrev", "text": "Hovslagarna och fyra av säljarna har gesällbrev i hovslageri.", "ikon": "lov"},
-    {"titel": "Kollektivavtal", "text": "Kollektivavtal för lager, smedja och hovslageri.", "ikon": "dokument"}
+    {"titel": "Heta arbeten i smedjan", "text": "Alla i smedjan och hovslageriet har certifikat för heta arbeten.", "ikon": "eld"},
+    {"titel": "Gesäller bland säljarna", "text": "Hovslagarna och fyra av säljarna har gesällbrev i hovslageri.", "ikon": "lov"},
+    {"titel": "Kollektivavtal i alla led", "text": "Kollektivavtal för lager, smedja och hovslageri.", "ikon": "dokument"}
   ],
   "kunder": ["Halmstads Hästklinik", "Mellbystrands Ryttarsällskap", "Hovslagare i Sverige, Norge, Danmark och Finland", "Båstad Hoppstall", "Ängelholms Travtränare", "Naturbruksgymnasiet i Halland", "Hallandsåsens Islandshästar"],
   "nyheter": [
     ["2026-10-27", "Vinterbroddar i lager nu", "Hårdmetallstift och skruvbroddar i alla storlekar – beställ före första frosten.", "industri"],
     ["2026-09-18", "Produktdag med rekordbesök", "140 hovslagare provade nya limskor och plastskor i uppställningshallen.", "people"],
     ["2026-03-03", "Lagret växer med 1 200 kvadratmeter", "Spaden i marken för utbyggnaden som blir klar våren 2027.", "bygg"],
-    ["2026-02-10", "Bokslut 2025", "Omsättningen ökade till 96 miljoner kronor, med störst tillväxt i Norge.", "kontor"]
+    ["2026-02-10", "Året 2025 i siffror", "Omsättningen ökade till 96 miljoner kronor, med störst tillväxt i Norge.", "kontor"]
   ],
   "kontakt": {"adress": "Ränneslövsvägen 12", "postnr": "312 32", "ort": "Laholm", "telefon": "070-174 06 44", "epost": "order@lagastal.se", "orgnr": ""},
   "oppettider": "Kundtjänst: mån–fre 6–17. Butiken: mån–fre 7–16, lör 9–12",
   "omrade": "Leveranser i hela Norden, hovslageri i södra Halland och nordvästra Skåne",
   "fot_cta": "Hovslagare med F-skatt? Öppna konto i dag och beställ före 15.",
   "bild": {"panel": "industri", "hb": "svets"},
-  "text": {"kontakt_knapp": "Öppna konto", "hero_knapp": "Sortiment och smide", "hero_lank": "Kunder och uppdrag", "vagval_etikett": "Sortiment", "ber_rubrik": "Nytt från lagret och smedjan", "proj_rubrik": "Leveranser, smide och bilar", "proj_rubrik_lista": "Uppdrag och avtal", "process_rubrik": "Från order till bilen", "bolag_etikett": "Bolagen", "bolag_rubrik": "Fyra bolag vid Lagan", "meny_bolag": "Bolagen", "sida_bolag_ingress": "Lagastål består av {n} bolag med gemensamt lager i Laholm.", "hb_etikett": "Stål i kretslopp", "omdomen_rubrik": "Hovslagare om sin leverantör", "faq_rubrik": "Konto, leveranser och smide", "boka_rubrik": "Öppna konto eller beställ specialskor", "boka_text": "Skriv var du är verksam och vad du behöver, så kontaktar en säljare dig inom en arbetsdag.", "boka_falt": ["Namn", "Telefon", "Företag och ort", "Vad behöver du?"], "certifikat_rubrik": "ISO, gesäller och kollektivavtal", "logos_rubrik": "Kunder i hela Norden", "ny_rubrik": "Sortiment, smide och bokslut", "medarbetare": "Våra 42"}
+  "text": {"kontakt_knapp": "Öppna konto", "hero_knapp": "Sortiment och smide", "hero_lank": "Kunder och uppdrag", "vagval_etikett": "Sortiment", "ber_rubrik": "Nytt från lagret och smedjan", "proj_rubrik": "Leveranser, smide och bilar", "proj_rubrik_lista": "Leveranser och avtal", "process_rubrik": "Från order till bilen", "bolag_etikett": "Bolagen", "bolag_rubrik": "Fyra bolag vid Lagan", "meny_bolag": "Bolagen", "sida_bolag_ingress": "Lagastål består av {n} bolag med gemensamt lager i Laholm.", "hb_etikett": "Stål i kretslopp", "omdomen_rubrik": "Hovslagare om sin leverantör", "faq_rubrik": "Konto, leveranser och smide", "boka_rubrik": "Öppna konto eller beställ specialskor", "boka_text": "Skriv var du är verksam och vad du behöver, så kontaktar en säljare dig inom en arbetsdag.", "boka_falt": ["Namn", "Telefon", "Företag och ort", "Vad behöver du?"], "certifikat_rubrik": "ISO, gesäller och kollektivavtal", "logos_rubrik": "Kunder i hela Norden", "ny_rubrik": "Sortiment, smide och bokslut", "medarbetare": "Våra 42"}
 }
