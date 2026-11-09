@@ -1,0 +1,131 @@
+{
+  "profil": "nisch",
+  "nisch": "maskin",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Linjal Maskin AB",
+  "kortnamn": "Linjal",
+  "slug": "linjal-maskin",
+  "typ": "Maskiner med 3D-styrning i Skaraborg",
+  "tagline": "Rätt höjd första gången",
+  "slogan": "Varje grävare och dozer vi hyr ut har 3D-maskinstyrning installerad, kalibrerad och laddad med din ritning – så att föraren schaktar på centimetern utan utsättningspinnar.",
+  "hero_rubrik": "Schakta på centimetern utan en enda pinne",
+  "hero_text": "Grävmaskiner, dozrar och väghyvlar med kalibrerad 3D-styrning, plus mätingenjörer som gör maskinmodellen av era ritningar. I Skaraborg och hela Västra Götaland.",
+  "intro_rubrik": "42 maskiner som vet var de står",
+  "om": [
+    "Sanna Fröjd var mätingenjör på ett anläggningsföretag och såg dyra maskiner stå still i timmar medan förarna väntade på att någon skulle sätta ut nya höjdpinnar. 2015 köpte hon ett begagnat GPS-system, monterade det på en hyrd fjortonstons grävare och tog med sig maskinföraren Ali Rahimi som kompanjon. Första sommaren schaktade de för en parkeringsplats i Skövde utan en enda utsättningspinne.",
+    "I dag är vi 21 anställda med 42 maskiner och depå på Kåpvägen i Skövde. Alla maskiner har 3D-styrning, och tre mätingenjörer gör om kundernas ritningar till maskinmodeller som laddas in innan leverans. Vi kalibrerar varje system mot SWEPOS nätverks-RTK och en egen kontrollpunkt på depån innan maskinen lämnar oss."
+  ],
+  "vagval_rubrik": "Hur exakt måste det bli?",
+  "tjanster": [
+    {"titel": "Grävare med 3D", "ikon": "hamare", "href": "verksamhet.html", "text": "Grävmaskiner 5–30 ton med 3D-styrning och tiltrotator."},
+    {"titel": "Dozrar", "ikon": "kugge", "href": "verksamhet.html", "text": "Bandschaktare med dubbla GNSS-antenner för planer och vägbankar."},
+    {"titel": "Väghyvlar", "ikon": "vag", "href": "verksamhet.html", "text": "Hyvlar med 3D för bärlager och finjustering av vägar och planer."},
+    {"titel": "Maskinmodeller", "ikon": "ritning", "href": "verksamhet.html", "text": "Vi gör om DWG, PDF eller IFC till en modell som maskinen förstår."},
+    {"titel": "Mätning och kontroll", "ikon": "sok", "href": "verksamhet.html", "text": "Utsättning, relationsmätning och volymberäkning med drönare."},
+    {"titel": "Eftermontering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vi monterar och kalibrerar 3D-system på din egen maskin."},
+    {"titel": "Förarutbildning i 3D", "ikon": "skola", "href": "verksamhet.html", "text": "En dag i hytten med en av våra förare och en riktig modell."},
+    {"titel": "Skicka ritningen", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi tittar på ritningen och svarar med maskinförslag och pris."}
+  ],
+  "affarsomraden": [
+    {"titel": "Maskiner med kalibrerad 3D", "text": "Grävare, dozrar och hyvlar levereras med system som är kalibrerade för just den maskinen och den skopa du ska använda. Föraren ser i skärmen hur många centimeter som återstår till färdig nivå.", "text2": "Maskinerna har dubbla antenner och lutningsgivare i bom, sticka och skopa.", "tagg": "maskin"},
+    {"titel": "Modeller av era ritningar", "text": "Tre mätingenjörer gör om bygghandlingar till terrängmodeller, linjer och ytor som maskinen kan läsa. Vi upptäcker ofta fel i ritningen innan första skopan har grävts.", "text2": "En vanlig modell för en villatomt eller ett mindre parkeringsområde är klar på två arbetsdagar.", "tagg": "kontor"},
+    {"titel": "Solparker och planer", "text": "Solcellsparker, logistikplaner och idrottsplatser kräver jämna ytor över stora arealer. En dozer med 3D lägger en hektar bärlager inom två centimeters tolerans på en dag.", "text2": "Vi mäter in färdig yta med drönare och lämnar en volymrapport till beställaren.", "tagg": "solel"},
+    {"titel": "Ledningar och diken", "text": "VA-ledningar och dräneringar med svag lutning är det svåraste att få rätt med pinnar. Med 3D-modellen ligger ledningen på rätt fall från första röret.", "text2": "Relationsmätningen görs medan grävaren arbetar och levereras i kommunens format.", "tagg": "mark"}
+  ],
+  "bolag": [
+    {"namn": "Maskinuthyrning", "segment": "42 maskiner med 3D", "rubrik": "Kalibrerat innan det lastas", "text": "Uthyrarna väljer maskin, skopor och system efter jobbet och bokar transport från Skövde.", "tagg": "maskin"},
+    {"namn": "Mät och modell", "segment": "Tre mätingenjörer", "rubrik": "Ritningen blir en karta i hytten", "text": "Mätingenjörerna gör maskinmodeller, mäter in färdiga ytor och svarar på förarnas frågor under jobbet.", "tagg": "kontor"},
+    {"namn": "Systemverkstaden", "segment": "Montage och support", "rubrik": "Antenner, givare och kablar", "text": "Fyra tekniker monterar och kalibrerar system och har telefonsupport från klockan sex på morgonen.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Tolv hektar solpark utan pinnar", "text": "Två dozrar och en hyvel planade en solcellspark vid Mariestad på nio arbetsdagar.", "tagg": "solel"},
+    {"rubrik": "Fel i ritningen hittat i tid", "text": "Vår mätingenjör upptäckte att en dagvattenledning saknade fall innan något grävts.", "tagg": "kontor"},
+    {"rubrik": "Ny dozer med dubbla antenner", "text": "Arton ton, 3D som standard och ett blad som håller två centimeter även i backe.", "tagg": "maskin"}
+  ],
+  "nyckeltal": [
+    {"varde": "42", "enhet": "maskiner", "etikett": "Alla med 3D-styrning"},
+    {"varde": "±2", "enhet": "cm", "etikett": "Tolerans på färdig yta"},
+    {"varde": "2", "enhet": "dagar", "etikett": "Till färdig maskinmodell"},
+    {"varde": "310", "enhet": "modeller", "etikett": "Gjorda av våra mätingenjörer 2025"}
+  ],
+  "projekt": [
+    {"namn": "Solparken vid Mariestad", "ort": "Mariestad", "typ": "Planering med dozer", "ar": "2025", "text": "Tolv hektar planade och inmätta med drönare.", "tagg": "solel"},
+    {"namn": "Logistikplan i Falköping", "ort": "Falköping", "typ": "Bärlager och hyvling", "ar": "2025", "text": "Tre hektar asfaltsunderlag inom två centimeters tolerans.", "tagg": "anlaggning"},
+    {"namn": "Dagvatten i Hjo", "ort": "Hjo", "typ": "VA-ledning", "ar": "2024", "text": "Ledning med 3 promilles fall utan en enda utsättningspinne.", "tagg": "mark"},
+    {"namn": "Golfbana i Tidaholm", "ort": "Tidaholm", "typ": "Formgivning", "ar": "2025", "text": "Fyra nya hål formade efter arkitektens 3D-modell.", "tagg": "natur"},
+    {"namn": "Industrihamnen i Lidköping", "ort": "Lidköping", "typ": "Kajplan", "ar": "2024", "text": "Ny upplagsyta schaktad och inmätt i kommunens koordinatsystem.", "tagg": "infra"},
+    {"namn": "Bostadsområde i Skövde", "ort": "Skövde", "typ": "Gator och ledningar", "ar": "2026", "text": "Gator, VA och tomter för 140 bostäder schaktas efter vår modell.", "tagg": "mark", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Skicka ritningen", "text": "Vi tar emot DWG, IFC eller PDF och svarar med maskinförslag inom en arbetsdag.", "tagg": "kontor"},
+    {"titel": "Modellen byggs", "text": "Mätingenjören gör terrängmodell och linjer och stämmer av frågor med er projektör.", "tagg": "kontor"},
+    {"titel": "Kalibrerad leverans", "text": "Maskinen kontrolleras mot vår kontrollpunkt och levereras med modellen inladdad.", "tagg": "maskin"},
+    {"titel": "Inmätning och rapport", "text": "Vi mäter in färdig yta och lämnar relationshandling och volymer.", "tagg": "mark"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje onödig kubikmeter kostar diesel",
+    "text": "När schaktet blir rätt första gången slipper man både överschakt och påfyllnad. Våra kunder flyttar i snitt 12 procent mindre massor och kör färre transporter än med traditionell utsättning. Alla maskiner tankas med HVO och två av grävarna är eldrivna.",
+    "mal": [["12 %", "mindre massor att flytta i snitt"], ["100 %", "HVO i hela maskinparken"], ["0", "utsättningspinnar på våra jobb sedan 2015"]]
+  },
+  "karriar": {
+    "rubrik": "Mätteknik och maskiner i samma hus",
+    "text": "Hos oss sitter mätingenjörerna tio meter från verkstaden och förarna ringer direkt när modellen behöver ändras. Vi söker både förare som vill lära sig 3D och tekniker som kan antenner och givare.",
+    "jobb": [["Mätingenjör maskinmodeller", "Skövde"], ["Systemtekniker 3D", "Skövde"], ["Maskinförare med 3D-vana", "Skövde"]]
+  },
+  "kultur": "Varje nyanställd mätingenjör kör grävare en vecka, och varje förare sitter en dag med modellerna.",
+  "citat": {"text": "En maskin som står och väntar på en pinne är den dyraste maskinen på bygget. Vi bestämde oss för att ingen av våra skulle behöva göra det.", "namn": "Sanna Fröjd", "roll": "Grundare och vd", "tagg": "kontor"},
+  "omdomen": [
+    {"text": "Vi behövde ingen utsättare på hela solparken. Dozerföraren såg nivån i skärmen och mätrapporten godkändes av beställaren direkt.", "namn": "Mattias R.", "ort": "Mariestad"},
+    {"text": "Mätingenjören hittade ett höjdfel i ritningen som skulle ha kostat oss en vecka. Det upptäcktes innan vi ens grävt.", "namn": "Helena B.", "ort": "Hjo"},
+    {"text": "De monterade 3D på våra egna två grävare och utbildade förarna på en dag. Nu hyr vi bara dozern av dem.", "namn": "Kjell N.", "ort": "Falköping"}
+  ],
+  "faq": [
+    ["Behöver jag en egen mätingenjör?", "Nej, vi gör maskinmodellen och kan mäta in färdig yta. Har ni egen mätingenjör samarbetar vi gärna med hen."],
+    ["Vilka filformat tar ni emot?", "DWG, DXF, IFC, LandXML och PDF. Med PDF tar modellen någon dag längre eftersom vi ritar om den."],
+    ["Vad kostar en maskinmodell?", "En enkel modell för en villatomt eller ett mindre plan kostar från 4 900 kronor. Större projekt offererar vi efter ritning."],
+    ["Fungerar systemet i skog och nära hus?", "Nära höga hus och under tät skog kan satellitsignalen bli sämre. Då kompletterar vi med totalstation som styr maskinen."],
+    ["Kan ni montera 3D på min maskin?", "Ja, vi eftermonterar på de flesta grävare och dozrar. Montage och kalibrering tar två till tre dagar."],
+    ["Hur exakt blir det?", "På bärlager och planer håller vi två centimeter. På finplanering med hyvel ofta en centimeter."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001", "text": "Kvalitetsledningssystem för uthyrning, modellering och mätning.", "ikon": "skold"},
+    {"titel": "Kalibrering mot SWEPOS", "text": "Alla system kontrolleras mot Lantmäteriets nätverks-RTK och vår egen kontrollpunkt.", "ikon": "glob"},
+    {"titel": "Maskinförarbevis", "text": "Förare och utbildare har maskinförarbevis och dokumenterad 3D-erfarenhet.", "ikon": "hjalm"},
+    {"titel": "ID06 och kollektivavtal", "text": "Kollektivavtal genom Byggnads och Unionen, ID06 för alla på arbetsplatsen.", "ikon": "folk"}
+  ],
+  "kunder": ["Hjo kommun, gata och park", "Falköpings Markbyggare", "Tidaholms Golfklubb", "Mariestads Solpark", "Skaraborgs Logistikcenter", "Lidköpings Industrihamn", "Skövde Bostadsutveckling"],
+  "nyheter": [
+    ["2026-10-05", "Drönarmätning ingår på planer", "Från november mäter vi in alla planer över en hektar med drönare utan extra kostnad.", "mark"],
+    ["2026-04-28", "Elgrävare med 3D", "Två eldrivna grävare med full maskinstyrning finns nu i parken.", "maskin"],
+    ["2025-10-14", "Fem vanliga fel i ritningar", "Det vi oftast hittar när vi gör maskinmodeller – och hur ni undviker dem.", "kontor"]
+  ],
+  "kontakt": {"adress": "Kåpvägen 9", "postnr": "541 34", "ort": "Skövde", "telefon": "070-174 06 67", "epost": "modell@linjalmaskin.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–16. Systemsupport från 06.00",
+  "omrade": "Skaraborg och hela Västra Götaland",
+  "fot_cta": "Har ni en ritning och ett datum? Skicka båda, så får ni maskin och modell.",
+  "bild": {"panel": "mark", "hb": "maskin", "sida_om": "kontor"},
+  "text": {
+    "hero_knapp": "Maskiner med 3D",
+    "hero_lank": "Schaktat på centimetern",
+    "kontakt_knapp": "Skicka ritning",
+    "vagval_etikett": "Maskinstyrning",
+    "ber_etikett": "Från mätbordet",
+    "ber_rubrik": "Ytor som blev rätt direkt",
+    "proj_etikett": "Ytor",
+    "proj_rubrik": "Planer, diken och solparker",
+    "proj_rubrik_lista": "Schaktade och inmätta ytor",
+    "process_rubrik": "Från ritning till relationshandling",
+    "hb_etikett": "Resurser",
+    "hb_lank": "Så minskar vi massorna",
+    "omdomen_rubrik": "Platschefer och förare",
+    "faq_rubrik": "Om modeller, format och precision",
+    "logos_rubrik": "Modeller och maskiner åt",
+    "certifikat_rubrik": "Kalibrerat och dokumenterat",
+    "bolag_rubrik": "Maskiner, mätning och system",
+    "boka_rubrik": "Vad ska schaktas?",
+    "boka_text": "Bifoga ritningen och ange startvecka, så föreslår vi maskiner och pris för modellen.",
+    "boka_falt": ["Namn", "Telefon", "Företag", "Projekt och startvecka"],
+    "siffror_etikett": "Linjal i siffror",
+    "medarbetare": "Medarbetarna"
+  }
+}

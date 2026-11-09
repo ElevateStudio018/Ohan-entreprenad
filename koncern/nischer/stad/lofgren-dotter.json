@@ -23,7 +23,7 @@
     {"titel": "Konferens och event", "ikon": "kalender", "href": "verksamhet.html", "text": "Omställning av konferenssalar mellan dagar och städning efter bankett."},
     {"titel": "Lobby och allmänna ytor", "ikon": "kontor", "href": "verksamhet.html", "text": "Entré, hissar och trappor städas nattetid när flödet är som lägst."},
     {"titel": "Ventilationskåpor", "ikon": "vind", "href": "verksamhet.html", "text": "Rengöring av kåpor och fettfilter enligt försäkringsbolagets intervall."},
-    {"titel": "Säsongsstäd", "ikon": "sol", "href": "verksamhet.html", "text": "Storstäd av restauranger och uteserveringar inför sommarsäsong och julbord."},
+    {"titel": "Inför säsong och julbord", "ikon": "sol", "href": "verksamhet.html", "text": "Storstäd av restauranger och uteserveringar inför sommarsäsong och julbord."},
     {"titel": "Prova en natt", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi städar ert kök en natt till fast pris så ni kan se resultatet själva."}
   ],
   "affarsomraden": [
@@ -53,7 +53,7 @@
     {"namn": "Hotell vid Stora torget", "ort": "Karlstad", "typ": "Våningsstäd, 142 rum", "ar": "2026", "text": "Samma hotell där Birgitta började som våningsfru – nu med hela våningsstädningen.", "tagg": "interior", "status": "Pågående"},
     {"namn": "Konferenshotell vid Fryken", "ort": "Sunne", "typ": "Hotell, spa och konferens", "ar": "2026", "text": "Femårsavtal som omfattar 96 rum, spa och tre konferenssalar.", "tagg": "natur", "status": "Pågående"},
     {"namn": "Krog på Tingvallagatan", "ort": "Karlstad", "typ": "Storkök och matsal", "ar": "2025", "text": "Avfettning varje natt mellan söndag och torsdag, och två gånger på fredag och lördag.", "tagg": "stadning"},
-    {"namn": "Ishallens restaurang", "ort": "Karlstad", "typ": "Eventstäd", "ar": "2025", "text": "Restaurang och loger städas efter varje hemmamatch under hockeysäsongen.", "tagg": "stadning"},
+    {"namn": "Ishallens restaurang", "ort": "Karlstad", "typ": "Städ efter hemmamatch", "ar": "2025", "text": "Restaurang och loger städas efter varje hemmamatch under hockeysäsongen.", "tagg": "stadning"},
     {"namn": "Herrgård på Hammarö", "ort": "Hammarö", "typ": "Bröllop och bankett", "ar": "2025", "text": "Tjugotvå bröllopshelger med städning av festlokal natten mellan lördag och söndag.", "tagg": "fest"},
     {"namn": "Lunchrestaurang i Inre hamn", "ort": "Karlstad", "typ": "Ventilationskåpor", "ar": "2024", "text": "Kåpor och fettfilter rengjorda varannan månad med logg till försäkringsbolaget.", "tagg": "ventilation"}
   ],
@@ -85,7 +85,7 @@
     ["Vilka medel använder ni i storköket?", "Alkaliska avfettningsmedel för spisar och ugnar, och sura medel för kalk i diskmaskiner. Allt är godkänt för livsmedelslokaler och sköljs av noggrant."],
     ["Kan ni hantera vår bokningsstatus?", "Ja, våningsstädarna markerar städade rum direkt i hotellets system så att receptionen ser vilka rum som är klara."],
     ["Hur fungerar betalningen för hotellrum?", "Vi tar betalt per städat rum, med olika pris för utcheckning och kvarboende. Ni betalar alltså bara för det som faktiskt städats."],
-    ["Har ni tystnadsplikt?", "Alla anställda skriver under sekretessavtal. Det vi ser i hotellrum och kontor stannar där."],
+    ["Pratar personalen om det de ser i rummen?", "Alla anställda skriver under sekretessavtal. Det vi ser i hotellrum och kontor stannar där."],
     ["Vad kostar en nattstädning av ett kök?", "Ett restaurangkök med 60 platser kostar från 2 400 kronor per natt exklusive moms. Prova-natten kostar 1 900 kronor."],
     ["Åker ni utanför Karlstad?", "Ja, vi har en egen grupp i Sunne och åker till Hammarö, Kil, Forshaga och Grums utan extra kostnad."]
   ],
@@ -124,6 +124,6 @@
     "certifikat_rubrik": "Hygien, brandskydd och tystnad",
     "bolag_rubrik": "Våning, natt och Fryksdalen",
     "ny_rubrik": "Från nattlaget",
-    "medarbetare": "Personalen"
+    "medarbetare": "Natt- och våningslagen"
   }
 }

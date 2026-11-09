@@ -1,0 +1,124 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Stallbacka Maskinsvets AB",
+  "kortnamn": "Stallbacka",
+  "slug": "stallbacka-maskinsvets",
+  "typ": "Maskinsvets och linjeborrning, Trollhättan",
+  "tagline": "Glappfria maskiner igen",
+  "slogan": "Vi borrar upp slitna bultlägen, påsvetsar och renoverar skopor åt maskinentreprenörer i Fyrbodal – ofta på arbetsplatsen, utan att maskinen behöver fraktas.",
+  "hero_rubrik": "Glappet i bommen åtgärdat på plats",
+  "hero_text": "Mobil linjeborrning, påsvetsning, skoprenovering och sprickreparation för grävmaskiner, hjullastare och krossverk. Tolv anställda, fyra servicebilar.",
+  "intro_rubrik": "Sjutton år i grustag och schakt",
+  "om": [
+    "Daniel Berglund körde grävmaskin i tolv år och såg hur dyrt det blev när en maskin med glapp i länkarna måste fraktas till en verkstad i flera veckor. 2009 köpte han sin första mobila borrmaskin och började åka ut till entreprenörerna runt Trollhättan och Vänersborg.",
+    "I dag är vi tolv anställda med fyra servicebilar och en verkstad på Stallbacka industriområde där vi renoverar skopor, redskap och snöplogar. Vi omsätter 16 miljoner kronor, och tre av fyra uppdrag är åt maskinentreprenörer, grustag och kommunala driftavdelningar."
+  ],
+  "vagval_rubrik": "Var glappar det?",
+  "tjanster": [
+    {"titel": "Linjeborrning", "ikon": "kugge", "href": "verksamhet.html", "text": "Slitna bultlägen påsvetsas och borras upp till nytt mått på plats."},
+    {"titel": "Skoprenovering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Nya skär, slitplåtar och sidoskär på skopor och redskap."},
+    {"titel": "Sprickreparation", "ikon": "eld", "href": "verksamhet.html", "text": "Sprickor i bommar och chassin fräses ur och svetsas med förvärmning."},
+    {"titel": "Snöplogar och vägutrustning", "ikon": "vag", "href": "verksamhet.html", "text": "Vinterservice på plogar, spridare och vikplogar före säsongen."},
+    {"titel": "Krossverk och sorterverk", "ikon": "sten", "href": "verksamhet.html", "text": "Påsvetsning av käftar, rotorer och matare i grustag."},
+    {"titel": "Specialredskap", "ikon": "hamare", "href": "verksamhet.html", "text": "Vi bygger tiltfästen, sorteringsgripar och rivningsredskap efter mått."},
+    {"titel": "Maskiner vi räddat", "ikon": "graf", "href": "projekt.html", "text": "Grävare, lastare och krossar i Fyrbodal."},
+    {"titel": "Ring en servicebil", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ofta på plats samma dag inom fem mil."}
+  ],
+  "affarsomraden": [
+    {"titel": "Mobil linjeborrning", "text": "Bultlägen i bommar, skaft och skopfästen slits ovala med tiden och ger glapp som förstör både bultar och bussningar. Vi påsvetsar hålet och borrar upp det till originalmått med en portabel borrmaskin direkt på maskinen.", "text2": "Ett bomfäste på en 25-tonnare tar normalt en till två dagar.", "tagg": "maskin"},
+    {"titel": "Skopor och redskap", "text": "Skopor och gripar får nya skär, slitplåtar och sidoskär i slitstål 450–500 HB i verkstaden. En renoverad skopa kostar ofta en tredjedel av en ny.", "text2": "Hämtning och leverans ingår för entreprenörer inom tre mil.", "tagg": "svets"},
+    {"titel": "Grustag och kross", "text": "Käftar, matarbord och siktdäck slits snabbt i bergtäkter. Vi påsvetsar med hårdmetallelektrod under planerade stopp och har en bil med generator som klarar arbete långt från elnätet.", "text2": "Vi har fasta avtal med fem täkter mellan Uddevalla och Lilla Edet.", "tagg": "sten"},
+    {"titel": "Kommunal vinterberedskap", "text": "Plogar, sandspridare och vikplogar ses över under hösten så att de är redo när snön kommer. Under säsongen har vi en svetsare i beredskap för akuta skador.", "text2": "Kommuner kan avropa via avtal med Trollhättan och Vänersborg.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Servicebilarna", "segment": "Mobil svets och borr", "rubrik": "Fyra verkstäder på hjul", "text": "Varje bil har generator, borrmaskin för hål upp till 400 millimeter, MIG-svets och kompressor.", "tagg": "maskin"},
+    {"namn": "Verkstaden på Stallbacka", "segment": "Skopor och redskap", "rubrik": "Där skoporna får nya tänder", "text": "Fem svetsare som renoverar skopor, gripar och plogar och bygger specialredskap.", "tagg": "svets"},
+    {"namn": "Täktservice", "segment": "Avtal med grustag", "rubrik": "Slitdelar innan de går sönder", "text": "Planerat underhåll av krossar och sorterverk enligt fasta scheman.", "tagg": "sten"}
+  ],
+  "berattelser": [
+    {"rubrik": "Linjeborrning på motorvägsbygget", "text": "Tre grävmaskiner fick nya bultlägen på plats längs E45 utan att lämna arbetsområdet.", "tagg": "maskin"},
+    {"rubrik": "Fjärde servicebilen", "text": "Den nya bilen har en borrmaskin för hål upp till 400 millimeter och placeras i Uddevalla.", "tagg": "anlaggning"},
+    {"rubrik": "Höstservice på 46 plogar", "text": "Alla kommunens plogar är genomgångna och klara inför vintern.", "tagg": "svets"}
+  ],
+  "nyckeltal": [
+    {"varde": "4", "enhet": "servicebilar", "etikett": "Med borr och svets"},
+    {"varde": "400", "enhet": "mm", "etikett": "Största hål vi borrar på plats"},
+    {"varde": "1/3", "enhet": "", "etikett": "Av priset för en ny skopa"},
+    {"varde": "12", "enhet": "anställda", "etikett": "Svetsare och maskinkunniga"}
+  ],
+  "projekt": [
+    {"namn": "Grävmaskiner längs E45", "ort": "Lilla Edet", "typ": "Linjeborrning", "ar": "2026", "text": "Tre maskiner fick nya bom- och skopfästen utan att flyttas från vägbygget.", "tagg": "maskin"},
+    {"namn": "Käftkrossen i bergtäkten", "ort": "Uddevalla", "typ": "Påsvetsning", "ar": "2026", "text": "Käftar och matarbord renoverade under ett helgstopp.", "tagg": "sten"},
+    {"namn": "Kommunens vinterflotta", "ort": "Trollhättan", "typ": "Plogservice", "ar": "2025", "text": "46 plogar och tolv spridare genomgångna på fem veckor.", "tagg": "anlaggning"},
+    {"namn": "Hjullastarens lyftarmar", "ort": "Vänersborg", "typ": "Sprickreparation", "ar": "2025", "text": "Spricka på 60 centimeter svetsad med förvärmning och kontrollerad svalning.", "tagg": "svets"},
+    {"namn": "Sorteringsgrip för rivning", "ort": "Grästorp", "typ": "Specialredskap", "ar": "2024", "text": "En grip byggd efter förarens egna skisser för en 30-tonnare.", "tagg": "maskin"},
+    {"namn": "Täktavtal Dalsland", "ort": "Mellerud", "typ": "Täktservice", "ar": "2027", "text": "Nytt årsavtal för två täkter med planerat underhåll varje kvartal.", "tagg": "sten", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Beskriv glappet", "text": "Ring eller skicka en film på maskinen i rörelse. Ofta ser vi direkt vad som behöver göras.", "tagg": "people"},
+    {"titel": "Mätning på plats", "text": "Servicebilen mäter bultlägen och sprickor och ger ett fast pris innan vi börjar.", "tagg": "maskin"},
+    {"titel": "Svets och borr", "text": "Hålet påsvetsas, borras upp och mäts. Nya bultar och bussningar monteras.", "tagg": "svets"},
+    {"titel": "Provkörning", "text": "Föraren provkör maskinen med oss på plats och vi lämnar ett mätprotokoll.", "tagg": "anlaggning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "En renoverad skopa väger ingenting i klimatkalkylen",
+    "text": "Att laga en grävmaskin på plats sparar både en maskintransport och tillverkningen av nya delar. En renoverad skopa återanvänder upp till 80 procent av det ursprungliga stålet. Servicebilarna kör på HVO100 sedan 2023.",
+    "mal": [["80 %", "av skopans stål återanvänds vid renovering"], ["HVO100", "i alla fyra servicebilar"], ["0", "maskintransporter vid mobil linjeborrning"]]
+  },
+  "karriar": {
+    "rubrik": "För svetsare som gillar diesel och lera",
+    "text": "Vi söker svetsare som trivs ute i gropar och täkter och inte är rädda för tunga maskiner. Du får servicebil, kollektivavtal och utbildning i linjeborrning på betald arbetstid.",
+    "jobb": [["Servicesvetsare linjeborrning", "Trollhättan"], ["Verkstadssvetsare skopor", "Trollhättan"]]
+  },
+  "kultur": "Varje måndag morgon fördelar vi veckans jobb runt ett bord i verkstaden, och alla vet var kollegorna befinner sig.",
+  "citat": {"text": "En maskin som står still på en schakt kostar entreprenören tusenlappar i timmen. Därför tar vi med oss verkstaden dit maskinen står.", "namn": "Daniel Berglund", "roll": "Grundare och vd", "tagg": "maskin"},
+  "omdomen": [
+    {"text": "Vi hade glapp i bommen på två maskiner mitt i ett vägjobb. Stallbacka kom ut, borrade upp lägena på plats och vi tappade bara en dag per maskin.", "namn": "Robert A., maskinentreprenör", "ort": "Lilla Edet"},
+    {"text": "Skoporna kommer tillbaka med nya skär och slitplåtar för en tredjedel av vad nya hade kostat.", "namn": "Hanna P.", "ort": "Vänersborg"},
+    {"text": "Krossen gick hela säsongen utan oplanerat stopp efter att de tog över underhållet.", "namn": "Lars-Göran F., täktchef", "ort": "Uddevalla"}
+  ],
+  "faq": [
+    ["Vad är linjeborrning?", "Linjeborrning innebär att slitna bultlägen påsvetsas och borras upp i exakt linje igen med en portabel maskin, så att bultar och bussningar passar som när maskinen var ny."],
+    ["Hur lång tid tar det?", "Ett enskilt bultläge tar ofta fyra till sex timmar. Ett komplett bomfäste på en större grävmaskin tar en till två dagar."],
+    ["Vad kostar det?", "Timpriset för servicebil med linjeborr är 1 180 kronor exklusive moms, plus körning. Du får alltid ett fast pris efter mätningen."],
+    ["Arbetar ni på alla märken?", "Ja. Vi linjeborrar och svetsar maskiner av alla fabrikat, från minigrävare till 50-tonnare och hjullastare."],
+    ["Kan ni komma på helger?", "Ja, efter överenskommelse. Täktavtal och kommunal vinterberedskap har förtur kvällar och helger."],
+    ["Hur långt kör ni?", "Främst inom Fyrbodal och Trollhättan–Vänersborg, men vi åker till Göteborg och Dalsland för större jobb."]
+  ],
+  "certifikat": [
+    {"titel": "Svetsprövade för slitstål", "text": "Alla svetsare har certifikat enligt ISO 9606-1 och erfarenhet av förvärmning av höghållfast stål.", "ikon": "eld"},
+    {"titel": "Heta arbeten", "text": "Brandskyddsföreningens certifikat för svetsning i täkter, skog och på byggarbetsplatser.", "ikon": "skold"},
+    {"titel": "Medlem i Maskinentreprenörerna", "text": "Vi följer branschens avtal och villkor för entreprenadmaskiner.", "ikon": "kran"},
+    {"titel": "ID06 på varje montör", "text": "Alla som arbetar ute på byggen och vägarbeten är registrerade i ID06.", "ikon": "folk"}
+  ],
+  "kunder": ["Edets Schakt & Väg", "Uddevalla Bergtäkt", "Trollhättans Stad Gatudrift", "Vänersborgs Lastmaskiner", "Grästorps Rivning", "Melleruds Grus", "Fyrbodals Markentreprenad"],
+  "nyheter": [
+    ["2026-10-07", "Plogarna klara för vintern", "46 plogar och tolv spridare genomgångna åt kommunen.", "anlaggning"],
+    ["2026-06-30", "Fjärde servicebilen placeras i Uddevalla", "Kortare väg till täkterna i norra Bohuslän.", "maskin"],
+    ["2026-03-11", "Därför glappar bommen", "Fyra tecken på att bultlägena behöver linjeborras.", "svets"]
+  ],
+  "kontakt": {"adress": "Stallbackavägen 19", "postnr": "461 38", "ort": "Trollhättan", "telefon": "070-174 06 55", "epost": "service@stallbackamaskinsvets.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–16 · helger efter överenskommelse",
+  "omrade": "Fyrbodal, Trollhättan, Vänersborg och Dalsland",
+  "fot_cta": "Glappar det i länkarna? Ring, så kommer en servicebil och mäter.",
+  "bild": {"panel": "maskin", "hb": "svets"},
+  "text": {
+    "ber_rubrik": "Ute på jobb",
+    "proj_rubrik": "Maskiner tillbaka i drift",
+    "proj_kol": ["Uppdrag", "Ort", "Arbete", "Status", "År"],
+    "process_rubrik": "Från glapp till provkörning",
+    "hb_etikett": "Laga på plats",
+    "omdomen_rubrik": "Entreprenörer om servicen",
+    "faq_rubrik": "Om linjeborrning och priser",
+    "boka_rubrik": "Beskriv maskinen",
+    "boka_falt": ["Namn", "Telefon", "Maskin och plats", "Vad är slitet eller trasigt?"],
+    "logos_rubrik": "Entreprenörer och täkter",
+    "certifikat_rubrik": "Behöriga för täkt och väg",
+    "bolag_rubrik": "Bilar, verkstad och täktservice",
+    "ny_rubrik": "Nytt från Stallbacka",
+    "kontakt_knapp": "Ring en servicebil",
+    "medarbetare": "Servicesvetsarna"
+  }
+}

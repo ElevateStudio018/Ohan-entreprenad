@@ -1,0 +1,114 @@
+{
+  "profil": "nisch",
+  "nisch": "hovslagare",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Lamell Hovteknik AB",
+  "kortnamn": "Lamell",
+  "slug": "lamell-hovteknik",
+  "typ": "Hovslageri med 3D-skanning i Sörmland",
+  "tagline": "Hovvård du kan mäta",
+  "slogan": "Varje hov skannas i 3D före och efter verkning. Vinklar, längder och balans hamnar i appen – så att du och veterinären ser exakt vad som har hänt sedan sist.",
+  "hero_rubrik": "Din hästs hovar, mätta på tiondelen",
+  "hero_text": "Lamell är elva hovslagare och tre utvecklare i Eskilstuna. Vi skannar hovarna vid varje besök, och du ser mätvärden, bilder och nästa tid i appen.",
+  "intro_rubrik": "Fyrtiotusen skannade hovar sedan 2021",
+  "om": [
+    "Lamell grundades 2021 av hovslagaren Sebastian Nordin och mjukvaruingenjören Elsa Karim, som träffades när Elsa sökte hjälp med sin egen häst. Sebastian hade länge velat mäta det han gjorde i stället för att uppskatta det med ögat. Elsa byggde den första skannern av en surfplatta och en djupkamera i hennes kök på Fröslunda.",
+    "I dag är vi arton: elva hovslagare med varsin skanner i bilen, tre utvecklare, två i bokningen och grundarna. Appen används av omkring 2 300 hästägare och 40 veterinärer i Sörmland och Västmanland. Mätvärdena hjälper oss att hålla samma vinklar från gång till gång, även när en kollega tar över."
+  ],
+  "vagval_rubrik": "Vad vill du veta om hovarna?",
+  "tjanster": [
+    {"titel": "Skoning med 3D-skanning", "ikon": "kamera", "href": "verksamhet.html", "text": "Skanning före och efter, med tåvinkel, trakter och balans sparade per hov."},
+    {"titel": "Appen för hästägare", "ikon": "telefon", "href": "verksamhet.html", "text": "Mätvärden, bilder, påminnelser och kvitto – och möjlighet att dela med veterinären."},
+    {"titel": "Delning med veterinär", "ikon": "vard", "href": "verksamhet.html", "text": "Veterinären ser kurvor över tid och kan lägga in röntgenbilder bredvid skanningen."},
+    {"titel": "Fräsade specialskor", "ikon": "robot", "href": "verksamhet.html", "text": "Skor i aluminium som fräses efter skanningen när standardskor inte räcker."},
+    {"titel": "Balansanalys", "ikon": "graf", "href": "verksamhet.html", "text": "Tryckmatta och video som visar hur hästen belastar hovarna i skritt och trav."},
+    {"titel": "Avtal för stall", "ikon": "portfolj", "href": "verksamhet.html", "text": "Stallvy i appen där stallchefen ser alla hästars nästa tid och historik."},
+    {"titel": "Priser och abonnemang", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Skanning ingår alltid i priset."},
+    {"titel": "Boka i appen", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Välj tid inom din hovslagares rutt."}
+  ],
+  "affarsomraden": [
+    {"titel": "Skoning och verkning", "text": "Vi gör samma hantverk som alla hovslagare: verkar, varmanpassar och spikar. Skillnaden är att hoven skannas före och efter, och att målvärdena från förra gången finns på skärmen bredvid städet.", "text2": "En skanning tar mindre än en minut per hov och kräver ingenting av hästen.", "tagg": "hast"},
+    {"titel": "Appen", "text": "I appen ser du dina hästar, varje hovs mätvärden över tid och bilder från alla vinklar. Du får påminnelse när det börjar bli dags och kan boka direkt i hovslagarens rutt.", "text2": "Appen är gratis för hästägare och finns för iPhone och Android.", "tagg": "people"},
+    {"titel": "Veterinärsamarbete", "text": "Veterinärer som behandlar hästar med fång, hovledsartros eller hovbenssjukdom kan följa mätvärdena mellan besöken. De lägger in röntgenbilder och anvisningar direkt i hästens journal.", "text2": "Fyrtio veterinärer i Sörmland och Västmanland har konto i dag.", "tagg": "natur"},
+    {"titel": "Lamell Lab", "text": "I verkstaden på Verkstadsgatan utvecklar vi skannern, fräser specialskor i aluminium och testar nya mätmetoder tillsammans med en högskola i Mälardalen.", "text2": "Fräsade skor levereras inom tre arbetsdagar efter skanningen.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Hovslagarna", "segment": "Elva bilar i Sörmland", "rubrik": "Hantverk med mätverktyg i bilen", "text": "Gesäller och mästare med egna områden från Strängnäs till Nyköping. Alla bilar har skanner, surfplatta och fräsade standardskor.", "tagg": "hast"},
+    {"namn": "Lamell Lab", "segment": "Utveckling och fräsning", "rubrik": "Där skannern och skorna byggs", "text": "Tre utvecklare och en CNC-fräs i Eskilstuna. Här byggs appen, skannerns mjukvara och de fräsade specialskorna.", "tagg": "industri"},
+    {"namn": "Bokning och support", "segment": "Två personer i Eskilstuna", "rubrik": "Svar i appen inom en timme", "text": "Bokningen lägger rutterna, svarar på frågor i appens chatt och hjälper veterinärer att komma igång.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Skannern version 3 i alla bilar", "text": "Den nya skannern väger 400 gram och mäter tåvinkeln med en noggrannhet på 0,3 grader.", "tagg": "industri"},
+    {"rubrik": "Veterinären följde fånget i appen", "text": "Under tolv veckor kunde veterinären se hovbenets vinkel i röntgen bredvid våra skanningar vid varje skoning.", "tagg": "hast"},
+    {"rubrik": "Studie med högskolan", "text": "Vi jämför 600 skanningar med röntgen för att se hur bra mätningen utanpå speglar hovbenet inuti.", "tagg": "kontor"}
+  ],
+  "nyckeltal": [
+    {"varde": "40 000", "enhet": "hovar", "etikett": "Skannade sedan 2021"},
+    {"varde": "0,3°", "enhet": "", "etikett": "Noggrannhet på tåvinkeln"},
+    {"varde": "2 300", "enhet": "hästägare", "etikett": "Använder appen"},
+    {"varde": "18", "enhet": "personer", "etikett": "Varav elva hovslagare"}
+  ],
+  "projekt": [
+    {"namn": "Strängnäs Ridklubb", "ort": "Strängnäs", "typ": "Stallavtal", "ar": "2025", "text": "Trettio skolhästar i stallvyn, där ridskolechefen ser varje hästs nästa tid och historik.", "tagg": "hast"},
+    {"namn": "Fångstoet Bella", "ort": "Katrineholm", "typ": "Veterinärsamarbete", "ar": "2025", "text": "Tolv veckors uppföljning med skanning och röntgen bredvid varandra i appen.", "tagg": "natur"},
+    {"namn": "Nyköpings Travsällskap", "ort": "Nyköping", "typ": "Balansanalys", "ar": "2025", "text": "Tryckmatta och video på tio travare för att jämföra balansen före och efter skoning.", "tagg": "hast"},
+    {"namn": "Studie om hovbenet", "ort": "Eskilstuna", "typ": "Forskning", "ar": "2026", "text": "Sexhundra skanningar jämförs med röntgen tillsammans med en högskola i Mälardalen.", "tagg": "kontor", "status": "Pågående"},
+    {"namn": "Fräsade skor till hoppvalack", "ort": "Flen", "typ": "Specialskor", "ar": "2024", "text": "Aluminiumskor fräsade efter skanning för en häst med asymmetriska framhovar.", "tagg": "industri"},
+    {"namn": "Malmköpings Hästgård", "ort": "Malmköping", "typ": "Stallavtal", "ar": "2024", "text": "Inackorderingsstall där alla tjugo ägare följer sina hästar i appen.", "tagg": "hast"}
+  ],
+  "process": [
+    {"titel": "Boka i appen", "text": "Lägg in hästen och välj en tid när din hovslagare ändå är i området.", "tagg": "people"},
+    {"titel": "Skanning före", "text": "Hovslagaren skannar alla fyra hovar och jämför med målvärdena från förra gången.", "tagg": "hast"},
+    {"titel": "Verkning och skoning", "text": "Vanligt hantverk med städ och ässja – och en ny skanning när skorna sitter.", "tagg": "svets"},
+    {"titel": "Värdena i appen", "text": "Inom en timme ser du bilder, vinklar och en kort kommentar, och nästa tid är föreslagen.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mätt hovvård är jämnare hovvård",
+    "text": "När en hovslagare är sjuk eller slutar ska hästen inte märka det. Med mätvärden från varje besök kan en kollega hålla samma vinklar och längder. Vi publicerar också hur väl vi träffar målvärdena, häst för häst.",
+    "mal": [["±1°", "avvikelse från målvinkeln vid nio av tio skoningar"], ["1 h", "till mätvärden i appen efter besöket"], ["100 %", "av hovarna skannas före och efter"]]
+  },
+  "karriar": {
+    "rubrik": "Hovslagare som vill se siffrorna",
+    "text": "Vi söker gesäller som är nyfikna på teknik men inte vill sluta sko. Du får egen bil med skanner, en fräs på kontoret att leka med och betald fortbildning varje år.",
+    "jobb": [["Gesäll, Katrineholm och Flen", "Eskilstuna"], ["Mjukvaruutvecklare, mobil", "Eskilstuna"]]
+  },
+  "kultur": "En gång i månaden går alla hovslagare igenom sina egna mätvärden tillsammans och jämför vem som träffar målet bäst.",
+  "citat": {"text": "Jag trodde att jag skodde symmetriskt. Första månaden med skannern visade att jag inte gjorde det.", "namn": "Sebastian Nordin", "roll": "Medgrundare och hovslagare", "tagg": "hast"},
+  "omdomen": [
+    {"text": "Min veterinär öppnade appen och såg på två minuter hur tåvinkeln hade ändrats under tre skoningar. Det har aldrig gått förut.", "namn": "Camilla T.", "ort": "Katrineholm"},
+    {"text": "Som ridskolechef ser jag alla trettio hästar på en skärm. Ingen häst glöms bort längre.", "namn": "Fredrik Å.", "ort": "Strängnäs"},
+    {"text": "Vår vanliga hovslagare blev sjukskriven och en kollega tog över. Hästen märkte ingen skillnad – vinklarna var desamma.", "namn": "Nadia B.", "ort": "Eskilstuna"}
+  ],
+  "faq": [
+    ["Kostar appen något?", "Nej, appen är gratis för hästägare. Skanningen ingår i priset för verkning och skoning."],
+    ["Blir hästen orolig av skannern?", "Nästan aldrig. Skannern låter inte och rör inte hästen – hovslagaren håller den en halvmeter från hoven i några sekunder."],
+    ["Vem äger mätvärdena?", "Du. Du kan exportera all historik som pdf och dela den med vem du vill, även om du byter hovslagare."],
+    ["Kan veterinären se allt?", "Bara om du delar hästen med veterinären i appen. Du kan ta bort delningen när som helst."],
+    ["Ersätter skanningen röntgen?", "Nej. Skanningen visar hovens yta, röntgen visar benen inuti. Tillsammans ger de en bättre bild."],
+    ["Kör ni utanför Sörmland?", "Vi har kunder i Västmanland och norra Östergötland, men samlar besöken på två fasta dagar i månaden där."],
+    ["Hur långt i förväg bokar man?", "Ordinarie besök bokas direkt efter förra skoningen. Nya kunder får normalt tid inom två veckor."]
+  ],
+  "priser": [
+    {"namn": "Verkning med skanning", "pris": "790 kr", "enhet": "per häst", "text": "Barfotahästar och ponnyer.", "punkter": ["Skanning före och efter", "Mätvärden och bilder i appen", "Påminnelse om nästa tid", "Delning med veterinär"]},
+    {"namn": "Skoning med skanning", "pris": "1 980 kr", "enhet": "fyra skor", "text": "Varmskoning med stålsko.", "punkter": ["Målvärden från förra besöket", "Skanning före och efter", "Kommentar från hovslagaren", "Historik som pdf"], "utvald": true},
+    {"namn": "Stallabonnemang", "pris": "fr. 1 750 kr", "enhet": "per häst och skoning", "text": "För stall och ridskolor med minst tio hästar.", "punkter": ["Stallvy för stallchefen", "Fasta dagar i rutten", "Samlingsfaktura per månad", "Kvartalsrapport över alla hästar"]}
+  ],
+  "certifikat": [
+    {"titel": "Gesällbrev", "text": "Alla elva hovslagare har gesällbrev, två av dem även mästarbrev.", "ikon": "lov"},
+    {"titel": "Dataskydd enligt GDPR", "text": "Hästägarnas uppgifter lagras i Sverige och raderas på begäran inom trettio dagar.", "ikon": "las"},
+    {"titel": "Forskningssamarbete", "text": "Studie med en högskola i Mälardalen om hur ytmätning speglar hovbenets läge.", "ikon": "sok"},
+    {"titel": "Ansvarsförsäkring", "text": "Försäkring för skador på häst och egendom vid verkning och skoning.", "ikon": "skold"}
+  ],
+  "kunder": ["Strängnäs Ridklubb", "Nyköpings Travsällskap", "Malmköpings Hästgård", "Katrineholms Hästklinik", "Flens Ryttarförening", "Torshälla Ponnyklubb", "Stall Sundbyholm"],
+  "nyheter": [
+    ["2026-10-22", "Skannern version 3 rullar ut", "Lättare, snabbare och med ny mätning av trakternas höjd.", "industri"],
+    ["2026-08-30", "Så läser du kurvan i appen", "Vad tåvinkel, trakthöjd och balans betyder – och när du ska fråga oss.", "people"],
+    ["2026-04-15", "Studie om hovbenet startar", "600 skanningar ska jämföras med röntgen under ett år.", "kontor"]
+  ],
+  "kontakt": {"adress": "Verkstadsgatan 8", "postnr": "633 46", "ort": "Eskilstuna", "telefon": "070-174 06 46", "epost": "hej@lamellhov.se", "orgnr": ""},
+  "oppettider": "Bokning och support: mån–fre 7–18. Chatten i appen besvaras även lördagar 9–13",
+  "omrade": "Sörmland: Eskilstuna, Strängnäs, Katrineholm, Flen och Nyköping",
+  "fot_cta": "Vill du se dina hästars hovar i siffror? Ladda ner appen och boka första skanningen.",
+  "bild": {"hb": "industri"},
+  "text": {"kontakt_knapp": "Boka i appen", "hero_knapp": "Så mäter vi", "hero_lank": "Hästar och stall", "vagval_etikett": "Mätt hovvård", "ber_rubrik": "Nytt från labbet och stallarna", "proj_rubrik": "Mätningar som gjort skillnad", "proj_rubrik_lista": "Stall, studier och fall", "process_rubrik": "Ett besök med skanner", "bolag_rubrik": "Hovslagare, lab och support", "hb_etikett": "Precision", "omdomen_rubrik": "Hästägare och veterinärer om mätningen", "faq_rubrik": "Frågor om skanning och appen", "priser_rubrik": "Skanning ingår alltid", "priser_utvald": "Mest bokad", "priser_not": "Priser inklusive moms. Resa inom Eskilstuna och Strängnäs ingår.", "boka_rubrik": "Boka första skanningen", "boka_text": "Skriv var hästen står och om den har en veterinärdiagnos, så får du en tid och en inbjudan till appen.", "boka_falt": ["Namn", "Telefon", "E-post", "Var står hästen?"], "certifikat_rubrik": "Gesäller, dataskydd och forskning", "logos_rubrik": "Stall och kliniker i appen", "ny_rubrik": "Mätning, appen och forskning", "medarbetare": "Lamells 18"}
+}

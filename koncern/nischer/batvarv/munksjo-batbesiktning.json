@@ -1,0 +1,147 @@
+{
+  "profil": "nisch",
+  "nisch": "batvarv",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Munksjö Båtbesiktning AB",
+  "kortnamn": "Munksjö Besiktning",
+  "slug": "munksjo-batbesiktning",
+  "typ": "Oberoende båtbesiktning i Jönköping",
+  "tagline": "Vi säljer inga båtar",
+  "slogan": "Sex besiktningsmän som granskar båtar före köp, efter skador och inför försäkring – utan att sälja, laga eller förvara något själva.",
+  "hero_rubrik": "Vet vad du köper innan du skriver på",
+  "hero_text": "Köpbesiktning, fuktmätning, värderingsintyg och skadebesiktning av fritidsbåtar i hela södra Sverige. Rapport med bilder inom 48 timmar.",
+  "intro_rubrik": "Opartiska sedan 2008",
+  "om": [
+    "Anders Brink arbetade som skadereglerare på ett försäkringsbolag i femton år och såg samma sak gång på gång: dyra skador som en noggrann besiktning hade upptäckt före köpet. 2008 startade han Munksjö Båtbesiktning i ett kontor vid Munksjön i Jönköping.",
+    "Vi är i dag sex besiktningsmän, varav två båtbyggare, en marinelektriker och en motoringenjör. Vi gör runt 900 besiktningar per år och har en enda regel: vi säljer inga båtar, lagar inga båtar och tar ingen provision från någon. Det gör att både köpare, säljare och försäkringsbolag kan lita på rapporten."
+  ],
+  "vagval_rubrik": "Varför behöver du en besiktning?",
+  "tjanster": [
+    {"titel": "Köpbesiktning", "ikon": "sok", "href": "verksamhet.html", "text": "Skrov, motor, rigg, el och gas – genomgånget före köpet med provtur."},
+    {"titel": "Fuktmätning", "ikon": "vatten", "href": "verksamhet.html", "text": "Fuktprofil av hela skrovet för att hitta osmos och blöta däck."},
+    {"titel": "Värderingsintyg", "ikon": "graf", "href": "verksamhet.html", "text": "Marknadsvärde för försäkring, bodelning, arv eller bank."},
+    {"titel": "Skadebesiktning", "ikon": "skold", "href": "verksamhet.html", "text": "Orsak, omfattning och åtgärdsförslag efter grundstötning, brand eller stöld."},
+    {"titel": "Motoranalys", "ikon": "kugge", "href": "verksamhet.html", "text": "Kompressionsprov, oljeprov och endoskopi av motorn."},
+    {"titel": "Gas och el", "ikon": "blixt", "href": "verksamhet.html", "text": "Kontroll av gasol, landström och batterisystem enligt gällande standard."},
+    {"titel": "Riggbesiktning", "ikon": "vind", "href": "verksamhet.html", "text": "Mast, vant och stag kontrolleras från däck till topp."},
+    {"titel": "Beställ besiktning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Tid inom fem arbetsdagar i hela södra Sverige."}
+  ],
+  "affarsomraden": [
+    {"titel": "Före köpet", "text": "En köpbesiktning tar 4–6 timmar och omfattar 180 kontrollpunkter. Vi fuktmäter skrovet, knackar av laminatet, provkör motorn och kontrollerar gas, el och säkerhetsutrustning.", "text2": "Rapporten skiljer på fel som påverkar priset och sådant som är normalt slitage.", "tagg": "bat"},
+    {"titel": "Värdering", "text": "Försäkringsbolag, banker och domstolar behöver ett värde som går att försvara. Vi jämför med genomförda försäljningar, båtens skick och utrustning och skriver ett intyg som håller.", "text2": "Intyget är giltigt i 12 månader hos de flesta försäkringsbolag.", "tagg": "kontor"},
+    {"titel": "Efter skadan", "text": "När båten har gått på grund, brunnit eller sjunkit fastställer vi orsak och omfattning. Rapporten används av försäkringsbolag, varv och ibland i tvister.", "text2": "Vi är anlitade av sju försäkringsbolag och två advokatbyråer.", "tagg": "bat"},
+    {"titel": "Teknisk analys", "text": "Ibland räcker inte ögonen. Vi skickar oljeprov till laboratorium, gör kompressionsprov och tittar in i cylindrarna med endoskop för att bedöma motorns verkliga skick.", "text2": "Oljeprovet visar slitagemetaller och kylvätska i oljan inom fem dagar.", "tagg": "maskin"}
+  ],
+  "bolag": [
+    {"namn": "Skrov och struktur", "segment": "Två båtbyggare", "rubrik": "Fuktmätare och knackhammare", "text": "Bedömer laminat, osmos, däckskärnor och kölinfästningar.", "tagg": "bat"},
+    {"namn": "Motor och drivlina", "segment": "Motoringenjör", "rubrik": "Oljeprov och endoskop", "text": "Analyserar motorer, drev och axlar och bedömer återstående livslängd.", "tagg": "maskin"},
+    {"namn": "El, gas och rigg", "segment": "Marinelektriker", "rubrik": "Från landström till masttopp", "text": "Kontrollerar elsystem, gasolinstallationer och riggar.", "tagg": "el"},
+    {"namn": "Värdering och skador", "segment": "Anders och en skadereglerare", "rubrik": "Intyg som håller", "text": "Skriver värderingsintyg och skadeutredningar för bolag och domstolar.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Blött däck för 180 000 kronor", "text": "En köpbesiktning av en 34-fotare visade blöt balsakärna i hela fördäcket. Köparen förhandlade ner priset med reparationskostnaden.", "tagg": "bat"},
+    {"rubrik": "900 besiktningar på ett år", "text": "Rekordår med fler köpbesiktningar än någonsin – begagnatmarknaden har tagit fart igen.", "tagg": "kontor"},
+    {"rubrik": "Termisk kamera i bruk", "text": "Ny värmekamera hittar fukt och dåliga elkopplingar som inte syns med blotta ögat.", "tagg": "el"}
+  ],
+  "nyckeltal": [
+    {"varde": "900", "enhet": "per år", "etikett": "Besiktningar 2025"},
+    {"varde": "180", "enhet": "punkter", "etikett": "I en köpbesiktning"},
+    {"varde": "48", "enhet": "timmar", "etikett": "Till färdig rapport"},
+    {"varde": "0", "enhet": "kr", "etikett": "Provision från säljare eller varv"}
+  ],
+  "projekt": [
+    {"namn": "Köpbesiktning av en 34-fotare", "ort": "Motala", "typ": "Köpbesiktning", "ar": "2026", "text": "Blöt däckskärna upptäcktes, och köpet genomfördes med 180 000 kr i prisavdrag.", "tagg": "bat", "status": "Klart"},
+    {"namn": "Brandskada i Karlsborg", "ort": "Karlsborg", "typ": "Skadebesiktning", "ar": "2025", "text": "Brandorsaken spårades till en felaktigt monterad laddare – rapporten avgjorde försäkringsärendet.", "tagg": "el"},
+    {"namn": "Bodelning med två båtar", "ort": "Jönköping", "typ": "Värdering", "ar": "2025", "text": "Värderingsintyg för en motorbåt och en segelbåt inför en bodelning.", "tagg": "kontor"},
+    {"namn": "Motoranalys på en Nimbus", "ort": "Hjo", "typ": "Teknisk analys", "ar": "2026", "text": "Oljeprovet visade kylvätska i oljan – en spräckt topplockspackning upptäcktes före köpet.", "tagg": "maskin", "status": "Klart"},
+    {"namn": "Grundstötning vid Visingsö", "ort": "Gränna", "typ": "Skadebesiktning", "ar": "2025", "text": "Kölinfästning och bottenstockar bedömdes och åtgärdsförslag skrevs till varvet.", "tagg": "bat"},
+    {"namn": "Uthyrningsflotta på Vättern", "ort": "Vadstena", "typ": "Årsbesiktning", "ar": "2024", "text": "Åtta hyrbåtar besiktades inför säsongen åt en båtuthyrare.", "tagg": "bat"}
+  ],
+  "process": [
+    {"titel": "Beställning", "text": "Du skickar båtannonsen eller båtens uppgifter och vad besiktningen ska användas till.", "tagg": "kontor"},
+    {"titel": "Besiktning på plats", "text": "Vi besiktar båten där den står, på land eller i sjön, och provkör när det går.", "tagg": "bat"},
+    {"titel": "Genomgång", "text": "Du får ringa besiktningsmannen direkt efteråt och gå igenom det viktigaste.", "tagg": "people"},
+    {"titel": "Rapport", "text": "Skriftlig rapport med bilder, mätvärden och kostnadsbedömning inom 48 timmar.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Oberoende är hela affärsidén",
+    "text": "Vi har inga avtal med varv, säljare eller förmedlare och tar aldrig provision. Varje besiktningsman skriver under en jävsdeklaration, och vi besiktar inte båtar där vi känner köparen eller säljaren.",
+    "mal": [["0", "avtal med varv eller båthandlare"], ["100 %", "av rapporterna med jävsdeklaration"], ["48 h", "från besiktning till rapport"]]
+  },
+  "karriar": {
+    "rubrik": "Besiktningsman med båtbakgrund",
+    "text": "Vi söker en båtbyggare eller båtmekaniker med minst tio års erfarenhet som vill bli besiktningsman. Vi bekostar utbildning och certifiering och du reser i hela södra Sverige.",
+    "jobb": [["Besiktningsman, skrov och motor", "Jönköping"]]
+  },
+  "kultur": "Varje rapport läses av en kollega innan den skickas – det gäller även Anders.",
+  "citat": {"text": "Jag har aldrig sagt till någon att inte köpa en båt. Jag berättar vad den har och vad det kostar att fixa – sedan bestämmer köparen.", "namn": "Anders Brink", "roll": "Grundare och besiktningsman", "tagg": "people"},
+  "omdomen": [
+    {"text": "Säljaren sa att båten var torr. Fuktmätningen visade något annat, och vi fick 180 000 kronor i avdrag. Besiktningen kostade 9 800.", "namn": "Patrik och Linda E.", "ort": "Linköping"},
+    {"text": "Värderingsintyget accepterades direkt av banken och försäkringsbolaget. Ingen diskussion.", "namn": "Ulf S.", "ort": "Jönköping"},
+    {"text": "Vi anlitar dem i alla större båtskador i regionen. Rapporterna är tydliga och håller i en tvist.", "namn": "Maria N., skadereglerare", "ort": "Växjö"}
+  ],
+  "faq": [
+    ["Vem betalar besiktningen?", "Den som beställer – oftast köparen. Rapporten tillhör beställaren och delas inte med någon annan utan tillstånd."],
+    ["Vad kostar en köpbesiktning?", "Från 6 900 kr för motorbåtar upp till 25 fot och från 9 800 kr för segelbåtar upp till 35 fot, resa inom 15 mil ingår."],
+    ["Måste båten vara på land?", "För en komplett köpbesiktning ja, så att vi kan fuktmäta och kontrollera botten. Motor och provtur görs gärna i sjön."],
+    ["Hur långt reser ni?", "I hela Götaland och Svealand. Längre bort efter överenskommelse och mot reseersättning."],
+    ["Godkänner försäkringsbolagen era intyg?", "Ja, våra värderingsintyg och skaderapporter används av de stora försäkringsbolagen för fritidsbåtar."],
+    ["Kan ni laga felen ni hittar?", "Nej, vi gör aldrig reparationer. Vi kan däremot granska ett varvs offert eller kontrollera att arbetet blev rätt utfört."]
+  ],
+  "priser": [
+    {"namn": "Motorbåt", "pris": "fr. 6 900 kr", "enhet": "upp till 25 fot", "text": "Köpbesiktning med fuktmätning och provtur.", "punkter": ["180 kontrollpunkter", "Fuktprofil av skrovet", "Provkörning av motor", "Rapport inom 48 timmar"]},
+    {"namn": "Segelbåt", "pris": "fr. 9 800 kr", "enhet": "upp till 35 fot", "text": "Köpbesiktning med rigg, köl och segel.", "punkter": ["Allt i Motorbåt", "Riggbesiktning från däck", "Kontroll av kölbultar", "Gas och landström"], "utvald": true},
+    {"namn": "Värderingsintyg", "pris": "fr. 3 900 kr", "enhet": "per båt", "text": "Marknadsvärde för försäkring, bank eller bodelning.", "punkter": ["Jämförelse med sålda båtar", "Bedömning av skick", "Giltigt i 12 månader", "Godtas av försäkringsbolag"]}
+  ],
+  "certifikat": [
+    {"titel": "Certifierade besiktningsmän", "text": "Alla besiktningsmän är certifierade enligt branschens utbildning för fritidsbåtsbesiktning.", "ikon": "stjarna"},
+    {"titel": "Konsultansvarsförsäkring", "text": "Försäkring på 10 Mkr om en besiktning skulle missa ett fel som borde ha upptäckts.", "ikon": "skold"},
+    {"titel": "Behörig elinstallatör", "text": "Vår marinelektriker har auktorisation från Elsäkerhetsverket.", "ikon": "blixt"},
+    {"titel": "Gasolkontrollant", "text": "Utbildad för kontroll av gasolinstallationer i fritidsbåtar.", "ikon": "eld"}
+  ],
+  "kunder": ["Vätterns Båtuthyrning", "Smålandskustens Försäkringsförmedling", "Jönköpings Båtklubb Munksjön", "Advokatfirman Strand & Lööf", "Hjo Segelsällskap", "Brf Vätterstranden Jönköping", "Gränna Hamnförening", "Karlsborgs Fästningsbåtar"],
+  "nyheter": [
+    ["2026-09-15", "Köp båt på hösten – besikta på land", "Hösten är bästa tiden att köpa begagnat, och båten står redan på land för fuktmätning.", "bat"],
+    ["2026-05-06", "Värmekameran hittar det dolda", "Så använder vi termografi för att hitta fukt och glappkontakter.", "el"],
+    ["2026-02-11", "Fem fel vi hittar oftast", "Blöta däck, slitna bälgar, dåliga gasslangar, oxiderade kontakter och lösa bottenstockar.", "bat"]
+  ],
+  "kontakt": {"adress": "Munksjögatan 21", "postnr": "553 21", "ort": "Jönköping", "telefon": "070-174 06 58", "epost": "besiktning@munksjobat.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–17, besiktningar även lördagar april–oktober",
+  "omrade": "Jönköping, Vättern och hela södra Sverige",
+  "fot_cta": "Ska du köpa båt? Skicka annonsen så bokar vi en besiktning inom fem dagar.",
+  "bild": {"panel": "bat", "hb": "kontor"},
+  "text": {
+    "kontakt_knapp": "Beställ besiktning",
+    "hero_knapp": "Våra besiktningar",
+    "hero_lank": "Vad vi har hittat",
+    "vagval_etikett": "Besiktning",
+    "ber_etikett": "Från besiktningarna",
+    "ber_rubrik": "Fynd under ytan",
+    "proj_etikett": "Ärenden",
+    "proj_rubrik": "Besiktningar som gjorde skillnad",
+    "proj_rubrik_lista": "Besiktningar, värderingar och skador",
+    "status_klart": "Klart",
+    "process_etikett": "En besiktning",
+    "process_rubrik": "Från annons till rapport",
+    "bolag_etikett": "Kompetens",
+    "bolag_rubrik": "Fyra specialiteter, sex besiktningsmän",
+    "bolag_kol": ["Område", "Vem", "Vad vi bedömer"],
+    "meny_bolag": "Kompetens",
+    "hb_etikett": "Oberoende",
+    "hb_lank": "Så undviker vi jäv",
+    "omdomen_rubrik": "Köpare, ägare och skadereglerare",
+    "faq_rubrik": "Om besiktning, pris och oberoende",
+    "priser_etikett": "Besiktningspriser",
+    "priser_rubrik": "Fasta priser per båttyp",
+    "priser_knapp": "Beställ",
+    "priser_utvald": "Flest beställningar",
+    "priser_not": "Priser inklusive moms och resa inom 15 mil från Jönköping.",
+    "boka_rubrik": "Vilken båt ska besiktas?",
+    "boka_text": "Skicka länk till annonsen eller båtens uppgifter och var den står, så föreslår vi en tid.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Båt, plats och syfte"],
+    "logos_rubrik": "Uppdragsgivare",
+    "certifikat_rubrik": "Certifierade och försäkrade besiktningsmän",
+    "ny_rubrik": "Råd till båtköpare",
+    "medarbetare": "Besiktningsmännen"
+  }
+}

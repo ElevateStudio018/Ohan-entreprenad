@@ -1,0 +1,156 @@
+{
+  "profil": "nisch",
+  "nisch": "batvarv",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Långedrags Båtpool AB",
+  "kortnamn": "Båtpoolen",
+  "slug": "langedrags-batpool",
+  "typ": "Delägda båtar i Göteborgs södra skärgård",
+  "tagline": "Äg en åttondel",
+  "slogan": "Du köper en andel i en båt, bokar dina dagar och kliver ombord – vi sköter förvaring, service, städning och försäkring.",
+  "hero_rubrik": "En båt för åtta familjer, inga vårhelger",
+  "hero_text": "38 båtar vid Långedrag och Saltholmen som ägs av 300 andelsägare. Du betalar en åttondel av båten och en fast månadsavgift – varvet gör allt annat.",
+  "intro_rubrik": "Därför delar 300 göteborgare på 38 båtar",
+  "om": [
+    "En vanlig fritidsbåt i Göteborg används i snitt 14 dagar per år men kostar pengar och arbete alla 365. Det var utgångspunkten när Jenny Falk och Ola Bergqvist startade Båtpoolen 2018 med tre båtar och 24 andelsägare i Långedrag.",
+    "Modellen är enkel: varje båt ägs av åtta delägare genom ett eget bolag, och vi sköter allt från bokningssystem och städning till bottentvätt och vinterförvaring. I dag har vi 38 båtar, 300 andelsägare och 14 anställda, och vi förvarar och servar båtarna på vårt eget varv i Långedrag."
+  ],
+  "vagval_rubrik": "Hur mycket vill du vara ute?",
+  "tjanster": [
+    {"titel": "Köp en andel", "ikon": "nyckel", "href": "verksamhet.html", "text": "En åttondel i en ny eller begagnad båt – från 62 000 kr."},
+    {"titel": "Bokning av dagar", "ikon": "kalender", "href": "verksamhet.html", "text": "Rättvist bokningssystem med lika många helgdagar för alla."},
+    {"titel": "Städning och tankning", "ikon": "vatten", "href": "verksamhet.html", "text": "Båten städas och tankas mellan varje delägare."},
+    {"titel": "Service och förvaring", "ikon": "kugge", "href": "verksamhet.html", "text": "Vårt varv i Långedrag sköter motorer, skrov och vinterplats."},
+    {"titel": "Båtkörkort", "ikon": "skola", "href": "verksamhet.html", "text": "Förarutbildning och praktisk genomgång för nya andelsägare."},
+    {"titel": "Byt båt i poolen", "ikon": "pil", "href": "verksamhet.html", "text": "Lån en större båt några dagar per år mot en tilläggsavgift."},
+    {"titel": "Sälj din andel", "ikon": "graf", "href": "verksamhet.html", "text": "Vi förmedlar andelen till någon på väntelistan."},
+    {"titel": "Visa båtarna", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Provtur med en av våra båtvärdar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Andelsägande", "text": "Varje båt ägs av ett eget aktiebolag där åtta delägare har lika stor andel. Du köper din andel kontant eller med lån och kan sälja den när du vill – oftast till någon på väntelistan.", "text2": "Andelarna har i snitt behållit 78 procent av sitt värde efter fem år.", "tagg": "bat"},
+    {"titel": "Bokning", "text": "Säsongen delas upp så att alla får lika många helgdagar, vardagar och semesterveckor. Lediga dagar kan bokas fritt med 48 timmars varsel.", "text2": "En andelsägare får i snitt 26 dagar på sjön per säsong.", "tagg": "people"},
+    {"titel": "Varvet i Långedrag", "text": "Alla båtar förvaras, servas och bottentvättas på vårt eget varv. Mellan varje bokning städar en båtvärd, tankar, kontrollerar utrustningen och noterar skador.", "text2": "Båtarna står i kall hall under vintern och servas efter samma schema.", "tagg": "bat"},
+    {"titel": "Båtarna", "text": "Poolen har daycruisers på 22 fot, familjebåtar på 27 fot och fyra segelbåtar. Alla båtar har samma navigationsutrustning, så att du känner dig hemma i alla.", "text2": "Båtarna byts ut efter 6–8 år och delägarna får sin del av försäljningen.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Båtvärdarna", "segment": "Bryggan", "rubrik": "Städning, tankning och kontroll", "text": "Sex båtvärdar som tar emot och lämnar över båtarna varje dag under säsong.", "tagg": "bat"},
+    {"namn": "Varvet", "segment": "Långedrag", "rubrik": "Service och vinterplats", "text": "Tre mekaniker och en båtbyggare som sköter alla 38 båtar.", "tagg": "people"},
+    {"namn": "Delägarservice", "segment": "Kontoret", "rubrik": "Andelar, bokning och ekonomi", "text": "Köp och försäljning av andelar, båtbolagens bokföring och bokningssystemet.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Båt nummer 38 i sjön", "text": "En ny 27-fots familjebåt fylldes med åtta delägare på tre veckor.", "tagg": "bat"},
+    {"rubrik": "Saltholmen blir andra hamn", "text": "Tolv båtar flyttar till Saltholmen, närmare öarna i södra skärgården.", "tagg": "natur"},
+    {"rubrik": "Segelbåtar i poolen", "text": "Fyra segelbåtar på 30 fot har nu egna delägargrupper.", "tagg": "bat"}
+  ],
+  "nyckeltal": [
+    {"varde": "38", "enhet": "båtar", "etikett": "I poolen"},
+    {"varde": "300", "enhet": "ägare", "etikett": "Som delar på båtarna"},
+    {"varde": "26", "enhet": "dagar", "etikett": "På sjön per ägare och säsong"},
+    {"varde": "1/8", "enhet": "", "etikett": "Av båten och av kostnaden"}
+  ],
+  "projekt": [
+    {"namn": "Familjebåt 27 fot, nr 38", "ort": "Långedrag", "typ": "Ny båtgrupp", "ar": "2026", "text": "Åtta familjer från Västra Frölunda och Askim delar på poolens nyaste båt.", "tagg": "bat", "status": "Fullsatt"},
+    {"namn": "Bryggan i Saltholmen", "ort": "Saltholmen", "typ": "Ny bas", "ar": "2026", "text": "Tolv platser med båtvärd på plats från maj till september.", "tagg": "natur", "status": "I drift"},
+    {"namn": "Segelbåtsgruppen", "ort": "Långedrag", "typ": "Ny båtgrupp", "ar": "2025", "text": "Fyra segelbåtar på 30 fot med 32 delägare och gemensam seglarskola.", "tagg": "bat"},
+    {"namn": "Byte av de första båtarna", "ort": "Långedrag", "typ": "Båtbyte", "ar": "2025", "text": "De tre första båtarna från 2018 såldes och ersattes – delägarna fick 74 procent tillbaka.", "tagg": "bat"},
+    {"namn": "Varvshallen", "ort": "Långedrag", "typ": "Förvaring", "ar": "2024", "text": "Kall hall för alla 38 båtar så att ingen behöver stå ute.", "tagg": "bygg"},
+    {"namn": "Företagsandelar", "ort": "Göteborg", "typ": "Företagspool", "ar": "2024", "text": "Tre konsultbolag delar på två båtar för kundevent och personaldagar.", "tagg": "people"}
+  ],
+  "process": [
+    {"titel": "Provtur", "text": "En båtvärd visar båtarna och tar ut dig på en tur i skärgården.", "tagg": "bat"},
+    {"titel": "Köp andel", "text": "Du väljer båt, köper en åttondel och träffar dina sju delägare.", "tagg": "people"},
+    {"titel": "Genomgång", "text": "Praktisk utbildning på din båt innan du får boka själv.", "tagg": "natur"},
+    {"titel": "Boka och kör", "text": "Boka i systemet, hämta nyckeln vid bryggan och lämna båten när du är klar.", "tagg": "bat"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Färre båtar, mer båtliv",
+    "text": "När åtta familjer delar på en båt behövs sju båtar mindre i hamnen – med färre båtplatser, mindre bottenfärg och mindre plast. Alla poolens båtar borsttvättas i stället för att bottenmålas, och nya båtar köps med de snålaste motorerna i sin klass.",
+    "mal": [["266", "båtar som inte behövs tack vare poolen"], ["0", "båtar med biocidfärg"], ["26", "dagar på sjön per ägare mot 14 i snitt"]]
+  },
+  "karriar": {
+    "rubrik": "Båtvärd i Göteborgs skärgård",
+    "text": "Varje sommar anställer vi båtvärdar som tar emot båtarna, städar och hjälper delägarna. Förarintyg och servicekänsla är viktigare än tidigare båterfarenhet.",
+    "jobb": [["Båtvärd, sommar 2027", "Långedrag"], ["Båtvärd, sommar 2027", "Saltholmen"], ["Båtmekaniker", "Långedrag"]]
+  },
+  "kultur": "Personalen får boka lediga båtdagar gratis i september – och det finns alltid några.",
+  "citat": {"text": "Vi säljer inte båtar. Vi säljer båtdagar utan helgerna med slippapper. De flesta som köper en andel har ägt en egen båt tidigare.", "namn": "Jenny Falk", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi sålde vår egen båt och köpte en åttondel. Vi är ute fler dagar nu än förut – och har inte skrapat en botten sedan dess.", "namn": "Karin och Mats L.", "ort": "Askim"},
+    {"text": "Båten är alltid städad och tankad när vi kommer. Ibland glömmer jag att den inte bara är vår.", "namn": "Nadia H.", "ort": "Västra Frölunda"},
+    {"text": "Bokningssystemet fungerar bättre än jag trodde. Jag har fått alla semesterdagar jag önskat i tre år.", "namn": "Per-Olof S.", "ort": "Mölndal"}
+  ],
+  "faq": [
+    ["Vad kostar en andel?", "Från 62 000 kr för en åttondel i en begagnad daycruiser och upp till 145 000 kr i en ny familjebåt. Därtill en månadsavgift från 1 950 kr."],
+    ["Vad ingår i månadsavgiften?", "Båtplats, vinterförvaring, service, försäkring, städning, borsttvätt och bokningssystem. Bränsle betalar du efter förbrukning."],
+    ["Hur fungerar bokningen?", "Säsongen fördelas rättvist i turordning, så att alla får lika många helgdagar och en eller två semesterveckor. Lediga dagar bokas fritt."],
+    ["Vad händer om någon skadar båten?", "Försäkringen täcker skador, och den som orsakat skadan betalar självrisken. Båtvärden dokumenterar båtens skick före och efter varje bokning."],
+    ["Måste jag ha förarbevis?", "Ja, eller gå vår förarutbildning. Alla nya delägare gör en praktisk genomgång innan de får boka."],
+    ["Kan jag sälja min andel?", "Ja, med tre månaders varsel. Vi förmedlar andelen till väntelistan till marknadspris."],
+    ["Kan företag köpa andelar?", "Ja, flera företag har andelar för kundträffar och personaldagar."]
+  ],
+  "priser": [
+    {"namn": "Daycruiser 22 fot", "pris": "fr. 62 000 kr", "enhet": "per andel + 1 950 kr/mån", "text": "För dagsturer till Vrångö och Styrsö.", "punkter": ["En åttondel av båten", "Cirka 26 dagar per säsong", "Städning och tankning ingår", "Vinterförvaring i hall"]},
+    {"namn": "Familjebåt 27 fot", "pris": "fr. 118 000 kr", "enhet": "per andel + 2 650 kr/mån", "text": "Med övernattning för fyra och värmare.", "punkter": ["Allt i Daycruiser", "Två semesterveckor", "Toalett och pentry", "Förtur till Saltholmen"], "utvald": true},
+    {"namn": "Segelbåt 30 fot", "pris": "fr. 96 000 kr", "enhet": "per andel + 2 300 kr/mån", "text": "För dig som vill segla utan att äga själv.", "punkter": ["En åttondel av båten", "Seglarskola för gruppen", "Rigg och segel servas av oss", "Gemensamma seglingsdagar"]}
+  ],
+  "certifikat": [
+    {"titel": "Försäkrade båtbolag", "text": "Alla båtar är helförsäkrade, och varje båtbolag har en egen ansvarsförsäkring.", "ikon": "skold"},
+    {"titel": "Reviderade bolag", "text": "Varje båtbolag har revisor och årsredovisning som delägarna godkänner på stämman.", "ikon": "dokument"},
+    {"titel": "Utbildade båtvärdar", "text": "Alla båtvärdar har förarintyg och utbildning i första hjälpen och brandsläckning.", "ikon": "ror"},
+    {"titel": "Auktoriserad motorservice", "text": "Varvets mekaniker är utbildade och auktoriserade hos två motortillverkare.", "ikon": "kugge"}
+  ],
+  "kunder": ["Långedrags Hamnförening", "Saltholmens Bryggsamfällighet", "Askims Konsultgrupp", "Frölunda Familjebåtar", "Brf Hagens Strand", "Styrsö Skärgårdsbod", "Mölndals Personalförening"],
+  "nyheter": [
+    ["2026-10-07", "Fem nya båtgrupper till 2027", "Anmäl intresse – andelarna fördelas efter väntelistan.", "bat"],
+    ["2026-06-24", "Saltholmen öppnade", "Tolv båtar har nu sin bas närmare södra skärgården.", "natur"],
+    ["2026-03-10", "Så fördelas säsongens dagar", "Vi förklarar turordningen som ger alla lika många helger.", "people"]
+  ],
+  "kontakt": {"adress": "Talattagatan 18", "postnr": "426 76", "ort": "Västra Frölunda", "telefon": "070-174 06 64", "epost": "hej@langedragsbatpool.se", "orgnr": ""},
+  "oppettider": "Bryggan dagligen 7–22 maj–september, kontoret mån–fre 9–17",
+  "omrade": "Långedrag, Saltholmen och Göteborgs södra skärgård",
+  "fot_cta": "Varför äga en hel båt? Boka en provtur och träffa en båtgrupp.",
+  "kontor_lista": [
+    ["Långedrag", "Varv, hall och 26 av poolens båtar"],
+    ["Saltholmen", "Tolv båtar nära Styrsö, Vrångö och Brännö"],
+    ["Kontoret", "Andelar, bokning och båtbolagens ekonomi"],
+    ["Bokningssystemet", "Dagar, nycklar och skadeanmälan dygnet runt"]
+  ],
+  "kontor_rubrik": "Två baser i södra skärgården",
+  "kontor_text": "Båten hämtas och lämnas där den har sin bas.",
+  "bild": {"panel": "people", "hb": "bat"},
+  "text": {
+    "kontakt_knapp": "Boka provtur",
+    "hero_knapp": "Så fungerar delägandet",
+    "hero_lank": "Båtarna i poolen",
+    "vagval_etikett": "Delägande",
+    "ber_etikett": "Från bryggan",
+    "ber_rubrik": "Nya båtgrupper och baser",
+    "proj_etikett": "Båtgrupper",
+    "proj_rubrik": "Båtar som åtta familjer delar",
+    "proj_rubrik_lista": "Båtgrupper och baser",
+    "status_klart": "Klart",
+    "status_pagaende": "Startar",
+    "process_etikett": "Bli delägare",
+    "process_rubrik": "Från provtur till första bokningen",
+    "bolag_etikett": "Personalen",
+    "bolag_rubrik": "Båtvärdar, varv och kontor",
+    "bolag_kol": ["Grupp", "Var", "Ansvar"],
+    "meny_bolag": "Personalen",
+    "hb_etikett": "Färre båtar",
+    "omdomen_rubrik": "Delägare om att dela",
+    "faq_rubrik": "Om andelar, avgifter och bokning",
+    "priser_etikett": "Andelar",
+    "priser_rubrik": "Välj båttyp och betala en åttondel",
+    "priser_knapp": "Anmäl intresse",
+    "priser_utvald": "Mest efterfrågad",
+    "priser_not": "Andelspris plus månadsavgift inklusive moms. Bränsle tillkommer efter förbrukning.",
+    "boka_rubrik": "Vilken båt vill du dela?",
+    "boka_text": "Berätta hur ofta du vill vara ute och vilken typ av båt du tänker dig, så bokar vi en provtur.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Båttyp och hur ofta du vill vara ute"],
+    "logos_rubrik": "Hamnar, föreningar och företag",
+    "certifikat_rubrik": "Försäkrat, reviderat och utbildat",
+    "kontor_etikett": "Baserna",
+    "ny_rubrik": "Nytt från poolen",
+    "medarbetare": "Båtvärdarna"
+  }
+}

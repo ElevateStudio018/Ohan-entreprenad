@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "glas",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Österport Glas AB",
+  "kortnamn": "Österport Glas",
+  "slug": "osterport-glas",
+  "typ": "Glasmästare på Gotland",
+  "tagline": "Öns glasmästare",
+  "slogan": "Sex glasmästare för hela Gotland – från gränderna innanför ringmuren till sommarhusen på Fårö och i Burgsvik.",
+  "hero_rubrik": "Nästa glasmästare finns på andra sidan havet",
+  "hero_text": "Vi har eget lager av de rutor ön behöver, så att du slipper vänta på färjan. Glasbyten, sommarhus, butiker i Visby och fönster i kalkstenshus.",
+  "intro_rubrik": "Sex personer, ett lager och en ö",
+  "om": [
+    "Österport Glas har funnits utanför Österport sedan 1972. Sedan 2016 drivs det av Elin och Jakob Hägg, som flyttade från Nacka och köpte firman när den förre ägaren Gösta Lindqvist gick i pension efter 44 år.",
+    "Vi är sex personer och har två servicebilar. Eftersom allt glas annars måste komma med båt från Nynäshamn håller vi ett större lager än de flesta glasmästerier i vår storlek – ungefär 900 rutor i 60 vanliga mått."
+  ],
+  "vagval_rubrik": "Var på ön finns huset?",
+  "tjanster": [
+    {"titel": "Glasbyte i bostad", "ikon": "hus", "href": "verksamhet.html", "text": "Vanliga rutor byts från lager, ofta samma vecka som du ringer."},
+    {"titel": "Sommarhustillsyn", "ikon": "kalender", "href": "verksamhet.html", "text": "Vi kollar fönstren före säsong och byter det som gått sönder under vintern."},
+    {"titel": "Kalkstenshus", "ikon": "sten", "href": "verksamhet.html", "text": "Kittade bågar och munblåst glas i hus innanför ringmuren, enligt kommunens riktlinjer."},
+    {"titel": "Butiker och krogar", "ikon": "kontor", "href": "verksamhet.html", "text": "Skyltfönster, entréer och glasräcken för restauranger i hamnen och på Stora torget."},
+    {"titel": "Duschväggar och speglar", "ikon": "vatten", "href": "verksamhet.html", "text": "Mäts upp på plats och levereras inom tre veckor."},
+    {"titel": "Stormskador", "ikon": "vind", "href": "verksamhet.html", "text": "Skivning och försäkringsärenden efter höst- och vinterstormar."},
+    {"titel": "Glas till båtar", "ikon": "bat", "href": "verksamhet.html", "text": "Rutor till fiskebåtar och fritidsbåtar i hamnarna runt ön."},
+    {"titel": "Ring Österport", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi svarar själva, året runt."}
+  ],
+  "affarsomraden": [
+    {"titel": "Året-runt-boende", "text": "Gotlänningar som behöver en ny ruta, en duschvägg eller en spegel. Vi kör ut till hela ön utan körtillägg i Visby, Slite och Hemse.", "text2": "Övriga orter har ett fast tillägg som står i prislistan.", "tagg": "hem"},
+    {"titel": "Sommarhus", "text": "Många sommarhus står tomma från september till maj. Vi besiktar fönstren i april och byter spruckna rutor innan ägarna kommer.", "text2": "Ägaren får en rapport med bilder och kan godkänna åtgärder per mejl.", "tagg": "natur"},
+    {"titel": "Världsarvet Visby", "text": "Innanför ringmuren gäller särskilda regler för fönster och glas. Vi har arbetat med kommunens byggnadsantikvarie i trettio år.", "text2": "Vi har lager av munblåst och valsat glas för äldre bågar.", "tagg": "sten"},
+    {"titel": "Handel och besöksnäring", "text": "Restauranger, hotell och butiker som har bråttom inför sommaren. Vi tar de flesta jobben i mars och april.", "text2": "Under Almedalsveckan har vi jour för krossade skyltfönster.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Verkstaden", "segment": "Österväg, Visby", "rubrik": "900 rutor på hyllorna", "text": "Skärbord, slip och ett lager som räcker en hel vinter om båten skulle ställas in.", "tagg": "glas"},
+    {"namn": "Servicebilarna", "segment": "Norra och södra Gotland", "rubrik": "En bil åt varje håll", "text": "Jakob tar norra ön och Fårö, Simon tar södra ön ner till Hoburgen.", "tagg": "natur"},
+    {"namn": "Sommarhustillsynen", "segment": "April och oktober", "rubrik": "Fönsterkoll innan du kommer", "text": "Elin planerar rundorna och skickar rapporter till 140 husägare.", "tagg": "hem"}
+  ],
+  "berattelser": [
+    {"rubrik": "Boka vårens tillsyn nu", "text": "Rundorna i april har 140 hus och fylls före jul.", "tagg": "hem"},
+    {"rubrik": "Ett köpmannahus på Strandgatan", "text": "Tjugotvå bågar från 1700-talet glasade med munblåst glas efter samråd med antikvarien.", "tagg": "sten"},
+    {"rubrik": "Stormen Ingrid i oktober", "text": "Fyrtio rutor skivade på två dygn, de flesta på östra ön.", "tagg": "glas"}
+  ],
+  "nyckeltal": [
+    {"varde": "900", "enhet": "rutor", "etikett": "I lager i Visby"},
+    {"varde": "140", "enhet": "sommarhus", "etikett": "Med tillsyn varje vår"},
+    {"varde": "1972", "enhet": "", "etikett": "Glasmästeriet öppnar vid Österport"},
+    {"varde": "6", "enhet": "personer", "etikett": "För hela ön"}
+  ],
+  "projekt": [
+    {"namn": "Köpmannahuset", "ort": "Visby", "typ": "Kulturhistoriska fönster", "ar": "2026", "text": "Munblåst glas i 22 bågar, kittat med linoljekitt.", "tagg": "sten"},
+    {"namn": "Restaurangen vid hamnen", "ort": "Visby", "typ": "Glasräcke och entré", "ar": "2026", "text": "Glasräcke på uteserveringen och ny entré, klart före midsommar.", "tagg": "stad"},
+    {"namn": "Sommarhus vid Sudersand", "ort": "Fårö", "typ": "Glasbyte efter storm", "ar": "2025", "text": "Sju rutor skivade dagen efter stormen och bytta veckan efter.", "tagg": "natur"},
+    {"namn": "Prästgården", "ort": "Hemse", "typ": "Fönsterrenovering", "ar": "2025", "text": "Trettio bågar renoverade under vintern i verkstaden.", "tagg": "hem"},
+    {"namn": "Fiskebåten Sandhamn", "ort": "Burgsvik", "typ": "Styrhyttsrutor", "ar": "2025", "text": "Fyra härdade rutor i styrhytten, bytta på kajen.", "tagg": "bat"},
+    {"namn": "Hotellet på Stora torget", "ort": "Visby", "typ": "Duschväggar", "ar": "2024", "text": "Arton duschväggar monterade i april, före säsongsstart.", "tagg": "interior"}
+  ],
+  "process": [
+    {"titel": "Ring eller mejla", "text": "Berätta var huset ligger och skicka gärna en bild på rutan.", "tagg": "people"},
+    {"titel": "Lager eller beställning", "text": "Finns måttet i lager kommer vi samma vecka. Annars beställer vi och glaset kommer med båten inom tio dagar.", "tagg": "glas"},
+    {"titel": "Utkörning", "text": "Vi samlar jobben per del av ön så att du inte betalar för långa körningar.", "tagg": "natur"},
+    {"titel": "Byte och återvinning", "text": "Det gamla glaset tar vi med till återvinningen på Slite.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje båtresa ska räknas",
+    "text": "Allt glas som inte finns på ön måste fraktas över havet. Därför samlar vi beställningarna och tar hem glaset en gång i veckan i stället för varje gång någon ringer. Gamla bågar renoverar vi hellre än byter, eftersom ett nytt fönster också måste fraktas hit.",
+    "mal": [["1", "samlad glasfrakt per vecka"], ["60 %", "av alla byten görs från lagret"], ["2027", "den norra servicebilen blir eldriven"]]
+  },
+  "karriar": {
+    "rubrik": "Flytta till ön och skär glas",
+    "text": "Vi söker ibland en glasmästare som vill bo på Gotland. Sommaren är intensiv, vintern är lugn – då renoverar vi bågar i verkstaden och tar ut kompensationsledigt.",
+    "jobb": []
+  },
+  "kultur": "Under vintern stänger vi klockan tre på fredagar och går ner till hamnen.",
+  "citat": {"text": "På fastlandet kan man ringa en annan glasmästare om vi inte hinner. Här finns bara vi, så vi hinner.", "namn": "Elin Hägg", "roll": "Delägare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Rapporten från vårtillsynen kom med bilder på varje fönster. Två rutor var bytta när vi kom ut i juni.", "namn": "Gunnar och Lis R.", "ort": "Fårö"},
+    {"text": "Antikvarien godkände fönstren direkt. Jakob visste exakt vilket glas och vilken kittmetod som gällde.", "namn": "Maja E.", "ort": "Visby"},
+    {"text": "Skyltfönstret krossades mitt under Almedalen. De var på plats inom en timme.", "namn": "Fredrik S.", "ort": "Visby"}
+  ],
+  "faq": [
+    ["Hur fort kan ni byta en ruta?", "Finns måttet i lager samma vecka. Annars beställer vi och monterar inom två veckor."],
+    ["Kostar det extra att bo långt från Visby?", "Visby, Slite och Hemse har inget tillägg. Övriga ön har ett fast tillägg på 450 kr, Fårö 650 kr."],
+    ["Får man byta fönster innanför ringmuren?", "Det krävs ofta bygglov och samråd med kommunens byggnadsantikvarie. Vi hjälper till med underlaget."],
+    ["Hur fungerar sommarhustillsynen?", "Vi besöker huset i april och skickar en rapport med bilder. Du godkänner åtgärderna per mejl innan vi gör något."],
+    ["Har ni jour?", "Inte dygnet runt, men vi skivar krossat glas vardagar till 20 och under Almedalsveckan hela dygnet."],
+    ["Tar ni ROT-avdrag?", "Ja, för arbetskostnaden både i permanentbostad och fritidshus."]
+  ],
+  "prislista_rubrik": "Fasta priser på ön",
+  "prislista": [["Glasbyte tvåglasfönster, upp till 0,5 m²", "fr. 1 350 kr"], ["Isolerglas, byte per ruta", "fr. 2 900 kr"], ["Sommarhustillsyn, per hus", "690 kr"], ["Kittning och glasning per båge", "fr. 850 kr"], ["Duschvägg monterad", "fr. 9 400 kr"], ["Skivning vid krossat glas", "fr. 1 400 kr"], ["Tillägg utanför Visby, Slite och Hemse", "450 kr"], ["Tillägg Fårö", "650 kr"]],
+  "certifikat": [
+    {"titel": "Glasbranschföreningen", "text": "Medlemmar och följer branschens riktlinjer för säkerhetsglas i bostäder.", "ikon": "skold"},
+    {"titel": "Gesällbrev", "text": "Jakob och Simon har gesällbrev, Elin är utbildad i byggnadsvård på Gotland.", "ikon": "stjarna"},
+    {"titel": "Byggnadsvård", "text": "Utbildade i traditionella fönstermetoder och kittning med linoljekitt.", "ikon": "pensel"},
+    {"titel": "Försäkringsavtal", "text": "Avtal med tre försäkringsbolag för stormskador och krossat glas.", "ikon": "dokument"}
+  ],
+  "kunder": ["Visby Hamnkrog", "Hotell Stora Torget", "Gotlands Prästgårdsstiftelse", "Brf Murgatan", "Fårö Fritidsby", "Burgsviks Fiskelag", "Slite Hamnförening"],
+  "nyheter": [
+    ["2026-10-24", "Stormen Ingrid", "Fyrtio rutor skivade på två dygn – alla permanenta byten klara inom två veckor.", "glas"],
+    ["2026-09-15", "Vårens tillsyn öppen för bokning", "140 platser, och de brukar ta slut före jul.", "hem"],
+    ["2026-04-28", "Köpmannahuset på Strandgatan klart", "Tjugotvå bågar glasade med munblåst glas.", "sten"]
+  ],
+  "kontakt": {"adress": "Österväg 6", "postnr": "621 45", "ort": "Visby", "telefon": "070-174 06 47", "epost": "hej@osterportglas.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, juni–augusti även lör 9–12",
+  "omrade": "Hela Gotland och Fårö",
+  "fot_cta": "Spräckt ruta på ön? Ring oss, vi har den troligen på hyllan.",
+  "bild": {"panel": "natur", "hb": "sten"},
+  "text": {
+    "kontakt_knapp": "Ring oss på ön",
+    "hero_knapp": "Vad vi gör på ön",
+    "hero_lank": "Hus vi har glasat",
+    "ber_rubrik": "På ön just nu",
+    "proj_rubrik": "Från Fårö till Hemse",
+    "process_rubrik": "Så kommer glaset till dig",
+    "hb_etikett": "Frakt",
+    "omdomen_rubrik": "Gotlänningar och sommargäster",
+    "faq_rubrik": "Frågor från ön",
+    "boka_rubrik": "Var ligger huset?",
+    "logos_rubrik": "Några vi glasar åt",
+    "certifikat_rubrik": "Utbildning och avtal",
+    "bolag_rubrik": "Verkstad, bilar och tillsyn",
+    "ny_rubrik": "Från Österväg",
+    "meny_bolag": "Vi på ön"
+  }
+}

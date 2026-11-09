@@ -43,7 +43,7 @@
     {"rubrik": "Kurs för 22 kyrkvaktmästare", "text": "I oktober höll Ingrid en halvdag i Falun om hur kyrkans egna städrutiner kan bli varsammare.", "tagg": "people"}
   ],
   "nyckeltal": [
-    {"varde": "34", "enhet": "kyrkor", "etikett": "Städas regelbundet"},
+    {"varde": "34", "enhet": "kyrkor", "etikett": "I fast skötselplan"},
     {"varde": "1742", "enhet": "", "etikett": "Vårt äldsta golv i ordinarie skötsel"},
     {"varde": "9", "enhet": "anställda", "etikett": "Alla utbildade av en konservator"},
     {"varde": "0 dl", "enhet": "", "etikett": "Vatten på omålade trägolv"}
@@ -54,7 +54,7 @@
     {"namn": "Gruvmuseet vid Östanforsån", "ort": "Falun", "typ": "Museistäd", "ar": "2025", "text": "Montrar, mineralsamling och golv i en utställningshall på 600 kvadratmeter.", "tagg": "interior"},
     {"namn": "Hembygdsgård i Leksand", "ort": "Leksand", "typ": "Vår- och höststäd", "ar": "2025", "text": "Nio timrade byggnader med textilier, kistor och kakelugnar.", "tagg": "tra"},
     {"namn": "Stenkyrka i Hedemora", "ort": "Hedemora", "typ": "Städning efter renovering", "ar": "2024", "text": "Finstäd efter putslagning innan orgel och inventarier ställdes tillbaka.", "tagg": "sten"},
-    {"namn": "Bergsmansgård i Vika", "ort": "Falun, Vika", "typ": "Säsongsstäd", "ar": "2025", "text": "Vinterstängning med täckning av möbler och fällor för skadeinsekter.", "tagg": "hem"}
+    {"namn": "Bergsmansgård i Vika", "ort": "Falun, Vika", "typ": "Vinterstängning", "ar": "2025", "text": "Vinterstängning med täckning av möbler och fällor för skadeinsekter.", "tagg": "hem"}
   ],
   "process": [
     {"titel": "Besiktning med antikvarie", "text": "Ingrid går igenom byggnaden, gärna tillsammans med er antikvarie eller stiftets bebyggelseantikvarie.", "tagg": "people"},
@@ -122,6 +122,6 @@
     "certifikat_rubrik": "Kunskap om kulturvård",
     "bolag_rubrik": "En konservator och två lag",
     "ny_rubrik": "Råd om varsam skötsel",
-    "medarbetare": "Lokalvårdarna"
+    "medarbetare": "Vårdarna av rummen"
   }
 }

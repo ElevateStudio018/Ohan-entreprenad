@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Bergnäs Luleå", "segment": "29 lokalvårdare", "rubrik": "Huvudkontor på Bergnäset", "text": "Tandvård, två operationskliniker och smittgruppen, med förråd och tvätteri för moppar och dukar.", "tagg": "stadning"},
-    {"namn": "Bergnäs Boden", "segment": "8 lokalvårdare", "rubrik": "Mottagningar längs Lule älv", "text": "Vårdcentraler, företagshälsovård och en veterinärklinik i Boden och Harads.", "tagg": "people"},
+    {"namn": "Bergnäs Boden", "segment": "åtta lokalvårdare", "rubrik": "Mottagningar längs Lule älv", "text": "Vårdcentraler, företagshälsovård och en veterinärklinik i Boden och Harads.", "tagg": "people"},
     {"namn": "Bergnäs Piteå och Kalix", "segment": "9 lokalvårdare", "rubrik": "Kusten norr och söder", "text": "Tandkliniker och privata mottagningar i båda kuststäderna, med varsin lokal arbetsledare.", "tagg": "stadning"},
     {"namn": "Hygien och kvalitet", "segment": "2 personer", "rubrik": "Anders skriver rutinerna", "text": "Hygiensjuksköterska och kvalitetsansvarig som följer upp ATP-mätningar och avvikelser.", "tagg": "kontor"}
   ],
@@ -60,7 +60,7 @@
   "process": [
     {"titel": "Hygiengenomgång", "text": "Anders går igenom lokalen, flödena och era hygienkrav tillsammans med er.", "tagg": "kontor"},
     {"titel": "Skriven städrutin", "text": "Ni får en rutin per rumstyp med medel, metod, frekvens och ansvarsfördelning.", "tagg": "stadning"},
-    {"titel": "Introduktion på plats", "text": "Lokalvårdaren går bredvid er personal i två dagar innan hen arbetar ensam.", "tagg": "people"},
+    {"titel": "Två dagar bredvid", "text": "Lokalvårdaren går bredvid er personal i två dagar innan hen arbetar ensam.", "tagg": "people"},
     {"titel": "Mätning varje månad", "text": "Vi tar ATP-prov på kontaktytor och redovisar resultaten i en kvartalsrapport.", "tagg": "stadning"}
   ],
   "hallbarhet": {
@@ -74,7 +74,7 @@
     "jobb": [["Lokalvårdare vård", "Luleå"], ["Lokalvårdare tandvård", "Piteå"], ["Arbetsledare", "Boden"]]
   },
   "kultur": "Två gånger om året stänger vi kontoret en eftermiddag och övar smittstädning tillsammans med Anders.",
-  "citat": {"text": "Jag lärde mig på kirurgen att handtag och tangentbord smittar mer än golv. Det är där vi börjar varje pass.", "namn": "Tiina Rantakyrö", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Jag lärde mig på kirurgen att handtag och tangentbord smittar mer än golv. Det är där vi börjar varje pass.", "namn": "Tiina Rantakyrö", "roll": "Grundare, tidigare undersköterska", "tagg": "people"},
   "omdomen": [
     {"text": "De följer våra slussrutiner bättre än en del av våra egna vikarier. Mellanstädningen tar exakt den tid vi har planerat.", "namn": "Ulrika B.", "ort": "Porsön"},
     {"text": "Klockan fem ringde vi om magsjuka. Klockan nio var smittgruppen klar och vi kunde öppna som vanligt nästa morgon.", "namn": "Henrik M.", "ort": "Boden"},
@@ -85,14 +85,14 @@
     ["Vilka desinfektionsmedel använder ni?", "Främst alkoholbaserat medel med tensid för ytor och klorbaserat medel vid sporbildande smitta som Clostridioides difficile, enligt Vårdhandbokens rekommendationer."],
     ["Kan ni städa när vi har patienter?", "Väntrum och toaletter kan städas under öppettid. Behandlingsrum städas efter sista patient eller mellan bokningar om ni planerar luckor."],
     ["Hur snabbt kommer smittgruppen?", "Inom fyra timmar i Luleå och inom sex timmar i Boden, Piteå och Kalix, vardagar 7–19. Helger enligt särskilt avtal."],
-    ["Har ni tystnadsplikt?", "Ja. Alla anställda skriver under sekretessförbindelse och får introduktion i vad patientsekretessen innebär för den som städar."],
+    ["Omfattas städarna av patientsekretess?", "Ja. Alla anställda skriver under sekretessförbindelse och får introduktion i vad patientsekretessen innebär för den som städar."],
     ["Vad kostar vårdstäd?", "Timpriset är 520 kronor exklusive moms för vårdnära städning och 640 kronor för operationsstäd. Smittstädning debiteras med 1 900 kronor i utryckning plus tid."],
     ["Kan vi bara köpa en hygienrevision?", "Ja. En revision av en klinik med upp till tio rum kostar 14 500 kronor inklusive skriftlig rapport."]
   ],
   "certifikat": [
     {"titel": "Basala hygienrutiner för alla", "text": "Samtliga anställda har gått Socialstyrelsens webbutbildning och vår egen praktiska fördjupning.", "ikon": "kors"},
     {"titel": "Hygiensjuksköterska anställd", "text": "Rutinerna skrivs och revideras av legitimerad sjuksköterska med specialistutbildning i vårdhygien.", "ikon": "vard"},
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2017.", "ikon": "dokument"},
+    {"titel": "Certifierat för kvalitet och miljö", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2017.", "ikon": "dokument"},
     {"titel": "Sekretessförbindelse", "text": "Alla anställda har skriftlig tystnadsplikt gentemot patienter och kunder.", "ikon": "las"}
   ],
   "kunder": ["Porsöns Dagkirurgi", "Bergnäsets Tandklinik", "Bodens Familjeläkare", "Piteå Djursjukhus", "Kalix Företagshälsa", "Luleå Ögonklinik", "Storgatans Tandläkare", "Harads Hälsocenter"],
@@ -107,7 +107,7 @@
   "fot_cta": "Osäker på om städningen håller vårdens krav? Boka en genomgång med vår hygiensjuksköterska.",
   "bild": {"panel": "people", "hb": "stadning"},
   "text": {
-    "hero_knapp": "Lokaler vi städar",
+    "hero_knapp": "Vårdmiljöer vi städar",
     "kontakt_knapp": "Boka hygiengenomgång",
     "hero_lank": "Kliniker och mottagningar",
     "vagval_etikett": "Vårdmiljö",
@@ -124,6 +124,6 @@
     "certifikat_rubrik": "Hygienkompetens och ledningssystem",
     "bolag_rubrik": "Fyra enheter i Norrbotten",
     "ny_rubrik": "Om hygien och vårdstäd",
-    "medarbetare": "Lokalvårdarna"
+    "medarbetare": "Vårdlokalvårdarna"
   }
 }

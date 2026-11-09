@@ -17,19 +17,19 @@
   ],
   "vagval_rubrik": "Vad vill ni att vi tar hand om?",
   "tjanster": [
-    {"titel": "Kontorsstäd", "ikon": "kontor", "href": "verksamhet.html", "text": "Daglig eller veckovis städning av kontor, med fast team och nyckelkvittens."},
+    {"titel": "Kontor och väntrum", "ikon": "kontor", "href": "verksamhet.html", "text": "Daglig eller veckovis städning av kontor, med fast team och nyckelkvittens."},
     {"titel": "Föreningslokaler", "ikon": "folk", "href": "verksamhet.html", "text": "Klubbhus, omklädningsrum och samlingslokaler efter träningar och möten."},
     {"titel": "Trapphus och tvättstugor", "ikon": "hus", "href": "verksamhet.html", "text": "Veckostäd för bostadsrättsföreningar och mindre hyresvärdar på Söder och i Centrum."},
-    {"titel": "Hemstäd med RUT", "ikon": "hem", "href": "verksamhet.html", "text": "Varannan vecka eller varje vecka, med samma städare och RUT direkt på fakturan."},
+    {"titel": "Hem i Halmstad, med RUT", "ikon": "hem", "href": "verksamhet.html", "text": "Varannan vecka eller varje vecka, med samma städare och RUT direkt på fakturan."},
     {"titel": "Storstäd och flytt", "ikon": "nyckel", "href": "verksamhet.html", "text": "Flyttstäd och storstäd för privatpersoner och föreningar."},
     {"titel": "Upphandlade uppdrag", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi lämnar anbud där kommunen ställer krav på sociala hänsyn."},
     {"titel": "Praktik och introduktion", "ikon": "skola", "href": "karriar.html", "text": "Sex platser per år i samarbete med Arbetsförmedlingen och kommunen."},
-    {"titel": "Begär offert", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi kommer ut, tittar på lokalen och lämnar ett fast pris inom en vecka."}
+    {"titel": "Fast pris inom en vecka", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi kommer ut, tittar på lokalen och lämnar ett fast pris inom en vecka."}
   ],
   "affarsomraden": [
-    {"titel": "Kontor och företag", "text": "Ett trettiotal företag i Halmstad har avtal med oss, från advokatbyråer vid Stora torg till verkstäder på Larsfrid. Varje kund har ett fast team på två personer som kan ersätta varandra.", "text2": "Många kunder väljer oss för att kunna redovisa social hållbarhet i sina egna inköp.", "tagg": "kontor"},
+    {"titel": "Företag i stan", "text": "Ett trettiotal företag i Halmstad har avtal med oss, från advokatbyråer vid Stora torg till verkstäder på Larsfrid. Varje kund har ett fast team på två personer som kan ersätta varandra.", "text2": "Många kunder väljer oss för att kunna redovisa social hållbarhet i sina egna inköp.", "tagg": "kontor"},
     {"titel": "Föreningar och idrott", "text": "Idrottsföreningen som gav oss vårt första uppdrag är fortfarande kund. Vi städar omklädningsrum, klubbhus och kansli, ofta sent på kvällen efter sista träningen.", "text2": "Föreningar får 10 procents rabatt på timpriset.", "tagg": "people"},
-    {"titel": "Bostäder och trapphus", "text": "Tolv bostadsrättsföreningar och två mindre hyresvärdar har trappstäd hos oss. De boende vet vem som kommer, och anslagstavlan har städarens namn och foto.", "text2": "Privatpersoner kan också boka hemstäd med RUT-avdrag.", "tagg": "bostad"},
+    {"titel": "Föreningar på Söder och i Centrum", "text": "Tolv bostadsrättsföreningar och två mindre hyresvärdar har trappstäd hos oss. De boende vet vem som kommer, och anslagstavlan har städarens namn och foto.", "text2": "Privatpersoner kan också boka hemstäd med RUT-avdrag.", "tagg": "bostad"},
     {"titel": "Introduktion till arbete", "text": "Varje år tar vi emot sex personer i en sexmånaders introduktion med städutbildning, arbetsplatssvenska och körkortsteori. Alla som fullföljer erbjuds anställning.", "text2": "Sedan 2014 har 41 personer gått vidare till fast jobb, hos oss eller hos andra arbetsgivare.", "tagg": "stadning"}
   ],
   "bolag": [
@@ -52,8 +52,8 @@
   "projekt": [
     {"namn": "Fritidsgårdar och bibliotek", "ort": "Halmstad", "typ": "Upphandlat uppdrag", "ar": "2026", "text": "Fyra fritidsgårdar och två bibliotek med krav på sociala hänsyn i upphandlingen.", "tagg": "stadning", "status": "Pågående"},
     {"namn": "Idrottsföreningen på Söder", "ort": "Halmstad, Söder", "typ": "Klubbhus och omklädning", "ar": "2026", "text": "Vår första kund sedan 2014, städas varje kväll efter sista träningspasset.", "tagg": "people", "status": "Pågående"},
-    {"namn": "Advokatbyrå vid Stora torg", "ort": "Halmstad", "typ": "Kontorsstäd", "ar": "2025", "text": "Tre våningar som städas tre kvällar i veckan av samma två personer.", "tagg": "kontor"},
-    {"namn": "Brf Furetparken", "ort": "Halmstad, Furet", "typ": "Trappstäd", "ar": "2025", "text": "Åtta trapphus och två tvättstugor med städning varje torsdag.", "tagg": "bostad"},
+    {"namn": "Advokatbyrå vid Stora torg", "ort": "Halmstad", "typ": "Kontor och väntrum", "ar": "2025", "text": "Tre våningar som städas tre kvällar i veckan av samma två personer.", "tagg": "kontor"},
+    {"namn": "Brf Furetparken", "ort": "Halmstad, Furet", "typ": "Trappor och tvättstugor", "ar": "2025", "text": "Åtta trapphus och två tvättstugor med städning varje torsdag.", "tagg": "bostad"},
     {"namn": "Verkstad på Larsfrid", "ort": "Halmstad, Larsfrid", "typ": "Industrilokal", "ar": "2024", "text": "Personalrum, omklädningsrum och kontor i en mekanisk verkstad med 60 anställda.", "tagg": "industri"},
     {"namn": "Folkhögskolans internat", "ort": "Halmstad", "typ": "Storstäd", "ar": "2025", "text": "Fyrtiotvå elevrum storstädade under en vecka i juni.", "tagg": "stadning"}
   ],
@@ -106,7 +106,7 @@
   "fot_cta": "Ska ni byta städfirma? Välj en där varje timme blir ett jobb i Halmstad.",
   "bild": {"panel": "people", "hb": "people"},
   "text": {
-    "hero_knapp": "Det här städar vi",
+    "hero_knapp": "Uppdrag vi tar",
     "kontakt_knapp": "Få ett fast pris",
     "hero_lank": "Våra uppdrag",
     "vagval_etikett": "Uppdrag",

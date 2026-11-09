@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hästö Marinsvets AB",
+  "kortnamn": "Hästö Marinsvets",
+  "slug": "hasto-marinsvets",
+  "typ": "Fartygssvets och båtbygge i Karlskrona",
+  "tagline": "Svetsat för saltvatten",
+  "slogan": "Plåtbyten på fiskebåtar, ombyggnad av skärgårdsfärjor och nya arbetsbåtar i aluminium – från en slip med kajplats i Karlskronas skärgård.",
+  "hero_rubrik": "Båten ut på vattnet igen före helgen",
+  "hero_text": "Varvssvets i stål och aluminium: reparationer, ombyggnader och nybygge av arbetsbåtar upp till 24 meter. Egen slip, ett flytande arbetsdäck och mobila team längs Östersjökusten.",
+  "intro_rubrik": "Trettioåtta år mellan slip och kaj",
+  "om": [
+    "Göran Ek hade svetsat på örlogsvarvet i Karlskrona i tjugo år när han 1988 hyrde en gammal båtbod på Hästö och började laga skrov åt yrkesfiskarna i Blekinge. Ryktet spreds längs kusten, och tio år senare byggdes slipen som i dag tar upp båtar på 300 ton.",
+    "Sedan 2012 ägs Hästö av fyra av de anställda, och vi är i dag 40 medarbetare som omsätter 58 miljoner kronor. Ungefär hälften av arbetet är reparationer och klassningsjobb åt fiskebåtar, färjor och lotsbåtar, resten är nybyggda arbetsbåtar i aluminium och ombyggnader."
+  ],
+  "vagval_rubrik": "Vad behöver båten?",
+  "tjanster": [
+    {"titel": "Skrovreparationer", "ikon": "bat", "href": "verksamhet.html", "text": "Plåtbyten, spantförstärkning och bottenrenovering i stål och aluminium."},
+    {"titel": "Klassningsarbeten", "ikon": "dokument", "href": "verksamhet.html", "text": "Arbeten inför och efter klassningsbesiktning med godkända procedurer."},
+    {"titel": "Nya arbetsbåtar", "ikon": "ritning", "href": "verksamhet.html", "text": "Aluminiumbåtar på 8–24 meter för kommuner, vindkraft och fiske."},
+    {"titel": "Ombyggnader", "ikon": "verktyg", "href": "verksamhet.html", "text": "Förlängning, ny överbyggnad och byte till el- eller hybriddrift."},
+    {"titel": "Slip och kaj", "ikon": "kran", "href": "verksamhet.html", "text": "Slip för 300 ton och 80 meter kaj med travers och landström."},
+    {"titel": "Mobila varvsteam", "ikon": "bil", "href": "verksamhet.html", "text": "Svetsare som reser till hamnar från Kalmar till Ystad."},
+    {"titel": "Båtar vi lagat", "ikon": "karta", "href": "projekt.html", "text": "Fiskebåtar, färjor och lotsbåtar i södra Östersjön."},
+    {"titel": "Boka slipen", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Slipen bokas veckovis, gärna ett halvår i förväg."}
+  ],
+  "affarsomraden": [
+    {"titel": "Reparation och klassning", "text": "När en fiskebåt eller färja ska upp för klassningsbesiktning görs ofta plåttjockleksmätning, plåtbyten och nya bottenventiler på kort tid. Vi planerar arbetet tillsammans med besiktningsmannen så att båten står så få dagar som möjligt på land.", "text2": "En normal bottenrenovering med plåtbyten tar sju till tolv dagar.", "tagg": "bat"},
+    {"titel": "Nybygge i aluminium", "text": "Arbetsbåtar för kommunal sjöräddning, vindkraftsservice och miljöberedskap byggs i marin aluminium efter ritningar från en skeppsbyggnadsingenjör i Göteborg. Skroven svetsas i vår byggnadshall och sjösätts från slipen.", "text2": "Vi levererar två till tre nya båtar per år.", "tagg": "svets"},
+    {"titel": "Ombyggnad och elektrifiering", "text": "Äldre skärgårdsfärjor och arbetsbåtar förlängs, får ny överbyggnad eller byggs om för batteridrift. Vi gör stålarbetet och samordnar el och maskin med specialister.", "text2": "Den första elhybridfärjan vi byggt om har gått sedan 2024 i Karlskronas skärgård.", "tagg": "industri"},
+    {"titel": "Hamn och kaj", "text": "Pollare, fendrar, kajstegar och landgångar repareras och byts för hamnar och marinor. Vi kan även svetsa under vattenlinjen från ett flytande arbetsdäck.", "text2": "Kommunala hamnar kan teckna årsavtal med fast timpris.", "tagg": "infra"}
+  ],
+  "bolag": [
+    {"namn": "Slipen på Hästö", "segment": "Reparation", "rubrik": "300 ton på land på två timmar", "text": "Slipvagn, kaj med travers och tjugo svetsare som tar hand om reparationer och klassningar.", "tagg": "bat"},
+    {"namn": "Byggnadshallen", "segment": "Nybygge i aluminium", "rubrik": "24 meter båt under tak", "text": "En uppvärmd hall där tio aluminiumsvetsare bygger nya skrov och överbyggnader.", "tagg": "svets"},
+    {"namn": "Varvsteamen", "segment": "Mobilt varv", "rubrik": "Varvet kommer till hamnen", "text": "Två team med servicebilar och container som utför reparationer i hamnar längs kusten.", "tagg": "maskin"}
+  ],
+  "berattelser": [
+    {"rubrik": "Sjöräddningsbåt till Kalmarsund", "text": "En ny 14-metersbåt i aluminium sjösattes i september och klarar 38 knop.", "tagg": "bat"},
+    {"rubrik": "Fiskebåten som fick sex meter till", "text": "En trålare från Simrishamn förlängdes för att få plats med nytt kylrum.", "tagg": "svets"},
+    {"rubrik": "Landström på kajen", "text": "Båtar vid kajen kan nu stänga av sina dieselgeneratorer helt under varvsvistelsen.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "300", "enhet": "ton", "etikett": "Största båt på slipen"},
+    {"varde": "40", "enhet": "medarbetare", "etikett": "Varav fyra delägare"},
+    {"varde": "24", "enhet": "meter", "etikett": "Längsta nybygge i aluminium"},
+    {"varde": "1988", "enhet": "", "etikett": "Första skrovet lagat på Hästö"}
+  ],
+  "projekt": [
+    {"namn": "Sjöräddningsbåt för Kalmarsund", "ort": "Kalmar", "typ": "Nybygge aluminium", "ar": "2026", "text": "14 meter, vattenjet och värmd hytt för sex besättningsmän.", "tagg": "bat"},
+    {"namn": "Trålaren från Simrishamn", "ort": "Simrishamn", "typ": "Förlängning", "ar": "2026", "text": "Skrovet kapat och förlängt sex meter med nytt kylrum.", "tagg": "svets"},
+    {"namn": "Skärgårdsfärjan till Tjurkö", "ort": "Karlskrona", "typ": "Elhybrid", "ar": "2024", "text": "Ombyggd för batteridrift med ny överbyggnad i aluminium.", "tagg": "industri"},
+    {"namn": "Lotsbåtens bottenrenovering", "ort": "Karlshamn", "typ": "Klassning", "ar": "2025", "text": "Plåtbyten på åtta kvadratmeter och nya bottenventiler på nio dagar.", "tagg": "bat"},
+    {"namn": "Kajstegar i Sölvesborgs hamn", "ort": "Sölvesborg", "typ": "Hamnarbete", "ar": "2025", "text": "Tjugo nya kajstegar och fendrar monterade från arbetsdäck.", "tagg": "infra"},
+    {"namn": "Servicebåt för havsvindpark", "ort": "Karlskrona", "typ": "Nybygge aluminium", "ar": "2027", "text": "Skrovet på 22 meter under byggnation, leverans i maj.", "tagg": "svets", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Slipbokning", "text": "Ni bokar en vecka på slipen och skickar senaste besiktningsprotokoll och ritningar.", "tagg": "kontor"},
+    {"titel": "Upptag och mätning", "text": "Båten tas upp, tvättas och plåttjockleken mäts så att vi vet exakt vilka plåtar som måste bytas.", "tagg": "bat"},
+    {"titel": "Svets under tak", "text": "Plåtbyten och reparationer görs med procedurer godkända av klassningssällskapet.", "tagg": "svets"},
+    {"titel": "Sjösättning och papper", "text": "Båten sjösätts, provas vid kaj och ni får all dokumentation till besiktningsmannen.", "tagg": "bat"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje båt som lagas är en båt som inte byggs",
+    "text": "Ett stålskrov kan gå i sextio år om det underhålls i tid. Vi samlar upp allt blästersand och bottenfärgsrester från slipen och skickar det till godkänd destruktion. Spillvatten från tvättplattan renas i egen anläggning innan det når havet.",
+    "mal": [["100 %", "av blästeravfallet till godkänd destruktion"], ["0", "liter otvättat spillvatten till havet"], ["60 år", "livslängd för ett väl underhållet stålskrov"]]
+  },
+  "karriar": {
+    "rubrik": "Svetsa med havet utanför porten",
+    "text": "Vi behöver svetsare som klarar fartygsstål i alla lägen och aluminiumsvetsare som vill bygga nya båtar. Vi har kollektivavtal och erbjuder delägarskap efter fem år för den som vill.",
+    "jobb": [["Fartygssvetsare", "Karlskrona"], ["Aluminiumsvetsare nybygge", "Karlskrona"], ["Varvsmontör mobila team", "Karlskrona"]]
+  },
+  "kultur": "När en ny båt sjösätts står hela varvet på kajen och den som svetsat första skrovplåten får knäcka flaskan.",
+  "citat": {"text": "En fiskare tjänar inga pengar när båten står på slip. Därför räknar vi tiden i timmar, inte i veckor.", "namn": "Johan Ek", "roll": "Vd och delägare", "tagg": "bat"},
+  "omdomen": [
+    {"text": "Besiktningsmannen hittade mer rost än vi trott. Hästö bytte plåtarna, fick allt godkänt och vi var ute och fiskade igen på dag nio.", "namn": "Kent S., yrkesfiskare", "ort": "Simrishamn"},
+    {"text": "Den nya räddningsbåten är snabb, torr och tyst. Besättningen var med vid varje steg i bygget.", "namn": "Emma L., sjöräddningsstation", "ort": "Kalmar"},
+    {"text": "Ombyggnaden till batteridrift var ett pilotprojekt för oss. Hästö höll både budget och tidplan.", "namn": "Peter H., trafikchef", "ort": "Karlskrona"}
+  ],
+  "faq": [
+    ["Hur långt i förväg behöver vi boka slipen?", "Vår och höst är högsäsong för klassningar, så boka gärna sex månader före. Akuta reparationer efter grundstötning försöker vi alltid ta emot inom ett par dagar."],
+    ["Arbetar ni med alla klassningssällskap?", "Ja. Våra svetsprocedurer är godkända av DNV, och vi har gjort klassningsarbeten under Bureau Veritas och Lloyd's Register."],
+    ["Kan ni bygga båtar efter våra ritningar?", "Ja. Vi bygger efter kundens ritningar eller tar fram dem tillsammans med en skeppsbyggnadsingenjör vi samarbetar med."],
+    ["Kommer ni till vår hamn?", "Ja, med våra mobila team. Vi reser längs kusten från Kalmar till Ystad och på Öland och Bornholm."],
+    ["Svetsar ni under vattnet?", "Vi gör enklare reparationer i vattenlinjen från vårt flytande arbetsdäck. Svets under vatten utförs tillsammans med en certifierad dykfirma."],
+    ["Bygger ni fritidsbåtar?", "Nej, vi bygger bara yrkesbåtar. Däremot lagar vi gärna aluminium- och stålbåtar för privatpersoner när slipen har plats under sommaren."]
+  ],
+  "certifikat": [
+    {"titel": "DNV-godkänd verkstad", "text": "Svetsprocedurer och svetsare godkända av klassningssällskapet för fartygsstål och aluminium.", "ikon": "skold"},
+    {"titel": "ISO 3834-3", "text": "Kvalitetskrav för smältsvetsning med egen svetsansvarig.", "ikon": "eld"},
+    {"titel": "Aluminiumsvets ISO 9606-2", "text": "Tio svetsare certifierade för marin aluminium i alla lägen.", "ikon": "bat"},
+    {"titel": "Gasfrihetskontroll", "text": "Egen behörig personal för kontroll av tankar och slutna utrymmen före heta arbeten.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Blekinge Skärgårdstrafik", "Kalmarsunds Sjöräddning", "Simrishamns Fiskeförening", "Karlshamns Lotsstation", "Sölvesborgs Hamn", "Hanöbuktens Vindservice", "Tjurkö Färjelag"],
+  "nyheter": [
+    ["2026-09-30", "Räddningsbåten sjösatt", "Fjorton meter aluminium och 38 knop för Kalmarsund.", "bat"],
+    ["2026-05-26", "Landström vid kajen", "Båtar på varv kan nu stänga av sina generatorer helt.", "industri"],
+    ["2026-02-18", "Slipen nästan fullbokad till hösten", "Två veckor kvar i oktober för klassningsarbeten.", "bat"]
+  ],
+  "kontakt": {"adress": "Hästövägen 3", "postnr": "371 37", "ort": "Karlskrona", "telefon": "070-174 06 44", "epost": "slip@hastomarinsvets.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–15.30 · akuta skador alla dagar",
+  "omrade": "Södra Östersjön, från Kalmar till Ystad, Öland och Bornholm",
+  "fot_cta": "Ska båten upp för klassning nästa år? Boka slipveckan nu.",
+  "bild": {"panel": "bat", "hb": "svets"},
+  "text": {
+    "ber_rubrik": "På slipen just nu",
+    "proj_rubrik": "Skrov vi har lagat och byggt",
+    "proj_kol": ["Båt", "Hemmahamn", "Arbete", "Status", "År"],
+    "process_rubrik": "Från upptag till sjösättning",
+    "hb_etikett": "Havsmiljö",
+    "omdomen_rubrik": "Redare och fiskare om varvet",
+    "faq_rubrik": "Om slip, klass och nybygge",
+    "boka_rubrik": "Fråga efter en slipvecka",
+    "boka_falt": ["Namn", "Telefon", "Båt och hemmahamn", "Vad ska göras och när?"],
+    "logos_rubrik": "Redare och hamnar",
+    "certifikat_rubrik": "Godkända för fartyg och tankar",
+    "bolag_rubrik": "Slip, hall och mobila team",
+    "ny_rubrik": "Nytt från Hästö",
+    "hero_knapp": "Varvets tjänster",
+    "kontakt_knapp": "Boka slipen",
+    "medarbetare": "Varvsfolket"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "skadedjur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Viskan Skadedjurstjänst AB",
+  "kortnamn": "Viskan",
+  "slug": "viskan",
+  "typ": "Skadedjurskontroll för lager och e-handel",
+  "tagline": "Paketen ska vara rena",
+  "slogan": "Från Sjuhäradsbygden skickas en stor del av Sveriges e-handelspaket – vi ser till att inga möss, malar eller mjölbaggar följer med i kartongerna.",
+  "hero_rubrik": "1,2 miljoner pallplatser utan en enda mus",
+  "hero_text": "Viskan är skadedjurspartnern för logistiklagren runt Borås, Ulricehamn och Jönköpingsvägen. 48 medarbetare, egna lagertekniker på plats i de största hallarna och rapporter som klarar kundernas leverantörsrevisioner.",
+  "intro_rubrik": "Textilstadens lager, vår arbetsplats",
+  "om": [
+    "Viskan grundades 1994 av Bo Rydén för att skydda textilfabrikernas ullager mot mal och ängrar. När fabrikerna flyttade utomlands och lagerhallarna för postorder och e-handel växte fram på Viared följde företaget med, och i dag är nästan sju av tio kronor intäkter från logistik och lager.",
+    "Vi är 48 medarbetare i tre bolag med kontor i Borås, Ulricehamn och Alingsås. Sju av teknikerna arbetar fast placerade i kundernas lager – som en del av lagrets egen personal – och sköter kontrollen dagligen i hallar på upp till 90 000 kvadratmeter."
+  ],
+  "vagval_rubrik": "Vilken typ av anläggning har ni?",
+  "tjanster": [
+    {"titel": "E-handelslager", "ikon": "lada", "href": "verksamhet.html", "text": "Gnagarkontroll längs portar, packstationer och returflöden i hallar som går dygnet runt."},
+    {"titel": "Tekniker på plats", "ikon": "folk", "href": "verksamhet.html", "text": "En egen tekniker som arbetar i ert lager varje dag och känner varje port och hörn."},
+    {"titel": "Textil och mode", "ikon": "sax", "href": "verksamhet.html", "text": "Feromonfällor mot klädmal och pälsängrar i lager med ull, kashmir och dun."},
+    {"titel": "Livsmedel och dagligvaror", "ikon": "fabrik", "href": "verksamhet.html", "text": "Kontroll av förrådsinsekter i lager med kaffe, nötter och torrvaror."},
+    {"titel": "Importkontroll", "ikon": "glob", "href": "verksamhet.html", "text": "Inspektion av containrar från Asien innan godset släpps in i hallen."},
+    {"titel": "Fåglar i hallar", "ikon": "vind", "href": "verksamhet.html", "text": "Nät, snabbportsrutiner och levandefångst av sparvar och duvor under taket."},
+    {"titel": "Revisionsrapporter", "ikon": "graf", "href": "verksamhet.html", "text": "Trendrapporter per zon som klarar leverantörsrevisioner från stora varumärken."},
+    {"titel": "Begär lagergenomgång", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "En säljansvarig tekniker kommer ut inom en vecka."}
+  ],
+  "affarsomraden": [
+    {"titel": "Logistik och e-handel", "text": "I ett lager med 40 portar och tusentals returpaket om dagen kommer möss in med pallarna. Vi placerar stationer var tionde meter längs ytterväggen och kontrollerar dem digitalt med streckkod.", "text2": "Störst är ett lager på Viared med 1 200 stationer och en heltidstekniker.", "tagg": "industri"},
+    {"titel": "Textil", "text": "Ett enda angripet parti ullkavajer kan bli en reklamation på hundratusentals kronor. Vi övervakar med feromonfällor, fryser misstänkta partier och utbildar lagerpersonalen i att känna igen mal.", "text2": "Viskan har skyddat textillager i Borås sedan 1994.", "tagg": "interior"},
+    {"titel": "Import och containrar", "text": "Containrar från Asien kan bära med sig insekter som inte finns i Sverige. Vi inspekterar dörrtätningar, emballage och pallvirke innan godset lossas.", "text2": "Under 2025 inspekterade vi 4 100 containrar.", "tagg": "anlaggning"},
+    {"titel": "Fastighetsägare", "text": "Logistikfastigheter byter hyresgäst och verksamhet. Vi sköter grundskyddet för fastighetsägaren, så att varje ny hyresgäst får en hall utan gamla problem.", "text2": "Avtalet följer fastigheten oavsett vem som hyr.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Viskan Logistik", "segment": "31 medarbetare", "rubrik": "Lager, terminaler och e-handel", "text": "Det största bolaget, med tekniker fast placerade i sju av kundernas lager på Viared, i Ulricehamn och längs riksväg 40.", "tagg": "industri"},
+    {"namn": "Viskan Textil", "segment": "Sex medarbetare", "rubrik": "Mal, ängrar och frysning", "text": "Specialister på textilskadedjur med en frysanläggning för hela pallar på minus 30 grader.", "tagg": "interior"},
+    {"namn": "Viskan Fastighet", "segment": "Elva medarbetare i Borås och Alingsås", "rubrik": "Bostäder, kontor och butiker", "text": "Sköter avtal med bostadsbolag, kontor och handel i Sjuhärad och Alingsås.", "tagg": "bostad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Sjunde lagret med egen tekniker", "text": "Ett nytt e-handelslager i Ulricehamn har anställt en av våra tekniker på plats från dag ett.", "tagg": "industri"},
+    {"rubrik": "Container med främmande skalbagge", "text": "En khaprabagge hittades i jutesäckar från Asien – partiet gasades innan det kom in i hallen.", "tagg": "anlaggning"},
+    {"rubrik": "Revision utan anmärkning", "text": "En stor modekedjas leverantörsrevision gav full poäng på skadedjursavsnittet för tredje året i rad.", "tagg": "kontor"}
+  ],
+  "nyckeltal": [
+    {"varde": "48", "enhet": "medarbetare", "etikett": "I tre bolag"},
+    {"varde": "1,2 milj", "enhet": "pallplatser", "etikett": "Under vår kontroll"},
+    {"varde": "4 100", "enhet": "containrar", "etikett": "Inspekterade 2025"},
+    {"varde": "61", "enhet": "mkr", "etikett": "Omsättning 2025"}
+  ],
+  "projekt": [
+    {"namn": "E-handelslager på Viared", "ort": "Borås", "typ": "Logistik", "ar": "2026", "text": "1 200 digitala stationer och en heltidstekniker på 90 000 kvadratmeter.", "tagg": "industri"},
+    {"namn": "Ullager för modehus", "ort": "Borås", "typ": "Textil", "ar": "2025", "text": "Klädmal stoppad i ett parti stickat – 46 pallar frystes och lagret fick nytt fällprogram.", "tagg": "interior"},
+    {"namn": "Terminal vid riksväg 40", "ort": "Ulricehamn", "typ": "Logistik", "ar": "2026", "text": "Nyetablerat lager med tekniker på plats från första inleveransen.", "tagg": "industri", "status": "Pågående"},
+    {"namn": "Kaffelager", "ort": "Alingsås", "typ": "Livsmedel", "ar": "2025", "text": "Kaffebönor och torrvaror övervakas med 140 feromonfällor och månatlig trendrapport.", "tagg": "skadedjur"},
+    {"namn": "Containerkontroll", "ort": "Borås", "typ": "Import", "ar": "2025", "text": "4 100 containrar inspekterade och tre partier stoppade för gasning.", "tagg": "anlaggning"},
+    {"namn": "Sparvar i höglagret", "ort": "Viared", "typ": "Fåglar", "ar": "2024", "text": "Snabbportar fick borstlister och 22 sparvar fångades levande och släpptes utanför.", "tagg": "industri"}
+  ],
+  "process": [
+    {"titel": "Lagergenomgång", "text": "En tekniker går igenom portar, ytterväggar, fläktar och flöden tillsammans med lagerchefen.", "tagg": "industri"},
+    {"titel": "Zonindelning", "text": "Lagret delas in i zoner efter risk, med fler kontrollpunkter vid portar och returer.", "tagg": "kontor"},
+    {"titel": "Daglig eller veckovis kontroll", "text": "Stationerna skannas med streckkod så att varje kontroll registreras med tid och resultat.", "tagg": "skadedjur"},
+    {"titel": "Kvartalsrapport", "text": "Trender per zon och åtgärder sammanställs inför era egna och kundernas revisioner.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mekaniskt först i alla hallar",
+    "text": "I lager med livsmedel och textil använder vi i första hand snapfällor och multifångstfällor. Giftbete placeras bara utomhus i låsta stationer, och sedan 2022 har mängden rodenticid per kontrollpunkt minskat med 74 procent. Våra bilar körs på HVO och el.",
+    "mal": [["74 %", "mindre rodenticid sedan 2022"], ["100 %", "HVO eller el i bilparken"], ["0", "giftbete inne i lagerhallarna"]]
+  },
+  "karriar": {
+    "rubrik": "Bli en del av lagret",
+    "text": "Som platstekniker arbetar du i samma hall varje dag, med lagrets arbetstider och kollegor. Vi söker dig med lagervana eller teknisk bakgrund, och betalar behörighetsutbildningen.",
+    "jobb": [["Platstekniker logistik", "Borås"], ["Platstekniker logistik", "Ulricehamn"], ["Tekniker textil", "Borås"], ["Fastighetstekniker", "Alingsås"]]
+  },
+  "kultur": "Platsteknikerna bär lagrets egna kläder men träffas på kontoret på Viared varje måndag morgon för att jämföra veckans fynd.",
+  "citat": {"text": "Min pappa skyddade ullbalar i textilfabrikerna. Nu skyddar vi returpaket och kashmirtröjor i lager som är större än hela hans fabrik. Mössen och malen är samma, men takten är en helt annan.", "namn": "Karin Rydén", "roll": "Vd, andra generationen", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Att ha Viskans tekniker på plats varje dag gör att vi hittar problemen innan de blir avvikelser. Han kan vårt lager bättre än vissa av våra truckförare.", "namn": "Lagerchef Andreas P.", "ort": "Borås"},
+    {"text": "Rapporterna är det första vår kunds revisor ber om. Vi har aldrig behövt komplettera något.", "namn": "Kvalitetschef Sanna V.", "ort": "Ulricehamn"},
+    {"text": "Klädmalen i ullpartiet hade kostat oss en hel säsong. Viskan frös allt på tre dygn.", "namn": "Daniel K.", "ort": "Borås"}
+  ],
+  "faq": [
+    ["Vad kostar en tekniker på plats?", "Det beror på hallens storlek och antal kontrollpunkter. En heltidstekniker kostar ungefär som en lageranställd, och ersätter då alla externa besök."],
+    ["Hur ofta behöver ett lager kontrolleras?", "Livsmedelslager och lager med leverantörsrevision brukar ha kontroll varje eller varannan vecka. Ett vanligt e-handelslager klarar sig med månatlig kontroll."],
+    ["Kan ni frysa varor åt oss?", "Ja. Vår anläggning i Borås fryser hela pallar på minus 30 grader i 72 timmar, vilket dödar alla stadier av mal och ängrar."],
+    ["Hur fungerar containerinspektionen?", "Vi öppnar containern på er gård, kontrollerar emballage, pallar och dörrtätningar och tar prov om vi hittar något. Vid fynd stoppas godset tills det är behandlat."],
+    ["Klarar era rapporter BRC och IFS?", "Ja, rapporterna följer kraven i BRC Storage and Distribution och IFS Logistics."],
+    ["Arbetar ni utanför Sjuhärad?", "Vi tar logistikkunder i hela Västra Götaland och norra Halland, och textilkunder i hela landet."]
+  ],
+  "certifikat": [
+    {"titel": "CEPA Certified", "text": "Hela företaget är certifierat enligt den europeiska standarden EN 16636 för skadedjursbekämpning.", "ikon": "stjarna"},
+    {"titel": "ISO 9001 och 14001", "text": "Lednings- och miljösystem certifierade sedan 2016, reviderade årligen.", "ikon": "dokument"},
+    {"titel": "Gasningsbehörighet", "text": "Tre tekniker har behörighet för gasning av containrar och varupartier.", "ikon": "skold"},
+    {"titel": "Truckkort och lagersäkerhet", "text": "Alla platstekniker har truckkort och följer kundens säkerhetsrutiner i hallen.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Viared Logistikcenter", "Sjuhärads E-handelslager", "Ulricehamn Nordic Hub", "Borås Ullvaror", "Alingsås Kafferosteri", "Logistikfastigheter Väst AB", "Brf Knalleborg", "Modehuset Tråden"],
+  "nyheter": [
+    ["2026-10-15", "Främmande skalbagge stoppad vid porten", "Så gick det till när en khaprabagge hittades i en container på Viared.", "anlaggning"],
+    ["2026-05-20", "Ny platstekniker i Ulricehamn", "Lager nummer sju får en tekniker på plats varje dag.", "industri"],
+    ["2026-01-29", "Klädmal i lagret – fem varningstecken", "Det här ska lagerpersonalen hålla utkik efter i textilzonen.", "interior"]
+  ],
+  "kontakt": {"adress": "Ryssnäsgatan 6", "postnr": "504 64", "ort": "Borås", "telefon": "070-174 06 61", "epost": "lager@viskanskadedjur.se", "orgnr": ""},
+  "oppettider": "Kontoret mån–fre 7–16. Platsteknikerna enligt lagrets skift.",
+  "omrade": "Sjuhärad, Alingsås och Västra Götaland",
+  "fot_cta": "Öppnar ni nytt lager? Låt oss vara med från första pallen.",
+  "bild": {"panel": "industri", "hb": "skadedjur"},
+  "text": {
+    "ber_rubrik": "Senaste från hallarna",
+    "proj_rubrik": "Lager, terminaler och textil",
+    "proj_rubrik_lista": "Anläggningar under kontroll",
+    "process_rubrik": "Så byggs ett lagerprogram",
+    "hb_etikett": "Ansvar i hallen",
+    "omdomen_rubrik": "Lagerchefer och kvalitetschefer",
+    "faq_rubrik": "Frågor från logistiken",
+    "boka_rubrik": "Boka en lagergenomgång",
+    "boka_text": "Skriv hur stor hallen är, vad ni lagrar och om ni har revisioner från kunder. En tekniker kommer ut inom en vecka.",
+    "boka_falt": ["Namn och företag", "Telefon", "E-post", "Hallens storlek och varor"],
+    "logos_rubrik": "Lager och varumärken vi skyddar",
+    "certifikat_rubrik": "Godkända för revision och gasning",
+    "bolag_rubrik": "Tre bolag i Viskangruppen",
+    "meny_bolag": "Bolagen",
+    "kontakt_knapp": "Boka lagergenomgång",
+    "vagval_etikett": "Anläggningar",
+    "medarbetare": "Plats- och fälttekniker"
+  }
+}

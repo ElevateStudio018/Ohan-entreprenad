@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "begravning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Frykholm Begravning AB",
+  "kortnamn": "Frykholm",
+  "slug": "frykholm",
+  "typ": "Begravningsbyrå med egen ceremonihall i Värmland",
+  "tagline": "Egen ceremonihall",
+  "slogan": "Värmlands största fristående byrå, med en egen ceremonihall vid Klarälven för avsked i alla livsåskådningar.",
+  "hero_rubrik": "En sal vid älven för alla avsked",
+  "hero_text": "Älvsalen i Karlstad har plats för 180 gäster, scen, ljud och bild och fönster mot vattnet. Den bokas av familjer som vill ha en ceremoni utanför kyrkan.",
+  "intro_rubrik": "Från en byrå i Sunne till tre orter",
+  "om": [
+    "Frykholm startades 1981 av Ingvar och Maj Frykholm i Sunne, vid Frykens norra ände. 2004 öppnade sonen Anders ett kontor i Karlstad, och när allt fler familjer ville ha borgerliga ceremonier men saknade lokaler byggde vi 2016 om ett gammalt sågverkskontor vid älven till ceremonihall.",
+    "I dag är vi 32 medarbetare i Karlstad, Sunne och Arvika och ordnar omkring 820 begravningar om året. Ungefär 40 procent av ceremonierna hålls i Älvsalen."
+  ],
+  "vagval_rubrik": "Hur vill ni ta farväl?",
+  "tjanster": [
+    {"titel": "Ceremoni i Älvsalen", "ikon": "hus", "href": "verksamhet.html", "text": "180 sittplatser, flygel, ljud, bild och kistbord – vid Klarälven."},
+    {"titel": "Borgerlig begravning", "ikon": "folk", "href": "verksamhet.html", "text": "Ceremonier utan religiöst innehåll, ledda av tre egna officianter."},
+    {"titel": "Kyrklig begravning", "ikon": "kors", "href": "verksamhet.html", "text": "I Karlstads domkyrka, Sunne kyrka och Värmlands övriga kyrkor."},
+    {"titel": "Humanistisk ceremoni", "ikon": "lampa", "href": "verksamhet.html", "text": "I samarbete med humanistiska officianter i Värmland."},
+    {"titel": "Visning före ceremonin", "ikon": "nyckel", "href": "verksamhet.html", "text": "Ett stilla rum intill salen för familjen före och efter."},
+    {"titel": "Minnesstund i salen", "ikon": "hjarta", "href": "verksamhet.html", "text": "Salen ställs om till dukade bord på trettio minuter."},
+    {"titel": "Livesändning", "ikon": "kamera", "href": "verksamhet.html", "text": "Tre fasta kameror i Älvsalen, med inspelning till familjen."},
+    {"titel": "Boka en visning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Se salen innan ni bestämmer er – vardagar 9–16."}
+  ],
+  "affarsomraden": [
+    {"titel": "Älvsalen", "text": "Ceremonihallen ligger i ett tegelhus från 1890-talet på Älvgatan, med stora fönster mot Klarälven. Den har flygel, mixerbord, projektor och ett kistbord som kan sänkas för den som vill ta farväl vid kistan.", "text2": "Salen har ingen religiös symbolik, men kors, halvmåne eller andra symboler kan ställas fram.", "tagg": "interior"},
+    {"titel": "Borgerliga ceremonier", "text": "Våra tre officianter skriver och leder omkring 300 borgerliga ceremonier om året. De träffar familjen före och bygger ceremonin kring berättelser, musik och tystnad.", "text2": "Officianterna kan även leda ceremonier i hem, trädgårdar och föreningslokaler.", "tagg": "begravning"},
+    {"titel": "Kyrkliga begravningar", "text": "Över hälften av våra begravningar är kyrkliga, i Karlstads domkyrka, Fryksände kyrka, Arvika nya kyrka och ett femtiotal landsortskyrkor. Vi har nära samarbete med pastoraten i Karlstad, Sunne och Arvika.", "text2": "Minnesstunden kan hållas i Älvsalen även när ceremonin varit i kyrkan.", "tagg": "begravning"},
+    {"titel": "Byråerna i Sunne och Arvika", "text": "Sunne är där allt började, och byrån där har kvar sin gamla lokal vid torget. I Arvika öppnade vi 2019 och tar uppdrag ända upp till Glaskogen och norska gränsen.", "text2": "Familjer i Fryksdalen och västra Värmland kan också boka Älvsalen.", "tagg": "begravning"}
+  ],
+  "bolag": [
+    {"namn": "Frykholm Karlstad", "segment": "Älvgatan 9", "rubrik": "Kontor och ceremonihall", "text": "Nitton medarbetare, varav tre officianter, två värdar och tekniker för ljud och bild.", "tagg": "interior"},
+    {"namn": "Frykholm Sunne", "segment": "Torget, Sunne", "rubrik": "Där allt började 1981", "text": "Sex medarbetare som ordnar begravningar i Fryksdalen, från Torsby till Kil.", "tagg": "begravning"},
+    {"namn": "Frykholm Arvika", "segment": "Storgatan, Arvika", "rubrik": "Västra Värmland", "text": "Fem medarbetare för Arvika, Eda och Årjäng.", "tagg": "begravning"},
+    {"namn": "Jour och transport", "segment": "Två chaufförer", "rubrik": "Hela länet", "text": "Hämtar dygnet runt i Värmland och kör familjer som vill till Älvsalen men saknar skjuts.", "tagg": "stad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Tio år med Älvsalen", "text": "Sedan invigningen 2016 har drygt 2 800 ceremonier hållits i salen.", "tagg": "interior"},
+    {"rubrik": "Ny flygel", "text": "En begagnad konsertflygel från en musikskola i Oslo har ersatt det gamla pianot.", "tagg": "interior"},
+    {"rubrik": "Officiant nummer tre", "text": "Tidigare skådespelaren Karin Malm har börjat leda borgerliga ceremonier hos oss.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "180", "enhet": "platser", "etikett": "I Älvsalen"},
+    {"varde": "820", "enhet": "per år", "etikett": "Begravningar"},
+    {"varde": "2 800", "enhet": "", "etikett": "Ceremonier i salen sedan 2016"},
+    {"varde": "32", "enhet": "", "etikett": "Medarbetare på tre orter"}
+  ],
+  "projekt": [
+    {"namn": "Ceremoni i Älvsalen", "ort": "Karlstad", "typ": "Borgerlig begravning", "ar": "2025", "text": "En hockeyspelare från 1970-talet – gamla lagkamrater stod längs väggarna i klubbtröjor.", "tagg": "interior"},
+    {"namn": "Jordfästning i Fryksände kyrka", "ort": "Sunne", "typ": "Kyrklig begravning", "ar": "2025", "text": "En spelman från Fryksdalen, med fiollåtar och minnesstund i hembygdsgården.", "tagg": "begravning"},
+    {"namn": "Humanistisk ceremoni", "ort": "Karlstad", "typ": "Humanistisk begravning", "ar": "2025", "text": "En läkare som hade skrivit sin egen ceremoni – officianten läste hennes ord.", "tagg": "begravning"},
+    {"namn": "Livesänd ceremoni till Australien", "ort": "Karlstad", "typ": "Borgerlig begravning", "ar": "2024", "text": "Klockan nio på morgonen i Karlstad, sex på kvällen i Perth – 70 personer följde sändningen.", "tagg": "people"},
+    {"namn": "Begravning vid norska gränsen", "ort": "Eda", "typ": "Kyrklig begravning", "ar": "2024", "text": "Norsk och svensk släkt i Eda kyrka, med psalmer på båda språken.", "tagg": "begravning"},
+    {"namn": "Minnesstund efter domkyrkan", "ort": "Karlstad", "typ": "Minnesstund", "ar": "2026", "text": "Ceremoni i domkyrkan och därefter 140 gäster vid dukade bord i Älvsalen.", "tagg": "people", "status": "Genomförd"}
+  ],
+  "process": [
+    {"titel": "Kyrka eller sal?", "text": "Vi börjar med att fråga vilken livsåskådning den som dött hade och vad familjen känner sig hemma i.", "tagg": "begravning"},
+    {"titel": "Se lokalen", "text": "Familjer som funderar på Älvsalen får komma och se den, sitta i bänkarna och höra hur flygeln låter.", "tagg": "interior"},
+    {"titel": "Officianten", "text": "Väljer ni en borgerlig ceremoni träffar ni officianten en eller två gånger för att bygga ceremonin.", "tagg": "people"},
+    {"titel": "Dagen i salen", "text": "Värdarna tar emot gästerna, teknikern sköter ljud och bild och rådgivaren håller ihop allt.", "tagg": "interior"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett rum utan förutsättningar",
+    "text": "Fyra av tio svenskar tillhör inte Svenska kyrkan, och många saknar en självklar plats för ett avsked. Älvsalen är öppen för alla livsåskådningar, och hyran ingår för familjer som har sin begravning hos oss. Huset värms med fjärrvärme och salen har LED-belysning.",
+    "mal": [["0 kr", "i hyra för Älvsalen vid begravning hos oss"], ["30 min", "att ställa om till minnesstund"], ["3", "egna officianter"]]
+  },
+  "karriar": {
+    "rubrik": "Vill du hålla i ceremonier?",
+    "text": "Vi söker personer som kan stå framför 180 sörjande och tala lugnt, och rådgivare som vill arbeta i Värmland. Nya officianter går bredvid en erfaren kollega i ett halvår.",
+    "jobb": [["Officiant, deltid", "Karlstad"], ["Begravningsrådgivare", "Arvika"], ["Värd och tekniker, Älvsalen", "Karlstad"]]
+  },
+  "kultur": "Varje månad har vi en kväll i Älvsalen där personalen övar på svåra samtal tillsammans med en skådespelare.",
+  "citat": {"text": "Folk som inte var troende fick hålla till i kapell med ett kors de inte ville ha, eller i en hyrd festlokal. Vi ville ge dem ett riktigt rum.", "namn": "Anders Frykholm", "roll": "Vd, andra generationen", "tagg": "interior"},
+  "omdomen": [
+    {"text": "Pappa var inte kyrklig. I Älvsalen kunde vi ha hans favoritlåtar, bilder på väggen och utsikt över älven han fiskat i.", "namn": "Marie G.", "ort": "Karlstad"},
+    {"text": "Officianten träffade oss två gånger och fick med allt vi berättade. Det kändes inte som en mall.", "namn": "Henrik S.", "ort": "Kil"},
+    {"text": "Ceremonin var i Fryksände kyrka och minnesstunden i Älvsalen. Frykholm skötte bussen mellan Sunne och Karlstad.", "namn": "Gunnel P.", "ort": "Sunne"}
+  ],
+  "faq": [
+    ["Kan vem som helst ha en ceremoni i Älvsalen?", "Ja, oavsett tro eller livsåskådning. Salen är kostnadsfri för familjer som har begravningen hos oss, och kan hyras av andra byråer för 6 500 kronor."],
+    ["Måste en borgerlig ceremoni ha en officiant?", "Nej, en familjemedlem eller vän kan leda den. Men många uppskattar att någon van håller i tiden och orden."],
+    ["Kan kistan stå i salen under minnesstunden?", "Ja, om ni vill. Annars förs den ut under en kort paus medan salen ställs om."],
+    ["Vad är skillnaden mellan borgerlig och humanistisk ceremoni?", "En borgerlig ceremoni saknar religiöst innehåll. En humanistisk ceremoni utgår dessutom uttryckligen från en humanistisk livssyn och leds av en officiant från den rörelsen."],
+    ["Kan vi spela vår egen musik?", "Ja, från telefon, dator eller levande. Flygeln och ljudanläggningen finns på plats och teknikern hjälper till."],
+    ["Ordnar ni begravningar i hela Värmland?", "Ja, från kontoren i Karlstad, Sunne och Arvika täcker vi hela länet."]
+  ],
+  "certifikat": [
+    {"titel": "SBF-auktoriserad", "text": "Alla tre byråer är auktoriserade av Sveriges Begravningsbyråers Förbund.", "ikon": "skold"},
+    {"titel": "Brandskydd och tillgänglighet", "text": "Älvsalen är godkänd för 180 personer och anpassad för rullstol och hörselslinga.", "ikon": "hus"},
+    {"titel": "STIM-licens", "text": "Licens för musik och livesändning från Älvsalen.", "ikon": "megafon"},
+    {"titel": "Allmänna bestämmelser", "text": "Avtalen följer bestämmelserna för begravningstjänster som tagits fram med Konsumentverket.", "ikon": "dokument"}
+  ],
+  "kunder": ["Karlstads pastorat", "Fryksände församling", "Humanisterna Värmland", "Färjestads Veteranklubb", "Brf Älvkanten", "Arvika Konstnärsförening", "Sunne Hembygdsförening"],
+  "nyheter": [
+    ["2026-09-10", "Älvsalen fyller tio år", "Öppet hus den 3 oktober med visning, kaffe och flygelmusik.", "interior"],
+    ["2026-03-25", "Karin Malm blir officiant", "Skådespelaren från Värmlandsoperan börjar leda borgerliga ceremonier.", "people"],
+    ["2025-10-14", "Så planerar man en borgerlig ceremoni", "Fem frågor att fundera på innan mötet med officianten.", "begravning"]
+  ],
+  "kontakt": {"adress": "Älvgatan 9", "postnr": "652 25", "ort": "Karlstad", "telefon": "070-174 06 77", "epost": "kontakt@frykholm.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–17, Älvsalen även kvällar och lördagar, jour dygnet runt",
+  "omrade": "Hela Värmland, med kontor i Karlstad, Sunne och Arvika",
+  "fot_cta": "Vill ni se Älvsalen innan ni bestämmer er? Ring så visar vi den.",
+  "text": {
+    "hero_knapp": "Se Älvsalen",
+    "kontakt_knapp": "Boka visning",
+    "ber_etikett": "Från Älvgatan",
+    "ber_rubrik": "Senaste från salen och byråerna",
+    "proj_etikett": "Ceremonier",
+    "proj_rubrik": "Avsked i sal och kyrka",
+    "status_klart": "Genomförd",
+    "process_etikett": "I Älvsalen",
+    "process_rubrik": "Från livsåskådning till ceremoni",
+    "hb_etikett": "Öppet för alla",
+    "bolag_rubrik": "Tre byråer och en jourenhet",
+    "omdomen_rubrik": "Värmländska familjer berättar",
+    "faq_rubrik": "Frågor om salen och ceremonierna",
+    "boka_rubrik": "Boka en visning av Älvsalen",
+    "boka_text": "Föreslå en dag så visar en värd salen och svarar på frågor – utan att ni förbinder er till något.",
+    "boka_falt": ["Namn", "Telefon", "Önskad dag", "Vad funderar ni på?"],
+    "logos_rubrik": "Församlingar och föreningar i Värmland",
+    "certifikat_rubrik": "Godkända för ceremoni och sändning",
+    "ny_rubrik": "Nytt från Frykholm",
+    "panel_etikett": "Arbeta på Frykholm"
+  }
+}

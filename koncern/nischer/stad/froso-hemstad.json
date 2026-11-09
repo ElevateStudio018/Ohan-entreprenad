@@ -19,9 +19,9 @@
   "tjanster": [
     {"titel": "Hemstäd varannan vecka", "ikon": "hem", "href": "verksamhet.html", "text": "Tre timmar med dammsugning, våttorkning, kök, badrum och bäddning med rena lakan."},
     {"titel": "Byte av gardiner", "ikon": "sol", "href": "verksamhet.html", "text": "Vi tar ner, tvättar och hänger upp gardinerna inför jul och sommar."},
-    {"titel": "Fönsterputs", "ikon": "stjarna", "href": "verksamhet.html", "text": "Fönster och glasrutor på inglasad balkong, vår och höst."},
+    {"titel": "Fönster vår och höst", "ikon": "stjarna", "href": "verksamhet.html", "text": "Fönster och glasrutor på inglasad balkong, vår och höst."},
     {"titel": "Storstäd en gång om året", "ikon": "kalender", "href": "verksamhet.html", "text": "Skåp, lampor, element och bakom möbler, som tillägg till den vanliga städningen."},
-    {"titel": "Tvätt och strykning", "ikon": "vatten", "href": "verksamhet.html", "text": "Vi tvättar och viker i din tvättmaskin medan vi städar, med RUT-avdrag."},
+    {"titel": "Tvätta och vika", "ikon": "vatten", "href": "verksamhet.html", "text": "Vi tvättar och viker i din tvättmaskin medan vi städar, med RUT-avdrag."},
     {"titel": "Hjälp med små sysslor", "ikon": "lampa", "href": "verksamhet.html", "text": "Byta glödlampa, vattna blommor och bära ut pappersåtervinning."},
     {"titel": "Anhörigkontakt", "ikon": "telefon", "href": "verksamhet.html", "text": "Vi kan skicka ett sms till barn eller barnbarn efter varje besök."},
     {"titel": "Gratis hembesök", "ikon": "hjarta", "href": "om-oss.html#kontakt", "text": "Maria kommer hem till dig, dricker kaffe och berättar hur det går till."}
@@ -46,7 +46,7 @@
     {"varde": "180", "enhet": "hem", "etikett": "Städas regelbundet"},
     {"varde": "81", "enhet": "år", "etikett": "Medelålder bland kunderna"},
     {"varde": "1", "enhet": "städare", "etikett": "Samma person vid varje besök"},
-    {"varde": "295 kr", "enhet": "", "etikett": "Per timme efter RUT"}
+    {"varde": "295 kr", "enhet": "", "etikett": "Timpris när RUT är avdraget"}
   ],
   "projekt": [
     {"namn": "Gunnel, 88 år", "ort": "Frösön", "typ": "Hemstäd varannan vecka", "ar": "2026", "text": "Samma städare sedan 2019, med gardinbyte två gånger om året.", "tagg": "hem", "status": "Pågående"},
@@ -54,7 +54,7 @@
     {"namn": "Astrid, 93 år", "ort": "Brunflo", "typ": "Storstäd och gardiner", "ar": "2025", "text": "Gård med fyra rum som storstädades inför hennes 93-årsdag.", "tagg": "hem"},
     {"namn": "Karl-Erik, 79 år", "ort": "Östersund, Torvalla", "typ": "Hemstäd med anhörigkontakt", "ar": "2025", "text": "Dottern i Stockholm får ett sms efter varje besök.", "tagg": "people"},
     {"namn": "Margareta, 84 år", "ort": "Frösön, Valla", "typ": "Tvätt och hemstäd", "ar": "2025", "text": "Tvätt och strykning görs medan städningen pågår.", "tagg": "stadning"},
-    {"namn": "Sven och Gerd", "ort": "Ås", "typ": "Fönsterputs", "ar": "2024", "text": "Tjugotvå fönster och en glasveranda med utsikt över Storsjön.", "tagg": "natur"}
+    {"namn": "Sven och Gerd", "ort": "Ås", "typ": "Fönster och glasveranda", "ar": "2024", "text": "Tjugotvå fönster och en glasveranda med utsikt över Storsjön.", "tagg": "natur"}
   ],
   "process": [
     {"titel": "Kaffe hemma hos dig", "text": "Maria kommer på ett första besök, utan kostnad, och lyssnar på vad du behöver.", "tagg": "people"},
@@ -73,7 +73,7 @@
     "jobb": [["Hemstädare 75–100 %", "Östersund"], ["Hemstädare 50 %", "Brunflo"]]
   },
   "kultur": "Varje torsdag samlas alla städare till lunch vid Frösö torg och berättar om veckan.",
-  "citat": {"text": "I hemtjänsten hade jag tolv minuter per besök. Här har vi tre timmar, och då hinner man märka om någon har slutat äta ordentligt.", "namn": "Maria Persson", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "I hemtjänsten hade jag tolv minuter per besök. Här har vi tre timmar, och då hinner man märka om någon har slutat äta ordentligt.", "namn": "Maria Persson", "roll": "Grundare, tidigare i hemtjänsten", "tagg": "people"},
   "omdomen": [
     {"text": "Lena är som en dotter för mig nu. Hon vet var jag har allting och vilka blommor som inte tål för mycket vatten.", "namn": "Gunnel A.", "ort": "Frösön"},
     {"text": "Jag bor i Stockholm och får ett sms varannan tisdag om att pappa har det bra. Det är värt mer än städningen.", "namn": "Annika W.", "ort": "Torvalla"},
@@ -86,10 +86,10 @@
     ["Kan mina barn boka och betala åt mig?", "Ja, men RUT-avdraget måste kopplas till den som bor i hemmet och betalar. Vi hjälper till att reda ut det."],
     ["Hur förvarar ni min nyckel?", "I ett kodlåst nyckelskåp på kontoret, märkt med nummer och inte med namn eller adress."],
     ["Kan jag pausa städningen?", "Ja, till exempel vid sjukhusvistelse eller när du reser bort. Det kostar ingenting och din tid finns kvar när du kommer hem."],
-    ["Har ni bindningstid?", "Nej. Du kan säga upp med två veckors varsel."]
+    ["Hur lätt är det att säga upp?", "Nej. Du kan säga upp med två veckors varsel."]
   ],
   "priser": [
-    {"namn": "Varannan vecka", "pris": "885 kr", "enhet": "per besök efter RUT, 3 timmar", "text": "Det vanligaste upplägget.", "punkter": ["Fast städare och ersättare", "Bäddning med rena lakan", "Små sysslor ingår", "Samma dag och tid"], "utvald": true},
+    {"namn": "Var fjortonde dag", "pris": "885 kr", "enhet": "per besök efter RUT, 3 timmar", "text": "Det vanligaste upplägget.", "punkter": ["Fast städare och ersättare", "Bäddning med rena lakan", "Små sysslor ingår", "Samma dag och tid"], "utvald": true},
     {"namn": "Varje vecka", "pris": "590 kr", "enhet": "per besök efter RUT, 2 timmar", "text": "För dig som vill ha besök oftare.", "punkter": ["Kortare men tätare besök", "Fast städare och ersättare", "Tvätt kan läggas till", "Anhörigsms ingår"]},
     {"namn": "Säsongsbesök", "pris": "fr. 1 180 kr", "enhet": "efter RUT, minst 4 timmar", "text": "Gardiner, fönster och storstäd vår och höst.", "punkter": ["Byte av gardiner", "Fönster in- och utvändigt", "Element och lampor", "Egen stege medtas"]}
   ],
@@ -112,13 +112,13 @@
   "bild": {"panel": "people", "hb": "hem"},
   "text": {
     "hero_knapp": "Det här hjälper vi till med",
-    "kontakt_knapp": "Boka hembesök",
+    "kontakt_knapp": "Bjud hem Maria",
     "hero_lank": "Våra kunder",
     "vagval_etikett": "Hemma",
     "ber_rubrik": "Små nyheter från Frösön",
     "proj_rubrik": "Hem vi besöker",
     "process_rubrik": "Från kaffe till fast tid",
-    "hb_etikett": "Trygghet",
+    "hb_etikett": "Tid och omtanke",
     "omdomen_rubrik": "Kunder och anhöriga",
     "faq_rubrik": "Det äldre och anhöriga undrar",
     "priser_rubrik": "Vad det kostar efter RUT",
@@ -129,6 +129,6 @@
     "certifikat_rubrik": "Trygghet i hemmet",
     "bolag_rubrik": "Tre områden runt Storsjön",
     "ny_rubrik": "Från kontoret vid torget",
-    "medarbetare": "Städarna"
+    "medarbetare": "Hemstädarna runt Storsjön"
   }
 }
