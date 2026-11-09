@@ -1172,3 +1172,8 @@ body[data-rubrik="kant"] .sek-huvud .etikett { color: inherit; opacity: .7; }
 @media (min-width: 900px) { body[data-rubrik="kant"] .sek-huvud > div { display: grid; grid-template-columns: 220px 1fr; gap: 32px; align-items: baseline; } body[data-rubrik="kant"] .sek-huvud h2 { max-width: 20em; } }
 /* Kursiv rubrikstil när paret har kursiv (data-kursiv="1") */
 body[data-kursiv="1"] .sek-huvud h2 em, body[data-kursiv="1"] h1 em { font-style: italic; }
+/* v7: kontrast på mörka och färgade sektioner */
+.pa-mork .textlank, .pa-farg .textlank { color: inherit; }
+.pa-farg .knapp-primar { background: var(--c-a); border-color: var(--c-a); color: var(--c-a-ink); }
+.pa-mork .knapp-primar { background: var(--c-a); border-color: var(--c-a); color: var(--c-a-ink); }
+.pa-mork .knapp-kontur, .pa-farg .knapp-kontur { color: inherit; border-color: currentColor; }
