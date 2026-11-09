@@ -3950,7 +3950,7 @@ body[data-kursiv="1"] .sek-huvud h2 em, body[data-kursiv="1"] h1 em { font-style
 .pa-farg .hv, .pa-mork .hv { --hv-mut: color-mix(in srgb, currentColor 76%, transparent); --hv-linje: color-mix(in srgb, currentColor 24%, transparent); --hv-rubrik: currentColor; --hv-kort: color-mix(in srgb, currentColor 9%, transparent); --hv-accent: var(--c-a); }
 .pa-farg .hv { --hv-bg: var(--c-p); }
 .pa-mork .hv { --hv-bg: var(--c-dark); }
-.hv h3 { overflow-wrap: break-word; hyphens: auto; }
+.hv h3, .hpd-t b, .hsb-fot b, .hsf-t b { overflow-wrap: anywhere; hyphens: auto; }
 .hv blockquote, .hcs blockquote, .hcp blockquote { margin: 0; }
 .pa-mork .hv .textlank, .pa-farg .hv .textlank { color: inherit; }
 .pa-mork .hv .knapp-primar, .pa-farg .hv .knapp-primar { background: var(--c-a); border-color: var(--c-a); color: var(--c-a-ink); }
@@ -3963,7 +3963,7 @@ body[data-kursiv="1"] .sek-huvud h2 em, body[data-kursiv="1"] h1 em { font-style
 .hsb-ruta:nth-child(2) { grid-column: 1 / -1; background: var(--c-dark); color: var(--c-dark-ink); }
 .hsb-ruta:nth-child(4) { background: var(--c-a); color: var(--c-a-ink); }
 .pa-farg .hsb-ruta:nth-child(1) { background: var(--c-bg); color: var(--c-ink); }
-.pa-mork .hsb-ruta:nth-child(2) { background: var(--c-p); color: var(--c-p-ink); }
+.pa-mork .hsb-ruta:nth-child(2) { background: var(--c-bg); color: var(--c-ink); }
 .pa-farg .hsb-ruta:nth-child(n+3):not(:nth-child(4)), .pa-mork .hsb-ruta:nth-child(n+3):not(:nth-child(4)) { color: inherit; }
 .hsb-ruta:nth-child(n+4) { grid-column: 1 / -1; }
 .hsb-topp { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
@@ -4155,7 +4155,7 @@ body[data-kursiv="1"] .sek-huvud h2 em, body[data-kursiv="1"] h1 em { font-style
 .hps-nr { flex: none; min-width: 1.5em; font: var(--w-r) clamp(30px, 3vw, 46px)/1 var(--font-r); letter-spacing: var(--tr-r); color: var(--hv-accent); font-variant-numeric: tabular-nums; }
 .hps-bar { display: block; height: 12px; width: calc(var(--h) * 1%); border-radius: 0 var(--r-card) var(--r-card) 0; background: color-mix(in srgb, var(--c-p) calc(var(--h) * 1%), var(--c-ton)); }
 .pa-ton .hps-bar, .pa-yta .hps-bar { background: color-mix(in srgb, var(--c-p) calc(var(--h) * 1%), var(--c-bg)); }
-.pa-farg .hps-bar, .pa-mork .hps-bar { background: color-mix(in srgb, var(--c-a) calc(var(--h) * 1%), transparent); }
+.pa-farg .hps-bar, .pa-mork .hps-bar { background: color-mix(in srgb, currentColor calc(var(--h) * .55%), transparent); }
 .hps li:last-child .hps-bar { background: var(--c-p); }
 .pa-farg .hps li:last-child .hps-bar, .pa-mork .hps li:last-child .hps-bar { background: var(--c-a); }
 .hps-text h3 { color: var(--hv-rubrik); }
@@ -4218,6 +4218,8 @@ body[data-kursiv="1"] .sek-huvud h2 em, body[data-kursiv="1"] h1 em { font-style
 .hpp li > p { padding-inline: 4px; color: var(--hv-mut); font-size: 16px; line-height: 1.6; }
 @media (min-width: 900px) {
   .hpp { grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 6px; }
+  .hpp.n5, .hpp.n6, .hpp.n7, .hpp.n8 { grid-auto-flow: row; grid-template-columns: repeat(3, minmax(0, 1fr)); row-gap: 36px; }
+  .hpp.n7, .hpp.n8 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
   .hpp-pil { min-height: 150px; padding: 26px 44px 26px 52px; clip-path: polygon(0 0, calc(100% - 28px) 0, 100% 50%, calc(100% - 28px) 100%, 0 100%, 28px 50%); }
   .hpp li:first-child .hpp-pil { padding-left: 30px; clip-path: polygon(0 0, calc(100% - 28px) 0, 100% 50%, calc(100% - 28px) 100%, 0 100%); }
   .hpp li > p { padding: 10px 40px 0 30px; }
