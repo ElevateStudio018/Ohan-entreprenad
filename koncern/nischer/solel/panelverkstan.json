@@ -1,0 +1,139 @@
+{
+  "profil": "nisch",
+  "nisch": "solel",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hornslandets Panelverkstad AB",
+  "kortnamn": "Panelverkstan",
+  "slug": "panelverkstan",
+  "typ": "Återbruk och flytt av solceller i Hälsingland",
+  "tagline": "Andra livet för paneler",
+  "slogan": "Vi lyfter av paneler vid takbyte, flyttar anläggningar, testar begagnade moduler och säljer dem vidare – så att färre fungerande paneler blir skrot.",
+  "hero_rubrik": "En panel från 2014 har tjugo år kvar",
+  "hero_text": "Vi demonterar, testar och återmonterar solceller. Varje panel som lämnar verkstaden i Hudiksvall har ett eget testprotokoll med uppmätt effekt.",
+  "intro_rubrik": "Sju personer, en testrigg och 9 000 paneler",
+  "om": [
+    "Ola Sundin har lagt tak i Hälsingland sedan 90-talet. När kunderna började få solceller på taken blev takbytena krångligare – ingen installatör ville komma tillbaka och lyfta av panelerna, och den som gjorde det tog betalt som för en ny anläggning. 2021 startade han Panelverkstan tillsammans med elektrikern Sanna Holm.",
+    "I dag är vi sju personer med verkstad på Håsta industriområde i Hudiksvall. Vi har en egen testrigg som mäter varje panels effekt och isolation, och vi har hittills hanterat 9 000 paneler – 81 procent av dem sitter i dag på ett nytt eller samma tak."
+  ],
+  "vagval_rubrik": "Vad ska hända med panelerna?",
+  "tjanster": [
+    {"titel": "Av och på vid takbyte", "ikon": "hamare", "href": "verksamhet.html", "text": "Vi lyfter av, förvarar och monterar tillbaka panelerna när taket är klart."},
+    {"titel": "Flytt av anläggning", "ikon": "bil", "href": "verksamhet.html", "text": "Från sålt hus till nytt hus, eller från garage till ladugård."},
+    {"titel": "Testade begagnade paneler", "ikon": "sol", "href": "priser.html", "text": "Paneler med uppmätt effekt och sex månaders garanti."},
+    {"titel": "Testrigg och mätning", "ikon": "graf", "href": "verksamhet.html", "text": "IV-kurva, isolationsmätning och elektroluminescens på varje panel."},
+    {"titel": "Uttjänta paneler", "ikon": "lov", "href": "verksamhet.html", "text": "Det som inte går att använda lämnas till producentansvaret."},
+    {"titel": "Stuga och friggebod", "ikon": "hus", "href": "verksamhet.html", "text": "Små anläggningar av begagnade paneler för fritidshus."},
+    {"titel": "Prislista", "ikon": "dokument", "href": "priser.html", "text": "Fasta priser för av- och påmontering per panel."},
+    {"titel": "Ring Ola", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Han svarar oftast från ett tak, men han svarar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Takbyte med solceller", "text": "Ett tak med solceller kan bytas utan att anläggningen förstörs. Vi demonterar, märker varje panel och sträng, förvarar dem inomhus och monterar tillbaka när takläggaren är klar.", "text2": "Vi samarbetar med fyra takläggare i Hälsingland men kommer till alla.", "tagg": "tak"},
+    {"titel": "Flytt av hela anläggningar", "text": "När ett hus säljs vill säljaren ibland ta med sig solcellerna. Vi flyttar paneler, växelriktare och ställ och bygger upp anläggningen på nytt med ny elanmälan.", "text2": "Det kostar oftast en tredjedel av en ny anläggning av samma storlek.", "tagg": "solel"},
+    {"titel": "Begagnade paneler", "text": "Paneler från nedmonterade anläggningar testas i vår rigg och sorteras efter uppmätt effekt. De säljs till stugägare, föreningar och hobbybyggare.", "text2": "Varje panel har ett testprotokoll och sex månaders garanti.", "tagg": "el"},
+    {"titel": "Återvinning när det är slut", "text": "Paneler med sprickor, delaminering eller för låg effekt demonteras och lämnas till återvinning. Aluminiumramar och kablar sorteras separat.", "text2": "Ingen panel lämnar oss utan att ha testats först.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Ola Sundin", "segment": "Takläggare och grundare", "rubrik": "Trettio år på hälsingetak", "text": "Ola leder demontering och återmontering och vet hur man lyfter av en panel utan att knäcka en takpanna.", "tagg": "tak"},
+    {"namn": "Sanna Holm", "segment": "Elektriker och delägare", "rubrik": "Testriggen är hennes", "text": "Sanna har byggt testriggen och mäter varje panel innan den säljs eller monteras igen.", "tagg": "el"},
+    {"namn": "Montagelaget", "segment": "Tre montörer och en lärling", "rubrik": "Av på måndag, på igen på fredag", "text": "Hampus, Elin, Mohammed och lärlingen Viktor sköter av- och påmontering i hela Hälsingland.", "tagg": "solel"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fyrtio paneler flyttade från Delsbo till Forsa", "text": "Familjen sålde huset men behöll solcellerna – nu sitter de på deras nya ladugård.", "tagg": "solel"},
+    {"rubrik": "9 000 paneler genom riggen", "text": "81 procent av alla paneler vi har testat har fått sitta kvar eller ett nytt tak.", "tagg": "el"},
+    {"rubrik": "Takbyte i Iggesund på fyra dagar", "text": "Panelerna förvarades i verkstaden under tiden – inte en enda skadad.", "tagg": "tak"}
+  ],
+  "nyckeltal": [
+    {"varde": "9 000", "enhet": "paneler", "etikett": "Testade i vår rigg"},
+    {"varde": "81 %", "enhet": "", "etikett": "Har fått sitta kvar eller flytta"},
+    {"varde": "7", "enhet": "personer", "etikett": "Takläggare, elektriker, montörer"},
+    {"varde": "92 %", "enhet": "", "etikett": "Snitteffekt kvar på 10 år gamla paneler"}
+  ],
+  "projekt": [
+    {"namn": "Flytt Delsbo–Forsa", "ort": "Forsa", "typ": "Flytt, 40 paneler", "ar": "2025", "text": "Anläggningen följde med familjen till den nya gården.", "tagg": "solel"},
+    {"namn": "Takbyte i Iggesund", "ort": "Iggesund", "typ": "Av och på, 32 paneler", "ar": "2025", "text": "Betongpannor byttes mot plåt – panelerna förvarades i verkstaden.", "tagg": "tak"},
+    {"namn": "Ljusdals Stugby", "ort": "Ljusdal", "typ": "Begagnade paneler", "ar": "2025", "text": "Tolv stugor fick små anläggningar av testade paneler från 2015.", "tagg": "hem"},
+    {"namn": "Bollnäs Lantmannagård", "ort": "Bollnäs", "typ": "Demontering, 180 paneler", "ar": "2024", "text": "Ladan revs – 150 paneler återbrukades och 30 gick till återvinning.", "tagg": "anlaggning"},
+    {"namn": "Brf Strandvallen", "ort": "Hudiksvall", "typ": "Takomläggning, 96 paneler", "ar": "2024", "text": "Paneler av, papptak omlagt, paneler på – på elva arbetsdagar.", "tagg": "bostad"},
+    {"namn": "Hornslandets Kapell", "ort": "Hornslandet", "typ": "Begagnad anläggning", "ar": "2026", "text": "Församlingen får tolv testade paneler till kapellets uthus.", "tagg": "natur", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Bilder och märke", "text": "Skicka foton på taket och panelernas märkskylt så ger vi ett pris per panel.", "tagg": "tak"},
+    {"titel": "Demontering och märkning", "text": "Varje panel och sträng numreras så att allt hamnar på rätt plats igen.", "tagg": "solel"},
+    {"titel": "Test i riggen", "text": "Effekt, isolation och mikrosprickor kontrolleras. Underkända paneler sorteras bort.", "tagg": "el"},
+    {"titel": "Återmontering och elanmälan", "text": "Vi monterar på samma eller nytt tak och sköter anmälan till nätbolaget.", "tagg": "solel"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Den mest klimatsmarta panelen finns redan",
+    "text": "En ny panel bär med sig hundratals kilo koldioxid från tillverkningen. En begagnad panel som fortfarande ger 90 procent av sin effekt har redan betalat av den skulden. Vi låter den fortsätta producera.",
+    "mal": [["81 %", "av hanterade paneler återbrukas"], ["100 %", "av paneler testas innan de säljs"], ["0", "paneler till deponi"]]
+  },
+  "karriar": {"rubrik": "Vi letar efter en elektriker till", "text": "Vi behöver en elektriker som vill arbeta både på tak och i testverkstaden. Fast tjänst, dagtid och ingen övernattning.", "jobb": [["Elektriker", "Hudiksvall"]]},
+  "kultur": "Varje panel som klarar testet får ett klistermärke med Sannas initialer – vi har delat ut över 7 000.",
+  "citat": {"text": "Jag har burit ner fullt fungerande paneler från tak och sett dem åka till skroten för att ingen ville lägga tillbaka dem. Det var det som fick mig att starta.", "namn": "Ola Sundin", "roll": "Grundare och takläggare", "tagg": "tak"},
+  "omdomen": [
+    {"text": "Takläggaren ville inte röra panelerna. Panelverkstan lyfte av dem på en dag och lade tillbaka dem när plåten var klar.", "namn": "Kerstin Å.", "ort": "Iggesund"},
+    {"text": "Vi tog med solcellerna när vi flyttade. Det kostade en tredjedel av en ny anläggning och de producerar som förut.", "namn": "Daniel och Lisa P.", "ort": "Forsa"},
+    {"text": "Testprotokollet visade 94 procent av märkeffekten på varje panel. Mer än vi vågat hoppas på för stugan.", "namn": "Hans-Olov B.", "ort": "Ljusdal"}
+  ],
+  "faq": [
+    ["Går garantin förlorad om panelerna flyttas?", "Tillverkarens produktgaranti gäller oftast om flytten görs av en behörig installatör. Vi dokumenterar demontering och test så att garantin kan åberopas."],
+    ["Hur länge kan panelerna förvaras?", "Hur länge som helst, om de förvaras torrt och stående. Vi har plats för 600 paneler i verkstaden och tar 20 kronor per panel och månad efter första månaden."],
+    ["Kan ni flytta vilken anläggning som helst?", "De flesta. Äldre växelriktare kan behöva bytas för att uppfylla dagens krav vid ny anmälan till nätbolaget."],
+    ["Vad betyder testprotokollet?", "Det visar uppmätt effekt i förhållande till märkeffekt, isolationsresistans och om panelen har mikrosprickor. Paneler under 80 procent säljer vi inte."],
+    ["Får man grönt avdrag för flytt?", "Det beror på uppdraget. Vi går igenom vad som gäller för just din flytt och skriver i offerten om arbetet ger grönt avdrag eller ROT."],
+    ["Köper ni begagnade paneler?", "Ja, efter test. Vi betalar efter uppmätt effekt eller hämtar dem gratis för återvinning om de inte håller måttet."]
+  ],
+  "priser": [
+    {"namn": "Av och på vid takbyte", "pris": "fr. 650 kr", "enhet": "per panel", "text": "Demontering, förvaring och återmontering.", "punkter": ["Märkning av panel och sträng", "Förvaring i en månad", "Isolationsmätning före återmontering", "Ny driftsättning"], "utvald": true},
+    {"namn": "Flytt av anläggning", "pris": "fr. 950 kr", "enhet": "per panel", "text": "Från ett tak till ett annat.", "punkter": ["Demontering och transport", "Test av varje panel", "Nytt montage och ställ vid behov", "Anmälan till nätbolaget"]},
+    {"namn": "Testad begagnad panel", "pris": "fr. 390 kr", "enhet": "per panel", "text": "Sorterad efter uppmätt effekt.", "punkter": ["Testprotokoll medföljer", "Minst 80 % av märkeffekt", "Sex månaders garanti", "Hämtas i verkstaden"]}
+  ],
+  "prislista": [["Test av panel, per styck", "120 kr"], ["Förvaring efter första månaden", "20 kr/panel/mån"], ["Demontering för återvinning", "fr. 180 kr/panel"], ["Byte av växelriktare vid flytt", "fr. 14 500 kr"], ["Utryckning inom Hudiksvall", "ingår"], ["Utryckning övriga Hälsingland", "650 kr"]],
+  "certifikat": [
+    {"titel": "Elinstallatör med B-auktorisation", "text": "Sanna har auktorisation B från Elsäkerhetsverket och ansvarar för all elektrisk återmontering.", "ikon": "blixt"},
+    {"titel": "Plåt- och takläggarbrev", "text": "Ola har yrkesbevis som takläggare och ansvarar för att tätskiktet blir rätt efter demontering.", "ikon": "hamare"},
+    {"titel": "Ansluten till El-Kretsen", "text": "Paneler som inte klarar testet lämnas till producentansvarets insamling.", "ikon": "lov"},
+    {"titel": "Fallskydd och liftkort", "text": "Liftkort för skylift och mobila arbetsplattformar, och utbildning i fallskydd för hela laget.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Brf Strandvallen Hudiksvall", "Ljusdals Stugby AB", "Bollnäs Lantmannagård", "Hornslandets Församling", "Iggesunds Takservice", "Delsbo Bygdegård", "Forsa Hästgård"],
+  "nyheter": [
+    ["2026-09-22", "380 paneler till salu", "Höstens demonteringar har gett ett stort lager av testade paneler.", "el"],
+    ["2026-05-05", "Ny kamera för elektroluminescens", "Nu syns mikrosprickor som tidigare inte gick att upptäcka.", "solel"],
+    ["2026-01-19", "Planerar du takbyte i sommar?", "Boka av- och påmontering samtidigt som takläggaren.", "tak"]
+  ],
+  "kontakt": {"adress": "Håstaholmen 6", "postnr": "824 34", "ort": "Hudiksvall", "telefon": "070-174 06 66", "epost": "ola@panelverkstan.se", "orgnr": ""},
+  "oppettider": "Verkstaden mån–fre 07–16, panelförsäljning tors 15–18",
+  "omrade": "Hälsingland och norra Gästrikland",
+  "fot_cta": "Ska taket bytas? Ring Panelverkstan innan takläggaren kommer.",
+  "bild": {"panel": "tak", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Ring Ola",
+    "hero_knapp": "Av och på vid takbyte",
+    "hero_lank": "Testade paneler",
+    "vagval_etikett": "Uppdrag",
+    "ber_rubrik": "Senast från verkstaden",
+    "proj_rubrik": "Paneler som fått fortsätta",
+    "proj_kol": ["Uppdrag", "Ort", "Åtgärd", "Status", "År"],
+    "process_rubrik": "Från tak till rigg och tillbaka",
+    "hb_etikett": "Återbruk",
+    "hb_lank": "Så testar vi",
+    "omdomen_rubrik": "Hälsingar som behöll sina paneler",
+    "faq_rubrik": "Om flytt, test och garantier",
+    "priser_rubrik": "Pris per panel",
+    "priser_utvald": "Vanligast",
+    "priser_knapp": "Fråga om pris",
+    "priser_not": "Priser inklusive moms och före grönt avdrag. Tillägg för tak över två våningar.",
+    "boka_rubrik": "Skicka bilder på taket",
+    "boka_text": "Bifoga ett foto på taket och panelernas märkskylt, så återkommer Ola med pris per panel.",
+    "boka_falt": ["Namn", "Telefon", "Adress", "Antal paneler och märke"],
+    "logos_rubrik": "Föreningar och gårdar vi hjälpt",
+    "certifikat_rubrik": "Elektriker och takläggare i samma verkstad",
+    "bolag_etikett": "Vi i verkstaden",
+    "bolag_rubrik": "Två grundare och ett montagelag",
+    "bolag_kol": ["Namn", "Roll", "Om"],
+    "meny_bolag": "Vi i verkstaden",
+    "sida_bolag_ingress": "Panelverkstan är sju personer – två grundare och ett montagelag – i en verkstad på Håsta.",
+    "ny_rubrik": "Paneler och nyheter",
+    "medarbetare": "Verkstadsgänget"
+  }
+}

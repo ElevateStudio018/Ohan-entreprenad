@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "rivning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hydrobilning Göta Älv AB",
+  "kortnamn": "Hydrobilning",
+  "slug": "hydrobilning-gota",
+  "typ": "Vattenbilning av betong i Trollhättan",
+  "tagline": "Vattenbilning sedan 2003",
+  "slogan": "Vi tar bort skadad betong med vatten under 2 500 bars tryck – armeringen blir kvar, stommen skakas inte och den friska betongen lämnas orörd.",
+  "hero_rubrik": "Vatten tar betongen – järnet blir kvar",
+  "hero_text": "Vattenbilning av broar, parkeringsdäck, kraftverksdammar och balkonger i hela Västsverige. Sju bilningsrobotar, egen vattenrening och 27 medarbetare med bas i Trollhättan.",
+  "intro_rubrik": "Tjugotre år med högtryck",
+  "om": [
+    "Mats Wennerholm arbetade med betongreparationer vid kraftverken längs Göta älv när han 2003 köpte Västsveriges första fjärrstyrda vattenbilningsrobot. Han startade Hydrobilning med två kollegor, och i dag är vi 27 anställda med sju robotar och tre mobila reningsanläggningar.",
+    "Vattenbilning tar bara bort betong som är svagare än den inställda gränsen. Kloridskadad eller frostsprängd betong försvinner, medan frisk betong och armering står kvar rena och redo för ny gjutning. Det gör metoden överlägsen mejsling där konstruktionen ska repareras i stället för att rivas."
+  ],
+  "vagval_rubrik": "Vilken konstruktion är skadad?",
+  "tjanster": [
+    {"titel": "Broar och kantbalkar", "ikon": "bro", "href": "verksamhet.html", "text": "Kantbalkar, farbanor och pelare bilas med trafik i angränsande körfält."},
+    {"titel": "Parkeringsdäck", "ikon": "bil", "href": "verksamhet.html", "text": "Kloridskadade bjälklag bilas ned till frisk betong, plan för plan."},
+    {"titel": "Dammar och slussar", "ikon": "vatten", "href": "verksamhet.html", "text": "Utskov, intag och slussväggar vid kraftverk och kanaler."},
+    {"titel": "Balkonger", "ikon": "hus", "href": "verksamhet.html", "text": "Balkongplattor på flerbostadshus repareras i stället för att bytas."},
+    {"titel": "Industrigolv", "ikon": "fabrik", "href": "verksamhet.html", "text": "Syra- och oljeskadade golv i livsmedels- och processindustri."},
+    {"titel": "Vattenrening", "ikon": "lov", "href": "hallbarhet.html", "text": "Processvattnet sedimenteras och pH-justeras innan det släpps."},
+    {"titel": "Utförda bilningar", "ikon": "karta", "href": "projekt.html", "text": "Broar, dammar och garage från Uddevalla till Lidköping."},
+    {"titel": "Skicka in ritningen", "ikon": "ritning", "href": "om-oss.html#kontakt", "text": "Vi svarar med metodförslag inom tre arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Broar och vägkonstruktioner", "text": "Kantbalkar och farbanor på broar från 1960- och 70-talen är ofta skadade av tösalt. Vi bilar bort den kloridhaltiga betongen runt armeringen och lämnar en skrovlig yta som ny betong fäster mot.", "text2": "Arbetet görs bakom TMA-skydd med trafik i intilliggande körfält, ofta nattetid.", "tagg": "infra"},
+    {"titel": "Parkeringshus och garage", "text": "I parkeringshus tränger saltvatten från bilarnas hjul in i bjälklagen. Vi bilar plan för plan och samordnar med fastighetsägaren så att resten av garaget kan användas.", "text2": "En robot bilar mellan 0,5 och 1,5 kubikmeter betong per skift, beroende på djup och hållfasthet.", "tagg": "stad"},
+    {"titel": "Vattenkraft och kanaler", "text": "Dammar, utskov och slussväggar utsätts för is, frost och strömmande vatten. Vattenbilning tar bort den nedbrutna ytan utan vibrationer som kan skada injekteringar eller tätningar.", "text2": "Vi arbetar under planerade avställningar och samordnar med kraftbolagets dammsäkerhetsansvarige.", "tagg": "anlaggning"},
+    {"titel": "Balkonger och fasader", "text": "Balkongplattor med rostande armering behöver inte alltid rivas. Vi bilar bort den skadade kanten och undersidan, och betongreparatören gjuter tillbaka med ny armering där det behövs.", "text2": "Ett normalt trapphus med tolv balkonger bilas på tre till fyra dagar.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Robotlagen", "segment": "15 operatörer", "rubrik": "Sju robotar, tre skift", "text": "Operatörer som kör robotar för horisontella ytor, väggar och undersidor av bjälklag.", "tagg": "infra"},
+    {"namn": "Pump & Vatten", "segment": "5 tekniker", "rubrik": "2 500 bar och renat vatten", "text": "Sköter högtryckspumpar, slangdragning och de tre mobila reningsanläggningarna.", "tagg": "anlaggning"},
+    {"namn": "Betongteknik", "segment": "3 betongingenjörer", "rubrik": "Provborrning och djupkartor", "text": "Tar borrkärnor, mäter klorider och kartlägger hur djupt bilningen ska gå.", "tagg": "kontor"},
+    {"namn": "Arbetsledning", "segment": "Mats och 3 arbetsledare", "rubrik": "TMA, trafik och avställningar", "text": "Planerar trafikanordningar, avställningar och skiftschema tillsammans med beställaren.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Bron vid Lilla Edet", "text": "380 meter kantbalk bilades på sex nätter med ett körfält öppet hela tiden.", "tagg": "infra"},
+    {"rubrik": "Utskovet i Vänersborg", "text": "Under en avställning på tre veckor bilade vi bort 64 kubikmeter frostskadad betong i dammens utskov.", "tagg": "anlaggning"},
+    {"rubrik": "Robot nummer sju", "text": "Vår nya robot för undersidor bilar bjälklag ovanför huvudet utan att någon behöver stå under.", "tagg": "stad"}
+  ],
+  "nyckeltal": [
+    {"varde": "2 500", "enhet": "bar", "etikett": "Högsta arbetstryck"},
+    {"varde": "7", "enhet": "robotar", "etikett": "För golv, vägg och tak"},
+    {"varde": "1 900", "enhet": "m³", "etikett": "Bilad betong under 2025"},
+    {"varde": "27", "enhet": "", "etikett": "Medarbetare i Trollhättan"}
+  ],
+  "projekt": [
+    {"namn": "Bron över Göta älv", "ort": "Lilla Edet", "typ": "Kantbalkar", "ar": "2026", "text": "380 meter kantbalk vattenbilad nattetid bakom TMA-skydd.", "tagg": "infra"},
+    {"namn": "Dammens utskov", "ort": "Vänersborg", "typ": "Vattenkraft", "ar": "2025", "text": "64 kubikmeter frostskadad betong borttagen under en tre veckor lång avställning.", "tagg": "anlaggning"},
+    {"namn": "P-huset vid Resecentrum", "ort": "Uddevalla", "typ": "Parkeringsdäck", "ar": "2025", "text": "Tre plan bilade i etapper medan halva garaget var öppet för pendlare.", "tagg": "stad"},
+    {"namn": "Brf Strömkarlen", "ort": "Trollhättan", "typ": "Balkongreparation", "ar": "2025", "text": "72 balkonger reparerade i stället för utbytta – en besparing på drygt fyra miljoner.", "tagg": "bostad"},
+    {"namn": "Mejeriets processgolv", "ort": "Lidköping", "typ": "Industrigolv", "ar": "2024", "text": "Syraskadat golv bilat och gjutet om under ett produktionsstopp på nio dagar.", "tagg": "industri"},
+    {"namn": "Slussväggarna", "ort": "Trollhättan", "typ": "Kanalkonstruktion", "ar": "2026", "text": "Nedbruten betong i två slussväggar bilas under vinteravställningen.", "tagg": "anlaggning", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Borrkärnor och klorider", "text": "Betongingenjörerna tar prover och mäter hur djupt skadan går.", "tagg": "kontor"},
+    {"titel": "Djupkarta och metod", "text": "Vi tar fram en karta över bilningsdjup och ställer in tryck och hastighet efter den.", "tagg": "kontor"},
+    {"titel": "Vattenbilning", "text": "Roboten bilar ytan i banor medan pumparna levererar upp till 2 500 bar.", "tagg": "infra"},
+    {"titel": "Ren yta och renat vatten", "text": "Ytan spolas ren för gjutning, och processvattnet renas innan det släpps.", "tagg": "anlaggning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Reparera i stället för att riva och bygga nytt",
+    "text": "Den största miljövinsten med vattenbilning är att konstruktionen får stå kvar. En reparerad bro eller ett reparerat parkeringsdäck sparar hundratals ton ny betong. Processvattnet är starkt basiskt, så vi sedimenterar slammet och pH-justerar vattnet med koldioxid innan det släpps till dagvatten.",
+    "mal": [["pH 6–9", "på allt vatten som släpps ut"], ["3", "mobila reningsanläggningar"], ["4 100 t", "ny betong undviken genom reparation 2025"]]
+  },
+  "karriar": {"rubrik": "Styr en robot med 2 500 bar", "text": "Vi söker operatörer som vill arbeta i skift på broar, dammar och i garage. Du får intern utbildning på robotarna och utbildning för arbete på väg.", "jobb": [["Robotoperatör vattenbilning", "Trollhättan"], ["Pumptekniker", "Trollhättan"], ["Betongingenjör", "Trollhättan"]]},
+  "kultur": "Efter varje nattskift på en bro bjuder arbetsledaren på frukost på första öppna mack.",
+  "citat": {"text": "Mejsel och hammare skakar sönder det som ska stå kvar. Vatten tar bara det som redan är dåligt.", "namn": "Mats Wennerholm", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Föreningen hade fått rådet att byta alla balkonger. Efter vattenbilningen kunde vi reparera dem för en tredjedel av priset.", "namn": "Kjell-Åke S.", "ort": "Trollhättan"},
+    {"text": "Sex nätter, ett körfält öppet och inga trafikstörningar dagtid. Precis som planerat.", "namn": "Sofia M.", "ort": "Lilla Edet"},
+    {"text": "Ytan i utskovet var så ren att gjutningen kunde börja dagen efter. Ingen efterarbetning alls.", "namn": "Rickard Ö.", "ort": "Vänersborg"}
+  ],
+  "faq": [
+    ["Vad är skillnaden mot mejsling?", "Vattenbilning ger inga vibrationer och inga mikrosprickor i den kvarvarande betongen, och armeringen blir ren från rost. Mejsling skakar konstruktionen och kan skada armeringen."],
+    ["Hur djupt kan ni bila?", "Från några millimeter för ytbehandling till genomgående hål i bjälklag. Djupet styrs av tryck, flöde och robotens hastighet."],
+    ["Blir det mycket vatten?", "En robot använder 150–250 liter per minut. Vattnet samlas upp, sedimenteras och pH-justeras i vår mobila reningsanläggning."],
+    ["Bullrar det?", "Ja, vattenbilning är bullrigt, runt 100 dB nära roboten. Vi planerar arbetstider och bullerskärmar efter grannarna."],
+    ["Kan ni arbeta på vintern?", "Ja, så länge vi kan hålla slangar och pumpar frostfria. Under 0 grader använder vi uppvärmda pumpcontainrar."],
+    ["Gjuter ni också?", "Nej, vi bilar och lämnar en ren yta. Gjutningen gör din betongentreprenör – vi samarbetar med flera i Västsverige."]
+  ],
+  "certifikat": [
+    {"titel": "Arbete på väg, nivå 2", "text": "Alla operatörer och arbetsledare har Trafikverkets utbildning för arbete på väg.", "ikon": "vag"},
+    {"titel": "Utsläppstillstånd", "text": "Miljöförvaltningens godkännande av våra mobila reningsanläggningar för processvatten.", "ikon": "vatten"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2012.", "ikon": "dokument"},
+    {"titel": "Utbildning högtryck", "text": "Operatörerna har branschutbildning för högtrycksarbete över 500 bar.", "ikon": "skold"}
+  ],
+  "kunder": ["Göta Älvs Vattenkraft", "Brf Strömkarlen", "Uddevalla Parkeringsbolag", "Väst Broentreprenad", "Lidköpings Mejeriindustri", "Trollhätte Kanalfastigheter", "Vänersborgs Bostadsbolag"],
+  "kunder_rubrik": "Kraftbolag, kommuner och föreningar",
+  "nyheter": [
+    ["2026-10-16", "Kantbalkarna vid Lilla Edet är klara", "Sex nätter och 380 meter – nu tar betongentreprenören över gjutningen.", "infra"],
+    ["2026-05-05", "Robot för undersidor", "Vår sjunde robot bilar bjälklag ovanför huvudet utan personal under.", "stad"],
+    ["2025-11-25", "Byt inte balkongerna i onödan", "Så kan vattenbilning halvera kostnaden för balkongrenovering i bostadsrättsföreningar.", "bostad"]
+  ],
+  "kontakt": {"adress": "Stallbackavägen 40", "postnr": "461 38", "ort": "Trollhättan", "telefon": "070-174 06 78", "epost": "mats@hydrobilning.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16 · Skiftarbete dygnet runt efter avtal",
+  "omrade": "Västra Götaland, med uppdrag i hela södra Sverige",
+  "fot_cta": "Skadad betong som ska repareras? Skicka ritningen så föreslår vi metod.",
+  "bild": {"hb": "infra", "panel": "people"},
+  "text": {
+    "hero_knapp": "Så fungerar vattenbilning",
+    "hero_lank": "Utförda bilningar",
+    "vagval_etikett": "Konstruktioner",
+    "ber_etikett": "Från robotarna",
+    "ber_rubrik": "Höstens bilningar",
+    "proj_rubrik": "Broar, dammar och garage vi har bilat",
+    "process_etikett": "Prov, karta, bilning, rening",
+    "process_rubrik": "Djupet bestäms innan trycket slås på",
+    "hb_etikett": "Vatten och betong",
+    "omdomen_rubrik": "Beställare om resultatet",
+    "faq_rubrik": "Om vattenbilning",
+    "certifikat_rubrik": "Behörigheter för väg, vatten och högtryck",
+    "logos_etikett": "Beställare",
+    "boka_rubrik": "Vilken betong är skadad?",
+    "boka_text": "Bifoga ritning eller foton och beskriv skadan. En betongingenjör svarar med metodförslag inom tre arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "Organisation", "Konstruktion, skada och plats"],
+    "panel_etikett": "Bli robotoperatör",
+    "medarbetare": "Operatörer"
+  }
+}

@@ -40,8 +40,8 @@
   .kkb-hq { grid-column: span 2; grid-row: span 2; grid-template-columns: minmax(0, 1fr); grid-template-rows: minmax(0, 1fr) auto; }
   .kkb-hq .kkb-bild { min-height: 0; }
   .kkb-hq .kkb-text { padding: 30px 32px 32px; }
-  .kkb .kkb-s2, .kkb .kkb-s2:last-child { grid-column: span 2; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-template-rows: none; }
-  .kkb .kkb-s4, .kkb .kkb-s4:last-child { grid-column: span 4; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-template-rows: none; }
+  .kkb .kkb-kort.kkb-s2:not(.kkb-hq) { grid-column: span 2; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-template-rows: none; }
+  .kkb .kkb-kort.kkb-s4:not(.kkb-hq) { grid-column: span 4; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-template-rows: none; }
   .kkb-s2 .kkb-bild, .kkb-s4 .kkb-bild { aspect-ratio: auto; min-height: 220px; }
   .kkb-s2 .kkb-text, .kkb-s4 .kkb-text { justify-content: flex-end; padding: 24px; }
 }

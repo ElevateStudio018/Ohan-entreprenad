@@ -1,0 +1,124 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Röklänk AB",
+  "kortnamn": "Röklänk",
+  "slug": "roklank",
+  "typ": "Uppkopplat brandskydd från Umeå",
+  "tagline": "Brandskydd som hör av sig",
+  "slogan": "Trådlösa brandlarm, uppkopplade brandvarnare och släckare som meddelar när något är fel – så att hyresvärden vet innan hyresgästen behöver ringa.",
+  "hero_rubrik": "Brandvarnaren skickar sms innan batteriet dör",
+  "hero_text": "Vi installerar trådlöst brandskydd i hyreshus, studentboenden, skolor och lokaler. Varje detektor och släckare rapporterar sin status, och felen syns i en karta innan de blir ett problem.",
+  "intro_rubrik": "Från tre grundare till 34 anställda på fem år",
+  "om": [
+    "Ida Marklund forskade på trådlösa sensorer vid Umeå universitet och Jonatan Ek arbetade som brandingenjör på räddningstjänsten när de träffades på en hackathon om säkra bostäder 2020. De hade samma fråga: varför vet ingen fastighetsägare om brandvarnarna i deras lägenheter faktiskt sitter uppe? Röklänk startade året därpå i en inkubator på Universitetsområdet.",
+    "I dag är vi 34 anställda – tekniker, utvecklare och brandingenjörer – och har 41 000 uppkopplade enheter i drift, främst i Västerbotten. Vi tillverkar inga detektorer själva utan väljer certifierade komponenter, kopplar ihop dem i vår egen plattform och installerar allt med egna tekniker."
+  ],
+  "vagval_rubrik": "Vilken fastighet vill ni koppla upp?",
+  "tjanster": [
+    {"titel": "Uppkopplade brandvarnare", "ikon": "laddning", "href": "verksamhet.html", "text": "Brandvarnare i varje lägenhet som meddelar låg batterinivå, sabotage eller nedmontering."},
+    {"titel": "Trådlöst brandlarm", "ikon": "blixt", "href": "verksamhet.html", "text": "Radiobaserat brandlarm enligt SS-EN 54-25, utan kabeldragning i trapphus och lägenheter."},
+    {"titel": "Släckare med sensor", "ikon": "eld", "href": "verksamhet.html", "text": "En liten givare på släckaren larmar om den flyttas, används eller tappar tryck."},
+    {"titel": "Plattformen Länken", "ikon": "karta", "href": "verksamhet.html", "text": "Alla enheter i en karta, med felmeddelanden per adress, våning och lägenhet."},
+    {"titel": "Larm till hyresvärden", "ikon": "telefon", "href": "verksamhet.html", "text": "Sms och push till fastighetsskötaren när en detektor larmar på natten."},
+    {"titel": "Studentboenden", "ikon": "skola", "href": "verksamhet.html", "text": "Färre onödiga larm i korridorer där matlagning och duschånga är vardag."},
+    {"titel": "Tidig varning vid elfel", "ikon": "sok", "href": "verksamhet.html", "text": "Temperaturgivare i elcentraler som varnar innan något börjar brinna."},
+    {"titel": "Boka en pilot", "ikon": "upp", "href": "om-oss.html#kontakt", "text": "Vi kopplar upp ett trapphus gratis i tre månader."}
+  ],
+  "affarsomraden": [
+    {"titel": "Hyresfastigheter", "text": "I en vanlig hyresfastighet vet ingen om brandvarnaren sitter kvar efter att någon har lagat mat. Våra uppkopplade varnare rapporterar när de tas ner och när batteriet börjar ta slut.", "text2": "Fastighetsskötaren får en lista varje måndag med de lägenheter som behöver ett besök.", "tagg": "bostad"},
+    {"titel": "Studentbostäder", "text": "Korridorer med gemensamma kök har fler onödiga larm än nästan några andra bostäder. Vi kombinerar värme- och rökdetektering och visar i plattformen var och när larmen går, så att placeringen kan justeras.", "text2": "Hos vår största studentkund minskade de onödiga larmen med 71 procent på ett år.", "tagg": "brand"},
+    {"titel": "Skolor och lokaler", "text": "Trådlöst brandlarm kan monteras på ett lov utan att riva i tak och väggar. Det gör det enklare att uppgradera äldre skolor och kontor där kabeldragning är dyr.", "text2": "Larmet kopplas till räddningstjänsten via certifierad larmöverföring.", "tagg": "stad"},
+    {"titel": "Data om brandskyddet", "text": "Plattformen sparar varje händelse och visar trender per fastighet: var varnare tas ner, vilka släckare som flyttas och när elcentraler blir varma.", "text2": "Rapporterna kan användas direkt i det systematiska brandskyddsarbetet och vid tillsyn.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Installation", "segment": "Umeå och Västerbotten", "rubrik": "Fjorton tekniker, 300 lägenheter i veckan", "text": "Installationsteamet monterar brandvarnare och givare i bebodda lägenheter, oftast utan att hyresgästen behöver vara hemma.", "tagg": "brand"},
+    {"namn": "Plattform", "segment": "Utveckling och drift", "rubrik": "Elva utvecklare i Umeå", "text": "Teamet bygger och driver plattformen Länken, med drift i svenska datahallar och övervakning dygnet runt.", "tagg": "kontor"},
+    {"namn": "Brandteknik", "segment": "Projektering och analys", "rubrik": "Brandingenjörer bakom varje karta", "text": "Fyra brandingenjörer projekterar anläggningarna, analyserar larmhistoriken och hjälper kunderna med SBA.", "tagg": "people"},
+    {"namn": "Kundtjänst", "segment": "Fastighetsägare", "rubrik": "Svarar innan larmet har tystnat", "text": "Fem personer som tar emot frågor från fastighetsskötare och hjälper till när ett larm inte kan förklaras.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "41 000 enheter uppkopplade", "text": "Den största installationen hittills omfattar 2 900 lägenheter i ett allmännyttigt bostadsbolag.", "tagg": "bostad"},
+    {"rubrik": "71 procent färre onödiga larm", "text": "Ett år med uppkopplad detektering i studentkorridorerna på Ålidhem gav tydligt resultat.", "tagg": "brand"},
+    {"rubrik": "Röklänk tar in 40 miljoner", "text": "Nyemissionen finansierar ett nytt kontor i Lycksele och fler tekniker under 2027.", "tagg": "kontor"}
+  ],
+  "nyckeltal": [
+    {"varde": "41 000", "enhet": "enheter", "etikett": "Uppkopplade och i drift"},
+    {"varde": "34", "enhet": "anställda", "etikett": "Tre var vi 2021"},
+    {"varde": "−71 %", "enhet": "", "etikett": "Onödiga larm i studentkorridorer"},
+    {"varde": "94 %", "enhet": "", "etikett": "Brandvarnare uppe och fungerande"}
+  ],
+  "projekt": [
+    {"namn": "Allmännyttan Umeå, etapp 2", "ort": "Umeå", "typ": "Uppkopplade brandvarnare", "ar": "2026", "text": "2 900 lägenheter med varnare som rapporterar batteri, sabotage och larm.", "tagg": "bostad", "status": "Pågående"},
+    {"namn": "Studentkorridorer Ålidhem", "ort": "Umeå", "typ": "Studentboende", "ar": "2025", "text": "Värme- och rökdetektering i 640 korridorsrum och 80 gemensamma kök.", "tagg": "brand"},
+    {"namn": "Vännäs Centralskola", "ort": "Vännäs", "typ": "Trådlöst brandlarm", "ar": "2025", "text": "Ett radiobaserat brandlarm monterat under sportlovet utan att röra innertaken.", "tagg": "stad"},
+    {"namn": "Robertsfors Hyresbostäder", "ort": "Robertsfors", "typ": "Släckare med sensor", "ar": "2025", "text": "Uppkopplade släckare i 46 trapphus och tvättstugor.", "tagg": "brand"},
+    {"namn": "Kontorshuset Navet", "ort": "Umeå", "typ": "Elcentraler", "ar": "2024", "text": "Temperaturgivare i 38 elcentraler som varnar innan något överhettas.", "tagg": "el"},
+    {"namn": "Holmsunds Bostäder", "ort": "Holmsund", "typ": "Pilot blev avtal", "ar": "2024", "text": "Ett trapphus i tre månader blev ett avtal för hela beståndet på 410 lägenheter.", "tagg": "bostad"}
+  ],
+  "process": [
+    {"titel": "Pilot i ett trapphus", "text": "Vi kopplar upp ett trapphus utan kostnad och visar vad plattformen ser under tre månader.", "tagg": "bostad"},
+    {"titel": "Projektering", "text": "En brandingenjör planerar detektorer, givare och radiotäckning för hela beståndet.", "tagg": "kontor"},
+    {"titel": "Installation på en dag", "text": "Ett team om fyra tekniker kopplar upp ett normalstort trapphus på en arbetsdag.", "tagg": "brand"},
+    {"titel": "Måndagslistan", "text": "Varje vecka får fastighetsskötaren en lista över lägenheter och släckare som behöver ett besök.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Data som räddar liv, inte data som säljs",
+    "text": "Plattformen samlar bara in det som behövs för brandskyddet: status, larm och temperatur. Ingen data säljs vidare, all lagring sker i Sverige och batterier som byts ut lämnas till återvinning.",
+    "mal": [["0", "datapunkter sålda till tredje part"], ["10 år", "batteritid i våra brandvarnare"], ["99,9 %", "tillgänglighet i plattformen 2025"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg framtidens brandskydd i Umeå",
+    "text": "Vi växer med ungefär tio personer om året och söker både tekniker som tycker om att träffa hyresgäster och utvecklare som vill skriva kod som märks i verkligheten. Alla anställda får aktieoptioner.",
+    "jobb": [["Installationstekniker", "Umeå"], ["Backendutvecklare", "Umeå"], ["Brandingenjör", "Umeå"], ["Installationstekniker", "Lycksele"]]
+  },
+  "kultur": "Varje fredag visar ett team vad de har byggt under veckan – oftast med en riktig brandvarnare och en tändsticka.",
+  "citat": {"text": "En brandvarnare som ligger i en byrålåda gör ingen nytta. Vi vill att fastighetsägaren ska veta det på måndagen, inte efter en brand.", "namn": "Ida Marklund", "roll": "Vd och medgrundare", "tagg": "kontor"},
+  "omdomen": [
+    {"text": "Första veckan visade plattformen att 212 brandvarnare var nedtagna. Vi hade ingen aning.", "namn": "Johanna Ö.", "ort": "Umeå"},
+    {"text": "Hela skolan fick nytt brandlarm under sportlovet. Ingen lärare märkte att det hade hänt något.", "namn": "Stefan V.", "ort": "Vännäs"},
+    {"text": "Fastighetsskötaren går numera bara till de lägenheter som står på måndagslistan. Det har frigjort en halv tjänst.", "namn": "Erik P.", "ort": "Holmsund"}
+  ],
+  "faq": [
+    ["Fungerar trådlöst brandlarm lika bra som kabelburet?", "Ja, när det projekteras rätt. Komponenterna är certifierade enligt SS-EN 54-25 och varje enhet övervakas kontinuerligt så att ett avbrott syns direkt."],
+    ["Vad händer om internet går ner?", "Brandvarnarna och brandlarmet fungerar lokalt även utan uppkoppling. Det är bara rapporteringen till plattformen som väntar tills förbindelsen är tillbaka."],
+    ["Ser ni vad som händer i lägenheterna?", "Nej. Vi ser bara status på enheterna: larm, batterinivå, temperatur och om varnaren tas ner. Inga ljud, bilder eller rörelser registreras."],
+    ["Vad kostar det?", "Uppkopplade brandvarnare kostar från 19 kronor per lägenhet och månad inklusive plattform och batteribyten. Trådlöst brandlarm offereras per byggnad."],
+    ["Måste hyresgästen vara hemma vid installationen?", "Nej, de flesta installationer görs med huvudnyckel efter avisering, precis som vid andra underhållsbesök."],
+    ["Kan ni koppla upp befintliga släckare?", "Ja, givaren monteras på de flesta vanliga släckare och visar om de flyttas, används eller tappar tryck."],
+    ["Var finns ni?", "Vi installerar i hela Västerbotten från Umeå och öppnar kontor i Lycksele under 2027. Plattformen fungerar i hela landet."]
+  ],
+  "certifikat": [
+    {"titel": "Anläggarfirma brandlarm", "text": "SBSC-certifierad anläggarfirma med två certifierade ingenjörer brandlarm.", "ikon": "skold"},
+    {"titel": "Radiokomponenter EN 54-25", "text": "Alla trådlösa komponenter i våra brandlarm är certifierade enligt SS-EN 54-25.", "ikon": "laddning"},
+    {"titel": "ISO 27001", "text": "Informationssäkerheten i plattformen är certifierad, med lagring i svenska datahallar.", "ikon": "las"},
+    {"titel": "Brandingenjörer i teamet", "text": "Fyra brandingenjörer från räddningstjänst och konsultbranschen granskar varje projektering.", "ikon": "skola"}
+  ],
+  "kunder": ["Umeå Allmännyttan", "Ålidhems Studentbostäder", "Vännäs Skolfastigheter", "Robertsfors Hyresbostäder", "Navet Kontorsfastigheter", "Holmsunds Bostäder", "Västerbottens Hyresvärdar"],
+  "nyheter": [
+    ["2026-10-27", "Nyemission på 40 miljoner kronor", "Pengarna går till nya tekniker och ett kontor i Lycksele.", "kontor"],
+    ["2026-06-09", "Ett år på Ålidhem", "De onödiga larmen i studentkorridorerna har minskat med 71 procent.", "brand"],
+    ["2026-01-20", "Plattformen får egen app för fastighetsskötare", "Måndagslistan och larmhistoriken finns nu i mobilen.", "people"]
+  ],
+  "kontakt": {"adress": "Tvistevägen 48", "postnr": "907 36", "ort": "Umeå", "telefon": "070-174 06 69", "epost": "hej@roklank.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–17. Plattformen övervakas dygnet runt",
+  "omrade": "Västerbotten, med plattform i hela Sverige",
+  "fot_cta": "Hur många av era brandvarnare sitter uppe just nu? Boka en pilot och ta reda på det.",
+  "bild": {"panel": "kontor", "hb": "brand"},
+  "text": {
+    "ber_rubrik": "Det här har hänt hos oss",
+    "proj_rubrik": "Fastigheter som är uppkopplade",
+    "process_rubrik": "Från pilot till måndagslista",
+    "hb_etikett": "Integritet",
+    "omdomen_rubrik": "Fastighetsägare om plattformen",
+    "faq_rubrik": "Frågor om uppkopplat brandskydd",
+    "boka_rubrik": "Boka en kostnadsfri pilot",
+    "boka_falt": ["Namn", "Telefon", "Fastighetsbolag", "Antal lägenheter eller lokaler"],
+    "logos_rubrik": "Fastighetsägare som är uppkopplade",
+    "certifikat_rubrik": "Certifierat larm, säker plattform",
+    "bolag_rubrik": "Fyra team, en plattform",
+    "ny_rubrik": "Senaste från Röklänk",
+    "kontakt_knapp": "Boka pilot"
+  }
+}

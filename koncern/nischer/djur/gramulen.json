@@ -77,11 +77,11 @@
   "faq": [
     ["Från vilken ålder räknas hunden som senior?", "Det beror på rasen. Stora raser från sju år, små från tio. Har din hund artros eller annan sjukdom tar vi emot den oavsett ålder."],
     ["Behöver jag remiss för poolen?", "Nej, men vi vill att veterinären har undersökt hunden det senaste halvåret. Har hunden hjärtsjukdom krävs ett intyg."],
-    ["Varför tar ni betalt per tid?", "För att en äldre hund ibland behöver dubbelt så lång tid. Då ska det inte vara frisören som stressar."],
+    ["Varför kostar det per timme och inte per ras?", "För att en äldre hund ibland behöver dubbelt så lång tid. Då ska det inte vara frisören som stressar."],
     ["Kan ni klippa en hund som inte kan stå alls?", "Ja. Den liggande metoden fungerar även för hundar som är förlamade i bakbenen."],
     ["Får jag vara med?", "Ja, och vi rekommenderar det första gången. Många hundar ligger lugnare med husse eller matte vid huvudet."],
     ["Hur långt åker ni på hembesök?", "Inom fem mil från Östersund, till exempel Krokom, Brunflo och Hallen. Längre bort efter överenskommelse."],
-    ["Vad kostar en avbokning?", "Ingenting om hunden är sjuk. Annars ber vi om besked ett dygn innan."]
+    ["Måste jag betala om hunden blir dålig?", "Ingenting om hunden är sjuk. Annars ber vi om besked ett dygn innan."]
   ],
   "priser": [
     {"namn": "Poolpass", "pris": "395 kr", "enhet": "30 minuter", "text": "Rörelseträning i varmt vatten.", "punkter": ["Simning med flytväst", "Ramp i och ur poolen", "Dusch och torkning", "Anteckning om rörelse och ork"]},
@@ -117,8 +117,8 @@
     "galleri_rubrik": "Grå nosar, rena pälsar",
     "boka_rubrik": "Berätta om din äldre hund",
     "boka_text": "Skriv ålder, ras och vilka diagnoser eller besvär hunden har, så ringer Ulrika upp inom två vardagar.",
-    "boka_falt": ["Ditt namn", "Telefon", "Hundens ras och ålder", "Diagnoser och besvär"],
-    "boka_knapp": "Be om samtal",
+    "boka_falt": ["Ditt namn", "Telefon", "Ras och hur gammal hunden är", "Diagnoser och besvär"],
+    "boka_knapp": "Ring upp mig",
     "ny_rubrik": "Om att åldras med hund",
     "panel_etikett": "Före första besöket",
     "sida_bolag_ingress": "Vi är {n} personer med bakgrund på klinik, i salong och bland draghundar."

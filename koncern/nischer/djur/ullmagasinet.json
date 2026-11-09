@@ -22,7 +22,7 @@
     {"titel": "Hundgarn", "ikon": "lada", "href": "verksamhet.html", "text": "Vi samlar ullen och skickar den till spinneriet."},
     {"titel": "Collie och sheltie", "ikon": "hjarta", "href": "verksamhet.html", "text": "Krage, byxor och fjädrar formade efter rasstandarden."},
     {"titel": "Borstkurs", "ikon": "skola", "href": "verksamhet.html", "text": "En timme med rätt kam, rake och karda för just din ras."},
-    {"titel": "Priser per ras", "ikon": "dokument", "href": "priser.html", "text": "Priset beror på ras, pälsmängd och fällningsfas."},
+    {"titel": "Ras och pris", "ikon": "dokument", "href": "priser.html", "text": "Priset beror på ras, pälsmängd och fällningsfas."},
     {"titel": "Boka avfällning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vår- och höstfällningen bokas fullt sex veckor i förväg."}
   ],
   "affarsomraden": [
@@ -76,15 +76,15 @@
   ],
   "faq": [
     ["Vilka raser tar ni emot?", "Alla raser med underull: spetsar, vallhundar, retrievrar, sennenhundar, samojed och liknande. Pudlar och terrier hänvisar vi vidare."],
-    ["Hur ofta behöver hunden komma?", "Två gånger per år under fällningen räcker för många. Stora pälsar mår bäst av ett underhållsbad var åttonde vecka."],
+    ["Hur många besök per år behövs?", "Två gånger per år under fällningen räcker för många. Stora pälsar mår bäst av ett underhållsbad var åttonde vecka."],
     ["Blir hunden inte varm i pälsen på sommaren?", "Nej, en välvårdad dubbelpäls isolerar mot värmen. Det är tovig, packad ull som gör hunden varm."],
     ["Kan ni ta bort tovor utan att raka?", "Ja, i de flesta fall. Sitter filten tätt mot huden på stora ytor klipper vi den lokalt och berättar varför."],
     ["Hur mycket ull behövs till garn?", "Minst 500 gram för en körning hos spinneriet. Det motsvarar ungefär en mössa och ett par vantar."],
     ["Hur lång tid tar en avfällning?", "Från två timmar för en sheltie till fyra för en malamute. Du får ett sms när hunden är klar."],
-    ["Kan jag avboka?", "Ja, senast två dygn före. Under fällningssäsongen tar vi annars 400 kronor eftersom tiden inte går att fylla."]
+    ["Vad kostar det att avboka under fällningen?", "Ja, senast två dygn före. Under fällningssäsongen tar vi annars 400 kronor eftersom tiden inte går att fylla."]
   ],
   "priser": [
-    {"namn": "Underhållsbad", "pris": "fr. 695 kr", "enhet": "var 8:e vecka", "text": "Mellan fällningarna.", "punkter": ["Bad med pälsbalsam", "Utblåsning i box", "Kloklipp och tassputs", "Fast tid som stamkund"]},
+    {"namn": "Underhållsbad", "pris": "fr. 695 kr", "enhet": "var 8:e vecka", "text": "Mellan fällningarna.", "punkter": ["Bad med pälsbalsam", "Utblåsning i box", "Klor och tassar fixade", "Fast tid som stamkund"]},
     {"namn": "Säsongsavfällning", "pris": "fr. 1 195 kr", "enhet": "vår eller höst", "text": "All lös underull ut.", "punkter": ["Avfällningsbalsam i tio minuter", "Utblåsning med utsug", "Kardning för hand", "Ullen sparad om du vill"], "utvald": true},
     {"namn": "Avfällning med garn", "pris": "fr. 2 095 kr", "enhet": "inkl. 100 g garn", "text": "Avfällning plus spinneri.", "punkter": ["Allt i Säsongsavfällning", "Ullen märkt och sparad", "Kardning och spinning i Sala", "100 gram garn levererat"]}
   ],
@@ -115,7 +115,7 @@
     "galleri_rubrik": "Ullbollar och nyblåsta pälsar",
     "boka_rubrik": "Boka före fällningen",
     "boka_text": "Skriv ras, ålder och om hunden fäller just nu. Säg till om du vill spara ullen till garn.",
-    "boka_falt": ["Ditt namn", "Telefon", "Hundens namn och ras", "Spara ullen? Ja eller nej"],
+    "boka_falt": ["Ditt namn", "Telefon", "Hund och ras", "Spara ullen? Ja eller nej"],
     "ny_rubrik": "Pälskunskap om dubbelpäls",
     "panel_etikett": "Inför avfällningen",
     "sida_bolag_ingress": "Vi är {n} frisörer som bara arbetar med pälsar som har underull.",

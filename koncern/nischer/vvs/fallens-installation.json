@@ -1,0 +1,136 @@
+{
+  "profil": "nisch",
+  "nisch": "vvs",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Fallens Installation AB",
+  "kortnamn": "Fallens",
+  "slug": "fallens-installation",
+  "typ": "Prefabricerad VVS för nyproduktion",
+  "tagline": "Rörschakt från fabrik",
+  "slogan": "Vi bygger badrumsväggar, schakt och undercentraler färdiga i fabriken i Trollhättan och lyfter in dem på bygget med kran.",
+  "hero_rubrik": "Hela rörschaktet lyfts in på tolv minuter",
+  "hero_text": "VVS-installation för nya flerbostadshus, äldreboenden och skolor i Västra Götaland. 85 anställda, BIM-projektering och en modulfabrik på 4 800 kvadratmeter.",
+  "intro_rubrik": "Rörmontage som industriell tillverkning",
+  "om": [
+    "Rolf och Inga Thunberg startade Fallens som en vanlig rörfirma i Trollhättan 1988 och installerade värme och sanitet i villor längs Göta älv. När sonen Mikael tog över 2009 började han bygga rörschakt i en gammal hall på Stallbacka – först för att slippa regnet, sedan för att det gick dubbelt så fort.",
+    "I dag är vi 85 anställda. Två tredjedelar av installationerna i ett flerbostadshus byggs hos oss: schaktmoduler med stammar och ventilation, förtillverkade installationsväggar för badrum och kompletta undercentraler. På bygget återstår kopplingar, provtryckning och slutbesiktning."
+  ],
+  "vagval_rubrik": "Vad bygger ni?",
+  "tjanster": [
+    {"titel": "Schaktmoduler", "ikon": "kran", "href": "verksamhet.html", "text": "Stammar, tappvatten och ventilation i en stålram per våningsplan."},
+    {"titel": "Installationsväggar", "ikon": "ritning", "href": "verksamhet.html", "text": "Badrumsväggar med fixturer, rör och provtryckning klara från fabrik."},
+    {"titel": "Undercentraler", "ikon": "kugge", "href": "verksamhet.html", "text": "Fjärrvärme- eller värmepumpscentraler monterade på skid."},
+    {"titel": "BIM-projektering", "ikon": "kontor", "href": "verksamhet.html", "text": "Samordnade 3D-modeller med konstruktör, el och ventilation."},
+    {"titel": "Montage på bygget", "ikon": "hjalm", "href": "verksamhet.html", "text": "Egna montörer kopplar ihop modulerna våning för våning."},
+    {"titel": "Värme och kyla", "ikon": "sol", "href": "verksamhet.html", "text": "Golvvärme, radiatorer och komfortkyla i skolor och vårdlokaler."},
+    {"titel": "Garantiservice", "ikon": "verktyg", "href": "verksamhet.html", "text": "Felavhjälpning och garantibesiktning de första fem åren."},
+    {"titel": "Våra kontor", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Trollhättan, Uddevalla och Skövde."}
+  ],
+  "affarsomraden": [
+    {"titel": "Flerbostadshus", "text": "Vi tar VVS-entreprenaden i nya bostadshus från fyra till fjorton våningar. Schaktmodulerna lyfts in i samma takt som bjälklagen gjuts, så att installationen aldrig blir den som håller upp stommen.", "text2": "Ett schakt per våningsplan tar i snitt tolv minuter att lyfta och fästa.", "tagg": "bygg"},
+    {"titel": "Vård, omsorg och skolor", "text": "Äldreboenden och skolor har många identiska rum. Där gör prefabricerade installationsväggar störst skillnad: samma vägg i 60 badrum, byggd och provad under tak och dokumenterad med ett protokoll per vägg.", "text2": "Vi har byggt installationsväggar till 1 900 vårdrum sedan 2016.", "tagg": "bostad"},
+    {"titel": "Undercentraler och värme", "text": "Fjärrvärmecentraler och värmepumpsanläggningar monteras på en stålskid i fabriken, provkörs och levereras med injusteringsprotokoll. Ute på bygget ansluts de på en dag i stället för på två veckor.", "text2": "Varje central får en QR-kod som leder till drift- och underhållsinstruktioner.", "tagg": "industri"},
+    {"titel": "Projektering i BIM", "text": "Alla installationer modelleras i 3D tillsammans med arkitekt, konstruktör, el och ventilation innan fabriken skär första röret. Kollisioner löses i modellen, inte på bygget.", "text2": "Modellen följer med till förvaltningen när huset är klart.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Projektering", "segment": "11 ingenjörer", "rubrik": "Modellen innan röret", "text": "Projekterar VVS i BIM, samordnar med andra discipliner och tar fram tillverkningsunderlag till fabriken.", "tagg": "kontor"},
+    {"namn": "Modulfabriken", "segment": "32 montörer", "rubrik": "Stallbacka, 4 800 kvm", "text": "Bygger schaktmoduler, installationsväggar och undercentraler i två skift.", "tagg": "industri"},
+    {"namn": "Montage", "segment": "34 montörer", "rubrik": "Ute på byggena", "text": "Lyfter in, kopplar och provtrycker på byggarbetsplatser från Strömstad till Skövde.", "tagg": "bygg"},
+    {"namn": "Service och garanti", "segment": "8 tekniker", "rubrik": "De första fem åren", "text": "Tar garantiärenden, gör besiktningar och erbjuder serviceavtal till förvaltare efter garantitiden.", "tagg": "vvs"}
+  ],
+  "kontor_lista": [
+    ["Trollhättan", "Stallbackavägen 22 – huvudkontor, projektering och modulfabrik"],
+    ["Uddevalla", "Kurödsvägen 9 – montage och service i Bohuslän"],
+    ["Skövde", "Hasslumsvägen 4 – montage och service i Skaraborg"]
+  ],
+  "kontor_rubrik": "Fabrik i Trollhättan, montage i hela regionen",
+  "kontor_text": "Modulerna lastas på lastbil i Trollhättan och når de flesta byggarbetsplatser i Västra Götaland inom två timmar.",
+  "berattelser": [
+    {"rubrik": "Kv. Slussvakten: 168 lägenheter, 112 schakt", "text": "Det största projektet i fabrikens historia lyftes in på nio veckor.", "tagg": "bygg"},
+    {"rubrik": "Andra skiftet i fabriken", "text": "Sedan augusti bygger vi moduler från sex på morgonen till tio på kvällen.", "tagg": "industri"},
+    {"rubrik": "Skövde får eget kontor", "text": "Ett montagelag med åtta personer utgår nu från Hasslum.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "85", "enhet": "anställda", "etikett": "Fabrik, montage och kontor"},
+    {"varde": "4 800", "enhet": "kvm", "etikett": "Modulfabrik på Stallbacka"},
+    {"varde": "65 %", "enhet": "", "etikett": "Av installationen byggs inne"},
+    {"varde": "12 min", "enhet": "", "etikett": "Att lyfta in ett schakt"}
+  ],
+  "projekt": [
+    {"namn": "Kv. Slussvakten", "ort": "Trollhättan", "typ": "Flerbostadshus, 168 lgh", "ar": "2026", "text": "112 schaktmoduler och 168 installationsväggar levererade i takt med stommen.", "tagg": "bygg", "status": "Utfört"},
+    {"namn": "Äldreboendet Kurveberg", "ort": "Uddevalla", "typ": "Vårdboende, 72 rum", "ar": "2025", "text": "Prefabricerade installationsväggar och en undercentral som provkördes i fabriken.", "tagg": "bostad"},
+    {"namn": "Lidköpings Seniorboende", "ort": "Lidköping", "typ": "Trygghetsboende, 54 lgh", "ar": "2025", "text": "Schakt och badrumsväggar med förberedelse för duschtoalett i varje lägenhet.", "tagg": "bostad"},
+    {"namn": "Studentbo vid Högskolan", "ort": "Skövde", "typ": "Studentlägenheter, 210 st", "ar": "2024", "text": "Samma installationsvägg i 210 lägenheter – byggd på fem veckor i fabriken.", "tagg": "bygg"},
+    {"namn": "Grästorps skola", "ort": "Grästorp", "typ": "Skola, värme och sanitet", "ar": "2024", "text": "Golvvärme, toalettgrupper och en värmepumpscentral på skid.", "tagg": "industri"},
+    {"namn": "Kv. Kanalkajen", "ort": "Vänersborg", "typ": "Flerbostadshus, 96 lgh", "ar": "2027", "text": "Projektering pågår, moduler i produktion från våren 2027.", "tagg": "bygg", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Modell", "text": "Vi projekterar VVS i BIM och samordnar med alla andra discipliner innan något tillverkas.", "tagg": "kontor"},
+    {"titel": "Fabrik", "text": "Moduler och väggar byggs, provtrycks och dokumenteras under tak i Trollhättan.", "tagg": "industri"},
+    {"titel": "Leverans", "text": "Modulerna körs ut i lyftordning, märkta per våning och lägenhet.", "tagg": "bygg"},
+    {"titel": "Montage", "text": "Egna montörer lyfter in, kopplar och provtrycker – och lämnar över med samlad dokumentation.", "tagg": "bygg"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mindre spill när röret kapas inomhus",
+    "text": "I fabriken kapas rören efter modellen, och restbitar sorteras per material direkt vid bänken. Vi har mätt byggavfallet från installationerna och ligger på en fjärdedel av en traditionell VVS-entreprenad. Färre transporter till bygget och ingen uttorkning av fukt i rören ger dessutom lägre klimatpåverkan.",
+    "mal": [["–75 %", "byggavfall från installationen"], ["100 %", "protokoll från fabrik på varje modul"], ["2028", "fossilfria transporter till byggena"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg rörsystem inomhus, året om",
+    "text": "I fabriken arbetar du stående, i värme och med rätt verktyg nära till hands. På montaget får du se modulerna bli ett hus. Vi söker både rörmontörer och VVS-ingenjörer som vill arbeta i BIM.",
+    "jobb": [["Rörmontör modulfabrik", "Trollhättan"], ["VVS-projektör BIM", "Trollhättan"], ["Montageledare", "Uddevalla"], ["Rörmontör", "Skövde"]]
+  },
+  "kultur": "Varje fredag lyfter vi en modul i fabriken för att visa nya medarbetare och besökande byggherrar hur det går till.",
+  "citat": {"text": "Ingen skulle bygga en bil ute i regnet. Jag förstod aldrig varför vi skulle bygga rörschakt så.", "namn": "Mikael Thunberg", "roll": "Vd, andra generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Installationen låg för första gången före stommen. Vi kunde stänga huset tre veckor tidigare än planerat.", "namn": "Jonas E., projektchef", "ort": "Trollhättan"},
+    {"text": "Varje installationsvägg hade sitt eget provtrycksprotokoll. Slutbesiktningen av våtrummen gick på en förmiddag.", "namn": "Helena B., byggledare", "ort": "Uddevalla"},
+    {"text": "Vi fick BIM-modellen med alla ventiler och dimensioner när vi tog över huset. Det sparar förvaltningen mycket letande.", "namn": "Kenneth S., förvaltare", "ort": "Skövde"}
+  ],
+  "faq": [
+    ["Vilka projekt passar för prefabricerade installationer?", "Alla hus där samma lösning upprepas: flerbostadshus, äldreboenden, studentbostäder och hotell. Ju fler identiska rum, desto större vinst."],
+    ["Måste vi välja er tidigt?", "Ja, helst i systemhandlingsskedet. Då kan schakten placeras så att de går att lyfta in och samordnas med stommen."],
+    ["Fungerar det med trästomme?", "Ja. Vi har levererat schakt till hus med stomme i KL-trä och anpassar infästningarna efter konstruktörens krav."],
+    ["Vad händer om något ändras sent?", "Ändringar görs i modellen och fabriken justerar. Fram till tre veckor före leverans är det oftast inga problem."],
+    ["Gör ni ROT-projekt och stambyten?", "Nej, vi arbetar bara i nyproduktion och tillbyggnader."],
+    ["Vilka områden levererar ni till?", "Hela Västra Götaland. Halland och Värmland efter överenskommelse."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001 och 45001", "text": "Certifierat kvalitets- och arbetsmiljöledningssystem för fabrik och montage.", "ikon": "skold"},
+    {"titel": "Säker Vatten", "text": "Varje modul provtrycks och dokumenteras enligt branschreglerna innan den lämnar fabriken.", "ikon": "vatten"},
+    {"titel": "ID06", "text": "Alla montörer har ID06-kort och finns i byggherrens personalliggare från första dagen.", "ikon": "folk"},
+    {"titel": "Sunda Hus", "text": "Material i moduler och väggar är bedömda i Sunda Hus databas och redovisas per projekt.", "ikon": "lov"}
+  ],
+  "kunder": ["Älvstrandens Byggnads AB", "Kanalstadens Bostäder", "Uddevalla Hyresgårdar", "Lidköpings Seniorboende", "Skövde Studentbo", "Grästorps Kommunfastigheter", "Bohusläns Byggpartner", "Halle-Hunneberg Bygg"],
+  "nyheter": [
+    ["2026-10-22", "Slussvakten är inflyttad", "168 lägenheter, 112 schakt – och nio veckors lyft.", "bygg"],
+    ["2026-08-11", "Fabriken går i två skift", "Fler moduler per vecka när efterfrågan från byggarna ökar.", "industri"],
+    ["2026-03-31", "Prefab i trähus", "Så fäster vi schakt i stommar av KL-trä utan köldbryggor.", "tra"],
+    ["2025-12-10", "Nytt kontor i Skövde", "Montage och service i Skaraborg får egen bas.", "people"]
+  ],
+  "kontakt": {"adress": "Stallbackavägen 22", "postnr": "461 38", "ort": "Trollhättan", "telefon": "070-174 06 73", "epost": "projekt@fallens.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16, fabrik 6–22",
+  "omrade": "Västra Götaland",
+  "fot_cta": "Är ert projekt i systemhandlingsskedet? Då är det rätt tid att prata prefab.",
+  "bild": {"panel": "industri", "hb": "bygg"},
+  "text": {
+    "kontakt_knapp": "Kontakta projektering",
+    "hero_knapp": "Så fungerar prefab",
+    "vagval_etikett": "Byggnad",
+    "ber_rubrik": "Senast från fabriken",
+    "proj_etikett": "Byggen",
+    "proj_rubrik": "Hus med rör från vår fabrik",
+    "proj_rubrik_lista": "Levererade och kommande projekt",
+    "process_rubrik": "Modell, fabrik, lastbil, kran",
+    "hb_etikett": "Industriellt byggande",
+    "omdomen_rubrik": "Byggledare och förvaltare berättar",
+    "faq_rubrik": "Frågor från byggherrar",
+    "boka_rubrik": "Berätta om projektet",
+    "boka_falt": ["Namn och företag", "Telefon", "E-post", "Projekt, antal lägenheter och skede"],
+    "logos_rubrik": "Byggföretag och byggherrar",
+    "certifikat_rubrik": "Dokumenterat från fabrik till bygge",
+    "bolag_rubrik": "Fyra avdelningar, en leverans",
+    "kontor_etikett": "Orter",
+    "medarbetare": "Medarbetare på Fallens"
+  }
+}

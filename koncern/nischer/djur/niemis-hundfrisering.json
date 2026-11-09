@@ -56,7 +56,7 @@
     {"namn": "Kaamos", "ort": "Newfoundland", "typ": "Bad med lyftbord", "ar": "2025", "text": "68 kilo, tio år gammal och fick åka upp i karet i stället för att hoppa.", "tagg": "hund"}
   ],
   "process": [
-    {"titel": "Ring på morgonen", "text": "Telefonen är öppen 8–9. Vi frågar om ras, ålder och när hunden senast klipptes.", "tagg": "hund"},
+    {"titel": "Morgonsamtalet", "text": "Telefonen är öppen 8–9. Vi frågar om ras, ålder och när hunden senast klipptes.", "tagg": "hund"},
     {"titel": "Lämna i hallen", "text": "Du lämnar hunden vid disken och får ett ungefärligt klockslag för hämtning.", "tagg": "trimning"},
     {"titel": "Bad, fön, sax", "text": "Hunden badas, blåses torr och klipps. Stora spetsar får vila i en hage mellan momenten.", "tagg": "trimning"},
     {"titel": "Sms och hämtning", "text": "Vi skickar ett sms när hunden är klar, och du bokar nästa tid vid kassan.", "tagg": "hund"}
@@ -76,16 +76,16 @@
   ],
   "faq": [
     ["Tar ni alla raser?", "Ja. Den enda gränsen är vikten – över 80 kilo behöver vi boka två frisörer samtidigt."],
-    ["Hur lång tid tar en klippning?", "En liten hund tar ungefär två timmar, en stor spets med full fällning upp till fyra."],
+    ["Hur länge blir hunden kvar hos er?", "En liten hund tar ungefär två timmar, en stor spets med full fällning upp till fyra."],
     ["Kan jag vänta i salongen?", "Ja, det finns två stolar och kaffe. De flesta hundar blir dock lugnare om du går en sväng på stan."],
     ["Har ni parkering?", "Ja, två platser precis utanför entrén på Malmvägen, med motorvärmaruttag på vintern."],
     ["Vad gör ni om hunden är tovig?", "Vi ringer först. Tovor borstas ut i högst en kvart, därefter föreslår vi en kortare klippning."],
     ["Tar ni kort?", "Ja, kort, Swish och faktura för stamkunder."],
-    ["Hur avbokar jag?", "Ring senast dagen före. Uteblir du utan att höra av dig tar vi 250 kronor."]
+    ["Om jag inte kan komma, vad gäller då?", "Ring senast dagen före. Uteblir du utan att höra av dig tar vi 250 kronor."]
   ],
   "priser": [
-    {"namn": "Bad och kloklipp", "pris": "fr. 450 kr", "enhet": "per besök", "text": "För korthåriga hundar och mellan klippningarna.", "punkter": ["Bad med schampo efter pälstyp", "Fön eller handduk", "Kloklipp och öronrengöring", "Tassbalsam vintertid"]},
-    {"namn": "Klippning", "pris": "fr. 790 kr", "enhet": "liten hund, upp till 10 kg", "text": "Hela behandlingen med fast frisör.", "punkter": ["Bad och fön", "Klippning med sax och maskin", "Trim mellan trampdynorna", "Kundkort med dina önskemål"], "utvald": true},
+    {"namn": "Bad och klor", "pris": "fr. 450 kr", "enhet": "per besök", "text": "För korthåriga hundar och mellan klippningarna.", "punkter": ["Bad med schampo efter pälstyp", "Fön eller handduk", "Klor kortas, öron rengörs", "Tassbalsam vintertid"]},
+    {"namn": "Klippning", "pris": "fr. 790 kr", "enhet": "liten hund, upp till 10 kg", "text": "Hela behandlingen med fast frisör.", "punkter": ["Bad och fön", "Klippning med sax och maskin", "Trimmade trampdynor", "Kundkort med dina önskemål"], "utvald": true},
     {"namn": "Fällningspaketet", "pris": "fr. 1 090 kr", "enhet": "spetsar och dubbelpäls", "text": "Underullen ut under vår- och höstfällningen.", "punkter": ["Två bad med avfällningsbalsam", "Utblåsning med kraftfön", "Puts av byxor, tassar och öron", "Råd om borstning hemma"]}
   ],
   "prislista": [["Liten hund, klippning", "fr. 790 kr"], ["Mellanstor hund, klippning", "fr. 990 kr"], ["Stor hund, klippning", "fr. 1 290 kr"], ["Pudel, toy och dvärg", "fr. 850 kr"], ["Svensk lapphund, fällning", "fr. 1 090 kr"], ["Newfoundland, bad och puts", "fr. 1 590 kr"], ["Tasstrim, vinter", "180 kr"], ["Kloklipp lördag, utan bokning", "120 kr"], ["Valpbesök på bordet", "0 kr"], ["Tovborttagning, per kvart", "150 kr"]],

@@ -57,7 +57,7 @@
   ],
   "process": [
     {"titel": "Bild och skiss", "text": "Du visar en bild på formen du gillar, och Yuna skissar upp hur den passar din hunds päls och kropp.", "tagg": "trimning"},
-    {"titel": "Bad och stretchfön", "text": "Hunden badas och fönas rak hår för hår, så att varje lock kan klippas exakt.", "tagg": "hund"},
+    {"titel": "Rak päls före sax", "text": "Hunden badas och fönas rak hår för hår, så att varje lock kan klippas exakt.", "tagg": "hund"},
     {"titel": "Saxen tar över", "text": "Formen klipps fram med raka, krökta och tunningssaxar – i pass om fyrtio minuter med vila.", "tagg": "trimning"},
     {"titel": "Foto och hemvård", "text": "Vi fotograferar hunden och visar hur du kammar för att formen ska hålla.", "tagg": "trimning"}
   ],
@@ -77,15 +77,15 @@
   "faq": [
     ["Vilka raser passar för asiatisk styling?", "Hundar med päls som växer hela tiden: bichon, maltes, pudlar, shih tzu, doodles. Pomeranian och andra små spetsar går också, men på ett annat sätt."],
     ["Varför tar det så lång tid?", "Varje del klipps med sax efter att pälsen fönats rak. En vanlig styling tar två och en halv till tre och en halv timme."],
-    ["Hur ofta behöver hunden komma?", "Var fjärde till sjätte vecka för att formen ska hålla. Längre än åtta veckor och vi måste börja om."],
+    ["Hur länge håller en styling?", "Var fjärde till sjätte vecka för att formen ska hålla. Längre än åtta veckor och vi måste börja om."],
     ["Kan ni klippa efter en bild från nätet?", "Ja, det är så de flesta börjar. Vi säger ärligt om pälsen eller kroppsformen gör att resultatet blir annorlunda."],
     ["Rakar ni pomeranian?", "Nej. Vi formar med sax och tunningssax och låter täckhåret vara kvar."],
-    ["Kan jag vara med?", "Du får gärna titta vid lämning, men de flesta hundar står stillare utan ägaren i rummet."],
-    ["Hur avbokar jag?", "Senast 48 timmar före. Eftersom vi bara tar fyra hundar om dagen tar vi annars halva priset."]
+    ["Får jag stanna och titta?", "Du får gärna titta vid lämning, men de flesta hundar står stillare utan ägaren i rummet."],
+    ["Vad gäller vid sen avbokning?", "Senast 48 timmar före. Eftersom vi bara tar fyra hundar om dagen tar vi annars halva priset."]
   ],
   "priser": [
     {"namn": "Teddyputs", "pris": "fr. 695 kr", "enhet": "mellan stylingarna", "text": "Huvud, öron och tassar.", "punkter": ["Bad och fön", "Huvud och öron i form", "Tassar och hygien", "Cirka 75 minuter"]},
-    {"namn": "Full styling", "pris": "fr. 1 395 kr", "enhet": "små raser", "text": "Hela hunden klippt med sax.", "punkter": ["Skiss utifrån din bild", "Bad och stretchfön", "Saxklippning av hela kroppen", "Foto och hemvårdsråd"], "utvald": true},
+    {"namn": "Full styling", "pris": "fr. 1 395 kr", "enhet": "små raser", "text": "Hela hunden klippt med sax.", "punkter": ["Skiss utifrån din bild", "Rak päls före sax", "Saxklippning av hela kroppen", "Foto och hemvårdsråd"], "utvald": true},
     {"namn": "Första stylingen", "pris": "fr. 1 795 kr", "enhet": "ny kund, omformning", "text": "När pälsen ska formas om från början.", "punkter": ["30 minuters konsultation", "Full styling", "Hemvårdspaket med kam och spray", "Uppföljning efter fyra veckor"]}
   ],
   "prislista": [["Bichon frisé, maltes", "fr. 1 395 kr"], ["Toypudel, dvärgpudel", "fr. 1 395 kr"], ["Shih tzu, lhasa apso", "fr. 1 495 kr"], ["Pomeranian", "fr. 1 295 kr"], ["Cavapoo, maltipoo", "fr. 1 595 kr"], ["Mellanstor doodle", "fr. 1 895 kr"], ["Valpstyling, 12–16 veckor", "750 kr"], ["Teddyputs", "fr. 695 kr"], ["Hemvårdspaket", "395 kr"]],
@@ -118,7 +118,7 @@
     "galleri_rubrik": "Runda huvuden och bollöron",
     "boka_rubrik": "Boka en styling",
     "boka_text": "Skriv hundens ras och ålder och bifoga en bild på stilen du drömmer om, så återkommer Hugo med en tid.",
-    "boka_falt": ["Ditt namn", "Telefon", "Hundens ras och ålder", "Önskad stil"],
+    "boka_falt": ["Ditt namn", "Telefon", "Ras, ålder och pälslängd", "Önskad stil"],
     "ny_rubrik": "Stylingskolan",
     "panel_etikett": "Första stylingen",
     "sida_bolag_ingress": "Vi är {n} – två stylister och en som badar och fönar.",

@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "sotare",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Rönnby Rökgas & Panna AB",
+  "kortnamn": "Rönnby Rökgas",
+  "slug": "ronnby-rokgas",
+  "typ": "Emissionsmätning och pannsotning, Västerås",
+  "tagline": "Mätt, sotat, rapporterat",
+  "slogan": "Vi mäter utsläpp, sotar pannor och skriver miljörapporternas underlag åt värmeverk, industrier och fastighetsägare med förbränningsanläggningar i Mälardalen.",
+  "hero_rubrik": "Siffror som håller vid tillsynen",
+  "hero_text": "Ackrediterade emissionsmätningar, sotning av pannor från 50 kW till 40 MW och underlag till miljörapporten – från ett och samma lag.",
+  "intro_rubrik": "Ett mätlaboratorium med sotare",
+  "om": [
+    "Rönnby Rökgas startades 1988 av sotarmästaren Gunnar Fält, som började mäta koloxid och syrehalt i stadens pannrum långt innan det blev ett krav. När miljöbalken kom 1999 byggde hans son Henrik upp ett mätlaboratorium vid sidan av sotningen, och sedan 2009 är vi ackrediterade av Swedac.",
+    "I dag är vi 38 anställda med lab och verkstad i Rönnby, Västerås. Hälften av oss arbetar med mätningar och rapporter, hälften med sotning och rengöring av pannor och rökgaskanaler. Våra kunder är närvärmeverk, sågverk, pelletsfabriker, sjukhus och fastighetsägare med egna pannor i Västmanland, Uppsala län och Södermanland."
+  ],
+  "vagval_rubrik": "Vilken anläggning har ni?",
+  "tjanster": [
+    {"titel": "Emissionsmätning", "ikon": "graf", "href": "verksamhet.html", "text": "Ackrediterad mätning av stoft, NOx, CO, SO2 och TOC enligt standard."},
+    {"titel": "Kontrollprogram", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi skriver och uppdaterar kontrollprogrammet som tillsynsmyndigheten kräver."},
+    {"titel": "Pannsotning", "ikon": "fabrik", "href": "verksamhet.html", "text": "Rengöring av tubpannor, eldstäder och konvektionsdelar under planerade stopp."},
+    {"titel": "Rökgaskanaler och filter", "ikon": "ror", "href": "verksamhet.html", "text": "Rengöring av kanaler, cykloner och textilfilter i fastbränsleanläggningar."},
+    {"titel": "Injustering av förbränning", "ikon": "kugge", "href": "verksamhet.html", "text": "Vi justerar luftöverskott och bränsleinmatning för lägre utsläpp och bättre verkningsgrad."},
+    {"titel": "Underlag för miljörapport", "ikon": "lov", "href": "verksamhet.html", "text": "Sammanställda mätvärden och beräkningar inför den årliga miljörapporten."},
+    {"titel": "Medelstora pannor", "ikon": "blixt", "href": "verksamhet.html", "text": "Registrering och mätning för anläggningar mellan 1 och 50 MW."},
+    {"titel": "Begär mätofferta", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Skicka anläggningens tillstånd så föreslår vi mätplan och pris."}
+  ],
+  "affarsomraden": [
+    {"titel": "Ackrediterade mätningar", "text": "Vi mäter utsläpp från förbränningsanläggningar enligt de standarder som tillstånden hänvisar till. Mätningarna görs med kalibrerade instrument från en mätvagn som kopplas till anläggningens mätuttag.", "text2": "Ackrediteringen enligt ISO/IEC 17025 gör att tillsynsmyndigheten godtar resultaten utan extra granskning.", "tagg": "industri"},
+    {"titel": "Sotning av pannor", "text": "En tubpanna med beläggningar tappar verkningsgrad och släpper ut mer. Vi rengör pannor, eldstäder och ekonomisrar under planerade stopp, med högtrycksluft, borstar och vid behov torrisblästring.", "text2": "Ett vanligt stopp för en 10 MW-panna tar 36 timmar från kall panna till klar för tändning.", "tagg": "skorsten"},
+    {"titel": "Miljörapportering", "text": "Värmeverk och industrier ska varje år redovisa utsläpp och kontroller till tillsynsmyndigheten. Vi sammanställer mätvärden, driftdata och beräkningar i det format som behövs.", "text2": "Kunden granskar och skickar in – men slipper leta efter siffror i februari.", "tagg": "kontor"},
+    {"titel": "Injustering och felsökning", "text": "När utsläppen ligger nära gränsvärdet är det ofta förbränningen som behöver justeras, inte reningen. Vi mäter under drift och justerar luftfördelning och bränsleinmatning tillsammans med driftpersonalen.", "text2": "Efter injustering mäter vi igen och dokumenterar skillnaden.", "tagg": "maskin"}
+  ],
+  "bolag": [
+    {"namn": "Mätlaboratoriet", "segment": "Emissionsmätning", "rubrik": "Ackrediterade sedan 2009", "text": "Tolv mätingenjörer och tekniker med två mätvagnar och eget kalibreringsrum i Rönnby.", "tagg": "industri"},
+    {"namn": "Pannsotningen", "segment": "Rengöring av anläggningar", "rubrik": "Sotare för pannor upp till 40 MW", "text": "Arton skorstensfejare och industrirengörare som arbetar under planerade revisionsstopp.", "tagg": "skorsten"},
+    {"namn": "Rapport och tillstånd", "segment": "Miljöstöd", "rubrik": "Siffror i rätt format", "text": "Fyra miljöingenjörer som skriver kontrollprogram och underlag till miljörapporter.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Revisionsstopp i Kolbäck", "text": "Närvärmeverkets två flispannor sotades och mättes under samma veckostopp i september.", "tagg": "skorsten"},
+    {"rubrik": "Ny mätvagn för stoft", "text": "Den andra mätvagnen har utrustning för isokinetisk stoftmätning, så vi kan ta två anläggningar samtidigt.", "tagg": "industri"},
+    {"rubrik": "40 procent lägre NOx", "text": "Efter injustering av förbränningsluften sänkte en pelletsfabrik i Sala sina kväveoxider med 40 procent.", "tagg": "maskin"}
+  ],
+  "nyckeltal": [
+    {"varde": "640", "enhet": "mätningar", "etikett": "Utförda under 2025"},
+    {"varde": "40 MW", "enhet": "", "etikett": "Största pannan vi sotar"},
+    {"varde": "38", "enhet": "anställda", "etikett": "Mätare, sotare, ingenjörer"},
+    {"varde": "2009", "enhet": "", "etikett": "Ackrediterade av Swedac"}
+  ],
+  "projekt": [
+    {"namn": "Kolbäcks närvärmeverk", "ort": "Kolbäck", "typ": "Sotning och mätning", "ar": "2026", "text": "Två flispannor på 6 MW rengjorda och mätta under ett veckostopp.", "tagg": "skorsten"},
+    {"namn": "Sala pelletsfabrik", "ort": "Sala", "typ": "Injustering", "ar": "2026", "text": "Torkugnens brännare injusterades och kväveoxiderna sjönk med 40 procent.", "tagg": "maskin"},
+    {"namn": "Hallstahammars bruksvärme", "ort": "Hallstahammar", "typ": "Kontrollprogram", "ar": "2025", "text": "Nytt kontrollprogram och mätplan efter att anläggningen byggts ut till 12 MW.", "tagg": "kontor"},
+    {"namn": "Köpings sågverk", "ort": "Köping", "typ": "Rökgaskanaler", "ar": "2025", "text": "Rengöring av rökgaskanal och multicyklon på sågverkets biobränslepanna.", "tagg": "industri"},
+    {"namn": "Enköpings sjukhusfastigheter", "ort": "Enköping", "typ": "Reservpannor", "ar": "2025", "text": "Sotning och emissionsmätning av tre oljepannor som används som reserv.", "tagg": "skorsten"},
+    {"namn": "Strängnäs fjärrvärme", "ort": "Strängnäs", "typ": "Emissionsmätning", "ar": "2026", "text": "Årlig mätning av stoft och NOx på en 18 MW-panna – rapporten skrivs nu.", "tagg": "industri", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Tillståndet först", "text": "Vi läser anläggningens tillstånd och villkor för att veta exakt vad som ska mätas och hur.", "tagg": "kontor"},
+    {"titel": "Planerat stopp", "text": "Sotning och mätning läggs i samma stopp, så att anläggningen bara behöver stå en gång.", "tagg": "skorsten"},
+    {"titel": "Mätning under drift", "text": "Mätvagnen kopplas in och mäter i tre perioder om minst 30 minuter vid normal last.", "tagg": "industri"},
+    {"titel": "Rapport inom tre veckor", "text": "Ackrediterad mätrapport och vid behov underlag till miljörapporten.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje mätning ska gå att lita på",
+    "text": "Våra instrument kalibreras med certifierade gaser före och efter varje mätning, och Swedac granskar laboratoriet varje år. När vi hittar fel i vår egen rapport rättar vi och meddelar kunden samma dag. Rena pannor och rätt injustering minskar bränsleåtgången hos kunderna med i snitt 4 procent.",
+    "mal": [["100 %", "av mätningarna med kalibrering före och efter"], ["−4 %", "bränsle hos kunder efter sotning och injustering"], ["3 v", "längsta tid till färdig mätrapport"]]
+  },
+  "karriar": {
+    "rubrik": "Mät, sota och förstå förbränning",
+    "text": "Vi söker både ingenjörer och sotare. Sotare som vill lära sig mätteknik får utbildning internt, och ingenjörer får gå med i pannsotningen första månaden för att förstå anläggningarna inifrån.",
+    "jobb": [["Mätingenjör", "Västerås"], ["Pannsotare", "Västerås"], ["Miljöingenjör, rapporter", "Västerås"]]
+  },
+  "kultur": "Efter varje stort revisionsstopp går hela laget ut och äter middag – på kundens bekostnad om allt gick som planerat.",
+  "citat": {"text": "Pappa mätte koloxid med ett glasrör och en gummiblåsa. Vi har mätvagnar i dag, men frågan är densamma: brinner det som det ska?", "namn": "Henrik Fält", "roll": "Vd", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Sotning och mätning i samma stopp sparade oss en hel driftdag. Mätrapporten kom efter två veckor.", "namn": "Roger B.", "ort": "Kolbäck"},
+    {"text": "De hittade felet i luftfördelningen som tre andra hade missat. NOx-värdet ligger nu långt under villkoret.", "namn": "Susanne T.", "ort": "Sala"},
+    {"text": "Underlaget till miljörapporten var klart i januari. Första gången på tio år som jag inte jobbade sent i mars.", "namn": "Ola H.", "ort": "Hallstahammar"}
+  ],
+  "faq": [
+    ["Vilka anläggningar behöver emissionsmätning?", "Det står i anläggningens tillstånd eller i förordningen om medelstora förbränningsanläggningar. Anläggningar mellan 1 och 50 MW ska registreras och mäta med regelbundna intervall."],
+    ["Varför ska mätningen vara ackrediterad?", "Många tillstånd kräver att mätningar görs av ackrediterat laboratorium. Ackrediteringen visar att metod, instrument och personal är granskade av Swedac."],
+    ["Kan ni sota och mäta samtidigt?", "Ja, och det är vanligast. Vi sotar under stoppet och mäter när pannan är i drift igen, så att mätningen speglar en ren anläggning."],
+    ["Sotar ni villor?", "Nej, villor och mindre fastigheter sköts av kommunens sotningsentreprenör. Vi arbetar med pannor från 50 kW och uppåt."],
+    ["Hur lång tid tar en mätning?", "En normal mätning tar en arbetsdag på plats. Rapporten levereras inom tre veckor."],
+    ["Arbetar ni utanför Mälardalen?", "Ja, mätningar gör vi i hela Svealand. Pannsotning tar vi i första hand inom tolv mil från Västerås."]
+  ],
+  "certifikat": [
+    {"titel": "Ackrediterat laboratorium", "text": "Ackrediterat av Swedac enligt ISO/IEC 17025 för emissionsmätningar.", "ikon": "skold"},
+    {"titel": "Skorstensfejarmästare", "text": "Två mästare och nio tekniker leder pannsotningen.", "ikon": "stjarna"},
+    {"titel": "Arbete i slutna utrymmen", "text": "All sotningspersonal har utbildning för arbete i pannor och slutna utrymmen.", "ikon": "hjalm"},
+    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem för hela verksamheten.", "ikon": "lov"}
+  ],
+  "kunder": ["Kolbäcks Närvärme", "Sala Pellets AB", "Hallstahammars Bruksvärme", "Köpings Sågverk", "Enköpings Sjukhusfastigheter", "Strängnäs Fjärrvärme", "Arboga Energi & Värme", "Västerås Lokalfastigheter"],
+  "nyheter": [
+    ["2026-10-19", "Lägg mätningen i revisionsstoppet", "Så planerar ni sotning och emissionsmätning så att pannan bara står en gång.", "skorsten"],
+    ["2026-06-30", "Andra mätvagnen i drift", "Med två vagnar kan vi mäta på två anläggningar samma vecka under högsäsong.", "industri"],
+    ["2026-02-02", "Miljörapporten 2026", "Vi har skickat underlag till 46 anläggningar – nu är det dags att granska.", "kontor"]
+  ],
+  "kontakt": {"adress": "Rönnbyvägen 63", "postnr": "723 46", "ort": "Västerås", "telefon": "070-174 06 78", "epost": "lab@ronnbyrokgas.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, revisionsstopp även helger",
+  "omrade": "Västmanland, Uppsala län och Södermanland – mätningar i hela Svealand",
+  "fot_cta": "Står ni inför nästa revisionsstopp? Låt oss planera sotning och mätning tillsammans.",
+  "bild": {"panel": "industri", "hb": "skorsten"},
+  "text": {
+    "kontakt_knapp": "Begär mätplan",
+    "hero_knapp": "Mätningar och sotning",
+    "hero_lank": "Anläggningar vi har mätt",
+    "vagval_etikett": "Anläggningar",
+    "ber_etikett": "Från stoppen",
+    "ber_rubrik": "Mätt och sotat i höst",
+    "proj_rubrik": "Pannor och verk i Mälardalen",
+    "proj_rubrik_lista": "Mätningar och revisionsstopp",
+    "process_rubrik": "Från tillstånd till mätrapport",
+    "bolag_rubrik": "Lab, sotning och rapport",
+    "hb_etikett": "Spårbarhet",
+    "hb_lank": "Om ackrediteringen",
+    "omdomen_rubrik": "Driftchefer och miljöansvariga",
+    "faq_rubrik": "Om mätningar, tillstånd och pannor",
+    "boka_rubrik": "Beskriv anläggningen",
+    "boka_text": "Skriv effekt, bränsle och när nästa stopp är planerat. En mätingenjör återkommer med förslag inom tre arbetsdagar.",
+    "boka_falt": ["Namn och anläggning", "Telefon", "E-post", "Effekt, bränsle och planerat stopp"],
+    "certifikat_rubrik": "Ackreditering och behörigheter",
+    "logos_rubrik": "Anläggningar vi mäter och sotar",
+    "medarbetare": "Medarbetare"
+  }
+}

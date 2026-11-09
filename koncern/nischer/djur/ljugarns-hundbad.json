@@ -19,7 +19,7 @@
     {"titel": "Havsbadssköljning", "ikon": "vatten", "href": "verksamhet.html", "text": "Saltvatten, sand och tång ur pälsen på tjugo minuter."},
     {"titel": "Sommarklipp", "ikon": "sol", "href": "verksamhet.html", "text": "Lätt och luftigt för långhåriga hundar – utan att raka."},
     {"titel": "Drop in i juli", "ikon": "kalender", "href": "verksamhet.html", "text": "Varje förmiddag 9–12, utan bokning."},
-    {"titel": "Helklippning", "ikon": "sax", "href": "verksamhet.html", "text": "Alla raser, med bad och fön, året runt."},
+    {"titel": "Klippning året runt", "ikon": "sax", "href": "verksamhet.html", "text": "Alla raser, med bad och fön, året runt."},
     {"titel": "Fästingkoll", "ikon": "sok", "href": "verksamhet.html", "text": "Vi letar igenom pälsen efter promenaden i rauk- och enbuskmarkerna."},
     {"titel": "Hämtning i Ljugarn", "ikon": "bil", "href": "verksamhet.html", "text": "Vi hämtar hunden vid stugan och lämnar tillbaka den ren."},
     {"titel": "Prislista", "ikon": "dokument", "href": "priser.html", "text": "Samma priser för öbor och sommargäster."},
@@ -32,7 +32,7 @@
     {"titel": "Första havsbadet", "text": "Valpar som ska bada för första gången får gå med oss till stranden en stilla morgon, och sedan duscha i salongen. Det blir ett tryggt minne av både vatten och fön.", "text2": "Valpbadet erbjuds i juni och augusti, när stranden är lugnare.", "tagg": "valp"}
   ],
   "bolag": [
-    {"namn": "Malin Hejdenberg", "segment": "Ägare och hundfrisör", "rubrik": "Tillbaka på ön sedan 2016", "text": "Malin klipper året runt och tar alla helklippningar. Hon har två labradorer som badar i havet varje morgon, även i februari.", "tagg": "trimning"},
+    {"namn": "Malin Hejdenberg", "segment": "Ägare, frisör och morgonbadare", "rubrik": "Tillbaka på ön sedan 2016", "text": "Malin klipper året runt och tar alla helklippningar. Hon har två labradorer som badar i havet varje morgon, även i februari.", "tagg": "trimning"},
     {"namn": "Alva Klintberg", "segment": "Hundfrisör", "rubrik": "Uppvuxen i Roma", "text": "Alva gick lärling hos Malin och arbetar heltid sedan 2020. Hon tar valpbaden och de flesta stamkunderna på vintern.", "tagg": "valp"},
     {"namn": "Felix Stenström", "segment": "Sommarfrisör och hämtning", "rubrik": "Bilen mellan stugorna", "text": "Felix pluggar till djursjukskötare i Skara och arbetar hos oss varje sommar sedan 2022. Han kör hämtningarna och tar drop in.", "tagg": "hund"}
   ],
@@ -86,9 +86,9 @@
   "priser": [
     {"namn": "Havsbadssköljning", "pris": "295 kr", "enhet": "per hund", "text": "Salt, sand och tång ut.", "punkter": ["Sköljning med ljummet sötvatten", "Milt schampo och balsam", "Kontroll av öron och tassar", "Handduks- eller fröntorkning"]},
     {"namn": "Sommarklipp", "pris": "fr. 795 kr", "enhet": "liten–mellan hund", "text": "Lättare päls utan rakning.", "punkter": ["Bad och sköljning", "Utborstning av underull", "Kortad buk, tassar och rumpa", "Fästingkoll"], "utvald": true},
-    {"namn": "Helklippning", "pris": "fr. 995 kr", "enhet": "alla raser, året runt", "text": "Hela behandlingen med fast frisör.", "punkter": ["Bad och fön", "Klippning efter ras eller önskemål", "Kloklipp och öron", "Fast tid för bofasta"]}
+    {"namn": "Helklippning", "pris": "fr. 995 kr", "enhet": "alla raser, året runt", "text": "Bad, fön och klippning efter rasens behov.", "punkter": ["Bad och fön", "Klippning efter ras eller önskemål", "Klor, öron och tassar", "Fast tid för bofasta"]}
   ],
-  "prislista": [["Havsbadssköljning", "295 kr"], ["Tredje sköljningen samma vecka", "150 kr"], ["Sommarklipp, liten hund", "fr. 795 kr"], ["Sommarklipp, stor hund", "fr. 1 095 kr"], ["Helklippning, pudel och doodle", "fr. 1 095 kr"], ["Fästingkoll och bad", "350 kr"], ["Valpens första havsbad", "395 kr"], ["Kloklipp, drop in", "140 kr"], ["Hämtning i Ljugarn med omnejd", "150 kr"]],
+  "prislista": [["Havsbadssköljning", "295 kr"], ["Tredje sköljningen samma vecka", "150 kr"], ["Sommarklipp, liten hund", "fr. 795 kr"], ["Sommarklipp, stor hund", "fr. 1 095 kr"], ["Helklippning, pudel och doodle", "fr. 1 095 kr"], ["Fästingkoll och bad", "350 kr"], ["Valpens första havsbad", "395 kr"], ["Kloklipp utan tidsbokning", "140 kr"], ["Hämtning i Ljugarn med omnejd", "150 kr"]],
   "galleri_taggar": ["hund", "trimning", "valp"],
   "nyheter": [
     ["2026-10-05", "Vintertider på salongen", "Tisdag till torsdag 9–16 fram till påsk.", "trimning"],
@@ -118,7 +118,7 @@
     "galleri_rubrik": "Hundar som varit i havet",
     "boka_rubrik": "Boka före semestern",
     "boka_text": "Skriv vilka veckor ni är på ön, hundens ras och om ni vill att vi hämtar vid stugan.",
-    "boka_falt": ["Ditt namn", "Telefon", "Hund och ras", "Veckor på ön"],
+    "boka_falt": ["Ditt namn", "Telefon", "Hundens namn och ras", "Veckor på ön"],
     "ny_rubrik": "Hundråd från östkusten",
     "panel_etikett": "Ny på ön",
     "fot_adress": "Salongen vid stranden",

@@ -1,0 +1,144 @@
+{
+  "profil": "nisch",
+  "nisch": "tak",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Rännverket Halland AB",
+  "kortnamn": "Rännverket",
+  "slug": "rannverket",
+  "typ": "Takavvattning i Halland",
+  "tagline": "Från nock till brunn",
+  "slogan": "Vi gör en enda sak: ser till att regnvattnet tar sig från taket till marken utan att hamna i väggen, källaren eller hos grannen.",
+  "hero_rubrik": "Taket är tätt. Men vart tar vattnet vägen?",
+  "hero_text": "Hängrännor, stuprör, takbrunnar och dagvatten för villor, föreningar och fastighetsbolag längs Hallandskusten. 16 plåtslagare och anläggare som följer vattnet hela vägen.",
+  "intro_rubrik": "Fjorton år med blicken på takfoten",
+  "om": [
+    "Rännverket startades 2012 av plåtslagaren Johan Bengtsson och anläggaren Lina Persson i Halmstad. Efter ett skyfall i augusti det året hade de båda fått samtal från villaägare med vatten i källaren, och i nästan alla fall låg felet i rännor som var för små, igensatta eller kopplade till en dagvattenledning som rasat.",
+    "Vi lägger inga tak. I stället dimensionerar vi takavvattningen efter takets yta och dagens regnintensitet, monterar rännor och stuprör och kopplar dem till dagvatten eller lokal infiltration på tomten. I dag är vi 16 anställda och gör runt 900 uppdrag om året."
+  ],
+  "vagval_rubrik": "Var i kedjan sitter problemet?",
+  "tjanster": [
+    {"titel": "Nya hängrännor", "ikon": "vatten", "href": "verksamhet.html", "text": "Rännor i stål, aluminium, koppar eller zink, dimensionerade efter takets yta."},
+    {"titel": "Stuprör och utkastare", "ikon": "ror", "href": "verksamhet.html", "text": "Fler och grövre stuprör där vattnet annars rinner över vid kraftiga regn."},
+    {"titel": "Takbrunnar på platta tak", "ikon": "kugge", "href": "verksamhet.html", "text": "Byte och komplettering av takbrunnar och bräddavlopp på låglutande tak."},
+    {"titel": "Dagvatten och infiltration", "ikon": "karta", "href": "verksamhet.html", "text": "Stenkistor, regnbäddar och nya dagvattenledningar på tomten."},
+    {"titel": "Filmning av ledningar", "ikon": "kamera", "href": "verksamhet.html", "text": "Kamerainspektion av stuprör och ledningar för att hitta rotinträngning och ras."},
+    {"titel": "Rännrensning", "ikon": "kalender", "href": "verksamhet.html", "text": "Rensning vår och höst med skylift eller stege, med foto före och efter."},
+    {"titel": "Skyfallsanalys", "ikon": "graf", "href": "verksamhet.html", "text": "Beräkning av hur fastigheten klarar ett hundraårsregn, med förslag på åtgärder."},
+    {"titel": "Fast pris på rännbyte", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Mät husets längd och få pris på nya rännor direkt."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villor och radhus", "text": "En villa från 1970-talet har ofta rännor dimensionerade för regn som var vanliga då. Vi byter till rätt storlek, lägger till stuprör och ser till att vattnet leds minst tre meter från grunden.", "text2": "Ett normalt rännbyte på en villa tar en dag och görs av två plåtslagare.", "tagg": "hem"},
+    {"titel": "Föreningar och fastighetsbolag", "text": "Översvämmade källare i flerbostadshus kostar ofta mer än hela takavvattningen. Vi går igenom alla stuprör och brunnar i området och prioriterar åtgärderna efter risk.", "text2": "Föreningen får en karta över alla stuprör, brunnar och ledningar efter besöket.", "tagg": "bostad"},
+    {"titel": "Platta tak och industri", "text": "På låglutande tak är det brunnarna och bräddavloppen som avgör om taket klarar ett skyfall. Vi dimensionerar om, byter brunnar och kompletterar med nödavlopp genom attiken.", "text2": "Vi samarbetar med tätskiktsentreprenörer som gör själva takduken.", "tagg": "industri"},
+    {"titel": "Dagvatten på tomten", "text": "Allt fler kommuner i Halland vill att regnvatten tas om hand på den egna tomten. Vi gräver stenkistor och regnbäddar och kopplar bort stuprör från den kommunala ledningen när det behövs.", "text2": "Anläggarlaget har egen grävmaskin och kamerautrustning.", "tagg": "mark"}
+  ],
+  "bolag": [
+    {"namn": "Plåtlagen", "segment": "Rännor och stuprör", "rubrik": "Längs takfoten", "text": "Åtta plåtslagare i fyra par som byter rännor och stuprör på villor, radhus och flerbostadshus.", "tagg": "tak"},
+    {"namn": "Anläggarlaget", "segment": "Dagvatten och mark", "rubrik": "Där stupröret slutar", "text": "Fyra anläggare med grävmaskin, kamera och spolutrustning som tar hand om vattnet under marken.", "tagg": "mark"},
+    {"namn": "Analys och kontor", "segment": "Beräkning och kundtjänst", "rubrik": "Siffror före rännor", "text": "Lina Persson och tre kollegor som beräknar flöden, gör skyfallsanalyser och bokar uppdragen.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Skyfallet i juli gav 220 samtal på en vecka", "text": "Nästan alla källare som tog in vatten hade stuprör kopplade till gamla betongledningar.", "tagg": "vvs"},
+    {"rubrik": "Brf Nissastrand bytte 68 stuprör", "text": "Efter vår analys fick föreningen grövre rör och tre nya stenkistor på gården.", "tagg": "bostad"},
+    {"rubrik": "Ny kamerabil", "text": "Med den nya bilen filmar vi 200 meter ledning per timme och ser exakt var rötterna sitter.", "tagg": "mark"}
+  ],
+  "nyckeltal": [
+    {"varde": "900", "enhet": "uppdrag/år", "etikett": "Villor, brf och industri"},
+    {"varde": "1 dag", "enhet": "", "etikett": "Rännbyte på en villa"},
+    {"varde": "16", "enhet": "anställda", "etikett": "Plåtslagare och anläggare"},
+    {"varde": "40 mm", "enhet": "per timme", "etikett": "Regnet vi dimensionerar för"}
+  ],
+  "projekt": [
+    {"namn": "Brf Nissastrand", "ort": "Halmstad", "typ": "Stuprör och stenkistor", "ar": "2026", "text": "68 nya stuprör och tre stenkistor efter skyfallsanalys av hela gården.", "tagg": "bostad"},
+    {"namn": "Villa i Tylösand", "ort": "Halmstad", "typ": "Kopparrännor vid kusten", "ar": "2025", "text": "Kopparrännor som tål salt och sand, med lövsilar och utkastare.", "tagg": "hem"},
+    {"namn": "Lagerhallen vid hamnen", "ort": "Falkenberg", "typ": "Takbrunnar och nödavlopp", "ar": "2025", "text": "Tolv nya takbrunnar och bräddavlopp genom attiken på 8 000 m² tak.", "tagg": "industri"},
+    {"namn": "Radhusen i Mellbystrand", "ort": "Laholm", "typ": "Rännbyte, 34 radhus", "ar": "2024", "text": "Nya rännor och stuprör på hela området på tre veckor.", "tagg": "tak"},
+    {"namn": "Skolan i Getinge", "ort": "Getinge", "typ": "Lokalt omhändertagande", "ar": "2024", "text": "Stuprören kopplades bort från ledningsnätet och leds till två regnbäddar på skolgården.", "tagg": "mark"},
+    {"namn": "Brf Kustgården", "ort": "Varberg", "typ": "Skyfallsanalys och åtgärder", "ar": "2026", "text": "Analys klar, åtgärder på fyra hus startar i mars 2027.", "tagg": "bostad", "status": "Planerat"}
+  ],
+  "process": [
+    {"titel": "Mätning", "text": "Vi mäter takytor, räknar flöden och filmar ledningarna om vattnet inte rinner undan.", "tagg": "tak"},
+    {"titel": "Förslag", "text": "Du får ett förslag med dimensioner, material och var vattnet ska ta vägen.", "tagg": "kontor"},
+    {"titel": "Montage", "text": "Plåtlaget byter rännor och stuprör, anläggarlaget tar det som ligger under mark.", "tagg": "hem"},
+    {"titel": "Provspolning", "text": "Vi spolar hela systemet med vatten från taket och kontrollerar att allt rinner rätt.", "tagg": "vvs"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Regnet blir kraftigare, rännorna måste följa med",
+    "text": "SMHI räknar med att de kraftigaste skyfallen i Halland blir 10–20 procent intensivare till 2050. Vi dimensionerar därför alla nya system med marginal och föreslår lokal infiltration där marken tillåter det. Det avlastar kommunens ledningar och minskar risken för översvämning nedströms.",
+    "mal": [["+20 %", "marginal i dimensioneringen mot dagens normer"], ["310", "stuprör bortkopplade från ledningsnätet 2025"], ["100 %", "av gammal plåt och koppar går till återvinning"]]
+  },
+  "karriar": {
+    "rubrik": "Plåtslagare eller anläggare – vi följer vattnet",
+    "text": "Vi söker en plåtslagare och en anläggare med B- och BE-körkort. Korta uppdrag, nya adresser varje dag och kunder som märker skillnaden vid nästa regn.",
+    "jobb": [["Plåtslagare, takavvattning", "Halmstad"], ["Anläggare, dagvatten", "Halmstad"]]
+  },
+  "kultur": "När det regnar riktigt hårt tar vi bilen och tittar på taken vi gjort – det är bästa kvalitetskontrollen.",
+  "citat": {"text": "Folk tror att det läcker från taket. Nio gånger av tio är det vattnet som lämnat taket som ställer till det.", "namn": "Johan Bengtsson", "roll": "Medgrundare och plåtslagare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Källaren tog in vatten varje stort regn i tre år. Rännverket filmade och hittade en rasad ledning under altanen. Sedan dess har det varit torrt.", "namn": "Peter A.", "ort": "Halmstad"},
+    {"text": "Vi fick en karta över alla 68 stuprör och vilka som var kopplade vart. Det har styrelsen aldrig haft förut.", "namn": "Brf Nissastrand, styrelsen", "ort": "Halmstad"},
+    {"text": "De kom på morgonen och vid lunch hade huset nya rännor i koppar. Kunde inte varit enklare.", "namn": "Margareta S.", "ort": "Tylösand"}
+  ],
+  "faq": [
+    ["Hur vet jag om mina rännor är för små?", "Om vatten rinner över kanten vid kraftigt regn, eller om marken nedanför är urgröpt, är de troligen för små eller har för få stuprör."],
+    ["Vilket material håller bäst vid kusten?", "Koppar och aluminium tål salt bäst. Lackerad stålplåt fungerar, men behöver ses över oftare inom en kilometer från havet."],
+    ["Får jag koppla bort stupröret från den kommunala ledningen?", "Ofta ja, och vissa kommuner uppmuntrar det. Vi kontrollerar vad som gäller och att marken klarar att ta emot vattnet."],
+    ["Hur ofta ska rännorna rensas?", "Minst en gång om året, och två gånger om du har stora träd nära huset."],
+    ["Gör ni ROT-avdrag?", "Ja, på arbetskostnaden för rännbyten och rensning. Markarbeten på tomten ger också ROT."],
+    ["Lägger ni nya tak?", "Nej, vi arbetar bara med takavvattning och dagvatten. Behöver taket bytas samarbetar vi gärna med din takläggare."]
+  ],
+  "priser": [
+    {"namn": "Rännrensning", "pris": "1 950 kr", "enhet": "per tillfälle, villa", "text": "Rensning av rännor och stuprör med foto före och efter.", "punkter": ["Rensning av alla rännor", "Kontroll av stuprör och brunnar", "Foton i mejlen samma dag", "Lövsilar som tillval"]},
+    {"namn": "Rännbyte villa", "pris": "fr. 690 kr", "enhet": "per löpmeter, före ROT", "text": "Nya rännor och stuprör i lackerad stålplåt.", "punkter": ["Demontering av gamla rännor", "Nya rännkrokar och rännor", "Stuprör med utkastare", "Provspolning efter montage"], "utvald": true},
+    {"namn": "Skyfallsanalys", "pris": "fr. 12 500 kr", "enhet": "per fastighet", "text": "Beräkning och rapport för föreningar och fastighetsägare.", "punkter": ["Mätning av alla takytor", "Kamerainspektion av ledningar", "Karta över stuprör och brunnar", "Åtgärdsförslag i prioritetsordning"]}
+  ],
+  "priser_rubrik": "Vad det kostar att leda bort vattnet",
+  "prislista": [["Filmning av stupröranslutning", "fr. 2 900 kr"], ["Nytt stuprör inkl. utkastare", "fr. 2 400 kr"], ["Kopparränna", "fr. 1 290 kr/m"], ["Lövsilar, villa", "fr. 1 400 kr"], ["Stenkista 1 m³", "fr. 18 000 kr"], ["Byte av takbrunn, platt tak", "fr. 6 800 kr"]],
+  "certifikat": [
+    {"titel": "Plåt & Ventföretagen", "text": "Medlem och följer branschens anvisningar för takavvattning.", "ikon": "folk"},
+    {"titel": "Behörig spolning och filmning", "text": "Anläggarlaget är utbildat för spolning och kamerainspektion av ledningar.", "ikon": "kamera"},
+    {"titel": "Fallskydd och lift", "text": "Utbildade för arbete på hög höjd med skylift och fallskydd.", "ikon": "hjalm"},
+    {"titel": "ID06", "text": "Personalliggare och ID-kort för alla på större arbetsplatser.", "ikon": "dokument"}
+  ],
+  "certifikat_rubrik": "Behöriga från takfot till ledning",
+  "kunder": ["Brf Nissastrand", "Brf Kustgården", "Tylösands Sommarbyar", "Falkenbergs Hamnfastigheter", "Mellbystrands Radhusförening", "Getinge Skolfastigheter", "Hallandskustens Bostäder"],
+  "kunder_rubrik": "De slipper vatten i källaren",
+  "nyheter": [
+    ["2026-09-15", "Efter skyfallet: fem tecken på för små rännor", "Det här kan du kontrollera själv nästa gång det regnar kraftigt.", "hem"],
+    ["2026-07-24", "220 samtal på en vecka", "Skyfallet i juli visade vilka hus som inte klarar dagens regn.", "vvs"],
+    ["2026-04-08", "Ny kamerabil i drift", "Snabbare filmning av ledningar och färdig rapport samma dag.", "mark"]
+  ],
+  "kontakt": {"adress": "Kristian IV:s väg 61", "postnr": "302 50", "ort": "Halmstad", "telefon": "070-174 06 88", "epost": "vatten@rannverket.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, utökade tider efter skyfall",
+  "omrade": "Halland, från Laholm till Varberg",
+  "fot_cta": "Rinner det över vid nästa regn? Skicka en bild så säger vi vad det beror på.",
+  "text": {
+    "hero_knapp": "Från ränna till brunn",
+    "hero_lank": "Hus som blev torra",
+    "kontakt_knapp": "Skicka en bild",
+    "vagval_etikett": "Takavvattning",
+    "ber_etikett": "Efter regnet",
+    "ber_rubrik": "Vad sommarens skyfall lärde oss",
+    "proj_etikett": "Uppdrag",
+    "proj_rubrik": "Vatten som hittade rätt väg",
+    "proj_rubrik_lista": "Rännor, brunnar och dagvatten",
+    "process_etikett": "Arbetsgång",
+    "process_rubrik": "Mät, föreslå, montera, spola",
+    "hb_etikett": "Klimatanpassning",
+    "omdomen_etikett": "Torra källare",
+    "omdomen_rubrik": "Sedan dess har det varit torrt",
+    "faq_rubrik": "Om rännor, stuprör och dagvatten",
+    "boka_rubrik": "Var rinner vattnet fel?",
+    "boka_text": "Beskriv huset och var problemet syns – en bild från ett regn säger mycket. Vi återkommer inom två arbetsdagar.",
+    "boka_knapp": "Skicka beskrivningen",
+    "bolag_etikett": "Lagen",
+    "bolag_rubrik": "Ovan och under mark",
+    "certifikat_etikett": "Behörigheter",
+    "logos_etikett": "Uppdragsgivare",
+    "priser_etikett": "Priser",
+    "medarbetare": "Medarbetarna",
+    "ny_rubrik": "Om regn och rännor",
+    "panel_etikett": "Lediga jobb",
+    "sida_bolag_ingress": "Rännverket arbetar i {n} grupper – en på taket, en i marken och en vid räknestickan."
+  }
+}

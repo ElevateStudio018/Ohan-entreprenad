@@ -354,3 +354,5 @@ body[data-knapp="kontur"] .pa-farg .mpo-kort .knapp-primar { color: var(--c-p-te
 @media (min-width: 700px) { .mse-rad { grid-auto-columns: calc((100% - 20px) / 2.4); } }
 @media (min-width: 1000px) { .mse-rad { grid-auto-columns: minmax(0, 1fr); overflow: visible; } .mse-rad a { grid-template-columns: 96px minmax(0, 1fr) auto; min-height: 96px; } }
 .mho-bild .figtext, .mpo-bild .figtext { top: 10px; bottom: auto; }
+.mhn-txt .textlank { display: block; font-size: 14.5px; }
+.mhn-txt .textlank .pil { display: inline-block; vertical-align: -3px; margin-left: 8px; }

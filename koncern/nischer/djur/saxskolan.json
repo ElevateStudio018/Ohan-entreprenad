@@ -1,0 +1,133 @@
+{
+  "profil": "djur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Saxskolan Skaraborg AB",
+  "kortnamn": "Saxskolan",
+  "slug": "saxskolan",
+  "typ": "Hundfrisörskola med elevsalong i Skövde",
+  "tagline": "Här utbildas morgondagens frisörer",
+  "slogan": "En hundfrisörskola där din hund klipps av elever under handledning – till lägre pris, med längre tid och med en lärare vid varje bord.",
+  "hero_rubrik": "Elevklippt, lärargranskat, halva priset",
+  "hero_text": "Våra elever lär sig klippa på riktiga hundar. Du får en noggrann klippning till rabatterat pris, och en utbildad frisör godkänner varje hund innan den går hem.",
+  "intro_rubrik": "Fyrtio veckor från nybörjare till gesäll",
+  "om": [
+    "Saxskolan startades 2015 av hundfrisörmästaren Agneta Rydén, som hade drivit salong i Skövde i tjugo år och tröttnat på att inte hitta utbildad personal. Hon byggde om en före detta tryckerihall på Hasslum till skola med åtta trimbord, fyra badkar och ett klassrum för pälsteori och anatomi.",
+    "Utbildningen är 40 veckor på heltid och tar emot tolv elever per år. Hälften av tiden klipper eleverna kundhundar i elevsalongen, under handledning av två lärare. Sedan starten har 104 elever gått ut, och de flesta arbetar i dag på salonger mellan Göteborg och Jönköping."
+  ],
+  "vagval_rubrik": "Vill du klippa hunden, eller lära dig klippa?",
+  "tjanster": [
+    {"titel": "Elevklippning", "ikon": "sax", "href": "verksamhet.html", "text": "Elever klipper under handledning – till ungefär halva salongspriset."},
+    {"titel": "Lärarklippning", "ikon": "stjarna", "href": "verksamhet.html", "text": "Agneta eller Tobias klipper själva, för hundar som behöver erfarna händer."},
+    {"titel": "Hundfrisörutbildning", "ikon": "skola", "href": "verksamhet.html", "text": "Fyrtio veckor på heltid med start varje augusti."},
+    {"titel": "Helgkurs för ägare", "ikon": "folk", "href": "verksamhet.html", "text": "Lär dig klippa din egen hund på två dagar."},
+    {"titel": "Bad och klor", "ikon": "vatten", "href": "verksamhet.html", "text": "Förstaårselevernas första uppgift – och billigaste tjänsten vi har."},
+    {"titel": "Modellhundar sökes", "ikon": "megafon", "href": "verksamhet.html", "text": "Vi behöver hundar i alla raser till gesällproven i maj."},
+    {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Elevpris, lärarpris och kursavgifter."},
+    {"titel": "Boka elevtid", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Tider tisdag till torsdag under terminerna."}
+  ],
+  "affarsomraden": [
+    {"titel": "Elevsalongen", "text": "Eleverna klipper efter ett schema där varje ras och pälstyp ska övas ett visst antal gånger. En lärare går igenom planen med eleven innan start och kontrollerar resultatet innan hunden lämnas tillbaka.", "text2": "Räkna med att besöket tar en till två timmar längre än på en vanlig salong.", "tagg": "trimning"},
+    {"titel": "Utbildningen", "text": "Fyrtio veckor med pälsteori, anatomi, hantering, maskinvård och företagande, varvat med praktik i elevsalongen och sex veckor ute på salong. Utbildningen avslutas med gesällprov.", "text2": "Kursavgiften är 68 000 kronor och kan delbetalas.", "tagg": "trimning"},
+    {"titel": "Kurser för hundägare", "text": "På helgkurserna lär du dig klippa din egen hund med sax och maskin. Max sex hundar per kurs, med en lärare per tre hundar.", "text2": "Helgkurserna finns för pudel, schnauzer, cocker och doodle.", "tagg": "hundtraning"},
+    {"titel": "Modellhundar", "text": "Inför gesällproven i maj behöver vi hundar med vuxen päls i rätt längd. Modellhundar klipps gratis av en elev under provet.", "text2": "Anmäl intresse senast i februari så planerar vi pälsens längd tillsammans.", "tagg": "hund"}
+  ],
+  "bolag": [
+    {"namn": "Agneta Rydén", "segment": "Grundare och utbildningsledare", "rubrik": "Frisörmästare sedan 1995", "text": "Agneta håller i pälsteorin och examinerar gesällproven. Hon har drivit salong i Skövde i tjugo år innan skolan.", "tagg": "trimning"},
+    {"namn": "Tobias Grahn", "segment": "Lärare, sax och terrier", "rubrik": "Saxen och trimkniven", "text": "Tobias gick själv ut Saxskolan 2016 och har tävlat för Sverige i hundfrisering. Han leder praktiken i elevsalongen.", "tagg": "trimning"},
+    {"namn": "Klara Hult", "segment": "Elevsamordnare och bokning", "rubrik": "Hon matchar hund och elev", "text": "Klara bokar kundhundarna och ser till att varje elev får klippa de raser som läroplanen kräver.", "tagg": "hund"}
+  ],
+  "berattelser": [
+    {"rubrik": "Tolv nya elever i augusti", "text": "Årets klass kommer från Mariestad, Lidköping, Jönköping och Borås – och en från Kiruna.", "tagg": "trimning"},
+    {"rubrik": "Gesällprov med tio av tio godkända", "text": "Vårens prov gav alla elever gesällbrev, och tre fick beröm för sin saxklippning.", "tagg": "trimning"},
+    {"rubrik": "Vi söker modellhundar till maj", "text": "Särskilt dvärgschnauzer, cocker spaniel och mellanpudel behövs till nästa provomgång.", "tagg": "hund"}
+  ],
+  "nyckeltal": [
+    {"varde": "104", "enhet": "elever", "etikett": "Utexaminerade sedan 2015"},
+    {"varde": "8", "enhet": "trimbord", "etikett": "I elevsalongen"},
+    {"varde": "50 %", "enhet": "", "etikett": "Av salongspriset för elevklipp"},
+    {"varde": "40", "enhet": "veckor", "etikett": "Utbildningens längd"}
+  ],
+  "projekt": [
+    {"namn": "Vilgot", "ort": "Dvärgschnauzer", "typ": "Gesällprov", "ar": "2026", "text": "Klippt av eleven Hampus på provdagen – godkänd med beröm.", "tagg": "trimning"},
+    {"namn": "Stina", "ort": "Cocker spaniel", "typ": "Elevklippning", "ar": "2026", "text": "Första helklippningen för en elev i termin två, med Tobias vid bordet.", "tagg": "trimning", "status": "Stamkund"},
+    {"namn": "Bambi", "ort": "Mellanpudel", "typ": "Helgkurs för ägare", "ar": "2025", "text": "Matte klipper nu själv mellan besöken, efter två dagar på skolan.", "tagg": "hundtraning"},
+    {"namn": "Rex", "ort": "Schäfer", "typ": "Bad och kloklipp", "ar": "2025", "text": "Förstaårselevernas favorit – lugn, stor och tålmodig med nybörjare.", "tagg": "hund", "status": "Stamkund"},
+    {"namn": "Pärlan", "ort": "Bichon havanais", "typ": "Lärarklippning", "ar": "2026", "text": "Svår filt och en nervös hund – Agneta tog det själv.", "tagg": "trimning"},
+    {"namn": "Gizmo", "ort": "Goldendoodle", "typ": "Elevklippning", "ar": "2025", "text": "Tre timmar, två elever och en lärare – och en jämn teddyklippning.", "tagg": "trimning"}
+  ],
+  "process": [
+    {"titel": "Välj elev eller lärare", "text": "Elevtid är billigare men tar längre tid. Lärartid passar hundar som är rädda, gamla eller svårt toviga.", "tagg": "trimning"},
+    {"titel": "Genomgång vid bordet", "text": "Elev och lärare pratar med dig om hur hunden ska se ut innan klippningen börjar.", "tagg": "hund"},
+    {"titel": "Klippning med handledning", "text": "Eleven klipper, läraren rättar och visar. Hunden får vila om det drar ut på tiden.", "tagg": "trimning"},
+    {"titel": "Lärarens godkännande", "text": "Ingen hund går hem förrän en lärare har kontrollerat och godkänt klippningen.", "tagg": "trimning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen hund är en övningsdocka",
+    "text": "Eleverna börjar med bad och kloklipp på lugna hundar och får klippa med sax först när läraren bedömer att de är redo. Rädda och gamla hundar bokas alltid på lärartid. Alla elever går en kurs i lågstresshantering under första terminen.",
+    "mal": [["2", "lärare i salongen varje elevdag"], ["100 %", "av hundarna godkänns av lärare"], ["0", "rädda hundar på elevtid"]]
+  },
+  "karriar": {"rubrik": "Första gången i elevsalongen", "text": "Avsätt en halv dag, för elevklippning tar längre tid. Berätta om hunden har varit rädd eller svår hos frisör tidigare, så bokar vi lärartid i stället. Du får gärna vara kvar och titta i väntrummet bakom glasväggen.", "jobb": [["Hundfrisörutbildning, start augusti 2027", "Skövde"], ["Helgkurs för hundägare", "Skövde"]]},
+  "kultur": "Varje elev skriver ett kort till dig om vad de gjorde med hunden – och vad de lärde sig av den.",
+  "citat": {"text": "Jag startade skolan för att jag inte kunde anställa någon. Nu ringer salonger från halva Västsverige i maj och frågar vilka elever som går ut.", "namn": "Agneta Rydén", "roll": "Grundare", "tagg": "trimning"},
+  "omdomen": [
+    {"text": "Det tog tre och en halv timme, men Stina har aldrig varit så jämnt klippt. Och det kostade hälften.", "namn": "Eva-Karin S.", "ort": "Skövde"},
+    {"text": "Rex har varit modellhund för bad och kloklipp i tre år. Eleverna älskar honom och han älskar godiset.", "namn": "Hans R.", "ort": "Tibro"},
+    {"text": "Helgkursen var det bästa jag gjort för pudeln. Nu klipper jag ansikte och tassar själv.", "namn": "Marie G.", "ort": "Falköping"}
+  ],
+  "faq": [
+    ["Är det säkert att låta en elev klippa min hund?", "Ja. En lärare finns alltid vid bordet eller inom två meter, och kontrollerar resultatet innan hunden går hem."],
+    ["Varför tar elevklippning längre tid?", "Eleven arbetar noggrant och läraren stannar upp för att visa och förklara. Räkna med en till två timmar extra."],
+    ["Kan jag välja elev?", "Nej, vi matchar hund och elev efter läroplanen. Stamkunder får ofta samma elev under en termin."],
+    ["Har ni öppet på sommaren?", "Elevsalongen är stängd från midsommar till mitten av augusti. Lärartid finns att boka i juni."],
+    ["Hur söker jag till utbildningen?", "Ansökan öppnar 1 februari och stänger 15 april. Vi kallar till intervju och provdag i maj."],
+    ["Behöver jag ha klippt hundar innan?", "Nej, men du ska tycka om att arbeta med händerna och tåla att stå hela dagar."],
+    ["Vad händer om jag inte är nöjd?", "Säg till vid hämtning så rättar en lärare till klippningen direkt, utan kostnad."]
+  ],
+  "priser": [
+    {"namn": "Bad och klor, elevtid", "pris": "195 kr", "enhet": "elevtid", "text": "Förstaårselevernas uppgift.", "punkter": ["Bad och fön", "Klor och öron", "Lärare i salongen", "Cirka 90 minuter"]},
+    {"namn": "Elevklippning", "pris": "fr. 450 kr", "enhet": "elevtid, alla storlekar", "text": "Hel klippning under handledning.", "punkter": ["Genomgång med elev och lärare", "Bad, fön och klippning", "Lärarens godkännande", "Kort från eleven"], "utvald": true},
+    {"namn": "Lärarklippning", "pris": "fr. 850 kr", "enhet": "lärartid", "text": "När hunden behöver erfarna händer.", "punkter": ["Agneta eller Tobias klipper", "Rädda, gamla eller toviga hundar", "Vanlig salongstid", "Bokas även på sommaren"]}
+  ],
+  "prislista": [["Elevklippning, liten hund", "fr. 450 kr"], ["Elevklippning, mellanstor hund", "fr. 550 kr"], ["Elevklippning, stor hund", "fr. 650 kr"], ["Bad och kloklipp, elevtid", "195 kr"], ["Lärarklippning, liten hund", "fr. 850 kr"], ["Lärarklippning, stor hund", "fr. 1 150 kr"], ["Helgkurs för hundägare, 2 dagar", "3 200 kr"], ["Hundfrisörutbildning, 40 veckor", "68 000 kr"], ["Modellhund till gesällprov", "0 kr"]],
+  "galleri_taggar": ["trimning", "hund", "hundtraning"],
+  "nyheter": [
+    ["2026-09-08", "Årets klass har börjat", "Tolv elever från sex orter har fått sina första saxar.", "trimning"],
+    ["2026-05-28", "Tio gesällbrev på en dag", "Alla vårens elever godkändes på provet.", "trimning"],
+    ["2026-02-02", "Ansökan till utbildningen öppnar", "Sista dag att söka är 15 april. Provdagar i maj.", "hundtraning"]
+  ],
+  "kontakt": {"adress": "Hasslumsvägen 22", "postnr": "541 38", "ort": "Skövde", "telefon": "070-174 06 60", "epost": "info@saxskolan.se", "orgnr": ""},
+  "oppettider": "Elevsalong tis–tors 8.30–16 under terminerna",
+  "omrade": "Skövde, Tibro, Falköping, Mariestad och Lidköping",
+  "fot_cta": "Boka elevtid för din hund – eller sök till nästa års utbildning.",
+  "bild": {"panel": "trimning", "hb": "trimning"},
+  "text": {
+    "hero_knapp": "Så fungerar elevsalongen",
+    "hero_lank": "Elevpriser",
+    "kontakt_knapp": "Boka elevtid",
+    "vagval_etikett": "Salong och skola",
+    "ber_etikett": "Från skolan",
+    "ber_rubrik": "Nytt från klassrummet",
+    "ber_utvalt": "Veckans modellhund",
+    "proj_etikett": "Elevarbeten",
+    "proj_rubrik": "Klippt av elever, godkänt av lärare",
+    "proj_kol": ["Hund", "Ras", "Moment", "Status", "År"],
+    "process_rubrik": "Fyra steg i elevsalongen",
+    "hb_etikett": "Hunden i undervisningen",
+    "hb_lank": "Så skyddar vi kundhundarna",
+    "panel_etikett": "Elevtid",
+    "panel_knapp": "Om utbildningen",
+    "omdomen_rubrik": "Kunder i elevsalongen",
+    "faq_rubrik": "Frågor om elevklipp och utbildning",
+    "priser_rubrik": "Elevpris eller lärarpris",
+    "priser_utvald": "Vanligast",
+    "priser_not": "Elevpriserna gäller under terminerna. Svår filt bokas alltid på lärartid.",
+    "galleri_rubrik": "Elevernas bord",
+    "boka_rubrik": "Boka tid i elevsalongen",
+    "boka_text": "Skriv ras, storlek och om hunden har varit rädd hos frisör förut, så föreslår Klara elev- eller lärartid.",
+    "boka_falt": ["Ditt namn", "Telefon", "Hund, ras och storlek", "Elevtid eller lärartid"],
+    "ny_rubrik": "Från skolbänken",
+    "fot_adress": "Skolan",
+    "sida_bolag_ingress": "Vi är {n} lärare och samordnare – plus tolv elever varje år.",
+    "sida_om_titel": "Om Saxskolan"
+  }
+}

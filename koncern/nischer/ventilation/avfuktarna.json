@@ -1,0 +1,132 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Avfuktarna i Norrbotten AB",
+  "kortnamn": "Avfuktarna",
+  "slug": "avfuktarna",
+  "typ": "Ventilation för ishallar, simhallar och arenor",
+  "tagline": "Torr luft, blank is",
+  "slogan": "Avfuktarna bygger och servar ventilation och avfuktning i ishallar, simhallar och badhus – där fukt, klor och kyla annars äter upp byggnaden.",
+  "hero_rubrik": "Ingen dimma över isen, ingen rost i taket",
+  "hero_text": "Sorptionsavfuktare i ishallar, klorbeständiga aggregat i simhallar och värmeåtervinning ur poolhallens fuktiga luft. 24 specialister i Luleå med uppdrag i hela Norrland.",
+  "intro_rubrik": "Fukt är vårt huvudämne",
+  "om": [
+    "Roger Lundström var ismästare i en ishall i Luleå i elva år och slogs varje vinter mot dimma över isen och droppar från taket som frös till klumpar på planen. När han till slut lärde sig hur avfuktningen skulle styras ringde grannkommunerna och frågade om hjälp. 2004 startade han Avfuktarna.",
+    "I dag är vi 24 anställda med kontor och verkstad på Banvägen i Luleå. Vi arbetar med två sorters byggnader som har samma fiende: ishallar och curlinghallar där fukt ger dimma och dålig is, och simhallar och badhus där varm, klorhaltig luft kondenserar i väggar och tak. Uppdragen finns i hela Norrland och ibland längre söderut."
+  ],
+  "vagval_rubrik": "Is eller vatten?",
+  "tjanster": [
+    {"titel": "Avfuktning i ishallar", "ikon": "vind", "href": "verksamhet.html", "text": "Sorptionsavfuktare som håller daggpunkten under isens yta."},
+    {"titel": "Curlinghallar", "ikon": "stjarna", "href": "verksamhet.html", "text": "Jämn temperatur och låg fukt för en is utan frost och pebble som håller."},
+    {"titel": "Simhallar och badhus", "ikon": "vatten", "href": "verksamhet.html", "text": "Aggregat i klorbeständigt utförande och rätt luftfuktighet över bassängen."},
+    {"titel": "Kondensutredning", "ikon": "sok", "href": "verksamhet.html", "text": "Fuktmätning i tak och väggar när det droppar eller rostar."},
+    {"titel": "Värme ur poolluften", "ikon": "sol", "href": "verksamhet.html", "text": "Värmepump som tar tillbaka energin ur den fuktiga frånluften."},
+    {"titel": "Spa och relax", "ikon": "hjarta", "href": "verksamhet.html", "text": "Ventilation i bastu, ångbad och relaxavdelningar på hotell."},
+    {"titel": "Säsongsservice", "ikon": "kalender", "href": "verksamhet.html", "text": "Service före isläggning i augusti och efter säsong i april."},
+    {"titel": "Fråga en fuktexpert", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Beskriv problemet så ringer en av våra ingenjörer upp."}
+  ],
+  "affarsomraden": [
+    {"titel": "Ishallar och arenor", "text": "När varm, fuktig luft möter kall is bildas dimma och frost, och isen blir mjuk och ojämn. Vi dimensionerar avfuktning efter publikantal, isytor och utetemperatur och styr den efter daggpunkt i stället för relativ fukt.", "text2": "31 ishallar i Norrland har avfuktning från oss.", "tagg": "anlaggning"},
+    {"titel": "Simhallar och badhus", "text": "Luften i en simhall är varm, fuktig och innehåller klorföreningar som angriper stål och betong. Vi bygger aggregat i klorbeständigt utförande, placerar tilluften längs fönster och håller rätt undertryck mot resten av byggnaden.", "text2": "Rätt luftfuktighet sänker också avdunstningen från bassängen och därmed värmebehovet.", "tagg": "ventilation"},
+    {"titel": "Fukt- och kondensutredningar", "text": "Droppar från taket, rostiga balkar och mögel i väggar har ofta sin orsak i ventilationen. Vi mäter fukt, temperatur och tryck under en vecka och skriver en utredning med åtgärder.", "text2": "Vi samarbetar med fuktsakkunniga när byggnaden behöver öppnas.", "tagg": "bygg"},
+    {"titel": "Energi i våta och kalla hallar", "text": "En simhall är ofta kommunens största energitjuv. Med värmepump i frånluften och nattsänkning av luftflödet går det att ta tillbaka en stor del av energin.", "text2": "Snittbesparing 38 procent av köpt energi i de badhus vi har byggt om.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Islaget", "segment": "8 tekniker", "rubrik": "Från isläggning till slutsignal", "text": "Installation och säsongsservice i ishallar, curlinghallar och bandyhallar.", "tagg": "anlaggning"},
+    {"namn": "Badlaget", "segment": "9 tekniker", "rubrik": "Klor, värme och fukt", "text": "Ventilation och avfuktning i simhallar, badhus och spa.", "tagg": "ventilation"},
+    {"namn": "Utredning och projektering", "segment": "4 ingenjörer", "rubrik": "Daggpunkter och kalkyler", "text": "Fuktutredningar, dimensionering och energiberäkningar.", "tagg": "kontor"},
+    {"namn": "Verkstaden", "segment": "3 plåtslagare", "rubrik": "Rostfritt och aluminium", "text": "Tillverkar kanaler och huvar i material som tål klor och kondens.", "tagg": "svets"}
+  ],
+  "berattelser": [
+    {"rubrik": "Dimman borta i Bodens ishall", "text": "Efter ombyggnaden har isen hållit utan dimma även under derbymatcher med fullsatt läktare.", "tagg": "anlaggning"},
+    {"rubrik": "Badhuset sparar 38 procent", "text": "Uppföljningen efter ett år i Piteå visar att energin minskade mer än kalkylen lovade.", "tagg": "ventilation"},
+    {"rubrik": "Fyra nya curlingbanor", "text": "Vi installerar avfuktningen i en nybyggd curlinghall i Kalix under vintern.", "tagg": "bygg"}
+  ],
+  "nyckeltal": [
+    {"varde": "31", "enhet": "ishallar", "etikett": "Med vår avfuktning"},
+    {"varde": "17", "enhet": "badhus", "etikett": "Ombyggda eller nybyggda"},
+    {"varde": "–38 %", "enhet": "", "etikett": "Energi i ombyggda badhus"},
+    {"varde": "2004", "enhet": "", "etikett": "Från ismästare till företagare"}
+  ],
+  "projekt": [
+    {"namn": "Ishallen i Boden", "ort": "Boden", "typ": "Ny avfuktning", "ar": "2025", "text": "Två sorptionsavfuktare och styrning efter daggpunkt – dimman försvann första matchen.", "tagg": "anlaggning"},
+    {"namn": "Badhuset i Piteå", "ort": "Piteå", "typ": "Ombyggnad med värmepump", "ar": "2024", "text": "Klorbeständiga aggregat och värmeåtervinning ur poolhallens frånluft.", "tagg": "ventilation"},
+    {"namn": "Curlinghallen i Kalix", "ort": "Kalix", "typ": "Nybyggnad, fyra banor", "ar": "2026", "text": "Avfuktning och temperaturstyrning installeras under vintern.", "tagg": "bygg", "status": "Pågående"},
+    {"namn": "Simhallen i Skellefteå", "ort": "Skellefteå", "typ": "Kondensutredning", "ar": "2025", "text": "Rostiga takbalkar spårades till för lågt undertryck mot omklädningsrummen.", "tagg": "industri"},
+    {"namn": "Hotellspa i Luleå", "ort": "Luleå", "typ": "Ventilation i relaxavdelning", "ar": "2025", "text": "Bastu, ångbad och pool i takvåningen med eget aggregat och tyst drift.", "tagg": "interior"},
+    {"namn": "Bandyhallen i Gällivare", "ort": "Gällivare", "typ": "Säsongsservice", "ar": "2025", "text": "Service före isläggning och avfuktning som klarar 3 000 åskådare.", "tagg": "anlaggning"}
+  ],
+  "process": [
+    {"titel": "En vecka med loggrar", "text": "Vi mäter temperatur, fukt och daggpunkt på ett tjugotal platser i hallen under vanlig drift.", "tagg": "kontor"},
+    {"titel": "Fuktbalansen", "text": "Ingenjörerna räknar ut hur mycket vatten som tillförs och hur mycket som måste bort.", "tagg": "people"},
+    {"titel": "Ombyggnad mellan säsonger", "text": "Ishallar byggs om i maj–juli, simhallar under planerade stängningsveckor.", "tagg": "bygg"},
+    {"titel": "Säsongsuppföljning", "text": "Vi följer driften under första säsongen och justerar styrningen efter verkligt utfall.", "tagg": "anlaggning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fukten är också energi",
+    "text": "Varje liter vatten som avdunstar från en bassäng tar med sig energi, och varje grad för varm luft i en ishall smälter is som måste frysas igen. Genom att styra fukten exakt och återvinna värmen sänker vi både energiförbrukningen och slitaget på byggnaden.",
+    "mal": [["–38 %", "köpt energi i ombyggda badhus"], ["0", "takdroppar på isen efter våra ombyggnader"], ["20 år", "beräknad livslängd på våra klorbeständiga aggregat"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba i hallar som hela orten bryr sig om",
+    "text": "Våra kunder är ishallar och badhus som hela kommunen använder. Vi söker tekniker och ingenjörer som vill bli specialister på fukt – och som inte har något emot en hockeymatch då och då.",
+    "jobb": [["Servicetekniker ishallar", "Luleå"], ["Projektingenjör fukt och ventilation", "Luleå"], ["Servicetekniker badhus", "Skellefteå"]]
+  },
+  "kultur": "Vi har två säsongskort till Luleås hockeymatcher som delas ut till den som har löst månadens svåraste fuktproblem.",
+  "citat": {"text": "Jag har skrapat frost från sargen klockan sex på morgonen i elva vintrar. Nu ser jag till att ingen annan ismästare behöver göra det.", "namn": "Roger Lundström", "roll": "Grundare, före detta ismästare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Förra säsongen ställde vi in två matcher på grund av dimma. I år inte en enda.", "namn": "Peter V.", "ort": "Hallchef, Boden"},
+    {"text": "Energiräkningen för badhuset sjönk mer än deras kalkyl lovade. Det har aldrig hänt oss förut.", "namn": "Lena Å.", "ort": "Fastighetschef, Piteå"},
+    {"text": "Tre firmor hade tittat på rosten i taket. Avfuktarna mätte i en vecka och hittade orsaken.", "namn": "Jonas M.", "ort": "Förvaltare, Skellefteå"}
+  ],
+  "faq": [
+    ["Varför blir det dimma över isen?", "Dimma bildas när luftens daggpunkt ligger över isens temperatur. Det händer när mycket folk, varm uteluft eller dålig avfuktning gör luften för fuktig."],
+    ["Vad är en sorptionsavfuktare?", "En avfuktare som binder fukten i ett roterande material i stället för att kyla luften. Den fungerar bra även vid låga temperaturer, som i ishallar."],
+    ["Vilken luftfuktighet ska en simhall ha?", "Normalt 50–60 procent relativ fuktighet vid en lufttemperatur ett par grader över vattnets. För låg fukt ökar avdunstningen och energibehovet."],
+    ["Kan ni bygga om under pågående säsong?", "Vi undviker det. Ishallar byggs om på sommaren och simhallar under planerade stängningsveckor."],
+    ["Arbetar ni utanför Norrbotten?", "Ja, i hela Norrland och vid större projekt i resten av Sverige."],
+    ["Gör ni vanlig OVK?", "Ja, i de hallar och badhus vi redan servar. För kontor och bostäder hänvisar vi till andra företag."],
+    ["Hur ofta ska avfuktningen servas?", "I ishallar före isläggning och efter säsong. Simhallsaggregat bör servas två gånger per år på grund av kloret."]
+  ],
+  "certifikat": [
+    {"titel": "Fuktsakkunnig i teamet", "text": "En av våra ingenjörer är diplomerad fuktsakkunnig enligt ByggaF.", "ikon": "vatten"},
+    {"titel": "Köldmediecertifikat", "text": "Behörighet för installation och service av värmepumpar och kylaggregat.", "ikon": "laddning"},
+    {"titel": "Funktionskontrollant K", "text": "Certifierad för OVK i stora och komplexa byggnader.", "ikon": "dokument"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat för kvalitet och miljö sedan 2016.", "ikon": "skold"}
+  ],
+  "kunder": ["Bodens Arenafastigheter", "Piteå Badhus AB", "Kalix Curlingklubb", "Skellefteå Simhallsfastigheter", "Hotell Norrskenet Luleå", "Gällivare Bandyhall", "Luleå Fritidsanläggningar", "Haparanda Sim- och Ishall"],
+  "nyheter": [
+    ["2026-08-11", "Isläggningsservicen klar", "Alla 31 ishallar på avtal servade och klara för säsongen.", "anlaggning"],
+    ["2026-03-19", "Piteå badhus sparar 38 procent", "Ett år efter ombyggnaden är energiutfallet bättre än kalkylen.", "ventilation"],
+    ["2025-10-08", "Så undviker ni dimma vid derbyt", "Tre inställningar att kontrollera före en fullsatt match.", "anlaggning"]
+  ],
+  "kontakt": {"adress": "Banvägen 11", "postnr": "973 46", "ort": "Luleå", "telefon": "070-174 06 93", "epost": "fukt@avfuktarna.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, matchjour för avtalskunder",
+  "omrade": "Norrbotten, Västerbotten och övriga Norrland",
+  "fot_cta": "Dimma över isen eller droppar i simhallen? Ring oss före nästa säsong.",
+  "bild": {"panel": "anlaggning", "hb": "ventilation"},
+  "text": {
+    "kontakt_knapp": "Fråga en fuktexpert",
+    "hero_knapp": "Is och bad",
+    "hero_lank": "Hallar vi har byggt om",
+    "ber_etikett": "Från hallarna",
+    "ber_rubrik": "Senast på is och i bassäng",
+    "proj_rubrik": "Ishallar, badhus och spa",
+    "proj_rubrik_lista": "Hallar i Norrland",
+    "sida_projekt_titel": "Hallar",
+    "process_etikett": "Fuktbalans",
+    "process_rubrik": "Mät en vecka, bygg mellan säsongerna",
+    "hb_etikett": "Energi och byggnad",
+    "omdomen_rubrik": "Hallchefer och förvaltare",
+    "faq_rubrik": "Om dimma, klor och daggpunkt",
+    "boka_rubrik": "Beskriv hallen och problemet",
+    "boka_text": "Skriv om det gäller is eller bad, hur stor hallen är och vad som händer, så ringer en ingenjör upp inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "Hall och kommun", "Dimma, kondens, rost eller energi?"],
+    "logos_rubrik": "Arenor och badhus",
+    "certifikat_rubrik": "Behörigheter för fukt och kyla",
+    "bolag_rubrik": "Is, bad, utredning och verkstad",
+    "siffror_etikett": "Avfuktarna i siffror",
+    "medarbetare": "Fuktteknikerna"
+  }
+}

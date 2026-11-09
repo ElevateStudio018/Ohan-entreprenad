@@ -1,0 +1,127 @@
+{
+  "profil": "nisch",
+  "nisch": "vvs",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Grytan Storköks-VVS AB",
+  "kortnamn": "Grytan",
+  "slug": "grytan-storkok",
+  "typ": "VVS för storkök och restauranger i Sörmland",
+  "tagline": "Rörmokare för köksfolk",
+  "slogan": "Vi bygger och servar rören bakom skolkök, restauranger och livsmedelsfabriker – och vi jobbar när köket är stängt.",
+  "hero_rubrik": "Köket öppnar i tid, även efter ett stopp",
+  "hero_text": "Fettavskiljare, rostfria golvbrunnar, diskmaskiner och varmvatten för storkök i Eskilstuna, Strängnäs och Katrineholm. Med nattjour för restauranger.",
+  "intro_rubrik": "Vi kan både rör och livsmedelsregler",
+  "om": [
+    "Johan Thörn var kock i tolv år innan han omskolade sig till rörmokare och insåg att få i branschen förstod hur ett restaurangkök fungerar en fredagskväll. 2008 startade han Grytan i Eskilstuna tillsammans med Lina Vikström, som hade drivit en skolrestaurang i Torshälla.",
+    "I dag är vi 28 anställda och arbetar nästan bara i kök: skolor, äldreboenden, restauranger, bagerier och mindre livsmedelsindustrier. Vi gör ombyggnader under lov och nätter, servar fettavskiljare och diskmaskiner och har nattjour för restauranger som inte kan stänga en lördag."
+  ],
+  "vagval_rubrik": "Vilket kök gäller det?",
+  "tjanster": [
+    {"titel": "Fettavskiljare", "ikon": "ror", "href": "verksamhet.html", "text": "Installation, tömning och service enligt kommunens krav på utsläpp."},
+    {"titel": "Rostfria golvbrunnar", "ikon": "vatten", "href": "verksamhet.html", "text": "Rännor och brunnar som tål kokande vatten och daglig rengöring."},
+    {"titel": "Diskmaskiner", "ikon": "kugge", "href": "verksamhet.html", "text": "Anslutning av tunneldiskar och huvdiskar med rätt vattenkvalitet."},
+    {"titel": "Varmvatten för kök", "ikon": "eld", "href": "verksamhet.html", "text": "Beredare och cirkulation som ger 60 grader även under lunchrusningen."},
+    {"titel": "Ombyggnad av storkök", "ikon": "ritning", "href": "verksamhet.html", "text": "Rör, avlopp och gas under sommarlov eller nattetid."},
+    {"titel": "Nattjour restaurang", "ikon": "telefon", "href": "verksamhet.html", "text": "Stopp i avloppet en fredagskväll löser vi innan nästa sittning."},
+    {"titel": "Serviceavtal", "ikon": "kalender", "href": "verksamhet.html", "text": "Schemalagd kontroll av avskiljare, brunnar och blandare."},
+    {"titel": "Beskriv ditt kök", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi kommer på ett besök när köket är tyst."}
+  ],
+  "affarsomraden": [
+    {"titel": "Skolkök och offentliga kök", "text": "Kommunernas tillagningskök lagar tusentals portioner om dagen och kan bara byggas om när eleverna är lediga. Vi planerar arbetet ett halvår i förväg och har ett eget lag som bara gör skolkök under sommarlovet.", "text2": "Sommaren 2026 byggde vi om nio kök på sju veckor.", "tagg": "vvs"},
+    {"titel": "Restauranger och caféer", "text": "En restaurang tjänar sina pengar på kvällar och helger, när de flesta rörfirmor har stängt. Vi har nattjour för restauranger med serviceavtal och gör planerade arbeten mellan stängning och morgonleverans.", "text2": "Snittiden till ett stopp i köksavloppet är 55 minuter i Eskilstuna.", "tagg": "vvs"},
+    {"titel": "Fett och avlopp", "text": "Fett i avloppet är den vanligaste orsaken till stopp i kommunens ledningsnät. Vi dimensionerar fettavskiljare enligt standarden, installerar dem och tömmer eller servar dem enligt ett schema som kommunens miljöinspektör kan granska.", "text2": "Varje service loggas med datum, fettnivå och foto.", "tagg": "anlaggning"},
+    {"titel": "Livsmedelsindustri", "text": "Bagerier, chark och mejerier ställer krav på hygieniska installationer och dokumentation. Vi arbetar i rostfritt, följer kundens hygienzoner och lämnar materialintyg för allt som kommer i kontakt med livsmedel.", "text2": "Våra montörer går livsmedelshygienutbildning varje år.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Projekt", "segment": "3 projektledare", "rubrik": "Ombyggnader under lov", "text": "Planerar köksombyggnader tillsammans med köksprojektörer, kockar och kommunernas fastighetsavdelningar.", "tagg": "kontor"},
+    {"namn": "Installation", "segment": "13 rörmokare", "rubrik": "Rostfritt och avlopp", "text": "Bygger nya kök och byter rännor, brunnar och avskiljare när köket är stängt.", "tagg": "vvs"},
+    {"namn": "Service och jour", "segment": "9 tekniker", "rubrik": "Natt och helg", "text": "Servar avskiljare och diskmaskiner och tar restaurangernas akuta stopp på kvällar och helger.", "tagg": "vvs"},
+    {"namn": "Spolbil", "segment": "3 förare", "rubrik": "Tömning och spolning", "text": "Tömmer fettavskiljare och spolar köksavlopp och servisledningar.", "tagg": "anlaggning"}
+  ],
+  "berattelser": [
+    {"rubrik": "Nio skolkök på ett sommarlov", "text": "Alla nio var klara när eleverna kom tillbaka den 18 augusti.", "tagg": "vvs"},
+    {"rubrik": "Digital fettlogg för miljöinspektörer", "text": "Restauranger med serviceavtal kan nu visa varje tömning direkt i mobilen vid tillsyn.", "tagg": "kontor"},
+    {"rubrik": "Grytan finns nu i Katrineholm", "text": "Två tekniker och en servicebil utgår från Katrineholm sedan i våras.", "tagg": "vvs"}
+  ],
+  "nyckeltal": [
+    {"varde": "310", "enhet": "kök", "etikett": "Med serviceavtal"},
+    {"varde": "55", "enhet": "minuter", "etikett": "Till stopp i Eskilstuna"},
+    {"varde": "9", "enhet": "skolkök", "etikett": "Ombyggda sommaren 2026"},
+    {"varde": "28", "enhet": "anställda", "etikett": "Flera med kockbakgrund"}
+  ],
+  "projekt": [
+    {"namn": "Torshälla skolrestauranger", "ort": "Eskilstuna", "typ": "Tillagningskök", "ar": "2026", "text": "Nya rännor, fettavskiljare och diskrum i ett kök som lagar 1 400 portioner om dagen.", "tagg": "vvs", "status": "Utfört"},
+    {"namn": "Restaurang i Nyfors", "ort": "Eskilstuna", "typ": "Nattjour", "ar": "2025", "text": "Stopp i köksavloppet en lördag klockan 19 – spolat och klart före andra sittningen.", "tagg": "vvs"},
+    {"namn": "Kungsörs Bageri", "ort": "Kungsör", "typ": "Livsmedelsindustri", "ar": "2025", "text": "Rostfria golvbrunnar och diskledningar i en ny bageriavdelning med hygienzoner.", "tagg": "industri"},
+    {"namn": "Ekbackens äldreboende", "ort": "Strängnäs", "typ": "Varmvatten", "ar": "2025", "text": "Ny beredare och cirkulation så att köket och 60 lägenheter har varmvatten även vid lunch.", "tagg": "vvs"},
+    {"namn": "Katrineholms Charkuteri", "ort": "Katrineholm", "typ": "Fettavskiljare", "ar": "2024", "text": "Fettavskiljare på 4 000 liter efter krav från kommunens miljöförvaltning.", "tagg": "anlaggning"},
+    {"namn": "Gymnasiekök i Strängnäs", "ort": "Strängnäs", "typ": "Ombyggnad", "ar": "2027", "text": "Planeras: helt nytt kök under sommarlovet 2027, projektering pågår.", "tagg": "vvs", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Köksbesök", "text": "Vi kommer när köket är tyst och pratar med både kökschefen och fastighetsägaren.", "tagg": "people"},
+    {"titel": "Tidsfönster", "text": "Arbetet läggs på lov, natt eller måndagar när restaurangen har stängt.", "tagg": "kontor"},
+    {"titel": "Utförande", "text": "Vi skyddar livsmedel och ytor och lämnar köket städat och klart för egenkontroll.", "tagg": "vvs"},
+    {"titel": "Serviceschema", "text": "Avskiljare, brunnar och blandare läggs in i ett schema med påminnelser.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fettet ska stanna i köket",
+    "text": "Fett som når kommunens ledningar stelnar och orsakar stopp och bräddning till vattendrag. Rätt dimensionerade och skötta fettavskiljare är därför vår viktigaste miljöinsats. Det uppsamlade fettet körs till en biogasanläggning i Västerås och blir fordonsgas.",
+    "mal": [["420 ton", "fett till biogas 2025"], ["310", "kök med serviceschema"], ["0", "anmärkningar vid tillsyn hos avtalskunder"]]
+  },
+  "karriar": {
+    "rubrik": "Har du stått i ett kök? Då passar du här",
+    "text": "Vi söker rörmokare som inte blir stressade av ett kök i full gång och gärna jobbar en natt i stället för en eftermiddag. Kockbakgrund är ett plus. Vi betalar ob-tillägg och ger ledigt på vardagar efter nattpass.",
+    "jobb": [["Rörmokare storkök", "Eskilstuna"], ["Servicetekniker med jour", "Katrineholm"], ["Spolbilsförare", "Eskilstuna"]]
+  },
+  "kultur": "Fredagslunchen lagas av en av oss i verkstadens kök – Johan står vid spisen minst en gång i månaden.",
+  "citat": {"text": "En kock förlåter dig nästan allt utom att köket står still mitt i serveringen. Därför planerar vi efter deras klocka, inte vår.", "namn": "Johan Thörn", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Avloppet stack en lördag med fullbokat. Grytan var här på en kvart och vi kunde servera andra sittningen som vanligt.", "namn": "Robin A., köksmästare", "ort": "Eskilstuna"},
+    {"text": "Nio kök på ett sommarlov, och alla var klara när personalen kom tillbaka. Det har ingen klarat förut.", "namn": "Eva-Lena S., måltidschef", "ort": "Torshälla"},
+    {"text": "Miljöinspektören fick se fettloggen i telefonen. Tillsynen tog tio minuter.", "namn": "Mehmet Y., ägare", "ort": "Katrineholm"}
+  ],
+  "faq": [
+    ["Måste vi ha fettavskiljare?", "De flesta kommuner kräver det för restauranger och storkök. Vi kan ta kontakt med miljöförvaltningen och dimensionera enligt deras krav."],
+    ["Hur ofta ska avskiljaren tömmas?", "Det beror på storlek och belastning, oftast var fjärde till tolfte vecka. Vi lägger in den i ett schema och loggar varje tömning."],
+    ["Kan ni jobba på natten?", "Ja. Planerade arbeten i restauranger gör vi ofta mellan midnatt och sex, och jourtekniker finns tillgängliga hela natten för avtalskunder."],
+    ["Arbetar ni med gas i kök?", "Vi drar gasledningar till spisar och stekbord och har behörighet för gasinstallationer. Anslutning av själva apparaterna gör storkökstillverkarens tekniker."],
+    ["Tar ni även privata kök?", "Nej, vi arbetar bara med kommersiella kök och livsmedelslokaler."],
+    ["Vilka orter täcker ni?", "Eskilstuna, Strängnäs, Katrineholm, Flen, Kungsör och Torshälla. Västerås och Nyköping efter överenskommelse."]
+  ],
+  "certifikat": [
+    {"titel": "Fettavskiljare SS-EN 1825", "text": "Vi dimensionerar och installerar enligt den europeiska standarden för fettavskiljare.", "ikon": "ror"},
+    {"titel": "Livsmedelshygien", "text": "Alla montörer har grundutbildning i livsmedelshygien och förnyar den varje år.", "ikon": "lov"},
+    {"titel": "Säker Vatten", "text": "Diskmaskiner, blandare och beredare ansluts enligt branschreglerna, med återströmningsskydd.", "ikon": "vatten"},
+    {"titel": "Behörighet gasinstallation", "text": "Två av våra montörer har kompetens för gasledningar i storkök enligt EGN.", "ikon": "eld"}
+  ],
+  "kunder": ["Torshälla skolrestauranger", "Ekbackens äldreboende", "Kungsörs Bageri", "Katrineholms Charkuteri", "Restaurang Nyfors Bryggeri", "Sörmlands Livs AB", "Flens Gymnasiekök", "Strängnäs Kommunkök"],
+  "nyheter": [
+    ["2026-08-20", "Nio skolkök klara till skolstarten", "Sju veckor, nio kök och nattskift på slutet.", "vvs"],
+    ["2026-05-12", "Fettloggen i mobilen", "Avtalskunder kan visa varje tömning vid tillsyn.", "kontor"],
+    ["2026-02-24", "Därför stockar sig köksavloppet", "Fem vanor i köket som skickar fett ut i ledningen.", "anlaggning"]
+  ],
+  "kontakt": {"adress": "Kungsgatan 52", "postnr": "632 21", "ort": "Eskilstuna", "telefon": "070-174 06 51", "epost": "kok@grytanvvs.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6–16, nattjour för avtalskunder",
+  "omrade": "Eskilstuna, Strängnäs, Katrineholm, Flen och Kungsör",
+  "fot_cta": "Planerar ni ett nytt kök till sommarlovet? Ring före jul.",
+  "bild": {"panel": "people", "hb": "anlaggning"},
+  "text": {
+    "kontakt_knapp": "Kontakta oss",
+    "hero_knapp": "Kök vi arbetar i",
+    "vagval_etikett": "Kök",
+    "ber_rubrik": "Från verkstaden på Kungsgatan",
+    "proj_etikett": "Kök",
+    "proj_rubrik": "Kök som kunde öppna igen",
+    "proj_rubrik_lista": "Utförda och planerade kök",
+    "process_rubrik": "Efter kökets klocka",
+    "hb_etikett": "Fett och miljö",
+    "omdomen_rubrik": "Kockar och måltidschefer om oss",
+    "faq_rubrik": "Frågor från restauranger och storkök",
+    "boka_rubrik": "Berätta om ert kök",
+    "boka_falt": ["Namn och verksamhet", "Telefon", "E-post", "Typ av kök, antal portioner och vad det gäller"],
+    "logos_rubrik": "Kök och livsmedelsföretag",
+    "certifikat_rubrik": "Behörigheter för kök och livsmedel",
+    "bolag_rubrik": "Fyra lag för kökets rör",
+    "medarbetare": "Rörmokare och köksfolk"
+  }
+}

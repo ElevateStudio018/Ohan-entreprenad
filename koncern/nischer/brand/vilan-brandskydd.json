@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vilan Brandskydd AB",
+  "kortnamn": "Vilan",
+  "slug": "vilan-brandskydd",
+  "typ": "Brandskydd för vård och omsorg i Skaraborg",
+  "tagline": "För dem som inte springer",
+  "slogan": "Vi bygger brandskydd för äldreboenden, LSS-bostäder och hemtjänstens brukare – människor som inte kan ta sig ut själva när det brinner.",
+  "hero_rubrik": "De flesta som dör i bränder bor hemma",
+  "hero_text": "Spisvakter, boendesprinkler, brandsäkra textilier och nattövningar för vårdpersonal. Vi arbetar med kommuner och privata vårdgivare i hela Skaraborg.",
+  "intro_rubrik": "En sjuksköterska och en brandingenjör",
+  "om": [
+    "Maria Gunnarsson var distriktssköterska i Skövde och hade varit med om två bränder hos äldre brukare på ett år – båda startade av en glömd spisplatta och en cigarett i en fåtölj. Hennes bror Anders Gunnarsson är brandingenjör, och 2005 startade de Vilan för att göra något åt brandskyddet hos dem som inte kan rädda sig själva.",
+    "I dag är vi 28 anställda med kontor på Hasslumsvägen i Skövde. Hälften av oss har bakgrund i vård och omsorg, den andra hälften i brandskydd och el. Vi gör riskbedömningar hemma hos brukare, installerar spisvakter och mobil boendesprinkler, bygger brandskydd i särskilda boenden och övar nattutrymning med personalen."
+  ],
+  "vagval_rubrik": "Var bor de ni ansvarar för?",
+  "tjanster": [
+    {"titel": "Brandriskbedömning hemma", "ikon": "hem", "href": "verksamhet.html", "text": "Ett besök hos brukaren tillsammans med hemtjänsten, med en skriftlig åtgärdslista."},
+    {"titel": "Spisvakt", "ikon": "laddning", "href": "verksamhet.html", "text": "Stänger av spisen när den lämnats på eller när värmen stiger för snabbt."},
+    {"titel": "Mobil boendesprinkler", "ikon": "vatten", "href": "verksamhet.html", "text": "Ett fristående sprinklerskåp som ställs vid sängen eller fåtöljen utan ombyggnad."},
+    {"titel": "Brandsäkra textilier", "ikon": "skold", "href": "verksamhet.html", "text": "Flamskyddade filtar, förkläden och överdrag för den som röker eller tänder ljus."},
+    {"titel": "Särskilda boenden", "ikon": "vard", "href": "verksamhet.html", "text": "Brandlarm, boendesprinkler och brandcellsindelning i äldreboenden och LSS-bostäder."},
+    {"titel": "Nattövning för personal", "ikon": "folk", "href": "verksamhet.html", "text": "Utrymning av sängliggande med den bemanning som finns klockan tre på natten."},
+    {"titel": "Larm till trygghetslarmet", "ikon": "telefon", "href": "verksamhet.html", "text": "Brandvarnaren kopplas till kommunens trygghetslarm så att någon alltid får veta."},
+    {"titel": "Boka riskbedömning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Biståndshandläggare och hemtjänst kan boka direkt hos oss."}
+  ],
+  "affarsomraden": [
+    {"titel": "Ordinärt boende", "text": "Äldre som bor hemma med hemtjänst är den grupp som oftast omkommer i bränder. Vi gör en riskbedömning i hemmet och installerar det som behövs – från brandvarnare kopplad till trygghetslarmet till spisvakt och mobil sprinkler.", "text2": "Åtgärderna dokumenteras så att biståndshandläggaren kan fatta beslut och följa upp.", "tagg": "hem"},
+    {"titel": "Särskilda boenden", "text": "På ett äldreboende kan de boende sällan utrymma själva. Därför bygger vi brandskyddet så att branden stannar i rummet där den startade och personalen hinner flytta de närmaste.", "text2": "Vi projekterar och installerar brandlarm, boendesprinkler och dörrstängare och samordnar med kommunens fastighetsavdelning.", "tagg": "brand"},
+    {"titel": "LSS och psykiatri", "text": "I boenden för personer med funktionsnedsättning måste brandskyddet tåla att detektorer täcks över och larmknappar trycks på av misstag. Vi väljer robust utrustning och anpassar rutinerna efter de boende.", "text2": "Varje boende får en egen utrymningsplan som personalen övar på.", "tagg": "bostad"},
+    {"titel": "Utbildning och nattövning", "text": "En nattsköterska med två undersköterskor ska kunna utrymma en avdelning med 16 boende. Vi övar det på plats, på natten, med evakueringsmadrasser och rök i korridoren.", "text2": "Efteråt går vi igenom vad som tog tid och skriver om rutinerna tillsammans med enhetschefen.", "tagg": "people"}
+  ],
+  "bolag": [
+    {"namn": "Hemmet", "segment": "Ordinärt boende", "rubrik": "Sex riskbedömare med vårdbakgrund", "text": "Riskbedömarna gör omkring 1 600 hembesök om året tillsammans med hemtjänsten i Skaraborgs kommuner.", "tagg": "hem"},
+    {"namn": "Installation", "segment": "Boenden och hem", "rubrik": "Elektriker som knackar försiktigt", "text": "Tio tekniker installerar spisvakter, sprinkler och brandlarm – ofta hos personer med demenssjukdom, och alltid i lugnt tempo.", "tagg": "brand"},
+    {"namn": "Utbildning", "segment": "Personal och anhöriga", "rubrik": "Övningar när det är som mörkast", "text": "Fyra instruktörer, varav två sjuksköterskor, håller nattövningar och kurser för vårdpersonal.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Spisvakten som stoppade en brand i Tidaholm", "text": "En kastrull med olja lämnades på plattan. Spisvakten stängde av strömmen efter fyra minuter.", "tagg": "hem"},
+    {"rubrik": "Nattövning på Ekbacken", "text": "Tre anställda utrymde sexton boende på elva minuter – fyra minuter snabbare än i våras.", "tagg": "people"},
+    {"rubrik": "Fem kommuner i samma avtal", "text": "Skövde, Hjo, Tidaholm, Falköping och Mariestad har nu gemensamt avtal för riskbedömningar.", "tagg": "kontor"}
+  ],
+  "nyckeltal": [
+    {"varde": "1 600", "enhet": "hembesök", "etikett": "Riskbedömningar 2025"},
+    {"varde": "3 100", "enhet": "spisvakter", "etikett": "Installerade sedan 2005"},
+    {"varde": "28", "enhet": "anställda", "etikett": "Hälften från vård och omsorg"},
+    {"varde": "11", "enhet": "minuter", "etikett": "Snabbaste nattutrymningen 2026"}
+  ],
+  "projekt": [
+    {"namn": "Riskbedömningar i fem kommuner", "ort": "Skaraborg", "typ": "Ordinärt boende", "ar": "2026", "text": "Ett gemensamt avtal för riskbedömning och åtgärder hos brukare med hemtjänst.", "tagg": "hem", "status": "Pågående"},
+    {"namn": "Äldreboendet Ekbacken", "ort": "Skövde", "typ": "Nattövning och rutiner", "ar": "2026", "text": "Två nattövningar per år och nya rutiner för en avdelning med 16 boende.", "tagg": "people"},
+    {"namn": "Gruppbostaden Solgläntan", "ort": "Lidköping", "typ": "LSS-boende", "ar": "2025", "text": "Robust brandlarm, boendesprinkler och individuella utrymningsplaner för sex boende.", "tagg": "bostad"},
+    {"namn": "Mobil sprinkler i Hjo", "ort": "Hjo", "typ": "Ordinärt boende", "ar": "2025", "text": "Tolv mobila sprinklerskåp hos brukare som röker i sängen eller fåtöljen.", "tagg": "brand"},
+    {"namn": "Vårdboendet Hertig Johan", "ort": "Falköping", "typ": "Boendesprinkler", "ar": "2025", "text": "Sprinkler i 48 lägenheter under pågående drift, en korridor i taget.", "tagg": "brand"},
+    {"namn": "Demensboendet Lugnås", "ort": "Mariestad", "typ": "Brandcellsgränser", "ar": "2024", "text": "Nya dörrstängare med magnethållare som släpper vid larm i alla 32 rum.", "tagg": "bygg"}
+  ],
+  "process": [
+    {"titel": "Hembesök", "text": "En riskbedömare med vårdbakgrund besöker brukaren tillsammans med hemtjänsten.", "tagg": "hem"},
+    {"titel": "Åtgärdslista", "text": "Biståndshandläggaren får en kort lista med åtgärder, kostnad och prioritet inom en vecka.", "tagg": "kontor"},
+    {"titel": "Installation i lugnt tempo", "text": "Teknikern presenterar sig, berättar vad som ska göras och tar den tid som behövs.", "tagg": "brand"},
+    {"titel": "Uppföljning", "text": "Efter sex månader kontrollerar vi att utrustningen fungerar och att brukaren fortfarande har nytta av den.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Brandskydd anpassat efter människan, inte byggnaden",
+    "text": "Ett brandlarm som ingen hör gör ingen nytta för en person med hörselnedsättning. Därför börjar varje uppdrag med vem som bor där och vad hen klarar själv, och först sedan med vilken utrustning som behövs.",
+    "mal": [["7 dagar", "från hembesök till åtgärdslista"], ["6 mån", "till uppföljningsbesök hos varje brukare"], ["2", "nattövningar per år på avtalsboenden"]]
+  },
+  "karriar": {
+    "rubrik": "Undersköterska eller elektriker? Vi behöver båda",
+    "text": "Hos oss arbetar vårdpersonal och tekniker sida vid sida. Riskbedömare får en utbildning i brandskydd på fem veckor, och tekniker får gå bredvid i hemtjänsten innan de installerar själva.",
+    "jobb": [["Riskbedömare brandskydd, vårdbakgrund", "Skövde"], ["Tekniker spisvakt och sprinkler", "Lidköping"], ["Instruktör nattövningar", "Skövde"]]
+  },
+  "kultur": "Varje ny medarbetare följer med hemtjänsten en hel dag innan första egna uppdraget – för att förstå vems hem man går in i.",
+  "citat": {"text": "Brandskydd handlar i grunden om hur många sekunder en människa har på sig. För en 92-åring med rullator är det inte många. Det är dem vi bygger för.", "namn": "Maria Gunnarsson", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Pappa glömmer plattan flera gånger i veckan. Sedan spisvakten kom sover jag på nätterna igen.", "namn": "Lena H.", "ort": "Tidaholm"},
+    {"text": "Nattövningen var obehaglig på rätt sätt. Vi upptäckte att evakueringsmadrasserna stod inlåsta, och det har vi ändrat.", "namn": "Sara K.", "ort": "Skövde"},
+    {"text": "Riskbedömarna pratar samma språk som vår personal. Det gör att åtgärderna faktiskt blir av.", "namn": "Thomas R.", "ort": "Falköping"}
+  ],
+  "faq": [
+    ["Vem betalar för spisvakt och mobil sprinkler?", "Det beslutar kommunen. Ofta ingår åtgärderna som hjälpmedel eller i biståndsbeslutet, men det varierar mellan kommunerna. Privatpersoner kan också beställa direkt av oss."],
+    ["Vad är en mobil boendesprinkler?", "Ett fristående skåp med vattentank och pump som placeras vid sängen eller fåtöljen. Det släcker en brand på platsen utan att huset behöver byggas om."],
+    ["Kan anhöriga beställa en riskbedömning?", "Ja. Vi gör hembesök på uppdrag av anhöriga och lämnar samma åtgärdslista som till kommunen."],
+    ["Hur går en nattövning till?", "Vi kommer på natten, lägger teaterrök i en korridor och utlöser larmet. Personalen utrymmer med de hjälpmedel som finns, och vi tar tid och går igenom resultatet efteråt."],
+    ["Måste äldreboenden ha sprinkler?", "Nybyggda särskilda boenden ska enligt Boverkets regler ha boendesprinkler. I äldre byggnader är det inget krav, men vi rekommenderar det starkt."],
+    ["Vilka kommuner arbetar ni i?", "Alla kommuner i Skaraborg. Utbildningar och nattövningar håller vi även i resten av Västra Götaland."]
+  ],
+  "certifikat": [
+    {"titel": "Anläggarfirma brandlarm", "text": "Certifierade för projektering och installation av brandlarm i vårdbyggnader enligt SBF 110.", "ikon": "skold"},
+    {"titel": "Boendesprinkler SS 883001", "text": "Installation av boendesprinkler enligt svensk standard, både fast och mobil.", "ikon": "vatten"},
+    {"titel": "Legitimerad vårdpersonal", "text": "Två legitimerade sjuksköterskor leder riskbedömningarna och nattövningarna.", "ikon": "vard"},
+    {"titel": "Auktoriserad elinstallatör", "text": "Spisvakter och fast utrustning installeras av elektriker med auktorisation från Elsäkerhetsverket.", "ikon": "blixt"}
+  ],
+  "kunder": ["Skövde kommun, hemtjänsten", "Äldreboendet Ekbacken", "Gruppbostaden Solgläntan", "Hjo Omsorg", "Vårdboendet Hertig Johan", "Demensboendet Lugnås", "Tidaholms Trygghetslarm", "Mariestads Hemtjänst"],
+  "nyheter": [
+    ["2026-10-30", "Mörka månader, fler bränder", "Levande ljus och elfiltar är de vanligaste orsakerna hos äldre under vintern.", "hem"],
+    ["2026-05-14", "Fem kommuner skriver gemensamt avtal", "Riskbedömningar hos brukare med hemtjänst ska göras på samma sätt i hela östra Skaraborg.", "kontor"],
+    ["2026-02-26", "Ny kurs för anhöriga", "Två timmar om brandskydd hemma hos en äldre förälder – på en vardagskväll i Skövde.", "people"]
+  ],
+  "kontakt": {"adress": "Hasslumsvägen 28", "postnr": "541 39", "ort": "Skövde", "telefon": "070-174 06 77", "epost": "kontakt@vilanbrand.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7.30–16. Nattövningar efter bokning",
+  "omrade": "Hela Skaraborg – Skövde, Lidköping, Mariestad, Falköping, Tidaholm och Hjo",
+  "fot_cta": "Har någon ni ansvarar för glömt spisen mer än en gång? Boka en riskbedömning.",
+  "bild": {"panel": "people", "hb": "hem"},
+  "text": {
+    "ber_rubrik": "Senast från hemmen och boendena",
+    "proj_rubrik": "Boenden och hem vi har skyddat",
+    "process_rubrik": "Från hembesök till uppföljning",
+    "hb_etikett": "Människan först",
+    "omdomen_rubrik": "Anhöriga och enhetschefer berättar",
+    "faq_rubrik": "Frågor från kommuner och anhöriga",
+    "boka_rubrik": "Boka en riskbedömning",
+    "boka_falt": ["Namn", "Telefon", "Kommun eller vårdgivare", "Vem gäller det och var bor hen?"],
+    "logos_rubrik": "Kommuner och vårdgivare vi arbetar med",
+    "certifikat_rubrik": "Vårdkunskap och brandbehörighet",
+    "bolag_rubrik": "Hem, installation och utbildning",
+    "ny_rubrik": "Råd och nyheter från Vilan",
+    "medarbetare": "Vi på Vilan"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Viskadalens Bygg AB",
+  "kortnamn": "Viskadalen",
+  "slug": "viskadalens-bygg",
+  "typ": "Ramavtalsentreprenör för fastighetsägare i Sjuhärad",
+  "tagline": "Underhåll på ramavtal",
+  "slogan": "Vi renoverar lägenheter mellan två hyresgäster, anpassar bostäder för rullstol och rycker ut när vattnet läcker – åt fastighetsägare i hela Sjuhärad.",
+  "hero_rubrik": "Ny hyresgäst på måndag. Lägenheten är klar.",
+  "hero_text": "Lägenhetsrenoveringar på sju arbetsdagar, bostadsanpassning och skadejour dygnet runt. 140 anställda och 64 servicebilar i Borås med omnejd.",
+  "intro_rubrik": "2 300 lägenheter renoverade förra året",
+  "om": [
+    "Viskadalens Bygg startades 1983 i Rydboholm av byggmästaren Ture Lindgren, som fick ramavtal med det kommunala bostadsbolaget redan andra året. Sedan dess har förvaltningsuppdragen varit vår kärna: många små jobb, varje dag, med fasta priser.",
+    "I dag är vi 140 anställda med huvudkontor i Viared och en servicebas i Ulricehamn. Vi har ramavtal med elva fastighetsägare och utför runt 14 000 arbetsordrar om året, från bytta dörrhandtag till helrenoverade trerummare."
+  ],
+  "vagval_rubrik": "Vilken arbetsorder ska vi ta?",
+  "tjanster": [
+    {"titel": "Flyttrenovering", "ikon": "nyckel", "href": "verksamhet.html", "text": "Målning, golv och kök mellan två hyresgäster på sju arbetsdagar."},
+    {"titel": "Badrumsrenovering", "ikon": "vatten", "href": "verksamhet.html", "text": "Nya tätskikt och ytskikt i bebodda lägenheter på 12 arbetsdagar."},
+    {"titel": "Bostadsanpassning", "ikon": "hjarta", "href": "verksamhet.html", "text": "Ramper, borttagna trösklar och duschplatser efter arbetsterapeutens intyg."},
+    {"titel": "Skadejour", "ikon": "telefon", "href": "verksamhet.html", "text": "Vattenskador och inbrott – på plats inom två timmar, dygnet runt."},
+    {"titel": "Löpande underhåll", "ikon": "verktyg", "href": "verksamhet.html", "text": "Felanmälningar som dörrar, fönster och skåp, med fast pris per åtgärd."},
+    {"titel": "Trapphus & tvättstugor", "ikon": "hus", "href": "verksamhet.html", "text": "Renovering av gemensamma utrymmen utan att stänga huset."},
+    {"titel": "Mät & besikta", "ikon": "sok", "href": "verksamhet.html", "text": "Avflyttningsbesiktning med foto och kostnadsfördelning."},
+    {"titel": "Teckna ramavtal", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi lämnar à-prislista för de 120 vanligaste åtgärderna."}
+  ],
+  "affarsomraden": [
+    {"titel": "Lägenheter vid omflyttning", "text": "När en hyresgäst flyttar ut besiktigar vi samma dag och har lägenheten färdig till nästa på sju arbetsdagar. Målning, golvslipning, nya vitvaror och köksluckor sköts av samma lag.", "text2": "Varje dag en lägenhet står tom kostar fastighetsägaren hyra – därför mäter vi ledtiden på varje order.", "tagg": "interior"},
+    {"titel": "Bostadsanpassning", "text": "Vi utför anpassningar som kommunen beviljat bostadsanpassningsbidrag för: trösklar, ramper, stödhandtag, spisvakter och duschplatser. Våra snickare har gått kurs i tillgänglighet med arbetsterapeuter.", "text2": "Brådskande anpassningar inför hemgång från sjukhus görs inom fem arbetsdagar.", "tagg": "hem"},
+    {"titel": "Skadeservice", "text": "Jourbilen är på plats inom två timmar vid vattenläckor, brand och inbrott. Vi stoppar skadan, avfuktar och dokumenterar för försäkringsbolaget.", "text2": "Återställningen görs sedan av vårt eget badrumslag.", "tagg": "vvs"},
+    {"titel": "Gemensamma utrymmen", "text": "Trapphus, tvättstugor, källarförråd och soprum renoveras etappvis medan de boende använder dem. Vi sätter upp information på svenska, arabiska och somaliska vid varje entré.", "text2": "Tvättstugor byggs om på tio dagar med tillfällig tvättstuga i grannhuset.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Lägenhetslaget", "segment": "Flyttrenovering", "rubrik": "Sju dagar mellan nycklarna", "text": "Fyrtio målare, golvläggare och snickare som renoverar lägenheter mellan två hyresgäster.", "tagg": "interior"},
+    {"namn": "Viskadalen Service", "segment": "Felanmälan och underhåll", "rubrik": "14 000 arbetsordrar om året", "text": "Servicesnickare i egna bilar som utför felanmälningar med fast pris och fotodokumentation i fastighetsägarens system.", "tagg": "people"},
+    {"namn": "Anpassning & våtrum", "segment": "Tillgänglighet och badrum", "rubrik": "Ett badrum som går att använda igen", "text": "Plattsättare och snickare som bygger om badrum och anpassar bostäder efter arbetsterapeutens intyg.", "tagg": "hem"},
+    {"namn": "Viskadalen Jour", "segment": "Skador dygnet runt", "rubrik": "Två timmar till dörren", "text": "Jourlag med avfuktare, vattensugar och provisoriska dörrar i bilen, året runt.", "tagg": "vvs"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ledtiden nere på 6,4 dagar", "text": "Lägenhetslaget slog rekord i september: i snitt 6,4 arbetsdagar från avflyttning till ny hyresgäst.", "tagg": "interior"},
+    {"rubrik": "Nytt ramavtal i Ulricehamn", "text": "Från januari ansvarar vi för underhållet i 1 800 lägenheter hos det kommunala bostadsbolaget.", "tagg": "bostad"},
+    {"rubrik": "Hemgång på fyra dagar", "text": "Duschplats, ramp och spisvakt klart till en hemgång från Södra Älvsborgs sjukhus.", "tagg": "hem"}
+  ],
+  "nyckeltal": [
+    {"varde": "7", "enhet": "dagar", "etikett": "Mellan två hyresgäster"},
+    {"varde": "14 000", "enhet": "", "etikett": "Arbetsordrar per år"},
+    {"varde": "2 h", "enhet": "", "etikett": "Till dörren vid skada"},
+    {"varde": "140", "enhet": "", "etikett": "Anställda i Sjuhärad"}
+  ],
+  "projekt": [
+    {"namn": "Hässleholmen, 312 lägenheter", "ort": "Borås", "typ": "Ramavtal flyttrenovering", "ar": "2026", "text": "Alla omflyttningar under året, med snittid på 6,8 arbetsdagar.", "tagg": "interior", "status": "Pågår"},
+    {"namn": "Norrby tvättstugor", "ort": "Borås", "typ": "Gemensamma utrymmen", "ar": "2025", "text": "Nio tvättstugor ombyggda med nya maskiner, golvbrunnar och bokningstavlor.", "tagg": "bostad"},
+    {"namn": "Kv. Kypegården", "ort": "Borås", "typ": "Badrumsrenovering", "ar": "2025", "text": "84 badrum i bebodda lägenheter, tre per vecka.", "tagg": "interior"},
+    {"namn": "Ulricehamns bostäder", "ort": "Ulricehamn", "typ": "Ramavtal underhåll", "ar": "2027", "text": "Löpande underhåll och felanmälan i 1 800 lägenheter från januari.", "tagg": "stad", "status": "Startar"},
+    {"namn": "Sjöbo trapphus", "ort": "Borås", "typ": "Trapphusrenovering", "ar": "2024", "text": "Tjugo trapphus med nya ytskikt, belysning och postboxar.", "tagg": "bostad"},
+    {"namn": "Bostadsanpassningar 2025", "ort": "Borås och Mark", "typ": "Bostadsanpassning", "ar": "2025", "text": "412 anpassningar beviljade av kommunerna, varav 61 brådskande.", "tagg": "hem"}
+  ],
+  "process": [
+    {"titel": "Arbetsordern kommer in", "text": "Ordern landar i vårt system direkt från fastighetsägarens felanmälan. Arbetsledaren fördelar samma dag.", "tagg": "kontor"},
+    {"titel": "Besiktning med foto", "text": "Vi fotograferar före och mäter, så att fastighetsägaren ser vad som ska göras och vad det kostar.", "tagg": "interior"},
+    {"titel": "Fast pris per åtgärd", "text": "Arbetet utförs enligt ramavtalets à-prislista. Avvikelser godkänns i appen innan vi fortsätter.", "tagg": "people"},
+    {"titel": "Klarrapport samma dag", "text": "Ordern stängs med bilder efter, så att förvaltaren kan släppa lägenheten till nästa hyresgäst.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi byter bara det som är slut",
+    "text": "Köksluckor målas om i stället för att bytas när stommen är hel, och vitvaror som fungerar flyttas till andra lägenheter i beståndet. Våra servicebilar är eldrivna sedan 2024 och laddas på kontoret i Viared.",
+    "mal": [["61 %", "av köken renoveras i stället för att bytas"], ["64", "eldrivna servicebilar"], ["6,8", "dagars snittid mellan två hyresgäster"]]
+  },
+  "karriar": {
+    "rubrik": "Fasta tider, ny adress varje dag",
+    "text": "Hos oss jobbar du 7–16, kör egen servicebil och har din egen tur. Du träffar hyresgäster varje dag, så vanlig artighet är lika viktig som yrkeskunskap.",
+    "jobb": [["Servicesnickare", "Borås"], ["Målare, flyttrenovering", "Borås"], ["Plattsättare", "Ulricehamn"], ["Arbetsledare, ramavtal", "Borås"]]
+  },
+  "kultur": "Alla servicebilar är utrustade likadant, så att du alltid vet var verktygen ligger.",
+  "citat": {"text": "Ingen ringer oss för att det gick bra. Men om en hyresgäst kan flytta in i tid tusen gånger om året har vi gjort vårt jobb.", "namn": "Marcus Lindgren", "roll": "Vd, andra generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Viskadalen har kortat våra vakansdagar med en tredjedel sedan de tog över flyttrenoveringarna. Vi ser varje order i realtid.", "namn": "Helena S.", "ort": "Förvaltare, Borås"},
+    {"text": "Snickaren tog bort tröskeln, satte upp handtag och visade min mamma hur spisvakten fungerade. Det tog en förmiddag.", "namn": "Ali K.", "ort": "Norrby"},
+    {"text": "Läckan började klockan två på natten. Jouren var här kvart i fyra och hade stängt av och ställt in avfuktare innan grannen vaknade.", "namn": "Birgitta Å.", "ort": "Sjöbo"}
+  ],
+  "faq": [
+    ["Hur fungerar ett ramavtal?", "Vi tar fram en à-prislista för de vanligaste åtgärderna och arbetar mot den i två till fyra år. Fastighetsägaren lägger order och vi fakturerar per utförd åtgärd."],
+    ["Vad kostar en flyttrenovering?", "En tvåa med målning, golvslipning och nya köksluckor kostar normalt 38 000–62 000 kronor. Exakt pris följer à-prislistan."],
+    ["Utför ni bostadsanpassningar åt privatpersoner?", "Ja, när kommunen har beviljat bidraget. Kommunen betalar oss direkt och du behöver inte ligga ute med pengar."],
+    ["Hur snabbt kommer jouren?", "Inom två timmar i Borås, Mark och Ulricehamn. Jouren är bemannad dygnet runt, alla dagar."],
+    ["Kan ni koppla er mot vårt förvaltningssystem?", "Ja. Vi tar emot och stänger arbetsordrar i de vanligaste systemen, med foto före och efter."],
+    ["Arbetar ni åt bostadsrättsföreningar?", "Ja, med serviceavtal för föreningar från 40 lägenheter. Mindre föreningar hänvisar vi till vår felanmälan med timpris."],
+    ["Har ni kollektivavtal?", "Ja, med Byggnads och Målareförbundet."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001 och 14001", "text": "Ledningssystem som täcker allt från arbetsorder till fakturering.", "ikon": "dokument"},
+    {"titel": "Behörig Våtrum", "text": "Alla plattsättare har behörighet och varje badrum får ett våtrumsintyg.", "ikon": "vatten"},
+    {"titel": "Säker Vatten", "text": "Auktoriserade för installationer i våtrum och kök enligt branschreglerna.", "ikon": "ror"},
+    {"titel": "ID06", "text": "Synlig legitimation för alla som kommer in i en bebodd lägenhet.", "ikon": "las"}
+  ],
+  "certifikat_rubrik": "Godkända för bebodda hem",
+  "kunder": ["Borås Hyreshus", "Ulricehamns Bostäder", "Marks Fastigheter", "Brf Kypegården", "Sjuhärads Fastighets AB", "Borås stad", "Svenljunga Hem", "Fastighets AB Viskan"],
+  "kunder_rubrik": "Fastighetsägare med ramavtal",
+  "nyheter": [
+    ["2026-10-06", "Rekord: 6,4 dagar mellan hyresgäster", "Lägenhetslagets snabbaste månad hittills.", "interior"],
+    ["2026-08-28", "Vi tar över underhållet i Ulricehamn", "Ett fyraårigt ramavtal för 1 800 lägenheter från januari.", "stad"],
+    ["2026-05-13", "Alla servicebilar går på el", "De sista dieselbilarna lämnades in i maj.", "people"]
+  ],
+  "kontakt": {"adress": "Viaredsvägen 22", "postnr": "504 94", "ort": "Borås", "telefon": "070-174 06 15", "epost": "order@viskadalensbygg.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, skadejour dygnet runt",
+  "omrade": "Borås, Mark, Ulricehamn, Svenljunga och Tranemo",
+  "fot_cta": "Står lägenheter tomma för länge? Låt oss räkna på ett ramavtal.",
+  "bild": {"hb": "interior", "sida_om": "stad"},
+  "text": {
+    "topp_hem": "Viskadalens Bygg",
+    "kontakt_knapp": "Lägg en order",
+    "hero_knapp": "Det här utför vi",
+    "hero_lank": "Pågående ramavtal",
+    "ber_rubrik": "Månadens siffror och uppdrag",
+    "proj_etikett": "Uppdrag",
+    "proj_rubrik": "Ramavtal och renoveringar i bebodda hus",
+    "proj_rubrik_lista": "Ramavtal, renoveringar och anpassningar",
+    "proj_kol": ["Uppdrag", "Ort", "Typ", "Status", "År"],
+    "process_etikett": "Arbetsordern",
+    "process_rubrik": "Från felanmälan till klarrapport",
+    "hb_etikett": "Underhåll & miljö",
+    "hb_lank": "Om renovering före byte",
+    "omdomen_etikett": "Förvaltare och hyresgäster",
+    "omdomen_rubrik": "Från kontoret och från trapphuset",
+    "faq_rubrik": "Frågor om ramavtal och jour",
+    "boka_rubrik": "Låt oss ta nästa arbetsorder",
+    "boka_text": "Beskriv beståndet eller skadan, så ringer en arbetsledare upp inom en timme under kontorstid.",
+    "boka_falt": ["Namn och fastighetsägare", "Telefon", "E-post", "Antal lägenheter eller adress"],
+    "ny_rubrik": "Nytt från Viared",
+    "bolag_etikett": "Lag",
+    "bolag_rubrik": "Lägenhet, service, anpassning och jour",
+    "medarbetare": "Servicefolket"
+  }
+}
