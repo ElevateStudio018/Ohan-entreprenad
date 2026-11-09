@@ -14,7 +14,7 @@
     "Kattluckan startade 2019 av Josefin Almgren i Gävle. Hon hade klippt katter på en salong i Uppsala i sex år och såg samma sak varje vecka: katter som var helt lugna hemma men som kissade i buren, flämtade i bilen och var för stressade för att hanteras när de väl kom fram.",
     "I dag är vi tre kattfrisörer som kör var sin bil i Gävleborg och norra Uppland. Vi bokar en katt per hembesök, eller flera om de bor i samma hushåll, och räknar med 90 minuter inklusive att packa upp och städa efter oss. Vi tar inte emot hundar."
   ],
-  "vagval_rubrik": "Vad behöver katten där hemma?",
+  "vagval_rubrik": "Filt, klor eller hela pälsen?",
   "tjanster": [
     {"titel": "Avfiltning hemma", "ikon": "verktyg", "href": "verksamhet.html", "text": "Filt och tovor bort i små pass, utan narkos och utan bilresa."},
     {"titel": "Hygienklipp", "ikon": "sax", "href": "verksamhet.html", "text": "Rumpa, mage och baktassar för långhåriga katter som blir smutsiga."},
@@ -27,7 +27,7 @@
   ],
   "affarsomraden": [
     {"titel": "Hembesök för katter", "text": "Vi väljer det lugnaste rummet i bostaden och lägger ut en halkfri matta på bordet eller golvet. Katten får nosa på väskan innan vi börjar.", "text2": "De flesta katter behandlas på diskbänken eller i badkaret.", "tagg": "katt"},
-    {"titel": "Filt och tovor", "text": "Tovor som sitter tätt mot huden klipps med kattsäker trimmer, lösare filt reds ut med kam och balsam. Vi arbetar i pass om högst femton minuter.", "text2": "Gravt filtade katter delar vi upp på två besök med en veckas mellanrum.", "tagg": "katt"},
+    {"titel": "Filt och tovor", "text": "Tovor som sitter tätt mot huden klipps med kattsäker trimmer, lösare filt reds ut med kam och balsam. Vi arbetar i pass om högst femton minuter.", "text2": "Är nästan hela pälsen filtad bokar vi ett andra besök sju dagar senare.", "tagg": "katt"},
     {"titel": "Äldre och sjuka katter", "text": "Gamla katter slutar ofta tvätta sig när ryggen blir stel. Vi kortar pälsen på rygg och bak och tar bort mjäll och flottig päls.", "text2": "Vi samarbetar med Gävle Kattklinik när katten har hudproblem.", "tagg": "katt"},
     {"titel": "Uppfödare och katterier", "text": "Inför utställningar badar och fönar vi hela kullar och vuxna katter hemma hos uppfödaren. Det sparar en dag i bil för både katter och människor.", "text2": "Vi följer SVERAKs riktlinjer för utställningsförberedelse.", "tagg": "katt"}
   ],
@@ -66,7 +66,7 @@
     "text": "Många veterinärer söver långhåriga katter för att ta bort filt, eftersom det inte går att hantera katten vaken på kliniken. Hemma, i små pass, går det nästan alltid. Vi har behövt hänvisa till veterinär sex gånger på sju år.",
     "mal": [["6", "katter hänvisade till narkos sedan 2019"], ["15 min", "längsta passet utan paus"], ["1", "katt i taget, i sitt eget hem"]]
   },
-  "karriar": {"rubrik": "Förbered kattens första hembesök", "text": "Stäng dörrar till rum där katten kan gömma sig, till exempel under sängen. Låt bli att mata katten de sista två timmarna – en lagom hungrig katt tar gärna emot godis. Vi behöver ett eluttag och en yta på cirka en meter.", "jobb": []},
+  "karriar": {"rubrik": "Så gör du hemmet redo", "text": "Stäng dörrar till rum där katten kan gömma sig, till exempel under sängen. Låt bli att mata katten de sista två timmarna – en lagom hungrig katt tar gärna emot godis. Vi behöver ett eluttag och en yta på cirka en meter.", "jobb": []},
   "kultur": "Vi dammsuger upp efter oss och lämnar inga hårtussar i ditt badrum.",
   "citat": {"text": "Den bästa kattsalongen i världen är ändå en främmande plats som luktar främmande djur. Kattens eget badrum slår den varje gång.", "namn": "Josefin Almgren", "roll": "Startade Kattluckan 2019", "tagg": "katt"},
   "omdomen": [
@@ -84,11 +84,11 @@
     ["Hur betalar jag?", "Med Swish eller faktura efter besöket."]
   ],
   "priser": [
-    {"namn": "Klor och tassar", "pris": "395 kr", "enhet": "per katt", "text": "Det snabbaste besöket.", "punkter": ["Kloklipp alla fyra tassar", "Trim mellan trampdynorna", "Kontroll av öron och ögon", "Resa inom tre mil"]},
+    {"namn": "Klor och tassar", "pris": "395 kr", "enhet": "per katt", "text": "Det snabbaste besöket.", "punkter": ["Kloklipp alla fyra tassar", "Trim mellan trampdynorna", "Titt i öron och ögon", "Resa inom tre mil"]},
     {"namn": "Hemtrim", "pris": "fr. 995 kr", "enhet": "per katt, upp till 90 min", "text": "Bad, avfiltning eller hygienklipp hemma.", "punkter": ["Bad med kattschampo", "Avfiltning i korta pass", "Lågljudsfön på 48 dB", "Vi städar upp efteråt"], "utvald": true},
-    {"namn": "Lejonklipp hemma", "pris": "fr. 1 395 kr", "enhet": "per katt", "text": "Kortklippt kropp, man och tofs kvar.", "punkter": ["Hela kroppen klippt", "Man, tassar och svanstofs kvar", "Bad om katten tål det", "Ny tid om tre månader"]}
+    {"namn": "Lejonklipp hemma", "pris": "fr. 1 395 kr", "enhet": "per katt", "text": "Kort päls på kroppen, lejonmanen sparas.", "punkter": ["Hela kroppen klippt", "Manen och svanstofsen lämnas orörda", "Bad om katten tål det", "Ny tid om tre månader"]}
   ],
-  "prislista": [["Korthårig katt, bad och fön", "fr. 795 kr"], ["Långhårig katt, bad och fön", "fr. 995 kr"], ["Avfiltning, per påbörjad kvart", "190 kr"], ["Hygienklipp", "fr. 650 kr"], ["Lejonklipp", "fr. 1 395 kr"], ["Kloklipp", "395 kr"], ["Katt nummer två i samma hem", "−20 %"], ["Utställningsbad hos uppfödare", "fr. 750 kr/katt"], ["Resa utöver tre mil", "6 kr/km"]],
+  "prislista": [["Korthårig katt, bad och fön", "fr. 795 kr"], ["Långhårig katt, bad och fön", "fr. 995 kr"], ["Filtborttagning, varje kvart", "190 kr"], ["Hygienklipp", "fr. 650 kr"], ["Lejonklipp", "fr. 1 395 kr"], ["Kloklipp", "395 kr"], ["Katt nummer två i samma hem", "−20 %"], ["Utställningsbad hos uppfödare", "fr. 750 kr/katt"], ["Resa utöver tre mil", "6 kr/km"]],
   "galleri_taggar": ["katt", "katt"],
   "nyheter": [
     ["2026-09-24", "Norra Uppland får egen bil", "Samir kör Tierp, Skutskär och Älvkarleby varje torsdag och fredag.", "katt"],
@@ -115,7 +115,7 @@
     "hb_lank": "Därför behandlar vi hemma",
     "omdomen_rubrik": "Kattägare som slapp buren",
     "faq_rubrik": "Frågor om hembesöken",
-    "priser_rubrik": "Pris per katt, resan ingår",
+    "priser_rubrik": "Ett pris per katt, bilresan bjuder vi på",
     "priser_not": "Priserna gäller inom tre mil från Gävle, Söderhamn eller Tierp. Avfiltning utöver det beräknade debiteras per kvart.",
     "galleri_rubrik": "Katter i sina egna hem",
     "boka_rubrik": "Boka ett hembesök",
@@ -125,7 +125,7 @@
     "ny_rubrik": "Pälsråd för kattägare",
     "panel_etikett": "Före besöket",
     "fot_adress": "Bokning",
-    "sida_bolag_ingress": "Vi är {n} kattfrisörer med var sin bil.",
+    "sida_bolag_ingress": "{n} kattfrisörer, tre bilar, ett län och lite till.",
     "sida_projekt_ingress": "Katter vi har behandlat hemma hos sina ägare.",
     "sida_verksamhet_text2": "Vi använder parfymfria kattprodukter och en batteridriven fön som inte skrämmer.",
     "sida_priser_ingress": "Priset beror på pälslängd, filt och hur många katter som bor i hemmet."

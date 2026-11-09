@@ -26,7 +26,7 @@
     {"titel": "Anmäl din valp", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Ny kursstart varannan måndag."}
   ],
   "affarsomraden": [
-    {"titel": "Valpkurs i gläntan", "text": "Fem träffar à en timme, utomhus i gläntan när vädret tillåter och i hallen när det regnar. Vi tränar kontakt, namninlärning, inkallning och att vara ensam en stund.", "text2": "Högst fem valpar per grupp och alltid två instruktörer.", "tagg": "hundtraning"},
+    {"titel": "Valpkurs i gläntan", "text": "Fem träffar à en timme, utomhus i gläntan när vädret tillåter och i hallen när det regnar. Vi tränar kontakt, namninlärning, inkallning och att vara ensam en stund.", "text2": "Fem valpar och två instruktörer, aldrig fler valpar än så.", "tagg": "hundtraning"},
     {"titel": "Lek och socialisering", "text": "Valparna leker i grupper sorterade efter vikt, så att en chihuahua aldrig springs omkull av en grand danois. En instruktör avbryter och pausar leken innan den blir för vild.", "text2": "Lekgrupperna träffas tisdagar och lördagar, drop in med klippkort.", "tagg": "valp"},
     {"titel": "Valpsalongen", "text": "Första besöken handlar om att sitta på bordet, höra fönen och få tassarna klämda – med godis för varje steg. Klippning gör vi bara när valpen är redo.", "text2": "Valpar som går kurs får tre salongsbesök utan kostnad.", "tagg": "trimning"},
     {"titel": "Miljöträning i stan", "text": "Vid tolv till sexton veckor tar vi med grupperna till Växjö resecentrum, Stortorget och en parkeringshiss. Valparna får uppleva ljud och underlag i lugn takt.", "text2": "Miljöpromenaden ingår i valpkursen och går även att boka separat.", "tagg": "hundtraning"}
@@ -76,12 +76,12 @@
   ],
   "faq": [
     ["När ska valpen börja?", "Valpkursen tar emot valpar från åtta veckor, efter första vaccinationen. Anmäl gärna innan du hämtar valpen."],
-    ["Varför tar ni inte vuxna hundar?", "För att valparna ska få möta hundar i sin egen ålder och storlek. Vuxna hundar hänvisar vi till brukshundklubben eller andra hundskolor."],
-    ["Måste valpen gå kurs för att få klippas?", "Nej, valpsalongen är öppen för alla valpar under sex månader. Kursvalpar får tre besök utan kostnad."],
+    ["Varför är det stopp vid sex månader?", "För att valparna ska få möta hundar i sin egen ålder och storlek. Vuxna hundar hänvisar vi till brukshundklubben eller andra hundskolor."],
+    ["Får valpar som inte går kurs använda salongen?", "Nej, valpsalongen är öppen för alla valpar under sex månader. Kursvalpar får tre besök utan kostnad."],
     ["Tränar ni ute även i regn?", "Då flyttar vi in i hallen. Lite duggregn tränar vi ofta i – det är också miljöträning."],
     ["Kan barnen vara med?", "Ja, barn över sju år får gärna träna med valpen under en vuxens överinseende."],
     ["Hur ofta ska valpen leka i grupp?", "En till två gånger i veckan räcker. Mer än så kan bli för mycket för en ung hjärna."],
-    ["Hur anmäler jag?", "Via formuläret eller telefon. Kursavgiften betalas vid första träffen."]
+    ["Hur anmäler jag?", "Via formuläret eller telefon. Avgiften betalas på plats första kvällen."]
   ],
   "priser": [
     {"namn": "Valplek", "pris": "1 200 kr", "enhet": "klippkort, 8 gånger", "text": "Lekgrupper efter storlek.", "punkter": ["Max sex valpar per grupp", "Instruktör på plats", "Tisdagar och lördagar", "Giltigt till sex månaders ålder"]},
@@ -118,7 +118,7 @@
     "faq_rubrik": "Frågor från valpägare",
     "priser_etikett": "Kursavgifter",
     "priser_rubrik": "Tre sätt att börja",
-    "priser_not": "Kursavgiften betalas vid första träffen. Missade träffar kan tas igen i nästa grupp.",
+    "priser_not": "Du betalar på plats första kvällen. Missade träffar kan tas igen i nästa grupp.",
     "galleri_rubrik": "Små tassar i gläntan",
     "boka_rubrik": "Anmäl din valp",
     "boka_text": "Skriv valpens ras, födelsedatum och när du hämtar den, så föreslår vi en kursstart.",

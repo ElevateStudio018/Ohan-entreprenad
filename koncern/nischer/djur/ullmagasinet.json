@@ -18,7 +18,7 @@
   "tjanster": [
     {"titel": "Säsongsavfällning", "ikon": "vind", "href": "verksamhet.html", "text": "All lös underull ut på en gång under vår- och höstfällningen."},
     {"titel": "Underhållsbad", "ikon": "vatten", "href": "verksamhet.html", "text": "Var åttonde vecka mellan fällningarna, så att ullen aldrig hinner tova."},
-    {"titel": "Rädda rakad päls", "ikon": "verktyg", "href": "verksamhet.html", "text": "En plan för att få tillbaka täckhåret efter rakning."},
+    {"titel": "Rädda rakad päls", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vi följer pälsen tills täckhåret har vuxit in igen."},
     {"titel": "Hundgarn", "ikon": "lada", "href": "verksamhet.html", "text": "Vi samlar ullen och skickar den till spinneriet."},
     {"titel": "Collie och sheltie", "ikon": "hjarta", "href": "verksamhet.html", "text": "Krage, byxor och fjädrar formade efter rasstandarden."},
     {"titel": "Borstkurs", "ikon": "skola", "href": "verksamhet.html", "text": "En timme med rätt kam, rake och karda för just din ras."},
@@ -34,7 +34,7 @@
   "bolag": [
     {"namn": "Annelie Kjellberg", "segment": "Grundare och pälsspecialist", "rubrik": "Tjugo år med shetland sheepdog", "text": "Annelie föder upp sheltie under kennelnamnet Mälarbris och tar alla collie- och sheltieklippningar.", "tagg": "trimning"},
     {"namn": "Dragan Petrović", "segment": "Hundfrisör, stora raser", "rubrik": "Bernern och newfoundlandarna", "text": "Dragan har arbetat på kennel i Serbien och Tyskland och klarar en leonberger i full fällning på tre timmar.", "tagg": "hund"},
-    {"namn": "Saga Lindholm", "segment": "Hundfrisör och garnansvarig", "rubrik": "Ull i påsar, garn i nystan", "text": "Saga sköter underhållsbaden, samlar ullen och har själv stickat en tröja av sin samojeds päls.", "tagg": "hund"}
+    {"namn": "Saga Lindholm", "segment": "Bad, ull och spinneriet", "rubrik": "Ull i påsar, garn i nystan", "text": "Saga sköter underhållsbaden, samlar ullen och har själv stickat en tröja av sin samojeds päls.", "tagg": "hund"}
   ],
   "berattelser": [
     {"rubrik": "Höstfällningen är här", "text": "Vi har öppnat kvällstider varje onsdag fram till december för de stora raserna.", "tagg": "hund"},
@@ -80,7 +80,7 @@
     ["Blir hunden inte varm i pälsen på sommaren?", "Nej, en välvårdad dubbelpäls isolerar mot värmen. Det är tovig, packad ull som gör hunden varm."],
     ["Kan ni ta bort tovor utan att raka?", "Ja, i de flesta fall. Sitter filten tätt mot huden på stora ytor klipper vi den lokalt och berättar varför."],
     ["Hur mycket ull behövs till garn?", "Minst 500 gram för en körning hos spinneriet. Det motsvarar ungefär en mössa och ett par vantar."],
-    ["Hur lång tid tar en avfällning?", "Från två timmar för en sheltie till fyra för en malamute. Du får ett sms när hunden är klar."],
+    ["Hur många timmar tar besöket?", "Från två timmar för en sheltie till fyra för en malamute. Vi hör av oss när du kan hämta."],
     ["Vad kostar det att avboka under fällningen?", "Ja, senast två dygn före. Under fällningssäsongen tar vi annars 400 kronor eftersom tiden inte går att fylla."]
   ],
   "priser": [
@@ -111,7 +111,7 @@
     "omdomen_rubrik": "Ägare som slapp dammsuga",
     "faq_rubrik": "Frågor om underull",
     "priser_rubrik": "Pris per ras och säsong",
-    "priser_not": "Priserna gäller päls utan filt mot huden. En samojed eller malamute i full fällning kan kräva extra tid, som vi alltid stämmer av först.",
+    "priser_not": "Filt tätt mot huden ingår inte. En samojed eller malamute i full fällning kan kräva extra tid, som vi alltid stämmer av först.",
     "galleri_rubrik": "Ullbollar och nyblåsta pälsar",
     "boka_rubrik": "Boka före fällningen",
     "boka_text": "Skriv ras, ålder och om hunden fäller just nu. Säg till om du vill spara ullen till garn.",
