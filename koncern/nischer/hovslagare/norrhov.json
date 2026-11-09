@@ -22,13 +22,13 @@
     {"titel": "Bilburen verkstad", "ikon": "bil", "href": "verksamhet.html", "text": "Hela verkstaden kommer till gården, även där vägen slutar vid en skogsbilväg."},
     {"titel": "Ridskoleavtal", "ikon": "dokument", "href": "verksamhet.html", "text": "Fast schema för ridskolor och föreningar med en ansvarig hovslagare."},
     {"titel": "Islandshästar", "ikon": "glob", "href": "verksamhet.html", "text": "Skoning anpassad för tölt och pass, med rätt längd och vikt på skon."},
-    {"titel": "Akut tappad sko", "ikon": "telefon", "href": "verksamhet.html", "text": "Nypålägg inom 48 timmar på alla fem orter, vardagar."},
+    {"titel": "Nypålägg inom 48 h", "ikon": "telefon", "href": "verksamhet.html", "text": "Nypålägg inom 48 timmar på alla fem orter, vardagar."},
     {"titel": "Våra kontor", "ikon": "karta", "href": "om-oss.html", "text": "Umeå, Skellefteå, Luleå, Örnsköldsvik och Lycksele."},
     {"titel": "Boka på nätet", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Skicka förfrågan så ringer bokningen upp inom en arbetsdag."}
   ],
   "affarsomraden": [
     {"titel": "Vinterskoning", "text": "Från november till april skor vi nästan alla hästar med broddhål och snösulor. Vi har eget lager av hårdmetallbroddar och skruvbroddar i fyra längder.", "text2": "Hästar som går på lösdrift får skor utan broddar men med snösula, så att snön inte packas i hoven.", "tagg": "hast"},
-    {"titel": "Ridhästar och ponnyer", "text": "Den största delen av vårt arbete är privata hästägare med en till fem hästar. Med fast intervall och påminnelse via sms behöver du aldrig jaga en tid.", "text2": "Kunder i samma by samordnas, så att reseavgiften delas.", "tagg": "hast"},
+    {"titel": "Privata hästägare", "text": "Den största delen av vårt arbete är privata hästägare med en till fem hästar. Med fast intervall och påminnelse via sms behöver du aldrig jaga en tid.", "text2": "Kunder i samma by samordnas, så att reseavgiften delas.", "tagg": "hast"},
     {"titel": "Ridskolor och föreningar", "text": "Nitton ridskolor och föreningar i fyra kommuner har avtal med oss. Vi kommer en fast dag var sjätte vecka och skor eller verkar alla hästar som står på listan.", "text2": "Avtalet innehåller också akuta nypålägg utan reseavgift.", "tagg": "natur"},
     {"titel": "Inlandet", "text": "Från Lycksele kör två hovslagare inlandet upp till Storuman och Sorsele. Rutterna läggs två gånger i månaden och publiceras här på sajten.", "text2": "Vill du komma med på rutten räcker det med en häst längs vägen.", "tagg": "natur"}
   ],
@@ -107,7 +107,7 @@
   "fot_cta": "Skicka en förfrågan i dag – bokningen i Umeå ringer upp inom en arbetsdag.",
   "text": {
     "kontakt_knapp": "Skicka förfrågan",
-    "hero_knapp": "Våra tjänster",
+    "hero_knapp": "Så fungerar rutterna",
     "hero_lank": "Se våra orter",
     "ber_rubrik": "Senaste nytt från norr",
     "proj_rubrik": "Stall längs hela kusten",
@@ -124,6 +124,6 @@
     "kontor_etikett": "Våra orter",
     "kontor_rubrik": "Fem kontor längs kusten och inlandet",
     "ny_rubrik": "Rutter och råd",
-    "medarbetare": "Medarbetare"
+    "medarbetare": "Hovslagare och bokning"
   }
 }

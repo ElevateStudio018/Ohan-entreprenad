@@ -23,7 +23,7 @@
     {"titel": "Stallvakt", "ikon": "nyckel", "href": "verksamhet.html", "text": "Vi sköter utfodring och mockning när du åker till fastlandet."},
     {"titel": "Hagstängsel", "ikon": "verktyg", "href": "verksamhet.html", "text": "Reparation och uppsättning av el- och trästängsel på vårvintern."},
     {"titel": "Rutterna", "ikon": "karta", "href": "om-oss.html", "text": "Norr, mitt, söder och öster – en vecka var."},
-    {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Samma pris i hela ön, ingen reseavgift på rutten."},
+    {"titel": "Ett pris för hela ön", "ikon": "dokument", "href": "priser.html", "text": "Samma pris i hela ön, ingen reseavgift på rutten."},
     {"titel": "Ring Elin", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vardagar mellan 7 och 8 innan vi kör iväg."}
   ],
   "affarsomraden": [
@@ -58,7 +58,7 @@
   ],
   "process": [
     {"titel": "Du ringer Elin", "text": "Mellan 7 och 8 på vardagar. Vi berättar vilken vecka din rutt går.", "tagg": "people"},
-    {"titel": "Plats på rutten", "text": "Du får dag och ungefärlig tid några dagar innan, via sms.", "tagg": "natur"},
+    {"titel": "Datum via sms", "text": "Du får dag och ungefärlig tid några dagar innan, via sms.", "tagg": "natur"},
     {"titel": "Besöket", "text": "Vi verkar eller skor på gården. Russ som inte är vana får ta den tid de behöver.", "tagg": "hast"},
     {"titel": "Nästa varv", "text": "Hästen hamnar automatiskt på listan när din rutt går nästa gång.", "tagg": "hast"}
   ],
@@ -88,8 +88,8 @@
     ["Hur betalar jag?", "Swish direkt efter besöket eller faktura med tio dagar."]
   ],
   "priser": [
-    {"namn": "Verkning russ", "pris": "550 kr", "enhet": "per häst", "text": "För russ och mindre ponnyer.", "punkter": ["Verkning av fyra hovar", "Ingen reseavgift på rutten", "Extra tid för ovana hästar", "Påminnelse inför nästa varv"]},
-    {"namn": "Skoning", "pris": "1 600 kr", "enhet": "per häst", "text": "Fyra stålskor med varmanpassning.", "punkter": ["Verkning och fyra skor", "Varmanpassning i bilen", "Skor i lager – ingen väntan på färjan", "Ingen reseavgift på rutten"], "utvald": true},
+    {"namn": "Verkning russ", "pris": "550 kr", "enhet": "per häst", "text": "För russ och mindre ponnyer.", "punkter": ["Fyra hovar verkade på gården", "Ingen reseavgift på rutten", "Extra tid för ovana hästar", "Påminnelse inför nästa varv"]},
+    {"namn": "Skoning", "pris": "1 600 kr", "enhet": "per häst", "text": "Fyra stålskor med varmanpassning.", "punkter": ["Verkning plus fyra nya skor", "Varmanpassning i bilen", "Skor i lager – ingen väntan på färjan", "Ingen reseavgift på rutten"], "utvald": true},
     {"namn": "Stallvakt", "pris": "450 kr", "enhet": "per dag", "text": "Två besök om dagen när du är bortrest.", "punkter": ["Utfodring morgon och kväll", "Vatten och mockning", "Bild och sms varje kväll", "Upp till fyra hästar"]}
   ],
   "certifikat": [
@@ -116,7 +116,7 @@
     "ber_rubrik": "Nytt från gården i Lojsta",
     "proj_rubrik": "Gårdar och hagar på ön",
     "proj_rubrik_lista": "Besök runt ön",
-    "process_rubrik": "Så fungerar rutterna",
+    "process_rubrik": "Fyra rutter, ett varv i månaden",
     "bolag_etikett": "Vi tre",
     "bolag_rubrik": "Far, dotter och lärling",
     "meny_bolag": "Vi tre",
@@ -126,7 +126,7 @@
     "omdomen_rubrik": "Gotlänningar om oss",
     "faq_rubrik": "Frågor om rutter, russ och stallvakt",
     "priser_rubrik": "Samma pris i Visby som i Sundre",
-    "priser_not": "Alla priser inklusive moms. Ingen reseavgift på ordinarie rutt.",
+    "priser_not": "Priserna inkluderar moms. På din ordinarie rutt tar vi ingen reseavgift.",
     "boka_rubrik": "Var på ön står hästen?",
     "boka_text": "Skriv socken och antal hästar, så berättar vi vilken vecka din rutt går.",
     "boka_falt": ["Namn", "Telefon", "Socken", "Hästar och vad som behövs"],

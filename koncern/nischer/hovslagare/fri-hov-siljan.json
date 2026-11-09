@@ -23,7 +23,7 @@
     {"titel": "Foder och hovhälsa", "ikon": "lov", "href": "verksamhet.html", "text": "Genomgång av foderstat, sockerhalt i höet och mineraler tillsammans med ägaren."},
     {"titel": "Unghästar och föl", "ikon": "hjarta", "href": "verksamhet.html", "text": "Lugn verkning av föl och unghästar, med fokus på att lära hästen att stå."},
     {"titel": "Nordsvenskar och ponnyer", "ikon": "trad", "href": "verksamhet.html", "text": "Vi verkar många kallblod och ponnyer som går på hagar året om."},
-    {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Samma pris för alla raser och storlekar."},
+    {"titel": "Vad det kostar", "ikon": "dokument", "href": "priser.html", "text": "Samma pris för alla raser och storlekar."},
     {"titel": "Ställ dig i kö", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Nya kunder får en tid inom tre veckor."}
   ],
   "affarsomraden": [
@@ -88,7 +88,7 @@
     ["Kan jag köpa hovskor av er?", "Ja, vi säljer de modeller vi har i provlagret, och du får provat storlek innan köp."]
   ],
   "priser": [
-    {"namn": "Verkning", "pris": "650 kr", "enhet": "per häst och besök", "text": "Regelbunden verkning var femte till sjätte vecka.", "punkter": ["Verkning av fyra hovar", "Foton från fyra vinklar", "Bedömning av gång", "Påminnelse inför nästa besök"]},
+    {"namn": "Verkning", "pris": "650 kr", "enhet": "per häst och besök", "text": "Regelbunden verkning var femte till sjätte vecka.", "punkter": ["Alla fyra hovar verkade", "Foton från fyra vinklar", "Bedömning av gång", "Påminnelse inför nästa besök"]},
     {"namn": "Från skor till barfota", "pris": "5 900 kr", "enhet": "sex månader", "text": "Programmet för hästar som tar av skorna.", "punkter": ["Avtagning av skor", "Sju verkningar på sex månader", "Lån av hovskor under övergången", "Foderrådgivning ingår"], "utvald": true},
     {"namn": "Hovskoprovning", "pris": "450 kr", "enhet": "per tillfälle", "text": "Mätning och utprovning i ladan eller hemma.", "punkter": ["Mätning av alla fyra hovar", "Två testpar i två veckor", "Avdrag på priset vid köp", "Råd om användning och skötsel"]}
   ],
@@ -114,7 +114,7 @@
     "kontakt_knapp": "Boka första besöket",
     "hero_knapp": "Så arbetar vi",
     "hero_lank": "Hästar vi följer",
-    "vagval_etikett": "Hovvård",
+    "vagval_etikett": "Barfota",
     "ber_rubrik": "Från hagarna runt Siljan",
     "proj_rubrik": "Hästar som går på egna hovar",
     "proj_rubrik_lista": "Gårdar och hästar",
@@ -124,7 +124,7 @@
     "omdomen_rubrik": "Hästägare om barfotalivet",
     "faq_rubrik": "Frågor om att gå barfota",
     "priser_rubrik": "Samma pris för russ som för ardenner",
-    "priser_not": "Alla priser inklusive moms. Resa inom Siljansbygden ingår.",
+    "priser_not": "Moms ingår i alla priser, liksom resor inom Siljansbygden.",
     "boka_rubrik": "Berätta om hästens hovar",
     "boka_text": "Skriv om hästen går med skor i dag, hur den används och var den står. Bifoga gärna en bild på hovarna.",
     "boka_falt": ["Namn", "Telefon", "Ort", "Om hästen och hovarna"],

@@ -18,10 +18,10 @@
   "vagval_rubrik": "Vad behöver hästen den här säsongen?",
   "tjanster": [
     {"titel": "Skoning med induktion", "ikon": "laddning", "href": "verksamhet.html", "text": "Skon värms med induktion på trettio sekunder – utan öppen låga i stallgången."},
-    {"titel": "Verkning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Verkning av barfotahästar, ponnyer och unghästar var sjätte till åttonde vecka."},
+    {"titel": "Barfota och ponny", "ikon": "verktyg", "href": "verksamhet.html", "text": "Verkning av barfotahästar, ponnyer och unghästar var sjätte till åttonde vecka."},
     {"titel": "Skoretur", "ikon": "kugge", "href": "verksamhet.html", "text": "Insamling av utslitna skor och sömmar från stallet för återvinning."},
-    {"titel": "Ortopedisk skoning", "ikon": "vard", "href": "verksamhet.html", "text": "Stödskor och limskor efter veterinärens bedömning."},
-    {"titel": "Ridskolor och föreningar", "ikon": "skola", "href": "verksamhet.html", "text": "Fasta avtal med årlig klimatredovisning för föreningens styrelse."},
+    {"titel": "Stödskor och limskor", "ikon": "vard", "href": "verksamhet.html", "text": "Stödskor och limskor efter veterinärens bedömning."},
+    {"titel": "Klimatavtal för föreningar", "ikon": "skola", "href": "verksamhet.html", "text": "Fasta avtal med årlig klimatredovisning för föreningens styrelse."},
     {"titel": "Elbil till gården", "ikon": "bil", "href": "verksamhet.html", "text": "Alla bilar är elbilar och laddas med solel från verkstadens tak."},
     {"titel": "Klimatredovisning", "ikon": "graf", "href": "hallbarhet.html", "text": "Så räknar vi utsläppen per skoning – och hur mycket de har minskat."},
     {"titel": "Boka besök", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Ny kund? Vi har tider inom tre veckor i hela länet."}
@@ -46,7 +46,7 @@
     {"varde": "0", "enhet": "liter", "etikett": "Gasol och diesel under 2025"},
     {"varde": "7,4", "enhet": "ton", "etikett": "Järn återvunnet förra året"},
     {"varde": "–86 %", "enhet": "", "etikett": "Utsläpp per skoning sedan 2019"},
-    {"varde": "11", "enhet": "personer", "etikett": "Varav åtta hovslagare"}
+    {"varde": "11", "enhet": "personer", "etikett": "Åtta av dem hovslagare"}
   ],
   "projekt": [
     {"namn": "Ryttarföreningen Tornbyslätten", "ort": "Linköping", "typ": "Ridskoleavtal", "ar": "2025", "text": "Femtio hästar med fast schema och klimatredovisning till föreningens årsmöte.", "tagg": "hast"},
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Elbil, induktion och ett eget område",
     "text": "Vi söker en hovslagare som vill arbeta utan gasolflaskor och dieselmotor. Du får elbil med inredning, induktionsvärmare och ett eget område i länet.",
-    "jobb": [["Hovslagare med gesällbrev", "Linköping"], ["Lärling hovslageri", "Linköping"]]
+    "jobb": [["Hovslagare, elbil ingår", "Linköping"], ["Lärling hovslageri", "Linköping"]]
   },
   "kultur": "Varje månad publicerar vi företagets siffror på väggen i verkstaden – körda mil, kilowattimmar och ton järn.",
   "citat": {"text": "Pappa trodde inte att induktion skulle klara en varmanpassning. Nu vill han inte gå tillbaka.", "namn": "Hanna Sandberg", "roll": "Vd, andra generationen", "tagg": "hast"},
@@ -120,6 +120,6 @@
     "certifikat_rubrik": "Diplom och redovisning",
     "logos_rubrik": "Ridskolor och stall i länet",
     "ny_rubrik": "Siffror och omställning",
-    "medarbetare": "Hovslagarna"
+    "medarbetare": "Personalen"
   }
 }

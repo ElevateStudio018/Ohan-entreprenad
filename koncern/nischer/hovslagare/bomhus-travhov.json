@@ -23,7 +23,7 @@
     {"titel": "Unghästar och lärlingar", "ikon": "hjarta", "href": "verksamhet.html", "text": "Första skorna på tvååringar och verkning av ettåringar på uppfödningsgårdar."},
     {"titel": "Vikter och balans", "ikon": "graf", "href": "verksamhet.html", "text": "Viktskor och balansering för att justera steg och takt."},
     {"titel": "Vinterträning", "ikon": "sten", "href": "verksamhet.html", "text": "Broddar och snösulor för träning på snö och is."},
-    {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Fasta priser för tränare med fler än fem hästar."},
+    {"titel": "Tränarpriser", "ikon": "dokument", "href": "priser.html", "text": "Fasta priser för tränare med fler än fem hästar."},
     {"titel": "Ring Anneli", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Nya tränare får besök inom en vecka."}
   ],
   "affarsomraden": [
@@ -73,7 +73,7 @@
     "jobb": [["Hovslagare, travinriktning", "Gävle"]]
   },
   "kultur": "Efter varje stor tävlingsdag går vi igenom resultaten för hästarna vi skott.",
-  "citat": {"text": "Jag stod i stallbacken som lärling och såg hur mycket skorna betydde. Det var därför jag blev hovslagare.", "namn": "Anneli Sjöberg", "roll": "Grundare och hovslagare", "tagg": "hast"},
+  "citat": {"text": "Jag stod i stallbacken som lärling och såg hur mycket skorna betydde. Det var därför jag blev hovslagare.", "namn": "Anneli Sjöberg", "roll": "Grundare, före detta travlärling", "tagg": "hast"},
   "omdomen": [
     {"text": "Anneli vet vad jag menar när jag säger att hästen går tungt bak. Hon har stått i stallet själv.", "namn": "Kjell-Åke B.", "ort": "Gävle"},
     {"text": "Barfota av klockan sex, seger klockan nio, skorna på igen dagen efter. Det är precis så det ska fungera.", "namn": "Sofia L.", "ort": "Bollnäs"},
@@ -88,7 +88,7 @@
     ["Hur fungerar betalningen?", "Tränare får faktura en gång i månaden, specificerad per häst så att den kan vidarefaktureras till ägarna."]
   ],
   "priser": [
-    {"namn": "Travskoning stål", "pris": "1 750 kr", "enhet": "per häst", "text": "Standardskoning med stålskor.", "punkter": ["Verkning och fyra skor", "Anteckning i journalen", "Skoning efter startlistan", "Faktura per häst"]},
+    {"namn": "Travskoning stål", "pris": "1 750 kr", "enhet": "per häst", "text": "Standardskoning med stålskor.", "punkter": ["Verkning och fyra skor", "Journal med skomodell och vikt", "Skoning efter startlistan", "Faktura per häst"]},
     {"namn": "Travskoning aluminium", "pris": "2 250 kr", "enhet": "per häst", "text": "Lätta skor inför viktiga lopp.", "punkter": ["Aluminium fram och bak", "Balansering efter tränarens plan", "Kontroll dagen före start", "Faktura per häst"], "utvald": true},
     {"namn": "Barfota på loppdag", "pris": "950 kr", "enhet": "av och på", "text": "Skorna av före start, på igen efter loppet.", "punkter": ["Mätning av hovväggen", "Avtagning i stallbacken", "Skorna tillbaka inom 48 timmar", "Gäller på Gävletravet"]}
   ],
@@ -124,12 +124,12 @@
     "faq_rubrik": "Frågor från tränare",
     "priser_rubrik": "Fasta priser per häst",
     "priser_utvald": "Inför storlopp",
-    "priser_not": "Priser inklusive moms. Tränare med fler än tio hästar får månadsavtal.",
+    "priser_not": "Moms ingår i priserna. Tränare med fler än tio hästar får månadsavtal.",
     "boka_rubrik": "Har du hästar i träning?",
     "boka_falt": ["Namn", "Telefon", "Stall och ort", "Antal hästar i träning"],
     "certifikat_rubrik": "Behöriga i stall och stallbacke",
     "logos_rubrik": "Tränare och uppfödare",
     "ny_rubrik": "Från travbanan",
-    "medarbetare": "Hovslagarna"
+    "medarbetare": "Travhovslagarna"
   }
 }
