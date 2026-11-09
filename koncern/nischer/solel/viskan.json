@@ -36,7 +36,7 @@
     {"namn": "Projektering & BIM", "segment": "Konstruktörer", "rubrik": "Fasaden i samordningsmodellen", "text": "Sex konstruktörer och energiberäknare som tar fram fasadmodeller, elschema och energiberäkningar.", "tagg": "kontor"},
     {"namn": "Fasadmontage", "segment": "Montörer", "rubrik": "Glas på åttonde våningen", "text": "Arton fasadmontörer som monterar solcellsglas från ställning, skylift eller mastklätterplattform.", "tagg": "bygg"},
     {"namn": "El & driftsättning", "segment": "Elektriker", "rubrik": "Kablar ingen ska behöva se", "text": "Tolv elektriker som drar strängar i fasaden, installerar växelriktare och driftsätter.", "tagg": "el"},
-    {"namn": "Projektledning", "segment": "Byggledning", "rubrik": "En kontakt mot byggföretaget", "text": "Sju projektledare som sitter med på byggmöten och ansvarar för tidplan, ekonomi och egenkontroller.", "tagg": "stad"}
+    {"namn": "Projektledning", "segment": "Byggmöten och tidplan", "rubrik": "En kontakt mot byggföretaget", "text": "Sju projektledare som sitter med på byggmöten och ansvarar för tidplan, ekonomi och egenkontroller.", "tagg": "stad"}
   ],
   "berattelser": [
     {"rubrik": "Kvarteret Spolen får terrakottaröd solfasad", "text": "Tre bostadshus på Norrby i Borås får 2 400 kvadratmeter solcellsglas som matchar teglet.", "tagg": "solel"},
@@ -86,14 +86,14 @@
     ["Bygger ni på befintliga hus?", "Ibland, vid större fasadrenoveringar. Men de flesta av våra uppdrag är nyproduktion."]
   ],
   "certifikat": [
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö, granskat av extern revisor varje år.", "ikon": "skold"},
+    {"titel": "Kvalitet och miljö enligt ISO", "text": "Certifierat ledningssystem för kvalitet och miljö, granskat av extern revisor varje år.", "ikon": "skold"},
     {"titel": "Elinstallatörsföretag AB", "text": "Registrerade hos Elsäkerhetsverket med egenkontrollprogram för byggnadsintegrerade solceller.", "ikon": "blixt"},
     {"titel": "Glasbranschens montageutbildning", "text": "Alla fasadmontörer har utbildning i montage av glas i fasader och räcken.", "ikon": "hjalm"},
     {"titel": "Byggföretagens kollektivavtal", "text": "Kollektivavtal och ID06 på alla arbetsplatser, med elektronisk personalliggare.", "ikon": "folk"}
   ],
   "kunder": ["Sjuhärads Byggnads AB", "Ulricehamns Kommunfastigheter", "Brf Väverskan", "Kinna Fastighetsutveckling AB", "Alingsås Logistikfastigheter", "Borås Bostadsbyggare", "Svenljunga Vårdfastigheter", "Viskadalens Bygg & Montage"],
   "nyheter": [
-    ["2026-10-15", "Kvarteret Spolen halvvägs", "Andra huset har fått sin terrakottaröda solfasad.", "solel"],
+    ["2026-10-16", "Kvarteret Spolen halvvägs", "Andra huset har fått sin terrakottaröda solfasad.", "solel"],
     ["2026-07-02", "Provhallen öppnar för arkitekter", "Boka en eftermiddag och se tolv glasytor i fullskala.", "interior"],
     ["2026-03-10", "Skärpta energikrav – vad betyder de?", "Så påverkar egen elproduktion primärenergitalet i nya flerbostadshus.", "bygg"],
     ["2025-11-04", "Lassalyckans skola invigd", "Första året väntas fasad och tak ge 210 000 kWh.", "stad"]

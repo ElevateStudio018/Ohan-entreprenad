@@ -22,7 +22,7 @@
     {"titel": "Reningsverk och VA", "ikon": "kugge", "href": "verksamhet.html", "text": "Pumpar och luftning drivs av anläggningen i bassängen bredvid."},
     {"titel": "Industridammar", "ikon": "fabrik", "href": "verksamhet.html", "text": "Kyl- och processdammar intill fabriker med hög förbrukning dagtid."},
     {"titel": "Förankring och is", "ikon": "bat", "href": "verksamhet.html", "text": "Egna förankringssystem som följer vattennivån och klarar isläggning."},
-    {"titel": "Tillstånd och samråd", "ikon": "dokument", "href": "verksamhet.html", "text": "Anmälan om vattenverksamhet och samråd med länsstyrelsen."},
+    {"titel": "Vattenverksamhet", "ikon": "dokument", "href": "verksamhet.html", "text": "Anmälan om vattenverksamhet och samråd med länsstyrelsen."},
     {"titel": "Drift från båt", "ikon": "verktyg", "href": "verksamhet.html", "text": "Service, tvätt och inspektion från vår egen arbetsbåt."},
     {"titel": "Skicka en flygbild", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "En bild på vattnet räcker för en första bedömning."}
   ],
@@ -34,8 +34,8 @@
   ],
   "bolag": [
     {"namn": "Varvet", "segment": "Flottörer och förankring", "rubrik": "Byggt på en ö, för vatten", "text": "Johan och tre båtbyggare tillverkar förankringar, gångbryggor och skarvar i verkstaden i Tjurkö hamn.", "tagg": "bat"},
-    {"namn": "Projektering", "segment": "Ingenjörer", "rubrik": "Vågor, is och vattennivå", "text": "Linnea och två ingenjörer räknar på vindlast, islast, djup och elanslutning – och sköter tillstånden.", "tagg": "kontor"},
-    {"namn": "Montage och el", "segment": "Elektriker", "rubrik": "Sjösättning från stranden", "text": "Fyra elektriker som monterar sektioner på land och drar ut dem på vattnet med arbetsbåt.", "tagg": "solel"}
+    {"namn": "Ritbordet", "segment": "Ingenjörer och tillstånd", "rubrik": "Vågor, is och vattennivå", "text": "Linnea och två ingenjörer räknar på vindlast, islast, djup och elanslutning – och sköter tillstånden.", "tagg": "kontor"},
+    {"namn": "Sjösättning och el", "segment": "Elektriker", "rubrik": "Sjösättning från stranden", "text": "Fyra elektriker som monterar sektioner på land och drar ut dem på vattnet med arbetsbåt.", "tagg": "solel"}
   ],
   "berattelser": [
     {"rubrik": "Fyra vintrar i stenbrottet på Tjurkö", "text": "Provanläggningen har klarat is på 30 centimeter utan en enda skadad panel.", "tagg": "natur"},
@@ -58,7 +58,7 @@
   ],
   "process": [
     {"titel": "Flygbild och djupkarta", "text": "Vi bedömer vattnet från flygfoto och mäter djup och botten med ekolod från båten.", "tagg": "bat"},
-    {"titel": "Tillstånd och samråd", "text": "Anmälan om vattenverksamhet, samråd och vid behov naturvärdesinventering.", "tagg": "kontor"},
+    {"titel": "Anmälan och samråd", "text": "Anmälan om vattenverksamhet, samråd och vid behov naturvärdesinventering.", "tagg": "kontor"},
     {"titel": "Bygge på stranden", "text": "Sektionerna monteras på land och sjösätts en i taget.", "tagg": "solel"},
     {"titel": "Förankring och drift", "text": "Vi förankrar mot botten eller stranden och inspekterar från båt två gånger om året.", "tagg": "bat"}
   ],
@@ -115,7 +115,7 @@
     "faq_rubrik": "Om is, tillstånd och fiskar",
     "boka_rubrik": "Låt oss titta på ert vatten",
     "boka_text": "Bifoga en flygbild eller fastighetsbeteckning och ungefärlig yta. Linnea svarar med en första bedömning inom en vecka.",
-    "boka_falt": ["Namn", "Telefon", "Fastighet eller adress", "Vattnets yta och djup"],
+    "boka_falt": ["Namn", "Telefon", "Fastighetsbeteckning", "Vattnets yta och djup"],
     "logos_rubrik": "Odlare, täkter och VA-bolag",
     "certifikat_rubrik": "El, båtbygge och säkerhet på vatten",
     "bolag_rubrik": "Varv, ritbord och montage",

@@ -23,7 +23,7 @@
     {"titel": "Testrigg och mätning", "ikon": "graf", "href": "verksamhet.html", "text": "IV-kurva, isolationsmätning och elektroluminescens på varje panel."},
     {"titel": "Uttjänta paneler", "ikon": "lov", "href": "verksamhet.html", "text": "Det som inte går att använda lämnas till producentansvaret."},
     {"titel": "Stuga och friggebod", "ikon": "hus", "href": "verksamhet.html", "text": "Små anläggningar av begagnade paneler för fritidshus."},
-    {"titel": "Prislista", "ikon": "dokument", "href": "priser.html", "text": "Fasta priser för av- och påmontering per panel."},
+    {"titel": "Fasta panelpriser", "ikon": "dokument", "href": "priser.html", "text": "Fasta priser för av- och påmontering per panel."},
     {"titel": "Ring Ola", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Han svarar oftast från ett tak, men han svarar."}
   ],
   "affarsomraden": [
@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Ola Sundin", "segment": "Takläggare och grundare", "rubrik": "Trettio år på hälsingetak", "text": "Ola leder demontering och återmontering och vet hur man lyfter av en panel utan att knäcka en takpanna.", "tagg": "tak"},
-    {"namn": "Sanna Holm", "segment": "Elektriker och delägare", "rubrik": "Testriggen är hennes", "text": "Sanna har byggt testriggen och mäter varje panel innan den säljs eller monteras igen.", "tagg": "el"},
+    {"namn": "Sanna Holm", "segment": "Elektriker, delägare sedan 2021", "rubrik": "Testriggen är hennes", "text": "Sanna har byggt testriggen och mäter varje panel innan den säljs eller monteras igen.", "tagg": "el"},
     {"namn": "Montagelaget", "segment": "Tre montörer och en lärling", "rubrik": "Av på måndag, på igen på fredag", "text": "Hampus, Elin, Mohammed och lärlingen Viktor sköter av- och påmontering i hela Hälsingland.", "tagg": "solel"}
   ],
   "berattelser": [
@@ -85,7 +85,7 @@
   ],
   "priser": [
     {"namn": "Av och på vid takbyte", "pris": "fr. 650 kr", "enhet": "per panel", "text": "Demontering, förvaring och återmontering.", "punkter": ["Märkning av panel och sträng", "Förvaring i en månad", "Isolationsmätning före återmontering", "Ny driftsättning"], "utvald": true},
-    {"namn": "Flytt av anläggning", "pris": "fr. 950 kr", "enhet": "per panel", "text": "Från ett tak till ett annat.", "punkter": ["Demontering och transport", "Test av varje panel", "Nytt montage och ställ vid behov", "Anmälan till nätbolaget"]},
+    {"namn": "Flytt av anläggning", "pris": "fr. 950 kr", "enhet": "per panel", "text": "Från ett tak till ett annat.", "punkter": ["Demontering och transport", "Test av varje panel", "Nytt montage och ställ vid behov", "Ny föranmälan hos nätbolaget"]},
     {"namn": "Testad begagnad panel", "pris": "fr. 390 kr", "enhet": "per panel", "text": "Sorterad efter uppmätt effekt.", "punkter": ["Testprotokoll medföljer", "Minst 80 % av märkeffekt", "Sex månaders garanti", "Hämtas i verkstaden"]}
   ],
   "prislista": [["Test av panel, per styck", "120 kr"], ["Förvaring efter första månaden", "20 kr/panel/mån"], ["Demontering för återvinning", "fr. 180 kr/panel"], ["Byte av växelriktare vid flytt", "fr. 14 500 kr"], ["Utryckning inom Hudiksvall", "ingår"], ["Utryckning övriga Hälsingland", "650 kr"]],
@@ -113,14 +113,14 @@
     "vagval_etikett": "Uppdrag",
     "ber_rubrik": "Senast från verkstaden",
     "proj_rubrik": "Paneler som fått fortsätta",
-    "proj_kol": ["Uppdrag", "Ort", "Åtgärd", "Status", "År"],
+    "proj_kol": ["Uppdrag", "Ort", "Arbete", "Status", "År"],
     "process_rubrik": "Från tak till rigg och tillbaka",
     "hb_etikett": "Återbruk",
     "hb_lank": "Så testar vi",
     "omdomen_rubrik": "Hälsingar som behöll sina paneler",
     "faq_rubrik": "Om flytt, test och garantier",
     "priser_rubrik": "Pris per panel",
-    "priser_utvald": "Vanligast",
+    "priser_utvald": "Oftast beställd",
     "priser_knapp": "Fråga om pris",
     "priser_not": "Priser inklusive moms och före grönt avdrag. Tillägg för tak över två våningar.",
     "boka_rubrik": "Skicka bilder på taket",
@@ -130,7 +130,7 @@
     "certifikat_rubrik": "Elektriker och takläggare i samma verkstad",
     "bolag_etikett": "Vi i verkstaden",
     "bolag_rubrik": "Två grundare och ett montagelag",
-    "bolag_kol": ["Namn", "Roll", "Om"],
+    "bolag_kol": ["Namn", "Uppgift", "Bakgrund"],
     "meny_bolag": "Vi i verkstaden",
     "sida_bolag_ingress": "Panelverkstan är sju personer – två grundare och ett montagelag – i en verkstad på Håsta.",
     "ny_rubrik": "Paneler och nyheter",

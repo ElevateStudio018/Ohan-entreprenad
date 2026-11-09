@@ -21,7 +21,7 @@
     {"titel": "Rådgivning på plats", "ikon": "hus", "href": "priser.html", "text": "En ingenjör går igenom tak, elcentral och förbrukning hemma hos dig."},
     {"titel": "Upphandling för brf", "ikon": "dokument", "href": "verksamhet.html", "text": "Förfrågningsunderlag, utvärdering och avtal för föreningen."},
     {"titel": "Slutbesiktning", "ikon": "skold", "href": "verksamhet.html", "text": "Vi kontrollerar montage, el och dokumentation innan du betalar sista fakturan."},
-    {"titel": "Besiktning vid husköp", "ikon": "nyckel", "href": "priser.html", "text": "Vad är anläggningen på det nya huset värd – och fungerar den?"},
+    {"titel": "Kontroll inför husköp", "ikon": "nyckel", "href": "priser.html", "text": "Vad är anläggningen på det nya huset värd – och fungerar den?"},
     {"titel": "Tvister och reklamation", "ikon": "lov", "href": "verksamhet.html", "text": "Sakkunnigutlåtande när anläggningen inte levererar som utlovat."},
     {"titel": "Kurser för styrelser", "ikon": "skola", "href": "verksamhet.html", "text": "Två timmar om solceller för föreningens styrelse."},
     {"titel": "Skicka din offert", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ladda upp offerten så svarar vi inom fem arbetsdagar."}
@@ -90,7 +90,7 @@
     {"namn": "Rådgivning på plats", "pris": "5 900 kr", "enhet": "besök och utlåtande, villa", "text": "En ingenjör kommer hem till dig.", "punkter": ["Tak och bärighet", "Elcentral och servis", "Förbrukningsanalys", "Offertgranskning ingår"], "utvald": true},
     {"namn": "Slutbesiktning", "pris": "4 400 kr", "enhet": "villa upp till 15 kW", "text": "Innan du betalar slutfakturan.", "punkter": ["Kontroll av montage och el", "Isolationsmätning", "Termografi vid sol", "Protokoll med foto"]}
   ],
-  "prislista": [["Upphandling brf, upp till 100 kW", "fr. 24 000 kr"], ["Upphandling brf, över 100 kW", "fr. 38 000 kr"], ["Slutbesiktning brf eller företag", "fr. 9 800 kr"], ["Besiktning vid husköp", "3 900 kr"], ["Sakkunnigutlåtande", "1 450 kr/tim"], ["Styrelsekurs, två timmar", "6 500 kr"]],
+  "prislista": [["Upphandling brf, upp till 100 kW", "fr. 24 000 kr"], ["Upphandling brf, över 100 kW", "fr. 38 000 kr"], ["Slutbesiktning brf eller företag", "fr. 9 800 kr"], ["Kontroll vid husköp", "3 900 kr"], ["Sakkunnigutlåtande", "1 450 kr/tim"], ["Styrelsekurs, två timmar", "6 500 kr"]],
   "certifikat": [
     {"titel": "Certifierad besiktningsman", "text": "Oscar är certifierad för besiktning av elanläggningar och har lång erfarenhet av solcellsinstallation.", "ikon": "skold"},
     {"titel": "Teknologie doktor i solenergi", "text": "Helena disputerade på solcellers degradering vid Uppsala universitet och följer forskningen löpande.", "ikon": "skola"},
@@ -132,7 +132,7 @@
     "certifikat_rubrik": "Kompetens utan bindningar",
     "bolag_etikett": "Vi som granskar",
     "bolag_rubrik": "Fem personer på köparens sida",
-    "bolag_kol": ["Namn", "Roll", "Om"],
+    "bolag_kol": ["Person", "Ansvar", "Bakgrund"],
     "meny_bolag": "Vi som granskar",
     "sida_bolag_ingress": "Fyris Energiråd är fem ingenjörer och besiktningsmän som aldrig tar betalt av leverantörer.",
     "ny_rubrik": "Råd och sammanställningar",

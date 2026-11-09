@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Elkraft & utredning", "segment": "Ingenjörer", "rubrik": "Körschemat först, ritningen sedan", "text": "Fem elkraftingenjörer som räknar på effektbehov, servis, transformatorer och nätanslutning.", "tagg": "kontor"},
-    {"namn": "Högspänningsmontage", "segment": "Entreprenad", "rubrik": "Från nätstation till laddkontakt", "text": "Tolv elektriker och montörer med behörighet för högspänning, nätstationer och laddsystem.", "tagg": "el"},
+    {"namn": "Högspänningsmontage", "segment": "Elentreprenad", "rubrik": "Från nätstation till laddkontakt", "text": "Tolv elektriker och montörer med behörighet för högspänning, nätstationer och laddsystem.", "tagg": "el"},
     {"namn": "Sol & tak", "segment": "Solcellsmontage", "rubrik": "Terminaltak på tusentals kvadratmeter", "text": "Ett montagelag som bygger stora anläggningar på plåt och papp, oftast ballastsystem utan håltagning.", "tagg": "solel"},
     {"namn": "Depådrift", "segment": "Service och jour", "rubrik": "Laddaren får inte stå still", "text": "Jour dygnet runt, reservdelslager och fjärrövervakning av alla laddpunkter.", "tagg": "maskin"}
   ],
@@ -68,9 +68,9 @@
     "text": "Varje ellastbil som laddar på våra depåer ersätter ungefär 35 000 liter diesel om året. Vi redovisar hur stor del av laddningen som kommer från depåns egna solceller, så att åkerierna kan visa det för sina transportköpare.",
     "mal": [["35 000 l", "diesel som ersätts per ellastbil och år"], ["4 h", "längsta inställelsetid vid laddarfel"], ["99,2 %", "tillgänglighet på laddpunkterna 2025"]]
   },
-  "karriar": {"rubrik": "Elektrifiera tunga transporter i Gävleborg", "text": "Vi söker elektriker och ingenjörer som vill arbeta med högspänning, stora batterier och fordon som väger fyrtio ton. Jouren delas på sex personer och ersätts enligt avtal.", "jobb": [["Elkraftingenjör", "Gävle"], ["Elektriker med högspänningsbehörighet", "Gävle"], ["Servicetekniker laddsystem", "Sandviken"]]},
+  "karriar": {"rubrik": "Elektrifiera tunga transporter i Gävleborg", "text": "Vi söker elektriker och ingenjörer som vill arbeta med högspänning, stora batterier och fordon som väger fyrtio ton. Jouren delas på sex personer och ersätts enligt avtal.", "jobb": [["Elkraftingenjör, depåer", "Gävle"], ["Elektriker med högspänningsbehörighet", "Gävle"], ["Servicetekniker laddsystem", "Sandviken"]]},
   "kultur": "Alla nyanställda åker ett dygn med en av kundernas ellastbilar – från laddning till leverans.",
-  "citat": {"text": "Jag satt på åkeriet och fick höra att vi fick vänta två år på el. Lastbilarna stod redan på gården. Det var där Strömsbro började: i att det går att lösa effekten lokalt.", "namn": "Kristina Hallberg", "roll": "Vd och medgrundare", "tagg": "people"},
+  "citat": {"text": "Jag satt på åkeriet och fick höra att vi fick vänta två år på el. Lastbilarna stod redan på gården. Det var där Strömsbro började: i att det går att lösa effekten lokalt.", "namn": "Kristina Hallberg", "roll": "Vd och delägare", "tagg": "people"},
   "omdomen": [
     {"text": "Nätbolaget sa två år. Strömsbro byggde batteri och laddning på fem månader och vi har inte haft en försenad avgång sedan dess.", "namn": "Mikael T.", "ort": "Valbo"},
     {"text": "Effektutredningen tog hänsyn till våra vinterscheman. Det hade ingen annan leverantör gjort.", "namn": "Sara N.", "ort": "Sandviken"},
@@ -93,7 +93,7 @@
   ],
   "kunder": ["Valbo Åkericentral AB", "Sandvikens Busstrafik AB", "Skutskärs Logistikterminal AB", "Hofors Timmertransport HB", "Gävle Hamnterminal Syd", "Ockelbo Mjölktransport AB", "Norrlandskustens Kyltransporter", "Gästriklands Renhållning AB"],
   "nyheter": [
-    ["2026-10-01", "Skutskär producerar för fullt", "Terminaltaket på 1,1 MW gav 980 000 kWh första året.", "solel"],
+    ["2026-09-29", "Skutskär producerar för fullt", "Terminaltaket på 1,1 MW gav 980 000 kWh första året.", "solel"],
     ["2026-06-24", "Förberedda för megawattladdning", "Alla nya depåer byggs med kanalisation för MCS-laddare.", "el"],
     ["2026-01-15", "Så klarar en depå vintern", "Kyla minskar räckvidden – så räknar vi med det i effektutredningen.", "infra"],
     ["2025-09-08", "Ny verkstad i Strömsbro", "Reservdelslager och utbildningsrigg för laddsystem under samma tak.", "maskin"]

@@ -35,8 +35,8 @@
   "bolag": [
     {"namn": "Rör & värme", "segment": "VVS och kyla", "rubrik": "Där det började 1987", "text": "Sju rörmokare och två kyltekniker som installerar värmepumpar, radiatorer och varmvattensystem.", "tagg": "vvs"},
     {"namn": "El & sol", "segment": "Elektriker", "rubrik": "Malins lag på taket", "text": "Sex elektriker som bygger solceller, batterier och styrning och kopplar ihop dem med pumpen.", "tagg": "solel"},
-    {"namn": "Energiberäkning", "segment": "Ingenjörer", "rubrik": "Hela huset i en kalkyl", "text": "Jenny och en energiingenjör som räknar på husets värmebehov, förbrukning och vad varje del ger.", "tagg": "kontor"},
-    {"namn": "Service", "segment": "Serviceavtal", "rubrik": "En telefon för allt i pannrummet", "text": "Tre servicetekniker som tar hand om pump, paneler och batteri på samma besök.", "tagg": "el"}
+    {"namn": "Energikalkyl", "segment": "Energiingenjörer", "rubrik": "Hela huset i en kalkyl", "text": "Jenny och en energiingenjör som räknar på husets värmebehov, förbrukning och vad varje del ger.", "tagg": "kontor"},
+    {"namn": "Service", "segment": "Service på avtal", "rubrik": "En telefon för allt i pannrummet", "text": "Tre servicetekniker som tar hand om pump, paneler och batteri på samma besök.", "tagg": "el"}
   ],
   "berattelser": [
     {"rubrik": "70-talsvillan i Sylte köper 61 procent mindre el", "text": "Bergvärme, 11 kW solceller och batteri – och ett helt år av mätdata.", "tagg": "hem"},
@@ -89,12 +89,12 @@
     {"titel": "Säker Vatten-auktoriserade", "text": "Våra rörmokare följer branschreglerna Säker Vatten för installationer i bostäder.", "ikon": "vatten"},
     {"titel": "Kylcertifikat kategori I", "text": "Kyltekniker med certifikat för installation och service av värmepumpar med köldmedier.", "ikon": "kugge"},
     {"titel": "Elinstallatör, behörighet AB", "text": "Registrerade hos Elsäkerhetsverket och behöriga för både solceller och fast installation.", "ikon": "blixt"},
-    {"titel": "Medlem i Installatörsföretagen", "text": "Vi följer branschens konsumentbestämmelser och lämnar fem års garanti på arbetet.", "ikon": "folk"}
+    {"titel": "Branschens konsumentvillkor", "text": "Vi följer branschens konsumentbestämmelser och lämnar fem års garanti på arbetet.", "ikon": "folk"}
   ],
   "kunder": ["Skogshöjdens Samfällighet", "Brf Onsjövallen Vänersborg", "Grästorps Mekaniska Verkstad", "Lödöse Hembygdsgård", "Sjuntorps Villaförening", "Trollhättans Tennisklubb", "Sylte Egnahemsförening"],
   "nyheter": [
-    ["2026-10-08", "Energigenomgångar inför vintern", "Boka nu så hinner pumpen bytas före första frosten.", "vvs"],
-    ["2026-08-18", "Tre nya lärlingar i augusti", "Två blivande rörmokare och en elektriker börjar sin lärlingstid hos oss.", "people"],
+    ["2026-10-07", "Energigenomgångar inför vintern", "Boka nu så hinner pumpen bytas före första frosten.", "vvs"],
+    ["2026-08-19", "Tre nya lärlingar i augusti", "Två blivande rörmokare och en elektriker börjar sin lärlingstid hos oss.", "people"],
     ["2026-02-24", "Ett år med sol och bergvärme i Sylte", "Hela mätserien från vår referensvilla – månad för månad.", "hem"]
   ],
   "kontakt": {"adress": "Stallbackavägen 22", "postnr": "461 38", "ort": "Trollhättan", "telefon": "070-174 06 59", "epost": "kontoret@fagerlunddottrar.se", "orgnr": ""},

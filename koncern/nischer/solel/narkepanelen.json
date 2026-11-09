@@ -24,11 +24,11 @@
     {"titel": "Laddbox som tillval", "ikon": "bil", "href": "priser.html", "text": "11 kW laddbox monterad samma dag som panelerna."},
     {"titel": "Montage på en dag", "ikon": "kalender", "href": "verksamhet.html", "text": "Ställning, paneler, el och driftsättning – allt mellan sju och fyra."},
     {"titel": "Fem års helhetsgaranti", "ikon": "skold", "href": "verksamhet.html", "text": "Vi ansvarar för hela anläggningen, inte bara för våra skruvar."},
-    {"titel": "Se prislistan", "ikon": "dokument", "href": "priser.html", "text": "Alla tillägg med pris – ingenting dyker upp i efterhand."}
+    {"titel": "Alla tillägg och priser", "ikon": "dokument", "href": "priser.html", "text": "Alla tillägg med pris – ingenting dyker upp i efterhand."}
   ],
   "affarsomraden": [
     {"titel": "Tre paket för villor", "text": "Alla paket bygger på samma helsvarta panel på 440 W och samma växelriktare. Det gör att vi köper in i stora volymer och att varje montör kan installationen utan och innan.", "text2": "Passar tegel, betongpannor och plåt. Andra tak får ett pris efter granskning.", "tagg": "solel"},
-    {"titel": "Batteri och reservkraft", "text": "Batteripaketet ger 10 kWh lagring och en reservkraftsdel som håller kylskåp, värmepump och router igång vid strömavbrott. Batteriet ger 50 procents grönt avdrag.", "text2": "Batteriet kan läggas till i efterhand utan att växelriktaren byts.", "tagg": "el"},
+    {"titel": "Lagring och reservström", "text": "Batteripaketet ger 10 kWh lagring och en reservkraftsdel som håller kylskåp, värmepump och router igång vid strömavbrott. Batteriet ger 50 procents grönt avdrag.", "text2": "Batteriet kan läggas till i efterhand utan att växelriktaren byts.", "tagg": "el"},
     {"titel": "Offert utan hembesök", "text": "Vi ritar taket från flygfoto och lantmäteriets höjddata och skickar ett fast pris inom två arbetsdagar. Hembesök gör vi bara om taket är ovanligt eller om du vill.", "text2": "Över 90 procent av våra kunder har aldrig träffat en säljare.", "tagg": "hem"},
     {"titel": "Montage och garanti", "text": "Ett lag på tre personer bygger hela anläggningen på en dag, inklusive elanslutning och anmälan till nätbolaget. Sedan ansvarar vi för allt i fem år.", "text2": "Vid fel kommer en tekniker från Örebro, Karlskoga eller Hallsberg inom fem arbetsdagar.", "tagg": "bostad"}
   ],
@@ -68,7 +68,7 @@
     "text": "Standardiseringen gör inte bara priset lägre – den gör också fel ovanligare. Varje lag följer samma checklista med 46 punkter och fotograferar varje infästning innan panelerna läggs.",
     "mal": [["46", "kontrollpunkter på varje montage"], ["0,8 %", "andel anläggningar med fel första året"], ["5 år", "helhetsgaranti på allt vi installerat"]]
   },
-  "karriar": {"rubrik": "Bygg ett hus om dagen – och var hemma till middag", "text": "Våra lag arbetar dagtid måndag till torsdag och halvdag på fredag. Ingen övernattning, ingen ackordsstress, fast lön och bonus per kvartal för hela laget.", "jobb": [["Solcellsmontör", "Örebro"], ["Elektriker", "Karlskoga"], ["Takritare / projektör", "Örebro"], ["Montör, sommarvikariat", "Hallsberg"]]},
+  "karriar": {"rubrik": "Bygg ett hus om dagen – och var hemma till middag", "text": "Våra lag arbetar dagtid måndag till torsdag och halvdag på fredag. Ingen övernattning, ingen ackordsstress, fast lön och bonus per kvartal för hela laget.", "jobb": [["Montör, villasol", "Örebro"], ["Elektriker", "Karlskoga"], ["Takritare / projektör", "Örebro"], ["Montör, sommarvikariat", "Hallsberg"]]},
   "kultur": "Varje lag har samma bil, samma verktygslåda och samma checklista – den som byter lag hittar allt på samma plats.",
   "citat": {"text": "När vi sålde åt andra gick en femtedel av priset till säljare och resor. Nu går den till kunden. Folk behöver inte ett hembesök för att förstå ett tegeltak.", "namn": "Amir Haddad", "roll": "Medgrundare och vd", "tagg": "people"},
   "omdomen": [
@@ -86,8 +86,8 @@
     ["Kan jag välja andra paneler?", "Nej, och det är en del av priset. Vår helsvarta panel på 440 W har 25 års produkt- och effektgaranti."]
   ],
   "priser": [
-    {"namn": "Paket Liten", "pris": "64 900 kr", "enhet": "6 kW, 14 paneler", "text": "För radhus och mindre villor.", "punkter": ["Helsvarta paneler på 440 W", "Växelriktare med app", "Montage på en dag", "Fem års helhetsgaranti"]},
-    {"namn": "Paket Mellan", "pris": "94 900 kr", "enhet": "10 kW, 23 paneler", "text": "Vårt mest köpta paket för villor.", "punkter": ["Allt i Paket Liten", "Ger cirka 9 500 kWh om året", "Anmälan till nätbolaget", "Förberett för batteri"], "utvald": true},
+    {"namn": "Paket Liten", "pris": "64 900 kr", "enhet": "6 kW, 14 paneler", "text": "För radhus och mindre villor.", "punkter": ["Helsvarta paneler på 440 W", "Växelriktare med mobilapp", "Montage på en dag", "Fem års helhetsgaranti"]},
+    {"namn": "Paket Mellan", "pris": "94 900 kr", "enhet": "10 kW, 23 paneler", "text": "Vårt mest köpta paket för villor.", "punkter": ["Allt i Paket Liten", "Ger cirka 9 500 kWh om året", "Anmälan till nätbolaget", "Klart att bygga på med batteri"], "utvald": true},
     {"namn": "Paket Stor med batteri", "pris": "139 900 kr", "enhet": "10 kW + 10 kWh", "text": "Med lagring och reservkraft.", "punkter": ["Allt i Paket Mellan", "Batteri på 10 kWh", "Reservkraft till utvalda uttag", "Styrning mot timpris"]}
   ],
   "prislista": [["Laddbox 11 kW, monterad", "8 900 kr"], ["Extra panel 440 W", "2 400 kr"], ["Snörasskydd, per meter", "690 kr"], ["Byte av elcentral vid behov", "fr. 9 500 kr"], ["Batteri i efterhand, 10 kWh", "48 900 kr"], ["Hembesök före offert", "1 500 kr"], ["Fågelnät runt anläggningen", "4 900 kr"]],
@@ -121,7 +121,7 @@
     "omdomen_rubrik": "Villaägare som jämfört priser",
     "faq_rubrik": "Frågor om paket och priser",
     "priser_rubrik": "Tre paket, inga dolda tillägg",
-    "priser_utvald": "Vanligast",
+    "priser_utvald": "Mest köpt",
     "priser_knapp": "Beställ paketet",
     "priser_not": "Priser inklusive moms, montage och grönt avdrag. Gäller tegel, betongpannor och plåt.",
     "boka_rubrik": "Fast pris från flygfoto",
@@ -131,6 +131,6 @@
     "certifikat_rubrik": "Billigt, men behörigt",
     "bolag_rubrik": "Tre lager, elva lag",
     "ny_rubrik": "Priser och nyheter",
-    "medarbetare": "Montörerna"
+    "medarbetare": "Monteringslagen"
   }
 }

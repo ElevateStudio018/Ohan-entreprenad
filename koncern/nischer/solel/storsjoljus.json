@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Projekt besöksnäring", "segment": "Hotell, camping, stugbyar", "rubrik": "Vi pratar beläggning, inte bara kilowatt", "text": "Tre projektledare som går igenom bokningsstatistik och mätardata innan de ritar en enda panel.", "tagg": "kontor"},
     {"namn": "Montage fjäll", "segment": "Bygg och el", "rubrik": "Två lag som jobbar mellan säsongerna", "text": "Åtta montörer och elektriker som bygger i maj–juni och september–oktober, när anläggningarna står tomma.", "tagg": "solel"},
-    {"namn": "Drift & gästskärm", "segment": "Övervakning", "rubrik": "Produktionen syns i receptionen", "text": "Övervakning, larm och skärmar för lobbyn. Vi ringer driftchefen innan gästerna märker något.", "tagg": "el"}
+    {"namn": "Drift & gästskärm", "segment": "Fjärrövervakning", "rubrik": "Produktionen syns i receptionen", "text": "Övervakning, larm och skärmar för lobbyn. Vi ringer driftchefen innan gästerna märker något.", "tagg": "el"}
   ],
   "berattelser": [
     {"rubrik": "Bydalens stugby delar på 180 kW", "text": "Sextiofyra stugor och ett servicehus fick en gemensam anläggning i september – byggd på tre veckor mellan säsongerna.", "tagg": "solel"},
@@ -69,7 +69,7 @@
   },
   "karriar": {"rubrik": "Bygg på våren och hösten, åk skidor på vintern", "text": "Våra montörer arbetar intensivt två perioder om året och har längre ledighet under högsäsong i fjällen. Vi söker folk som gillar det upplägget.", "jobb": [["Elektriker", "Östersund"], ["Solcellsmontör, säsong", "Östersund"], ["Projektledare besöksnäring", "Åre"]]},
   "kultur": "Under sportlovet är montaget stängt – då arbetar hälften av oss extra som skidlärare eller liftvärdar.",
-  "citat": {"text": "Jag har stått i receptionen när elräkningen kom. Ingen i besöksnäringen vill ha en solcellsföreläsning. De vill veta vad det betyder för juli och februari.", "namn": "Emma Sundqvist", "roll": "Vd och grundare", "tagg": "people"},
+  "citat": {"text": "Jag har stått i receptionen när elräkningen kom. Ingen i besöksnäringen vill ha en solcellsföreläsning. De vill veta vad det betyder för juli och februari.", "namn": "Emma Sundqvist", "roll": "Grundare, tidigare hotelldriftchef", "tagg": "people"},
   "omdomen": [
     {"text": "Kalkylen visade exakt hur mycket vi skulle spara i juli jämfört med november. Efter första sommaren låg vi fyra procent över.", "namn": "Johan R.", "ort": "Bydalen"},
     {"text": "Montaget gjordes veckan efter att sista husbilen åkt i september. Ingen gäst såg en enda byggnadsställning.", "namn": "Annika H.", "ort": "Östersund"},
@@ -88,7 +88,7 @@
     {"titel": "Allmän elbehörighet (AB)", "text": "Företaget är registrerat hos Elsäkerhetsverket och har ett eget egenkontrollprogram för solcellsinstallationer.", "ikon": "blixt"},
     {"titel": "Certifierad solcellsmontör", "text": "Två av våra montörer har personcertifiering för projektering och installation av solceller.", "ikon": "sol"},
     {"titel": "Säkert arbete på hög höjd", "text": "Alla montörer har fallskyddsutbildning och arbetar med skylift eller ställning på tak över två våningar.", "ikon": "hjalm"},
-    {"titel": "Laddinfrastruktur", "text": "Utbildade installatörer för publik laddning och lastbalansering enligt gällande standard.", "ikon": "laddning"}
+    {"titel": "Behörig för publik laddning", "text": "Utbildade installatörer för publik laddning och lastbalansering enligt gällande standard.", "ikon": "laddning"}
   ],
   "kunder": ["Bydalens Fjällby AB", "Frösö Strandcamping", "Vemdalsskalets Fjällhotell", "Hotell Storsjöstrand", "Hallens Gårdspensionat", "Storliens Cykelpark AB", "Funäsdalens Stugförmedling", "Edsåsdalens Fjällstugeförening"],
   "nyheter": [

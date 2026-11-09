@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Anbud & avtal", "segment": "Upphandling", "rubrik": "Vi läser förfrågningsunderlaget två gånger", "text": "Två anbudsansvariga som svarar på upphandlingar och håller ordning på avrop, prisjusteringar och uppföljning.", "tagg": "kontor"},
     {"namn": "Projektering & BAS", "segment": "Konstruktion och arbetsmiljö", "rubrik": "Ritningar som klarar en granskning", "text": "Konstruktörer och BAS-P som tar fram relationshandlingar, hållfasthetsberäkningar och arbetsmiljöplaner.", "tagg": "bygg"},
-    {"namn": "Entreprenad", "segment": "Montage och el", "rubrik": "Tre lag som bygger på sommarlovet", "text": "Sexton montörer och elektriker som bygger på skolor i juli och på badhus resten av året.", "tagg": "solel"},
+    {"namn": "Montagelagen", "segment": "Solceller och el", "rubrik": "Tre lag som bygger på sommarlovet", "text": "Sexton montörer och elektriker som bygger på skolor i juli och på badhus resten av året.", "tagg": "solel"},
     {"namn": "Sandgrund Arvika", "segment": "Västra Värmland", "rubrik": "Nära Arvika, Eda och Årjäng", "text": "Sex medarbetare som täcker västra Värmland och avrop från Arvika kommun.", "tagg": "stad"}
   ],
   "berattelser": [
@@ -46,7 +46,7 @@
   "nyckeltal": [
     {"varde": "7", "enhet": "kommuner", "etikett": "Med ramavtal i Värmland"},
     {"varde": "310", "enhet": "", "etikett": "Offentliga anläggningar"},
-    {"varde": "18,6", "enhet": "MW", "etikett": "Installerad effekt"},
+    {"varde": "18,6", "enhet": "MW", "etikett": "Effekt på offentliga tak"},
     {"varde": "34", "enhet": "anställda", "etikett": "I Karlstad och Arvika"}
   ],
   "projekt": [
@@ -68,13 +68,13 @@
     "text": "Vi redovisar varje projekt öppet: investering, produktion och avvikelser mot kalkylen. Kommunerna får en årlig rapport per fastighet som kan användas direkt i klimatredovisningen.",
     "mal": [["100 %", "av projekten med relationshandlingar vid överlämning"], ["10 dagar", "längsta svarstid på avrop"], ["0", "allvarliga arbetsmiljöincidenter sedan 2019"]]
   },
-  "karriar": {"rubrik": "Bygg för kommunerna du själv bor i", "text": "Våra projekt sitter på skolor där medarbetarnas barn går och simhallar där de tränar. Vi har kollektivavtal, friskvårdsbidrag och fasta arbetstider.", "jobb": [["Elektriker", "Karlstad"], ["Anbudsingenjör", "Karlstad"], ["Montör solceller", "Arvika"], ["BAS-P / projektör", "Karlstad"]]},
+  "karriar": {"rubrik": "Bygg för kommunerna du själv bor i", "text": "Våra projekt sitter på skolor där medarbetarnas barn går och simhallar där de tränar. Vi har kollektivavtal, friskvårdsbidrag och fasta arbetstider.", "jobb": [["Elektriker", "Karlstad"], ["Anbudsingenjör", "Karlstad"], ["Montör, solcellsentreprenad", "Arvika"], ["BAS-P / projektör", "Karlstad"]]},
   "kultur": "Varje höst bjuder vi in elever från en skola vi byggt på till en dag i verkstaden på Sandgrundsudden.",
-  "citat": {"text": "En kommun kan inte ringa en kompis för att få solceller. Den måste upphandla, dokumentera och kunna förklara varje krona för fullmäktige. Vi har byggt hela företaget kring det.", "namn": "Ulrika Svanberg", "roll": "Vd och grundare", "tagg": "people"},
+  "citat": {"text": "En kommun kan inte ringa en kompis för att få solceller. Den måste upphandla, dokumentera och kunna förklara varje krona för fullmäktige. Vi har byggt hela företaget kring det.", "namn": "Ulrika Svanberg", "roll": "Grundare, vd sedan 2012", "tagg": "people"},
   "omdomen": [
     {"text": "Elva skolor på ett sommarlov, och inte en enda avvikelse i slutbesiktningen. Dokumentationen var klar dagen efter.", "namn": "Lars-Göran P.", "ort": "Karlstad"},
     {"text": "Montörerna anpassade sig efter boendets måltider och vilotider. Ingen av de boende klagade på buller.", "namn": "Mona S.", "ort": "Forshaga"},
-    {"text": "Eleverna i femman räknade själva ut hur mycket skolan sparat under höstterminen. Det var Sandgrunds material som gjorde det möjligt.", "namn": "Petra L.", "ort": "Kil"}
+    {"text": "Eleverna i femman räknade själva ut hur mycket skolan sparat under höstterminen. Det var Sandgrunds material som gjorde det möjligt.", "namn": "Jessica L.", "ort": "Kil"}
   ],
   "faq": [
     ["Kan vi avropa direkt utan ny upphandling?", "Ja, om er kommun har ett gällande ramavtal med oss. Beroende på avtalets fördelningsnyckel görs avropet direkt eller via förnyad konkurrensutsättning."],
@@ -83,18 +83,18 @@
     ["Kan solcellerna kopplas till fastighetens styrsystem?", "Ja, vi levererar data via Modbus eller öppna API:er till de vanligaste systemen för fastighetsautomation."],
     ["Vad ingår i elevmaterialet?", "Ett lektionsupplägg för årskurs 4–6, en skärm i entrén och ett webbgränssnitt där eleverna kan följa produktionen timme för timme."],
     ["Hur lång är garantin?", "Fem år på entreprenaden enligt AB 04, tolv år på panelernas material och 25 år på effekten. Garantitiden kan förlängas med serviceavtal."],
-    ["Bygger ni åt privatpersoner?", "Nej. Vi arbetar bara med offentliga beställare och kommunala bostadsbolag."]
+    ["Tar ni uppdrag från villaägare?", "Nej. Vi arbetar bara med offentliga beställare och kommunala bostadsbolag."]
   ],
   "certifikat": [
-    {"titel": "ISO 9001, 14001 och 45001", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö – krav i de flesta offentliga upphandlingar.", "ikon": "skold"},
-    {"titel": "BAS-P och BAS-U", "text": "Fyra medarbetare är utbildade byggarbetsmiljösamordnare för planering och utförande.", "ikon": "hjalm"},
+    {"titel": "Tre ISO-certifieringar", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö – krav i de flesta offentliga upphandlingar.", "ikon": "skold"},
+    {"titel": "Utbildade BAS-P och BAS-U", "text": "Fyra medarbetare är utbildade byggarbetsmiljösamordnare för planering och utförande.", "ikon": "hjalm"},
     {"titel": "Elsäkerhetsverket, behörighet AB", "text": "Registrerat elinstallationsföretag med egenkontrollprogram anpassat för offentliga entreprenader.", "ikon": "blixt"},
     {"titel": "Kollektivavtal och ID06", "text": "Kollektivavtal med Elektrikerförbundet och ID06 på alla arbetsplatser.", "ikon": "folk"}
   ],
   "kunder": ["Karlstads kommun", "Hammarö kommun", "Kils kommun", "Forshaga kommun", "Grums kommun", "Säffle kommun", "Arvika kommun", "Klarälvens Skolfastigheter AB"],
   "nyheter": [
     ["2026-09-18", "Elva skolor klara före skolstart", "Sommarlovets montage blev det största hittills.", "solel"],
-    ["2026-06-03", "Ramavtal med Säffle kommun", "Fyra år och 38 fastigheter – första avropet är kommunhuset.", "kontor"],
+    ["2026-06-04", "Ramavtal med Säffle kommun", "Fyra år och 38 fastigheter – första avropet är kommunhuset.", "kontor"],
     ["2026-02-11", "Nytt elevmaterial för årskurs 4–6", "Tre lektioner om energi, med data från elevernas egen skola.", "people"],
     ["2025-10-27", "Klimatrapporten för 2025 är klar", "Varje kommun har fått produktion och avvikelser per fastighet.", "natur"]
   ],
@@ -122,6 +122,6 @@
     "certifikat_rubrik": "Det upphandlare brukar kräva",
     "bolag_rubrik": "Anbud, projektering, montage",
     "ny_rubrik": "Avtal och nyheter",
-    "medarbetare": "Medarbetarna"
+    "medarbetare": "Kollegorna"
   }
 }

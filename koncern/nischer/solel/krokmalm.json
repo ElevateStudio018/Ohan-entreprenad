@@ -33,7 +33,7 @@
     {"titel": "Handelsplatser och köpcentrum", "text": "När flera butiker delar fastighet bygger vi en gemensam anläggning och fördelar elen med undermätare. Fastighetsägaren kan sälja solelen till hyresgästerna.", "text2": "Vi har byggt på tre handelsplatser i Kalmar och Nybro.", "tagg": "stad"}
   ],
   "bolag": [
-    {"namn": "Kyla & styrning", "segment": "Kyltekniker", "rubrik": "Gunillas avdelning", "text": "Två kyltekniker som kopplar ihop solcellerna med butikens kylanläggning och värmeåtervinning.", "tagg": "industri"},
+    {"namn": "Kyla & styrning", "segment": "Kyla och värmeåtervinning", "rubrik": "Gunillas avdelning", "text": "Två kyltekniker som kopplar ihop solcellerna med butikens kylanläggning och värmeåtervinning.", "tagg": "industri"},
     {"namn": "Montage & el", "segment": "Elektriker", "rubrik": "Tobias lag på butikstaken", "text": "Sju elektriker och montörer som bygger på butikstak och pumptak, oftast nattetid nära entréerna.", "tagg": "solel"},
     {"namn": "Kalkyl & kedjekontakt", "segment": "Försäljning och rapporter", "rubrik": "Siffror som handlaren förstår", "text": "Två projektledare som räknar på butikens timvärden och tar fram rapporter till kedjornas hållbarhetsavdelningar.", "tagg": "kontor"}
   ],
@@ -69,7 +69,7 @@
   },
   "karriar": {"rubrik": "Elektriker som gillar tidiga morgnar", "text": "Vi bygger ofta före öppning eller efter stängning. I gengäld är eftermiddagarna lediga och vi kör aldrig längre än till Västervik.", "jobb": [["Elektriker", "Kalmar"], ["Kyltekniker", "Kalmar"]]},
   "kultur": "Varje ny butik vi byggt på bjuder vi på fika – handlarna brukar svara med bullar från bageridisken.",
-  "citat": {"text": "Jag har legat under kyldiskar i femton år. Varje handlare jag träffat har klagat på elräkningen i juli. Det var den dagen solen faktiskt kunde betala den.", "namn": "Gunilla Krok", "roll": "Vd och medgrundare", "tagg": "people"},
+  "citat": {"text": "Jag har legat under kyldiskar i femton år. Varje handlare jag träffat har klagat på elräkningen i juli. Det var den dagen solen faktiskt kunde betala den.", "namn": "Gunilla Krok", "roll": "Grundare och vd, kyltekniker i grunden", "tagg": "people"},
   "omdomen": [
     {"text": "Gunilla förstod kylan bättre än vår egen kylfirma. Kalkylen höll på kronan efter första året.", "namn": "Magnus S.", "ort": "Kalmar"},
     {"text": "De byggde på nätterna i tre veckor. Kunderna märkte ingenting förutom en ny skylt om solel vid kassan.", "namn": "Eva-Karin J.", "ort": "Färjestaden"},
@@ -81,13 +81,13 @@
     ["Måste butiken stänga under montaget?", "Aldrig hittills. Vi bygger före öppning eller efter stängning och leder kablar så att inget syns i butiken."],
     ["Vem äger anläggningen om vi hyr lokalen?", "Det avtalas mellan er och fastighetsägaren. Vi har byggt både åt handlare som hyr och åt fastighetsägare som säljer elen vidare."],
     ["Godkänner kedjan solceller på taket?", "De flesta kedjor uppmuntrar det. Vi tar fram det underlag som kedjans fastighets- och hållbarhetsavdelning brukar efterfråga."],
-    ["Hur lång är återbetalningstiden?", "För matbutiker med hög egenanvändning brukar den ligga på sex till nio år, beroende på elpris och takets skick."],
+    ["Hur snabbt tjänar butiken in anläggningen?", "För matbutiker med hög egenanvändning brukar den ligga på sex till nio år, beroende på elpris och takets skick."],
     ["Bygger ni utanför Kalmar län?", "Vi bygger i Kalmar län och på Öland, och för handelsfastigheter även i Kronoberg och Blekinge."]
   ],
   "certifikat": [
     {"titel": "Elsäkerhetsverket, AB-behörighet", "text": "Registrerat elinstallationsföretag med egenkontrollprogram för kommersiella fastigheter.", "ikon": "blixt"},
     {"titel": "Kylcertifikat för köldmedier", "text": "Våra kyltekniker har certifikat för arbete med köldmedier enligt F-gasförordningen.", "ikon": "kugge"},
-    {"titel": "Heta arbeten", "text": "Alla montörer har certifikat för heta arbeten – ett krav vid montage på papptak.", "ikon": "eld"},
+    {"titel": "Certifikat för heta arbeten", "text": "Alla montörer har certifikat för heta arbeten – ett krav vid montage på papptak.", "ikon": "eld"},
     {"titel": "Certifierade solcellsinstallatörer", "text": "Tre av våra elektriker är personcertifierade för projektering och installation av solceller.", "ikon": "sol"}
   ],
   "kunder": ["Lindsdals Livs AB", "Byxelkroks Handelsbod", "Nybro Tvätt & Tank", "Färjestadens Matmarknad", "Emmaboda Handelsgård AB", "Mönsterås Torghall", "Borgholms Köpmannaförening", "Kalmarsunds Handelsfastigheter"],
