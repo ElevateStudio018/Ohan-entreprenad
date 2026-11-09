@@ -17,98 +17,448 @@
   ],
   "vagval_rubrik": "Vad behöver ni hjälp med?",
   "tjanster": [
-    {"titel": "Begravning", "ikon": "kors", "href": "verksamhet.html", "text": "Kyrklig eller borgerlig i Sundsvall, Timrå, Härnösand och Ånge."},
-    {"titel": "Dödsboanmälan", "ikon": "dokument", "href": "verksamhet.html", "text": "När tillgångarna inte räcker till mer än begravningen – vi sköter anmälan till kommunen."},
-    {"titel": "Bouppteckning", "ikon": "ritning", "href": "verksamhet.html", "text": "Förrättning, värdering och inlämning till Skatteverket inom tre månader."},
-    {"titel": "Arvskifte", "ikon": "portfolj", "href": "verksamhet.html", "text": "Avtal om hur arvet fördelas – också när det finns särkullbarn eller testamente."},
-    {"titel": "Dödsboets deklaration", "ikon": "graf", "href": "verksamhet.html", "text": "Vi deklarerar för dödsboet tills arvskiftet är gjort."},
-    {"titel": "Testamente", "ikon": "las", "href": "verksamhet.html", "text": "Upprättas och förvaras brandsäkert hos oss."},
-    {"titel": "Framtidsfullmakt", "ikon": "nyckel", "href": "verksamhet.html", "text": "Bestäm vem som ska företräda dig om du inte längre kan."},
-    {"titel": "Boka en jurist", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Kostnadsfritt första samtal på 20 minuter."}
+    {
+      "titel": "Begravning",
+      "ikon": "kors",
+      "href": "verksamhet.html",
+      "text": "Kyrklig eller borgerlig i Sundsvall, Timrå, Härnösand och Ånge."
+    },
+    {
+      "titel": "Dödsboanmälan",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "När tillgångarna inte räcker till mer än begravningen – vi sköter anmälan till kommunen."
+    },
+    {
+      "titel": "Bouppteckning",
+      "ikon": "ritning",
+      "href": "verksamhet.html",
+      "text": "Förrättning, värdering och inlämning till Skatteverket inom tre månader."
+    },
+    {
+      "titel": "Arvskifte",
+      "ikon": "portfolj",
+      "href": "verksamhet.html",
+      "text": "Avtal om hur arvet fördelas – också när det finns särkullbarn eller testamente."
+    },
+    {
+      "titel": "Dödsboets deklaration",
+      "ikon": "graf",
+      "href": "verksamhet.html",
+      "text": "Vi deklarerar för dödsboet tills arvskiftet är gjort."
+    },
+    {
+      "titel": "Testamente",
+      "ikon": "las",
+      "href": "verksamhet.html",
+      "text": "Upprättas och förvaras brandsäkert hos oss."
+    },
+    {
+      "titel": "Framtidsfullmakt",
+      "ikon": "nyckel",
+      "href": "verksamhet.html",
+      "text": "Bestäm vem som ska företräda dig om du inte längre kan."
+    },
+    {
+      "titel": "Boka en jurist",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "Kostnadsfritt första samtal på 20 minuter."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Begravningar", "text": "Våra fem rådgivare ordnar begravningar i alla Medelpads kyrkor och i Sundsvalls krematoriums kapell. Vi har ordnat jordfästningar i Selångers kyrka sedan starten.", "text2": "Redan vid första mötet berättar vi vad som händer med dödsboet de kommande månaderna.", "tagg": "begravning"},
-    {"titel": "Bouppteckning", "text": "Bouppteckningen ska vara klar inom tre månader från dödsfallet. Vi begär in saldon, försäkringsbesked och fastighetsvärden, kallar till förrättning och skickar handlingen till Skatteverket.", "text2": "Ni får ett fast pris efter ett första genomgångsmöte.", "tagg": "kontor"},
-    {"titel": "Arvskifte och försäljning", "text": "Vi skriver arvskifteshandlingen och hjälper till att sälja bostad eller fritidshus genom tre mäklare vi samarbetar med. Gården i skogen eller sommarstugan vid Alnön kräver ofta extra omsorg.", "text2": "Vid oenighet kan vi föreslå en neutral boutredningsman.", "tagg": "hem"},
-    {"titel": "Planering i livet", "text": "Testamente, framtidsfullmakt och äktenskapsförord är de vanligaste handlingarna vi upprättar för levande. Vi förvarar originalen i vårt brandsäkra arkiv utan kostnad.", "text2": "Många kombinerar det med att skriva ned önskemål om sin egen begravning.", "tagg": "kontor"}
+    {
+      "titel": "Begravningar",
+      "text": "Våra fem rådgivare ordnar begravningar i alla Medelpads kyrkor och i Sundsvalls krematoriums kapell. Vi har ordnat jordfästningar i Selångers kyrka sedan starten.",
+      "text2": "Redan vid första mötet berättar vi vad som händer med dödsboet de kommande månaderna.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Bouppteckning",
+      "text": "Bouppteckningen ska vara klar inom tre månader från dödsfallet. Vi begär in saldon, försäkringsbesked och fastighetsvärden, kallar till förrättning och skickar handlingen till Skatteverket.",
+      "text2": "Ni får ett fast pris efter ett första genomgångsmöte.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Arvskifte och försäljning",
+      "text": "Vi skriver arvskifteshandlingen och hjälper till att sälja bostad eller fritidshus genom tre mäklare vi samarbetar med. Gården i skogen eller sommarstugan vid Alnön kräver ofta extra omsorg.",
+      "text2": "Vid oenighet kan vi föreslå en neutral boutredningsman.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Planering i livet",
+      "text": "Testamente, framtidsfullmakt och äktenskapsförord är de vanligaste handlingarna vi upprättar för levande. Vi förvarar originalen i vårt brandsäkra arkiv utan kostnad.",
+      "text2": "Många kombinerar det med att skriva ned önskemål om sin egen begravning.",
+      "tagg": "kontor"
+    }
   ],
   "bolag": [
-    {"namn": "Rådgivningen", "segment": "Begravningar i Medelpad", "rubrik": "Fem rådgivare, alla diplomerade", "text": "Rådgivarna möter familjen, ordnar ceremonin och lämnar över till juristerna när det är dags.", "tagg": "begravning"},
-    {"namn": "Familjejuridik", "segment": "Fem jurister", "rubrik": "400 bouppteckningar om året", "text": "Juristerna har var sin specialitet – lantbruk och skog, särkullbarn, utlandsboende delägare, företag och dödsbon med skulder.", "tagg": "kontor"},
-    {"namn": "Ekonomi och deklaration", "segment": "Två redovisningskonsulter", "rubrik": "Dödsboets siffror", "text": "Sköter dödsboets bokföring, betalningar och deklarationer fram till arvskiftet.", "tagg": "kontor"},
-    {"namn": "Arkivet", "segment": "Testamenten och fullmakter", "rubrik": "Över 3 000 handlingar i förvar", "text": "Brandsäkert arkiv där originalhandlingar förvaras och registreras.", "tagg": "interior"}
+    {
+      "namn": "Rådgivningen",
+      "segment": "Begravningar i Medelpad",
+      "rubrik": "Fem rådgivare, alla diplomerade",
+      "text": "Rådgivarna möter familjen, ordnar ceremonin och lämnar över till juristerna när det är dags.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Familjejuridik",
+      "segment": "Fem jurister",
+      "rubrik": "400 bouppteckningar om året",
+      "text": "Juristerna har var sin specialitet – lantbruk och skog, särkullbarn, utlandsboende delägare, företag och dödsbon med skulder.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Ekonomi och deklaration",
+      "segment": "Två redovisningskonsulter",
+      "rubrik": "Dödsboets siffror",
+      "text": "Sköter dödsboets bokföring, betalningar och deklarationer fram till arvskiftet.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Arkivet",
+      "segment": "Testamenten och fullmakter",
+      "rubrik": "Över 3 000 handlingar i förvar",
+      "text": "Brandsäkert arkiv där originalhandlingar förvaras och registreras.",
+      "tagg": "interior"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Femte juristen på plats", "text": "Johanna Berglund har specialiserat sig på dödsbon med skog och jordbruksfastigheter.", "tagg": "kontor"},
-    {"rubrik": "Föreläsning om särkullbarn", "text": "Över 120 personer kom till Kulturmagasinet för att höra hur arv fungerar i nya familjer.", "tagg": "people"},
-    {"rubrik": "Fler bouppteckningar på video", "text": "Nästan hälften av förrättningarna hålls nu digitalt med delägare runt om i landet.", "tagg": "kontor"}
+    {
+      "rubrik": "Femte juristen på plats",
+      "text": "Johanna Berglund har specialiserat sig på dödsbon med skog och jordbruksfastigheter.",
+      "tagg": "kontor"
+    },
+    {
+      "rubrik": "Föreläsning om särkullbarn",
+      "text": "Över 120 personer kom till Kulturmagasinet för att höra hur arv fungerar i nya familjer.",
+      "tagg": "people"
+    },
+    {
+      "rubrik": "Fler bouppteckningar på video",
+      "text": "Nästan hälften av förrättningarna hålls nu digitalt med delägare runt om i landet.",
+      "tagg": "kontor"
+    }
   ],
   "nyckeltal": [
-    {"varde": "5", "enhet": "jurister", "etikett": "Under samma tak som byrån"},
-    {"varde": "400+", "enhet": "per år", "etikett": "Bouppteckningar"},
-    {"varde": "340", "enhet": "per år", "etikett": "Begravningar"},
-    {"varde": "3 000", "enhet": "", "etikett": "Testamenten i vårt arkiv"}
+    {
+      "varde": "5",
+      "enhet": "jurister",
+      "etikett": "Under samma tak som byrån"
+    },
+    {
+      "varde": "400+",
+      "enhet": "per år",
+      "etikett": "Bouppteckningar"
+    },
+    {
+      "varde": "340",
+      "enhet": "per år",
+      "etikett": "Begravningar"
+    },
+    {
+      "varde": "3 000",
+      "enhet": "",
+      "etikett": "Testamenten i vårt arkiv"
+    }
   ],
   "projekt": [
-    {"namn": "Dödsbo med skogsfastighet", "ort": "Ånge", "typ": "Bouppteckning och arvskifte", "ar": "2025", "text": "180 hektar skog värderades och delades mellan fyra syskon utan att fastigheten behövde säljas.", "tagg": "natur"},
-    {"namn": "Jordfästning i Selångers kyrka", "ort": "Sundsvall", "typ": "Kyrklig begravning", "ar": "2025", "text": "En kyrkvärd som själv tagit emot hundratals sörjande vid samma kyrkport.", "tagg": "begravning"},
-    {"namn": "Arvskifte med särkullbarn", "ort": "Timrå", "typ": "Arvskifte", "ar": "2025", "text": "Efterlevande make fick bo kvar sedan särkullbarnen valt att vänta med sitt arv – allt dokumenterat skriftligt.", "tagg": "hem"},
-    {"namn": "Bouppteckning med delägare i USA", "ort": "Härnösand", "typ": "Bouppteckning", "ar": "2024", "text": "Förrättning på video och fullmakter bevittnade på ett konsulat i Seattle.", "tagg": "kontor"},
-    {"namn": "Borgerlig ceremoni på Norra berget", "ort": "Sundsvall", "typ": "Borgerlig begravning", "ar": "2024", "text": "En ceremoni med utsikt över staden, i en av friluftsmuseets timmerstugor.", "tagg": "begravning"},
-    {"namn": "Dödsbo med skulder", "ort": "Sundsvall", "typ": "Dödsboanmälan", "ar": "2026", "text": "Tillgångarna räckte inte – vi sköter kontakten med Kronofogden och borgenärerna.", "tagg": "kontor", "status": "Pågår"}
+    {
+      "namn": "Dödsbo med skogsfastighet",
+      "ort": "Ånge",
+      "typ": "Bouppteckning och arvskifte",
+      "ar": "2025",
+      "text": "180 hektar skog värderades och delades mellan fyra syskon utan att fastigheten behövde säljas.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Jordfästning i Selångers kyrka",
+      "ort": "Sundsvall",
+      "typ": "Kyrklig begravning",
+      "ar": "2025",
+      "text": "En kyrkvärd som själv tagit emot hundratals sörjande vid samma kyrkport.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Arvskifte med särkullbarn",
+      "ort": "Timrå",
+      "typ": "Arvskifte",
+      "ar": "2025",
+      "text": "Efterlevande make fick bo kvar sedan särkullbarnen valt att vänta med sitt arv – allt dokumenterat skriftligt.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Bouppteckning med delägare i USA",
+      "ort": "Härnösand",
+      "typ": "Bouppteckning",
+      "ar": "2024",
+      "text": "Förrättning på video och fullmakter bevittnade på ett konsulat i Seattle.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Borgerlig ceremoni på Norra berget",
+      "ort": "Sundsvall",
+      "typ": "Borgerlig begravning",
+      "ar": "2024",
+      "text": "En ceremoni med utsikt över staden, i en av friluftsmuseets timmerstugor.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Dödsbo med skulder",
+      "ort": "Sundsvall",
+      "typ": "Dödsboanmälan",
+      "ar": "2026",
+      "text": "Tillgångarna räckte inte – vi sköter kontakten med Kronofogden och borgenärerna.",
+      "tagg": "kontor",
+      "status": "Pågår"
+    }
   ],
   "process": [
-    {"titel": "Begravningsmötet", "text": "Vi planerar begravningen och ger er en lista över vad som händer med dödsboet, och vem som gör vad.", "tagg": "begravning"},
-    {"titel": "Underlagen", "text": "Med en fullmakt från er begär vi in uppgifter från banker, försäkringsbolag och Lantmäteriet.", "tagg": "kontor"},
-    {"titel": "Förrättningen", "text": "Alla dödsbodelägare kallas till förrättning, på Storgatan eller via video. Därefter skickar vi bouppteckningen till Skatteverket.", "tagg": "people"},
-    {"titel": "Arvskiftet", "text": "När bouppteckningen är registrerad skriver vi arvskiftet och fördelar tillgångarna enligt lag och testamente.", "tagg": "hem"}
+    {
+      "titel": "Begravningsmötet",
+      "text": "Vi planerar begravningen och ger er en lista över vad som händer med dödsboet, och vem som gör vad.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Underlagen",
+      "text": "Med en fullmakt från er begär vi in uppgifter från banker, försäkringsbolag och Lantmäteriet.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Förrättningen",
+      "text": "Alla dödsbodelägare kallas till förrättning, på Storgatan eller via video. Därefter skickar vi bouppteckningen till Skatteverket.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Arvskiftet",
+      "text": "När bouppteckningen är registrerad skriver vi arvskiftet och fördelar tillgångarna enligt lag och testamente.",
+      "tagg": "hem"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Fast pris och hållna tidsfrister",
     "text": "Juridik efter ett dödsfall ska inte bli en oväntad räkning. Efter ett genomgångsmöte får ni ett fast pris för bouppteckningen, och vi lovar att den lämnas till Skatteverket inom lagstadgad tid eller med beviljad förlängning.",
-    "mal": [["3 mån", "till inlämnad bouppteckning"], ["Fast", "pris efter genomgångsmöte"], ["20 min", "kostnadsfri juridisk rådgivning"]]
+    "mal": [
+      [
+        "3 mån",
+        "till inlämnad bouppteckning"
+      ],
+      [
+        "Fast",
+        "pris efter genomgångsmöte"
+      ],
+      [
+        "20 min",
+        "kostnadsfri juridisk rådgivning"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "För jurister som vill möta människor",
     "text": "Hos oss arbetar du nära familjerna, inte bara med pappren. Vi söker jurister med intresse för familjerätt och rådgivare som vill lära sig begravningsyrket från grunden.",
-    "jobb": [["Jurist, familjerätt", "Sundsvall"], ["Begravningsrådgivare", "Sundsvall"]]
+    "jobb": [
+      [
+        "Jurist, familjerätt",
+        "Sundsvall"
+      ],
+      [
+        "Begravningsrådgivare",
+        "Sundsvall"
+      ]
+    ]
   },
   "kultur": "Rådgivare och jurister sitter i samma korridor och lunchar ihop – det är så familjerna slipper berätta allt två gånger.",
-  "citat": {"text": "Vi märkte att familjer kom tillbaka till oss i panik ett par månader efter begravningen, med en hög post från banker och Skatteverket. Det var därför vi anställde vår första jurist.", "namn": "Birgitta Nyström", "roll": "Grundare och styrelseordförande", "tagg": "kontor"},
+  "citat": {
+    "text": "Vi märkte att familjer kom tillbaka till oss i panik ett par månader efter begravningen, med en hög post från banker och Skatteverket. Det var därför vi anställde vår första jurist.",
+    "namn": "Birgitta Nyström",
+    "roll": "Grundare och styrelseordförande",
+    "tagg": "kontor"
+  },
   "omdomen": [
-    {"text": "Vi var fyra syskon som ärvde skog efter pappa och hade ingen aning om var vi skulle börja. Johanna förklarade allt och ingen av oss behövde sälja.", "namn": "Anders N.", "ort": "Ånge"},
-    {"text": "Att samma byrå tog hand om begravningen och bouppteckningen betydde att vi bara behövde berätta om mamma en gång.", "namn": "Ulrika S.", "ort": "Timrå"},
-    {"text": "Priset för bouppteckningen var spikat från början och höll ända till slutet.", "namn": "Per-Olof H.", "ort": "Sundsvall"}
+    {
+      "text": "Vi var fyra syskon som ärvde skog efter pappa och hade ingen aning om var vi skulle börja. Johanna förklarade allt och ingen av oss behövde sälja.",
+      "namn": "Anders N.",
+      "ort": "Ånge"
+    },
+    {
+      "text": "Att samma byrå tog hand om begravningen och bouppteckningen betydde att vi bara behövde berätta om mamma en gång.",
+      "namn": "Ulrika S.",
+      "ort": "Timrå"
+    },
+    {
+      "text": "Priset för bouppteckningen var spikat från början och höll ända till slutet.",
+      "namn": "Per-Olof H.",
+      "ort": "Sundsvall"
+    }
   ],
   "faq": [
-    ["Måste man göra en bouppteckning?", "Ja, om den avlidne hade tillgångar som räcker till mer än begravningskostnaderna. Annars räcker oftast en dödsboanmälan till kommunen."],
-    ["Hur lång tid har man på sig?", "Bouppteckningsförrättningen ska hållas inom tre månader och handlingen ska lämnas till Skatteverket inom en månad därefter. Det går att ansöka om förlängning."],
-    ["Kan ni göra bouppteckningen om begravningen ordnats av en annan byrå?", "Ja, ungefär en tredjedel av våra bouppteckningar gör vi åt familjer som haft en annan byrå."],
-    ["Vad händer om dödsbodelägarna är oense?", "Vi försöker först hitta en överenskommelse. Går det inte kan tingsrätten utse en boutredningsman eller skiftesman – det kan vi hjälpa till att ansöka om."],
-    ["Vad är ett särkullbarn och varför spelar det roll?", "Ett barn som bara den ena maken är förälder till. Särkullbarn har rätt att få ut sitt arv direkt, vilket kan påverka om efterlevande kan bo kvar."],
-    ["Vad kostar det att skriva testamente?", "Ett enkelt testamente kostar 2 900 kronor och ett inbördes testamente för makar 3 900 kronor. Förvaring i vårt arkiv ingår."],
-    ["Kan dödsboet betala er juridiska hjälp?", "Ja, fakturan ställs till dödsboet och kan betalas från den avlidnes konto."]
+    [
+      "Måste man göra en bouppteckning?",
+      "Ja, om den avlidne hade tillgångar som räcker till mer än begravningskostnaderna. Annars räcker oftast en dödsboanmälan till kommunen."
+    ],
+    [
+      "Hur lång tid har man på sig?",
+      "Bouppteckningsförrättningen ska hållas inom tre månader och handlingen ska lämnas till Skatteverket inom en månad därefter. Det går att ansöka om förlängning."
+    ],
+    [
+      "Kan ni göra bouppteckningen om begravningen ordnats av en annan byrå?",
+      "Ja, ungefär en tredjedel av våra bouppteckningar gör vi åt familjer som haft en annan byrå."
+    ],
+    [
+      "Vad händer om dödsbodelägarna är oense?",
+      "Vi försöker först hitta en överenskommelse. Går det inte kan tingsrätten utse en boutredningsman eller skiftesman – det kan vi hjälpa till att ansöka om."
+    ],
+    [
+      "Vad är ett särkullbarn och varför spelar det roll?",
+      "Ett barn som bara den ena maken är förälder till. Särkullbarn har rätt att få ut sitt arv direkt, vilket kan påverka om efterlevande kan bo kvar."
+    ],
+    [
+      "Vad kostar det att skriva testamente?",
+      "Ett enkelt testamente kostar 2 900 kronor och ett inbördes testamente för makar 3 900 kronor. Förvaring i vårt arkiv ingår."
+    ],
+    [
+      "Kan dödsboet betala er juridiska hjälp?",
+      "Ja, fakturan ställs till dödsboet och kan betalas från den avlidnes konto."
+    ]
   ],
   "priser": [
-    {"namn": "Dödsboanmälan", "pris": "1 900 kr", "enhet": "fast pris", "text": "När tillgångarna inte räcker till mer än begravning.", "punkter": ["Genomgång av tillgångar och skulder", "Ansökan till kommunen", "Kontakt med borgenärer", "Uppsägning av abonnemang"]},
-    {"namn": "Bouppteckning", "pris": "fr. 6 900 kr", "enhet": "fast pris efter genomgång", "text": "Från insamling av underlag till registrerad handling.", "punkter": ["Underlag från banker och försäkringsbolag", "Förrättning på kontoret eller video", "Inlämning till Skatteverket", "Fast pris efter första mötet"], "utvald": true},
-    {"namn": "Bouppteckning och arvskifte", "pris": "fr. 11 400 kr", "enhet": "fast pris efter genomgång", "text": "Hela vägen till fördelat arv och avslutat dödsbo.", "punkter": ["Allt i Bouppteckning", "Arvskifteshandling", "Fördelning av tillgångar", "Dödsboets slutdeklaration"]}
+    {
+      "namn": "Dödsboanmälan",
+      "pris": "1 900 kr",
+      "enhet": "fast pris",
+      "text": "När tillgångarna inte räcker till mer än begravning.",
+      "punkter": [
+        "Genomgång av tillgångar och skulder",
+        "Ansökan till kommunen",
+        "Kontakt med borgenärer",
+        "Uppsägning av abonnemang"
+      ]
+    },
+    {
+      "namn": "Bouppteckning",
+      "pris": "fr. 6 900 kr",
+      "enhet": "fast pris efter genomgång",
+      "text": "Från insamling av underlag till registrerad handling.",
+      "punkter": [
+        "Underlag från banker och försäkringsbolag",
+        "Förrättning på kontoret eller video",
+        "Inlämning till Skatteverket",
+        "Fast pris efter första mötet"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Bouppteckning och arvskifte",
+      "pris": "fr. 11 400 kr",
+      "enhet": "fast pris efter genomgång",
+      "text": "Hela vägen till fördelat arv och avslutat dödsbo.",
+      "punkter": [
+        "Allt i Bouppteckning",
+        "Arvskifteshandling",
+        "Fördelning av tillgångar",
+        "Dödsboets slutdeklaration"
+      ]
+    }
   ],
-  "prislista": [["Testamente, enskilt", "2 900 kr"], ["Inbördes testamente för makar", "3 900 kr"], ["Framtidsfullmakt", "2 400 kr"], ["Äktenskapsförord", "3 400 kr"], ["Dödsboets deklaration, per år", "2 200 kr"], ["Juristtimme utöver fast pris", "1 450 kr"], ["Förvaring av testamente", "0 kr"], ["Första rådgivning, 20 minuter", "0 kr"]],
+  "prislista": [
+    [
+      "Testamente, enskilt",
+      "2 900 kr"
+    ],
+    [
+      "Inbördes testamente för makar",
+      "3 900 kr"
+    ],
+    [
+      "Framtidsfullmakt",
+      "2 400 kr"
+    ],
+    [
+      "Äktenskapsförord",
+      "3 400 kr"
+    ],
+    [
+      "Dödsboets deklaration, per år",
+      "2 200 kr"
+    ],
+    [
+      "Juristtimme utöver fast pris",
+      "1 450 kr"
+    ],
+    [
+      "Förvaring av testamente",
+      "0 kr"
+    ],
+    [
+      "Första rådgivning, 20 minuter",
+      "0 kr"
+    ]
+  ],
   "certifikat": [
-    {"titel": "SBF-auktoriserad byrå", "text": "Begravningsverksamheten är auktoriserad av Sveriges Begravningsbyråers Förbund.", "ikon": "skold"},
-    {"titel": "Jurister med examen", "text": "Alla fem jurister har juristexamen och arbetar enligt en skriftlig etisk policy om jäv och sekretess.", "ikon": "portfolj"},
-    {"titel": "Auktoriserade konsulter", "text": "Våra redovisningskonsulter är auktoriserade genom Srf konsulterna.", "ikon": "graf"},
-    {"titel": "Ansvarsförsäkring", "text": "Konsultansvarsförsäkring för juridisk rådgivning upp till 5 miljoner kronor per skada.", "ikon": "las"}
+    {
+      "titel": "Medlem i SBF",
+      "text": "Begravningsverksamheten är auktoriserad av Sveriges Begravningsbyråers Förbund.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Jurister med examen",
+      "text": "Alla fem jurister har juristexamen och arbetar enligt en skriftlig etisk policy om jäv och sekretess.",
+      "ikon": "portfolj"
+    },
+    {
+      "titel": "Auktoriserade konsulter",
+      "text": "Våra redovisningskonsulter är auktoriserade genom Srf konsulterna.",
+      "ikon": "graf"
+    },
+    {
+      "titel": "Ansvarsförsäkring",
+      "text": "Konsultansvarsförsäkring för juridisk rådgivning upp till 5 miljoner kronor per skada.",
+      "ikon": "las"
+    }
   ],
-  "kunder": ["Sundsvalls kommun, dödsbohandläggningen", "Selångers församling", "Medelpads Skogsägareförening", "Brf Esplanaden", "Timrå Pensionärsförening", "Alnö Villaägareförening", "Härnösands Seniorboende AB", "Ånge Lantbrukarförening"],
+  "kunder": [
+    "Sundsvalls kommun, dödsbohandläggningen",
+    "Selångers församling",
+    "Medelpads Skogsägareförening",
+    "Brf Esplanaden",
+    "Timrå Pensionärsförening",
+    "Alnö Villaägareförening",
+    "Härnösands Seniorboende AB",
+    "Ånge Lantbrukarförening"
+  ],
   "nyheter": [
-    ["2026-10-13", "Femte juristen börjar hos oss", "Johanna Berglund tar hand om dödsbon med skog och jordbruk.", "kontor"],
-    ["2026-03-05", "Föreläsning om arv i nya familjer", "Inspelningen från Kulturmagasinet finns nu att se.", "people"],
-    ["2025-09-24", "Fem saker som är bra att ha ordnat", "Testamente, fullmakt, kontouppgifter, önskemål och en lista över abonnemang.", "kontor"],
-    ["2025-05-12", "Bouppteckning på video blir standard", "Delägare som bor långt bort behöver inte resa till Sundsvall.", "kontor"]
+    [
+      "2026-10-13",
+      "Femte juristen börjar hos oss",
+      "Johanna Berglund tar hand om dödsbon med skog och jordbruk.",
+      "kontor"
+    ],
+    [
+      "2026-03-05",
+      "Föreläsning om arv i nya familjer",
+      "Inspelningen från Kulturmagasinet finns nu att se.",
+      "people"
+    ],
+    [
+      "2025-09-24",
+      "Fem saker som är bra att ha ordnat",
+      "Testamente, fullmakt, kontouppgifter, önskemål och en lista över abonnemang.",
+      "kontor"
+    ],
+    [
+      "2025-05-12",
+      "Bouppteckning på video blir standard",
+      "Delägare som bor långt bort behöver inte resa till Sundsvall.",
+      "kontor"
+    ]
   ],
-  "kontakt": {"adress": "Storgatan 21", "postnr": "852 30", "ort": "Sundsvall", "telefon": "070-174 06 72", "epost": "info@selangerbegravning.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Storgatan 21",
+    "postnr": "852 30",
+    "ort": "Sundsvall",
+    "telefon": "070-174 06 72",
+    "epost": "info@selangerbegravning.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 8–17, juristerna även torsdagar till 19",
   "omrade": "Sundsvall, Timrå, Härnösand och Ånge",
   "fot_cta": "Har ni frågor om ett dödsbo? Boka 20 minuter med en jurist – utan kostnad.",
@@ -129,11 +479,16 @@
     "omdomen_rubrik": "Dödsbon vi har hjälpt",
     "faq_rubrik": "Frågor om bouppteckning och arv",
     "priser_rubrik": "Juridik till fast pris",
-    "priser_not": "Alla priser inklusive moms. Fakturan kan ställas till dödsboet.",
+    "priser_not": "Priserna är inklusive moms och faktureras dödsboet.",
     "priser_knapp": "Boka genomgång",
     "boka_rubrik": "Boka ett kostnadsfritt samtal",
     "boka_text": "Beskriv kort dödsboet eller ärendet så ringer en jurist upp inom två arbetsdagar.",
-    "boka_falt": ["Namn", "Telefon", "E-post", "Kort om ärendet"],
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "E-post",
+      "Kort om ärendet"
+    ],
     "logos_rubrik": "Organisationer som hänvisar till oss",
     "certifikat_rubrik": "Auktoriserade för både begravning och juridik",
     "ny_rubrik": "Råd och nyheter"

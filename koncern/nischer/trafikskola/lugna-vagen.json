@@ -33,7 +33,7 @@
     {"titel": "När körprovet inte gick", "text": "Ett underkänt körprov kan sätta sig i kroppen. Vi går igenom provprotokollet tillsammans, kör samma sträckor i lugn takt och övar på hur det känns att ha en förarprövare bredvid sig.", "text2": "Många behöver bara fyra till sex lektioner innan nästa försök.", "tagg": "korskola"}
   ],
   "bolag": [
-    {"namn": "Malin Sjölund", "segment": "Grundare, trafiklärare", "rubrik": "Specialpedagog i femton år", "text": "Tar emot de flesta elever med körångest och NPF och håller i teorin med stöd.", "tagg": "people"},
+    {"namn": "Malin Sjölund", "segment": "Grundare och specialpedagog", "rubrik": "Specialpedagog i femton år", "text": "Tar emot de flesta elever med körångest och NPF och håller i teorin med stöd.", "tagg": "people"},
     {"namn": "Erik Lindgren", "segment": "Delägare, trafiklärare", "rubrik": "Tjugotvå år i passagerarsätet", "text": "Kör provlektioner och tar hand om elever som ska göra om körprovet.", "tagg": "korskola"},
     {"namn": "Sofie och Arvid", "segment": "Trafiklärare", "rubrik": "Kvällar och lördagar", "text": "Sofie har automateleverna och Arvid de flesta riskettorna i liten grupp.", "tagg": "stad"}
   ],
@@ -44,7 +44,7 @@
   ],
   "nyckeltal": [
     {"varde": "60", "enhet": "minuter", "etikett": "Varje lektion"},
-    {"varde": "25", "enhet": "elever", "etikett": "Som mest per lärare"},
+    {"varde": "25", "enhet": "elever", "etikett": "Högst, per trafiklärare"},
     {"varde": "6", "enhet": "personer", "etikett": "Som mest på riskettan"},
     {"varde": "2018", "enhet": "", "etikett": "Året vi startade"}
   ],
@@ -65,7 +65,7 @@
   "hallbarhet": {
     "rubrik": "Ingen ska behöva ge upp körkortet",
     "text": "Körkort är ofta skillnaden mellan att få ett jobb eller inte, särskilt i Västerbotten. Därför tar vi bara så många elever att varje lärare hinner förbereda lektionen, och vi höjer aldrig rösten i bilen.",
-    "mal": [["25", "elever som mest per lärare"], ["100 %", "lektioner med plan i förväg"], ["0", "lektioner i rusningstrafik innan du vill"]]
+    "mal": [["25", "elever per lärare, inte fler"], ["100 %", "lektioner med plan i förväg"], ["0", "lektioner i rusningstrafik innan du vill"]]
   },
   "karriar": {
     "rubrik": "Trafiklärare som har tålamod",
@@ -83,9 +83,9 @@
     ["Måste jag berätta om min diagnos?", "Nej. Men ju mer vi vet om vad som är svårt, desto bättre kan vi lägga upp lektionerna. Allt du berättar stannar hos din lärare."],
     ["Kan jag få anpassat kunskapsprov?", "Ja, Trafikverket erbjuder anpassningar som uppläsning och förlängd provtid för dig med till exempel dyslexi. Vi hjälper dig med ansökan och intyg."],
     ["Får jag ta med någon på lektionen?", "Ja, på de första lektionerna får en förälder, partner eller kontaktperson sitta i baksätet."],
-    ["Hur många lektioner behöver jag?", "Det varierar mer hos oss än på andra skolor. Vissa behöver 20, andra 50. Vi ger en uppskattning efter fem lektioner."],
+    ["Hur lång tid tar det för mig?", "Det varierar mer hos oss än på andra skolor. Vissa behöver 20, andra 50. Vi ger en uppskattning efter fem lektioner."],
     ["Vad händer om jag får panik under en lektion?", "Då stannar vi bilen på ett säkert ställe och pratar. Lektionen fortsätter när du vill, eller slutar där."],
-    ["Har ni automatbilar?", "Ja, två av tre bilar är automatväxlade. Det minskar antalet saker att tänka på samtidigt."],
+    ["Kan jag köra automat?", "Ja, två av tre bilar är automatväxlade. Det minskar antalet saker att tänka på samtidigt."],
     ["Kan kommunen eller Försäkringskassan betala?", "Ibland. Försäkringskassan kan ge bidrag till körkort för vissa personer med funktionsnedsättning. Vi hjälper dig att ta reda på vad som gäller."]
   ],
   "priser": [
@@ -95,7 +95,7 @@
   ],
   "prislista": [["Prova-lektion 45 min", "450 kr"], ["Lektion 60 min", "990 kr"], ["Riskettan, högst sex deltagare", "1 150 kr"], ["Teori med stöd, 30 min", "390 kr"], ["Handledarkurs, en familj", "1 400 kr"], ["Föräldrakväll", "250 kr"]],
   "certifikat": [
-    {"titel": "Trafikskoletillstånd", "text": "Tillstånd från Transportstyrelsen att bedriva trafikskola för behörighet B.", "ikon": "dokument"},
+    {"titel": "Godkänd trafikskola", "text": "Transportstyrelsens tillstånd att utbilda för B-körkort, sedan 2018.", "ikon": "dokument"},
     {"titel": "Riskutbildning", "text": "Godkända att hålla riskettan, med halkbanan på godkänd bana i Umeå.", "ikon": "skold"},
     {"titel": "NPF-utbildade lärare", "text": "Alla fyra lärare har läst högskolekurs om neuropsykiatriska funktionsnedsättningar, 7,5 hp.", "ikon": "skola"},
     {"titel": "Medlem i STR", "text": "Medlem i Sveriges Trafikutbildares Riksförbund sedan starten 2018.", "ikon": "folk"}
@@ -127,7 +127,7 @@
     "priser_etikett": "Priser",
     "priser_rubrik": "Börja med en prova-lektion",
     "priser_utvald": "Bra start",
-    "priser_not": "Alla priser inklusive moms. Trafikverkets provavgifter tillkommer.",
+    "priser_not": "Moms ingår. Avgifter för kunskapsprov och körprov betalar du till Trafikverket.",
     "omdomen_rubrik": "Elever som trodde att de aldrig skulle köra",
     "faq_rubrik": "Det du kanske undrar men inte vill fråga",
     "boka_rubrik": "Börja med ett samtal",

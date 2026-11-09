@@ -17,94 +17,392 @@
   ],
   "vagval_rubrik": "Vilket avsked önskar ni?",
   "tjanster": [
-    {"titel": "Naturnära begravning", "ikon": "trad", "href": "verksamhet.html", "text": "Obehandlad furukista, linnebädd och blommor från svenska odlare."},
-    {"titel": "Askspridning", "ikon": "vind", "href": "verksamhet.html", "text": "Över sjö, skog eller i minneslund – vi söker tillstånd hos länsstyrelsen."},
-    {"titel": "Ceremoni i det fria", "ikon": "sol", "href": "verksamhet.html", "text": "Borgerliga ceremonier vid Helgasjön, i en hage eller under en ek."},
-    {"titel": "Minnesstund", "ikon": "hjarta", "href": "verksamhet.html", "text": "Vegetarisk eller lokalproducerad mat från gårdar i Kronoberg."},
-    {"titel": "Gravsten i återbruk", "ikon": "sten", "href": "verksamhet.html", "text": "Gamla gravstenar som slipas om och får nytt liv."},
-    {"titel": "Klimatredovisning", "ikon": "graf", "href": "hallbarhet.html", "text": "Varje familj får en redovisning av begravningens ungefärliga klimatavtryck."},
-    {"titel": "Bouppteckning", "ikon": "dokument", "href": "verksamhet.html", "text": "Hjälp med dödsboanmälan, bouppteckning och arvskifte."},
-    {"titel": "Prata med Sofia", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ring eller kom förbi på Storgatan över en kopp kaffe."}
+    {
+      "titel": "Naturnära begravning",
+      "ikon": "trad",
+      "href": "verksamhet.html",
+      "text": "Obehandlad furukista, linnebädd och blommor från svenska odlare."
+    },
+    {
+      "titel": "Askspridning",
+      "ikon": "vind",
+      "href": "verksamhet.html",
+      "text": "Över sjö, skog eller i minneslund – vi söker tillstånd hos länsstyrelsen."
+    },
+    {
+      "titel": "Ceremoni i det fria",
+      "ikon": "sol",
+      "href": "verksamhet.html",
+      "text": "Borgerliga ceremonier vid Helgasjön, i en hage eller under en ek."
+    },
+    {
+      "titel": "Minnesstund",
+      "ikon": "hjarta",
+      "href": "verksamhet.html",
+      "text": "Vegetarisk eller lokalproducerad mat från gårdar i Kronoberg."
+    },
+    {
+      "titel": "Gravsten i återbruk",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Gamla gravstenar som slipas om och får nytt liv."
+    },
+    {
+      "titel": "Klimatredovisning",
+      "ikon": "graf",
+      "href": "hallbarhet.html",
+      "text": "Varje familj får en redovisning av begravningens ungefärliga klimatavtryck."
+    },
+    {
+      "titel": "Bouppteckning",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "Hjälp med dödsboanmälan, bouppteckning och arvskifte."
+    },
+    {
+      "titel": "Prata med Sofia",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Ring eller kom förbi på Storgatan över en kopp kaffe."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Naturnära begravning", "text": "Vi använder kistor utan lack, metallbeslag eller syntetiskt foder, och svepningen är i oblekt linne. Ceremonibuketten binds av en florist i Alvesta med blommor som växer i Sverige just den årstiden.", "text2": "Valen påverkar inte priset nämnvärt – en furukista kostar ungefär lika mycket som en lackerad.", "tagg": "begravning"},
-    {"titel": "Askspridning och minneslund", "text": "Askan kan spridas i minneslund, i naturen eller över vatten. För spridning utanför kyrkogården krävs tillstånd från länsstyrelsen, och vi skriver ansökan åt er.", "text2": "Handläggningstiden i Kronoberg är vanligtvis tre till fem veckor.", "tagg": "natur"},
-    {"titel": "Ceremonier utomhus", "text": "Vi har hållit borgerliga ceremonier i hagmarker, på bryggor och i trädgårdar. Vid regn finns tält och filtar i bilen.", "text2": "Officianten Lars Ek har lett över 300 borgerliga ceremonier.", "tagg": "tradgard"},
-    {"titel": "Återbrukade gravstenar", "text": "Kyrkogårdarna har hundratals återlämnade gravstenar. Vi låter ett stenhuggeri i Lenhovda slipa om dem och hugga ny text.", "text2": "En omslipad sten kostar ungefär hälften av en ny och sparar transporter från Kina eller Indien.", "tagg": "sten"}
+    {
+      "titel": "Naturnära begravning",
+      "text": "Vi använder kistor utan lack, metallbeslag eller syntetiskt foder, och svepningen är i oblekt linne. Ceremonibuketten binds av en florist i Alvesta med blommor som växer i Sverige just den årstiden.",
+      "text2": "Valen påverkar inte priset nämnvärt – en furukista kostar ungefär lika mycket som en lackerad.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Askspridning och minneslund",
+      "text": "Askan kan spridas i minneslund, i naturen eller över vatten. För spridning utanför kyrkogården krävs tillstånd från länsstyrelsen, och vi skriver ansökan åt er.",
+      "text2": "Handläggningstiden i Kronoberg är vanligtvis tre till fem veckor.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Ceremonier utomhus",
+      "text": "Vi har hållit borgerliga ceremonier i hagmarker, på bryggor och i trädgårdar. Vid regn finns tält och filtar i bilen.",
+      "text2": "Officianten Lars Ek har lett över 300 borgerliga ceremonier.",
+      "tagg": "tradgard"
+    },
+    {
+      "titel": "Återbrukade gravstenar",
+      "text": "Kyrkogårdarna har hundratals återlämnade gravstenar. Vi låter ett stenhuggeri i Lenhovda slipa om dem och hugga ny text.",
+      "text2": "En omslipad sten kostar ungefär hälften av en ny och sparar transporter från Kina eller Indien.",
+      "tagg": "sten"
+    }
   ],
   "bolag": [
-    {"namn": "Rådgivningen", "segment": "Storgatan, Växjö", "rubrik": "Fem rådgivare med miljöutbildning", "text": "Rådgivarna har gått vår interna utbildning om material, kremering och klimatavtryck och kan svara på familjens frågor.", "tagg": "begravning"},
-    {"namn": "Ceremoni och natur", "segment": "Officianter och tillstånd", "rubrik": "Ceremonier utanför kyrkan", "text": "Två officianter och en handläggare som sköter länsstyrelseansökningar och platsbesök.", "tagg": "natur"},
-    {"namn": "Transport och visning", "segment": "Två elbilar, ett visningsrum", "rubrik": "Fossilfritt till graven", "text": "Två chaufförer som också tar hand om visningsrummet med utsikt mot Linnéparken.", "tagg": "stad"}
+    {
+      "namn": "Rådgivningen",
+      "segment": "Storgatan, Växjö",
+      "rubrik": "Fem rådgivare med miljöutbildning",
+      "text": "Rådgivarna har gått vår interna utbildning om material, kremering och klimatavtryck och kan svara på familjens frågor.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Ceremoni och natur",
+      "segment": "Officianter och tillstånd",
+      "rubrik": "Ceremonier utanför kyrkan",
+      "text": "Två officianter och en handläggare som sköter länsstyrelseansökningar och platsbesök.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Transport och visning",
+      "segment": "Två elbilar, ett visningsrum",
+      "rubrik": "Fossilfritt till graven",
+      "text": "Två chaufförer som också tar hand om visningsrummet med utsikt mot Linnéparken.",
+      "tagg": "stad"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Svanenmärkt kista i sortimentet", "text": "Lessebo Kistsnickeris furukista har fått Svanenmärket – den första i länet.", "tagg": "tra"},
-    {"rubrik": "Fyrtio stenar har fått nytt liv", "text": "Sedan 2022 har vi tagit vara på 40 återlämnade gravstenar från kyrkogårdar i Kronoberg.", "tagg": "sten"},
-    {"rubrik": "Klimatredovisning för alla", "text": "Från i år får varje familj en sida som visar ungefärligt klimatavtryck för de val de gjort.", "tagg": "natur"}
+    {
+      "rubrik": "Svanenmärkt kista i sortimentet",
+      "text": "Lessebo Kistsnickeris furukista har fått Svanenmärket – den första i länet.",
+      "tagg": "tra"
+    },
+    {
+      "rubrik": "Fyrtio stenar har fått nytt liv",
+      "text": "Sedan 2022 har vi tagit vara på 40 återlämnade gravstenar från kyrkogårdar i Kronoberg.",
+      "tagg": "sten"
+    },
+    {
+      "rubrik": "Klimatredovisning för alla",
+      "text": "Från i år får varje familj en sida som visar ungefärligt klimatavtryck för de val de gjort.",
+      "tagg": "natur"
+    }
   ],
   "nyckeltal": [
-    {"varde": "2008", "enhet": "", "etikett": "Året Sofia startade byrån"},
-    {"varde": "100 %", "enhet": "", "etikett": "Fossilfria transporter"},
-    {"varde": "11", "enhet": "mil", "etikett": "Längsta väg för våra kistor"},
-    {"varde": "40", "enhet": "stenar", "etikett": "Återbrukade sedan 2022"}
+    {
+      "varde": "2008",
+      "enhet": "",
+      "etikett": "Året Sofia startade byrån"
+    },
+    {
+      "varde": "100 %",
+      "enhet": "",
+      "etikett": "Fossilfria transporter"
+    },
+    {
+      "varde": "11",
+      "enhet": "mil",
+      "etikett": "Längsta väg för våra kistor"
+    },
+    {
+      "varde": "40",
+      "enhet": "stenar",
+      "etikett": "Återbrukade sedan 2022"
+    }
   ],
   "projekt": [
-    {"namn": "Askspridning över Helgasjön", "ort": "Växjö", "typ": "Askspridning", "ar": "2025", "text": "Familjen rodde ut i två ekor en tidig septembermorgon, med tillstånd från länsstyrelsen.", "tagg": "natur"},
-    {"namn": "Ceremoni i hagen", "ort": "Rottne", "typ": "Borgerlig begravning", "ar": "2025", "text": "En fårbonde fick sitt avsked i den hage han slagit med lie i fyrtio år.", "tagg": "tradgard"},
-    {"namn": "Jordfästning i Växjö domkyrka", "ort": "Växjö", "typ": "Kyrklig begravning", "ar": "2025", "text": "Furukista och en bukett av vildäpple, rönnbär och ljung.", "tagg": "begravning"},
-    {"namn": "Återbrukad sten i Lenhovda", "ort": "Lenhovda", "typ": "Gravsten", "ar": "2024", "text": "En sten från 1890-talet slipades om och fick ny text för ett ungt par.", "tagg": "sten"},
-    {"namn": "Vegetarisk minnesstund", "ort": "Växjö", "typ": "Minnesstund", "ar": "2024", "text": "Soppa och surdegsbröd från ett bageri i Ingelstad för 55 gäster.", "tagg": "people"},
-    {"namn": "Urnsättning i Teleborgs minneslund", "ort": "Växjö", "typ": "Urnsättning", "ar": "2026", "text": "Urnan i lera från Kosta sattes ned under lindarna i maj.", "tagg": "natur", "status": "Genomförd"}
+    {
+      "namn": "Askspridning över Helgasjön",
+      "ort": "Växjö",
+      "typ": "Askspridning",
+      "ar": "2025",
+      "text": "Familjen rodde ut i två ekor en tidig septembermorgon, med tillstånd från länsstyrelsen.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Ceremoni i hagen",
+      "ort": "Rottne",
+      "typ": "Borgerlig begravning",
+      "ar": "2025",
+      "text": "En fårbonde fick sitt avsked i den hage han slagit med lie i fyrtio år.",
+      "tagg": "tradgard"
+    },
+    {
+      "namn": "Jordfästning i Växjö domkyrka",
+      "ort": "Växjö",
+      "typ": "Kyrklig begravning",
+      "ar": "2025",
+      "text": "Furukista och en bukett av vildäpple, rönnbär och ljung.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Återbrukad sten i Lenhovda",
+      "ort": "Lenhovda",
+      "typ": "Gravsten",
+      "ar": "2024",
+      "text": "En sten från 1890-talet slipades om och fick ny text för ett ungt par.",
+      "tagg": "sten"
+    },
+    {
+      "namn": "Vegetarisk minnesstund",
+      "ort": "Växjö",
+      "typ": "Minnesstund",
+      "ar": "2024",
+      "text": "Soppa och surdegsbröd från ett bageri i Ingelstad för 55 gäster.",
+      "tagg": "people"
+    },
+    {
+      "namn": "Urnsättning i Teleborgs minneslund",
+      "ort": "Växjö",
+      "typ": "Urnsättning",
+      "ar": "2026",
+      "text": "Urnan i lera från Kosta sattes ned under lindarna i maj.",
+      "tagg": "natur",
+      "status": "Genomförd"
+    }
   ],
   "process": [
-    {"titel": "Ett första samtal", "text": "Vi berättar vad som händer de närmaste dagarna och vilka val som går att göra – utan att något behöver bestämmas direkt.", "tagg": "begravning"},
-    {"titel": "Valen och vad de betyder", "text": "På mötet visar vi kistor, urnor och blommor och vad de innebär för miljön och priset.", "tagg": "tra"},
-    {"titel": "Ceremonin", "text": "I kyrkan, kapellet eller ute i det fria. Vi kör dit med elbil och är på plats hela dagen.", "tagg": "natur"},
-    {"titel": "Redovisningen", "text": "Ni får faktura, klimatredovisning och hjälp med det som återstår, som gravsten och bouppteckning.", "tagg": "kontor"}
+    {
+      "titel": "Första telefonsamtalet",
+      "text": "Vi berättar vad som händer de närmaste dagarna och vilka val som går att göra – utan att något behöver bestämmas direkt.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Valen och vad de betyder",
+      "text": "På mötet visar vi kistor, urnor och blommor och vad de innebär för miljön och priset.",
+      "tagg": "tra"
+    },
+    {
+      "titel": "Ceremonin",
+      "text": "I kyrkan, kapellet eller ute i det fria. Vi kör dit med elbil och är på plats hela dagen.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Redovisningen",
+      "text": "Ni får faktura, klimatredovisning och hjälp med det som återstår, som gravsten och bouppteckning.",
+      "tagg": "kontor"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Vi kan förklara varje val",
     "text": "Hagmarks är certifierade enligt ISO 14001 sedan 2014. Vi köper inga kistor med lack eller PVC, inga blommor som flugits in och kör alla transporter på el eller HVO. Varje år granskar en extern revisor att vi håller det vi lovar.",
-    "mal": [["0", "kistor med lack eller plast"], ["11 mil", "max transportväg för kistor"], ["100 %", "svenska blommor maj–oktober"]]
+    "mal": [
+      [
+        "0",
+        "kistor med lack eller plast"
+      ],
+      [
+        "11 mil",
+        "max transportväg för kistor"
+      ],
+      [
+        "100 %",
+        "svenska blommor maj–oktober"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Vill du arbeta med begravningar på ett annat sätt?",
     "text": "Vi söker sällan, men när vi gör det letar vi efter någon som är nyfiken på både människor och material. Alla nya medarbetare går SBF:s grundutbildning och vår egen miljöutbildning.",
-    "jobb": [["Begravningsrådgivare, 80 %", "Växjö"]]
+    "jobb": [
+      [
+        "Begravningsrådgivare, 80 %",
+        "Växjö"
+      ]
+    ]
   },
   "kultur": "Varje vår planterar hela byrån ett träd i Linnéparken för de familjer vi hjälpt året innan.",
-  "citat": {"text": "Ingen ska behöva välja mellan en fin begravning och en hållbar. Det går att få båda, om man bara får veta vad man väljer.", "namn": "Sofia Hagmark", "roll": "Grundare och vd", "tagg": "natur"},
+  "citat": {
+    "text": "Ingen ska behöva välja mellan en fin begravning och en hållbar. Det går att få båda, om man bara får veta vad man väljer.",
+    "namn": "Sofia Hagmark",
+    "roll": "Grundare och vd",
+    "tagg": "natur"
+  },
   "omdomen": [
-    {"text": "Mamma hade alltid sagt att hon inte ville bli begravd i en plastbåt. Furukistan med linne var precis henne.", "namn": "Kristina M.", "ort": "Växjö"},
-    {"text": "Sofia ordnade tillstånd att sprida pappas aska över sjön där han fiskat i hela sitt liv.", "namn": "Daniel H.", "ort": "Alvesta"},
-    {"text": "Vi fick välja en gammal gravsten som fick ny text. Den känns som om den alltid har stått där.", "namn": "Sara och Erik B.", "ort": "Lenhovda"}
+    {
+      "text": "Mamma hade alltid sagt att hon inte ville bli begravd i en plastbåt. Furukistan med linne var precis henne.",
+      "namn": "Kristina M.",
+      "ort": "Växjö"
+    },
+    {
+      "text": "Sofia ordnade tillstånd att sprida pappas aska över sjön där han fiskat i hela sitt liv.",
+      "namn": "Daniel H.",
+      "ort": "Alvesta"
+    },
+    {
+      "text": "Vi fick välja en gammal gravsten som fick ny text. Den känns som om den alltid har stått där.",
+      "namn": "Sara och Erik B.",
+      "ort": "Lenhovda"
+    }
   ],
   "faq": [
-    ["Kostar en miljövänlig begravning mer?", "Sällan. Furukistan och linnesvepningen ligger i samma prisklass som standardalternativen, och lokala blommor är ofta billigare än importerade."],
-    ["Får man sprida aska var som helst?", "Nej. Utanför kyrkogården krävs tillstånd från länsstyrelsen, och markägaren ska godkänna. Vi skriver ansökan och kontaktar markägaren åt er."],
-    ["Vad är klimatredovisningen?", "En sida där vi uppskattar utsläppen från transporter, kista, blommor och minnesstund, utifrån schabloner som vi tagit fram med en konsult. Den är ett stöd, inte en exakt mätning."],
-    ["Kan man begravas utan kista?", "I Sverige krävs kista vid kremering och jordbegravning. Däremot kan vi erbjuda mycket enkla kistor av furu eller kartongförstärkt trä."],
-    ["Vad är en återbrukad gravsten?", "En sten som lämnats tillbaka till kyrkogården när en gravrätt upphört. Den slipas om, får ny text och kan sättas på en ny grav efter kyrkogårdens godkännande."],
-    ["Ordnar ni kyrkliga begravningar också?", "Ja, ungefär hälften av våra begravningar hålls i kyrkor i Växjö stift. Miljövalen fungerar lika bra där."]
+    [
+      "Kostar en miljövänlig begravning mer?",
+      "Sällan. Furukistan och linnesvepningen ligger i samma prisklass som standardalternativen, och lokala blommor är ofta billigare än importerade."
+    ],
+    [
+      "Får man sprida aska var som helst?",
+      "Nej. Utanför kyrkogården krävs tillstånd från länsstyrelsen, och markägaren ska godkänna. Vi skriver ansökan och kontaktar markägaren åt er."
+    ],
+    [
+      "Vad är klimatredovisningen?",
+      "En sida där vi uppskattar utsläppen från transporter, kista, blommor och minnesstund, utifrån schabloner som vi tagit fram med en konsult. Den är ett stöd, inte en exakt mätning."
+    ],
+    [
+      "Kan man begravas utan kista?",
+      "I Sverige krävs kista vid kremering och jordbegravning. Däremot kan vi erbjuda mycket enkla kistor av furu eller kartongförstärkt trä."
+    ],
+    [
+      "Vad är en återbrukad gravsten?",
+      "En sten som lämnats tillbaka till kyrkogården när en gravrätt upphört. Den slipas om, får ny text och kan sättas på en ny grav efter kyrkogårdens godkännande."
+    ],
+    [
+      "Ordnar ni kyrkliga begravningar också?",
+      "Ja, ungefär hälften av våra begravningar hålls i kyrkor i Växjö stift. Miljövalen fungerar lika bra där."
+    ]
   ],
   "priser": [
-    {"namn": "Askspridning", "pris": "18 900 kr", "enhet": "inkl. ansökan", "text": "Kremering och spridning av askan i naturen eller över vatten.", "punkter": ["Obehandlad furukista", "Ansökan till länsstyrelsen", "Urna i lera eller papper", "Vi är med vid spridningen"]},
-    {"namn": "Naturnära begravning", "pris": "27 400 kr", "enhet": "kyrklig eller borgerlig", "text": "Vårt grundpaket med ceremoni och lokala material.", "punkter": ["Furukista och linnebädd", "Säsongens svenska blommor", "Elbil till ceremoni och grav", "Klimatredovisning"], "utvald": true},
-    {"namn": "Med minnesstund", "pris": "38 600 kr", "enhet": "för 40 gäster", "text": "Naturnära begravning med lokalproducerad minnesstund.", "punkter": ["Allt i Naturnära begravning", "Lokal och mat från Kronoberg", "Tryckt program på returpapper", "Återbrukad minnesbok"]}
+    {
+      "namn": "Askspridning",
+      "pris": "18 900 kr",
+      "enhet": "inkl. ansökan",
+      "text": "Kremering och spridning av askan i naturen eller över vatten.",
+      "punkter": [
+        "Obehandlad furukista",
+        "Ansökan till länsstyrelsen",
+        "Urna i lera eller papper",
+        "Vi är med vid spridningen"
+      ]
+    },
+    {
+      "namn": "Naturnära begravning",
+      "pris": "27 400 kr",
+      "enhet": "kyrklig eller borgerlig",
+      "text": "Vårt grundpaket med ceremoni och lokala material.",
+      "punkter": [
+        "Furukista och linnebädd",
+        "Säsongens svenska blommor",
+        "Elbil till ceremoni och grav",
+        "Klimatredovisning"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Med minnesstund",
+      "pris": "38 600 kr",
+      "enhet": "för 40 gäster",
+      "text": "Naturnära begravning med lokalproducerad minnesstund.",
+      "punkter": [
+        "Allt i Naturnära begravning",
+        "Lokal och mat från Kronoberg",
+        "Tryckt program på returpapper",
+        "Återbrukad minnesbok"
+      ]
+    }
   ],
   "certifikat": [
-    {"titel": "ISO 14001", "text": "Miljöledningssystem certifierat sedan 2014, med årlig extern revision.", "ikon": "lov"},
-    {"titel": "SBF-auktoriserade", "text": "Auktoriserade av Sveriges Begravningsbyråers Förbund.", "ikon": "skold"},
-    {"titel": "Svanenmärkt kista", "text": "Vår standardkista från Lessebo Kistsnickeri är Svanenmärkt.", "ikon": "trad"},
-    {"titel": "Fossilfria transporter", "text": "Elbilar och HVO100 för alla körningar, redovisat i vår årliga miljörapport.", "ikon": "laddning"}
+    {
+      "titel": "ISO 14001",
+      "text": "Miljöledningssystem certifierat sedan 2014, med årlig extern revision.",
+      "ikon": "lov"
+    },
+    {
+      "titel": "SBF-auktoriserade",
+      "text": "Auktoriserade av Sveriges Begravningsbyråers Förbund.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Svanenmärkt kista",
+      "text": "Vår standardkista från Lessebo Kistsnickeri är Svanenmärkt.",
+      "ikon": "trad"
+    },
+    {
+      "titel": "Fossilfria transporter",
+      "text": "Elbilar och HVO100 för alla körningar, redovisat i vår årliga miljörapport.",
+      "ikon": "laddning"
+    }
   ],
-  "kunder": ["Växjö stifts gravvårdsråd", "Kronobergs Naturskyddsförening", "Lessebo Kistsnickeri", "Brf Linnéträdet", "Rottne Gårdsförening", "Teleborgs Seniorboende", "Helgasjöns Fiskevårdsområde"],
+  "kunder": [
+    "Växjö stifts gravvårdsråd",
+    "Kronobergs Naturskyddsförening",
+    "Lessebo Kistsnickeri",
+    "Brf Linnéträdet",
+    "Rottne Gårdsförening",
+    "Teleborgs Seniorboende",
+    "Helgasjöns Fiskevårdsområde"
+  ],
   "nyheter": [
-    ["2026-09-30", "Klimatredovisning till alla familjer", "Så räknar vi – och varför siffrorna är ungefärliga.", "natur"],
-    ["2026-04-22", "Furukistan har fått Svanenmärket", "Lessebo Kistsnickeri är först i Kronoberg med en Svanenmärkt kista.", "tra"],
-    ["2025-10-15", "Fyrtionde återbrukade stenen på plats", "En sten från 1912 står nu på Norra kyrkogården i Växjö med nytt namn.", "sten"]
+    [
+      "2026-09-30",
+      "Klimatredovisning till alla familjer",
+      "Så räknar vi – och varför siffrorna är ungefärliga.",
+      "natur"
+    ],
+    [
+      "2026-04-22",
+      "Furukistan har fått Svanenmärket",
+      "Lessebo Kistsnickeri är först i Kronoberg med en Svanenmärkt kista.",
+      "tra"
+    ],
+    [
+      "2025-10-15",
+      "Fyrtionde återbrukade stenen på plats",
+      "En sten från 1912 står nu på Norra kyrkogården i Växjö med nytt namn.",
+      "sten"
+    ]
   ],
-  "kontakt": {"adress": "Storgatan 11", "postnr": "352 31", "ort": "Växjö", "telefon": "070-174 06 53", "epost": "hej@hagmarks.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Storgatan 11",
+    "postnr": "352 31",
+    "ort": "Växjö",
+    "telefon": "070-174 06 53",
+    "epost": "hej@hagmarks.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 8–16.30, telefon dygnet runt",
   "omrade": "Växjö, Alvesta, Lessebo, Uppvidinge och Tingsryd",
   "fot_cta": "Undrar ni vad som går att välja? Ring oss, så berättar vi.",

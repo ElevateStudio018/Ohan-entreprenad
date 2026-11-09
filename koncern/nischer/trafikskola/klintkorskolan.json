@@ -86,15 +86,15 @@
     ["Hur tar jag mig till Visby?", "Med färjan från Nynäshamn eller Oskarshamn, eller med flyg från Bromma. Vi hämtar vid terminalen eller flygplatsen."],
     ["Måste jag bo i elevhuset?", "Nej. Du kan bo hos släkt på ön eller i egen stuga, och då blir kursen 6 000 kronor billigare."],
     ["Kan jag ta automat på intensivkurs?", "Ja, två av våra sju bilar är automatväxlade. Säg till när du bokar."],
-    ["Hur gammal måste jag vara?", "Du måste ha fyllt 18 år när körprovet görs. Många bokar sommaren efter gymnasiet."]
+    ["Finns det en åldersgräns?", "Du måste ha fyllt 18 år när körprovet görs. Många bokar sommaren efter gymnasiet."]
   ],
   "priser": [
-    {"namn": "Gotlandsveckan", "pris": "14 900 kr", "enhet": "10 dagar utan boende", "text": "För dig som har övningskört hemma.", "punkter": ["14 lektioner à 40 minuter", "Bedömningslektion första dagen", "Lån av bil till körprovet", "Hämtning vid färjan"]},
+    {"namn": "Gotlandsveckan", "pris": "14 900 kr", "enhet": "10 dagar utan boende", "text": "För dig som har övningskört hemma.", "punkter": ["14 lektioner à 40 minuter", "Bedömningslektion första dagen", "Skolans bil på provdagen", "Hämtning vid färjan"]},
     {"namn": "Intensiv 14 dagar", "pris": "36 900 kr", "enhet": "med boende i Visby", "text": "Från noll till körprov på två veckor.", "punkter": ["28 lektioner à 40 minuter", "Risk 1 och halkbanan i Slite", "13 nätter i elevhuset", "Teori på distans innan resan"], "utvald": true},
-    {"namn": "Intensiv 10 dagar", "pris": "24 900 kr", "enhet": "med boende i Visby", "text": "För dig som kört en del men inte är redo för provet.", "punkter": ["20 lektioner à 40 minuter", "Risk 1 och halkbanan i Slite", "9 nätter i elevhuset", "Lån av bil till körprovet"]}
+    {"namn": "Intensiv 10 dagar", "pris": "24 900 kr", "enhet": "med boende i Visby", "text": "För dig som kört en del men inte är redo för provet.", "punkter": ["Tjugo lektioner om 40 minuter", "Risk 1 och halkbanan i Slite", "9 nätter i elevhuset", "Provbil och uppvärmning"]}
   ],
   "certifikat": [
-    {"titel": "Trafikskoletillstånd", "text": "Tillstånd från Transportstyrelsen att bedriva trafikskola för behörighet B.", "ikon": "dokument"},
+    {"titel": "Trafikskoletillstånd", "text": "Transportstyrelsens tillstånd för personbil, med intensivkurser sedan 2011.", "ikon": "dokument"},
     {"titel": "Riskutbildning del 1 och 2", "text": "Godkända att hålla riskettan och halkbanan, med certifierade instruktörer.", "ikon": "skold"},
     {"titel": "Medlem i STR", "text": "Medlem i Sveriges Trafikutbildares Riksförbund sedan starten 2011.", "ikon": "folk"},
     {"titel": "Tryggt elevhus", "text": "Elevhuset har sammankopplade brandlarm, utrymningsplan och ansvarsförsäkring för uthyrning.", "ikon": "hus"}

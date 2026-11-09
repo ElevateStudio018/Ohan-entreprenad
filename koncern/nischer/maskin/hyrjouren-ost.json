@@ -73,7 +73,7 @@
     "jobb": [["Lastbilschaufför med kran", "Norrköping"], ["Elektriker med beredskap", "Norrköping"], ["Depåmedarbetare tidigt skift", "Linköping"]]
   },
   "kultur": "Den som haft nattjour slutar klockan elva dagen efter, och kaffet i depån är bryggt klockan fem.",
-  "citat": {"text": "Folk ringer oss när något har gått fel och de inte vet vad de ska göra. Då ska det svara en människa som vet exakt vad som ska lastas på bilen.", "namn": "Mats Engdahl", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Folk ringer oss när något har gått fel och de inte vet vad de ska göra. Då ska det svara en människa som vet exakt vad som ska lastas på bilen.", "namn": "Mats Engdahl", "roll": "Grundare, går fortfarande jourpass", "tagg": "people"},
   "omdomen": [
     {"text": "Strömmen gick på vårdboendet en söndagskväll. Elverket var inkopplat innan vi hunnit ringa runt till anhöriga.", "namn": "Karin W.", "ort": "Kimstad"},
     {"text": "Vi hämtar alltid kvart i sex. Grävaren står varm vid kajen och vi är på bygget innan resten av stan vaknat.", "namn": "Henrik A.", "ort": "Norrköping"},
@@ -88,7 +88,7 @@
     ["Kan försäkringsbolaget betala?", "Vid vattenskada ringer du först ditt försäkringsbolag. Vi har avtal med tre skadeserviceföretag och fakturerar dem direkt när de beställer."]
   ],
   "priser": [
-    {"namn": "Minigrävare 1,8 t", "pris": "1 190 kr", "enhet": "per dygn, hämtas på depån", "text": "Den mest uthyrda maskinen för planerade jobb.", "punkter": ["Tre skopor och tiltskopa", "Hämtas från 05.30", "Släp för 290 kr per dygn", "Veckopris 4 900 kr"]},
+    {"namn": "Planerad hyra", "pris": "1 190 kr", "enhet": "per dygn, hämtas från 05.30", "text": "Minigrävare 1,8 ton – den mest uthyrda maskinen för planerade jobb.", "punkter": ["Tre skopor och tiltskopa", "Hämtas från 05.30", "Släp för 290 kr per dygn", "Veckopris 4 900 kr"]},
     {"namn": "Akutpaket vatten", "pris": "2 900 kr", "enhet": "per dygn + utkörning", "text": "Pumpar, avfuktare och fläktar för en översvämmad källare.", "punkter": ["Två länspumpar 400 l/min", "Två kondensavfuktare", "Två byggfläktar", "Tömning och tillsyn varje dygn"], "utvald": true},
     {"namn": "Reservkraft 40 kVA", "pris": "2 400 kr", "enhet": "per dygn + utkörning", "text": "Elverk för gård, butik eller mindre fastighet.", "punkter": ["Inkoppling av elektriker: 1 950 kr", "Tank för 24 timmars drift", "Tankning på plats", "Diesel debiteras efter förbrukning"]}
   ],
@@ -99,7 +99,7 @@
   "certifikat": [
     {"titel": "Registrerat elinstallationsföretag", "text": "Vi är registrerade hos Elsäkerhetsverket och har egen elektriker med auktorisation för inkoppling av reservkraft.", "ikon": "blixt"},
     {"titel": "Avtal med skadeservice", "text": "Ramavtal med tre skadeserviceföretag som arbetar åt de stora försäkringsbolagen i Östergötland.", "ikon": "dokument"},
-    {"titel": "Arbete på väg", "text": "Chaufförerna har Trafikverkets utbildning för att ställa upp maskiner och belysning längs väg.", "ikon": "vag"},
+    {"titel": "Utbildade för arbete på väg", "text": "Chaufförerna har Trafikverkets utbildning för att ställa upp maskiner och belysning längs väg.", "ikon": "vag"},
     {"titel": "Kranförarbevis och YKB", "text": "Alla chaufförer har utbildning för lastbilskran och yrkeskompetensbevis för godstransport.", "ikon": "kran"}
   ],
   "kunder": ["Brf Ektorpsgården", "Östgöta Skadeservice", "Söderköpings kommun, gata och park", "Kimstads Vårdboende", "Vikbolandets Lantmän", "Butängens Byggservice", "Ryds Fastighetsförvaltning"],

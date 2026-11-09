@@ -17,111 +17,495 @@
   ],
   "vagval_rubrik": "Hur kan vi hjälpa er?",
   "tjanster": [
-    {"titel": "Begravning med ceremoni", "ikon": "kors", "href": "verksamhet.html", "text": "Kyrklig, borgerlig eller i frikyrka – till ett fast pris som står på hemsidan."},
-    {"titel": "Direktkremation", "ikon": "lov", "href": "verksamhet.html", "text": "Utan ceremoni, med möjlighet till minnesstund senare när familjen kan samlas."},
-    {"titel": "Planera online", "ikon": "laddning", "href": "verksamhet.html", "text": "Välj kista, blommor och musik i vår planeringstjänst och signera med BankID."},
-    {"titel": "Livesänd ceremoni", "ikon": "kamera", "href": "verksamhet.html", "text": "För släkt i Stockholm eller utomlands – sändningen ligger kvar i 30 dagar."},
-    {"titel": "Bouppteckning", "ikon": "dokument", "href": "verksamhet.html", "text": "Fyra handläggare i Umeå sköter bouppteckningar åt alla elva kontor."},
-    {"titel": "Gravsten", "ikon": "sten", "href": "verksamhet.html", "text": "Stenar i norrländsk granit, levererade till alla kyrkogårdar i båda länen."},
-    {"titel": "Hitta ditt kontor", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Adresser och rådgivare på alla elva orter."},
-    {"titel": "Jour dygnet runt", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Jourcentralen i Umeå svarar för alla kontor, natt som dag."}
+    {
+      "titel": "Begravning med ceremoni",
+      "ikon": "kors",
+      "href": "verksamhet.html",
+      "text": "Kyrklig, borgerlig eller i frikyrka – till ett fast pris som står på hemsidan."
+    },
+    {
+      "titel": "Direktkremation",
+      "ikon": "lov",
+      "href": "verksamhet.html",
+      "text": "Utan ceremoni, med möjlighet till minnesstund senare när familjen kan samlas."
+    },
+    {
+      "titel": "Planera online",
+      "ikon": "laddning",
+      "href": "verksamhet.html",
+      "text": "Välj kista, blommor och musik i vår planeringstjänst och signera med BankID."
+    },
+    {
+      "titel": "Livesänd ceremoni",
+      "ikon": "kamera",
+      "href": "verksamhet.html",
+      "text": "För släkt i Stockholm eller utomlands – sändningen ligger kvar i 30 dagar."
+    },
+    {
+      "titel": "Bouppteckning",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "Fyra handläggare i Umeå sköter bouppteckningar åt alla elva kontor."
+    },
+    {
+      "titel": "Gravsten",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Stenar i norrländsk granit, levererade till alla kyrkogårdar i båda länen."
+    },
+    {
+      "titel": "Hitta ditt kontor",
+      "ikon": "karta",
+      "href": "om-oss.html#kontakt",
+      "text": "Adresser och rådgivare på alla elva orter."
+    },
+    {
+      "titel": "Jour dygnet runt",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Jourcentralen i Umeå svarar för alla kontor, natt som dag."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Begravning till fast pris", "text": "Våra tre paket innehåller allt som behövs för en värdig begravning, och priset är detsamma i Kiruna som i Örnsköldsvik. Tillval som extra blommor eller annons i fler tidningar står också i prislistan.", "text2": "Ni ser totalkostnaden innan ni bestämmer er – inga avgifter tillkommer i efterhand.", "tagg": "begravning"},
-    {"titel": "Digital planering", "text": "Familjer som bor långt ifrån varandra kan planera tillsammans i vår webbtjänst. Rådgivaren ser samma vy och hjälper till per telefon eller video.", "text2": "Avtalet signeras med BankID av alla dödsbodelägare, var de än bor.", "tagg": "kontor"},
-    {"titel": "Juridik för dödsboet", "text": "Juristavdelningen i Umeå gör omkring 900 bouppteckningar om året. Vi tar fram underlag från banker, Försäkringskassan och Pensionsmyndigheten.", "text2": "Arvskifte och försäljning av fritidshus görs i samarbete med lokala mäklare.", "tagg": "kontor"},
-    {"titel": "Minnesstunder i hela Norrland", "text": "Vi har avtal med församlingshem, bygdegårdar och hotell på alla elva orter. I Skellefteå, Lycksele och Gällivare har vi egna minneslokaler.", "text2": "Gäster som inte kan resa kan följa ceremonin via vår livesändning.", "tagg": "people"}
+    {
+      "titel": "Begravning till fast pris",
+      "text": "Våra tre paket innehåller allt som behövs för en värdig begravning, och priset är detsamma i Kiruna som i Örnsköldsvik. Tillval som extra blommor eller annons i fler tidningar står också i prislistan.",
+      "text2": "Ni ser totalkostnaden innan ni bestämmer er – inga avgifter tillkommer i efterhand.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Digital planering",
+      "text": "Familjer som bor långt ifrån varandra kan planera tillsammans i vår webbtjänst. Rådgivaren ser samma vy och hjälper till per telefon eller video.",
+      "text2": "Avtalet signeras med BankID av alla dödsbodelägare, var de än bor.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Juridik för dödsboet",
+      "text": "Juristavdelningen i Umeå gör omkring 900 bouppteckningar om året. Vi tar fram underlag från banker, Försäkringskassan och Pensionsmyndigheten.",
+      "text2": "Arvskifte och försäljning av fritidshus görs i samarbete med lokala mäklare.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Minnesstunder i hela Norrland",
+      "text": "Vi har avtal med församlingshem, bygdegårdar och hotell på alla elva orter. I Skellefteå, Lycksele och Gällivare har vi egna minneslokaler.",
+      "text2": "Gäster som inte kan resa kan följa ceremonin via vår livesändning.",
+      "tagg": "people"
+    }
   ],
   "bolag": [
-    {"namn": "Nordanljus Umeå och Södra Lappland", "segment": "Umeå, Vännäs, Lycksele, Robertsfors", "rubrik": "Huvudkontor, jourcentral och juridik", "text": "34 medarbetare, varav fyra jurister och åtta jourchaufförer. Härifrån svarar vi i telefon för alla elva kontor.", "tagg": "kontor"},
-    {"namn": "Nordanljus Skellefteå", "segment": "Skellefteå och Norsjö", "rubrik": "Den snabbast växande regionen", "text": "Tolv rådgivare och en egen minneslokal på Kanalgatan. Antalet begravningar har ökat med en tredjedel sedan 2022.", "tagg": "begravning"},
-    {"namn": "Nordanljus Norrbotten", "segment": "Luleå, Piteå, Boden, Kiruna, Gällivare", "rubrik": "Fem kontor längs kust och malmbana", "text": "26 medarbetare. I Kiruna har vi ordnat flera begravningar på samiska och meänkieli tillsammans med familjerna.", "tagg": "natur"},
-    {"namn": "Nordanljus Höga kusten", "segment": "Örnsköldsvik", "rubrik": "Sydligaste kontoret", "text": "Tolv medarbetare som också tar uppdrag i Kramfors och Sollefteå.", "tagg": "begravning"}
+    {
+      "namn": "Nordanljus Umeå och Södra Lappland",
+      "segment": "Umeå, Vännäs, Lycksele, Robertsfors",
+      "rubrik": "Huvudkontor, jourcentral och juridik",
+      "text": "34 medarbetare, varav fyra jurister och åtta jourchaufförer. Härifrån svarar vi i telefon för alla elva kontor.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Nordanljus Skellefteå",
+      "segment": "Skellefteå och Norsjö",
+      "rubrik": "Den snabbast växande regionen",
+      "text": "Tolv rådgivare och en egen minneslokal på Kanalgatan. Antalet begravningar har ökat med en tredjedel sedan 2022.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Nordanljus Norrbotten",
+      "segment": "Luleå, Piteå, Boden, Kiruna, Gällivare",
+      "rubrik": "Fem kontor längs kust och malmbana",
+      "text": "26 medarbetare. I Kiruna har vi ordnat flera begravningar på samiska och meänkieli tillsammans med familjerna.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Nordanljus Höga kusten",
+      "segment": "Örnsköldsvik",
+      "rubrik": "Sydligaste kontoret",
+      "text": "Tolv medarbetare som också tar uppdrag i Kramfors och Sollefteå.",
+      "tagg": "begravning"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Elfte kontoret har öppnat i Gällivare", "text": "Två rådgivare från orten och en minneslokal på Storgatan för 50 gäster.", "tagg": "begravning"},
-    {"rubrik": "Var femte ceremoni livesänds", "text": "Under 2026 har 410 familjer valt att sända ceremonin till släkt som inte kunde resa.", "tagg": "people"},
-    {"rubrik": "Prislistan uppdaterad för 2027", "text": "Paketpriserna höjs med 2,1 procent – mindre än inflationen för andra året i rad.", "tagg": "kontor"}
+    {
+      "rubrik": "Elfte kontoret har öppnat i Gällivare",
+      "text": "Två rådgivare från orten och en minneslokal på Storgatan för 50 gäster.",
+      "tagg": "begravning"
+    },
+    {
+      "rubrik": "Var femte ceremoni livesänds",
+      "text": "Under 2026 har 410 familjer valt att sända ceremonin till släkt som inte kunde resa.",
+      "tagg": "people"
+    },
+    {
+      "rubrik": "Prislistan uppdaterad för 2027",
+      "text": "Paketpriserna höjs med 2,1 procent – mindre än inflationen för andra året i rad.",
+      "tagg": "kontor"
+    }
   ],
   "nyckeltal": [
-    {"varde": "11", "enhet": "kontor", "etikett": "I två län och Höga kusten"},
-    {"varde": "84", "enhet": "", "etikett": "Medarbetare"},
-    {"varde": "2 100", "enhet": "per år", "etikett": "Begravningar"},
-    {"varde": "900", "enhet": "per år", "etikett": "Bouppteckningar"}
+    {
+      "varde": "11",
+      "enhet": "kontor",
+      "etikett": "I två län och Höga kusten"
+    },
+    {
+      "varde": "84",
+      "enhet": "",
+      "etikett": "Medarbetare"
+    },
+    {
+      "varde": "2 100",
+      "enhet": "per år",
+      "etikett": "Begravningar"
+    },
+    {
+      "varde": "900",
+      "enhet": "per år",
+      "etikett": "Bouppteckningar"
+    }
   ],
   "projekt": [
-    {"namn": "Begravning i Kiruna kyrka", "ort": "Kiruna", "typ": "Kyrklig begravning", "ar": "2026", "text": "Ceremoni på svenska och nordsamiska, med jojk framförd av ett barnbarn.", "tagg": "begravning", "status": "Genomförd"},
-    {"namn": "Livesänd ceremoni i Skellefteå", "ort": "Skellefteå", "typ": "Borgerlig begravning", "ar": "2025", "text": "120 personer i Sverige, Kanada och Australien följde ceremonin i Skellefteå krematoriums kapell.", "tagg": "people"},
-    {"namn": "Minnesstund i Lycksele", "ort": "Lycksele", "typ": "Minnesstund", "ar": "2025", "text": "Sjuttio gäster i vår minneslokal på Storgatan efter en jordfästning i Lycksele kyrka.", "tagg": "people"},
-    {"namn": "Direktkremation med senare samling", "ort": "Luleå", "typ": "Direktkremation", "ar": "2025", "text": "Familjen samlades i Gammelstads kyrkby tre månader senare, när alla kunde komma hem.", "tagg": "natur"},
-    {"namn": "Jordfästning i Robertsfors", "ort": "Robertsfors", "typ": "Kyrklig begravning", "ar": "2024", "text": "En skogsarbetare begravdes med motorsågen i trä, snidad av en arbetskamrat, på kistan.", "tagg": "begravning"},
-    {"namn": "Urnnedsättning vid Höga kusten", "ort": "Örnsköldsvik", "typ": "Urnsättning", "ar": "2024", "text": "Urnan sattes ned i Arnäs minneslund en klar oktobermorgon.", "tagg": "natur"}
+    {
+      "namn": "Begravning i Kiruna kyrka",
+      "ort": "Kiruna",
+      "typ": "Kyrklig begravning",
+      "ar": "2026",
+      "text": "Ceremoni på svenska och nordsamiska, med jojk framförd av ett barnbarn.",
+      "tagg": "begravning",
+      "status": "Genomförd"
+    },
+    {
+      "namn": "Livesänd ceremoni i Skellefteå",
+      "ort": "Skellefteå",
+      "typ": "Borgerlig begravning",
+      "ar": "2025",
+      "text": "120 personer i Sverige, Kanada och Australien följde ceremonin i Skellefteå krematoriums kapell.",
+      "tagg": "people"
+    },
+    {
+      "namn": "Minnesstund i Lycksele",
+      "ort": "Lycksele",
+      "typ": "Minnesstund",
+      "ar": "2025",
+      "text": "Sjuttio gäster i vår minneslokal på Storgatan efter en jordfästning i Lycksele kyrka.",
+      "tagg": "people"
+    },
+    {
+      "namn": "Direktkremation med senare samling",
+      "ort": "Luleå",
+      "typ": "Direktkremation",
+      "ar": "2025",
+      "text": "Familjen samlades i Gammelstads kyrkby tre månader senare, när alla kunde komma hem.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Jordfästning i Robertsfors",
+      "ort": "Robertsfors",
+      "typ": "Kyrklig begravning",
+      "ar": "2024",
+      "text": "En skogsarbetare begravdes med motorsågen i trä, snidad av en arbetskamrat, på kistan.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Urnnedsättning vid Höga kusten",
+      "ort": "Örnsköldsvik",
+      "typ": "Urnsättning",
+      "ar": "2024",
+      "text": "Urnan sattes ned i Arnäs minneslund en klar oktobermorgon.",
+      "tagg": "natur"
+    }
   ],
   "process": [
-    {"titel": "Samtal med jourcentralen", "text": "Ni ringer ett nummer, vilken tid som helst. Jouren ordnar hämtning och kopplar er till rådgivaren på er ort nästa vardag.", "tagg": "kontor"},
-    {"titel": "Välj paket", "text": "På mötet – på kontoret, hemma eller via video – går vi igenom de tre paketen och eventuella tillval.", "tagg": "begravning"},
-    {"titel": "Planera tillsammans", "text": "Alla i familjen får inloggning till planeringen och kan se program, musik och gästlista växa fram.", "tagg": "people"},
-    {"titel": "Ceremoni och avslut", "text": "Rådgivaren är på plats. Efteråt tar juristerna över bouppteckningen om ni vill.", "tagg": "begravning"}
+    {
+      "titel": "Samtal med jourcentralen",
+      "text": "Ni ringer ett nummer, vilken tid som helst. Jouren ordnar hämtning och kopplar er till rådgivaren på er ort nästa vardag.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Välj paket",
+      "text": "På mötet – på kontoret, hemma eller via video – går vi igenom de tre paketen och eventuella tillval.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Planera tillsammans",
+      "text": "Alla i familjen får inloggning till planeringen och kan se program, musik och gästlista växa fram.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Ceremoni och avslut",
+      "text": "Rådgivaren är på plats. Efteråt tar juristerna över bouppteckningen om ni vill.",
+      "tagg": "begravning"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Samma pris i Kiruna som i Umeå",
     "text": "Vi tycker inte att en begravning ska kosta mer för att man bor långt från stan. Därför gäller samma prislista på alla kontor, och körning inom kontorets kommun ingår alltid. Varje år redovisar vi hur många familjer som betalade exakt det pris de fick vid första mötet.",
-    "mal": [["98 %", "av fakturorna stämde med offerten 2025"], ["0 kr", "för körning inom kommunen"], ["30 dgr", "tillgång till livesändningen"]]
+    "mal": [
+      [
+        "98 %",
+        "av fakturorna stämde med offerten 2025"
+      ],
+      [
+        "0 kr",
+        "för körning inom kommunen"
+      ],
+      [
+        "30 dgr",
+        "tillgång till livesändningen"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Vi växer – på elva orter",
     "text": "Vi anställer rådgivare som bor på orten och utbildar dem själva, med SBF:s diplomutbildning och tre månaders introduktion i Umeå. Jourchaufförer arbetar i rullande schema med två veckors framförhållning.",
-    "jobb": [["Begravningsrådgivare", "Gällivare"], ["Begravningsrådgivare", "Skellefteå"], ["Bouppteckningshandläggare", "Umeå"], ["Jourchaufför, natt", "Luleå"]]
+    "jobb": [
+      [
+        "Begravningsrådgivare",
+        "Gällivare"
+      ],
+      [
+        "Begravningsrådgivare",
+        "Skellefteå"
+      ],
+      [
+        "Bouppteckningshandläggare",
+        "Umeå"
+      ],
+      [
+        "Jourchaufför, natt",
+        "Luleå"
+      ]
+    ]
   },
   "kultur": "Alla nyanställda följer jouren i Umeå en vecka, så att de vet vad som händer när en familj ringer klockan tre på natten.",
-  "citat": {"text": "Vi var sex små byråer som var rädda att försvinna. Tillsammans kan vi ha jour, jurister och öppna priser – och ändå vara den lokala byrån på orten.", "namn": "Annika Lindgren", "roll": "Vd, tidigare ägare av byrån i Lycksele", "tagg": "kontor"},
+  "citat": {
+    "text": "Vi var sex små byråer som var rädda att försvinna. Tillsammans kan vi ha jour, jurister och öppna priser – och ändå vara den lokala byrån på orten.",
+    "namn": "Annika Lindgren",
+    "roll": "Vd, tidigare ägare av byrån i Lycksele",
+    "tagg": "kontor"
+  },
   "omdomen": [
-    {"text": "Vi syskon bor i Malmö, Oslo och Gällivare. Att kunna planera pappas begravning i samma webbtjänst och skriva under med BankID gjorde allt möjligt.", "namn": "Maria P.", "ort": "Gällivare"},
-    {"text": "Priset vi såg på hemsidan var det vi betalade. Ingen överraskning på slutfakturan.", "namn": "Tommy Å.", "ort": "Skellefteå"},
-    {"text": "Farmor i Toronto kunde följa ceremonin och sa efteråt att hon kände sig som om hon satt i kyrkbänken.", "namn": "Elin N.", "ort": "Piteå"}
+    {
+      "text": "Vi syskon bor i Malmö, Oslo och Gällivare. Att kunna planera pappas begravning i samma webbtjänst och skriva under med BankID gjorde allt möjligt.",
+      "namn": "Maria P.",
+      "ort": "Gällivare"
+    },
+    {
+      "text": "Priset vi såg på hemsidan var det vi betalade. Ingen överraskning på slutfakturan.",
+      "namn": "Tommy Å.",
+      "ort": "Skellefteå"
+    },
+    {
+      "text": "Farmor i Toronto kunde följa ceremonin och sa efteråt att hon kände sig som om hon satt i kyrkbänken.",
+      "namn": "Elin N.",
+      "ort": "Piteå"
+    }
   ],
   "faq": [
-    ["Varför har ni samma pris överallt?", "Vi delar jour, juridik och inköp mellan elva kontor. Det gör att vi kan hålla samma prislista oavsett ort, och körning inom kommunen ingår."],
-    ["Vad ingår i paketet Begravning med ceremoni?", "Hämtning, kista i furu, svepning, transport, ceremonibukett, annons i en lokaltidning, program, rådgivning och vår närvaro under ceremonin."],
-    ["Hur fungerar livesändningen?", "Vi filmar med en fast kamera längst bak i kyrkan eller kapellet. Familjen får en länk som kan delas och som fungerar i 30 dagar."],
-    ["Kan vi planera allt digitalt?", "Ja, men de flesta vill ändå träffa sin rådgivare minst en gång. Mötet kan ske hemma, på kontoret eller via video."],
-    ["Måste alla dödsbodelägare skriva under?", "För att vi ska kunna fakturera dödsboet behöver en företrädare signera. Vi rekommenderar att alla delägare får se avtalet, och det går att göra med BankID."],
-    ["Hur lång tid tar en bouppteckning hos er?", "Vanligtvis sex till tio veckor från att vi har fått alla underlag. Förrättningen kan hållas på video om delägarna bor långt ifrån varandra."]
+    [
+      "Varför har ni samma pris överallt?",
+      "Vi delar jour, juridik och inköp mellan elva kontor. Det gör att vi kan hålla samma prislista oavsett ort, och körning inom kommunen ingår."
+    ],
+    [
+      "Vad ingår i paketet Begravning med ceremoni?",
+      "Hämtning, kista i furu, svepning, transport, ceremonibukett, annons i en lokaltidning, program, rådgivning och vår närvaro under ceremonin."
+    ],
+    [
+      "Hur fungerar livesändningen?",
+      "Vi filmar med en fast kamera längst bak i kyrkan eller kapellet. Familjen får en länk som kan delas och som fungerar i 30 dagar."
+    ],
+    [
+      "Kan vi planera allt digitalt?",
+      "Ja, men de flesta vill ändå träffa sin rådgivare minst en gång. Mötet kan ske hemma, på kontoret eller via video."
+    ],
+    [
+      "Måste alla dödsbodelägare skriva under?",
+      "För att vi ska kunna fakturera dödsboet behöver en företrädare signera. Vi rekommenderar att alla delägare får se avtalet, och det går att göra med BankID."
+    ],
+    [
+      "Hur lång tid tar en bouppteckning hos er?",
+      "Vanligtvis sex till tio veckor från att vi har fått alla underlag. Förrättningen kan hållas på video om delägarna bor långt ifrån varandra."
+    ]
   ],
   "priser": [
-    {"namn": "Direktkremation", "pris": "14 900 kr", "enhet": "fast pris", "text": "Utan ceremoni. Passar familjer som vill samlas senare eller inte alls.", "punkter": ["Hämtning och svepning", "Kista i obehandlad furu", "Transport till krematoriet", "Hjälp med urnsättning"]},
-    {"namn": "Begravning med ceremoni", "pris": "29 900 kr", "enhet": "fast pris", "text": "Vårt vanligaste paket, kyrkligt eller borgerligt.", "punkter": ["Allt i Direktkremation", "Ceremonibukett och program", "Dödsannons i en tidning", "Rådgivare på plats under ceremonin"], "utvald": true},
-    {"namn": "Ceremoni och minnesstund", "pris": "42 500 kr", "enhet": "fast pris för 40 gäster", "text": "Begravning med ceremoni och minnesstund i lokal på orten.", "punkter": ["Allt i Begravning med ceremoni", "Lokal och servering för 40 gäster", "Livesändning av ceremonin", "Tackkort och minnesbok"]}
+    {
+      "namn": "Direktkremation",
+      "pris": "14 900 kr",
+      "enhet": "fast pris",
+      "text": "Utan ceremoni. Passar familjer som vill samlas senare eller inte alls.",
+      "punkter": [
+        "Hämtning och svepning",
+        "Kista i obehandlad furu",
+        "Transport till krematoriet",
+        "Hjälp med urnsättning"
+      ]
+    },
+    {
+      "namn": "Begravning med ceremoni",
+      "pris": "29 900 kr",
+      "enhet": "fast pris",
+      "text": "Vårt vanligaste paket, kyrkligt eller borgerligt.",
+      "punkter": [
+        "Allt i Direktkremation",
+        "Ceremonibukett och program",
+        "Dödsannons i en tidning",
+        "Rådgivare på plats under ceremonin"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Ceremoni och minnesstund",
+      "pris": "42 500 kr",
+      "enhet": "fast pris för 40 gäster",
+      "text": "Begravning med ceremoni och minnesstund i lokal på orten.",
+      "punkter": [
+        "Allt i Begravning med ceremoni",
+        "Lokal och servering för 40 gäster",
+        "Livesändning av ceremonin",
+        "Tackkort och minnesbok"
+      ]
+    }
   ],
-  "prislista": [["Livesändning, som tillval", "2 400 kr"], ["Extra gäst på minnesstund", "245 kr"], ["Annons i ytterligare tidning", "fr. 2 900 kr"], ["Kista i vitlackerad furu", "4 800 kr"], ["Bouppteckning", "fr. 6 400 kr"], ["Dödsboanmälan", "1 900 kr"], ["Gravsten i granit, inkl. text", "fr. 16 500 kr"]],
+  "prislista": [
+    [
+      "Livesändning, som tillval",
+      "2 400 kr"
+    ],
+    [
+      "Extra gäst på minnesstund",
+      "245 kr"
+    ],
+    [
+      "Annons i ytterligare tidning",
+      "fr. 2 900 kr"
+    ],
+    [
+      "Kista i vitlackerad furu",
+      "4 800 kr"
+    ],
+    [
+      "Bouppteckning",
+      "fr. 6 400 kr"
+    ],
+    [
+      "Dödsboanmälan",
+      "1 900 kr"
+    ],
+    [
+      "Gravsten i granit, inkl. text",
+      "fr. 16 500 kr"
+    ]
+  ],
   "certifikat": [
-    {"titel": "SBF-auktoriserade kontor", "text": "Alla elva kontor är auktoriserade av Sveriges Begravningsbyråers Förbund.", "ikon": "skold"},
-    {"titel": "ISO 9001", "text": "Kvalitetsledningssystem certifierat sedan 2019 och reviderat årligen.", "ikon": "kugge"},
-    {"titel": "Öppen prislista", "text": "Alla paket och tillval publiceras på hemsidan och gäller i hela vårt område.", "ikon": "dokument"},
-    {"titel": "Kollektivavtal", "text": "Samtliga 84 medarbetare omfattas av kollektivavtal och tjänstepension.", "ikon": "folk"}
+    {
+      "titel": "SBF-auktoriserade kontor",
+      "text": "Alla elva kontor är auktoriserade av Sveriges Begravningsbyråers Förbund.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "ISO 9001",
+      "text": "Kvalitetsledningssystem certifierat sedan 2019 och reviderat årligen.",
+      "ikon": "kugge"
+    },
+    {
+      "titel": "Öppen prislista",
+      "text": "Alla paket och tillval publiceras på hemsidan och gäller i hela vårt område.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "Kollektivavtal för alla 84",
+      "text": "Samtliga 84 medarbetare omfattas av kollektivavtal och tjänstepension.",
+      "ikon": "folk"
+    }
   ],
-  "kunder": ["Region Västerbotten, patologen", "Skellefteå kommun", "Lycksele Hembygdsförening", "Bodens Garnisons Kamratförening", "Malmfältens Seniorboende AB", "Piteå Pensionärers Riksförbund, avd. 12", "Umeå Universitetsförbund", "Norrbottens Skogsägare"],
+  "kunder": [
+    "Region Västerbotten, patologen",
+    "Skellefteå kommun",
+    "Lycksele Hembygdsförening",
+    "Bodens Garnisons Kamratförening",
+    "Malmfältens Seniorboende AB",
+    "Piteå Pensionärers Riksförbund, avd. 12",
+    "Umeå Universitetsförbund",
+    "Norrbottens Skogsägare"
+  ],
   "nyheter": [
-    ["2026-10-01", "Prislistan för 2027 är klar", "Paketen höjs med 2,1 procent – tillvalen ligger kvar på samma nivå.", "kontor"],
-    ["2026-04-14", "Vi har öppnat i Gällivare", "Rådgivarna Kristina Lantto och Jonas Pekkari tar emot på Storgatan.", "begravning"],
-    ["2025-09-08", "Så fungerar en livesänd ceremoni", "En guide till familjer som har släkt långt bort.", "people"],
-    ["2025-03-21", "Juristavdelningen förstärks", "Två nya handläggare gör att väntetiden på bouppteckning halveras.", "kontor"]
+    [
+      "2026-10-01",
+      "Prislistan för 2027 är klar",
+      "Paketen höjs med 2,1 procent – tillvalen ligger kvar på samma nivå.",
+      "kontor"
+    ],
+    [
+      "2026-04-14",
+      "Vi har öppnat i Gällivare",
+      "Rådgivarna Kristina Lantto och Jonas Pekkari tar emot på Storgatan.",
+      "begravning"
+    ],
+    [
+      "2025-09-08",
+      "Så fungerar en livesänd ceremoni",
+      "En guide till familjer som har släkt långt bort.",
+      "people"
+    ],
+    [
+      "2025-03-21",
+      "Juristavdelningen förstärks",
+      "Två nya handläggare gör att väntetiden på bouppteckning halveras.",
+      "kontor"
+    ]
   ],
   "kontor_text": "Alla kontor har egna rådgivare från orten. Jourcentralen i Umeå svarar för samtliga dygnet runt.",
   "kontor_lista": [
-    ["Umeå", "Kungsgatan 52 – huvudkontor, jour och juridik"],
-    ["Vännäs", "Vännäs Torg 3"],
-    ["Robertsfors", "Storgatan 18"],
-    ["Lycksele", "Storgatan 41 – egen minneslokal"],
-    ["Skellefteå", "Kanalgatan 27 – egen minneslokal"],
-    ["Piteå", "Sundsgatan 12"],
-    ["Luleå", "Storgatan 66"],
-    ["Boden", "Drottninggatan 9"],
-    ["Gällivare", "Storgatan 5 – egen minneslokal"],
-    ["Kiruna", "Föraregatan 14"],
-    ["Örnsköldsvik", "Nygatan 31"]
+    [
+      "Umeå",
+      "Kungsgatan 52 – huvudkontor, jour och juridik"
+    ],
+    [
+      "Vännäs",
+      "Vännäs Torg 3"
+    ],
+    [
+      "Robertsfors",
+      "Storgatan 18"
+    ],
+    [
+      "Lycksele",
+      "Storgatan 41 – egen minneslokal"
+    ],
+    [
+      "Skellefteå",
+      "Kanalgatan 27 – egen minneslokal"
+    ],
+    [
+      "Piteå",
+      "Sundsgatan 12"
+    ],
+    [
+      "Luleå",
+      "Storgatan 66"
+    ],
+    [
+      "Boden",
+      "Drottninggatan 9"
+    ],
+    [
+      "Gällivare",
+      "Storgatan 5 – egen minneslokal"
+    ],
+    [
+      "Kiruna",
+      "Föraregatan 14"
+    ],
+    [
+      "Örnsköldsvik",
+      "Nygatan 31"
+    ]
   ],
-  "kontakt": {"adress": "Kungsgatan 52", "postnr": "903 26", "ort": "Umeå", "telefon": "070-174 06 27", "epost": "info@nordanljus.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Kungsgatan 52",
+    "postnr": "903 26",
+    "ort": "Umeå",
+    "telefon": "070-174 06 27",
+    "epost": "info@nordanljus.se",
+    "orgnr": ""
+  },
   "oppettider": "Kontoren mån–fre 8.30–16.30, jourcentralen dygnet runt",
   "omrade": "Västerbotten, Norrbotten och Örnsköldsvik",
   "fot_cta": "Ring jourcentralen när som helst – vi kopplar er till ert lokala kontor.",
@@ -138,11 +522,16 @@
     "omdomen_rubrik": "Familjer som bor långt isär",
     "faq_rubrik": "Om priser, paket och livesändning",
     "priser_rubrik": "Tre paket – samma pris på alla orter",
-    "priser_not": "Alla priser inklusive moms. Körning inom kontorets kommun ingår.",
+    "priser_not": "Moms ingår i alla priser, och körning inom kontorets kommun ingår alltid.",
     "priser_knapp": "Boka möte",
     "boka_rubrik": "Boka ett möte på er ort",
     "boka_text": "Skriv vilken ort ni bor på så ringer en lokal rådgivare upp samma dag.",
-    "boka_falt": ["Namn", "Telefon", "Ort", "Kort om vad som har hänt"],
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "Ort",
+      "Kort om vad som har hänt"
+    ],
     "logos_rubrik": "Organisationer vi har avtal med",
     "certifikat_rubrik": "Granskade på alla elva orter",
     "ny_rubrik": "Nyheter från Nordanljus",

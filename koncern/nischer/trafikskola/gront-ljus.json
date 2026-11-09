@@ -18,7 +18,7 @@
   "vagval_rubrik": "Var vill du börja?",
   "tjanster": [
     {"titel": "Automatkörkort", "ikon": "laddning", "href": "verksamhet.html", "text": "B-körkort i elbil med villkorskod 78 – det vanligaste valet i dag."},
-    {"titel": "Sparsam körning", "ikon": "graf", "href": "verksamhet.html", "text": "Du ser förbrukningen i kWh efter varje lektion."},
+    {"titel": "Förbrukning i kWh", "ikon": "graf", "href": "verksamhet.html", "text": "Du ser förbrukningen i kWh efter varje lektion."},
     {"titel": "Handledarkurs", "ikon": "folk", "href": "verksamhet.html", "text": "Introduktionsutbildning med ett avsnitt om att övningsköra i elbil."},
     {"titel": "Riskettan", "ikon": "skold", "href": "verksamhet.html", "text": "Tre timmar om alkohol, droger, trötthet och distraktion i bilen."},
     {"titel": "Halkbanan", "ikon": "vag", "href": "verksamhet.html", "text": "Risk 2 i elbil – tung bil, direkt vridmoment och regenerering."},
@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Lärarlaget", "segment": "Sexton trafiklärare", "rubrik": "Elcykel mellan eleverna", "text": "Hämtar vid Katedralskolan, Ångström, Gränby och Knivsta station – och cyklar till nästa.", "tagg": "korskola"},
-    {"namn": "Teorisalen", "segment": "Risk 1 och handledare", "rubrik": "Kvällar på Bolandsgatan", "text": "Riskettan, handledarkurser och laddkursen på lördagar.", "tagg": "people"},
+    {"namn": "Teorisalen", "segment": "Riskettan, handledare, laddning", "rubrik": "Kvällar på Bolandsgatan", "text": "Riskettan, handledarkurser och laddkursen på lördagar.", "tagg": "people"},
     {"namn": "Depån", "segment": "Laddning och skötsel", "rubrik": "Fjorton bilar, sju laddpunkter", "text": "Bilarna laddas på natten och mitt på dagen när solcellerna ger mest.", "tagg": "el"}
   ],
   "berattelser": [
@@ -58,7 +58,7 @@
   ],
   "process": [
     {"titel": "Tillstånd och app", "text": "Ansök om körkortstillstånd, ladda ner elevappen och boka din första lektion.", "tagg": "kontor"},
-    {"titel": "Första lektionen", "text": "Vi hämtar dig vid skolan eller jobbet och kör på parkeringen vid Fyrishov tills bilen känns lugn.", "tagg": "korskola"},
+    {"titel": "Lugn start vid Fyrishov", "text": "Vi hämtar dig vid skolan eller jobbet och kör på parkeringen vid Fyrishov tills bilen känns lugn.", "tagg": "korskola"},
     {"titel": "Stad, landsväg och risk", "text": "Rondellerna vid Gränby, landsväg mot Sigtuna och riskutbildningen när du kör säkert.", "tagg": "stad"},
     {"titel": "Körprov i elbil", "text": "Du lånar skolans elbil till körprovet hos Trafikverket i Uppsala.", "tagg": "korskola"}
   ],
@@ -94,7 +94,7 @@
   ],
   "prislista": [["Lektion 40 min", "760 kr"], ["Riskettan", "950 kr"], ["Halkbanan i elbil", "2 600 kr"], ["Handledarkurs per person", "500 kr"], ["Laddkurs, lördag", "590 kr"], ["Lån av bil till körprov", "1 400 kr"]],
   "certifikat": [
-    {"titel": "Trafikskoletillstånd", "text": "Tillstånd från Transportstyrelsen att bedriva trafikskola för behörighet B.", "ikon": "dokument"},
+    {"titel": "Trafikskoletillstånd", "text": "Godkänd av Transportstyrelsen 2019 som trafikskola för personbil, med automatbilar i hela flottan.", "ikon": "dokument"},
     {"titel": "Riskutbildning", "text": "Godkända för riskutbildning del 1, med del 2 i elbil på bana i Uppsala län.", "ikon": "skold"},
     {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem sedan 2022, med årlig redovisning av energiförbrukningen.", "ikon": "sol"},
     {"titel": "Medlem i STR", "text": "Medlem i Sveriges Trafikutbildares Riksförbund och dess nätverk för sparsam körning.", "ikon": "folk"}

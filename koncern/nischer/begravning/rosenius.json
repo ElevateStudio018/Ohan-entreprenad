@@ -17,97 +17,374 @@
   ],
   "vagval_rubrik": "Där vi kan hjälpa er",
   "tjanster": [
-    {"titel": "Personlig ceremoni", "ikon": "stjarna", "href": "verksamhet.html", "text": "Präst, officiant eller ceremoniledare – formgiven tillsammans med familjen."},
-    {"titel": "Musik och sång", "ikon": "megafon", "href": "verksamhet.html", "text": "Organister, sångare och stråkkvartetter vi har arbetat med i många år."},
-    {"titel": "Minnesvåningen", "ikon": "nyckel", "href": "verksamhet.html", "text": "Fem rum med kakelugnar för upp till 120 gäster, tre trappor upp på Karlavägen."},
-    {"titel": "Tryck och program", "ikon": "pensel", "href": "verksamhet.html", "text": "Minnesprogram i boktryck på bomullspapper, sättes och trycks i vår egen verkstad."},
-    {"titel": "Dödsboförvaltning", "ikon": "portfolj", "href": "verksamhet.html", "text": "Bouppteckning, arvskifte, värdering och avveckling av bostad och bolag."},
-    {"titel": "Internationella familjer", "ikon": "glob", "href": "verksamhet.html", "text": "Ceremonier på engelska, franska och tyska och transporter till och från utlandet."},
-    {"titel": "Gravvård", "ikon": "sten", "href": "verksamhet.html", "text": "Familjegravar, nya stenar och renovering på Norra begravningsplatsen och Skogskyrkogården."},
-    {"titel": "Boka ett samtal", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "På Karlavägen, i ert hem eller på telefon."}
+    {
+      "titel": "Personlig ceremoni",
+      "ikon": "stjarna",
+      "href": "verksamhet.html",
+      "text": "Präst, officiant eller ceremoniledare – formgiven tillsammans med familjen."
+    },
+    {
+      "titel": "Musik och sång",
+      "ikon": "megafon",
+      "href": "verksamhet.html",
+      "text": "Organister, sångare och stråkkvartetter vi har arbetat med i många år."
+    },
+    {
+      "titel": "Minnesvåningen",
+      "ikon": "nyckel",
+      "href": "verksamhet.html",
+      "text": "Fem rum med kakelugnar för upp till 120 gäster, tre trappor upp på Karlavägen."
+    },
+    {
+      "titel": "Tryck och program",
+      "ikon": "pensel",
+      "href": "verksamhet.html",
+      "text": "Minnesprogram i boktryck på bomullspapper, sättes och trycks i vår egen verkstad."
+    },
+    {
+      "titel": "Dödsboförvaltning",
+      "ikon": "portfolj",
+      "href": "verksamhet.html",
+      "text": "Bouppteckning, arvskifte, värdering och avveckling av bostad och bolag."
+    },
+    {
+      "titel": "Internationella familjer",
+      "ikon": "glob",
+      "href": "verksamhet.html",
+      "text": "Ceremonier på engelska, franska och tyska och transporter till och från utlandet."
+    },
+    {
+      "titel": "Gravvård",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Familjegravar, nya stenar och renovering på Norra begravningsplatsen och Skogskyrkogården."
+    },
+    {
+      "titel": "Träffa oss",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "På Karlavägen, i ert hem eller på telefon."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Ceremonier", "text": "Vi ordnar begravningar i Hedvig Eleonora, Engelbrektskyrkan, Storkyrkan och Skogskyrkogårdens kapell, men också i konserthus, på museer och i privata hem. Varje familj har en ceremoniansvarig som håller i allt från manus till ljussättning.", "text2": "Vi tar högst sex nya uppdrag per ceremoniansvarig och månad.", "tagg": "begravning"},
-    {"titel": "Minnesstunder", "text": "Minnesvåningen på Karlavägen har fem sammanhängande rum med kakelugnar och ett eget kök. För större sällskap ordnar vi minnesstunder på Skeppsholmen, Djurgården och i salonger längs Strandvägen.", "text2": "Menyerna tas fram tillsammans med kockar vi arbetat med i över tio år.", "tagg": "interior"},
-    {"titel": "Dödsboförvaltning", "text": "Våra jurister sköter bouppteckning, arvskifte och kontakt med banker, förvaltare och Skatteverket. För dödsbon med konst, antikviteter eller bolag tar vi in värderare och revisorer.", "text2": "Vi kan förvalta dödsboet helt, så att delägarna slipper sköta det själva.", "tagg": "kontor"},
-    {"titel": "Tryck och formgivning", "text": "Programmen sätts i blytyp och trycks på en Heidelbergpress från 1958 i källarverkstaden. Ett minnesprogram tar tre arbetsdagar från godkänt korrektur.", "text2": "Samma formgivning kan användas till annons, tackkort och minnesbok.", "tagg": "detalj"}
+    {
+      "titel": "Ceremonier",
+      "text": "Vi ordnar begravningar i Hedvig Eleonora, Engelbrektskyrkan, Storkyrkan och Skogskyrkogårdens kapell, men också i konserthus, på museer och i privata hem. Varje familj har en ceremoniansvarig som håller i allt från manus till ljussättning.",
+      "text2": "Vi tar högst sex nya uppdrag per ceremoniansvarig och månad.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Minnesstunder",
+      "text": "Minnesvåningen på Karlavägen har fem sammanhängande rum med kakelugnar och ett eget kök. För större sällskap ordnar vi minnesstunder på Skeppsholmen, Djurgården och i salonger längs Strandvägen.",
+      "text2": "Menyerna tas fram tillsammans med kockar vi arbetat med i över tio år.",
+      "tagg": "interior"
+    },
+    {
+      "titel": "Dödsboförvaltning",
+      "text": "Våra jurister sköter bouppteckning, arvskifte och kontakt med banker, förvaltare och Skatteverket. För dödsbon med konst, antikviteter eller bolag tar vi in värderare och revisorer.",
+      "text2": "Vi kan förvalta dödsboet helt, så att delägarna slipper sköta det själva.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Tryck och formgivning",
+      "text": "Programmen sätts i blytyp och trycks på en Heidelbergpress från 1958 i källarverkstaden. Ett minnesprogram tar tre arbetsdagar från godkänt korrektur.",
+      "text2": "Samma formgivning kan användas till annons, tackkort och minnesbok.",
+      "tagg": "detalj"
+    }
   ],
   "bolag": [
-    {"namn": "Ceremoniavdelningen", "segment": "Karlavägen 58", "rubrik": "Åtta ceremoniansvariga", "text": "Var och en ansvarar för ett begränsat antal familjer och följer dem genom hela förloppet.", "tagg": "begravning"},
-    {"namn": "Minnesvåningen", "segment": "Värdskap och kök", "rubrik": "Fem rum, egen kokerska", "text": "Tre värdar och en kokerska tar hand om minnesstunder för 20 till 120 gäster.", "tagg": "interior"},
-    {"namn": "Rosenius Dödsbo", "segment": "Juridik och förvaltning", "rubrik": "Två jurister och en värderare", "text": "Avdelningen hanterar omkring 150 dödsbon om året, varav många med fastigheter, konst eller bolag.", "tagg": "kontor"},
-    {"namn": "Tryckeriet", "segment": "Boktryck i källaren", "rubrik": "Typsättning för hand", "text": "En typograf som trycker minnesprogram, tackkort och minnesböcker på bomullspapper.", "tagg": "detalj"}
+    {
+      "namn": "Ceremoniavdelningen",
+      "segment": "Karlavägen 58",
+      "rubrik": "Åtta ceremoniansvariga",
+      "text": "Var och en ansvarar för ett begränsat antal familjer och följer dem genom hela förloppet.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Minnesvåningen",
+      "segment": "Värdskap och kök",
+      "rubrik": "Fem rum, egen kokerska",
+      "text": "Tre värdar och en kokerska tar hand om minnesstunder för 20 till 120 gäster.",
+      "tagg": "interior"
+    },
+    {
+      "namn": "Rosenius Dödsbo",
+      "segment": "Juridik och förvaltning",
+      "rubrik": "Två jurister och en värderare",
+      "text": "Avdelningen hanterar omkring 150 dödsbon om året, varav många med fastigheter, konst eller bolag.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Tryckeriet",
+      "segment": "Boktryck i källaren",
+      "rubrik": "Typsättning för hand",
+      "text": "En typograf som trycker minnesprogram, tackkort och minnesböcker på bomullspapper.",
+      "tagg": "detalj"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Minnesvåningen har renoverats", "text": "Kakelugnarna är omsatta och väggarna målade med linoljefärg i originalkulörer från 1890.", "tagg": "interior"},
-    {"rubrik": "Ceremoni i Berwaldhallen", "text": "En tonsättare fick sitt avsked med en kammarorkester som spelade hennes egna verk.", "tagg": "begravning"},
-    {"rubrik": "Ny jurist i dödsboavdelningen", "text": "Elsa Wahlund kommer närmast från en advokatbyrå med inriktning på familjerätt.", "tagg": "kontor"}
+    {
+      "rubrik": "Minnesvåningen har renoverats",
+      "text": "Kakelugnarna är omsatta och väggarna målade med linoljefärg i originalkulörer från 1890.",
+      "tagg": "interior"
+    },
+    {
+      "rubrik": "Ceremoni i Berwaldhallen",
+      "text": "En tonsättare fick sitt avsked med en kammarorkester som spelade hennes egna verk.",
+      "tagg": "begravning"
+    },
+    {
+      "rubrik": "Ny jurist i dödsboavdelningen",
+      "text": "Elsa Wahlund kommer närmast från en advokatbyrå med inriktning på familjerätt.",
+      "tagg": "kontor"
+    }
   ],
   "nyckeltal": [
-    {"varde": "1962", "enhet": "", "etikett": "Grundad på Karlavägen"},
-    {"varde": "280", "enhet": "per år", "etikett": "Begravningar"},
-    {"varde": "6", "enhet": "familjer", "etikett": "Per ceremoniansvarig i månaden"},
-    {"varde": "120", "enhet": "gäster", "etikett": "Ryms på minnesvåningen"}
+    {
+      "varde": "1962",
+      "enhet": "",
+      "etikett": "Grundad på Karlavägen"
+    },
+    {
+      "varde": "280",
+      "enhet": "per år",
+      "etikett": "Begravningar"
+    },
+    {
+      "varde": "6",
+      "enhet": "familjer",
+      "etikett": "Per ceremoniansvarig i månaden"
+    },
+    {
+      "varde": "120",
+      "enhet": "gäster",
+      "etikett": "Ryms på minnesvåningen"
+    }
   ],
   "projekt": [
-    {"namn": "Ceremoni i Berwaldhallen", "ort": "Stockholm", "typ": "Borgerlig ceremoni", "ar": "2026", "text": "Kammarorkester, uppläsning av hennes brev och 600 gäster.", "tagg": "begravning", "status": "Genomförd"},
-    {"namn": "Jordfästning i Hedvig Eleonora", "ort": "Östermalm", "typ": "Kyrklig begravning", "ar": "2025", "text": "En diplomat med gäster från fjorton länder – programmet trycktes på svenska, engelska och franska.", "tagg": "begravning"},
-    {"namn": "Minnesstund på Skeppsholmen", "ort": "Stockholm", "typ": "Minnesstund", "ar": "2025", "text": "Middag för 180 gäster i en sal med utsikt över Strömmen.", "tagg": "people"},
-    {"namn": "Dödsbo med konstsamling", "ort": "Djursholm", "typ": "Dödsboförvaltning", "ar": "2025", "text": "Värdering av 340 verk, försäljning genom auktion och arvskifte mellan sju delägare.", "tagg": "kontor"},
-    {"namn": "Familjegrav på Norra begravningsplatsen", "ort": "Solna", "typ": "Gravvård", "ar": "2024", "text": "Renovering av en familjegrav från 1880-talet, med ny förgyllning av texten.", "tagg": "sten"},
-    {"namn": "Ceremoni i hemmet", "ort": "Lidingö", "typ": "Borgerlig ceremoni", "ar": "2024", "text": "Avsked i biblioteket i den villa där han bott i femtio år, med cellist och närmaste familj.", "tagg": "interior"}
+    {
+      "namn": "Ceremoni i Berwaldhallen",
+      "ort": "Stockholm",
+      "typ": "Borgerlig ceremoni",
+      "ar": "2026",
+      "text": "Kammarorkester, uppläsning av hennes brev och 600 gäster.",
+      "tagg": "begravning",
+      "status": "Genomförd"
+    },
+    {
+      "namn": "Jordfästning i Hedvig Eleonora",
+      "ort": "Östermalm",
+      "typ": "Kyrklig begravning",
+      "ar": "2025",
+      "text": "En diplomat med gäster från fjorton länder – programmet trycktes på svenska, engelska och franska.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Minnesstund på Skeppsholmen",
+      "ort": "Stockholm",
+      "typ": "Minnesstund",
+      "ar": "2025",
+      "text": "Middag för 180 gäster i en sal med utsikt över Strömmen.",
+      "tagg": "people"
+    },
+    {
+      "namn": "Dödsbo med konstsamling",
+      "ort": "Djursholm",
+      "typ": "Dödsboförvaltning",
+      "ar": "2025",
+      "text": "Värdering av 340 verk, försäljning genom auktion och arvskifte mellan sju delägare.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Familjegrav på Norra begravningsplatsen",
+      "ort": "Solna",
+      "typ": "Gravvård",
+      "ar": "2024",
+      "text": "Renovering av en familjegrav från 1880-talet, med ny förgyllning av texten.",
+      "tagg": "sten"
+    },
+    {
+      "namn": "Ceremoni i hemmet",
+      "ort": "Lidingö",
+      "typ": "Borgerlig ceremoni",
+      "ar": "2024",
+      "text": "Avsked i biblioteket i den villa där han bott i femtio år, med cellist och närmaste familj.",
+      "tagg": "interior"
+    }
   ],
   "process": [
-    {"titel": "Samtal på Karlavägen", "text": "Ett första möte på två timmar där vi lyssnar på vem som har dött och vad familjen önskar.", "tagg": "interior"},
-    {"titel": "Utkast till ceremoni", "text": "Inom tre dagar får ni ett skriftligt förslag på ceremoni, musik, tryck och minnesstund, med kostnader.", "tagg": "detalj"},
-    {"titel": "Dagen", "text": "Er ceremoniansvarige är på plats från tidig morgon och har en kollega med sig för gästerna.", "tagg": "begravning"},
-    {"titel": "Efteråt", "text": "Dödsboavdelningen tar över de praktiska frågorna och ni får ett samtal från oss en månad senare.", "tagg": "kontor"}
+    {
+      "titel": "Samtal på Karlavägen",
+      "text": "Ett första möte på två timmar där vi lyssnar på vem som har dött och vad familjen önskar.",
+      "tagg": "interior"
+    },
+    {
+      "titel": "Utkast till ceremoni",
+      "text": "Inom tre dagar får ni ett skriftligt förslag på ceremoni, musik, tryck och minnesstund, med kostnader.",
+      "tagg": "detalj"
+    },
+    {
+      "titel": "Dagen",
+      "text": "Er ceremoniansvarige är på plats från tidig morgon och har en kollega med sig för gästerna.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Efteråt",
+      "text": "Dödsboavdelningen tar över de praktiska frågorna och ni får ett samtal från oss en månad senare.",
+      "tagg": "kontor"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Färre uppdrag, mer tid för varje",
     "text": "Vi tackar ibland nej för att kunna hålla det vi lovar. Varje ceremoniansvarig tar högst sex nya familjer i månaden, och samma person följer er hela vägen. Efter varje begravning ber vi familjen om ett omdöme som läses av ägarna.",
-    "mal": [["6", "nya familjer per ceremoniansvarig och månad"], ["3 dgr", "till skriftligt ceremoniförslag"], ["1", "kontaktperson från första till sista samtalet"]]
+    "mal": [
+      [
+        "6",
+        "nya familjer per ceremoniansvarig och månad"
+      ],
+      [
+        "3 dgr",
+        "till skriftligt ceremoniförslag"
+      ],
+      [
+        "1",
+        "kontaktperson från första till sista samtalet"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Ett hantverk som tar år att lära",
     "text": "Nya ceremoniansvariga arbetar ett år tillsammans med en erfaren kollega innan de tar egna familjer. Vi söker människor med bakgrund inom kultur, evenemang eller vård som vill göra det här länge.",
-    "jobb": [["Ceremoniansvarig", "Stockholm"], ["Värd, minnesvåningen", "Stockholm"]]
+    "jobb": [
+      [
+        "Ceremoniansvarig",
+        "Stockholm"
+      ],
+      [
+        "Värd, minnesvåningen",
+        "Stockholm"
+      ]
+    ]
   },
   "kultur": "Varje ceremoni gås igenom på vårt morgonmöte dagen efter – vad blev fint, och vad kan vi göra bättre.",
-  "citat": {"text": "En bra begravning märks inte. Gästerna ska gå därifrån och tala om den som dog, inte om blommorna eller om oss.", "namn": "Cecilia Lund", "roll": "Delägare och ceremoniansvarig", "tagg": "begravning"},
+  "citat": {
+    "text": "En bra begravning märks inte. Gästerna ska gå därifrån och tala om den som dog, inte om blommorna eller om oss.",
+    "namn": "Cecilia Lund",
+    "roll": "Delägare och ceremoniansvarig",
+    "tagg": "begravning"
+  },
   "omdomen": [
-    {"text": "Fredrik förstod vem pappa var efter en eftermiddag. Ceremonin i Engelbrektskyrkan var så lik honom att flera av hans vänner frågade vem som skrivit den.", "namn": "Charlotte E.", "ort": "Östermalm"},
-    {"text": "Dödsboet innehöll två fastigheter och ett aktiebolag. Rosenius jurister tog hand om allt och vi syskon behövde bara skriva under.", "namn": "Henrik W.", "ort": "Danderyd"},
-    {"text": "Programmet i boktryck ligger fortfarande framme hemma hos alla barnbarnen.", "namn": "Marianne S.", "ort": "Lidingö"}
+    {
+      "text": "Fredrik förstod vem pappa var efter en eftermiddag. Ceremonin i Engelbrektskyrkan var så lik honom att flera av hans vänner frågade vem som skrivit den.",
+      "namn": "Charlotte E.",
+      "ort": "Östermalm"
+    },
+    {
+      "text": "Dödsboet innehöll två fastigheter och ett aktiebolag. Rosenius jurister tog hand om allt och vi syskon behövde bara skriva under.",
+      "namn": "Henrik W.",
+      "ort": "Danderyd"
+    },
+    {
+      "text": "Programmet i boktryck ligger fortfarande framme hemma hos alla barnbarnen.",
+      "namn": "Marianne S.",
+      "ort": "Lidingö"
+    }
   ],
   "faq": [
-    ["Varför tar ni ett begränsat antal uppdrag?", "För att samma ceremoniansvarig ska kunna följa familjen hela vägen. Har vi inte möjlighet att ta ett uppdrag säger vi det direkt och rekommenderar en kollega."],
-    ["Vad kostar en begravning hos er?", "Kostnaden beror helt på ceremonins omfattning. En kyrklig begravning med minnesstund på minnesvåningen för 50 gäster ligger oftast mellan 65 000 och 95 000 kronor. Ni får alltid ett skriftligt förslag innan något bokas."],
-    ["Kan ceremonin hållas utanför kyrkan?", "Ja. Vi har hållit ceremonier i konserthus, på museer, i hem och trädgårdar. Kistan kan vara med eller så hålls ceremonin efter kremeringen."],
-    ["Hanterar ni dödsbon med bolag och fastigheter?", "Ja. Våra jurister samarbetar med revisorer, mäklare och värderare och kan förvalta dödsboet tills arvskiftet är klart."],
-    ["Ordnar ni begravningar för familjer som bor utomlands?", "Ofta. Vi arbetar på engelska, franska och tyska och kan sköta planeringen digitalt med familjer var som helst i världen."],
-    ["Vad är boktryck?", "En tryckmetod där bokstäverna pressas ned i papperet. Programmen får en kännbar struktur och trycks i vår egen verkstad i huset."],
-    ["Kan vi hyra minnesvåningen utan att ordna begravningen hos er?", "Minnesvåningen är förbehållen familjer vi ordnar begravning för, men vi kan rekommendera andra lokaler på Östermalm."]
+    [
+      "Varför tar ni ett begränsat antal uppdrag?",
+      "För att samma ceremoniansvarig ska kunna följa familjen hela vägen. Har vi inte möjlighet att ta ett uppdrag säger vi det direkt och rekommenderar en kollega."
+    ],
+    [
+      "Vad kostar en begravning hos er?",
+      "Kostnaden beror helt på ceremonins omfattning. En kyrklig begravning med minnesstund på minnesvåningen för 50 gäster ligger oftast mellan 65 000 och 95 000 kronor. Ni får alltid ett skriftligt förslag innan något bokas."
+    ],
+    [
+      "Kan ceremonin hållas utanför kyrkan?",
+      "Ja. Vi har hållit ceremonier i konserthus, på museer, i hem och trädgårdar. Kistan kan vara med eller så hålls ceremonin efter kremeringen."
+    ],
+    [
+      "Hanterar ni dödsbon med bolag och fastigheter?",
+      "Ja. Våra jurister samarbetar med revisorer, mäklare och värderare och kan förvalta dödsboet tills arvskiftet är klart."
+    ],
+    [
+      "Ordnar ni begravningar för familjer som bor utomlands?",
+      "Ofta. Vi arbetar på engelska, franska och tyska och kan sköta planeringen digitalt med familjer var som helst i världen."
+    ],
+    [
+      "Vad är boktryck?",
+      "En tryckmetod där bokstäverna pressas ned i papperet. Programmen får en kännbar struktur och trycks i vår egen verkstad i huset."
+    ],
+    [
+      "Kan vi hyra minnesvåningen utan att ordna begravningen hos er?",
+      "Minnesvåningen är förbehållen familjer vi ordnar begravning för, men vi kan rekommendera andra lokaler på Östermalm."
+    ]
   ],
   "certifikat": [
-    {"titel": "SBF-auktoriserade", "text": "Medlemmar i Sveriges Begravningsbyråers Förbund sedan 1963.", "ikon": "skold"},
-    {"titel": "Allmänna bestämmelser", "text": "Våra avtal följer de bestämmelser för begravningstjänster som förhandlats med Konsumentverket.", "ikon": "dokument"},
-    {"titel": "Jurister med examen", "text": "Dödsboavdelningens jurister har juristexamen och vidareutbildning i familje- och arvsrätt.", "ikon": "portfolj"},
-    {"titel": "Ansvarsförsäkring", "text": "Förmögenhetsbrottsförsäkring och ansvarsförsäkring för förvaltning av dödsbon upp till 10 miljoner kronor.", "ikon": "las"}
+    {
+      "titel": "SBF-auktoriserade",
+      "text": "Medlemmar i Sveriges Begravningsbyråers Förbund sedan 1963.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Konsumentverkets ramar",
+      "text": "Våra avtal följer de bestämmelser för begravningstjänster som förhandlats med Konsumentverket.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "Egna jurister",
+      "text": "Dödsboavdelningens jurister har juristexamen och vidareutbildning i familje- och arvsrätt.",
+      "ikon": "portfolj"
+    },
+    {
+      "titel": "Förvaltarförsäkring",
+      "text": "Förmögenhetsbrottsförsäkring och ansvarsförsäkring för förvaltning av dödsbon upp till 10 miljoner kronor.",
+      "ikon": "las"
+    }
   ],
-  "kunder": ["Hedvig Eleonora församling", "Östermalms Konstförening", "Sällskapet Karlavägens Vänner", "Brf Kakelugnen", "Djursholms Villaägareförening", "Nordiska Diplomatklubben", "Stiftelsen Lindgårdens Musikfond"],
+  "kunder": [
+    "Hedvig Eleonora församling",
+    "Östermalms Konstförening",
+    "Sällskapet Karlavägens Vänner",
+    "Brf Kakelugnen",
+    "Djursholms Villaägareförening",
+    "Nordiska Diplomatklubben",
+    "Stiftelsen Lindgårdens Musikfond"
+  ],
   "nyheter": [
-    ["2026-10-09", "Minnesvåningen öppnar igen efter renovering", "Kakelugnar, linoljefärg och ett nytt kök – men samma fem rum.", "interior"],
-    ["2026-03-17", "Elsa Wahlund förstärker dödsboavdelningen", "Med tio år på advokatbyrå blir hon vår andra jurist.", "kontor"],
-    ["2025-11-20", "Boktryck – en sextio år gammal tradition", "Om pressen i källaren och varför vi fortfarande sätter för hand.", "detalj"]
+    [
+      "2026-10-09",
+      "Minnesvåningen öppnar igen efter renovering",
+      "Kakelugnar, linoljefärg och ett nytt kök – men samma fem rum.",
+      "interior"
+    ],
+    [
+      "2026-03-17",
+      "Elsa Wahlund förstärker dödsboavdelningen",
+      "Med tio år på advokatbyrå blir hon vår andra jurist.",
+      "kontor"
+    ],
+    [
+      "2025-11-20",
+      "Boktryck – en sextio år gammal tradition",
+      "Om pressen i källaren och varför vi fortfarande sätter för hand.",
+      "detalj"
+    ]
   ],
-  "kontakt": {"adress": "Karlavägen 58", "postnr": "114 49", "ort": "Stockholm", "telefon": "070-174 06 66", "epost": "byran@rosenius.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Karlavägen 58",
+    "postnr": "114 49",
+    "ort": "Stockholm",
+    "telefon": "070-174 06 66",
+    "epost": "byran@rosenius.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 9–17, övrig tid efter överenskommelse",
   "omrade": "Stockholm, Lidingö, Danderyd, Djursholm och Solna",
   "fot_cta": "Vill ni tala med någon av oss? Ring, så bokar vi ett samtal i lugn och ro.",
   "text": {
     "hero_knapp": "Om våra ceremonier",
-    "kontakt_knapp": "Boka ett samtal",
+    "kontakt_knapp": "Kontakta byrån",
     "ber_etikett": "Från Karlavägen",
     "ber_rubrik": "Under hösten hos Rosenius",
     "proj_etikett": "Ceremonier",
@@ -121,10 +398,15 @@
     "faq_rubrik": "Frågor inför ett första samtal",
     "boka_rubrik": "Boka ett första samtal",
     "boka_text": "Berätta kort vad som har hänt, så kontaktar en av våra ceremoniansvariga er inom två timmar.",
-    "boka_falt": ["Namn", "Telefon", "E-post", "Det ni vill berätta"],
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "E-post",
+      "Det ni vill berätta"
+    ],
     "logos_rubrik": "Några av dem vi har arbetat med",
     "certifikat_rubrik": "Auktoriserade och försäkrade",
-    "ny_rubrik": "Nytt från byrån",
+    "ny_rubrik": "Aktuellt på Karlavägen",
     "panel_etikett": "Arbeta hos Rosenius"
   }
 }

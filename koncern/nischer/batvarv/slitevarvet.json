@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Tillsynslaget", "segment": "Ute i hamnarna", "rubrik": "Två bilar, fyra hamnar", "text": "Kör runt efter varje varning från SMHI och varannan vecka resten av året.", "tagg": "bat"},
-    {"namn": "Verkstaden", "segment": "Motor och skrov", "rubrik": "Där båtkortet fylls i", "text": "Två mekaniker och en båtbyggare som servar och lagar under vintern.", "tagg": "people"},
+    {"namn": "Verkstaden", "segment": "Motor, skrov och delar", "rubrik": "Där båtkortet fylls i", "text": "Två mekaniker och en båtbyggare som servar och lagar under vintern.", "tagg": "people"},
     {"namn": "Varvskontoret", "segment": "Avtal och bokning", "rubrik": "Ylva håller i nycklarna", "text": "Nyckelskåp med 160 märkta nycklar, avtal och kontakten med dig på fastlandet.", "tagg": "kontor"}
   ],
   "berattelser": [
@@ -54,7 +54,7 @@
     {"namn": "Fårösunds Båtklubb", "ort": "Fårösund", "typ": "Upptagning", "ar": "2026", "text": "Klubbens 46 båtar togs upp på tre dagar med kranbil från klubbens kaj.", "tagg": "bat", "status": "Utfört"},
     {"namn": "Motorbyte på en Vindö 40", "ort": "Slite", "typ": "Motorservice", "ar": "2026", "text": "Ny dieselmotor installerad under vintern medan ägaren följde arbetet i båtkortet.", "tagg": "people", "status": "Pågående"},
     {"namn": "Kappelshamns Fiskeläge", "ort": "Kappelshamn", "typ": "Tillsynsavtal", "ar": "2024", "text": "Tillsyn av 22 båtar åt samfälligheten under hela året.", "tagg": "natur"},
-    {"namn": "Gästkajen", "ort": "Slite", "typ": "Hamnutbyggnad", "ar": "2024", "text": "Ny kaj för gästande båtar upp till 50 fot med el, vatten och septiktömning.", "tagg": "anlaggning"}
+    {"namn": "Gästkajen", "ort": "Slite", "typ": "Ny gästkaj", "ar": "2024", "text": "Ny kaj för gästande båtar upp till 50 fot med el, vatten och septiktömning.", "tagg": "anlaggning"}
   ],
   "process": [
     {"titel": "Avtal och nycklar", "text": "Du tecknar avtal och lämnar nycklarna. Vi gör en genomgång och fotograferar båten.", "tagg": "kontor"},
@@ -93,7 +93,7 @@
     {"namn": "Sommartillsyn", "pris": "fr. 3 400 kr", "enhet": "maj–september", "text": "För dig som har egen förvaring.", "punkter": ["Tillsyn varannan vecka", "Kontroll efter stormvarning", "Bilder i båtkortet", "Länsning vid behov"]}
   ],
   "certifikat": [
-    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Täcker båten under lyft, transport, förvaring och tillsyn.", "ikon": "skold"},
+    {"titel": "Försäkrad tillsyn", "text": "Täcker båten under lyft, transport, förvaring och tillsyn.", "ikon": "skold"},
     {"titel": "Larmat nyckelskåp", "text": "Nycklarna förvaras i ett larmat skåp med loggning av varje uttag.", "ikon": "las"},
     {"titel": "Kranförarbevis", "text": "Kranbilen körs av förare med mobilkranförarbevis och lyftplan för varje båt.", "ikon": "kran"},
     {"titel": "Spolplatta med rening", "text": "Anmäld till Region Gotlands miljö- och hälsoskyddsförvaltning och provtagen varje år.", "ikon": "vatten"}
@@ -123,7 +123,7 @@
     "process_rubrik": "Du lämnar nycklarna, vi gör resten",
     "bolag_etikett": "Varvet",
     "bolag_rubrik": "Tre lag, 160 båtar",
-    "bolag_kol": ["Lag", "Var", "Det här gör vi"],
+    "bolag_kol": ["Lag", "Var", "Uppgift"],
     "meny_bolag": "Varvet",
     "hb_etikett": "Resor och miljö",
     "omdomen_rubrik": "Båtägare från fastlandet",

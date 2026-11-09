@@ -55,7 +55,7 @@
     {"namn": "Rudskoga Lantbruk", "ort": "Rudskoga", "typ": "Dikesrensning", "ar": "2025", "text": "Sex kilometer öppna diken rensade och 14 vägtrummor bytta på en vecka.", "tagg": "natur"},
     {"namn": "Brf Kanalparken", "ort": "Kristinehamn", "typ": "Kranlyft", "ar": "2025", "text": "Tolv balkongplattor lyfta på plats från kranbil på en förmiddag.", "tagg": "bygg"},
     {"namn": "Ölme vägsamfällighet", "ort": "Ölme", "typ": "Grusning av väg", "ar": "2024", "text": "Fyra kilometer enskild väg harvad, dikad och grusad med 0–16 bärlager.", "tagg": "mark"},
-    {"namn": "Industrihus i Vålösund", "ort": "Kristinehamn", "typ": "Husgrund", "ar": "2026", "text": "Schakt och packning för en verkstadshall på 900 kvadratmeter.", "status": "Pågår", "tagg": "bygg"}
+    {"namn": "Industrihus vid Presterud", "ort": "Kristinehamn", "typ": "Husgrund", "ar": "2026", "text": "Schakt och packning för en verkstadshall på 900 kvadratmeter.", "status": "Pågår", "tagg": "bygg"}
   ],
   "process": [
     {"titel": "Du ringer gården", "text": "Berätta vad som ska göras och var. Anna föreslår maskin och förare direkt i telefon.", "tagg": "people"},
@@ -89,12 +89,12 @@
     ["Kan ni lyfta en båt?", "Ja, kranbilen lyfter båtar upp till 3,5 ton till och från släp, vagga eller vatten."]
   ],
   "certifikat": [
-    {"titel": "Maskinförarbevis", "text": "Alla förare har bevis från Maskinbranschens yrkesnämnd, och tre av dem är godkända instruktörer.", "ikon": "hjalm"},
+    {"titel": "Maskinförarbevis från MYN", "text": "Alla förare har bevis från Maskinbranschens yrkesnämnd, och tre av dem är godkända instruktörer.", "ikon": "hjalm"},
     {"titel": "Arbete på väg", "text": "Förarna som kör på kommunens gator har Trafikverkets utbildning för arbete på väg.", "ikon": "vag"},
     {"titel": "Kranförarbevis", "text": "Chaufförerna på kranbilarna har utbildning för lastbilskran och lyft med anslagsdon.", "ikon": "kran"},
-    {"titel": "Kollektivavtal och ID06", "text": "Avtal med Byggnads och Transport, och alla anställda har ID06-kort.", "ikon": "skold"}
+    {"titel": "Byggnads- och Transportavtal", "text": "Avtal med Byggnads och Transport, och alla anställda har ID06-kort.", "ikon": "skold"}
   ],
-  "kunder": ["Kristinehamns kommun, tekniska förvaltningen", "Varnums Sågverk", "Brf Kanalparken", "Rudskoga Lantbruk", "Ölme vägsamfällighet", "Storfors kommun, VA", "Vålösunds Industrifastigheter"],
+  "kunder": ["Kristinehamns kommun, tekniska förvaltningen", "Varnums Sågverk", "Brf Kanalparken", "Rudskoga Lantbruk", "Ölme vägsamfällighet", "Storfors kommun, VA", "Presteruds Industrifastigheter"],
   "nyheter": [
     ["2026-10-06", "Vinteravtalen är öppna", "Industriområden och parkeringar i Kristinehamn – boka plogning före 1 november.", "mark"],
     ["2026-06-12", "Farfars grävlastare rullar igen", "Verkstan har lagt 400 timmar på att renovera maskinen från 1958.", "maskin"],

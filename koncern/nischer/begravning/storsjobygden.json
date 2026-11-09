@@ -17,56 +17,240 @@
   ],
   "vagval_rubrik": "Hur kan vi hjälpa till?",
   "tjanster": [
-    {"titel": "Hembesök i hela länet", "ikon": "bil", "href": "verksamhet.html", "text": "Vi kommer till er, även om det är tjugo mil – utan kostnad."},
-    {"titel": "Begravning i byns kyrka", "ikon": "kors", "href": "verksamhet.html", "text": "Vi har ordnat begravningar i över 60 av länets kyrkor och kapell."},
-    {"titel": "Fjällceremoni", "ikon": "skog", "href": "verksamhet.html", "text": "Borgerliga ceremonier vid en fäbod, en sjö eller på kalfjället."},
-    {"titel": "Vinterbegravning", "ikon": "kalender", "href": "verksamhet.html", "text": "Ceremoni nu och gravsättning i maj när tjälen har gått ur marken."},
-    {"titel": "Livesändning", "ikon": "kamera", "href": "verksamhet.html", "text": "För släktingar söderut som inte kan ta sig upp i februari."},
-    {"titel": "Minnesstund i bygdegård", "ikon": "hus", "href": "verksamhet.html", "text": "Vi har kontakt med bygdegårdar och församlingshem i hela länet."},
-    {"titel": "Gravsten", "ikon": "sten", "href": "verksamhet.html", "text": "Stenar i jämtländsk kalksten eller granit, med frakt till byns kyrkogård."},
-    {"titel": "Ring Lena eller Mats", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Svarar själva, även kvällar och helger."}
+    {
+      "titel": "Hembesök i hela länet",
+      "ikon": "bil",
+      "href": "verksamhet.html",
+      "text": "Vi kommer till er, även om det är tjugo mil – utan kostnad."
+    },
+    {
+      "titel": "Begravning i byns kyrka",
+      "ikon": "kors",
+      "href": "verksamhet.html",
+      "text": "Vi har ordnat begravningar i över 60 av länets kyrkor och kapell."
+    },
+    {
+      "titel": "Fjällceremoni",
+      "ikon": "skog",
+      "href": "verksamhet.html",
+      "text": "Borgerliga ceremonier vid en fäbod, en sjö eller på kalfjället."
+    },
+    {
+      "titel": "Vinterbegravning",
+      "ikon": "kalender",
+      "href": "verksamhet.html",
+      "text": "Ceremoni nu och gravsättning i maj när tjälen har gått ur marken."
+    },
+    {
+      "titel": "Livesändning",
+      "ikon": "kamera",
+      "href": "verksamhet.html",
+      "text": "För släktingar söderut som inte kan ta sig upp i februari."
+    },
+    {
+      "titel": "Minnesstund i bygdegård",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Vi har kontakt med bygdegårdar och församlingshem i hela länet."
+    },
+    {
+      "titel": "Gravsten",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Stenar i jämtländsk kalksten eller granit, med frakt till byns kyrkogård."
+    },
+    {
+      "titel": "Ring Lena eller Mats",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Svarar själva, även kvällar och helger."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Hembesök", "text": "Vi tycker att det är vi som ska köra, inte ni. Vid hembesöket tar vi med kistkatalog, prover på tryck och en bärbar dator för annonsen.", "text2": "Hembesöket tar oftast två timmar, och fikat är frivilligt men uppskattat.", "tagg": "hem"},
-    {"titel": "Kyrkor och kapell i hela länet", "text": "Från Frösö kyrka och Åre gamla kyrka till kapellet i Ljungdalen – vi vet var orgeln är bra, var det är brant uppför till kyrkogården och vilka präster som gärna kör skoter.", "text2": "Vi samordnar med pastoraten så att präst, organist och kyrkvaktmästare kan komma samma dag.", "tagg": "begravning"},
-    {"titel": "Vinterns begravningar", "text": "I inlandet fryser marken ofta en meter djupt från december till april. Då hålls ceremonin i vanlig tid och kistan eller urnan vilar i kyrkans gravkor tills marken tinat.", "text2": "Vi ordnar gravsättningen i maj och bjuder in familjen till en enkel stund vid graven.", "tagg": "natur"},
-    {"titel": "Samiska och fjällnära traditioner", "text": "Vi har ordnat begravningar med jojk, kolt och renhornsdekorationer tillsammans med familjer från samebyarna i Jämtland. Vi frågar alltid familjen hur de vill ha det och tar hjälp av deras egna kontakter.", "text2": "Minnesstunden kan hållas i kåta eller på ett fjällhotell om familjen önskar.", "tagg": "natur"}
+    {
+      "titel": "Hembesök",
+      "text": "Vi tycker att det är vi som ska köra, inte ni. Vid hembesöket tar vi med kistkatalog, prover på tryck och en bärbar dator för annonsen.",
+      "text2": "Hembesöket tar oftast två timmar, och fikat är frivilligt men uppskattat.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Kyrkor och kapell i hela länet",
+      "text": "Från Frösö kyrka och Åre gamla kyrka till kapellet i Ljungdalen – vi vet var orgeln är bra, var det är brant uppför till kyrkogården och vilka präster som gärna kör skoter.",
+      "text2": "Vi samordnar med pastoraten så att präst, organist och kyrkvaktmästare kan komma samma dag.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Vinterns begravningar",
+      "text": "I inlandet fryser marken ofta en meter djupt från december till april. Då hålls ceremonin i vanlig tid och kistan eller urnan vilar i kyrkans gravkor tills marken tinat.",
+      "text2": "Vi ordnar gravsättningen i maj och bjuder in familjen till en enkel stund vid graven.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Samiska och fjällnära traditioner",
+      "text": "Vi har ordnat begravningar med jojk, kolt och renhornsdekorationer tillsammans med familjer från samebyarna i Jämtland. Vi frågar alltid familjen hur de vill ha det och tar hjälp av deras egna kontakter.",
+      "text2": "Minnesstunden kan hållas i kåta eller på ett fjällhotell om familjen önskar.",
+      "tagg": "natur"
+    }
   ],
   "bolag": [
-    {"namn": "Lena Persson", "segment": "Delägare och rådgivare", "rubrik": "Västra Jämtland och fjällen", "text": "Lena tar de flesta uppdragen i Åre, Krokom och Berg. Hon har ordnat begravningar i 24 år.", "tagg": "begravning"},
-    {"namn": "Mats Olofsson", "segment": "Delägare och rådgivare", "rubrik": "Norra länet och Östersund", "text": "Mats kör till Strömsund, Hammerdal och Hotagen och håller i livesändningarna.", "tagg": "begravning"},
-    {"namn": "Kontoret på Prästgatan", "segment": "Två rådgivare och en administratör", "rubrik": "Östersund och Brunflo", "text": "Tar emot familjer i stan, sköter annonser, tryck och kontakter med pastoraten.", "tagg": "kontor"},
-    {"namn": "Transport", "segment": "En chaufför och två bilar", "rubrik": "Mil efter mil", "text": "Vår chaufför Jonas kör omkring 4 000 mil om året, de flesta i mörker och på vinterväg.", "tagg": "natur"}
+    {
+      "namn": "Lena Persson",
+      "segment": "Delägare och rådgivare",
+      "rubrik": "Västra Jämtland och fjällen",
+      "text": "Lena tar de flesta uppdragen i Åre, Krokom och Berg. Hon har ordnat begravningar i 24 år.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Mats Olofsson",
+      "segment": "Delägare och rådgivare",
+      "rubrik": "Norra länet och Östersund",
+      "text": "Mats kör till Strömsund, Hammerdal och Hotagen och håller i livesändningarna.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Kontoret på Prästgatan",
+      "segment": "Två rådgivare och en administratör",
+      "rubrik": "Östersund och Brunflo",
+      "text": "Tar emot familjer i stan, sköter annonser, tryck och kontakter med pastoraten.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Transport",
+      "segment": "En chaufför och två bilar",
+      "rubrik": "Mil efter mil",
+      "text": "Vår chaufför Jonas kör omkring 4 000 mil om året, de flesta i mörker och på vinterväg.",
+      "tagg": "natur"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Ny bil med fyrhjulsdrift", "text": "Den gamla begravningsbilen fastnade två gånger förra vintern – den nya klarar fjällvägarna.", "tagg": "natur"},
-    {"rubrik": "Livesändning från Ljungdalens kapell", "text": "Trots dålig täckning fick 60 släktingar i Skåne och Stockholm följa ceremonin.", "tagg": "begravning"},
-    {"rubrik": "Vårens gravsättningar", "text": "I maj gravsatte vi 23 personer som begravts under vintern, från Hede till Gäddede.", "tagg": "natur"}
+    {
+      "rubrik": "Ny bil med fyrhjulsdrift",
+      "text": "Den gamla begravningsbilen fastnade två gånger förra vintern – den nya klarar fjällvägarna.",
+      "tagg": "natur"
+    },
+    {
+      "rubrik": "Livesändning från Ljungdalens kapell",
+      "text": "Trots dålig täckning fick 60 släktingar i Skåne och Stockholm följa ceremonin.",
+      "tagg": "begravning"
+    },
+    {
+      "rubrik": "Vårens gravsättningar",
+      "text": "I maj gravsatte vi 23 personer som begravts under vintern, från Hede till Gäddede.",
+      "tagg": "natur"
+    }
   ],
   "nyckeltal": [
-    {"varde": "1978", "enhet": "", "etikett": "Året byrån startade i Brunflo"},
-    {"varde": "60+", "enhet": "kyrkor", "etikett": "Vi har haft begravningar i"},
-    {"varde": "4 000", "enhet": "mil", "etikett": "Körs varje år"},
-    {"varde": "0 kr", "enhet": "", "etikett": "För hembesök i länet"}
+    {
+      "varde": "1978",
+      "enhet": "",
+      "etikett": "Året byrån startade i Brunflo"
+    },
+    {
+      "varde": "60+",
+      "enhet": "kyrkor",
+      "etikett": "Vi har haft begravningar i"
+    },
+    {
+      "varde": "4 000",
+      "enhet": "mil",
+      "etikett": "Körs varje år"
+    },
+    {
+      "varde": "0 kr",
+      "enhet": "",
+      "etikett": "För hembesök i länet"
+    }
   ],
   "projekt": [
-    {"namn": "Begravning i Åre gamla kyrka", "ort": "Åre", "typ": "Kyrklig begravning", "ar": "2025", "text": "En liftskötare från 1960-talet – kollegorna stod hedersvakt med skidor i händerna.", "tagg": "begravning"},
-    {"namn": "Fjällceremoni vid fäboden", "ort": "Vallbo", "typ": "Borgerlig begravning", "ar": "2025", "text": "Familjen bar urnan upp till fäbodvallen där hon hade sommarbetat som ung.", "tagg": "natur"},
-    {"namn": "Samisk begravning", "ort": "Frostviken", "typ": "Kyrklig begravning", "ar": "2025", "text": "Jojk vid kistan, kolt på de närmaste och minnesstund i en kåta vid sjön.", "tagg": "natur"},
-    {"namn": "Livesänd ceremoni i Ljungdalen", "ort": "Ljungdalen", "typ": "Kyrklig begravning", "ar": "2026", "text": "Vi drog fram mobilt bredband med en antenn på kapellets tak.", "tagg": "begravning", "status": "Genomförd"},
-    {"namn": "Vinterceremoni och vårgravsättning", "ort": "Hammerdal", "typ": "Kyrklig begravning", "ar": "2024", "text": "Ceremoni i januari vid minus 31 grader och gravsättning i maj med vitsippor.", "tagg": "begravning"},
-    {"namn": "Minnesstund i Hallens bygdegård", "ort": "Hallen", "typ": "Minnesstund", "ar": "2024", "text": "Byns kvinnor bakade tunnbröd och kokade kaffe på vedspisen för 90 gäster.", "tagg": "people"}
+    {
+      "namn": "Begravning i Åre gamla kyrka",
+      "ort": "Åre",
+      "typ": "Kyrklig begravning",
+      "ar": "2025",
+      "text": "En liftskötare från 1960-talet – kollegorna stod hedersvakt med skidor i händerna.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Fjällceremoni vid fäboden",
+      "ort": "Vallbo",
+      "typ": "Borgerlig begravning",
+      "ar": "2025",
+      "text": "Familjen bar urnan upp till fäbodvallen där hon hade sommarbetat som ung.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Samisk begravning",
+      "ort": "Frostviken",
+      "typ": "Kyrklig begravning",
+      "ar": "2025",
+      "text": "Jojk vid kistan, kolt på de närmaste och minnesstund i en kåta vid sjön.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Livesänd ceremoni i Ljungdalen",
+      "ort": "Ljungdalen",
+      "typ": "Kyrklig begravning",
+      "ar": "2026",
+      "text": "Vi drog fram mobilt bredband med en antenn på kapellets tak.",
+      "tagg": "begravning",
+      "status": "Genomförd"
+    },
+    {
+      "namn": "Vinterceremoni och vårgravsättning",
+      "ort": "Hammerdal",
+      "typ": "Kyrklig begravning",
+      "ar": "2024",
+      "text": "Ceremoni i januari vid minus 31 grader och gravsättning i maj med vitsippor.",
+      "tagg": "begravning"
+    },
+    {
+      "namn": "Minnesstund i Hallens bygdegård",
+      "ort": "Hallen",
+      "typ": "Minnesstund",
+      "ar": "2024",
+      "text": "Byns kvinnor bakade tunnbröd och kokade kaffe på vedspisen för 90 gäster.",
+      "tagg": "people"
+    }
   ],
   "process": [
-    {"titel": "Ett samtal", "text": "Det är Lena eller Mats som svarar. Vi bestämmer när vi kan komma hem till er.", "tagg": "begravning"},
-    {"titel": "Vid köksbordet", "text": "Vi kör ut till er och går igenom ceremoni, kyrka, kista och blommor i lugn och ro.", "tagg": "hem"},
-    {"titel": "Begravningsdagen", "text": "Vi är på plats i god tid, oavsett hur långt det är och hur mycket snö som kommit.", "tagg": "begravning"},
-    {"titel": "Graven", "text": "Är det vinter återkommer vi till gravsättningen när marken har tinat.", "tagg": "natur"}
+    {
+      "titel": "Ett samtal",
+      "text": "Det är Lena eller Mats som svarar. Vi bestämmer när vi kan komma hem till er.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Vid köksbordet",
+      "text": "Vi kör ut till er och går igenom ceremoni, kyrka, kista och blommor i lugn och ro.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Begravningsdagen",
+      "text": "Vi är på plats i god tid, oavsett hur långt det är och hur mycket snö som kommit.",
+      "tagg": "begravning"
+    },
+    {
+      "titel": "Graven",
+      "text": "Är det vinter återkommer vi till gravsättningen när marken har tinat.",
+      "tagg": "natur"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Avståndet ska aldrig kosta extra",
     "text": "En familj i Gäddede ska inte betala mer än en i Östersund. Därför ingår hembesök och körning till ceremonin i hela Jämtlands län. Vi har dessutom alltid snökedjor, spade och filtar i bilarna.",
-    "mal": [["0 kr", "för hembesök i länet"], ["2", "delägare som själva svarar i telefon"], ["1", "gravsättning i maj för vinterns begravningar"]]
+    "mal": [
+      [
+        "0 kr",
+        "för hembesök i länet"
+      ],
+      [
+        "2",
+        "delägare som själva svarar i telefon"
+      ],
+      [
+        "1",
+        "gravsättning i maj för vinterns begravningar"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Bor du i Jämtland och har körkort?",
@@ -74,33 +258,114 @@
     "jobb": []
   },
   "kultur": "Vi fikar alltid hos familjen om vi blir bjudna – det är så det går till här.",
-  "citat": {"text": "Folk i byarna har alltid fått åka till stan för allt. När någon har dött ska de slippa. Det är vi som kör.", "namn": "Mats Olofsson", "roll": "Delägare", "tagg": "natur"},
+  "citat": {
+    "text": "Folk i byarna har alltid fått åka till stan för allt. När någon har dött ska de slippa. Det är vi som kör.",
+    "namn": "Mats Olofsson",
+    "roll": "Delägare",
+    "tagg": "natur"
+  },
   "omdomen": [
-    {"text": "Lena körde sexton mil i snöstorm för att träffa oss i Gäddede. Hon kom med tårta.", "namn": "Ingrid E.", "ort": "Gäddede"},
-    {"text": "Pappa begravdes i januari och gravsattes i maj. Mats ringde själv och påminde oss en vecka innan.", "namn": "Tobias L.", "ort": "Hammerdal"},
-    {"text": "Våra barn i Malmö kunde se begravningen på datorn, trots att kapellet ligger mitt på fjället.", "namn": "Berit och Ove J.", "ort": "Ljungdalen"}
+    {
+      "text": "Lena körde sexton mil i snöstorm för att träffa oss i Gäddede. Hon kom med tårta.",
+      "namn": "Ingrid E.",
+      "ort": "Gäddede"
+    },
+    {
+      "text": "Pappa begravdes i januari och gravsattes i maj. Mats ringde själv och påminde oss en vecka innan.",
+      "namn": "Tobias L.",
+      "ort": "Hammerdal"
+    },
+    {
+      "text": "Våra barn i Malmö kunde se begravningen på datorn, trots att kapellet ligger mitt på fjället.",
+      "namn": "Berit och Ove J.",
+      "ort": "Ljungdalen"
+    }
   ],
   "faq": [
-    ["Kostar det något att ni kommer hem till oss?", "Nej, hembesök och körning ingår i hela Jämtlands län. Utanför länet tar vi milersättning."],
-    ["Varför väntar man med gravsättningen på vintern?", "Marken fryser ofta för djupt för att det ska gå att gräva. Kistan eller urnan förvaras då i kyrkans gravkor eller bårhus, och gravsättningen sker när tjälen gått ur."],
-    ["Kan vi ha en ceremoni utomhus på fjället?", "Ja, borgerliga ceremonier kan hållas nästan var som helst. Spridning av aska utanför kyrkogård kräver tillstånd från länsstyrelsen, och vi hjälper er att söka."],
-    ["Hur fungerar livesändningen i glesbygd?", "Vi tar med en egen 4G-router och antenn. Täckningen räcker i nästan alla kyrkor i länet – annars spelar vi in och skickar filmen samma kväll."],
-    ["Kan ni ordna en begravning enligt samisk tradition?", "Vi har gjort det många gånger, men det är alltid familjen som bestämmer vad som ska ingå. Vi tar gärna hjälp av era egna kontakter och av präster som talar samiska."],
-    ["Är ni öppna på helger?", "Kontoret är stängt, men Lena och Mats svarar i telefon alla dagar mellan 7 och 22."]
+    [
+      "Kostar det något att ni kommer hem till oss?",
+      "Nej, hembesök och körning ingår i hela Jämtlands län. Utanför länet tar vi milersättning."
+    ],
+    [
+      "Varför väntar man med gravsättningen på vintern?",
+      "Marken fryser ofta för djupt för att det ska gå att gräva. Kistan eller urnan förvaras då i kyrkans gravkor eller bårhus, och gravsättningen sker när tjälen gått ur."
+    ],
+    [
+      "Kan vi ha en ceremoni utomhus på fjället?",
+      "Ja, borgerliga ceremonier kan hållas nästan var som helst. Spridning av aska utanför kyrkogård kräver tillstånd från länsstyrelsen, och vi hjälper er att söka."
+    ],
+    [
+      "Hur fungerar livesändningen i glesbygd?",
+      "Vi tar med en egen 4G-router och antenn. Täckningen räcker i nästan alla kyrkor i länet – annars spelar vi in och skickar filmen samma kväll."
+    ],
+    [
+      "Kan ni ordna en begravning enligt samisk tradition?",
+      "Vi har gjort det många gånger, men det är alltid familjen som bestämmer vad som ska ingå. Vi tar gärna hjälp av era egna kontakter och av präster som talar samiska."
+    ],
+    [
+      "Är ni öppna på helger?",
+      "Kontoret är stängt, men Lena och Mats svarar i telefon alla dagar mellan 7 och 22."
+    ]
   ],
   "certifikat": [
-    {"titel": "SBF-auktoriserad byrå", "text": "Auktoriserad av Sveriges Begravningsbyråers Förbund sedan 1984.", "ikon": "skold"},
-    {"titel": "Allmänna bestämmelser", "text": "Avtal enligt de bestämmelser för begravningstjänster som tagits fram med Konsumentverket.", "ikon": "dokument"},
-    {"titel": "Diplomerade rådgivare", "text": "Lena och Mats har båda SBF:s diplom i begravningsrådgivning.", "ikon": "stjarna"},
-    {"titel": "Avtal med pastoraten", "text": "Samarbetsavtal med Svenska kyrkans pastorat i Östersund, Krokom, Åre och Berg om tider och lokaler.", "ikon": "kors"}
+    {
+      "titel": "SBF-auktoriserade sedan 1984",
+      "text": "Auktoriserad av Sveriges Begravningsbyråers Förbund sedan 1984.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Tydliga avtal",
+      "text": "Avtal enligt de bestämmelser för begravningstjänster som tagits fram med Konsumentverket.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "SBF-diplom",
+      "text": "Lena och Mats har båda SBF:s diplom i begravningsrådgivning.",
+      "ikon": "stjarna"
+    },
+    {
+      "titel": "Avtal med pastoraten",
+      "text": "Samarbetsavtal med Svenska kyrkans pastorat i Östersund, Krokom, Åre och Berg om tider och lokaler.",
+      "ikon": "kors"
+    }
   ],
-  "kunder": ["Östersunds kommun, socialtjänsten", "Brunflo församling", "Hammerdals Bygdegårdsförening", "Hallens Hembygdsförening", "Åre Liftveteraner", "Frostvikens Pensionärsförening", "Föllinge Bysamfällighet"],
+  "kunder": [
+    "Östersunds kommun, socialtjänsten",
+    "Brunflo församling",
+    "Hammerdals Bygdegårdsförening",
+    "Hallens Hembygdsförening",
+    "Åre Liftveteraner",
+    "Frostvikens Pensionärsförening",
+    "Föllinge Bysamfällighet"
+  ],
   "nyheter": [
-    ["2026-10-30", "Inför vintern: så fungerar en vinterbegravning", "Varför vi väntar med gravsättningen och vad det betyder för familjen.", "natur"],
-    ["2026-06-02", "23 gravsättningar efter vintern", "Tack till alla kyrkvaktmästare som hjälpte oss under maj.", "begravning"],
-    ["2025-12-04", "Ny begravningsbil med fyrhjulsdrift", "Nu tar vi oss fram även när plogbilen inte har hunnit.", "natur"]
+    [
+      "2026-10-30",
+      "Inför vintern: så fungerar en vinterbegravning",
+      "Varför vi väntar med gravsättningen och vad det betyder för familjen.",
+      "natur"
+    ],
+    [
+      "2026-06-02",
+      "23 gravsättningar efter vintern",
+      "Tack till alla kyrkvaktmästare som hjälpte oss under maj.",
+      "begravning"
+    ],
+    [
+      "2025-12-04",
+      "Ny begravningsbil med fyrhjulsdrift",
+      "Nu tar vi oss fram även när plogbilen inte har hunnit.",
+      "natur"
+    ]
   ],
-  "kontakt": {"adress": "Prästgatan 47", "postnr": "831 31", "ort": "Östersund", "telefon": "070-174 06 81", "epost": "kontakt@storsjobygden-begravning.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Prästgatan 47",
+    "postnr": "831 31",
+    "ort": "Östersund",
+    "telefon": "070-174 06 81",
+    "epost": "kontakt@storsjobygden-begravning.se",
+    "orgnr": ""
+  },
   "oppettider": "Kontoret mån–fre 9–16, telefon alla dagar 7–22",
   "omrade": "Hela Jämtlands län",
   "fot_cta": "Ring Lena eller Mats – vi kör hem till er.",
@@ -116,12 +381,21 @@
     "process_rubrik": "Vi kör, ni sörjer",
     "hb_etikett": "Lika för alla",
     "bolag_rubrik": "Sex personer, ett helt län",
-    "bolag_kol": ["Vem", "Roll", "Om"],
+    "bolag_kol": [
+      "Vem",
+      "Roll",
+      "Om"
+    ],
     "omdomen_rubrik": "Röster från bygden",
     "faq_rubrik": "Vanliga frågor i fjällen",
     "boka_rubrik": "Vill du att vi kommer hem till dig?",
     "boka_text": "Skriv var du bor så ringer Lena eller Mats upp och bokar en tid.",
-    "boka_falt": ["Namn", "Telefon", "Ort eller by", "Vad gäller det?"],
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "Ort eller by",
+      "Vad gäller det?"
+    ],
     "logos_rubrik": "Föreningar och församlingar vi samarbetar med",
     "certifikat_rubrik": "Auktoriserade sedan 1984",
     "ny_rubrik": "Nytt från Prästgatan",

@@ -17,7 +17,7 @@
   ],
   "vagval_rubrik": "När kan du köra?",
   "tjanster": [
-    {"titel": "Tidiga lektioner", "ikon": "sol", "href": "verksamhet.html", "text": "Från 05.30 – före dagskiftet eller direkt efter natten."},
+    {"titel": "Gryningslektioner", "ikon": "sol", "href": "verksamhet.html", "text": "Från 05.30 – före dagskiftet eller direkt efter natten."},
     {"titel": "Kvällslektioner", "ikon": "lampa", "href": "verksamhet.html", "text": "Till 22.00 alla dagar, med mörkerkörning halva året."},
     {"titel": "Helglektioner", "ikon": "kalender", "href": "verksamhet.html", "text": "Lördag och söndag till samma pris som vardagar."},
     {"titel": "Provbilsjouren", "ikon": "nyckel", "href": "verksamhet.html", "text": "Skolans bil till körprovet med 24 timmars varsel."},
@@ -90,10 +90,10 @@
   "priser": [
     {"namn": "Lektion", "pris": "690 kr", "enhet": "per 40 minuter", "text": "Samma pris 05.30 som 21.20.", "punkter": ["Alla dagar 05.30–22.00", "Hämtning vid jobbet", "Ombokning till kl. 20 kvällen före", "Mörkerkörning ingår vintertid"]},
     {"namn": "Skiftpaketet", "pris": "9 950 kr", "enhet": "15 lektioner", "text": "Lektionerna läggs efter ditt skiftschema.", "punkter": ["15 lektioner à 40 minuter", "Schemaplanering varje vecka", "Riskettan på söndag", "Fri ombokning"], "utvald": true},
-    {"namn": "Provbilsjouren", "pris": "1 450 kr", "enhet": "per körprov", "text": "Bil och uppvärmning med kort varsel.", "punkter": ["Svar inom en timme", "Uppvärmningslektion 40 minuter", "Lån av bil till körprovet", "Även kvällar och helger"]}
+    {"namn": "Provbilsjouren", "pris": "1 450 kr", "enhet": "per körprov", "text": "Bil och uppvärmning med kort varsel.", "punkter": ["Svar inom en timme", "Uppvärmningslektion 40 minuter", "Bilen står redo vid provplatsen", "Även kvällar och helger"]}
   ],
   "certifikat": [
-    {"titel": "Trafikskoletillstånd", "text": "Tillstånd från Transportstyrelsen att bedriva trafikskola för behörighet B och BE.", "ikon": "dokument"},
+    {"titel": "Trafikskoletillstånd", "text": "Transportstyrelsens tillstånd för B och BE, med undervisning alla dagar i veckan.", "ikon": "dokument"},
     {"titel": "Riskutbildning", "text": "Godkända att hålla riskettan, med halkbanan på godkänd bana i Västernorrland.", "ikon": "skold"},
     {"titel": "Kollektivavtal", "text": "Kollektivavtal för alla anställda, med OB-tillägg för kvällar och helger.", "ikon": "folk"},
     {"titel": "Medlem i STR", "text": "Medlem i Sveriges Trafikutbildares Riksförbund sedan 2013.", "ikon": "skola"}
@@ -130,7 +130,7 @@
     "boka_rubrik": "Skicka ditt skiftschema",
     "boka_text": "Skriv vilket schema du går och var du jobbar, så föreslår vi tider för de kommande tre veckorna.",
     "boka_falt": ["Namn", "Telefon", "Arbetsplats", "Skiftschema eller tider"],
-    "certifikat_rubrik": "Tillstånd och avtal",
+    "certifikat_rubrik": "Tillstånd, avtal och OB",
     "logos_rubrik": "Arbetsgivare med skift",
     "medarbetare": "Morgon- och kvällslaget"
   }

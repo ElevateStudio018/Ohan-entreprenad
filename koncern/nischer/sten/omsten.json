@@ -27,7 +27,7 @@
     {"titel": "Besök lagret", "ikon": "lada", "href": "om-oss.html#kontakt", "text": "Lagret på Spillepengen är öppet för besök varje vardag."}
   ],
   "affarsomraden": [
-    {"titel": "Offentliga miljöer", "text": "Torg, gångfartsgator och skolgårdar står för två tredjedelar av vår försäljning. Vi levererar till kommuner och entreprenörer med samma dokumentation som för ny sten.", "text2": "All återbrukad gatsten och kantsten provas och deklareras enligt EN 1342 och EN 1343.", "tagg": "stad"},
+    {"titel": "Torg och gator", "text": "Torg, gångfartsgator och skolgårdar står för två tredjedelar av vår försäljning. Vi levererar till kommuner och entreprenörer med samma dokumentation som för ny sten.", "text2": "All återbrukad gatsten och kantsten provas och deklareras enligt EN 1342 och EN 1343.", "tagg": "stad"},
     {"titel": "Rivning och inventering", "text": "Innan en gata grävs upp eller ett hus rivs går vi igenom vad som går att ta tillvara. Byggherren får en lista med mängder, värde och förslag på demontering.", "text2": "Sten vi tar emot betalar vi för, eller tar emot kostnadsfritt, i stället för att den går till krossning.", "tagg": "rivning"},
     {"titel": "Bostadsgårdar och trädgårdar", "text": "Bostadsrättsföreningar och villaägare köper kallmurar, trappsteg och hällar med patina som ny sten inte kan få. Vi levererar från ett ton.", "text2": "Hämta själv med släp eller få leverans med kranbil i hela Skåne.", "tagg": "tradgard"},
     {"titel": "Kök och interiör", "text": "Gamla bänkskivor från kontor och restauranger och stora golvplattor av kalksten sågas om till nya kök och fönsterbänkar.", "text2": "Varje skiva får en ursprungsetikett: vilket hus den kommer ifrån och när det byggdes.", "tagg": "interior"}
@@ -53,7 +53,7 @@
     {"namn": "Fågelsångsskolan", "ort": "Staffanstorp", "typ": "Skolgård", "ar": "2025", "text": "Sittmurar och trappor av kantsten från gatuombyggnader i Lund.", "tagg": "anlaggning"},
     {"namn": "Gamla Bankhallen", "ort": "Helsingborg", "typ": "Inventering och demontering", "ar": "2026", "text": "860 kvadratmeter kalkstensgolv lyfts för hand och sågas om.", "tagg": "rivning", "status": "Pågående"},
     {"namn": "Brf Kajkanten", "ort": "Malmö", "typ": "Innergård", "ar": "2025", "text": "Gård med hällar från en riven kaj i Landskrona.", "tagg": "tradgard"},
-    {"namn": "Radhus i Bjärred", "ort": "Lomma", "typ": "Kök och fönsterbänkar", "ar": "2024", "text": "Bänkskivor ur en gammal disk från en saluhall.", "tagg": "interior"},
+    {"namn": "Radhus i Bjärred", "ort": "Lomma", "typ": "Skivor ur en saluhallsdisk", "ar": "2024", "text": "Bänkskivor ur en gammal disk från en saluhall.", "tagg": "interior"},
     {"namn": "Kvarteret Spinneriet", "ort": "Ystad", "typ": "Återbruksplan", "ar": "2024", "text": "Inventering av 1 100 ton sten inför omvandling av en industrifastighet.", "tagg": "industri"}
   ],
   "process": [
@@ -92,7 +92,7 @@
     {"titel": "CE enligt EN 1342 och 1343", "text": "Återbrukad gatsten och kantsten provas och prestandadeklareras av ackrediterat labb.", "ikon": "dokument"},
     {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem med årlig klimatrapport och extern revision.", "ikon": "lov"},
     {"titel": "Byggvarubedömningen", "text": "Våra återbruksprodukter är bedömda och registrerade i Byggvarubedömningen.", "ikon": "skold"},
-    {"titel": "Sveriges Stenindustriförbund", "text": "Medlemmar och aktiva i förbundets arbetsgrupp för återbruk av natursten.", "ikon": "sten"}
+    {"titel": "Förbundets återbruksgrupp", "text": "Medlemmar och aktiva i förbundets arbetsgrupp för återbruk av natursten.", "ikon": "sten"}
   ],
   "kunder": ["Malmö stad", "Staffanstorps kommun", "Brf Kajkanten", "Öresundskajens Fastigheter", "Skånska Markentreprenader AB", "Ystads Industrifastigheter", "Lunds Gatukontor", "Hyllie Torgbolag"],
   "nyheter": [

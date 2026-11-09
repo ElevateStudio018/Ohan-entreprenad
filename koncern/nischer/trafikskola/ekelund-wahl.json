@@ -43,9 +43,9 @@
     {"rubrik": "Trygg igen fyller fem år", "text": "Över 200 personer har gått kursen för förare som slutat köra av rädsla.", "tagg": "stad"}
   ],
   "nyckeltal": [
-    {"varde": "30", "enhet": "elever", "etikett": "Som mest per lärare"},
+    {"varde": "30", "enhet": "elever", "etikett": "Aktiva elever per lärare, max"},
     {"varde": "60", "enhet": "minuter", "etikett": "Per lektion"},
-    {"varde": "74 %", "enhet": "", "etikett": "Klarar körprovet första gången"},
+    {"varde": "74 %", "enhet": "", "etikett": "Godkända vid första körprovet"},
     {"varde": "52 %", "enhet": "", "etikett": "Av eleverna är över 25 år"}
   ],
   "projekt": [
@@ -65,7 +65,7 @@
   "hallbarhet": {
     "rubrik": "Vi tar inte fler elever än vi hinner med",
     "text": "När en lärare har 30 aktiva elever stänger vi för nya i den delen av staden. Det betyder att vi ibland har kö, men också att du aldrig behöver vänta mer än en vecka på nästa lektion.",
-    "mal": [["30", "elever som mest per lärare"], ["7 dagar", "längsta väntan på nästa lektion"], ["1", "lärare från start till körprov"]]
+    "mal": [["30", "aktiva elever per lärare"], ["7 dagar", "längsta väntan på nästa lektion"], ["1", "lärare från start till körprov"]]
   },
   "karriar": {
     "rubrik": "Undervisa med tid för varje elev",
@@ -86,17 +86,17 @@
     ["Hämtar ni överallt?", "I hela Göteborg och Mölndal. I Kungälv och Kungsbacka hämtar vi mot ett tillägg på 150 kronor per lektion."],
     ["Kan arbetsgivaren betala?", "Ja, flera företag ger körkort som personalförmån. Vi fakturerar företaget direkt."],
     ["Finns det kö?", "Ibland, eftersom varje lärare har högst 30 elever. Kön är oftast två till fyra veckor."],
-    ["Har ni automatbilar?", "Ja, tre av åtta bilar är automatväxlade. Många vuxna nybörjare väljer automat."]
+    ["Kan jag välja automat?", "Ja, tre av åtta bilar är automatväxlade. Många vuxna nybörjare väljer automat."]
   ],
   "priser": [
     {"namn": "Lektion", "pris": "1 290 kr", "enhet": "per 60 minuter", "text": "Med din egen lärare och hämtning.", "punkter": ["Hämtning i Göteborg och Mölndal", "Tider 06.30–21.00", "Direktnummer till läraren", "Plan med delmål"]},
-    {"namn": "Hela vägen", "pris": "42 900 kr", "enhet": "30 lektioner, risk och prov", "text": "Allt från första lektionen till körprovet.", "punkter": ["30 lektioner à 60 minuter", "Riskettan och halkbanan", "Privat handledarkurs", "Provlektion och bil till körprovet"], "utvald": true},
+    {"namn": "Hela vägen", "pris": "42 900 kr", "enhet": "30 lektioner, risk och prov", "text": "Allt från första lektionen till körprovet.", "punkter": ["30 lektioner à 60 minuter", "Risk 1 och halkbanan med din lärare", "Privat handledarkurs", "Provlektion och bil till körprovet"], "utvald": true},
     {"namn": "Trygg igen", "pris": "5 400 kr", "enhet": "fyra lektioner", "text": "För dig som har körkort men slutat köra.", "punkter": ["Samtal före första lektionen", "Fyra lektioner à 60 minuter", "Start på tom parkering", "Avslutning på motorväg"]}
   ],
   "certifikat": [
-    {"titel": "Trafikskoletillstånd", "text": "Tillstånd från Transportstyrelsen att bedriva trafikskola för behörighet B och BE.", "ikon": "dokument"},
+    {"titel": "Tillstånd för B och BE", "text": "Transportstyrelsens trafikskoletillstånd sedan starten 2015, för personbil och släp.", "ikon": "dokument"},
     {"titel": "Riskutbildning", "text": "Godkända att hålla riskettan, med halkbanan i samarbete med en godkänd bana.", "ikon": "skold"},
-    {"titel": "Trafiklärarexamen", "text": "Samtliga lärare har trafiklärarexamen och minst åtta års erfarenhet.", "ikon": "skola"},
+    {"titel": "Erfarna lärare", "text": "Samtliga lärare har trafiklärarexamen och minst åtta års erfarenhet.", "ikon": "skola"},
     {"titel": "Medlem i STR", "text": "Medlem i Sveriges Trafikutbildares Riksförbund sedan 2015.", "ikon": "folk"}
   ],
   "kunder": ["Arkitektkontoret Linje 7", "Kungsports Kapitalförvaltning", "Örgryte Fastighets AB", "Brf Delsjöterrassen", "Hovås Tennisklubb", "Advokatfirman Lindell & Berg"],
@@ -126,7 +126,7 @@
     "priser_etikett": "Priser",
     "priser_rubrik": "Längre lektioner, tydliga paket",
     "priser_utvald": "Mest valt",
-    "priser_not": "Alla priser inklusive moms. Trafikverkets provavgifter tillkommer.",
+    "priser_not": "Priserna inkluderar moms. Provavgifter till Trafikverket betalas separat.",
     "omdomen_rubrik": "Vuxna, tonåringar och föräldrar",
     "faq_rubrik": "Innan du bestämmer dig",
     "boka_rubrik": "Träffa din lärare först",

@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Bilskolan", "segment": "B och automat", "rubrik": "Nio lärare och nio bilar", "text": "Lektioner måndag till lördag från klockan sju, med start från skolan eller från gymnasiet på Sundstavägen.", "tagg": "korskola"},
     {"namn": "MC-skolan", "segment": "A1, A2 och A", "rubrik": "Thomas och Elin på hojarna", "text": "Två MC-lärare med radio i hjälmen och en följebil. Säsong april–oktober.", "tagg": "stad"},
-    {"namn": "Teorisalen", "segment": "Risk 1 och handledare", "rubrik": "Sexton stolar i Våxnäs", "text": "Riskettan, introduktionsutbildning och teorikvällar inför kunskapsprovet.", "tagg": "people"},
+    {"namn": "Teorisalen", "segment": "Riskettan och introduktion", "rubrik": "Sexton stolar i Våxnäs", "text": "Riskettan, introduktionsutbildning och teorikvällar inför kunskapsprovet.", "tagg": "people"},
     {"namn": "Kontoret", "segment": "Bokning och fakturor", "rubrik": "Birgitta svarar sedan 1991", "text": "Bokar lektioner, hjälper till med körkortstillståndet och vet vem som är elevens fasta lärare.", "tagg": "kontor"}
   ],
   "berattelser": [
@@ -59,7 +59,7 @@
   ],
   "process": [
     {"titel": "Körkortstillstånd", "text": "Du ansöker hos Transportstyrelsen och går handledarkursen. Birgitta hjälper till om något krånglar.", "tagg": "kontor"},
-    {"titel": "Första lektionen", "text": "Vi provkör 40 minuter i Våxnäs och gör en körplan med ungefärligt antal lektioner.", "tagg": "korskola"},
+    {"titel": "Bedömningslektion", "text": "Vi provkör 40 minuter i Våxnäs och gör en körplan med ungefärligt antal lektioner.", "tagg": "korskola"},
     {"titel": "Lektioner och risk", "text": "Lektioner varannan vecka, övning hemma däremellan och riskutbildningen när du kör säkert i stadstrafik.", "tagg": "stad"},
     {"titel": "Provlektion och körprov", "text": "En provlektion på samma tid som ditt körprov, och sedan lånar du skolans bil till Trafikverket.", "tagg": "korskola"}
   ],
@@ -71,7 +71,7 @@
   "karriar": {
     "rubrik": "Bli trafiklärare i en familjeskola",
     "text": "Vi söker en trafiklärare till bilskolan och en MC-lärare till säsongen 2027. Du får fast lön, egen bil i tjänsten och en schemaläggning som tar hänsyn till barnhämtning.",
-    "jobb": [["Trafiklärare B", "Karlstad"], ["MC-lärare, säsong", "Karlstad"]]
+    "jobb": [["Trafiklärare B", "Karlstad"], ["MC-lärare april–oktober", "Karlstad"]]
   },
   "kultur": "Fredagsfikat i teorisalen har funnits sedan Gunnars tid – i dag med kardemummabullar från Leif, som fortfarande kommer förbi.",
   "citat": {"text": "Farfar sa att man inte lär någon köra bil, man lär dem att tänka bakom ratten. Jag har inte hittat något bättre sätt att säga det.", "namn": "Karin Fryxell", "roll": "Vd, tredje generationen", "tagg": "people"},
@@ -81,7 +81,7 @@
     {"text": "Klarade uppkörningen första gången efter 19 lektioner och mycket körning med pappa.", "namn": "Ella N.", "ort": "Grums"}
   ],
   "faq": [
-    ["Hur många lektioner behöver jag?", "Det beror helt på hur mycket du övningskör hemma. Elever som kör mycket privat brukar behöva 15–20 lektioner, de som bara kör hos oss 35–45."],
+    ["Hur många lektioner brukar det bli?", "Det beror helt på hur mycket du övningskör hemma. Elever som kör mycket privat brukar behöva 15–20 lektioner, de som bara kör hos oss 35–45."],
     ["Hur långa är lektionerna?", "En lektion är 40 minuter. Många bokar dubbellektion, 80 minuter, när det är dags för landsväg och mörkerkörning."],
     ["När kan jag börja?", "Du kan börja övningsköra från 16 år när du har körkortstillstånd och har gått handledarkursen. Körprovet gör du tidigast när du fyllt 18."],
     ["Ska jag välja automat?", "Om du vet att du bara kommer köra automatbil sparar du ofta några lektioner. Men med villkorskod 78 får du inte köra manuell bil förrän du gjort ett nytt körprov."],
@@ -94,7 +94,7 @@
     {"namn": "Startpaketet", "pris": "8 900 kr", "enhet": "12 lektioner + riskettan", "text": "Det vanligaste upplägget för dig som också övar hemma.", "punkter": ["12 körlektioner à 40 minuter", "Riskettan i Våxnäs", "En gemensam lektion med handledaren", "Teorikvällar varannan onsdag"], "utvald": true},
     {"namn": "Provpaketet", "pris": "1 690 kr", "enhet": "inför körprovet", "text": "Provlektion med annan lärare och skolans bil till Trafikverket.", "punkter": ["Provlektion 40 minuter", "Lån av bil till körprovet", "Uppvärmning före provet", "Genomgång efter provet"]}
   ],
-  "prislista": [["Körlektion 40 min", "720 kr"], ["Dubbellektion 80 min", "1 390 kr"], ["Riskettan", "890 kr"], ["Halkbanan i Kil", "2 450 kr"], ["Handledarkurs per person", "450 kr"], ["MC-lektion 60 min", "1 150 kr"], ["Provpaket", "1 690 kr"]],
+  "prislista": [["Körlektion 40 min", "720 kr"], ["Dubbellektion 80 min", "1 390 kr"], ["Riskettan", "890 kr"], ["Halkbanan i Kil", "2 450 kr"], ["Introduktionsutbildning, per person", "450 kr"], ["MC-lektion 60 min", "1 150 kr"], ["Provpaket", "1 690 kr"]],
   "certifikat": [
     {"titel": "Trafikskoletillstånd", "text": "Tillstånd från Transportstyrelsen att bedriva trafikskola för behörighet A och B.", "ikon": "dokument"},
     {"titel": "Riskutbildning", "text": "Godkända att hålla riskutbildning del 1 för bil och MC, med certifierade instruktörer.", "ikon": "skold"},
