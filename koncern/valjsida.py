@@ -14,7 +14,7 @@ sys.path.insert(0, str(ROT / "mall"))
 sys.path.insert(0, str(ROT))
 import varianter  # noqa: E402
 from katalog import NAMN  # noqa: E402
-from rostsida import heroer  # noqa: E402
+from herokatalog import GAMLA, NYA  # noqa: E402
 
 UT = ROT.parent / "site" / "sektioner" / "valj.html"
 
@@ -28,10 +28,14 @@ def kortlista():
             if (b / f"{s}-{v}.jpg").exists():
                 kort.append({"id": f"{s}--{v}", "sek": s, "namn": NAMN.get(s, s), "v": v, "d": f"bilder/{s}-{v}.jpg",
                              "m": f"bilder/{s}-{v}-mobil.jpg", "sida": f"{s}-{v}.html"})
-    for nyckel, etikett, t in heroer():
-        rel = "../sajter/" + "/".join(t.parts[-3:-1])
-        kort.append({"id": f"hero--{nyckel}", "sek": "hero", "namn": "Hero-layout", "v": nyckel, "info": etikett,
-                     "d": rel + "/tumme.jpg", "m": rel + "/tumme.jpg", "sida": rel + "/index.html"})
+    gamla = {k for k, _ in GAMLA}
+    heroer = []
+    for nyckel, etikett in NYA + GAMLA:
+        if (b / f"hero-{nyckel}.jpg").exists():
+            heroer.append({"id": f"hero--{nyckel}", "sek": "hero", "namn": "Hero – text", "v": nyckel,
+                           "info": etikett + (" · omgång 1" if nyckel in gamla else " · ny"), "d": f"bilder/hero-{nyckel}.jpg",
+                           "m": f"bilder/hero-{nyckel}-mobil.jpg", "sida": f"hero-{nyckel}.html"})
+    kort = heroer + kort
     return kort
 
 
@@ -92,12 +96,12 @@ dialog{border:0;border-radius:8px;padding:22px;max-width:min(680px,94vw);backgro
 dialog textarea{width:100%;height:240px;font:13px/1.4 ui-monospace,monospace;background:var(--bg);color:var(--ink);border:1px solid var(--linje);border-radius:6px;padding:10px}
 </style></head><body>
 <header class="ram"><h1>Sektionsväljaren</h1>
-<p>__ANTAL__ sektionsvarianter och __HEROER__ hero-layouter. Starta <b>helskärmsläget</b> och gå igenom dem en i taget: <kbd>Mellanslag</kbd> = Ja, <kbd>N</kbd> eller <kbd>→</kbd> = Nej, <kbd>←</kbd> = tillbaka, <kbd>M</kbd> = mobil/dator, <kbd>Esc</kbd> = stäng. Skrolla med mus, styrplatta eller <kbd>↑</kbd><kbd>↓</kbd>.</p>
+<p>__ANTAL__ sektionsvarianter och __HEROER__ hero-layouter (texten i heron – placering, markering, paneler – och några med bilder). Starta <b>helskärmsläget</b> och gå igenom dem en i taget: <kbd>Mellanslag</kbd> = Ja, <kbd>N</kbd> eller <kbd>→</kbd> = Nej, <kbd>←</kbd> = tillbaka, <kbd>M</kbd> = mobil/dator, <kbd>Esc</kbd> = stäng. Skrolla med mus, styrplatta eller <kbd>↑</kbd><kbd>↓</kbd>.</p>
 <p>Valen sparas i den här webbläsaren. När du är klar: tryck <b>Kopiera mina val</b> och klistra in dem till Claude.</p>
-<div class="knappar"><button class="huvud" id="startnya" type="button">Gå igenom bara de __NYA__ nya</button><button id="start" type="button">Starta helskärm från början</button><button id="fortsatt" type="button">Fortsätt där jag slutade</button><button id="exportera" type="button">Kopiera mina val</button><button id="rensa" type="button">Börja om</button></div>
+<div class="knappar"><button class="huvud" id="startheroer" type="button">Välj heroer (__HERONYA__ nya)</button><button id="startnya" type="button">Gå igenom bara de __NYA__ nya</button><button id="start" type="button">Starta helskärm från början</button><button id="fortsatt" type="button">Fortsätt där jag slutade</button><button id="exportera" type="button">Kopiera mina val</button><button id="rensa" type="button">Börja om</button></div>
 </header>
 <div class="verktyg"><div class="ram">
-<button type="button" data-f="alla" aria-pressed="true">Alla</button><button type="button" data-f="ja" aria-pressed="false">Ja</button><button type="button" data-f="nej" aria-pressed="false">Nej</button><button type="button" data-f="ej" aria-pressed="false">Inte bedömda</button><button type="button" data-f="nya" aria-pressed="false">Nya varianter</button>
+<button type="button" data-f="alla" aria-pressed="true">Alla</button><button type="button" data-f="ja" aria-pressed="false">Ja</button><button type="button" data-f="nej" aria-pressed="false">Nej</button><button type="button" data-f="ej" aria-pressed="false">Inte bedömda</button><button type="button" data-f="nya" aria-pressed="false">Nya varianter</button><button type="button" data-f="hero" aria-pressed="false">Heroer</button>
 <select id="sek" aria-label="Sektion"><option value="">Alla sektioner</option></select>
 <span class="stat" id="stat"></span></div></div>
 <main class="ram" id="lista"></main>
@@ -117,9 +121,9 @@ const spara=()=>{try{localStorage.setItem(NYCKEL,JSON.stringify(val))}catch(e){}
 const $=s=>document.querySelector(s);
 let filter="alla", idx=0, mobil=false;
 const sel=$("#sek");[...new Map(KORT.map(k=>[k.sek,k.namn]))].forEach(([k,n])=>{const o=document.createElement("option");o.value=k;o.textContent=n;sel.append(o)});
-const arNy=k=>/^[klmn]-/.test(k.v);
+const arNy=k=>k.sek!=="hero"&&/^[klmn]-/.test(k.v);
 let lista=KORT;
-function synliga(){return KORT.filter(k=>(!sel.value||k.sek===sel.value)&&(filter==="alla"||(filter==="nya"?arNy(k):filter==="ej"?!val[k.id]:val[k.id]===filter)))}
+function synliga(){return KORT.filter(k=>(!sel.value||k.sek===sel.value)&&(filter==="alla"||(filter==="hero"?k.sek==="hero":filter==="nya"?arNy(k):filter==="ej"?!val[k.id]:val[k.id]===filter)))}
 function stat(){const ja=Object.values(val).filter(x=>x==="ja").length,nej=Object.values(val).filter(x=>x==="nej").length;$("#stat").innerHTML=`<b>${ja}</b> ja · <b>${nej}</b> nej · ${lista.length-ja-nej} kvar`}
 function rita(){
   const L=$("#lista");L.textContent="";let g=null,ul=null;
@@ -158,6 +162,7 @@ document.addEventListener("keydown",e=>{
 });
 document.addEventListener("fullscreenchange",()=>{if(!document.fullscreenElement&&!$("#fs").hidden){/* användaren lämnade helskärm med Esc – låt läget vara öppet */}});
 $("#start").onclick=()=>oppna(0,KORT);
+$("#startheroer").onclick=()=>{const h=KORT.filter(k=>k.sek==="hero"&&k.v.startsWith("t-"));const i=h.findIndex(k=>!val[k.id]);oppna(i<0?0:i,h)};
 $("#startnya").onclick=()=>oppna(0,KORT.filter(arNy));
 $("#fortsatt").onclick=()=>{const i=KORT.findIndex(k=>!val[k.id]);oppna(i<0?0:i,KORT)};
 $("#rensa").onclick=()=>{if($("#rensa").dataset.saker){val={};spara();rita();$("#rensa").textContent="Börja om";delete $("#rensa").dataset.saker}else{$("#rensa").dataset.saker=1;$("#rensa").textContent="Säker? Tryck igen";setTimeout(()=>{$("#rensa").textContent="Börja om";delete $("#rensa").dataset.saker},3000)}};
@@ -175,7 +180,7 @@ sel.onchange=rita;rita();
 def bygg():
     kort = kortlista()
     antal = sum(1 for k in kort if k["sek"] != "hero")
-    doc = SIDA.replace("__DATA__", json.dumps(kort, ensure_ascii=False)).replace("__ANTAL__", str(antal)).replace("__HEROER__", str(len(kort) - antal)).replace("__NYA__", str(sum(1 for k in kort if k["v"][:2] in ("k-", "l-", "m-", "n-"))))
+    doc = SIDA.replace("__DATA__", json.dumps(kort, ensure_ascii=False)).replace("__ANTAL__", str(antal)).replace("__HEROER__", str(len(kort) - antal)).replace("__HERONYA__", str(len(NYA))).replace("__NYA__", str(sum(1 for k in kort if k["v"][:2] in ("k-", "l-", "m-", "n-"))))
     UT.write_text(doc, encoding="utf-8")
     print(UT, antal, "sektioner", len(kort) - antal, "heroer")
 

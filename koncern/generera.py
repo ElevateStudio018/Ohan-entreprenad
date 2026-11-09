@@ -182,6 +182,10 @@ def google_fonts(p):
             f'<link rel="stylesheet" href="https://fonts.googleapis.com/css2?{q}&display=swap">')
 
 
+# Hero-textlayouter som kräver en viss hero (bildlayouterna bygger på mosaikens tre bilder)
+HERO_KRAV = {"t-bildkort": "mosaik", "t-bildtrio": "mosaik", "t-bildremsa": "mosaik", "t-bildram": "mosaik", "t-bildcirkel": "mosaik"}
+
+
 def ver(path):
     return hashlib.md5(path.read_bytes()).hexdigest()[:8]
 
@@ -279,7 +283,7 @@ class Sajt:
 
     def body_attr(self, har_hero):
         p = self.p
-        attr = {"hero": p["hero"], "header": "transparent" if har_hero and p["hero"] != "split" else ("ljus" if p["header"] == "transparent" else p["header"]), "meny": p["meny"], "ruta": p.get("ruta", "solid"), "kort": p.get("kort", "overlay"),
+        attr = {"hero": HERO_KRAV.get(p.get("herotext"), p["hero"]), "header": "transparent" if har_hero and p["hero"] != "split" else ("ljus" if p["header"] == "transparent" else p["header"]), "meny": p["meny"], "ruta": p.get("ruta", "solid"), "kort": p.get("kort", "overlay"),
                 "knapp": p.get("knappstil", "fylld"), "projekt": p.get("projekt", "karusell"), "nyheter": p.get("nyheter", "lista"),
                 "sidhero": p.get("sidhero", "bild"), "motiv": p.get("motiv", "inget"),
                 "herotext": p.get("herotext", "standard"), "rubrik": p.get("rubrikstil", "standard"), "kursiv": "1" if p["typsnitt"].get("kursiv") else "0"}
@@ -406,7 +410,7 @@ class Sajt:
 
     def hero(self):
         b, p = self.b, self.p
-        h = p["hero"]
+        h = HERO_KRAV.get(p.get("herotext"), p["hero"])
         if h in ("band", "helskarm", "centrerad"):
             sl = self.slides()
             inner = ""
@@ -449,12 +453,12 @@ class Sajt:
   <svg viewBox="0 0 300 80" preserveAspectRatio="none" aria-hidden="true"><path d="M0 64 L25 58 L50 62 L75 48 L100 52 L125 40 L150 44 L175 30 L200 34 L225 22 L250 26 L275 12 L300 16" fill="none" stroke="currentColor" stroke-width="2.5"/><path d="M0 64 L25 58 L50 62 L75 48 L100 52 L125 40 L150 44 L175 30 L200 34 L225 22 L250 26 L275 12 L300 16 V80 H0Z" fill="currentColor" opacity=".12"/></svg>
   <dl>{"".join(f"<div><dt>{E(n['etikett'])}</dt><dd>{E(n['varde'])} {E(n['enhet'])}</dd></div>" for n in b["nyckeltal"][:3])}</dl><small>Fördröjd kurs. Exempeldata.</small></aside></div><span class="foto-not">Illustrationsbild</span></section>'''
         if h == "statement":
-            return f'''<section class="hero hero-statement full" aria-labelledby="h1"><div class="bild-fyll">{img}</div><div class="wrap hero-txt"><span class="etikett">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
+            return f'''<section class="hero hero-statement full" aria-labelledby="h1" data-ord="{E(b["kortnamn"])}"><div class="bild-fyll">{img}</div><div class="wrap hero-txt"><span class="etikett">{E(b["typ"])}</span><h1 id="h1"><span class="h1-t">{E(b["hero_rubrik"])}</span></h1>
   <div class="statement-rad"><p class="ingress">{E(b["hero_text"])}</p><div class="knappar">{self.knapp(self.T("hero_knapp"), "verksamhet.html", "ljus")}{self.textlank(self.T("hero_lank"), self.b.get("hero_lank_href", "priser.html" if self.b.get("profil") in ("foto", "arborist", "djur") and "priser" in self.slugs else "projekt.html"))}</div></div></div><span class="foto-not">Illustrationsbild</span></section>'''
         if h == "mosaik":
             extra = [self.bilder.ta(t) for t in self.p.get("mosaik_taggar", ["people", "natur"])]
             bg = "".join(f'<div class="bild-fyll" style="position:relative">{self.bilder.img(x, "(min-width:700px) 50vw, 100vw", lazy=k > 0)}</div>' for k, x in enumerate([self.hero_bild] + extra))
-            return f'''<section class="hero hero-mosaik full" aria-labelledby="h1"><div class="mosaik-bg">{bg}</div><div class="wrap hero-txt"><span class="etikett" style="color:#fff;opacity:.85">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
+            return f'''<section class="hero hero-mosaik full" aria-labelledby="h1" data-ord="{E(b["kortnamn"])}"><div class="mosaik-bg">{bg}</div><div class="wrap hero-txt"><span class="etikett" style="color:#fff;opacity:.85">{E(b["typ"])}</span><h1 id="h1"><span class="h1-t">{E(b["hero_rubrik"])}</span></h1>
   <p class="ingress">{E(b["hero_text"])}</p><div class="knappar">{self.knapp(self.T("hero_knapp"), "verksamhet.html", "ljus")}{self.textlank(self.T("hero_lank"), self.b.get("hero_lank_href", "priser.html" if self.b.get("profil") in ("foto", "arborist", "djur") and "priser" in self.slugs else "projekt.html"))}</div></div><span class="foto-not">Illustrationsbild</span></section>'''
         raise ValueError(h)
 
@@ -1011,7 +1015,7 @@ class Sajt:
     def assets(self):
         a = self.ut / "assets"
         a.mkdir(parents=True, exist_ok=True)
-        (a / "bas.css").write_text((ROT / "mall/bas.css").read_text(encoding="utf-8") + "\n" + varianter.css(), encoding="utf-8")
+        (a / "bas.css").write_text((ROT / "mall/bas.css").read_text(encoding="utf-8") + "\n" + (ROT / "mall/herotext.css").read_text(encoding="utf-8") + "\n" + varianter.css(), encoding="utf-8")
         shutil.copy(ROT / "mall/sajt.js", a / "sajt.js")
         (a / "tokens.css").write_text(tokens_css(self.p), encoding="utf-8")
         lg = self.p["logga"]

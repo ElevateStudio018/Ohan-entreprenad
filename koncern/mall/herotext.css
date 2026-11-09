@@ -1,0 +1,225 @@
+/* =====================================================================================================================
+   Version 8: hero-textlayouter, omgång 2 (prefix t-). Fokus på texten: placering, markering, rubrikbehandling, paneler.
+   Några använder bilder (t-bild*) och bygger på mosaikens tre bilder (generera.HERO_KRAV).
+   Allt nedan förutsätter grundreglerna för body:not([data-herotext="standard"]) i bas.css.
+   ===================================================================================================================== */
+body[data-herotext^="t-"] .hero .hero-txt h1, body[data-herotext^="t-"] .hero .hero-txt h2 { font-size: calc(clamp(40px, 5.8vw, 96px) * var(--skala-r)); line-height: 1.02; }
+body[data-herotext^="t-"] .hero[data-ord]::before { content: none; }
+
+/* t-markering: rubriken på accentfärgade markeringar, rad för rad */
+body[data-herotext="t-markering"] .hero .hero-txt h1 { line-height: 1.22; max-width: 14em; }
+body[data-herotext="t-markering"] .hero .hero-txt .h1-t { background: var(--c-a); color: var(--c-a-ink); padding: 0 .16em; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+
+/* t-overstruken: tjock accentlinje under rubrikens rader */
+body[data-herotext="t-understruken"] .hero .hero-txt .h1-t { text-decoration: underline; text-decoration-color: var(--c-a); text-decoration-thickness: .1em; text-underline-offset: .14em; text-decoration-skip-ink: none; }
+body[data-herotext="t-understruken"] .hero .hero-txt h1 { line-height: 1.12; }
+
+/* t-forsta: första raden i accentfärg, resten vit */
+body[data-herotext="t-forsta"] .hero .hero-txt h1::first-line { color: var(--c-a); }
+
+/* t-tunntjock: lätt rubrik med fet första rad */
+body[data-herotext="t-tunntjock"] .hero .hero-txt h1 { font-weight: 300; letter-spacing: -.03em; }
+body[data-herotext="t-tunntjock"] .hero .hero-txt h1::first-line { font-weight: 800; }
+
+/* t-spoke: företagsnamnet jättestort och svagt bakom texten */
+body[data-herotext="t-spoke"] .hero[data-ord]::before { content: attr(data-ord); position: absolute; z-index: 2; left: max(12px, calc((100vw - var(--maxw)) / 2 + 24px)); right: 0; top: calc(var(--head-h) + 4vh); font: 800 clamp(80px, 19vw, 340px)/.85 var(--font-r); letter-spacing: -.05em; color: #fff; opacity: .13; white-space: nowrap; overflow: hidden; pointer-events: none; }
+body[data-herotext="t-spoke"] .hero .hero-txt h1 { max-width: 12em; }
+
+/* t-glas: frostad glaspanel nere till vänster */
+body[data-herotext="t-glas"] .hero .hero-txt { inset: auto auto clamp(28px, 7vh, 80px) max(20px, calc((100vw - var(--maxw)) / 2 + 40px)); max-width: min(720px, calc(100% - 40px)); padding: clamp(28px, 3vw, 48px); background: rgba(255,255,255,.14); -webkit-backdrop-filter: blur(18px) saturate(1.3); backdrop-filter: blur(18px) saturate(1.3); border: 1px solid rgba(255,255,255,.28); border-radius: max(var(--r-card), 6px); }
+body[data-herotext="t-glas"] .hero .hero-txt h1 { font-size: calc(clamp(34px, 4.2vw, 68px) * var(--skala-r)); }
+body[data-herotext="t-glas"] .hero .bild-fyll::after { background: rgba(0,0,0,.18); }
+
+/* t-morkkort: mörk panel nere till vänster */
+body[data-herotext="t-morkkort"] .hero .hero-txt { inset: auto auto clamp(28px, 7vh, 80px) max(20px, calc((100vw - var(--maxw)) / 2 + 40px)); max-width: min(680px, calc(100% - 40px)); padding: clamp(28px, 3vw, 52px); background: var(--c-dark); border-radius: var(--r-card); box-shadow: 0 24px 60px rgba(0,0,0,.3); }
+body[data-herotext="t-morkkort"] .hero .hero-txt h1 { font-size: calc(clamp(32px, 3.8vw, 62px) * var(--skala-r)); }
+body[data-herotext="t-morkkort"] .hero .hero-txt .etikett { color: var(--c-a); opacity: 1; }
+body[data-herotext="t-morkkort"] .hero .bild-fyll::after { background: rgba(0,0,0,.06); }
+
+/* t-fargkort: kort i primärfärgen nere till höger */
+body[data-herotext="t-fargkort"] .hero .hero-txt { inset: auto max(20px, calc((100vw - var(--maxw)) / 2 + 40px)) clamp(28px, 7vh, 80px) auto; max-width: min(640px, calc(100% - 40px)); padding: clamp(28px, 3vw, 52px); background: var(--c-p); border-radius: var(--r-card); }
+body[data-herotext="t-fargkort"] .hero .hero-txt h1, body[data-herotext="t-fargkort"] .hero .hero-txt .ingress, body[data-herotext="t-fargkort"] .hero .hero-txt .etikett, body[data-herotext="t-fargkort"] .hero .hero-txt .textlank { color: var(--c-p-ink); }
+body[data-herotext="t-fargkort"] .hero .hero-txt h1 { font-size: calc(clamp(32px, 3.6vw, 58px) * var(--skala-r)); }
+body[data-herotext="t-fargkort"] .hero .hero-txt .knapp-ljus { background: var(--c-a); border-color: var(--c-a); color: var(--c-a-ink); }
+body[data-herotext="t-fargkort"] .hero .bild-fyll::after { background: rgba(0,0,0,.06); }
+
+/* t-accentkort: kort i accentfärgen uppe till vänster */
+body[data-herotext="t-accentkort"] .hero .hero-txt { inset: calc(var(--head-h) + 6vh) auto auto max(20px, calc((100vw - var(--maxw)) / 2 + 40px)); max-width: min(620px, calc(100% - 40px)); padding: clamp(28px, 3vw, 48px); background: var(--c-a); border-radius: var(--r-card); }
+body[data-herotext="t-accentkort"] .hero .hero-txt h1, body[data-herotext="t-accentkort"] .hero .hero-txt .ingress, body[data-herotext="t-accentkort"] .hero .hero-txt .etikett, body[data-herotext="t-accentkort"] .hero .hero-txt .textlank { color: var(--c-a-ink); }
+body[data-herotext="t-accentkort"] .hero .hero-txt h1 { font-size: calc(clamp(32px, 3.6vw, 58px) * var(--skala-r)); }
+body[data-herotext="t-accentkort"] .hero .hero-txt .knapp-ljus { background: var(--c-a-ink); border-color: var(--c-a-ink); color: var(--c-a); }
+body[data-herotext="t-accentkort"] .hero .bild-fyll::after { background: rgba(0,0,0,.05); }
+
+/* t-hogerkort: vitt kort till höger, vertikalt centrerat */
+body[data-herotext="t-hogerkort"] .hero .hero-txt { inset: 50% max(20px, calc((100vw - var(--maxw)) / 2 + 40px)) auto auto; transform: translateY(-40%); max-width: min(560px, calc(100% - 40px)); padding: clamp(28px, 3vw, 48px); background: var(--c-bg); border-radius: var(--r-card); box-shadow: 0 24px 60px rgba(0,0,0,.25); }
+body[data-herotext="t-hogerkort"] .hero .hero-txt h1 { color: var(--c-rubrik); font-size: calc(clamp(30px, 3.4vw, 54px) * var(--skala-r)); }
+body[data-herotext="t-hogerkort"] .hero .hero-txt .ingress { color: var(--c-ink); }
+body[data-herotext="t-hogerkort"] .hero .hero-txt .etikett { color: var(--c-etikett); opacity: 1; }
+body[data-herotext="t-hogerkort"] .hero .hero-txt .knapp-ljus { background: var(--c-knapp); border-color: var(--c-knapp); color: var(--c-knapp-ink); }
+body[data-herotext="t-hogerkort"] .hero .hero-txt .textlank { color: var(--c-p-text); }
+body[data-herotext="t-hogerkort"] .hero .bild-fyll::after { background: linear-gradient(270deg, rgba(0,0,0,.25), rgba(0,0,0,0) 60%); }
+
+/* t-diagonal: färgpanel med sned kant nere till vänster */
+body[data-herotext="t-diagonal"] .hero .hero-txt { inset: auto auto 0 0; max-width: min(900px, 100%); padding: clamp(40px, 5vw, 72px) clamp(90px, 9vw, 160px) clamp(40px, 7vh, 80px) max(20px, calc((100vw - var(--maxw)) / 2 + 40px)); background: var(--c-p); clip-path: polygon(0 0, calc(100% - clamp(60px, 7vw, 130px)) 0, 100% 100%, 0 100%); }
+body[data-herotext="t-diagonal"] .hero .hero-txt h1, body[data-herotext="t-diagonal"] .hero .hero-txt .ingress, body[data-herotext="t-diagonal"] .hero .hero-txt .etikett, body[data-herotext="t-diagonal"] .hero .hero-txt .textlank { color: var(--c-p-ink); }
+body[data-herotext="t-diagonal"] .hero .hero-txt h1 { font-size: calc(clamp(32px, 4vw, 64px) * var(--skala-r)); }
+body[data-herotext="t-diagonal"] .hero .hero-txt .knapp-ljus { background: var(--c-a); border-color: var(--c-a); color: var(--c-a-ink); }
+body[data-herotext="t-diagonal"] .hero .bild-fyll::after { background: rgba(0,0,0,.08); }
+
+/* t-ram: tunn vit ram runt hela heron, texten i hörnet */
+body[data-herotext="t-ram"] .hero::after { content: ""; position: absolute; z-index: 2; inset: calc(var(--head-h) + 12px) clamp(14px, 2vw, 28px) clamp(14px, 2vw, 28px); border: 1.5px solid rgba(255,255,255,.7); pointer-events: none; }
+body[data-herotext="t-ram"] .hero .hero-txt { padding-bottom: clamp(56px, 9vh, 110px); padding-left: max(52px, calc((100vw - var(--maxw)) / 2 + 64px)); }
+
+/* t-kolumner: rubrik till vänster, ingress och knappar till höger, linje ovanför */
+body[data-herotext="t-kolumner"] .hero .hero-txt h1 { font-size: calc(clamp(40px, 5.4vw, 90px) * var(--skala-r)); }
+@media (min-width: 1000px) {
+  body[data-herotext="t-kolumner"] .hero .hero-txt { display: grid; grid-template-columns: 1.5fr 1fr; column-gap: 72px; align-items: end; }
+  body[data-herotext="t-kolumner"] .hero .hero-txt .etikett { grid-column: 1 / -1; padding-bottom: 18px; margin-bottom: 26px; border-bottom: 1px solid rgba(255,255,255,.45); }
+  body[data-herotext="t-kolumner"] .hero .hero-txt h1 { grid-column: 1; grid-row: 2 / 4; }
+  body[data-herotext="t-kolumner"] .hero .hero-txt .statement-rad, body[data-herotext="t-kolumner"] .hero .hero-txt .ingress, body[data-herotext="t-kolumner"] .hero .hero-txt .knappar { grid-column: 2; margin-top: 0; }
+  body[data-herotext="t-kolumner"] .hero .hero-txt .statement-rad .knappar { margin-top: 24px; }
+}
+
+/* t-lodrat: etiketten står lodrätt längs vänsterkanten */
+@media (min-width: 900px) {
+  body[data-herotext="t-lodrat"] .hero .hero-txt { padding-left: max(90px, calc((100vw - var(--maxw)) / 2 + 110px)); }
+  body[data-herotext="t-lodrat"] .hero .hero-txt .etikett { position: absolute; left: max(28px, calc((100vw - var(--maxw)) / 2 + 40px)); bottom: clamp(56px, 10vh, 120px); writing-mode: vertical-rl; transform: rotate(180deg); letter-spacing: .2em; padding-left: 18px; border-left: 2px solid var(--c-a); }
+}
+
+/* t-nummer: stort accentnummer ovanför rubriken */
+body[data-herotext="t-nummer"] .hero .hero-txt h1::before { content: "01"; display: block; font-size: .36em; line-height: 1; letter-spacing: 0; color: var(--c-a); margin-bottom: .35em; }
+
+/* t-pil: rubriken avslutas med en stor pil i accentfärg */
+body[data-herotext="t-pil"] .hero .hero-txt h1::after { content: "\2198"; display: inline-block; margin-left: .18em; color: var(--c-a); font-weight: 400; transform: translateY(.04em); }
+
+/* t-citat: stort citattecken framför rubriken */
+body[data-herotext="t-citat"] .hero .hero-txt h1 { position: relative; }
+body[data-herotext="t-citat"] .hero .hero-txt h1::before { content: "\201D"; display: block; font-size: 2.2em; line-height: .6; height: .42em; color: var(--c-a); font-family: Georgia, serif; }
+
+/* t-streck: kort accentstreck och etikett ovanför rubriken */
+body[data-herotext="t-streck"] .hero .hero-txt .etikett { display: flex; align-items: center; gap: 14px; margin-bottom: 18px; opacity: 1; }
+body[data-herotext="t-streck"] .hero .hero-txt .etikett::before { content: ""; width: 56px; height: 4px; background: var(--c-a); border-radius: 2px; }
+
+/* t-pill: etiketten som piller med pulsande prick */
+body[data-herotext="t-pill"] .hero .hero-txt .etikett { display: inline-flex; align-items: center; gap: 10px; padding: 8px 16px 8px 12px; margin-bottom: 22px; border-radius: 999px; background: rgba(255,255,255,.16); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,.3); opacity: 1; align-self: flex-start; letter-spacing: .04em; text-transform: none; }
+body[data-herotext="t-pill"] .hero .hero-txt .etikett::before { content: ""; width: 9px; height: 9px; border-radius: 50%; background: var(--c-a); box-shadow: 0 0 0 4px color-mix(in srgb, var(--c-a) 35%, transparent); }
+
+/* t-gradient: rubriken tonar från vitt till accentfärg */
+body[data-herotext="t-gradient"] .hero .hero-txt .h1-t { background: linear-gradient(100deg, #fff 30%, var(--c-a)); -webkit-background-clip: text; background-clip: text; color: transparent; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+
+/* t-skugga: ingen mörk toning, rubriken bärs av mjuk skugga */
+body[data-herotext="t-skugga"] .hero .bild-fyll::after { background: linear-gradient(180deg, rgba(0,0,0,.25), rgba(0,0,0,0) 30%, rgba(0,0,0,.25)); }
+body[data-herotext="t-skugga"] .hero .hero-txt h1, body[data-herotext="t-skugga"] .hero .hero-txt .ingress, body[data-herotext="t-skugga"] .hero .hero-txt .etikett { text-shadow: 0 2px 30px rgba(0,0,0,.55), 0 1px 3px rgba(0,0,0,.4); }
+body[data-herotext="t-skugga"] .hero .hero-txt h1 { font-weight: 800; }
+
+/* t-mittvanster: texten vertikalt centrerad, vänsterställd */
+body[data-herotext="t-mittvanster"] .hero .hero-txt { inset: 0; justify-content: center; padding-bottom: 6vh; }
+body[data-herotext="t-mittvanster"] .hero .bild-fyll::after { background: linear-gradient(90deg, rgba(0,0,0,.72), rgba(0,0,0,.2) 65%, rgba(0,0,0,.05)); }
+
+/* t-smal: smal kolumn, mindre rubrik och större ingress */
+body[data-herotext="t-smal"] .hero .hero-txt h1 { font-size: calc(clamp(34px, 3.6vw, 58px) * var(--skala-r)); max-width: 15em; line-height: 1.08; }
+body[data-herotext="t-smal"] .hero .hero-txt .ingress { font-size: clamp(18px, 1.5vw, 22px); line-height: 1.5; max-width: 30em; }
+body[data-herotext="t-smal"] .hero .bild-fyll::after { background: linear-gradient(90deg, rgba(0,0,0,.7), rgba(0,0,0,.1) 60%); }
+
+/* t-stor-ingress: liten rubrik som etikett, ingressen är det stora */
+body[data-herotext="t-storingress"] .hero .hero-txt h1 { font-size: calc(clamp(44px, 6vw, 100px) * var(--skala-r)); }
+body[data-herotext="t-storingress"] .hero .hero-txt .ingress { font-size: clamp(19px, 1.7vw, 26px); font-weight: 500; line-height: 1.4; max-width: 28em; padding-left: 20px; border-left: 3px solid var(--c-a); }
+
+/* t-kant: hela textblocket har en hög accentkant till vänster */
+body[data-herotext="t-kant"] .hero .hero-txt { padding-left: calc(max(20px, calc((100vw - var(--maxw)) / 2 + 40px)) + 34px); }
+body[data-herotext="t-kant"] .hero .hero-txt::before { content: ""; position: absolute; left: max(20px, calc((100vw - var(--maxw)) / 2 + 40px)); top: calc(var(--head-h) + 64px); bottom: clamp(56px, 10vh, 120px); width: 8px; background: var(--c-a); }
+
+/* t-horn: rubriken uppe till vänster, ingress och knappar nere till höger */
+body[data-herotext="t-horn"] .hero .hero-txt { inset: 0; }
+body[data-herotext="t-horn"] .hero .hero-txt h1 { font-size: calc(clamp(40px, 5.6vw, 94px) * var(--skala-r)); }
+body[data-herotext="t-horn"] .hero .hero-txt .statement-rad, body[data-herotext="t-horn"] .hero .hero-txt .ingress { margin-top: auto; }
+body[data-herotext="t-horn"] .hero .hero-txt .statement-rad, body[data-herotext="t-horn"] .hero .hero-txt .ingress, body[data-herotext="t-horn"] .hero .hero-txt .knappar { align-self: flex-end; max-width: 30em; }
+body[data-herotext="t-horn"] .hero .bild-fyll::after { background: linear-gradient(160deg, rgba(0,0,0,.65), rgba(0,0,0,.05) 50%, rgba(0,0,0,.55)); }
+
+/* t-understa: rubrik och knappar på samma rad längst ner, tunn linje ovanför */
+@media (min-width: 1000px) {
+  body[data-herotext="t-rad"] .hero .hero-txt { display: grid; grid-template-columns: 1fr auto; column-gap: 64px; align-items: end; }
+  body[data-herotext="t-rad"] .hero .hero-txt .etikett { grid-column: 1 / -1; margin-bottom: 14px; }
+  body[data-herotext="t-rad"] .hero .hero-txt h1 { grid-column: 1; max-width: 14em; }
+  body[data-herotext="t-rad"] .hero .hero-txt .statement-rad { grid-column: 1 / -1; display: grid; grid-template-columns: 1fr auto; gap: 40px; align-items: center; margin-top: 30px; padding-top: 26px; border-top: 1px solid rgba(255,255,255,.4); }
+  body[data-herotext="t-rad"] .hero .hero-txt .statement-rad .ingress, body[data-herotext="t-rad"] .hero .hero-txt .statement-rad .knappar { margin: 0; }
+}
+
+/* t-tvafarg: etiketten och ingressen i accentfärg, rubriken vit */
+body[data-herotext="t-tvafarg"] .hero .hero-txt .etikett { color: var(--c-a); opacity: 1; font-weight: 700; }
+body[data-herotext="t-tvafarg"] .hero .hero-txt h1 { font-size: calc(clamp(42px, 6.4vw, 108px) * var(--skala-r)); line-height: .98; }
+body[data-herotext="t-tvafarg"] .hero .hero-txt .ingress { color: color-mix(in srgb, var(--c-a) 55%, #fff); opacity: 1; }
+
+/* t-ruta: rubriken i en vit ruta, ingressen under på bilden */
+body[data-herotext="t-ruta"] .hero .hero-txt h1 { display: inline-block; background: #fff; color: var(--c-rubrik); padding: .22em .34em .26em; font-size: calc(clamp(34px, 4.6vw, 76px) * var(--skala-r)); max-width: 13em; }
+body[data-herotext="t-ruta"] .hero .hero-txt .etikett { background: var(--c-a); color: var(--c-a-ink); opacity: 1; padding: 6px 12px; margin-bottom: 0; align-self: flex-start; }
+
+/* --- Med bilder (kräver mosaik-heron) --------------------------------------------------------------------------- */
+/* t-bildkort: en bild i bakgrunden, de två andra som överlappande kort till höger */
+body[data-herotext^="t-bild"] .hero-mosaik.full .mosaik-bg { display: block; }
+body[data-herotext^="t-bild"] .mosaik-bg > div { inset: auto; height: auto; }
+body[data-herotext^="t-bild"] .hero-mosaik.full .mosaik-bg::after { display: none; }
+body[data-herotext^="t-bild"] .hero-mosaik.full .mosaik-bg > div:first-child { position: absolute !important; inset: 0; }
+body[data-herotext^="t-bild"] .hero-mosaik.full .mosaik-bg > div:not(:first-child) { position: absolute !important; z-index: 2; box-shadow: 0 24px 60px rgba(0,0,0,.35); }
+body[data-herotext^="t-bild"] .hero-mosaik.full .mosaik-bg > div:not(:first-child)::after { display: none; }
+body[data-herotext^="t-bild"] .hero .mosaik-bg > div:first-child::after { background: linear-gradient(90deg, rgba(0,0,0,.75), rgba(0,0,0,.3) 55%, rgba(0,0,0,.15)); }
+body[data-herotext^="t-bild"] .hero .hero-txt { z-index: 4; max-width: min(760px, 100%); }
+@media (min-width: 1000px) { body[data-herotext^="t-bild"] .hero .hero-txt { right: auto; max-width: calc(max(20px, calc((100vw - var(--maxw)) / 2 + 40px)) + 620px); } }
+
+body[data-herotext="t-bildkort"] .mosaik-bg > div:nth-child(2) { right: max(20px, calc((100vw - var(--maxw)) / 2 + 40px)); top: calc(var(--head-h) + 8vh); width: clamp(220px, 22vw, 360px); aspect-ratio: 4 / 5; border-radius: var(--r-card); }
+body[data-herotext="t-bildkort"] .mosaik-bg > div:nth-child(3) { right: calc(max(20px, calc((100vw - var(--maxw)) / 2 + 40px)) + clamp(160px, 16vw, 260px)); bottom: clamp(48px, 9vh, 110px); width: clamp(200px, 18vw, 300px); aspect-ratio: 1; border-radius: var(--r-card); border: 6px solid #fff; }
+
+/* t-bildtrio: tre stående bilder i rad till höger, lätt förskjutna */
+body[data-herotext="t-bildtrio"] .mosaik-bg > div:first-child { background: var(--c-dark); }
+body[data-herotext="t-bildtrio"] .mosaik-bg > div:first-child img { opacity: .38; }
+body[data-herotext="t-bildtrio"] .mosaik-bg > div:nth-child(2) { right: calc(max(20px, calc((100vw - var(--maxw)) / 2 + 40px)) + clamp(200px, 19vw, 300px)); top: calc(var(--head-h) + 14vh); width: clamp(180px, 17vw, 280px); aspect-ratio: 3 / 4; border-radius: var(--r-img); }
+body[data-herotext="t-bildtrio"] .mosaik-bg > div:nth-child(3) { right: max(20px, calc((100vw - var(--maxw)) / 2 + 40px)); top: calc(var(--head-h) + 4vh); width: clamp(180px, 17vw, 280px); aspect-ratio: 3 / 4; border-radius: var(--r-img); }
+body[data-herotext="t-bildtrio"] .mosaik-bg::before { content: ""; position: absolute; z-index: 2; right: max(20px, calc((100vw - var(--maxw)) / 2 + 40px)); bottom: clamp(48px, 9vh, 110px); width: clamp(180px, 17vw, 280px); height: clamp(120px, 14vh, 180px); background: var(--c-a); border-radius: var(--r-img); }
+
+/* t-bildremsa: två små bilder i en remsa nere till höger, som "fler bilder" */
+body[data-herotext="t-bildremsa"] .mosaik-bg > div:nth-child(2), body[data-herotext="t-bildremsa"] .mosaik-bg > div:nth-child(3) { bottom: clamp(48px, 9vh, 110px); width: clamp(160px, 14vw, 230px); aspect-ratio: 4 / 3; border-radius: var(--r-img); border: 3px solid rgba(255,255,255,.85); }
+body[data-herotext="t-bildremsa"] .mosaik-bg > div:nth-child(3) { right: max(20px, calc((100vw - var(--maxw)) / 2 + 40px)); }
+body[data-herotext="t-bildremsa"] .mosaik-bg > div:nth-child(2) { right: calc(max(20px, calc((100vw - var(--maxw)) / 2 + 40px)) + clamp(176px, 15.2vw, 248px)); }
+
+/* t-bildram: färgad bakgrund, bilden i en stor ram till höger som texten överlappar */
+body[data-herotext="t-bildram"] .hero-mosaik.full .mosaik-bg { background: var(--c-p); }
+body[data-herotext="t-bildram"] .mosaik-bg > div:first-child { inset: calc(var(--head-h) + 3vh) max(20px, calc((100vw - var(--maxw)) / 2 + 40px)) clamp(28px, 5vh, 60px) 42% !important; border-radius: var(--r-hero); }
+body[data-herotext="t-bildram"] .mosaik-bg > div:first-child::after { background: linear-gradient(90deg, rgba(0,0,0,.3), rgba(0,0,0,0) 40%) !important; }
+body[data-herotext="t-bildram"] .mosaik-bg > div:nth-child(2) { left: 36%; bottom: clamp(56px, 9vh, 100px); width: clamp(160px, 14vw, 220px); aspect-ratio: 1; border-radius: var(--r-card); border: 6px solid var(--c-p); box-shadow: none; }
+body[data-herotext="t-bildram"] .mosaik-bg > div:nth-child(3) { display: none; }
+body[data-herotext="t-bildram"] .hero .hero-txt h1, body[data-herotext="t-bildram"] .hero .hero-txt .ingress, body[data-herotext="t-bildram"] .hero .hero-txt .etikett, body[data-herotext="t-bildram"] .hero .hero-txt .textlank { color: var(--c-p-ink) !important; }
+body[data-herotext="t-bildram"] .hero .hero-txt { inset: 0 auto 0 0; justify-content: center; }
+body[data-herotext="t-bildram"] .hero .hero-txt h1 { font-size: calc(clamp(38px, 5vw, 84px) * var(--skala-r)); max-width: 9em; }
+body[data-herotext="t-bildram"] .hero .hero-txt .ingress { max-width: 24em; }
+body[data-herotext="t-bildram"] .hero .hero-txt .knapp-ljus { background: var(--c-a); border-color: var(--c-a); color: var(--c-a-ink); }
+
+/* t-bildcirkel: en rund bild med accentring överlappar bakgrundsbilden */
+body[data-herotext="t-bildcirkel"] .mosaik-bg > div:nth-child(2) { right: max(20px, calc((100vw - var(--maxw)) / 2 + 60px)); top: 50%; transform: translateY(-46%); width: clamp(240px, 26vw, 420px); aspect-ratio: 1; border-radius: 50%; outline: 10px solid var(--c-a); outline-offset: 10px; }
+body[data-herotext="t-bildcirkel"] .mosaik-bg > div:nth-child(3) { display: none; }
+
+/* Mobil */
+@media (max-width: 700px) {
+  body[data-herotext^="t-"] .hero .hero-txt h1 { font-size: clamp(32px, 9.6vw, 46px); }
+  body[data-herotext="t-glas"] .hero .hero-txt, body[data-herotext="t-morkkort"] .hero .hero-txt, body[data-herotext="t-fargkort"] .hero .hero-txt, body[data-herotext="t-accentkort"] .hero .hero-txt, body[data-herotext="t-hogerkort"] .hero .hero-txt { left: 12px; right: 12px; bottom: 16px; top: auto; transform: none; max-width: none; padding: 24px; }
+  body[data-herotext="t-glas"] .hero .hero-txt h1, body[data-herotext="t-morkkort"] .hero .hero-txt h1, body[data-herotext="t-fargkort"] .hero .hero-txt h1, body[data-herotext="t-accentkort"] .hero .hero-txt h1, body[data-herotext="t-hogerkort"] .hero .hero-txt h1 { font-size: 30px; }
+  body[data-herotext="t-diagonal"] .hero .hero-txt { padding: 32px 56px 36px 20px; }
+  body[data-herotext="t-spoke"] .hero[data-ord]::before { font-size: 26vw; top: calc(var(--head-h) + 20px); left: 12px; }
+  body[data-herotext="t-ram"] .hero .hero-txt { padding-left: 36px; padding-right: 36px; }
+  body[data-herotext="t-kant"] .hero .hero-txt { padding-left: 44px; }
+  body[data-herotext="t-kant"] .hero .hero-txt::before { left: 20px; width: 6px; }
+  body[data-herotext="t-horn"] .hero .hero-txt .statement-rad, body[data-herotext="t-horn"] .hero .hero-txt .ingress, body[data-herotext="t-horn"] .hero .hero-txt .knappar { align-self: flex-start; }
+  body[data-herotext="t-ruta"] .hero .hero-txt h1 { font-size: 30px; }
+  body[data-herotext^="t-bild"] .hero-mosaik.full .mosaik-bg > div:not(:first-child) { display: block; }
+  body[data-herotext="t-bildkort"] .mosaik-bg > div:nth-child(2) { right: 16px; top: calc(var(--head-h) + 16px); width: 38vw; }
+  body[data-herotext="t-bildkort"] .mosaik-bg > div:nth-child(3) { display: none !important; }
+  body[data-herotext="t-bildtrio"] .mosaik-bg > div:nth-child(2) { right: calc(16px + 34vw); top: calc(var(--head-h) + 40px); width: 30vw; }
+  body[data-herotext="t-bildtrio"] .mosaik-bg > div:nth-child(3) { right: 16px; top: calc(var(--head-h) + 16px); width: 30vw; }
+  body[data-herotext="t-bildtrio"] .mosaik-bg::before { display: none; }
+  body[data-herotext="t-bildremsa"] .mosaik-bg > div:nth-child(2), body[data-herotext="t-bildremsa"] .mosaik-bg > div:nth-child(3) { top: calc(var(--head-h) + 16px); bottom: auto; width: 30vw; }
+  body[data-herotext="t-bildremsa"] .mosaik-bg > div:nth-child(3) { right: 16px; }
+  body[data-herotext="t-bildremsa"] .mosaik-bg > div:nth-child(2) { right: calc(16px + 32vw); }
+  body[data-herotext="t-bildram"] .mosaik-bg > div:first-child { inset: calc(var(--head-h) + 8px) 12px 52% 12px !important; }
+  body[data-herotext="t-bildram"] .mosaik-bg > div:nth-child(2) { display: none !important; }
+  body[data-herotext="t-bildram"] .hero .hero-txt { inset: auto 0 0 0; justify-content: flex-end; }
+  body[data-herotext="t-bildcirkel"] .mosaik-bg > div:nth-child(2) { right: 24px; top: calc(var(--head-h) + 24px); transform: none; width: 40vw; outline-width: 6px; outline-offset: 6px; }
+}
