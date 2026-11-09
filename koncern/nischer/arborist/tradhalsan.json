@@ -23,7 +23,7 @@
     {"titel": "Askskottsjuka och almsjuka", "ikon": "trad", "href": "verksamhet.html", "text": "Vilka askar och almar kan räddas, och vilka bör fällas?"},
     {"titel": "Trädskydd vid bygge", "ikon": "hjalm", "href": "verksamhet.html", "text": "Rotskydd, körplattor och tillsyn när det grävs nära ett träd."},
     {"titel": "Behandling och pris", "ikon": "dokument", "href": "priser.html", "text": "Fasta paket för diagnos och behandling."},
-    {"titel": "Skicka bilder", "ikon": "kamera", "href": "om-oss.html#kontakt", "text": "Bilder på kronan och stambasen räcker för ett första svar."}
+    {"titel": "Bilder på trädet", "ikon": "kamera", "href": "om-oss.html#kontakt", "text": "Bilder på kronan och stambasen räcker för ett första svar."}
   ],
   "affarsomraden": [
     {"titel": "Diagnos", "text": "Glesa kronor, döda toppar eller svamp vid stambasen kan ha tio olika orsaker. Vi undersöker trädet, tar jord- och vävnadsprover och skickar dem vid behov till ett växtpatologiskt laboratorium.", "text2": "Du får ett skriftligt utlåtande med orsak, prognos och åtgärdsförslag.", "tagg": "trad"},
@@ -35,7 +35,7 @@
     {"namn": "Sofia Nilsson-Brandt", "segment": "Grundare, jägmästare och ETW", "rubrik": "Skrev om bokens rötter", "text": "Sofia ställer diagnoserna och skriver utlåtandena.", "tagg": "trad"},
     {"namn": "Ali Hassan", "segment": "Grundare, rotzonsspecialist", "rubrik": "Från markanläggning till markvård", "text": "Ali kör luftspaden och planerar varje rotzonsbehandling.", "tagg": "mark"},
     {"namn": "Klara Ståhl", "segment": "Arborist", "rubrik": "Klättrar och beskär", "text": "Klara tar bort döda grenar och lättar kronan på träd som behandlas.", "tagg": "arborist"},
-    {"namn": "Jesper Nord", "segment": "Arborist, säsong", "rubrik": "Askar och almar", "text": "Jesper bedömer askskottsjuka under sommaren och fäller det som inte går att rädda.", "tagg": "tradgard"}
+    {"namn": "Jesper Nord", "segment": "Säsongsarbetande arborist", "rubrik": "Askar och almar", "text": "Jesper bedömer askskottsjuka under sommaren och fäller det som inte går att rädda.", "tagg": "tradgard"}
   ],
   "berattelser": [
     {"rubrik": "Boken i Bräkne-Hoby fick nytt liv", "text": "Efter två säsonger med rotzonsvård har kronan gått från 40 till 75 procents bladmassa.", "tagg": "trad"},
@@ -89,9 +89,9 @@
     ["Är askskottsjuka farlig för människor?", "Nej, men angripna askar blir spröda och kan tappa grenar. De som står nära hus och vägar bör bedömas."]
   ],
   "priser": [
-    {"namn": "Trädhälsodiagnos", "pris": "3 900 kr", "enhet": "första trädet", "text": "Undersökning på plats med skriftligt utlåtande.", "punkter": ["Provgropar med luftspade", "Jord- och vävnadsprov vid behov", "Utlåtande inom två veckor", "Avräknas vid behandling"]},
+    {"namn": "Trädhälsodiagnos", "pris": "3 900 kr", "enhet": "för det första trädet", "text": "Undersökning på plats med skriftligt utlåtande.", "punkter": ["Provgropar med luftspade", "Jord- och vävnadsprov vid behov", "Utlåtande inom två veckor", "Avräknas vid behandling"]},
     {"namn": "Rotzonsvård", "pris": "fr. 11 500 kr", "enhet": "per träd, före RUT", "text": "Luckring och jordförbättring runt ett stort träd.", "punkter": ["Luftspade i hela rotzonen", "Biokol, kompost och mykorrhiza", "Lättare beskärning av kronan", "Uppföljning två somrar"], "utvald": true},
-    {"namn": "Askbedömning", "pris": "fr. 4 800 kr", "enhet": "upp till 20 askar", "text": "Vilka askar kan sparas och vilka bör fällas?", "punkter": ["Bedömning av varje träd", "Märkning med färgband", "Karta och lista", "Förslag på fällning eller sparande"]}
+    {"namn": "Askbedömning", "pris": "fr. 4 800 kr", "enhet": "upp till 20 askar", "text": "Vilka askar kan sparas och vilka bör fällas?", "punkter": ["Bedömning av varje träd", "Band runt stammen på sparade askar", "Karta och lista", "Förslag på fällning eller sparande"]}
   ],
   "prislista": [
     ["Arborist, per påbörjad timme", "740 kr/tim"],
@@ -120,7 +120,7 @@
   "fot_cta": "Ser trädet sjukt ut? Skicka bilder på kronan och stambasen innan du bestämmer dig.",
   "bild": {"panel": "mark", "hb": "trad"},
   "text": {
-    "kontakt_knapp": "Skicka bilder",
+    "kontakt_knapp": "Skicka foton",
     "hero_knapp": "Så behandlar vi",
     "ber_rubrik": "Träd på bättringsvägen",
     "proj_rubrik": "Träd vi har undersökt och behandlat",

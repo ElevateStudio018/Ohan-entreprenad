@@ -32,8 +32,8 @@
     {"titel": "När stormen har dragit förbi", "text": "Efter en storm över Småland kallar nätbolagen in oss för att röja fram till nedrivna ledningar. Montörerna kan inte börja förrän träden är borta.", "text2": "I december 2025 arbetade vi tre dygn i sträck med fyra lag i Uppvidinge och Tingsryd.", "tagg": "natur"}
   ],
   "bolag": [
-    {"namn": "Patrik Johansson", "segment": "Vd och grundare", "rubrik": "Tio år som linjemontör", "text": "Patrik kan både elnätet och träden och förhandlar ramavtalen med nätbolagen.", "tagg": "el"},
-    {"namn": "Sofie Karlsson", "segment": "Arbetsledare, ETW", "rubrik": "Leder tre röjningslag", "text": "Sofie planerar veckans sträckor och kontrollerar att varje lag har en giltig frånkopplingsorder innan arbetet börjar.", "tagg": "arborist"},
+    {"namn": "Patrik Johansson", "segment": "Grundare och vd", "rubrik": "Tio år som linjemontör", "text": "Patrik kan både elnätet och träden och förhandlar ramavtalen med nätbolagen.", "tagg": "el"},
+    {"namn": "Sofie Karlsson", "segment": "Arbetsledare, European Tree Worker", "rubrik": "Leder tre röjningslag", "text": "Sofie planerar veckans sträckor och kontrollerar att varje lag har en giltig frånkopplingsorder innan arbetet börjar.", "tagg": "arborist"},
     {"namn": "Ahmad Noori", "segment": "Liftförare", "rubrik": "Isolerad korg, 21 meter", "text": "Ahmad kör vår isolerade lift och beskär runt nätstationer och stolpar inne i Växjö.", "tagg": "trad"},
     {"namn": "Gunnar Lövgren", "segment": "Villaärenden och offerter", "rubrik": "Har koll på varje servis", "text": "Gunnar tar emot villaärenden, mäter avståndet till ledningen och bokar tid med nätbolaget.", "tagg": "tradgard"}
   ],
@@ -51,7 +51,7 @@
   "projekt": [
     {"namn": "Ledningsgata vid Åsnen", "ort": "Urshult", "typ": "Röjning 34 km", "ar": "2026", "text": "Gatan breddad till 20 meter och 160 kantträd fällda.", "tagg": "el"},
     {"namn": "Servis i Lammhult", "ort": "Lammhult", "typ": "Fällning nära servis", "ar": "2026", "text": "En björk mellan stolpe och husvägg, fälld under två timmars frånkoppling.", "tagg": "arborist"},
-    {"namn": "Vägföreningen Bråna", "ort": "Lessebo", "typ": "Kantträd längs väg", "ar": "2025", "text": "Åtta kilometer väg med luftledning genomgången och 47 granar fällda.", "tagg": "trad"},
+    {"namn": "Vägföreningen Bråna", "ort": "Lessebo", "typ": "Riskträd vid vägledning", "ar": "2025", "text": "Åtta kilometer väg med luftledning genomgången och 47 granar fällda.", "tagg": "trad"},
     {"namn": "Fiberutbyggnad i Ryd", "ort": "Ryd", "typ": "Röjning för fiber", "ar": "2025", "text": "Fyra kilometer röjt för luftburen fiber längs gamla telestolpar.", "tagg": "natur"},
     {"namn": "Decemberstormen", "ort": "Tingsryd", "typ": "Stormröjning", "ar": "2025", "text": "Tre dygn med fyra lag för att röja fram till 26 ledningsbrott.", "tagg": "el"},
     {"namn": "Gångväg på Teleborg", "ort": "Växjö", "typ": "Liftbeskärning", "ar": "2026", "text": "Lindar beskärs med isolerad lift längs en lågspänningsledning.", "tagg": "tradgard", "status": "Pågår"}
@@ -73,7 +73,7 @@
     "jobb": [["Arborist, ledningsröjning", "Växjö"], ["Liftförare", "Växjö"], ["Röjare, ledningsgator", "Ljungby"]]
   },
   "kultur": "Ingen lyfter en motorsåg förrän lagledaren har läst upp frånkopplingsordern högt för hela laget.",
-  "citat": {"text": "En gran i ledningen kan släcka en hel by i timmar. Vi fäller den hellre en lugn tisdag i oktober än i snöstorm på julafton.", "namn": "Patrik Johansson", "roll": "Vd och grundare", "tagg": "el"},
+  "citat": {"text": "En gran i ledningen kan släcka en hel by i timmar. Vi fäller den hellre en lugn tisdag i oktober än i snöstorm på julafton.", "namn": "Patrik Johansson", "roll": "Grundare och vd", "tagg": "el"},
   "omdomen": [
     {"text": "Björken stod rakt i servisen. Kraftgata ordnade allt med nätbolaget, och vi hade ström igen innan barnen kom hem från skolan.", "namn": "Jenny S.", "ort": "Lammhult"},
     {"text": "Vägföreningen fick ett pris per kilometer och en karta med alla träd. Styrelsen kunde besluta på ett enda möte.", "namn": "Bo E., ordförande", "ort": "Lessebo"},
@@ -89,8 +89,8 @@
     ["Rycker ni ut åt privatpersoner vid storm?", "Vid storm går nätbolagens ledningsbrott först. Ligger ett träd över din servis ringer du ditt nätbolag, som skickar oss eller en annan entreprenör."]
   ],
   "priser": [
-    {"namn": "Servisträd", "pris": "8 400 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Fällning av ett träd nära servisledningen.", "punkter": ["Frånkopplingen bokas av oss", "Riktad fällning eller lift", "Flisning och bortforsling", "Kontroll av servisen efteråt"], "utvald": true},
-    {"namn": "Beskärning vid ledning", "pris": "fr. 4 900 kr", "enhet": "per träd före RUT", "text": "När trädet kan stå kvar men grenarna måste bort.", "punkter": ["Isolerad lift vid behov", "Minst två meters frigång", "Formbeskärning av kronan", "Riset flisat på plats"]},
+    {"namn": "Servisträd", "pris": "8 400 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Fällning av ett träd nära servisledningen.", "punkter": ["Frånkopplingen bokas av oss", "Riktad fällning eller lift", "Flis och stam bortkörda", "Kontroll av servisen efteråt"], "utvald": true},
+    {"namn": "Beskärning vid ledning", "pris": "fr. 4 900 kr", "enhet": "per träd före RUT", "text": "När trädet kan stå kvar men grenarna måste bort.", "punkter": ["Isolerad lift vid behov", "Minst två meters frigång", "Kronan formad efter beskärning", "Riset flisat på plats"]},
     {"namn": "Vägförening per kilometer", "pris": "fr. 14 500 kr", "enhet": "per km exkl. moms", "text": "Genomgång och fällning längs enskild väg med luftledning.", "punkter": ["Karta över alla åtgärdade träd", "Samordning med nätbolaget", "Virket travat vid vägkant", "Rapport till styrelsen"]}
   ],
   "prislista": [

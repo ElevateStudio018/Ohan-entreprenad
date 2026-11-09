@@ -58,7 +58,7 @@
   "process": [
     {"titel": "Telefon och karta", "text": "Berätta hur många hagar och hästar du har. Skicka gärna en karta över gården.", "tagg": "hast"},
     {"titel": "Inventering", "text": "Karin går igenom hagar, alléer och gårdsträd och märker allt som behöver åtgärdas.", "tagg": "trad"},
-    {"titel": "Plan och pris", "text": "Du får en karta och ett fast pris. Brådskande giftiga träd prioriteras före betessläppet.", "tagg": "natur"},
+    {"titel": "Karta och fast pris", "text": "Du får en karta och ett fast pris. Brådskande giftiga träd prioriteras före betessläppet.", "tagg": "natur"},
     {"titel": "Utförande", "text": "Vi fäller, rycker upp fröplantor och flisar på plats. Hästarna behöver bara flyttas från den hage där vi arbetar.", "tagg": "ved"}
   ],
   "hallbarhet": {
@@ -87,9 +87,9 @@
     ["Måste hästarna flyttas?", "Bara från den hage där vi arbetar just den dagen. Vi planerar arbetet hage för hage."]
   ],
   "priser": [
-    {"namn": "Haginventering", "pris": "2 900 kr", "enhet": "upp till fem hagar", "text": "Genomgång och märkning av giftiga träd.", "punkter": ["Karta över hagarna", "Märkning med färgband", "Åtgärdslista i prioritetsordning", "Avräknas vid fällning"], "utvald": true},
-    {"namn": "Fällning vid hage", "pris": "4 600 kr", "enhet": "träd upp till 15 m", "text": "Fällning och bortforsling av giftiga träd.", "punkter": ["Flisning på plats", "Flisen bortkörd från hagen", "Fröplantor uppryckta runt trädet", "Stängslet skyddas"]},
-    {"namn": "Allébeskärning", "pris": "fr. 1 300 kr", "enhet": "per träd", "text": "Kronhöjning till 4,5 meters fri höjd.", "punkter": ["Klättring eller lift", "Döda grenar bort", "Riset flisat vid vägkanten", "Hjälp med dispens vid behov"]}
+    {"namn": "Haginventering", "pris": "2 900 kr", "enhet": "upp till fem hagar", "text": "Genomgång och märkning av giftiga träd.", "punkter": ["Karta över hagarna", "Färgband på varje träd att fälla", "Åtgärdslista i prioritetsordning", "Avräknas vid fällning"], "utvald": true},
+    {"namn": "Fällning vid hage", "pris": "4 600 kr", "enhet": "träd upp till 15 m", "text": "Fällning och bortforsling av giftiga träd.", "punkter": ["Flishugg på plats i hagen", "Flisen bortkörd från hagen", "Fröplantor uppryckta runt trädet", "Stängslet skyddas"]},
+    {"namn": "Allébeskärning", "pris": "fr. 1 300 kr", "enhet": "per träd", "text": "Kronhöjning till 4,5 meters fri höjd.", "punkter": ["Klättring eller lift efter läge", "Döda grenar bort", "Riset flisat vid vägkanten", "Hjälp med dispens vid behov"]}
   ],
   "prislista": [
     ["Arborist på gården, timpris", "660 kr/tim"],
@@ -98,7 +98,7 @@
     ["Plantering av skuggträd", "fr. 2 400 kr/st"],
     ["Förnyelse av läplantering", "fr. 180 kr/löpmeter"],
     ["Stubbfräsning", "900 kr/stubbe"],
-    ["Första besöket", "900 kr"]
+    ["Besök med genomgång av hagarna", "900 kr"]
   ],
   "certifikat": [
     {"titel": "ETW och arboristexamen", "text": "Karin är European Tree Worker sedan 2015 och har Svensk Arboristexamen.", "ikon": "skold"},

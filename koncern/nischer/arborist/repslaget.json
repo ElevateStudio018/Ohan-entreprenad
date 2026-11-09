@@ -19,10 +19,10 @@
     {"titel": "Riggning och nedfirning", "ikon": "upp", "href": "verksamhet.html", "text": "Grenar och stamdelar firas ned med block och friktionsbroms – inget faller fritt."},
     {"titel": "Bergstomter", "ikon": "sten", "href": "verksamhet.html", "text": "Vi arbetar på terrasser, slänter och hällar där en lift skulle välta."},
     {"titel": "Södra skärgården", "ikon": "bat", "href": "verksamhet.html", "text": "Styrsö, Donsö, Vrångö och Brännö – vi kommer med färjan och dragkärror."},
-    {"titel": "Kronreduktion", "ikon": "sax", "href": "verksamhet.html", "text": "Lättare kronor på ekar och lönnar som växer mot fasad och tak."},
+    {"titel": "Lättare kronor", "ikon": "sax", "href": "verksamhet.html", "text": "Lättare kronor på ekar och lönnar som växer mot fasad och tak."},
     {"titel": "Delbar flishugg", "ikon": "kugge", "href": "verksamhet.html", "text": "En flishugg som bärs i två delar och tar grenar upp till 12 cm."},
     {"titel": "Klätterbesiktning", "ikon": "sok", "href": "verksamhet.html", "text": "Vi klättrar upp och inspekterar kronan där man inte ser något från marken."},
-    {"titel": "Paket och timpris", "ikon": "dokument", "href": "priser.html", "text": "Bärtillägg och trappor ingår i våra paketpriser."},
+    {"titel": "Pris med trappor inräknade", "ikon": "dokument", "href": "priser.html", "text": "Bärtillägg och trappor ingår i våra paketpriser."},
     {"titel": "Skicka en bild", "ikon": "kamera", "href": "om-oss.html#kontakt", "text": "Fotografera trädet och vägen dit – trapporna räknas."}
   ],
   "affarsomraden": [
@@ -32,8 +32,8 @@
     {"titel": "Inspektion uppifrån", "text": "Röta i en grenvinkel 18 meter upp syns inte från marken. Vid en klätterbesiktning tar vi oss upp i kronan, knackar och fotograferar och lämnar en rapport med bilder från toppen.", "text2": "Rapporten används ofta som underlag när grannar är oense om ett träd.", "tagg": "tradgard"}
   ],
   "bolag": [
-    {"namn": "Hannes Wikström", "segment": "Grundare, ETW", "rubrik": "Tävlade i trädklättring i tio år", "text": "Hannes planerar riggningen på de svåraste jobben och utbildar laget i repteknik.", "tagg": "arborist"},
-    {"namn": "Amina Begić", "segment": "Grundare, ISA Certified Arborist", "rubrik": "Kronreduktion och besiktning", "text": "Amina gör klätterbesiktningarna och skriver rapporterna med bilder från kronan.", "tagg": "trad"},
+    {"namn": "Hannes Wikström", "segment": "Grundare, European Tree Worker", "rubrik": "Tävlade i trädklättring i tio år", "text": "Hannes planerar riggningen på de svåraste jobben och utbildar laget i repteknik.", "tagg": "arborist"},
+    {"namn": "Amina Begić", "segment": "Medgrundare, ISA-certifierad", "rubrik": "Kronreduktion och besiktning", "text": "Amina gör klätterbesiktningarna och skriver rapporterna med bilder från kronan.", "tagg": "trad"},
     {"namn": "Oskar Thorén", "segment": "Klättrare och markansvarig", "rubrik": "Styr repen från marken", "text": "Oskar sköter friktionsbromsen och ser till att varje gren landar där den ska.", "tagg": "tradgard"},
     {"namn": "Felicia Nyberg", "segment": "Arborist, skärgården", "rubrik": "Bor på Styrsö", "text": "Felicia tar de flesta öjobben och vet vilka färjeturer som passar med en kärra full av rep.", "tagg": "bat"}
   ],
@@ -51,7 +51,7 @@
   "projekt": [
     {"namn": "Terrassträdgård", "ort": "Örgryte", "typ": "Kronreduktion av ek", "ar": "2026", "text": "Grenar firade ned över ett glastak med två riggpunkter.", "tagg": "arborist"},
     {"namn": "Sommarhus på Vrångö", "ort": "Vrångö", "typ": "Sektionsfällning", "ar": "2026", "text": "Tre tallar nedtagna och flisade, all utrustning fraktad med färja.", "tagg": "bat"},
-    {"namn": "Villa i Kålltorp", "ort": "Göteborg", "typ": "Klätterfällning", "ar": "2025", "text": "En bok intill en stenmur riggad ned i 22 delar via en trappa på 70 steg.", "tagg": "trad"},
+    {"namn": "Villa i Kålltorp", "ort": "Göteborg", "typ": "Fällning från rep", "ar": "2025", "text": "En bok intill en stenmur riggad ned i 22 delar via en trappa på 70 steg.", "tagg": "trad"},
     {"namn": "Bergsslänt i Masthugget", "ort": "Göteborg", "typ": "Beskärning", "ar": "2025", "text": "Lönnar på slänten bakom en bostadsrättsförening beskurna från rep.", "tagg": "tradgard"},
     {"namn": "Strandtomt i Hovås", "ort": "Hovås", "typ": "Klätterbesiktning", "ar": "2025", "text": "Rapport med bilder från toppen av två ekar inför en grannetvist.", "tagg": "trad"},
     {"namn": "Sjöbod på Donsö", "ort": "Donsö", "typ": "Fällning nära sjöbod", "ar": "2026", "text": "Planerad till december, när färjan går med vintertidtabell.", "tagg": "bat", "status": "Bokat"}
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Klättrar du hellre än kör maskin?",
     "text": "Vi söker en arborist med erfarenhet av riggning. Du får ETW-utbildning, nytt klätterset varje år och betald startavgift till SM i trädklättring.",
-    "jobb": [["Klättrande arborist", "Göteborg"]]
+    "jobb": [["Arborist med riggvana", "Göteborg"]]
   },
   "kultur": "Varje morgon går laget igenom riggplanen vid trädet, och den som ska klättra har sista ordet.",
   "citat": {"text": "En lift är snabb där den kommer fram. Men i Göteborg kommer den sällan fram, och då är det repet och händerna som gäller.", "namn": "Amina Begić", "roll": "Grundare", "tagg": "arborist"},
@@ -89,8 +89,8 @@
     ["Får vi behålla veden?", "Gärna. Vi kapar den i 30 centimeter och staplar den där du vill ha den."]
   ],
   "priser": [
-    {"namn": "Klätterfällning", "pris": "7 900 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Sektionsfällning med riggning på bergstomt.", "punkter": ["Bärtillägg upp till 40 trappsteg", "Skydd av murar och rabatter", "Flis i säckar eller kvar på tomten", "Ved kapad i 30 cm"]},
-    {"namn": "Kronreduktion", "pris": "fr. 6 400 kr", "enhet": "per träd före RUT", "text": "Lättare krona för ekar och lönnar nära hus.", "punkter": ["Två klättrare och markansvarig", "Upp till 25 % av kronan", "Nedfirning av alla grenar", "Bilder före och efter"], "utvald": true},
+    {"namn": "Fällning från rep", "pris": "7 900 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Sektionsfällning med riggning på bergstomt.", "punkter": ["Bärtillägg upp till 40 trappsteg", "Skydd av murar och rabatter", "Flis i säckar eller kvar på tomten", "Ved kapad i 30 cm"]},
+    {"namn": "Lättare krona", "pris": "fr. 6 400 kr", "enhet": "per träd före RUT", "text": "Lättare krona för ekar och lönnar nära hus.", "punkter": ["Två klättrare och markansvarig", "Högst en fjärdedel av kronan", "Nedfirning av alla grenar", "Bilder före och efter"], "utvald": true},
     {"namn": "Klätterbesiktning", "pris": "3 400 kr", "enhet": "per träd", "text": "Inspektion uppifrån med bildrapport.", "punkter": ["Klättring ända upp i toppen", "Knackning och foto av grenvinklar", "Rapport inom fem arbetsdagar", "Avräknas vid åtgärd"]}
   ],
   "prislista": [
@@ -105,7 +105,7 @@
   "certifikat": [
     {"titel": "ETW och ISA", "text": "Hannes är European Tree Worker och Amina ISA Certified Arborist sedan 2021.", "ikon": "stjarna"},
     {"titel": "Arboristexamen för alla sex", "text": "Alla klättrare har examen från naturbruksgymnasium eller yrkeshögskola och motorsågskörkort AB.", "ikon": "trad"},
-    {"titel": "Räddning i träd", "text": "Hela laget har kurs i räddning från träd och övar varje månad.", "ikon": "hjarta"},
+    {"titel": "Räddningsövade varje månad", "text": "Hela laget har kurs i räddning från träd och övar varje månad.", "ikon": "hjarta"},
     {"titel": "Försäkrade för trånga tomter", "text": "Ansvarsförsäkring på 10 Mkr som täcker glastak, murar och grannens egendom.", "ikon": "las"}
   ],
   "galleri_taggar": ["arborist", "trad", "bat", "tradgard"],

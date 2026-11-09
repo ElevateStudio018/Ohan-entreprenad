@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kubikenborgs Stålbyggnad AB",
+  "kortnamn": "Kubikenborg",
+  "slug": "kubikenborg-stalbyggnad",
+  "typ": "Stålstommar för hallar i Mellannorrland",
+  "tagline": "Stommen står först",
+  "slogan": "Vi konstruerar, tillverkar och reser stålstommar till lagerhallar, maskinhallar, ridhus och idrottshallar – från en verkstad vid Sundsvallsfjärden.",
+  "hero_rubrik": "Hallen reser sig på nio arbetsdagar",
+  "hero_text": "Pelare, takstolar och fackverk i stål till hallbyggnader upp till 40 meters spännvidd. Konstruktion, tillverkning och montage under ett avtal.",
+  "intro_rubrik": "Fyrtiosju år av spännvidder",
+  "om": [
+    "Rolf Häggström började tillverka takstolar i stål till lantbrukets maskinhallar 1979, i en före detta sågverksbyggnad i Kubikenborg. Efterfrågan växte när åkerier och industrier längs E4 behövde större hallar utan pelare i vägen, och på 1990-talet byggde företaget sin första ishall.",
+    "I dag är vi 60 anställda och omsätter 118 miljoner kronor. Vi reser runt 70 hallar om året, och sex konstruktörer ritar varje stomme i 3D så att verkstaden kan kapa, borra och svetsa direkt från modellen. Sedan 2020 ägs bolaget av ledningen och Häggströms barnbarn Elsa."
+  ],
+  "vagval_rubrik": "Vilken hall ska byggas?",
+  "tjanster": [
+    {"titel": "Lager och logistik", "ikon": "lada", "href": "verksamhet.html", "text": "Pelarfria hallar med traverser och höga portar för lastbil och truck."},
+    {"titel": "Maskinhallar", "ikon": "kugge", "href": "verksamhet.html", "text": "Hallar till entreprenörer och lantbruk med spännvidder upp till 30 meter."},
+    {"titel": "Ridhus och stall", "ikon": "hus", "href": "verksamhet.html", "text": "Ridhusstommar på 20 × 60 meter med ljusinsläpp i nocken."},
+    {"titel": "Idrott och padel", "ikon": "stjarna", "href": "verksamhet.html", "text": "Fri höjd över banan och stommar som klarar takmonterade solceller."},
+    {"titel": "Stålkonstruktion", "ikon": "ritning", "href": "verksamhet.html", "text": "Beräkning och ritning enligt Eurokod 3 av egna konstruktörer."},
+    {"titel": "Montage med kran", "ikon": "kran", "href": "verksamhet.html", "text": "Egna montagelag med mobilkran upp till 60 ton."},
+    {"titel": "Rest de senaste åren", "ikon": "graf", "href": "projekt.html", "text": "Hallar från Örnsköldsvik till Hudiksvall."},
+    {"titel": "Begär stomkalkyl", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Mått, snözon och användning räcker för ett budgetpris."}
+  ],
+  "affarsomraden": [
+    {"titel": "Industri- och lagerhallar", "text": "Företag som växer behöver ofta en hall snabbt och utan pelare mitt i golvet. Vi levererar stommar med spännvidder upp till 40 meter och förbereder för traverser på 5–20 ton.", "text2": "En lagerhall på 2 000 kvadratmeter har stomme rest på ungefär nio arbetsdagar.", "tagg": "industri"},
+    {"titel": "Lantbruk och hästhallar", "text": "Maskinhallar, foderlador och ridhus byggs i varmförzinkat stål som tål ammoniak och fukt. Stommarna dimensioneras för snölasten i just den kommunen.", "text2": "Vi samarbetar med tre lokala byggare som lägger plåt och portar.", "tagg": "natur"},
+    {"titel": "Idrott och fritid", "text": "Ishallar, padelhallar och tennishallar kräver fri höjd och stora spännvidder. Vi har byggt elva idrottshallar och vet hur ventilation och belysning ska fästas i stommen.", "text2": "Stommarna förbereds för solceller på taket redan i beräkningen.", "tagg": "anlaggning"},
+    {"titel": "Tillbyggnader och förstärkning", "text": "När en befintlig hall ska byggas till eller få en ny travers räknar vi på den gamla stommen och förstärker där det behövs. Arbetet planeras så att verksamheten kan fortsätta.", "text2": "Vi har förstärkt stommar från 1960-talet och framåt.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Konstruktion", "segment": "Beräkning och 3D", "rubrik": "Varje bult finns i modellen", "text": "Sex konstruktörer som räknar och ritar stommar i Tekla och skickar filerna direkt till verkstadens maskiner.", "tagg": "kontor"},
+    {"namn": "Stålverkstaden", "segment": "Tillverkning", "rubrik": "4 200 ton stål om året", "text": "Borrlinje, robotkap och 24 svetsare i en hall på 6 500 kvadratmeter vid fjärden.", "tagg": "svets"},
+    {"namn": "Montage Norr", "segment": "Resning av stommar", "rubrik": "Fem lag och fyra kranar", "text": "Montörer med egna kranar och liftar som reser stommar från Umeå till Gävle.", "tagg": "bygg"},
+    {"namn": "Kubikenborg Projekt", "segment": "Totalentreprenad", "rubrik": "Hela hallen, en kontakt", "text": "Tar hela hallbygget med grund, plåt, portar och el tillsammans med fasta underentreprenörer.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Padelhall med solceller i Härnösand", "text": "En stomme på 36 meters spännvidd som bär 420 solpaneler på taket.", "tagg": "anlaggning"},
+    {"rubrik": "Ny robotkap i verkstaden", "text": "Profiler upp till 18 meter kapas och märks automatiskt direkt från konstruktionsmodellen.", "tagg": "svets"},
+    {"rubrik": "Logistikhall på Tunadal", "text": "6 800 kvadratmeter lager för en grossist, stommen rest på sexton arbetsdagar.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "70", "enhet": "hallar", "etikett": "Resta per år"},
+    {"varde": "40", "enhet": "meter", "etikett": "Största spännvidd utan pelare"},
+    {"varde": "4 200", "enhet": "ton", "etikett": "Stål genom verkstaden 2025"},
+    {"varde": "118", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+  ],
+  "projekt": [
+    {"namn": "Grossistlagret på Tunadal", "ort": "Sundsvall", "typ": "Logistikhall", "ar": "2026", "text": "6 800 kvadratmeter med två traverser och tolv lastportar.", "tagg": "industri"},
+    {"namn": "Padelhallen vid Nattviken", "ort": "Härnösand", "typ": "Idrottshall", "ar": "2026", "text": "Sex banor under en stomme som även bär 420 solpaneler.", "tagg": "anlaggning"},
+    {"namn": "Ridhuset i Njurunda", "ort": "Njurunda", "typ": "Ridhus", "ar": "2025", "text": "Stomme på 22 × 64 meter med ljusband längs nocken.", "tagg": "natur"},
+    {"namn": "Entreprenadhall vid E4", "ort": "Örnsköldsvik", "typ": "Maskinhall", "ar": "2025", "text": "Verkstads- och maskinhall med tvätthall och kontor på entresolplan.", "tagg": "bygg"},
+    {"namn": "Ishallens tillbyggnad", "ort": "Timrå", "typ": "Förstärkning", "ar": "2024", "text": "Befintlig stomme från 1974 förstärkt och förlängd med 24 meter.", "tagg": "anlaggning"},
+    {"namn": "Sågverkets justerhall", "ort": "Hudiksvall", "typ": "Industrihall", "ar": "2027", "text": "Konstruktion klar för en hall på 9 000 kvadratmeter, montage i maj.", "tagg": "industri", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Stomkalkyl", "text": "Inom fem arbetsdagar får ni en budgetkalkyl baserad på mått, snözon och användning.", "tagg": "kontor"},
+    {"titel": "Konstruktion i 3D", "text": "Konstruktörerna dimensionerar enligt Eurokod och tar fram ritningar till bygglov och grundläggare.", "tagg": "kontor"},
+    {"titel": "Tillverkning", "text": "Stålet kapas, borras, svetsas och varmförzinkas, och levereras i den ordning det ska resas.", "tagg": "svets"},
+    {"titel": "Resning", "text": "Montagelaget reser stommen och lämnar över med egenkontroller och CE-dokumentation.", "tagg": "bygg"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mindre stål i varje hall",
+    "text": "Stål står för den största delen av en hallstommes klimatavtryck, så varje kilo vi kan räkna bort spelar roll. Genom optimerade fackverk och höghållfast stål har vi minskat stålvikten per kvadratmeter med 18 procent sedan 2019. Allt kapspill sorteras och går till omsmältning.",
+    "mal": [["−18 %", "stål per kvadratmeter jämfört med 2019"], ["100 %", "av kapspillet till omsmältning"], ["EPD", "klimatdeklaration för varje stomme"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg det som bär",
+    "text": "Vi behöver svetsare, montörer och konstruktörer som vill se sina hallar resa sig längs hela Norrlandskusten. Kollektivavtal, egen svetsskola i verkstaden och traktamente vid montage på annan ort.",
+    "jobb": [["Konstruktör stål", "Sundsvall"], ["Svetsare EN 1090", "Sundsvall"], ["Stommontör", "Sundsvall"], ["Projektledare hallbygg", "Örnsköldsvik"]]
+  },
+  "kultur": "När en hall är rest bjuder platschefen montagelaget och kunden på lunch under det nya taket.",
+  "citat": {"text": "Folk ser plåten och portarna. Vi vet att det är stommen som bestämmer om hallen fortfarande står rak om femtio år med två meter snö på taket.", "namn": "Elsa Häggström", "roll": "Vd sedan 2021", "tagg": "bygg"},
+  "omdomen": [
+    {"text": "Vi fick budgetpriset på fyra dagar och det höll ända till slutfakturan. Stommen stod på exakt de dagar som stod i tidplanen.", "namn": "Mikael J., grossist", "ort": "Sundsvall"},
+    {"text": "Ridhuset har ingen pelare någonstans och ljuset från nocken gör att vi nästan aldrig behöver tända på dagen.", "namn": "Therese L.", "ort": "Njurunda"},
+    {"text": "De räknade på vår gamla ishall från 1974 och visade exakt var den behövde förstärkas. Inga gissningar, bara beräkningar.", "namn": "Bo E., kommunens fastighetsavdelning", "ort": "Timrå"}
+  ],
+  "faq": [
+    ["Vad kostar en hallstomme?", "En enkel lagerhallstomme kostar ofta mellan 900 och 1 400 kronor per kvadratmeter rest, beroende på spännvidd, snözon och traverser. Ni får ett budgetpris inom fem arbetsdagar."],
+    ["Bygger ni hela hallen eller bara stommen?", "Båda. Många beställer bara stommen och har egen byggare. Vill ni ha allt i ett avtal tar Kubikenborg Projekt hela entreprenaden."],
+    ["Hur lång är leveranstiden?", "Räkna med åtta till tolv veckor från godkända ritningar till leverans på plats. Själva resningen tar oftast en till tre veckor."],
+    ["Kan stommen bära solceller?", "Ja, om vi vet det från början. Vi räknar in panelernas vikt och snöns fördelning och förbereder för fästen."],
+    ["Behöver vi en egen konstruktör?", "Nej. Vi tar konstruktionsansvaret för stommen och levererar beräkningar och ritningar till bygglov och kontrollansvarig."],
+    ["Hur långt bort bygger ni?", "Främst Västernorrland, Jämtland, Gävleborg och södra Västerbotten. Större hallar bygger vi även längre bort."]
+  ],
+  "certifikat": [
+    {"titel": "EN 1090-2, EXC3", "text": "CE-märkning av bärande stålstommar upp till utförandeklass 3.", "ikon": "skold"},
+    {"titel": "ISO 3834-2", "text": "Kvalitetskrav för smältsvetsning med egen svetsansvarig ingenjör (IWE).", "ikon": "eld"},
+    {"titel": "ISO 9001 och 14001", "text": "Ledningssystem för kvalitet och miljö, reviderat av tredje part varje år.", "ikon": "dokument"},
+    {"titel": "Medlem i Stålbyggnadsinstitutet", "text": "Vi följer branschens utveckling inom beräkning, brandskydd och klimatdeklarationer.", "ikon": "ritning"}
+  ],
+  "kunder": ["Tunadals Grossistlager", "Härnösands Padelcenter", "Njurunda Ryttarförening", "Höga Kusten Entreprenad", "Timrå kommun", "Hudiks Sågverk", "Medelpads Lantmän", "Sundsvalls Logistikpark"],
+  "nyheter": [
+    ["2026-10-16", "Logistikhallen på Tunadal rest", "6 800 kvadratmeter stomme på sexton arbetsdagar.", "industri"],
+    ["2026-06-04", "Robotkapen i drift", "Profiler kapas och märks nu direkt från konstruktionsmodellen.", "svets"],
+    ["2026-02-24", "Klimatdeklaration för varje stomme", "Alla nya hallar levereras med beräknat klimatavtryck för stålet.", "bygg"]
+  ],
+  "kontakt": {"adress": "Kubikenborgsvägen 40", "postnr": "852 29", "ort": "Sundsvall", "telefon": "070-174 06 19", "epost": "kalkyl@kubikenborgstal.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16, verkstad i två skift",
+  "omrade": "Västernorrland, Jämtland, Gävleborg och södra Västerbotten",
+  "fot_cta": "Planerar ni en hall till nästa år? Skicka måtten och få en stomkalkyl på fem dagar.",
+  "bild": {"panel": "svets", "hb": "bygg"},
+  "text": {
+    "ber_rubrik": "Hallar som rests i höst",
+    "proj_rubrik": "Stommar längs Norrlandskusten",
+    "proj_kol": ["Hall", "Ort", "Typ", "Status", "År"],
+    "process_rubrik": "Från kalkyl till rest stomme",
+    "hb_etikett": "Klimat i stommen",
+    "omdomen_rubrik": "Byggherrar om resultatet",
+    "faq_rubrik": "Frågor om hallstommar",
+    "boka_rubrik": "Begär en stomkalkyl",
+    "boka_falt": ["Namn", "Telefon", "Ort för bygget", "Mått, användning och önskad byggstart"],
+    "logos_rubrik": "Byggherrar vi har rest hallar åt",
+    "certifikat_rubrik": "CE-märkt upp till EXC3",
+    "bolag_rubrik": "Konstruktion till nyckelfärdigt",
+    "ny_rubrik": "Nytt från fjärden",
+    "hero_knapp": "Hallar vi bygger",
+    "medarbetare": "Stålbyggarna"
+  }
+}

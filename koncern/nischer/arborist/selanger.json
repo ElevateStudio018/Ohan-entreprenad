@@ -16,7 +16,7 @@
   ],
   "vagval_rubrik": "Ska trädet ned eller vill du lära dig?",
   "tjanster": [
-    {"titel": "Trädfällning", "ikon": "trad", "href": "verksamhet.html", "text": "Fällning och sektionsfällning på villatomter i Sundsvall och Timrå."},
+    {"titel": "Fällning på villatomt", "ikon": "trad", "href": "verksamhet.html", "text": "Fällning och sektionsfällning på villatomter i Sundsvall och Timrå."},
     {"titel": "Lärlingsjobb", "ikon": "folk", "href": "verksamhet.html", "text": "Enklare fällningar till lägre pris, utförda av lärlingar med handledare."},
     {"titel": "Motorsågskörkort", "ikon": "verktyg", "href": "verksamhet.html", "text": "Kurser för nivå A, B och C med praktik på vårt övningsfält."},
     {"titel": "Trädklättring", "ikon": "upp", "href": "verksamhet.html", "text": "Grundkurs i klätterteknik och repsystem för blivande arborister."},
@@ -33,7 +33,7 @@
   ],
   "bolag": [
     {"namn": "Thomas Åkerlund", "segment": "Grundare och kursledare", "rubrik": "Femton år som skogsinstruktör", "text": "Thomas leder kurserna i motorsåg och är examinator för nivå C.", "tagg": "people"},
-    {"namn": "Linda Fors", "segment": "Arbetsledare, ETW", "rubrik": "Handleder lärlingarna", "text": "Linda planerar fällningarna och ser till att varje lärlingsjobb har en certifierad handledare på plats.", "tagg": "arborist"},
+    {"namn": "Linda Fors", "segment": "Arbetsledare och ETW", "rubrik": "Handleder lärlingarna", "text": "Linda planerar fällningarna och ser till att varje lärlingsjobb har en certifierad handledare på plats.", "tagg": "arborist"},
     {"namn": "Johannes Sjödin", "segment": "Klätterinstruktör, ISA", "rubrik": "Lär ut repteknik", "text": "Johannes håller klätter- och räddningskurserna och klättrar själv i de svåraste träden.", "tagg": "trad"},
     {"namn": "Ida Mårtensson", "segment": "Lärling, andra året", "rubrik": "Snart färdig arborist", "text": "Ida tar arboristexamen till våren och gör sina sista praktikveckor hos oss.", "tagg": "tradgard"}
   ],
@@ -43,7 +43,7 @@
     {"rubrik": "Nytt klätterträd på fältet", "text": "En 22 meter hög tall har fått fasta förankringspunkter för räddningsövningar.", "tagg": "arborist"}
   ],
   "nyckeltal": [
-    {"varde": "2008", "enhet": "", "etikett": "Firman startade"},
+    {"varde": "2008", "enhet": "", "etikett": "Första fällningen i Selånger"},
     {"varde": "1 400+", "enhet": "elever", "etikett": "Utbildade sedan 2015"},
     {"varde": "20 %", "enhet": "", "etikett": "Lägre pris på lärlingsjobb"},
     {"varde": "9", "enhet": "anställda", "etikett": "Varav två kursledare"}
@@ -53,7 +53,7 @@
     {"namn": "Lärlingsjobb i Bergsåker", "ort": "Sundsvall", "typ": "Fällning med handledare", "ar": "2026", "text": "Sju björkar på öppen tomt till lärlingspris.", "tagg": "trad"},
     {"namn": "Timrå kommun", "ort": "Timrå", "typ": "Kurs i motorsåg", "ar": "2025", "text": "Tolv parkarbetare utbildade och godkända för nivå B.", "tagg": "people"},
     {"namn": "Badplatsen vid Sidsjön", "ort": "Sundsvall", "typ": "Riskträd", "ar": "2025", "text": "Beskärning och fällning av sex tallar vid badstranden.", "tagg": "tradgard"},
-    {"namn": "Enskild väg på Alnö", "ort": "Alnö", "typ": "Kantträd längs väg", "ar": "2025", "text": "Fyra kilometer väg glesad inför vintern åt vägföreningen.", "tagg": "natur"},
+    {"namn": "Enskild väg på Alnö", "ort": "Alnö", "typ": "Glesning längs enskild väg", "ar": "2025", "text": "Fyra kilometer väg glesad inför vintern åt vägföreningen.", "tagg": "natur"},
     {"namn": "Elnätsentreprenör", "ort": "Härnösand", "typ": "Räddningskurs", "ar": "2026", "text": "Tvådagarskurs för åtta linjemontörer i december.", "tagg": "people", "status": "Bokat"}
   ],
   "process": [
@@ -88,8 +88,8 @@
     ["Kan ni hålla kurs hos oss?", "Ja, för grupper om minst sex deltagare. Vi tar med stammar och utrustning."]
   ],
   "priser": [
-    {"namn": "Fällning, lärlingsjobb", "pris": "3 600 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Öppen tomt, lärlingar med handledare.", "punkter": ["Certifierad handledare på plats", "Fritt fall eller få delar", "Flisning av ris", "Krattning efteråt"]},
-    {"namn": "Fällning, ordinarie lag", "pris": "4 900 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Fällning nära hus, garage och staket.", "punkter": ["Sektionsfällning vid behov", "Skydd av byggnader", "Stammen kapad i ved", "Städad tomt"], "utvald": true},
+    {"namn": "Fällning, lärlingsjobb", "pris": "3 600 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Öppen tomt, lärlingar med handledare.", "punkter": ["Certifierad handledare på plats", "Fritt fall eller få delar", "Riset flisas", "Krattat när vi går"]},
+    {"namn": "Fällning, ordinarie lag", "pris": "4 900 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Fällning nära hus, garage och staket.", "punkter": ["Fällning i delar nära byggnad", "Skydd av byggnader", "Stammen blir ved", "Städad tomt"], "utvald": true},
     {"namn": "Motorsågskörkort A+B", "pris": "6 900 kr", "enhet": "per deltagare, fyra dagar", "text": "Teori och praktik med prov.", "punkter": ["Lån av skyddsutrustning", "Övningar på riktiga stammar", "Prov och registrering", "Lunch alla dagar"]}
   ],
   "prislista": [

@@ -32,9 +32,9 @@
     {"titel": "Ved från egna fällningar", "text": "Allt virke från jobben körs till depån, där det kapas, klyvs och torkas. Veden säljs i storsäck till kunder i hela Örebro län.", "text2": "Har du fällt hos oss det senaste året får du 15 procent på första storsäcken.", "tagg": "ved"}
   ],
   "bolag": [
-    {"namn": "Robin Sandell", "segment": "Vd och grundare", "rubrik": "Byggde prismodellen", "text": "Robin svarar på de knepigaste prisförfrågningarna och lägger lagens rutter varje morgon.", "tagg": "arborist"},
+    {"namn": "Robin Sandell", "segment": "Vd, medgrundare", "rubrik": "Byggde prismodellen", "text": "Robin svarar på de knepigaste prisförfrågningarna och lägger lagens rutter varje morgon.", "tagg": "arborist"},
     {"namn": "Nora Ahlin", "segment": "Grundare, kund och bokning", "rubrik": "Fyra timmar till svar", "text": "Nora leder kundtjänsten och ser till att varje bildförfrågan får pris samma dag.", "tagg": "tradgard"},
-    {"namn": "Dennis Ivarsson", "segment": "Lagledare, ETW", "rubrik": "Har lett lag ett sedan starten", "text": "Dennis lär upp nya arborister och ansvarar för att alla fyra lag arbetar på samma sätt.", "tagg": "trad"},
+    {"namn": "Dennis Ivarsson", "segment": "Lagledare med ETW", "rubrik": "Har lett lag ett sedan starten", "text": "Dennis lär upp nya arborister och ansvarar för att alla fyra lag arbetar på samma sätt.", "tagg": "trad"},
     {"namn": "Elin Rosén", "segment": "Depå och ved", "rubrik": "Har koll på 900 storsäckar", "text": "Elin sköter vedförsäljningen och underhållet av maskinerna på Aspholmen.", "tagg": "ved"}
   ],
   "berattelser": [
@@ -50,10 +50,10 @@
   ],
   "projekt": [
     {"namn": "Villa på Adolfsberg", "ort": "Örebro", "typ": "Fällning av två björkar", "ar": "2026", "text": "Pris via bild kl. 08.40, fällt nio dagar senare.", "tagg": "arborist"},
-    {"namn": "Radhusområde", "ort": "Kumla", "typ": "Stubbfräsning", "ar": "2026", "text": "Tjugofyra stubbar fräsade på en dag åt samfälligheten.", "tagg": "tradgard"},
+    {"namn": "Samfällighet med radhus", "ort": "Kumla", "typ": "Stubbfräsning", "ar": "2026", "text": "Tjugofyra stubbar fräsade på en dag åt samfälligheten.", "tagg": "tradgard"},
     {"namn": "Villa i Hallsberg", "ort": "Hallsberg", "typ": "Sektionsfällning", "ar": "2025", "text": "En tall nära garaget fälld i sju delar till fast pris.", "tagg": "trad"},
     {"namn": "Häckarna på Lillån", "ort": "Örebro", "typ": "Häckklippning", "ar": "2025", "text": "180 meter liguster klippt åt fem grannar på samma gata.", "tagg": "tradgard"},
-    {"namn": "Fritidshus i Askersund", "ort": "Askersund", "typ": "Fällning och ved", "ar": "2025", "text": "Tre granar fällda och kapade till ved som staplades i boden.", "tagg": "ved"},
+    {"namn": "Fritidshus i Askersund", "ort": "Askersund", "typ": "Fällning, ved i boden", "ar": "2025", "text": "Tre granar fällda och kapade till ved som staplades i boden.", "tagg": "ved"},
     {"namn": "Villa på Rynninge", "ort": "Örebro", "typ": "Kronhöjning", "ar": "2026", "text": "Tre ekar höjs till fyra meter vecka 47.", "tagg": "trad", "status": "Bokat"}
   ],
   "process": [
@@ -85,18 +85,18 @@
     ["När dras RUT av hos er?", "Direkt på fakturan. Du betalar halva arbetskostnaden och vi ansöker om resten hos Skatteverket."],
     ["Kan ni komma ut och titta om jag vill?", "Ja, ett platsbesök kostar 495 kr och dras av om du beställer. De flesta väljer ändå bilderna."],
     ["Vilka träd räknar ni inte på bild?", "Träd över 20 meter tätt intill hus och träd vid elledningar. Där bokar vi alltid ett platsbesök."],
-    ["Hur långt reser ni?", "Inom fyra mil från Örebro ingår resan. Längre bort tillkommer en fast avgift som står i prislistan."]
+    ["Hur långt bort tar ni jobb?", "Inom fyra mil från Örebro ingår resan. Längre bort tillkommer en fast avgift som står i prislistan."]
   ],
   "priser": [
-    {"namn": "Träd upp till 10 m", "pris": "3 900 kr", "enhet": "per träd före RUT", "text": "Mindre träd som kan fällas fritt eller i några delar.", "punkter": ["Pris från bilder", "Flisning och bortforsling", "Krattning efteråt", "Prisgaranti"]},
-    {"namn": "Träd 10–15 m", "pris": "5 900 kr", "enhet": "per träd före RUT", "text": "Vanligaste jobbet: björk, gran eller tall på villatomt.", "punkter": ["Sektionsfällning vid behov", "Stammen kapad i ved eller bortkörd", "Krattning och sopning", "Samma prisgaranti"], "utvald": true},
-    {"namn": "Stubbfräsning", "pris": "790 kr", "enhet": "första stubben före RUT", "text": "Fast pris per stubbe upp till 40 cm.", "punkter": ["Bokas utan besök", "Fräsning 20 cm ned", "Spånet kvar eller bortkört", "Fler stubbar 390 kr/st"]}
+    {"namn": "Träd upp till 10 m", "pris": "3 900 kr", "enhet": "per träd före RUT", "text": "Mindre träd som kan fällas fritt eller i några delar.", "punkter": ["Pris från bilder", "Riset flisat och bortkört", "Tomten krattad", "Prisgaranti"]},
+    {"namn": "Träd 10–15 m", "pris": "5 900 kr", "enhet": "per träd före RUT", "text": "Vanligaste jobbet: björk, gran eller tall på villatomt.", "punkter": ["I sektioner om läget kräver", "Stammen kapad i ved eller bortkörd", "Krattning och sopning", "Samma prisgaranti"], "utvald": true},
+    {"namn": "Stubbfräsning", "pris": "790 kr", "enhet": "första stubben före RUT", "text": "Fast pris per stubbe upp till 40 cm.", "punkter": ["Bokas utan besök", "20 cm under gräsnivå", "Spånet lämnas eller tas med", "Fler stubbar 390 kr/st"]}
   ],
   "prislista": [
     ["Träd 15–20 m", "fr. 8 900 kr"],
     ["Kronhöjning per träd", "fr. 1 900 kr"],
     ["Häckklippning upp till 2 m höjd", "38 kr/löpmeter"],
-    ["Stubbe 40–70 cm", "1 290 kr"],
+    ["Stubbe, 40–70 cm diameter", "1 290 kr"],
     ["Platsbesök, avräknas vid order", "495 kr"],
     ["Resa över fyra mil", "fast 650 kr"],
     ["Björkved i storsäck", "1 190 kr"],

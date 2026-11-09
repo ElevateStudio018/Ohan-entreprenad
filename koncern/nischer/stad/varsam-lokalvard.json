@@ -1,0 +1,127 @@
+{
+  "profil": "nisch",
+  "nisch": "stad",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Varsam Lokalvård i Dalarna AB",
+  "kortnamn": "Varsam",
+  "slug": "varsam-lokalvard",
+  "typ": "Städning av kyrkor, museer och herrgårdar",
+  "tagline": "Städ för kulturmiljöer",
+  "slogan": "Vi städar kyrkor, museer och herrgårdar i Dalarna med pensel, HEPA-filter och respekt för ytor som har klarat sig i trehundra år.",
+  "hero_rubrik": "Golvet från 1742 ska klara 2042 också",
+  "hero_text": "Nio lokalvårdare, en konservator och ett förråd fullt av getpenslar. Vi tar hand om de byggnader där vanlig städning gör mer skada än nytta.",
+  "intro_rubrik": "Där varsamhet är metoden",
+  "om": [
+    "Varsam startades 2012 av Ingrid Halvarsson, utbildad textilkonservator, efter att hon sett hur en välmenande städfirma våttorkat ett omålat furugolv från 1700-talet i en sockenkyrka. Hon anställde två lokalvårdare och lärde dem det konservatorerna kallar förebyggande vård.",
+    "Vi är i dag nio anställda med bas i Falun och städar 34 kyrkor, sex museer, fyra herrgårdar och ett tjugotal hembygdsgårdar i Dalarna och södra Hälsingland. Alla rutiner är skrivna tillsammans med antikvarier och följer Riksantikvarieämbetets råd för städning i kulturhistoriska miljöer."
+  ],
+  "vagval_rubrik": "Vilken byggnad ska vi ta hand om?",
+  "tjanster": [
+    {"titel": "Kyrkstädning", "ikon": "stjarna", "href": "verksamhet.html", "text": "Kyrkrum, sakristia och vapenhus, med särskild omsorg om bänkar, golv och textilier."},
+    {"titel": "Museer och utställningar", "ikon": "lampa", "href": "verksamhet.html", "text": "Dammsugning av montrar, föremål och golv med HEPA-filter och penslar."},
+    {"titel": "Herrgårdar och slott", "ikon": "hus", "href": "verksamhet.html", "text": "Salonger med tapeter, förgyllning och kakelugnar som inte tål vatten."},
+    {"titel": "Hembygdsgårdar", "ikon": "trad", "href": "verksamhet.html", "text": "Vårstäd före sommaröppning och vinterstängning efter säsongen."},
+    {"titel": "Skadedjursinventering", "ikon": "sok", "href": "verksamhet.html", "text": "Fällor och kontroll av ängrar och malar, med rapport till antikvarien."},
+    {"titel": "Städning efter renovering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Finstäd när hantverkarna är klara, innan inventarier ställs tillbaka."},
+    {"titel": "Utbildning i varsam städ", "ikon": "skola", "href": "verksamhet.html", "text": "Halvdagskurser för kyrkvaktmästare och museivärdar."},
+    {"titel": "Boka besiktning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Ingrid går igenom byggnaden och föreslår en städplan."}
+  ],
+  "affarsomraden": [
+    {"titel": "Kyrkor och församlingar", "text": "Kyrkorummen städas fyra till tolv gånger om året beroende på hur mycket de används. Vi dammsuger bänkar med mjuka munstycken, torkar stengolv fuktigt men aldrig vått och lämnar trägolv med bara torr mopp.", "text2": "Inför jul och påsk gör vi extra städ av ljuskronor och altarets ljusstakar.", "tagg": "sten"},
+    {"titel": "Museer och samlingar", "text": "På museer arbetar vi efter samlingsansvarigs anvisningar och rör aldrig ett föremål utan tillstånd. Damm tas bort med pensel ner i ett HEPA-munstycke så att det inte virvlar upp och lägger sig igen.", "text2": "Vi dokumenterar allt med foto före och efter i montrarna.", "tagg": "interior"},
+    {"titel": "Herrgårdar och privata hem", "text": "Ägare till herrgårdar och äldre gårdar anlitar oss för städning av rum med originaltapeter, oljade golv och kakelugnar. Vi vet att salmiak förstör blyinfattat glas och att mikrofiber kan rispa gammal förgyllning.", "text2": "Några kunder har oss varannan vecka, andra två gånger om året.", "tagg": "hem"},
+    {"titel": "Hembygdsgårdar och säsong", "text": "Ett tjugotal hembygdsföreningar har oss för vårstäd i maj och höststäd i september. Vi vädrar, dammsuger textilier och lägger ut fällor för skadeinsekter inför vintern.", "text2": "Föreningarna får en kort rapport om fukt, skadedjur och behov av åtgärder.", "tagg": "tra"}
+  ],
+  "bolag": [
+    {"namn": "Ingrid Halvarsson", "segment": "Konservator och grundare", "rubrik": "Rutiner som håller i hundra år", "text": "Skriver städplaner, utbildar personalen och har kontakten med antikvarier och stift.", "tagg": "people"},
+    {"namn": "Kyrklaget", "segment": "5 lokalvårdare", "rubrik": "34 kyrkor från Mora till Hedemora", "text": "Arbetar i par med en bil var, och planerar efter kyrkoårets högtider.", "tagg": "sten"},
+    {"namn": "Museer och gårdar", "segment": "3 lokalvårdare", "rubrik": "Penslar, montrar och kakelugnar", "text": "Städar museer året runt och herrgårdar och hembygdsgårdar efter säsong.", "tagg": "interior"}
+  ],
+  "berattelser": [
+    {"rubrik": "Bänkarna i en sockenkyrka från 1600-talet", "text": "Efter en ommålning dammsög vi 48 bänkar med pensel och lågt sug innan församlingen fick ta dem i bruk igen.", "tagg": "sten"},
+    {"rubrik": "Ängrar upptäckta i tid", "text": "Fällorna i en hembygdsgård i Leksand visade ängerlarver i en kista med folkdräkter. Antikvarien hann frysa textilierna.", "tagg": "tra"},
+    {"rubrik": "Kurs för 22 kyrkvaktmästare", "text": "I oktober höll Ingrid en halvdag i Falun om hur kyrkans egna städrutiner kan bli varsammare.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "34", "enhet": "kyrkor", "etikett": "Städas regelbundet"},
+    {"varde": "1742", "enhet": "", "etikett": "Vårt äldsta golv i ordinarie skötsel"},
+    {"varde": "9", "enhet": "anställda", "etikett": "Alla utbildade av en konservator"},
+    {"varde": "0 dl", "enhet": "", "etikett": "Vatten på omålade trägolv"}
+  ],
+  "projekt": [
+    {"namn": "Sockenkyrka vid Siljan", "ort": "Rättvik", "typ": "Kyrkstädning", "ar": "2026", "text": "Tio städningar per år, med extra omsorg om golvet från 1742 och altartavlan.", "tagg": "sten", "status": "Pågående"},
+    {"namn": "Bruksherrgård i Grycksbo", "ort": "Falun, Grycksbo", "typ": "Herrgårdsstäd", "ar": "2026", "text": "Salonger med 1800-talstapeter och sex kakelugnar, städade varannan vecka.", "tagg": "hem", "status": "Pågående"},
+    {"namn": "Gruvmuseet vid Östanforsån", "ort": "Falun", "typ": "Museistäd", "ar": "2025", "text": "Montrar, mineralsamling och golv i en utställningshall på 600 kvadratmeter.", "tagg": "interior"},
+    {"namn": "Hembygdsgård i Leksand", "ort": "Leksand", "typ": "Vår- och höststäd", "ar": "2025", "text": "Nio timrade byggnader med textilier, kistor och kakelugnar.", "tagg": "tra"},
+    {"namn": "Stenkyrka i Hedemora", "ort": "Hedemora", "typ": "Städning efter renovering", "ar": "2024", "text": "Finstäd efter putslagning innan orgel och inventarier ställdes tillbaka.", "tagg": "sten"},
+    {"namn": "Bergsmansgård i Vika", "ort": "Falun, Vika", "typ": "Säsongsstäd", "ar": "2025", "text": "Vinterstängning med täckning av möbler och fällor för skadeinsekter.", "tagg": "hem"}
+  ],
+  "process": [
+    {"titel": "Besiktning med antikvarie", "text": "Ingrid går igenom byggnaden, gärna tillsammans med er antikvarie eller stiftets bebyggelseantikvarie.", "tagg": "people"},
+    {"titel": "Skriftlig städplan", "text": "Ni får en plan som anger metod och frekvens för varje yta och material.", "tagg": "interior"},
+    {"titel": "Städning efter kalendern", "text": "Vi planerar efter högtider, öppettider och säsong, inte efter veckodag.", "tagg": "sten"},
+    {"titel": "Rapport efter varje besök", "text": "Vi noterar sprickor, fukt, skadedjur och annat som antikvarien bör känna till.", "tagg": "tra"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Förebyggande vård i stället för reparation",
+    "text": "Damm, fukt och skadeinsekter bryter ner textilier, trä och färg långsamt men säkert. Varsam städning är det billigaste sättet att undvika en dyr konservering, och därför rapporterar vi allt vi ser.",
+    "mal": [["100 %", "av besöken rapporteras"], ["2", "skadedjurskontroller per år och byggnad"], ["0", "kemikalier på originalytor"]]
+  },
+  "karriar": {
+    "rubrik": "Lär dig städa som en konservator",
+    "text": "Vi söker någon med erfarenhet av lokalvård och tålamod för detaljer. Du får utbildning av Ingrid, körkort krävs eftersom du åker mellan kyrkor i hela länet.",
+    "jobb": [["Lokalvårdare kulturmiljöer", "Falun"]]
+  },
+  "kultur": "En gång om året åker hela personalen på studieresa till en kyrka eller ett museum utanför Dalarna.",
+  "citat": {"text": "Det mesta som förstörs i en kyrka förstörs inte av tiden. Det förstörs av en hink vatten och för mycket välvilja.", "namn": "Ingrid Halvarsson", "roll": "Konservator och grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi har aldrig haft en städfirma som frågat vad golvet är behandlat med. Varsam kom med svaret själva.", "namn": "Lars-Erik D.", "ort": "Rättvik"},
+    {"text": "Rapporten om ängrar räddade vår folkdräktssamling. Ingen av oss hade sett något.", "namn": "Margit O.", "ort": "Leksand"},
+    {"text": "De rör inte en enda monter utan att fråga först. Det är precis så det ska vara.", "namn": "Johan H.", "ort": "Falun"}
+  ],
+  "faq": [
+    ["Varför kan inte en vanlig städfirma städa kyrkan?", "Den kan, men vanliga metoder och medel skadar ofta äldre material. Vatten sväller trä, mikrofiber kan rispa förgyllning och många rengöringsmedel lämnar rester som bryter ner färg."],
+    ["Vad använder ni för utrustning?", "Dammsugare med HEPA-filter och reglerbart sug, getpenslar och mjuka borstar, torra moppar och destillerat vatten där fukt behövs."],
+    ["Hur ofta ska en kyrka städas?", "Det beror på användningen. En kyrka med gudstjänst varje söndag behöver ungefär tio städningar per år, en sommarkyrka två till fyra."],
+    ["Samarbetar ni med antikvarier?", "Ja, alltid. Städplanen stäms av med församlingens eller museets antikvarie, och vi rapporterar allt vi upptäcker."],
+    ["Åker ni utanför Dalarna?", "Ja, till södra Hälsingland och norra Västmanland. Längre bort tar vi resekostnad och ibland övernattning."],
+    ["Vad kostar det?", "Timpriset är 560 kronor exklusive moms. En normalstor sockenkyrka tar en arbetsdag för två personer."]
+  ],
+  "certifikat": [
+    {"titel": "Konservatorsutbildning", "text": "Grundaren har kandidatexamen i kulturvård med inriktning textil från Göteborgs universitet.", "ikon": "lov"},
+    {"titel": "Riksantikvarieämbetets råd", "text": "Våra rutiner följer myndighetens vägledning för städning och skötsel av kulturhistoriska interiörer.", "ikon": "dokument"},
+    {"titel": "Integrerad skadedjurskontroll", "text": "Personalen är utbildad i IPM, förebyggande kontroll av skadeinsekter i samlingar.", "ikon": "sok"},
+    {"titel": "Försäkring för kulturföremål", "text": "Ansvarsförsäkring med särskilt skydd för skador på inventarier och konstföremål.", "ikon": "skold"}
+  ],
+  "kunder": ["Östbjörka Kyrkoråd", "Grycksbo Bruksherrgård", "Östanforsåns Gruvmuseum", "Leksands Hembygdsförening", "Husby Kyrkoråd", "Vika Bergsmansgård", "Voxnadalens Kyrkoråd"],
+  "nyheter": [
+    ["2026-10-22", "Kurs i varsam städ för kyrkvaktmästare", "22 deltagare från sju församlingar lärde sig dammsuga bänkar utan att nöta färgen.", "people"],
+    ["2026-09-04", "Dags att stänga hembygdsgården", "Så förbereder ni timmerhus och textilier inför vintern.", "tra"],
+    ["2026-03-26", "Ljusstakarna inför påsk", "Varför vi aldrig putsar mässing med polermedel i kyrkor.", "sten"]
+  ],
+  "kontakt": {"adress": "Slaggatan 6", "postnr": "791 71", "ort": "Falun", "telefon": "070-174 06 59", "epost": "ingrid@varsamlokalvard.se", "orgnr": ""},
+  "oppettider": "Mån–tors 7.30–16, fre 7.30–13",
+  "omrade": "Dalarna, södra Hälsingland och norra Västmanland",
+  "fot_cta": "Ansvarar ni för en kyrka, ett museum eller en gammal gård? Låt oss gå igenom den tillsammans.",
+  "bild": {"panel": "sten", "hb": "interior"},
+  "text": {
+    "hero_knapp": "Byggnader vi vårdar",
+    "kontakt_knapp": "Boka besiktning",
+    "hero_lank": "Kyrkor och museer",
+    "vagval_etikett": "Kulturmiljö",
+    "ber_rubrik": "Ur rapporterna",
+    "proj_rubrik": "Byggnader i vår vård",
+    "process_rubrik": "Från besiktning till rapport",
+    "hb_etikett": "Förebyggande vård",
+    "omdomen_rubrik": "Församlingar och föreningar",
+    "faq_rubrik": "Om städning i gamla miljöer",
+    "boka_rubrik": "Visa oss byggnaden",
+    "boka_text": "Berätta vilken byggnad det gäller, hur gammal den är och hur den används, så ringer Ingrid upp.",
+    "boka_falt": ["Namn", "Telefon", "Byggnad och ort", "Ålder, användning och önskemål"],
+    "logos_rubrik": "Kyrkor, museer och gårdar",
+    "certifikat_rubrik": "Kunskap om kulturvård",
+    "bolag_rubrik": "En konservator och två lag",
+    "ny_rubrik": "Råd om varsam skötsel",
+    "medarbetare": "Lokalvårdarna"
+  }
+}

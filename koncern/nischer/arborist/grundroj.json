@@ -32,9 +32,9 @@
     {"titel": "Ledningar och schakt", "text": "När det dras fiber, vatten eller avlopp över tomten skär schaktet ofta genom trädens rötter. Nära stammen handgräver vi eller använder luftspade och kapar rötterna rent.", "text2": "Vi samarbetar med tre markfirmor i Gävle och Sandviken.", "tagg": "mark"}
   ],
   "bolag": [
-    {"namn": "Johan Hedlund", "segment": "Grundare, ETW", "rubrik": "Tio år som kommunal arborist", "text": "Johan bedömer vilka träd som klarar ett bygge och sköter de svåra fällningarna.", "tagg": "arborist"},
+    {"namn": "Johan Hedlund", "segment": "Grundare, ETW-certifierad", "rubrik": "Tio år som kommunal arborist", "text": "Johan bedömer vilka träd som klarar ett bygge och sköter de svåra fällningarna.", "tagg": "arborist"},
     {"namn": "Emma Hedlund", "segment": "Grundare, projektledare", "rubrik": "Talar byggarnas språk", "text": "Emma planerar jobben efter byggfirmornas tidplaner och skriver trädskyddsprotokollen.", "tagg": "bygg"},
-    {"namn": "Tobias Wallin", "segment": "Maskinförare", "rubrik": "Minigrävare och stubbfräs", "text": "Tobias gräver upp rötter och fräser stubbar så att grundläggaren kan börja direkt.", "tagg": "mark"},
+    {"namn": "Tobias Wallin", "segment": "Maskinförare, mark", "rubrik": "Minigrävare och stubbfräs", "text": "Tobias gräver upp rötter och fräser stubbar så att grundläggaren kan börja direkt.", "tagg": "mark"},
     {"namn": "Nathalie Engvall", "segment": "Arborist", "rubrik": "Klättrar vid husväggarna", "text": "Nathalie sektionsfäller träd intill befintliga hus innan tillbyggnaden startar.", "tagg": "trad"}
   ],
   "berattelser": [
@@ -51,7 +51,7 @@
   "projekt": [
     {"namn": "Skogstomt i Forsbacka", "ort": "Forsbacka", "typ": "Tomtröjning", "ar": "2026", "text": "38 tallar fällda och nio sparade med stängsel och körplattor.", "tagg": "bygg"},
     {"namn": "Pool i Valbo", "ort": "Valbo", "typ": "Rotkapning och trädskydd", "ar": "2026", "text": "En björk sparad intill poolschaktet, med rent kapade rötter.", "tagg": "arborist"},
-    {"namn": "Attefallshus på Brynäs", "ort": "Gävle", "typ": "Fällning nära hus", "ar": "2025", "text": "Två tallar sektionsfällda innan grunden till attefallshuset göts.", "tagg": "trad"},
+    {"namn": "Attefallshus på Brynäs", "ort": "Gävle", "typ": "Fällning intill husvägg", "ar": "2025", "text": "Två tallar sektionsfällda innan grunden till attefallshuset göts.", "tagg": "trad"},
     {"namn": "Fiberdragning i Sätra", "ort": "Gävle", "typ": "Ledningsschakt", "ar": "2025", "text": "Handgrävning vid tolv träd längs en 400 meter lång fibersträcka.", "tagg": "mark"},
     {"namn": "Villa i Sandviken", "ort": "Sandviken", "typ": "Efterbeskärning", "ar": "2025", "text": "Tre sparade tallar beskurna och kontrollerade ett år efter inflyttningen.", "tagg": "trad"},
     {"namn": "Nya tomter i Skutskär", "ort": "Skutskär", "typ": "Tomtröjning", "ar": "2026", "text": "Sex tomter röjs åt en husbyggare i december.", "tagg": "bygg", "status": "Bokat"}
@@ -90,7 +90,7 @@
   "priser": [
     {"namn": "Tomtröjning skogstomt", "pris": "fr. 24 900 kr", "enhet": "tomt upp till 1 200 m²", "text": "Fällning, stubbar och rötter bort där huset ska stå.", "punkter": ["Märkning av sparade träd", "Upp till 30 träd fällda", "Stubbar uppgrävda med minigrävare", "Stockar till sågverk, värdet avdraget"], "utvald": true},
     {"namn": "Trädskydd under bygget", "pris": "fr. 6 800 kr", "enhet": "upp till fem träd", "text": "Stängsel, körplattor och stamskydd.", "punkter": ["Protokoll med foton före start", "Stängsel på rätt avstånd", "Körplattor där det måste köras", "Kontrollbesök under bygget"]},
-    {"namn": "Fällning före tillbyggnad", "pris": "6 500 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Ett träd intill befintligt hus.", "punkter": ["Sektionsfällning", "Stubben uppgrävd eller fräst", "Flisning av ris", "Städat innan byggarna kommer"]}
+    {"namn": "Fällning före tillbyggnad", "pris": "6 500 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Ett träd intill befintligt hus.", "punkter": ["Sektionsfällning", "Stubben uppgrävd eller fräst", "Riset flisat på tomten", "Städat innan byggarna kommer"]}
   ],
   "prislista": [
     ["Arborist, timdebitering", "730 kr/tim"],

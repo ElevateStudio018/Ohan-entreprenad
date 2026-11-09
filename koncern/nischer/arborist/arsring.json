@@ -33,7 +33,7 @@
   ],
   "bolag": [
     {"namn": "Jonas Edlund", "segment": "Grundare, trädgårdsingenjör", "rubrik": "Har planterat 1 900 träd", "text": "Jonas gör artförslag och planteringsplaner och väljer själv ut träden på plantskolorna.", "tagg": "tradgard"},
-    {"namn": "Hedvig Rask", "segment": "Grundare, ETW", "rubrik": "Beskär de unga och de gamla", "text": "Hedvig leder beskärningslaget och ansvarar för uppföljningsbesöken under garantitiden.", "tagg": "arborist"},
+    {"namn": "Hedvig Rask", "segment": "Medgrundare, ETW", "rubrik": "Beskär de unga och de gamla", "text": "Hedvig leder beskärningslaget och ansvarar för uppföljningsbesöken under garantitiden.", "tagg": "arborist"},
     {"namn": "Viktor Holm", "segment": "Arborist", "rubrik": "Fäller och fräser", "text": "Viktor sköter fällning och stubbfräsning inför nya planteringar.", "tagg": "trad"},
     {"namn": "Leo Mäkinen", "segment": "Markarbetare", "rubrik": "Gropar, jord och stag", "text": "Leo kör minigrävaren, blandar planteringsjord och sätter förankringen.", "tagg": "natur"}
   ],
@@ -90,7 +90,7 @@
   "priser": [
     {"namn": "Storträd planterat", "pris": "fr. 9 800 kr", "enhet": "inkl. träd 16–18 cm, före RUT", "text": "Ett träd i jordklump med förankring och vattningsring.", "punkter": ["Art efter tomtens förutsättningar", "Ny planteringsjord", "Förankring under jord", "Ett års garanti"]},
     {"namn": "Plantering med femårsavtal", "pris": "fr. 16 400 kr", "enhet": "träd och fem års skötsel, före RUT", "text": "Plantering, vattning och uppbyggnadsbeskärning.", "punkter": ["Vattning tre somrar", "Beskärning vartannat år", "Kontroll vår och höst", "Femårsgaranti"], "utvald": true},
-    {"namn": "Fäll och ersätt", "pris": "fr. 12 900 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Det gamla trädet ned, ett nytt i jorden samma vecka.", "punkter": ["Fällning och stubbfräsning", "Ny jord i planteringsgropen", "Nytt träd 14–16 cm", "Flis och ved omhändertagna"]}
+    {"namn": "Fäll och ersätt", "pris": "fr. 12 900 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Det gamla trädet ned, ett nytt i jorden samma vecka.", "punkter": ["Fällning plus stubbfräsning", "Ny jord i planteringsgropen", "Nytt träd 14–16 cm", "Flis och ved omhändertagna"]}
   ],
   "prislista": [
     ["Timpris för arborist", "710 kr/tim"],
@@ -100,7 +100,7 @@
     ["Skelettjord under hårdgjord yta", "fr. 4 800 kr"],
     ["Stubbfräsning inför plantering", "1 150 kr"],
     ["Fällning, träd upp till 15 m", "fr. 5 600 kr"],
-    ["Minigrävare med förare", "950 kr/tim"]
+    ["Minigrävare inklusive förare", "950 kr/tim"]
   ],
   "certifikat": [
     {"titel": "ETW-certifierad beskärning", "text": "Hedvig och Viktor är European Tree Workers med beskärning av unga träd som specialitet.", "ikon": "skold"},
