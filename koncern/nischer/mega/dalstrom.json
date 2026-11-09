@@ -33,7 +33,7 @@
   ],
   "bolag": [
     {"namn": "Dalström Vattenkraft AB", "segment": "Produktion", "rubrik": "Tre älvar, 44 kraftverk", "text": "Driver, underhåller och moderniserar vattenkraften från driftcentralen i Borlänge.", "tagg": "natur"},
-    {"namn": "Dalström Vind AB", "segment": "Förnybar produktion", "rubrik": "Från vindmätning till drift", "text": "Projekterar, bygger och förvaltar vindkraft i Sverige, Finland och Polen.", "tagg": "el"},
+    {"namn": "Dalström Vind AB", "segment": "Förnybar produktion", "rubrik": "Hela vindkraftskedjan", "text": "Projekterar, bygger och förvaltar vindkraft i Sverige, Finland och Polen.", "tagg": "el"},
     {"namn": "Dalström Elnät AB", "segment": "Distribution", "rubrik": "Elen hela vägen hem", "text": "Ansvarar för 71 000 kilometer ledning och nätanslutning av ny industri och laddinfrastruktur.", "tagg": "infra"},
     {"namn": "Dalström Värme AB", "segment": "Värme och försäljning", "rubrik": "Varmt vatten i 14 städer", "text": "Fjärrvärme, kraftvärme och elhandel för hushåll och företag.", "tagg": "stad"}
   ],
@@ -45,7 +45,7 @@
   ],
   "nyckeltal": [
     {"varde": "41", "enhet": "TWh", "etikett": "Produktion 2025", "trend": [36, 37, 35, 38, 39, 40, 41], "trend_text": "Produktion 2019–2025, TWh"},
-    {"varde": "58", "enhet": "mdr kr", "etikett": "Omsättning", "trend": [34, 33, 49, 71, 62, 55, 58], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "58", "enhet": "mdr kr", "etikett": "Omsättning", "trend": [34, 33, 49, 71, 62, 55, 58], "trend_text": "Omsättning 2019–2025, mdr kr – följer elpriset"},
     {"varde": "98", "enhet": "%", "etikett": "Fossilfri produktion"},
     {"varde": "980 000", "enhet": "", "etikett": "Elnätskunder"}
   ],
@@ -118,8 +118,8 @@
     ["1906", "Dalälvens Kraft AB bildas och bygger Kvarnfors kraftstation."],
     ["1948", "Första kraftverket i Indalsälven tas i drift."],
     ["1971", "Namnbyte till Dalström Energi efter fusion med Ljusnans Kraft."],
-    ["1997", "Notering på Stockholmsbörsen."],
-    ["2011", "Första vindparken, Ödmården, med 40 turbiner."],
+    ["1997", "Dalström börsnoteras i samband med elmarknadens avreglering."],
+    ["2011", "Första vindparken, Rävberget i Härjedalen, med 40 turbiner."],
     ["2018", "Förvärv av elnät i Finland och Litauen."],
     ["2025", "Dalström blir 98 procent fossilfritt."]
   ],

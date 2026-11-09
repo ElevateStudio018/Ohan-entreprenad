@@ -209,7 +209,10 @@ class Sajt:
     def __init__(self, b, p, ut, delad=None):
         self.b, self.p, self.ut, self.delad = b, p, ut, delad
         self.pr = hamta_profil(b.get("profil"))
-        self.sidor = self.b.get("sidor") or self.pr["sidor"]
+        self.sidor = list(self.b.get("sidor") or self.pr["sidor"])
+        if self.b.get("priser") and not any(t == "priser" for _, _, t in self.sidor):
+            # Nischföretag med fasta priser får en prissida efter tjänster/referenser
+            self.sidor.insert(2, ("priser", "Priser", "priser"))
         self.slugs = {s_ for s_, _, _ in self.sidor}
 
     def T(self, nyckel, **kw):

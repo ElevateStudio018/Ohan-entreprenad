@@ -24,7 +24,7 @@
     {"titel": "Timmer och tegel", "ikon": "trad", "href": "verksamhet.html", "text": "Handbilat timmer, golvplank och tegel säljs till byggnadsvård."},
     {"titel": "Brandtomter", "ikon": "eld", "href": "verksamhet.html", "text": "Nedbrunna byggnader rivs och saneras efter försäkringsbesked."},
     {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Fast pris för eternittak och de vanligaste gårdsrivningarna."},
-    {"titel": "Boka besiktning", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Emma eller Hanna kommer ut, oftast inom en vecka."}
+    {"titel": "Besök på gården", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Emma eller Hanna kommer ut, oftast inom en vecka."}
   ],
   "affarsomraden": [
     {"titel": "Gårdsrivning", "text": "Ladugårdar, logar och svinstallar som har gjort sitt rivs med grävmaskin och sorteras på plats. Sten från grunden läggs i stenmurar eller körs till kross, och marken lämnas planerad och sådd.", "text2": "Vi har rivit över 1 100 gårdsbyggnader i Kronoberg sedan 1994.", "tagg": "rivning"},
@@ -33,7 +33,7 @@
     {"titel": "Schakt och återställning", "text": "Gamla gödselbrunnar, betongplattor och grunder bryts upp och fylls igen. Vi kör bort massorna och lämnar en jämn yta som går att bruka eller bygga på.", "text2": "Plattan blir ofta grund till en ny maskinhall eller ett växthus.", "tagg": "mark"}
   ],
   "bolag": [
-    {"namn": "Rivning & Maskin", "segment": "Leif och två förare", "rubrik": "Grävare, sax och lastväxlare", "text": "Tre grävmaskiner mellan 14 och 30 ton, en lastväxlare och en traktor med vagn för timmer.", "tagg": "rivning"},
+    {"namn": "Maskinlaget", "segment": "Leif och två förare", "rubrik": "Grävare, sax och lastväxlare", "text": "Tre grävmaskiner mellan 14 och 30 ton, en lastväxlare och en traktor med vagn för timmer.", "tagg": "rivning"},
     {"namn": "Eternit & Sanering", "segment": "Hanna och en sanerare", "rubrik": "Taket först", "text": "Sanerar eternittak med skylift, fuktning och inplastning – med eget asbesttillstånd.", "tagg": "bygg"},
     {"namn": "Timmer & Återbruk", "segment": "Emma och en snickare", "rubrik": "Det som ska få leva vidare", "text": "Tar ned timmer och tegel för hand, sorterar och säljer till byggnadsvård och privatpersoner.", "tagg": "tra"}
   ],
@@ -59,7 +59,7 @@
   "process": [
     {"titel": "Besiktning på gården", "text": "Emma eller Hanna kommer ut, tittar på byggnaden och tar prov på taket om det behövs.", "tagg": "bygg"},
     {"titel": "Fast pris", "text": "Du får ett fast pris, med avdrag för det timmer och tegel vi kan sälja vidare.", "tagg": "tra"},
-    {"titel": "Sanering och rivning", "text": "Eterniten tas ned först. Sedan timret för hand, och sist resten med grävmaskin.", "tagg": "rivning"},
+    {"titel": "Tak först, stomme sist", "text": "Eterniten tas ned först. Sedan timret för hand, och sist resten med grävmaskin.", "tagg": "rivning"},
     {"titel": "Planerad mark", "text": "Grund och brunnar fylls igen och marken planeras. Vi sår gräs om du vill.", "tagg": "mark"}
   ],
   "hallbarhet": {
@@ -84,7 +84,7 @@
     ["Hur långt åker ni?", "Inom fem mil från Hamneda ingår resan. Längre bort tar vi framkörning per mil."]
   ],
   "priser": [
-    {"namn": "Eternittak", "pris": "fr. 245 kr", "enhet": "per kvadratmeter", "text": "Nedtagning, inplastning och deponi av eternitplattor.", "punkter": ["Skylift eller ställning ingår", "Transport och deponiavgift", "Vägningskvitto", "Nytt plåttak som tillval"]},
+    {"namn": "Eternittak", "pris": "fr. 245 kr", "enhet": "per kvadratmeter", "text": "Nedtagning, inplastning och deponi av eternitplattor.", "punkter": ["Skylift eller ställning ingår", "Körning till deponi ingår", "Kvitto från deponin", "Nytt plåttak som tillval"]},
     {"namn": "Ladugård upp till 400 kvm", "pris": "fr. 89 000 kr", "enhet": "fast pris efter besiktning", "text": "Hela byggnaden riven, sorterad och marken planerad.", "punkter": ["Rivning och sortering", "Grund och platta bort", "Avdrag för sålt timmer", "Planerad och sådd mark"], "utvald": true},
     {"namn": "Ensilagetorn", "pris": "fr. 34 000 kr", "enhet": "per torn", "text": "Torn i betong eller stål fällt, krossat och bortkört.", "punkter": ["Fällning eller klippning", "Betong till kross", "Stål till skrot", "Fundament bort på begäran"]}
   ],

@@ -17,92 +17,361 @@
   ],
   "vagval_rubrik": "Vilket material bär ert hus?",
   "tjanster": [
-    {"titel": "Skiffertak", "ikon": "sten", "href": "verksamhet.html", "text": "Natursten från Jämtland och Wales, lagd på dubbeltäckning eller fjälltäckning för hand."},
-    {"titel": "Handfalsad koppar", "ikon": "hamare", "href": "verksamhet.html", "text": "Bandtäckning, huvar och tornspiror i koppar, falsat på plats med handverktyg."},
-    {"titel": "Zink och titanzink", "ikon": "kugge", "href": "verksamhet.html", "text": "Falsade zinktak och fasadbeklädnad för arkitektritade nybyggen."},
-    {"titel": "Takkupor och frontespiser", "ikon": "hus", "href": "verksamhet.html", "text": "Nya och renoverade kupor med kopparinklädnad och ornamentplåt."},
-    {"titel": "Kopparrännor", "ikon": "vatten", "href": "verksamhet.html", "text": "Halvrunda rännor och stuprör i koppar med lödda skarvar och smidda krokar."},
-    {"titel": "Ornamentplåt", "ikon": "pensel", "href": "verksamhet.html", "text": "Kopior av originalens nockkammar, spiror och knoppar, drivna i egen verkstad."},
-    {"titel": "Antikvariska tak", "ikon": "dokument", "href": "verksamhet.html", "text": "Arbeten på q-märkta hus, med dokumentation enligt antikvariens krav."},
-    {"titel": "Boka platsbesök", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Annika eller Fredrik kommer ut, oftast inom tre veckor."}
+    {
+      "titel": "Skiffertak",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Natursten från Jämtland och Wales, lagd på dubbeltäckning eller fjälltäckning för hand."
+    },
+    {
+      "titel": "Handfalsad koppar",
+      "ikon": "hamare",
+      "href": "verksamhet.html",
+      "text": "Bandtäckning, huvar och tornspiror i koppar, falsat på plats med handverktyg."
+    },
+    {
+      "titel": "Zink och titanzink",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Falsade zinktak och fasadbeklädnad för arkitektritade nybyggen."
+    },
+    {
+      "titel": "Takkupor och frontespiser",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Nya och renoverade kupor med kopparinklädnad och ornamentplåt."
+    },
+    {
+      "titel": "Kopparrännor",
+      "ikon": "vatten",
+      "href": "verksamhet.html",
+      "text": "Halvrunda rännor och stuprör i koppar med lödda skarvar och smidda krokar."
+    },
+    {
+      "titel": "Ornamentplåt",
+      "ikon": "pensel",
+      "href": "verksamhet.html",
+      "text": "Kopior av originalens nockkammar, spiror och knoppar, drivna i egen verkstad."
+    },
+    {
+      "titel": "Antikvariska tak",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "Arbeten på q-märkta hus, med dokumentation enligt antikvariens krav."
+    },
+    {
+      "titel": "Boka platsbesök",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "Annika eller Fredrik kommer ut, oftast inom tre veckor."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Skiffer", "text": "Ett skiffertak håller 100–150 år om det läggs rätt. Vi lägger varje platta för hand, sorterar efter tjocklek och spikar med kopparspik så att plattorna kan bytas en och en.", "text2": "Vi har lager med begagnad skiffer för att matcha äldre tak.", "tagg": "tak"},
-    {"titel": "Koppar och zink", "text": "Kopparen blir brun efter ett år och grön efter tjugo. Vi falsar bandtäckning, huvar och tornspiror på plats och driver ornament i verkstaden i Nacka.", "text2": "Kopparn köps med intyg om återvunnen andel, i dag över 80 procent.", "tagg": "stad"},
-    {"titel": "Villor från sekelskiftet", "text": "Jugendvillor och nationalromantiska hus har ofta takfall i flera riktningar, kupor, torn och detaljer som ingen ritning visar. Vi mäter upp, fotograferar och ritar varje detalj innan något rivs.", "text2": "Uppmätningsritningarna lämnas till ägaren och kan användas vid framtida renoveringar.", "tagg": "hem"},
-    {"titel": "Arkitektritade nybyggen", "text": "Arkitekter som ritar med zink, koppar eller skiffer anlitar oss tidigt för att detaljerna ska gå att bygga. Vi tar fram provbitar och detaljlösningar redan i bygglovsskedet.", "text2": "Under 2025 deltog vi i sex projekt i tidigt skede.", "tagg": "bostad"}
+    {
+      "titel": "Skiffer",
+      "text": "Ett skiffertak håller 100–150 år om det läggs rätt. Vi lägger varje platta för hand, sorterar efter tjocklek och spikar med kopparspik så att plattorna kan bytas en och en.",
+      "text2": "Vi har lager med begagnad skiffer för att matcha äldre tak.",
+      "tagg": "tak"
+    },
+    {
+      "titel": "Koppar och zink",
+      "text": "Kopparen blir brun efter ett år och grön efter tjugo. Vi falsar bandtäckning, huvar och tornspiror på plats och driver ornament i verkstaden i Nacka.",
+      "text2": "Kopparen köps med intyg om återvunnen andel, i dag över 80 procent.",
+      "tagg": "stad"
+    },
+    {
+      "titel": "Villor från sekelskiftet",
+      "text": "Jugendvillor och nationalromantiska hus har ofta takfall i flera riktningar, kupor, torn och detaljer som ingen ritning visar. Vi mäter upp, fotograferar och ritar varje detalj innan något rivs.",
+      "text2": "Uppmätningsritningarna lämnas till ägaren och kan användas vid framtida renoveringar.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Arkitektritade nybyggen",
+      "text": "Arkitekter som ritar med zink, koppar eller skiffer anlitar oss tidigt för att detaljerna ska gå att bygga. Vi tar fram provbitar och detaljlösningar redan i bygglovsskedet.",
+      "text2": "Under 2025 deltog vi i sex projekt i tidigt skede.",
+      "tagg": "bostad"
+    }
   ],
   "bolag": [
-    {"namn": "Skifferlaget", "segment": "Natursten", "rubrik": "Sju par händer för sten", "text": "Fredrik Rydén leder sju skifferläggare. Två har gått lärlingstid i Wales och en i Normandie.", "tagg": "tak"},
-    {"namn": "Kopparverkstaden", "segment": "Plåt och ornament", "rubrik": "Drivet för hand i Nacka", "text": "Åtta plåtslagare, varav tre med mästarbrev. Här drivs spiror, knoppar och kammar efter originalen.", "tagg": "svets"},
-    {"namn": "Ritkontoret", "segment": "Uppmätning och antikvarie", "rubrik": "Ritningen kommer före hammaren", "text": "Annika Koskinen och en byggnadsantikvarie mäter upp, ritar och sköter kontakten med kommunen.", "tagg": "kontor"}
+    {
+      "namn": "Skifferlaget",
+      "segment": "Natursten",
+      "rubrik": "Sju par händer för sten",
+      "text": "Fredrik Rydén leder sju skifferläggare. Två har gått lärlingstid i Wales och en i Normandie.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Kopparverkstaden",
+      "segment": "Plåt och ornament",
+      "rubrik": "Drivet för hand i Nacka",
+      "text": "Åtta plåtslagare, varav tre med mästarbrev. Här drivs spiror, knoppar och kammar efter originalen.",
+      "tagg": "svets"
+    },
+    {
+      "namn": "Ritkontoret",
+      "segment": "Uppmätning och antikvarie",
+      "rubrik": "Ritningen kommer före hammaren",
+      "text": "Annika Koskinen och en byggnadsantikvarie mäter upp, ritar och sköter kontakten med kommunen.",
+      "tagg": "kontor"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Villa Strandkulla i Saltsjöbaden", "text": "380 kvadratmeter skiffer från Jämtland och ett kopparklätt torn med nydriven spira.", "tagg": "tak"},
-    {"rubrik": "Kopparhuvar på Strandvägen", "text": "Fyra huvar på en fastighet från 1897 fick ny koppar – och de gamla smältes om.", "tagg": "stad"},
-    {"rubrik": "Lärling hos skifferläggare i Wales", "text": "Vår lärling Elsa tillbringade våren i Snowdonia och kom hem med nya knep för valmade hörn.", "tagg": "people"}
+    {
+      "rubrik": "Villa Strandkulla i Saltsjöbaden",
+      "text": "380 kvadratmeter skiffer från Jämtland och ett kopparklätt torn med nydriven spira.",
+      "tagg": "tak"
+    },
+    {
+      "rubrik": "Kopparhuvar på Strandvägen",
+      "text": "Fyra huvar på en fastighet från 1897 fick ny koppar – och de gamla smältes om.",
+      "tagg": "stad"
+    },
+    {
+      "rubrik": "Lärling hos skifferläggare i Wales",
+      "text": "Vår lärling Elsa tillbringade våren i Snowdonia och kom hem med nya knep för valmade hörn.",
+      "tagg": "people"
+    }
   ],
   "nyckeltal": [
-    {"varde": "25", "enhet": "uppdrag/år", "etikett": "Medvetet få"},
-    {"varde": "150", "enhet": "år", "etikett": "Livslängd för ett skiffertak"},
-    {"varde": "30", "enhet": "år", "etikett": "Garanti, med besiktning vart femte år"},
-    {"varde": "1988", "enhet": "", "etikett": "Juha Koskinens första koppartak"}
+    {
+      "varde": "25",
+      "enhet": "uppdrag/år",
+      "etikett": "Medvetet få"
+    },
+    {
+      "varde": "150",
+      "enhet": "år",
+      "etikett": "Livslängd för ett skiffertak"
+    },
+    {
+      "varde": "30",
+      "enhet": "år",
+      "etikett": "Garanti, med besiktning vart femte år"
+    },
+    {
+      "varde": "1988",
+      "enhet": "",
+      "etikett": "Juha Koskinens första koppartak"
+    }
   ],
   "projekt": [
-    {"namn": "Villa Strandkulla", "ort": "Saltsjöbaden", "typ": "Skiffer och koppartorn", "ar": "2025", "text": "Fjälltäckning i skiffer och en ny spira driven efter fotografier från 1910.", "tagg": "tak"},
-    {"namn": "Hörnhuset på Strandvägen", "ort": "Stockholm", "typ": "Kopparhuvar", "ar": "2025", "text": "Fyra hörnhuvar med bandtäckning och nya lodstänger i koppar.", "tagg": "stad"},
-    {"namn": "Villa Ekudden", "ort": "Djursholm", "typ": "Skiffertak, q-märkt", "ar": "2024", "text": "Omläggning med 70 procent originalskiffer och nya kopparrännor.", "tagg": "hem"},
-    {"namn": "Huset vid Kottlasjön", "ort": "Lidingö", "typ": "Zinktak, nybyggnad", "ar": "2025", "text": "Titanzink på tak och fasad på ett arkitektritat hus i tre plan.", "tagg": "bostad"},
-    {"namn": "Kapellet på Värmdö", "ort": "Värmdö", "typ": "Koppartak", "ar": "2024", "text": "Handfalsad bandtäckning på ett kapell från 1920-talet.", "tagg": "tak"},
-    {"namn": "Villa Tallbacken", "ort": "Saltsjö-Duvnäs", "typ": "Skiffer och takkupor", "ar": "2026", "text": "Fem nya takkupor och skiffertak, beräknat klart i september 2027.", "tagg": "hem"}
+    {
+      "namn": "Villa Strandkulla",
+      "ort": "Saltsjöbaden",
+      "typ": "Skiffer och koppartorn",
+      "ar": "2025",
+      "text": "Fjälltäckning i skiffer och en ny spira driven efter fotografier från 1910.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Hörnhuset på Strandvägen",
+      "ort": "Stockholm",
+      "typ": "Kopparhuvar",
+      "ar": "2025",
+      "text": "Fyra hörnhuvar med bandtäckning och nya lodstänger i koppar.",
+      "tagg": "stad"
+    },
+    {
+      "namn": "Villa Ekudden",
+      "ort": "Djursholm",
+      "typ": "Skiffertak, q-märkt",
+      "ar": "2024",
+      "text": "Omläggning med 70 procent originalskiffer och nya kopparrännor.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Huset vid Kottlasjön",
+      "ort": "Lidingö",
+      "typ": "Zinktak, nybyggnad",
+      "ar": "2025",
+      "text": "Titanzink på tak och fasad på ett arkitektritat hus i tre plan.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Kapellet på Värmdö",
+      "ort": "Värmdö",
+      "typ": "Koppartak",
+      "ar": "2024",
+      "text": "Handfalsad bandtäckning på ett kapell från 1920-talet.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Villa Tallbacken",
+      "ort": "Saltsjö-Duvnäs",
+      "typ": "Skiffer och takkupor",
+      "ar": "2026",
+      "text": "Fem nya takkupor och skiffertak, beräknat klart i september 2027.",
+      "tagg": "hem"
+    }
   ],
   "process": [
-    {"titel": "Platsbesök och uppmätning", "text": "Vi går igenom taket, tar prover och ritar upp varje detalj som ska bevaras.", "tagg": "kontor"},
-    {"titel": "Samråd med antikvarie", "text": "På q-märkta hus tar vi fram underlag och följer med på mötet med kommunen.", "tagg": "stad"},
-    {"titel": "Provbitar", "text": "Ni får se skiffern och kopparen i verkligheten, och vi lägger ett provfält på taket.", "tagg": "tak"},
-    {"titel": "Hantverk i lugn takt", "text": "Ett skiffertak på en villa tar oss oftast tio till fjorton veckor. Vi skyndar inte.", "tagg": "hem"}
+    {
+      "titel": "Platsbesök och uppmätning",
+      "text": "Vi går igenom taket, tar prover och ritar upp varje detalj som ska bevaras.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Samråd med antikvarie",
+      "text": "På q-märkta hus tar vi fram underlag och följer med på mötet med kommunen.",
+      "tagg": "stad"
+    },
+    {
+      "titel": "Provbitar",
+      "text": "Ni får se skiffern och kopparen i verkligheten, och vi lägger ett provfält på taket.",
+      "tagg": "tak"
+    },
+    {
+      "titel": "Hantverk i lugn takt",
+      "text": "Ett skiffertak på en villa tar oss oftast tio till fjorton veckor. Vi skyndar inte.",
+      "tagg": "hem"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Ett tak per sekel räcker",
     "text": "Ett skiffertak som håller i 150 år behöver aldrig rivas under husets livstid. Skadade plattor byts en och en, och gammal skiffer som inte kan återanvändas på samma tak sparas för andra. All kopparrest går tillbaka till omsmältning.",
-    "mal": [["30 år", "garanti, villkorad av besiktning vart femte år"], ["80 %", "återvunnen koppar i allt vi köper"], ["100 %", "av kopparresterna går till omsmältning"]]
+    "mal": [
+      [
+        "30 år",
+        "garanti, villkorad av besiktning vart femte år"
+      ],
+      [
+        "80 %",
+        "återvunnen koppar i allt vi köper"
+      ],
+      [
+        "100 %",
+        "av kopparresterna går till omsmältning"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Lär dig ett hantverk som håller i 150 år",
     "text": "Vi tar en lärling om året och skickar dem på utbildning hos skifferläggare i Wales eller Frankrike. Erfarna plåtslagare som vill lära sig att driva koppar är också välkomna.",
-    "jobb": [["Plåtslagare koppar", "Nacka"], ["Lärling skiffer", "Nacka"]]
+    "jobb": [
+      [
+        "Plåtslagare koppar",
+        "Nacka"
+      ],
+      [
+        "Lärling skiffer",
+        "Nacka"
+      ]
+    ]
   },
   "kultur": "Vi arbetar sju timmar om dagen på taket och lägger resten på verktyg och skisser i verkstaden.",
-  "citat": {"text": "En kopparhuv som pappa falsade 1989 sitter fortfarande perfekt. Det är den standarden vi mäts mot.", "namn": "Annika Koskinen", "roll": "Vd och arkitekt", "tagg": "people"},
+  "citat": {
+    "text": "En kopparhuv som pappa falsade 1989 sitter fortfarande perfekt. Det är den standarden vi mäts mot.",
+    "namn": "Annika Koskinen",
+    "roll": "Vd och arkitekt",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Spiran på tornet hade varit borta sedan 1950-talet. De drev en ny efter ett gammalt vykort, och nu stannar folk och fotograferar.", "namn": "Charlotte E.", "ort": "Saltsjöbaden"},
-    {"text": "Kommunens antikvarie var skeptisk till en början. Efter uppmätningsritningarna från Saltsjö blev bygglovet klart på sex veckor.", "namn": "Gustaf W.", "ort": "Djursholm"},
-    {"text": "Vi ritade med titanzink på hela huset. De hjälpte oss lösa varje detalj vid fönstren redan innan bygglovet.", "namn": "Arkitekt Sara L.", "ort": "Lidingö"}
+    {
+      "text": "Spiran på tornet hade varit borta sedan 1950-talet. De drev en ny efter ett gammalt vykort, och nu stannar folk och fotograferar.",
+      "namn": "Charlotte E.",
+      "ort": "Saltsjöbaden"
+    },
+    {
+      "text": "Kommunens antikvarie var skeptisk till en början. Efter uppmätningsritningarna från Saltsjö blev bygglovet klart på sex veckor.",
+      "namn": "Gustaf W.",
+      "ort": "Djursholm"
+    },
+    {
+      "text": "Vi ritade med titanzink på hela huset. De hjälpte oss lösa varje detalj vid fönstren redan innan bygglovet.",
+      "namn": "Arkitekt Sara L.",
+      "ort": "Lidingö"
+    }
   ],
   "faq": [
-    ["Varför är skiffer så dyrt?", "Ett skiffertak kostar 3–4 gånger så mycket som betongpannor att lägga, men håller i 100–150 år och behöver aldrig målas. Räknat per år är det sällan dyrast."],
-    ["Hur lång är väntetiden?", "Just nu bokar vi uppdrag med start från hösten 2027. Mindre reparationer och besiktningar kan vi ofta ta inom en månad."],
-    ["Kan ni laga ett befintligt skiffertak?", "Ja, det är en stor del av vårt arbete. Vi byter enstaka plattor, lagar kopparbeslag och rensar rännor utan att röra resten."],
-    ["Behöver vi bygglov?", "Byte till annat material eller ändrad kulör kräver ofta bygglov, och på q-märkta hus krävs alltid samråd. Vi tar fram underlaget."],
-    ["Hur snabbt blir kopparn grön?", "Den blir mörkbrun efter ett till två år och får grön patina efter 15–25 år, snabbare nära havet."],
-    ["Arbetar ni utanför Stockholm?", "Någon gång om året, för kulturhistoriska byggnader i Mälardalen och Roslagen."],
-    ["Vad omfattar 30 års garanti?", "Allt arbete vi utfört, under förutsättning att taket besiktas av oss vart femte år. Besiktningen kostar 6 500 kr."]
+    [
+      "Varför är skiffer så dyrt?",
+      "Ett skiffertak kostar 3–4 gånger så mycket som betongpannor att lägga, men håller i 100–150 år och behöver aldrig målas. Räknat per år är det sällan dyrast."
+    ],
+    [
+      "Hur lång är väntetiden?",
+      "Just nu bokar vi uppdrag med start från hösten 2027. Mindre reparationer och besiktningar kan vi ofta ta inom en månad."
+    ],
+    [
+      "Kan ni laga ett befintligt skiffertak?",
+      "Ja, det är en stor del av vårt arbete. Vi byter enstaka plattor, lagar kopparbeslag och rensar rännor utan att röra resten."
+    ],
+    [
+      "Behöver vi bygglov?",
+      "Byte till annat material eller ändrad kulör kräver ofta bygglov, och på q-märkta hus krävs alltid samråd. Vi tar fram underlaget."
+    ],
+    [
+      "Hur snabbt blir kopparn grön?",
+      "Den blir mörkbrun efter ett till två år och får grön patina efter 15–25 år, snabbare nära havet."
+    ],
+    [
+      "Arbetar ni utanför Stockholm?",
+      "Någon gång om året, för kulturhistoriska byggnader i Mälardalen och Roslagen."
+    ],
+    [
+      "Vad omfattar 30 års garanti?",
+      "Allt arbete vi utfört, under förutsättning att taket besiktas av oss vart femte år. Besiktningen kostar 6 500 kr."
+    ]
   ],
   "certifikat": [
-    {"titel": "Mästarbrev i plåtslageri", "text": "Tre plåtslagare med mästarbrev från Sveriges Hantverksråd.", "ikon": "stjarna"},
-    {"titel": "Gesällbrev i skifferläggning", "text": "Två skifferläggare med gesällbrev och utbildning i Wales.", "ikon": "sten"},
-    {"titel": "Sakkunnig kulturvärden", "text": "Vi samarbetar med certifierad sakkunnig kulturvärden för q-märkta byggnader.", "ikon": "dokument"},
-    {"titel": "Plåt & Ventföretagen", "text": "Medlemmar med kollektivavtal sedan 1990.", "ikon": "folk"}
+    {
+      "titel": "Mästarbrev i plåtslageri",
+      "text": "Tre plåtslagare med mästarbrev från Sveriges Hantverksråd.",
+      "ikon": "stjarna"
+    },
+    {
+      "titel": "Gesällbrev i skifferläggning",
+      "text": "Två skifferläggare med gesällbrev och utbildning i Wales.",
+      "ikon": "sten"
+    },
+    {
+      "titel": "Sakkunnig kulturvärden",
+      "text": "Vi samarbetar med certifierad sakkunnig kulturvärden för q-märkta byggnader.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "Plåt & Ventföretagen",
+      "text": "Medlemmar med kollektivavtal sedan 1990.",
+      "ikon": "folk"
+    }
   ],
   "certifikat_rubrik": "Mästare, gesäller och antikvarisk kompetens",
-  "kunder": ["Brf Ladugårdslandet", "Saltsjöbadens Villaägare", "Djursholms Kulturfastigheter", "Värmdö församling", "Lidingö Villastad", "Nacka Strand Förvaltning"],
+  "kunder": [
+    "Brf Ladugårdslandet",
+    "Saltsjöbadens Villaägare",
+    "Djursholms Kulturfastigheter",
+    "Värmdö församling",
+    "Lidingö Villastad",
+    "Nacka Strand Förvaltning"
+  ],
   "kunder_rubrik": "Hus vi har fått förtroendet att täcka",
   "nyheter": [
-    ["2026-10-12", "Bokningar för 2027 är öppna", "Elva av årets 25 platser är redan tagna.", "tak"],
-    ["2026-06-05", "Spiran som kom tillbaka", "Så drev vi en tornspira efter ett vykort från 1910.", "stad"],
-    ["2026-02-24", "Skiffer från Jämtland eller Wales?", "Vad som skiljer stenen – och när det spelar roll för ert hus.", "sten"]
+    [
+      "2026-10-12",
+      "Bokningar för 2027 är öppna",
+      "Elva av årets 25 platser är redan tagna.",
+      "tak"
+    ],
+    [
+      "2026-06-05",
+      "Spiran som kom tillbaka",
+      "Så drev vi en tornspira efter ett vykort från 1910.",
+      "stad"
+    ],
+    [
+      "2026-02-24",
+      "Skiffer från Jämtland eller Wales?",
+      "Vad som skiljer stenen – och när det spelar roll för ert hus.",
+      "sten"
+    ]
   ],
-  "kontakt": {"adress": "Augustendalsvägen 21", "postnr": "131 52", "ort": "Nacka Strand", "telefon": "070-174 06 63", "epost": "studio@saltsjoskiffer.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Augustendalsvägen 21",
+    "postnr": "131 52",
+    "ort": "Nacka Strand",
+    "telefon": "070-174 06 63",
+    "epost": "studio@saltsjoskiffer.se",
+    "orgnr": ""
+  },
   "oppettider": "Verkstad och ritkontor mån–tors 7–16, fre 7–13",
   "omrade": "Stockholm, Nacka, Lidingö, Danderyd och Värmdö",
   "fot_cta": "Vi tar 25 uppdrag om året. Boka platsbesök för 2027 i god tid.",
@@ -116,9 +385,9 @@
     "proj_etikett": "Hus",
     "proj_rubrik": "Skiffer och koppar runt Saltsjön",
     "proj_rubrik_lista": "Hus vi har täckt",
-    "process_etikett": "Arbetsgång",
+    "process_etikett": "Så tar vi oss an ett hus",
     "process_rubrik": "Uppmätning före rivning",
-    "hb_etikett": "Livslängd",
+    "hb_etikett": "Hundraårsperspektiv",
     "hb_lank": "Om garantin och besiktningen",
     "omdomen_etikett": "Husägare och arkitekter",
     "omdomen_rubrik": "Om tak som får åldras",
@@ -127,10 +396,12 @@
     "boka_text": "Skriv adress, byggår och vad ni vill göra med taket. Bifoga gärna gamla foton av huset.",
     "boka_knapp": "Skicka till ritkontoret",
     "bolag_rubrik": "Sten, metall och ritning",
-    "bolag_etikett": "Hantverkarna",
+    "bolag_etikett": "Verkstad och ritkontor",
     "logos_etikett": "Uppdragsgivare",
     "certifikat_etikett": "Hantverksbevis",
-    "medarbetare": "Hantverkarna",
-    "ny_rubrik": "Från verkstaden i Nacka"
+    "medarbetare": "Mästarna",
+    "ny_rubrik": "Från verkstaden i Nacka",
+    "sida_bolag_ingress": "{kortnamn} arbetar i {n} delar: sten, metall och ritning – med samma lag från uppmätning till sista spik.",
+    "fot_adress": "Verkstad"
   }
 }

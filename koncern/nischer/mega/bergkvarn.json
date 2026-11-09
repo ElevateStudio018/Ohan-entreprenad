@@ -44,7 +44,7 @@
     {"rubrik": "Elektriska borriggar i Kiruna", "text": "Alla tolv riggar i gruvkontraktet går nu på batteri, vilket sänker dieselförbrukningen under jord med 1,4 miljoner liter om året.", "tagg": "industri"}
   ],
   "nyckeltal": [
-    {"varde": "34", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [22, 24, 26, 27, 29, 31, 34], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "34", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [22, 24, 26, 27, 29, 31, 34], "trend_text": "Intäkter 2019–2025 i miljarder kronor"},
     {"varde": "38", "enhet": "km", "etikett": "Tunnel drivet 2025", "trend": [27, 29, 31, 30, 33, 35, 38], "trend_text": "Drivna tunnelkilometer per år"},
     {"varde": "9 200", "enhet": "", "etikett": "Medarbetare i sju länder"},
     {"varde": "1,9", "enhet": "", "etikett": "Olycksfrekvens (LTIF)", "trend": [5.1, 4.4, 3.8, 3.1, 2.6, 2.2, 1.9], "trend_text": "Olyckor med frånvaro per miljon timmar"}
@@ -52,8 +52,8 @@
   "projekt": [
     {"namn": "Tunnelbana Söderort, etapp 3", "ort": "Stockholm", "typ": "Tunnelbana", "ar": "2029", "text": "4,6 kilometer spårtunnel och två stationer under Riddarfjärden och Södermalm.", "tagg": "infra"},
     {"namn": "Hagerstens värmelager", "ort": "Stockholm", "typ": "Bergrum", "ar": "2025", "text": "Ombyggnad av oljebergrum till säsongslager för fjärrvärme.", "tagg": "anlaggning"},
-    {"namn": "Fløyfjellstunnelen II", "ort": "Bergen", "typ": "Vägtunnel", "ar": "2027", "text": "3,8 kilometer dubbelspårig vägtunnel med två utrymningstunnlar.", "tagg": "infra"},
-    {"namn": "Brennerachse Los Nord", "ort": "Innsbruck", "typ": "Järnvägstunnel", "ar": "2028", "text": "Tolv kilometer tunnel med tunnelborrmaskin i ett internationellt konsortium.", "tagg": "natur"},
+    {"namn": "Sandviksfjellet vegtunnel", "ort": "Bergen", "typ": "Vägtunnel", "ar": "2027", "text": "3,8 kilometer dubbelspårig vägtunnel med två utrymningstunnlar.", "tagg": "infra"},
+    {"namn": "Inntal-tunneln, Los Nord", "ort": "Innsbruck", "typ": "Järnvägstunnel", "ar": "2028", "text": "Tolv kilometer tunnel med tunnelborrmaskin i ett internationellt konsortium.", "tagg": "natur"},
     {"namn": "Ortdrivning nivå 1 365", "ort": "Kiruna", "typ": "Gruva", "ar": "2026", "text": "Tioårigt kontrakt för ortdrivning och förstärkning på ny huvudnivå.", "tagg": "industri"},
     {"namn": "Råvattentunnel Mälaren", "ort": "Strängnäs", "typ": "Vatten", "ar": "2024", "text": "Elva kilometer råvattentunnel som säkrar dricksvattnet för 400 000 människor.", "tagg": "anlaggning"}
   ],
@@ -110,7 +110,7 @@
     ["Bergen", "Bergkvarn Tunnel Norge AS med vägtunnlar längs Vestlandet."],
     ["Tammerfors", "Bergkvarn Louhinta Oy – tunnlar och schakt i Finland."],
     ["Chur", "Bergkvarn Alpine AG, järnvägstunnlar i Schweiz."],
-    ["Innsbruck", "Bergkvarn Tunnelbau GmbH och projektkontor för Brennertunneln."],
+    ["Innsbruck", "Bergkvarn Tunnelbau GmbH och projektkontor för järnvägstunnlarna i Tyrolen."],
     ["Sudbury, Ontario", "Bergkvarn Mining Canada med 640 medarbetare i nickelgruvorna."]
   ],
   "tidslinje_rubrik": "Åttio år i berget",

@@ -17,92 +17,358 @@
   ],
   "vagval_rubrik": "Vad står under taket?",
   "tjanster": [
-    {"titel": "Stickspåntak", "ikon": "verktyg", "href": "verksamhet.html", "text": "Handkluven furuspån i tre lager, spikad med varmförzinkad spik och tjärad."},
-    {"titel": "Tjärning av kyrktak", "ikon": "pensel", "href": "verksamhet.html", "text": "Ny tjära på spåntak vart sjunde till tionde år, med rep och klätterutrustning."},
-    {"titel": "Torvtak", "ikon": "trad", "href": "verksamhet.html", "text": "Torv på näver eller modern tätduk, för fäbodar, bodar och fjällstugor."},
-    {"titel": "Näver och kärnved", "ikon": "skog", "href": "verksamhet.html", "text": "Nävertäckning och vindskivor av kärnfuru från skogar i Ore och Orsa."},
-    {"titel": "Lertegel på timmerhus", "ikon": "sten", "href": "verksamhet.html", "text": "Omläggning av gamla tegeltak på dalagårdar med begagnat tegel."},
-    {"titel": "Fjällstugor", "ikon": "hus", "href": "verksamhet.html", "text": "Tak på stugor i Sälen, Idre och Grövelsjön, även där vägen tar slut."},
-    {"titel": "Köp stickspån", "ikon": "lada", "href": "verksamhet.html", "text": "Vi säljer spån till andra hantverkare och hembygdsföreningar, i buntar om 250."},
-    {"titel": "Boka till nästa säsong", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Säsongen 2027 bokas från januari."}
+    {
+      "titel": "Stickspåntak",
+      "ikon": "verktyg",
+      "href": "verksamhet.html",
+      "text": "Handkluven furuspån i tre lager, spikad med varmförzinkad spik och tjärad."
+    },
+    {
+      "titel": "Tjärning av kyrktak",
+      "ikon": "pensel",
+      "href": "verksamhet.html",
+      "text": "Ny tjära på spåntak vart sjunde till tionde år, med rep och klätterutrustning."
+    },
+    {
+      "titel": "Torvtak",
+      "ikon": "trad",
+      "href": "verksamhet.html",
+      "text": "Torv på näver eller modern tätduk, för fäbodar, bodar och fjällstugor."
+    },
+    {
+      "titel": "Näver och kärnved",
+      "ikon": "skog",
+      "href": "verksamhet.html",
+      "text": "Nävertäckning och vindskivor av kärnfuru från skogar i Ore och Orsa."
+    },
+    {
+      "titel": "Lertegel på timmerhus",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Omläggning av gamla tegeltak på dalagårdar med begagnat tegel."
+    },
+    {
+      "titel": "Fjällstugor",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Tak på stugor i Sälen, Idre och Grövelsjön, även där vägen tar slut."
+    },
+    {
+      "titel": "Köp stickspån",
+      "ikon": "lada",
+      "href": "verksamhet.html",
+      "text": "Vi säljer spån till andra hantverkare och hembygdsföreningar, i buntar om 250."
+    },
+    {
+      "titel": "Boka till nästa säsong",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "Säsongen 2027 bokas från januari."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Spåntak", "text": "Stickspån klyvs för hand ur kärnrik furu som vuxit långsamt på mager mark. Kluven spån följer fibrerna och suger inte upp vatten som sågad spån gör, och därför håller ett välskött spåntak i 50–70 år.", "text2": "Vi fäller och väljer virket själva tillsammans med skogsägare i Orsa finnmark.", "tagg": "tra"},
-    {"titel": "Kyrkor och kulturbyggnader", "text": "Flera av Siljansbygdens kyrkor har spåntak som ska tjäras med jämna mellanrum. Vi arbetar i rep från tornet och lägger varm tjära med pensel, i samråd med stiftets antikvarie.", "text2": "Sedan 2012 har vi tjärat sju kyrktak och tre klockstaplar.", "tagg": "tak"},
-    {"titel": "Torv och näver", "text": "Ett torvtak är tätt, isolerar och smälter in i landskapet. Vi lägger näver eller tätduk, sedan två lager torv med grässidan ned och uppåt, och mot takfoten en torvstock av kärnfuru.", "text2": "Torven skär vi på myrar med tillstånd från markägaren.", "tagg": "natur"},
-    {"titel": "Fäbodar och fjällstugor", "text": "Fäbodvallar och stugor i fjällen har ofta ingen väg ända fram. Vi bär, kör fyrhjuling eller hyr helikopter för material när det behövs – och bor på plats under jobbet.", "text2": "Helikoptertransport kostar 9 000–14 000 kr per lyft beroende på avstånd.", "tagg": "hem"}
+    {
+      "titel": "Spåntak",
+      "text": "Stickspån klyvs för hand ur kärnrik furu som vuxit långsamt på mager mark. Kluven spån följer fibrerna och suger inte upp vatten som sågad spån gör, och därför håller ett välskött spåntak i 50–70 år.",
+      "text2": "Vi fäller och väljer virket själva tillsammans med skogsägare i Orsa finnmark.",
+      "tagg": "tra"
+    },
+    {
+      "titel": "Kyrkor och kulturbyggnader",
+      "text": "Flera av Siljansbygdens kyrkor har spåntak som ska tjäras med jämna mellanrum. Vi arbetar i rep från tornet och lägger varm tjära med pensel, i samråd med stiftets antikvarie.",
+      "text2": "Sedan 2012 har vi tjärat sju kyrktak och tre klockstaplar.",
+      "tagg": "tak"
+    },
+    {
+      "titel": "Torv och näver",
+      "text": "Ett torvtak är tätt, isolerar och smälter in i landskapet. Vi lägger näver eller tätduk, sedan två lager torv med grässidan ned och uppåt, och mot takfoten en torvstock av kärnfuru.",
+      "text2": "Torven skär vi på myrar med tillstånd från markägaren.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Fäbodar och fjällstugor",
+      "text": "Fäbodvallar och stugor i fjällen har ofta ingen väg ända fram. Vi bär, kör fyrhjuling eller hyr helikopter för material när det behövs – och bor på plats under jobbet.",
+      "text2": "Helikoptertransport kostar 9 000–14 000 kr per lyft beroende på avstånd.",
+      "tagg": "hem"
+    }
   ],
   "bolag": [
-    {"namn": "Anders Persson", "segment": "Grundare, spåntäckare", "rubrik": "Har kluvit 400 000 spån", "text": "Anders väljer virket, klyver och lägger. Han håller kurser i spånklyvning på hembygdsgårdar varje vinter.", "tagg": "tra"},
-    {"namn": "Ida Persson", "segment": "Takhantverkare och kyrktak", "rubrik": "Klättrar där andra bygger ställning", "text": "Ida har utbildning i reparbete och leder tjärningen av kyrktak. Hon har gått hantverksutbildning i Mariestad.", "tagg": "tak"},
-    {"namn": "Mikael Hed", "segment": "Gesäll, torv och näver", "rubrik": "Torven ska ligga rätt väg", "text": "Mikael tog gesällbrev i traditionell takläggning 2020 och ansvarar för alla torv- och nävertak.", "tagg": "natur"}
+    {
+      "namn": "Anders Persson",
+      "segment": "Grundare, spåntäckare",
+      "rubrik": "Har kluvit 400 000 spån",
+      "text": "Anders väljer virket, klyver och lägger. Han håller kurser i spånklyvning på hembygdsgårdar varje vinter.",
+      "tagg": "tra"
+    },
+    {
+      "namn": "Ida Persson",
+      "segment": "Takhantverkare och kyrktak",
+      "rubrik": "Klättrar där andra bygger ställning",
+      "text": "Ida har utbildning i reparbete och leder tjärningen av kyrktak. Hon har gått hantverksutbildning i Mariestad.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Mikael Hed",
+      "segment": "Gesäll, torv och näver",
+      "rubrik": "Torven ska ligga rätt väg",
+      "text": "Mikael tog gesällbrev i traditionell takläggning 2020 och ansvarar för alla torv- och nävertak.",
+      "tagg": "natur"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Klockstapeln i Siljansnäs tjärad", "text": "Sex dagar i rep och 140 liter tjära. Lukten låg kvar över byn i två veckor.", "tagg": "tak"},
-    {"rubrik": "Torvtak på fäboden i Hykjeberg", "text": "Material in med fyrhjuling och två nätter i fäbodstugan medan torven lades.", "tagg": "natur"},
-    {"rubrik": "Vinterns kurser i spånklyvning", "text": "Fyra helger i verkstaden i Hjortnäs – tolv platser per kurs.", "tagg": "people"}
+    {
+      "rubrik": "Klockstapeln i Siljansnäs tjärad",
+      "text": "Sex dagar i rep och 140 liter tjära. Lukten låg kvar över byn i två veckor.",
+      "tagg": "tak"
+    },
+    {
+      "rubrik": "Torvtak på fäboden i Hykjeberg",
+      "text": "Material in med fyrhjuling och två nätter i fäbodstugan medan torven lades.",
+      "tagg": "natur"
+    },
+    {
+      "rubrik": "Vinterns kurser i spånklyvning",
+      "text": "Fyra helger i verkstaden i Hjortnäs – tolv platser per kurs.",
+      "tagg": "people"
+    }
   ],
   "nyckeltal": [
-    {"varde": "60 år", "enhet": "", "etikett": "Livslängd för kluven spån"},
-    {"varde": "5", "enhet": "hantverkare", "etikett": "Och ett klyvjärn var"},
-    {"varde": "8–10", "enhet": "tak", "etikett": "Per säsong, maj till oktober"},
-    {"varde": "2009", "enhet": "", "etikett": "Första spåntaket i Tibble"}
+    {
+      "varde": "60 år",
+      "enhet": "",
+      "etikett": "Livslängd för kluven spån"
+    },
+    {
+      "varde": "5",
+      "enhet": "hantverkare",
+      "etikett": "Och ett klyvjärn var"
+    },
+    {
+      "varde": "8–10",
+      "enhet": "tak",
+      "etikett": "Per säsong, maj till oktober"
+    },
+    {
+      "varde": "2009",
+      "enhet": "",
+      "etikett": "Första spåntaket i Tibble"
+    }
   ],
   "projekt": [
-    {"namn": "Klockstapeln i Siljansnäs", "ort": "Leksand", "typ": "Tjärning av spåntak", "ar": "2025", "text": "Hela stapeln tjärad från rep, i samråd med stiftets antikvarie.", "tagg": "tak"},
-    {"namn": "Fäboden i Hykjeberg", "ort": "Älvdalen", "typ": "Torvtak på näver", "ar": "2025", "text": "Torv på 60 kvadratmeter med torvstock av kärnfuru.", "tagg": "natur"},
-    {"namn": "Gården i Tällberg", "ort": "Leksand", "typ": "Stickspåntak, ladugård", "ar": "2024", "text": "Nytt spåntak på en lada från 1830-talet, med 18 000 handkluvna spån.", "tagg": "tra"},
-    {"namn": "Fjällstugan i Grövelsjön", "ort": "Älvdalen", "typ": "Torvtak, fjällstuga", "ar": "2024", "text": "Material med helikopter och tre veckor på plats vid sjön.", "tagg": "hem"},
-    {"namn": "Hembygdsgården i Rättvik", "ort": "Rättvik", "typ": "Lertegel och spån", "ar": "2025", "text": "Omlagt tegeltak på mangårdsbyggnaden och nya spån på härbret.", "tagg": "tak"},
-    {"namn": "Kapellet i Orsa finnmark", "ort": "Orsa", "typ": "Nytt spåntak", "ar": "2026", "text": "Spån kluvna under vintern, läggning från maj 2027.", "tagg": "tra", "status": "Spån klyvs"}
+    {
+      "namn": "Klockstapeln i Siljansnäs",
+      "ort": "Leksand",
+      "typ": "Tjärning av spåntak",
+      "ar": "2025",
+      "text": "Hela stapeln tjärad från rep, i samråd med stiftets antikvarie.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Fäboden i Hykjeberg",
+      "ort": "Älvdalen",
+      "typ": "Torvtak på näver",
+      "ar": "2025",
+      "text": "Torv på 60 kvadratmeter med torvstock av kärnfuru.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Gården i Tällberg",
+      "ort": "Leksand",
+      "typ": "Stickspåntak, ladugård",
+      "ar": "2024",
+      "text": "Nytt spåntak på en lada från 1830-talet, med 18 000 handkluvna spån.",
+      "tagg": "tra"
+    },
+    {
+      "namn": "Fjällstugan i Grövelsjön",
+      "ort": "Älvdalen",
+      "typ": "Torvtak, fjällstuga",
+      "ar": "2024",
+      "text": "Material med helikopter och tre veckor på plats vid sjön.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Hembygdsgården i Rättvik",
+      "ort": "Rättvik",
+      "typ": "Lertegel och spån",
+      "ar": "2025",
+      "text": "Omlagt tegeltak på mangårdsbyggnaden och nya spån på härbret.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Kapellet i Orsa finnmark",
+      "ort": "Orsa",
+      "typ": "Nytt spåntak",
+      "ar": "2026",
+      "text": "Spån kluvna under vintern, läggning från maj 2027.",
+      "tagg": "tra",
+      "status": "Spån klyvs"
+    }
   ],
   "process": [
-    {"titel": "Besök på vintern", "text": "Vi kommer ut och tittar på taket i snön – då syns var det läcker värme och var spånen har gett med sig.", "tagg": "hem"},
-    {"titel": "Virke och klyvning", "text": "Under vintern väljer vi furu och klyver spånen till just ert tak, i rätt längd och tjocklek.", "tagg": "tra"},
-    {"titel": "Läggning i sommar", "text": "Ett spåntak på en lada tar oss två till fyra veckor. Vi lägger i tre lager och spikar för hand.", "tagg": "tak"},
-    {"titel": "Tjära efter ett år", "text": "Nya spåntak tjäras efter första sommaren och sedan vart sjunde år. Vi påminner er.", "tagg": "natur"}
+    {
+      "titel": "Besök på vintern",
+      "text": "Vi kommer ut och tittar på taket i snön – då syns var det läcker värme och var spånen har gett med sig.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Virke och klyvning",
+      "text": "Under vintern väljer vi furu och klyver spånen till just ert tak, i rätt längd och tjocklek.",
+      "tagg": "tra"
+    },
+    {
+      "titel": "Läggning i sommar",
+      "text": "Ett spåntak på en lada tar oss två till fyra veckor. Vi lägger i tre lager och spikar för hand.",
+      "tagg": "tak"
+    },
+    {
+      "titel": "Tjära efter ett år",
+      "text": "Nya spåntak tjäras efter första sommaren och sedan vart sjunde år. Vi påminner er.",
+      "tagg": "natur"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Allt kommer från skogen inom tio mil",
     "text": "Furun till spånen fälls i Orsa finnmark, tjäran bränns i en dal i Älvdalen och torven skärs på myrar i Siljansbygden. Ett spåntak binder kol i sextio år och kan sedan eldas eller komposteras. Vi använder inga impregneringsmedel.",
-    "mal": [["10 mil", "längsta väg för virke, tjära och torv"], ["0", "kemiska impregneringsmedel"], ["60 år", "livslängd för ett tjärat spåntak"]]
+    "mal": [
+      [
+        "10 mil",
+        "längsta väg för virke, tjära och torv"
+      ],
+      [
+        "0",
+        "kemiska impregneringsmedel"
+      ],
+      [
+        "60 år",
+        "livslängd för ett tjärat spåntak"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Vill du lära dig spånklyvning?",
     "text": "Vi tar emot en lärling vartannat år och håller helgkurser för den som vill prova. Kurserna kostar 2 400 kr inklusive verktyg, lunch och tjärdoft i kläderna.",
-    "jobb": [["Lärling takhantverk", "Leksand"]]
+    "jobb": [
+      [
+        "Lärling takhantverk",
+        "Leksand"
+      ]
+    ]
   },
   "kultur": "Vi börjar halv sju på morgonen och tar kaffet på taket – utsikten över Siljan ingår.",
-  "citat": {"text": "En sågad spån suger vatten som en svamp. En kluven spån följer trädet, och trädet vet hur man står emot regn.", "namn": "Anders Persson", "roll": "Grundare och spåntäckare", "tagg": "people"},
+  "citat": {
+    "text": "En sågad spån suger vatten som en svamp. En kluven spån följer trädet, och trädet vet hur man står emot regn.",
+    "namn": "Anders Persson",
+    "roll": "Grundare och spåntäckare",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Ladan från 1830-talet har nu ett tak som ser ut som originalet. Anders visade oss furustockarna innan han började klyva.", "namn": "Margareta och Olle B.", "ort": "Tällberg"},
-    {"text": "Ida och hennes kollegor tjärade klockstapeln från rep i sex dagar. Inga ställningar, inga skador på det gamla virket.", "namn": "Kyrkvärden", "ort": "Siljansnäs"},
-    {"text": "Vi trodde det var omöjligt att få ett torvtak på stugan vid Grövelsjön. De löste det med helikopter och bodde i tält i tre veckor.", "namn": "Familjen Nordin", "ort": "Grövelsjön"}
+    {
+      "text": "Ladan från 1830-talet har nu ett tak som ser ut som originalet. Anders visade oss furustockarna innan han började klyva.",
+      "namn": "Margareta och Olle B.",
+      "ort": "Tällberg"
+    },
+    {
+      "text": "Ida och hennes kollegor tjärade klockstapeln från rep i sex dagar. Inga ställningar, inga skador på det gamla virket.",
+      "namn": "Kyrkvärden",
+      "ort": "Siljansnäs"
+    },
+    {
+      "text": "Vi trodde det var omöjligt att få ett torvtak på stugan vid Grövelsjön. De löste det med helikopter och bodde i tält i tre veckor.",
+      "namn": "Familjen Nordin",
+      "ort": "Grövelsjön"
+    }
   ],
   "faq": [
-    ["Vad kostar ett spåntak?", "Ett stickspåntak kostar ungefär 2 200–3 000 kr per kvadratmeter inklusive moms och spån. Det är dyrare än plåt, men håller lika länge och kräver bara tjärning."],
-    ["Hur ofta behöver taket tjäras?", "Första gången efter ett år, sedan vart sjunde till tionde år beroende på läge. Södersidan behöver tjära oftare än norrsidan."],
-    ["Är torvtak tätt?", "Ja, tätheten kommer från nävern eller tätduken under. Torven skyddar tätskiktet mot sol och mekanisk påverkan."],
-    ["Får vi ha spåntak på ett bostadshus?", "Ja, men det kan kräva bygglov om det ändrar husets utseende. Vissa detaljplaner i Leksand och Rättvik rekommenderar till och med spån eller torv."],
-    ["Hur långt i förväg ska vi boka?", "Säsongen fylls oftast i februari. Vill du ha taket lagt nästa sommar bör du höra av dig under vintern."],
-    ["Gör ni små reparationer?", "Ja, om vi är i närheten. Byte av enstaka spån eller lagning av torvtak tar vi gärna i samband med andra jobb."],
-    ["Säljer ni spån till andra?", "Ja. En bunt om 250 handkluvna stickspån kostar 1 450 kr. Hämtas i Hjortnäs eller skickas med frakt."]
+    [
+      "Vad kostar ett spåntak?",
+      "Ett stickspåntak kostar ungefär 2 200–3 000 kr per kvadratmeter inklusive moms och spån. Det är dyrare än plåt, men håller lika länge och kräver bara tjärning."
+    ],
+    [
+      "Hur ofta behöver taket tjäras?",
+      "Första gången efter ett år, sedan vart sjunde till tionde år beroende på läge. Södersidan behöver tjära oftare än norrsidan."
+    ],
+    [
+      "Är torvtak tätt?",
+      "Ja, tätheten kommer från nävern eller tätduken under. Torven skyddar tätskiktet mot sol och mekanisk påverkan."
+    ],
+    [
+      "Får vi ha spåntak på ett bostadshus?",
+      "Ja, men det kan kräva bygglov om det ändrar husets utseende. Vissa detaljplaner i Leksand och Rättvik rekommenderar till och med spån eller torv."
+    ],
+    [
+      "Hur långt i förväg ska vi boka?",
+      "Säsongen fylls oftast i februari. Vill du ha taket lagt nästa sommar bör du höra av dig under vintern."
+    ],
+    [
+      "Gör ni små reparationer?",
+      "Ja, om vi är i närheten. Byte av enstaka spån eller lagning av torvtak tar vi gärna i samband med andra jobb."
+    ],
+    [
+      "Säljer ni spån till andra?",
+      "Ja. En bunt om 250 handkluvna stickspån kostar 1 450 kr. Hämtas i Hjortnäs eller skickas med frakt."
+    ]
   ],
   "certifikat": [
-    {"titel": "Gesällbrev", "text": "Gesällbrev i traditionell takläggning från Sveriges Hantverksråd.", "ikon": "stjarna"},
-    {"titel": "Reparbete", "text": "Utbildning i arbete i rep och räddning från höjd, med årlig repetition.", "ikon": "hjalm"},
-    {"titel": "Kulturhistoriska byggnader", "text": "Godkända för arbeten på kyrkor efter samråd med stiftets antikvarie.", "ikon": "dokument"},
-    {"titel": "F-skatt och ansvarsförsäkring", "text": "Ansvarsförsäkring på 5 Mkr som täcker arbete på kulturbyggnader.", "ikon": "skold"}
+    {
+      "titel": "Gesällbrev",
+      "text": "Gesällbrev i traditionell takläggning från Sveriges Hantverksråd.",
+      "ikon": "stjarna"
+    },
+    {
+      "titel": "Reparbete",
+      "text": "Utbildning i arbete i rep och räddning från höjd, med årlig repetition.",
+      "ikon": "hjalm"
+    },
+    {
+      "titel": "Kulturhistoriska byggnader",
+      "text": "Godkända för arbeten på kyrkor efter samråd med stiftets antikvarie.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "F-skatt och ansvarsförsäkring",
+      "text": "Ansvarsförsäkring på 5 Mkr som täcker arbete på kulturbyggnader.",
+      "ikon": "skold"
+    }
   ],
   "certifikat_rubrik": "Hantverksbevis för gamla tekniker",
-  "kunder": ["Siljansnäs församling", "Rättviks Hembygdsförening", "Hykjebergs Fäbodlag", "Orsa Finnmarks Kapellförening", "Tällbergs Byalag", "Leksands Kulturfastigheter"],
+  "kunder": [
+    "Siljansnäs församling",
+    "Rättviks Hembygdsförening",
+    "Hykjebergs Fäbodlag",
+    "Orsa Finnmarks Kapellförening",
+    "Tällbergs Byalag",
+    "Leksands Kulturfastigheter"
+  ],
   "kunder_rubrik": "Församlingar, byalag och gårdar",
   "nyheter": [
-    ["2026-10-30", "Vinterkurser i spånklyvning", "Fyra helger i januari och februari, tolv platser per kurs.", "people"],
-    ["2026-07-08", "Fäboden i Hykjeberg har fått torv", "Två nätter på vallen och 60 kvadratmeter torv med grässidan upp.", "natur"],
-    ["2025-09-16", "Klockstapeln tjärad", "140 liter tjära och sex dagar i rep i Siljansnäs.", "tak"]
+    [
+      "2026-10-30",
+      "Vinterkurser i spånklyvning",
+      "Fyra helger i januari och februari, tolv platser per kurs.",
+      "people"
+    ],
+    [
+      "2026-07-08",
+      "Fäboden i Hykjeberg har fått torv",
+      "Två nätter på vallen och 60 kvadratmeter torv med grässidan upp.",
+      "natur"
+    ],
+    [
+      "2025-09-16",
+      "Klockstapeln tjärad",
+      "140 liter tjära och sex dagar i rep i Siljansnäs.",
+      "tak"
+    ]
   ],
-  "kontakt": {"adress": "Hjortnäsvägen 112", "postnr": "793 92", "ort": "Leksand", "telefon": "070-174 06 92", "epost": "anders@siljansspantak.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Hjortnäsvägen 112",
+    "postnr": "793 92",
+    "ort": "Leksand",
+    "telefon": "070-174 06 92",
+    "epost": "anders@siljansspantak.se",
+    "orgnr": ""
+  },
   "oppettider": "Verkstaden nov–apr, vardagar 7–15 · Säsong maj–okt på taken",
   "omrade": "Siljansbygden, Dalafjällen och Hälsingland",
   "fot_cta": "Säsongen 2027 bokas från januari – hör av dig medan spånen fortfarande kan klyvas.",
@@ -130,11 +396,17 @@
     "boka_knapp": "Skicka till Anders",
     "bolag_etikett": "Hantverkarna",
     "bolag_rubrik": "Vi som klyver och lägger",
-    "bolag_kol": ["Namn", "Roll", "Om"],
+    "bolag_kol": [
+      "Namn",
+      "Roll",
+      "Om"
+    ],
     "certifikat_etikett": "Hantverk",
     "panel_etikett": "Lära sig hantverket",
     "panel_knapp": "Om lärlingsplatsen",
     "medarbetare": "Hantverkarna",
-    "ny_rubrik": "Från verkstaden i Hjortnäs"
+    "ny_rubrik": "Från verkstaden i Hjortnäs",
+    "sida_bolag_ingress": "Vi är fem hantverkare – här är tre av oss som du oftast möter på taket.",
+    "fot_adress": "Verkstad"
   }
 }

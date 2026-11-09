@@ -39,8 +39,8 @@
     {"namn": "Service", "segment": "10 tekniker", "rubrik": "Fläktar som aldrig får stanna", "text": "Vibrationsmätning, balansering, filterbyten och jour för avtalskunder.", "tagg": "maskin"}
   ],
   "berattelser": [
-    {"rubrik": "Nytt spånsug i Molkom", "text": "Ett 85 000 kubikmeter-utsug med två cykloner och återluft värmer nu hela hyvleriet på vintern.", "tagg": "industri"},
-    {"rubrik": "Höststoppet på bruket", "text": "28 montörer bytte 140 meter syrafast kanal på 66 timmar – stoppet var planerat till 72.", "tagg": "ventilation"},
+    {"rubrik": "Nytt spånsug i Molkom", "text": "Ett utsug på 85 000 kubikmeter i timmen med två cykloner och återluft värmer nu hela hyvleriet på vintern.", "tagg": "industri"},
+    {"rubrik": "Höststoppet på bruket", "text": "28 man från montage och verkstad bytte 140 meter syrafast kanal på 66 timmar – stoppet var planerat till 72.", "tagg": "ventilation"},
     {"rubrik": "Svetsrök under gränsvärdet", "text": "Nya punktutsug i en verkstad i Kil sänkte exponeringen med 92 procent.", "tagg": "svets"}
   ],
   "nyckeltal": [
@@ -65,7 +65,7 @@
   ],
   "hallbarhet": {
     "rubrik": "Den varmaste luften ska inte ut",
-    "text": "En industrihall som ventileras utan återvinning släpper ut stora mängder värme varje timme. Med återluft genom filter och värmeväxlare ur processluften har våra kunder sparat över 14 GWh om året. Samtidigt sänker vi exponeringen för damm och rök för de som arbetar i hallen.",
+    "text": "En industrihall som ventileras utan återvinning släpper ut stora mängder värme varje timme. Med återluft genom filter och värmeväxlare ur processluften har våra kunder sparat över 14 GWh om året. Samtidigt sänker vi exponeringen för damm och rök för dem som arbetar i hallen.",
     "mal": [["14 GWh", "årlig värmebesparing hos kunderna"], ["–92 %", "svetsrök i Kil efter ombyggnad"], ["0", "allvarliga olyckor på våra montage sedan 2017"]]
   },
   "karriar": {
@@ -82,7 +82,7 @@
   ],
   "faq": [
     ["Arbetar ni bara med industri?", "Ja, nästan uteslutande. Vi bygger ventilation där luften är en del av processen – inte i bostäder eller kontor."],
-    ["Kan ni arbeta under produktionsstopp?", "Ja, det är så vi gör de flesta jobb. Vi kan ha upp till 30 montörer på plats och arbetar dygnet runt under stoppet."],
+    ["Kan ni arbeta under produktionsstopp?", "Ja, det är så vi gör de flesta jobb. Vi kan ha upp till 30 man på plats och arbetar dygnet runt under stoppet."],
     ["Vad krävs för en ATEX-anläggning?", "En riskbedömning som klassar zonerna, utrustning som är godkänd för zonen och dokumentation. Vi gör hela kedjan tillsammans med er."],
     ["Kan ni sänka svetsröken under gränsvärdet?", "I alla verkstäder vi hittills arbetat i, ja. Vi mäter först, bygger sedan och mäter igen efter ombyggnaden."],
     ["Tillverkar ni allt själva?", "Cykloner, fläkthus, kanaler och specialdelar tillverkas i vår verkstad. Fläktmotorer och filterpatroner köper vi in."],
@@ -97,7 +97,7 @@
   ],
   "kunder": ["Molkoms Trävaru AB", "Älvsbacka Kartong", "Kil Mekaniska", "Deje Pellets AB", "Säffle Lackcenter", "Hagfors Gjuteri AB", "Arvika Plåtindustri", "Klarälvens Sågverk"],
   "nyheter": [
-    ["2026-10-08", "Höststoppet klart på 66 timmar", "28 montörer och 140 meter syrafast kanal – sex timmar före plan.", "ventilation"],
+    ["2026-10-08", "Höststoppet klart på 66 timmar", "28 man och 140 meter syrafast kanal – sex timmar före plan.", "ventilation"],
     ["2026-05-19", "Skärpta gränsvärden för svetsrök", "Vad de nya kraven betyder för verkstäder i Värmland – och hur man mäter.", "svets"],
     ["2026-02-24", "Verkstaden får ny rullmaskin", "Nu valsar vi plåt upp till 10 millimeter för kanaler och cykloner.", "industri"],
     ["2025-11-17", "Servicekontor i Kristinehamn", "Två tekniker stationeras österut för snabbare jour till Bergslagen.", "maskin"]

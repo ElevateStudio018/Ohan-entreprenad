@@ -17,101 +17,403 @@
   ],
   "vagval_rubrik": "Sommarjobb eller vinterproblem?",
   "tjanster": [
-    {"titel": "Plåttak för snölast", "ikon": "hamare", "href": "verksamhet.html", "text": "Falsad plåt med förstärkt läkt och fästen dimensionerade för snözon 3,5 och uppåt."},
-    {"titel": "Papptak på industri", "ikon": "fabrik", "href": "verksamhet.html", "text": "Tätskikt på verkstäder och lager, med invändig avvattning som inte fryser."},
-    {"titel": "Takskottning", "ikon": "hjalm", "href": "verksamhet.html", "text": "Säkrad snöskottning med fallskydd och avspärrning, från villa till köpcentrum."},
-    {"titel": "Värmekabel i rännor", "ikon": "blixt", "href": "verksamhet.html", "text": "Självreglerande kablar i rännor och stuprör mot isproppar och istappar."},
-    {"titel": "Snörasskydd", "ikon": "skold", "href": "verksamhet.html", "text": "Snöräcken i två rader över entréer och gångvägar, monterade i takets bärande delar."},
-    {"titel": "Isskador och läckage", "ikon": "vatten", "href": "verksamhet.html", "text": "Vi lokaliserar läckan, tar bort isvallen och tätar provisoriskt samma dygn."},
-    {"titel": "Vårbesiktning", "ikon": "sok", "href": "verksamhet.html", "text": "Genomgång i maj av infästningar, falsar och rännor efter vinterns laster."},
-    {"titel": "Vinterjour", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Dygnet runt 1 november–30 april för kunder med serviceavtal."}
+    {
+      "titel": "Plåttak för snölast",
+      "ikon": "hamare",
+      "href": "verksamhet.html",
+      "text": "Falsad plåt med förstärkt läkt och fästen dimensionerade för snözon 3,5 och uppåt."
+    },
+    {
+      "titel": "Papptak på industri",
+      "ikon": "fabrik",
+      "href": "verksamhet.html",
+      "text": "Tätskikt på verkstäder och lager, med invändig avvattning som inte fryser."
+    },
+    {
+      "titel": "Takskottning",
+      "ikon": "hjalm",
+      "href": "verksamhet.html",
+      "text": "Säkrad snöskottning med fallskydd och avspärrning, från villa till köpcentrum."
+    },
+    {
+      "titel": "Värmekabel i rännor",
+      "ikon": "blixt",
+      "href": "verksamhet.html",
+      "text": "Självreglerande kablar i rännor och stuprör mot isproppar och istappar."
+    },
+    {
+      "titel": "Snörasskydd",
+      "ikon": "skold",
+      "href": "verksamhet.html",
+      "text": "Snöräcken i två rader över entréer och gångvägar, monterade i takets bärande delar."
+    },
+    {
+      "titel": "Isskador och läckage",
+      "ikon": "vatten",
+      "href": "verksamhet.html",
+      "text": "Vi lokaliserar läckan, tar bort isvallen och tätar provisoriskt samma dygn."
+    },
+    {
+      "titel": "Vårbesiktning",
+      "ikon": "sok",
+      "href": "verksamhet.html",
+      "text": "Genomgång i maj av infästningar, falsar och rännor efter vinterns laster."
+    },
+    {
+      "titel": "Vinterjour",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Dygnet runt 1 november–30 april för kunder med serviceavtal."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Nya och omlagda tak", "text": "Från juni till september lägger vi plåt- och papptak på villor, flerbostadshus och offentliga byggnader. Vi räknar på snölast och isbildning innan vi föreslår material.", "text2": "Plåten är minst 0,6 millimeter och läkten tätare än standard.", "tagg": "tak"},
-    {"titel": "Snö och is", "text": "När snön kommer skottar vi tak åt 340 fastigheter med avtal och tar akuta beställningar i mån av tid. Alla som går upp har fallskyddsutbildning och arbetar i par.", "text2": "Vi mäter snöns vikt med provtagare innan vi bestämmer hur mycket som ska bort.", "tagg": "natur"},
-    {"titel": "Industri och gruva", "text": "Verkstadshallar, kraftstationer och förråd med takytor på upp till 12 000 kvadratmeter. Vi arbetar efter beställarens säkerhetsregler och kör med egna arbetsledare på plats.", "text2": "Flera industrikunder har vi haft sedan 2001.", "tagg": "industri"},
-    {"titel": "Takavvattning som klarar vintern", "text": "Isproppar i stuprör är den vanligaste orsaken till vattenskador i Norrbotten. Vi dimensionerar rännor, värmekablar och utkastare så att smältvattnet faktiskt kommer ner.", "text2": "Vi har behörighet att installera och ansluta kablarna.", "tagg": "tak"}
+    {
+      "titel": "Nya och omlagda tak",
+      "text": "Från juni till september lägger vi plåt- och papptak på villor, flerbostadshus och offentliga byggnader. Vi räknar på snölast och isbildning innan vi föreslår material.",
+      "text2": "Plåten är minst 0,6 millimeter och läkten tätare än standard.",
+      "tagg": "tak"
+    },
+    {
+      "titel": "Snö och is",
+      "text": "När snön kommer skottar vi tak åt 340 fastigheter med avtal och tar akuta beställningar i mån av tid. Alla som går upp har fallskyddsutbildning och arbetar i par.",
+      "text2": "Vi mäter snöns vikt med provtagare innan vi bestämmer hur mycket som ska bort.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Industri och gruva",
+      "text": "Verkstadshallar, kraftstationer och förråd med takytor på upp till 12 000 kvadratmeter. Vi arbetar efter beställarens säkerhetsregler och kör med egna arbetsledare på plats.",
+      "text2": "Flera industrikunder har vi haft sedan 2001.",
+      "tagg": "industri"
+    },
+    {
+      "titel": "Takavvattning som klarar vintern",
+      "text": "Isproppar i stuprör är den vanligaste orsaken till vattenskador i Norrbotten. Vi dimensionerar rännor, värmekablar och utkastare så att smältvattnet faktiskt kommer ner.",
+      "text2": "Vi har behörighet att installera och ansluta kablarna.",
+      "tagg": "tak"
+    }
   ],
   "bolag": [
-    {"namn": "Norrkalott Tak Luleå", "segment": "Huvudkontor och industri", "rubrik": "22 anställda vid Storheden", "text": "Här finns plåtverkstaden, projektkontoret och industrilaget som arbetar i hela länet.", "tagg": "industri"},
-    {"namn": "Norrkalott Tak Piteå–Boden", "segment": "Villor och föreningar", "rubrik": "Två kontor, ett lag", "text": "Fjorton takläggare och plåtslagare som delar på uppdragen längs kusten och inåt landet.", "tagg": "tak"},
-    {"namn": "Norrkalott Tak Kiruna", "segment": "Malmfälten", "rubrik": "Nya Kiruna behöver tak", "text": "Åtta anställda som arbetar med nybyggnationen i stadskärnan och med tak i Gällivare och Svappavaara.", "tagg": "stad"},
-    {"namn": "Snöenheten", "segment": "Skottning och jour", "rubrik": "Fyrtio par händer i november", "text": "På vintern växer vi med säsongsanställda skottare som alla går vår tvådagarsutbildning i fallskydd.", "tagg": "natur"}
+    {
+      "namn": "Norrkalott Tak Luleå",
+      "segment": "Huvudkontor och industri",
+      "rubrik": "26 anställda vid Storheden",
+      "text": "Här finns plåtverkstaden, projektkontoret och industrilaget som arbetar i hela länet.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Norrkalott Tak Piteå–Boden",
+      "segment": "Villor och föreningar",
+      "rubrik": "Två kontor, ett lag",
+      "text": "Fjorton takläggare och plåtslagare som delar på uppdragen längs kusten och inåt landet.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Norrkalott Tak Kiruna",
+      "segment": "Malmfälten",
+      "rubrik": "Nya Kiruna behöver tak",
+      "text": "Åtta anställda som arbetar med nybyggnationen i stadskärnan och med tak i Gällivare och Svappavaara.",
+      "tagg": "stad"
+    },
+    {
+      "namn": "Snöenheten",
+      "segment": "Skottning och jour",
+      "rubrik": "Fyrtio par händer i november",
+      "text": "På vintern växer vi med säsongsanställda skottare som alla går vår tvådagarsutbildning i fallskydd.",
+      "tagg": "natur"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Rekordvintern 2025–2026", "text": "Vi skottade 1 140 tak på fyra månader. Tyngsta uppmätta snön låg på 260 kilo per kvadratmeter i Kiruna.", "tagg": "natur"},
-    {"rubrik": "Kvarteret Malmporten i nya Kiruna", "text": "Falsad plåt med snörasskydd i tre rader och värmekabel i alla invändiga brunnar.", "tagg": "stad"},
-    {"rubrik": "Egen snöskola i Boden", "text": "Säsongsanställda skottare övar på ett tak vi byggt i lagret innan de går upp på riktigt.", "tagg": "people"}
+    {
+      "rubrik": "Rekordvintern 2025–2026",
+      "text": "Vi skottade 1 140 tak på fyra månader. Tyngsta uppmätta snön låg på 260 kilo per kvadratmeter i Kiruna.",
+      "tagg": "natur"
+    },
+    {
+      "rubrik": "Kvarteret Malmporten i nya Kiruna",
+      "text": "Falsad plåt med snörasskydd i tre rader och värmekabel i alla invändiga brunnar.",
+      "tagg": "stad"
+    },
+    {
+      "rubrik": "Egen snöskola i Boden",
+      "text": "Säsongsanställda skottare övar på ett tak vi byggt i lagret innan de går upp på riktigt.",
+      "tagg": "people"
+    }
   ],
   "nyckeltal": [
-    {"varde": "340", "enhet": "avtal", "etikett": "Fastigheter med vinterservice"},
-    {"varde": "48", "enhet": "anställda", "etikett": "Plus säsongsskottare"},
-    {"varde": "4", "enhet": "orter", "etikett": "Luleå, Piteå, Boden, Kiruna"},
-    {"varde": "2 h", "enhet": "", "etikett": "Utryckningstid vid ras och läckage"}
+    {
+      "varde": "340",
+      "enhet": "avtal",
+      "etikett": "Fastigheter med vinterservice"
+    },
+    {
+      "varde": "48",
+      "enhet": "anställda",
+      "etikett": "Plus säsongsskottare"
+    },
+    {
+      "varde": "4",
+      "enhet": "orter",
+      "etikett": "Luleå, Piteå, Boden, Kiruna"
+    },
+    {
+      "varde": "2 h",
+      "enhet": "",
+      "etikett": "Utryckningstid vid ras och läckage"
+    }
   ],
   "projekt": [
-    {"namn": "Kvarteret Malmporten", "ort": "Kiruna", "typ": "Plåttak, nybyggnad", "ar": "2025", "text": "Svart falsad plåt på 3 400 kvadratmeter med snörasskydd över alla entréer.", "tagg": "stad"},
-    {"namn": "Verkstad 7, Svartöstaden", "ort": "Luleå", "typ": "Papptak, industri", "ar": "2025", "text": "Ny tvåskiktspapp och sexton uppvärmda takbrunnar på en verkstadshall.", "tagg": "industri"},
-    {"namn": "Brf Norrstrand", "ort": "Piteå", "typ": "Plåttak och avvattning", "ar": "2024", "text": "Nya tak på fyra lamellhus, rännor med värmekabel och nya snöräcken.", "tagg": "bostad"},
-    {"namn": "Förrådet i Sävast", "ort": "Boden", "typ": "Takrenovering", "ar": "2024", "text": "Förstärkt läkt och ny plåt efter att snölasten tryckt ned två takstolar.", "tagg": "tak"},
-    {"namn": "Villa Gammelstad", "ort": "Luleå", "typ": "Takbyte, villa", "ar": "2025", "text": "Byte från betongpannor till plåt med dold infästning och snöräcke.", "tagg": "hem"},
-    {"namn": "Malmfältens bussdepå", "ort": "Gällivare", "typ": "Tätskikt och brunnar", "ar": "2026", "text": "Takduk på 5 800 kvadratmeter och värmekabel i invändig avvattning.", "tagg": "industri"}
+    {
+      "namn": "Kvarteret Malmporten",
+      "ort": "Kiruna",
+      "typ": "Plåttak, nybyggnad",
+      "ar": "2025",
+      "text": "Svart falsad plåt på 3 400 kvadratmeter med snörasskydd över alla entréer.",
+      "tagg": "stad"
+    },
+    {
+      "namn": "Verkstad 7, Svartöstaden",
+      "ort": "Luleå",
+      "typ": "Papptak, industri",
+      "ar": "2025",
+      "text": "Ny tvåskiktspapp och sexton uppvärmda takbrunnar på en verkstadshall.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Brf Norrstrand",
+      "ort": "Piteå",
+      "typ": "Plåttak och avvattning",
+      "ar": "2024",
+      "text": "Nya tak på fyra lamellhus, rännor med värmekabel och nya snöräcken.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Förrådet i Sävast",
+      "ort": "Boden",
+      "typ": "Takrenovering",
+      "ar": "2024",
+      "text": "Förstärkt läkt och ny plåt efter att snölasten tryckt ned två takstolar.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Villa Gammelstad",
+      "ort": "Luleå",
+      "typ": "Takbyte, villa",
+      "ar": "2025",
+      "text": "Byte från betongpannor till plåt med dold infästning och snöräcke.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Malmfältens bussdepå",
+      "ort": "Gällivare",
+      "typ": "Tätskikt och brunnar",
+      "ar": "2026",
+      "text": "Takduk på 5 800 kvadratmeter och värmekabel i invändig avvattning.",
+      "tagg": "industri"
+    }
   ],
   "process": [
-    {"titel": "Snölastberäkning", "text": "Vi börjar med snözon, takets form och vad som ligger under – ett lager tål mer än en skola.", "tagg": "tak"},
-    {"titel": "Byggfönster juni–september", "text": "Nya tak läggs när det är plusgrader. Vi bokar sommarens jobb redan i februari.", "tagg": "bygg"},
-    {"titel": "Vinteravtal", "text": "Kunden väljer gräns för när vi skottar: viss snödjup, viss vikt eller fasta rundor.", "tagg": "natur"},
-    {"titel": "Vårbesiktning i maj", "text": "Vi går över taket och rapporterar skador innan nästa vinter hinner förvärra dem.", "tagg": "tak"}
+    {
+      "titel": "Snölastberäkning",
+      "text": "Vi börjar med snözon, takets form och vad som ligger under – ett lager tål mer än en skola.",
+      "tagg": "tak"
+    },
+    {
+      "titel": "Byggfönster juni–september",
+      "text": "Nya tak läggs när det är plusgrader. Vi bokar sommarens jobb redan i februari.",
+      "tagg": "bygg"
+    },
+    {
+      "titel": "Vinteravtal",
+      "text": "Kunden väljer gräns för när vi skottar: viss snödjup, viss vikt eller fasta rundor.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Vårbesiktning i maj",
+      "text": "Vi går över taket och rapporterar skador innan nästa vinter hinner förvärra dem.",
+      "tagg": "tak"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Ingen ska gå upp på ett tak ensam",
     "text": "Takskottning är ett av de farligaste jobben i Norrbotten. Vi arbetar alltid två och två, med förankrade linor och avspärrning på marken, och vi skottar inte i mörker utan belysning på taket. Plåtspillet från verkstaden går tillbaka till stålverket för omsmältning.",
-    "mal": [["2 + 2", "två på taket, två på marken vid skottning"], ["100 %", "av plåtspillet går till omsmältning"], ["2 dagar", "fallskyddsutbildning för alla säsongsanställda"]]
+    "mal": [
+      [
+        "2 + 2",
+        "två på taket, två på marken vid skottning"
+      ],
+      [
+        "100 %",
+        "av plåtspillet går till omsmältning"
+      ],
+      [
+        "2 dagar",
+        "fallskyddsutbildning för alla säsongsanställda"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Sommar på taket, vinter i snön",
     "text": "Vi har jobb året runt för plåtslagare och takläggare, och säsongsjobb som takskottare från november till april. Vi betalar utbildning i fallskydd, heta arbeten och kranbehörighet.",
-    "jobb": [["Plåtslagare", "Luleå"], ["Takläggare", "Kiruna"], ["Takskottare, säsong", "Piteå"], ["Arbetsledare industri", "Luleå"]]
+    "jobb": [
+      [
+        "Plåtslagare",
+        "Luleå"
+      ],
+      [
+        "Takläggare",
+        "Kiruna"
+      ],
+      [
+        "Takskottare, säsong",
+        "Piteå"
+      ],
+      [
+        "Arbetsledare industri",
+        "Luleå"
+      ]
+    ]
   },
   "kultur": "Termos, pannlampa och en kollega bredvid – och fri bastu i Storheden efter vinterpassen.",
-  "citat": {"text": "Söderut ritar man tak för regn. Här ritar vi för två meter snö som smälter och fryser trettio gånger på en vinter.", "namn": "Eva Strömbäck", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {
+    "text": "Söderut ritar man tak för regn. Här ritar vi för två meter snö som smälter och fryser trettio gånger på en vinter.",
+    "namn": "Eva Strömbäck",
+    "roll": "Grundare och vd",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Isproppen i stupröret gav oss vatten i hallen varje mars. Sedan Norrkalott dragit värmekabel har vi haft tre torra vårar.", "namn": "Mikael P.", "ort": "Boden"},
-    {"text": "Vi har 28 fastigheter med deras vinteravtal. De ringer innan snön blir för tung, inte efter.", "namn": "Lena K., förvaltare", "ort": "Luleå"},
-    {"text": "Taket på stugan i Abisko byttes på åtta dagar i juli. De hade räknat med att allt material måste upp med båt.", "namn": "Jonas T.", "ort": "Kiruna"}
+    {
+      "text": "Isproppen i stupröret gav oss vatten i hallen varje mars. Sedan Norrkalott dragit värmekabel har vi haft tre torra vårar.",
+      "namn": "Mikael P.",
+      "ort": "Boden"
+    },
+    {
+      "text": "Vi har 28 fastigheter med deras vinteravtal. De ringer innan snön blir för tung, inte efter.",
+      "namn": "Lena K., förvaltare",
+      "ort": "Luleå"
+    },
+    {
+      "text": "Taket på stugan i Abisko byttes på åtta dagar i juli. De hade räknat med att allt material måste upp med båt.",
+      "namn": "Jonas T.",
+      "ort": "Kiruna"
+    }
   ],
   "faq": [
-    ["När behöver mitt tak skottas?", "Det beror på takets konstruktion, men blöt snö över 60 centimeter är ofta en varning på äldre villor. Vi kan väga snön och ge ett besked."],
-    ["Vad kostar takskottning?", "En villa kostar oftast 3 500–6 500 kr per tillfälle. Med vinteravtal får du fast pris per skottning och förtur vid snöfall."],
-    ["Kan jag skotta taket själv?", "Vi avråder från det utan fallskydd. Varje vinter skadas människor i Norrbotten av fall från tak och snöras."],
-    ["Varför blir det isproppar i stuprören?", "Varm vind smälter snön, vattnet rinner ner och fryser i den kalla rännan. Bättre ventilerad vind och värmekabel i rännan löser det oftast."],
-    ["Kan ni lägga tak på vintern?", "Papp och duk på industritak ja, med tält och värme. Plåttak på villor lägger vi helst juni–september."],
-    ["Arbetar ni utanför Norrbotten?", "Ibland i Skellefteå och Västerbottens fjällvärld, främst åt kunder vi redan har i länet."],
-    ["Vilken plåt tål snön bäst?", "Falsad stålplåt i minst 0,6 millimeter, med glidklammer och tätare läkt. Profilerad plåt kan fungera på enklare byggnader."]
+    [
+      "När behöver mitt tak skottas?",
+      "Det beror på takets konstruktion, men blöt snö över 60 centimeter är ofta en varning på äldre villor. Vi kan väga snön och ge ett besked."
+    ],
+    [
+      "Vad kostar takskottning?",
+      "En villa kostar oftast 3 500–6 500 kr per tillfälle. Med vinteravtal får du fast pris per skottning och förtur vid snöfall."
+    ],
+    [
+      "Kan jag skotta taket själv?",
+      "Vi avråder från det utan fallskydd. Varje vinter skadas människor i Norrbotten av fall från tak och snöras."
+    ],
+    [
+      "Varför blir det isproppar i stuprören?",
+      "Varm vind smälter snön, vattnet rinner ner och fryser i den kalla rännan. Bättre ventilerad vind och värmekabel i rännan löser det oftast."
+    ],
+    [
+      "Kan ni lägga tak på vintern?",
+      "Papp och duk på industritak ja, med tält och värme. Plåttak på villor lägger vi helst juni–september."
+    ],
+    [
+      "Arbetar ni utanför Norrbotten?",
+      "Ibland i Skellefteå och Västerbottens fjällvärld, främst åt kunder vi redan har i länet."
+    ],
+    [
+      "Vilken plåt tål snön bäst?",
+      "Falsad stålplåt i minst 0,6 millimeter, med glidklammer och tätare läkt. Profilerad plåt kan fungera på enklare byggnader."
+    ]
   ],
   "certifikat": [
-    {"titel": "Fallskydd och höjdarbete", "text": "Alla som arbetar på tak har dokumenterad utbildning och årlig repetition.", "ikon": "hjalm"},
-    {"titel": "Heta arbeten", "text": "Certifierade enligt Brandskyddsföreningen för papp och svetsad duk.", "ikon": "eld"},
-    {"titel": "Elbehörighet för värmekabel", "text": "Egen elbehörighet för installation av värmekabel i rännor och brunnar.", "ikon": "blixt"},
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2014.", "ikon": "dokument"}
+    {
+      "titel": "Fallskydd och höjdarbete",
+      "text": "Alla som arbetar på tak har dokumenterad utbildning och årlig repetition.",
+      "ikon": "hjalm"
+    },
+    {
+      "titel": "Heta arbeten",
+      "text": "Certifierade enligt Brandskyddsföreningen för papp och svetsad duk.",
+      "ikon": "eld"
+    },
+    {
+      "titel": "Elbehörighet för värmekabel",
+      "text": "Egen elbehörighet för installation av värmekabel i rännor och brunnar.",
+      "ikon": "blixt"
+    },
+    {
+      "titel": "ISO 9001 och 14001",
+      "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2014.",
+      "ikon": "dokument"
+    }
   ],
   "certifikat_rubrik": "Behörigheter för både sommartak och vinterjour",
-  "kunder": ["Kiruna kommun", "Luleå Hamnfastigheter", "Brf Norrstrand", "Malmfältens Trafik", "Bodens Garnisonsfastigheter", "Svartöstadens Verkstäder", "Piteå Älvdals Energi", "Brf Örnäset Höjd"],
+  "kunder": [
+    "Kiruna kommun",
+    "Luleå Hamnfastigheter",
+    "Brf Norrstrand",
+    "Malmfältens Trafik",
+    "Bodens Garnisonsfastigheter",
+    "Svartöstadens Verkstäder",
+    "Piteå Älvdals Energi",
+    "Brf Örnäset Höjd"
+  ],
   "kunder_rubrik": "De ringer oss när snön kommer",
-  "kontor_lista": [["Luleå", "Huvudkontor och verkstad, Storheden. 22 anställda."], ["Piteå", "Villor och föreningar längs kusten. 8 anställda."], ["Boden", "Snöskola och lager. 6 anställda."], ["Kiruna", "Malmfälten och fjällen. 8 anställda."]],
+  "kontor_lista": [
+    [
+      "Luleå",
+      "Huvudkontor och verkstad, Storheden. 26 anställda."
+    ],
+    [
+      "Piteå",
+      "Villor och föreningar längs kusten. 8 anställda."
+    ],
+    [
+      "Boden",
+      "Snöskola och lager. 6 anställda."
+    ],
+    [
+      "Kiruna",
+      "Malmfälten och fjällen. 8 anställda."
+    ]
+  ],
   "kontor_rubrik": "Fyra baser i Norrbotten",
   "nyheter": [
-    ["2026-10-20", "Vinteravtalen för 2026–2027", "Sista dag för nya avtal med förtur är 15 november.", "natur"],
-    ["2026-05-28", "Så läser du vårbesiktningen", "Fyra skador vi oftast hittar efter en tung vinter, och vad de kostar att åtgärda.", "tak"],
-    ["2026-02-11", "Februari: 1 140 tak skottade", "Snöenheten har haft sin mest intensiva vinter sedan starten 1996.", "people"]
+    [
+      "2026-10-20",
+      "Vinteravtalen för 2026–2027",
+      "Sista dag för nya avtal med förtur är 15 november.",
+      "natur"
+    ],
+    [
+      "2026-05-28",
+      "Så läser du vårbesiktningen",
+      "Fyra skador vi oftast hittar efter en tung vinter, och vad de kostar att åtgärda.",
+      "tak"
+    ],
+    [
+      "2026-02-11",
+      "Februari: 1 140 tak skottade",
+      "Snöenheten har haft sin mest intensiva vinter sedan starten 1996.",
+      "people"
+    ]
   ],
-  "kontakt": {"adress": "Banvägen 14", "postnr": "973 46", "ort": "Luleå", "telefon": "070-174 06 23", "epost": "jour@norrkalotttak.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Banvägen 14",
+    "postnr": "973 46",
+    "ort": "Luleå",
+    "telefon": "070-174 06 23",
+    "epost": "jour@norrkalotttak.se",
+    "orgnr": ""
+  },
   "oppettider": "Kontor mån–fre 7–16 · Vinterjour dygnet runt nov–apr",
   "omrade": "Norrbottens län, från Haparanda till Kiruna",
   "fot_cta": "Teckna vinteravtal före 15 november så står ditt tak först i kön när snön kommer.",
   "text": {
     "hero_knapp": "Sommar och vinter",
-    "kontakt_knapp": "Ring jouren",
+    "kontakt_knapp": "Vinterjouren",
     "vagval_etikett": "Året runt",
     "ber_etikett": "Från säsongen",
     "ber_rubrik": "Senaste vintern i siffror",
@@ -128,7 +430,8 @@
     "kontor_etikett": "Här finns vi",
     "logos_etikett": "Avtalskunder",
     "certifikat_etikett": "Behörigheter",
-    "medarbetare": "Lagen",
-    "panel_etikett": "Året-runt-jobb"
+    "medarbetare": "Takfolket",
+    "panel_etikett": "Året-runt-jobb",
+    "sida_bolag_ingress": "{kortnamn} har tre ortskontor och en snöenhet som växer till fyrtio personer varje vinter."
   }
 }

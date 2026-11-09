@@ -59,7 +59,7 @@
     {"varde": "38", "enhet": "", "etikett": "Ramavtalsuppdrag 2025"}
   ],
   "projekt": [
-    {"namn": "Ålidhemsskolan", "ort": "Umeå", "typ": "Invändig rivning", "ar": "2026", "text": "6 400 kvadratmeter stomrent på nio sommarveckor, inklusive asbestmattor i två plan.", "tagg": "rivning"},
+    {"namn": "Skolan på Ålidhem", "ort": "Umeå", "typ": "Invändig rivning", "ar": "2026", "text": "6 400 kvadratmeter stomrent på nio sommarveckor, inklusive asbestmattor i två plan.", "tagg": "rivning"},
     {"namn": "Kraftstation i Indalsälven", "ort": "Bispgården", "typ": "Rivning under revisionsstopp", "ar": "2025", "text": "Ställverk och kontrollrum från 1961 revs i skift dygnet runt.", "tagg": "industri"},
     {"namn": "Gamla vårdcentralen", "ort": "Timrå", "typ": "Totalrivning", "ar": "2025", "text": "Sanering av PCB-fogar och rivning till platta på sju veckor.", "tagg": "rivning"},
     {"namn": "Sågverkshallen vid Ljungan", "ort": "Ånge", "typ": "Industririvning", "ar": "2025", "text": "En 9 000 kvadratmeter stor såghall, med 380 ton stål sålt till skrot.", "tagg": "industri"},
@@ -69,7 +69,7 @@
   "process": [
     {"titel": "Kalkyl från Sundsvall", "text": "Centralt kalkylteam räknar alla anbud med samma prismodell per ton och kvadratmeter.", "tagg": "kontor"},
     {"titel": "Inventering", "text": "Miljöinventerarna kartlägger farligt avfall och tar fram rivningsplanen.", "tagg": "bygg"},
-    {"titel": "Sanering och rivning", "text": "Saneringsenheten går först, sedan tar depåns rivare och maskinförare över.", "tagg": "rivning"},
+    {"titel": "Sanering, sedan maskiner", "text": "Saneringsenheten går först, sedan tar depåns rivare och maskinförare över.", "tagg": "rivning"},
     {"titel": "Slutrapport", "text": "Vägningskvitton, avfallsrapport och foton samlade i en digital slutrapport.", "tagg": "kontor"}
   ],
   "hallbarhet": {
@@ -102,7 +102,7 @@
   "kunder": ["Selångers Fastigheter", "Indalsälvens Kraft", "Umeå Campusfastigheter", "Östersunds Skolfastigheter", "Ånge Sågverk", "Brf Norra Stadsberget", "Örnsköldsviks Hamn & Terminal", "Region Mittnorrs Vårdfastigheter"],
   "nyheter": [
     ["2026-10-01", "Ett år i Örnsköldsvik", "Depån på Domsjö har vuxit till tolv anställda och tagit sitt första hamnuppdrag.", "people"],
-    ["2026-08-14", "Ålidhemsskolan klar till skolstart", "6 400 kvadratmeter stomrent på nio veckor – så planerade vi sommaren.", "rivning"],
+    ["2026-08-14", "Skolan på Ålidhem klar till skolstart", "6 400 kvadratmeter stomrent på nio veckor – så planerade vi sommaren.", "rivning"],
     ["2026-03-05", "Omsättningen passerade 200 miljoner", "Bokslutet för 2025 visar 214 miljoner kronor och 21 nyanställda.", "kontor"],
     ["2025-10-20", "Ny depå på Höga Kusten", "Vi öppnar i Örnsköldsvik för att komma närmare industrin och hamnen.", "industri"]
   ],

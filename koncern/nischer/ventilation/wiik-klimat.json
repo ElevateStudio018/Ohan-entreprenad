@@ -13,7 +13,7 @@
   "intro_rubrik": "Ett hus i taget, i detalj",
   "om": [
     "Henrik Wiik är civilingenjör i installationsteknik och arbetade tio år med museer och kyrkor innan han startade eget 2003. Det första uppdraget var en Djursholmsvilla från 1906 där ägarna ville ha FTX utan att ett enda tak skulle sänkas – det tog åtta månader och blev vårt arbetssätt.",
-    "I dag är vi 22 personer på Vendevägen i Danderyd: fyra ingenjörer, en akustiker, egna montörer och en snickare som tillverkar don och inklädnader i ek, mässing och gips. Vi tar runt femton större projekt om året och följer varje hus i minst tio år efteråt."
+    "I dag är vi 22 personer på Vendevägen i Danderyd: fyra ingenjörer, en akustiker, egna montörer och två snickare som tillverkar don och inklädnader i ek, mässing och gips. Vi tar runt femton större projekt om året och följer varje hus i minst tio år efteråt."
   ],
   "vagval_rubrik": "Vilket hus gäller det?",
   "tjanster": [
@@ -29,7 +29,7 @@
   "affarsomraden": [
     {"titel": "Villor", "text": "Vi bygger FTX i befintliga villor från 1900-talets början till 1970-talet. Kanalerna dras i bjälklag, gamla rökkanaler och garderober, och aggregatet placeras där det inte hörs.", "text2": "Ett typiskt projekt tar åtta till tolv veckor och kostar 450 000–1 200 000 kr.", "tagg": "hem"},
     {"titel": "Våningar och kulturmiljöer", "text": "I sekelskiftesvåningar på Östermalm och Kungsholmen samarbetar vi med antikvarie, arkitekt och föreningens styrelse. Don monteras i taklister och kakelugnsnischer så att rummen ser orörda ut.", "text2": "Vi har arbetat i 14 byggnader med kulturhistoriskt skydd.", "tagg": "interior"},
-    {"titel": "Akustik och komfort", "text": "Vår akustiker beräknar ljudnivån i varje rum innan något byggs. Vi garanterar högst 25 dB(A) i sovrum och 30 dB(A) i vardagsrum – och mäter innan vi lämnar över.", "text2": "Lufthastigheten vid vistelsezonen hålls under 0,15 meter per sekund.", "tagg": "ventilation"},
+    {"titel": "Akustik och komfort", "text": "Vår akustiker beräknar ljudnivån i varje rum innan något byggs. Vi garanterar högst 25 dB(A) i sovrum och 30 dB(A) i vardagsrum – och mäter innan vi lämnar över.", "text2": "Lufthastigheten i vistelsezonen hålls under 0,15 meter per sekund.", "tagg": "ventilation"},
     {"titel": "Specialrum", "text": "Vinkällare, inomhuspooler, gym och hemmabiografer har egna krav på fukt, temperatur och ljud. Vi projekterar dem som separata zoner med egen styrning.", "text2": "Allt styrs från samma app som resten av husets ventilation.", "tagg": "interior"}
   ],
   "bolag": [
@@ -83,7 +83,7 @@
   "faq": [
     ["Går det att bygga FTX i ett gammalt hus utan att sänka taken?", "I nästan alla fall vi har sett, ja. Vi använder bjälklag, garderober, gamla rökkanaler och ibland golvdon. Laserskanningen visar vilka vägar som finns."],
     ["Vad kostar det?", "En villa på 200–300 kvadratmeter landar oftast mellan 450 000 och 800 000 kr inklusive specialdon och injustering. Ni får fast pris efter platsbesöket."],
-    ["Hur tyst blir det?", "Vi garanterar högst 25 dB(A) i sovrum och 30 dB(A) i vardagsrum, och mäter innan vi lämnar över. Det motsvarar ungefär ett viskande."],
+    ["Hur tyst blir det?", "Vi garanterar högst 25 dB(A) i sovrum och 30 dB(A) i vardagsrum, och mäter innan vi lämnar över. Det är tystare än en viskning."],
     ["Kan vi bo kvar under arbetet?", "De flesta gör det. Vi arbetar med dammväggar och HEPA-filtrerade luftrenare och städar varje dag."],
     ["Arbetar ni med q-märkta hus?", "Ja. Vi har arbetat i 14 kulturskyddade byggnader och tar fram underlag till bygglov och antikvarie."],
     ["Vad ingår i tioårsavtalet?", "Filterbyte två gånger om året, årlig service, fri felavhjälpning och samma tekniker under hela perioden."],
@@ -97,7 +97,7 @@
   ],
   "kunder": ["Villa Ekudden, Djursholm", "Brf Strandvägen 7", "Vallentuna prästgård", "Brf Kungsklippan", "Villa Solbacka, Lidingö", "Saltsjöbadens Strandvillor", "Brf Lärkstaden 12"],
   "nyheter": [
-    ["2026-09-15", "Ventilation i hus med kakelugnar", "Så samsas FTX och eldning – och därför behöver huset rätt undertryck.", "interior"],
+    ["2026-09-15", "Ventilation i hus med kakelugnar", "Så samsas FTX och eldning – och därför måste trycket i huset vara balanserat.", "interior"],
     ["2026-05-20", "Akustikern Elsa Rudberg börjar", "Ljudberäkningarna tas nu fram i eget hus för alla projekt.", "people"],
     ["2026-01-12", "Bokningsläget för 2027", "Vi tar emot förfrågningar för projekt med start från mars 2027.", "hem"]
   ],

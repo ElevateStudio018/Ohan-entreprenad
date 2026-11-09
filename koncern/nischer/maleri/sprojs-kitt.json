@@ -85,7 +85,7 @@
     ["Kan ni renovera ett fönster med trasig spröjs?", "Ja. Vi tillverkar nya spröjsar i kärnfuru med samma profil som originalet."],
     ["Är renovering verkligen billigare än nytt?", "För de flesta hus ja, och särskilt för ovanliga storlekar. En renoverad båge kostar 3 400–7 800 kronor, ett nytt specialfönster ofta 12 000–20 000."],
     ["Hur ofta behöver fönstren underhållas efteråt?", "Stryk linolja på utsidan av nederstycket var tredje år. Med linoljefärg brukar en ommålning räcka vart åttonde till tolfte år."],
-    ["Får jag ROT-avdrag?", "Ja, på arbetskostnaden. Avdraget dras direkt på fakturan."],
+    ["Får jag ROT-avdrag?", "Ja, på arbetskostnaden – ungefär 60 procent av priset per båge är arbete."],
     ["Åker ni utanför Siljansbygden?", "Vi hämtar inom 8 mil från Rättvik utan resekostnad. Längre bort kan du köra hit bågarna själv, eller betala milersättning."]
   ],
   "priser": [
@@ -96,7 +96,7 @@
   "certifikat": [
     {"titel": "Gesällbrev, snickeri", "text": "Grundaren har gesällbrev i byggnadssnickeri från Sveriges Hantverksråd.", "ikon": "stjarna"},
     {"titel": "Byggnadsvårdsutbildning", "text": "Tre av oss har gått fönsterkursen vid Hantverkslaboratoriet i Mariestad.", "ikon": "skola"},
-    {"titel": "F-skatt och ROT", "text": "Godkänd för F-skatt, ROT-avdrag dras direkt på fakturan.", "ikon": "dokument"},
+    {"titel": "F-skatt och ROT", "text": "F-skattsedel sedan 2008. ROT-avdraget syns redan i offerten.", "ikon": "dokument"},
     {"titel": "Ansvarsförsäkring", "text": "Bågarna är försäkrade under transport och medan de står i verkstaden.", "ikon": "skold"}
   ],
   "kunder": ["Hotell Klockargården", "Brf Stora Torget", "Stiftelsen Gärdsjö Fäbod", "Gammelgården i Boda", "Siljan Hus & Hem AB", "Rättviks skolfastigheter", "Brf Siljansvy"],
@@ -120,7 +120,7 @@
     "faq_rubrik": "Om kitt, glas och energi",
     "priser_rubrik": "Fast pris per båge",
     "priser_not": "Priserna gäller tvåluftsfönster upp till 0,6 m² per båge, inklusive moms och före ROT-avdrag.",
-    "priser_utvald": "Vanligast",
+    "priser_utvald": "Mest vald",
     "priser_knapp": "Boka plats",
     "boka_rubrik": "Räkna bågarna och hör av dig",
     "boka_text": "Ange antal bågar, ungefärlig storlek och var huset ligger. Bilder hjälper oss att ge rätt pris.",

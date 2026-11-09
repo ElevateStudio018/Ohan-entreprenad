@@ -441,7 +441,7 @@ PROFIL_SEK = {
     "foto": (["projekt", "priser", "omdomen", "galleri"], ["vagval", "process", "bolag", "citat", "faq", "hb", "berattelser", "siffror", "nyheter", "boka", "panel"]),
     "arborist": (["vagval", "projekt", "priser"], ["process", "omdomen", "certifikat", "faq", "berattelser", "bolag", "siffror", "hb", "panel", "boka", "galleri", "citat"]),
     "djur": (["vagval", "priser", "omdomen"], ["galleri", "projekt", "process", "faq", "bolag", "hb", "citat", "berattelser", "boka", "panel", "siffror"]),
-    "nisch": (["vagval", "projekt"], ["process", "bolag", "siffror", "omdomen", "citat", "certifikat", "faq", "logos", "hb", "panel", "kontor", "berattelser", "nyheter", "boka"]),
+    "nisch": (["vagval", "projekt"], ["priser", "process", "bolag", "siffror", "omdomen", "citat", "certifikat", "faq", "logos", "hb", "panel", "kontor", "berattelser", "nyheter", "boka"]),
 }
 KRAV = {"priser": "priser", "omdomen": "omdomen", "faq": "faq", "galleri": "galleri_taggar", "process": "process", "citat": "citat",
         "certifikat": "certifikat", "logos": "kunder", "kontor": "kontor_lista", "tidslinje": "tidslinje", "ir": "investerare", "nyheter": "nyheter",

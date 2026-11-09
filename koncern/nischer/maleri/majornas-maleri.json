@@ -27,7 +27,7 @@
     {"titel": "Bli delägare", "ikon": "folk", "href": "karriar.html", "text": "Efter tre år kan målare köpa aktier i firman."}
   ],
   "affarsomraden": [
-    {"titel": "Landshövdingehus", "text": "Ett landshövdingehus har ofta 600–900 kvadratmeter träfasad med panel, knutbrädor och profilerade listverk. Vi skrapar, byter rötskadad panel, grundar med linolja och stryker två gånger med oljefärg eller alkyd.", "text2": "Ett hus tar normalt sex till åtta veckor med ett lag på fyra målare.", "tagg": "maleri"},
+    {"titel": "Landshövdingehus", "text": "Ett landshövdingehus har ofta 600–900 kvadratmeter träfasad med panel, knutbrädor och profilerade listverk. Vi skrapar, byter rötskadad panel, grundar med linolja och avslutar med två lager oljefärg eller alkyd.", "text2": "Ett hus tar normalt sex till åtta veckor med ett lag på fyra målare.", "tagg": "maleri"},
     {"titel": "Stenstaden", "text": "I Linnéstaden och Olivedal har husen putsfasader från 1890–1930 med listverk och ornament. Vi lagar sprickor och bom, och avfärgar med silikat- eller kalkfärg som passar putsen.", "text2": "Ornament som har lossnat gjuts av och sätts tillbaka av vår stuckatör.", "tagg": "stad"},
     {"titel": "Trapphus och entréer", "text": "Trapphusen i Majorna har ofta schablonmålning, ådrade dörrar och originalräcken under senare lager. Vi tar fram det som går att bevara och målar resten i föreningens valda kulörer.", "text2": "Ett trapphus på fyra våningar tar tre till fyra veckor.", "tagg": "interior"},
     {"titel": "Underhållsplanering", "text": "Styrelser byts ut, men husen står kvar. Vi besiktar fasader och trapphus, fotograferar skador och lämnar en underhållsplan med kostnadsbedömning tio år framåt.", "text2": "Besiktningen är kostnadsfri för föreningar i västra Göteborg.", "tagg": "bostad"}
@@ -58,14 +58,14 @@
     {"namn": "Kustfastigheter Väst", "ort": "Masthugget", "typ": "Trapphus och entréer", "ar": "2024", "text": "Åtta trapphus i hyreshus från 1930-talet.", "tagg": "interior"}
   ],
   "process": [
-    {"titel": "Besiktning med styrelsen", "text": "Vi går runt huset tillsammans, mäter fukt i panelen och fotograferar skadorna.", "tagg": "maleri"},
+    {"titel": "Besiktning med styrelsen", "text": "Vi och styrelsen går hela varvet runt fastigheten, fuktmäter panelen och fotograferar varje skada.", "tagg": "maleri"},
     {"titel": "Förslag inför stämman", "text": "Ni får offert, kulörförslag och ett underlag som styrelsen kan presentera för medlemmarna.", "tagg": "kontor"},
     {"titel": "Informationsmöte", "text": "Vi bjuder in de boende, går igenom tidplanen och svarar på frågor om ställning och balkonger.", "tagg": "people"},
     {"titel": "Målning och slutbesiktning", "text": "Ett fast lag med delägare som lagbas – slutbesiktning med oberoende besiktningsman.", "tagg": "bostad"}
   ],
   "hallbarhet": {
     "rubrik": "När målarna äger firman syns det i resultatet",
-    "text": "Delägarna har pengar i bolaget och sitt namn på husen de målar. Vi lämnar fem års garanti enligt ABT 06 och gör en egen besiktning efter tre år – reklamationerna har legat under en procent av omsättningen sedan 2015.",
+    "text": "Delägarna har pengar i bolaget och sitt namn på husen de målar. Garantin är fem år enligt ABT 06, och vi gör en egen besiktning efter tre år – reklamationerna har legat under en procent av omsättningen sedan 2015.",
     "mal": [["5 år", "garanti enligt ABT 06"], ["3 år", "egen eftersyn utan kostnad"], ["< 1 %", "reklamationer av omsättningen"]]
   },
   "karriar": {
@@ -85,12 +85,12 @@
     ["Vad kostar det för föreningen?", "En träfasad på ett landshövdingehus kostar oftast 650–950 kronor per kvadratmeter inklusive ställning, skrapning och två strykningar. Rötskadad panel tillkommer."],
     ["Får föreningen ROT-avdrag?", "Nej, ROT gäller inte för föreningens gemensamma ytor. Medlemmar som vill passa på att måla i sin lägenhet kan få ROT för det."],
     ["Hur påverkas de boende?", "Ställningen står sex till åtta veckor. Balkonger måste tömmas och fönster hållas stängda vissa dagar – det står i tidplanen som anslås i trapphusen."],
-    ["Kan ni hjälpa till med bygglov för ny kulör?", "Ja. I många kvarter i Majorna krävs bygglov eller samråd för kulörbyte. Vi tar fram färgsättning och underlag till ansökan."],
+    ["Behövs bygglov för att byta kulör?", "Ofta. I många kvarter i Majorna krävs bygglov eller samråd för kulörbyte. Vi tar fram färgsättning och underlag till ansökan."],
     ["Vad betyder det att målarna äger firman?", "Tolv av våra målare äger aktier i bolaget. Ingen extern ägare tar ut vinst, och de som sköter målningen har ett direkt intresse av att den håller."],
     ["Lämnar ni garanti?", "Fem år enligt ABT 06, och vi gör en egen kostnadsfri eftersyn efter tre år."]
   ],
   "certifikat": [
-    {"titel": "Måleriavtalet", "text": "Kollektivavtal med Målareförbundet för alla anställda.", "ikon": "dokument"},
+    {"titel": "Måleriavtalet", "text": "Kollektivavtal sedan 1987 – även delägarna har avtalslön.", "ikon": "dokument"},
     {"titel": "BF9K", "text": "Certifierat kvalitetssystem för byggföretag sedan 2017.", "ikon": "skold"},
     {"titel": "Ställningsbehörighet", "text": "Eget ställningslag med utbildning för ställningar över nio meter.", "ikon": "hjalm"},
     {"titel": "ID06", "text": "Personalliggare och ID06 på alla arbetsplatser.", "ikon": "las"}
@@ -116,7 +116,7 @@
     "faq_rubrik": "Frågor från föreningar",
     "boka_rubrik": "Låt oss gå runt huset med styrelsen",
     "boka_text": "Skriv föreningens namn och adress, så föreslår vi en tid för besiktning – gärna en kväll.",
-    "logos_rubrik": "Föreningar vi har målat åt",
+    "logos_rubrik": "Föreningar som har anlitat oss",
     "certifikat_rubrik": "Avtal och certifiering",
     "bolag_rubrik": "Fyra avdelningar, tolv delägare",
     "medarbetare": "Målarna och delägarna"

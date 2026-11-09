@@ -44,7 +44,7 @@
     {"rubrik": "Prefab från Polen till Bergen", "text": "De första väggelementen till Fjellhagen skole har lyfts på plats, fyra dygn efter att de lämnade fabriken.", "tagg": "industri"}
   ],
   "nyckeltal": [
-    {"varde": "96", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [71, 74, 79, 85, 88, 91, 96], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "96", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [71, 74, 79, 85, 88, 91, 96], "trend_text": "Nettoomsättning per år sedan 2019, mdr kr"},
     {"varde": "11 200", "enhet": "", "etikett": "Egna yrkesarbetare", "trend": [9400, 9700, 10100, 10300, 10600, 10900, 11200], "trend_text": "Yrkesarbetare 2019–2025"},
     {"varde": "3,4", "enhet": "%", "etikett": "Rörelsemarginal", "trend": [2.8, 3.1, 3.3, 2.9, 3.0, 3.2, 3.4], "trend_text": "Rörelsemarginal 2019–2025"},
     {"varde": "142", "enhet": "mdr kr", "etikett": "Orderstock 30 sep", "trend": [118, 121, 130, 127, 134, 138, 142], "trend_text": "Orderstock vid årets slut, mdr kr"}
@@ -74,7 +74,7 @@
     "jobb": [["Platschef bostäder", "Göteborg"], ["Betongarbetare", "Oslo"], ["Kalkylator husbyggnad", "Malmö"], ["Lärling snickare", "Borås"]]
   },
   "kultur": "Nya yrkesarbetare får en handledare med minst tio år i yrket och en egen verktygsbudget på 8 000 kronor om året.",
-  "citat": {"text": "Min farfars farfar höll i murslevens skaft själv. Vi är 21 000 nu, men principen är densamma: den som bygger ska vara anställd hos oss och veta vem som bär ansvaret.", "namn": "Cecilia Aldervik", "roll": "Styrelseordförande, fjärde generationen", "tagg": "people"},
+  "citat": {"text": "Min farfars far stod själv med murslev i Majorna. Vi är 21 000 nu, men principen är densamma: den som bygger ska vara anställd hos oss och veta vem som bär ansvaret.", "namn": "Cecilia Aldervik", "roll": "Styrelseordförande, fjärde generationen", "tagg": "people"},
   "omdomen": [
     {"text": "Akuten var öppen dygnet runt under hela stombygget. Aldervik planerade varje lyft med vår vårdenhet, och vi fick inte en enda avvikelse på grund av buller.", "namn": "Maria L.", "ort": "Göteborg"},
     {"text": "Vi fick se hela kalkylen i partneringen, även deras egna timpriser. Det gjorde att vi kunde ta bort en våning källare och spara 41 miljoner.", "namn": "Henrik S.", "ort": "Bergen"},
@@ -93,14 +93,14 @@
     ["2026-10-23", "Delårsrapport januari–september 2026", "Orderingången ökade med 9 procent och rörelsemarginalen nådde 3,6 procent i tredje kvartalet.", "kontor"],
     ["2026-09-14", "Aldervik bygger nytt gymnasium i Uddevalla", "Kontraktet omfattar 1,1 miljarder kronor och genomförs i partnering med kommunen.", "bygg"],
     ["2026-06-02", "All betong klimatförbättrad i Norge", "Nu gjuter även de norska byggena enbart med betong från egna och certifierade stationer.", "industri"],
-    ["2026-03-20", "Års- och hållbarhetsredovisning 2025", "Rekordomsättning på 96 miljarder kronor och 4 120 färdigställda lägenheter.", "kontor"]
+    ["2026-03-20", "Årsredovisningen för 2025 publicerad", "Rekordomsättning på 96 miljarder kronor och 4 120 färdigställda lägenheter.", "kontor"]
   ],
   "investerare": {
     "aktie": "ALDV B",
     "lista": "Nasdaq Stockholm Large Cap",
     "kurs": "184,60",
     "forandring": "+0,9 %",
-    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-23"], ["Delårsrapport januari–juni 2026", "2026-07-17"], ["Delårsrapport januari–mars 2026", "2026-04-24"], ["Års- och hållbarhetsredovisning 2025", "2026-03-20"]],
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-23"], ["Delårsrapport januari–juni 2026", "2026-07-17"], ["Delårsrapport januari–mars 2026", "2026-04-24"], ["Årsredovisning 2025", "2026-03-20"]],
     "kalender": [["Bokslutskommuniké 2026", "2027-02-05"], ["Årsstämma, Göteborg", "2027-04-22"], ["Delårsrapport januari–mars 2027", "2027-04-23"]]
   },
   "kontor_rubrik": "Fem länder, egna lag i alla",
@@ -122,8 +122,8 @@
     ["1911", "Anders Aldervik startar byggmästarfirma i Majorna och bygger landshövdingehus i Kungsladugård."],
     ["1938", "Första betongstationen byggs på Hisingen."],
     ["1965", "Aldervik bygger 9 000 lägenheter inom miljonprogrammet i Göteborg och Borås."],
-    ["1984", "B-aktien noteras på Stockholmsbörsen."],
-    ["1999", "Förvärv av Vestbygg i Bergen – starten för Aldervik Norge."],
+    ["1984", "Aldervik B börjar handlas på Stockholmsbörsen – familjen behåller röstmajoriteten."],
+    ["1999", "Förvärv av Fjordhus Bygg i Bergen – starten för Aldervik Norge."],
     ["2016", "Prefabfabriken i Września invigs."],
     ["2023", "All betong från egna stationer blir klimatförbättrad."]
   ],
