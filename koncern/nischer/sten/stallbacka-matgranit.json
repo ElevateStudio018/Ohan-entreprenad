@@ -1,0 +1,127 @@
+{
+  "profil": "nisch",
+  "nisch": "sten",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Stallbacka Mätgranit AB",
+  "kortnamn": "Stallbacka Granit",
+  "slug": "stallbacka-matgranit",
+  "typ": "Precisionsgranit för industrin",
+  "tagline": "Plan på tusendelen",
+  "slogan": "Vi tillverkar mätbord, maskinbäddar och linjaler i svart diabas, lappade för hand till en planhet som mäts i tusendels millimeter.",
+  "hero_rubrik": "Granit plan på en tusendels millimeter",
+  "hero_text": "Mätbord, maskinstativ och luftlagerbanor i svart diabas – lappade i klimatstyrd mätsal i Trollhättan och levererade med ackrediterat kalibreringsprotokoll.",
+  "intro_rubrik": "Där stenhuggeri möter mätteknik",
+  "om": [
+    "Åke Fors var mätingenjör på flygmotorfabriken i Trollhättan när han 1987 började lappa om slitna mätbord i en hyrd lokal på Stallbacka. Kunderna ville snart ha nya bord, och 1993 köpte företaget sin första diamantsåg.",
+    "I dag är vi 30 anställda, och sonen Daniel Fors är vd sedan 2016. Vi levererar till verkstadsindustri, flyg- och fordonsindustri, laserteknik och halvledartillverkning i hela Europa. Stenen är svart diabas från ett brott i Göinge, tät och nästan helt fri från spänningar."
+  ],
+  "vagval_rubrik": "Vad ska mätas eller bära?",
+  "tjanster": [
+    {"titel": "Mätbord", "ikon": "sok", "href": "verksamhet.html", "text": "Planbord från 400 × 300 mm till 6 meter, i noggrannhetsklass 00, 0 och 1."},
+    {"titel": "Maskinbäddar", "ikon": "fabrik", "href": "verksamhet.html", "text": "Stativ och bäddar för koordinatmätmaskiner, lasrar och slipmaskiner."},
+    {"titel": "Linjaler & vinklar", "ikon": "ritning", "href": "verksamhet.html", "text": "Planlinjaler, vinkellinjaler och parallellblock för verktygsrum och mätrum."},
+    {"titel": "Luftlagerbanor", "ikon": "vind", "href": "verksamhet.html", "text": "Banor för luftlager med rakhet under 2 µm per meter."},
+    {"titel": "Insatser & gängor", "ikon": "kugge", "href": "verksamhet.html", "text": "Limmade gänginsatser och T-spår placerade på hundradels millimeter."},
+    {"titel": "Omlappning på plats", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vi lappar om slitna bord hos er, utan att de behöver flyttas."},
+    {"titel": "Kalibrering", "ikon": "graf", "href": "verksamhet.html", "text": "Ackrediterad kalibrering av planhet med elektroniska nivåer och laser."},
+    {"titel": "Offertförfrågan", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Skicka ritning eller mått så återkommer vi inom tre arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Mätrum och verktygsrum", "text": "Mätbord och linjaler i diabas är grunden i varje mätrum, eftersom stenen inte rostar, inte magnetiseras och knappt påverkas av temperatur. Vi levererar i standardstorlekar från lager och i specialmått inom sex veckor.", "text2": "Varje bord får ett individuellt kalibreringsprotokoll med planhetskarta.", "tagg": "industri"},
+    {"titel": "Maskinbyggare", "text": "Tillverkare av koordinatmätmaskiner, lasrar och precisionsslipar bygger sina maskiner på våra bäddar. Diabasen dämpar vibrationer tio gånger bättre än gjutjärn.", "text2": "Vi gör FEM-beräkningar av nedböjning och egenfrekvens innan stenen sågas.", "tagg": "maskin"},
+    {"titel": "Halvledare och optik", "text": "För wafer-hantering, mikroskop och optiska bänkar krävs rakhet och planhet i mikrometerklass. Vi lappar i en mätsal som hålls vid 20 grader med en tiondels grads avvikelse.", "text2": "Luftlagerbanor levereras med interferometermätning från vårt eget lab.", "tagg": "sten"},
+    {"titel": "Service och omlappning", "text": "Ett mätbord som används dagligen slits och behöver kontrolleras varje år. Vi kalibrerar, och lappar om på plats när toleransen inte längre håller.", "text2": "Serviceavtal med årlig kalibrering finns för drygt 600 bord i Norden.", "tagg": "maskin"}
+  ],
+  "bolag": [
+    {"namn": "Sågeriet", "segment": "Bearbetning", "rubrik": "Block blir bord", "text": "Diamantsåg, CNC-fräs och slipmaskin som sågar och förbearbetar block på upp till 18 ton.", "tagg": "industri"},
+    {"namn": "Mätsalen", "segment": "Lappning", "rubrik": "20,0 °C året runt", "text": "Klimatstyrd sal där sex lappare finjusterar planheten för hand med gjutjärnsplattor och diamantpasta.", "tagg": "sten"},
+    {"namn": "Kalibreringslabbet", "segment": "Ackrediterad mätning", "rubrik": "Spårbart till SI", "text": "Ackrediterat laboratorium som kalibrerar våra egna och andras bord, linjaler och vinklar.", "tagg": "kontor"},
+    {"namn": "Fältservice", "segment": "Hos kunden", "rubrik": "Två servicebilar", "text": "Kalibrerar och lappar om bord i kundernas mätrum, från Luleå till Stuttgart.", "tagg": "maskin"}
+  ],
+  "berattelser": [
+    {"rubrik": "Sex meter i klass 00", "text": "Vårt längsta mätbord hittills, 6 × 2 meter, är levererat till en flygmotortillverkare.", "tagg": "industri"},
+    {"rubrik": "Ny interferometer", "text": "Labbet kan nu mäta rakhet över 4 meter med en osäkerhet på 0,3 µm.", "tagg": "kontor"},
+    {"rubrik": "Halvledarkund i Dresden", "text": "Tolv bäddar för waferrobotar har levererats till en fabrik i Sachsen.", "tagg": "maskin"}
+  ],
+  "nyckeltal": [
+    {"varde": "1,5 µm", "enhet": "", "etikett": "Planhet, bord 1 000 × 630 mm"},
+    {"varde": "30", "enhet": "anställda", "etikett": "Lappare, ingenjörer, mätare"},
+    {"varde": "600+", "enhet": "bord", "etikett": "Med årligt serviceavtal"},
+    {"varde": "20,0 °C", "enhet": "", "etikett": "I mätsalen, dygnet runt"}
+  ],
+  "projekt": [
+    {"namn": "Mätbord 6 × 2 m", "ort": "Trollhättan", "typ": "Flygmotorer", "ar": "2026", "text": "Bord i klass 00 för mätning av turbinhus, med 48 gänginsatser.", "tagg": "industri"},
+    {"namn": "Waferrobotar", "ort": "Dresden", "typ": "Halvledare", "ar": "2026", "text": "Tolv bäddar med luftlagerbanor, rakhet under 1,5 µm per meter.", "tagg": "maskin"},
+    {"namn": "Koordinatmätmaskiner", "ort": "Uddevalla", "typ": "Maskinbyggare", "ar": "2025", "text": "Fyrtio stativ per år till en svensk tillverkare av mätmaskiner.", "tagg": "maskin"},
+    {"namn": "Mätrum i Olofström", "ort": "Olofström", "typ": "Omlappning på plats", "ar": "2025", "text": "Sex bord i en pressverkstad lappades om under ett veckoslut.", "tagg": "maskin"},
+    {"namn": "Optisk bänk", "ort": "Lund", "typ": "Forskning", "ar": "2024", "text": "Vibrationsdämpad bänk för ett laserlaboratorium, 4,2 meter lång.", "tagg": "sten"},
+    {"namn": "Slipmaskinbäddar", "ort": "Göteborg", "typ": "Maskinbyggare", "ar": "2027", "text": "Ramavtal om bäddar till en ny generation precisionsslipar, första serien i produktion.", "tagg": "industri", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Krav och ritning", "text": "Vi går igenom last, toleranser och miljö och föreslår dimensioner och noggrannhetsklass.", "tagg": "kontor"},
+    {"titel": "Beräkning", "text": "FEM-analys av nedböjning och egenfrekvens, och val av block utan sprickor eller inneslutningar.", "tagg": "kontor"},
+    {"titel": "Sågning och lappning", "text": "Blocket sågas och vilar en vecka i mätsalen innan sex lappare tar det till rätt planhet.", "tagg": "sten"},
+    {"titel": "Kalibrering och leverans", "text": "Slutmätning i labbet, protokoll med planhetskarta och leverans i klimatskyddad låda.", "tagg": "industri"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett mätbord som håller i femtio år",
+    "text": "Ett bord i diabas kan lappas om gång på gång och används ofta i flera decennier. Vi tar tillbaka uttjänta bord, sågar dem till mindre linjaler och block och kör mätsalens klimatanläggning på fjärrvärme och värmeåtervinning.",
+    "mal": [["50 år", "typisk livslängd med omlappning"], ["300", "gamla bord omgjorda till linjaler sedan 2015"], ["100 %", "förnybar energi i mätsalen"]]
+  },
+  "karriar": {
+    "rubrik": "Ett hantverk mätt i mikrometer",
+    "text": "Det tar ungefär tre år att bli en fullärd lappare. Vi söker folk med känsla i händerna och tålamod – bakgrund som stenhuggare, finmekaniker eller instrumentmakare är meriterande.",
+    "jobb": [["Lappare, mätsalen", "Trollhättan"], ["Kalibreringstekniker", "Trollhättan"], ["Konstruktör, maskinbäddar", "Trollhättan"]]
+  },
+  "kultur": "Varje lappare signerar undersidan av de bord de har gjort färdigt – de äldsta signaturerna är från 1988.",
+  "citat": {"text": "Folk tror att det är maskinerna som gör planheten. Det är händerna. En erfaren lappare känner en ojämnhet på två tusendelar med fingertopparna.", "namn": "Daniel Fors", "roll": "Vd", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Bordet på sex meter håller klass 00 över hela ytan. Protokollet var det mest detaljerade vi har fått från en leverantör.", "namn": "Henrik S., mätchef", "ort": "Trollhättan"},
+    {"text": "Stallbacka lappade om sex bord under en helg. På måndagen kunde vi köra produktionen som vanligt.", "namn": "Maria L., kvalitetsansvarig", "ort": "Olofström"},
+    {"text": "Vi bytte från gjutjärn till deras diabasstativ och fick bort en vibration som vi hade jagat i två år.", "namn": "Göta Mätmaskiner AB", "ort": "Uddevalla"}
+  ],
+  "faq": [
+    ["Varför diabas och inte granit?", "Svart diabas är tätare och hårdare än de flesta graniter, suger nästan ingen fukt och har mycket små inre spänningar. Det ger stabilare planhet över tid."],
+    ["Vilka noggrannhetsklasser har ni?", "Vi tillverkar enligt DIN 876 och ISO 8512-2 i klass 00, 0 och 1, och specialtoleranser efter kundens krav."],
+    ["Hur ofta ska ett mätbord kalibreras?", "Ett bord i daglig användning bör kalibreras en gång om året. Vi skickar påminnelse till alla kunder med serviceavtal."],
+    ["Kan ni lappa om bord från andra tillverkare?", "Ja, vi lappar om bord i granit och diabas oavsett tillverkare, så länge stenen är hel."],
+    ["Hur levererar ni stora bord?", "Bord över 2 ton skickas i klimatskyddad trälåda med specialtransport. Vi kan även montera och nivellera på plats."],
+    ["Har ni lagerbord?", "Ja, ett trettiotal standardstorlekar i klass 0 finns i lager och skickas inom en vecka."],
+    ["Är kalibreringen spårbar?", "Ja, labbet är ackrediterat av Swedac enligt ISO/IEC 17025, och alla mätningar är spårbara till nationella normaler."]
+  ],
+  "certifikat": [
+    {"titel": "Swedac ISO/IEC 17025", "text": "Ackrediterat kalibreringslaboratorium för planhet, rakhet och vinkel.", "ikon": "graf"},
+    {"titel": "ISO 9001, hela kedjan", "text": "Certifierat kvalitetsledningssystem för hela kedjan från block till leverans.", "ikon": "skold"},
+    {"titel": "AS9100", "text": "Kvalitetsledning enligt flyg- och rymdindustrins standard för leveranser till flygmotortillverkare.", "ikon": "glob"},
+    {"titel": "DIN 876 och ISO 8512", "text": "Mätbord och linjaler tillverkas och provas enligt de internationella standarderna för planhet.", "ikon": "dokument"}
+  ],
+  "kunder": ["Göta Mätmaskiner AB", "Nordflyg Komponenter AB", "Olofströms Pressverk", "Sachsen Wafer Systems GmbH", "Vänersborgs Mekaniska Verkstad", "Laserlabbet Lund", "Kinnekulle Precision AB", "Västgöta Slipteknik AB"],
+  "nyheter": [
+    ["2026-10-07", "Lagerbord i klass 00", "Från november finns fem storlekar i den högsta klassen för leverans inom två veckor.", "industri"],
+    ["2026-05-26", "Interferometer i labbet", "Rakhet över fyra meter kan nu mätas med en osäkerhet på 0,3 µm.", "kontor"],
+    ["2025-12-09", "AS9100 förnyat", "Revisionen gav inga avvikelser för tredje året i rad.", "sten"]
+  ],
+  "kontakt": {"adress": "Stallbackavägen 22", "postnr": "461 38", "ort": "Trollhättan", "telefon": "070-174 06 78", "epost": "sales@stallbackagranit.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, fältservice efter avtal",
+  "omrade": "Norden och Europa",
+  "fot_cta": "Skicka ritning eller mått – vi föreslår klass, dimension och leveranstid inom tre arbetsdagar.",
+  "bild": {"panel": "industri", "hb": "sten"},
+  "text": {
+    "hero_knapp": "Produkter och klasser",
+    "hero_lank": "Leveranser",
+    "kontakt_knapp": "Begär offert",
+    "ber_rubrik": "Ur mätsalen",
+    "proj_rubrik": "Bord och bäddar i drift",
+    "process_rubrik": "Från krav till kalibrerat bord",
+    "hb_etikett": "Livscykel",
+    "omdomen_rubrik": "Mätchefer och maskinbyggare",
+    "faq_rubrik": "Om diabas, klasser och kalibrering",
+    "boka_rubrik": "Begär offert eller service",
+    "boka_text": "Bifoga ritning, mått eller serienummer på bordet som ska kalibreras, så svarar en ingenjör inom tre arbetsdagar.",
+    "boka_falt": ["Namn och företag", "Telefon", "E-post", "Mått, klass eller servicebehov"],
+    "logos_rubrik": "Industrikunder i urval",
+    "bolag_rubrik": "Sågeri, mätsal, labb och service",
+    "certifikat_rubrik": "Ackrediterat och spårbart",
+    "medarbetare": "Lapparna"
+  }
+}

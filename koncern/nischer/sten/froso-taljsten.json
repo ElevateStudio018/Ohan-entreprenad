@@ -23,8 +23,8 @@
     {"titel": "Bastuugnar", "ikon": "sol", "href": "verksamhet.html", "text": "Vedeldade bastuaggregat inklädda i täljsten för mjukare ånga."},
     {"titel": "Eldstadsomfattningar", "ikon": "hamare", "href": "verksamhet.html", "text": "Täljsten runt befintliga insatser och öppna spisar."},
     {"titel": "Renovering", "ikon": "pensel", "href": "verksamhet.html", "text": "Nya fogar, lagade sprickor och bytta luckor på äldre ugnar."},
-    {"titel": "Priser", "ikon": "dokument", "href": "verksamhet.html", "text": "Tre ugnspaket med montage inom Jämtlands län."},
-    {"titel": "Besök verkstaden", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Se en ugn i drift på Frösön – ring innan så tänder vi."}
+    {"titel": "Tre ugnspaket", "ikon": "dokument", "href": "verksamhet.html", "text": "Tre ugnspaket med montage inom Jämtlands län."},
+    {"titel": "Se en ugn i drift", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Se en ugn i drift på Frösön – ring innan så tänder vi."}
   ],
   "affarsomraden": [
     {"titel": "Värmelagrande ugnar", "text": "Täljsten har dubbelt så hög värmekapacitet som tegel och leder värmen jämnt genom hela stommen. En brasa på 12 kilo björkved ger behaglig värme i ett vardagsrum i nästan ett dygn.", "text2": "Ugnarna typprovas enligt EN 15250 och klarar Ekodesignkraven för partiklar och verkningsgrad.", "tagg": "sten"},
@@ -57,7 +57,7 @@
     {"namn": "Hytte i Meråker", "ort": "Meråker", "typ": "Täljstensugn", "ar": "2027", "text": "Vår första ugn med glasad bakvägg mot sovloftet, under tillverkning.", "tagg": "sten", "status": "Pågående"}
   ],
   "process": [
-    {"titel": "Hembesök", "text": "Vi kontrollerar bjälklag, skorsten och var i rummet värmen gör mest nytta, och tar med stenprover.", "tagg": "hem"},
+    {"titel": "Besök i huset", "text": "Vi kontrollerar bjälklag, skorsten och var i rummet värmen gör mest nytta, och tar med stenprover.", "tagg": "hem"},
     {"titel": "Ritning och sotare", "text": "Du får ritning och fast pris. Vi gör bygganmälan och bokar sotaren för brandskyddskontroll.", "tagg": "kontor"},
     {"titel": "Provmurning", "text": "Ugnen sågas och torrmuras i verkstaden, så att varje sten passar innan den kommer till dig.", "tagg": "sten"},
     {"titel": "Murning och första brasan", "text": "Murarlaget bygger ugnen på plats och tänder första brasan med dig. Sotaren besiktigar innan den tas i bruk.", "tagg": "people"}
@@ -112,7 +112,7 @@
   "text": {
     "hero_knapp": "Se ugnarna",
     "hero_lank": "Stugor och gårdar",
-    "kontakt_knapp": "Boka hembesök",
+    "kontakt_knapp": "Boka ugnsbesök",
     "ber_rubrik": "Ugnar som är på väg ut",
     "proj_rubrik": "Ugnar i stugor och gårdar",
     "process_rubrik": "Från hembesök till första brasan",
@@ -122,7 +122,7 @@
     "priser_rubrik": "Tre ugnar, montage ingår",
     "priser_utvald": "Flest väljer",
     "priser_not": "Priserna gäller inom Jämtlands län och inkluderar moms. Skorsten och bjälklagsförstärkning tillkommer vid behov.",
-    "boka_rubrik": "Boka ett hembesök",
+    "boka_rubrik": "Låt oss titta på huset",
     "boka_text": "Berätta var huset ligger och hur stort rummet är, så ringer Mats upp och bokar en tid när han ändå är i trakten.",
     "logos_rubrik": "Pensionat, stugbyar och föreningar",
     "bolag_rubrik": "Verkstad, murare och sten",

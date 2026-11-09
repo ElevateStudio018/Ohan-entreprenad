@@ -23,11 +23,11 @@
     {"titel": "Donatortavlor", "ikon": "dokument", "href": "verksamhet.html", "text": "Tavlor för kyrkor, skolor och stiftelser – med plats för fler namn senare."},
     {"titel": "Minnesstenar", "ikon": "stjarna", "href": "verksamhet.html", "text": "Stenar för parker, jubileer och platser där något har hänt."},
     {"titel": "Byggnadsinskriptioner", "ikon": "kontor", "href": "verksamhet.html", "text": "Namn och årtal huggna direkt i fasader, portaler och trappsteg."},
-    {"titel": "Kurser", "ikon": "skola", "href": "verksamhet.html", "text": "Helgkurser i bokstavshuggning för fyra deltagare i taget."},
+    {"titel": "Kurshelger", "ikon": "skola", "href": "verksamhet.html", "text": "Helgkurser i bokstavshuggning för fyra deltagare i taget."},
     {"titel": "Boka ett samtal", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "En timme i ateljén med skisspapper och stenprover."}
   ],
   "affarsomraden": [
-    {"titel": "Gravstenar", "text": "De flesta som kommer till oss vill ha en gravsten där texten är det viktigaste. Vi börjar med namnet och orden, ritar dem i full skala och väljer sedan sten och form som passar bokstäverna.", "text2": "Skisserna är gratis, och ni behöver inte bestämma er förrän ni har sett texten i rätt storlek.", "tagg": "begravning"},
+    {"titel": "Gravstenar kring texten", "text": "De flesta som kommer till oss vill ha en gravsten där texten är det viktigaste. Vi börjar med namnet och orden, ritar dem i full skala och väljer sedan sten och form som passar bokstäverna.", "text2": "Skisserna är gratis, och ni behöver inte bestämma er förrän ni har sett texten i rätt storlek.", "tagg": "begravning"},
     {"titel": "Offentliga inskriptioner", "text": "Minnesstenar, citat i torgytor och namn på byggnader, ofta i samarbete med konstnärer och arkitekter. Vi tar fram typografin, provhugger en bokstav och hugger sedan på plats eller i ateljén.", "text2": "Det största vi har gjort är 38 meter text längs en kajkant.", "tagg": "stad"},
     {"titel": "Hem och gård", "text": "Husnummer, gårdsnamn och årtalsstenar vid infarten. En handhuggen siffra syns på ett annat sätt än en gjuten – skuggan i v-snittet förändras med solen.", "text2": "Husnummer i kalksten levereras på sex till åtta veckor.", "tagg": "hem"},
     {"titel": "Kurser och föredrag", "text": "Varannan helg på våren och hösten håller vi kurser för fyra deltagare. Du ritar en egen bokstav på lördagen och hugger den i kalksten på söndagen.", "text2": "Vi föreläser också för arkitekter och kyrkogårdsförvaltningar om typografi i sten.", "tagg": "people"}
@@ -93,10 +93,10 @@
     {"namn": "Inskription", "pris": "fr. 6 900 kr", "enhet": "i befintlig sten", "text": "Nytt namn och årtal på en sten som redan står.", "punkter": ["Ritas efter befintlig text", "Huggs på plats eller i ateljén", "Upp till 25 tecken ingår", "Förgyllning som tillval"]}
   ],
   "certifikat": [
-    {"titel": "Gesällbrev stenhuggeri", "text": "Anton Sjöqvist har gesällbrev i stenhuggeri utfärdat av Hantverksrådet.", "ikon": "hamare"},
+    {"titel": "Gesäll i ateljén", "text": "Anton Sjöqvist har gesällbrev i stenhuggeri utfärdat av Hantverksrådet.", "ikon": "hamare"},
     {"titel": "Konstnärernas Riksorganisation", "text": "Klara är medlem i KRO och arbetar efter MU-avtalet vid offentliga uppdrag.", "ikon": "pensel"},
     {"titel": "Monteringsansvar", "text": "Alla gravstenar monteras med dymling och fundament enligt kyrkogårdens föreskrifter.", "ikon": "skold"},
-    {"titel": "Ansvarsförsäkring", "text": "Företaget har ansvarsförsäkring för arbete på kyrkogårdar, fasader och offentlig mark.", "ikon": "dokument"}
+    {"titel": "Försäkrad för offentlig mark", "text": "Företaget har ansvarsförsäkring för arbete på kyrkogårdar, fasader och offentlig mark.", "ikon": "dokument"}
   ],
   "kunder": ["Motala kommun", "Linköpings domkyrkoförsamling", "Vadstena kommun", "Östgöta Konstförening", "Fastighets AB Ågatan", "Stiftelsen Kinda kanalarv", "Brf Trädgårdstorget"],
   "nyheter": [
@@ -116,7 +116,7 @@
     "ber_rubrik": "På arbetsbänken",
     "proj_rubrik": "Ord vi har huggit i sten",
     "process_rubrik": "Från ord till v-snitt",
-    "hb_etikett": "Hantverket",
+    "hb_etikett": "Mejsel & klubba",
     "omdomen_rubrik": "Familjer och beställare",
     "faq_rubrik": "Om bokstäver, sten och tid",
     "priser_rubrik": "Tre vanliga uppdrag",

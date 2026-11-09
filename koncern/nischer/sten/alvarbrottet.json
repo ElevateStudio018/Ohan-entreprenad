@@ -18,13 +18,13 @@
   "vagval_rubrik": "Vad ska du lägga?",
   "tjanster": [
     {"titel": "Golvplattor", "ikon": "hem", "href": "verksamhet.html", "text": "Grå och röd ölandskalk i sex format, slipad, borstad eller råkluven."},
-    {"titel": "Fönsterbänkar", "ikon": "hus", "href": "verksamhet.html", "text": "Måttbeställda inne och ute, med fasad eller rak framkant."},
-    {"titel": "Trappsteg", "ikon": "upp", "href": "verksamhet.html", "text": "Massiva och påbyggda steg, med halkspår för utomhusbruk."},
+    {"titel": "Fönsterbänkar på mått", "ikon": "hus", "href": "verksamhet.html", "text": "Måttbeställda inne och ute, med fasad eller rak framkant."},
+    {"titel": "Steg i ölandskalk", "ikon": "upp", "href": "verksamhet.html", "text": "Massiva och påbyggda steg, med halkspår för utomhusbruk."},
     {"titel": "Trädgårdshällar", "ikon": "trad", "href": "verksamhet.html", "text": "Kluvna hällar och kantsten till gångar och uteplatser."},
     {"titel": "Murblock", "ikon": "hamare", "href": "verksamhet.html", "text": "Kluvna block för kallmurar, odlingskanter och trädgårdsterrasser."},
     {"titel": "Provlåda", "ikon": "lada", "href": "verksamhet.html", "text": "Sex prover i olika färger och ytor, skickade hem för 195 kr."},
-    {"titel": "Prislista", "ikon": "dokument", "href": "verksamhet.html", "text": "Alla priser per kvadratmeter och meter, inklusive moms."},
-    {"titel": "Besök brottet", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Visning varje onsdag kl. 13 från maj till september."}
+    {"titel": "Priser per m²", "ikon": "dokument", "href": "verksamhet.html", "text": "Alla priser per kvadratmeter och meter, inklusive moms."},
+    {"titel": "Brottsvisning", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Visning varje onsdag kl. 13 från maj till september."}
   ],
   "affarsomraden": [
     {"titel": "Golv", "text": "Kalkstensgolv är den största delen av vår försäljning, från hallar i radhus till hela bottenvåningar i nya villor. Vi sågar plattor i sex standardformat och i fri längd för stavgolv.", "text2": "Plattorna packas i läggningsordning så att färgskiftningarna sprids jämnt över golvet.", "tagg": "interior"},
@@ -54,14 +54,14 @@
     {"namn": "Stugbyn i Byxelkrok", "ort": "Borgholm", "typ": "Trädgård", "ar": "2026", "text": "Gångar och uteplatser i kluvna hällar till 24 stugor.", "tagg": "tradgard"},
     {"namn": "Sekelskifteshus i Kalmar", "ort": "Kalmar", "typ": "Fönsterbänkar", "ar": "2025", "text": "31 fönsterbänkar i röd kalk, måttade efter originalfönstren.", "tagg": "hem"},
     {"namn": "Restaurang i Göteborg", "ort": "Göteborg", "typ": "Golv och bardisk", "ar": "2025", "text": "Borstad grå kalk på golvet och en 7 meter lång bardisk.", "tagg": "interior"},
-    {"namn": "Kyrkogård i Gärdslösa", "ort": "Borgholm", "typ": "Murar och gångar", "ar": "2024", "text": "Kallmur och grusgångar kantade med kluven ölandskalk.", "tagg": "natur"},
+    {"namn": "Kyrkogård i Gärdslösa", "ort": "Borgholm", "typ": "Kallmur och kantade gångar", "ar": "2024", "text": "Kallmur och grusgångar kantade med kluven ölandskalk.", "tagg": "natur"},
     {"namn": "Brf Kalkstenen", "ort": "Stockholm", "typ": "Trapphusgolv", "ar": "2027", "text": "Nya golv i sex trapphus, levereras i etapper under våren.", "tagg": "bostad", "status": "Pågående"}
   ],
   "process": [
-    {"titel": "Beställ prover", "text": "Provlådan med sex färger och ytor kommer hem på två till tre dagar.", "tagg": "sten"},
+    {"titel": "Provlådan hem", "text": "Provlådan med sex färger och ytor kommer hem på två till tre dagar.", "tagg": "sten"},
     {"titel": "Räkna och beställ", "text": "Ange yta och format i webbutiken så räknar den ut plattor, spill och pris direkt.", "tagg": "kontor"},
     {"titel": "Sågning och packning", "text": "Plattorna sågas eller plockas från lager och packas i läggningsordning på pall.", "tagg": "industri"},
-    {"titel": "Leverans", "text": "Fraktbolaget ringer dagen innan och lämnar pallen vid tomtgränsen.", "tagg": "hem"}
+    {"titel": "Pallen kommer", "text": "Fraktbolaget ringer dagen innan och lämnar pallen vid tomtgränsen.", "tagg": "hem"}
   ],
   "hallbarhet": {
     "rubrik": "Från berg till pall på en och samma tomt",
@@ -84,7 +84,7 @@
     ["Vad är skillnaden mellan röd och grå ölandskalk?", "Färgen beror på järnhalten i det skikt stenen bröts ur. Den röda är något mjukare och varmare i tonen, den grå är tätare och lite hårdare."],
     ["Passar kalksten i kök och badrum?", "Ja, men den bör impregneras eftersom den är känslig för syra. Borstad yta döljer märken bättre än slipad."],
     ["Hur mycket spill ska jag räkna med?", "Webbutiken lägger till åtta procent för raka golv och tolv procent för golv med många hörn."],
-    ["Kan jag hämta själv?", "Ja, vid såghallen vardagar 7–15. Ring dagen innan så plockar vi fram din order."],
+    ["Går det att hämta i såghallen?", "Ja, vid såghallen vardagar 7–15. Ring dagen innan så plockar vi fram din order."],
     ["Vad kostar frakten?", "En pall till Stockholm kostar från 1 490 kr och till Malmö från 1 290 kr. Priset räknas ut i kassan."],
     ["Är ölandskalk frostbeständig?", "Ja, de bänkar vi säljer för utomhusbruk är provade för frost. Inomhusplattor från andra bänkar märks tydligt."],
     ["Kan jag se brottet?", "Visningar varje onsdag kl. 13 från maj till september. Vi visar fossilen i bänkarna och berättar om brytningen."]

@@ -46,7 +46,7 @@
   "nyckeltal": [
     {"varde": "6 200", "enhet": "trappor", "etikett": "Byggda sedan 1979"},
     {"varde": "22", "enhet": "personer", "etikett": "I verkstad och montage"},
-    {"varde": "-38 °C", "enhet": "", "etikett": "Kallaste dag vi har monterat"},
+    {"varde": "−38 °C", "enhet": "", "etikett": "Kallaste dag vi har monterat"},
     {"varde": "10 år", "enhet": "", "etikett": "Garanti mot sättningar"}
   ],
   "projekt": [
@@ -58,10 +58,10 @@
     {"namn": "Kvarteret Malmen", "ort": "Boden", "typ": "22 entréer", "ar": "2027", "text": "Påbyggnadssteg och ramper i etapper, port för port.", "tagg": "bostad", "status": "Pågående"}
   ],
   "process": [
-    {"titel": "Besiktning", "text": "Vi mäter trappan, kontrollerar dräneringen och tittar efter tecken på tjällyftning runt grunden.", "tagg": "hem"},
+    {"titel": "Besiktning på plats", "text": "Vi mäter trappan, kontrollerar dräneringen och tittar efter tecken på tjällyftning runt grunden.", "tagg": "hem"},
     {"titel": "Ritning och pris", "text": "Du får en skiss med stegmått, ytbehandling och grundläggning – och ett fast pris som gäller i tre månader.", "tagg": "kontor"},
-    {"titel": "Tillverkning", "text": "Stegen kapas, flammas och fräses i verkstaden på Bergnäset, oftast inom tre veckor.", "tagg": "industri"},
-    {"titel": "Montage", "text": "Laget river, gräver, packar och sätter stegen med kranbil. Efter första vintern kommer vi tillbaka och kontrollerar.", "tagg": "sten"}
+    {"titel": "Kapning och flammning", "text": "Stegen kapas, flammas och fräses i verkstaden på Bergnäset, oftast inom tre veckor.", "tagg": "industri"},
+    {"titel": "Rivning och sättning", "text": "Laget river, gräver, packar och sätter stegen med kranbil. Efter första vintern kommer vi tillbaka och kontrollerar.", "tagg": "sten"}
   ],
   "hallbarhet": {
     "rubrik": "En trappa ska inte gjutas om var tionde vår",
@@ -90,10 +90,10 @@
     ["Hur långt åker ni?", "Normalt mellan Haparanda och Piteå. Längre upp mot Gällivare och Jokkmokk tar vi uppdrag när flera jobb kan samköras."]
   ],
   "certifikat": [
-    {"titel": "Gesällbrev stenhuggeri", "text": "Fem av montörerna och verkstadschefen har gesällbrev utfärdat av Hantverksrådet.", "ikon": "hamare"},
+    {"titel": "Gesäller i montaget", "text": "Fem av montörerna och verkstadschefen har gesällbrev utfärdat av Hantverksrådet.", "ikon": "hamare"},
     {"titel": "Auktoriserad elinstallatör", "text": "Vår elektriker har auktorisation B från Elsäkerhetsverket och kopplar in alla värmeslingor.", "ikon": "blixt"},
     {"titel": "Certifierad kontrollansvarig", "text": "Projektledaren är certifierad KA enligt PBL för uppdrag som kräver bygglov eller anmälan.", "ikon": "dokument"},
-    {"titel": "ID06", "text": "Alla som arbetar på byggarbetsplatser bär ID06-kort och registreras i elektronisk personalliggare.", "ikon": "folk"}
+    {"titel": "ID06 på bygget", "text": "Alla som arbetar på byggarbetsplatser bär ID06-kort och registreras i elektronisk personalliggare.", "ikon": "folk"}
   ],
   "kunder": ["Hertsö Bostäder", "Piteå kommun", "Bodens Fastighetsförvaltning", "Brf Norrskenet", "Region Norrbottens lokalförsörjning", "Töre församling", "Kalix Hyresfastigheter"],
   "nyheter": [
