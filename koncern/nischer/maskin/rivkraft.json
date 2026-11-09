@@ -23,7 +23,7 @@
     {"titel": "Dammbekämpning", "ikon": "vind", "href": "verksamhet.html", "text": "Dimkanoner, undertrycksaggregat och luftrenare för bebodda hus."},
     {"titel": "Operatör på plats", "ikon": "folk", "href": "verksamhet.html", "text": "En av våra fyra operatörer följer med roboten, timpris eller fast pris."},
     {"titel": "Robotskola", "ikon": "skola", "href": "verksamhet.html", "text": "Fyra timmar på depån, sedan kör dina rivare själva."},
-    {"titel": "Priser per dygn", "ikon": "dokument", "href": "priser.html", "text": "Dygnspriser för robotar och verktyg, operatör per timme."},
+    {"titel": "Robotpriser", "ikon": "dokument", "href": "priser.html", "text": "Dygnspriser för robotar och verktyg, operatör per timme."},
     {"titel": "Skicka planritning", "ikon": "ritning", "href": "om-oss.html#kontakt", "text": "Dörrmått, hiss och bjälklag – så väljer vi robot åt dig."}
   ],
   "affarsomraden": [
@@ -73,7 +73,7 @@
     "jobb": [["Robotoperatör", "Örebro"], ["Hydraulmekaniker", "Örebro"]]
   },
   "kultur": "Alla på kontoret har kört varje robotmodell, och Emir håller själv i robotskolan en gång i månaden.",
-  "citat": {"text": "Mina händer domnar fortfarande när det är kallt. Ingen som rivit ett badrum med en av våra robotar ska behöva säga samma sak om tjugo år.", "namn": "Emir Kovač", "roll": "Grundare och vd", "tagg": "rivning"},
+  "citat": {"text": "Mina händer domnar fortfarande när det är kallt. Ingen som rivit ett badrum med en av våra robotar ska behöva säga samma sak om tjugo år.", "namn": "Emir Kovač", "roll": "Grundare, tidigare rivare", "tagg": "rivning"},
   "omdomen": [
     {"text": "Vi river 300 badrum om året och har slutat köpa bilmaskiner. Två robotar på långhyra och en robotskola för nyanställda – det räcker.", "namn": "Thomas W.", "ort": "Örebro"},
     {"text": "Ugnen var fortfarande varm när operatören började. Han stod tjugo meter bort och var klar på två skift i stället för en vecka.", "namn": "Lisa N.", "ort": "Karlskoga"},
@@ -85,7 +85,7 @@
     ["Klarar bjälklaget roboten?", "Vi kontrollerar ritningen och lägger lastfördelande plattor. Vid tveksamhet tar vi in en konstruktör innan leverans."],
     ["Hur mycket ström behövs?", "De eldrivna robotarna kräver 16 eller 32 ampere trefas. Vi har mobila elcentraler om fastigheten saknar uttag."],
     ["Får ni riva asbest?", "Ja, våra operatörer har utbildning och vi har Arbetsmiljöverkets tillstånd för asbestrivning. Asbesten ska vara inventerad innan vi börjar."],
-    ["Hur räknas hyran?", "Per påbörjat dygn från leverans till hämtning. Långhyra över en månad får 30 procent rabatt."]
+    ["Hur länge betalar jag?", "Per påbörjat dygn från leverans till hämtning. Långhyra över en månad får 30 procent rabatt."]
   ],
   "priser": [
     {"namn": "Badrumsroboten", "pris": "2 900 kr", "enhet": "per dygn, exkl. moms", "text": "520 kilo, ryms i personhiss och river ett badrum på en dag.", "punkter": ["Hammare och skopa ingår", "Skyddsplattor till hiss och trapphus", "El 16 A trefas", "Veckopris 11 900 kr"]},
@@ -100,7 +100,7 @@
     {"titel": "Tillstånd för asbestrivning", "text": "Arbetsmiljöverkets tillstånd för rivning av asbest, med utbildade och läkarundersökta operatörer.", "ikon": "skold"},
     {"titel": "Intygade robotoperatörer", "text": "Alla operatörer och kursdeltagare får skriftligt intyg efter praktiskt prov på depån.", "ikon": "skola"},
     {"titel": "Tillstånd för avfallstransport", "text": "Vi transporterar rivningsavfall och farligt avfall med länsstyrelsens tillstånd.", "ikon": "dokument"},
-    {"titel": "ID06 och kollektivavtal", "text": "Kollektivavtal genom Byggnads och ID06 för alla som arbetar på byggarbetsplatser.", "ikon": "folk"}
+    {"titel": "Byggnadsavtal och ID06", "text": "Kollektivavtal genom Byggnads och ID06 för alla som arbetar på byggarbetsplatser.", "ikon": "folk"}
   ],
   "kunder": ["Närkes Stambyten", "Brf Rudbecksgatan", "Vivalla Bostadsförvaltning", "Hallsbergs Rörservice", "Karlskoga Värmeverk", "Kumla Skolfastigheter", "Lindesbergs Bruksfastigheter"],
   "nyheter": [

@@ -1,0 +1,149 @@
+{
+  "profil": "nisch",
+  "nisch": "batvarv",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Flytbyggarna i Årstaviken AB",
+  "kortnamn": "Flytbyggarna",
+  "slug": "flytbyggarna-arstaviken",
+  "typ": "Varv för husbåtar och flytande hus i Stockholm",
+  "tagline": "Hem som flyter",
+  "slogan": "Vi bygger, dockar och underhåller husbåtar, flytande kontor och pontoner i Stockholms innerstadsvatten.",
+  "hero_rubrik": "Ett hus på vattnet behöver ett eget varv",
+  "hero_text": "Skrovmätning, betongpontoner, dockning och nybyggda husbåtar från verkstaden vid Årstaviken. 28 medarbetare som kan både båtbygge och husbygge.",
+  "intro_rubrik": "Halvt snickeri, halvt varv",
+  "om": [
+    "Flytbyggarna grundades 2006 av Sara Wennberg, byggnadsingenjör, och Tomas Lindgren, båtbyggare, när en grannes husbåt vid Södermalm började ta in vatten genom en rostig stålpråm från 1920-talet. Ingen byggfirma ville ta i skrovet och inget varv ville ta i huset – så de gjorde båda delarna själva.",
+    "I dag har vi 28 anställda, en verkstad med flytdocka vid Årstaviken och en lyftpråm med kran på 40 ton. Vi har byggt 46 nya husbåtar och flytande byggnader och sköter underhållet av drygt 200 husbåtar i Stockholm, från Hammarby sjöstad till Pampas marina."
+  ],
+  "vagval_rubrik": "Bor du på vattnet eller vill du göra det?",
+  "tjanster": [
+    {"titel": "Nya husbåtar", "ikon": "hus", "href": "verksamhet.html", "text": "Flytande bostäder på betong- eller stålpontoner, med bygglov och projektering."},
+    {"titel": "Skrovmätning", "ikon": "sok", "href": "verksamhet.html", "text": "Ultraljudsmätning av stålpråmar och dykinspektion av betongpontoner."},
+    {"titel": "Flytdocka", "ikon": "vatten", "href": "verksamhet.html", "text": "Docka för husbåtar upp till 24 meter och 180 ton."},
+    {"titel": "Pontonbyte", "ikon": "kran", "href": "verksamhet.html", "text": "Huset lyfts eller flyttas över till en ny ponton när den gamla är uttjänt."},
+    {"titel": "Flytande kontor", "ikon": "kontor", "href": "verksamhet.html", "text": "Kontor, bastur och restauranger på vattnet för fastighetsbolag."},
+    {"titel": "Förtöjning och el", "ikon": "blixt", "href": "verksamhet.html", "text": "Kättingar, landgångar, landström och avlopp anslutna till staden."},
+    {"titel": "Bygglov och tillstånd", "ikon": "ritning", "href": "verksamhet.html", "text": "Vi tar fram ritningar och söker bygglov och vattenverksamhet."},
+    {"titel": "Beställ inspektion", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Skrovet bör kontrolleras vart femte år."}
+  ],
+  "affarsomraden": [
+    {"titel": "Nybyggnation", "text": "En husbåt byggs som ett hus men måste flyta som en båt. Vi gjuter betongpontoner i egen form, beräknar flytläge och stabilitet och bygger huset ovanpå i trä med fuktsäker konstruktion.", "text2": "Byggtiden är 8–12 månader från bygglov till förtöjning.", "tagg": "bostad"},
+    {"titel": "Skrov och pontoner", "text": "Många husbåtar i Stockholm står på gamla stålpråmar som rostar från insidan. Vi mäter plåttjockleken med ultraljud, dykinspekterar och föreslår åtgärd: nya plåtar, katodiskt skydd eller ny ponton.", "text2": "Rapporten används av banker och försäkringsbolag vid köp och belåning.", "tagg": "svets"},
+    {"titel": "Dockning och flytt", "text": "Flytdockan tar husbåtar upp till 180 ton. Vår bogserbåt flyttar husbåten från förtöjningen till dockan, och vi har tillstånd att gå genom Hammarby sluss.", "text2": "En normal dockning tar två till fyra veckor.", "tagg": "bat"},
+    {"titel": "Flytande verksamheter", "text": "Fastighetsbolag och kommuner bygger allt oftare på vattnet: flytande förskolor, bastur, kontor och kaféer. Vi projekterar och bygger hela anläggningen, med förtöjning och anslutning till stadens nät.", "text2": "Tolv flytande verksamheter levererade sedan 2015.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Byggavdelningen", "segment": "Hus på vatten", "rubrik": "Tio snickare och en projektledare", "text": "Bygger husen ovanpå pontonerna, i verkstaden eller på plats vid kaj.", "tagg": "tra"},
+    {"namn": "Pontonvarvet", "segment": "Pontoner och dockning", "rubrik": "Flytdocka och betongform", "text": "Svetsare, betongarbetare och dykare som sköter skrov och pontoner.", "tagg": "svets"},
+    {"namn": "Projektering", "segment": "Ritningar och tillstånd", "rubrik": "Sara och två ingenjörer", "text": "Stabilitetsberäkningar, bygglov och ansökningar om vattenverksamhet.", "tagg": "kontor"},
+    {"namn": "Sjöavdelningen", "segment": "Bogsering och lyft", "rubrik": "Bogserbåt och lyftpråm", "text": "Flyttar husbåtar och lyfter pontoner med kran på 40 ton.", "tagg": "bat"}
+  ],
+  "berattelser": [
+    {"rubrik": "Flytande förskola i Hammarby sjöstad", "text": "En förskola för 40 barn på betongponton förtöjdes i augusti och öppnade i september.", "tagg": "stad"},
+    {"rubrik": "Pråm från 1924 fick ny ponton", "text": "Huset lyftes med kran och flyttades över till en ny betongponton på en dag.", "tagg": "bostad"},
+    {"rubrik": "Ny flytdocka", "text": "Den nya dockan tar husbåtar upp till 180 ton – dubbelt så tunga som den gamla.", "tagg": "bat"}
+  ],
+  "nyckeltal": [
+    {"varde": "46", "enhet": "nybyggen", "etikett": "Husbåtar och flytande hus"},
+    {"varde": "200+", "enhet": "husbåtar", "etikett": "Som vi underhåller"},
+    {"varde": "180", "enhet": "ton", "etikett": "Flytdockans kapacitet"},
+    {"varde": "28", "enhet": "personer", "etikett": "Båtbyggare, snickare och dykare"}
+  ],
+  "projekt": [
+    {"namn": "Flytande förskola", "ort": "Hammarby sjöstad", "typ": "Flytande verksamhet", "ar": "2026", "text": "Förskola för 40 barn med lekdäck, förtöjd vid kaj och ansluten till fjärrvärme.", "tagg": "stad", "status": "Förtöjd"},
+    {"namn": "Husbåt vid Pampas", "ort": "Solna", "typ": "Nybyggd husbåt", "ar": "2025", "text": "140 kvadratmeter i två plan på betongponton, med bergvärme från sjön.", "tagg": "bostad"},
+    {"namn": "Stålpråm från 1924", "ort": "Södermalm", "typ": "Pontonbyte", "ar": "2026", "text": "Huset lyftes över till en ny betongponton och den gamla pråmen skrotades.", "tagg": "svets", "status": "Förtöjd"},
+    {"namn": "Flytande bastu", "ort": "Liljeholmen", "typ": "Flytande verksamhet", "ar": "2024", "text": "Allmän bastu med plats för 30 personer åt en fastighetsägare vid Årstaviken.", "tagg": "stad"},
+    {"namn": "Husbåtsföreningen Tantolunden", "ort": "Södermalm", "typ": "Skrovmätning", "ar": "2025", "text": "Ultraljudsmätning och dykinspektion av föreningens 14 husbåtar.", "tagg": "bat"},
+    {"namn": "Flytande kontor i Frihamnen", "ort": "Stockholm", "typ": "Flytande verksamhet", "ar": "2026", "text": "Kontor i två plan för 25 personer på stålponton.", "tagg": "kontor", "status": "I flytdockan"}
+  ],
+  "process": [
+    {"titel": "Inspektion", "text": "Vi mäter skrovet eller besöker platsen där en ny husbåt ska ligga.", "tagg": "bat"},
+    {"titel": "Projektering och tillstånd", "text": "Ritningar, stabilitetsberäkning, bygglov och anmälan om vattenverksamhet.", "tagg": "kontor"},
+    {"titel": "Bygge eller dockning", "text": "Arbetet görs i flytdockan eller vid kaj, med veckorapport till dig.", "tagg": "bygg"},
+    {"titel": "Förtöjning och anslutning", "text": "Huset bogseras på plats, förtöjs och ansluts till el, vatten och avlopp.", "tagg": "stad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Betong som håller i hundra år",
+    "text": "En betongponton kräver nästan inget underhåll och ger inga utsläpp av bottenfärg eller rost i vattnet. Vi gjuter med klimatförbättrad betong och bygger husen i trä, och gamla stålpråmar skrotas med full metallåtervinning.",
+    "mal": [["100 år", "beräknad livslängd för våra betongpontoner"], ["−35 %", "klimatpåverkan i betongen jämfört med standard"], ["100 %", "av skrotat stål till återvinning"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg hus som flyter",
+    "text": "Vi söker snickare som vill arbeta på vattnet och svetsare med erfarenhet av fartygsstål. Vi har kollektivavtal och betalar dykcertifikat för den som vill utbilda sig.",
+    "jobb": [["Snickare, husbåtar", "Stockholm"], ["Svetsare, pontoner", "Stockholm"], ["Projektledare nybyggnation", "Stockholm"]]
+  },
+  "kultur": "Lunch på flytdockan varje fredag och en personalbastu på vattnet som vi byggde själva.",
+  "citat": {"text": "En husbåt är varken en båt eller ett hus, och därför blir den ofta varken skött som det ena eller det andra. Vi gör båda.", "namn": "Sara Wennberg", "roll": "Vd, byggnadsingenjör och grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Skrovmätningen visade att pråmen hade fem år kvar. Ett år senare låg huset på en ny ponton – vi bodde kvar i stan under tiden.", "namn": "Anna och Johan R.", "ort": "Södermalm"},
+    {"text": "Banken godkände lånet direkt när de fick rapporten från dykinspektionen.", "namn": "Mikael K.", "ort": "Hammarby sjöstad"},
+    {"text": "Förskolan förtöjdes på en dag och barnen flyttade in en månad senare. Allt var klart till terminsstarten.", "namn": "Lena T., fastighetsbolag", "ort": "Stockholm"}
+  ],
+  "faq": [
+    ["Hur ofta ska skrovet kontrolleras?", "Stålpråmar bör tjockleksmätas vart femte år, betongpontoner dykinspekteras vart tionde år."],
+    ["Vad kostar en ny husbåt?", "Från 5,5 Mkr för en husbåt på 80 kvadratmeter, exklusive plats. Priset beror på storlek, standard och ponton."],
+    ["Hjälper ni till med bygglov?", "Ja, vi tar fram ritningar och söker bygglov och anmäler vattenverksamhet. Platsen måste dock vara upplåten av kommunen eller markägaren."],
+    ["Kan vi bo kvar under dockningen?", "Nej, av säkerhetsskäl får ingen bo i huset under dockning. En dockning tar oftast två till fyra veckor."],
+    ["Bygger ni på gamla pråmar?", "Vi bygger om hus på befintliga pråmar om skrovet är i gott skick. Annars föreslår vi att huset flyttas till en ny ponton."],
+    ["Tar ni uppdrag utanför Stockholm?", "Ja, nybyggen levereras på pråm till hela Mälaren och Stockholms skärgård."]
+  ],
+  "prislista": [
+    ["Skrovmätning stålpråm med rapport", "fr. 18 500 kr"],
+    ["Dykinspektion betongponton", "fr. 12 900 kr"],
+    ["Dockning, per vecka", "fr. 24 000 kr"],
+    ["Bogsering till och från dockan", "fr. 9 500 kr"],
+    ["Pontonbyte inklusive lyft", "fr. 1,9 Mkr"],
+    ["Byte av förtöjningskätting", "fr. 14 000 kr"],
+    ["Ny husbåt 80 kvm", "fr. 5,5 Mkr"]
+  ],
+  "certifikat": [
+    {"titel": "Certifierade dykare", "text": "Tre dykare med certifikat enligt Arbetsmiljöverkets föreskrifter för dykeriarbete.", "ikon": "vatten"},
+    {"titel": "EN ISO 9606-1", "text": "Våra svetsare är certifierade för svetsning av konstruktions- och fartygsstål.", "ikon": "eld"},
+    {"titel": "Behörig kontrollansvarig", "text": "Sara Wennberg är certifierad kontrollansvarig enligt plan- och bygglagen.", "ikon": "ritning"},
+    {"titel": "ID06 och kollektivavtal", "text": "All personal har ID06, och vi har kollektivavtal med Byggnads och IF Metall.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Husbåtsföreningen Tantolunden", "Årstavikens Strandfastigheter", "Hammarby Sjöstads Förskolor", "Pampas Husbåtsägare", "Frihamnens Kontorsflytt", "Brf Flytande Liljeholmen", "Liljeholmens Bastuförening"],
+  "nyheter": [
+    ["2026-09-08", "Förskolan på vattnet öppnade", "40 barn och lekdäck med räcke på 1,4 meter.", "stad"],
+    ["2026-06-03", "Dags att mäta pråmen?", "Så vet du om din husbåts skrov behöver kontrolleras i år.", "bat"],
+    ["2026-02-17", "Ny flytdocka i drift", "Nu tar vi husbåtar upp till 180 ton.", "svets"]
+  ],
+  "kontakt": {"adress": "Årstavägen 3", "postnr": "117 43", "ort": "Stockholm", "telefon": "070-174 06 91", "epost": "kontakt@flytbyggarna.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Stockholms innerstad, Mälaren och Stockholms skärgård",
+  "fot_cta": "När mättes skrovet senast? Boka en inspektion av din husbåt.",
+  "bild": {"panel": "bostad", "hb": "bat"},
+  "text": {
+    "kontakt_knapp": "Beställ inspektion",
+    "hero_knapp": "Husbåtar vi bygger",
+    "hero_lank": "Flytande projekt",
+    "vagval_etikett": "På vattnet",
+    "ber_etikett": "Från Årstaviken",
+    "ber_rubrik": "Förskolor, pråmar och dockor",
+    "proj_etikett": "Byggt och dockat",
+    "proj_rubrik": "Hus, kontor och bastur på vattnet",
+    "proj_rubrik_lista": "Flytande byggnader och skrovarbeten",
+    "status_klart": "Förtöjd",
+    "status_pagaende": "I flytdockan",
+    "process_etikett": "Från idé till förtöjning",
+    "process_rubrik": "Fyra steg för ett hus på vattnet",
+    "bolag_etikett": "Avdelningarna",
+    "bolag_rubrik": "Bygg, varv, projektering och sjö",
+    "bolag_kol": ["Avdelning", "Arbetsfält", "Bemanning"],
+    "meny_bolag": "Avdelningarna",
+    "hb_etikett": "Betong och trä",
+    "omdomen_rubrik": "Husbåtsägare och byggherrar",
+    "faq_rubrik": "Om skrov, bygglov och dockning",
+    "priser_etikett": "Vad det kostar",
+    "priser_rubrik": "Vad kostar det att bo på vattnet?",
+    "priser_not": "Riktpriser inklusive moms. Fast pris lämnas efter inspektion.",
+    "boka_rubrik": "Var ligger din husbåt?",
+    "boka_text": "Skriv var husbåten ligger, byggår och om den står på stål eller betong, så föreslår vi en tid för inspektion.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Plats, byggår och skrovtyp"],
+    "logos_rubrik": "Föreningar, fastighetsägare och skolor",
+    "certifikat_rubrik": "Dykare, svetsare och kontrollansvarig",
+    "ny_rubrik": "Nytt från flytdockan",
+    "medarbetare": "Flytbyggarna"
+  }
+}

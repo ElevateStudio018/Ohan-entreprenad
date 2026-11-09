@@ -21,7 +21,7 @@
     {"titel": "B på landsväg", "ikon": "bil", "href": "verksamhet.html", "text": "Grusvägar, viltstängsel och omkörning av långsamma fordon."},
     {"titel": "BE för hästsläp", "ikon": "lada", "href": "verksamhet.html", "text": "Backning med hästtransport och lastning på gårdsplanen."},
     {"titel": "C för spannmål", "ikon": "kran", "href": "verksamhet.html", "text": "Lastbilskörkort för dig som kör spannmål och gödsel under säsong."},
-    {"titel": "Riskettan", "ikon": "skold", "href": "verksamhet.html", "text": "Kvällskurs i Skara med fokus på trötthet under skördetid."},
+    {"titel": "Risk 1 före skörden", "ikon": "skold", "href": "verksamhet.html", "text": "Kvällskurs i Skara med fokus på trötthet under skördetid."},
     {"titel": "Halkan i Lidköping", "ikon": "vag", "href": "verksamhet.html", "text": "Risk 2 på banan i Lidköping, med samåkning från Skara."},
     {"titel": "Gårdskurs", "ikon": "hus", "href": "verksamhet.html", "text": "Vi kommer till er gård och utbildar säsongsarbetarna på plats."},
     {"titel": "Ring Ida", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Hon vet vilka veckor skörden gör det omöjligt att köra."}
@@ -33,7 +33,7 @@
     {"titel": "Lastbil till säsongen", "text": "C-körkort för gårdsfolk som behöver köra spannmål till torken eller gödsel ut på fälten. Vi lägger utbildningen mellan sådd och skörd.", "text2": "YKB behövs inte för transporter i den egna jordbruksverksamheten.", "tagg": "industri"}
   ],
   "bolag": [
-    {"namn": "Bilskolan", "segment": "B och BE", "rubrik": "Fyra bilar, två transporter", "text": "Tre trafiklärare som hämtar vid gymnasiet och ute på gårdarna.", "tagg": "korskola"},
+    {"namn": "Personbilssidan", "segment": "B och BE", "rubrik": "Fyra bilar, två transporter", "text": "Tre trafiklärare som hämtar vid gymnasiet och ute på gårdarna.", "tagg": "korskola"},
     {"namn": "Maskinsidan", "segment": "Traktor och C", "rubrik": "Mattias och John Deeren", "text": "Traktorkort på vår- och höstlov, och lastbil mellan sådd och skörd.", "tagg": "maskin"},
     {"namn": "Kontoret på Skolgatan", "segment": "Teori och bokning", "rubrik": "Ida håller i trådarna", "text": "Bokar provtider i Skövde och planerar runt skördeveckorna.", "tagg": "kontor"}
   ],
@@ -50,10 +50,10 @@
   ],
   "projekt": [
     {"namn": "Lassagården", "ort": "Eggby", "typ": "Gårdskurs", "ar": "2026", "text": "Vägregler och traktorkörning för fem säsongsarbetare, på gården och på svenska och engelska.", "tagg": "maskin", "status": "Pågående"},
-    {"namn": "Axvalls Ridklubb", "ort": "Axvall", "typ": "BE-grupp", "ar": "2025", "text": "Tio medlemmar tog BE inför tävlingssäsongen.", "tagg": "hast"},
-    {"namn": "Slättens Lantmän", "ort": "Skara", "typ": "C-körkort", "ar": "2025", "text": "Tre chaufförer till spannmålsmottagningen, utbildade mellan april och juli.", "tagg": "industri"},
+    {"namn": "Axvalls Ridklubb", "ort": "Axvall", "typ": "Släp för hela klubben", "ar": "2025", "text": "Tio medlemmar tog BE inför tävlingssäsongen.", "tagg": "hast"},
+    {"namn": "Slättens Lantmän", "ort": "Skara", "typ": "Lastbil till torken", "ar": "2025", "text": "Tre chaufförer till spannmålsmottagningen, utbildade mellan april och juli.", "tagg": "industri"},
     {"namn": "Skara kommun, naturbruksgymnasiet", "ort": "Skara", "typ": "Traktorkort", "ar": "2025", "text": "Teoridelen av traktorkortet för alla ettor på lantbruksprogrammet.", "tagg": "maskin"},
-    {"namn": "Varnhems Hembygdsförening", "ort": "Varnhem", "typ": "Riskettan", "ar": "2024", "text": "En risketta i bygdegården för ortens gymnasieungdomar.", "tagg": "people"},
+    {"namn": "Varnhems Hembygdsförening", "ort": "Varnhem", "typ": "Risk 1 i bygdegården", "ar": "2024", "text": "En risketta i bygdegården för ortens gymnasieungdomar.", "tagg": "people"},
     {"namn": "Familjen Andersson i Ardala", "ort": "Ardala", "typ": "Traktor, B och BE", "ar": "2024", "text": "Fyra syskon på samma gård, från traktorkort till hästsläp.", "tagg": "natur"}
   ],
   "process": [
@@ -73,7 +73,7 @@
     "jobb": [["Trafiklärare B och BE, deltid", "Skara"]]
   },
   "kultur": "Under skördeveckorna i augusti stänger vi för nya elever och lånar ut lärarna till grannarnas gårdar.",
-  "citat": {"text": "En femtonåring på en traktor väger tolv ton med vagnen. Det är det tyngsta fordonet de flesta av våra elever kommer att köra i hela sitt liv.", "namn": "Ida Karlsson", "roll": "Grundare och trafiklärare", "tagg": "maskin"},
+  "citat": {"text": "En femtonåring på en traktor väger tolv ton med vagnen. Det är det tyngsta fordonet de flesta av våra elever kommer att köra i hela sitt liv.", "namn": "Ida Karlsson", "roll": "Grundare, uppvuxen på gård", "tagg": "maskin"},
   "omdomen": [
     {"text": "Min son hade kört traktor på gården sedan tolv. Efter kursen förstod han varför man inte svänger in på åkern utan att titta bakåt.", "namn": "Katarina A.", "ort": "Ardala"},
     {"text": "Backningen med transporten var det jag var räddast för. Sista lektionen hade jag min egen häst i och det gick fint.", "namn": "Moa L.", "ort": "Axvall"},
@@ -83,13 +83,13 @@
     ["Vad får jag köra med traktorkort?", "Traktor och motorredskap klass II på allmän väg från 15 år. Tyngre motorredskap och A-traktor kräver andra behörigheter."],
     ["Måste jag ha egen traktor?", "Nej, du kör skolans John Deere med vagn. Har du en egen traktor hemma kan vi göra någon lektion med den."],
     ["Kan jag övningsköra traktor hemma?", "Ja, på egen mark utan begränsning. På allmän väg krävs att du har körkortstillstånd och en handledare."],
-    ["Hur lång tid tar BE?", "De flesta behöver fyra till sex lektioner på 60 minuter, plus körprov hos Trafikverket."],
+    ["Hur många lektioner krävs för BE?", "De flesta behöver fyra till sex lektioner på 60 minuter, plus körprov hos Trafikverket."],
     ["Behöver jag YKB för C?", "Inte om du bara kör inom ditt eget jordbruk. Kör du åt andra mot betalning behövs YKB."],
     ["Kan ni komma till vår gård?", "Ja, gårdskursen håller vi på plats för minst tre deltagare. Resan ingår inom fem mil från Skara."]
   ],
   "priser": [
     {"namn": "Traktorkort", "pris": "4 900 kr", "enhet": "teori och körning", "text": "Allt fram till proven i Skövde.", "punkter": ["Tre teorikvällar", "Fyra körpass med traktor och vagn", "Lån av traktor till körprovet", "Övningsprov på nätet"], "utvald": true},
-    {"namn": "BE med hästtransport", "pris": "6 400 kr", "enhet": "fem lektioner och prov", "text": "Med skolans transport eller din egen.", "punkter": ["Fem lektioner à 60 minuter", "Backning och koppling", "Lastning på gårdsplan", "Lån av ekipage till körprovet"]},
+    {"namn": "BE med hästtransport", "pris": "6 400 kr", "enhet": "fem lektioner och prov", "text": "Med skolans transport eller din egen.", "punkter": ["5 × 60 minuter körning", "Backning och koppling", "Lastning på gårdsplan", "Skolans ekipage vid provet"]},
     {"namn": "Körlektion B", "pris": "690 kr", "enhet": "per 40 minuter", "text": "Hämtning vid gymnasiet eller gårdsinfarten.", "punkter": ["Hämtning inom tre mil", "Grusväg och riksväg", "Mörkerkörning på hösten", "Lektioner även på lördagar"]}
   ],
   "certifikat": [
@@ -122,10 +122,10 @@
     "bolag_etikett": "Vi sju",
     "bolag_rubrik": "Bil, maskin och kontor",
     "hb_etikett": "Säkerhet på landsväg",
-    "priser_etikett": "Kurser",
+    "priser_etikett": "Kursutbud",
     "priser_rubrik": "Traktorkortet är vårt mest bokade",
     "priser_utvald": "Flest bokar",
-    "priser_not": "Priser inklusive moms. Trafikverkets provavgifter betalas separat.",
+    "priser_not": "Moms finns med i priset. Provavgifterna till Trafikverket betalas för sig.",
     "omdomen_rubrik": "Från gårdarna runt Skara",
     "faq_rubrik": "Om traktorkort och släp",
     "boka_rubrik": "Berätta vad du kör hemma",

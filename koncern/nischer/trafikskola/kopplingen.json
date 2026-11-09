@@ -33,7 +33,7 @@
     {"titel": "Hästtransport och arbetssläp", "text": "BE med hästtransport, maskinsläp eller timmerkärra. Vi väger alltid ekipaget innan första lektionen, eftersom var tredje elev kör för tungt utan att veta om det.", "text2": "Vägningen på planen kostar ingenting, även för den som inte går hos oss.", "tagg": "hast"}
   ],
   "bolag": [
-    {"namn": "Lars-Göran Nyberg", "segment": "Grundare och lärare", "rubrik": "Sålde husvagnar i tjugo år", "text": "Undervisar i husvagn och håller i den obligatoriska B96-utbildningen.", "tagg": "people"},
+    {"namn": "Lars-Göran Nyberg", "segment": "Grundare, lär ut husvagn", "rubrik": "Sålde husvagnar i tjugo år", "text": "Undervisar i husvagn och håller i den obligatoriska B96-utbildningen.", "tagg": "people"},
     {"namn": "Båtsidan", "segment": "Trailer och ramp", "rubrik": "Josefin vid vattnet", "text": "Seglar själv och vet hur en trailer beter sig när den börjar flyta.", "tagg": "bat"},
     {"namn": "Husbilssidan", "segment": "C1", "rubrik": "Ahmad och Torbjörn", "text": "Två lärare med C-behörighet som delar husbilen och dragbilarna.", "tagg": "korskola"}
   ],
@@ -52,7 +52,7 @@
     {"namn": "Kalmarsunds Husvagnsklubb", "ort": "Kalmar", "typ": "Backningsdag", "ar": "2026", "text": "Fyrtio medlemmar backade sin egen vagn på planen en lördag i maj.", "tagg": "korskola", "status": "Pågående"},
     {"namn": "Revsuddens Båtklubb", "ort": "Revsudden", "typ": "Rampkurs", "ar": "2025", "text": "Sjösättningskurs för nya medlemmar, tre kvällar i april.", "tagg": "bat"},
     {"namn": "Ölands Turistcamping", "ort": "Färjestaden", "typ": "BE", "ar": "2025", "text": "Fyra campingvärdar fick behörighet att flytta uthyrningsvagnar.", "tagg": "korskola"},
-    {"namn": "Smedby Ryttarförening", "ort": "Smedby", "typ": "BE-grupp", "ar": "2025", "text": "Åtta ryttare tog BE med föreningens egen hästtransport.", "tagg": "hast"},
+    {"namn": "Smedby Ryttarförening", "ort": "Smedby", "typ": "BE för ryttare", "ar": "2025", "text": "Åtta ryttare tog BE med föreningens egen hästtransport.", "tagg": "hast"},
     {"namn": "Kalmar kommun, park och gata", "ort": "Kalmar", "typ": "B96", "ar": "2024", "text": "Tolv parkarbetare som drar gräsklipparsläp fick B96.", "tagg": "stad"},
     {"namn": "Husbilsträffen i Borgholm", "ort": "Borgholm", "typ": "Vägning", "ar": "2024", "text": "Vi vägde 96 husbilar på två dagar – 38 var överlastade.", "tagg": "stad"}
   ],
@@ -73,7 +73,7 @@
     "jobb": [["Trafiklärare BE, säsong", "Kalmar"]]
   },
   "kultur": "Varje fredag avslutar lärarna med att backa en trailer runt koner på planen – den som rör flest bjuder på glass.",
-  "citat": {"text": "Jag sålde husvagnar i tjugo år och såg kunder köra därifrån med 400 kilo för mycket. Nu får jag göra något åt det.", "namn": "Lars-Göran Nyberg", "roll": "Grundare och trafiklärare", "tagg": "people"},
+  "citat": {"text": "Jag sålde husvagnar i tjugo år och såg kunder köra därifrån med 400 kilo för mycket. Nu får jag göra något åt det.", "namn": "Lars-Göran Nyberg", "roll": "Grundare, före detta husvagnshandlare", "tagg": "people"},
   "omdomen": [
     {"text": "Vi hade köpt en husvagn och trodde att vårt körkort räckte. Vågen visade 180 kilo för mycket – två lektioner senare hade jag B96.", "namn": "Henrik S.", "ort": "Kalmar"},
     {"text": "Tre sjösättningar i Revsudden och jag backar nu ner vår trailer på Borgholms ramp utan publik som skrattar.", "namn": "Sanna V.", "ort": "Borgholm"},
@@ -119,13 +119,13 @@
     "proj_rubrik": "Husvagnar, båtar och hästar vi backat",
     "process_etikett": "Lektionerna",
     "process_rubrik": "Från våg till Ölandsbron",
-    "bolag_etikett": "Lärarna",
+    "bolag_etikett": "Vi som lär ut",
     "bolag_rubrik": "Husvagn, båt och husbil",
     "hb_etikett": "Vikt och säkerhet",
-    "priser_etikett": "Behörigheter",
+    "priser_etikett": "Välj behörighet",
     "priser_rubrik": "Tre vägar till rätt körkort",
     "priser_utvald": "Vanligast för husvagn",
-    "priser_not": "Moms ingår. Trafikverkets avgift för körprov BE och C1 tillkommer.",
+    "priser_not": "Moms är inräknad. Trafikverkets avgift för körprov tillkommer.",
     "omdomen_rubrik": "Husvagnsägare och båtfolk",
     "faq_rubrik": "Om vikter och behörigheter",
     "boka_rubrik": "Vad väger ditt ekipage?",

@@ -50,10 +50,10 @@
     {"varde": "0", "enhet": "kr", "etikett": "Provision från säljare eller varv"}
   ],
   "projekt": [
-    {"namn": "Köpbesiktning av en 34-fotare", "ort": "Motala", "typ": "Köpbesiktning", "ar": "2026", "text": "Blöt däckskärna upptäcktes, och köpet genomfördes med 180 000 kr i prisavdrag.", "tagg": "bat", "status": "Klart"},
+    {"namn": "Köpbesiktning av en 34-fotare", "ort": "Motala", "typ": "Köpbesiktning", "ar": "2026", "text": "Blöt däckskärna upptäcktes, och köpet genomfördes med 180 000 kr i prisavdrag.", "tagg": "bat", "status": "Rapporterad"},
     {"namn": "Brandskada i Karlsborg", "ort": "Karlsborg", "typ": "Skadebesiktning", "ar": "2025", "text": "Brandorsaken spårades till en felaktigt monterad laddare – rapporten avgjorde försäkringsärendet.", "tagg": "el"},
     {"namn": "Bodelning med två båtar", "ort": "Jönköping", "typ": "Värdering", "ar": "2025", "text": "Värderingsintyg för en motorbåt och en segelbåt inför en bodelning.", "tagg": "kontor"},
-    {"namn": "Motoranalys på en Nimbus", "ort": "Hjo", "typ": "Teknisk analys", "ar": "2026", "text": "Oljeprovet visade kylvätska i oljan – en spräckt topplockspackning upptäcktes före köpet.", "tagg": "maskin", "status": "Klart"},
+    {"namn": "Motoranalys på en Nimbus", "ort": "Hjo", "typ": "Teknisk analys", "ar": "2026", "text": "Oljeprovet visade kylvätska i oljan – en spräckt topplockspackning upptäcktes före köpet.", "tagg": "maskin", "status": "Rapporterad"},
     {"namn": "Grundstötning vid Visingsö", "ort": "Gränna", "typ": "Skadebesiktning", "ar": "2025", "text": "Kölinfästning och bottenstockar bedömdes och åtgärdsförslag skrevs till varvet.", "tagg": "bat"},
     {"namn": "Uthyrningsflotta på Vättern", "ort": "Vadstena", "typ": "Årsbesiktning", "ar": "2024", "text": "Åtta hyrbåtar besiktades inför säsongen åt en båtuthyrare.", "tagg": "bat"}
   ],
@@ -61,7 +61,7 @@
     {"titel": "Beställning", "text": "Du skickar båtannonsen eller båtens uppgifter och vad besiktningen ska användas till.", "tagg": "kontor"},
     {"titel": "Besiktning på plats", "text": "Vi besiktar båten där den står, på land eller i sjön, och provkör när det går.", "tagg": "bat"},
     {"titel": "Genomgång", "text": "Du får ringa besiktningsmannen direkt efteråt och gå igenom det viktigaste.", "tagg": "people"},
-    {"titel": "Rapport", "text": "Skriftlig rapport med bilder, mätvärden och kostnadsbedömning inom 48 timmar.", "tagg": "kontor"}
+    {"titel": "Skriftlig rapport", "text": "Skriftlig rapport med bilder, mätvärden och kostnadsbedömning inom 48 timmar.", "tagg": "kontor"}
   ],
   "hallbarhet": {
     "rubrik": "Oberoende är hela affärsidén",
@@ -120,12 +120,12 @@
     "proj_etikett": "Ärenden",
     "proj_rubrik": "Besiktningar som gjorde skillnad",
     "proj_rubrik_lista": "Besiktningar, värderingar och skador",
-    "status_klart": "Klart",
+    "status_klart": "Rapporterad",
     "process_etikett": "En besiktning",
     "process_rubrik": "Från annons till rapport",
     "bolag_etikett": "Kompetens",
     "bolag_rubrik": "Fyra specialiteter, sex besiktningsmän",
-    "bolag_kol": ["Område", "Vem", "Vad vi bedömer"],
+    "bolag_kol": ["Specialitet", "Vem", "Vad vi bedömer"],
     "meny_bolag": "Kompetens",
     "hb_etikett": "Oberoende",
     "hb_lank": "Så undviker vi jäv",
@@ -139,7 +139,7 @@
     "boka_rubrik": "Vilken båt ska besiktas?",
     "boka_text": "Skicka länk till annonsen eller båtens uppgifter och var den står, så föreslår vi en tid.",
     "boka_falt": ["Namn", "Telefon", "E-post", "Båt, plats och syfte"],
-    "logos_rubrik": "Uppdragsgivare",
+    "logos_rubrik": "Försäkringsbolag, uthyrare och advokater",
     "certifikat_rubrik": "Certifierade och försäkrade besiktningsmän",
     "ny_rubrik": "Råd till båtköpare",
     "medarbetare": "Besiktningsmännen"

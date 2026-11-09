@@ -10,7 +10,7 @@
   "slogan": "Nio av tio råttor i ett hus i stan har kommit genom avloppet – vi filmar ledningarna, hittar skadan och monterar en spärr som stänger vägen för gott.",
   "hero_rubrik": "Råttan kom genom toaletten. Inte igen.",
   "hero_text": "Spärren är rörinspektörer och skadedjurstekniker i samma bil. Vi kör kamera i avloppet, lokaliserar trasiga rör och monterar råttspärrar i villor, flerbostadshus och kommunala ledningsnät.",
-  "intro_rubrik": "Där fällorna inte räcker",
+  "intro_rubrik": "Problemet sitter i röret",
   "om": [
     "Spärren startades 2015 av Jimmy Karlberg, rörläggare från Vänersborg, och Petra Alm, som då arbetade med avloppsnätet på Trollhättans kommun. Petra såg att samma fastigheter fick råttbesök år efter år trots fällor och gift, och Jimmy visste varför: råttorna kom upp genom spruckna rör och skarvar som ingen hade filmat.",
     "I dag är vi fjorton anställda med sex servicebilar som alla har spolutrustning, rörkamera och ett lager av råttspärrar i olika dimensioner. Vi arbetar åt villaägare, bostadsrättsföreningar och fem kommuner i Fyrbodal, och har monterat över 3 100 spärrar sedan starten."
@@ -28,14 +28,14 @@
   ],
   "affarsomraden": [
     {"titel": "Villor och radhus", "text": "En råtta som har tagit sig upp genom golvbrunnen kommer tillbaka samma väg. Vi filmar ledningen, visar filmen för dig på plats och monterar en spärr i närmaste rensbrunn.", "text2": "Arbetet berättigar till ROT-avdrag, och spärren har tio års garanti.", "tagg": "hem"},
-    {"titel": "Bostadsrättsföreningar", "text": "I ett flerbostadshus kan en enda sprucken bottenledning släppa in råttor i tjugo lägenheter. Vi filmar hela källarplanet och lämnar en rapport med åtgärdsförslag till styrelsen.", "text2": "Rapporten kan användas som underlag för kommande stambyte.", "tagg": "bostad"},
+    {"titel": "Föreningar och samfälligheter", "text": "I ett flerbostadshus kan en enda sprucken bottenledning släppa in råttor i tjugo lägenheter. Vi filmar hela källarplanet och lämnar en rapport med åtgärdsförslag till styrelsen.", "text2": "Rapporten kan användas som underlag för kommande stambyte.", "tagg": "bostad"},
     {"titel": "Kommuner och VA-bolag", "text": "Råttor i huvudledningarna syns först när invånarna börjar ringa. Vi kartlägger förekomsten med kamera och betesstationer i brunnarna och lägger in resultatet i kommunens ledningskarta.", "text2": "Fem kommuner i Fyrbodal har ramavtal med oss.", "tagg": "infra"},
     {"titel": "Restauranger och industri", "text": "Fettavskiljare och golvbrunnar i storkök drar till sig råttor från nätet. Vi kombinerar spolning, filmning och spärrar så att köket slipper oväntade gäster.", "text2": "Efter åtgärd lämnar vi ett intyg till miljöförvaltningen.", "tagg": "vvs"}
   ],
   "bolag": [
     {"namn": "Servicebilarna", "segment": "Nio tekniker i sex bilar", "rubrik": "Spolning, kamera och spärr i samma besök", "text": "Varje tekniker är både utbildad rörinspektör och har biocidbehörighet, så kunden behöver aldrig vänta på en andra firma.", "tagg": "vvs"},
     {"namn": "Ledningsnät", "segment": "Petra Alm och två tekniker", "rubrik": "Kommunernas råttor", "text": "Planerar och utför kartläggningar av huvudledningar åt kommuner och VA-bolag, och redovisar i deras GIS-system.", "tagg": "infra"},
-    {"namn": "Kontoret", "segment": "Två medarbetare i Trollhättan", "rubrik": "Bokning och ROT", "text": "Bokar besök, skickar filmlänkar till kunderna och sköter ROT-ansökningarna mot Skatteverket.", "tagg": "kontor"}
+    {"namn": "Bokningen", "segment": "Två medarbetare i Trollhättan", "rubrik": "Bokning och ROT", "text": "Bokar besök, skickar filmlänkar till kunderna och sköter ROT-ansökningarna mot Skatteverket.", "tagg": "kontor"}
   ],
   "berattelser": [
     {"rubrik": "3 100 spärrar monterade", "text": "Under oktober monterade vi spärr nummer 3 100 – i en villa i Lilla Edet.", "tagg": "vvs"},
@@ -97,7 +97,7 @@
   "certifikat": [
     {"titel": "Säker Vatten-auktoriserade", "text": "Företaget är auktoriserat enligt branschreglerna Säker Vatten för arbete med avloppsinstallationer.", "ikon": "vatten"},
     {"titel": "Certifierade rörinspektörer", "text": "Alla tekniker är utbildade och certifierade för TV-inspektion av avloppsledningar.", "ikon": "kamera"},
-    {"titel": "Biocidbehörighet", "text": "Teknikerna har Kemikalieinspektionens behörighet för yrkesmässig bekämpning av råttor.", "ikon": "skold"},
+    {"titel": "Behöriga för råttbekämpning", "text": "Teknikerna har Kemikalieinspektionens behörighet för yrkesmässig bekämpning av råttor.", "ikon": "skold"},
     {"titel": "Arbete i trafikmiljö", "text": "Utbildade enligt Trafikverkets krav för arbete på väg vid brunnar i gatumark.", "ikon": "vag"}
   ],
   "kunder": ["Trollhättans kommun, VA-avdelningen", "Vänersborgs Vatten", "Uddevalla kommun, teknisk förvaltning", "Brf Kronogården Västra", "Lilla Edets Bostäder", "Melleruds kommun", "Samfälligheten Älvstranden", "Grästorps Fastighets AB"],
@@ -121,7 +121,7 @@
     "faq_rubrik": "Frågor om råttor och avlopp",
     "priser_rubrik": "Filmning och spärr till fast pris",
     "priser_utvald": "Vanligast för villor",
-    "priser_not": "Priser inklusive moms och före ROT-avdrag på arbetskostnaden.",
+    "priser_not": "Moms ingår, priserna gäller före ROT-avdrag på arbetskostnaden.",
     "boka_rubrik": "Beställ en rörfilmning",
     "boka_text": "Skriv adressen och var råttan har synts – golvbrunn, toalett eller källare. Vi ringer upp och föreslår en tid inom en vecka.",
     "boka_falt": ["Namn", "Telefon", "E-post", "Adress och var råttan syntes"],

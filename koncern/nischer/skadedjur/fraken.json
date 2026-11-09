@@ -34,8 +34,8 @@
   ],
   "bolag": [
     {"namn": "Fräken Karlstad", "segment": "Elva tekniker", "rubrik": "Huvudkontor och centrallager", "text": "Täcker Karlstad, Hammarö, Forshaga och Grums. Här sitter också kundtjänsten och appteamet.", "tagg": "kontor"},
-    {"namn": "Fräken Arvika", "segment": "Fyra tekniker", "rubrik": "Västra Värmland", "text": "Kör från Arvika ut till Eda, Årjäng och Glaskogen – med många fritidshus och lika många möss.", "tagg": "natur"},
-    {"namn": "Fräken Kristinehamn", "segment": "Fyra tekniker", "rubrik": "Östra Värmland", "text": "Öppnade 2024 och sköter Kristinehamn, Storfors och Filipstad med Bergslagens gamla trähus.", "tagg": "hem"},
+    {"namn": "Fräken Arvika", "segment": "Fyra tekniker och två bilar", "rubrik": "Västra Värmland", "text": "Kör från Arvika ut till Eda, Årjäng och Glaskogen – med många fritidshus och lika många möss.", "tagg": "natur"},
+    {"namn": "Fräken Kristinehamn", "segment": "Fyra tekniker, öppnat 2024", "rubrik": "Östra Värmland", "text": "Öppnade 2024 och sköter Kristinehamn, Storfors och Filipstad med Bergslagens gamla trähus.", "tagg": "hem"},
     {"namn": "Kundtjänst och app", "segment": "Sju medarbetare", "rubrik": "Svarar inom två minuter", "text": "Bokar besök, besvarar frågor i chatten och följer upp varje ärende tills kunden har bekräftat att det är löst.", "tagg": "people"}
   ],
   "berattelser": [
@@ -71,10 +71,10 @@
   "karriar": {
     "rubrik": "Vi växer med 1 500 villor om året",
     "text": "Det betyder fyra nya tekniker per år. Du får elbil, telefon och betald behörighetsutbildning, och arbetar dagtid med fasta rutter nära hemmet.",
-    "jobb": [["Skadedjurstekniker", "Karlstad"], ["Skadedjurstekniker", "Arvika"], ["Kundtjänst, sommar", "Karlstad"]]
+    "jobb": [["Tekniker villaabonnemang", "Karlstad"], ["Tekniker villaabonnemang", "Arvika"], ["Kundtjänst, sommar", "Karlstad"]]
   },
   "kultur": "Teknikerna har egna rutter, så samma person brukar komma till samma villa år efter år.",
-  "citat": {"text": "Vi sålde larm i fem år och lärde oss att folk betalar gärna lite varje månad för att slippa oroa sig. Varför skulle det vara annorlunda med möss?", "namn": "Nora Säfström", "roll": "Medgrundare och vd", "tagg": "people"},
+  "citat": {"text": "Vi sålde larm i fem år och lärde oss att folk betalar gärna lite varje månad för att slippa oroa sig. Varför skulle det vara annorlunda med möss?", "namn": "Nora Säfström", "roll": "Vd och delägare", "tagg": "people"},
   "omdomen": [
     {"text": "Förra hösten kostade en musinvasion oss 3 800 kronor. Nu betalar vi 89 kronor i månaden och har inte sett en enda.", "namn": "Kristoffer A.", "ort": "Karlstad"},
     {"text": "Tre getingbon i somras, alla borta samma dag. Och det kostade ingenting extra.", "namn": "Marie L.", "ort": "Grums"},
@@ -85,18 +85,18 @@
     ["Finns det någon bindningstid?", "De första tre månaderna är bindande. Därefter kan du säga upp abonnemanget med en månads varsel."],
     ["Gäller det för radhus och parhus?", "Ja, samma pris för villor, radhus och parhus upp till 250 kvadratmeter. Större hus kostar 119 kronor i månaden."],
     ["Vad ingår inte?", "Vägglöss, kackerlackor, fåglar och större tätningsarbeten. De offereras separat till abonnentpris."],
-    ["Hur snabbt kommer ni?", "Inom tre vardagar för vanliga ärenden och samma dag om ett djur är inne i bostaden."],
+    ["Hur lång är väntetiden?", "Inom tre vardagar för vanliga ärenden och samma dag om ett djur är inne i bostaden."],
     ["Kan jag använda hemförsäkringen i stället?", "Många hemförsäkringar täcker råttor och möss men med självrisk och begränsningar. Med abonnemanget betalar du ingen självrisk alls."],
     ["Måste jag vara hemma vid besöken?", "Vid höst- och vårbesöken räcker det att tomten är tillgänglig. Vid utryckningar inomhus behöver någon öppna."]
   ],
   "priser": [
-    {"namn": "Villa", "pris": "89 kr", "enhet": "per månad", "text": "Hus upp till 250 m².", "punkter": ["Två förebyggande besök per år", "Fria utryckningar för gnagare och myror", "Alla getingbon på tomten", "Protokoll och bilder i appen"], "utvald": true},
+    {"namn": "Villa", "pris": "89 kr", "enhet": "per månad", "text": "Hus upp till 250 m².", "punkter": ["Förebyggande besök vår och höst", "Fria utryckningar för gnagare och myror", "Alla getingbon på tomten", "Protokoll och bilder i appen"], "utvald": true},
     {"namn": "Stor villa eller gård", "pris": "119 kr", "enhet": "per månad", "text": "Hus över 250 m² eller med uthus.", "punkter": ["Allt i Villa", "Garage, förråd och uthus ingår", "Fyra låsta stationer utomhus", "Prioriterad bokning i getingsäsong"]},
     {"namn": "Tillägg fritidshus", "pris": "39 kr", "enhet": "per månad", "text": "En stuga inom Värmlands län.", "punkter": ["Besök vid höststängning", "Besök vid vårens öppning", "Fria utryckningar", "Kräver villaabonnemang"]}
   ],
   "prislista": [["Utryckning utan abonnemang", "2 450 kr"], ["Getingbo utan abonnemang", "1 290 kr"], ["Extra tätning, per timme", "590 kr"], ["Råttsäker kompostbehållare", "1 890 kr"], ["Samfällighet, per hus och månad", "fr. 69 kr"], ["Vägglöss, abonnentpris", "fr. 6 900 kr"]],
   "certifikat": [
-    {"titel": "Kemikalieinspektionens behörighet", "text": "Alla 19 tekniker har behörighet för yrkesmässig bekämpning med biocider.", "ikon": "skold"},
+    {"titel": "Behöriga tekniker i alla bilar", "text": "Alla 19 tekniker har behörighet för yrkesmässig bekämpning med biocider.", "ikon": "skold"},
     {"titel": "Konsumentverkets riktlinjer", "text": "Abonnemangsvillkoren följer reglerna för distansavtal, med 14 dagars ångerrätt.", "ikon": "dokument"},
     {"titel": "Ansvarsförsäkring", "text": "Försäkrade för skador vid tätningsarbete och för ingrepp i fasad och grund.", "ikon": "las"},
     {"titel": "Utdrag ur belastningsregistret", "text": "Alla som går in i kunders hem har lämnat registerutdrag vid anställning.", "ikon": "nyckel"}
@@ -122,7 +122,7 @@
     "faq_rubrik": "Allt om abonnemanget",
     "priser_rubrik": "Ett fast pris varje månad",
     "priser_utvald": "Flest abonnenter",
-    "priser_not": "Priser inklusive moms. Första månaden gratis, tre månaders bindningstid.",
+    "priser_not": "Moms ingår. Första månaden gratis, tre månaders bindningstid.",
     "boka_rubrik": "Teckna eller ställ en fråga",
     "boka_text": "Skriv din adress och ungefär hur stort huset är. Kundtjänsten ringer upp samma dag och bokar startbesöket.",
     "boka_falt": ["Namn", "Telefon", "E-post", "Adress och husets storlek"],

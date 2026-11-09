@@ -23,7 +23,7 @@
     {"titel": "Kör från rullstolen", "ikon": "vard", "href": "verksamhet.html", "text": "Ramp in och lås fast rullstolen på förarplatsen."},
     {"titel": "Provkörning", "ikon": "sok", "href": "verksamhet.html", "text": "Testa alla fem bilarna innan du och arbetsterapeuten väljer."},
     {"titel": "Intensivvecka", "ikon": "kalender", "href": "verksamhet.html", "text": "Tio lektioner på fem dagar, med tillgängligt hotell nära skolan."},
-    {"titel": "Risk 1 och 2", "ikon": "skold", "href": "verksamhet.html", "text": "Riskettan i tillgänglig lokal och halkbanan i anpassad bil."},
+    {"titel": "Halka i anpassad bil", "ikon": "skold", "href": "verksamhet.html", "text": "Riskettan i tillgänglig lokal och halkbanan i anpassad bil."},
     {"titel": "Prata med Sofia", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Hon har arbetat med både rehab och trafik."}
   ],
   "affarsomraden": [
@@ -33,7 +33,7 @@
     {"titel": "Tillbaka efter skada", "text": "För dig som hade körkort före en skada eller sjukdom och nu behöver köra med anpassning. Det räcker ofta med fem till tio lektioner för att vänja sig vid den nya bilen.", "text2": "Vi samarbetar med Trafikverkets utredare vid prov med ändrade villkor.", "tagg": "korskola"}
   ],
   "bolag": [
-    {"namn": "Lärarna", "segment": "Sex trafiklärare", "rubrik": "Utbildade i anpassning", "text": "Alla kan köra alla fem bilar och växla mellan dem samma dag.", "tagg": "korskola"},
+    {"namn": "Lärarstaben", "segment": "Sex trafiklärare", "rubrik": "Utbildade i anpassning", "text": "Alla kan köra alla fem bilar och växla mellan dem samma dag.", "tagg": "korskola"},
     {"namn": "Bedömningen", "segment": "Sofia och arbetsterapeuterna", "rubrik": "Rätt bil innan rätt lektion", "text": "Provkörningar och bedömningar tillsammans med regionernas arbetsterapeuter.", "tagg": "people"},
     {"namn": "Bilparken", "segment": "Fem anpassade bilar", "rubrik": "Daniel håller dem i skick", "text": "Ansvarar för service, anpassningar och kontakten med fordonsanpassarna.", "tagg": "korskola"}
   ],
@@ -51,15 +51,15 @@
   "projekt": [
     {"namn": "Region Örebro län, hjälpmedel", "ort": "Örebro", "typ": "Provkörningar", "ar": "2026", "text": "Bedömning av rätt anpassning innan bilstöd söks, tillsammans med arbetsterapeuter.", "tagg": "people", "status": "Pågående"},
     {"namn": "Region Värmland, rehab", "ort": "Karlskoga", "typ": "Intensivveckor", "ar": "2025", "text": "Fyra unga vuxna med ryggmärgsskada tog körkort under hösten.", "tagg": "korskola"},
-    {"namn": "Tybblegymnasiet, anpassad studiegång", "ort": "Örebro", "typ": "B-körkort", "ar": "2025", "text": "Körkortsutbildning på skoltid för elever i årskurs 3.", "tagg": "korskola"},
+    {"namn": "Tybblegymnasiet, anpassad studiegång", "ort": "Örebro", "typ": "Körkort på skoltid", "ar": "2025", "text": "Körkortsutbildning på skoltid för elever i årskurs 3.", "tagg": "korskola"},
     {"namn": "Mellansvenska Fordonsanpassning", "ort": "Kumla", "typ": "Samarbete", "ar": "2025", "text": "Gemensam provbil med ny typ av elektronisk gas och broms.", "tagg": "industri"},
     {"namn": "Örebro Parasport", "ort": "Örebro", "typ": "Tillbaka efter skada", "ar": "2024", "text": "Sex idrottare vande sig vid nya anpassningar inför säsongen.", "tagg": "people"},
-    {"namn": "Lindesbergs kommun, LSS", "ort": "Lindesberg", "typ": "Riskettan", "ar": "2024", "text": "En tillgänglig risketta för ungdomar i kommunens LSS-verksamhet.", "tagg": "stad"}
+    {"namn": "Lindesbergs kommun, LSS", "ort": "Lindesberg", "typ": "Tillgänglig risketta", "ar": "2024", "text": "En tillgänglig risketta för ungdomar i kommunens LSS-verksamhet.", "tagg": "stad"}
   ],
   "process": [
     {"titel": "Samtal och journal", "text": "Vi pratar om din funktion och, om du vill, med din arbetsterapeut eller läkare.", "tagg": "people"},
     {"titel": "Provkörning i fem bilar", "text": "Två timmar på övningsplanen vid Gustavsvik för att hitta rätt anpassning.", "tagg": "korskola"},
-    {"titel": "Lektioner i din anpassning", "text": "Samma lärare och samma bil hela vägen, med vila när kroppen behöver det.", "tagg": "korskola"},
+    {"titel": "Lektioner i din anpassning", "text": "En och samma lärare och bil genom hela utbildningen, med vila när kroppen behöver det.", "tagg": "korskola"},
     {"titel": "Körprov och egen bil", "text": "Körprov med villkor för anpassningen, och hjälp med att beställa din egen bil.", "tagg": "stad"}
   ],
   "hallbarhet": {
@@ -70,10 +70,10 @@
   "karriar": {
     "rubrik": "Trafiklärare med intresse för anpassning",
     "text": "Vi söker en trafiklärare som vill lära sig handreglage, styrkula och rullstolsbil. Vi betalar utbildningen i fordonsanpassning, och vårderfarenhet är meriterande.",
-    "jobb": [["Trafiklärare B", "Örebro"]]
+    "jobb": [["Trafiklärare med anpassning", "Örebro"]]
   },
   "kultur": "Varje ny lärare kör en hel vecka med handreglage innan första eleven – det är det bästa sättet att förstå vad eleverna lär sig.",
-  "citat": {"text": "Jag åkte tjugo mil enkel väg för varje lektion när jag tog körkort. Ingen ska behöva det bara för att man sitter i rullstol.", "namn": "Daniel Öberg", "roll": "Medgrundare", "tagg": "people"},
+  "citat": {"text": "Jag åkte tjugo mil enkel väg för varje lektion när jag tog körkort. Ingen ska behöva det bara för att man sitter i rullstol.", "namn": "Daniel Öberg", "roll": "Medgrundare och bilansvarig", "tagg": "people"},
   "omdomen": [
     {"text": "Provkörningen gjorde att vi valde styrkula i stället för det arbetsterapeuten först föreslog. Det var helt rätt.", "namn": "Elin R.", "ort": "Kiruna"},
     {"text": "Efter olyckan trodde jag aldrig att jag skulle köra igen. Åtta lektioner med handreglage, och nu kör jag till jobbet.", "namn": "Martin B.", "ort": "Örebro"},
@@ -81,15 +81,15 @@
   ],
   "faq": [
     ["Måste jag ha bilstöd för att börja?", "Nej. Du övar i våra bilar, och provkörningen hjälper dig att veta vilken anpassning du ska söka bilstöd för."],
-    ["Behöver jag läkarintyg?", "Ja, Transportstyrelsen kräver ofta ett läkarintyg vid ansökan om körkortstillstånd. Vi hjälper dig förstå vad som behövs."],
+    ["Krävs det läkarintyg?", "Ja, Transportstyrelsen kräver ofta ett läkarintyg vid ansökan om körkortstillstånd. Vi hjälper dig förstå vad som behövs."],
     ["Hur många lektioner tar det?", "Det varierar mycket. Många behöver 30–50 lektioner, men den som har kört tidigare klarar sig ofta med färre."],
     ["Kan jag köra upp i er bil?", "Ja, körprovet görs i den bil du har övat i, och villkoret på körkortet anger vilken anpassning du behöver."],
     ["Bor ni nära tillgängligt hotell?", "Ja, vi har avtal med ett hotell vid Järntorget med anpassade rum och tio minuters promenad till skolan."],
-    ["Kan regionen eller Försäkringskassan betala?", "Ibland. Försäkringskassan kan i vissa fall ge bidrag till körkortsutbildning för den som får bilstöd. Vi hjälper dig med ansökan."]
+    ["Kan regionen eller Försäkringskassan betala?", "Det kan de. Försäkringskassan kan i vissa fall ge bidrag till körkortsutbildning för den som får bilstöd. Vi hjälper dig med ansökan."]
   ],
   "priser": [
     {"namn": "Provkörning", "pris": "2 200 kr", "enhet": "två timmar, alla bilar", "text": "Hitta rätt anpassning innan du bestämmer dig.", "punkter": ["Alla fem bilarna", "Arbetsterapeut får delta", "Skriftlig rekommendation", "Inget körkortstillstånd krävs"], "utvald": true},
-    {"namn": "Lektion med anpassning", "pris": "890 kr", "enhet": "per 60 minuter", "text": "I den bil som passar dig.", "punkter": ["Samma lärare hela vägen", "Tid för vila och paus", "Tillgänglig upphämtning", "Avbokning dagen före utan kostnad"]},
+    {"namn": "Lektion med anpassning", "pris": "890 kr", "enhet": "per 60 minuter", "text": "I den bil som passar dig.", "punkter": ["Fast lärare och fast bil", "Tid för vila och paus", "Tillgänglig upphämtning", "Ingen avgift vid avbokning dagen innan"]},
     {"namn": "Intensivvecka", "pris": "9 400 kr", "enhet": "tio lektioner på fem dagar", "text": "För dig som kommer långt ifrån.", "punkter": ["Två lektioner om dagen", "Bokning av tillgängligt hotell", "Teorigenomgång på eftermiddagen", "Plan för nästa vecka"]}
   ],
   "certifikat": [
@@ -125,7 +125,7 @@
     "priser_etikett": "Kostnader",
     "priser_rubrik": "Börja med att prova bilarna",
     "priser_utvald": "Första steget",
-    "priser_not": "Moms ingår. Trafikverkets provavgifter tillkommer, liksom hotell vid intensivveckor.",
+    "priser_not": "Med moms. Trafikverkets provavgifter och hotell vid intensivveckor tillkommer.",
     "omdomen_rubrik": "Förare och arbetsterapeuter",
     "faq_rubrik": "Om anpassning, intyg och stöd",
     "boka_rubrik": "Berätta om din situation",

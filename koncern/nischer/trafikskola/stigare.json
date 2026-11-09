@@ -30,7 +30,7 @@
     {"titel": "Personbil på nio orter", "text": "Kursplanen är densamma i Sala som i Strängnäs, med 14 delmål som läraren bockar av i appen. Flyttar du till studier eller jobb fortsätter du på en annan skola utan att börja om.", "text2": "Vi har automatbilar på alla orter och manuella bilar på alla utom Fagersta.", "tagg": "korskola"},
     {"titel": "Tung trafik och YKB", "text": "Lastbilsskolan ligger vid depån i Köping med sex Scania och Volvo med släp. Vi utbildar både privatpersoner och förare som åkerierna längs E18 skickar till oss.", "text2": "YKB-grundutbildningen tar 13 veckor på heltid.", "tagg": "industri"},
     {"titel": "Halkbana i egen regi", "text": "2021 köpte vi halkbanan i Kolbäck, som tidigare stod tom fem månader om året. I dag kör vi risk 2 för bil och MC där sex dagar i veckan, även åt andra trafikskolor.", "text2": "Banan har två glidytor, en vattenridå och en kurva med sidlutning.", "tagg": "infra"},
-    {"titel": "Motorcykel", "text": "MC-lärarna utgår från Västerås och Eskilstuna och har tolv motorcyklar från 125 till 800 kubik. Risk 2 för MC körs på samma bana i Kolbäck.", "text2": "Hjälm, ställ och handskar lånar du av oss.", "tagg": "stad"}
+    {"titel": "Tvåhjulingar i två städer", "text": "MC-lärarna utgår från Västerås och Eskilstuna och har tolv motorcyklar från 125 till 800 kubik. Risk 2 för MC körs på samma bana i Kolbäck.", "text2": "Hjälm, ställ och handskar lånar du av oss.", "tagg": "stad"}
   ],
   "bolag": [
     {"namn": "Region Västmanland", "segment": "Västerås, Köping, Sala, Arboga, Fagersta", "rubrik": "Fem skolor, 41 bilar", "text": "Huvudkontoret ligger på Stensborgsgatan i Västerås, med lastbilsdepån i Köping.", "tagg": "korskola"},
@@ -50,16 +50,16 @@
     {"varde": "1", "enhet": "halkbana", "etikett": "I egen regi i Kolbäck"}
   ],
   "projekt": [
-    {"namn": "Mälarens Åkericentral", "ort": "Köping", "typ": "CE och YKB", "ar": "2026", "text": "Tolv nyanställda förare utbildas från B till CE med YKB under våren.", "tagg": "industri", "status": "Pågående"},
-    {"namn": "Eskilstuna kommun, hemtjänsten", "ort": "Eskilstuna", "typ": "B-körkort, grupp", "ar": "2025", "text": "34 medarbetare fick körkort på arbetstid under ett år, i omgångar om sex.", "tagg": "korskola"},
+    {"namn": "Mälarens Åkericentral", "ort": "Köping", "typ": "Från B till CE", "ar": "2026", "text": "Tolv nyanställda förare utbildas från B till CE med YKB under våren.", "tagg": "industri", "status": "Pågående"},
+    {"namn": "Eskilstuna kommun, hemtjänsten", "ort": "Eskilstuna", "typ": "Körkort på arbetstid", "ar": "2025", "text": "34 medarbetare fick körkort på arbetstid under ett år, i omgångar om sex.", "tagg": "korskola"},
     {"namn": "Sala Silvergruva Turism", "ort": "Sala", "typ": "BE", "ar": "2025", "text": "Släpbehörighet för guiderna som drar utrustning mellan gruvan och campingen.", "tagg": "korskola"},
-    {"namn": "Strängnäs Garnisonsbostäder", "ort": "Strängnäs", "typ": "Riskettan", "ar": "2025", "text": "Fyra riskettor för hyresgästernas ungdomar i föreningslokalen.", "tagg": "people"},
+    {"namn": "Strängnäs Garnisonsbostäder", "ort": "Strängnäs", "typ": "Risk 1 för ungdomar", "ar": "2025", "text": "Fyra riskettor för hyresgästernas ungdomar i föreningslokalen.", "tagg": "people"},
     {"namn": "Västerås Hamnservice", "ort": "Västerås", "typ": "B96", "ar": "2024", "text": "Åtta hamnarbetare tog B96 för att kunna dra arbetsvagnar på kajen.", "tagg": "stad"},
     {"namn": "Kolbäcksbanan", "ort": "Kolbäck", "typ": "Upprustning", "ar": "2021", "text": "Vi köpte och rustade den stängda halkbanan på åtta månader.", "tagg": "infra"}
   ],
   "process": [
     {"titel": "Välj ort i appen", "text": "Ladda ner appen, välj närmaste skola och se lärarnas lediga tider tre veckor framåt.", "tagg": "kontor"},
-    {"titel": "Första lektionen", "text": "Läraren går igenom de 14 delmålen och ger dig en uppskattning av antalet lektioner.", "tagg": "korskola"},
+    {"titel": "Startlektionen", "text": "Läraren går igenom de 14 delmålen och ger dig en uppskattning av antalet lektioner.", "tagg": "korskola"},
     {"titel": "Delmål för delmål", "text": "Varje lektion loggas, och du ser i appen vilka delmål som är klara och vilka som återstår.", "tagg": "stad"},
     {"titel": "Halka, prov och körkort", "text": "Risk 2 i Kolbäck, provlektion med en lärare från en annan av våra skolor och körprov i skolans bil.", "tagg": "infra"}
   ],
@@ -71,10 +71,10 @@
   "karriar": {
     "rubrik": "88 trafiklärare och plats för fler",
     "text": "Vi anställer löpande på alla nio orter och betalar trafiklärarutbildningen för medarbetare som vill byta yrke internt. Kollektivavtal, tjänstebil och möjlighet att byta ort utan att söka nytt jobb.",
-    "jobb": [["Trafiklärare B", "Eskilstuna"], ["Trafiklärare B", "Sala"], ["Lärare tung trafik", "Köping"], ["Instruktör halkbana", "Kolbäck"]]
+    "jobb": [["Trafiklärare personbil", "Eskilstuna"], ["Trafiklärare personbil", "Sala"], ["Lärare tung trafik", "Köping"], ["Instruktör halkbana", "Kolbäck"]]
   },
   "kultur": "Två gånger om året samlas alla 88 lärare på halkbanan i Kolbäck för en dag med fortbildning och korvgrillning.",
-  "citat": {"text": "Varje skola vi tog över hade något som var bättre än hos oss. Jobbet har varit att hitta det och sprida det till de andra åtta.", "namn": "Patrik Stigare", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Varje skola vi tog över hade något som var bättre än hos oss. Jobbet har varit att hitta det och sprida det till de andra åtta.", "namn": "Patrik Stigare", "roll": "Grundare, vd sedan 2008", "tagg": "people"},
   "omdomen": [
     {"text": "Började i Katrineholm, flyttade till Västerås för jobbet och körde upp där. Ny lärare, men hon visste exakt vilka delmål jag hade kvar.", "namn": "Felicia J.", "ort": "Västerås"},
     {"text": "Vi har skickat 34 personer i hemtjänsten. Samordningen med scheman och provtider var det vi var mest oroliga för, och det sköttes helt av Stigare.", "namn": "Leila M., enhetschef", "ort": "Eskilstuna"},
@@ -89,12 +89,12 @@
     ["Kan arbetsgivaren boka för flera anställda?", "Ja, vi har ett företagskonto där ni ser hur långt varje medarbetare har kommit, utan att se personliga anteckningar."],
     ["Vad händer om jag blir underkänd?", "Du får en analyslektion till halva priset med en annan lärare inom en vecka efter provet."]
   ],
-  "prislista": [["Körlektion 40 min", "740 kr"], ["Dubbellektion 80 min", "1 440 kr"], ["Riskettan", "900 kr"], ["Halkbanan i Kolbäck", "2 350 kr"], ["Introduktionskurs per person", "400 kr"], ["MC-lektion 60 min", "1 190 kr"], ["Lastbil CE, lektion 60 min", "1 650 kr"], ["Hyra av bil till körprov", "1 300 kr"]],
+  "prislista": [["Lektion, 40 minuter", "740 kr"], ["Två lektioner i följd, 80 minuter", "1 440 kr"], ["Risk 1, tre timmar", "900 kr"], ["Halkbanan i Kolbäck", "2 350 kr"], ["Introduktionskurs per person", "400 kr"], ["Motorcykel, 60 minuter", "1 190 kr"], ["Lastbil CE, lektion 60 min", "1 650 kr"], ["Hyra av bil till körprov", "1 300 kr"]],
   "certifikat": [
     {"titel": "Tillstånd på nio orter", "text": "Transportstyrelsens trafikskoletillstånd för A, B, BE, C och CE, registrerat för varje skola.", "ikon": "dokument"},
     {"titel": "Halkbana för risk 2", "text": "Kolbäcksbanan är godkänd för riskutbildning del 2 för personbil och motorcykel.", "ikon": "vag"},
     {"titel": "YKB-utbildare", "text": "Godkända att hålla grundutbildning och fortbildning i yrkeskompetensbevis för gods.", "ikon": "kran"},
-    {"titel": "ISO 9001", "text": "Certifierat ledningssystem för kvalitet sedan 2020, med samma rutiner på alla orter.", "ikon": "skold"}
+    {"titel": "Kvalitetsledning ISO 9001", "text": "Certifierat ledningssystem för kvalitet sedan 2020, med samma rutiner på alla orter.", "ikon": "skold"}
   ],
   "kunder": ["Mälarens Åkericentral AB", "Eskilstuna kommun, hemtjänsten", "Sala Silvergruva Turism", "Strängnäs Garnisonsbostäder", "Västerås Hamnservice AB", "Arboga Mekaniska Verkstad", "Katrineholms Energi AB", "Brf Kopparlunden"],
   "nyheter": [
@@ -120,7 +120,7 @@
     "bolag_etikett": "Regioner",
     "bolag_rubrik": "Två regioner, en bana",
     "hb_etikett": "Kvalitet",
-    "priser_etikett": "Prislista",
+    "priser_etikett": "Alla priser",
     "priser_rubrik": "Ett pris för hela Mälardalen",
     "omdomen_rubrik": "Elever som bytte ort på vägen",
     "faq_rubrik": "Om skolorna, appen och bytena",

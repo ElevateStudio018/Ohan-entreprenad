@@ -1,0 +1,138 @@
+{
+  "profil": "nisch",
+  "nisch": "trafikskola",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Älgpasset Trafikskola AB",
+  "kortnamn": "Älgpasset",
+  "slug": "algpasset",
+  "typ": "Trafikskola i Mora och Ovansiljan",
+  "tagline": "Glesbygdens körskola",
+  "slogan": "Långa raksträckor, älgar i skymningen och tolv mil till närmaste köbildning – vi lär ut körkort för Ovansiljan sedan 1979.",
+  "hero_rubrik": "Här kör man i mörker halva året",
+  "hero_text": "Körkort för bil och moped i Mora, Orsa och Älvdalen. Lektionerna börjar i byn där du bor, och viltolyckor, vinterväg och mörker är en del av varje utbildning.",
+  "intro_rubrik": "Två generationer i Ovansiljan",
+  "om": [
+    "Älgpasset startades 1979 av Rolf Larsson i en ombyggd smedja i Noret, med en Saab 99 och elever från hela Ovansiljan. Han döpte skolan efter det han varnade för på varenda lektion. Dottern Anna, som tog körkort hos sin pappa 1994, tog över 2011.",
+    "Vi är sex anställda med fem bilar, varav två automatväxlade, och kör i ett område stort som Skåne. Eftersom det kan vara sju mil mellan elevens hem och skolan i Mora börjar lektionerna ofta i byn: i Våmhus, Sollerön, Orsa eller Älvdalen."
+  ],
+  "vagval_rubrik": "Var i Ovansiljan bor du?",
+  "tjanster": [
+    {"titel": "B-körkort i byn", "ikon": "bil", "href": "verksamhet.html", "text": "Lektionerna börjar hemma hos dig, i Orsa, Älvdalen eller Sollerön."},
+    {"titel": "Vilt och skymning", "ikon": "skog", "href": "verksamhet.html", "text": "Hur man ser, bromsar och väjer för älg och ren."},
+    {"titel": "Vinterväg", "ikon": "vag", "href": "verksamhet.html", "text": "Isiga backar, plogvallar och möten med timmerbilar."},
+    {"titel": "AM-moped", "ikon": "hjalm", "href": "verksamhet.html", "text": "Mopedkörkort för femtonåringar i byarna, på vårlovet."},
+    {"titel": "Riskettan i Mora", "ikon": "skold", "href": "verksamhet.html", "text": "En gång i månaden i lokalen i Noret."},
+    {"titel": "Halkan i Orsa", "ikon": "sten", "href": "verksamhet.html", "text": "Risk 2 på den gamla flygfältsbanan, med samåkning från Mora."},
+    {"titel": "Introduktionskväll", "ikon": "folk", "href": "verksamhet.html", "text": "Introduktionskurs i Älvdalen och Mora varannan månad."},
+    {"titel": "Ring Anna", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Hon svarar själv, även på lördagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Körkort i glesbygd", "text": "Det finns ingen buss från Idre till lektionen i Mora klockan sju. Därför kör läraren ut till byarna och börjar lektionen där, och eleverna lär sig på de vägar de faktiskt kommer att köra.", "text2": "Resan ingår för alla som bor inom Mora, Orsa och Älvdalens kommuner.", "tagg": "korskola"},
+    {"titel": "Vilt, mörker och vinter", "text": "Riksväg 70 och 45 har några av landets flesta viltolyckor. Varje elev kör minst tre lektioner i skymning eller mörker och lär sig var älgarna brukar korsa, hur viltstängslen slutar och hur man bromsar på tjäle.", "text2": "Från november till februari är det mörkt både före och efter skolan.", "tagg": "natur"},
+    {"titel": "Moped för byarnas femtonåringar", "text": "I byar utan buss är mopeden friheten. AM-kursen håller vi på vårlovet, med teori i Mora och körning på grusvägarna runt Våmhus.", "text2": "Vi lånar ut mopeder och hjälmar under kursen.", "tagg": "stad"},
+    {"titel": "Riskutbildning i Ovansiljan", "text": "Riskettan håller vi i lokalen i Noret, och halkbanan kör vi på den gamla flygfältsbanan i Orsa. Det är nära nog att eleverna inte behöver ta ledigt en hel dag.", "text2": "Båda delarna kan bokas samma vecka på loven.", "tagg": "korskola"}
+  ],
+  "bolag": [
+    {"namn": "Anna Larsson", "segment": "Vd och trafiklärare", "rubrik": "Tog körkort hos pappa 1994", "text": "Kör egna elever i Orsa och Våmhus och sköter bokningen själv.", "tagg": "people"},
+    {"namn": "Dalgångslärarna", "segment": "Fyra trafiklärare", "rubrik": "En lärare per dalgång", "text": "En för Älvdalen, en för Orsa, en för Sollerön och en för Mora tätort.", "tagg": "korskola"},
+    {"namn": "Rolf Larsson", "segment": "Grundare 1979", "rubrik": "Pensionär med teorilektioner", "text": "Håller fortfarande viltlektionen för varje ny grupp, med sina egna bilder från 70-talet.", "tagg": "natur"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ny lärare i Älvdalen", "text": "Jonas Dahl, uppvuxen i Rot, kör nu alla elever i Älvdalens kommun från sin egen by.", "tagg": "korskola"},
+    {"rubrik": "Viltlektionen fyller 45", "text": "Rolf har hållit den sedan 1981, och den börjar fortfarande med samma bild av en Saab mot en älg.", "tagg": "natur"},
+    {"rubrik": "Mopedkurs på vårlovet", "text": "Fjorton femtonåringar från fem byar tog AM-körkort på en vecka.", "tagg": "stad"}
+  ],
+  "nyckeltal": [
+    {"varde": "1979", "enhet": "", "etikett": "Året Rolf började i Noret"},
+    {"varde": "7", "enhet": "mil", "etikett": "Längsta vägen till en elev"},
+    {"varde": "3", "enhet": "lektioner", "etikett": "I mörker, minst"},
+    {"varde": "2", "enhet": "generationer", "etikett": "Larsson vid ratten"}
+  ],
+  "projekt": [
+    {"namn": "Älvdalens kommun, gymnasiet", "ort": "Älvdalen", "typ": "Pendlarelever", "ar": "2026", "text": "Lektioner i anslutning till skoldagen för elever som pendlar till Mora.", "tagg": "korskola", "status": "Pågående"},
+    {"namn": "Orsa Besparingsskog", "ort": "Orsa", "typ": "Personbil och släp", "ar": "2025", "text": "Körkort och släpbehörighet för fyra skogsarbetare.", "tagg": "natur"},
+    {"namn": "Sollerö Byalag", "ort": "Sollerön", "typ": "Mopedkurs", "ar": "2025", "text": "Mopedkurs för öns femtonåringar, med teori i bygdegården.", "tagg": "stad"},
+    {"namn": "Mora kommun, hemtjänsten", "ort": "Mora", "typ": "Halka och vilt", "ar": "2025", "text": "Två kvällar om halka och vilt för nyanställda i hemtjänsten.", "tagg": "korskola"},
+    {"namn": "Våmhus Jaktlag", "ort": "Våmhus", "typ": "Viltkväll", "ar": "2024", "text": "Rolfs viltlektion i jaktstugan för lagets ungdomar.", "tagg": "natur"},
+    {"namn": "Familjen Ols i Mångsbodarna", "ort": "Mångsbodarna", "typ": "Körkort i glesbygd", "ar": "2024", "text": "Tre syskon från en by med tolv invånare, alla med samma lärare.", "tagg": "people"}
+  ],
+  "process": [
+    {"titel": "Ring och boka", "text": "Anna kopplar dig till läraren i din dalgång.", "tagg": "people"},
+    {"titel": "Lektion i byn", "text": "Första lektionen börjar hemma, på vägar du redan känner.", "tagg": "korskola"},
+    {"titel": "Mörker och vilt", "text": "Minst tre lektioner i skymning, och Rolfs viltlektion på teorin.", "tagg": "natur"},
+    {"titel": "Körprov i Mora", "text": "Vi kör dig till Trafikverket i Mora och tillbaka hem efteråt.", "tagg": "stad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje elev har sett en älg innan provet",
+    "text": "Vi kör aldrig upp en elev som inte har kört i mörker på riksväg 70 eller 45. Under vintern lägger vi in lektioner vid de platser där flest viltolyckor rapporteras, och vi går igenom vad man gör efter en olycka med vilt.",
+    "mal": [["3", "lektioner i mörker per elev"], ["0 kr", "i resetillägg i tre kommuner"], ["45 år", "med samma viltlektion"]]
+  },
+  "karriar": {
+    "rubrik": "Trafiklärare som vill bo i Siljansbygden",
+    "text": "Vi söker en trafiklärare för Mora tätort och Sollerön. Du får egen bil som du tar hem, och vi hjälper gärna till att hitta boende.",
+    "jobb": [["Trafiklärare, Mora tätort", "Mora"]]
+  },
+  "kultur": "Rolf kommer förbi varje fredag med nybakad vetelängd och frågar hur många älgar lärarna sett under veckan.",
+  "citat": {"text": "Pappa sa att man inte kan lära någon köra i Ovansiljan på dagtid i maj. Man måste ta dem ut i januari klockan fyra.", "namn": "Anna Larsson", "roll": "Vd, andra generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Läraren hämtade mig hemma i Rot varje gång. Annars hade det tagit två timmar med buss bara för att komma till lektionen.", "namn": "Wilma D.", "ort": "Älvdalen"},
+    {"text": "Rolfs viltlektion var det enda jag kom ihåg från teorin när en älg stod på 70:an tre veckor efter provet.", "namn": "Hugo B.", "ort": "Orsa"},
+    {"text": "Jag tog körkort hos Rolf 1986 och mina tvillingar hos Anna i år. Samma noggrannhet med mörkerkörningen.", "namn": "Kerstin O.", "ort": "Sollerön"}
+  ],
+  "faq": [
+    ["Kostar det extra att bli hämtad i byn?", "Nej, inte inom Mora, Orsa och Älvdalens kommuner. Bor du längre bort, till exempel i Idre, lägger vi lektionerna i par för att spara resor."],
+    ["Måste jag köra i mörker?", "Ja, minst tre lektioner. Det är där riskerna finns här, och det kommer du att möta varje vinter."],
+    ["Kan jag ta körkort på sommaren?", "Ja, men då lägger vi mörkerlektionerna sent på kvällen i augusti eller kompletterar på hösten."],
+    ["Var gör jag körprovet?", "Hos Trafikverket i Mora. Vi kör dig dit och hem igen."],
+    ["Hur lång tid tar AM-kursen?", "En vecka på vårlovet, med tolv timmar teori och sju timmar körning."],
+    ["Har ni automatbil?", "Ja, två av fem bilar är automatväxlade."]
+  ],
+  "priser": [
+    {"namn": "Byalektion", "pris": "680 kr", "enhet": "per 40 minuter", "text": "Hämtning i byn ingår.", "punkter": ["Hämtning i tre kommuner", "En lärare för din dalgång", "Lektioner även lördagar", "Fri avbokning till kvällen före"]},
+    {"namn": "Ovansiljanpaketet", "pris": "11 400 kr", "enhet": "14 lektioner + risk 1 och 2", "text": "Allt du behöver utöver övningskörning hemma.", "punkter": ["14 lektioner, varav tre i mörker", "Riskettan i Noret", "Halkan i Orsa", "Skjuts till körprovet i Mora"], "utvald": true},
+    {"namn": "AM-moped", "pris": "4 300 kr", "enhet": "en vecka på vårlovet", "text": "För femtonåringar i byarna.", "punkter": ["Tolv timmar teori", "Sju timmar körning", "Lån av moped och hjälm", "Hjälp med provbokning"]}
+  ],
+  "certifikat": [
+    {"titel": "Tillstånd sedan 1979", "text": "Transportstyrelsens tillstånd för behörighet AM, B och BE.", "ikon": "dokument"},
+    {"titel": "Risk 1 och halkbana", "text": "Godkända för riskutbildning, med del 2 på banan i Orsa.", "ikon": "skold"},
+    {"titel": "Viltolycksutbildade", "text": "Alla lärare har gått fortbildning om viltolyckor, med material från Nationella viltolycksrådet.", "ikon": "skog"},
+    {"titel": "Trafiklärare med examen", "text": "Fyra lärare med yrkeshögskoleexamen och två som tagit körkort hos Rolf.", "ikon": "skola"}
+  ],
+  "kunder": ["Älvdalens kommun, gymnasiet", "Orsa Besparingsskog", "Sollerö Byalag", "Mora kommun, hemtjänsten", "Våmhus Jaktlag", "Siljans Timmer AB", "Brf Noretstrand"],
+  "nyheter": [
+    ["2026-11-05", "Mörkerkörningen har börjat", "Från och med nu är det mörkt på eftermiddagslektionerna.", "natur"],
+    ["2026-08-20", "Jonas Dahl tar Älvdalen", "Ny lärare som utgår från Rot.", "korskola"],
+    ["2026-03-06", "Fjorton nya mopedförare", "Vårlovets AM-kurs samlade femtonåringar från fem byar.", "stad"]
+  ],
+  "kontakt": {"adress": "Smedjegatan 4", "postnr": "792 32", "ort": "Mora", "telefon": "070-174 06 84", "epost": "anna@algpasset.se", "orgnr": ""},
+  "oppettider": "Telefon mån–lör 8–18 · Lektioner mån–lör 7–20",
+  "omrade": "Mora, Orsa och Älvdalen – hämtning i byarna",
+  "fot_cta": "Bor du i en by långt från Mora? Vi kommer till dig – ring Anna.",
+  "bild": {"panel": "natur", "hb": "korskola"},
+  "text": {
+    "kontakt_knapp": "Ring Anna",
+    "hero_knapp": "Så lär vi ut",
+    "vagval_etikett": "Bygden",
+    "ber_etikett": "Från Noret",
+    "ber_rubrik": "Lärare, älgar och mopeder",
+    "proj_etikett": "I bygden",
+    "proj_rubrik": "Byar, skolor och jaktlag",
+    "process_etikett": "Hela vägen hemifrån",
+    "process_rubrik": "Från byvägen till körprovet",
+    "bolag_etikett": "Familjen och lärarna",
+    "bolag_rubrik": "Fyra dalgångar, fyra lärare",
+    "hb_etikett": "Vilt och mörker",
+    "priser_etikett": "Vad det kostar",
+    "priser_rubrik": "Resan till byn ingår",
+    "priser_utvald": "Vanligast i Ovansiljan",
+    "priser_not": "Inklusive moms. Provavgifterna till Trafikverket betalar du själv.",
+    "omdomen_rubrik": "Från byarna runt Siljan",
+    "faq_rubrik": "Om avstånd, mörker och vinter",
+    "boka_rubrik": "Var ska vi hämta dig?",
+    "boka_text": "Skriv vilken by du bor i och när du kan köra, så ringer läraren för din dalgång upp.",
+    "boka_falt": ["Namn", "Telefon", "By", "Tider som passar"],
+    "certifikat_rubrik": "Godkända sedan Rolfs tid",
+    "logos_rubrik": "Kommuner, byalag och skogsbolag",
+    "medarbetare": "Lärarna i Ovansiljan"
+  }
+}

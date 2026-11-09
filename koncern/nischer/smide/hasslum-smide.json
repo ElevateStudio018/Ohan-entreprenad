@@ -1,0 +1,144 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hasslum Smide AB",
+  "kortnamn": "Hasslum",
+  "slug": "hasslum-smide",
+  "typ": "Räcken och grindar på nätet, Skövde",
+  "tagline": "Smide med fast pris",
+  "slogan": "Välj mått, mönster och kulör på nätet – vi svetsar, förzinkar och skickar räcket eller grinden hem till dig inom tre veckor, var du än bor i Sverige.",
+  "hero_rubrik": "Räcket är beställt innan kaffet kallnat",
+  "hero_text": "Altanräcken, grindar och trappräcken i standardmått och måttbeställt, med pris direkt i konfiguratorn. Montera själv eller boka våra montörer i Västra Götaland.",
+  "intro_rubrik": "Tretton år, 41 000 skickade paket",
+  "om": [
+    "Oskar och Petra Lind byggde ett hus utanför Skövde 2012 och fick tre offerter på ett altanräcke – den billigaste på 42 000 kronor. Oskar, som var svetsare på en motorfabrik, ritade ett eget räcke i moduler som kunde svetsas i serie och skruvas ihop hemma. Grannarna ville ha likadana, och 2013 öppnade webbutiken.",
+    "I dag är vi 28 anställda och omsätter 44 miljoner kronor. Allt tillverkas i vår fabrik på Hasslum industriområde, där fyra robotceller svetsar standardmodulerna och sju smeder gör det som är måttbeställt. Vi skickar med fraktbolag till hela landet och har tre montagelag för den som inte vill skruva själv."
+  ],
+  "vagval_rubrik": "Vad ska du bygga i helgen?",
+  "tjanster": [
+    {"titel": "Altanräcken", "ikon": "hem", "href": "verksamhet.html", "text": "Moduler på 100, 150 och 200 centimeter med spjälor, plåt eller glas."},
+    {"titel": "Gånggrindar", "ikon": "hus", "href": "verksamhet.html", "text": "Färdiga grindar med stolpar, gångjärn och lås i ett paket."},
+    {"titel": "Infartsgrindar", "ikon": "bil", "href": "verksamhet.html", "text": "Dubbelgrindar upp till fyra meter, levererade på pall."},
+    {"titel": "Trappräcken utomhus", "ikon": "upp", "href": "verksamhet.html", "text": "Räcken som justeras till trappans lutning på plats."},
+    {"titel": "Måttbeställt", "ikon": "ritning", "href": "verksamhet.html", "text": "Ange egna mått i konfiguratorn, så svetsar smederna efter dem."},
+    {"titel": "Prislista", "ikon": "dokument", "href": "priser.html", "text": "Alla standardmodeller med pris inklusive moms och frakt."},
+    {"titel": "Kunders altaner", "ikon": "kamera", "href": "projekt.html", "text": "Bilder från kunder i hela Sverige."},
+    {"titel": "Monteringshjälp", "ikon": "verktyg", "href": "om-oss.html#kontakt", "text": "Ring vår kundtjänst om skruvar, gjutning och nivåer."}
+  ],
+  "affarsomraden": [
+    {"titel": "Räcken för altan och balkong", "text": "Räckena byggs av moduler som skruvas mot stolpar, så att du kan anpassa längden till altanen utan att kapa. Alla modeller uppfyller Boverkets krav på 110 centimeters höjd och tätt mellan spjälorna.", "text2": "Ett räcke på tolv meter levereras på en pall och monteras av två personer på en dag.", "tagg": "hem"},
+    {"titel": "Grindar i paket", "text": "Gånggrindar och infartsgrindar levereras med stolpar, gångjärn, lås och fästen för gjutning eller markskruv. Monteringsfilmen följer med via en QR-kod på kartongen.", "text2": "Grindarna är justerbara i höjd så att de går att hänga rätt även om stolparna lutar något.", "tagg": "tradgard"},
+    {"titel": "Måttbeställt i serie", "text": "Vill du ha ett räcke med egen höjd, vinkel eller kulör anger du måtten i konfiguratorn. Smederna svetsar efter dina mått, och priset räknas fram direkt.", "text2": "Måttbeställda produkter har fyra veckors leveranstid i stället för två.", "tagg": "svets"},
+    {"titel": "Byggare och bostadsbolag", "text": "Småhusbyggare och bostadsbolag beställer samma modell till hela kvarter med företagspris och leverans per hus. Vi levererar i den ordning husen ska färdigställas.", "text2": "Företagskunder har egen kontaktperson och 30 dagars betalningsvillkor.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Fabriken på Hasslum", "segment": "Serietillverkning", "rubrik": "Fyra robotar, sju smeder", "text": "Robotceller för standardmoduler och manuella svetsplatser för måttbeställt.", "tagg": "svets"},
+    {"namn": "Lager och frakt", "segment": "Packning och leverans", "rubrik": "Packat samma dag som det lackats", "text": "Ett lager på 3 000 kvadratmeter där allt packas på pall eller i kartong och skickas till hela landet.", "tagg": "industri"},
+    {"namn": "Kundtjänst", "segment": "Rådgivning och support", "rubrik": "Fem personer som har monterat själva", "text": "Svarar på frågor om mått, gjutning och montering via telefon, chatt och mejl.", "tagg": "kontor"},
+    {"namn": "Montagelagen", "segment": "Montage i Västra Götaland", "rubrik": "För dig som hellre fikar", "text": "Tre lag som monterar räcken och grindar inom tolv mil från Skövde.", "tagg": "hem"}
+  ],
+  "berattelser": [
+    {"rubrik": "Nytt räcke med glasfyllning", "text": "Modellen Billingen finns nu med härdat glas i stället för spjälor – samma moduler, samma stolpar.", "tagg": "hem"},
+    {"rubrik": "Fjärde robotcellen", "text": "Leveranstiden för standardräcken har kortats från tre till två veckor.", "tagg": "svets"},
+    {"rubrik": "Ett kvarter i Tibro", "text": "Trettiotvå nya radhus fick likadana altanräcken och grindar, levererade hus för hus.", "tagg": "bostad"}
+  ],
+  "nyckeltal": [
+    {"varde": "41 000", "enhet": "paket", "etikett": "Skickade sedan 2013"},
+    {"varde": "2", "enhet": "veckor", "etikett": "Leveranstid för standardmodeller"},
+    {"varde": "4,7", "enhet": "av 5", "etikett": "Snittbetyg från kunderna"},
+    {"varde": "28", "enhet": "anställda", "etikett": "I fabrik, lager och kundtjänst"}
+  ],
+  "projekt": [
+    {"namn": "Altan vid Hornborgasjön", "ort": "Falköping", "typ": "Altanräcke", "ar": "2026", "text": "Arton meter räcke med glasfyllning, monterat av kunden på en lördag.", "tagg": "hem"},
+    {"namn": "Radhuskvarteret", "ort": "Tibro", "typ": "Räcken och grindar", "ar": "2026", "text": "32 hus med samma modell, levererat i byggarens ordning.", "tagg": "bostad"},
+    {"namn": "Sommarhus på Öland", "ort": "Borgholm", "typ": "Infartsgrind", "ar": "2025", "text": "Fyra meter dubbelgrind skickad på pall och monterad av ägarna.", "tagg": "tradgard"},
+    {"namn": "Villa i Luleå", "ort": "Luleå", "typ": "Måttbeställt trappräcke", "ar": "2025", "text": "Trappräcke i egen vinkel, framme fyra veckor efter beställning.", "tagg": "hem"},
+    {"namn": "Förskolans staket", "ort": "Skövde", "typ": "Grindar och staket", "ar": "2024", "text": "Tjugo grindar med barnsäkra lås monterade av vårt montagelag.", "tagg": "svets"},
+    {"namn": "Nytt villaområde vid Ryd", "ort": "Skövde", "typ": "Altanräcken", "ar": "2027", "text": "Avtal med byggaren för 54 villor, leveranser från mars.", "tagg": "bostad", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Konfigurera", "text": "Välj modell, mått och kulör på nätet. Priset inklusive frakt syns direkt.", "tagg": "kontor"},
+    {"titel": "Tillverkning", "text": "Modulerna svetsas, varmförzinkas och pulverlackas i Skövde.", "tagg": "svets"},
+    {"titel": "Leverans", "text": "Du får sms när pallen lämnar fabriken och kan välja leveransdag.", "tagg": "industri"},
+    {"titel": "Montera eller boka", "text": "Följ monteringsfilmen eller låt våra montörer göra jobbet.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Billigt ska också hålla länge",
+    "text": "Låga priser kommer från smart konstruktion och serietillverkning, inte från tunnare stål. Alla produkter varmförzinkas innan de lackas och får tio års garanti mot genomrostning. Vi packar i återvunnen kartong och hämtar tillbaka pallar inom Västra Götaland.",
+    "mal": [["10 år", "garanti mot genomrostning"], ["100 %", "återvunnen kartong i förpackningarna"], ["2 v", "leveranstid för standardmodeller"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg Sveriges altaner från Skövde",
+    "text": "Vi växer varje år och söker robotoperatörer, svetsare och folk till lager och kundtjänst. Kollektivavtal, dagtid och friskvårdsbidrag – och personalpris på allt i butiken.",
+    "jobb": [["Robotoperatör", "Skövde"], ["Svetsare måttbeställt", "Skövde"], ["Kundtjänst och teknisk support", "Skövde"]]
+  },
+  "kultur": "Alla nyanställda, även i kundtjänst, monterar ett räcke själva första veckan så att de vet vad kunden pratar om.",
+  "citat": {"text": "Ett altanräcke ska inte kosta som en begagnad bil. Det ska vara enkelt att beställa och lika enkelt att skruva ihop.", "namn": "Oskar Lind", "roll": "Grundare och vd", "tagg": "svets"},
+  "omdomen": [
+    {"text": "Beställde på söndagskvällen, fick sms om leverans efter tolv dagar och hade räcket uppe på lördagen. Filmen gjorde allt enkelt.", "namn": "Jenny K.", "ort": "Falköping"},
+    {"text": "Grinden kom på pall till Öland. Stolparna lutade lite, men gångjärnen gick att justera så den hänger perfekt.", "namn": "Göran och Lisbeth M.", "ort": "Borgholm"},
+    {"text": "Vi beställde till 32 radhus och fick leveranserna i exakt den ordning husen blev klara.", "namn": "Andreas T., platschef", "ort": "Tibro"}
+  ],
+  "faq": [
+    ["Klarar jag att montera själv?", "De flesta gör det. Du behöver borrmaskin, vattenpass och en kompis. Varje paket har en QR-kod till en monteringsfilm, och kundtjänst svarar på vardagar."],
+    ["Vad kostar frakten?", "Frakten är inräknad i priset i konfiguratorn och beror på vikt och postnummer. Leverans på pall sker till tomtgräns."],
+    ["Kan jag ändra beställningen?", "Standardmodeller kan ändras fram till att de packats. Måttbeställda produkter kan ändras inom två dagar från beställning."],
+    ["Uppfyller räckena byggreglerna?", "Ja. Alla altan- och balkongräcken är 110 centimeter höga och har max tio centimeters öppningar enligt Boverkets byggregler."],
+    ["Vilka kulörer finns?", "Svart, antracit, vitt och grafitgrått i lager. Måttbeställt kan fås i alla RAL-kulörer."],
+    ["Hur fungerar returer?", "Oanvända standardprodukter kan returneras inom 30 dagar. Måttbeställda produkter returneras inte, men vi rättar fel vi själva orsakat."],
+    ["Monterar ni utanför Västra Götaland?", "Våra egna montörer arbetar inom tolv mil från Skövde. Längre bort kan vi rekommendera lokala snickare som har monterat våra räcken tidigare."]
+  ],
+  "priser": [
+    {"namn": "Gånggrind Kåkind", "pris": "4 490 kr", "enhet": "inkl. frakt", "text": "Grind 100 centimeter med stolpar och lås.", "punkter": ["Varmförzinkad och lackad", "Stolpar för gjutning", "Justerbara gångjärn", "Tio års rostgaranti"]},
+    {"namn": "Altanräcke Billingen", "pris": "1 290 kr", "enhet": "per löpmeter, inkl. frakt", "text": "Vårt mest sålda räcke, med spjälor eller plåt.", "punkter": ["Moduler 100–200 cm", "Stolpar och fästen ingår", "Fyra kulörer i lager", "Leverans inom två veckor"], "utvald": true},
+    {"namn": "Montage", "pris": "fr. 4 900 kr", "enhet": "per uppdrag, före ROT", "text": "Våra montörer monterar inom tolv mil från Skövde.", "punkter": ["Upp till tolv meter räcke", "Gjutning av grindstolpar", "Bortforsling av emballage", "ROT-avdrag på arbetet"]}
+  ],
+  "prislista_rubrik": "Fler modeller",
+  "prislista": [
+    ["Altanräcke Billingen, spjälor", "1 290 kr/m"],
+    ["Altanräcke Billingen, glas", "2 190 kr/m"],
+    ["Gånggrind Kåkind 100 cm", "4 490 kr"],
+    ["Dubbelgrind Valle 300 cm", "11 900 kr"],
+    ["Dubbelgrind Valle 400 cm", "14 400 kr"],
+    ["Trappräcke utomhus, per meter", "1 690 kr"],
+    ["Måttbeställt tillägg", "fr. 15 %"],
+    ["Montage inom tolv mil", "fr. 4 900 kr"]
+  ],
+  "certifikat": [
+    {"titel": "Trygg e-handel", "text": "Certifierad webbutik med tydliga villkor för köp, frakt och retur.", "ikon": "las"},
+    {"titel": "Varmförzinkat enligt EN ISO 1461", "text": "Allt stål förzinkas enligt standarden innan det pulverlackeras.", "ikon": "skold"},
+    {"titel": "EN 1090-1, EXC2", "text": "CE-märkning av räcken och trappräcken med bärande funktion.", "ikon": "dokument"},
+    {"titel": "ISO 9001", "text": "Kvalitetsledningssystem som omfattar fabrik, lager och kundtjänst.", "ikon": "kugge"}
+  ],
+  "kunder": ["Tibro Radhusbyggare", "Skövdebostäder", "Rydsområdets Villabyggare", "Falköpings Trädgårdsanläggning", "Brf Billingeslätt", "Mariestads Småhus", "Hjo Förskolor"],
+  "nyheter": [
+    ["2026-10-14", "Billingen med glas", "Vårt populäraste räcke finns nu med härdat glas.", "hem"],
+    ["2026-07-21", "Två veckors leveranstid", "Fjärde robotcellen har kortat väntan på standardräcken.", "svets"],
+    ["2026-04-01", "Så gjuter du grindstolpar", "En steg-för-steg-guide med betong, grus och vattenpass.", "tradgard"]
+  ],
+  "kontakt": {"adress": "Hasslumsvägen 12", "postnr": "541 39", "ort": "Skövde", "telefon": "070-174 06 67", "epost": "kundtjanst@hasslumsmide.se", "orgnr": ""},
+  "oppettider": "Kundtjänst mån–fre 8–17 · webbutiken alltid öppen",
+  "omrade": "Leverans i hela Sverige, montage inom tolv mil från Skövde",
+  "fot_cta": "Mät altanen i kväll och få priset direkt i konfiguratorn.",
+  "bild": {"panel": "hem", "hb": "svets"},
+  "text": {
+    "ber_rubrik": "Nytt i sortimentet",
+    "proj_rubrik": "Kunders altaner och grindar",
+    "process_rubrik": "Från klick till monterat räcke",
+    "hb_etikett": "Garantier",
+    "omdomen_rubrik": "Betyg från kunderna",
+    "faq_rubrik": "Om leverans, montering och retur",
+    "priser_rubrik": "Pris direkt, frakt inräknad",
+    "priser_utvald": "Bästsäljare",
+    "priser_not": "Alla priser inklusive moms. Montagepris före ROT-avdrag.",
+    "boka_rubrik": "Fråga kundtjänst",
+    "logos_rubrik": "Byggare och bostadsbolag",
+    "certifikat_rubrik": "Trygg handel, tåligt stål",
+    "bolag_rubrik": "Från fabrik till din tomt",
+    "ny_rubrik": "Tips och nyheter",
+    "hero_knapp": "Se modellerna",
+    "hero_lank": "Till prislistan",
+    "medarbetare": "Fabriksfolket"
+  }
+}

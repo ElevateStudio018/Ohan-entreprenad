@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Produktionen", "segment": "Skrov och montering", "rubrik": "38 båtbyggare och svetsare", "text": "Laminering, aluminiumsvets, tubtillverkning och slutmontering i fabriken vid Gamlebyviken.", "tagg": "industri"},
-    {"namn": "Konstruktion", "segment": "Ritningar och typgodkännande", "rubrik": "Fem ingenjörer", "text": "Ritar nya modeller och anpassar båtar efter varje kunds krav.", "tagg": "kontor"},
+    {"namn": "Konstruktionsavdelningen", "segment": "Ritningar och typgodkännande", "rubrik": "Fem ingenjörer", "text": "Ritar nya modeller och anpassar båtar efter varje kunds krav.", "tagg": "kontor"},
     {"namn": "Gränsö Service", "segment": "Service i hela Norden", "rubrik": "Fyra bilar, 14 tekniker", "text": "Årsservice, tubbyten och haverier i fabriken eller hos kunden.", "tagg": "people"},
     {"namn": "Gränsö Norge AS", "segment": "Försäljning och service", "rubrik": "Kontor i Ålesund", "text": "Tre medarbetare som säljer och servar båtar längs norska kusten.", "tagg": "bat"}
   ],
@@ -47,14 +47,14 @@
     {"varde": "1 100", "enhet": "båtar", "etikett": "Levererade sedan 1996"},
     {"varde": "64", "enhet": "personer", "etikett": "Anställda i Västervik och Ålesund"},
     {"varde": "48 %", "enhet": "", "etikett": "Av produktionen på export"},
-    {"varde": "214", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+    {"varde": "214", "enhet": "Mkr", "etikett": "Omsatt under 2025"}
   ],
   "projekt": [
     {"namn": "Ramavtal finska räddningsverk", "ort": "Finland", "typ": "Räddningsbåtar", "ar": "2026", "text": "Tolv 9-metersribbar med värmd styrhytt och bårplats levereras i omgångar.", "tagg": "bat", "status": "Pågående"},
-    {"namn": "Transportbåt Bottenviken", "ort": "Piteå", "typ": "Offshore", "ar": "2026", "text": "11 meter med tolv stötdämpade säten och plats för verktyg och reservdelar.", "tagg": "industri", "status": "Levererad"},
+    {"namn": "Transportbåt Bottenviken", "ort": "Piteå", "typ": "Offshore", "ar": "2026", "text": "11 meter med tolv stötdämpade säten och plats för verktyg och reservdelar.", "tagg": "industri", "status": "I tjänst"},
     {"namn": "Västerviks räddningstjänst", "ort": "Västervik", "typ": "Räddningsbåt", "ar": "2025", "text": "Ersättare för vår första båt från 1996 – som fortfarande är i reservdrift.", "tagg": "bat"},
     {"namn": "Fiskeritillsyn längs Smålandskusten", "ort": "Oskarshamn", "typ": "Patrullbåt", "ar": "2024", "text": "En 8-metersbåt med 50 knops toppfart och mörkerkamera.", "tagg": "bat"},
-    {"namn": "Tubverkstaden", "ort": "Västervik", "typ": "Ny hall", "ar": "2025", "text": "1 200 kvadratmeter med klimatstyrning för limning av hypalon.", "tagg": "bygg"},
+    {"namn": "Tubverkstaden", "ort": "Västervik", "typ": "Ny produktionshall", "ar": "2025", "text": "1 200 kvadratmeter med klimatstyrning för limning av hypalon.", "tagg": "bygg"},
     {"namn": "Turistribbar i Lofoten", "ort": "Lofoten", "typ": "Fritid och turism", "ar": "2025", "text": "Fyra båtar för valsafari med uppvärmda säten och överlevnadsdräkter ombord.", "tagg": "natur"}
   ],
   "process": [
@@ -71,10 +71,10 @@
   "karriar": {
     "rubrik": "Bygg båtar som går ut i storm",
     "text": "Vi växer med exporten och anställer båtbyggare, svetsare och servicetekniker. Vi har kollektivavtal, egen lärlingsutbildning och en personalbåt för provturer.",
-    "jobb": [["Båtbyggare, laminering", "Västervik"], ["Aluminiumsvetsare", "Västervik"], ["Servicetekniker, resande", "Västervik"], ["Säljare offshore", "Ålesund"]]
+    "jobb": [["Båtbyggare, laminering", "Västervik"], ["Svetsare, aluminiumskrov", "Västervik"], ["Servicetekniker, resande", "Västervik"], ["Säljare offshore", "Ålesund"]]
   },
   "kultur": "Provtur i dåligt väder är obligatoriskt för alla nyanställda – även på kontoret.",
-  "citat": {"text": "Vi testar varje båt i den värsta sjö vi hittar utanför Västervik. Den som ska rädda någon i november kan inte vänta på bättre väder.", "namn": "Lotta Ekvall", "roll": "Vd och delägare", "tagg": "people"},
+  "citat": {"text": "Vi testar varje båt i den värsta sjö vi hittar utanför Västervik. Den som ska rädda någon i november kan inte vänta på bättre väder.", "namn": "Lotta Ekvall", "roll": "Vd, delägare sedan 1991", "tagg": "people"},
   "omdomen": [
     {"text": "Vår ribbåt från 2004 fick nya tuber och ett nytt elsystem. Den gick ut på 213 larm förra året.", "namn": "Mattias O., räddningschef", "ort": "Västervik"},
     {"text": "Teknikerna kliver av båten utan ont i ryggen efter 25 sjömil. Det märks i sjukskrivningarna.", "namn": "Sara L., driftchef vindkraft", "ort": "Piteå"},
@@ -83,16 +83,16 @@
   "faq": [
     ["Hur lång är leveranstiden?", "14–22 veckor för de flesta modeller, beroende på utrustning och säsong. Fritidsbåtar i lager kan levereras direkt."],
     ["Byter ni tuber på andra märken?", "Ja, vi tillverkar tuber efter mall för de flesta ribbåtar på marknaden, i hypalon eller PVC."],
-    ["Lämnar ni anbud i offentliga upphandlingar?", "Ja, vi lämnar ett trettiotal anbud per år i Norden och har ramavtal med flera myndigheter."],
+    ["Deltar ni i upphandlingar?", "Ja, vi lämnar ett trettiotal anbud per år i Norden och har ramavtal med flera myndigheter."],
     ["Kan vi provköra innan vi beställer?", "Ja, vi har demobåtar i Västervik och Ålesund och kan också komma till er med en båt på trailer."],
     ["Vad ingår i ett serviceavtal?", "Årsservice av motor, tuber och elektronik, förtur vid haveri och fast pris på arbetstiden."],
     ["Bygger ni fritidsbåtar på beställning?", "Ja, fritidsserien finns i 6,5, 8 och 9,5 meter och kan anpassas med egen färg och inredning."]
   ],
   "certifikat": [
-    {"titel": "ISO 9001", "text": "Certifierat kvalitetsledningssystem för konstruktion, tillverkning och service sedan 2009.", "ikon": "skold"},
+    {"titel": "ISO 9001-certifierade", "text": "Certifierat kvalitetsledningssystem för konstruktion, tillverkning och service sedan 2009.", "ikon": "skold"},
     {"titel": "CE-märkning", "text": "Fritidsbåtarna är CE-märkta enligt fritidsbåtsdirektivet i kategori B och C.", "ikon": "stjarna"},
-    {"titel": "EN ISO 9606-2", "text": "Våra svetsare är certifierade för aluminiumsvetsning av skrov.", "ikon": "eld"},
-    {"titel": "Kollektivavtal", "text": "Alla anställda i Sverige omfattas av Teknikavtalet med IF Metall och Unionen.", "ikon": "folk"}
+    {"titel": "Svetscertifikat EN ISO 9606-2", "text": "Våra svetsare är certifierade för aluminiumsvetsning av skrov.", "ikon": "eld"},
+    {"titel": "Teknikavtalet", "text": "Alla anställda i Sverige omfattas av Teknikavtalet med IF Metall och Unionen.", "ikon": "folk"}
   ],
   "kunder": ["Västerviks räddningstjänst", "Kalmarsunds Vindkraftsdrift", "Oskarshamns Fiskeritillsyn", "Bottenvikens Offshore Service", "Lofoten Valsafari AS", "Gamlebyvikens Dykklubb", "Tjust Skärgårdstrafik", "Loftahammars Hamnförening"],
   "nyheter": [
@@ -125,14 +125,14 @@
     "proj_etikett": "Levererat",
     "proj_rubrik": "Båtar i tjänst från Lofoten till Kalmarsund",
     "proj_rubrik_lista": "Leveranser och avtal",
-    "status_klart": "Levererad",
+    "status_klart": "I tjänst",
     "status_pagaende": "I produktion",
     "process_etikett": "Från behov till båt",
     "process_rubrik": "Fyra steg till en färdig ribbåt",
     "bolag_etikett": "Bolaget",
     "bolag_rubrik": "Produktion, konstruktion och service",
-    "bolag_kol": ["Avdelning", "Ansvar", "Beskrivning"],
-    "meny_bolag": "Avdelningar",
+    "bolag_kol": ["Funktion", "Ansvarsområde", "Beskrivning"],
+    "meny_bolag": "Fabriken",
     "hb_etikett": "Livslängd",
     "omdomen_rubrik": "Räddningschefer och driftchefer",
     "faq_rubrik": "Om leverans, tuber och anbud",

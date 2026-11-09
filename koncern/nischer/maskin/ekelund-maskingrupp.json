@@ -45,8 +45,8 @@
   ],
   "nyckeltal": [
     {"varde": "1946", "enhet": "", "etikett": "Första hyran från ladan i Hälla"},
-    {"varde": "3 100", "enhet": "objekt", "etikett": "Maskiner, liftar och bodar"},
-    {"varde": "312", "enhet": "mkr", "etikett": "Omsättning 2025"},
+    {"varde": "3 100", "enhet": "objekt", "etikett": "Att hyra i sex depåer"},
+    {"varde": "312", "enhet": "mkr", "etikett": "Koncernens omsättning förra året"},
     {"varde": "2,1", "enhet": "år", "etikett": "Snittålder i hyrparken"}
   ],
   "projekt": [
@@ -66,12 +66,12 @@
   "hallbarhet": {
     "rubrik": "En maskin som lever i tjugo år",
     "text": "Det mest hållbara vi gör är att en maskin används länge. Genom att sälja våra hyrmaskiner med full servicehistorik får de ett andra och tredje liv hos nya ägare, och vår verkstad hjälper dem att hålla dem i gott skick. Alla depåer tankar HVO och hälften av liftparken är eldriven.",
-    "mal": [["98 %", "av våra maskiner säljs vidare i stället för att skrotas"], ["100 %", "HVO i alla depåer sedan 2023"], ["50 %", "av liftarna är eldrivna"]]
+    "mal": [["98 %", "av våra maskiner säljs vidare i stället för att skrotas"], ["100 %", "HVO i alla depåer sedan 2023"], ["50 %", "av liftparken går på batteri"]]
   },
   "karriar": {
     "rubrik": "Fyra bolag att växa i",
     "text": "Många börjar som uthyrare eller mekaniker och går vidare till ett annat bolag i koncernen. Vi har 14 lärlingar i verkstaden och betalar körkort och utbildningar för alla anställda.",
-    "jobb": [["Maskinmekaniker", "Västerås"], ["Uthyrare", "Köping"], ["Säljare begagnade maskiner", "Västerås"], ["Utbildare lift och fallskydd", "Västerås"]]
+    "jobb": [["Lärling maskinmekanik", "Västerås"], ["Uthyrare", "Köping"], ["Säljare begagnade maskiner", "Västerås"], ["Utbildare lift och fallskydd", "Västerås"]]
   },
   "kultur": "Sju av våra mekaniker har varit hos oss i över trettio år, och fyra av dem lärde sig yrket som lärlingar i samma hall.",
   "citat": {"text": "Farfars far hyrde ut en betongblandare för att den stod still mer än den användes. Samma tanke styr oss fortfarande: en maskin ska arbeta, och när vi inte behöver den ska någon annan få göra det.", "namn": "Oskar Ekelund-Nyberg", "roll": "Vd, fjärde generationen", "tagg": "people"},
@@ -83,7 +83,7 @@
   "faq": [
     ["Kan jag köpa den maskin jag hyr?", "Ja. När en maskin är fyra år erbjuder vi den först till kunder som har hyrt den, och de senaste tre månadernas hyra räknas av från priset."],
     ["Servar ni maskiner ni inte har sålt?", "Ja, Ekelund Verkstad servar alla märken. Hälften av verkstadens arbete gäller kunders egna maskiner."],
-    ["Hyr ni ut till privatpersoner?", "Ja, i alla sex depåer. Privatpersoner betalar med kort och får priser inklusive moms."],
+    ["Kan jag hyra som privatperson?", "Ja, i alla sex depåer. Privatpersoner betalar med kort och får priser inklusive moms."],
     ["Vilka utbildningar har ni?", "Maskinförarbevis, liftutbildning, truckkort, fallskydd och arbete på väg. De flesta kurser går varje vecka i Hälla."],
     ["Kan jag lämna maskinen på en annan depå?", "Ja, med ramavtal eller mot en flyttavgift på 900 kronor för mindre maskiner."],
     ["Är ni ett familjeföretag fortfarande?", "Ja, koncernen ägs helt av familjen Ekelund. Fyra generationer har arbetat i företaget."],
@@ -93,7 +93,7 @@
     {"titel": "ISO 9001 och ISO 14001", "text": "Kvalitets- och miljöledning certifierad för alla fyra bolag och sex depåer.", "ikon": "skold"},
     {"titel": "Certifierad förarutbildare", "text": "Ekelund Utbildning är godkänd utbildningsanordnare för maskinförarbevis enligt MYN.", "ikon": "skola"},
     {"titel": "Högsta kreditbetyg", "text": "Koncernen har haft högsta kreditbetyg varje år sedan 2004.", "ikon": "graf"},
-    {"titel": "Kollektivavtal", "text": "Kollektivavtal med IF Metall, Byggnads och Unionen i samtliga bolag.", "ikon": "folk"}
+    {"titel": "Avtal med tre fack", "text": "Kollektivavtal med IF Metall, Byggnads och Unionen i samtliga bolag.", "ikon": "folk"}
   ],
   "kunder": ["Köpings kommun, VA-avdelningen", "Hälla Industrifastigheter", "Brf Kopparlunden", "Arboga Mekaniska Verkstad", "Fagersta Bergteknik", "Enköpings Bostadsbyggare", "Västmanlands Ledningsbyggare", "Kolbäcks Lantmän"],
   "kontor_lista": [

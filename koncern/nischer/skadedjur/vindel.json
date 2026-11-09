@@ -17,24 +17,24 @@
   ],
   "vagval_rubrik": "Vad kryper i trappuppgången?",
   "tjanster": [
-    {"titel": "Kackerlackor", "ikon": "sok", "href": "verksamhet.html", "text": "Tyska kackerlackan saneras med gelbete och klisterkort i alla lägenheter längs samma stam."},
+    {"titel": "Tyska kackerlackan", "ikon": "sok", "href": "verksamhet.html", "text": "Tyska kackerlackan saneras med gelbete och klisterkort i alla lägenheter längs samma stam."},
     {"titel": "Faraomyror", "ikon": "kugge", "href": "verksamhet.html", "text": "Vi kartlägger samhällena med proteinbeten innan vi behandlar, så att drottningarna inte delar sig."},
     {"titel": "Långsprötad silverfisk", "ikon": "vatten", "href": "verksamhet.html", "text": "Övervakning med klisterfällor i badrum och förråd, följd av riktad behandling i golvlister."},
     {"titel": "Artbestämning i labbet", "ikon": "lampa", "href": "verksamhet.html", "text": "Skicka in en insekt i en burk – svar med art och råd inom ett arbetsdygn."},
     {"titel": "Pälsängrar och mal", "ikon": "sax", "href": "verksamhet.html", "text": "Feromonfällor och frysning av textilier för hem, förråd och second hand-butiker."},
     {"titel": "Storkök och skolkök", "ikon": "skola", "href": "verksamhet.html", "text": "Kvartalsvis insektsövervakning med protokoll för miljö- och hälsoskyddets inspektioner."},
-    {"titel": "Fastighetsavtal", "ikon": "hus", "href": "priser.html", "text": "Fast pris per trappuppgång och år, med fri utryckning vid nya fynd."},
+    {"titel": "Avtal per trappuppgång", "ikon": "hus", "href": "priser.html", "text": "Fast pris per trappuppgång och år, med fri utryckning vid nya fynd."},
     {"titel": "Skicka in ett fynd", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Adress och provburk får du av oss på telefon."}
   ],
   "affarsomraden": [
-    {"titel": "Flerbostadshus", "text": "Kackerlackor och faraomyror respekterar inga lägenhetsgränser. Vi behandlar hela stammen samtidigt och följer upp med klisterkort i varje kök i sex veckor.", "text2": "Hyresgästerna får informationsblad på svenska, arabiska, somaliska och tigrinja.", "tagg": "bostad"},
+    {"titel": "Hela trapphus", "text": "Kackerlackor och faraomyror respekterar inga lägenhetsgränser. Vi behandlar hela stammen samtidigt och följer upp med klisterkort i varje kök i sex veckor.", "text2": "Hyresgästerna får informationsblad på svenska, arabiska, somaliska och tigrinja.", "tagg": "bostad"},
     {"titel": "Labb och artbestämning", "text": "Mjölbagge eller brödbagge, vanlig eller långsprötad silverfisk – svaret avgör metoden. Labbet tar emot prover från hela Norrland och från andra skadedjursföretag.", "text2": "En artbestämning kostar 395 kr och dras av om vi sedan gör behandlingen.", "tagg": "skadedjur"},
     {"titel": "Kök och livsmedel", "text": "I storkök, bagerier och butiker sitter insekterna bakom diskmaskiner och i kabelstegar. Vi kontrollerar med UV-lampa och klisterkort fyra gånger per år.", "text2": "Rapporten följer kommunens mall för egenkontroll.", "tagg": "industri"},
     {"titel": "Textilskadedjur", "text": "Pälsängrar, klädmal och tapetserarmal förstör ylle och mattor i det tysta. Vi hittar källan, ofta en död fågel eller ett gammalt pälsförråd.", "text2": "Frysbehandling i vår container på minus 30 grader i 72 timmar.", "tagg": "interior"}
   ],
   "bolag": [
-    {"namn": "Fältteamet Umeå", "segment": "Sju tekniker", "rubrik": "Stammar, kök och källarförråd", "text": "Tar hand om bostadsbolag och storkök i Umeå, Vännäs och Holmsund. Varje tekniker har egna fastigheter och lär känna hyresgästerna.", "tagg": "skadedjur"},
-    {"namn": "Fältteamet Skellefteå", "segment": "Fyra tekniker", "rubrik": "Där staden växer snabbast", "text": "Öppnade 2023 när de nya bostadsområdena runt batterifabriken började få sina första kackerlackor från flyttlass.", "tagg": "bostad"},
+    {"namn": "Fältteamet Umeå", "segment": "Sju tekniker i Umeå", "rubrik": "Stammar, kök och källarförråd", "text": "Tar hand om bostadsbolag och storkök i Umeå, Vännäs och Holmsund. Varje tekniker har egna fastigheter och lär känna hyresgästerna.", "tagg": "skadedjur"},
+    {"namn": "Fältteamet Skellefteå", "segment": "Fyra tekniker i nya kvarter", "rubrik": "Där staden växer snabbast", "text": "Öppnade 2023 när de nya bostadsområdena runt batterifabriken började få sina första kackerlackor från flyttlass.", "tagg": "bostad"},
     {"namn": "Labbet", "segment": "Hedvig Marklund med assistent", "rubrik": "Stereomikroskop och referenssamling", "text": "Artbestämmer omkring 1 800 prover om året och har en referenssamling med 340 arter av förrådsinsekter.", "tagg": "kontor"}
   ],
   "berattelser": [
@@ -50,7 +50,7 @@
   ],
   "projekt": [
     {"namn": "Faraomyror på Ålidhem", "ort": "Umeå", "typ": "Flerbostadshus", "ar": "2026", "text": "212 lägenheter i tre kvarter, behandlade i etapper med proteinbete under fjorton månader.", "tagg": "bostad"},
-    {"namn": "Kackerlackor i studentkorridor", "ort": "Umeå, Mariehem", "typ": "Studentbostäder", "ar": "2025", "text": "Fyra korridorer med gemensamma kök sanerade under jullovet när studenterna var hemma.", "tagg": "skadedjur"},
+    {"namn": "Kackerlackor i studentkorridor", "ort": "Umeå, Mariehem", "typ": "Studentkorridor", "ar": "2025", "text": "Fyra korridorer med gemensamma kök sanerade under jullovet när studenterna var hemma.", "tagg": "skadedjur"},
     {"namn": "Silverfisk i nyproduktion", "ort": "Skellefteå", "typ": "Nybyggt", "ar": "2025", "text": "Långsprötad silverfisk följde med byggskivor in i 64 nya lägenheter – fångstantalet sjönk med 94 procent på ett år.", "tagg": "bostad"},
     {"namn": "Mjölbaggar i skolkök", "ort": "Vännäs", "typ": "Storkök", "ar": "2025", "text": "Källan hittades i en bortglömd säck ströbröd bakom en hylla och köket var fritt efter två veckor.", "tagg": "industri"},
     {"namn": "Pälsängrar i hembygdsgård", "ort": "Holmsund", "typ": "Textil", "ar": "2024", "text": "Folkdräkter och vävda mattor frystes i omgångar och vinden försågs med feromonfällor.", "tagg": "interior"},
@@ -97,7 +97,7 @@
     {"titel": "Biocidbehörighet för insekter", "text": "Alla tekniker har Kemikalieinspektionens behörighet för insekticider i yrkesmässig skadedjursbekämpning.", "ikon": "skold"},
     {"titel": "Disputerad entomolog", "text": "Hedvig Marklund är filosofie doktor i ekologi och granskar alla artbestämningar själv.", "ikon": "lampa"},
     {"titel": "Branschens etiska regler", "text": "Medlemmar i branschorganisationen för skadedjursföretag och följer dess riktlinjer för information till boende.", "ikon": "dokument"},
-    {"titel": "ISO 14001", "text": "Miljöledningssystem certifierat sedan 2021, med insekticidförbrukning som mätbart mål.", "ikon": "lov"}
+    {"titel": "Miljöcertifierade sedan 2021", "text": "Miljöledningssystem certifierat sedan 2021, med insekticidförbrukning som mätbart mål.", "ikon": "lov"}
   ],
   "kunder": ["Bostadsstiftelsen Ålidhem", "Brf Mariehemsgården", "Skelleftebo Hyreshus AB", "Vännäs kommun, kostenheten", "Studentbo Umeå", "Lycksele Fastighetsförvaltning", "Västerbottens Storkök AB", "Holmsunds Hembygdsförening"],
   "nyheter": [
@@ -120,7 +120,7 @@
     "faq_rubrik": "Frågor om insekter inomhus",
     "priser_rubrik": "Pris per prov, lägenhet och uppgång",
     "priser_utvald": "Mest beställt",
-    "priser_not": "Priser inklusive moms. Artbestämningen dras av när vi utför behandlingen.",
+    "priser_not": "Alla priser med moms. Artbestämningen dras av när vi utför behandlingen.",
     "boka_rubrik": "Vad har du hittat?",
     "boka_text": "Beskriv insekten, var den syntes och hur många. Bifoga gärna en skarp bild så ringer en tekniker upp nästa arbetsdag.",
     "boka_falt": ["Namn", "Telefon", "E-post", "Insekten och var den hittades"],

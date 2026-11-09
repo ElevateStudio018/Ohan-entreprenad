@@ -6,7 +6,7 @@
   "kortnamn": "Sandskogen",
   "slug": "sandskogen",
   "typ": "Fortbildning för vana förare i Ystad",
-  "tagline": "För dig som redan kör",
+  "tagline": "Trygg bakom ratten längre",
   "slogan": "Vi lär inte ut körkort – vi hjälper förare som haft körkort i femtio år att fortsätta köra tryggt på Österlen.",
   "hero_rubrik": "Fortsätt köra. Med lite hjälp.",
   "hero_text": "Körbedömning, repetitionslektioner och stöd efter sjukdom för förare över 65 i Ystad och på Österlen. I din egen bil, utan prov och utan pekpinnar.",
@@ -33,7 +33,7 @@
     {"titel": "Samtal med anhöriga", "text": "Många vuxna barn oroar sig för en förälder som kör, men vet inte hur man tar upp det utan att det blir bråk. Ett samtal med oss, och sedan en körbedömning, gör det ofta lättare för alla.", "text2": "Föräldern bestämmer alltid själv om bedömningen.", "tagg": "hem"}
   ],
   "bolag": [
-    {"namn": "Birgitta Wallin", "segment": "Grundare", "rubrik": "31 år i Malmötrafiken", "text": "Gör de flesta körbedömningarna och alla anhörigsamtal.", "tagg": "people"},
+    {"namn": "Birgitta Wallin", "segment": "Grundade skolan 2017", "rubrik": "31 år i Malmötrafiken", "text": "Gör de flesta körbedömningarna och alla anhörigsamtal.", "tagg": "people"},
     {"namn": "Trafikmedicin", "segment": "Göran och Lena", "rubrik": "Efter stroke och operation", "text": "Två lärare med vidareutbildning i trafikmedicin från Lunds universitet.", "tagg": "korskola"},
     {"namn": "Österlenbilen", "segment": "Simrishamn och Tomelilla", "rubrik": "Vi kommer hem till dig", "text": "En lärare som utgår från Simrishamn två dagar i veckan.", "tagg": "natur"}
   ],
@@ -51,7 +51,7 @@
   "projekt": [
     {"namn": "Ystads lasarett, strokerehab", "ort": "Ystad", "typ": "Körbedömningar", "ar": "2026", "text": "Bedömning efter avslutad rehabilitering, bokad direkt av arbetsterapeuten.", "tagg": "people", "status": "Pågående"},
     {"namn": "PRO Ystad", "ort": "Ystad", "typ": "Föreläsning", "ar": "2025", "text": "En kväll om nya trafikregler och tre månader av repetitionslektioner efteråt.", "tagg": "stad"},
-    {"namn": "SPF Seniorerna Österlen", "ort": "Simrishamn", "typ": "Repetitionsdag", "ar": "2025", "text": "Teori på förmiddagen och korta körpass i egen bil på eftermiddagen.", "tagg": "natur"},
+    {"namn": "SPF Seniorerna Österlen", "ort": "Simrishamn", "typ": "Repetition i grupp", "ar": "2025", "text": "Teori på förmiddagen och korta körpass i egen bil på eftermiddagen.", "tagg": "natur"},
     {"namn": "Tomelilla kommun, äldreomsorgen", "ort": "Tomelilla", "typ": "Livet utan bil", "ar": "2025", "text": "Samtalsgrupp om färdtjänst, buss och samåkning för den som slutat köra.", "tagg": "hem"},
     {"namn": "Brf Sandskogsbrynet", "ort": "Ystad", "typ": "Ny bil, ny teknik", "ar": "2024", "text": "Introduktion till elbil och laddning när föreningen byggde laddplatser.", "tagg": "korskola"},
     {"namn": "Skurups Lions", "ort": "Skurup", "typ": "Mörkerkörning", "ar": "2024", "text": "Fyra kvällar med mörkerkörning för medlemmar som slutat köra på vintern.", "tagg": "stad"}
@@ -65,22 +65,22 @@
   "hallbarhet": {
     "rubrik": "Ditt utlåtande är ditt",
     "text": "Vi rapporterar aldrig till Transportstyrelsen eller läkare. Om vi ser något allvarligt säger vi det rakt till dig, och föreslår vad du kan göra. Det är därför folk vågar komma.",
-    "mal": [["0", "rapporter till myndigheter utan ditt samtycke"], ["7 dagar", "till skriftligt utlåtande"], ["90 min", "för varje körbedömning"]]
+    "mal": [["0", "rapporter till myndigheter utan ditt samtycke"], ["1 vecka", "till skriftligt utlåtande"], ["90 min", "för varje körbedömning"]]
   },
   "karriar": {
     "rubrik": "Erfaren trafiklärare för en lugnare vardag",
     "text": "Vi söker en trafiklärare med minst tio års erfarenhet som vill undervisa vana förare i deras egna bilar. Deltid 50–75 procent, utgångspunkt i Ystad.",
-    "jobb": [["Trafiklärare, deltid", "Ystad"]]
+    "jobb": [["Trafiklärare 50–75 %", "Ystad"]]
   },
   "kultur": "Varje torsdag fikar vi med de elever som har lektion den dagen – kaffet är gratis och sockerkakan bakad av Lena.",
-  "citat": {"text": "Ingen vill bli tagen ifrån sin bil. Men de flesta vill veta sanningen, om den kommer från någon som inte har ett eget intresse i saken.", "namn": "Birgitta Wallin", "roll": "Grundare och trafiklärare", "tagg": "people"},
+  "citat": {"text": "Ingen vill bli tagen ifrån sin bil. Men de flesta vill veta sanningen, om den kommer från någon som inte har ett eget intresse i saken.", "namn": "Birgitta Wallin", "roll": "Grundare och lärare", "tagg": "people"},
   "omdomen": [
     {"text": "Mina barn tjatade om att jag skulle sluta köra. Bedömningen visade att jag kör bra, men att jag ska undvika mörker. Nu bråkar vi inte längre.", "namn": "Ingegerd H., 83", "ort": "Ystad"},
     {"text": "Efter stroken trodde jag att det var slut. Göran började med mig på en tom parkering, och i dag kör jag till golfklubben.", "namn": "Kjell N., 74", "ort": "Skurup"},
     {"text": "Vi ringde för mammas skull och fick ett samtal som gjorde hela familjen lugnare.", "namn": "Annika W.", "ort": "Simrishamn"}
   ],
   "faq": [
-    ["Kan jag bli av med körkortet hos er?", "Nej. Vi är ingen myndighet och rapporterar inte till någon. Det är bara läkare och Transportstyrelsen som kan pröva ditt körkort."],
+    ["Kan jag bli av med körkortet hos er?", "Aldrig. Vi är ingen myndighet och rapporterar inte till någon. Det är bara läkare och Transportstyrelsen som kan pröva ditt körkort."],
     ["Måste jag köra i er bil?", "Nej, de flesta kör i sin egen bil eftersom det är den de kör i vardagen. Vi har en bil med dubbelkommando om du hellre vill det."],
     ["Kan mina barn boka åt mig?", "De kan ringa och prata med oss, men det är alltid du som bestämmer om du vill göra en bedömning."],
     ["Vad händer om ni tycker att jag borde sluta köra?", "Då säger vi det, förklarar varför och hjälper dig planera hur du tar dig fram ändå. Beslutet är ditt."],
@@ -97,7 +97,7 @@
     {"titel": "Godkänd av Transportstyrelsen", "text": "Trafikskoletillstånd för behörighet B sedan 2017.", "ikon": "dokument"},
     {"titel": "Trafikmedicinsk kompetens", "text": "Två lärare med högskolekurs i trafikmedicin från Lunds universitet.", "ikon": "vard"},
     {"titel": "Samarbete med lasarettet", "text": "Rutin för remiss från arbetsterapin på Ystads lasarett sedan 2026.", "ikon": "kors"},
-    {"titel": "Trafiklärarexamen", "text": "Alla fem lärare har examen och sammanlagt 132 års erfarenhet.", "ikon": "skola"}
+    {"titel": "Lång erfarenhet", "text": "Alla fem lärare har examen och sammanlagt 132 års erfarenhet.", "ikon": "skola"}
   ],
   "kunder": ["Ystads lasarett, strokerehab", "PRO Ystad", "SPF Seniorerna Österlen", "Tomelilla kommun, äldreomsorgen", "Brf Sandskogsbrynet", "Skurups Lions", "Österlens Golfklubb"],
   "nyheter": [
@@ -120,13 +120,13 @@
     "proj_rubrik": "Föreningar och vård vi arbetar med",
     "process_etikett": "Så går en bedömning till",
     "process_rubrik": "Från samtal till utlåtande",
-    "bolag_etikett": "Lärarna",
+    "bolag_etikett": "Personalen",
     "bolag_rubrik": "Fem lärare med lång erfarenhet",
     "hb_etikett": "Integritet",
     "priser_etikett": "Kostnad",
     "priser_rubrik": "Bedömning, lektion eller samtal",
-    "priser_utvald": "Börja här",
-    "priser_not": "Priserna inkluderar moms. Resetillägg utanför de fyra kommunerna.",
+    "priser_utvald": "Oftast först",
+    "priser_not": "Moms är medräknad, och resetillägg tas bara ut utanför de fyra kommunerna.",
     "omdomen_rubrik": "Förare och anhöriga om oss",
     "faq_rubrik": "Det många oroar sig för",
     "boka_rubrik": "Ett samtal först, sedan bestämmer du",

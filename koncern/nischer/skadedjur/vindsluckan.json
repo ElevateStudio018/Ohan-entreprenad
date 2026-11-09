@@ -1,0 +1,134 @@
+{
+  "profil": "nisch",
+  "nisch": "skadedjur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vindsluckan AB",
+  "kortnamn": "Vindsluckan",
+  "slug": "vindsluckan",
+  "typ": "Vindssanering efter skadedjur i Gästrikland",
+  "tagline": "Vi städar efter råttorna",
+  "slogan": "När djuren är borta ligger spillningen, urinen och de gnagda kablarna kvar – vi suger ut den förorenade isoleringen, desinficerar och blåser in ny.",
+  "hero_rubrik": "Ny vind på en dag. Gammal lukt borta.",
+  "hero_text": "Vindsluckan sanerar vindar, krypgrunder och bjälklag efter råttor, möss, mård och fåglar. Ett familjeföretag i Gävle som var isolerare i trettio år innan vi började städa efter skadedjuren.",
+  "intro_rubrik": "Isolerare sedan 1986",
+  "om": [
+    "Per-Olov Hedin startade en isoleringsfirma i Gävle 1986 och blåste lösull på tusentals vindar i Gästrikland. Runt 2012 märkte han att allt fler jobb började med att riva ut isolering full av musbon och spillning, och döttrarna Malin och Josefin föreslog att företaget skulle bli specialister på just det.",
+    "Sedan 2014 heter vi Vindsluckan och gör nästan bara saneringar efter skadedjur. Vi är 22 anställda med fem sugbilar och tar uppdrag från villaägare, försäkringsbolag och skadedjursföretag som behöver någon som tar hand om det som blir kvar när djuren är borta."
+  ],
+  "vagval_rubrik": "Vad har bott på din vind?",
+  "tjanster": [
+    {"titel": "Isolering ut och in", "ikon": "vind", "href": "verksamhet.html", "text": "Förorenad lösull sugs ut med sugbil och ny cellulosa eller stenull blåses in samma dag."},
+    {"titel": "Spillning och urin", "ikon": "kugge", "href": "verksamhet.html", "text": "Bjälklag och takstolar rengörs och desinficeras med väteperoxid efter sugningen."},
+    {"titel": "Luktsanering", "ikon": "sol", "href": "verksamhet.html", "text": "Ozonbehandling när lukten från mård eller döda djur sitter kvar i virket."},
+    {"titel": "Krypgrunder", "ikon": "hus", "href": "verksamhet.html", "text": "Rensning av gamla musbon och byte av markisolering i torpargrunder och krypgrunder."},
+    {"titel": "Fågelspillning", "ikon": "upp", "href": "verksamhet.html", "text": "Sanering av duv- och kajspillning med andningsskydd och undertryck på vindar och kyrktorn."},
+    {"titel": "Gnagda elkablar", "ikon": "blixt", "href": "verksamhet.html", "text": "Vi dokumenterar kabelskador och tar med vår elektriker som byter dem innan ny isolering läggs."},
+    {"titel": "Försäkringsärenden", "ikon": "dokument", "href": "verksamhet.html", "text": "Skadeutredning med bilder och kostnadsberäkning direkt till försäkringsbolaget."},
+    {"titel": "Beställ vindsbesiktning", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi tittar på vinden och lämnar fast pris inom tre dagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Vindar efter gnagare", "text": "En musfamilj som bott ett par vintrar i lösullen lämnar kilovis med spillning och urin. Vi suger ut allt med slang från sugbilen, så att ingenting bärs genom huset.", "text2": "En normal villavind på 80 kvadratmeter är klar på en arbetsdag.", "tagg": "tak"},
+    {"titel": "Mård och fåglar", "text": "Mården samlar matrester och markerar revir med urin, och duvor lämnar tjocka lager spillning som kan bära smitta. Här arbetar vi med helmask, undertryck och engångsoveraller.", "text2": "Efter saneringen ozonbehandlar vi vinden i ett dygn om lukten sitter kvar.", "tagg": "stadning"},
+    {"titel": "Försäkringsbolag", "text": "Sju försäkringsbolag anlitar oss för skadeutredning och sanering efter skadedjur. Vi lämnar bilder, fuktmätning och en specificerad kalkyl inom tre arbetsdagar.", "text2": "Kunden betalar bara självrisken när skadan är godkänd.", "tagg": "kontor"},
+    {"titel": "Skadedjursföretag", "text": "De flesta skadedjursföretag tar bort djuren men inte det de lämnat efter sig. Vi är underleverantör åt fem företag i Gävleborg och Uppland.", "text2": "Teknikern får en rapport med bilder när vinden är sanerad och tätad.", "tagg": "skadedjur"}
+  ],
+  "bolag": [
+    {"namn": "Saneringslagen", "segment": "Fjorton montörer i fem lag", "rubrik": "En sugbil, en vind, en dag", "text": "Varje lag har en sugbil med 60 meter slang och en inblåsningsmaskin, och klarar en villavind på en arbetsdag.", "tagg": "tak"},
+    {"namn": "Skadeutredning", "segment": "Josefin Hedin och två utredare", "rubrik": "Bilder, mätning och kalkyl", "text": "Besiktigar, fuktmäter och skriver underlag för försäkringsbolag och fastighetsägare.", "tagg": "kontor"},
+    {"namn": "Kontor och planering", "segment": "Malin Hedin och två kollegor", "rubrik": "Från samtal till bokad sugbil", "text": "Planerar lagen, beställer material och håller kontakten med kunderna under hela uppdraget.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fyrtio år i branschen", "text": "Per-Olov firade fyrtio år med isolering i år, och jobbar fortfarande en dag i veckan i ett av lagen.", "tagg": "people"},
+    {"rubrik": "Femte sugbilen i drift", "text": "Den nya bilen tar 30 kubikmeter isolering per lass och gör att vi hinner med stora flerbostadshus.", "tagg": "tak"},
+    {"rubrik": "Kyrktorn i Hille", "text": "Tre ton duvspillning bars ut i säckar från ett kyrktorn under en vecka i september.", "tagg": "stadning"}
+  ],
+  "nyckeltal": [
+    {"varde": "1986", "enhet": "", "etikett": "Familjen började isolera vindar"},
+    {"varde": "5", "enhet": "sugbilar", "etikett": "En vind per bil och dag"},
+    {"varde": "940", "enhet": "vindar", "etikett": "Sanerade 2025"},
+    {"varde": "7", "enhet": "försäkringsbolag", "etikett": "Anlitar oss för skadeutredning"}
+  ],
+  "projekt": [
+    {"namn": "Råttor i 50-talsvilla", "ort": "Gävle, Brynäs", "typ": "Villa", "ar": "2026", "text": "12 kubikmeter förorenad kutterspån ut, bjälklaget desinficerat och 30 centimeter ny cellulosa in.", "tagg": "tak"},
+    {"namn": "Mård i timmerhus", "ort": "Sandviken", "typ": "Mård", "ar": "2025", "text": "Sanering och ozonbehandling i två dygn innan lukten var borta ur virket.", "tagg": "stadning"},
+    {"namn": "Duvspillning i kyrktorn", "ort": "Hille", "typ": "Fåglar", "ar": "2026", "text": "Tre ton spillning bortforslad under undertryck och tornluckorna nätade.", "tagg": "stadning"},
+    {"namn": "Hyreshus med musvindar", "ort": "Hofors", "typ": "Flerbostadshus", "ar": "2025", "text": "Fyra vindar på sammanlagt 1 100 kvadratmeter sanerade och tätade på tre veckor.", "tagg": "bostad"},
+    {"namn": "Krypgrund i sommarhus", "ort": "Furuvik", "typ": "Krypgrund", "ar": "2024", "text": "Gamla musbon och fuktig isolering ersattes med ny markskiva och råttnät.", "tagg": "hem"},
+    {"namn": "Skolvind i Ockelbo", "ort": "Ockelbo", "typ": "Kommun", "ar": "2026", "text": "Sanering av vinden över matsalen efter råttor – utförs under höstlovet.", "tagg": "tak", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Besiktning", "text": "Vi kryper upp på vinden, tar bilder, mäter fukt och ser hur långt föroreningen har spritt sig.", "tagg": "tak"},
+    {"titel": "Fast pris", "text": "Inom tre dagar får du ett fast pris – eller så skickar vi underlaget direkt till ditt försäkringsbolag.", "tagg": "kontor"},
+    {"titel": "Sanering på en dag", "text": "Isoleringen sugs ut, ytorna desinficeras och kabelskador åtgärdas av vår elektriker.", "tagg": "stadning"},
+    {"titel": "Ny isolering och tätning", "text": "Ny lösull blåses in och alla öppningar tätas med nät och plåt så att djuren inte kommer tillbaka.", "tagg": "tak"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen spillning genom vardagsrummet",
+    "text": "Allt förorenat material går genom slang direkt till sugbilen och vidare till förbränning i kraftvärmeverket – inga säckar bärs genom huset. Montörerna arbetar alltid med andningsskydd, eftersom damm från musspillning kan sprida sorkfeber. Ny isolering är cellulosa från returpapper.",
+    "mal": [["0", "säckar som bärs genom bostaden"], ["100 %", "andningsskydd på varje sanering"], ["90 %", "av ny isolering är returpapper"]]
+  },
+  "karriar": {
+    "rubrik": "Smutsigt jobb, rena vindar",
+    "text": "Vi söker montörer som inte är rädda för trånga utrymmen och damm. Du får körkortsutbildning för C-behörighet, all skyddsutrustning och arbetar i fasta lag dagtid.",
+    "jobb": [["Saneringsmontör", "Gävle"], ["Skadeutredare", "Gävle"]]
+  },
+  "kultur": "Varje lag avslutar dagen med att visa kunden vinden – före- och efterbilderna tas från exakt samma plats.",
+  "citat": {"text": "Jag har legat på fler vindar än de flesta har varit på. Det som skiljer en vind där mössen har bott från en ren är inte bara lukten, det är vad man andas in.", "namn": "Per-Olov Hedin", "roll": "Grundare och montör", "tagg": "tak"},
+  "omdomen": [
+    {"text": "Skadedjursfirman tog bort råttorna men vinden luktade fortfarande. Vindsluckan var klara på en dag och nu luktar det trä igen.", "namn": "Ewa K.", "ort": "Gävle"},
+    {"text": "De skickade allt till försäkringsbolaget själva. Jag behövde bara betala självrisken.", "namn": "Roger M.", "ort": "Sandviken"},
+    {"text": "Ingen enda säck bars genom huset. Slangen gick från vindsluckan rakt ut genom fönstret till bilen.", "namn": "Helén B.", "ort": "Valbo"}
+  ],
+  "faq": [
+    ["Måste isoleringen bytas efter möss?", "Om det bara rör sig om ett par möss räcker det ofta att ta bort boet. Har de bott i flera vintrar är isoleringen full av spillning och urin och bör bytas."],
+    ["Är musspillning farligt?", "Damm från spillning från skogssork kan sprida sorkfeber, som är vanligt i Norrland. Sopa eller dammsug aldrig spillning utan andningsskydd."],
+    ["Tar ni bort djuren också?", "Nej, det gör ett skadedjursföretag. Vi samarbetar med flera och kan rekommendera ett i ditt område."],
+    ["Kan försäkringen täcka saneringen?", "Många villahemförsäkringar ersätter sanering efter skadedjur. Vi skriver underlaget och har kontakt med handläggaren."],
+    ["Hur lång tid tar en sanering?", "En vanlig villavind tar en arbetsdag. Mård och fåglar kan kräva ett extra dygn för luktsanering."],
+    ["Måste vi flytta ut?", "Nej. Allt sker på vinden och genom slang till bilen. Vid ozonbehandling behöver ni hålla er borta från övervåningen i ett dygn."],
+    ["Vilken isolering använder ni?", "Oftast cellulosa av returpapper, som andas och fungerar bra i äldre hus. Stenull när huset kräver det."]
+  ],
+  "priser": [
+    {"namn": "Vindsbesiktning", "pris": "1 250 kr", "enhet": "per vind", "text": "Bilder, fuktmätning och fast pris.", "punkter": ["Fotodokumentation", "Fuktmätning i bjälklaget", "Skriftligt fast pris", "Dras av om du beställer saneringen"]},
+    {"namn": "Villavind komplett", "pris": "fr. 38 000 kr", "enhet": "upp till 80 m²", "text": "Ut, rent och ny isolering in.", "punkter": ["Sugning av all isolering", "Desinfektion av bjälklag", "30 cm ny cellulosaisolering", "Tätning av ingångar"], "utvald": true},
+    {"namn": "Luktsanering", "pris": "4 900 kr", "enhet": "per dygn", "text": "Ozonbehandling efter mård eller döda djur.", "punkter": ["Ozonaggregat i ett dygn", "Mätning före frisläppning", "Kontroll efter en vecka", "Ny behandling om lukten kommer tillbaka"]}
+  ],
+  "prislista": [["Krypgrund, per m²", "fr. 420 kr"], ["Extra m² vindsyta", "380 kr"], ["Fågelspillning, per timme och lag", "1 950 kr"], ["Byte av gnagd elkabel, per meter", "fr. 290 kr"], ["Tätning av takfot, per meter", "260 kr"], ["Skadeutredning till försäkringsbolag", "2 400 kr"]],
+  "certifikat": [
+    {"titel": "Behörig isolerare", "text": "Medlemmar i Isoleringsfirmornas Förening och följer branschens regler för lösullsisolering.", "ikon": "hamare"},
+    {"titel": "Saneringsutbildade", "text": "Alla montörer har utbildning i sanering av biologiskt förorenat material och personlig skyddsutrustning.", "ikon": "skold"},
+    {"titel": "Auktoriserad elektriker", "text": "Kabelbyten görs av vår egen elinstallatör med auktorisation från Elsäkerhetsverket.", "ikon": "blixt"},
+    {"titel": "Fallskydd i torn och kupor", "text": "Utbildade i fallskydd för saneringar i kyrktorn och höga takkupor.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Gävle Hyreshus Södra", "Sandvikens Egnahem", "Hille församling", "Hofors Bostäder", "Ockelbo kommun, skolfastigheter", "Brf Brynäs Strand", "Furuviks Stugförening"],
+  "nyheter": [
+    ["2026-10-22", "Sorkfeberåret 2026", "Därför ska du aldrig dammsuga musspillning på vinden utan andningsskydd.", "tak"],
+    ["2026-06-09", "Femte sugbilen levererad", "Nu klarar vi även stora flerbostadshus på några dagar.", "stadning"],
+    ["2026-01-15", "Fyrtio år med lösull", "Per-Olov om vad han har hittat på Gästriklands vindar sedan 1986.", "people"]
+  ],
+  "kontakt": {"adress": "Atlasgatan 7", "postnr": "802 67", "ort": "Gävle", "telefon": "070-174 06 72", "epost": "malin@vindsluckan.se", "orgnr": ""},
+  "oppettider": "Vardagar 7–16",
+  "omrade": "Gästrikland, södra Hälsingland och norra Uppland",
+  "fot_cta": "Har djuren flyttat men lukten stannat? Boka en besiktning av vinden.",
+  "bild": {"panel": "tak", "hb": "stadning"},
+  "text": {
+    "ber_rubrik": "Senast på vindarna",
+    "proj_rubrik": "Vindar, torn och krypgrunder",
+    "proj_rubrik_lista": "Saneringar i Gästrikland",
+    "process_rubrik": "Från vindslucka till ren vind",
+    "hb_etikett": "Arbetsmiljö och avfall",
+    "omdomen_rubrik": "Efter saneringen",
+    "faq_rubrik": "Frågor om spillning och isolering",
+    "priser_rubrik": "Priser för en ren vind",
+    "priser_utvald": "Oftast beställd",
+    "priser_not": "Moms ingår, ROT-avdrag är inte medräknat. Vid försäkringsärenden betalar du självrisken.",
+    "boka_rubrik": "Boka besiktning av vinden",
+    "boka_text": "Beskriv vilka djur som har bott där och hur stor vinden är. Har du ett skadenummer från försäkringsbolaget, skriv det också.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Djur, vindens storlek och skadenummer"],
+    "logos_rubrik": "Bostadsbolag, församlingar och föreningar",
+    "certifikat_rubrik": "Isolerare med saneringsbehörighet",
+    "kontakt_knapp": "Beställ besiktning",
+    "vagval_etikett": "Saneringar",
+    "medarbetare": "Saneringsmontörerna"
+  }
+}

@@ -53,7 +53,7 @@
     {"namn": "Liftstolpar i Vemdalsskalet", "ort": "Vemdalen", "typ": "Fundament i lutning", "ar": "2025", "text": "Nio stolpfundament grävda i 30 graders lutning med vinschförankrad grävare.", "tagg": "natur"},
     {"namn": "Ledningsgata Hotagen", "ort": "Hotagen", "typ": "Stolpbyte på myr", "ar": "2024", "text": "64 stolpar utbytta över fyra myrar utan en enda tillfällig väg.", "tagg": "infra"},
     {"namn": "Återvätning Ljungan", "ort": "Åsarna", "typ": "Naturvård", "ar": "2025", "text": "Igenläggning av diken med torv från platsen och dokumentation efter varje dag.", "tagg": "natur"},
-    {"namn": "Fjällstation Storulvån", "ort": "Storlien", "typ": "Avlopp och vatten", "ar": "2024", "text": "Ny avloppsanläggning grävd i fjällhed och återställd med sparad torv.", "tagg": "mark"},
+    {"namn": "Fjällstation Storulvån", "ort": "Storlien", "typ": "VA i fjällhed", "ar": "2024", "text": "Ny avloppsanläggning grävd i fjällhed och återställd med sparad torv.", "tagg": "mark"},
     {"namn": "Snöfabrik i Ramundberget", "ort": "Funäsdalen", "typ": "Ledningsdragning", "ar": "2026", "text": "Två kilometer snökanonledning läggs i nedfarterna under sensommaren.", "tagg": "maskin", "status": "Pågående"}
   ],
   "process": [
@@ -65,7 +65,7 @@
   "hallbarhet": {
     "rubrik": "Fjället ska se orört ut efteråt",
     "text": "Ett körspår i fjällhed kan synas i trettio år. Därför sparar vi torven i sektioner, lägger tillbaka den samma dag när det går och väljer körväg tillsammans med samebyn när vi arbetar i renbetesland. Alla maskiner går på biologiskt nedbrytbar hydraulolja och HVO.",
-    "mal": [["100 %", "biologiskt nedbrytbar hydraulolja"], ["0,3", "kg/cm² högsta marktryck på fjällhed"], ["1", "fotodokumentation per körväg"]]
+    "mal": [["100 %", "nedbrytbar olja i hydraulsystemen"], ["0,3", "kg/cm² högsta marktryck på fjällhed"], ["1", "fotodokumentation per körväg"]]
   },
   "karriar": {
     "rubrik": "Förare som trivs utan väg",
@@ -73,7 +73,7 @@
     "jobb": [["Maskinförare bandgrävare", "Östersund"], ["Säsongsförare juni–oktober", "Funäsdalen"]]
   },
   "kultur": "Ingen kör ensam ovanför trädgränsen – förarna har satellittelefon och anmäler sin position varje kväll.",
-  "citat": {"text": "Jag lärde mig på regementet att det inte finns någon terräng man inte tar sig över. Frågan är bara hur den ser ut när man har åkt därifrån.", "namn": "Malin Persson", "roll": "Grundare och vd", "tagg": "natur"},
+  "citat": {"text": "Jag lärde mig på regementet att det inte finns någon terräng man inte tar sig över. Frågan är bara hur den ser ut när man har åkt därifrån.", "namn": "Malin Persson", "roll": "Grundare och ägare", "tagg": "natur"},
   "omdomen": [
     {"text": "Vi hade räknat med en helikopter för att få upp betongen. Jämtbandet bar upp allt på band på tre dagar och det kostade en femtedel.", "namn": "Per-Olof S.", "ort": "Bydalen"},
     {"text": "Föraren hade varit på platsen två dagar före oss och visste exakt var marken bar. Inte ett enda spår syntes vid slutbesiktningen.", "namn": "Ingrid M.", "ort": "Åsarna"},
@@ -88,10 +88,10 @@
     ["Vad händer om vädret slår om?", "Förarna har rätt att avbryta vid åska, dimma och kraftig nederbörd. Du betalar inte för timmar då maskinen står still av säkerhetsskäl."]
   ],
   "certifikat": [
-    {"titel": "Maskinförarbevis", "text": "Samtliga förare har maskinförarbevis enligt MYN och minst tre års erfarenhet av terrängarbete.", "ikon": "hjalm"},
+    {"titel": "Förare med MYN-bevis", "text": "Samtliga förare har maskinförarbevis enligt MYN och minst tre års erfarenhet av terrängarbete.", "ikon": "hjalm"},
     {"titel": "Dispens för terrängkörning", "text": "Vi har vana att söka och följa länsstyrelsens dispenser enligt terrängkörningslagen.", "ikon": "dokument"},
-    {"titel": "Miljöanpassad hydraulolja", "text": "Alla maskiner går på hydraulolja som uppfyller SS 15 54 34 och är biologiskt nedbrytbar.", "ikon": "trad"},
-    {"titel": "ID06 och kollektivavtal", "text": "Personalen har ID06-kort och kollektivavtal genom Byggnads och Maskinentreprenörerna.", "ikon": "folk"}
+    {"titel": "Olja som bryts ned i naturen", "text": "Alla maskiner går på hydraulolja som uppfyller SS 15 54 34 och är biologiskt nedbrytbar.", "ikon": "trad"},
+    {"titel": "Kollektivavtal och ID06-kort", "text": "Personalen har ID06-kort och kollektivavtal genom Byggnads och Maskinentreprenörerna.", "ikon": "folk"}
   ],
   "kunder": ["Duveds Fjällstugor", "Vemdalens Liftsystem", "Härjedalens Ledningsbyggare", "Storliens Stugförening", "Bydalens Samfällighet", "Kallsjöns Turistanläggning", "Hotagens Nätentreprenad"],
   "nyheter": [

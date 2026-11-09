@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Viltvårdarna", "segment": "Fyra med jägarexamen", "rubrik": "Spår, fällor och tillstånd", "text": "Artbestämmer djuret, sätter fällor och envägsluckor och sköter skyddsjakt enligt jaktförordningen.", "tagg": "natur"},
     {"namn": "Snickarna", "segment": "Tre byggare", "rubrik": "Nät, plåt och nya takfötter", "text": "Bygger om det som djuren har förstört och ser till att de inte kommer tillbaka, med samma material som huset redan har.", "tagg": "tra"},
-    {"namn": "Kontoret", "segment": "En samordnare i Skövde", "rubrik": "Ansökningar och försäkringar", "text": "Söker tillstånd för skyddsjakt hos Länsstyrelsen och hjälper kunder med underlag till försäkringsbolaget.", "tagg": "kontor"}
+    {"namn": "Samordningen", "segment": "En samordnare i Skövde", "rubrik": "Ansökningar och försäkringar", "text": "Söker tillstånd för skyddsjakt hos Länsstyrelsen och hjälper kunder med underlag till försäkringsbolaget.", "tagg": "kontor"}
   ],
   "berattelser": [
     {"rubrik": "Mårdfamilj flyttade frivilligt", "text": "En hona och tre ungar i en villa i Tibro lämnade vinden genom envägsluckan i början av juli.", "tagg": "tak"},
@@ -84,16 +84,16 @@
     ["Får man skjuta en mård som bor på vinden?", "Mård är jaktbar under jakttid, men skott i ett bostadsområde kräver tillstånd och går sällan att avlossa säkert nära hus. Därför använder vi nästan alltid envägsluckor."],
     ["Varför kan ni inte stänga på våren?", "Under april till juni kan det finnas ungar på vinden. Stänger vi då dör de där inne, och lukten blir mycket värre än ljuden."],
     ["Är grävling farlig?", "Sällan för människor, men den kan bära på skabb och gräva sönder grunder. Hundar bör hållas borta från grytet."],
-    ["Betalar försäkringen?", "Skador och sanering efter mård ersätts ofta av villahemförsäkringen. Vi dokumenterar med bilder och skriver ett utlåtande."],
+    ["Ersätter hemförsäkringen mårdskador?", "Skador och sanering efter mård ersätts ofta av villahemförsäkringen. Vi dokumenterar med bilder och skriver ett utlåtande."],
     ["Tar ni råttor och möss?", "Inte som eget uppdrag, men vi tätar samtidigt de hål som gnagare också kan använda."]
   ],
   "priser": [
-    {"namn": "Besiktning", "pris": "1 450 kr", "enhet": "per besök", "text": "Vi tar reda på vilket djur det är.", "punkter": ["Spårning och dokumentation", "Lån av åtelkamera i en vecka", "Skriftligt åtgärdsförslag", "Avräknas vid beställning"]},
+    {"namn": "Spårbesök", "pris": "1 450 kr", "enhet": "per besök", "text": "Vi tar reda på vilket djur det är.", "punkter": ["Spårning och dokumentation", "Lån av åtelkamera i en vecka", "Skriftligt åtgärdsförslag", "Avräknas vid beställning"]},
     {"namn": "Mård ut och tätat", "pris": "fr. 7 900 kr", "enhet": "per villa", "text": "Envägslucka, uppföljning och tätning.", "punkter": ["Envägslucka monterad", "Två uppföljningsbesök", "Tätning av ingångar med plåt och nät", "Tre års garanti mot återinflyttning"], "utvald": true},
     {"namn": "Grävskydd", "pris": "fr. 650 kr", "enhet": "per löpmeter", "text": "Nät nedgrävt runt altan eller förråd.", "punkter": ["Galvaniserat nät, 40 cm djupt", "Envägsgrind vid behov", "Återställning av gräsmatta", "Fem års garanti"]}
   ],
   "certifikat": [
-    {"titel": "Jägarexamen och vapenlicens", "text": "Fyra viltvårdare har jägarexamen, vapenlicens och erfarenhet av skyddsjakt i tätort.", "ikon": "skold"},
+    {"titel": "Licens för skyddsjakt", "text": "Fyra viltvårdare har jägarexamen, vapenlicens och erfarenhet av skyddsjakt i tätort.", "ikon": "skold"},
     {"titel": "Utbildade viltvårdare", "text": "Tre av fyra har gått viltvårdsutbildning med inriktning på vilt i bebyggelse.", "ikon": "skog"},
     {"titel": "Fallskydd och takarbete", "text": "Alla som går upp på tak har intyg för fallskydd och arbete på hög höjd.", "ikon": "hjalm"},
     {"titel": "ID06 på varje bygge", "text": "Alla snickare har ID06-kort och arbetar enligt byggbranschens regler för entreprenader.", "ikon": "dokument"}
@@ -119,7 +119,7 @@
     "faq_rubrik": "Frågor om mård, grävling och kanin",
     "priser_rubrik": "Vad det brukar kosta",
     "priser_utvald": "Vanligaste uppdraget",
-    "priser_not": "Priser inklusive moms. ROT-avdrag gäller för snickeriarbetet.",
+    "priser_not": "Moms ingår i alla priser. ROT-avdrag gäller för snickeriarbetet.",
     "boka_rubrik": "Vad har du hört eller sett?",
     "boka_text": "Beskriv ljud, spår eller skador och var på huset det sitter. Har du en bild eller film – skicka med den. Vi ringer upp inom ett dygn.",
     "boka_falt": ["Namn", "Telefon", "E-post", "Djuret, ljuden och var det håller till"],

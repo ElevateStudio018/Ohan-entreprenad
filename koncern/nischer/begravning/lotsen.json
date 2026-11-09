@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Rådgivningen", "segment": "Ronnebygatan, Karlskrona", "rubrik": "Fem rådgivare med skärgårdskänsla", "text": "Rådgivarna ordnar begravningar på land och planerar spridningarna tillsammans med besättningen.", "tagg": "begravning"},
     {"namn": "M/S Hoppet", "segment": "Två befälhavare, en matros", "rubrik": "Ceremonibåten", "text": "En ombyggd lotsbåt från 1964 med salong för 24 gäster, ramp för rullstol och toalett ombord.", "tagg": "bat"},
-    {"namn": "Jour och transport", "segment": "Två chaufförer", "rubrik": "Bil, båt och färja", "text": "Chaufförerna hämtar i hela Blekinge och följer med kistor ut till öarna.", "tagg": "natur"}
+    {"namn": "Bil och färja", "segment": "Två förare", "rubrik": "Bil, båt och färja", "text": "Chaufförerna hämtar i hela Blekinge och följer med kistor ut till öarna.", "tagg": "natur"}
   ],
   "berattelser": [
     {"rubrik": "M/S Hoppet har fått ny motor", "text": "Den gamla dieseln är ersatt av en motor som går på HVO och halverar bullret ombord.", "tagg": "bat"},
@@ -89,11 +89,11 @@
   ],
   "priser": [
     {"namn": "Askspridning", "pris": "fr. 9 800 kr", "enhet": "upp till 24 gäster", "text": "Spridning från M/S Hoppet efter kremering.", "punkter": ["Tillstånd från länsstyrelsen", "Vattenlöslig urna", "Befälhavare och matros", "Minnesbrev med koordinater"]},
-    {"namn": "Begravning och spridning", "pris": "fr. 34 500 kr", "enhet": "kyrka eller borgerligt + hav", "text": "Ceremoni på land och spridning till havs några veckor senare.", "punkter": ["Kista, svepning och transport", "Ceremonibukett och program", "Spridning från M/S Hoppet", "Kaffe ombord för gästerna"], "utvald": true},
-    {"namn": "Begravning på land", "pris": "fr. 25 800 kr", "enhet": "kyrklig eller borgerlig", "text": "En begravning i Karlskrona eller Ronneby utan båtresa.", "punkter": ["Kista och svepning", "Ceremonibukett", "Annons i lokaltidningen", "Rådgivare på plats"]}
+    {"namn": "Begravning och spridning", "pris": "fr. 34 500 kr", "enhet": "kyrka eller borgerligt + hav", "text": "Ceremoni på land och spridning till havs några veckor senare.", "punkter": ["Kista, svepning och körning", "Kistbukett och minnesprogram", "Spridning från M/S Hoppet", "Kaffe ombord för gästerna"], "utvald": true},
+    {"namn": "Begravning på land", "pris": "fr. 25 800 kr", "enhet": "kyrklig eller borgerlig", "text": "En begravning i Karlskrona eller Ronneby utan båtresa.", "punkter": ["Kista och linnebädd", "Bukett på kistan", "Dödsannons i en dagstidning", "Rådgivare på plats"]}
   ],
   "certifikat": [
-    {"titel": "Auktoriserad av SBF", "text": "Medlem i Sveriges Begravningsbyråers Förbund sedan 1975.", "ikon": "skold"},
+    {"titel": "SBF-medlem sedan 1975", "text": "Medlem i Sveriges Begravningsbyråers Förbund sedan 1975.", "ikon": "skold"},
     {"titel": "Transportstyrelsens tillsyn", "text": "M/S Hoppet är besiktigad som passagerarfartyg för 24 personer i inre fart.", "ikon": "bat"},
     {"titel": "Behöriga befälhavare", "text": "Två befälhavare med fartygsbefälsbehörighet och årlig säkerhetsutbildning.", "ikon": "hjalm"},
     {"titel": "Tillstånd för spridning", "text": "Fasta rutiner med länsstyrelsen i Blekinge för askspridning i skärgården.", "ikon": "dokument"}

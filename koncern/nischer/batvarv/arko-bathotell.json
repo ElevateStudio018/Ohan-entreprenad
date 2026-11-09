@@ -22,7 +22,7 @@
     {"titel": "Tankning och spolning", "ikon": "vatten", "href": "verksamhet.html", "text": "Vi tankar före turen och spolar bort salt och alger efteråt."},
     {"titel": "Laddning ombord", "ikon": "laddning", "href": "verksamhet.html", "text": "Batterierna underhållsladdas medan båten står i ställaget."},
     {"titel": "Concierge", "ikon": "nyckel", "href": "verksamhet.html", "text": "Is, kaffe och tidningen ombord när du kommer – om du vill."},
-    {"titel": "Motorservice", "ikon": "kugge", "href": "verksamhet.html", "text": "Service görs när båten ändå står still, utan extra lyft."},
+    {"titel": "Service i ställaget", "ikon": "kugge", "href": "verksamhet.html", "text": "Service görs när båten ändå står still, utan extra lyft."},
     {"titel": "Gästplats för dagen", "ikon": "bat", "href": "verksamhet.html", "text": "Dockan vid hotellet har tio platser för att lägga till över dagen."},
     {"titel": "Se lediga platser", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Tolv platser lediga för säsongen 2027."}
   ],
@@ -33,10 +33,10 @@
     {"titel": "Service i hallen", "text": "Två mekaniker servar båtarna när de ändå står i ställaget. Vi följer motorns timmar och föreslår service innan något går sönder.", "text2": "Ingen bottenmålning behövs, vilket sparar både pengar och vårhelger.", "tagg": "people"}
   ],
   "bolag": [
-    {"namn": "Ställaget", "segment": "Förvaring", "rubrik": "420 platser i tre våningar", "text": "Hallen på 4 600 kvadratmeter med sprinkler, kameror och avfuktning.", "tagg": "industri"},
+    {"namn": "Ställaget", "segment": "Torrförvaring", "rubrik": "420 platser i tre våningar", "text": "Hallen på 4 600 kvadratmeter med sprinkler, kameror och avfuktning.", "tagg": "industri"},
     {"namn": "Trucklaget", "segment": "Lyft", "rubrik": "Sex förare i juli", "text": "Kör specialtrucken som tar båtar upp till 7 ton och 30 fot.", "tagg": "maskin"},
     {"namn": "Bryggan", "segment": "Ut och in", "rubrik": "Tankning, spolning och nyckelskåp", "text": "Där båtar lämnas och hämtas, med drivmedel och septiktömning.", "tagg": "bat"},
-    {"namn": "Verkstaden", "segment": "Motor och el", "rubrik": "Service utan extra lyft", "text": "Två mekaniker som följer motortimmarna i varje båt.", "tagg": "people"}
+    {"namn": "Motorverkstaden", "segment": "Motor och el", "rubrik": "Service utan extra lyft", "text": "Två mekaniker som följer motortimmarna i varje båt.", "tagg": "people"}
   ],
   "berattelser": [
     {"rubrik": "Rekordlördag med 214 lyft", "text": "Lördagen efter midsommar gick trucken nästan oavbrutet från sju på morgonen.", "tagg": "bat"},
@@ -46,13 +46,13 @@
   "nyckeltal": [
     {"varde": "420", "enhet": "platser", "etikett": "I ställaget inomhus"},
     {"varde": "20", "enhet": "min", "etikett": "Från samtal till båt i sjön"},
-    {"varde": "11 800", "enhet": "lyft", "etikett": "Under säsongen 2025"},
+    {"varde": "11 800", "enhet": "lyft", "etikett": "Lyft under säsongen 2025"},
     {"varde": "0", "enhet": "liter", "etikett": "Bottenfärg på våra båtar"}
   ],
   "projekt": [
-    {"namn": "Fiskhallen blir båthotell", "ort": "Arkösund", "typ": "Ombyggnad", "ar": "2017", "text": "Den gamla fiskhallen fick nytt tak, ställage i tre våningar och sprinkler.", "tagg": "industri"},
-    {"namn": "Hall 2", "ort": "Arkösund", "typ": "Tillbyggnad", "ar": "2023", "text": "160 nya platser i en tillbyggnad med samma ställagesystem.", "tagg": "bygg"},
-    {"namn": "Truck nummer två", "ort": "Arkösund", "typ": "Investering", "ar": "2026", "text": "En andra specialtruck för båtar upp till 7 ton levererades i maj.", "tagg": "maskin", "status": "I drift"},
+    {"namn": "Fiskhallen blir båthotell", "ort": "Arkösund", "typ": "Konvertering", "ar": "2017", "text": "Den gamla fiskhallen fick nytt tak, ställage i tre våningar och sprinkler.", "tagg": "industri"},
+    {"namn": "Andra hallen", "ort": "Arkösund", "typ": "Utbyggnad", "ar": "2023", "text": "160 nya platser i en tillbyggnad med samma ställagesystem.", "tagg": "bygg"},
+    {"namn": "Truck nummer två", "ort": "Arkösund", "typ": "Ny maskin", "ar": "2026", "text": "En andra specialtruck för båtar upp till 7 ton levererades i maj.", "tagg": "maskin", "status": "Rullar"},
     {"namn": "Taxibåtarna till Kupa klint", "ort": "Arkösund", "typ": "Förvaringsavtal", "ar": "2025", "text": "Tre taxibåtar står torrt över natten och lyfts i sjön klockan sex varje morgon.", "tagg": "bat"},
     {"namn": "Solceller på hallen", "ort": "Arkösund", "typ": "Energi", "ar": "2026", "text": "Taket producerar el till truckarnas laddning och avfuktarna.", "tagg": "solel", "status": "Pågående"},
     {"namn": "Inlämningsbryggan", "ort": "Arkösund", "typ": "Bryggbygge", "ar": "2024", "text": "Ny flytbrygga med plats för tolv båtar som väntar på lyft.", "tagg": "anlaggning"}
@@ -122,12 +122,12 @@
     "proj_rubrik": "Från fiskhall till båthotell",
     "proj_rubrik_lista": "Hallar, truckar och bryggor",
     "status_klart": "Klart",
-    "status_pagaende": "Byggs",
+    "status_pagaende": "Under arbete",
     "process_etikett": "En dag på sjön",
     "process_rubrik": "Sms på morgonen, båt vid bryggan",
     "bolag_etikett": "Driften",
     "bolag_rubrik": "Ställage, truckar, brygga, verkstad",
-    "bolag_kol": ["Del", "Uppgift", "Detaljer"],
+    "bolag_kol": ["Del av driften", "Gör", "Detaljer"],
     "meny_bolag": "Driften",
     "hb_etikett": "Utan biocider",
     "omdomen_rubrik": "De sålde båtplatsen",
@@ -143,6 +143,6 @@
     "logos_rubrik": "Företag och föreningar med plats hos oss",
     "certifikat_rubrik": "Säkra lyft och säker hall",
     "ny_rubrik": "Nytt från hotellet",
-    "medarbetare": "Personalen"
+    "medarbetare": "Hotellpersonalen"
   }
 }

@@ -74,7 +74,7 @@
     "jobb": [["Begravningsrådgivare, dansktalande", "Helsingborg"], ["Chaufför och dokumenthandläggare", "Helsingborg"]]
   },
   "kultur": "Vi firar både svensk och dansk midsommar, och fredagskaffet har alltid wienerbröd från ett bageri i Helsingør.",
-  "citat": {"text": "Sundet är smalare än många kommuner. Men när någon dör blir de fyra kilometerna plötsligt en gräns med blanketter, och det är där vi behövs.", "namn": "Jens Holck", "roll": "Grundare och delägare", "tagg": "stad"},
+  "citat": {"text": "Sundet är smalare än många kommuner. Men när någon dör blir de fyra kilometerna plötsligt en gräns med blanketter, och det är där vi behövs.", "namn": "Jens Holck", "roll": "Medgrundare", "tagg": "stad"},
   "omdomen": [
     {"text": "Farfar dog på semester i Danmark och vi visste inte ens vad ett ligpas var. Ferm & Holck ringde sjukhuset på danska och allt var klart på två dagar.", "namn": "Jonas B.", "ort": "Höganäs"},
     {"text": "Min mor ville ligga hos sina föräldrar i Gilleleje. Vi fick ha begravningen i Helsingborg och urnsättningen där, precis som hon ville.", "namn": "Hanne S.", "ort": "Helsingborg"},
@@ -90,13 +90,13 @@
   ],
   "priser": [
     {"namn": "Transport över sundet", "pris": "fr. 6 800 kr", "enhet": "Nordsjälland–Helsingborg", "text": "Kista eller urna mellan länderna med alla dokument.", "punkter": ["Dödsattest och ligpas", "Brotull eller färja", "Egen bil och chaufför", "Kontakt med mottagande kyrkogård"]},
-    {"namn": "Begravning i Helsingborg", "pris": "fr. 27 600 kr", "enhet": "kyrklig eller borgerlig", "text": "En svensk begravning med rådgivare på svenska eller danska.", "punkter": ["Kista, svepning och hämtning", "Ceremonibukett", "Annons i en tidning", "Rådgivare under hela dagen"], "utvald": true},
+    {"namn": "Begravning i Helsingborg", "pris": "fr. 27 600 kr", "enhet": "kyrklig eller borgerlig", "text": "En svensk begravning med rådgivare på svenska eller danska.", "punkter": ["Kista, svepning och hämtning", "Kistdekoration från florist", "Annons i en tidning", "Rådgivare under hela dagen"], "utvald": true},
     {"namn": "Begravning med urna till Danmark", "pris": "fr. 33 900 kr", "enhet": "ceremoni i Sverige, grav i Danmark", "text": "Ceremoni här och urnsättning på en dansk kyrkogård.", "punkter": ["Allt i Begravning i Helsingborg", "Transport av urnan över sundet", "Kontakt med kirkekontoret", "Vi är med vid urnsättningen"]}
   ],
   "certifikat": [
-    {"titel": "Auktoriserad av SBF", "text": "Medlem i Sveriges Begravningsbyråers Förbund sedan 1996.", "ikon": "skold"},
+    {"titel": "Svensk auktorisation", "text": "Medlem i Sveriges Begravningsbyråers Förbund sedan 1996.", "ikon": "skold"},
     {"titel": "Medlem i Danske Bedemænd", "text": "Vår danska verksamhet följer den danska branschorganisationens etiska regler.", "ikon": "lov"},
-    {"titel": "Strasbourgavtalet", "text": "Gränsöverskridande transporter av avlidna enligt Europarådets avtal.", "ikon": "glob"},
+    {"titel": "Europarådets transportavtal", "text": "Gränsöverskridande transporter av avlidna enligt Europarådets avtal.", "ikon": "glob"},
     {"titel": "Jurist med dubbel examen", "text": "Juridisk rådgivning om svensk och dansk arvsrätt av jurist utbildad i båda länderna.", "ikon": "portfolj"}
   ],
   "kunder": ["Helsingborgs församling", "Sankt Olai Sogn, Helsingør", "Föreningen Danskar i Skåne", "Brf Kärnutsikten", "Höganäs Pensionärsförening", "Öresundsfärjornas Veteraner", "Hornbæk Grundejerforening"],

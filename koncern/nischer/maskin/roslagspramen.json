@@ -29,7 +29,7 @@
   "affarsomraden": [
     {"titel": "Bryggor och strandskoning", "text": "Vi bygger stenkistebryggor, pålade bryggor och strandskoningar med grävare och kran direkt från pråmen. Stenen hämtas från en täkt i Rimbo och fraktas ut i samma tur som maskinen.", "text2": "Vi hjälper till med anmälan om vattenverksamhet och strandskyddsdispens.", "tagg": "bat"},
     {"titel": "Hus och grund på öar", "text": "Husgrunder, källare och tillbyggnader på öar utan bilväg kräver att allt kommer sjövägen. Vi kör ut grävare, dumper, betongbil på pråm och virke i den ordning bygget behöver.", "text2": "En betongbil på 26 ton får plats på vår största pråm, tillsammans med pumpen.", "tagg": "hem"},
-    {"titel": "Avlopp och vatten", "text": "Norrtälje kommun kräver godkända avlopp även på fritidshus. Vi gräver för minireningsverk, slutna tankar och infiltrationer på berg och morän där det knappt finns jord.", "text2": "Vi samarbetar med två VA-konsulter som ritar anläggningen och söker tillståndet.", "tagg": "vvs"},
+    {"titel": "Avlopp på fritidshus", "text": "Norrtälje kommun kräver godkända avlopp även på fritidshus. Vi gräver för minireningsverk, slutna tankar och infiltrationer på berg och morän där det knappt finns jord.", "text2": "Vi samarbetar med två VA-konsulter som ritar anläggningen och söker tillståndet.", "tagg": "vvs"},
     {"titel": "Muddring och vikar", "text": "Vikar som växer igen och båtplatser som blir för grunda muddras med grävare från pråm. Massorna läggs i en sluten pråm och körs till godkänd mottagning på fastlandet.", "text2": "Vi muddrar bara mellan september och november, när fiskens lekperioder är över.", "tagg": "natur"}
   ],
   "bolag": [
@@ -65,7 +65,7 @@
   "hallbarhet": {
     "rubrik": "Ingen olja i vattnet, aldrig",
     "text": "När maskinerna arbetar en meter från vattnet räcker en sprucken slang för att förorena en hel vik. Alla våra maskiner har biologiskt nedbrytbar hydraulolja, varje pråm har länsor och absorbenter ombord och vi muddrar bara utanför fiskens lekperioder.",
-    "mal": [["100 %", "biologiskt nedbrytbar hydraulolja"], ["0", "oljeutsläpp sedan starten 1998"], ["7", "av 7 pråmar med saneringsutrustning ombord"]]
+    "mal": [["100 %", "miljöanpassad olja i maskinerna"], ["0", "oljeutsläpp sedan starten 1998"], ["7", "av 7 pråmar med saneringsutrustning ombord"]]
   },
   "karriar": {
     "rubrik": "Maskinförare som tål sjögång",
@@ -83,7 +83,7 @@
     ["Behövs tillstånd för en ny brygga?", "Oftast krävs strandskyddsdispens från kommunen och ibland anmälan om vattenverksamhet till länsstyrelsen. Vi hjälper dig med ansökan och ritning."],
     ["Vad kostar en tur?", "En pråm med bogserbåt och befäl kostar från 2 400 kronor i timmen. En grävare med förare tillkommer från 1 150 kronor i timmen."],
     ["Hur långt ut kör ni?", "Mellan Grisslehamn och Furusund och ut till Arholma och Söderarm. Längre turer planerar vi efter väder."],
-    ["Vad händer om det blåser?", "Vi går inte över 10 meter per sekund med last. Du betalar inte för turer som ställs in på grund av väder."],
+    ["Går ni ut i hård vind?", "Vi går inte över 10 meter per sekund med last. Du betalar inte för turer som ställs in på grund av väder."],
     ["Kan ni frakta mitt eget material?", "Ja, virke, containrar, betong och båtar fraktas på pråmen. Vi lastar på kajen i Norrtälje eller hämtar på annan plats."],
     ["Arbetar ni på vintern?", "Pråmarna står normalt från december till april. Muddring görs gärna i september–november när vattnet är kallt."]
   ],
@@ -91,7 +91,7 @@
     {"titel": "Fartygsbefäl klass VIII", "text": "Våra befälhavare har behörighet enligt Transportstyrelsens krav för arbetsfartyg.", "ikon": "bat"},
     {"titel": "Maskin- och kranförarbevis", "text": "Förarna har maskinförarbevis och kranförarbevis för arbete från pråm.", "ikon": "kran"},
     {"titel": "Anmälan om vattenverksamhet", "text": "Vi har gjort över 80 anmälningar och dispensansökningar och sköter dem åt kunderna.", "ikon": "dokument"},
-    {"titel": "Miljöanpassad hydraulolja", "text": "Alla maskiner har hydraulolja enligt SS 15 54 34 och saneringsutrustning ombord.", "ikon": "vatten"}
+    {"titel": "Ombord: saneringsutrustning", "text": "Alla maskiner har hydraulolja enligt SS 15 54 34 och saneringsutrustning ombord.", "ikon": "vatten"}
   ],
   "kunder": ["Rådmansö Bryggsamfällighet", "Arholma Sjöbodhotell", "Väddö Båtbyggare", "Brf Grisslehamns Sjöbodar", "Gräddö Båtklubb", "Lidö Stugägarförening", "Norrtäljevikens Marina"],
   "nyheter": [

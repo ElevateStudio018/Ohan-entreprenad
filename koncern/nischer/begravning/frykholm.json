@@ -36,7 +36,7 @@
     {"namn": "Frykholm Karlstad", "segment": "Älvgatan 9", "rubrik": "Kontor och ceremonihall", "text": "Nitton medarbetare, varav tre officianter, två värdar och tekniker för ljud och bild.", "tagg": "interior"},
     {"namn": "Frykholm Sunne", "segment": "Torget, Sunne", "rubrik": "Där allt började 1981", "text": "Sex medarbetare som ordnar begravningar i Fryksdalen, från Torsby till Kil.", "tagg": "begravning"},
     {"namn": "Frykholm Arvika", "segment": "Storgatan, Arvika", "rubrik": "Västra Värmland", "text": "Fem medarbetare för Arvika, Eda och Årjäng.", "tagg": "begravning"},
-    {"namn": "Jour och transport", "segment": "Två chaufförer", "rubrik": "Hela länet", "text": "Hämtar dygnet runt i Värmland och kör familjer som vill till Älvsalen men saknar skjuts.", "tagg": "stad"}
+    {"namn": "Transporter i länet", "segment": "Två förare, dygnet runt", "rubrik": "Hela länet", "text": "Hämtar dygnet runt i Värmland och kör familjer som vill till Älvsalen men saknar skjuts.", "tagg": "stad"}
   ],
   "berattelser": [
     {"rubrik": "Tio år med Älvsalen", "text": "Sedan invigningen 2016 har drygt 2 800 ceremonier hållits i salen.", "tagg": "interior"},
@@ -65,7 +65,7 @@
   ],
   "hallbarhet": {
     "rubrik": "Ett rum utan förutsättningar",
-    "text": "Fyra av tio svenskar tillhör inte Svenska kyrkan, och många saknar en självklar plats för ett avsked. Älvsalen är öppen för alla livsåskådningar, och hyran ingår för familjer som har sin begravning hos oss. Huset värms med fjärrvärme och salen har LED-belysning.",
+    "text": "Nästan hälften av alla svenskar står utanför Svenska kyrkan, och många saknar en självklar plats för ett avsked. Älvsalen är öppen för alla livsåskådningar, och hyran ingår för familjer som har sin begravning hos oss. Huset värms med fjärrvärme och salen har LED-belysning.",
     "mal": [["0 kr", "i hyra för Älvsalen vid begravning hos oss"], ["30 min", "att ställa om till minnesstund"], ["3", "egna officianter"]]
   },
   "karriar": {
@@ -74,7 +74,7 @@
     "jobb": [["Officiant, deltid", "Karlstad"], ["Begravningsrådgivare", "Arvika"], ["Värd och tekniker, Älvsalen", "Karlstad"]]
   },
   "kultur": "Varje månad har vi en kväll i Älvsalen där personalen övar på svåra samtal tillsammans med en skådespelare.",
-  "citat": {"text": "Folk som inte var troende fick hålla till i kapell med ett kors de inte ville ha, eller i en hyrd festlokal. Vi ville ge dem ett riktigt rum.", "namn": "Anders Frykholm", "roll": "Vd, andra generationen", "tagg": "interior"},
+  "citat": {"text": "Folk som inte var troende fick hålla till i kapell med ett kors de inte ville ha, eller i en hyrd festlokal. Vi ville ge dem ett riktigt rum.", "namn": "Anders Frykholm", "roll": "Vd och son till grundarna", "tagg": "interior"},
   "omdomen": [
     {"text": "Pappa var inte kyrklig. I Älvsalen kunde vi ha hans favoritlåtar, bilder på väggen och utsikt över älven han fiskat i.", "namn": "Marie G.", "ort": "Karlstad"},
     {"text": "Officianten träffade oss två gånger och fick med allt vi berättade. Det kändes inte som en mall.", "namn": "Henrik S.", "ort": "Kil"},
@@ -89,10 +89,10 @@
     ["Ordnar ni begravningar i hela Värmland?", "Ja, från kontoren i Karlstad, Sunne och Arvika täcker vi hela länet."]
   ],
   "certifikat": [
-    {"titel": "SBF-auktoriserad", "text": "Alla tre byråer är auktoriserade av Sveriges Begravningsbyråers Förbund.", "ikon": "skold"},
+    {"titel": "Tre auktoriserade byråer", "text": "Alla tre byråer är auktoriserade av Sveriges Begravningsbyråers Förbund.", "ikon": "skold"},
     {"titel": "Brandskydd och tillgänglighet", "text": "Älvsalen är godkänd för 180 personer och anpassad för rullstol och hörselslinga.", "ikon": "hus"},
     {"titel": "STIM-licens", "text": "Licens för musik och livesändning från Älvsalen.", "ikon": "megafon"},
-    {"titel": "Allmänna bestämmelser", "text": "Avtalen följer bestämmelserna för begravningstjänster som tagits fram med Konsumentverket.", "ikon": "dokument"}
+    {"titel": "Villkor enligt branschen", "text": "Avtalen följer bestämmelserna för begravningstjänster som tagits fram med Konsumentverket.", "ikon": "dokument"}
   ],
   "kunder": ["Karlstads pastorat", "Fryksände församling", "Humanisterna Värmland", "Färjestads Veteranklubb", "Brf Älvkanten", "Arvika Konstnärsförening", "Sunne Hembygdsförening"],
   "nyheter": [
@@ -120,7 +120,7 @@
     "faq_rubrik": "Frågor om salen och ceremonierna",
     "boka_rubrik": "Boka en visning av Älvsalen",
     "boka_text": "Föreslå en dag så visar en värd salen och svarar på frågor – utan att ni förbinder er till något.",
-    "boka_falt": ["Namn", "Telefon", "Önskad dag", "Vad funderar ni på?"],
+    "boka_falt": ["Namn", "Telefon", "Önskad dag", "Frågor om salen"],
     "logos_rubrik": "Församlingar och föreningar i Värmland",
     "certifikat_rubrik": "Godkända för ceremoni och sändning",
     "ny_rubrik": "Nytt från Frykholm",

@@ -33,9 +33,9 @@
     {"titel": "På regattan", "text": "Servicecontainern har verktyg, epoxi, beslag och en reservmast för de vanligaste jolleklasserna. Två tekniker följer med och lagar båtar mellan seglingarna – ofta under natten.", "text2": "Under 2026 var containern på plats vid nio regattor.", "tagg": "people"}
   ],
   "bolag": [
-    {"namn": "Jolleavdelningen", "segment": "Optimist till 49er", "rubrik": "Tre båtbyggare", "text": "Skrovlagningar, beslag och centerbord för jolleklasserna.", "tagg": "bat"},
+    {"namn": "Jolleavdelningen", "segment": "Optimist till 49er", "rubrik": "Tre jollebyggare", "text": "Skrovlagningar, beslag och centerbord för jolleklasserna.", "tagg": "bat"},
     {"namn": "Kolfiberrummet", "segment": "Prepreg och härdning", "rubrik": "Ugn på 11 meter", "text": "Mikael och en kompositingenjör lagar master, bommar och skrov.", "tagg": "industri"},
-    {"namn": "Regattateamet", "segment": "Service på plats", "rubrik": "Containern på hjul", "text": "Två tekniker som följer med till tävlingar i Sverige och Danmark.", "tagg": "people"}
+    {"namn": "Regattateamet", "segment": "På tävlingsplatsen", "rubrik": "Containern på hjul", "text": "Två tekniker som följer med till tävlingar i Sverige och Danmark.", "tagg": "people"}
   ],
   "berattelser": [
     {"rubrik": "Masten lagad över natten", "text": "En 49er-mast som brast på EM-tävlingens första dag var tillbaka på vattnet dagen efter.", "tagg": "industri"},
@@ -51,15 +51,15 @@
   "projekt": [
     {"namn": "49er-mast under EM", "ort": "Aarhus", "typ": "Akut kolfiberlagning", "ar": "2026", "text": "Mastbrott på dag ett, lagning och härdning under natten och tillbaka på vattnet dag två.", "tagg": "industri", "status": "Utfört"},
     {"namn": "X-41 inför Gotland Runt", "ort": "Malmö", "typ": "Bottenfinish och köl", "ar": "2026", "text": "Kölen profilerades om och botten våtslipades till korn 1 200.", "tagg": "bat", "status": "Utfört"},
-    {"namn": "Optimistflottan i Limhamn", "ort": "Limhamn", "typ": "Klubbservice", "ar": "2025", "text": "36 klubbjollar gicks igenom under vintern med nya beslag och lagade skrov.", "tagg": "bat"},
+    {"namn": "Optimistflottan i Limhamn", "ort": "Limhamn", "typ": "Klubbjollar", "ar": "2025", "text": "36 klubbjollar gicks igenom under vintern med nya beslag och lagade skrov.", "tagg": "bat"},
     {"namn": "Moth med nya foils", "ort": "Lomma", "typ": "Foilservice", "ar": "2025", "text": "Ny vingprofil och inställning av höjdreglaget efter en grundstötning.", "tagg": "bat"},
     {"namn": "Ungdoms-SM", "ort": "Båstad", "typ": "Regattaservice", "ar": "2025", "text": "Containern var på plats i fem dagar och lagade 41 jollar.", "tagg": "people"},
-    {"namn": "Härdugnen", "ort": "Limhamn", "typ": "Investering", "ar": "2024", "text": "En 11 meter lång ugn som tar mastsektioner och hela jolleskrov.", "tagg": "industri"}
+    {"namn": "Härdugnen", "ort": "Limhamn", "typ": "Ny utrustning", "ar": "2024", "text": "En 11 meter lång ugn som tar mastsektioner och hela jolleskrov.", "tagg": "industri"}
   ],
   "process": [
     {"titel": "Berätta om tävlingen", "text": "Vi börjar med datumet och baklänges: när måste båten vara klar?", "tagg": "people"},
     {"titel": "Mätning och plan", "text": "Vi mäter profiler och skador och ger en plan med prioriteringar.", "tagg": "industri"},
-    {"titel": "Arbetet", "text": "Lagning, slipning och trim. Du får foton och mätvärden före och efter.", "tagg": "bat"},
+    {"titel": "Lagning och trim", "text": "Lagning, slipning och trim. Du får foton och mätvärden före och efter.", "tagg": "bat"},
     {"titel": "Provsegling", "text": "Vi seglar med dig utanför hamnen och justerar riggen på vattnet.", "tagg": "natur"}
   ],
   "hallbarhet": {
@@ -73,7 +73,7 @@
     "jobb": [["Båtbyggare, komposit", "Limhamn"], ["Regattatekniker, sommar", "Limhamn"]]
   },
   "kultur": "Onsdagssegling för personalen hela sommaren och ledigt för den som tävlar i ett mästerskap.",
-  "citat": {"text": "Ett centerbord som är vridet två millimeter syns inte, men det kostar en placering på varje kryss. Det är den sortens fel vi letar efter.", "namn": "Sanna Holm", "roll": "Grundare och båtbyggare", "tagg": "people"},
+  "citat": {"text": "Ett centerbord som är vridet två millimeter syns inte, men det kostar en placering på varje kryss. Det är den sortens fel vi letar efter.", "namn": "Sanna Holm", "roll": "Grundare, tidigare landslagsseglare", "tagg": "people"},
   "omdomen": [
     {"text": "Masten bröts klockan fyra på eftermiddagen. Klockan nio nästa morgon riggade vi igen. Utan dem hade EM varit över.", "namn": "Oscar och Filip T.", "ort": "Malmö"},
     {"text": "Min dotters optimist var tio år gammal och kändes seg. Efter genomgången vann hon sin första regatta.", "namn": "Johanna B.", "ort": "Lund"},
@@ -91,7 +91,7 @@
     {"titel": "Kompositutbildning", "text": "Personalen har utbildning för arbete med epoxi, prepreg och kolfiber enligt Arbetsmiljöverkets krav.", "ikon": "hjalm"},
     {"titel": "Officiell leverantör", "text": "Avtalad servicepartner vid Sydsvenska Optimistförbundets ungdomsregattor.", "ikon": "stjarna"},
     {"titel": "Utbildade mätare", "text": "Två medarbetare är utbildade klassmätare för jolleklasser.", "ikon": "sok"},
-    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Båten är försäkrad i verkstaden, i containern och under transport till regattor.", "ikon": "skold"}
+    {"titel": "Försäkrad båt på resa", "text": "Ansvarsförsäkring på 10 Mkr – båten är försäkrad i verkstaden, i containern och under transport till regattor.", "ikon": "skold"}
   ],
   "kunder": ["Limhamns Seglarsällskap Västra", "Lommabuktens Kappseglingsklubb", "Malmö Havskappseglare", "Sydsvenska Optimistförbundet", "Sundets Ungdomsseglare", "Öresunds 49er-grupp", "Brf Sjöbjörnen Limhamn"],
   "nyheter": [
@@ -111,7 +111,7 @@
     "vagval_etikett": "Klasserna",
     "ber_etikett": "Från verkstan",
     "ber_rubrik": "Mastbrott, profiler och mästerskap",
-    "proj_etikett": "Uppdrag",
+    "proj_etikett": "Från verkstadsgolvet",
     "proj_rubrik": "Jollar, kölbåtar och nattjobb",
     "proj_rubrik_lista": "Lagningar och regattor",
     "status_klart": "Seglar igen",
@@ -120,7 +120,7 @@
     "process_rubrik": "Räkna baklänges från startskottet",
     "bolag_etikett": "Teamet",
     "bolag_rubrik": "Jollar, kolfiber och regattor",
-    "bolag_kol": ["Grupp", "Klasser", "Arbete"],
+    "bolag_kol": ["Grupp", "Klasser", "Typiska jobb"],
     "meny_bolag": "Teamet",
     "hb_etikett": "Laga i stället för nytt",
     "omdomen_rubrik": "Seglare som kom i mål",

@@ -19,8 +19,8 @@
   "tjanster": [
     {"titel": "Hitta din lokala byrå", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Fjorton byråer från Sala i norr till Nyköping i söder."},
     {"titel": "Begravning", "ikon": "kors", "href": "verksamhet.html", "text": "Kyrklig, borgerlig eller i annan tro, ordnad av rådgivare som bor på orten."},
-    {"titel": "Jourcentralen", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ett nummer för alla fjorton byråer, bemannat dygnet runt."},
-    {"titel": "Familjejuridik", "ikon": "dokument", "href": "verksamhet.html", "text": "Sex jurister i Västerås gör bouppteckningar åt hela gruppen."},
+    {"titel": "Gemensam jour", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ett nummer för alla fjorton byråer, bemannat dygnet runt."},
+    {"titel": "Juridik för dödsbon", "ikon": "dokument", "href": "verksamhet.html", "text": "Sex jurister i Västerås gör bouppteckningar åt hela gruppen."},
     {"titel": "Gravvård", "ikon": "sten", "href": "verksamhet.html", "text": "Gemensamt stenlager och egen montör för hela regionen."},
     {"titel": "Aroslundsakademin", "ikon": "skola", "href": "karriar.html", "text": "Vår egen utbildning för nya rådgivare, chaufförer och platschefer."},
     {"titel": "Sälja din byrå", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "För ägare som vill att byrån ska leva vidare efter pensionen."},
@@ -28,7 +28,7 @@
   ],
   "affarsomraden": [
     {"titel": "Lokala byråer", "text": "Fjorton byråer med egna namn, egna lokaler och rådgivare som känner präster, kyrkvaktmästare och föreningar på orten. Familjen märker sällan att byrån ingår i en grupp.", "text2": "Platscheferna har mandat att fatta beslut om allt som rör familjerna själva.", "tagg": "begravning"},
-    {"titel": "Gemensam logistik", "text": "Kistor, urnor och tryck köps in centralt och lagras i ett gemensamt förråd i Västerås, som levererar till alla orter två gånger i veckan. Sju jourbilar täcker hela regionen från tre stationer.", "text2": "Den gemensamma inköpen sänker kostnaden för en standardkista med omkring 900 kronor.", "tagg": "industri"},
+    {"titel": "Gemensam logistik", "text": "Kistor, urnor och tryck köps in centralt och lagras i ett gemensamt förråd i Västerås, som levererar till alla orter två gånger i veckan. Sju jourbilar täcker hela regionen från tre stationer.", "text2": "De gemensamma inköpen sänker kostnaden för en standardkista med omkring 900 kronor.", "tagg": "industri"},
     {"titel": "Juridik och ekonomi", "text": "Gruppens sex jurister gör omkring 1 400 bouppteckningar om året och tar fram arvskiften och testamenten åt familjer på alla fjorton orter. Förrättningarna hålls på den lokala byrån eller på video.", "text2": "Ekonomiavdelningen sköter fakturor och dödsboredovisning åt alla byråer.", "tagg": "kontor"},
     {"titel": "Generationsskiften", "text": "Vi tar över byråer från ägare som vill gå i pension, och lovar att personal, namn och lokal finns kvar i minst fem år. Säljaren kan stanna kvar som rådgivare så länge hen vill.", "text2": "Sedan 2015 har vi gjort tretton generationsskiften – ingen byrå har lagts ned.", "tagg": "people"}
   ],
@@ -92,7 +92,7 @@
     {"titel": "SBF-auktoriserade byråer", "text": "Alla fjorton byråer är auktoriserade av Sveriges Begravningsbyråers Förbund.", "ikon": "skold"},
     {"titel": "ISO 9001", "text": "Gemensamt kvalitetsledningssystem certifierat sedan 2020.", "ikon": "kugge"},
     {"titel": "ISO 14001", "text": "Miljöledningssystem för logistik och transporter sedan 2023.", "ikon": "lov"},
-    {"titel": "Kollektivavtal", "text": "Alla 112 medarbetare har kollektivavtal och tjänstepension.", "ikon": "folk"}
+    {"titel": "Avtal och pension för alla", "text": "Alla 112 medarbetare har kollektivavtal och tjänstepension.", "ikon": "folk"}
   ],
   "kunder": ["Västerås kommun, äldreomsorgen", "Region Sörmland, patologen", "Västerås domkyrkoförsamling", "Fagersta Bruksveteraner", "Brf Mälarstrand", "Strängnäs stift, kyrkogårdsförvaltningar", "Eskilstuna Seniorboende AB", "Katrineholms Hembygdsförening"],
   "nyheter": [
@@ -123,7 +123,7 @@
     "faq_rubrik": "Om gruppen och de lokala byråerna",
     "boka_rubrik": "Kontakta gruppen",
     "boka_text": "Gäller det en begravning, ett jobb eller en byrå som söker efterträdare? Skriv några rader så hör vi av oss.",
-    "boka_falt": ["Namn", "Telefon", "Ort", "Vad gäller det?"],
+    "boka_falt": ["Namn", "Telefon", "Ort", "Ärende"],
     "logos_rubrik": "Kommuner, regioner och församlingar",
     "certifikat_rubrik": "Certifierade i hela gruppen",
     "ny_rubrik": "Pressmeddelanden och nyheter",

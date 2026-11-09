@@ -20,7 +20,7 @@
     {"titel": "E-handelslager", "ikon": "lada", "href": "verksamhet.html", "text": "Gnagarkontroll längs portar, packstationer och returflöden i hallar som går dygnet runt."},
     {"titel": "Tekniker på plats", "ikon": "folk", "href": "verksamhet.html", "text": "En egen tekniker som arbetar i ert lager varje dag och känner varje port och hörn."},
     {"titel": "Textil och mode", "ikon": "sax", "href": "verksamhet.html", "text": "Feromonfällor mot klädmal och pälsängrar i lager med ull, kashmir och dun."},
-    {"titel": "Livsmedel och dagligvaror", "ikon": "fabrik", "href": "verksamhet.html", "text": "Kontroll av förrådsinsekter i lager med kaffe, nötter och torrvaror."},
+    {"titel": "Torrvaror och kaffe", "ikon": "fabrik", "href": "verksamhet.html", "text": "Kontroll av förrådsinsekter i lager med kaffe, nötter och torrvaror."},
     {"titel": "Importkontroll", "ikon": "glob", "href": "verksamhet.html", "text": "Inspektion av containrar från Asien innan godset släpps in i hallen."},
     {"titel": "Fåglar i hallar", "ikon": "vind", "href": "verksamhet.html", "text": "Nät, snabbportsrutiner och levandefångst av sparvar och duvor under taket."},
     {"titel": "Revisionsrapporter", "ikon": "graf", "href": "verksamhet.html", "text": "Trendrapporter per zon som klarar leverantörsrevisioner från stora varumärken."},
@@ -33,20 +33,20 @@
     {"titel": "Fastighetsägare", "text": "Logistikfastigheter byter hyresgäst och verksamhet. Vi sköter grundskyddet för fastighetsägaren, så att varje ny hyresgäst får en hall utan gamla problem.", "text2": "Avtalet följer fastigheten oavsett vem som hyr.", "tagg": "kontor"}
   ],
   "bolag": [
-    {"namn": "Viskan Logistik", "segment": "31 medarbetare", "rubrik": "Lager, terminaler och e-handel", "text": "Det största bolaget, med tekniker fast placerade i sju av kundernas lager på Viared, i Ulricehamn och längs riksväg 40.", "tagg": "industri"},
-    {"namn": "Viskan Textil", "segment": "Sex medarbetare", "rubrik": "Mal, ängrar och frysning", "text": "Specialister på textilskadedjur med en frysanläggning för hela pallar på minus 30 grader.", "tagg": "interior"},
+    {"namn": "Viskan Logistik", "segment": "31 personer, varav 24 tekniker", "rubrik": "Lager, terminaler och e-handel", "text": "Det största bolaget, med tekniker fast placerade i sju av kundernas lager på Viared, i Ulricehamn och längs riksväg 40.", "tagg": "industri"},
+    {"namn": "Viskan Textil", "segment": "Sex specialister", "rubrik": "Mal, ängrar och frysning", "text": "Specialister på textilskadedjur med en frysanläggning för hela pallar på minus 30 grader.", "tagg": "interior"},
     {"namn": "Viskan Fastighet", "segment": "Elva medarbetare i Borås och Alingsås", "rubrik": "Bostäder, kontor och butiker", "text": "Sköter avtal med bostadsbolag, kontor och handel i Sjuhärad och Alingsås.", "tagg": "bostad"}
   ],
   "berattelser": [
     {"rubrik": "Sjunde lagret med egen tekniker", "text": "Ett nytt e-handelslager i Ulricehamn har anställt en av våra tekniker på plats från dag ett.", "tagg": "industri"},
     {"rubrik": "Container med främmande skalbagge", "text": "En khaprabagge hittades i jutesäckar från Asien – partiet gasades innan det kom in i hallen.", "tagg": "anlaggning"},
-    {"rubrik": "Revision utan anmärkning", "text": "En stor modekedjas leverantörsrevision gav full poäng på skadedjursavsnittet för tredje året i rad.", "tagg": "kontor"}
+    {"rubrik": "Full poäng hos modekedjan", "text": "En stor modekedjas leverantörsrevision gav full poäng på skadedjursavsnittet för tredje året i rad.", "tagg": "kontor"}
   ],
   "nyckeltal": [
     {"varde": "48", "enhet": "medarbetare", "etikett": "I tre bolag"},
     {"varde": "1,2 milj", "enhet": "pallplatser", "etikett": "Under vår kontroll"},
     {"varde": "4 100", "enhet": "containrar", "etikett": "Inspekterade 2025"},
-    {"varde": "61", "enhet": "mkr", "etikett": "Omsättning 2025"}
+    {"varde": "61", "enhet": "mkr", "etikett": "Nettoomsättning förra året"}
   ],
   "projekt": [
     {"namn": "E-handelslager på Viared", "ort": "Borås", "typ": "Logistik", "ar": "2026", "text": "1 200 digitala stationer och en heltidstekniker på 90 000 kvadratmeter.", "tagg": "industri"},
@@ -88,9 +88,9 @@
     ["Arbetar ni utanför Sjuhärad?", "Vi tar logistikkunder i hela Västra Götaland och norra Halland, och textilkunder i hela landet."]
   ],
   "certifikat": [
-    {"titel": "CEPA Certified", "text": "Hela företaget är certifierat enligt den europeiska standarden EN 16636 för skadedjursbekämpning.", "ikon": "stjarna"},
+    {"titel": "EN 16636 i hela bolaget", "text": "Hela företaget är certifierat enligt den europeiska standarden EN 16636 för skadedjursbekämpning.", "ikon": "stjarna"},
     {"titel": "ISO 9001 och 14001", "text": "Lednings- och miljösystem certifierade sedan 2016, reviderade årligen.", "ikon": "dokument"},
-    {"titel": "Gasningsbehörighet", "text": "Tre tekniker har behörighet för gasning av containrar och varupartier.", "ikon": "skold"},
+    {"titel": "Gasning av containrar", "text": "Tre tekniker har behörighet för gasning av containrar och varupartier.", "ikon": "skold"},
     {"titel": "Truckkort och lagersäkerhet", "text": "Alla platstekniker har truckkort och följer kundens säkerhetsrutiner i hallen.", "ikon": "hjalm"}
   ],
   "kunder": ["Viared Logistikcenter", "Sjuhärads E-handelslager", "Ulricehamn Nordic Hub", "Borås Ullvaror", "Alingsås Kafferosteri", "Logistikfastigheter Väst AB", "Brf Knalleborg", "Modehuset Tråden"],
@@ -100,7 +100,7 @@
     ["2026-01-29", "Klädmal i lagret – fem varningstecken", "Det här ska lagerpersonalen hålla utkik efter i textilzonen.", "interior"]
   ],
   "kontakt": {"adress": "Ryssnäsgatan 6", "postnr": "504 64", "ort": "Borås", "telefon": "070-174 06 61", "epost": "lager@viskanskadedjur.se", "orgnr": ""},
-  "oppettider": "Kontoret mån–fre 7–16. Platsteknikerna enligt lagrets skift.",
+  "oppettider": "Kontoret vardagar 7–16, platsteknikerna enligt lagrets skift.",
   "omrade": "Sjuhärad, Alingsås och Västra Götaland",
   "fot_cta": "Öppnar ni nytt lager? Låt oss vara med från första pallen.",
   "bild": {"panel": "industri", "hb": "skadedjur"},
@@ -114,7 +114,7 @@
     "faq_rubrik": "Frågor från logistiken",
     "boka_rubrik": "Boka en lagergenomgång",
     "boka_text": "Skriv hur stor hallen är, vad ni lagrar och om ni har revisioner från kunder. En tekniker kommer ut inom en vecka.",
-    "boka_falt": ["Namn och företag", "Telefon", "E-post", "Hallens storlek och varor"],
+    "boka_falt": ["Namn och lagerföretag", "Telefon", "E-post", "Hallens storlek och varor"],
     "logos_rubrik": "Lager och varumärken vi skyddar",
     "certifikat_rubrik": "Godkända för revision och gasning",
     "bolag_rubrik": "Tre bolag i Viskangruppen",

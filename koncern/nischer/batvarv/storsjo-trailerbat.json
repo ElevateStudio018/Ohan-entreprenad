@@ -19,7 +19,7 @@
   "tjanster": [
     {"titel": "Vagnservice", "ikon": "bil", "href": "verksamhet.html", "text": "Hjullager, bromsar, belysning och däck – så att vagnen klarar 30 mil grusväg."},
     {"titel": "Vinterplats i ladugård", "ikon": "lada", "href": "verksamhet.html", "text": "140 båtar på vagn under tak, ingen presenning behövs."},
-    {"titel": "Motorservice", "ikon": "kugge", "href": "verksamhet.html", "text": "Utombordare upp till 150 hk, med vår- och höstservice i samma besök som vagnen."},
+    {"titel": "Utombordarservice", "ikon": "kugge", "href": "verksamhet.html", "text": "Utombordare upp till 150 hk, med vår- och höstservice i samma besök som vagnen."},
     {"titel": "Byggnation av vagnar", "ikon": "hamare", "href": "verksamhet.html", "text": "Vi anpassar boggivagnar, rullar och kölstöd efter din båt."},
     {"titel": "Tvätt mot invasiva arter", "ikon": "vatten", "href": "verksamhet.html", "text": "Högtryck och varmvatten innan båten flyttas mellan sjöar."},
     {"titel": "Hyrvagn", "ikon": "nyckel", "href": "verksamhet.html", "text": "Lån en vagn när din egen står på service."},
@@ -33,7 +33,7 @@
     {"titel": "Tvätt mellan sjöar", "text": "Vandrarmusslor och vattenpest följer med båtar som flyttas mellan vatten. Spolplattan har varmvatten och slamavskiljare så att båt och vagn blir rena innan nästa sjö.", "text2": "Kostnadsfritt för förvaringskunder hela sommaren.", "tagg": "natur"}
   ],
   "bolag": [
-    {"namn": "Ladugården", "segment": "Vinterförvaring", "rubrik": "140 båtar på vagn", "text": "Tre loggångar i den gamla ladugården, med laddrum där kalvboxarna stod.", "tagg": "bat"},
+    {"namn": "Ladugården", "segment": "Vinterplatser under tak", "rubrik": "140 båtar på vagn", "text": "Tre loggångar i den gamla ladugården, med laddrum där kalvboxarna stod.", "tagg": "bat"},
     {"namn": "Mjölkrummet", "segment": "Vagnar och motorer", "rubrik": "Verkstaden med kakel", "text": "Per-Erik och två mekaniker servar vagnar, svetsar och byter lager.", "tagg": "maskin"},
     {"namn": "Spolplattan", "segment": "Tvätt", "rubrik": "Varmvatten och slamavskiljare", "text": "Öppen för alla båtägare från maj till september, med kortbetalning.", "tagg": "natur"}
   ],
@@ -51,9 +51,9 @@
   "projekt": [
     {"namn": "Fiskevårdsområdet Kallsjön", "ort": "Kallsjön", "typ": "Vagnservice", "ar": "2025", "text": "Åtta vagnar för föreningens tillsynsbåtar fick nya lager och bromsar före säsongen.", "tagg": "maskin"},
     {"namn": "Boggivagn för en 21-fotare", "ort": "Östersund", "typ": "Vagnbygge", "ar": "2026", "text": "Ny kölrulle och förlängd drag så att båten kan sjösättas från grunda ramper.", "tagg": "maskin", "status": "Utfört"},
-    {"namn": "Höskullen", "ort": "Frösön", "typ": "Ombyggnad", "ar": "2026", "text": "Den gamla höskullen isolerades och fick en ny port för småbåtar.", "tagg": "bygg", "status": "Pågående"},
-    {"namn": "Turistbåtar vid Åre", "ort": "Åre", "typ": "Serviceavtal", "ar": "2024", "text": "Fyra hyrbåtar med motorer och vagnar servas varje vår åt en fjällanläggning.", "tagg": "bat"},
-    {"namn": "Spolplattan", "ort": "Frösön", "typ": "Ny anläggning", "ar": "2021", "text": "Varmvattentvätt med slamavskiljare och oljeavskiljare, godkänd av kommunen.", "tagg": "anlaggning"},
+    {"namn": "Höskullen", "ort": "Frösön", "typ": "Isolering", "ar": "2026", "text": "Den gamla höskullen isolerades och fick en ny port för småbåtar.", "tagg": "bygg", "status": "Pågående"},
+    {"namn": "Turistbåtar vid Åre", "ort": "Åre", "typ": "Vårservice på avtal", "ar": "2024", "text": "Fyra hyrbåtar med motorer och vagnar servas varje vår åt en fjällanläggning.", "tagg": "bat"},
+    {"namn": "Spolplatta med varmvatten", "ort": "Frösön", "typ": "Ny anläggning", "ar": "2021", "text": "Varmvattentvätt med slamavskiljare och oljeavskiljare, godkänd av kommunen.", "tagg": "anlaggning"},
     {"namn": "Räddningstjänstens båt", "ort": "Östersund", "typ": "Vagn och motor", "ar": "2025", "text": "Räddningsbåtens vagn fick nya bromsar och belysning och motorn årsservice.", "tagg": "bat"}
   ],
   "process": [
@@ -88,9 +88,9 @@
     ["Servar ni bromsade vagnar för tung trafik?", "Ja, vi kontrollerar och åtgärdar vagnar upp till 3,5 ton inför besiktning, men själva besiktningen görs av besiktningsföretaget."]
   ],
   "priser": [
-    {"namn": "Vinterplats", "pris": "fr. 4 400 kr", "enhet": "per vinter", "text": "Båt på vagn under tak i ladugården.", "punkter": ["Portkod dygnet runt från maj", "Underhållsladdning av batteri", "Tvätt före säsong", "Försäkrad förvaring"]},
+    {"namn": "Bara platsen", "pris": "fr. 4 400 kr", "enhet": "per vinter", "text": "Båt på vagn under tak i ladugården.", "punkter": ["Portkod dygnet runt från maj", "Underhållsladdning av batteri", "Tvätt före säsong", "Försäkrad förvaring"]},
     {"namn": "Plats och vagn", "pris": "fr. 6 200 kr", "enhet": "per vinter", "text": "Förvaring med komplett vagnservice.", "punkter": ["Allt i Vinterplats", "Hjullager och bromsar kontrolleras", "Belysning och däck", "Smörjning av koppling och vinsch"], "utvald": true},
-    {"namn": "Allt på gården", "pris": "fr. 8 900 kr", "enhet": "per vinter", "text": "Båt, vagn och motor klara till isen går.", "punkter": ["Allt i Plats och vagn", "Vinterkonservering av motorn", "Vårservice med impeller", "Provkörning i tank"]}
+    {"namn": "Allt på gården", "pris": "fr. 8 900 kr", "enhet": "per vinter", "text": "Båt, vagn och motor klara till isen går.", "punkter": ["Allt i Plats och vagn", "Vinterkonservering av motorn", "Impellerbyte på våren", "Provkörning i tank"]}
   ],
   "certifikat": [
     {"titel": "Behörig fordonsmekaniker", "text": "Per-Erik och en mekaniker har yrkesbevis för tunga släp och bromssystem.", "ikon": "bil"},

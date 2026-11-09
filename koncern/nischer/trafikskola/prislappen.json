@@ -1,0 +1,139 @@
+{
+  "profil": "nisch",
+  "nisch": "trafikskola",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Prislappen Trafikskola AB",
+  "kortnamn": "Prislappen",
+  "slug": "prislappen",
+  "typ": "Trafikskola med fast totalpris i Borås",
+  "tagline": "Ett pris, inga tillägg",
+  "slogan": "Vi säger vad körkortet kostar innan du börjar – och betalar mellanskillnaden själva om det blir dyrare.",
+  "hero_rubrik": "24 900 kr. Hela körkortet. Punkt.",
+  "hero_text": "Fast totalpris för B-körkort i Borås, med lektioner, riskutbildning och provbil. Blir det fler lektioner än planerat står vi för dem.",
+  "intro_rubrik": "Sex år utan en enda överraskningsfaktura",
+  "om": [
+    "Prislappen startades 2020 av Emir Begović och Sanna Holm, två trafiklärare som tröttnat på att föräldrar ringde och undrade varför notan blivit dubbelt så stor som de räknat med. De gjorde om hela upplägget: ett bedömningspass, ett fast pris och en garanti som gör att skolan och eleven vill samma sak.",
+    "I dag är vi 26 anställda med 17 bilar, varav nio automatväxlade, och lokaler vid Knalleland. Vi utbildar ungefär 900 elever om året, och fyra av fem väljer totalpris i stället för att betala per lektion. Det går att dela upp betalningen på upp till tolv månader utan ränta."
+  ],
+  "vagval_rubrik": "Hur vill du betala?",
+  "tjanster": [
+    {"titel": "Totalpris B", "ikon": "dokument", "href": "verksamhet.html", "text": "Allt fram till körkortet för ett fast pris, efter ett bedömningspass."},
+    {"titel": "Prisgarantin", "ikon": "las", "href": "verksamhet.html", "text": "Behöver du fler lektioner än planerat betalar vi dem."},
+    {"titel": "Delbetalning", "ikon": "kalender", "href": "verksamhet.html", "text": "Upp till tolv månader utan ränta eller avgift."},
+    {"titel": "Bedömningspass", "ikon": "sok", "href": "verksamhet.html", "text": "60 minuter som avgör ditt totalpris."},
+    {"titel": "Automat eller manuell", "ikon": "bil", "href": "verksamhet.html", "text": "Samma totalpris oavsett växellåda."},
+    {"titel": "Gruppteori", "ikon": "skola", "href": "verksamhet.html", "text": "Teorikvällar ingår för alla som har totalpris."},
+    {"titel": "Riskutbildningen ingår", "ikon": "skold", "href": "verksamhet.html", "text": "Båda delarna ingår, på Knalleland och banan i Vårgårda."},
+    {"titel": "Räkna ditt pris", "ikon": "graf", "href": "om-oss.html#kontakt", "text": "Boka bedömningspass och få ditt pris samma dag."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fast pris efter bedömning", "text": "Först kör du 60 minuter med en av våra lärare. Sedan får du ett skriftligt totalpris som gäller hela vägen till godkänt körprov, med lektioner, riskettan, halkbanan och provbil.", "text2": "De flesta hamnar mellan 19 900 och 29 900 kronor, beroende på hur mycket du övningskör hemma.", "tagg": "korskola"},
+    {"titel": "Garanti när det tar längre tid", "text": "Om du behöver fler lektioner än vi räknat med betalar vi dem. Kör du upp och blir underkänd ingår två extra lektioner och provbil till nästa försök.", "text2": "Garantin gäller så länge du följer planen och övningskör de timmar vi kommit överens om.", "tagg": "people"},
+    {"titel": "Betala över tid", "text": "Körkortet är en stor kostnad för en artonåring. Därför kan totalpriset delas upp på upp till tolv månader, utan ränta och utan uppläggningsavgift.", "text2": "Föräldrar och arbetsgivare kan stå som betalare.", "tagg": "kontor"},
+    {"titel": "Per lektion för den som vill", "text": "Vill du hellre betala lektion för lektion går det också, till samma lektionspris som i totalpriset. Då ingår ingen garanti, men full frihet att boka som du vill.", "text2": "En av fem elever väljer det, oftast de som övningskör mycket hemma.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Tjugo lärare", "segment": "Tjugo trafiklärare", "rubrik": "Bedömer och följer upp", "text": "Varje lärare gör sina egna bedömningspass och har ansvar för att planen håller.", "tagg": "korskola"},
+    {"namn": "Kvällssalen", "segment": "Knalleland", "rubrik": "Fyra kvällar i veckan", "text": "Gruppteori och riskettan för upp till 24 personer åt gången.", "tagg": "people"},
+    {"namn": "Elevservice", "segment": "Betalning och bokning", "rubrik": "Svarar på allt om pengar", "text": "Delbetalningar, fakturor till föräldrar och arbetsgivare, och frågor om garantin.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Garantin kostade oss 214 lektioner", "text": "Så många extra lektioner betalade vi under 2025 – fördelat på 61 elever.", "tagg": "korskola"},
+    {"rubrik": "Fem nya automatbilar", "text": "Nu är nio av sjutton bilar automatväxlade, och totalpriset är detsamma.", "tagg": "stad"},
+    {"rubrik": "Föräldrakväll om kostnader", "text": "Ett hundratal föräldrar kom för att höra vad ett körkort faktiskt kostar i Borås.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "24 900", "enhet": "kr", "etikett": "Vanligaste totalpriset"},
+    {"varde": "12", "enhet": "månader", "etikett": "Räntefri delbetalning"},
+    {"varde": "214", "enhet": "lektioner", "etikett": "Betalda av oss 2025"},
+    {"varde": "80 %", "enhet": "", "etikett": "Väljer totalpris"}
+  ],
+  "projekt": [
+    {"namn": "Borås Stad, feriepraktik", "ort": "Borås", "typ": "Totalpris B", "ar": "2026", "text": "Körkort för tolv unga vuxna som avslutat feriepraktik med goda vitsord.", "tagg": "korskola", "status": "Pågående"},
+    {"namn": "Sjuhärads Textilservice", "ort": "Borås", "typ": "Totalpris B", "ar": "2025", "text": "Fem anställda fick körkort med lönavdrag fördelat över ett år.", "tagg": "industri"},
+    {"namn": "Viskafors Bygg & Plåt", "ort": "Viskafors", "typ": "BE", "ar": "2025", "text": "Släpbehörighet för fyra plåtslagare till fast pris per person.", "tagg": "korskola"},
+    {"namn": "Brf Knallebacken", "ort": "Borås", "typ": "Kostnadskväll", "ar": "2025", "text": "En kväll om kostnader och övningskörning i föreningslokalen.", "tagg": "people"},
+    {"namn": "Ulricehamns gymnasium", "ort": "Ulricehamn", "typ": "Risk 1 för treor", "ar": "2024", "text": "Sex riskettor för avgångsklasserna till fast pris per elev.", "tagg": "stad"},
+    {"namn": "Fristads Hemtjänst", "ort": "Fristad", "typ": "Totalpris B", "ar": "2024", "text": "Körkort för åtta medarbetare, fakturerat i en klumpsumma per kvartal.", "tagg": "korskola"}
+  ],
+  "process": [
+    {"titel": "Bedömningspass", "text": "60 minuter med en lärare, och ett skriftligt totalpris direkt efteråt.", "tagg": "korskola"},
+    {"titel": "Plan och avtal", "text": "Vi skriver ner antalet lektioner, övningstimmar hemma och vad garantin täcker.", "tagg": "kontor"},
+    {"titel": "Lektioner och teori", "text": "Lektioner enligt planen, gruppteori på kvällar och riskutbildningens båda delar.", "tagg": "people"},
+    {"titel": "Körprov med garanti", "text": "Provbil ingår, och blir du underkänd ingår två lektioner till nästa försök.", "tagg": "stad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi tjänar inget på att du behöver fler lektioner",
+    "text": "På en vanlig trafikskola blir varje extra lektion en intäkt. Hos oss är den en kostnad. Det gör att lärarna lägger allt på att du ska bli klar i tid – och att vi redovisar öppet hur många lektioner garantin kostade varje år.",
+    "mal": [["0 kr", "i tillägg utöver totalpriset"], ["214", "garantilektioner betalda av oss 2025"], ["12 mån", "räntefri delbetalning"]]
+  },
+  "karriar": {
+    "rubrik": "Trafiklärare som tycker om tydlighet",
+    "text": "Vi söker två trafiklärare till Borås. Du får fast månadslön utan provision, egen bil och ett upplägg där bra planering belönas mer än många lektioner.",
+    "jobb": [["Trafiklärare manuell och automat", "Borås"], ["Trafiklärare B, automat", "Borås"]]
+  },
+  "kultur": "Varje månad går vi igenom vilka elever som gick över sin plan, och vad vi kunde ha gjort annorlunda.",
+  "citat": {"text": "Ett körkort ska inte kosta det du har råd med, det ska kosta det det kostar. Det är vårt jobb att veta det innan du börjar.", "namn": "Emir Begović", "roll": "Medgrundare, ansvarar för prismodellen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi fick ett pris på 23 400 kronor efter första passet. Det blev exakt det, trots att vår son behövde fyra lektioner extra.", "namn": "Maria och Tomas F.", "ort": "Borås"},
+    {"text": "Delbetalningen gjorde att jag kunde ta körkort direkt efter studenten i stället för att spara ett år.", "namn": "Amina H.", "ort": "Sandared"},
+    {"text": "Fast pris per anställd gjorde det enkelt att budgetera. Vi drog av en del på lönen över tolv månader.", "namn": "Göran L., vd", "ort": "Borås"}
+  ],
+  "faq": [
+    ["Vad ingår i totalpriset?", "Alla lektioner i planen, gruppteori, riskettan, halkbanan och provbil till körprovet. Trafikverkets provavgifter och körkortstillståndet ingår inte."],
+    ["Vad händer om jag behöver fler lektioner?", "Då betalar vi dem, så länge du har följt planen och övningskört hemma som vi kommit överens om."],
+    ["Hur kan ni veta priset efter en lektion?", "Vi har gjort bedömningspass sedan 2020 och jämfört med hur det faktiskt gick. Fyra av fem håller sig inom planen."],
+    ["Kostar delbetalning något?", "Nej, ingen ränta och ingen avgift. Du betalar samma totalpris, uppdelat på upp till tolv månader."],
+    ["Är automat dyrare?", "Nej, totalpriset räknas ut på samma sätt oavsett växellåda."],
+    ["Kan jag byta från per lektion till totalpris?", "Ja, men då gör vi ett nytt bedömningspass och räknar fram ett pris för resten av utbildningen."],
+    ["Vad händer om jag avbryter?", "Du betalar för de lektioner och kurser du har gått, till ordinarie pris. Resten krediteras."]
+  ],
+  "priser": [
+    {"namn": "Bedömningspass", "pris": "0 kr", "enhet": "60 minuter", "text": "Gratis om du sedan väljer totalpris.", "punkter": ["En timme med en lärare", "Skriftligt totalpris samma dag", "Plan för övningskörning hemma", "Inget krav på att boka vidare"]},
+    {"namn": "Totalpris B", "pris": "fr. 19 900 kr", "enhet": "hela vägen till körkort", "text": "Det vanligaste priset är 24 900 kronor.", "punkter": ["Alla lektioner i planen", "Riskettan och halkbanan", "Gruppteori och provbil", "Garanti på extra lektioner"], "utvald": true},
+    {"namn": "Lektion för lektion", "pris": "710 kr", "enhet": "per 40 minuter", "text": "Utan garanti, med full frihet.", "punkter": ["Manuell eller automat", "Boka i din takt", "Gruppteori mot avgift", "Gratis avbokning till dagen innan"]}
+  ],
+  "certifikat": [
+    {"titel": "Godkänd trafikskola 2020", "text": "Transportstyrelsens trafikskoletillstånd sedan 2020, med riskutbildning del 1 och 2.", "ikon": "dokument"},
+    {"titel": "Skriftligt prisavtal", "text": "Varje totalpris och garanti skrivs in i ett avtal som eleven och skolan undertecknar.", "ikon": "las"},
+    {"titel": "Granskade avtal", "text": "Avtalen är granskade av en jurist och följer konsumenttjänstlagen.", "ikon": "skold"},
+    {"titel": "Fast lön och avtal", "text": "Alla anställda har kollektivavtal, och lärarna har fast lön utan provision.", "ikon": "folk"}
+  ],
+  "kunder": ["Borås Stad, feriepraktik", "Sjuhärads Textilservice", "Viskafors Bygg & Plåt", "Brf Knallebacken", "Ulricehamns gymnasium", "Fristads Hemtjänst", "Druvefors Fastigheter AB"],
+  "nyheter": [
+    ["2026-09-24", "Garantin kostade 214 lektioner", "Vi redovisar varje år hur mycket prisgarantin kostar oss.", "korskola"],
+    ["2026-05-28", "Fem nya automatbilar", "Nio av sjutton bilar är nu automatväxlade.", "stad"],
+    ["2026-02-03", "Vad kostar ett körkort i Borås?", "Vår genomgång av alla kostnader från tillstånd till körprov.", "kontor"]
+  ],
+  "kontakt": {"adress": "Kampegatan 22", "postnr": "504 56", "ort": "Borås", "telefon": "070-174 06 97", "epost": "hej@prislappen.se", "orgnr": ""},
+  "oppettider": "Elevservice mån–fre 9–17 · Lektioner mån–lör 7–20",
+  "omrade": "Borås, Ulricehamn och Sjuhärad",
+  "fot_cta": "Vill du veta vad ditt körkort kostar? Boka ett bedömningspass.",
+  "bild": {"panel": "people", "hb": "korskola"},
+  "text": {
+    "kontakt_knapp": "Få ditt pris",
+    "hero_knapp": "Så räknar vi",
+    "vagval_etikett": "Betalning",
+    "ber_etikett": "Öppet redovisat",
+    "ber_rubrik": "Garantin, bilarna och föräldrarna",
+    "proj_etikett": "Köpt av arbetsgivare",
+    "proj_rubrik": "Arbetsgivare som betalar körkortet",
+    "process_etikett": "Totalpriset",
+    "process_rubrik": "Från bedömning till godkänt",
+    "bolag_etikett": "Skolan",
+    "bolag_rubrik": "Lärare, teorisal och elevservice",
+    "hb_etikett": "Vår affärsidé",
+    "priser_etikett": "Prisbild",
+    "priser_rubrik": "Totalpris eller per lektion",
+    "priser_utvald": "Med garanti",
+    "priser_not": "Alla belopp med moms. Avgifter till Trafikverket och Transportstyrelsen ingår inte.",
+    "omdomen_rubrik": "Elever och föräldrar om priset",
+    "faq_rubrik": "Om totalpris och garanti",
+    "boka_rubrik": "Boka ditt bedömningspass",
+    "boka_text": "Skriv om du övningskör hemma och om du vill ha automat eller manuell, så föreslår vi en tid för bedömningspasset.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Övningskörning hemma och växellåda"],
+    "certifikat_rubrik": "Tillstånd och tydliga avtal",
+    "logos_rubrik": "Arbetsgivare med fast pris per anställd",
+    "medarbetare": "Lärarna på Knalleland"
+  }
+}

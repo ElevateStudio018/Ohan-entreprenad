@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Lastarförare som tycker om ordning",
     "text": "En bra plattväg läggs i rätt ordning, så att den går lika snabbt att plocka upp. Vi söker dig som kört lastare eller lastbil med kran och vill jobba i lag om två.",
-    "jobb": [["Utläggare med lastarvana", "Uppsala"], ["Lastbilschaufför med kran", "Uppsala"], ["Projektledare markskydd", "Uppsala"]]
+    "jobb": [["Utläggare med lastarvana", "Uppsala"], ["Chaufför med lastbilskran", "Uppsala"], ["Projektledare markskydd", "Uppsala"]]
   },
   "kultur": "Lagen jobbar alltid två och två, och den som lade vägen är oftast den som plockar upp den.",
   "citat": {"text": "Jag såg en entreprenör betala 400 000 kronor för att lägga tillbaka gräsmattor. Med plattor hade det kostat en tiondel, och ingen granne hade blivit arg.", "namn": "Patrik Öhrn", "roll": "Grundare och delägare", "tagg": "maskin"},
@@ -83,9 +83,9 @@
     ["Kan jag hyra plattor utan utläggning?", "Ja, du kan hämta plattor på depån i Boländerna. Varje platta väger 38 kilo och läggs enklast med lastare och plattgafflar."],
     ["Hur tungt klarar plattorna?", "En körplatta bär 80 ton fördelat på hela ytan. På mycket blöt mark lägger vi dubbla lager eller stålplåt under kranar."],
     ["Blir det märken i gräset?", "Om plattorna ligger mer än tre veckor under sommaren gulnar gräset men återhämtar sig på en till två veckor. Rötter och mark packas inte."],
-    ["Hur snabbt kan ni leverera?", "Plattor för upp till 500 meter väg kan oftast läggas ut inom två arbetsdagar."],
+    ["Hur fort ligger vägen på plats?", "Plattor för upp till 500 meter väg kan oftast läggas ut inom två arbetsdagar."],
     ["Lägger ni stålplåtar i gata?", "Ja, med utbildad personal för arbete på väg och enligt kommunens trafikanordningsplan. Utläggning sker oftast nattetid."],
-    ["Hur räknas hyran?", "Per platta och påbörjad vecka. Utläggning och upplockning debiteras en gång, flyttar under jobbet per timme."]
+    ["Hur debiteras plattorna?", "Per platta och påbörjad vecka. Utläggning och upplockning debiteras en gång, flyttar under jobbet per timme."]
   ],
   "priser": [
     {"namn": "Körplatta", "pris": "95 kr", "enhet": "per platta och vecka", "text": "Kompositplatta 2,5 × 1,25 meter, hämtas på depån.", "punkter": ["Bär 80 ton", "Låskopplingar ingår", "Minsta hyra 20 plattor", "Hämtning i Boländerna"]},
@@ -100,7 +100,7 @@
     {"titel": "Arbete på väg, nivå 2", "text": "Alla som lägger plåtar i gata har utbildning för arbete på väg enligt Trafikverkets krav.", "ikon": "vag"},
     {"titel": "Lastsäkring", "text": "Chaufförerna är utbildade i lastsäkring enligt Transportstyrelsens föreskrifter.", "ikon": "las"},
     {"titel": "ISO 14001", "text": "Miljöledningssystem som omfattar återvinning av plattor och val av drivmedel.", "ikon": "lov"},
-    {"titel": "Kollektivavtal och ID06", "text": "Kollektivavtal genom Transport och ID06 för alla som arbetar på byggarbetsplatser.", "ikon": "folk"}
+    {"titel": "ID06 och avtal med Transport", "text": "Kollektivavtal genom Transport och ID06 för alla som arbetar på byggarbetsplatser.", "ikon": "folk"}
   ],
   "kunder": ["Upplandsnätet Entreprenad", "Ekolsunds Golfklubb", "Östhammars Vindkraftsbygg", "Brf Kungsgärdet", "Knivsta Fiberförening", "Studentfestivalen i Uppsala", "Enköpings Ledningsbyggare", "Sörmlands Kranlyft"],
   "nyheter": [

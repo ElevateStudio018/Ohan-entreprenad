@@ -23,7 +23,7 @@
     {"titel": "Bemötandekurs", "ikon": "folk", "href": "verksamhet.html", "text": "Demens, synnedsättning och resenärer som inte talar svenska."},
     {"titel": "Skolskjuts", "ikon": "skola", "href": "verksamhet.html", "text": "Barn, bältesstolar och kommunikation med föräldrar och skola."},
     {"titel": "Stadskännedom", "ikon": "karta", "href": "verksamhet.html", "text": "Linköpings och Norrköpings adresser, sjukhus och vårdcentraler."},
-    {"titel": "Sparsam körning", "ikon": "graf", "href": "verksamhet.html", "text": "Lägre bränslekostnad och mjukare körning för passagerarna."},
+    {"titel": "Mjuk och snål körning", "ikon": "graf", "href": "verksamhet.html", "text": "Lägre bränslekostnad och mjukare körning för passagerarna."},
     {"titel": "Nästa kursstart", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Ny kvällsgrupp startar var sjätte vecka."}
   ],
   "affarsomraden": [
@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Teorisalarna", "segment": "Roxtorget, Linköping", "rubrik": "Tre kvällar i veckan", "text": "Två salar med 24 platser och datorer för övningsprov.", "tagg": "kontor"},
-    {"namn": "Körlärarna", "segment": "Tre taxibilar", "rubrik": "Taxameter och ramp", "text": "Fem lärare som alla har kört taxi i minst fem år.", "tagg": "korskola"},
+    {"namn": "Taxilärarna", "segment": "Tre taxibilar", "rubrik": "Taxameter och ramp", "text": "Fem lärare som alla har kört taxi i minst fem år.", "tagg": "korskola"},
     {"namn": "Norrköping", "segment": "Filial vid Resecentrum", "rubrik": "Öppnade 2023", "text": "En teorisal och en bil, med kvällsgrupper varannan månad.", "tagg": "stad"},
     {"namn": "Färdtjänstskolan", "segment": "Bemötande och fastsättning", "rubrik": "Rullstolar och rullstolsbuss", "text": "Två instruktörer med bakgrund inom vård och omsorg.", "tagg": "people"}
   ],
@@ -74,7 +74,7 @@
     "jobb": [["Trafiklärare taxi", "Norrköping"], ["Instruktör färdtjänst, deltid", "Linköping"]]
   },
   "kultur": "Varje lärare kör ett taxipass i månaden åt ett av bolagen, för att inte glömma hur jobbet faktiskt ser ut.",
-  "citat": {"text": "Körprovet tar tjugo minuter. Det svåra kommer efteråt, klockan tre på natten med en berusad passagerare eller en rädd dam på väg till akuten.", "namn": "Reza Mohammadi", "roll": "Grundare och trafiklärare", "tagg": "korskola"},
+  "citat": {"text": "Körprovet tar tjugo minuter. Det svåra kommer efteråt, klockan tre på natten med en berusad passagerare eller en rädd dam på väg till akuten.", "namn": "Reza Mohammadi", "roll": "Grundare, före detta taxiförare", "tagg": "korskola"},
   "omdomen": [
     {"text": "Jag hade misslyckats två gånger med teorin på egen hand. Efter åtta veckors kvällskurs klarade jag båda delarna samma dag.", "namn": "Hamid S.", "ort": "Linköping"},
     {"text": "Alla våra nya förare går hos Passagerarsätet. Vi märker skillnaden i hur de pratar med färdtjänstresenärerna.", "namn": "Eva L., trafikchef", "ort": "Linköping"},
@@ -113,7 +113,7 @@
   "bild": {"panel": "people", "hb": "stad"},
   "text": {
     "kontakt_knapp": "Anmäl dig",
-    "hero_knapp": "Kurserna",
+    "hero_knapp": "Utbildningar för taxi",
     "vagval_etikett": "Yrkesvägar",
     "ber_etikett": "Från Roxtorget",
     "ber_rubrik": "Prov, buss och nya grupper",
@@ -121,13 +121,13 @@
     "proj_rubrik": "Taxibolag och regioner vi utbildar för",
     "process_etikett": "Till legitimationen",
     "process_rubrik": "Från läkarintyg till taxameter",
-    "bolag_etikett": "Verksamhet",
+    "bolag_etikett": "Så är vi uppbyggda",
     "bolag_rubrik": "Salar, bilar och färdtjänstskola",
     "hb_etikett": "Bemötande",
     "priser_etikett": "Kurspriser",
     "priser_rubrik": "Kvällskurs, färdtjänst eller bara teori",
     "priser_utvald": "Flest anmäler sig",
-    "priser_not": "Priser inklusive moms. Avgifter till Trafikverket och Transportstyrelsen tillkommer.",
+    "priser_not": "Kurspriserna är med moms. Myndigheternas avgifter för prov och legitimation tillkommer.",
     "omdomen_rubrik": "Förare och trafikchefer",
     "faq_rubrik": "Om taxiförarlegitimationen",
     "boka_rubrik": "Anmäl dig till nästa grupp",

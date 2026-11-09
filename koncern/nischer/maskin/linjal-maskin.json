@@ -73,7 +73,7 @@
     "jobb": [["Mätingenjör maskinmodeller", "Skövde"], ["Systemtekniker 3D", "Skövde"], ["Maskinförare med 3D-vana", "Skövde"]]
   },
   "kultur": "Varje nyanställd mätingenjör kör grävare en vecka, och varje förare sitter en dag med modellerna.",
-  "citat": {"text": "En maskin som står och väntar på en pinne är den dyraste maskinen på bygget. Vi bestämde oss för att ingen av våra skulle behöva göra det.", "namn": "Sanna Fröjd", "roll": "Grundare och vd", "tagg": "kontor"},
+  "citat": {"text": "En maskin som står och väntar på en pinne är den dyraste maskinen på bygget. Vi bestämde oss för att ingen av våra skulle behöva göra det.", "namn": "Sanna Fröjd", "roll": "Grundare och mätingenjör", "tagg": "kontor"},
   "omdomen": [
     {"text": "Vi behövde ingen utsättare på hela solparken. Dozerföraren såg nivån i skärmen och mätrapporten godkändes av beställaren direkt.", "namn": "Mattias R.", "ort": "Mariestad"},
     {"text": "Mätingenjören hittade ett höjdfel i ritningen som skulle ha kostat oss en vecka. Det upptäcktes innan vi ens grävt.", "namn": "Helena B.", "ort": "Hjo"},
@@ -91,7 +91,7 @@
     {"titel": "ISO 9001", "text": "Kvalitetsledningssystem för uthyrning, modellering och mätning.", "ikon": "skold"},
     {"titel": "Kalibrering mot SWEPOS", "text": "Alla system kontrolleras mot Lantmäteriets nätverks-RTK och vår egen kontrollpunkt.", "ikon": "glob"},
     {"titel": "Maskinförarbevis", "text": "Förare och utbildare har maskinförarbevis och dokumenterad 3D-erfarenhet.", "ikon": "hjalm"},
-    {"titel": "ID06 och kollektivavtal", "text": "Kollektivavtal genom Byggnads och Unionen, ID06 för alla på arbetsplatsen.", "ikon": "folk"}
+    {"titel": "Avtal och ID06 på plats", "text": "Kollektivavtal genom Byggnads och Unionen, ID06 för alla på arbetsplatsen.", "ikon": "folk"}
   ],
   "kunder": ["Hjo kommun, gata och park", "Falköpings Markbyggare", "Tidaholms Golfklubb", "Mariestads Solpark", "Skaraborgs Logistikcenter", "Lidköpings Industrihamn", "Skövde Bostadsutveckling"],
   "nyheter": [
@@ -107,7 +107,7 @@
   "text": {
     "hero_knapp": "Maskiner med 3D",
     "hero_lank": "Schaktat på centimetern",
-    "kontakt_knapp": "Skicka ritning",
+    "kontakt_knapp": "Ladda upp ritning",
     "vagval_etikett": "Maskinstyrning",
     "ber_etikett": "Från mätbordet",
     "ber_rubrik": "Ytor som blev rätt direkt",

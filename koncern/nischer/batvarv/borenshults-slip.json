@@ -1,0 +1,138 @@
+{
+  "profil": "nisch",
+  "nisch": "batvarv",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Borenshults Slip AB",
+  "kortnamn": "Borenshults Slip",
+  "slug": "borenshults-slip",
+  "typ": "Varv för kanalbåtar och ångfartyg i Motala",
+  "tagline": "Stål, nitar och ånga",
+  "slogan": "Vi dockar och reparerar passagerarfartyg, kanalbåtar och ångbåtar i stål – vid Göta kanal mellan Boren och Vättern.",
+  "hero_rubrik": "Hundraåriga fartyg, nästa sekel i trafik",
+  "hero_text": "Torrdocka för fartyg upp till 32 meter, skrovarbeten i nitat och svetsat stål och service av ångmaskiner. 22 varvsarbetare som håller kanalens flotta flytande.",
+  "intro_rubrik": "En docka vid kanalen sedan 1907",
+  "om": [
+    "Slipen vid Borenshult byggdes 1907 för att reparera pråmarna och bogserbåtarna som gick på Göta kanal. När godstrafiken upphörde på 1970-talet övergick varvet till att sköta passagerarfartygen – de flesta byggda mellan 1874 och 1931 – och de ångbåtar som föreningar har räddat från skrotning.",
+    "Sedan 2014 ägs varvet av Karin och David Lundqvist, båda utbildade fartygsingenjörer. Vi är 22 anställda, varav sex plåtslagare som kan nita, fyra svetsare och tre maskinister med ångbehörighet. Vintertid står 8–10 fartyg i docka eller på slip hos oss."
+  ],
+  "vagval_rubrik": "Vilket fartyg gäller det?",
+  "tjanster": [
+    {"titel": "Torrdocka", "ikon": "vatten", "href": "verksamhet.html", "text": "Docka för fartyg upp till 32 meter och 2,8 meters djupgående."},
+    {"titel": "Plåtbyte och nitning", "ikon": "hamare", "href": "verksamhet.html", "text": "Skrovplåtar byts med varmnitar där originalet var nitat."},
+    {"titel": "Ångmaskiner", "ikon": "eld", "href": "verksamhet.html", "text": "Service, pannkontroll och renovering av kolv- och ångmaskiner."},
+    {"titel": "Tjockleksmätning", "ikon": "sok", "href": "verksamhet.html", "text": "Ultraljudsmätning av skrovplåt inför Transportstyrelsens tillsyn."},
+    {"titel": "Propeller och axel", "ikon": "kugge", "href": "verksamhet.html", "text": "Axeltätningar, lager och propellrar på fartyg upp till 400 kW."},
+    {"titel": "Inredning i trä", "ikon": "trad", "href": "verksamhet.html", "text": "Salonger, däck och relingar i ek, teak och mahogny."},
+    {"titel": "Dokumentation", "ikon": "dokument", "href": "verksamhet.html", "text": "Antikvarisk dokumentation för kulturhistoriskt värdefulla fartyg."},
+    {"titel": "Boka dockplats", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Dockningar planeras ett år i förväg."}
+  ],
+  "affarsomraden": [
+    {"titel": "Dockning och skrov", "text": "Torrdockan pumpas tom på sex timmar, och fartyget ställs på pallar så att hela botten blir åtkomlig. Vi blästrar, tjockleksmäter och byter de plåtar som har tunnats ut.", "text2": "Nitade skrov lagas med varmnitar som värms i vår koleld.", "tagg": "svets"},
+    {"titel": "Ångmaskiner och pannor", "text": "Ångbåtar kräver maskinister som förstår både gammal teknik och dagens krav på tryckkärl. Vi renoverar kolvmaskiner, byter tuber i pannor och förbereder pannorna för återkommande kontroll.", "text2": "Tre maskinister har behörighet för ångpannor.", "tagg": "industri"},
+    {"titel": "Passagerarfartyg", "text": "Kanalbåtarna och skärgårdsbåtarna tar betalande passagerare och ska klara Transportstyrelsens tillsyn varje år. Vi gör årsdockningar, åtgärdar anmärkningar och dokumenterar arbetet så att inspektören har allt på plats.", "text2": "Elva rederier och föreningar har fasta dockningstider hos oss.", "tagg": "bat"},
+    {"titel": "Snickeri och inredning", "text": "Salongerna i de gamla fartygen är ofta lika värdefulla som skroven. Våra snickare renoverar paneler, lackerar mahogny och lägger nya däck i ek eller teak.", "text2": "Vi sparar originaldetaljer och dokumenterar varje utbyte.", "tagg": "tra"}
+  ],
+  "bolag": [
+    {"namn": "Dockan", "segment": "Skrov och plåt", "rubrik": "Sex plåtslagare som nitar", "text": "Torrdockan från 1907 och slipen för mindre fartyg upp till 18 meter.", "tagg": "svets"},
+    {"namn": "Maskinverkstaden", "segment": "Ånga och diesel", "rubrik": "Tre maskinister", "text": "Ångmaskiner, pannor, dieselmotorer och axellinjer.", "tagg": "industri"},
+    {"namn": "Snickeriet", "segment": "Inredning och däck", "rubrik": "Fyra snickare", "text": "Salonger, relingar och däck i trä från svenska och certifierade leverantörer.", "tagg": "tra"},
+    {"namn": "Projektkontoret", "segment": "Planering och tillsyn", "rubrik": "Karin och två ingenjörer", "text": "Planerar dockningar, dokumenterar och har kontakt med Transportstyrelsen.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ångbåt från 1896 i docka", "text": "Föreningsägda S/S Boren byter 38 bottenplåtar med varmnitar under vintern.", "tagg": "svets"},
+    {"rubrik": "Ny panna till kanalbåt", "text": "En nybyggd panna i originalutförande ersätter en panna som inte längre klarade kontrollen.", "tagg": "industri"},
+    {"rubrik": "Dockan renoverad", "text": "Dockportarna har bytts och pumparna ersatts med eldrivna – för första gången sedan 1962.", "tagg": "anlaggning"}
+  ],
+  "nyckeltal": [
+    {"varde": "1907", "enhet": "", "etikett": "Året dockan byggdes"},
+    {"varde": "32", "enhet": "meter", "etikett": "Längsta fartyg i dockan"},
+    {"varde": "11", "enhet": "rederier", "etikett": "Med fasta dockningstider"},
+    {"varde": "4 200", "enhet": "nitar", "etikett": "Slagna under vintern 2025/26"}
+  ],
+  "projekt": [
+    {"namn": "S/S Boren", "ort": "Motala", "typ": "Plåtbyte med nitning", "ar": "2026", "text": "38 bottenplåtar byts och 2 900 nitar slås i ett skrov från 1896.", "tagg": "svets", "status": "I docka"},
+    {"namn": "M/S Vättervik", "ort": "Vadstena", "typ": "Årsdockning", "ar": "2025", "text": "Tjockleksmätning, ny axeltätning och åtgärdade anmärkningar inför tillsynen.", "tagg": "bat"},
+    {"namn": "Kanalbåt från 1912", "ort": "Söderköping", "typ": "Ny ångpanna", "ar": "2025", "text": "Pannan tillverkades efter originalritningar och provtrycktes på varvet.", "tagg": "industri"},
+    {"namn": "Salongen på M/S Roxen", "ort": "Linköping", "typ": "Inredning", "ar": "2024", "text": "Mahognypaneler från 1931 renoverades och lackerades i tolv lager.", "tagg": "interior"},
+    {"namn": "Dockportarna", "ort": "Motala", "typ": "Varvets anläggning", "ar": "2025", "text": "Nya portar i stål och eldrivna pumpar som tömmer dockan på sex timmar.", "tagg": "anlaggning"},
+    {"namn": "Isbrytande arbetsbåt", "ort": "Motala", "typ": "Skrovförstärkning", "ar": "2026", "text": "Kanalförvaltningens arbetsbåt får en förstärkt stäv inför vinterns isbrytning.", "tagg": "svets", "status": "Utfört"}
+  ],
+  "process": [
+    {"titel": "Planering ett år före", "text": "Vi går igenom fartyget under säsongen och bokar dockning till vintern.", "tagg": "kontor"},
+    {"titel": "Dockning", "text": "Fartyget går in i dockan, som pumpas tom, och ställs på pallar.", "tagg": "bat"},
+    {"titel": "Mätning och arbete", "text": "Vi tjockleksmäter, besiktar och utför arbetet enligt plan och anmärkningar.", "tagg": "svets"},
+    {"titel": "Tillsyn och leverans", "text": "Transportstyrelsens inspektör får dokumentationen, och fartyget går ut till säsongen.", "tagg": "natur"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fartyg som får fortsätta segla",
+    "text": "Ett hundraårigt stålfartyg som underhålls kan gå i trafik i hundra år till. Vi blästrar med återvunnet blästermedel i sluten hall och har bytt dockans dieselpumpar mot eldrivna.",
+    "mal": [["100 år", "genomsnittsålder på fartygen i dockan"], ["100 %", "blästring i sluten hall"], ["0", "dieselpumpar kvar vid dockan"]]
+  },
+  "karriar": {
+    "rubrik": "Lär dig nita ett skrov",
+    "text": "Det finns få plåtslagare i Sverige som kan varmnita. Vi utbildar en lärling per år och söker svetsare och maskinister som vill arbeta med fartyg från förra sekelskiftet.",
+    "jobb": [["Plåtslagare/lärling nitning", "Motala"], ["Fartygssvetsare", "Motala"], ["Maskinist med ångintresse", "Motala"]]
+  },
+  "kultur": "Säsongsavslutning ombord på någon av kundernas ångbåtar och fika vid dockkanten varje dag klockan nio.",
+  "citat": {"text": "Varje nit vi slår ska hålla lika länge som de som sattes 1896. Det är inte nostalgi – det är kraven från de som byggde fartyget.", "namn": "Karin Lundqvist", "roll": "Vd och fartygsingenjör", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vår ångbåt fick 38 nya bottenplåtar med nitar som inte går att skilja från originalet. Föreningens medlemmar fick vara med och slå de sista.", "namn": "Gunnar E., ångbåtsförening", "ort": "Motala"},
+    {"text": "Inspektören hade alla mätprotokoll innan han kom ombord. Tillsynen tog en timme.", "namn": "Sofia R., rederi", "ort": "Vadstena"},
+    {"text": "De hittade en ritning från 1912 i arkivet och byggde pannan exakt som den var.", "namn": "Lars-Erik H.", "ort": "Söderköping"}
+  ],
+  "faq": [
+    ["Vilka fartyg tar ni emot?", "Stålfartyg och mindre träfartyg upp till 32 meter, 7,2 meters bredd och 2,8 meters djupgående – det som ryms genom kanalens slussar."],
+    ["Hur långt i förväg ska vi boka?", "Dockningar under vintern bokas oftast ett år i förväg. Akuta skador tar vi in så fort dockan är ledig."],
+    ["Kan ni hjälpa till med Transportstyrelsens tillsyn?", "Ja, vi gör tjockleksmätningar och dokumentation och åtgärdar anmärkningar inför tillsynen."],
+    ["Arbetar ni med ångpannor?", "Ja, vi renoverar och tillverkar pannor och förbereder dem för återkommande kontroll av ackrediterat kontrollorgan."],
+    ["Kan föreningens medlemmar delta?", "Ja, ideella föreningar kan delta i arbetet under handledning, vilket sänker kostnaden."],
+    ["Tar ni fritidsbåtar?", "Nej, bara fartyg och större arbetsbåtar. Fritidsbåtar hänvisar vi till varven runt Vättern."]
+  ],
+  "certifikat": [
+    {"titel": "Svetsare enligt EN ISO 9606-1", "text": "Fyra svetsare certifierade för svetsning av fartygsstål.", "ikon": "eld"},
+    {"titel": "Tryckkärlsbehörighet", "text": "Arbeten på ångpannor utförs enligt AFS för tryckbärande anordningar och kontrolleras av ackrediterat organ.", "ikon": "kugge"},
+    {"titel": "Kulturhistorisk dokumentation", "text": "Arbeten på K-märkta fartyg dokumenteras enligt Sjöhistoriska museets riktlinjer.", "ikon": "dokument"},
+    {"titel": "Avtal med IF Metall", "text": "Alla anställda omfattas av Teknikavtalet med IF Metall.", "ikon": "folk"}
+  ],
+  "kunder": ["Ångbåtsföreningen S/S Boren", "Vättervikens Rederi", "Roxens Kanaltrafik", "Söderköpings Kanalbåtar", "Östgöta Kanalförvaltning", "Motala Skärgårdsturer", "Vadstena Slottsbåtar", "Ljungsbro Ångbåtsvänner"],
+  "nyheter": [
+    ["2026-11-03", "S/S Boren i dockan", "Vinterns största projekt har börjat – 38 plåtar och 2 900 nitar.", "svets"],
+    ["2026-08-20", "Bokning för vintern 2027/28", "Fem dockningstider är fortfarande lediga.", "bat"],
+    ["2026-04-14", "Så går en varmnitning till", "Från koleld till slagen nit på 40 sekunder.", "industri"]
+  ],
+  "kontakt": {"adress": "Slipvägen 4", "postnr": "591 97", "ort": "Motala", "telefon": "070-174 06 73", "epost": "dockan@borenshultsslip.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.45–15.30",
+  "omrade": "Göta kanal, Vättern, Roxen och hela Östergötland",
+  "fot_cta": "Behöver fartyget docka nästa vinter? Boka tiden redan nu.",
+  "bild": {"panel": "svets", "hb": "bat"},
+  "text": {
+    "kontakt_knapp": "Boka dockning",
+    "hero_knapp": "Det vi gör i dockan",
+    "hero_lank": "Fartyg i vinter",
+    "vagval_etikett": "Fartygen",
+    "ber_etikett": "Vid dockkanten",
+    "ber_rubrik": "I dockan just nu",
+    "proj_etikett": "Fartyg",
+    "proj_rubrik": "Ångbåtar, kanalbåtar och skärgårdsfartyg",
+    "proj_rubrik_lista": "Dockningar och renoveringar",
+    "proj_kol": ["Fartyg", "Trafikerar", "Varvsarbete", "Läge", "Varvsår"],
+    "status_klart": "I trafik",
+    "status_pagaende": "I docka",
+    "process_etikett": "En dockning",
+    "process_rubrik": "Från bokning till tillsyn",
+    "bolag_etikett": "Verkstäderna",
+    "bolag_rubrik": "Docka, maskin, snickeri och kontor",
+    "bolag_kol": ["Verkstad i varvet", "Arbetar med", "Folk och utrustning"],
+    "meny_bolag": "Verkstäderna",
+    "hb_etikett": "Lång livslängd",
+    "omdomen_rubrik": "Rederier och föreningar",
+    "faq_rubrik": "Om dockning, ånga och tillsyn",
+    "boka_rubrik": "Vilket fartyg ska dockas?",
+    "boka_text": "Beskriv fartyget, byggår och vad som behöver göras så hör Karin av sig med förslag på dockningstid.",
+    "boka_falt": ["Namn och rederi", "Telefon", "E-post", "Fartyg, byggår och arbete"],
+    "logos_rubrik": "Rederier, föreningar och kanalförvaltning",
+    "certifikat_rubrik": "Behöriga för stål och ånga",
+    "ny_rubrik": "Dockloggen",
+    "medarbetare": "Varvsarbetarna"
+  }
+}

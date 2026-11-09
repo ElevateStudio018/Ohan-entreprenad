@@ -33,8 +33,8 @@
     {"titel": "Båtarna", "text": "Poolen har daycruisers på 22 fot, familjebåtar på 27 fot och fyra segelbåtar. Alla båtar har samma navigationsutrustning, så att du känner dig hemma i alla.", "text2": "Båtarna byts ut efter 6–8 år och delägarna får sin del av försäljningen.", "tagg": "natur"}
   ],
   "bolag": [
-    {"namn": "Båtvärdarna", "segment": "Bryggan", "rubrik": "Städning, tankning och kontroll", "text": "Sex båtvärdar som tar emot och lämnar över båtarna varje dag under säsong.", "tagg": "bat"},
-    {"namn": "Varvet", "segment": "Långedrag", "rubrik": "Service och vinterplats", "text": "Tre mekaniker och en båtbyggare som sköter alla 38 båtar.", "tagg": "people"},
+    {"namn": "Båtvärdarna", "segment": "Vid bryggorna", "rubrik": "Städning, tankning och kontroll", "text": "Sex båtvärdar som tar emot och lämnar över båtarna varje dag under säsong.", "tagg": "bat"},
+    {"namn": "Varvet i Långedrag", "segment": "Service", "rubrik": "Service och vinterplats", "text": "Tre mekaniker och en båtbyggare som sköter alla 38 båtar.", "tagg": "people"},
     {"namn": "Delägarservice", "segment": "Kontoret", "rubrik": "Andelar, bokning och ekonomi", "text": "Köp och försäljning av andelar, båtbolagens bokföring och bokningssystemet.", "tagg": "kontor"}
   ],
   "berattelser": [
@@ -50,16 +50,16 @@
   ],
   "projekt": [
     {"namn": "Familjebåt 27 fot, nr 38", "ort": "Långedrag", "typ": "Ny båtgrupp", "ar": "2026", "text": "Åtta familjer från Västra Frölunda och Askim delar på poolens nyaste båt.", "tagg": "bat", "status": "Fullsatt"},
-    {"namn": "Bryggan i Saltholmen", "ort": "Saltholmen", "typ": "Ny bas", "ar": "2026", "text": "Tolv platser med båtvärd på plats från maj till september.", "tagg": "natur", "status": "I drift"},
+    {"namn": "Bryggan i Saltholmen", "ort": "Saltholmen", "typ": "Ny bas", "ar": "2026", "text": "Tolv platser med båtvärd på plats från maj till september.", "tagg": "natur", "status": "Öppen"},
     {"namn": "Segelbåtsgruppen", "ort": "Långedrag", "typ": "Ny båtgrupp", "ar": "2025", "text": "Fyra segelbåtar på 30 fot med 32 delägare och gemensam seglarskola.", "tagg": "bat"},
     {"namn": "Byte av de första båtarna", "ort": "Långedrag", "typ": "Båtbyte", "ar": "2025", "text": "De tre första båtarna från 2018 såldes och ersattes – delägarna fick 74 procent tillbaka.", "tagg": "bat"},
-    {"namn": "Varvshallen", "ort": "Långedrag", "typ": "Förvaring", "ar": "2024", "text": "Kall hall för alla 38 båtar så att ingen behöver stå ute.", "tagg": "bygg"},
+    {"namn": "Varvshallen", "ort": "Långedrag", "typ": "Vinterhall", "ar": "2024", "text": "Kall hall för alla 38 båtar så att ingen behöver stå ute.", "tagg": "bygg"},
     {"namn": "Företagsandelar", "ort": "Göteborg", "typ": "Företagspool", "ar": "2024", "text": "Tre konsultbolag delar på två båtar för kundevent och personaldagar.", "tagg": "people"}
   ],
   "process": [
-    {"titel": "Provtur", "text": "En båtvärd visar båtarna och tar ut dig på en tur i skärgården.", "tagg": "bat"},
+    {"titel": "Provtur med båtvärd", "text": "En båtvärd visar båtarna och tar ut dig på en tur i skärgården.", "tagg": "bat"},
     {"titel": "Köp andel", "text": "Du väljer båt, köper en åttondel och träffar dina sju delägare.", "tagg": "people"},
-    {"titel": "Genomgång", "text": "Praktisk utbildning på din båt innan du får boka själv.", "tagg": "natur"},
+    {"titel": "Praktisk genomgång", "text": "Praktisk utbildning på din båt innan du får boka själv.", "tagg": "natur"},
     {"titel": "Boka och kör", "text": "Boka i systemet, hämta nyckeln vid bryggan och lämna båten när du är klar.", "tagg": "bat"}
   ],
   "hallbarhet": {
@@ -73,7 +73,7 @@
     "jobb": [["Båtvärd, sommar 2027", "Långedrag"], ["Båtvärd, sommar 2027", "Saltholmen"], ["Båtmekaniker", "Långedrag"]]
   },
   "kultur": "Personalen får boka lediga båtdagar gratis i september – och det finns alltid några.",
-  "citat": {"text": "Vi säljer inte båtar. Vi säljer båtdagar utan helgerna med slippapper. De flesta som köper en andel har ägt en egen båt tidigare.", "namn": "Jenny Falk", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Vi säljer inte båtar. Vi säljer båtdagar utan helgerna med slippapper. De flesta som köper en andel har ägt en egen båt tidigare.", "namn": "Jenny Falk", "roll": "Vd, en av grundarna", "tagg": "people"},
   "omdomen": [
     {"text": "Vi sålde vår egen båt och köpte en åttondel. Vi är ute fler dagar nu än förut – och har inte skrapat en botten sedan dess.", "namn": "Karin och Mats L.", "ort": "Askim"},
     {"text": "Båten är alltid städad och tankad när vi kommer. Ibland glömmer jag att den inte bara är vår.", "namn": "Nadia H.", "ort": "Västra Frölunda"},
@@ -119,7 +119,7 @@
   "kontor_text": "Båten hämtas och lämnas där den har sin bas.",
   "bild": {"panel": "people", "hb": "bat"},
   "text": {
-    "kontakt_knapp": "Boka provtur",
+    "kontakt_knapp": "Prova en båt",
     "hero_knapp": "Så fungerar delägandet",
     "hero_lank": "Båtarna i poolen",
     "vagval_etikett": "Delägande",
@@ -128,13 +128,13 @@
     "proj_etikett": "Båtgrupper",
     "proj_rubrik": "Båtar som åtta familjer delar",
     "proj_rubrik_lista": "Båtgrupper och baser",
-    "status_klart": "Klart",
+    "status_klart": "Fullbokad",
     "status_pagaende": "Startar",
     "process_etikett": "Bli delägare",
     "process_rubrik": "Från provtur till första bokningen",
     "bolag_etikett": "Personalen",
     "bolag_rubrik": "Båtvärdar, varv och kontor",
-    "bolag_kol": ["Grupp", "Var", "Ansvar"],
+    "bolag_kol": ["Personalgrupp", "Plats", "Sköter"],
     "meny_bolag": "Personalen",
     "hb_etikett": "Färre båtar",
     "omdomen_rubrik": "Delägare om att dela",

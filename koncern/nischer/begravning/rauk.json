@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Byrån i Visby", "segment": "Adelsgatan 31", "rubrik": "Fyra rådgivare innanför muren", "text": "Rådgivarna tar emot på kontoret och åker ut till socknarna för hembesök, från Lärbro i norr till Sundre i söder.", "tagg": "begravning"},
-    {"namn": "Jour och överfarter", "segment": "Två chaufförer", "rubrik": "Bil, kylrum och fraktdäck", "text": "Chaufförerna hämtar på hela ön och följer med kistor och urnor på färjan till och från fastlandet.", "tagg": "natur"},
+    {"namn": "Jour och överfarter", "segment": "Chaufförer i beredskap", "rubrik": "Bil, kylrum och fraktdäck", "text": "Chaufförerna hämtar på hela ön och följer med kistor och urnor på färjan till och från fastlandet.", "tagg": "natur"},
     {"namn": "Sten och gravvård", "segment": "I samarbete med Hamra", "rubrik": "Öns egen sten", "text": "En gravvårdsansvarig som ritar stenar, söker tillstånd och planerar resning tillsammans med stenhuggeriet.", "tagg": "sten"}
   ],
   "berattelser": [
@@ -49,7 +49,7 @@
     {"varde": "40", "enhet": "per år", "etikett": "Sommargäster vi hjälper hem"}
   ],
   "projekt": [
-    {"namn": "Jordfästning i Bunge kyrka", "ort": "Fårö", "typ": "Kyrklig begravning", "ar": "2025", "text": "En fiskare som bars ut av sina tre söner och begravdes med havet synligt bakom kyrkogårdsmuren.", "tagg": "begravning"},
+    {"namn": "Jordfästning i Fårö kyrka", "ort": "Fårö", "typ": "Kyrklig begravning", "ar": "2025", "text": "En fiskare som bars ut av sina tre söner och begravdes med havet synligt bakom kyrkogårdsmuren.", "tagg": "begravning"},
     {"namn": "Hem från Stockholm", "ort": "Stockholm–Visby", "typ": "Transport över havet", "ar": "2025", "text": "Kistan följde med nattfärjan från Nynäshamn och togs emot av familjen i hamnen i Visby i gryningen.", "tagg": "natur"},
     {"namn": "Sommargäst från Göteborg", "ort": "Ljugarn", "typ": "Transport till fastlandet", "ar": "2025", "text": "Dödsfall i ett fritidshus en julinatt – vi samordnade med en byrå i Mölnlycke och var med på överfarten.", "tagg": "begravning"},
     {"namn": "Askspridning vid Hoburgen", "ort": "Sundre", "typ": "Askspridning", "ar": "2024", "text": "Familjen stod på klapperstensstranden när askan spreds från en fiskebåt i stiltje.", "tagg": "natur"},
@@ -89,11 +89,11 @@
   ],
   "priser": [
     {"namn": "Urna hem till ön", "pris": "fr. 8 400 kr", "enhet": "från fastlandet", "text": "Kremering på fastlandet och urnsättning på Gotland.", "punkter": ["Kontakt med byrån på fastlandet", "Säker frakt av urnan", "Förvaring tills urnsättningen", "Vi är med vid graven"]},
-    {"namn": "Begravning på Gotland", "pris": "fr. 26 900 kr", "enhet": "kyrklig eller borgerlig", "text": "Ceremoni i en av öns kyrkor med allt det praktiska.", "punkter": ["Hembesök i alla socknar", "Kista från snickare i Roma", "Ceremonibukett och program", "Annons i lokaltidningen"], "utvald": true},
+    {"namn": "Begravning på Gotland", "pris": "fr. 26 400 kr", "enhet": "kyrklig eller borgerlig", "text": "Ceremoni i en av öns kyrkor med allt det praktiska.", "punkter": ["Hembesök i alla socknar", "Kista från snickare i Roma", "Bukett och tryckt program", "Annons i Gotlands tidningar"], "utvald": true},
     {"namn": "Kista över havet", "pris": "fr. 4 900 kr", "enhet": "tillägg, fast pris", "text": "Överfart med kista till eller från fastlandet, året runt.", "punkter": ["Bokning på fraktdäck", "Chaufför följer med hela vägen", "Samordning med byrån på andra sidan", "Samma pris sommar som vinter"]}
   ],
   "certifikat": [
-    {"titel": "Auktoriserad av SBF", "text": "Medlem i Sveriges Begravningsbyråers Förbund sedan 1958.", "ikon": "skold"},
+    {"titel": "SBF sedan 1958", "text": "Medlem i Sveriges Begravningsbyråers Förbund sedan 1958.", "ikon": "skold"},
     {"titel": "Avtal med Gotlands pastorat", "text": "Överenskommelse om tider, bokningar och kontaktvägar för öns kyrkor.", "ikon": "kors"},
     {"titel": "Transport enligt branschregler", "text": "Kistor transporteras enligt SBF:s och rederiets rutiner för stoft ombord.", "ikon": "bat"},
     {"titel": "Konsumentavtal", "text": "Våra avtal följer de bestämmelser för begravningstjänster som tagits fram med Konsumentverket.", "ikon": "dokument"}

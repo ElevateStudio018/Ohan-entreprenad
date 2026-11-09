@@ -20,7 +20,7 @@
     {"titel": "Grävmaskiner", "ikon": "hamare", "href": "verksamhet.html", "text": "Från 1,5 till 25 ton, med skopor för kalksten och morän."},
     {"titel": "Liftar", "ikon": "upp", "href": "verksamhet.html", "text": "Sax-, bom- och släpliftar upp till 28 meter för stad och landsbygd."},
     {"titel": "Bodar", "ikon": "hus", "href": "verksamhet.html", "text": "Personal-, kontors- och sanitetsbodar levererade med egen kranbil."},
-    {"titel": "Ställning", "ikon": "hjalm", "href": "verksamhet.html", "text": "Fasadställning med montage för kalkstenshus och ringmursnära kvarter."},
+    {"titel": "Ställning", "ikon": "hjalm", "href": "verksamhet.html", "text": "Ställning med montage för kalkstenshus och ringmursnära kvarter."},
     {"titel": "Elverk och byggström", "ikon": "blixt", "href": "verksamhet.html", "text": "Elverk 10–200 kVA och byggcentraler inkopplade av behörig elektriker."},
     {"titel": "Stugpaketet", "ikon": "hem", "href": "verksamhet.html", "text": "Minigrävare, släp och container – levererat på torsdag, hämtat på måndag."},
     {"titel": "Leverans till Fårö", "ikon": "bat", "href": "verksamhet.html", "text": "Vi kör över med Fåröfärjan utan tillägg på vardagar."},
@@ -53,7 +53,7 @@
     {"namn": "Romaskolan", "ort": "Roma", "typ": "Bodetablering", "ar": "2025", "text": "Personalbodar och kontor för 60 hantverkare under 14 månader.", "tagg": "bygg"},
     {"namn": "Stugby på Fårö", "ort": "Fårö", "typ": "Avlopp och mark", "ar": "2025", "text": "Två grävare och en dumper för en gemensam avloppsanläggning till nio stugor.", "tagg": "mark"},
     {"namn": "Kajen i Klintehamn", "ort": "Klintehamn", "typ": "Liftar och elverk", "ar": "2024", "text": "Bomliftar och reservkraft under renoveringen av hamnens kranbana.", "tagg": "industri"},
-    {"namn": "Kalkstenshus i Ljugarn", "ort": "Ljugarn", "typ": "Fasadställning", "ar": "2025", "text": "Ställning och väderskydd runt ett kulturmärkt kalkstenshus från 1840-talet.", "tagg": "hem"},
+    {"namn": "Kalkstenshus i Ljugarn", "ort": "Ljugarn", "typ": "Ställning och väderskydd", "ar": "2025", "text": "Ställning och väderskydd runt ett kulturmärkt kalkstenshus från 1840-talet.", "tagg": "hem"},
     {"namn": "Lagerhall i Slite", "ort": "Slite", "typ": "Markarbete", "ar": "2026", "text": "Schakt och grundläggning för en logistikhall nära hamnen.", "tagg": "maskin", "status": "Pågående"}
   ],
   "process": [
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Jobba på ön, äg en del av depån",
     "text": "Efter tre år hos oss erbjuds alla anställda att köpa aktier i Rauk. Vi söker folk som vill bo på Gotland året runt och klarar en sommar med full fart.",
-    "jobb": [["Montör och kranbilschaufför", "Visby"], ["Maskinmekaniker", "Visby"], ["Sommaruthyrare", "Hemse"]]
+    "jobb": [["Montör och kranbilschaufför", "Visby"], ["Mekaniker med servicebil", "Visby"], ["Uthyrare sommarsäsong", "Hemse"]]
   },
   "kultur": "Sju av oss äger företaget tillsammans – och alla som stannar i tre år får erbjudande om att bli delägare.",
   "citat": {"text": "Vi har aldrig råd att säga att maskinen kommer med nästa båt. Det är hela anledningen till att Rauk finns.", "namn": "Lena Hägg", "roll": "Delägare och depåchef", "tagg": "people"},
@@ -85,13 +85,13 @@
     ["Vad händer om ni inte har maskinen på ön?", "Då beställer vi den från en samarbetspartner på fastlandet och den kommer med fraktfärjan inom två dygn. Du betalar ingen frakt om vi är orsaken."],
     ["Får man köra innanför ringmuren?", "Bara med tillstånd. Vi har ett eget tillstånd för leveranser nattetid och hjälper dig ansöka om markupplåtelse."],
     ["Hur lång framförhållning behövs inför Almedalsveckan?", "Boka senast i mars. Liftar och elverk för veckan brukar vara slutbokade i början av maj."],
-    ["Hyr ni ut till privatpersoner?", "Ja, ungefär hälften av sommarens hyror går till stugägare. Alla priser för privatpersoner anges inklusive moms."]
+    ["Kan stugägare hyra direkt?", "Ja, ungefär hälften av sommarens hyror går till stugägare. Alla priser för privatpersoner anges inklusive moms."]
   ],
   "certifikat": [
     {"titel": "ISO 14001", "text": "Miljöledningssystemet omfattar båda depåerna, transporterna och avfallshanteringen.", "ikon": "lov"},
     {"titel": "Behörig elinstallatör", "text": "Byggström och elverk kopplas in av vår egen elektriker med auktorisation från Elsäkerhetsverket.", "ikon": "blixt"},
-    {"titel": "Årlig liftbesiktning", "text": "Alla liftar och kranbilar besiktas av ackrediterat kontrollorgan varje år.", "ikon": "sok"},
-    {"titel": "Kollektivavtal och ID06", "text": "Personalen har kollektivavtal och ID06-kort för arbetsplatser med personalliggare.", "ikon": "folk"}
+    {"titel": "Liftar och kranbilar besiktade", "text": "Alla liftar och kranbilar besiktas av ackrediterat kontrollorgan varje år.", "ikon": "sok"},
+    {"titel": "Avtal och personalliggare", "text": "Personalen har kollektivavtal och ID06-kort för arbetsplatser med personalliggare.", "ikon": "folk"}
   ],
   "kunder": ["Region Gotland, teknikförvaltningen", "Brf Innerstaden Visby", "Hemse Byggtjänst", "Klintehamns Hamnförening", "Ljugarns Strandpensionat", "Gotlands Lammproducenter", "Fårösunds Stugby", "Slite Ballast & Kalk"],
   "nyheter": [
