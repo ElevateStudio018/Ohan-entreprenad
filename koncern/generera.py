@@ -1027,7 +1027,21 @@ class Sajt:
         if tumme:
             (self.ut / "tumme.jpg").write_bytes(tumme)  # miniatyren till galleriet överlever ombyggnad
         self.bilder = Bilder(self.p.get("fro", self.b["slug"]), self.ut, self.p.get("bildtyngd", []), self.delad, self.p.get("bildreserv"))
-        self.hero_bild = self.bilder.ta(self.p.get("hero_tagg"))
+        hid = self.p.get("hero_bild_id")
+        fast = next((x for x in self.bilder.bank if x["id"] == hid), None) if hid else None
+        if fast:
+            self.bilder.anvanda.add(fast["id"])
+            self.bilder.ta(fast["tagg"]) if False else None
+            mal = self.bilder.delad[0] if self.bilder.delad else self.ut / "img"
+            for suf in ("", "-s"):
+                src = BANK / f'{fast["id"]}{suf}.jpg'
+                if not src.exists():
+                    src = ROT.parent / "site" / "bildbank" / src.name
+                if src.exists() and not (mal / src.name).exists():
+                    shutil.copy(src, mal / src.name)
+            self.hero_bild = fast
+        else:
+            self.hero_bild = self.bilder.ta(self.p.get("hero_tagg"))
         self.assets()
         self.index()
         self.undersidor()

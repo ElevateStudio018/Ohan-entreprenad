@@ -93,6 +93,9 @@ def bygg_grupp(g, nya_paket=False):
     (BRIEFS / g / "paket").mkdir(exist_ok=True)
     nreg = json.loads(NREG.read_text(encoding="utf-8")) if NREG.exists() else []
     byggda = []
+    bank = generera.bildbank()
+    hero_anv = set()
+    nisch_tagg = NISCHER[g][2] if g in NISCHER else BILDTYNGD.get(g, ["bygg"])[0]
     for fil in filer:
         b = json.loads(fil.read_text(encoding="utf-8"))
         pfil = BRIEFS / g / "paket" / fil.name
@@ -112,6 +115,20 @@ def bygg_grupp(g, nya_paket=False):
             pfil.write_text(json.dumps(p, ensure_ascii=False, indent=1), encoding="utf-8")
             nreg = [r for r in nreg if r["for"] != namn] + [p]
             NREG.write_text(json.dumps(nreg, ensure_ascii=False), encoding="utf-8")
+        # Egen herobild per sajt: nischens tagg först, sedan sajtens egna taggar – aldrig samma som en annan sajt i gruppen
+        taggar = [nisch_tagg] + [a["tagg"] for a in b["affarsomraden"]] + list(p.get("bildtyngd", []))
+        import random as _r
+        rr = _r.Random(b["slug"])
+        val = None
+        for t in taggar:
+            kand = [x["id"] for x in bank if x["tagg"] == t and x["id"] not in hero_anv]
+            if kand:
+                val = rr.choice(sorted(kand))
+                break
+        if val:
+            hero_anv.add(val)
+            p["hero_bild_id"] = val
+            pfil.write_text(json.dumps(p, ensure_ascii=False, indent=1), encoding="utf-8")
         ut = UT / g / b["slug"]
         generera.Sajt(b, p, ut, DELAD).bygg()
         byggda.append((g, b, p))
