@@ -29,7 +29,7 @@
   "affarsomraden": [
     {"titel": "Husgrunder", "text": "Vi schaktar, packar och lägger kapillärbrytande lager och isolering, så att snickarna kan börja direkt efter gjutningen. Vi samarbetar med fyra småhusfabriker och känner deras ritningar utantill.", "text2": "En vanlig platta på 140 kvadratmeter tar sju till tio arbetsdagar från första skopan till färdig form.", "tagg": "mark"},
     {"titel": "Dränering av äldre hus", "text": "Många hus i Hälsingland byggdes med dränering av betongrör som i dag är igensatta. Vi gräver runt huset, lägger nytt rör, isolerskiva och grundmursskydd och återfyller med dränerande makadam.", "text2": "Vi lämnar fem års garanti och dokumenterar med foton före återfyllning.", "tagg": "anlaggning"},
-    {"titel": "Enskilda avlopp", "text": "Ungefär var tredje fastighet i kommunen har eget avlopp, och många är över 40 år gamla. Vi projekterar, söker tillstånd och bygger markbäddar och infiltrationer som klarar kommunens krav.", "text2": "Vi har gjort över 300 avloppsanläggningar sedan 2005.", "tagg": "vvs"},
+    {"titel": "Enskilda avlopp", "text": "Ungefär var tredje fastighet i kommunen har eget avlopp, och många är över 40 år gamla. Vi gör provgropen, ritar anläggningen, skickar ansökan och bygger markbäddar och infiltrationer som klarar kommunens krav.", "text2": "Vi har gjort över 300 avloppsanläggningar sedan 2005.", "tagg": "vvs"},
     {"titel": "Skogsvägar", "text": "Skogsägare behöver vägar som bär en fullastad virkesbil i april. Vi bygger nya vägar och förstärker gamla med geotextil, trummor och krossat bärlager.", "text2": "Vi hjälper till med underlag till Skogsstyrelsens stöd när det finns.", "tagg": "natur"}
   ],
   "bolag": [
@@ -52,7 +52,7 @@
     {"namn": "Villa Lindblom", "ort": "Delsbo", "typ": "Husgrund", "ar": "2025", "text": "Platta på 162 kvadratmeter i lerjord, förstärkt bärlager och radonskydd.", "tagg": "mark"},
     {"namn": "Prästgårdsvägen 4", "ort": "Forsa", "typ": "Dränering", "ar": "2025", "text": "Ny dränering och isolering runt ett sekelskiftshus med stenfot.", "tagg": "hem"},
     {"namn": "Vägsamfälligheten Norrbo", "ort": "Norrbo", "typ": "Skogsväg", "ar": "2024", "text": "1,8 kilometer ny skogsbilväg med sju trummor och vändplan.", "tagg": "natur"},
-    {"namn": "Fritidshus vid Sörfjärden", "ort": "Gnarp", "typ": "Enskilt avlopp", "ar": "2025", "text": "Markbädd med fosforfälla för ett fritidshus som blivit åretruntboende.", "tagg": "vvs"},
+    {"namn": "Fritidshus vid Sörfjärden", "ort": "Gnarp", "typ": "Enskilt avlopp", "ar": "2025", "text": "Ny markbädd och fosforfilter när fritidshuset blev åretruntboende.", "tagg": "vvs"},
     {"namn": "Kvarteret Kråkan", "ort": "Hudiksvall", "typ": "VA-servis", "ar": "2024", "text": "Elva servisledningar åt villaägare när kommunen byggde ut VA på Håsta.", "tagg": "anlaggning"},
     {"namn": "Gården i Hålsjö", "ort": "Hålsjö", "typ": "Husgrund och tomt", "ar": "2026", "text": "Grund för ett nytt bostadshus på släktgården, tomtplanering till våren.", "tagg": "mark"}
   ],
@@ -88,7 +88,7 @@
     ["Får vi välja fast pris?", "För grunder, dränering och avlopp lämnar vi nästan alltid fast pris. Vägar och tomtplanering gör vi oftast på löpande timpris med takpris."]
   ],
   "certifikat": [
-    {"titel": "Maskinentreprenörerna", "text": "Medlemmar sedan 1972. Vi följer ME:s avtal och allmänna bestämmelser AB 04 och ABT 06.", "ikon": "kugge"},
+    {"titel": "Maskinentreprenörerna", "text": "Medlemmar sedan 1972. Vi följer ME:s avtal och branschens allmänna bestämmelser för entreprenader.", "ikon": "kugge"},
     {"titel": "MYK-utbildade förare", "text": "Alla förare har ME:s maskinförarbevis och uppdaterad utbildning i schaktsäkerhet.", "ikon": "hjalm"},
     {"titel": "Arbete på väg", "text": "Utbildade enligt Trafikverkets krav, nivå 1 och 2, för arbeten längs kommunala och statliga vägar.", "ikon": "vag"},
     {"titel": "ID06 och kollektivavtal", "text": "ID06-kort och personalliggare på alla byggen. Kollektivavtal med Byggnads sedan starten.", "ikon": "skold"}
@@ -100,7 +100,7 @@
     ["2025-11-03", "Anna Hedlund ny ordförande i ME Gävleborg", "Hon blir den första kvinnan på posten i regionen.", "people"]
   ],
   "kontakt": {"adress": "Håstavägen 18", "postnr": "824 34", "ort": "Hudiksvall", "telefon": "070-174 06 11", "epost": "kontor@hedlundsschakt.se", "orgnr": ""},
-  "oppettider": "Mån–fre 6.30–16, kontoret 8–15",
+  "oppettider": "Maskinerna från 6.30, kontoret vardagar 8–15",
   "omrade": "Hudiksvall, Nordanstig och Ljusdal",
   "fot_cta": "Ska du bygga i Hälsingland? Ring Anna eller Mikael – vi kommer ut och tittar på tomten.",
   "bild": {"panel": "mark", "hb": "natur"},

@@ -43,7 +43,7 @@
     {"rubrik": "Askan blir gödsel", "text": "Tolv gårdar sprider nu askan från flispannorna på åkern, efter analys som vi har hjälpt till med.", "tagg": "natur"}
   ],
   "nyckeltal": [
-    {"varde": "9 800", "enhet": "eldstäder", "etikett": "I tre kommuner"},
+    {"varde": "9 800", "enhet": "eldstäder", "etikett": "I Götene, Skara och Grästorp"},
     {"varde": "142", "enhet": "torkar", "etikett": "Servade före skörden 2026"},
     {"varde": "210", "enhet": "gårdar", "etikett": "Med vårt gårdsavtal"},
     {"varde": "14", "enhet": "anställda", "etikett": "Med bas i Götene"}
@@ -93,7 +93,7 @@
     {"namn": "Panncentral", "pris": "fr. 9 800 kr", "enhet": "per år", "text": "För närvärmeföreningar och större gårdspannor.", "punkter": ["Sotning upp till fyra gånger per säsong", "Rökgasanalys med protokoll", "Årsrapport till föreningen", "Rådgivning om askåterföring"]}
   ],
   "certifikat": [
-    {"titel": "Sotningsavtal i tre kommuner", "text": "Entreprenadavtal med Götene, Skara och Grästorps kommuner enligt lagen om skydd mot olyckor.", "ikon": "dokument"},
+    {"titel": "Kommunala sotningsavtal", "text": "Entreprenadavtal med Götene, Skara och Grästorps kommuner enligt lagen om skydd mot olyckor.", "ikon": "dokument"},
     {"titel": "Skorstensfejartekniker", "text": "Fem tekniker med behörighet för brandskyddskontroll enligt MSB:s föreskrifter.", "ikon": "skold"},
     {"titel": "Heta arbeten", "text": "Hela pannservice och torklaget har certifikat för heta arbeten från Brandskyddsföreningen.", "ikon": "eld"},
     {"titel": "Kalibrerade mätinstrument", "text": "Rökgasanalysatorerna kalibreras varje år före eldningssäsongen.", "ikon": "graf"}
@@ -102,7 +102,7 @@
   "nyheter": [
     ["2026-10-01", "Dags att sota flispannan", "Gör första sotningen innan pannan går för fullt – det sparar flis hela vintern.", "ved"],
     ["2026-08-05", "142 torkar klara", "Torksäsongen avslutades dagen innan tröskningen startade i Grästorp.", "industri"],
-    ["2026-05-04", "Boka torkservice före 15 juni", "Efter midsommar är kalendern full – och skörden väntar inte.", "lada"]
+    ["2026-05-04", "Boka torkservice före 15 juni", "Efter midsommar är kalendern full – och skörden väntar inte.", "industri"]
   ],
   "kontakt": {"adress": "Lidköpingsvägen 31", "postnr": "533 31", "ort": "Götene", "telefon": "070-174 06 71", "epost": "info@kinnekullesotning.se", "orgnr": ""},
   "oppettider": "Mån–fre 6.30–15.30, torksäsong även lördagar",
@@ -123,11 +123,11 @@
     "priser_rubrik": "Avtal för torkar, gårdar och värmecentraler",
     "priser_utvald": "Flest gårdar väljer",
     "priser_knapp": "Teckna avtal",
-    "priser_not": "Priser exklusive moms. Kommunal sotning debiteras enligt kommunens taxa.",
+    "priser_not": "Alla priser exklusive moms. Kommunal sotning debiteras enligt kommunens taxa.",
     "boka_rubrik": "Berätta om gården",
     "boka_text": "Skriv vad som står i pannrummet och om du har tork, så ringer Pär eller Lisa upp inom en arbetsdag.",
     "boka_falt": ["Namn", "Telefon", "E-post", "Pannor, torkar och eldstäder"],
-    "certifikat_rubrik": "Avtal och behörigheter",
+    "certifikat_rubrik": "Behöriga för gård och villa",
     "logos_rubrik": "Gårdar, föreningar och kommuner"
   }
 }

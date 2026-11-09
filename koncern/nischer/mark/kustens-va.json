@@ -81,7 +81,7 @@
   ],
   "faq": [
     ["Vad ansvarar jag för och vad gör kommunen?", "Kommunen bygger fram till förbindelsepunkten, oftast en halv meter innanför tomtgränsen. Ledningarna därifrån till huset är fastighetsägarens ansvar och kostnad, och det är det arbetet vi gör."],
-    ["Vad ingår i det fasta priset?", "Grävning, isolerade servisledningar för vatten och spillvatten, inkoppling i huset, provtryckning, igenfyllning och återställning av gräsmatta. Sten, plattor och berg står som tillägg i offerten."],
+    ["Vad täcker paketpriset?", "Grävning, isolerade servisledningar för vatten och spillvatten, inkoppling i huset, provtryckning, igenfyllning och återställning av gräsmatta. Sten, plattor och berg står som tillägg i offerten."],
     ["Får jag ROT-avdrag?", "Ja, arbetskostnaden ger ROT-avdrag på 30 procent. Anläggningsavgiften till kommunen ger inget avdrag."],
     ["Hur lång tid tar det?", "Två till tre dagar för en vanlig villa. Med LTA-pump eller berg kan det bli fyra till fem dagar."],
     ["Vad händer med min gamla brunn?", "Slamavskiljaren töms och fylls med sand eller lyfts upp. Vi skickar intyg till miljöförvaltningen om att den är tagen ur drift."],
@@ -93,13 +93,13 @@
     {"namn": "Standardanslutning", "pris": "fr. 69 000 kr", "enhet": "upp till 25 meter, före ROT", "text": "Den vanligaste villatomten.", "punkter": ["Allt i Kort anslutning", "Gamla slamavskiljaren tas ur drift", "Tomrör för fiber och el", "Ritning och foton av ledningarna"], "utvald": true},
     {"namn": "Anslutning med LTA", "pris": "fr. 89 000 kr", "enhet": "upp till 25 meter, före ROT", "text": "När kommunen kräver tryckavlopp.", "punkter": ["Allt i Standardanslutning", "Nedgrävning av LTA-pumpstation", "Elanslutning från husets central", "Larm och provkörning"]}
   ],
-  "prislista": [["Extra meter servisledning", "1 450 kr"], ["Sprängning eller bilning av berg, per meter", "fr. 2 800 kr"], ["Borttagning och återläggning av plattor, per m²", "650 kr"], ["Dagvattenkassett med anslutning", "fr. 16 500 kr"], ["Omkoppling stuprör, per st", "2 400 kr"], ["Lyft och bortforsling av slamavskiljare", "8 900 kr"]],
+  "prislista": [["Extra meter servisledning", "1 450 kr"], ["Sprängning eller bilning av berg, per meter", "fr. 2 800 kr"], ["Plattor upp och tillbaka, per m²", "650 kr"], ["Dagvattenkassett med anslutning", "fr. 16 500 kr"], ["Omkoppling stuprör, per st", "2 400 kr"], ["Lyft och bortforsling av slamavskiljare", "8 900 kr"]],
   "prislista_rubrik": "Vanliga tillägg",
   "sidor": [["verksamhet", "Tjänster", "verksamhet"], ["priser", "Fasta priser", "priser"], ["projekt", "Områden", "projekt"], ["bolag", "Så jobbar vi", "bolag"], ["hallbarhet", "Kvalitet", "hallbarhet"], ["faq", "Frågor & svar", "faq"], ["karriar", "Jobba hos oss", "karriar"], ["om-oss", "Om oss", "om-oss"]],
   "certifikat": [
     {"titel": "Säker Vatten", "text": "Alla rörläggare har behörighet enligt Säker Vatten och vi är auktoriserat företag.", "ikon": "vatten"},
     {"titel": "Godkänd LTA-installatör", "text": "Godkända av VA-huvudmännen i Kungsbacka och Varberg för installation av deras pumpstationer.", "ikon": "kugge"},
-    {"titel": "Maskinentreprenörerna", "text": "Medlemmar i ME. Avtal med privatpersoner enligt ABS 18.", "ikon": "skold"},
+    {"titel": "Maskinentreprenörerna", "text": "Medlemmar i ME. Villaägare får avtal enligt ABS 18 och skriftlig tidplan.", "ikon": "skold"},
     {"titel": "Tio års garanti", "text": "Garanti på servisledningar och inkoppling – utöver konsumenttjänstlagen.", "ikon": "dokument"}
   ],
   "kunder": ["Gottskär Samfällighetsförening", "Bua Strandägareförening", "Vallda Sandö Stugförening", "Kungsbacka kommun, VA-enheten", "Särö Villaägareförening", "Frillesås Kustsamfällighet", "Lindome Byalag"],
@@ -129,8 +129,8 @@
     "priser_rubrik": "Tre paket, fasta priser",
     "priser_utvald": "Nio av tio väljer",
     "priser_knapp": "Boka platsbesök",
-    "priser_not": "Priserna gäller inklusive moms, före ROT-avdrag. Kommunens anläggningsavgift tillkommer och betalas direkt till kommunen.",
-    "sida_priser_ingress": "Fast pris från förbindelsepunkten till husväggen, och vad det kostar när tomten bjuder på berg eller plattor.",
+    "priser_not": "Alla paket inklusive moms och före ROT. Kommunens anläggningsavgift tillkommer och betalas direkt till kommunen.",
+    "sida_priser_ingress": "Fast pris från förbindelsepunkten till husväggen, plus tilläggen när tomten bjuder på berg eller plattor.",
     "logos_rubrik": "Samfälligheter vi har anslutit",
     "certifikat_rubrik": "Behörigheter för vatten och avlopp",
     "bolag_rubrik": "Fyra lag och en kalkylator",
