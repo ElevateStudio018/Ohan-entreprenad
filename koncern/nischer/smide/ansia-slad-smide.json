@@ -53,7 +53,7 @@
     {"namn": "Båråkälke för fjällräddning", "ort": "Ammarnäs", "typ": "Räddningskälke", "ar": "2026", "text": "Fjädrande bädd, vindskydd och fäste för syrgas.", "tagg": "maskin"},
     {"namn": "Personkälkar till fjällstationen", "ort": "Hemavan", "typ": "Turistkälkar", "ar": "2025", "text": "Sex kälkar med säten för fyra och uppvärmt vindskydd.", "tagg": "natur"},
     {"namn": "Fiskecampen vid Storuman", "ort": "Storuman", "typ": "Arbetskälkar", "ar": "2025", "text": "Fyra lätta kälkar med isborrhållare och låsbara lock.", "tagg": "svets"},
-    {"namn": "Båttrailer till byalaget", "ort": "Lycksele", "typ": "Reparation", "ar": "2024", "text": "Ny ram och axel till byalagets trailer för bygdens båt.", "tagg": "hem"},
+    {"namn": "Båttrailer till byalaget", "ort": "Lycksele", "typ": "Trailerlagning", "ar": "2024", "text": "Ny ram och axel till byalagets trailer för bygdens båt.", "tagg": "hem"},
     {"namn": "Vedkälkar för stugbyn", "ort": "Vilhelmina", "typ": "Arbetskälkar", "ar": "2027", "text": "Fem tremeterskälkar beställda för leverans i december.", "tagg": "svets", "status": "Pågående"}
   ],
   "process": [
@@ -80,7 +80,7 @@
     {"text": "Aluminiumkälken går att lyfta upp på flaket ensam, och locket håller isborren och fiskeutrustningen torr.", "namn": "Stefan H.", "ort": "Storuman"}
   ],
   "faq": [
-    ["Hur lång är leveranstiden?", "Två till fyra veckor utanför säsong. Beställer du i november eller december kan det bli sex veckor, så beställ gärna före oktober."],
+    ["När kan kälken vara klar?", "Två till fyra veckor utanför säsong. Beställer du i november eller december kan det bli sex veckor, så beställ gärna före oktober."],
     ["Stål eller aluminium?", "Stål är starkare och billigare och passar tunga laster. Aluminium är hälften så tungt och passar dig som lyfter kälken ofta eller kör långt med lätt last."],
     ["Passar kälken min skoter?", "Ja. Vi bygger dragstången efter din skoters dragkrok och provar gärna på plats om du kommer till verkstaden."],
     ["Skickar ni kälkar?", "Ja, med fraktbolag till hela Norrland. Söder om Sundsvall skickar vi på pall mot fraktkostnad."],
@@ -94,7 +94,7 @@
   ],
   "certifikat": [
     {"titel": "Aluminiumsvetsare ISO 9606-2", "text": "Två av smederna är certifierade för aluminium med MIG och TIG.", "ikon": "eld"},
-    {"titel": "Heta arbeten", "text": "Certifikat för svetsning i ladugårdar, stugor och nära skog.", "ikon": "skold"},
+    {"titel": "Heta arbeten i stuga och lada", "text": "Certifikat för svetsning i ladugårdar, stugor och nära skog.", "ikon": "skold"},
     {"titel": "Förarbevis för snöskoter", "text": "Alla som provkör och levererar kälkar har förarbevis enligt Transportstyrelsens krav.", "ikon": "bil"},
     {"titel": "Lärlingsplats", "text": "Godkänd lärlingsverkstad inom Sveriges Hantverksråds lärlingsprogram.", "ikon": "stjarna"}
   ],

@@ -33,7 +33,7 @@
     {"titel": "Hamn och kaj", "text": "Pollare, fendrar, kajstegar och landgångar repareras och byts för hamnar och marinor. Vi kan även svetsa under vattenlinjen från ett flytande arbetsdäck.", "text2": "Kommunala hamnar kan teckna årsavtal med fast timpris.", "tagg": "infra"}
   ],
   "bolag": [
-    {"namn": "Slipen på Hästö", "segment": "Reparation", "rubrik": "300 ton på land på två timmar", "text": "Slipvagn, kaj med travers och tjugo svetsare som tar hand om reparationer och klassningar.", "tagg": "bat"},
+    {"namn": "Slipen på Hästö", "segment": "Reparationer och klass", "rubrik": "300 ton på land på två timmar", "text": "Slipvagn, kaj med travers och tjugo svetsare som tar hand om reparationer och klassningar.", "tagg": "bat"},
     {"namn": "Byggnadshallen", "segment": "Nybygge i aluminium", "rubrik": "24 meter båt under tak", "text": "En uppvärmd hall där tio aluminiumsvetsare bygger nya skrov och överbyggnader.", "tagg": "svets"},
     {"namn": "Varvsteamen", "segment": "Mobilt varv", "rubrik": "Varvet kommer till hamnen", "text": "Två team med servicebilar och container som utför reparationer i hamnar längs kusten.", "tagg": "maskin"}
   ],
@@ -73,7 +73,7 @@
     "jobb": [["Fartygssvetsare", "Karlskrona"], ["Aluminiumsvetsare nybygge", "Karlskrona"], ["Varvsmontör mobila team", "Karlskrona"]]
   },
   "kultur": "När en ny båt sjösätts står hela varvet på kajen och den som svetsat första skrovplåten får knäcka flaskan.",
-  "citat": {"text": "En fiskare tjänar inga pengar när båten står på slip. Därför räknar vi tiden i timmar, inte i veckor.", "namn": "Johan Ek", "roll": "Vd och delägare", "tagg": "bat"},
+  "citat": {"text": "En fiskare tjänar inga pengar när båten står på slip. Därför räknar vi tiden i timmar, inte i veckor.", "namn": "Johan Ek", "roll": "Vd, en av fyra ägare", "tagg": "bat"},
   "omdomen": [
     {"text": "Besiktningsmannen hittade mer rost än vi trott. Hästö bytte plåtarna, fick allt godkänt och vi var ute och fiskade igen på dag nio.", "namn": "Kent S., yrkesfiskare", "ort": "Simrishamn"},
     {"text": "Den nya räddningsbåten är snabb, torr och tyst. Besättningen var med vid varje steg i bygget.", "namn": "Emma L., sjöräddningsstation", "ort": "Kalmar"},
@@ -97,7 +97,7 @@
   "nyheter": [
     ["2026-09-30", "Räddningsbåten sjösatt", "Fjorton meter aluminium och 38 knop för Kalmarsund.", "bat"],
     ["2026-05-26", "Landström vid kajen", "Båtar på varv kan nu stänga av sina generatorer helt.", "industri"],
-    ["2026-02-18", "Slipen nästan fullbokad till hösten", "Två veckor kvar i oktober för klassningsarbeten.", "bat"]
+    ["2026-02-19", "Slipen nästan fullbokad till hösten", "Två veckor kvar i oktober för klassningsarbeten.", "bat"]
   ],
   "kontakt": {"adress": "Hästövägen 3", "postnr": "371 37", "ort": "Karlskrona", "telefon": "070-174 06 44", "epost": "slip@hastomarinsvets.se", "orgnr": ""},
   "oppettider": "Mån–fre 6.30–15.30 · akuta skador alla dagar",
@@ -107,7 +107,7 @@
   "text": {
     "ber_rubrik": "På slipen just nu",
     "proj_rubrik": "Skrov vi har lagat och byggt",
-    "proj_kol": ["Båt", "Hemmahamn", "Arbete", "Status", "År"],
+    "proj_kol": ["Båt", "Hemmahamn", "Varvsjobb", "Status", "År"],
     "process_rubrik": "Från upptag till sjösättning",
     "hb_etikett": "Havsmiljö",
     "omdomen_rubrik": "Redare och fiskare om varvet",

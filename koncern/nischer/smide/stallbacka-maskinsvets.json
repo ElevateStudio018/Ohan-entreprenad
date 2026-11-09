@@ -73,7 +73,7 @@
     "jobb": [["Servicesvetsare linjeborrning", "Trollhättan"], ["Verkstadssvetsare skopor", "Trollhättan"]]
   },
   "kultur": "Varje måndag morgon fördelar vi veckans jobb runt ett bord i verkstaden, och alla vet var kollegorna befinner sig.",
-  "citat": {"text": "En maskin som står still på en schakt kostar entreprenören tusenlappar i timmen. Därför tar vi med oss verkstaden dit maskinen står.", "namn": "Daniel Berglund", "roll": "Grundare och vd", "tagg": "maskin"},
+  "citat": {"text": "En maskin som står still på en schakt kostar entreprenören tusenlappar i timmen. Därför tar vi med oss verkstaden dit maskinen står.", "namn": "Daniel Berglund", "roll": "Ägare och vd", "tagg": "maskin"},
   "omdomen": [
     {"text": "Vi hade glapp i bommen på två maskiner mitt i ett vägjobb. Stallbacka kom ut, borrade upp lägena på plats och vi tappade bara en dag per maskin.", "namn": "Robert A., maskinentreprenör", "ort": "Lilla Edet"},
     {"text": "Skoporna kommer tillbaka med nya skär och slitplåtar för en tredjedel av vad nya hade kostat.", "namn": "Hanna P.", "ort": "Vänersborg"},
@@ -89,7 +89,7 @@
   ],
   "certifikat": [
     {"titel": "Svetsprövade för slitstål", "text": "Alla svetsare har certifikat enligt ISO 9606-1 och erfarenhet av förvärmning av höghållfast stål.", "ikon": "eld"},
-    {"titel": "Heta arbeten", "text": "Brandskyddsföreningens certifikat för svetsning i täkter, skog och på byggarbetsplatser.", "ikon": "skold"},
+    {"titel": "Heta arbeten i täkt och skog", "text": "Brandskyddsföreningens certifikat för svetsning i täkter, skog och på byggarbetsplatser.", "ikon": "skold"},
     {"titel": "Medlem i Maskinentreprenörerna", "text": "Vi följer branschens avtal och villkor för entreprenadmaskiner.", "ikon": "kran"},
     {"titel": "ID06 på varje montör", "text": "Alla som arbetar ute på byggen och vägarbeten är registrerade i ID06.", "ikon": "folk"}
   ],
@@ -107,7 +107,7 @@
   "text": {
     "ber_rubrik": "Ute på jobb",
     "proj_rubrik": "Maskiner tillbaka i drift",
-    "proj_kol": ["Uppdrag", "Ort", "Arbete", "Status", "År"],
+    "proj_kol": ["Maskin", "Ort", "Åtgärd", "Status", "År"],
     "process_rubrik": "Från glapp till provkörning",
     "hb_etikett": "Laga på plats",
     "omdomen_rubrik": "Entreprenörer om servicen",

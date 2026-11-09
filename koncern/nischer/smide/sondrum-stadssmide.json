@@ -59,7 +59,7 @@
   "process": [
     {"titel": "Tidigt samtal", "text": "Vi kopplas in redan i gestaltningsskedet och ger råd om material, budget och underhåll.", "tagg": "kontor"},
     {"titel": "Prototyp i full skala", "text": "En bänk, en räckessektion eller en del av konstverket byggs först och provas på plats.", "tagg": "svets"},
-    {"titel": "Serietillverkning", "text": "Efter godkänd prototyp tillverkas resten i samma verkstad, med samma smeder.", "tagg": "svets"},
+    {"titel": "Tillverkning i serie", "text": "Efter godkänd prototyp tillverkas resten i samma verkstad, med samma smeder.", "tagg": "svets"},
     {"titel": "Montage och skötselplan", "text": "Vi monterar med kranbil och lämnar skötselplan och reservdelslista till förvaltaren.", "tagg": "stad"}
   ],
   "hallbarhet": {
@@ -88,7 +88,7 @@
     ["Monterar ni själva?", "Ja, med egen kranbil och personal som har utbildning för arbete på väg. Vi samordnar avstängningar med kommunens trafikenhet."]
   ],
   "certifikat": [
-    {"titel": "EN 1090-1, EXC2", "text": "CE-märkning av bärande räcken, cykeltak och konstruktioner i stål.", "ikon": "skold"},
+    {"titel": "EN 1090-1, utförandeklass 2", "text": "CE-märkning av bärande räcken, cykeltak och konstruktioner i stål.", "ikon": "skold"},
     {"titel": "TRVK Bro", "text": "Broräcken dimensionerade och dokumenterade enligt Trafikverkets tekniska krav.", "ikon": "bro"},
     {"titel": "SS-EN 1176", "text": "Lekskulpturer utformade och besiktade enligt standarden för lekredskap.", "ikon": "sol"},
     {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem med mål för material, transporter och avfall.", "ikon": "trad"}
@@ -96,7 +96,7 @@
   "kunder": ["Halmstads kommun Gatuförvaltningen", "Falkenbergs kommun", "Varbergs Resecentrum", "Laholms Förskolor", "Kungsbacka Hamnpromenad", "Region Hallands konstenhet", "Picassoparkens Vänner"],
   "nyheter": [
     ["2026-09-24", "Vågskulpturen invigd", "Strandtorget har fått ett konstverk som 40 personer kan sitta på samtidigt.", "stad"],
-    ["2026-06-15", "Ätran blir standardbänk", "Falkenberg väljer vår bänkserie för alla nya parker fram till 2032.", "natur"],
+    ["2026-06-16", "Ätran blir standardbänk", "Falkenberg väljer vår bänkserie för alla nya parker fram till 2032.", "natur"],
     ["2026-02-05", "Vattenskärning i egen verkstad", "Text och mönster skärs nu i tjock plåt utan värmepåverkan.", "svets"]
   ],
   "kontakt": {"adress": "Kristinehedsvägen 7", "postnr": "302 44", "ort": "Halmstad", "telefon": "070-174 06 27", "epost": "studio@sondrumstadssmide.se", "orgnr": ""},

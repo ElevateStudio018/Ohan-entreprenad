@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Plåtcentret", "segment": "Laser och bockning", "rubrik": "Från plåtstapel till kantad detalj", "text": "Fiberlasrar, rörlaser och kantpressar som går i treskift och matar robotcellerna.", "tagg": "industri"},
     {"namn": "Robothallen", "segment": "Svets i serie", "rubrik": "22 celler, tre skift", "text": "Robotoperatörer och programmerare som kör allt från små konsoler till sex meter långa ramar.", "tagg": "svets"},
-    {"namn": "Ytbehandling", "segment": "Lack och förbehandling", "rubrik": "Korrosionsklass C4 på löpande band", "text": "Automatisk lackeringslinje med zinkfosfatering och skikttjockleksmätning på varje detalj.", "tagg": "maskin"},
+    {"namn": "Lacklinjen", "segment": "Lack och förbehandling", "rubrik": "Korrosionsklass C4 på löpande band", "text": "Automatisk lackeringslinje med zinkfosfatering och skikttjockleksmätning på varje detalj.", "tagg": "maskin"},
     {"namn": "Teknik och kvalitet", "segment": "Beredning och kontroll", "rubrik": "Varje fog har en logg", "text": "Svetsingenjörer, beredare och en 3D-mätarm som kontrollerar första och sista detaljen i varje serie.", "tagg": "kontor"}
   ],
   "berattelser": [
@@ -46,7 +46,7 @@
   "nyckeltal": [
     {"varde": "22", "enhet": "robotceller", "etikett": "I tre skift"},
     {"varde": "99,4 %", "enhet": "", "etikett": "Leveransprecision 2025"},
-    {"varde": "165", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "165", "enhet": "Mkr", "etikett": "Omsatt under 2025"},
     {"varde": "85", "enhet": "anställda", "etikett": "Operatörer, svetsare och ingenjörer"}
   ],
   "projekt": [
@@ -74,7 +74,7 @@
     "jobb": [["Robotoperatör", "Norrköping"], ["Svetsingenjör IWE", "Norrköping"], ["Laseroperatör", "Norrköping"], ["Beredare", "Norrköping"]]
   },
   "kultur": "Varje fredag visar ett skiftlag upp en förbättring som sparat tid eller material – bästa idén varje kvartal belönas med en resa.",
-  "citat": {"text": "Våra kunder ska aldrig behöva fundera på om detaljen från oss är bra. De ska kunna ta den från pallen och skruva fast den.", "namn": "Farah Jama", "roll": "Vd och delägare", "tagg": "industri"},
+  "citat": {"text": "Våra kunder ska aldrig behöva fundera på om detaljen från oss är bra. De ska kunna ta den från pallen och skruva fast den.", "namn": "Farah Jama", "roll": "Vd och ägare sedan 2014", "tagg": "industri"},
   "omdomen": [
     {"text": "Vi har fått över 40 000 axelbalkar från Ingelsta och kan räkna reklamationerna på ena handens fingrar.", "namn": "Ulf G., inköpschef", "ort": "Linköping"},
     {"text": "Deras ändringsförslag på bommen sparade 14 procent i styckpris utan att påverka hållfastheten.", "namn": "Sara N., konstruktör", "ort": "Umeå"},
@@ -89,7 +89,7 @@
     ["Vilken dokumentation får vi?", "Mätprotokoll, materialcertifikat, svetsloggar och PPAP-dokumentation enligt era krav."]
   ],
   "certifikat": [
-    {"titel": "ISO 3834-2", "text": "Fullständiga kvalitetskrav för smältsvetsning, med tre svetsansvariga ingenjörer.", "ikon": "eld"},
+    {"titel": "ISO 3834-2 för serier", "text": "Fullständiga kvalitetskrav för smältsvetsning, med tre svetsansvariga ingenjörer.", "ikon": "eld"},
     {"titel": "EN 15085-2, CL1", "text": "Certifierade för svetsning av spårfordon och komponenter i högsta klassen.", "ikon": "bro"},
     {"titel": "IATF 16949", "text": "Kvalitetsledningssystem för fordonsindustrins leverantörer, reviderat årligen.", "ikon": "bil"},
     {"titel": "ISO 14001 och 45001", "text": "Certifierade ledningssystem för miljö och arbetsmiljö.", "ikon": "dokument"}

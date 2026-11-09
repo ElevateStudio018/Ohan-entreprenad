@@ -21,7 +21,7 @@
     {"titel": "Maskinhallar", "ikon": "kugge", "href": "verksamhet.html", "text": "Hallar till entreprenörer och lantbruk med spännvidder upp till 30 meter."},
     {"titel": "Ridhus och stall", "ikon": "hus", "href": "verksamhet.html", "text": "Ridhusstommar på 20 × 60 meter med ljusinsläpp i nocken."},
     {"titel": "Idrott och padel", "ikon": "stjarna", "href": "verksamhet.html", "text": "Fri höjd över banan och stommar som klarar takmonterade solceller."},
-    {"titel": "Stålkonstruktion", "ikon": "ritning", "href": "verksamhet.html", "text": "Beräkning och ritning enligt Eurokod 3 av egna konstruktörer."},
+    {"titel": "Beräkning och ritning", "ikon": "ritning", "href": "verksamhet.html", "text": "Beräkning och ritning enligt Eurokod 3 av egna konstruktörer."},
     {"titel": "Montage med kran", "ikon": "kran", "href": "verksamhet.html", "text": "Egna montagelag med mobilkran upp till 60 ton."},
     {"titel": "Rest de senaste åren", "ikon": "graf", "href": "projekt.html", "text": "Hallar från Örnsköldsvik till Hudiksvall."},
     {"titel": "Begär stomkalkyl", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Mått, snözon och användning räcker för ett budgetpris."}
@@ -33,7 +33,7 @@
     {"titel": "Tillbyggnader och förstärkning", "text": "När en befintlig hall ska byggas till eller få en ny travers räknar vi på den gamla stommen och förstärker där det behövs. Arbetet planeras så att verksamheten kan fortsätta.", "text2": "Vi har förstärkt stommar från 1960-talet och framåt.", "tagg": "bygg"}
   ],
   "bolag": [
-    {"namn": "Konstruktion", "segment": "Beräkning och 3D", "rubrik": "Varje bult finns i modellen", "text": "Sex konstruktörer som räknar och ritar stommar i Tekla och skickar filerna direkt till verkstadens maskiner.", "tagg": "kontor"},
+    {"namn": "Konstruktionsavdelningen", "segment": "Beräkning och 3D", "rubrik": "Varje bult finns i modellen", "text": "Sex konstruktörer som räknar och ritar stommar i Tekla och skickar filerna direkt till verkstadens maskiner.", "tagg": "kontor"},
     {"namn": "Stålverkstaden", "segment": "Tillverkning", "rubrik": "4 200 ton stål om året", "text": "Borrlinje, robotkap och 24 svetsare i en hall på 6 500 kvadratmeter vid fjärden.", "tagg": "svets"},
     {"namn": "Montage Norr", "segment": "Resning av stommar", "rubrik": "Fem lag och fyra kranar", "text": "Montörer med egna kranar och liftar som reser stommar från Umeå till Gävle.", "tagg": "bygg"},
     {"namn": "Kubikenborg Projekt", "segment": "Totalentreprenad", "rubrik": "Hela hallen, en kontakt", "text": "Tar hela hallbygget med grund, plåt, portar och el tillsammans med fasta underentreprenörer.", "tagg": "industri"}
@@ -47,7 +47,7 @@
     {"varde": "70", "enhet": "hallar", "etikett": "Resta per år"},
     {"varde": "40", "enhet": "meter", "etikett": "Största spännvidd utan pelare"},
     {"varde": "4 200", "enhet": "ton", "etikett": "Stål genom verkstaden 2025"},
-    {"varde": "118", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+    {"varde": "118", "enhet": "Mkr", "etikett": "Omsättning förra året"}
   ],
   "projekt": [
     {"namn": "Grossistlagret på Tunadal", "ort": "Sundsvall", "typ": "Logistikhall", "ar": "2026", "text": "6 800 kvadratmeter med två traverser och tolv lastportar.", "tagg": "industri"},
@@ -60,7 +60,7 @@
   "process": [
     {"titel": "Stomkalkyl", "text": "Inom fem arbetsdagar får ni en budgetkalkyl baserad på mått, snözon och användning.", "tagg": "kontor"},
     {"titel": "Konstruktion i 3D", "text": "Konstruktörerna dimensionerar enligt Eurokod och tar fram ritningar till bygglov och grundläggare.", "tagg": "kontor"},
-    {"titel": "Tillverkning", "text": "Stålet kapas, borras, svetsas och varmförzinkas, och levereras i den ordning det ska resas.", "tagg": "svets"},
+    {"titel": "Kap, borr och svets", "text": "Stålet kapas, borras, svetsas och varmförzinkas, och levereras i den ordning det ska resas.", "tagg": "svets"},
     {"titel": "Resning", "text": "Montagelaget reser stommen och lämnar över med egenkontroller och CE-dokumentation.", "tagg": "bygg"}
   ],
   "hallbarhet": {
@@ -83,15 +83,15 @@
   "faq": [
     ["Vad kostar en hallstomme?", "En enkel lagerhallstomme kostar ofta mellan 900 och 1 400 kronor per kvadratmeter rest, beroende på spännvidd, snözon och traverser. Ni får ett budgetpris inom fem arbetsdagar."],
     ["Bygger ni hela hallen eller bara stommen?", "Båda. Många beställer bara stommen och har egen byggare. Vill ni ha allt i ett avtal tar Kubikenborg Projekt hela entreprenaden."],
-    ["Hur lång är leveranstiden?", "Räkna med åtta till tolv veckor från godkända ritningar till leverans på plats. Själva resningen tar oftast en till tre veckor."],
+    ["Hur snabbt kan stommen levereras?", "Räkna med åtta till tolv veckor från godkända ritningar till leverans på plats. Själva resningen tar oftast en till tre veckor."],
     ["Kan stommen bära solceller?", "Ja, om vi vet det från början. Vi räknar in panelernas vikt och snöns fördelning och förbereder för fästen."],
     ["Behöver vi en egen konstruktör?", "Nej. Vi tar konstruktionsansvaret för stommen och levererar beräkningar och ritningar till bygglov och kontrollansvarig."],
     ["Hur långt bort bygger ni?", "Främst Västernorrland, Jämtland, Gävleborg och södra Västerbotten. Större hallar bygger vi även längre bort."]
   ],
   "certifikat": [
     {"titel": "EN 1090-2, EXC3", "text": "CE-märkning av bärande stålstommar upp till utförandeklass 3.", "ikon": "skold"},
-    {"titel": "ISO 3834-2", "text": "Kvalitetskrav för smältsvetsning med egen svetsansvarig ingenjör (IWE).", "ikon": "eld"},
-    {"titel": "ISO 9001 och 14001", "text": "Ledningssystem för kvalitet och miljö, reviderat av tredje part varje år.", "ikon": "dokument"},
+    {"titel": "ISO 3834-2 med egen IWE", "text": "Kvalitetskrav för smältsvetsning med egen svetsansvarig ingenjör (IWE).", "ikon": "eld"},
+    {"titel": "Ledningssystem ISO 9001/14001", "text": "Ledningssystem för kvalitet och miljö, reviderat av tredje part varje år.", "ikon": "dokument"},
     {"titel": "Medlem i Stålbyggnadsinstitutet", "text": "Vi följer branschens utveckling inom beräkning, brandskydd och klimatdeklarationer.", "ikon": "ritning"}
   ],
   "kunder": ["Tunadals Grossistlager", "Härnösands Padelcenter", "Njurunda Ryttarförening", "Höga Kusten Entreprenad", "Timrå kommun", "Hudiks Sågverk", "Medelpads Lantmän", "Sundsvalls Logistikpark"],

@@ -22,7 +22,7 @@
     {"titel": "Vägbommar", "ikon": "vag", "href": "verksamhet.html", "text": "Bommar med kortläsare, skyltigenkänning och slingdetektorer."},
     {"titel": "Gångpassager", "ikon": "folk", "href": "verksamhet.html", "text": "Vändkors och passagegrindar kopplade till ert passersystem."},
     {"titel": "Styrning och el", "ikon": "blixt", "href": "verksamhet.html", "text": "Motorer, säkerhetslister och styrskåp installerade av egna elektriker."},
-    {"titel": "Serviceavtal", "ikon": "kalender", "href": "verksamhet.html", "text": "Besiktning enligt Maskindirektivet en eller två gånger per år."},
+    {"titel": "Besiktningsavtal", "ikon": "kalender", "href": "verksamhet.html", "text": "Besiktning enligt Maskindirektivet en eller två gånger per år."},
     {"titel": "Skyddade anläggningar", "ikon": "fabrik", "href": "projekt.html", "text": "Bruk, terminaler, ställverk och vattenverk."},
     {"titel": "Felanmälan", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Avtalskunder får en tekniker inom fyra timmar."}
   ],
@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Grindverkstaden", "segment": "Svets och tillverkning", "rubrik": "Fjorton meter grind i ett stycke", "text": "Elva svetsare som bygger grindblad, stolpar och bomarmar i varmförzinkat stål och aluminium.", "tagg": "svets"},
-    {"namn": "Installation", "segment": "Montage och el", "rubrik": "Stängsel, gjutning och kablar", "text": "Fjorton montörer och fyra behöriga elektriker som gjuter, monterar och driftsätter.", "tagg": "infra"},
+    {"namn": "Installationsavdelningen", "segment": "Montage och el", "rubrik": "Stängsel, gjutning och kablar", "text": "Fjorton montörer och fyra behöriga elektriker som gjuter, monterar och driftsätter.", "tagg": "infra"},
     {"namn": "Service Väst", "segment": "Besiktning och jour", "rubrik": "640 grindar under bevakning", "text": "Sex servicetekniker i Karlstad, Kristinehamn och Arvika med egna bilar och reservdelslager.", "tagg": "las"},
     {"namn": "Projektering", "segment": "Säkerhetsanalys och ritning", "rubrik": "Vi börjar vid tomtgränsen", "text": "Två projektörer som går runt anläggningen, ritar skyddet och tar fram förfrågningsunderlag.", "tagg": "kontor"}
   ],
@@ -47,12 +47,12 @@
     {"varde": "640", "enhet": "grindar", "etikett": "Med serviceavtal"},
     {"varde": "110", "enhet": "km", "etikett": "Stängsel monterat sedan 2005"},
     {"varde": "4", "enhet": "timmar", "etikett": "Till tekniker på plats"},
-    {"varde": "52", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+    {"varde": "52", "enhet": "Mkr", "etikett": "Nettoomsättning 2025"}
   ],
   "projekt": [
     {"namn": "Terminalområdet i hamnen", "ort": "Karlstad", "typ": "Perimeterskydd", "ar": "2026", "text": "Fyra kilometer stängsel, sex skjutgrindar och detektorkabel längs hela gränsen.", "tagg": "infra"},
     {"namn": "Sågverkets huvudinfart", "ort": "Torsby", "typ": "Skjutgrind", "ar": "2026", "text": "Tolv meter rälslös grind med värmekabel och skyltigenkänning.", "tagg": "industri"},
-    {"namn": "Vattenverket vid Gullspång", "ort": "Gullspång", "typ": "Skalskydd", "ar": "2025", "text": "Stängsel med nedgrävd bottenlist och passagegrind för skyddsobjekt.", "tagg": "infra"},
+    {"namn": "Vattenverket vid Gullspång", "ort": "Gullspång", "typ": "Inbrottsskydd", "ar": "2025", "text": "Stängsel med nedgrävd bottenlist och passagegrind för skyddsobjekt.", "tagg": "infra"},
     {"namn": "Bussdepån", "ort": "Kristinehamn", "typ": "Bommar och grindar", "ar": "2025", "text": "Två vägbommar och en skjutgrind som styrs av bussarnas transpondrar.", "tagg": "stad"},
     {"namn": "Pappersbrukets lastgård", "ort": "Grums", "typ": "Grindar och vändkors", "ar": "2024", "text": "Fyra lastbilsgrindar och tre vändkors kopplade till brukets passersystem.", "tagg": "industri"},
     {"namn": "Logistikcentret vid E18", "ort": "Kil", "typ": "Perimeterskydd", "ar": "2027", "text": "Projektering klar för 2,4 kilometer stängsel och åtta infarter.", "tagg": "las", "status": "Pågående"}
@@ -71,7 +71,7 @@
   "karriar": {
     "rubrik": "Svetsa, gjut och koppla in",
     "text": "Vi söker svetsare, montörer och elektriker som vill se ett projekt från tomtgräns till driftsatt grind. Vi har kollektivavtal, egna servicebilar och betald utbildning i säkerhetsskydd.",
-    "jobb": [["Servicetekniker grindautomatik", "Karlstad"], ["Svetsare", "Skåre"], ["Elektriker", "Karlstad"], ["Stängselmontör", "Arvika"]]
+    "jobb": [["Servicetekniker grindautomatik", "Karlstad"], ["Grindsvetsare", "Skåre"], ["Elektriker", "Karlstad"], ["Stängselmontör", "Arvika"]]
   },
   "kultur": "Varje ny tekniker åker med en erfaren kollega på serviceturer i två månader innan första egna rutten.",
   "citat": {"text": "Ett stängsel är aldrig starkare än grinden, och grinden är aldrig bättre än den senaste servicen.", "namn": "Henrik Lövgren", "roll": "Vd och medgrundare", "tagg": "las"},
@@ -91,7 +91,7 @@
   "certifikat": [
     {"titel": "SS-EN 13241 och CE", "text": "Våra motordrivna grindar CE-märks enligt produktstandarden för industriportar och grindar.", "ikon": "skold"},
     {"titel": "Auktoriserad elinstallatör", "text": "Registrerade hos Elsäkerhetsverket med fyra egna behöriga elektriker.", "ikon": "blixt"},
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö med årlig revision.", "ikon": "dokument"},
+    {"titel": "ISO 14001 och ISO 9001", "text": "Certifierat ledningssystem för kvalitet och miljö med årlig revision.", "ikon": "dokument"},
     {"titel": "Säkerhetsskyddsavtal", "text": "Säkerhetsprövad personal för arbete vid skyddsobjekt inom energi och vatten.", "ikon": "las"}
   ],
   "kunder": ["Karlstads Hamnterminal", "Torsby Sågverk", "Gullspångs Vattenverk", "Värmlandstrafikens Bussdepå", "Grums Pappersbruk", "Kils Logistikcenter", "Hammarö Återvinning", "Vänerenergi Ställverk"],
