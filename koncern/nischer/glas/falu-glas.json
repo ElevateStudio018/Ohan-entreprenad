@@ -33,7 +33,7 @@
     {"titel": "Industri och bruk", "text": "Vi byter glas i manöverhytter, kontrollrum och skyddsskärmar hos industrier i Borlänge, Falun och Hedemora.", "text2": "Montörerna har säkerhetsutbildningar för arbete i industrimiljö och kan arbeta vid underhållsstopp.", "tagg": "industri"}
   ],
   "bolag": [
-    {"namn": "Maskinrutor", "segment": "Verkstad och fält", "rubrik": "Ut till maskinen", "text": "Tre montörer och två servicebilar som bara arbetar med hyttrutor, från skördare till sopbilar.", "tagg": "maskin"},
+    {"namn": "Maskinrutor", "segment": "Verkstad och fält", "rubrik": "Hyttrutor där maskinen står", "text": "Tre montörer och två servicebilar som bara arbetar med hyttrutor, från skördare till sopbilar.", "tagg": "maskin"},
     {"namn": "Glasmästeriet", "segment": "Västra Industrigatan", "rubrik": "Fönster, dörrar och speglar", "text": "Två glasmästare skär och slipar planglas och åker ut till villor, gårdar och stugor.", "tagg": "glas"},
     {"namn": "Industriservice", "segment": "Avtal och stopp", "rubrik": "Glas där det är varmt och dammigt", "text": "Fasta avtal med fem industrier om glasbyte vid underhållsstopp och akuta skador.", "tagg": "industri"}
   ],
@@ -90,7 +90,7 @@
   "priser": [
     {"namn": "Sidoruta, traktor", "pris": "fr. 3 900 kr", "enhet": "inkl. montering i verkstad", "text": "Plana sidorutor till vanliga traktormodeller.", "punkter": ["Ofta från lager", "Klar inom två timmar", "Gammal ruta till återvinning", "Faktura till försäkringsbolaget"]},
     {"namn": "Frontruta, skogsmaskin", "pris": "fr. 9 800 kr", "enhet": "limmad på plats", "text": "Böjd frontruta till skördare och skotare.", "punkter": ["Utkörning samma dag", "Limning och tejpning", "Körbar efter två timmar", "Tält och värme vintertid"], "utvald": true},
-    {"namn": "Glasbyte i stuga", "pris": "fr. 1 400 kr", "enhet": "per ruta", "text": "Planglas eller isolerruta i hus och stugor.", "punkter": ["Nyckelservice för stugägare", "Linoljekitt i gamla bågar", "ROT-avdrag på arbetet", "Framkörning tillkommer"]}
+    {"namn": "Glasbyte i stuga", "pris": "fr. 1 400 kr", "enhet": "per ruta", "text": "Planglas eller isolerruta i hus och stugor.", "punkter": ["Nyckelservice för stugägare", "Linoljekitt i gamla bågar", "ROT på arbetskostnaden", "Framkörning tillkommer"]}
   ],
   "priser_not": "Priserna är exklusive moms för företag och inklusive moms för privatpersoner. Framkörning tillkommer.",
   "certifikat": [

@@ -83,13 +83,13 @@
     ["Vad är energiglas?", "Ett glas med en tunn metalloxidbeläggning som reflekterar värmen tillbaka in i rummet. Det ser ut som vanligt glas men isolerar betydligt bättre."],
     ["Hur mycket sparar jag?", "I en villa med kopplade tvåglasfönster brukar värmeförlusten genom fönstren minska med 40–50 procent. Vi räknar ut din besparing innan du bestämmer dig."],
     ["Fungerar det i alla fönster?", "I de flesta kopplade och isolerade fönster från 1950 och framåt. I mycket gamla fönster kan en extra innerbåge vara bättre – det ser vi vid mätningen."],
-    ["Får jag ROT-avdrag?", "Ja, för arbetskostnaden. Vi drar av det direkt på fakturan."],
+    ["Gäller ROT-avdraget för energiglas?", "Ja, för arbetskostnaden. Vi drar av det direkt på fakturan."],
     ["Vad händer med det gamla glaset?", "Hela rutor och bågar går till återbruksbutiken. Det som inte kan återbrukas krossas och skickas till en glastillverkare för omsmältning."],
     ["Kan jag lämna fönster till återbruksbutiken?", "Ja, hela fönster med båge tar vi emot gratis. Vi ringer och frågar om vi kan hämta när det gäller större mängder."],
     ["Hur lång tid tar ett byte?", "En villa med 15 fönster tar oftast en arbetsdag. I flerbostadshus räknar vi med 45 minuter per lägenhet."]
   ],
   "priser": [
-    {"namn": "Energiglas per ruta", "pris": "fr. 1 590 kr", "enhet": "per ruta inkl. montering", "text": "Lågemissionsglas i befintlig innerbåge.", "punkter": ["Uppmätning ingår", "Gammalt glas tas om hand", "ROT-avdrag på arbetet", "Tio års garanti på glaset"]},
+    {"namn": "Energiglas per ruta", "pris": "fr. 1 590 kr", "enhet": "per ruta, monterad", "text": "Lågemissionsglas i befintlig innerbåge.", "punkter": ["Uppmätning ingår", "Gammalt glas tas om hand", "ROT-avdraget dras direkt på fakturan", "Tio års garanti på glaset"]},
     {"namn": "Villapaket", "pris": "fr. 28 000 kr", "enhet": "upp till 15 fönster, före ROT", "text": "Hela huset på en dag, med kartläggning före.", "punkter": ["Värmebild av huset", "Kalkyl med besparing", "Energiglas i alla innerbågar", "Uppföljning efter första vintern"], "utvald": true},
     {"namn": "Föreningskalkyl", "pris": "12 500 kr", "enhet": "per fastighet", "text": "Underlag till styrelsen och stämman.", "punkter": ["Värmekamera i fem lägenheter", "U-värden och energistatistik", "Återbetalningstid", "Avräknas vid beställning"]}
   ],

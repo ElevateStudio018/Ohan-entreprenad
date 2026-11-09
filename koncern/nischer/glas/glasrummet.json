@@ -45,7 +45,7 @@
   ],
   "nyckeltal": [
     {"varde": "65", "enhet": "medarbetare", "etikett": "Var tre när vi startade 2017"},
-    {"varde": "148", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "148", "enhet": "Mkr", "etikett": "Omsättning 2025, från 4 Mkr 2017"},
     {"varde": "48 h", "enhet": "", "etikett": "Till offert på ritning"},
     {"varde": "7 600", "enhet": "m²", "etikett": "Glasvägg monterad 2025"}
   ],
@@ -61,7 +61,7 @@
     {"titel": "Skicka planritningen", "text": "En PDF räcker. Inom 48 timmar får du förslag på rumsindelning och pris.", "tagg": "kontor"},
     {"titel": "Platsbesök och val", "text": "Projektledaren mäter upp, går igenom ljudkrav och brandceller och visar glas och film.", "tagg": "interior"},
     {"titel": "Beställning från lager", "text": "Profiler och dörrar finns på lager. Specialglas tar vi hem på tio arbetsdagar.", "tagg": "glas"},
-    {"titel": "Montage och överlämning", "text": "Montaget sker kvällar eller helger om ni är kvar i lokalen. Ni får ljudprotokoll och relationsritningar.", "tagg": "kontor"}
+    {"titel": "Montage och protokoll", "text": "Montaget sker kvällar eller helger om ni är kvar i lokalen. Ni får ljudprotokoll och relationsritningar.", "tagg": "kontor"}
   ],
   "hallbarhet": {
     "rubrik": "Glasväggar som flyttar med",
@@ -71,10 +71,10 @@
   "karriar": {
     "rubrik": "Vi har anställt 62 personer på åtta år",
     "text": "Vi växer i alla fyra städerna och söker montörer, projektledare och lärlingar. Hos oss får du ett tydligt löneprogram, egen servicebil efter ett år och möjlighet att bli arbetsledare.",
-    "jobb": [["Montör glasväggar", "Göteborg"], ["Projektledare kontor", "Borås"], ["Montör glasväggar", "Trollhättan"], ["Lärling glasmästeri", "Halmstad"]]
+    "jobb": [["Montör glasväggar", "Göteborg"], ["Projektledare kontor", "Borås"], ["Montör glasväggar", "Trollhättan"], ["Lärling glasväggsmontage", "Halmstad"]]
   },
   "kultur": "Varje fredag klockan tre visar montagelagen veckans rum i en gemensam bildkanal, och det mest fotogeniska rummet vinner fredagsfikat.",
-  "citat": {"text": "Ingen hyresgäst vill vänta tolv veckor på ett mötesrum. Vi byggde företaget kring att det ska ta tre.", "namn": "Amir Haddad", "roll": "Vd och medgrundare", "tagg": "kontor"},
+  "citat": {"text": "Ingen hyresgäst vill vänta tolv veckor på ett mötesrum. Vi byggde företaget kring att det ska ta tre.", "namn": "Amir Haddad", "roll": "Medgrundare och vd", "tagg": "kontor"},
   "omdomen": [
     {"text": "Vi skickade ritningen på tisdagen och hade offert på torsdagen. Tre veckor senare höll vi första mötet i det nya rummet.", "namn": "Lina J.", "ort": "Kontorschef, Göteborg"},
     {"text": "Som fastighetsägare uppskattar vi att vi får ljudprotokoll och relationsritningar direkt efter montaget.", "namn": "Peter A.", "ort": "Förvaltare, Borås"},
@@ -89,7 +89,7 @@
     ["Var arbetar ni?", "I hela Västsverige: Göteborgsregionen, Sjuhärad, Halland och Fyrbodal."]
   ],
   "certifikat": [
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2021.", "ikon": "skold"},
+    {"titel": "Certifierade enligt ISO", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2021.", "ikon": "skold"},
     {"titel": "Ljud- och brandklassade system", "text": "Väggar provade för ljudklass upp till 48 dB och brandklass EI 30.", "ikon": "eld"},
     {"titel": "Glasbranschföreningen", "text": "Medlemmar med kollektivavtal för alla montörer och lärlingar.", "ikon": "dokument"},
     {"titel": "ID06 och BAS-U", "text": "Alla montörer har ID06, och projektledarna har utbildning för byggarbetsmiljösamordning.", "ikon": "hjalm"}
