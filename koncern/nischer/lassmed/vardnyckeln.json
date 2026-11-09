@@ -15,13 +15,13 @@
     "Maria Hedlund arbetade fjorton år i hemtjänsten i Falun och bar som mest 47 nycklar i fickan under ett kvällspass. 2011 utbildade hon sig till låssmed och startade Vårdnyckeln tillsammans med Jonas Hedlund, som var servicetekniker på ett larmföretag.",
     "I dag sitter våra digitala lås hos omkring 6 400 brukare i Dalarna, och vi har byggt om dörrmiljöerna på 31 särskilda boenden. Alla 22 anställda har gått vår egen kurs i bemötande av personer med demenssjukdom innan de får arbeta i någons hem."
   ],
-  "vagval_rubrik": "Vilken verksamhet gäller det?",
+  "vagval_rubrik": "Var bedriver ni omsorg?",
   "tjanster": [
     {"titel": "Nyckelfri hemtjänst", "ikon": "telefon", "href": "verksamhet.html", "text": "Digitala lås på brukarens dörr som personalen öppnar med mobilen."},
     {"titel": "Demensboenden", "ikon": "hjarta", "href": "verksamhet.html", "text": "Kodlås och larmade utgångar som skyddar utan att låsa in."},
     {"titel": "Läkemedelsskåp", "ikon": "kors", "href": "verksamhet.html", "text": "Låsta skåp i lägenheten och läkemedelsrum med loggning."},
     {"titel": "LSS och gruppbostäder", "ikon": "hem", "href": "verksamhet.html", "text": "Lås som ger de boende egen nyckel och personalen behörighet."},
-    {"titel": "Dörrautomatik", "ikon": "kugge", "href": "verksamhet.html", "text": "Automatiska dörröppnare för rullator, rullstol och säng."},
+    {"titel": "Automatiska dörröppnare", "ikon": "kugge", "href": "verksamhet.html", "text": "Automatiska dörröppnare för rullator, rullstol och säng."},
     {"titel": "Nyckelskåp för personal", "ikon": "nyckel", "href": "verksamhet.html", "text": "Elektroniska skåp som loggar uttag av bilnycklar och reservnycklar."},
     {"titel": "Montering hos brukare", "ikon": "vard", "href": "verksamhet.html", "text": "Vi monterar när brukaren är hemma och förklarar i lugn takt."},
     {"titel": "Kontakta oss", "ikon": "folk", "href": "om-oss.html#kontakt", "text": "En kontaktperson per kommun och utförare."}
@@ -33,7 +33,7 @@
     {"titel": "Tillgänglighet", "text": "Dörrautomatik, tröskelfria lösningar och låsvred som går att vrida med nedsatt handkraft. Ofta handlar det om bostadsanpassning beslutad av kommunen.", "text2": "Vi har ramavtal för bostadsanpassning av dörrar i fyra kommuner.", "tagg": "hem"}
   ],
   "bolag": [
-    {"namn": "Hemtjänstteamet", "segment": "Åtta montörer", "rubrik": "6 400 dörrar i länet", "text": "Monterar, servar och byter batterier i digitala lås hos brukare, och flyttar låset när någon får nytt boende.", "tagg": "hem"},
+    {"namn": "Hemtjänstteamet", "segment": "Åtta montörer i länet", "rubrik": "6 400 dörrar i länet", "text": "Monterar, servar och byter batterier i digitala lås hos brukare, och flyttar låset när någon får nytt boende.", "tagg": "hem"},
     {"namn": "Boendeprojekt", "segment": "Projektledare och arbetsterapeut", "rubrik": "Dörrmiljöer för demensvård", "text": "Planerar ombyggnader av särskilda boenden tillsammans med personal, anhörigråd och brandkonsult.", "tagg": "las"},
     {"namn": "Support och system", "segment": "Falun, vardagar 7–19", "rubrik": "Behörigheter och loggar", "text": "Tre systemadministratörer som lägger upp personal, svarar på frågor från utförare och tar fram loggar vid utredningar.", "tagg": "kontor"}
   ],
@@ -46,7 +46,7 @@
     {"varde": "6 400", "enhet": "brukare", "etikett": "Med digitalt lås"},
     {"varde": "31", "enhet": "boenden", "etikett": "Ombyggda dörrmiljöer"},
     {"varde": "9", "enhet": "kommuner", "etikett": "I Dalarna"},
-    {"varde": "22", "enhet": "anställda", "etikett": "Alla bemötandeutbildade"}
+    {"varde": "22", "enhet": "anställda", "etikett": "Utbildade i demensbemötande"}
   ],
   "projekt": [
     {"namn": "Hemtjänsten i Mora", "ort": "Mora", "typ": "Digitala lås, 780 brukare", "ar": "2026", "text": "Införande område för område, med utbildning av 140 medarbetare.", "tagg": "hem"},
@@ -73,7 +73,7 @@
     "jobb": [["Montör digitala lås", "Falun"], ["Montör digitala lås", "Mora"], ["Systemadministratör", "Falun"]]
   },
   "kultur": "En gång om året arbetar alla på kontoret ett pass i hemtjänsten, så att vi inte glömmer hur det är att stå utanför dörren.",
-  "citat": {"text": "Jag vet hur det känns att stå i snön med fel nyckel medan någon väntar på sin insulin. Det var därför jag bytte yrke.", "namn": "Maria Hedlund", "roll": "Grundare och vd", "tagg": "hem"},
+  "citat": {"text": "Jag vet hur det känns att stå i snön med fel nyckel medan någon väntar på sin insulin. Det var därför jag bytte yrke.", "namn": "Maria Hedlund", "roll": "Grundare, tidigare undersköterska", "tagg": "hem"},
   "omdomen": [
     {"text": "Vi hade 1 200 nycklar i omlopp i ett enda hemtjänstområde. Nu har vi noll och vet exakt när varje besök gjordes.", "namn": "Karin S.", "ort": "Enhetschef, Mora"},
     {"text": "Montören tog sig tid att förklara för pappa vad som skulle hända med dörren. Han var lugn hela tiden.", "namn": "Peter A.", "ort": "Anhörig, Falun"},
@@ -89,9 +89,9 @@
     ["Kan anhöriga få behörighet?", "Ja, om brukaren eller företrädaren vill det och verksamheten godkänner. Behörigheten kan begränsas till vissa tider."]
   ],
   "certifikat": [
-    {"titel": "ISO 9001 och ISO 14001", "text": "Kvalitets- och miljöledning certifierad sedan 2018.", "ikon": "lov"},
-    {"titel": "Personuppgiftsbiträde", "text": "Biträdesavtal enligt GDPR med alla kommuner och utförare, loggar lagrade i Sverige.", "ikon": "dokument"},
-    {"titel": "Utdrag ur belastningsregistret", "text": "Kontrolleras för alla anställda som arbetar i brukares hem, och förnyas vartannat år.", "ikon": "folk"},
+    {"titel": "Certifierad kvalitet och miljö", "text": "Kvalitets- och miljöledning certifierad sedan 2018.", "ikon": "lov"},
+    {"titel": "Biträdesavtal enligt GDPR", "text": "Biträdesavtal enligt GDPR med alla kommuner och utförare, loggar lagrade i Sverige.", "ikon": "dokument"},
+    {"titel": "Granskade i belastningsregistret", "text": "Kontrolleras för alla anställda som arbetar i brukares hem, och förnyas vartannat år.", "ikon": "folk"},
     {"titel": "Gesäll- och mästarbrev", "text": "Sveriges Låssmeders Riksförbund – Maria och Jonas Hedlund har mästarbrev, montörerna gesällbrev.", "ikon": "stjarna"}
   ],
   "kunder": ["Falu kommun, vård och omsorg", "Mora kommun, hemtjänsten", "Borlänge Äldreboenden", "Omsorgshuset Siljan AB", "Ludvika Bostadsanpassning", "Leksands Gruppbostäder", "Hedemora Särskilda boenden", "Vårdcentralen Kopparvallen"],

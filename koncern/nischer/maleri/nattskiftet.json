@@ -39,9 +39,9 @@
     {"namn": "Nattplaneringen", "segment": "3 planerare", "rubrik": "Larmkoder, nycklar och tider", "text": "Sitter i kontoret på Muskötgatan och har jour per telefon varje natt mellan 21 och 6.", "tagg": "people"}
   ],
   "berattelser": [
-    {"rubrik": "Hela Väla-galleriet på 19 nätter", "text": "Gångar, pelare och tak i 2 400 kvadratmeter galleria – inte en enda butik behövde stänga.", "tagg": "maleri"},
-    {"rubrik": "Hotell Kärnan tog 112 rum under lågsäsong", "text": "Två rum per natt och korridor, och gästerna på våningen ovanför sov hela tiden.", "tagg": "interior"},
-    {"rubrik": "Natttillägg höjt för alla målare", "text": "Från oktober betalar vi 45 procent i obekväm arbetstid, över avtalets nivå.", "tagg": "people"}
+    {"rubrik": "Hela Söderpassagen på 19 nätter", "text": "Gångar, pelare och tak i 2 400 kvadratmeter galleria – inte en enda butik behövde stänga.", "tagg": "maleri"},
+    {"rubrik": "Hotell Fågelsången tog 112 rum under lågsäsong", "text": "Två rum per natt och korridor, och gästerna på våningen ovanför sov hela tiden.", "tagg": "interior"},
+    {"rubrik": "Högre tillägg för nattarbete", "text": "Från oktober betalar vi 45 procent i obekväm arbetstid, över avtalets nivå.", "tagg": "people"}
   ],
   "nyckeltal": [
     {"varde": "21–06", "enhet": "", "etikett": "Våra vanliga arbetstider"},
@@ -50,8 +50,8 @@
     {"varde": "4", "enhet": "timmar", "etikett": "Torktid innan vi går hem"}
   ],
   "projekt": [
-    {"namn": "Väla-galleriet", "ort": "Helsingborg", "typ": "Galleria nattetid", "ar": "2026", "text": "Gångar, pelare och tak målade under 19 nätter med liftar och dammfri slipning.", "tagg": "maleri"},
-    {"namn": "Hotell Kärnan", "ort": "Helsingborg", "typ": "Hotellrum och korridorer", "ar": "2026", "text": "112 rum, sex korridorer och frukostmatsalen under januari och februari.", "tagg": "interior"},
+    {"namn": "Söderpassagen", "ort": "Helsingborg", "typ": "Galleria nattetid", "ar": "2026", "text": "Gångar, pelare och tak målade under 19 nätter med liftar och dammfri slipning.", "tagg": "maleri"},
+    {"namn": "Hotell Fågelsången", "ort": "Helsingborg", "typ": "Hotellrum och korridorer", "ar": "2026", "text": "112 rum, sex korridorer och frukostmatsalen under januari och februari.", "tagg": "interior"},
     {"namn": "Restaurang Skeppsbron", "ort": "Helsingborg", "typ": "Kök och matsal", "ar": "2025", "text": "Köket målat mellan söndag kväll och måndag morgon, matsalen på en natt.", "tagg": "interior"},
     {"namn": "Apoteksgruppen Öresund", "ort": "Landskrona och Höganäs", "typ": "Butiker", "ar": "2025", "text": "Sju apotek i ny profilkulör på elva nätter.", "tagg": "maleri"},
     {"namn": "Tandläkarna på Drottninggatan", "ort": "Helsingborg", "typ": "Klinik över helg", "ar": "2024", "text": "Fyra behandlingsrum och väntrum klara till måndagens första patient.", "tagg": "kontor"},
@@ -70,14 +70,14 @@
   },
   "karriar": {
     "rubrik": "För dig som är pigg när andra sover",
-    "text": "Fyra nätter i veckan, fredag till måndag ledigt och natttillägg över avtalet. Vi söker målare som vill ha dagarna fria.",
+    "text": "Fyra nätter i veckan, fredag till måndag ledigt och nattersättning över avtalet. Vi söker målare som vill ha dagarna fria.",
     "jobb": [["Målare natt", "Helsingborg"], ["Tapetserare natt", "Helsingborg"], ["Nattplanerare", "Helsingborg"]]
   },
   "kultur": "Laget äter nattmat tillsammans klockan ett, och firman bjuder på frukost varje fredag morgon när veckans sista natt är slut.",
   "citat": {"text": "Jag stod själv i en stängd butik och såg kunderna vända i dörren. Därför jobbar vi när de inte är där.", "namn": "Malin Hedström", "roll": "Grundare och vd", "tagg": "people"},
   "omdomen": [
-    {"text": "Vi öppnade som vanligt varje morgon i tre veckor. Det enda kunderna sa var att det blivit ljusare.", "namn": "Centrumledningen, Väla-galleriet", "ort": "Helsingborg"},
-    {"text": "Sms:et med bilder klockan sex var guld värt – jag visste vilka rum jag kunde sälja samma kväll.", "namn": "Johanna P.", "ort": "Hotell Kärnan"},
+    {"text": "Vi öppnade som vanligt varje morgon i tre veckor. Det enda kunderna sa var att det blivit ljusare.", "namn": "Centrumledningen, Söderpassagen", "ort": "Helsingborg"},
+    {"text": "Sms:et med bilder klockan sex var guld värt – jag visste vilka rum jag kunde sälja samma kväll.", "namn": "Johanna P.", "ort": "Hotell Fågelsången"},
     {"text": "Köket var klart till måndagens lunch och det luktade inte färg i maten.", "namn": "Daniel R.", "ort": "Restaurang Skeppsbron"}
   ],
   "faq": [
@@ -90,15 +90,15 @@
     ["Arbetar ni utanför Skåne?", "Vi tar uppdrag i Halland och på andra sidan sundet i Helsingør om lokalen är större än 500 kvadratmeter."]
   ],
   "certifikat": [
-    {"titel": "Måleriavtalet", "text": "Kollektivavtal med Målareförbundet, med natttillägg över avtalets nivå.", "ikon": "dokument"},
+    {"titel": "Måleriavtalet", "text": "Kollektivavtal med Målareförbundet, med tillägg för nattarbete över avtalets nivå.", "ikon": "dokument"},
     {"titel": "ISO 45001", "text": "Ledningssystem för arbetsmiljö, extra viktigt när vi jobbar nattetid.", "ikon": "skold"},
     {"titel": "Liftutbildning", "text": "Alla i handelslaget har utbildning för saxlift och bomlift.", "ikon": "hjalm"},
     {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Täcker varor, inredning och utrustning i lokalen under natten.", "ikon": "las"}
   ],
-  "kunder": ["Väla-galleriet", "Hotell Kärnan", "Restaurang Skeppsbron", "Apoteksgruppen Öresund", "Ängelholms Stationshotell", "Tandläkarna på Drottninggatan", "Knutpunkten Fastigheter", "Sundsgårdens Konferens"],
+  "kunder": ["Söderpassagen", "Hotell Fågelsången", "Restaurang Skeppsbron", "Apoteksgruppen Öresund", "Ängelholms Stationshotell", "Tandläkarna på Drottninggatan", "Stattena Fastigheter", "Konferens Rya Hamn"],
   "nyheter": [
-    ["2026-10-20", "Höjt natttillägg från oktober", "Alla målare får nu 45 procent i ob-tillägg mellan 21 och 6.", "people"],
-    ["2026-06-03", "Galleriet klart på 19 nätter", "Väla-galleriet har fått ljusa gångar och nymålade tak utan en enda stängd butik.", "maleri"],
+    ["2026-10-20", "Högre nattersättning från oktober", "Alla målare får nu 45 procent i ob-tillägg mellan 21 och 6.", "people"],
+    ["2026-06-03", "Galleriet klart på 19 nätter", "Söderpassagen har fått ljusa gångar och nymålade tak utan en enda stängd butik.", "maleri"],
     ["2026-02-11", "Så planerar ni en nattmålning", "Checklista för butikschefer: nycklar, larm, varor och morgonens öppning.", "kontor"]
   ],
   "kontakt": {"adress": "Muskötgatan 9", "postnr": "254 66", "ort": "Helsingborg", "telefon": "070-174 06 08", "epost": "natt@nattskiftet.se", "orgnr": ""},

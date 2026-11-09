@@ -18,7 +18,7 @@
   "vagval_rubrik": "Vem beställer åtgärden?",
   "tjanster": [
     {"titel": "Snabbsäkring", "ikon": "blixt", "href": "verksamhet.html", "text": "Nya cylindrar och spärrade nycklar inom 24 timmar."},
-    {"titel": "Säkerhetsdörr", "ikon": "skold", "href": "verksamhet.html", "text": "Dörr i klass RC3 som monteras på en dag."},
+    {"titel": "Ny ytterdörr i RC3", "ikon": "skold", "href": "verksamhet.html", "text": "Dörr i klass RC3 som monteras på en dag."},
     {"titel": "Brevinkastskydd", "ikon": "eld", "href": "verksamhet.html", "text": "Skydd mot brandfarlig vätska och föremål genom brevinkastet."},
     {"titel": "Fönster och balkong", "ikon": "las", "href": "verksamhet.html", "text": "Låsbara handtag och skydd på bottenvåning och balkong."},
     {"titel": "Skyddade boenden", "ikon": "hem", "href": "verksamhet.html", "text": "Helhetsskydd för jourer och kommunala skyddade boenden."},
@@ -46,7 +46,7 @@
     {"varde": "24", "enhet": "tim", "etikett": "Längsta tid till snabbsäkring"},
     {"varde": "420", "enhet": "uppdrag", "etikett": "Under 2025"},
     {"varde": "9", "enhet": "boenden", "etikett": "Skyddade boenden i avtal"},
-    {"varde": "6", "enhet": "anställda", "etikett": "Alla bemötandeutbildade"}
+    {"varde": "6", "enhet": "anställda", "etikett": "Med bemötandeutbildning"}
   ],
   "projekt": [
     {"namn": "Socialtjänsten i Ulricehamn", "ort": "Ulricehamn", "typ": "Avtal om snabbsäkring", "ar": "2026", "text": "Låsbyten och spärrar inom ett dygn för våldsutsatta som bor kvar.", "tagg": "las"},
@@ -70,10 +70,10 @@
   "karriar": {
     "rubrik": "Låssmed med ett annat uppdrag",
     "text": "Vi söker en låssmed som vill använda sitt hantverk där det gör störst skillnad. Du får utbildning i bemötande av våldsutsatta och går jour en vecka av fyra.",
-    "jobb": [["Låssmed med jour", "Borås"]]
+    "jobb": [["Jourlåssmed för skyddsuppdrag", "Borås"]]
   },
   "kultur": "Efter varje tungt uppdrag finns tid att prata av sig med Camilla – det står inskrivet i arbetsscheman, inte bara i policyn.",
-  "citat": {"text": "Den som har blivit hotad ska inte behöva sova en enda natt till bakom en dörr som förövaren har nyckel till.", "namn": "Camilla Forsberg", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Den som har blivit hotad ska inte behöva sova en enda natt till bakom en dörr som förövaren har nyckel till.", "namn": "Camilla Forsberg", "roll": "Grundare, före detta polis", "tagg": "people"},
   "omdomen": [
     {"text": "Jag ringde klockan två och klockan sju var låsen bytta. De sa vad de gjorde i varje steg och gick inte förrän jag kände mig trygg.", "namn": "Kvinna, 34", "ort": "Borås"},
     {"text": "Som handläggare kan jag beställa på morgonen och veta att det är gjort samma dag. Det har förändrat hur vi kan arbeta.", "namn": "Socialsekreterare", "ort": "Ulricehamn"},
@@ -90,7 +90,7 @@
   "certifikat": [
     {"titel": "Säkerhetsdörrar SS-EN 1627", "text": "Dörrar i motståndsklass RC3 provade av ackrediterat provningsorgan.", "ikon": "skold"},
     {"titel": "Bemötandeutbildade", "text": "Alla anställda har gått utbildning i bemötande av våldsutsatta, med repetition varje år.", "ikon": "hjarta"},
-    {"titel": "Utdrag ur belastningsregistret", "text": "Kontrolleras vid anställning och därefter vartannat år.", "ikon": "folk"},
+    {"titel": "Kontrollerad bakgrund", "text": "Kontrolleras vid anställning och därefter vartannat år.", "ikon": "folk"},
     {"titel": "Gesällbrev, SLR", "text": "Sveriges Låssmeders Riksförbund – samtliga montörer har gesällbrev.", "ikon": "stjarna"}
   ],
   "kunder": ["Socialtjänsten i Ulricehamn", "Sjuhärads Hyresbostäder", "Kvinnojouren Viskadalen", "Marks kommun, HR", "Tjejjouren Tranemo", "Svenljunga Bostäder", "Bollebygds Socialtjänst"],

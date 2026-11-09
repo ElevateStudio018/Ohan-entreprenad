@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Glasverkstaden", "segment": "Fem glasmästare", "rubrik": "Skär, monterar, kittar", "text": "Skär glas på mått, tillverkar isolerrutor och monterar i allt från 1700-talsfönster till skyltfönster.", "tagg": "glas"},
-    {"namn": "Låsverkstaden", "segment": "Sex låssmeder", "rubrik": "Cylindrar och säkerhetslås", "text": "Låsbyten, nyckelsystem för fastighetsägare och motorlås i butiksentréer.", "tagg": "las"},
+    {"namn": "Låsavdelningen", "segment": "Sex låssmeder", "rubrik": "Cylindrar och säkerhetslås", "text": "Låsbyten, nyckelsystem för fastighetsägare och motorlås i butiksentréer.", "tagg": "las"},
     {"namn": "Skadejouren", "segment": "Tre med dubbel behörighet", "rubrik": "Glas och lås på natten", "text": "Turas om med jourbilen och kan både skiva för ett fönster och byta en cylinder.", "tagg": "glas"}
   ],
   "berattelser": [
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Bli delägare i ditt eget hantverk",
     "text": "Efter två års anställning får du erbjudande att köpa in dig i företaget. Vi söker glasmästare och låssmeder, och betalar utbildningen om du vill lära dig det andra hantverket också.",
-    "jobb": [["Glasmästare", "Kalmar"], ["Låssmed med jour", "Kalmar"]]
+    "jobb": [["Glasmästare", "Kalmar"], ["Låssmed, skadejour", "Kalmar"]]
   },
   "kultur": "Varje år i januari har vi bolagsstämma i verkstaden, och de som jobbat jour på nyårsnatten väljer var vi äter efteråt.",
   "citat": {"text": "Den som haft inbrott vill inte ha två hantverkare och två fakturor. Den vill att någon kommer och gör huset helt igen.", "namn": "Johan Nyberg", "roll": "Vd och delägare, glasmästare", "tagg": "glas"},
@@ -89,7 +89,7 @@
   ],
   "certifikat": [
     {"titel": "Auktoriserat glasmästeri", "text": "Medlemmar i Glasbranschföreningen och auktoriserade för glasarbeten sedan 1971.", "ikon": "lov"},
-    {"titel": "Medlemmar i SLR", "text": "Sveriges Låssmeders Riksförbund – låssmederna har gesällbrev, två har mästarbrev.", "ikon": "stjarna"},
+    {"titel": "Låssmeder med yrkesbevis", "text": "Sveriges Låssmeders Riksförbund – låssmederna har gesällbrev, två har mästarbrev.", "ikon": "stjarna"},
     {"titel": "Avtal med försäkringsbolag", "text": "Godkänd skadeleverantör för glas och lås hos fyra försäkringsbolag i Kalmar län.", "ikon": "dokument"},
     {"titel": "SSF 3522 och SS-EN 356", "text": "Lås och säkerhetsglas som uppfyller försäkringsbolagens krav, med intyg.", "ikon": "skold"}
   ],
@@ -113,7 +113,7 @@
     "hb_etikett": "Lagning",
     "omdomen_rubrik": "Efter natten de inte glömmer",
     "faq_rubrik": "Om inbrottsskador och försäkring",
-    "boka_rubrik": "Vad har hänt?",
+    "boka_rubrik": "Vad gick sönder i natt?",
     "logos_rubrik": "Butiker och föreningar i länet",
     "certifikat_rubrik": "Två hantverk, två auktorisationer",
     "bolag_rubrik": "Glas, lås och jour",

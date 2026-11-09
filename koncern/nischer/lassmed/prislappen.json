@@ -23,7 +23,7 @@
     {"titel": "Kodlås till förrådet", "ikon": "kugge", "href": "priser.html", "text": "Mekaniskt kodlås utan batterier – 2 450 kr monterat."},
     {"titel": "Brevlådelås", "ikon": "lada", "href": "priser.html", "text": "Nytt lås i brevlådan eller fastighetsboxen – 495 kr."},
     {"titel": "Extra nycklar", "ikon": "verktyg", "href": "priser.html", "text": "Kopior till ditt system, hämtas på Brynäs eller skickas hem."},
-    {"titel": "Fönsterlås och regelskydd", "ikon": "skold", "href": "priser.html", "text": "Paketpris per dörr eller fönster, inklusive montering."},
+    {"titel": "Skydd för fönster och dörr", "ikon": "skold", "href": "priser.html", "text": "Paketpris per dörr eller fönster, inklusive montering."},
     {"titel": "Boka en tid", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Lediga tvåtimmarsfönster syns direkt i kalendern."}
   ],
   "affarsomraden": [
@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Bokning och planering", "segment": "Ida Berglund", "rubrik": "En kalender, fyra bilar", "text": "Planerar rutterna så att bilarna kör så lite som möjligt mellan jobben, och svarar i telefon vardagar.", "tagg": "kontor"},
-    {"namn": "Servicebilarna", "segment": "Fem montörer", "rubrik": "Allt material i bilen", "text": "Varje bil har de 40 vanligaste cylindrarna och låsen, så att jobbet blir klart vid första besöket.", "tagg": "las"},
+    {"namn": "Bilarna", "segment": "Fem montörer", "rubrik": "Allt material i bilen", "text": "Varje bil har de 40 vanligaste cylindrarna och låsen, så att jobbet blir klart vid första besöket.", "tagg": "las"},
     {"namn": "Lagret på Brynäs", "segment": "Utlämning och nycklar", "rubrik": "Hämta på väg hem", "text": "Här kopierar vi nycklar, lämnar ut beställningar och tar emot lås som ska lagas.", "tagg": "las"}
   ],
   "berattelser": [
@@ -88,14 +88,14 @@
     ["Kan jag boka åt min förälder?", "Ja. Ange adressen och den som kommer att vara hemma, så skickar vi sms till båda."]
   ],
   "priser": [
-    {"namn": "Cylinderbyte", "pris": "1 595 kr", "enhet": "per cylinder", "text": "När du flyttar in eller tappat en nyckel.", "punkter": ["Ny cylinder klass 3", "Tre nycklar", "Resa i tätort ingår", "Gammal cylinder återvinns"], "utvald": true},
-    {"namn": "Säkerhetslås villa", "pris": "3 295 kr", "enhet": "per ytterdörr", "text": "Komplett lås för försäkringsbolagets krav.", "punkter": ["SSF-godkänt lås klass 3", "Låsintyg på mejl", "Tre nycklar", "Montering på under en timme"]},
-    {"namn": "Låsöppning dagtid", "pris": "1 295 kr", "enhet": "vardagar 7–18", "text": "Utelåst från lägenhet eller villa.", "punkter": ["Bil samma dag", "Legitimationskontroll", "Öppning utan skador i de flesta fall", "Swish eller kort"]}
+    {"namn": "Cylinderbyte", "pris": "1 595 kr", "enhet": "per cylinder", "text": "När du flyttar in eller tappat en nyckel.", "punkter": ["Ny cylinder klass 3", "Tre nycklar", "Resa i tätort ingår", "Gamla cylindern till återvinning"], "utvald": true},
+    {"namn": "Säkerhetslås villa", "pris": "3 295 kr", "enhet": "per dörr", "text": "Komplett lås för försäkringsbolagets krav.", "punkter": ["Lås godkänt i SSF-klass 3", "Låsintyg på mejl", "Tre nycklar", "Montering på under en timme"]},
+    {"namn": "Låsöppning dagtid", "pris": "1 295 kr", "enhet": "vardagar 7–18", "text": "Utelåst från lägenhet eller villa.", "punkter": ["Bil samma dag", "Vi kontrollerar legitimation", "Öppning utan skador i de flesta fall", "Swish eller kort"]}
   ],
   "prislista": [["Brevlådelås", "495 kr"], ["Mekaniskt kodlås, monterat", "2 450 kr"], ["Regelskydd per dörr", "895 kr"], ["Fönsterlås per fönster", "650 kr"], ["Extra nyckel, vanlig", "150 kr"], ["Genomgång av dörrar och fönster", "495 kr"], ["Framkörning om du tackar nej", "395 kr"], ["Resetillägg utanför tätort", "295 kr"]],
   "prislista_rubrik": "Fler fasta priser",
   "certifikat": [
-    {"titel": "Medlemmar i SLR", "text": "Sveriges Låssmeders Riksförbund – båda grundarna har gesällbrev, Samir även mästarbrev.", "ikon": "skold"},
+    {"titel": "Gesäller och en mästare", "text": "Sveriges Låssmeders Riksförbund – båda grundarna har gesällbrev, Samir även mästarbrev.", "ikon": "skold"},
     {"titel": "Intyg enligt SSF 3522", "text": "Låsintyg som försäkringsbolagen godtar, skickat på mejl efter varje montering.", "ikon": "dokument"},
     {"titel": "Prisgaranti i avtalet", "text": "Dubbla mellanskillnaden tillbaka står i våra villkor, inte bara på hemsidan.", "ikon": "lov"},
     {"titel": "Ansvarsförsäkring 5 Mkr", "text": "Alla uppdrag är försäkrade, även när vi arbetar i ditt hem när du inte är där.", "ikon": "las"}

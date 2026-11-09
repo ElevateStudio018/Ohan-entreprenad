@@ -46,7 +46,7 @@
     {"varde": "41", "enhet": "lager", "etikett": "Med vårt skalskydd"},
     {"varde": "600", "enhet": "butiker", "etikett": "Med nyckelfri leverans"},
     {"varde": "64", "enhet": "anställda", "etikett": "Tre kontor i Småland"},
-    {"varde": "92", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+    {"varde": "92", "enhet": "Mkr", "etikett": "Omsatt under 2025"}
   ],
   "projekt": [
     {"namn": "E-handelslager vid E4", "ort": "Jönköping", "typ": "Skalskydd och passer", "ar": "2026", "text": "210 kortläsare, 64 larmade portar och chaufförssluss för ett lager på 48 000 kvadratmeter.", "tagg": "industri", "status": "Utfört"},
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Låsteknik i Sveriges logistikhjärta",
     "text": "Vi söker servicetekniker, låsmontörer och projektledare som vill arbeta med stora anläggningar. Hos oss kan du gå från montör till projektledare för lager som är större än tio fotbollsplaner.",
-    "jobb": [["Servicetekniker passersystem", "Jönköping"], ["Låsmontör", "Värnamo"], ["Projektledare logistikanläggningar", "Jönköping"], ["Operatör driftcentral", "Jönköping"]]
+    "jobb": [["Servicetekniker passer och larm", "Jönköping"], ["Låsmontör", "Värnamo"], ["Projektledare logistikanläggningar", "Jönköping"], ["Driftoperatör nattleveranser", "Jönköping"]]
   },
   "kultur": "Nya medarbetare får gå ett nattpass med en chaufför och se hur en leverans till en låst butik går till.",
   "citat": {"text": "Ett lager ska vara stängt för fel person och öppet för rätt person varje minut på dygnet. Det är inget lås som klarar det – det är ett system.", "namn": "Tobias Rask", "roll": "Vd", "tagg": "industri"},
@@ -89,10 +89,10 @@
     ["Säljer ni kopplingslås till privatpersoner?", "Ja, i vår butik på Torpa, för husvagnar och släp. Åkerier och företag får faktura."]
   ],
   "certifikat": [
-    {"titel": "ISO 9001 och ISO 14001", "text": "Kvalitet och miljö certifierade sedan 2015, med årlig revision.", "ikon": "lov"},
-    {"titel": "SSF 1014 – SBSC", "text": "Certifierat larm- och passerföretag enligt Svenska Stöldskyddsföreningens regelverk.", "ikon": "skold"},
+    {"titel": "Kvalitet och miljö enligt ISO", "text": "Kvalitet och miljö certifierade sedan 2015, med årlig revision.", "ikon": "lov"},
+    {"titel": "Certifierat enligt SSF 1014", "text": "Certifierat larm- och passerföretag enligt Svenska Stöldskyddsföreningens regelverk.", "ikon": "skold"},
     {"titel": "Utbildade i TAPA FSR", "text": "Projektledare med utbildning i kraven för säkerhet i godsterminaler.", "ikon": "lada"},
-    {"titel": "Medlemmar i SLR", "text": "Sveriges Låssmeders Riksförbund – 31 gesäller och sju mästare bland montörerna.", "ikon": "stjarna"}
+    {"titel": "38 med yrkesbevis", "text": "Sveriges Låssmeders Riksförbund – 31 gesäller och sju mästare bland montörerna.", "ikon": "stjarna"}
   ],
   "kunder": ["Vätterns Distributionscenter", "Torsvik E-handelslager", "Höglandets Kombiterminal", "Gnosjö Industrilager AB", "Åkeri Bäckström & Söner", "Apoteken i Småland AB", "Livs i Götaland", "Ryhov Logistikpark"],
   "kontor_lista": [["Jönköping (huvudkontor)", "Torpavägen 22 · projekt, driftcentral och butik"], ["Nässjö", "Bangårdsgatan 9 · Höglandet och terminalerna"], ["Värnamo", "Margretelundsvägen 4 · Gnosjöregionen"]],
