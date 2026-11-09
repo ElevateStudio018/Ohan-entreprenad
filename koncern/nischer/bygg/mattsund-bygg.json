@@ -1,0 +1,131 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Måttsund Bygg & Våtrum AB",
+  "kortnamn": "Måttsund Bygg",
+  "slug": "mattsund-bygg",
+  "typ": "ROT-specialist i Luleå, Boden och Piteå",
+  "tagline": "Badrum, kök, tillbyggnad",
+  "slogan": "Vi renoverar badrum, kök och villor åt privatpersoner i Norrbotten – till fast pris, med ROT-avdraget avräknat och med egna plattsättare.",
+  "hero_rubrik": "Badrummet klart på 15 arbetsdagar",
+  "hero_text": "Måttsund Bygg renoverar 260 badrum om året i Luleå, Boden och Piteå. Fast pris, egen projektledare och tio års garanti på tätskiktet.",
+  "intro_rubrik": "260 badrum om året, ett i taget per lag",
+  "om": [
+    "Tommy Lindbäck var plattsättare i Måttsund och började 1999 renovera badrum åt grannar på kvällstid. Efter fem år hade han tio anställda och en kö på ett halvår, och 2008 flyttade vi in i lokalen på Hertsövägen med visningsrum för kakel och porslin.",
+    "I dag är vi 38 anställda och omsätter 62 miljoner kronor. Vi arbetar nästan bara åt privatpersoner och brf:er, och varje kund får en projektledare som har lagt kakel själv."
+  ],
+  "vagval_rubrik": "Vad vill du renovera?",
+  "tjanster": [
+    {"titel": "Badrumsrenovering", "ikon": "vatten", "href": "verksamhet.html", "text": "Rivning, tätskikt, kakel och porslin – klart på tre veckor."},
+    {"titel": "Köksrenovering", "ikon": "hem", "href": "verksamhet.html", "text": "Montering av nytt kök med el, vatten och kakel."},
+    {"titel": "Tillbyggnad", "ikon": "hamare", "href": "verksamhet.html", "text": "Nya rum, uterum och entréer på villor och radhus."},
+    {"titel": "Fönster och dörrar", "ikon": "hus", "href": "verksamhet.html", "text": "Treglasfönster med U-värde 0,9 för norrbottniska vintrar."},
+    {"titel": "Tilläggsisolering", "ikon": "sol", "href": "verksamhet.html", "text": "Vind, fasad och grund som sänker uppvärmningskostnaden."},
+    {"titel": "Vattenskador", "ikon": "ror", "href": "bolag.html", "text": "Rivning, torkning och återställning efter läckage."},
+    {"titel": "ROT-avdrag", "ikon": "dokument", "href": "faq.html", "text": "Vi drar av ROT direkt på fakturan och sköter ansökan."},
+    {"titel": "Boka hembesök", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Kostnadsfritt besök och fast pris inom en vecka."}
+  ],
+  "affarsomraden": [
+    {"titel": "Badrum", "text": "Ett badrum på fem till sju kvadratmeter tar 15 arbetsdagar från rivning till slutstädning. Tätskiktet läggs av behöriga plattsättare och fotograferas innan kaklet sätts.", "text2": "Kakel och porslin väljer du i visningsrummet på Hertsövägen.", "tagg": "vvs"},
+    {"titel": "Kök och interiör", "text": "Vi monterar kök från de flesta leverantörer och tar hand om allt runt omkring: el, vatten, ventilation, kakel och golv. Gamla köket rivs och körs bort samma dag.", "text2": "Ett kök tar normalt 6–10 arbetsdagar att montera.", "tagg": "interior"},
+    {"titel": "Villa och tillbyggnad", "text": "Husen i Luleå och Boden från 1960- och 70-talen behöver ofta nya fönster, tilläggsisolering och större entréer. Vi bygger till och bygger om så att huset klarar 35 minusgrader bättre.", "text2": "Tillbyggnader upp till 25 m² kräver ofta bara en anmälan.", "tagg": "hem"},
+    {"titel": "Vattenskador och service", "text": "När det har läckt kommer vår serviceavdelning ut inom ett dygn, river, torkar och återställer. Vi samarbetar med försäkringsbolagens skadehandläggare i hela Norrbotten.", "text2": "Brf:er kan teckna serviceavtal med fasta timpriser.", "tagg": "vvs"}
+  ],
+  "bolag": [
+    {"namn": "Måttsund Våtrum", "segment": "Badrum och tvättstugor", "rubrik": "Ett lag, ett badrum, tre veckor", "text": "Sex lag med plattsättare och snickare som bara renoverar våtrum.", "tagg": "vvs"},
+    {"namn": "Måttsund Hus", "segment": "Kök, fönster och tillbyggnad", "rubrik": "Villan redo för vintern", "text": "Snickare som bygger till, byter fönster och isolerar villor och radhus.", "tagg": "hem"},
+    {"namn": "Måttsund Service", "segment": "Vattenskador och brf-service", "rubrik": "På plats inom ett dygn", "text": "Tre servicebilar med avfuktare och mätutrustning för skador och mindre jobb.", "tagg": "bygg"}
+  ],
+  "berattelser": [
+    {"rubrik": "Vinterns badrum är bokade", "text": "Tider finns från vecka 6. Hembesök gör vi som vanligt inom en vecka.", "tagg": "vvs"},
+    {"rubrik": "Tilläggsisolering på Bergnäset", "text": "Tolv villor i samma kvarter fick nya fönster och 20 cm extra isolering på vinden i höstas.", "tagg": "hem"},
+    {"rubrik": "Nytt visningsrum för kök", "text": "Tre kompletta kök från olika leverantörer står nu monterade på Hertsövägen.", "tagg": "interior"}
+  ],
+  "nyckeltal": [
+    {"varde": "260", "enhet": "per år", "etikett": "Renoverade badrum"},
+    {"varde": "15", "enhet": "dagar", "etikett": "Från rivning till klart"},
+    {"varde": "10", "enhet": "år", "etikett": "Garanti på tätskikt"},
+    {"varde": "4 100", "enhet": "", "etikett": "Badrum sedan 1999"}
+  ],
+  "projekt": [
+    {"namn": "Badrum i Björkskatan", "ort": "Luleå", "typ": "Badrumsrenovering", "ar": "2026", "text": "Sex kvadratmeter med golvvärme, walk in-dusch och tvättpelare.", "tagg": "vvs"},
+    {"namn": "Kvarteret Bergnäset", "ort": "Luleå", "typ": "Fönster och isolering", "ar": "2025", "text": "Tolv villor med treglasfönster och tilläggsisolerade vindar.", "tagg": "hem"},
+    {"namn": "Brf Norra Hamn", "ort": "Luleå", "typ": "Vattenskada", "ar": "2025", "text": "Tre lägenheter rivna, torkade och återställda på sju veckor.", "tagg": "bostad"},
+    {"namn": "Villa i Sävast", "ort": "Boden", "typ": "Tillbyggnad", "ar": "2025", "text": "Nytt allrum på 24 m² med stora fönster mot älven.", "tagg": "hem"},
+    {"namn": "Kök i Piteå Haraholmen", "ort": "Piteå", "typ": "Köksrenovering", "ar": "2024", "text": "Öppen planlösning, kökö med induktion och nytt ekgolv.", "tagg": "interior"},
+    {"namn": "Radhus i Gültzauudden", "ort": "Luleå", "typ": "Två badrum och tvättstuga", "ar": "2024", "text": "Tre våtrum på fem veckor medan familjen bodde kvar.", "tagg": "vvs"}
+  ],
+  "process": [
+    {"titel": "Hembesök", "text": "En projektledare mäter, fotograferar och lyssnar på vad du vill ha. Kostnadsfritt.", "tagg": "hem"},
+    {"titel": "Fast pris och val", "text": "Inom en vecka får du ett fast pris med ROT avdraget. Kakel och porslin väljer du i visningsrummet.", "tagg": "interior"},
+    {"titel": "Renovering", "text": "Samma lag från rivning till slutstädning, med en tidplan på kylskåpsdörren.", "tagg": "vvs"},
+    {"titel": "Besiktning och intyg", "text": "Du får våtrumsintyg, bilder på tätskiktet och garantibevis i en pärm.", "tagg": "bygg"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Badrum som inte behöver göras om",
+    "text": "Det mest hållbara badrummet är det som håller i 30 år. Vi fotograferar varje tätskikt, lämnar intyg enligt branschreglerna och följer upp med en kontroll efter två år.",
+    "mal": [["0,4 %", "garantiärenden på tätskikt sedan 2015"], ["30 år", "beräknad livslängd på våra badrum"], ["2 år", "till kostnadsfri efterkontroll"]]
+  },
+  "karriar": {
+    "rubrik": "Plattsättare? Vi har kö till nästa höst",
+    "text": "Vi behöver fler som kan våtrum, och vi betalar för behörighetsutbildningen om du är ny. Alla jobb ligger inom fyra mil från Luleå, och du jobbar i fast lag.",
+    "jobb": [["Plattsättare", "Luleå"], ["Snickare", "Boden"], ["Servicetekniker vattenskador", "Luleå"]]
+  },
+  "kultur": "Varje lag har egen servicebil och verktygsbudget, och på vintern går fredagslunchen till pimpelfiske på Hertsöfjärden.",
+  "citat": {"text": "Ett badrum är det rum där ett fel blir dyrast. Därför fotograferar vi tätskiktet innan någon sätter en enda platta.", "namn": "Tommy Lindbäck", "roll": "Grundare och VD", "tagg": "vvs"},
+  "omdomen": [
+    {"text": "Priset i offerten var exakt det vi betalade. ROT-avdraget var redan dragit och vi behövde inte göra något själva.", "namn": "Linda K.", "ort": "Björkskatan"},
+    {"text": "Tre veckor och ett perfekt badrum. Och de dammsög trappan varje kväll.", "namn": "Mats Ö.", "ort": "Boden"},
+    {"text": "Efter vattenskadan ringde de försäkringsbolaget åt oss och var här med avfuktare dagen efter.", "namn": "Brf Norra Hamn", "ort": "Luleå"}
+  ],
+  "faq": [
+    ["Vad kostar ett nytt badrum?", "Ett badrum på 5–7 m² kostar normalt 210 000–290 000 kronor före ROT-avdrag, beroende på val av kakel, porslin och golvvärme."],
+    ["Hur fungerar ROT-avdraget?", "Du får 30 procent av arbetskostnaden i avdrag, upp till 50 000 kronor per person och år. Vi drar av det direkt på fakturan och ansöker hos Skatteverket."],
+    ["Hur länge står vi utan badrum?", "Tre veckor för ett normalt badrum. Har ni bara ett badrum kan vi ställa en tillfällig toalett i hallen."],
+    ["Vilken garanti får vi?", "Tio år på tätskiktet enligt Behörig Våtrum och två år på övrigt arbete enligt Hantverkarformuläret 17."],
+    ["Hur långt i förväg måste vi boka?", "Just nu är väntetiden 10–14 veckor för badrum. Hembesöket gör vi inom en vecka."],
+    ["Kan vi köpa kakel själva?", "Ja, men då tar vi inte ansvar för leveranstider eller brister i materialet. De flesta väljer från vårt visningsrum."],
+    ["Arbetar ni åt brf:er?", "Ja, både med enskilda badrum åt medlemmar och serviceavtal för vattenskador och mindre jobb."],
+    ["Åker ni till Kalix eller Älvsbyn?", "Ibland, för större uppdrag som kök plus badrum. Annars håller vi oss inom Luleå, Boden och Piteå."]
+  ],
+  "certifikat": [
+    {"titel": "Behörig Våtrum (BKR)", "text": "Alla plattsättare har giltig behörighet och företaget är auktoriserat.", "ikon": "vatten"},
+    {"titel": "Säker Vatten", "text": "Auktoriserat företag för installation av tappvatten och avlopp i bostäder.", "ikon": "ror"},
+    {"titel": "Byggföretagen", "text": "Medlemmar, med ansvarsförsäkring och kollektivavtal.", "ikon": "dokument"},
+    {"titel": "ID06", "text": "Alla som arbetar hos dig bär ID06-kort.", "ikon": "las"}
+  ],
+  "kunder": ["Privatpersoner i Luleå, Boden och Piteå", "Brf Norra Hamn", "Brf Bergviken", "Brf Hertsöhöjden", "Bodens Radhusförening", "Piteå Villaägare"],
+  "nyheter": [
+    ["2026-10-13", "Boka vinterns badrum nu", "Tider finns från februari – hembesöken gör vi fortfarande inom en vecka.", "vvs"],
+    ["2026-08-05", "Kök i visningsrummet", "Tre monterade kök från olika leverantörer att titta på och prova.", "interior"],
+    ["2026-03-27", "Så klarar huset 35 minusgrader", "Fem åtgärder som sänker elräkningen i en 70-talsvilla i Norrbotten.", "hem"]
+  ],
+  "kontakt": {"adress": "Hertsövägen 12", "postnr": "973 32", "ort": "Luleå", "telefon": "070-174 06 98", "epost": "hej@mattsundbygg.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, visningsrummet även tors 16–19",
+  "omrade": "Luleå, Boden och Piteå",
+  "fot_cta": "Dags för nytt badrum eller kök? Boka ett hembesök så får du ett fast pris inom en vecka.",
+  "bild": {"panel": "vvs", "hb": "interior", "om": "people", "sida_bolag": "interior", "sida_om": "hem", "sida_faq": "vvs"},
+  "text": {
+    "kontakt_knapp": "Boka hembesök",
+    "meny_bolag": "Våra lag",
+    "hero_knapp": "Vad vi renoverar",
+    "hero_lank": "Se färdiga badrum",
+    "ber_rubrik": "Nytt hos Måttsund",
+    "proj_rubrik": "Badrum, kök och villor",
+    "process_rubrik": "Så renoverar vi ditt badrum",
+    "hb_etikett": "Garanti & våtrum",
+    "hb_lank": "Om våra garantier",
+    "omdomen_rubrik": "Så tyckte kunderna",
+    "faq_rubrik": "Frågor om renovering och ROT",
+    "boka_rubrik": "Boka ett kostnadsfritt hembesök",
+    "boka_text": "Berätta vad du vill renovera, så ringer en projektledare upp inom en arbetsdag.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Adress och vad du vill renovera"],
+    "certifikat_rubrik": "Behöriga för våtrum",
+    "logos_rubrik": "Några av våra kunder",
+    "bolag_rubrik": "Tre lag med var sin specialitet",
+    "bolag_kol": ["Lag", "Inriktning", "Det här gör vi"],
+    "ny_rubrik": "Tips och nyheter",
+    "sida_karriar_text": "Hittar du inget som passar? Plattsättare och snickare är alltid välkomna att höra av sig.",
+    "medarbetare": "Hantverkarna"
+  }
+}

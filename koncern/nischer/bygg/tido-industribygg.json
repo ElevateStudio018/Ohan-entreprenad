@@ -27,19 +27,19 @@
   ],
   "affarsomraden": [
     {"titel": "Nya industrihallar", "text": "Vi projekterar och bygger stålhallar med takstolar och pelare från vår egen verkstad. Det ger korta ledtider och full kontroll över måttnoggrannheten när traverser ska monteras.", "text2": "En hall på 3 000 m² står normalt klar på 26 veckor från bygglov.", "tagg": "industri"},
-    {"titel": "Ombyggnad i pågående produktion", "text": "Nya linjer, flyttade maskiner och rivna mellanväggar – utan att produktionen stannar längre än planerat. Vi arbetar med heta arbeten-tillstånd, egna brandvakter och dammskydd.", "text2": "Ett av våra lag är på plats hos samma kund i Köping varje sommar sedan 2006.", "tagg": "fabrik"},
+    {"titel": "Ombyggnad i pågående produktion", "text": "Nya linjer, flyttade maskiner och rivna mellanväggar – utan att produktionen stannar längre än planerat. Vi arbetar med heta arbeten-tillstånd, egna brandvakter och dammskydd.", "text2": "Ett av våra lag är på plats hos samma kund i Köping varje sommar sedan 2006.", "tagg": "maskin"},
     {"titel": "Fundament och golv", "text": "Pressar på 400 ton kräver fundament som inte rör sig en tiondels millimeter. Vi gjuter, armerar och mäter in med totalstation och lämnar protokoll till maskinleverantören.", "text2": "Golven slipas och ytbehandlas av vårt eget golvlag.", "tagg": "anlaggning"},
     {"titel": "Stål och plattformar", "text": "Stålverkstaden i Kolbäck tillverkar allt från gångbryggor och trappor till hela stommar. Svetsare och montörer är certifierade enligt EN 1090.", "text2": "Varmförzinkning sker hos underleverantör i Hallstahammar.", "tagg": "svets"}
   ],
   "bolag": [
     {"namn": "Tidö Hallbygg", "segment": "Nya hallar och lager", "rubrik": "Från grund till traverskran", "text": "Projektledare och lag som bygger nya industribyggnader som totalentreprenad.", "tagg": "industri"},
-    {"namn": "Tidö Industriservice", "segment": "Ombyggnad i drift", "rubrik": "Planerat efter kundens stopp", "text": "Ett servicelag på 16 personer med säkerhetsutbildning för process- och verkstadsindustri.", "tagg": "fabrik"},
+    {"namn": "Tidö Industriservice", "segment": "Ombyggnad i drift", "rubrik": "Planerat efter kundens stopp", "text": "Ett servicelag på 16 personer med säkerhetsutbildning för process- och verkstadsindustri.", "tagg": "maskin"},
     {"namn": "Tidö Stål", "segment": "Stålverkstad i Kolbäck", "rubrik": "Svetsat och kapat på egen hand", "text": "2 400 kvadratmeter verkstad med CNC-borrlinje, kapsåg och EN 1090-certifiering.", "tagg": "svets"},
     {"namn": "Tidö Grund & Golv", "segment": "Fundament och industrigolv", "rubrik": "Tiondelar som håller", "text": "Gjuter maskinfundament och lägger slipade golv för tunga truckar och robotceller.", "tagg": "anlaggning"}
   ],
   "berattelser": [
     {"rubrik": "Ny presshall i Köping klar på 24 veckor", "text": "Hallen på 4 200 m² har två traverser på 32 ton och ett fundament för en 800-tons press.", "tagg": "industri"},
-    {"rubrik": "Sommarstopp med 41 man", "text": "Tre veckor i juli flyttade vi en hel målerilinje i en anläggning i Västerås utan en timmes försening.", "tagg": "fabrik"},
+    {"rubrik": "Sommarstopp med 41 man", "text": "Tre veckor i juli flyttade vi en hel målerilinje i en anläggning i Västerås utan en timmes försening.", "tagg": "maskin"},
     {"rubrik": "Ny kantpress i stålverkstaden", "text": "Verkstaden kan nu bocka plåt upp till 6 meter och 12 millimeter.", "tagg": "svets"}
   ],
   "nyckeltal": [
@@ -50,20 +50,20 @@
   ],
   "projekt": [
     {"namn": "Presshall 7", "ort": "Köping", "typ": "Ny produktionshall", "ar": "2026", "text": "4 200 m² med traverser och fundament för 800 tons press.", "tagg": "industri"},
-    {"namn": "Målerilinje, flytt", "ort": "Västerås", "typ": "Ombyggnad i drift", "ar": "2025", "text": "Hel linje flyttad under tre veckors semesterstopp.", "tagg": "fabrik"},
-    {"namn": "Logistikcenter Hacksta", "ort": "Västerås", "typ": "Lagerbyggnad", "ar": "2025", "text": "9 800 m² höglager med tolv lastportar och kylrum.", "tagg": "lada"},
+    {"namn": "Målerilinje, flytt", "ort": "Västerås", "typ": "Ombyggnad i drift", "ar": "2025", "text": "Hel linje flyttad under tre veckors semesterstopp.", "tagg": "maskin"},
+    {"namn": "Logistikcenter Hacksta", "ort": "Västerås", "typ": "Lagerbyggnad", "ar": "2025", "text": "9 800 m² höglager med tolv lastportar och kylrum.", "tagg": "industri"},
     {"namn": "Robotcell och ESD-golv", "ort": "Hallstahammar", "typ": "Golv och fundament", "ar": "2024", "text": "Epoxigolv med ledande skikt för elektronikmontering.", "tagg": "anlaggning"},
     {"namn": "Gjuteriet i Surahammar", "ort": "Surahammar", "typ": "Tillbyggnad", "ar": "2024", "text": "1 600 m² ny hall i anslutning till ugnarna, byggd i drift.", "tagg": "industri"},
     {"namn": "Plattformar Sala Mineral", "ort": "Sala", "typ": "Stålkonstruktion", "ar": "2023", "text": "Tre våningar gångbryggor och trappor runt en kross.", "tagg": "svets"}
   ],
   "process": [
-    {"titel": "Platsbesök och riskanalys", "text": "Vi går igenom anläggningen med er produktionschef och skyddsombud innan något ritas.", "tagg": "fabrik"},
+    {"titel": "Platsbesök och riskanalys", "text": "Vi går igenom anläggningen med er produktionschef och skyddsombud innan något ritas.", "tagg": "maskin"},
     {"titel": "Stopplan", "text": "Arbetet bryts ner timme för timme kring era planerade stopp och leveranser.", "tagg": "kontor"},
     {"titel": "Prefabricering i Kolbäck", "text": "Stål och plattformar tillverkas färdigt i verkstaden så att montaget i fabriken blir kort.", "tagg": "svets"},
     {"titel": "Driftsättning", "text": "Vi lämnar över med relationsritningar, egenkontroller och mätprotokoll för fundament.", "tagg": "industri"}
   ],
   "hallbarhet": {
-    "rubrik": "Ingen ska skadas på en fabriksgolv vi arbetar på",
+    "rubrik": "Ingen ska skadas på ett fabriksgolv vi arbetar på",
     "text": "Säkerheten i en anläggning i drift är en annan än på en vanlig byggarbetsplats. Alla våra montörer har Heta arbeten, BAS-U och kundens egna introduktioner, och vi rapporterar tillbud till kunden samma dag.",
     "mal": [["0", "olyckor med frånvaro 2025"], ["100 %", "med Heta arbeten-certifikat"], ["38 %", "återvunnet stål i våra stommar"]]
   },
@@ -97,7 +97,7 @@
   "kunder": ["Köpings Pressverk", "Västerås Elmotor", "Surahammars Gjuteri", "Sala Mineral", "Mälarlogistik", "Hallstahammars Kretskort", "Arboga Hydraulik"],
   "nyheter": [
     ["2026-10-30", "Presshall 7 överlämnad", "Hallen i Köping blev klar fyra veckor före den 800 ton tunga pressen levererades.", "industri"],
-    ["2026-08-11", "Sommarstoppet i siffror", "41 montörer, tre veckor, 9 200 arbetstimmar och noll olyckor.", "fabrik"],
+    ["2026-08-11", "Sommarstoppet i siffror", "41 montörer, tre veckor, 9 200 arbetstimmar och noll olyckor.", "maskin"],
     ["2026-03-19", "Anna Tidblad ny VD", "Tredje generationen tar över efter Lennart Tidblad, som blir kvar i styrelsen.", "people"]
   ],
   "kontakt": {"adress": "Tunbytorpsgatan 8", "postnr": "721 37", "ort": "Västerås", "telefon": "070-174 06 81", "epost": "projekt@tidoindustri.se", "orgnr": ""},

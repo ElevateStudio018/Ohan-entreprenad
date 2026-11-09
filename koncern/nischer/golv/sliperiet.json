@@ -1,0 +1,136 @@
+{
+  "profil": "nisch",
+  "nisch": "golv",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Sliperiet i Karlstad AB",
+  "kortnamn": "Sliperiet",
+  "slug": "sliperiet",
+  "typ": "Golvslipning med fasta priser i Värmland",
+  "tagline": "Fast pris per kvadrat",
+  "slogan": "Vi slipar trägolv i Värmland till fast pris per kvadratmeter – du räknar ut kostnaden själv innan vi ens har kommit.",
+  "hero_rubrik": "Slipat golv för 249 kr per kvadrat",
+  "hero_text": "Fem slipare, tre bilar och ett pris som står på hemsidan. Vi slipar parkett och brädgolv i Karlstad, Kil, Hammarö och Forshaga – oftast inom två veckor.",
+  "intro_rubrik": "Ett enkelt erbjudande, gjort ordentligt",
+  "om": [
+    "Sliperiet startades 2020 av bröderna Oskar och Emil Ahlgren, som hade slipat golv åt en byggfirma i sex år och tröttnat på att varje offert tog en vecka. Idén var enkel: ett fast pris per kvadratmeter som står på hemsidan, och tillägg bara för det som faktiskt tar mer tid – trappsteg, lagningar och golvlister.",
+    "I dag är vi fem anställda och slipar runt 9 000 kvadratmeter om året, mest i villor och lägenheter i Karlstad med omnejd. Vi har inget showroom och ingen säljare. Det är därför priset kan vara lågt."
+  ],
+  "vagval_rubrik": "Räkna ut ditt golv",
+  "tjanster": [
+    {"titel": "Slipning och lack", "ikon": "verktyg", "href": "verksamhet.html", "text": "Tre slipsteg och tre skikt vattenburen lack. 249 kr per kvm efter ROT."},
+    {"titel": "Slipning och olja", "ikon": "sol", "href": "verksamhet.html", "text": "Samma slipning, två skikt hårdvaxolja. 239 kr per kvm efter ROT."},
+    {"titel": "Vitpigmentering", "ikon": "pensel", "href": "verksamhet.html", "text": "Ljus nordisk ton med pigmenterad lack eller lut. Tillägg 45 kr per kvm."},
+    {"titel": "Trappsteg", "ikon": "upp", "href": "verksamhet.html", "text": "Slipning och lack av trappsteg för 390 kr per steg efter ROT."},
+    {"titel": "Lagningar", "ikon": "hamare", "href": "verksamhet.html", "text": "Kittning av springor och byte av skadade stavar till fast styckpris."},
+    {"titel": "Golvlister", "ikon": "ritning", "href": "verksamhet.html", "text": "Demontering, målning och nya golvlister vid behov."},
+    {"titel": "Prislista", "ikon": "dokument", "href": "verksamhet.html", "text": "Alla priser och tillägg samlade på ett ställe."},
+    {"titel": "Boka slipning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Välj vecka direkt – vi bekräftar inom ett dygn."}
+  ],
+  "affarsomraden": [
+    {"titel": "Slipning av parkett", "text": "Ekparkett från 70- och 80-talet är det vanligaste golvet vi slipar. Ett slitskikt på 3,5 millimeter räcker för två till tre slipningar till.", "text2": "En vanlig lägenhet på 70 kvadratmeter är klar på två dagar plus ett dygns torktid.", "tagg": "golv"},
+    {"titel": "Gamla brädgolv", "text": "Furugolv i äldre villor slipas lite långsammare eftersom brädorna ofta är ojämna och har spik. Priset per kvadratmeter är detsamma men kittning av springor kan tillkomma.", "text2": "Vi sänker alla spikar innan vi börjar för att inte skada slippappret eller golvet.", "tagg": "tra"},
+    {"titel": "Ljusa golv", "text": "Många vill ha ett ljusare golv när de slipar. Vi pigmenterar med vit lack, lut eller vitolja och visar provytor på plats innan vi bestämmer.", "text2": "Vitpigmentering kostar 45 kronor extra per kvadratmeter.", "tagg": "interior"},
+    {"titel": "Inför försäljning", "text": "Ett nyslipat golv syns på visningsbilderna. Vi tar uppdrag med kort varsel åt mäklare och säljare i Karlstad.", "text2": "Vid bokning minst fem dagar före fotograferingen lovar vi att hinna.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Oskar Ahlgren", "segment": "Delägare och slipare", "rubrik": "Svarar i telefon", "text": "Oskar bokar jobben, svarar på frågor och slipar själv tre dagar i veckan.", "tagg": "people"},
+    {"namn": "Emil Ahlgren", "segment": "Delägare och slipare", "rubrik": "Sköter maskinerna", "text": "Emil ansvarar för maskinparken och lär upp nya slipare.", "tagg": "golv"},
+    {"namn": "Sliplagen", "segment": "Tre slipare", "rubrik": "Två per golv", "text": "Linus, Amanda och Rasmus arbetar i par så att varje golv blir klart på kortast möjliga tid.", "tagg": "golv"}
+  ],
+  "berattelser": [
+    {"rubrik": "Priset står kvar för 2027", "text": "Trots dyrare slippapper och lack behåller vi 249 kronor per kvadratmeter även nästa år.", "tagg": "golv"},
+    {"rubrik": "Tredje slipbilen rullar", "text": "Med en bil till kortas väntetiden till ungefär tio dagar under våren.", "tagg": "people"},
+    {"rubrik": "Mäklarnas snabbslipning", "text": "Tre mäklarbyråer i Karlstad bokar nu nyslipat golv inför fotografering som en del av sitt säljpaket.", "tagg": "bostad"}
+  ],
+  "nyckeltal": [
+    {"varde": "249", "enhet": "kr/kvm", "etikett": "Slipning och lack efter ROT"},
+    {"varde": "9 000", "enhet": "kvm", "etikett": "Slipat golv per år"},
+    {"varde": "10", "enhet": "dagar", "etikett": "Normal väntetid"},
+    {"varde": "5", "enhet": "slipare", "etikett": "Inga säljare"}
+  ],
+  "projekt": [
+    {"namn": "Lägenhet på Våxnäs", "ort": "Karlstad", "typ": "Slipning och lack", "ar": "2026", "text": "72 kvadratmeter ekparkett – klar på två dagar för 17 928 kronor efter ROT.", "tagg": "golv"},
+    {"namn": "Villa i Skoghall", "ort": "Hammarö", "typ": "Brädgolv och olja", "ar": "2025", "text": "Furugolv från 1950-talet med kittade springor och hårdvaxolja.", "tagg": "tra"},
+    {"namn": "Radhus i Kil", "ort": "Kil", "typ": "Vitpigmentering", "ar": "2025", "text": "Gulnad ekparkett blev ljus med pigmenterad lack och fick nya vita lister.", "tagg": "interior"},
+    {"namn": "Lägenhet inför försäljning", "ort": "Karlstad", "typ": "Snabbslipning", "ar": "2025", "text": "Bokad på måndag, slipad på torsdag och fotograferad på lördag.", "tagg": "bostad"},
+    {"namn": "Villa i Forshaga", "ort": "Forshaga", "typ": "Golv och trappa", "ar": "2024", "text": "110 kvadratmeter parkett och en trappa med 13 steg.", "tagg": "golv"},
+    {"namn": "Lägenhet i Haga", "ort": "Karlstad", "typ": "Slipning och lack", "ar": "2026", "text": "Bokad för vecka 48.", "tagg": "golv", "status": "Bokat"}
+  ],
+  "process": [
+    {"titel": "Räkna själv", "text": "Mät golvet, multiplicera med priset i prislistan och lägg till eventuella trappsteg.", "tagg": "golv"},
+    {"titel": "Boka vecka", "text": "Skicka bokningen med yta och önskad vecka. Vi bekräftar inom ett dygn.", "tagg": "people"},
+    {"titel": "Slipning", "text": "Två slipare kommer, täcker av och slipar i tre steg. Lack eller olja läggs samma dag.", "tagg": "golv"},
+    {"titel": "Faktura efter ROT", "text": "Du betalar först när golvet är klart, med ROT-avdraget redan avdraget.", "tagg": "interior"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Inga dolda tillägg",
+    "text": "Priset på hemsidan är det du betalar. Det enda som kan tillkomma är det som står i prislistan, och vi frågar alltid innan vi gör något extra. Om golvet inte kan slipas säger vi det och tar inget betalt för besöket.",
+    "mal": [["0 kr", "för besök om golvet inte går att slipa"], ["24 h", "till bekräftad bokning"], ["2 år", "garanti på lack och olja"]]
+  },
+  "karriar": {
+    "rubrik": "Slipare sökes till våren",
+    "text": "Vi behöver en slipare till inför vårsäsongen. Du behöver inte ha erfarenhet, men körkort B och att du trivs med fysiskt arbete.",
+    "jobb": [["Golvslipare", "Karlstad"]]
+  },
+  "kultur": "Fem personer, ingen chef på kontoret – alla slipar golv.",
+  "citat": {"text": "Folk vill veta vad det kostar innan de ringer. Så vi skrev priset på hemsidan. Det var hela affärsidén.", "namn": "Oskar Ahlgren", "roll": "Delägare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Jag räknade ut 17 928 kronor på hemsidan. Fakturan var på 17 928 kronor. Så ska det vara.", "namn": "Sara L.", "ort": "Våxnäs"},
+    {"text": "Bokade på måndagen, fotografering på lördagen. Golvet var torrt och huset såldes över utgångspris.", "namn": "Fredrik N.", "ort": "Karlstad"},
+    {"text": "De ringde och sa att två stavar var spruckna innan de bytte dem. Det kostade 250 kronor styck, precis som i prislistan.", "namn": "Gunilla A.", "ort": "Kil"}
+  ],
+  "faq": [
+    ["Vad ingår i priset per kvadratmeter?", "Avtäckning, slipning i tre steg, dammsugning och tre skikt lack eller två skikt olja. Flytt av tunga möbler och lister ingår inte."],
+    ["Är priset efter ROT?", "Ja. Priserna på hemsidan är efter 30 procents ROT-avdrag på arbetet. Utan ROT är priset för slipning och lack 339 kronor per kvadratmeter."],
+    ["Finns det en minsta debitering?", "Ja, 4 900 kronor efter ROT. Det motsvarar ungefär 20 kvadratmeter."],
+    ["Hur vet jag att golvet går att slipa?", "Skicka en bild på golvet vid en tröskel eller lyft en golvlist. Ser det tveksamt ut kommer vi och tittar utan kostnad."],
+    ["Måste vi flytta ut möblerna själva?", "Ja, rummen ska vara tömda. Vill du att vi flyttar möbler kostar det 650 kronor per timme."],
+    ["Hur länge ska golvet torka?", "Du kan gå på lackat golv efter åtta timmar i strumplästen och ställa tillbaka möbler efter ett dygn. Mattor efter en vecka."],
+    ["Tar ni uppdrag utanför Karlstad?", "Karlstad, Hammarö, Kil och Forshaga ingår. Grums, Molkom och Väse kostar 400 kronor extra i resa."]
+  ],
+  "priser": [
+    {"namn": "Slipning och olja", "pris": "239 kr", "enhet": "per kvm efter ROT", "text": "Tre slipsteg och två skikt hårdvaxolja.", "punkter": ["Täckning av lister och dörrar", "Tre slipsteg", "Två skikt hårdvaxolja", "Skötselråd och olja att bättra med"]},
+    {"namn": "Slipning och lack", "pris": "249 kr", "enhet": "per kvm efter ROT", "text": "Vårt vanligaste jobb – för parkett och brädgolv.", "punkter": ["Avtäckning och dammsugning", "Tre slipsteg", "Tre skikt vattenburen lack", "Två års garanti"], "utvald": true},
+    {"namn": "Ljust golv", "pris": "294 kr", "enhet": "per kvm efter ROT", "text": "Slipning med vitpigmenterad lack eller lut.", "punkter": ["Provyta före start", "Tre slipsteg", "Pigmentering och lack", "Två års garanti"]}
+  ],
+  "prislista": [["Slipning och lack", "249 kr/kvm"], ["Slipning och olja", "239 kr/kvm"], ["Vitpigmentering, tillägg", "45 kr/kvm"], ["Trappa, per steg", "390 kr/steg"], ["Byte av spräckt stav", "250 kr/st"], ["Kittning av springor", "35 kr/kvm"], ["Demontering och montering av lister", "28 kr/m"], ["Möbelflytt", "650 kr/tim"], ["Minsta debitering", "4 900 kr"]],
+  "certifikat": [
+    {"titel": "F-skatt och ROT", "text": "Godkända för F-skatt. Vi sköter ROT-ansökan hos Skatteverket åt dig.", "ikon": "dokument"},
+    {"titel": "Ansvarsförsäkring", "text": "Ansvars- och allriskförsäkring på 5 miljoner kronor.", "ikon": "skold"},
+    {"titel": "Dammfria maskiner", "text": "Slipmaskiner med dammavskiljning och H-klassade dammsugare.", "ikon": "vind"},
+    {"titel": "Två års garanti", "text": "Garanti på lack och olja vid normal skötsel.", "ikon": "las"}
+  ],
+  "kunder": ["Brf Våxnäsgården", "Brf Herrhagen", "Klarälvens Mäklarbyrå", "Hammarö Hyresbostäder", "Kils Fastighetsförvaltning", "Fastighetsbyrån Skoghall"],
+  "nyheter": [
+    ["2026-10-22", "249 kronor gäller även 2027", "Vi höjer inte priset nästa år.", "golv"],
+    ["2026-04-17", "Lack eller olja – vad passar ditt golv?", "Emil förklarar skillnaden på en minut.", "tra"],
+    ["2026-01-09", "Vårens veckor är öppna för bokning", "Mars och april brukar bli fullbokade i februari.", "golv"]
+  ],
+  "kontakt": {"adress": "Lamellgatan 6", "postnr": "652 21", "ort": "Karlstad", "telefon": "070-174 06 71", "epost": "boka@sliperiet.se", "orgnr": ""},
+  "oppettider": "Telefon mån–fre 7–17",
+  "omrade": "Karlstad, Hammarö, Kil och Forshaga",
+  "fot_cta": "Mät golvet, gånger 249, så vet du vad det kostar. Boka vecka här.",
+  "bild": {"panel": "golv", "hb": "golv"},
+  "text": {
+    "ber_rubrik": "Senaste slipningarna",
+    "proj_rubrik": "Golv och vad de kostade",
+    "process_rubrik": "Räkna, boka, slipa, betala",
+    "hb_etikett": "Vårt prislöfte",
+    "omdomen_rubrik": "Det blev som det stod",
+    "faq_rubrik": "Frågor om priset",
+    "priser_rubrik": "Priset per kvadratmeter",
+    "priser_utvald": "Vanligast",
+    "priser_not": "Priser inklusive moms efter 30 % ROT-avdrag på arbetet. Minsta debitering 4 900 kr.",
+    "boka_rubrik": "Boka vecka",
+    "boka_text": "Skriv hur många kvadratmeter och vilken vecka du önskar, så bekräftar vi inom ett dygn.",
+    "boka_falt": ["Namn", "Telefon", "Adress", "Antal kvm och önskad vecka"],
+    "logos_rubrik": "Föreningar och mäklare som bokar",
+    "certifikat_rubrik": "Enkelt, försäkrat och med garanti",
+    "bolag_rubrik": "Fem slipare, inga säljare",
+    "kontakt_knapp": "Boka slipning",
+    "hero_knapp": "Se prislistan",
+    "status_pagaende": "Bokat",
+    "status_klart": "Slipat",
+    "medarbetare": "Sliparna"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "profil": "nisch",
+  "nisch": "rivning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Rönnqvist Miljösanering AB",
+  "kortnamn": "Rönnqvist Miljö",
+  "slug": "ronnqvist-miljo",
+  "typ": "Miljöinventering och PCB-sanering i Örebro",
+  "tagline": "Miljögifter före rivning",
+  "slogan": "Vi hittar och tar bort PCB, asbest och kvicksilver i fastigheter i Mellansverige – innan någon börjar riva.",
+  "hero_rubrik": "Vi hittar giftet innan rivaren gör det",
+  "hero_text": "Miljöinventering, PCB-sanering och asbestsanering för kommuner, allmännyttan och industrin. Kemiingenjörer och sanerare i samma bolag sedan 2001.",
+  "intro_rubrik": "Miljögifter i siffror och analyssvar",
+  "om": [
+    "Kemiingenjören Lars Rönnqvist startade företaget 2001, när PCB-inventeringen av fastigheter byggda 1956–1973 tog fart. I dag är vi 32 anställda, varav sex miljöinventerare, och vi har sanerat PCB-fogar i drygt 11 000 lägenheter i Örebro, Västmanland och Värmland.",
+    "Det som skiljer oss från ett vanligt rivningsföretag är att vi börjar med kemin. Varje inventering bygger på laboratorieanalyser, och varje sanering avslutas med kontrollprov som visar att halterna ligger under Naturvårdsverkets riktvärden."
+  ],
+  "vagval_rubrik": "Vilket miljögift letar ni efter?",
+  "tjanster": [
+    {"titel": "Miljöinventering", "ikon": "sok", "href": "verksamhet.html", "text": "Farligt avfall kartläggs inför rivning eller ombyggnad, med provsvar och mängder."},
+    {"titel": "PCB-sanering", "ikon": "skold", "href": "verksamhet.html", "text": "Fogmassor, golvmassor och isolerglas från 1956–1973."},
+    {"titel": "Asbestsanering", "ikon": "las", "href": "verksamhet.html", "text": "Rörisolering, mattor och fasadskivor med eget tillstånd."},
+    {"titel": "Kvicksilver", "ikon": "vatten", "href": "verksamhet.html", "text": "Avloppsrör i tandvårdskliniker, laboratorier och skolor."},
+    {"titel": "Tungmetaller i mark", "ikon": "sten", "href": "verksamhet.html", "text": "Provtagning och schakt av förorenad jord vid industritomter."},
+    {"titel": "Kontrollprov", "ikon": "graf", "href": "hallbarhet.html", "text": "Analyser efter sanering som bevis till miljöförvaltningen."},
+    {"titel": "Referenser", "ikon": "skola", "href": "projekt.html", "text": "Skolor, bostadsområden och industrier i Mellansverige."},
+    {"titel": "Begär inventering", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Offert på inventering inom tre arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Miljöinventering", "text": "Före rivningslov kräver byggnadsnämnden en inventering av farligt avfall. Våra inventerare går igenom byggnaden, tar prov och redovisar var giftet sitter och hur mycket det är.", "text2": "Rapporten är upphandlingsbar: rivningsentreprenören kan räkna direkt på våra mängder och kartor.", "tagg": "kontor"},
+    {"titel": "PCB-sanering", "text": "PCB användes i fogmassor och golvmassor i hus byggda eller renoverade mellan 1956 och 1973. Vi fräser ut fogarna, sanerar anslutande betong och fogar om med PCB-fri massa.", "text2": "Arbetet görs fasad för fasad med de boende kvar, ofta med ett trapphus i veckan.", "tagg": "bostad"},
+    {"titel": "Asbest och kvicksilver", "text": "Asbest i rörisolering och golvmattor saneras med undertryck och sluss. Kvicksilverhaltiga avloppsrör i tandvårdskliniker och laboratorier byts ut och skickas till destruktion.", "text2": "Kvicksilver kan finnas kvar i gamla avlopp långt efter att kliniken stängt – därför provtar vi även i lokaler som byggts om.", "tagg": "rivning"},
+    {"titel": "Förorenad mark", "text": "Vid industritomter och verkstäder tar vi jordprover, gör en avgränsning och schaktar bort förorenad jord. Massorna klassas och körs till rätt mottagare.", "text2": "Vi lämnar en slutrapport som miljöförvaltningen kan använda för att stänga ärendet.", "tagg": "mark"}
+  ],
+  "bolag": [
+    {"namn": "Inventering & Analys", "segment": "6 miljöinventerare", "rubrik": "Kemi före rivning", "text": "Kemiingenjörer och miljövetare som provtar, tolkar analyssvar och skriver inventeringsrapporter.", "tagg": "kontor"},
+    {"namn": "PCB & Fog", "segment": "12 sanerare", "rubrik": "Fasad för fasad", "text": "Fräser, sanerar och fogar om i bostadsområden, skolor och industrier från 1956–1973.", "tagg": "bostad"},
+    {"namn": "Asbest & Kvicksilver", "segment": "9 sanerare", "rubrik": "Inbyggda zoner", "text": "Sanerar asbest och kvicksilver i undertryckszon, med eget tillstånd för transport av farligt avfall.", "tagg": "rivning"},
+    {"namn": "Mark", "segment": "5 maskinförare och provtagare", "rubrik": "Jordprover och schakt", "text": "Avgränsar och schaktar förorenad mark vid gamla industritomter och bensinstationer.", "tagg": "mark"}
+  ],
+  "berattelser": [
+    {"rubrik": "Sista fasaden i Rynninge", "text": "Efter fyra år är 1 140 lägenheter PCB-sanerade – kontrollproven visar halter under riktvärdet i alla.", "tagg": "bostad"},
+    {"rubrik": "Kvicksilver i en stängd klinik", "text": "Tolv år efter att tandvården flyttat hittade vi 340 gram kvicksilver i avloppsstammen.", "tagg": "rivning"},
+    {"rubrik": "Två nya inventerare", "text": "Inventeringsgruppen växer till sex personer för att möta efterfrågan inför rivningslov.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "11 000+", "enhet": "lgh", "etikett": "PCB-sanerade lägenheter"},
+    {"varde": "2 600", "enhet": "", "etikett": "Laboratorieprov per år"},
+    {"varde": "32", "enhet": "", "etikett": "Medarbetare, varav 6 inventerare"},
+    {"varde": "2001", "enhet": "", "etikett": "Grundat i Örebro"}
+  ],
+  "projekt": [
+    {"namn": "Bostadsområdet i Rynninge", "ort": "Örebro", "typ": "PCB-sanering av fogar", "ar": "2026", "text": "1 140 lägenheter i 38 huskroppar sanerade på fyra år med de boende kvar.", "tagg": "bostad"},
+    {"namn": "Tandvårdskliniken på Drottninggatan", "ort": "Örebro", "typ": "Kvicksilversanering", "ar": "2025", "text": "340 gram kvicksilver i avloppsstammen sanerat inför ombyggnad till kontor.", "tagg": "rivning"},
+    {"namn": "Kumla Kommunfastigheter", "ort": "Kumla", "typ": "Miljöinventering", "ar": "2025", "text": "Inventering av tre skolor inför rivning – 4,2 ton PCB-haltigt material kartlagt.", "tagg": "kontor"},
+    {"namn": "Gamla verkstaden vid hamnen", "ort": "Karlskoga", "typ": "Förorenad mark", "ar": "2025", "text": "1 900 ton oljeförorenad jord schaktad och klassad vid en nedlagd mekanisk verkstad.", "tagg": "mark"},
+    {"namn": "Hallsbergs Skolfastigheter", "ort": "Hallsberg", "typ": "Asbestsanering", "ar": "2024", "text": "Asbestmattor och rörisolering i en skola från 1964, sanerade under sommarlovet.", "tagg": "rivning"},
+    {"namn": "Lindeskogs Bostäder", "ort": "Lindesberg", "typ": "PCB-sanering", "ar": "2026", "text": "Fogsanering av 220 lägenheter pågår, två trapphus i veckan.", "tagg": "bostad", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Inventering", "text": "Våra inventerare går igenom byggnaden och tar prov på fogar, mattor, isolering och färg.", "tagg": "kontor"},
+    {"titel": "Analys", "text": "Proverna analyseras av ackrediterat laboratorium. Svaren och mängderna redovisas i en rapport.", "tagg": "kontor"},
+    {"titel": "Sanering", "text": "Saneringslagen tar bort miljögifterna med undertryck, fräsning eller schakt.", "tagg": "rivning"},
+    {"titel": "Kontrollprov", "text": "Nya prov visar att halterna ligger under riktvärdena. Rapporten skickas till miljöförvaltningen.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Bevisat sanerat, inte bara utfört",
+    "text": "En sanering är inte klar förrän kontrollproven visar det. Därför tar vi kontrollprov på varje uppdrag och redovisar analyssvaren öppet för beställaren och miljöförvaltningen.",
+    "mal": [["100 %", "av saneringarna avslutas med kontrollprov"], ["38 t", "PCB-haltigt material till destruktion 2025"], ["3 dagar", "till offert på miljöinventering"]]
+  },
+  "karriar": {"rubrik": "Kemi som gör skillnad", "text": "Vi söker både miljöinventerare med naturvetenskaplig utbildning och sanerare med hantverksbakgrund. Hos oss arbetar de i samma lag.", "jobb": [["Miljöinventerare", "Örebro"], ["PCB-sanerare", "Örebro"], ["Projektledare sanering", "Västerås"]]},
+  "kultur": "Inventerare och sanerare äter lunch tillsammans – det är där de bästa frågorna om analyssvaren ställs.",
+  "citat": {"text": "Ett giftigt ämne som ingen vet om är farligare än ett vi har hittat. Därför börjar vi alltid med att mäta.", "namn": "Lars Rönnqvist", "roll": "Grundare och kemiingenjör", "tagg": "people"},
+  "omdomen": [
+    {"text": "Inventeringen var så tydlig att rivningsanbuden landade inom tre procent av varandra. Det har vi aldrig varit med om tidigare.", "namn": "Marie J.", "ort": "Kumla"},
+    {"text": "Fyra år med PCB-sanering och kontrollprov på varje fasad. Vi har en pärm med analyssvar som miljöförvaltningen godkände utan frågor.", "namn": "Bo L.", "ort": "Örebro"},
+    {"text": "De hittade kvicksilver i en lokal vi trodde var sanerad sedan länge. Det hade kunnat bli väldigt dyrt efter ombyggnaden.", "namn": "Niklas A.", "ort": "Örebro"}
+  ],
+  "faq": [
+    ["Vilka hus kan innehålla PCB?", "Hus som byggts eller renoverats mellan 1956 och 1973 kan ha PCB i fogmassor, golvmassor och isolerglas. Ägaren ansvarar för att inventera och sanera."],
+    ["Måste man inventera före rivning?", "Ja. Byggnadsnämnden kräver en inventering av farligt avfall och material i samband med rivningslov eller rivningsanmälan."],
+    ["Kan de boende bo kvar under PCB-sanering?", "Ja. Vi sanerar utifrån med ställning och väderskydd, och fönster och balkongdörrar tejpas under arbetet."],
+    ["Hur vet ni att det är sanerat?", "Vi tar kontrollprov efter saneringen. Halterna jämförs med Naturvårdsverkets riktvärden och redovisas i slutrapporten."],
+    ["Var hamnar det farliga avfallet?", "PCB och kvicksilver går till destruktion vid godkänd anläggning, asbest till deponi. Vi kör själva med Länsstyrelsens tillstånd."],
+    ["Tar ni uppdrag utanför Örebro län?", "Ja, i hela Mellansverige. Vi har en projektledare stationerad i Västerås och arbetar regelbundet i Värmland och Västmanland."],
+    ["Kan ni inventera utan att vi river?", "Ja. Provtagningen gör bara små ingrepp, och hålen lagas direkt."]
+  ],
+  "certifikat": [
+    {"titel": "Asbesttillstånd", "text": "Arbetsmiljöverkets tillstånd för asbestsanering och medicinska kontroller för alla sanerare.", "ikon": "skold"},
+    {"titel": "Transport av farligt avfall", "text": "Länsstyrelsen Örebro läns tillstånd för yrkesmässig transport av PCB, asbest och kvicksilver.", "ikon": "bil"},
+    {"titel": "Ackrediterade analyser", "text": "Alla prov analyseras av laboratorier ackrediterade av Swedac.", "ikon": "sok"},
+    {"titel": "ISO 14001 och 45001", "text": "Certifierat ledningssystem för miljö och arbetsmiljö sedan 2014.", "ikon": "dokument"}
+  ],
+  "kunder": ["Brf Adolfsberg Norra", "Bergslagens Allmännyttiga", "Kumla Kommunfastigheter", "Hallsbergs Skolfastigheter", "Lindeskogs Bostäder", "Närkes Kraftvärme", "Karlskoga Industripark"],
+  "kunder_rubrik": "Kommuner, allmännytta och industri",
+  "nyheter": [
+    ["2026-09-24", "Rynninge är PCB-sanerat", "1 140 lägenheter och 38 huskroppar – alla kontrollprov under riktvärdet.", "bostad"],
+    ["2026-05-06", "Kvicksilver tolv år efteråt", "Varför stängda tandvårdskliniker ska provtas innan de byggs om.", "rivning"],
+    ["2025-11-18", "Inventeringsgruppen växer", "Två nya miljöinventerare ger kortare väntetid inför rivningslov.", "people"]
+  ],
+  "kontakt": {"adress": "Bettorpsgatan 15", "postnr": "703 69", "ort": "Örebro", "telefon": "070-174 06 55", "epost": "info@ronnqvistmiljo.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Örebro län, Västmanland och östra Värmland",
+  "fot_cta": "Ska ni riva eller bygga om ett hus från 1956–1973? Börja med en miljöinventering.",
+  "bild": {"hb": "bostad", "panel": "people"},
+  "text": {
+    "hero_knapp": "Vad vi sanerar",
+    "vagval_etikett": "Ämnen",
+    "ber_etikett": "Analyssvar och avslut",
+    "ber_rubrik": "Senast sanerat och kontrollprovat",
+    "proj_rubrik": "Fastigheter vi har gjort giftfria",
+    "process_etikett": "Prov, analys, sanering, kontroll",
+    "process_rubrik": "Kemin först, sedan saneringen",
+    "hb_etikett": "Kontrollprov",
+    "omdomen_rubrik": "Beställare om våra rapporter",
+    "faq_rubrik": "PCB, asbest och kvicksilver",
+    "certifikat_rubrik": "Tillstånd för farligt avfall",
+    "logos_rubrik": "Uppdragsgivare i Mellansverige",
+    "boka_rubrik": "Begär en miljöinventering",
+    "boka_text": "Ange byggår, yta och vad som ska göras med byggnaden. Vi skickar offert inom tre arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Fastighet, byggår och yta"],
+    "panel_etikett": "Karriär"
+  }
+}

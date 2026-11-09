@@ -1,0 +1,457 @@
+{
+  "profil": "arborist",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Lindgårdens Trädvård",
+  "kortnamn": "Lindgården",
+  "slug": "lindgarden",
+  "typ": "Fruktträd och trädgårdar på Gotland",
+  "tagline": "Äppelträd, ängar, lindar",
+  "slogan": "Vi beskär gotländska äppelträd, hamlar ängslindar och tar hand om sommarhusets träd medan du är på fastlandet.",
+  "hero_rubrik": "Vi beskär äppelträd som planterades 1920",
+  "hero_text": "Tre arborister på en kalkstensgård i Roma. Fruktträdsbeskärning, hamling, fällning och häckar – från Fårö i norr till Hoburgen i söder.",
+  "intro_rubrik": "Ön har sin egen trädvård",
+  "om": [
+    "Lindgården är en kalkstensgård från 1840-talet utanför Roma, där Anna och Erik Lindvall bor och har sin verkstad sedan 2013. Anna är utbildad trädgårdsmästare och arborist och har specialiserat sig på gamla fruktträd. Erik klättrar och sköter de större fällningarna.",
+    "Gotland har tusentals gamla äppelträd på gårdar och i Visbys innerstad, många av sorter som inte finns i handeln längre. Ön har också ängen, där askar och lindar har hamlats i hundratals år. Det är träd som kräver kunskap om just den här ön: kalkmarken, torkan och de långa höstarna."
+  ],
+  "vagval_rubrik": "Vilka träd har du?",
+  "tjanster": [
+    {
+      "titel": "Fruktträdsbeskärning",
+      "ikon": "sax",
+      "href": "verksamhet.html",
+      "text": "Vinter- och sommarbeskärning av äpple, päron och plommon."
+    },
+    {
+      "titel": "Föryngring av gamla träd",
+      "ikon": "hjarta",
+      "href": "verksamhet.html",
+      "text": "Vanvårdade fruktträd får tillbaka formen över tre vintrar."
+    },
+    {
+      "titel": "Hamling i ängen",
+      "ikon": "skog",
+      "href": "verksamhet.html",
+      "text": "Ask, lind och alm hamlas i samma cykel som på gotländska ängen."
+    },
+    {
+      "titel": "Fällning vid murar",
+      "ikon": "trad",
+      "href": "verksamhet.html",
+      "text": "Tallar och lövträd som står för nära stenmurar och hus."
+    },
+    {
+      "titel": "Häckar och murar",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Syrénhäckar och murgröna vid kalkstensmurar i Visby."
+    },
+    {
+      "titel": "Sommarhusservice",
+      "ikon": "nyckel",
+      "href": "verksamhet.html",
+      "text": "Vi sköter träden hela året och skickar bilder till fastlandet."
+    },
+    {
+      "titel": "Pris per träd",
+      "ikon": "dokument",
+      "href": "priser.html",
+      "text": "Fasta priser per träd och säsongsavtal."
+    },
+    {
+      "titel": "Hör av dig",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Vinterbeskärningen bokas från oktober."
+    }
+  ],
+  "affarsomraden": [
+    {
+      "titel": "Gamla fruktträd",
+      "text": "Ett äppelträd som inte beskurits på trettio år har ofta en tät krona full av vattenskott och dött trä. Vi tar bort högst en tredjedel per vinter och formar en öppen krona som släpper in ljus.",
+      "text2": "Efter tredje vintern brukar trädet bära jämnt igen.",
+      "tagg": "tradgard"
+    },
+    {
+      "titel": "Ängen och hamlingsträd",
+      "text": "Hamlade askar och lindar i ängen beskars förr vart femte år för lövfoder. När hamlingen upphör blir grenarna för tunga och träden spricker.",
+      "text2": "Vi återupptar hamlingen stegvis och arbetar ofta med stöd från länsstyrelsens landsbygdsprogram.",
+      "tagg": "trad"
+    },
+    {
+      "titel": "Visby innerstad",
+      "text": "Innanför ringmuren står träden på små gårdar mellan hus från 1700-talet. Allt bärs ut för hand genom smala gränder och portar.",
+      "text2": "Inom världsarvet krävs ofta samråd med kommunen innan fällning.",
+      "tagg": "arborist"
+    },
+    {
+      "titel": "Sommarhus året runt",
+      "text": "Många av våra kunder är på Gotland i juli och resten av året i Stockholm. Vi gör vinterbeskärningen, fäller stormskadat och klipper häckarna i maj, och du får bilder efter varje besök.",
+      "text2": "Nyckeln förvaras i låst skåp på gården i Roma.",
+      "tagg": "ved"
+    }
+  ],
+  "bolag": [
+    {
+      "namn": "Anna Lindvall",
+      "segment": "Arborist och trädgårdsmästare",
+      "rubrik": "Har beskurit 2 000 fruktträd",
+      "text": "Anna är ETW-certifierad och lär sig gärna nya gamla äppelsorter av gårdsägarna.",
+      "tagg": "tradgard"
+    },
+    {
+      "namn": "Erik Lindvall",
+      "segment": "Klättrande arborist",
+      "rubrik": "Fällningar och hamling",
+      "text": "Erik har Svensk Arboristexamen och sköter klättring, fällning och de högsta hamlingsträden.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Jakob Rondahl",
+      "segment": "Arborist, säsong",
+      "rubrik": "Från Burgsvik",
+      "text": "Jakob jobbar med oss oktober–april och är fårbonde på sommaren.",
+      "tagg": "trad"
+    }
+  ],
+  "berattelser": [
+    {
+      "rubrik": "Prästgårdens äppelträd i Väte",
+      "text": "Tolv träd planterade på 1920-talet, nu på andra vintern av tre.",
+      "tagg": "tradgard"
+    },
+    {
+      "rubrik": "Hamling i Mästermyr",
+      "text": "Arton askar som inte hamlats sedan 1950-talet beskurna försiktigt för första gången.",
+      "tagg": "trad"
+    },
+    {
+      "rubrik": "Gårdsträd innanför ringmuren",
+      "text": "En lönn på en innergård vid Strandgatan togs ned och bars ut genom en port på 90 cm.",
+      "tagg": "arborist"
+    }
+  ],
+  "nyckeltal": [
+    {
+      "varde": "2 000+",
+      "enhet": "",
+      "etikett": "Fruktträd beskurna"
+    },
+    {
+      "varde": "3",
+      "enhet": "vintrar",
+      "etikett": "För att föryngra ett träd"
+    },
+    {
+      "varde": "40",
+      "enhet": "äppelsorter",
+      "etikett": "Som vi har identifierat"
+    },
+    {
+      "varde": "3",
+      "enhet": "arborister",
+      "etikett": "Fårö till Hoburgen"
+    }
+  ],
+  "projekt": [
+    {
+      "namn": "Prästgården",
+      "ort": "Väte",
+      "typ": "Föryngring av äppelträd",
+      "ar": "2026",
+      "text": "Andra vintern av tre för tolv gamla träd.",
+      "tagg": "tradgard"
+    },
+    {
+      "namn": "Ängen vid Mästermyr",
+      "ort": "Mästermyr",
+      "typ": "Hamling",
+      "ar": "2026",
+      "text": "Arton askar beskurna med stöd från landsbygdsprogrammet.",
+      "tagg": "trad"
+    },
+    {
+      "namn": "Innergård vid Strandgatan",
+      "ort": "Visby",
+      "typ": "Fällning",
+      "ar": "2025",
+      "text": "En lönn nedtagen i små sektioner och utburen för hand.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Sommarhus i Ljugarn",
+      "ort": "Ljugarn",
+      "typ": "Sommarhusservice",
+      "ar": "2025",
+      "text": "Tallar toppade, häckar klippta och bilder skickade till ägarna i Uppsala.",
+      "tagg": "ved"
+    },
+    {
+      "namn": "Gårdsträdgård i När",
+      "ort": "När",
+      "typ": "Fruktträdsbeskärning",
+      "ar": "2025",
+      "text": "Sommarbeskärning av 22 träd med sorter som Gyllenkroks astrakan.",
+      "tagg": "tradgard"
+    },
+    {
+      "namn": "Kalkstensgård på Fårö",
+      "ort": "Fårö",
+      "typ": "Vinterbeskärning",
+      "ar": "2027",
+      "text": "Bokad för februari, sju äppelträd och en gammal päronstam.",
+      "tagg": "trad",
+      "status": "Bokat"
+    }
+  ],
+  "process": [
+    {
+      "titel": "Vi går runt i trädgården",
+      "text": "Anna tittar på varje träd, frågar om sorterna och berättar vad som är möjligt på en, två och tre vintrar.",
+      "tagg": "tradgard"
+    },
+    {
+      "titel": "Plan och pris",
+      "text": "Du får en plan per träd med fast pris per vinter, så att du kan sprida kostnaden över åren.",
+      "tagg": "arborist"
+    },
+    {
+      "titel": "Beskärning i rätt tid",
+      "text": "Äpple och päron beskär vi februari–mars, körsbär och plommon i augusti för att undvika svampangrepp.",
+      "tagg": "trad"
+    },
+    {
+      "titel": "Bilder och uppföljning",
+      "text": "Efter varje besök får du före- och efterbilder. Nästa vinter ser vi hur träden har svarat.",
+      "tagg": "ved"
+    }
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett gammalt äppelträd är en genbank",
+    "text": "Många gotländska gårdar har sorter som bara finns i några få exemplar. Vi tar ympris från träd som måste fällas och lämnar dem till Gotlands pomologiska förening, och riset blir flis på gårdens rabatter.",
+    "mal": [
+      [
+        "40",
+        "lokala äppelsorter dokumenterade"
+      ],
+      [
+        "100 %",
+        "av riset blir flis eller kompost"
+      ],
+      [
+        "1 av 1",
+        "fällda fruktträd ersätts med ny ympning"
+      ]
+    ]
+  },
+  "karriar": {
+    "rubrik": "Första besöket i trädgården",
+    "text": "Vi kommer ut en förmiddag, går igenom alla träd med dig och skriver ned en plan. Besöket kostar 600 kr och dras av från första beskärningen.",
+    "jobb": []
+  },
+  "kultur": "Vi skriver alltid upp vilken sort ett träd är när vi vet det, och frågar gårdsägaren när vi inte vet.",
+  "citat": {
+    "text": "Ett äppelträd som har stått i hundra år på en gotländsk gård har klarat torka, storm och glömska. Det förtjänar några vintrar med omsorg.",
+    "namn": "Anna Lindvall",
+    "roll": "Grundare",
+    "tagg": "tradgard"
+  },
+  "omdomen": [
+    {
+      "text": "Våra träd hade inte burit på tio år. Efter Annas andra vinter fick vi fyra lådor Säfstaholm.",
+      "namn": "Birgitta H.",
+      "ort": "Väte"
+    },
+    {
+      "text": "Vi bor i Uppsala och kommer i juli. Lindgården har skött allt annat, och bilderna kommer alltid samma dag.",
+      "namn": "Per och Lotta S.",
+      "ort": "Ljugarn"
+    },
+    {
+      "text": "Erik bar ut hela lönnen för hand genom vår port. Grannarna förstod inte hur det gick till.",
+      "namn": "Margareta W.",
+      "ort": "Visby"
+    }
+  ],
+  "faq": [
+    [
+      "När ska äppelträd beskäras?",
+      "Från februari till början av april, när det inte är sträng kyla. Stenfrukt som körsbär och plommon beskärs i augusti."
+    ],
+    [
+      "Kan ett gammalt träd räddas?",
+      "Oftast. Även ihåliga äppelträd kan bära i många år om kronan görs lättare. Vi säger ärligt till när det inte går."
+    ],
+    [
+      "Får jag RUT-avdrag?",
+      "Ja, för arbetet i din trädgård på Gotland, även för fritidshus. Avdraget görs direkt på fakturan."
+    ],
+    [
+      "Får man fälla träd i Visby innerstad?",
+      "Inom världsarvet krävs ofta marklov eller samråd med Region Gotland. Vi hjälper dig med ansökan."
+    ],
+    [
+      "Kan ni identifiera mina äppelsorter?",
+      "Ofta, med hjälp av frukten i september. Svåra fall skickar vi vidare till pomologiska föreningen."
+    ],
+    [
+      "Åker ni till Fårö och Gotska sandön?",
+      "Fårö ja, med färjetillägg. Gotska sandön tyvärr inte."
+    ]
+  ],
+  "priser": [
+    {
+      "namn": "Fruktträd, vinterbeskärning",
+      "pris": "1 200 kr",
+      "enhet": "per träd före RUT",
+      "text": "För träd som beskurits de senaste fem åren.",
+      "punkter": [
+        "Gallring och formbeskärning",
+        "Borttagning av vattenskott",
+        "Riset flisas eller tas med",
+        "Råd om sorten och skötseln"
+      ]
+    },
+    {
+      "namn": "Föryngring, tre vintrar",
+      "pris": "fr. 2 400 kr",
+      "enhet": "per träd och vinter före RUT",
+      "text": "För vanvårdade gamla fruktträd.",
+      "punkter": [
+        "Plan för alla tre vintrar",
+        "Högst en tredjedel per år",
+        "Före- och efterbilder",
+        "Uppföljning i september"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Fällning nära mur och hus",
+      "pris": "5 200 kr",
+      "enhet": "per träd före RUT",
+      "text": "Tall eller lövträd nära hus och murar.",
+      "punkter": [
+        "Sektionsfällning vid behov",
+        "Skydd av kalkstensmurar",
+        "Flisning av ris",
+        "Stammen kapad i ved"
+      ]
+    }
+  ],
+  "prislista": [
+    [
+      "Arborist, timpris",
+      "650 kr/tim"
+    ],
+    [
+      "Första besöket med plan",
+      "600 kr"
+    ],
+    [
+      "Hamling av ask eller lind",
+      "fr. 1 800 kr/träd"
+    ],
+    [
+      "Häckklippning, syrén",
+      "fr. 55 kr/löpmeter"
+    ],
+    [
+      "Sommarhusservice, helår",
+      "fr. 3 900 kr"
+    ],
+    [
+      "Stubbfräsning",
+      "950 kr"
+    ],
+    [
+      "Ympning av ny stam från gammalt träd",
+      "450 kr"
+    ],
+    [
+      "Tillägg Fårö inkl. färja",
+      "500 kr"
+    ]
+  ],
+  "certifikat": [
+    {
+      "titel": "European Tree Worker",
+      "text": "Anna är ETW-certifierad sedan 2017.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Svensk Arboristexamen",
+      "text": "Erik och Jakob har arboristexamen och motorsågskörkort AB.",
+      "ikon": "trad"
+    },
+    {
+      "titel": "Trädgårdsmästare",
+      "text": "Anna är utbildad trädgårdsmästare med inriktning på fruktodling.",
+      "ikon": "lov"
+    },
+    {
+      "titel": "Ansvarsförsäkring 5 Mkr",
+      "text": "Gäller även för skador på kalkstensmurar och kulturbyggnader.",
+      "ikon": "las"
+    }
+  ],
+  "galleri_taggar": [
+    "tradgard",
+    "trad",
+    "arborist",
+    "ved"
+  ],
+  "nyheter": [
+    [
+      "2026-10-01",
+      "Vinterbeskärningen bokas nu",
+      "Februari och mars fylls först. Hör av dig före jul.",
+      "tradgard"
+    ],
+    [
+      "2026-08-15",
+      "Augusti är körsbärsmånad",
+      "Därför beskär vi stenfrukt nu och inte på vintern.",
+      "trad"
+    ],
+    [
+      "2026-03-04",
+      "Tio gotländska äppelsorter vi hittat",
+      "Från Gotlands gyllenäpple till okända sorter på gårdar i Garde.",
+      "tradgard"
+    ]
+  ],
+  "kontakt": {
+    "adress": "Björke Lindgården 318",
+    "postnr": "622 54",
+    "ort": "Romakloster",
+    "telefon": "070-174 06 86",
+    "epost": "anna@lindgardenstradvard.se",
+    "orgnr": ""
+  },
+  "oppettider": "Mån–fre 8–16, okt–apr även lördagar",
+  "omrade": "Hela Gotland, inklusive Fårö",
+  "fot_cta": "Har du ett gammalt äppelträd som slutat bära? Anna kommer ut och tittar.",
+  "bild": {
+    "panel": "tradgard",
+    "hb": "trad",
+    "om": "tradgard"
+  },
+  "text": {
+    "kontakt_knapp": "Boka besök",
+    "hero_knapp": "Vad vi gör",
+    "ber_rubrik": "Den här vintern på ön",
+    "proj_rubrik": "Trädgårdar från Fårö till När",
+    "process_rubrik": "Ett träd, tre vintrar",
+    "hb_etikett": "Gamla sorter",
+    "omdomen_rubrik": "Gårdsägare och sommargäster",
+    "faq_rubrik": "Frågor om fruktträd och ön",
+    "priser_rubrik": "Pris per träd och vinter",
+    "galleri_rubrik": "Äppelträd, ängar och kalksten",
+    "boka_rubrik": "Berätta om din trädgård",
+    "boka_text": "Hur många träd, vilka sorter om du vet, och var på ön. Vi ringer upp och bokar ett besök.",
+    "bolag_rubrik": "Tre arborister på Lindgården",
+    "panel_etikett": "Innan vi börjar",
+    "certifikat_rubrik": "Arborister med trädgårdsutbildning",
+    "sida_bolag_ingress": "Två arborister året runt och en kollega under beskärningssäsongen."
+  }
+}

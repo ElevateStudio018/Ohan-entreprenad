@@ -1,0 +1,147 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Isberg Engineering AB (publ)",
+  "kortnamn": "Isberg",
+  "slug": "isberg",
+  "typ": "Teknikkonsult för industrin, Göteborg",
+  "tagline": "Ingenjörer för industrin",
+  "slogan": "Isberg utvecklar produkter, fabriker och automation åt fordons-, marin- och processindustrin – med 8 100 ingenjörer i nio länder.",
+  "hero_rubrik": "Ingenjörerna bakom det som rör sig",
+  "hero_text": "Lastbilar, fartyg, pappersmaskiner och batterifabriker. Vi konstruerar, simulerar och driftsätter – från första skissen till fabrikens första skift.",
+  "intro_rubrik": "Född på varvet, vuxen i fabriken",
+  "om": [
+    "Ingrid och Bertil Isberg startade en ritbyrå för fartygskonstruktion vid Eriksbergs varv 1969. När varven lades ned tio år senare följde ingenjörerna med till bil- och lastbilsindustrin, och Isberg blev en av Sveriges största konsulter inom produktutveckling.",
+    "I dag arbetar 8 100 medarbetare i Sverige, Norge, Finland, Tyskland, Polen, Tjeckien, Indien, USA och Kina, och koncernen omsätter 11,6 miljarder kronor. Vi bygger inte hus eller vägar – vi konstruerar det som tillverkas i fabrikerna och fabrikerna själva."
+  ],
+  "vagval_rubrik": "Vilket ingenjörsproblem har ni?",
+  "tjanster": [
+    {"titel": "Produktutveckling", "ikon": "ritning", "href": "verksamhet.html", "text": "Mekanik, el och mjukvara för fordon, maskiner och medicinteknik."},
+    {"titel": "Fordonsteknik", "ikon": "bil", "href": "verksamhet.html", "text": "Chassi, drivlina och batterisystem för lastbilar och bussar."},
+    {"titel": "Marinteknik", "ikon": "bat", "href": "verksamhet.html", "text": "Fartygsdesign, framdrivning och elektrifiering av färjor."},
+    {"titel": "Fabriksdesign", "ikon": "fabrik", "href": "verksamhet.html", "text": "Layout, processer och installationer för nya fabriker."},
+    {"titel": "Automation", "ikon": "robot", "href": "verksamhet.html", "text": "Styrsystem, robotceller och driftsättning av produktionslinjer."},
+    {"titel": "Simulering och test", "ikon": "kugge", "href": "verksamhet.html", "text": "Hållfasthet, CFD och provning i egna labb i Göteborg och München."},
+    {"titel": "Ingenjörsjobb", "ikon": "folk", "href": "karriar.html", "text": "Konstruktörer, systemingenjörer och automationsingenjörer."},
+    {"titel": "Investerare", "ikon": "graf", "href": "investerare.html", "text": "Kurs och rapporter för ISBG B."}
+  ],
+  "affarsomraden": [
+    {"titel": "Product Development", "text": "Vi tar ansvar för hela delsystem – från kravspecifikation till godkänd prototyp. Kunderna är fordonstillverkare, maskinbyggare och medicinteknikföretag.", "text2": "Området står för 44 procent av omsättningen och är störst i Göteborg, München och Pune.", "tagg": "kontor"},
+    {"titel": "Marine", "text": "Fartygskonstruktion och elektrifiering av färjor, arbetsfartyg och marina system. Här finns arvet från Eriksberg kvar i varje ritning.", "text2": "Isberg har designat 34 batteridrivna färjor sedan 2016.", "tagg": "anlaggning"},
+    {"titel": "Industrial Plants", "text": "Fabriksprojektering för batteri-, stål-, massa- och läkemedelsindustri. Vi kan leda hela projektet som EPCM-konsult åt kunden.", "text2": "Sju av Nordens tio största fabriksinvesteringar sedan 2020 har haft Isberg i projektet.", "tagg": "industri"},
+    {"titel": "Automation & Digital", "text": "Styrsystem, robotisering och digitala tvillingar för befintliga fabriker. Ofta genomförs ombyggnaden under ett planerat stopp på två till tre veckor.", "text2": "760 automationsingenjörer som driftsätter linjer över hela världen.", "tagg": "el"}
+  ],
+  "bolag": [
+    {"namn": "Isberg Product Development AB", "segment": "Produktutveckling", "rubrik": "Delsystem med fullt ansvar", "text": "Konstruerar och verifierar mekanik, elektronik och mjukvara åt fordons- och maskinindustrin.", "tagg": "kontor"},
+    {"namn": "Isberg Marine AB", "segment": "Marinteknik", "rubrik": "Från Eriksberg till elfärjor", "text": "Fartygsdesign och elektrifiering från kontoren i Göteborg, Bergen och Åbo.", "tagg": "anlaggning"},
+    {"namn": "Isberg Industrial Plants AB", "segment": "Fabriksprojektering", "rubrik": "Fabriker från tom tomt", "text": "Projekterar och leder byggandet av nya fabriker åt process- och batteriindustrin.", "tagg": "industri"},
+    {"namn": "Isberg Automation GmbH", "segment": "Automation och digitalisering", "rubrik": "Linjer som startar i tid", "text": "Programmerar och driftsätter styrsystem och robotceller, med huvudkontor i Stuttgart.", "tagg": "el"}
+  ],
+  "lokala_bolag": ["Isberg Product Development", "Isberg Marine", "Isberg Industrial Plants", "Isberg Automation GmbH", "Isberg Engineering GmbH", "Isberg Norge AS", "Isberg Suunnittelu Oy", "Isberg Polska Sp. z o.o.", "Isberg Czech s.r.o.", "Isberg Engineering India Pvt. Ltd.", "Isberg Engineering Inc.", "Isberg Engineering (Suzhou) Co. Ltd.", "Eriksbergs Ritbyrå AB"],
+  "berattelser": [
+    {"rubrik": "Elfärjan Hönö II i trafik", "text": "Batterifärjan laddar på sju minuter vid kaj och har ersatt två dieselfärjor i Göteborgs skärgård.", "tagg": "anlaggning"},
+    {"rubrik": "Ny batterifabrik i Polen", "text": "Isberg leder projekteringen av en cellfabrik på 30 GWh i Wrocław med 420 egna ingenjörer.", "tagg": "industri"},
+    {"rubrik": "Elektriskt chassi på 18 månader", "text": "Ett nytt chassi för eldrivna distributionslastbilar gick från första skiss till godkänd prototyp på rekordtid.", "tagg": "kontor"}
+  ],
+  "nyckeltal": [
+    {"varde": "11,6", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [7.4, 7.0, 8.1, 9.2, 10.3, 11.0, 11.6], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "8 100", "enhet": "", "etikett": "Ingenjörer och specialister", "trend": [5900, 5700, 6300, 6900, 7400, 7800, 8100], "trend_text": "Medarbetare 2019–2025"},
+    {"varde": "9,8", "enhet": "%", "etikett": "EBITA-marginal"},
+    {"varde": "74", "enhet": "%", "etikett": "Uppdrag med fast ansvar"}
+  ],
+  "projekt": [
+    {"namn": "Cellfabrik Wrocław", "ort": "Wrocław", "typ": "Fabriksprojektering", "ar": "2027", "text": "Batterifabrik på 30 GWh, projekterad i en gemensam digital tvilling.", "tagg": "industri"},
+    {"namn": "Elfärjan Hönö II", "ort": "Göteborg", "typ": "Marin design", "ar": "2025", "text": "Batteridriven bil- och passagerarfärja för 400 resenärer.", "tagg": "anlaggning"},
+    {"namn": "E-chassi 26 ton", "ort": "Göteborg", "typ": "Produktutveckling", "ar": "2024", "text": "Chassi och batteriintegration för eldrivna distributionslastbilar.", "tagg": "kontor"},
+    {"namn": "Ombyggnad PM 5", "ort": "Skutskär", "typ": "Automation", "ar": "2025", "text": "Nytt styrsystem i en pappersmaskin, driftsatt under ett stopp på 17 dygn.", "tagg": "el"},
+    {"namn": "Fossilfritt stålverk, valsverk", "ort": "Boden", "typ": "Fabriksprojektering", "ar": "2026", "text": "Projektering av valsverk och processkyla för ny stålproduktion.", "tagg": "industri"},
+    {"namn": "Robotcell för hjärtpumpar", "ort": "Minneapolis", "typ": "Automation", "ar": "2026", "text": "Automatiserad montering i renrum för en medicinteknisk tillverkare.", "tagg": "el"}
+  ],
+  "process": [
+    {"titel": "Kravbild och arkitektur", "text": "Vi börjar med vad produkten eller fabriken ska klara och bryter ned det till mätbara krav på varje delsystem.", "tagg": "kontor"},
+    {"titel": "Konstruktion och simulering", "text": "Konstruktionen testas digitalt i hållfasthet, flöde och styrlogik innan något material köps in.", "tagg": "kontor"},
+    {"titel": "Prototyp och provning", "text": "I labben i Göteborg och München provar vi prototyper i vibration, klimat och livslängd.", "tagg": "industri"},
+    {"titel": "Driftsättning", "text": "Samma ingenjörer som konstruerade är på plats när linjen startar, tills produktionen når full takt.", "tagg": "el"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vårt största avtryck är det vi ritar",
+    "text": "Isbergs eget kontor och resande står för en bråkdel av klimatpåverkan jämfört med produkterna och fabrikerna vi konstruerar. Därför gör vi en livscykelanalys i alla uppdrag över 5 miljoner kronor och redovisar för kunden hur konstruktionen kan minska utsläppen. 2025 handlade 61 procent av omsättningen om elektrifiering, energieffektivisering eller cirkulär produktion.",
+    "mal": [["75 %", "av omsättningen i klimatdrivna uppdrag 2030"], ["100 %", "LCA i alla uppdrag över 5 Mkr"], ["40 %", "kvinnor bland nyanställda ingenjörer"]]
+  },
+  "karriar": {
+    "rubrik": "Ingenjör på riktigt, inte bara på papper",
+    "text": "Hos oss följer du din konstruktion hela vägen ut i fabriken eller till sjöss. Vi har egna labb, ett internt tekniskt akademiprogram och möjlighet att arbeta utomlands i två år.",
+    "jobb": [["Konstruktör batterisystem", "Göteborg"], ["Automationsingenjör PLC", "Stuttgart"], ["Fartygskonstruktör", "Åbo"], ["Processingenjör batterifabrik", "Wrocław"]]
+  },
+  "kultur": "Varje ingenjör har tio procent av arbetstiden till kompetensutveckling, och de bästa idéerna från Isberg Lab får egen budget.",
+  "citat": {"text": "Mina föräldrar ritade fartyg för hand vid Eriksberg. Verktygen har bytts ut många gånger, men frågan är densamma: kommer konstruktionen att hålla när den möter verkligheten?", "namn": "Per Isberg", "roll": "Styrelseordförande", "tagg": "kontor"},
+  "omdomen": [
+    {"text": "Isberg tog ansvar för hela batteriintegrationen. Vi fick en godkänd prototyp tre månader före plan.", "namn": "Daniel K.", "ort": "Göteborg"},
+    {"text": "Pappersmaskinen stod still i 17 dygn i stället för planerade 21. Varje dygn är värt miljoner för oss.", "namn": "Helena F.", "ort": "Skutskär"},
+    {"text": "Deras fartygskonstruktörer förstår både batterier och sjöfart. Det är ovanligt.", "namn": "Ole N.", "ort": "Bergen"}
+  ],
+  "faq": [
+    ["Arbetar ni med byggnader och infrastruktur?", "Bara när det gäller industribyggnader och processanläggningar. Vägar, broar och bostäder ligger utanför vår inriktning."],
+    ["Kan ni ta helhetsansvar för ett delsystem?", "Ja, 74 procent av våra uppdrag är åtaganden med fast ansvar för resultatet, inte bara uthyrda timmar."],
+    ["Var finns era ingenjörer?", "Störst är Göteborg, Stockholm, München, Stuttgart, Wrocław och Pune. Indien och Polen används ofta för simulering och ritningsarbete."],
+    ["Vilka branscher arbetar ni mest med?", "Fordon 31 procent, process och batteri 27 procent, marin 14 procent, maskin och medicinteknik 28 procent."],
+    ["Vem äger Isberg?", "Familjen Isberg äger 26 procent av rösterna. B-aktien noterades på Stockholmsbörsen 1997."],
+    ["Har ni ett traineeprogram?", "Ja, Isberg Graduate tar in 140 nyexaminerade ingenjörer per år med rotation mellan två affärsområden."]
+  ],
+  "nyheter": [
+    ["2026-10-20", "Delårsrapport januari–september 2026", "Organisk tillväxt på 6 procent och fortsatt stark efterfrågan inom industriell elektrifiering.", "kontor"],
+    ["2026-09-01", "Teknikcentret i Pune byggs ut", "Med en ny byggnad samlas 900 ingenjörer inom simulering och inbyggda system under samma tak.", "kontor"],
+    ["2026-05-26", "Uppdrag för batterifabrik i Wrocław", "Kontraktet för projektering och byggledning är Isbergs största någonsin.", "industri"]
+  ],
+  "investerare": {
+    "aktie": "ISBG B",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "254,50",
+    "forandring": "–1,1 %",
+    "rapporter": [["Delårsrapport Q3 2026", "2026-10-20"], ["Delårsrapport Q2 2026", "2026-07-14"], ["Delårsrapport Q1 2026", "2026-04-21"], ["Årsredovisning 2025", "2026-03-17"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-01-28"], ["Årsstämma, Göteborg", "2027-04-20"], ["Delårsrapport Q1 2027", "2027-04-20"]]
+  },
+  "kontor_rubrik": "Ingenjörer i nio länder",
+  "kontor_text": "Vi finns där industrin finns – nära fordonstillverkarna, varven och de nya fabrikerna.",
+  "kontor_lista": [
+    ["Göteborg – huvudkontor", "Maskingatan 5 vid Eriksberg, med provningslabb och 2 300 medarbetare."],
+    ["Stockholm", "Medicinteknik, inbyggda system och automation."],
+    ["Bergen och Åbo", "Isberg Marine med fartygskonstruktörer nära varven."],
+    ["München", "Isberg Engineering GmbH med provningslabb för fordon."],
+    ["Stuttgart", "Isberg Automation GmbH, styrsystem och robotik."],
+    ["Wrocław", "Fabriksprojektering och 1 100 ingenjörer i Polen."],
+    ["Brno", "Isberg Czech, konstruktion för maskinindustrin."],
+    ["Pune", "Teknikcenter för simulering och mjukvara, 900 ingenjörer."],
+    ["Greenville, South Carolina", "Isberg Engineering Inc., fordons- och fabriksprojekt i USA."]
+  ],
+  "tidslinje_rubrik": "Från ritbord till digital tvilling",
+  "tidslinje": [
+    ["1969", "Ingrid och Bertil Isberg startar ritbyrå vid Eriksbergs varv."],
+    ["1979", "Varvskrisen – ingenjörerna går över till fordonsindustrin."],
+    ["1997", "B-aktien noteras på Stockholmsbörsen."],
+    ["2006", "Första kontoret utanför Norden, i München."],
+    ["2014", "Teknikcenter i Pune och Wrocław öppnar."],
+    ["2019", "Förvärv av automationsbolag i Stuttgart."],
+    ["2025", "8 100 medarbetare och projekt i 27 länder."]
+  ],
+  "kontakt": {"adress": "Maskingatan 5", "postnr": "417 64", "ort": "Göteborg", "telefon": "070-174 06 35", "epost": "contact@isberg.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–17",
+  "omrade": "Norden, Centraleuropa, Indien, USA och Kina",
+  "fot_cta": "Står ni inför en ny produkt eller en ny fabrik? Våra ingenjörer kan börja i förstudien.",
+  "bild": {"panel": "industri", "hb": "industri", "om": "kontor"},
+  "text": {
+    "ber_rubrik": "På ritborden just nu",
+    "proj_rubrik": "Konstruerat av Isberg",
+    "process_rubrik": "Från krav till full produktionstakt",
+    "process_etikett": "Ingenjörsmetod",
+    "hb_etikett": "Klimat genom konstruktion",
+    "omdomen_rubrik": "Uppdragsgivarna om Isberg",
+    "faq_rubrik": "Frågor om Isberg",
+    "bolag_rubrik": "Fyra ingenjörsbolag",
+    "vagg_rubrik": "{n} bolag i nio länder",
+    "panel_etikett": "För ingenjörer",
+    "hero_knapp": "Våra kompetenser",
+    "hero_lank": "Utvalda uppdrag",
+    "ny_rubrik": "Nyheter från Isberg"
+  }
+}

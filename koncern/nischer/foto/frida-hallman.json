@@ -80,12 +80,12 @@
     ["Retuscherar ni bilderna?", "Vi justerar ljus, färg och beskärning. Vi tar aldrig bort personer, finnar eller föremål – samma regler som i en tidning."],
     ["Varför kostar dagen efter extra?", "Det är ett eget uppdrag på tre timmar, men det ger ofta de mest avslappnade bilderna."],
     ["Fotograferar ni utanför Halland?", "Ja, i hela Skåne och Västra Götaland. Utanför Halland tar vi 40 kronor per mil."],
-    ["Hur bokar vi?", "Efter briefingen får ni avtal och en faktura på 30 procent. Resten betalas två veckor före bröllopet."]
+    ["Vad gäller för betalning?", "Uppdraget bekräftas med avtal och 30 procent i förskott efter briefingen. Slutfakturan skickas med förfallodag fjorton dagar före bröllopet, som på vilket frilansuppdrag som helst."]
   ],
   "priser": [
-    {"namn": "Halvdag", "pris": "14 000 kr", "enhet": "6 timmar, en fotograf", "text": "Förberedelser, vigsel och middagens början.", "punkter": ["Cirka 300 bilder", "Briefing före bröllopet", "Kronologiskt galleri", "Leverans inom tre veckor"]},
-    {"namn": "Heldag", "pris": "29 500 kr", "enhet": "upp till 12 timmar, två fotografer", "text": "Hela dagen som ett reportage.", "punkter": ["600–900 bilder", "Två fotografer", "Bildtexter till 40 bilder", "Leverans inom fyra veckor"], "utvald": true},
-    {"namn": "Heldag med bok", "pris": "37 500 kr", "enhet": "heldag + reportagebok", "text": "Heldagen i bokform, med klockslag och bildtexter.", "punkter": ["Allt i Heldag", "Reportagebok 24 × 30 cm, 80 sidor", "Karta över dagen", "Två extra exemplar"]}
+    {"namn": "Halvdag", "pris": "14 000 kr", "enhet": "6 timmar med Frida", "text": "Förberedelser, vigsel och middagens början.", "punkter": ["Runt 300 bilder i tidsordning", "Briefing före bröllopet", "Kronologiskt galleri", "Galleriet klart efter tre veckor"]},
+    {"namn": "Heldag", "pris": "29 500 kr", "enhet": "upp till 12 timmar, Frida och Oskar", "text": "Hela dagen som ett reportage.", "punkter": ["600–900 bilder i tidsordning", "Två fotografer", "Bildtexter till 40 bilder", "Leverans inom fyra veckor"], "utvald": true},
+    {"namn": "Heldag med bok", "pris": "37 500 kr", "enhet": "heldag + reportagebok", "text": "Heldagen i bokform, med klockslag och bildtexter.", "punkter": ["Hela heldagsuppdraget", "Reportagebok 24 × 30 cm, 80 sidor", "Karta över dagen", "Två extra exemplar"]}
   ],
   "prislista": [["Bara vigseln, 2 timmar", "8 500 kr"], ["Dagen efter, 3 timmar", "6 900 kr"], ["Tredje fotograf för gäster", "9 500 kr"], ["Extra timme", "2 600 kr"], ["Reportagebok, extra exemplar", "1 400 kr"], ["Resor utanför Halland", "40 kr/mil"]],
   "galleri_taggar": ["fest", "brollop", "detalj", "brudpar"],
@@ -107,7 +107,7 @@
     "omdomen_rubrik": "Par som slapp posera",
     "faq_rubrik": "Frågor om reportagefoto",
     "priser_rubrik": "Halvdag, heldag eller bok",
-    "priser_not": "Alla priser inklusive moms. Resor inom Halland ingår.",
+    "priser_not": "Moms ingår. Vi tar inga reseersättningar inom Halland.",
     "galleri_rubrik": "Ingenting här är uppställt",
     "boka_rubrik": "Ring eller skriv om datumet",
     "boka_text": "Frida svarar själv, oftast samma dag. Skriv datum, plats och ungefär hur många gäster.",

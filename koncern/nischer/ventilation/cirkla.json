@@ -1,0 +1,130 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Cirkla Ventilation AB",
+  "kortnamn": "Cirkla",
+  "slug": "cirkla",
+  "typ": "Värmeåtervinning och energiventilation i Östergötland",
+  "tagline": "Återvunnen värme, garanterat",
+  "slogan": "Cirkla bygger om ventilationen i hyreshus, skolor och kontor så att värmen stannar inne – och skriver in besparingen i avtalet.",
+  "hero_rubrik": "Vi garanterar besparingen – i kronor",
+  "hero_text": "Värmeåtervinning, behovsstyrning och återbrukade komponenter. Når vi inte den energibesparing vi har lovat betalar vi mellanskillnaden.",
+  "intro_rubrik": "Mindre energi, samma luft",
+  "om": [
+    "Cirkla grundades 2011 i Linköping av energiingenjören Amira Haddad och ventilationsmontören Johan Ek. De hade sett för många hyreshus från 1970-talet där varm luft blåste rakt ut genom taket, och ville bygga ett företag som fick betalt för det som faktiskt sparades.",
+    "I dag är vi 45 anställda med kontor och lager på Roxtorpsgatan. Vi arbetar med energiprestandaavtal: vi mäter förbrukningen innan, räknar ut besparingen, bygger om och följer upp i fem år. Sedan 2018 har vi också ett eget återbrukslager med aggregat, fläktar och don från rivna anläggningar."
+  ],
+  "vagval_rubrik": "Var läcker er värme?",
+  "tjanster": [
+    {"titel": "Energiberäkning", "ikon": "graf", "href": "verksamhet.html", "text": "Mätning av dagens förbrukning och beräkning av vad varje åtgärd sparar."},
+    {"titel": "FTX-konvertering", "ikon": "vind", "href": "verksamhet.html", "text": "Från ren frånluft till till- och frånluft med värmeåtervinning."},
+    {"titel": "Frånluftsvärmepump", "ikon": "laddning", "href": "verksamhet.html", "text": "Värmen i frånluften tas tillvara där FTX inte får plats."},
+    {"titel": "Behovsstyrning", "ikon": "kugge", "href": "verksamhet.html", "text": "Närvaro- och koldioxidgivare som sänker flödet när rummen är tomma."},
+    {"titel": "Återbrukslagret", "ikon": "upp", "href": "verksamhet.html", "text": "Testade aggregat, fläktar och don från rivna anläggningar."},
+    {"titel": "Energiprestandaavtal", "ikon": "dokument", "href": "verksamhet.html", "text": "Besparingen skrivs in i avtalet och följs upp i fem år."},
+    {"titel": "OVK och injustering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Besiktning och injustering som en del av varje ombyggnad."},
+    {"titel": "Gratis energikoll", "ikon": "sok", "href": "om-oss.html#kontakt", "text": "Skicka förra årets energiräkning så gör vi en första bedömning."}
+  ],
+  "affarsomraden": [
+    {"titel": "Energiprestandaavtal", "text": "Vi mäter el- och värmeförbrukningen i tolv månader innan vi bygger om, och skriver in den beräknade besparingen i avtalet. Om utfallet blir lägre betalar vi mellanskillnaden i kronor.", "text2": "Hittills har 31 av 34 avtal nått eller överträffat garantin, och för de tre övriga har vi betalat ut 412 000 kr.", "tagg": "kontor"},
+    {"titel": "Värmeåtervinning i hyreshus", "text": "Miljonprogrammets hus har ofta bara frånluft, och värmen försvinner rakt ut. Vi bygger om till FTX eller installerar frånluftsvärmepump beroende på vad som får plats.", "text2": "En vanlig besparing är 30–50 procent av husets värmebehov för ventilation.", "tagg": "bostad"},
+    {"titel": "Skolor och kontor", "text": "Skolor och kontor står tomma halva dygnet men ventileras ofta på fullt. Med behovsstyrning, nya EC-fläktar och rätt drifttider sänker vi elbehovet utan att luften blir sämre.", "text2": "Koldioxidhalten loggas i varje klassrum och redovisas för rektorn.", "tagg": "interior"},
+    {"titel": "Återbruk", "text": "Ett ventilationsaggregat har ofta tjugo år kvar när huset det sitter i rivs. Vi demonterar, testar och renoverar aggregat, fläktar och don och säljer dem med två års garanti.", "text2": "Återbruk sänker klimatavtrycket i klimatdeklarationen och oftast även priset.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Energi", "segment": "6 energiingenjörer", "rubrik": "Mäta, räkna, följa upp", "text": "Mätningar, energiberäkningar och uppföljning av energiprestandaavtal.", "tagg": "kontor"},
+    {"namn": "Ombyggnad", "segment": "24 montörer", "rubrik": "Bebodda hus, korta avbrott", "text": "Bygger om ventilationen i hyreshus, skolor och kontor under pågående verksamhet.", "tagg": "ventilation"},
+    {"namn": "Återbruk", "segment": "4 tekniker", "rubrik": "Andra livet för aggregaten", "text": "Demonterar, testar och renoverar komponenter i lagret på Roxtorpsgatan.", "tagg": "industri"},
+    {"namn": "Drift och OVK", "segment": "8 tekniker och funktionskontrollanter", "rubrik": "Så att besparingen håller", "text": "Service, injustering och OVK på anläggningar vi har byggt om.", "tagg": "interior"}
+  ],
+  "berattelser": [
+    {"rubrik": "Skäggetorp sparar 41 procent", "text": "Två års uppföljning av sex hyreshus visar 41 procent lägre värmebehov – garantin var 35 procent.", "tagg": "bostad"},
+    {"rubrik": "Återbruk i ny förskola", "text": "Två renoverade aggregat från en riven kontorsbyggnad sitter nu i en förskola i Ljungsbro.", "tagg": "industri"},
+    {"rubrik": "Koldioxid i klassrummen", "text": "Nya givare i 48 klassrum visar för första gången hur luften faktiskt är under lektionstid.", "tagg": "interior"}
+  ],
+  "nyckeltal": [
+    {"varde": "6,8", "enhet": "GWh/år", "etikett": "Garanterad besparing hos kunderna"},
+    {"varde": "31 av 34", "enhet": "", "etikett": "Avtal som nått garantin"},
+    {"varde": "420", "enhet": "", "etikett": "Återbrukade aggregat och fläktar"},
+    {"varde": "45", "enhet": "anställda", "etikett": "I Linköping och Norrköping"}
+  ],
+  "projekt": [
+    {"namn": "Kv. Tinnerbäcken", "ort": "Skäggetorp, Linköping", "typ": "Frånluftsvärmepumpar", "ar": "2025", "text": "Sex hyreshus från 1970 med 41 procent lägre värmebehov för ventilation.", "tagg": "bostad"},
+    {"namn": "Ljungsbro förskola", "ort": "Ljungsbro", "typ": "Återbruk", "ar": "2025", "text": "Två renoverade aggregat från en riven kontorsbyggnad, med två års garanti.", "tagg": "industri"},
+    {"namn": "Ryds skola", "ort": "Linköping", "typ": "Behovsstyrning", "ar": "2025", "text": "Koldioxidgivare i 48 klassrum och 38 procent lägre fläktel.", "tagg": "interior"},
+    {"namn": "Brf Navestad 4", "ort": "Norrköping", "typ": "FTX-konvertering", "ar": "2026", "text": "Lägenhetsvisa FTX-aggregat i 72 lägenheter, med energiprestandaavtal på fem år.", "tagg": "ventilation", "status": "Pågående"},
+    {"namn": "Kontorshuset Teknikringen", "ort": "Linköping", "typ": "Energiprestandaavtal", "ar": "2024", "text": "Nya EC-fläktar och drifttider gav 520 MWh lägre elbehov per år.", "tagg": "kontor"},
+    {"namn": "Industrihall Tornby", "ort": "Linköping", "typ": "Värmeåtervinning", "ar": "2024", "text": "Värme från processfrånluften värmer nu kontorsdelen hela vintern.", "tagg": "industri"}
+  ],
+  "process": [
+    {"titel": "Energikoll", "text": "Ni skickar energiräkningar och ritningar. Vi gör en första bedömning utan kostnad.", "tagg": "kontor"},
+    {"titel": "Mätning i tolv månader", "text": "Vi installerar mätare och loggar förbrukning och inomhusklimat under ett helt år.", "tagg": "interior"},
+    {"titel": "Avtal och ombyggnad", "text": "Besparingen skrivs in i avtalet. Sedan bygger vi om, ofta med återbrukade komponenter.", "tagg": "ventilation"},
+    {"titel": "Fem års uppföljning", "text": "Varje år redovisar vi utfallet. Ligger det under garantin betalar vi skillnaden.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi får betalt för det som sparas",
+    "text": "Hela vår affär bygger på att energin faktiskt minskar. Därför redovisar vi utfallet för alla avtal öppet, även de tre som inte nådde garantin. Vårt eget kontor drivs med solel från taket och värms med återvunnen värme från lagrets testrigg.",
+    "mal": [["6,8 GWh", "garanterad årlig besparing"], ["420", "återbrukade komponenter sedan 2018"], ["5 år", "uppföljning av varje avtal"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba med energi som syns i mätaren",
+    "text": "Hos oss ser du resultatet av ditt arbete i kilowattimmar varje månad. Vi söker både montörer och ingenjörer som vill arbeta med ombyggnad av befintliga hus.",
+    "jobb": [["Energiingenjör", "Linköping"], ["Ventilationsmontör", "Norrköping"], ["Tekniker återbruk", "Linköping"]]
+  },
+  "kultur": "Varje månad visar vi utfallet för alla energiavtal på en skärm i fikarummet – både de bra och de dåliga.",
+  "citat": {"text": "Det är lätt att lova en besparing i en offert. Det är först när man måste betala om den uteblir som man räknar ordentligt.", "namn": "Amira Haddad", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Garantin var det som övertygade styrelsen. Efter två år ligger vi tio procent över det utlovade.", "namn": "Ingela P.", "ort": "Brf Navestad 4, Norrköping"},
+    {"text": "Att aggregaten var återbrukade märks inte på något annat sätt än att de var billigare och kom med två års garanti.", "namn": "Martin J.", "ort": "Ljungsbro"},
+    {"text": "Vi har för första gången siffror på luften i klassrummen. Det har förändrat hur vi pratar om inomhusmiljö.", "namn": "Eva T.", "ort": "Ryds skola, Linköping"}
+  ],
+  "faq": [
+    ["Hur fungerar garantin?", "Vi skriver in den beräknade besparingen i kilowattimmar i avtalet. Blir utfallet lägre, justerat för hur kall vintern var, betalar vi mellanskillnaden enligt avtalat energipris."],
+    ["Varför måste ni mäta i ett år först?", "För att veta hur huset faktiskt används. En beräkning utan mätning är en gissning, och då kan vi inte garantera något."],
+    ["Är återbrukade aggregat lika bra som nya?", "De testas i vår rigg, får nya filter, lager och remmar och levereras med två års garanti. Vi använder bara aggregat med god verkningsgrad."],
+    ["FTX eller frånluftsvärmepump?", "FTX ger bäst luft och högst återvinning men kräver plats för tilluftskanaler. Frånluftsvärmepump passar hus där det inte går att dra nya kanaler."],
+    ["Kan ni hjälpa till med gröna lån?", "Ja, vår energiberäkning och uppföljning brukar räcka som underlag för bankernas gröna lån och för EU-taxonomin."],
+    ["Vilka områden arbetar ni i?", "Östergötland, med fokus på Linköping, Norrköping, Motala och Mjölby."],
+    ["Gör ni vanlig OVK också?", "Ja, men främst på anläggningar vi har byggt om eller har avtal för."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem sedan 2014.", "ikon": "trad"},
+    {"titel": "Certifierade energiexperter", "text": "Tre certifierade energiexperter med behörighet att upprätta energideklarationer.", "ikon": "blixt"},
+    {"titel": "Funktionskontrollanter", "text": "Två certifierade funktionskontrollanter med behörighet N.", "ikon": "dokument"},
+    {"titel": "Sweden Green Building Council", "text": "Medlem och rådgivare i projekt som certifieras enligt Miljöbyggnad.", "ikon": "lov"}
+  ],
+  "kunder": ["Bostads AB Tinnerbäcken", "Brf Navestad 4", "Teknikringens Kontorsfastigheter", "Ryds skolfastigheter", "Tornby Industrihus", "Ljungsbro förskolor", "Motala Hyreshus AB", "Brf Kåbo Linköping"],
+  "nyheter": [
+    ["2026-10-20", "Utfallet för 2025 redovisat", "31 av 34 avtal nådde garantin. Så gick det för de tre som inte gjorde det.", "kontor"],
+    ["2026-06-02", "Återbrukslagret fyller 420", "Vi har nu gett 420 aggregat, fläktar och don ett andra liv.", "industri"],
+    ["2026-02-10", "Kontor i Norrköping", "Tio montörer flyttar in på Ingelsta för att vara närmare kunderna i östra länet.", "people"]
+  ],
+  "kontakt": {"adress": "Roxtorpsgatan 12", "postnr": "582 77", "ort": "Linköping", "telefon": "070-174 06 63", "epost": "energi@cirkla.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7.30–16.30",
+  "omrade": "Östergötland",
+  "fot_cta": "Skicka förra årets energiräkning – vi säger vad ni kan spara, gratis.",
+  "bild": {"panel": "people", "hb": "natur"},
+  "text": {
+    "hero_knapp": "Så fungerar garantin",
+    "ber_etikett": "Uppföljning",
+    "ber_rubrik": "Siffror från verkligheten",
+    "proj_rubrik": "Besparingar vi har levererat",
+    "proj_rubrik_lista": "Ombyggnader och energiavtal",
+    "process_etikett": "Energiavtalet",
+    "process_rubrik": "Ett år av mätning, fem år av ansvar",
+    "hb_etikett": "Energi och klimat",
+    "hb_lank": "Läs om återbruk och uppföljning",
+    "omdomen_rubrik": "Kunder som har sett siffrorna",
+    "faq_rubrik": "Om garantier, återbruk och mätning",
+    "boka_rubrik": "Beställ en gratis energikoll",
+    "boka_text": "Bifoga gärna förra årets energiräkning. En energiingenjör hör av sig inom en vecka.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Fastighet och årlig energikostnad"],
+    "logos_rubrik": "Har energiavtal med oss",
+    "certifikat_rubrik": "Certifierade för energi och miljö",
+    "bolag_rubrik": "Från mätare till montage",
+    "siffror_etikett": "Cirkla i siffror",
+    "medarbetare": "Medarbetarna"
+  }
+}

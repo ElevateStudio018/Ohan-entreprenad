@@ -1,0 +1,124 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Brandlinjen AB",
+  "kortnamn": "Brandlinjen",
+  "slug": "brandlinjen",
+  "typ": "Brandskydd i Mellansverige",
+  "tagline": "Fyra län, ett avtal",
+  "slogan": "Brandlarm, sprinkler, släckare och SBA för fastighetsägare med många adresser – med ett avtal, en kontaktperson och alla protokoll i samma portal.",
+  "hero_rubrik": "Fyra län, ett avtal, en portal",
+  "hero_text": "Brandlinjen har vuxit från sex till 118 medarbetare på tio år. Vi sköter brandskyddet för fastighetsägare, kommuner och logistikbolag från Västerås till Norrköping.",
+  "intro_rubrik": "Från sex personer till 118 på tio år",
+  "om": [
+    "Johan Eriksson och Nadia Karimi startade Brandlinjen i Örebro 2016. De hade båda arbetat för fastighetsbolag och tröttnat på att ha fem olika brandskyddsfirmor, fem fakturor och protokoll i pärmar på varje adress. Idén var enkel: en leverantör för allt, och all dokumentation digitalt.",
+    "Sedan dess har vi vuxit genom att anställa och genom att köpa lokala firmor som delade vårt sätt att arbeta – i Västerås 2019, Karlskoga 2021, Eskilstuna 2023 och Norrköping 2025. Alla har behållit sina tekniker och sina kunder, men arbetar nu i samma system."
+  ],
+  "vagval_rubrik": "Hur många fastigheter har ni?",
+  "tjanster": [
+    {"titel": "Ramavtal brandskydd", "ikon": "portfolj", "href": "verksamhet.html", "text": "Larm, sprinkler, släckare, nödljus och brandposter i ett och samma avtal."},
+    {"titel": "Brandlarm", "ikon": "blixt", "href": "verksamhet.html", "text": "Nyinstallation, utbyte av gamla centraler och årlig revision."},
+    {"titel": "Sprinkler", "ikon": "vatten", "href": "verksamhet.html", "text": "Installation och service i logistikhallar, handel och garage."},
+    {"titel": "Brandsläckare", "ikon": "eld", "href": "verksamhet.html", "text": "Planerade rutter så att alla era adresser kontrolleras samma månad."},
+    {"titel": "Kundportalen Linjen", "ikon": "graf", "href": "verksamhet.html", "text": "Alla protokoll, avvikelser och åtgärder för alla adresser i en vy."},
+    {"titel": "SBA som tjänst", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi gör egenkontrollerna åt er och rapporterar i portalen."},
+    {"titel": "Utbildning", "ikon": "skola", "href": "verksamhet.html", "text": "Grundläggande brandskydd, HLR och Heta arbeten på fem orter."},
+    {"titel": "Begär offert", "ikon": "pil", "href": "om-oss.html#kontakt", "text": "Skicka er fastighetslista så räknar vi på hela beståndet."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fastighetsbestånd", "text": "Ett fastighetsbolag med 300 adresser har ofta lika många leverantörer och protokoll. Vi tar över alltihop, inventerar och lägger in varje anläggning i portalen.", "text2": "Ni får en fast årskostnad per fastighet och en förvaltare som känner hela beståndet.", "tagg": "bostad"},
+    {"titel": "Logistik och handel", "text": "Höglager och köpcentrum kräver sprinkler, brandlarm och brandgasventilation som fungerar ihop. Vi har egna sprinklermontörer och projektörer i Örebro och Norrköping.", "text2": "Service planeras nattetid eller på helger när verksamheten inte kan stängas.", "tagg": "industri"},
+    {"titel": "Offentlig sektor", "text": "Skolor, äldreboenden och kommunhus har höga krav på utrymning och dokumentation. Vi har ramavtal med fyra kommuner och två regioner.", "text2": "Vi följer LOU-avtalens rapporteringskrav och levererar statistik varje kvartal.", "tagg": "kontor"},
+    {"titel": "Digitalt brandskydd", "text": "Portalen Linjen samlar protokoll, foton på avvikelser och åtgärdsstatus för varje anläggning. Försäkringsbolag och räddningstjänst kan få egen läsbehörighet.", "text2": "Utvecklad av två egna utvecklare sedan 2018 och används av 340 kunder.", "tagg": "brand"}
+  ],
+  "bolag": [
+    {"namn": "Brandlinjen Örebro", "segment": "Huvudkontor och Karlskoga", "rubrik": "46 medarbetare och portalen", "text": "Huvudkontoret på Aspholmen med ledning, utveckling, sprinklerprojektering och tekniker för Örebro län.", "tagg": "kontor"},
+    {"namn": "Brandlinjen Västerås", "segment": "Västmanland", "rubrik": "Tidigare Mälarbrand Teknik", "text": "Förvärvat 2019. 28 medarbetare med inriktning på industri, kraftvärme och kommunala fastigheter.", "tagg": "industri"},
+    {"namn": "Brandlinjen Eskilstuna", "segment": "Sörmland", "rubrik": "Tidigare Rekarne Släckarservice", "text": "Förvärvat 2023. 22 medarbetare, starka inom släckare, utbildning och bostadsrättsföreningar.", "tagg": "brand"},
+    {"namn": "Brandlinjen Östergötland", "segment": "Norrköping och Linköping", "rubrik": "Vår yngsta region", "text": "Förvärvat 2025. 22 medarbetare med sprinkler för logistiklägen längs E4 och E22.", "tagg": "vvs"}
+  ],
+  "berattelser": [
+    {"rubrik": "Östergötland blev fjärde regionen", "text": "Förvärvet av en sprinklerfirma i Norrköping gav 22 nya kollegor och 140 nya kunder.", "tagg": "people"},
+    {"rubrik": "640 adresser i ett avtal", "text": "Ett kommunalt bostadsbolag i Västmanland samlade hela brandskyddet hos oss från årsskiftet.", "tagg": "bostad"},
+    {"rubrik": "Portalen får läsbehörighet för räddningstjänsten", "text": "Räddningstjänsten i Örebro kan nu se status för larm och sprinkler hos de kunder som vill.", "tagg": "brand"}
+  ],
+  "nyckeltal": [
+    {"varde": "118", "enhet": "medarbetare", "etikett": "I fyra regioner"},
+    {"varde": "214", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "9 400", "enhet": "anläggningar", "etikett": "I kundportalen"},
+    {"varde": "+38 %", "enhet": "", "etikett": "Tillväxt per år sedan 2016"}
+  ],
+  "projekt": [
+    {"namn": "Bostadsbolag i Västmanland", "ort": "Västerås", "typ": "Ramavtal", "ar": "2026", "text": "Övertagande av brandskyddet för 640 adresser från sju tidigare leverantörer.", "tagg": "bostad", "status": "Pågående"},
+    {"namn": "Logistikcenter Hjulsbro", "ort": "Linköping", "typ": "Sprinkler", "ar": "2025", "text": "ESFR-sprinkler i ett höglager på 32 000 kvadratmeter med 12 meters takhöjd.", "tagg": "industri"},
+    {"namn": "Marieberg Handel", "ort": "Örebro", "typ": "Brandlarm och sprinkler", "ar": "2025", "text": "Utbyte av 14 larmcentraler och samordnad service för 60 butiker.", "tagg": "brand"},
+    {"namn": "Kraftvärmeverk", "ort": "Västerås", "typ": "Släcksystem", "ar": "2024", "text": "Vattendimma över bränsletransportörer och detektering i kolbunkrar.", "tagg": "industri"},
+    {"namn": "Äldreboenden Sörmland", "ort": "Eskilstuna", "typ": "Utrymningslarm och SBA", "ar": "2024", "text": "Talat utrymningslarm och SBA som tjänst på elva boenden.", "tagg": "brand"},
+    {"namn": "Karlskoga skolor", "ort": "Karlskoga", "typ": "Brandlarm", "ar": "2025", "text": "Nya adresserbara larm i nio skolor, installerade under två sommarlov.", "tagg": "kontor"}
+  ],
+  "process": [
+    {"titel": "Inventering", "text": "Vi går igenom alla adresser, befintliga avtal och protokoll och lägger in allt i portalen.", "tagg": "kontor"},
+    {"titel": "Ett pris per fastighet", "text": "Ni får en fast årskostnad per adress och en plan för vad som behöver åtgärdas.", "tagg": "bostad"},
+    {"titel": "Övertagande", "text": "Vi säger upp gamla avtal i rätt ordning så att ingen anläggning står utan service.", "tagg": "brand"},
+    {"titel": "Kvartalsrapport", "text": "Varje kvartal får ni statistik över avvikelser, åtgärder och kostnader per fastighet.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Snabb tillväxt, samma rutiner överallt",
+    "text": "När vi köper en firma behåller vi teknikerna men inför samma checklistor, samma portal och samma säkerhetsrutiner inom sex månader. Alla regioner har kollektivavtal och gemensam skyddsorganisation.",
+    "mal": [["6 mån", "till gemensamma rutiner efter förvärv"], ["< 1 %", "missade revisioner 2025"], ["ISO 45001", "arbetsmiljö i alla regioner"]]
+  },
+  "karriar": {
+    "rubrik": "Väx med ett bolag som fortfarande växer",
+    "text": "Vi anställde 24 personer under 2025 och fortsätter i samma takt. Hos oss kan du gå från servicetekniker till gruppledare eller projektör, i din egen region.",
+    "jobb": [["Servicetekniker brandlarm", "Örebro"], ["Sprinklerprojektör", "Norrköping"], ["Kundansvarig fastighet", "Västerås"], ["Utvecklare, kundportalen", "Örebro"]]
+  },
+  "kultur": "Varje september samlas alla 118 på Aspholmen för en gemensam dag med utbildning, middag och prisutdelning.",
+  "citat": {"text": "Vi köper inga firmor för att göra dem till filialer. Vi köper dem för att deras tekniker är bättre än våra på något – och sedan lär de oss det.", "namn": "Nadia Karimi", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi hade sju leverantörer för brandskydd. Nu har vi en, och jag ser alla 640 adresser i samma lista.", "namn": "Mattias O.", "ort": "Västerås"},
+    {"text": "Sprinklerservicen gjordes en söndagsnatt, och lagret körde som vanligt på måndagen.", "namn": "Sanna E.", "ort": "Norrköping"},
+    {"text": "När vår gamla firma köptes upp var jag skeptisk. Samma tekniker kommer – men nu får jag protokollen samma dag.", "namn": "Kjell B.", "ort": "Eskilstuna"}
+  ],
+  "faq": [
+    ["Måste vi flytta allt till er på en gång?", "Nej. Många börjar med släckare och brandlarm och lägger till sprinkler och SBA när gamla avtal löper ut."],
+    ["Vad kostar portalen?", "Den ingår för alla avtalskunder. Extra användare för försäkringsbolag eller räddningstjänst är också kostnadsfria."],
+    ["Arbetar ni bara med stora kunder?", "Nej, men vi passar bäst för den som har flera fastigheter. En brf med ett hus får lika bra service, men har kanske mindre nytta av portalen."],
+    ["Vilka orter täcker ni?", "Örebro, Västmanlands, Södermanlands och Östergötlands län samt Karlskoga och Degerfors. Uppsala och Stockholm tar vi för ramavtalskunder."],
+    ["Följer ni LOU-upphandlingar?", "Ja. Vi har ramavtal med fyra kommuner och två regioner och lämnar anbud i offentliga upphandlingar."],
+    ["Byter ni tekniker när ni köper en firma?", "Nej. Alla tekniker i de firmor vi köpt har fått stanna, och kunderna har fått behålla samma kontaktpersoner."],
+    ["Hur snabbt kan ni ta över efter en annan leverantör?", "Normalt tre månader från avtal. Vid många adresser gör vi det i etapper per område."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierad anläggarfirma", "text": "SBSC-certifierade för brandlarm enligt SBF 110 i samtliga fyra regioner.", "ikon": "skold"},
+    {"titel": "Certifierad sprinklerfirma", "text": "SBSC-certifierade för installation och service av sprinkler enligt SBF 120 i Örebro och Norrköping.", "ikon": "vatten"},
+    {"titel": "ISO 9001, 14001 och 45001", "text": "Gemensamt ledningssystem för kvalitet, miljö och arbetsmiljö i hela koncernen.", "ikon": "lov"},
+    {"titel": "Ramavtal offentlig sektor", "text": "Upphandlade ramavtal med fyra kommuner och två regioner i Mellansverige.", "ikon": "dokument"}
+  ],
+  "kunder": ["Västmanlands Bostäder", "Marieberg Handel", "Hjulsbro Logistikfastigheter", "Rekarne Omsorgsfastigheter", "Karlskoga Skolfastigheter", "Kraftvärme Mälardalen", "Brf Nya Våghuset", "Aspholmens Företagspark"],
+  "nyheter": [
+    ["2026-10-01", "Ny regionchef i Östergötland", "Emma Lund kommer från ett fastighetsbolag i Linköping och leder vår yngsta region.", "people"],
+    ["2026-06-15", "Räddningstjänsten får titta i portalen", "Pilotprojekt i Örebro med läsbehörighet för larm- och sprinklerstatus.", "brand"],
+    ["2026-03-10", "Brandlinjen förvärvar i Norrköping", "Sprinklerfirman med 22 medarbetare blir Brandlinjen Östergötland.", "kontor"],
+    ["2026-01-28", "Bokslut 2025: 214 miljoner", "Omsättningen ökade 31 procent, varav 18 procent organiskt.", "kontor"]
+  ],
+  "kontakt": {"adress": "Aspholmsvägen 10", "postnr": "702 27", "ort": "Örebro", "telefon": "070-174 06 66", "epost": "kontakt@brandlinjen.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–17. Jour dygnet runt för avtalskunder",
+  "omrade": "Örebro, Västmanland, Sörmland och Östergötland",
+  "fot_cta": "Skicka er fastighetslista – vi räknar på hela beståndet inom två veckor.",
+  "bild": {"panel": "kontor", "hb": "people"},
+  "text": {
+    "ber_rubrik": "Senaste från regionerna",
+    "proj_rubrik": "Bestånd och anläggningar vi tagit över",
+    "process_rubrik": "Så tar vi över ert brandskydd",
+    "hb_etikett": "Gemensamma rutiner",
+    "omdomen_rubrik": "Fastighetsförvaltare om bytet",
+    "faq_rubrik": "Frågor om ramavtal och övertagande",
+    "boka_rubrik": "Hur stort är ert bestånd?",
+    "boka_falt": ["Namn", "Företag", "E-post", "Antal fastigheter och orter"],
+    "logos_rubrik": "Några av 340 avtalskunder",
+    "certifikat_rubrik": "Samma certifiering i alla regioner",
+    "bolag_rubrik": "Fyra regioner, ett bolag",
+    "ny_rubrik": "Pressmeddelanden och nyheter"
+  }
+}

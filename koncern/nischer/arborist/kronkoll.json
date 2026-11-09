@@ -1,0 +1,476 @@
+{
+  "profil": "arborist",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kronkoll Arborist AB",
+  "kortnamn": "Kronkoll",
+  "slug": "kronkoll",
+  "typ": "Trädbesiktning och riskbedömning i Dalarna",
+  "tagline": "Mät först, såga sedan",
+  "slogan": "Vi mäter röta, sprickor och rotförankring med tomograf och dragprov – så att bara de träd som verkligen är farliga fälls.",
+  "hero_rubrik": "Vi mäter innan vi sågar",
+  "hero_text": "Trädbesiktning med ljudtomograf och resistograf åt kyrkogårdar, skolor, vägföreningar och villaägare i Dalarna. Åtgärderna utför vi själva.",
+  "intro_rubrik": "Varje bedömning bygger på mätvärden",
+  "om": [
+    "Kronkoll startades 2017 av Johan Ersson, som arbetat sju år som arborist i Falu kommun och tröttnat på att se friska träd fällas för att ingen visste hur de mådde inuti. Han köpte en ljudtomograf och en resistograf, och i dag är vi sju anställda med kontor vid Stora torget i Falun.",
+    "Ungefär hälften av vår tid går till besiktningar och hälften till åtgärderna efteråt: beskärning, kronstabilisering och fällning. Beställarna är församlingar, kommuner, skolor och vägföreningar – men också villaägare som vill ha ett skriftligt svar innan de bestämmer sig för grannens gamla björk."
+  ],
+  "vagval_rubrik": "Vad vill du veta om trädet?",
+  "tjanster": [
+    {
+      "titel": "Trädbesiktning (VTA)",
+      "ikon": "sok",
+      "href": "verksamhet.html",
+      "text": "Visuell bedömning av stam, krona och rotzon enligt VTA-metoden."
+    },
+    {
+      "titel": "Ljudtomografi",
+      "ikon": "graf",
+      "href": "verksamhet.html",
+      "text": "En bild av stammens insida som visar hur stor del som är rötad."
+    },
+    {
+      "titel": "Dragprov",
+      "ikon": "pil",
+      "href": "verksamhet.html",
+      "text": "Vi mäter hur trädet rör sig vid belastning och räknar ut vindsäkerheten."
+    },
+    {
+      "titel": "Kronstabilisering",
+      "ikon": "las",
+      "href": "verksamhet.html",
+      "text": "Dynamiska stag som minskar risken att tvåstammiga träd spricker."
+    },
+    {
+      "titel": "Beskärning och fällning",
+      "ikon": "trad",
+      "href": "verksamhet.html",
+      "text": "Vi utför åtgärderna i protokollet själva, med fast pris."
+    },
+    {
+      "titel": "Kyrkogårdar och skolor",
+      "ikon": "kors",
+      "href": "projekt.html",
+      "text": "Återkommande besiktning av träd där många människor rör sig."
+    },
+    {
+      "titel": "Priser",
+      "ikon": "dokument",
+      "href": "priser.html",
+      "text": "Fasta priser per träd för besiktning och mätning."
+    },
+    {
+      "titel": "Beställ besiktning",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Svar inom två arbetsdagar och besök inom två veckor."
+    }
+  ],
+  "affarsomraden": [
+    {
+      "titel": "Besiktning och protokoll",
+      "text": "Vi bedömer varje träd enligt VTA och klassar risken i fyra nivåer. Protokollet innehåller foto, position, mätvärden och rekommenderad åtgärd med tidsgräns.",
+      "text2": "För större bestånd levererar vi även en karta med alla träd färgkodade efter riskklass.",
+      "tagg": "arborist"
+    },
+    {
+      "titel": "Mätning med instrument",
+      "text": "När ögat inte räcker använder vi ljudtomograf, resistograf och dragprov. Det visar om ett ihåligt träd fortfarande är tillräckligt starkt.",
+      "text2": "Ungefär vart tredje träd som misstänks vara farligt visar sig kunna stå kvar.",
+      "tagg": "trad"
+    },
+    {
+      "titel": "Åtgärder efter besiktning",
+      "text": "Vi utför beskärning, kronstabilisering och fällning enligt protokollet. Den som besiktade trädet är med när åtgärden görs.",
+      "text2": "Vill du hellre anlita någon annan för åtgärderna går det också bra.",
+      "tagg": "tradgard"
+    },
+    {
+      "titel": "Avtal för förvaltare",
+      "text": "Kyrkogårdar, skolor och badplatser bör besiktas med jämna mellanrum. Vi lägger upp ett schema där riskträd kontrolleras årligen och övriga vart tredje år.",
+      "text2": "Församlingar i Falun, Borlänge och Leksand har avtal med oss.",
+      "tagg": "ved"
+    }
+  ],
+  "bolag": [
+    {
+      "namn": "Johan Ersson",
+      "segment": "Grundare, ETW och ISA",
+      "rubrik": "Har mätt 4 000 träd med tomograf",
+      "text": "Johan gör de svåra bedömningarna och utbildar kommunala trädansvariga i VTA.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Karolina Matsson",
+      "segment": "Besiktningsansvarig",
+      "rubrik": "Skriver protokollen",
+      "text": "Karolina har landskapsingenjörsexamen och ansvarar för att varje protokoll håller samma standard.",
+      "tagg": "tradgard"
+    },
+    {
+      "namn": "Olle Back",
+      "segment": "Arbetsledare, åtgärder",
+      "rubrik": "Stag, beskärning och fällning",
+      "text": "Olle leder åtgärdslaget och har monterat över 300 kronstag.",
+      "tagg": "trad"
+    },
+    {
+      "namn": "Amanda Gustafsson",
+      "segment": "Arborist",
+      "rubrik": "Klättrar och mäter",
+      "text": "Amanda klättrar i kronorna vid dragprov och inspekterar sprickor uppifrån.",
+      "tagg": "arborist"
+    }
+  ],
+  "berattelser": [
+    {
+      "rubrik": "Falu Kristine kyrkogård besiktad",
+      "text": "212 träd bedömda. Sju fälls i vinter, 40 som misstänktes ihåliga visade sig vara starka nog.",
+      "tagg": "trad"
+    },
+    {
+      "rubrik": "Skolgården i Hosjö",
+      "text": "Dragprov på två stora tallar visade att de klarar en storm på 30 meter per sekund.",
+      "tagg": "arborist"
+    },
+    {
+      "rubrik": "Utbildning för Borlänge kommun",
+      "text": "Tolv parkarbetare har gått vår tvådagarskurs i visuell trädbedömning.",
+      "tagg": "tradgard"
+    }
+  ],
+  "nyckeltal": [
+    {
+      "varde": "4 000+",
+      "enhet": "träd",
+      "etikett": "Mätta med tomograf"
+    },
+    {
+      "varde": "1 av 3",
+      "enhet": "",
+      "etikett": "Misstänkta riskträd kan stå kvar"
+    },
+    {
+      "varde": "7",
+      "enhet": "anställda",
+      "etikett": "Besiktning och åtgärd"
+    },
+    {
+      "varde": "48 h",
+      "enhet": "",
+      "etikett": "Akut bedömning vid fara"
+    }
+  ],
+  "projekt": [
+    {
+      "namn": "Kristine kyrkogård",
+      "ort": "Falun",
+      "typ": "Riskbedömning",
+      "ar": "2026",
+      "text": "212 träd bedömda med VTA och tomografi på 31 av dem.",
+      "tagg": "trad"
+    },
+    {
+      "namn": "Hosjö skola",
+      "ort": "Falun",
+      "typ": "Dragprov",
+      "ar": "2026",
+      "text": "Två 140 år gamla tallar mätta och godkända att stå kvar.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Vägföreningen Sundborn",
+      "ort": "Sundborn",
+      "typ": "Besiktning längs väg",
+      "ar": "2025",
+      "text": "4,2 km enskild väg besiktad och 19 riskträd åtgärdade.",
+      "tagg": "tradgard"
+    },
+    {
+      "namn": "Badplatsen Främby udde",
+      "ort": "Falun",
+      "typ": "Riskbedömning",
+      "ar": "2025",
+      "text": "Årlig kontroll av tallar och björkar runt badplatsen.",
+      "tagg": "trad"
+    },
+    {
+      "namn": "Villa i Tallbacken",
+      "ort": "Borlänge",
+      "typ": "Kronstabilisering",
+      "ar": "2025",
+      "text": "En tvåstammig ek fick två dynamiska stag i stället för att fällas.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Leksands kyrkogård",
+      "ort": "Leksand",
+      "typ": "Treårsbesiktning",
+      "ar": "2026",
+      "text": "Besiktning av 160 träd pågår under november.",
+      "tagg": "ved",
+      "status": "Pågår"
+    }
+  ],
+  "process": [
+    {
+      "titel": "Beställning",
+      "text": "Du beskriver trädet eller beståndet och vad du vill veta. Vi föreslår rätt nivå av besiktning.",
+      "tagg": "tradgard"
+    },
+    {
+      "titel": "Bedömning på plats",
+      "text": "Vi går igenom träden enligt VTA. Där ögat inte räcker mäter vi med tomograf eller dragprov.",
+      "tagg": "arborist"
+    },
+    {
+      "titel": "Protokoll",
+      "text": "Inom tio arbetsdagar får du protokoll med foto, mätvärden, riskklass och åtgärd med tidsgräns.",
+      "tagg": "trad"
+    },
+    {
+      "titel": "Åtgärd och uppföljning",
+      "text": "Vi utför åtgärderna om du vill och lägger in nästa kontroll i kalendern.",
+      "tagg": "ved"
+    }
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett mätt träd är ett räddat träd",
+    "text": "När ett träd bedöms på känsla fälls det ofta för säkerhets skull. Våra mätningar gör att fler gamla träd får stå kvar, samtidigt som de som verkligen är farliga tas bort i tid.",
+    "mal": [
+      [
+        "1 av 3",
+        "riskträd räddade genom mätning"
+      ],
+      [
+        "10 dagar",
+        "till färdigt protokoll"
+      ],
+      [
+        "0",
+        "olyckor med av oss godkända träd"
+      ]
+    ]
+  },
+  "karriar": {
+    "rubrik": "Lär dig läsa träd inifrån",
+    "text": "Vi söker en arborist som vill specialisera sig på besiktning. Du får gå bredvid Johan i ett år, och vi betalar ISA-certifiering och kurs i tomografi.",
+    "jobb": [
+      [
+        "Arborist med inriktning besiktning",
+        "Falun"
+      ],
+      [
+        "Klättrande arborist, åtgärdslaget",
+        "Borlänge"
+      ]
+    ]
+  },
+  "kultur": "Varje protokoll läses av två personer innan det skickas, och ingen bedömning ändras för att beställaren hoppas på ett annat svar.",
+  "citat": {
+    "text": "Det är lätt att fälla ett träd för säkerhets skull. Det svåra är att veta när man inte behöver. Det är det vi har instrumenten till.",
+    "namn": "Johan Ersson",
+    "roll": "Grundare",
+    "tagg": "arborist"
+  },
+  "omdomen": [
+    {
+      "text": "Vi hade fått rådet att fälla 50 träd på kyrkogården. Kronkolls mätningar visade att sju behövde tas ned. Det sparade både pengar och kyrkogårdens karaktär.",
+      "namn": "Gunilla P., kyrkogårdschef",
+      "ort": "Falun"
+    },
+    {
+      "text": "Protokollet var så tydligt att vår styrelse kunde fatta beslut på ett möte. Varje träd hade en karta och en tidsgräns.",
+      "namn": "Sven-Olof E.",
+      "ort": "Sundborn"
+    },
+    {
+      "text": "Grannen ville att eken skulle bort. Tomografin visade att den var frisk till 85 procent. Nu har den två stag och står kvar.",
+      "namn": "Annika B.",
+      "ort": "Borlänge"
+    }
+  ],
+  "faq": [
+    [
+      "Vad är VTA?",
+      "Visual Tree Assessment, en internationellt etablerad metod för att bedöma trädets hållfasthet utifrån hur det växer och var det har skador."
+    ],
+    [
+      "Skadar tomografen trädet?",
+      "Nej. Vi slår in små spikar i barken och mäter ljudets hastighet genom stammen. Resistografen borrar ett hål på 3 mm som trädet läker."
+    ],
+    [
+      "Hur ofta ska träd besiktas?",
+      "Träd där många människor vistas bör kontrolleras vart tredje år, riskträd varje år. Efter kraftiga stormar bör man göra en extra kontroll."
+    ],
+    [
+      "Kan protokollet användas i tvist med grannen?",
+      "Ja, våra protokoll används ofta som underlag i grannetvister och försäkringsärenden. Vi är opartiska i bedömningen."
+    ],
+    [
+      "Får jag RUT för besiktning?",
+      "Nej, besiktning ger inte RUT. Själva beskärningen och fällningen på din villatomt ger däremot RUT-avdrag."
+    ],
+    [
+      "Vad händer om trädet är akut farligt?",
+      "Vi spärrar av och åtgärdar inom 48 timmar. Du får alltid besked på plats om trädet måste tas ned direkt."
+    ],
+    [
+      "Utför ni bara besiktningar?",
+      "Nej, vi gör även åtgärderna. Men du är fri att anlita någon annan efter vårt protokoll."
+    ]
+  ],
+  "priser": [
+    {
+      "namn": "Besiktning villatomt",
+      "pris": "2 400 kr",
+      "enhet": "upp till 3 träd",
+      "text": "VTA-bedömning med skriftligt protokoll.",
+      "punkter": [
+        "Besök med certifierad arborist",
+        "Riskklass och åtgärd per träd",
+        "Protokoll med foto inom tio dagar",
+        "Avräknas vid åtgärd hos oss"
+      ]
+    },
+    {
+      "namn": "Besiktning med tomografi",
+      "pris": "5 900 kr",
+      "enhet": "första trädet",
+      "text": "När du behöver veta hur rötat trädet är.",
+      "punkter": [
+        "VTA plus ljudtomografi",
+        "Tvärsnittsbild av stammen",
+        "Beräkning av kvarvarande hållfasthet",
+        "Genomgång av resultatet på plats"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Kronstabilisering",
+      "pris": "fr. 4 800 kr",
+      "enhet": "per stag inkl. montage",
+      "text": "Dynamiskt stag som avlastar tvåstammiga träd.",
+      "punkter": [
+        "Stag dimensionerat efter trädet",
+        "Montage med klättring",
+        "Lätt beskärning vid behov",
+        "Kontroll efter två år"
+      ]
+    }
+  ],
+  "prislista": [
+    [
+      "Tomografi, ytterligare träd samma dag",
+      "3 200 kr"
+    ],
+    [
+      "Resistografmätning per träd",
+      "1 400 kr"
+    ],
+    [
+      "Dragprov per träd",
+      "fr. 8 500 kr"
+    ],
+    [
+      "Besiktning av bestånd, per träd över 20",
+      "180 kr"
+    ],
+    [
+      "Akut bedömning inom 48 h",
+      "3 900 kr"
+    ],
+    [
+      "Arborist, timpris vid åtgärd",
+      "740 kr/tim"
+    ],
+    [
+      "Fällning upp till 15 m",
+      "fr. 6 200 kr"
+    ],
+    [
+      "Kurs i VTA för personal, två dagar",
+      "fr. 28 000 kr"
+    ]
+  ],
+  "certifikat": [
+    {
+      "titel": "ISA Certified Arborist",
+      "text": "Johan och Karolina är ISA-certifierade, Johan även som ISA Tree Risk Assessment Qualified.",
+      "ikon": "stjarna"
+    },
+    {
+      "titel": "European Tree Worker",
+      "text": "Alla som utför åtgärder är ETW-certifierade eller under certifiering.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Utbildad i tomografi",
+      "text": "Instrumentleverantörens certifierade utbildning i ljudtomografi och dragprov.",
+      "ikon": "graf"
+    },
+    {
+      "titel": "Konsult- och ansvarsförsäkring",
+      "text": "Försäkring för både rådgivning och utfört arbete, upp till 10 Mkr.",
+      "ikon": "las"
+    }
+  ],
+  "galleri_taggar": [
+    "arborist",
+    "trad",
+    "tradgard",
+    "ved"
+  ],
+  "nyheter": [
+    [
+      "2026-10-23",
+      "Kyrkogårdar: dags för treårsbesiktning?",
+      "Så planerar församlingen besiktningen utan att budgeten spricker.",
+      "trad"
+    ],
+    [
+      "2026-06-16",
+      "Därför är ett ihåligt träd inte alltid farligt",
+      "Johan förklarar varför ett rör kan vara lika starkt som en massiv stam.",
+      "arborist"
+    ],
+    [
+      "2026-01-29",
+      "Efter stormen: kontrollera dessa tre saker",
+      "Rotlyft, nya sprickor och hängande grenar – och när du ska ringa.",
+      "tradgard"
+    ]
+  ],
+  "kontakt": {
+    "adress": "Stora torget 3",
+    "postnr": "791 71",
+    "ort": "Falun",
+    "telefon": "070-174 06 93",
+    "epost": "besiktning@kronkoll.se",
+    "orgnr": ""
+  },
+  "oppettider": "Mån–fre 8–16.30",
+  "omrade": "Dalarna, främst Falun, Borlänge, Leksand och Rättvik",
+  "fot_cta": "Osäker på ett träd? Beställ en besiktning innan du bestämmer dig.",
+  "bild": {
+    "panel": "arborist",
+    "hb": "trad"
+  },
+  "text": {
+    "kontakt_knapp": "Beställ besiktning",
+    "hero_knapp": "Så mäter vi",
+    "ber_rubrik": "Nya mätresultat",
+    "proj_rubrik": "Bestånd vi har besiktat",
+    "process_rubrik": "Från beställning till protokoll",
+    "hb_etikett": "Metod & ansvar",
+    "omdomen_rubrik": "Vad mätningarna gjorde skillnad för",
+    "faq_rubrik": "Frågor om besiktning och mätning",
+    "priser_rubrik": "Pris per träd och mätmetod",
+    "priser_not": "Priser inklusive moms. Besiktning ger inte RUT-avdrag, åtgärder på villatomt gör det.",
+    "galleri_rubrik": "Instrument, kronor och protokoll",
+    "boka_rubrik": "Beställ en trädbesiktning",
+    "boka_text": "Berätta hur många träd det gäller, var de står och vad som oroar dig.",
+    "bolag_rubrik": "Besiktare och arborister",
+    "certifikat_rubrik": "Kvalificerade att bedöma risk",
+    "sida_bolag_ingress": "Sju anställda som både besiktar och utför åtgärderna."
+  }
+}

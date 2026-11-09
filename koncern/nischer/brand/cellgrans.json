@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Cellgräns Brandtätning AB",
+  "kortnamn": "Cellgräns",
+  "slug": "cellgrans",
+  "typ": "Brandtätning och brandcellsgränser, Linköping",
+  "tagline": "Specialister på brandtätning",
+  "slogan": "Vi tätar hålen i brandcellsgränserna som alla andra yrkesgrupper har gjort – och dokumenterar varje tätning med foto och märkning.",
+  "hero_rubrik": "Varje genomföring fotograferad och märkt",
+  "hero_text": "Brandtätning i nyproduktion, inventering av brandcellsgränser i befintliga hus och brandskyddsmålning av stål. Från Linköping till hela Östergötland och Småland.",
+  "intro_rubrik": "Det lilla hålet som avgör om branden sprids",
+  "om": [
+    "Patrik Nyman var ventilationsmontör i femton år och såg hur kanaler, kablar och rör drogs genom brandklassade väggar utan att någon tätade efteråt. 2011 startade han Cellgräns i Linköping för att göra just det jobbet – och ingenting annat.",
+    "I dag är vi 19 personer, varav 15 montörer, och utför omkring 60 000 tätningar per år. Varje tätning får en numrerad etikett och ett foto i vår dokumentationsapp, så att besiktningsmannen och förvaltaren kan se exakt vilket material som använts och vem som gjorde jobbet."
+  ],
+  "vagval_rubrik": "Var behöver ni tätning?",
+  "tjanster": [
+    {"titel": "Brandtätning nybygge", "ikon": "hjalm", "href": "verksamhet.html", "text": "Vi följer installatörerna våning för våning och tätar bakom dem."},
+    {"titel": "Inventering", "ikon": "sok", "href": "verksamhet.html", "text": "Genomgång av brandcellsgränser ovan undertak och i schakt i befintliga hus."},
+    {"titel": "Åtgärd av brister", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vi tätar det inventeringen hittade och lämnar ett nytt protokoll."},
+    {"titel": "Brandskyddsmålning", "ikon": "pensel", "href": "verksamhet.html", "text": "Brandskyddsfärg på stålpelare och balkar för R30 till R90."},
+    {"titel": "Brandklassade dörrar", "ikon": "las", "href": "verksamhet.html", "text": "Kontroll och justering av dörrstängare, tätningslister och märkning."},
+    {"titel": "Dokumentation", "ikon": "kamera", "href": "verksamhet.html", "text": "Foto, etikett och materialuppgift för varje genomföring i en app."},
+    {"titel": "Brandcellsritningar", "ikon": "ritning", "href": "verksamhet.html", "text": "Vi uppdaterar brandritningarna efter verkliga förhållanden."},
+    {"titel": "Begär inventering", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Fast pris per våningsplan efter ett kort platsbesök."}
+  ],
+  "affarsomraden": [
+    {"titel": "Nyproduktion", "text": "I ett sjukhus eller ett kontorshus görs tusentals genomföringar genom brandklassade väggar och bjälklag. Vi går in som underentreprenör och tätar i takt med att el, VVS och ventilation blir klara.", "text2": "Varje tätning registreras i appen, och vid slutbesiktningen lämnar vi en komplett förteckning.", "tagg": "bygg"},
+    {"titel": "Befintliga fastigheter", "text": "Ovanför undertaken i ett 1980-talshus finns ofta trettio år av datakablar, sprinklerrör och kanaler som aldrig tätats. Vi inventerar plan för plan och visar bristerna med foto.", "text2": "Ni får en prioriterad åtgärdslista och ett fast pris per våningsplan för att åtgärda den.", "tagg": "kontor"},
+    {"titel": "Brandskyddsmålning", "text": "Bärande stål tappar sin hållfasthet vid cirka 500 grader. Vi målar brandskyddsfärg som sväller vid brand och isolerar stålet i 30, 60 eller 90 minuter.", "text2": "Skikttjockleken mäts och protokollförs på varje balk och pelare.", "tagg": "maleri"},
+    {"titel": "Dörrar och brandcellsgränser", "text": "En branddörr som inte stänger av sig själv är bara en dörr. Vi kontrollerar stängare, lister och glas, och åtgärdar på plats det som går.", "text2": "Kontrollen kan ingå i ert SBA och göras en gång per år.", "tagg": "brand"}
+  ],
+  "bolag": [
+    {"namn": "Nyproduktion", "segment": "Byggprojekt i Östergötland", "rubrik": "Nio montörer på byggena", "text": "Arbetar som underentreprenör åt byggföretag och installatörer, med egna arbetsledare på större projekt.", "tagg": "bygg"},
+    {"namn": "Förvaltning", "segment": "Befintliga fastigheter", "rubrik": "Ovanför undertaket", "text": "Fyra montörer som inventerar och åtgärdar brandcellsgränser i skolor, vårdlokaler och kontor i drift.", "tagg": "kontor"},
+    {"namn": "Målning", "segment": "Brandskydd av stål", "rubrik": "Sprutmålning i R30–R90", "text": "Två målare med utrustning för högtryckssprutning och mätning av skikttjocklek.", "tagg": "maleri"},
+    {"namn": "Dokumentation", "segment": "App och ritningar", "rubrik": "Varje tätning har ett nummer", "text": "Två personer på kontoret som sammanställer protokoll, uppdaterar brandritningar och sköter appen.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "11 000 tätningar på ett vårdhus", "text": "Vårt största projekt hittills: en ny vårdbyggnad i Linköping med brandcellsgräns runt varje vårdsal.", "tagg": "bygg"},
+    {"rubrik": "Inventering hittade 840 brister", "text": "En kommunal skola från 1978 hade öppna genomföringar i nästan varje korridorvägg ovan undertaket.", "tagg": "kontor"},
+    {"rubrik": "Ny version av dokumentationsappen", "text": "Nu kan förvaltaren söka på ett rumsnummer och se alla tätningar i den väggen.", "tagg": "brand"}
+  ],
+  "nyckeltal": [
+    {"varde": "61 000", "enhet": "tätningar", "etikett": "Utförda under 2025"},
+    {"varde": "100 %", "enhet": "", "etikett": "Fotodokumenterade"},
+    {"varde": "15", "enhet": "montörer", "etikett": "Bara brandtätning, inget annat"},
+    {"varde": "48 h", "enhet": "", "etikett": "Från inventering till protokoll"}
+  ],
+  "projekt": [
+    {"namn": "Vårdbyggnad Garnisonen", "ort": "Linköping", "typ": "Brandtätning nyproduktion", "ar": "2026", "text": "11 000 genomföringar i EI 60 och EI 120 under två års byggtid.", "tagg": "bygg", "status": "Pågående"},
+    {"namn": "Ekholmsskolan", "ort": "Linköping", "typ": "Inventering och åtgärd", "ar": "2025", "text": "840 brister ovan undertak åtgärdade under sommarlovet.", "tagg": "kontor"},
+    {"namn": "Kontorshus Mjärdevi", "ort": "Linköping", "typ": "Brandskyddsmålning", "ar": "2025", "text": "1 200 meter stålbalk målade till R60 med protokollförd skikttjocklek.", "tagg": "maleri"},
+    {"namn": "Brf Ljuset", "ort": "Norrköping", "typ": "Branddörrar och trapphus", "ar": "2024", "text": "Kontroll och justering av 96 lägenhetsdörrar i brandklass EI 30.", "tagg": "bostad"},
+    {"namn": "Datahall Tornby", "ort": "Linköping", "typ": "Brandtätning", "ar": "2024", "text": "Kabelstegar genom fyra brandcellsgränser med tätning som klarar senare kompletteringar.", "tagg": "el"},
+    {"namn": "Vårdcentral", "ort": "Motala", "typ": "Inventering", "ar": "2025", "text": "Genomgång av alla brandcellsgränser inför ombyggnad, med uppdaterade brandritningar.", "tagg": "brand"}
+  ],
+  "process": [
+    {"titel": "Platsbesök", "text": "Vi lyfter några undertaksplattor, tittar i schakten och lämnar fast pris per plan.", "tagg": "kontor"},
+    {"titel": "Inventering", "text": "Varje brist fotograferas och markeras på ritningen med typ av genomföring och brandklass.", "tagg": "brand"},
+    {"titel": "Tätning", "text": "Vi använder bara typgodkända system som är provade för just den genomföringen.", "tagg": "bygg"},
+    {"titel": "Etikett och protokoll", "text": "Varje tätning märks med nummer och datum, och protokollet ligger i appen inom 48 timmar.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "En tätning som inte är dokumenterad finns inte",
+    "text": "Vid en besiktning eller efter en brand är det dokumentationen som visar att brandcellsgränsen höll. Därför fotograferar vi varje tätning före och efter, och anger produkt, brandklass och montör.",
+    "mal": [["100 %", "av tätningarna med foto och etikett"], ["0", "ej typgodkända material"], ["5 år", "garanti på utförda tätningar"]]
+  },
+  "karriar": {
+    "rubrik": "Bli brandtätare – ett yrke få känner till",
+    "text": "Brandtätning är ett hantverk som kräver noggrannhet och kunskap om material. Vi lär upp dig på betald tid och ger dig tillverkarutbildningar för de vanligaste systemen.",
+    "jobb": [["Brandtätare", "Linköping"], ["Arbetsledare brandtätning", "Linköping"], ["Brandtätare", "Norrköping"]]
+  },
+  "kultur": "Alla nyanställda går bredvid en erfaren montör i tre månader innan de tätar på egen hand.",
+  "citat": {"text": "Elektrikern borrar ett hål, ventilationsmontören gör det större och rörmokaren drar igenom ett rör till. Sedan går alla hem. Det är där vi kommer in.", "namn": "Patrik Nyman", "roll": "Grundare och vd", "tagg": "bygg"},
+  "omdomen": [
+    {"text": "Slutbesiktningen av brandtätningarna tog en timme. Besiktningsmannen sökte på rumsnummer i appen och såg alla foton.", "namn": "Emil R.", "ort": "Linköping"},
+    {"text": "Vi trodde att skolan var i bra skick. Fotona från inventeringen fick hela nämnden att godkänna åtgärderna samma månad.", "namn": "Lotta H.", "ort": "Linköping"},
+    {"text": "Cellgräns kom in tre gånger per vecka och höll jämna steg med installatörerna. Inga stopp i tidplanen.", "namn": "Andreas F.", "ort": "Norrköping"}
+  ],
+  "faq": [
+    ["Vad är en brandcellsgräns?", "En vägg eller ett bjälklag som ska hindra brand och rök från att spridas mellan två delar av byggnaden under en viss tid, till exempel 60 minuter (EI 60)."],
+    ["Varför behövs brandtätning?", "Varje gång en kabel, ett rör eller en kanal dras genom en brandcellsgräns blir det ett hål. Om det inte tätas med ett provat system kan brand och rök passera på några minuter."],
+    ["Får vem som helst brandtäta?", "Det finns inget lagkrav på certifiering, men beställaren ska kunna visa att arbetet är rätt utfört. Därför kräver allt fler byggherrar certifierade brandtätningsfirmor."],
+    ["Hur lång tid tar en inventering?", "Ett våningsplan på 1 000 kvadratmeter tar normalt en dag. Protokollet får ni inom 48 timmar."],
+    ["Kan ni täta i lokaler som är i drift?", "Ja. Vi arbetar ofta kvällar och helger i skolor, vårdlokaler och kontor, och dammsuger efter oss varje dag."],
+    ["Vad kostar brandtätning?", "En enkel kabelgenomföring kostar några hundralappar, en stor kanalgenomföring några tusen. Vid inventering lämnar vi fast pris per plan."],
+    ["Ingår brandskyddsdokumentation?", "Vi dokumenterar tätningarna och uppdaterar brandritningarna. Brandskyddsbeskrivningen för hela huset tas fram av en brandkonsult, som vi gärna samarbetar med."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierad brandtätningsfirma", "text": "Certifierade av SBSC för brandtätning, med årlig revision av rutiner och utförande.", "ikon": "skold"},
+    {"titel": "Tillverkarutbildade montörer", "text": "Samtliga montörer har tillverkarutbildning för de fem tätningssystem vi använder.", "ikon": "verktyg"},
+    {"titel": "BF9K", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö anpassat för byggbranschen.", "ikon": "lov"},
+    {"titel": "ID06 och heta arbeten", "text": "ID06 på alla montörer och certifikat för heta arbeten för dem som arbetar med takgenomföringar.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Östgöta Byggpartner", "Ekholmens Skolfastigheter", "Mjärdevi Fastighets AB", "Brf Ljuset", "Tornby Datacenter", "Motala Vårdfastigheter", "Stångåns Installation"],
+  "nyheter": [
+    ["2026-09-15", "Därför spricker tätningar i gamla hus", "Vanliga fel vi hittar vid inventeringar – och hur de går att undvika.", "brand"],
+    ["2026-05-04", "Cellgräns öppnar i Norrköping", "Fyra montörer får egen bas på Ingelsta för projekten i östra länet.", "bygg"],
+    ["2025-11-11", "Brandskyddsmålning med drönarmätning", "Vi testar att mäta skikttjocklek på höga takbalkar utan skylift.", "maleri"]
+  ],
+  "kontakt": {"adress": "Roxtorpsgatan 12", "postnr": "586 63", "ort": "Linköping", "telefon": "070-174 06 71", "epost": "info@cellgrans.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–15.30",
+  "omrade": "Östergötland och norra Småland",
+  "fot_cta": "Vet ni hur det ser ut ovanför undertaket? Vi tar reda på det på en dag.",
+  "bild": {"panel": "bygg", "hb": "brand"},
+  "text": {
+    "ber_rubrik": "Senast från byggena",
+    "proj_rubrik": "Hus vi har tätat",
+    "process_rubrik": "Från undertaksplatta till protokoll",
+    "hb_etikett": "Dokumentation",
+    "omdomen_rubrik": "Byggledare och förvaltare berättar",
+    "faq_rubrik": "Frågor om brandtätning",
+    "boka_rubrik": "Boka en inventering",
+    "boka_falt": ["Namn", "Telefon", "Fastighet och adress", "Antal våningsplan"],
+    "logos_rubrik": "Vi tätar åt",
+    "certifikat_rubrik": "Certifierade för det lilla hålet",
+    "bolag_rubrik": "Fyra grupper, ett hantverk"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "vvs",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Fuktverket Värmland AB",
+  "kortnamn": "Fuktverket",
+  "slug": "fuktverket",
+  "typ": "Vattenskador och återställning i Värmland",
+  "tagline": "Från läcka till nyckel",
+  "slogan": "När vattnet har gjort skada tar vi hela vägen – mätning, torkning, rivning, rör och nytt badrum – med en kontaktperson och försäkringsbolaget informerat.",
+  "hero_rubrik": "En vattenskada, ett telefonnummer",
+  "hero_text": "Fuktmätning, torkning och komplett återställning efter vattenskador i Värmland. Medarbetarägt sedan 2019, ramavtal med fyra försäkringsbolag.",
+  "intro_rubrik": "Hela skadan i egen regi",
+  "om": [
+    "Fuktverket startades 2001 av Göran Wiik, en rörmokare från Kil som tröttnade på att vattenskador gick mellan fem olika firmor innan någon kunde flytta tillbaka hem. 2019 sålde han bolaget till elva av de anställda, som i dag äger det tillsammans.",
+    "Vi är 40 personer: fukttekniker, rörmokare, plattsättare, snickare och en elektriker. Vi har 320 avfuktare i lager i Karlstad och kan starta torkning i 40 hus samtidigt. En vanlig badrumsskada är återställd på sex till nio veckor."
+  ],
+  "vagval_rubrik": "Vad har vattnet ställt till med?",
+  "tjanster": [
+    {"titel": "Akut skadebesök", "ikon": "telefon", "href": "verksamhet.html", "text": "Vi stoppar läckan och startar avfuktning samma dag."},
+    {"titel": "Fuktmätning", "ikon": "sok", "href": "verksamhet.html", "text": "Kartläggning med fuktindikator, borrhålsmätning och värmekamera."},
+    {"titel": "Torkning", "ikon": "vind", "href": "verksamhet.html", "text": "Kondens- och adsorptionsavfuktare med fjärrövervakning dygnet runt."},
+    {"titel": "Rivning och sanering", "ikon": "hamare", "href": "verksamhet.html", "text": "Vi river det skadade och sanerar mögel med godkända metoder."},
+    {"titel": "Nytt badrum", "ikon": "vatten", "href": "verksamhet.html", "text": "Återställning med eget lag – rör, tätskikt, plattor och el."},
+    {"titel": "Rörbyte efter skada", "ikon": "ror", "href": "verksamhet.html", "text": "Läckande ledningar byts mot nya, säkra installationer."},
+    {"titel": "Försäkringsärenden", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi dokumenterar och kommunicerar direkt med ditt försäkringsbolag."},
+    {"titel": "Anmäl en skada", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Ring eller skicka bilder så bokar vi besök."}
+  ],
+  "affarsomraden": [
+    {"titel": "Skadebesök och kartläggning", "text": "En fukttekniker kommer ut, mäter hur långt fukten har spridit sig och fotograferar allt. Rapporten skickas till försäkringsbolaget samma dag så att ärendet kan godkännas direkt.", "text2": "I Karlstad, Hammarö och Kil är vi på plats inom fyra timmar dagtid.", "tagg": "vvs"},
+    {"titel": "Torkning med fjärrövervakning", "text": "Alla våra avfuktare har mätare som skickar fukt- och temperaturvärden till oss varje timme. Vi ser direkt om torkningen går för långsamt och behöver inte störa dig med onödiga besök.", "text2": "En normal torkning av ett bjälklag tar tre till fem veckor.", "tagg": "hem"},
+    {"titel": "Återställning", "text": "När det är torrt bygger vi upp det som revs. Badrum, kök, golv och väggar görs av våra egna hantverkare, så att du har samma projektledare från första mätningen till sista silikonfogen.", "text2": "Tio års garanti på tätskikt i återställda badrum.", "tagg": "interior"},
+    {"titel": "Fastighetsägare och föreningar", "text": "För hyresvärdar och bostadsrättsföreningar har vi avtal med fasta priser och en skadeportal där förvaltaren ser status i alla pågående ärenden.", "text2": "Vi hanterar runt 1 100 skador om året, varav hälften i flerbostadshus.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Skadeservice", "segment": "9 fukttekniker", "rubrik": "Först på plats", "text": "Gör skadebesök, mätningar och torkning, och skriver rapporterna till försäkringsbolagen.", "tagg": "vvs"},
+    {"namn": "Rör och sanering", "segment": "11 montörer", "rubrik": "Läckan och det som förstördes", "text": "Rörmokare och saneringstekniker som river, sanerar och byter ledningar.", "tagg": "vvs"},
+    {"namn": "Återställning", "segment": "15 hantverkare", "rubrik": "Tillbaka som förut", "text": "Plattsättare, snickare och en elektriker som bygger upp badrum, kök och golv.", "tagg": "interior"},
+    {"namn": "Arvika", "segment": "5 medarbetare", "rubrik": "Västra Värmland", "text": "Egen enhet i Arvika sedan 2023 som täcker Eda, Säffle och Årjäng.", "tagg": "hem"}
+  ],
+  "berattelser": [
+    {"rubrik": "Enheten i Arvika har fyllt tre år", "text": "Fem medarbetare och 260 skador om året i västra Värmland.", "tagg": "hem"},
+    {"rubrik": "Alla avfuktare uppkopplade", "text": "320 avfuktare skickar nu mätvärden varje timme – torkningen har blivit sex dagar kortare i snitt.", "tagg": "vvs"},
+    {"rubrik": "Ägarna blev fjorton", "text": "Tre nya medarbetare köpte aktier i bolaget vid årets bolagsstämma.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "1 100", "enhet": "per år", "etikett": "Vattenskador vi hanterar"},
+    {"varde": "320", "enhet": "avfuktare", "etikett": "Fjärrövervakade"},
+    {"varde": "4 h", "enhet": "", "etikett": "Till skadebesök i Karlstad"},
+    {"varde": "14", "enhet": "ägare", "etikett": "Alla jobbar här"}
+  ],
+  "projekt": [
+    {"namn": "Brf Klarälvsstranden", "ort": "Karlstad", "typ": "Läcka genom tre plan", "ar": "2025", "text": "Läckande blandare på plan fyra – tre lägenheter torkade och återställda på tio veckor.", "tagg": "bostad"},
+    {"namn": "Villa på Hammarö", "ort": "Hammarö", "typ": "Badrumsskada", "ar": "2025", "text": "Otät golvbrunn gav fukt i hela bjälklaget. Nytt badrum och golv i hallen klart på åtta veckor.", "tagg": "interior"},
+    {"namn": "Kils vårdcentral", "ort": "Kil", "typ": "Översvämning", "ar": "2024", "text": "Brustet värmerör en helg i januari – verksamheten kunde öppna igen på måndagen.", "tagg": "vvs"},
+    {"namn": "Radhus i Arvika", "ort": "Arvika", "typ": "Frysskada", "ar": "2026", "text": "Frusen vattenledning i yttervägg – torkning pågår, återställning planerad till december.", "tagg": "hem"},
+    {"namn": "Hyreshus på Herrhagen", "ort": "Karlstad", "typ": "Mögelsanering", "ar": "2024", "text": "Långvarigt läckage i en stam krävde sanering av fyra badrum och ett källarförråd.", "tagg": "vvs"},
+    {"namn": "Sommarhus vid Vänern", "ort": "Säffle", "typ": "Vinterskada", "ar": "2025", "text": "Ägaren upptäckte skadan i maj. Rivning, torkning och nytt kök innan midsommar.", "tagg": "hem"}
+  ],
+  "process": [
+    {"titel": "Skadebesök", "text": "Fukttekniker på plats, läckan stoppas och skadan mäts och fotograferas.", "tagg": "vvs"},
+    {"titel": "Godkännande", "text": "Vi skickar rapport och kostnadsförslag till försäkringsbolaget, ofta samma dag.", "tagg": "kontor"},
+    {"titel": "Rivning och torkning", "text": "Det skadade rivs och avfuktarna startas. Du kan följa fuktvärdena i vår skadeportal.", "tagg": "hem"},
+    {"titel": "Återställning", "text": "När slutmätningen är godkänd bygger vårt eget lag upp det som revs.", "tagg": "interior"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ägt av dem som gör jobbet",
+    "text": "Sedan 2019 ägs Fuktverket av fjorton medarbetare. Det märks i hur vi tar hand om kunder och utrustning: avfuktarna repareras i egen verkstad och har i snitt elva års livslängd, och 84 procent av rivningsmaterialet sorteras för återvinning.",
+    "mal": [["14", "medarbetare äger bolaget"], ["11 år", "livslängd på våra avfuktare"], ["84 %", "rivningsavfall sorteras"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba här – och bli delägare",
+    "text": "Efter två år kan alla medarbetare köpa aktier i Fuktverket. Vi söker fukttekniker och plattsättare som vill vara med och bygga något eget, i Karlstad och Arvika.",
+    "jobb": [["Fukttekniker", "Karlstad"], ["Plattsättare med våtrumsbehörighet", "Karlstad"], ["Rörmokare", "Arvika"]]
+  },
+  "kultur": "Bolagsstämman hålls varje april i lagret på Lagergrens gata, med räkmackor och alla ägare på plats.",
+  "citat": {"text": "Den som har haft vatten i golvet vill inte prata med fem olika firmor. De vill ha en människa som vet var ärendet står, varje dag.", "namn": "Jessica Lund", "roll": "Vd och delägare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi kunde följa fuktvärdena i telefonen och visste exakt när golvet var torrt. Det gjorde väntan mycket lättare.", "namn": "Karolina S.", "ort": "Hammarö"},
+    {"text": "Läckan gick genom tre lägenheter. Fuktverket hade kontakt med alla tre försäkringsbolagen så att styrelsen slapp.", "namn": "Per-Olof J., Brf Klarälvsstranden", "ort": "Karlstad"},
+    {"text": "Det brustna röret upptäcktes en lördag. På måndag morgon tog vi emot patienter som vanligt.", "namn": "Maria N., verksamhetschef", "ort": "Kil"}
+  ],
+  "faq": [
+    ["Vad ska jag göra först vid en vattenskada?", "Stäng av vattnet vid huvudkranen och stäng av strömmen i drabbade rum. Fotografera skadan och ring oss och ditt försäkringsbolag."],
+    ["Måste jag kontakta försäkringsbolaget själv?", "Du anmäler skadan, men sedan sköter vi kontakten. Vi har ramavtal med fyra försäkringsbolag och arbetar med alla andra."],
+    ["Hur länge tar torkningen?", "Oftast tre till fem veckor för ett bjälklag. Med fjärrövervakade avfuktare ser vi direkt när det är torrt."],
+    ["Kan jag bo kvar under torkningen?", "I de flesta fall ja. Avfuktarna låter ungefär som ett kylskåp och drar el för runt 25 kronor per dygn, som försäkringen normalt ersätter."],
+    ["Vad betalar jag själv?", "Självrisken i din försäkring och eventuellt åldersavdrag på det som återställs. Vi berättar vad det blir innan arbetet börjar."],
+    ["Gör ni skador som inte är försäkrade?", "Ja. Du får då ett fast pris för torkning och återställning, och rotavdrag på arbetskostnaden."],
+    ["Täcker ni hela Värmland?", "Ja, från Karlstad och Arvika. Torsby och Filipstad har vi på dagen, inte inom fyra timmar."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierad fuktsakkunnig", "text": "Två av våra fukttekniker är certifierade fuktsakkunniga enligt RISE och kan göra fuktsäkerhetsprojektering.", "ikon": "sok"},
+    {"titel": "GVK Våtrum", "text": "Auktoriserat våtrumsföretag – varje återställt badrum får våtrumsintyg.", "ikon": "skold"},
+    {"titel": "Säker Vatten", "text": "Auktoriserat företag för de rörinstallationer vi gör vid återställningen.", "ikon": "vatten"},
+    {"titel": "Saneringsutbildning", "text": "Saneringsteknikerna är utbildade för mögel- och asbestsanering enligt Arbetsmiljöverkets krav.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Brf Klarälvsstranden", "Kils vårdcentral", "Hammarö Bostadsstiftelse", "Herrhagens Fastigheter", "Arvika Hyreshus", "Brf Tingvallakajen", "Säffle Kommunfastigheter", "Värmlands Förvaltningspartner"],
+  "nyheter": [
+    ["2026-10-30", "Frysskadorna kommer i december", "Tre saker att göra innan du lämnar sommarhuset för vintern.", "hem"],
+    ["2026-04-28", "Fjorton ägare efter stämman", "Tre medarbetare köpte in sig i bolaget i år.", "people"],
+    ["2026-01-21", "Fuktvärdena i telefonen", "Nu kan alla kunder följa sin torkning i skadeportalen.", "vvs"]
+  ],
+  "kontakt": {"adress": "Lagergrens gata 4", "postnr": "652 26", "ort": "Karlstad", "telefon": "070-174 06 85", "epost": "skada@fuktverket.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–17, skadejour dygnet runt",
+  "omrade": "Hela Värmland, med kontor i Karlstad och Arvika",
+  "fot_cta": "Har det läckt? Ring oss först – vi pratar med försäkringsbolaget.",
+  "text": {
+    "kontakt_knapp": "Anmäl skada",
+    "hero_knapp": "Så hanterar vi en skada",
+    "vagval_etikett": "Skada",
+    "ber_rubrik": "Från skadeservice",
+    "proj_etikett": "Skador",
+    "proj_rubrik": "Skador vi har återställt",
+    "proj_rubrik_lista": "Återställda skador",
+    "process_rubrik": "Från läcka till inflyttning",
+    "hb_etikett": "Medarbetarägt",
+    "hb_lank": "Om ägarmodellen",
+    "omdomen_rubrik": "Efter skadan",
+    "faq_rubrik": "När det har läckt",
+    "boka_rubrik": "Anmäl en skada",
+    "boka_text": "Beskriv skadan och bifoga gärna bilder. Är det akut – ring direkt.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Adress, försäkringsbolag och vad som hänt"],
+    "logos_rubrik": "Fastighetsägare med skadeavtal",
+    "certifikat_rubrik": "Fukt, våtrum och sanering",
+    "bolag_rubrik": "Fyra enheter, en kontakt",
+    "medarbetare": "Delägare och medarbetare"
+  }
+}

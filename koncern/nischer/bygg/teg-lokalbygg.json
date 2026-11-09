@@ -1,0 +1,128 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Teg Lokalbygg AB",
+  "kortnamn": "Teg Lokalbygg",
+  "slug": "teg-lokalbygg",
+  "typ": "Lokalanpassning i Umeå och Skellefteå",
+  "tagline": "Hyresgästanpassning, nyckelfärdigt",
+  "slogan": "Vi bygger om kontor, butiker, restauranger och labb åt fastighetsägare i Västerbotten – på kvällar, helger och med hyresgästen kvar i huset.",
+  "hero_rubrik": "Nya lokaler på 21 dagar. Nyckelfärdigt.",
+  "hero_text": "Teg Lokalbygg är fastighetsägarnas entreprenör för hyresgästanpassningar. Vi river, bygger, målar och inreder – och lämnar över en lokal som är klar att flytta in i.",
+  "intro_rubrik": "Tolv år, 1 300 lokaler",
+  "om": [
+    "Amanda Nordin var projektledare på ett fastighetsbolag i Umeå och märkte att varje hyresgästanpassning blev försenad av att fem olika firmor skulle samordnas. 2014 startade hon Teg Lokalbygg tillsammans med snickaren Viktor Lundström, med en enda idé: en beställning, ett lag, ett datum.",
+    "I dag är vi 46 anställda med kontor och snickeri på Teg och en filial i Skellefteå. Vi omsatte 96 miljoner kronor 2025 och har ramavtal med sju fastighetsägare i Västerbotten."
+  ],
+  "vagval_rubrik": "Vilken lokal ska byggas om?",
+  "tjanster": [
+    {"titel": "Kontorsanpassning", "ikon": "kontor", "href": "verksamhet.html", "text": "Nya väggar, mötesrum och kontorslandskap inför ny hyresgäst."},
+    {"titel": "Butik och restaurang", "ikon": "nyckel", "href": "verksamhet.html", "text": "Ombyggnad till öppning, med kök, ventilation och skyltfönster."},
+    {"titel": "Labb och vård", "ikon": "vard", "href": "verksamhet.html", "text": "Tandläkarmottagningar, labb och vårdcentraler med höga krav."},
+    {"titel": "Kvällsarbete", "ikon": "kalender", "href": "verksamhet.html", "text": "Bullrande arbete efter 17 och på helger i hus med andra hyresgäster."},
+    {"titel": "Platsbyggd inredning", "ikon": "hamare", "href": "bolag.html", "text": "Receptioner, pentryn och bokhyllor från eget snickeri."},
+    {"titel": "Akustik och ljus", "ikon": "lampa", "href": "verksamhet.html", "text": "Ljudabsorbenter, undertak och belysning som gör lokalen användbar."},
+    {"titel": "Ramavtal", "ikon": "portfolj", "href": "faq.html", "text": "Fasta timpriser och påslag för fastighetsägare med många lokaler."},
+    {"titel": "Begär offert", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Skicka planritningen så svarar vi inom fem arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Kontor", "text": "Vi gör om kontorsytor åt nya hyresgäster, från rivning av gamla cellkontor till aktivitetsbaserade landskap med telefonbås. En normal anpassning på 400 m² tar tre till fem veckor.", "text2": "Väggar, el, data, målning och golv samordnas av en och samma projektledare.", "tagg": "kontor"},
+    {"titel": "Handel och restaurang", "text": "Butiker och restauranger har ofta ett öppningsdatum som inte går att flytta. Vi arbetar i skift, och vår rekordtid för en restaurang från tom lokal till öppning är 23 dagar.", "text2": "Storköksventilation och fettavskiljare görs med fasta samarbetspartner.", "tagg": "interior"},
+    {"titel": "Labb och vård", "text": "Vårdlokaler kräver tvättbara ytor, rätt tryckförhållanden och dokumenterad hygien. Vi bygger tandvårdskliniker, provtagningslabb och mottagningar enligt Byggenskap och Hygien.", "text2": "Arbetet sker med dammskydd och undertryck när lokalen ligger i en byggnad i drift.", "tagg": "el"},
+    {"titel": "Inredningssnickeri", "text": "I snickeriet på Teg tillverkar vi receptionsdiskar, pentryn, garderober och fönsterbänkar efter arkitektens ritning. Det gör att vi slipper långa ledtider från fabrik.", "text2": "Snickeriet har en CNC-maskin och kantlimning för laminat och fanér.", "tagg": "tra"}
+  ],
+  "bolag": [
+    {"namn": "Teg Kontor", "segment": "Hyresgästanpassning", "rubrik": "Fem veckor till inflyttning", "text": "Projektledare och snickarlag som bygger om kontor åt fastighetsägare i Umeå.", "tagg": "kontor"},
+    {"namn": "Teg Handel", "segment": "Butik och restaurang", "rubrik": "Öppningsdatumet är heligt", "text": "Ett skiftlag som jobbar kvällar och nätter i köpcentrum och gallerior.", "tagg": "interior"},
+    {"namn": "Teg Vård & Labb", "segment": "Vårdlokaler", "rubrik": "Tvättbart, tätt, dokumenterat", "text": "Särskilt utbildade hantverkare för labb, mottagningar och tandvård.", "tagg": "el"},
+    {"namn": "Teg Snickeri", "segment": "Platsbyggd inredning", "rubrik": "Ritat i dag, monterat på fredag", "text": "Snickeri på 900 m² som tillverkar receptioner, pentryn och specialinredning.", "tagg": "tra"}
+  ],
+  "berattelser": [
+    {"rubrik": "Tandvårdsklinik på Ålidhem öppnad", "text": "Sex behandlingsrum, sterilrum och röntgen – byggt på sju veckor i ett hus med boende ovanför.", "tagg": "el"},
+    {"rubrik": "Restaurang på Rådhustorget klar på 23 dagar", "text": "Nytt kök, bardisk från vårt snickeri och 80 sittplatser – öppnade på utsatt fredag.", "tagg": "interior"},
+    {"rubrik": "Filial i Skellefteå växer", "text": "Vi är nu tolv personer på Norra Industrigatan och tar uppdrag i hela Skelleftebygden.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "1 300", "enhet": "", "etikett": "Lokaler sedan 2014"},
+    {"varde": "21", "enhet": "dagar", "etikett": "Snittid för en anpassning"},
+    {"varde": "7", "enhet": "", "etikett": "Fastighetsägare med ramavtal"},
+    {"varde": "46", "enhet": "", "etikett": "Anställda i Umeå och Skellefteå"}
+  ],
+  "projekt": [
+    {"namn": "Tandvården Ålidhem", "ort": "Umeå", "typ": "Vårdlokal", "ar": "2026", "text": "Tandvårdsklinik på 420 m² med sterilrum och röntgen.", "tagg": "el"},
+    {"namn": "Restaurang Kajutan", "ort": "Umeå", "typ": "Restaurang", "ar": "2026", "text": "Från tom butikslokal till restaurang med 80 platser på 23 dagar.", "tagg": "interior"},
+    {"namn": "Kv. Kronan, plan 4", "ort": "Umeå", "typ": "Kontor", "ar": "2025", "text": "1 100 m² aktivitetsbaserat kontor med tolv mötesrum.", "tagg": "kontor"},
+    {"namn": "Batterilabbet", "ort": "Skellefteå", "typ": "Laboratorium", "ar": "2025", "text": "Labb med dragskåp och ESD-golv åt ett leverantörsföretag.", "tagg": "industri"},
+    {"namn": "Optikern på Kungsgatan", "ort": "Umeå", "typ": "Butik", "ar": "2024", "text": "Butik och synundersökningsrum, byggt på tre nätter och en helg.", "tagg": "stad"},
+    {"namn": "Vårdcentralen Morö Backe", "ort": "Skellefteå", "typ": "Vårdcentral", "ar": "2024", "text": "Ombyggnad av 1 600 m² i etapper medan mottagningen var öppen.", "tagg": "el"}
+  ],
+  "process": [
+    {"titel": "Ritning och mängder", "text": "Ni skickar planritning och hyresgästens önskemål. Vi svarar med pris inom fem arbetsdagar.", "tagg": "kontor"},
+    {"titel": "Startmöte i lokalen", "text": "Fastighetsägare, hyresgäst och vår projektledare går igenom lokalen och låser inflyttningsdatum.", "tagg": "people"},
+    {"titel": "Bygget", "text": "Vi river, bygger och målar med eget lag och fasta underentreprenörer för el, vent och rör.", "tagg": "interior"},
+    {"titel": "Nyckelöverlämning", "text": "Slutbesiktning, städning och nycklar – oftast dagen före inflyttning.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Återbruk är förstahandsvalet",
+    "text": "En vanlig hyresgästanpassning slänger väggar, dörrar och undertak som fungerar. Vi har ett eget återbrukslager på 600 m² på Teg och återanvänder glaspartier, dörrar och undertaksplattor där det går.",
+    "mal": [["32 %", "återbrukat material i kontorsprojekt 2025"], ["94 %", "sorterat byggavfall"], ["1 dag", "från rivning till återbrukslager"]]
+  },
+  "karriar": {
+    "rubrik": "Varierat varje vecka, hemma varje kväll",
+    "text": "Hos oss bygger du en tandvårdsklinik ena månaden och en restaurang nästa. Alla projekt ligger i Umeå eller Skellefteå, och kvällsarbete ersätts med OB och kompledighet.",
+    "jobb": [["Snickare lokalanpassning", "Umeå"], ["Projektledare", "Skellefteå"], ["Möbelsnickare", "Umeå"]]
+  },
+  "kultur": "Varje projekt avslutas med en fika i den färdiga lokalen – tillsammans med hyresgästen som ska flytta in.",
+  "citat": {"text": "En hyresgäst som inte kan flytta in i tid kostar fastighetsägaren mer än hela vår faktura. Därför börjar vi alltid med att fråga om datumet.", "namn": "Amanda Nordin", "roll": "Grundare och VD", "tagg": "kontor"},
+  "omdomen": [
+    {"text": "Vi skickar en planritning på måndagen och har pris på fredagen. Det är därför Teg har vårt ramavtal.", "namn": "Jens O.", "ort": "Fastighetsförvaltare, Umeå"},
+    {"text": "De byggde vårt nya kontor medan vi jobbade kvar i andra halvan av våningen. Jag hörde knappt en borrmaskin under arbetstid.", "namn": "Sofie M.", "ort": "Kontorschef, Kv. Kronan"},
+    {"text": "Bardisken från deras snickeri är det första gästerna kommenterar.", "namn": "Ali K.", "ort": "Restaurang Kajutan"}
+  ],
+  "faq": [
+    ["Vad kostar en kontorsanpassning?", "En enklare anpassning med nya väggar, målning och golv kostar 1 500–3 500 kronor per kvadratmeter. Med nya mötesrum, pentry och akustik 4 000–7 000 kronor."],
+    ["Hur snabbt kan ni starta?", "Ofta inom två veckor från beställning. Akuta anpassningar inför en ny hyresgäst kan vi ibland ta samma vecka."],
+    ["Kan ni arbeta när andra hyresgäster är kvar?", "Ja. Bullrande arbete som rivning och bilning gör vi efter 17 eller på helger, och vi sätter upp dammväggar med undertryck."],
+    ["Har ni ramavtal?", "Ja, med fasta timpriser, påslag och svarstider. Ramavtalen löper normalt på två år med möjlighet till förlängning."],
+    ["Bygger ni restaurangkök?", "Vi bygger lokalen och samordnar storköksleverantören, ventilation och fettavskiljare med våra fasta partner."],
+    ["Arbetar ni utanför Umeå och Skellefteå?", "Ibland i Vännäs, Robertsfors och Lycksele. Längre bort hänvisar vi gärna till lokala kollegor."],
+    ["Vem äger projektet – vi eller hyresgästen?", "Vi har avtal med den som beställer, oftast fastighetsägaren. Hyresgästens tillval kan faktureras direkt till hyresgästen."]
+  ],
+  "certifikat": [
+    {"titel": "Byggenskap och Hygien", "text": "Utbildade för ombyggnad i vårdlokaler enligt regionens hygienkrav.", "ikon": "vard"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierade sedan 2021, med egen miljöhandbok för återbruk.", "ikon": "skold"},
+    {"titel": "BF9K", "text": "Certifierat ledningssystem anpassat för byggföretag.", "ikon": "lov"},
+    {"titel": "ID06", "text": "Personalliggare och identifiering på alla arbetsplatser.", "ikon": "las"}
+  ],
+  "kunder": ["Umeå Kontorsfastigheter", "Ålidhems Hyresfastigheter", "Västerbottens Handelshus", "Skellefteå Industrilokaler", "Kv. Kronan Fastighets AB", "Region Västerbotten, lokalförsörjning", "Morö Backe Fastigheter"],
+  "nyheter": [
+    ["2026-10-20", "Tandvårdskliniken klar på sju veckor", "Sterilrum, röntgen och sex behandlingsrum – med boende i huset hela tiden.", "el"],
+    ["2026-07-08", "Nytt återbrukslager på Teg", "600 m² med dörrar, glaspartier och undertak som får ett andra liv.", "kontor"],
+    ["2026-02-24", "Ramavtal med Västerbottens Handelshus", "Avtalet gäller anpassningar i elva butiksfastigheter fram till 2028.", "stad"]
+  ],
+  "kontakt": {"adress": "Formvägen 9", "postnr": "906 21", "ort": "Umeå", "telefon": "070-174 06 95", "epost": "offert@teglokalbygg.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16. Byggen även kvällar och helger.",
+  "omrade": "Umeå, Skellefteå och södra Västerbotten",
+  "fot_cta": "Har ni en hyresgäst på väg in? Skicka ritningen så har ni ett pris inom fem arbetsdagar.",
+  "bild": {"panel": "interior", "hb": "kontor", "om": "kontor", "sida_bolag": "kontor", "sida_om": "interior", "sida_hb": "kontor", "sida_faq": "kontor"},
+  "text": {
+    "hero_knapp": "Lokaler vi bygger",
+    "hero_lank": "Se färdiga lokaler",
+    "ber_rubrik": "Lokaler som öppnar nu",
+    "proj_rubrik": "Kontor, butiker och kliniker",
+    "proj_kol": ["Lokal", "Ort", "Typ", "Status", "År"],
+    "process_rubrik": "Från planritning till nycklar",
+    "hb_etikett": "Återbruk & miljö",
+    "hb_lank": "Om vårt återbrukslager",
+    "omdomen_rubrik": "Fastighetsägare och hyresgäster",
+    "faq_rubrik": "Frågor om lokalanpassning",
+    "boka_rubrik": "Skicka planritningen",
+    "boka_text": "Bifoga ritning och inflyttningsdatum, så får du pris inom fem arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Adress, yta och inflyttningsdatum"],
+    "certifikat_rubrik": "Godkända för vård, kontor och handel",
+    "logos_rubrik": "Fastighetsägare vi bygger för",
+    "bolag_rubrik": "Fyra team för fyra sorters lokaler",
+    "ny_rubrik": "Senaste från Teg",
+    "medarbetare": "Teamet"
+  }
+}

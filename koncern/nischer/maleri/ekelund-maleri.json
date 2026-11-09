@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "maleri",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ekelund Måleri & Miljö AB",
+  "kortnamn": "Ekelund",
+  "slug": "ekelund-maleri",
+  "typ": "Målerifirma med miljöprofil i Uppsala",
+  "tagline": "Måleri med mindre avtryck",
+  "slogan": "Svanenmärkt färg, eldrivna bilar och en klimatkalkyl på varje offert – så har vi målat i Uppsala sedan 2019.",
+  "hero_rubrik": "Varje offert har en klimatkalkyl",
+  "hero_text": "15 målare, fyra elbilar och en lastcykel i innerstaden. Vi målar villor, föreningar, skolor och kontor i Uppsala län med färger som är snälla mot både luft och vatten.",
+  "intro_rubrik": "Så ser vårt avtryck ut i siffror",
+  "om": [
+    "Sara Ekelund startade firman 2004 som en vanlig målerifirma i Uppsala. 2019 fick en av målarna astma av lösningsmedel, och då bestämde hon att firman bara skulle använda Svanenmärkta eller traditionella färger – och räkna på klimatet i varje uppdrag.",
+    "I dag är vi 15 målare och en projektledare i Boländerna. Kunderna är privatpersoner, bostadsrättsföreningar och offentliga beställare som ställer miljökrav i upphandlingen, och vi redovisar varje år hur mycket färg, plast och bränsle vi har använt."
+  ],
+  "vagval_rubrik": "Vad vill ni måla – och hur grönt?",
+  "tjanster": [
+    {"titel": "Invändig målning", "ikon": "pensel", "href": "verksamhet.html", "text": "Svanenmärkta väggfärger med låga emissioner – rummen kan användas samma kväll."},
+    {"titel": "Fasad i linolja", "ikon": "hus", "href": "verksamhet.html", "text": "Linoljefärg och slamfärg på trähus, utan biocider."},
+    {"titel": "Silikatfärg på puts", "ikon": "sten", "href": "verksamhet.html", "text": "Mineralisk färg som binder in i putsen och släpper igenom fukt."},
+    {"titel": "Tapetsering", "ikon": "hem", "href": "verksamhet.html", "text": "Papperstapeter och klister utan konserveringsmedel."},
+    {"titel": "Skolor och förskolor", "ikon": "skola", "href": "verksamhet.html", "text": "Målning under lov med dokumentation för miljökrav i upphandlingen."},
+    {"titel": "Färgbanken", "ikon": "lov", "href": "verksamhet.html", "text": "Överbliven färg skänks till föreningar och skolor i stället för att bli avfall."},
+    {"titel": "Klimatkalkyl", "ikon": "graf", "href": "hallbarhet.html", "text": "Koldioxid per uppdrag, redovisat på offerten."},
+    {"titel": "Begär offert", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Fast pris och klimatkalkyl inom fem arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Inomhus", "text": "Vi målar inomhus enbart med Svanenmärkta färger, och snickerier med vattenburen alkyd eller linoljefärg. Det gör att det inte luktar lösningsmedel och att barn, allergiker och husdjur kan vara hemma.", "text2": "Rollrar och penslar tvättas i ett slutet system som filtrerar bort färgpartiklarna innan vattnet går till avloppet.", "tagg": "interior"},
+    {"titel": "Fasader", "text": "Trähus målar vi med linoljefärg eller slamfärg, putsade hus med silikat- eller kalkfärg. Det är färger utan biocider som kan underhållas i stället för att skrapas bort nästa gång.", "text2": "Fasadjobb planeras så att ställningen kan köras ut med en enda leverans.", "tagg": "maleri"},
+    {"titel": "Offentliga miljöer", "text": "Skolor, förskolor och kontor i Uppsala och Knivsta upphandlar ofta med miljökrav. Vi levererar produktblad, byggvarudeklarationer och mängder per produkt till BASTA- eller Byggvarubedömningen.", "text2": "Arbetet görs på lov och kvällar, och lokalerna kan användas dagen efter.", "tagg": "kontor"},
+    {"titel": "Färgbanken", "text": "Överbliven, oöppnad färg från våra jobb samlas i ett lager i Boländerna. Föreningar, skolor och privatpersoner kan hämta den gratis efter bokning.", "text2": "2025 gick 1 100 liter färg vidare i stället för till förbränning.", "tagg": "people"}
+  ],
+  "bolag": [
+    {"namn": "Innelaget", "segment": "8 målare", "rubrik": "Låga emissioner, hög takt", "text": "Lägenheter, villor och kontor. Kör eldrivna skåpbilar och en lastcykel i stadskärnan.", "tagg": "interior"},
+    {"namn": "Fasadlaget", "segment": "5 målare", "rubrik": "Linolja, slamfärg och silikat", "text": "Träfasader och putsade hus i Uppsala län, från maj till september.", "tagg": "maleri"},
+    {"namn": "Offentliga uppdrag", "segment": "2 målare och projektledare", "rubrik": "Skolor och upphandling", "text": "Tar fram miljödokumentation och planerar arbetet efter skolans lov.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fem förskolor målade på sportlovet", "text": "Fyrisåns Förskolor bytte färg i 22 rum – barnen var tillbaka på måndagen utan lukt.", "tagg": "interior"},
+    {"rubrik": "Miljöredovisningen för 2025 är klar", "text": "Koldioxiden per målartimme sjönk med 31 procent jämfört med 2019.", "tagg": "natur"},
+    {"rubrik": "Färgbanken öppnar på lördagar", "text": "Från oktober kan du hämta gratis färg i Boländerna varannan lördag.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "100 %", "enhet": "", "etikett": "Svanenmärkt färg inomhus"},
+    {"varde": "1 100", "enhet": "liter", "etikett": "Restfärg till återbruk 2025"},
+    {"varde": "−31 %", "enhet": "CO₂", "etikett": "Per målartimme sedan 2019"},
+    {"varde": "4 av 5", "enhet": "bilar", "etikett": "Går på el"}
+  ],
+  "projekt": [
+    {"namn": "Fyrisåns Förskolor", "ort": "Uppsala", "typ": "Invändig målning", "ar": "2026", "text": "22 rum i fem förskolor under sportlovet, med Svanenmärkt färg och full dokumentation.", "tagg": "interior"},
+    {"namn": "Brf Luthagsesplanaden", "ort": "Uppsala, Luthagen", "typ": "Trapphus", "ar": "2026", "text": "Fyra trapphus från 1930-talet i linoljefärg och limfärg i taken.", "tagg": "maleri"},
+    {"namn": "Villa i Kåbo", "ort": "Uppsala", "typ": "Fasad i linoljefärg", "ar": "2025", "text": "Skrapning, linoljegrund och tre strykningar i en ljusgrå kulör.", "tagg": "maleri"},
+    {"namn": "Sävja skola", "ort": "Uppsala", "typ": "Klassrum och korridorer", "ar": "2025", "text": "2 400 kvadratmeter vägg under sommarlovet, med 0,4 ton CO₂ i klimatkalkylen.", "tagg": "interior"},
+    {"namn": "Knivsta kommunhus", "ort": "Knivsta", "typ": "Kontor", "ar": "2024", "text": "Kontorsplan målade på kvällstid medan verksamheten var i gång.", "tagg": "kontor"},
+    {"namn": "Radhusområdet Gottsunda Gärde", "ort": "Uppsala", "typ": "Fasad i slamfärg", "ar": "2027", "text": "64 radhus i röd slamfärg – startar i maj.", "tagg": "bostad", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Besök och mängder", "text": "Vi mäter upp ytorna och går igenom önskemål om kulör och färgtyp.", "tagg": "hem"},
+    {"titel": "Offert med klimatkalkyl", "text": "Pris, färgval och beräknad koldioxid för material och transporter.", "tagg": "kontor"},
+    {"titel": "Målning", "text": "Ett fast lag, eldriven bil och så lite engångsplast som möjligt vid täckning.", "tagg": "interior"},
+    {"titel": "Utfall efteråt", "text": "Efter jobbet får ni faktisk förbrukning av färg och resor, och restfärgen går till Färgbanken.", "tagg": "natur"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi redovisar vårt avtryck varje år",
+    "text": "Sedan 2019 mäter vi färgförbrukning, avfall, resor och el. Målen för 2028 är att alla bilar ska gå på el, att engångsplasten vid täckning ska halveras och att ingen användbar restfärg ska gå till förbränning.",
+    "mal": [["100 %", "elbilar senast 2028"], ["−50 %", "engångsplast vid täckning jämfört med 2023"], ["0 liter", "användbar restfärg till förbränning"]]
+  },
+  "karriar": {
+    "rubrik": "Måla utan lösningsmedel i lungorna",
+    "text": "Vi har bytt bort alla lösningsmedelsburna färger inomhus och betalar för utbildning i traditionella färger som linolja och kalk.",
+    "jobb": [["Målare", "Uppsala"], ["Lärling måleri", "Uppsala"]]
+  },
+  "kultur": "Personalen har fått cykelförmån sedan 2020, och sju av femton cyklar till jobbet året runt.",
+  "citat": {"text": "Jag har sett vad lösningsmedel gör med en målares lungor. Det var inte svårt att välja bort dem – svårare var att få alla andra att fråga efter det.", "namn": "Sara Ekelund", "roll": "Vd och grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vår dotter har svår astma. Hon kunde sova i sitt nymålade rum samma kväll.", "namn": "Emma R.", "ort": "Uppsala, Kåbo"},
+    {"text": "Klimatkalkylen i anbudet gjorde att vi kunde ge Ekelund poäng i upphandlingen. Dokumentationen efteråt var komplett.", "namn": "Upphandlare, Fyrisåns Förskolor", "ort": "Uppsala"},
+    {"text": "Vi hämtade 60 liter gratis färg till scoutstugan från Färgbanken. Det räckte till hela insidan.", "namn": "Kårordförande", "ort": "Sunnersta"}
+  ],
+  "faq": [
+    ["Är miljöfärger dyrare?", "Materialet kostar 5–15 procent mer, men färgen är en liten del av totalpriset. För en normal trea blir skillnaden runt 800 kronor."],
+    ["Håller Svanenmärkt färg lika bra?", "Ja, för väggar och tak är hållbarheten densamma. På utsatta snickerier använder vi vattenburen alkyd eller linoljefärg."],
+    ["Hur räknar ni fram klimatkalkylen?", "Vi utgår från produktens miljödeklaration, mängd färg och plast samt körsträcka med bil. Kalkylen är en uppskattning och följs upp med faktiskt utfall efter jobbet."],
+    ["Vad är Färgbanken?", "Ett lager i Boländerna där överbliven, oöppnad färg från våra uppdrag skänks vidare. Föreningar och privatpersoner bokar hämtning gratis."],
+    ["Kan ni måla med linoljefärg inomhus?", "Ja, på snickerier, dörrar och golv. Den torkar långsammare – räkna med ett dygn mellan strykningarna."],
+    ["Får vi ROT-avdrag?", "Ja, på arbetskostnaden för privatpersoner. Avdraget dras på fakturan."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem sedan 2021.", "ikon": "lov"},
+    {"titel": "Svensk Miljöbas", "text": "Miljödiplomerade sedan 2019, med årlig revision.", "ikon": "skold"},
+    {"titel": "MVK-behörighet", "text": "Behörighet enligt Måleribranschens våtrumskontroll för målning i badrum.", "ikon": "vatten"},
+    {"titel": "Måleriavtalet", "text": "Kollektivavtal och medlemskap i Måleriföretagen i Sverige.", "ikon": "dokument"}
+  ],
+  "kunder": ["Fyrisåns Förskolor", "Brf Luthagsesplanaden", "Brf Svartbäcken 12", "Studenthem Fyris", "Knivsta kommun", "Sävja Skolfastigheter", "Enköpings Hyreshus", "Fastighets AB Kungsängen"],
+  "nyheter": [
+    ["2026-10-01", "Färgbanken öppnar på lördagar", "Varannan lördag kl. 10–13 i Boländerna, med start 10 oktober.", "people"],
+    ["2026-04-22", "Miljöredovisning 2025", "Vi minskade koldioxiden per målartimme med 31 procent sedan 2019.", "natur"],
+    ["2026-01-15", "Den fjärde elbilen levererad", "Nu är bara en bil kvar på diesel – den byts ut 2027.", "kontor"]
+  ],
+  "kontakt": {"adress": "Bolandsgatan 15", "postnr": "753 23", "ort": "Uppsala", "telefon": "070-174 06 53", "epost": "offert@ekelundmaleri.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Uppsala, Knivsta, Enköping och Östhammar",
+  "fot_cta": "Vill du veta vad ditt måleri väger i koldioxid? Be om offert, så får du kalkylen på köpet.",
+  "bild": {"panel": "interior", "hb": "natur"},
+  "text": {
+    "ber_etikett": "Aktuellt",
+    "ber_rubrik": "Nytt från Boländerna",
+    "proj_rubrik": "Uppdrag med mätbart mindre avtryck",
+    "process_rubrik": "Räkna, måla, redovisa",
+    "hb_etikett": "Miljöredovisning",
+    "omdomen_rubrik": "Varför kunderna valde oss",
+    "faq_rubrik": "Frågor om miljöfärger och klimatkalkyl",
+    "boka_rubrik": "Be om offert med klimatkalkyl",
+    "boka_text": "Berätta vad som ska målas och ungefär hur stora ytorna är. Vi bokar ett besök inom en vecka.",
+    "logos_rubrik": "Beställare som ställer miljökrav",
+    "certifikat_rubrik": "Miljöledning och behörigheter",
+    "bolag_rubrik": "Tre lag med samma miljöregler",
+    "medarbetare": "Målarna"
+  }
+}

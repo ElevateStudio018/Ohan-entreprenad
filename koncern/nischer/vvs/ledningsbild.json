@@ -1,0 +1,135 @@
+{
+  "profil": "nisch",
+  "nisch": "vvs",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ledningsbild Småland AB",
+  "kortnamn": "Ledningsbild",
+  "slug": "ledningsbild",
+  "typ": "Rörinspektion och filmning i Småland",
+  "tagline": "Vi filmar, andra bygger",
+  "slogan": "Vi filmar, mäter och bedömer rör – men säljer aldrig själva åtgärden. Därför kan du lita på vad vi ser.",
+  "hero_rubrik": "Se rören innan någon säljer ett stambyte",
+  "hero_text": "Oberoende filmning, läcksökning och statusbedömning av avlopp och vattenledningar i Jönköping, Växjö och Värnamo. För husköpare, föreningar och fastighetsbolag.",
+  "intro_rubrik": "Oberoende sedan första filmen",
+  "om": [
+    "Sofia Ekdahl och Rasmus Ivarsson arbetade båda på reliningföretag när de startade Ledningsbild 2016. De hade sett hur samma firma som filmade rören också bestämde vad som behövde göras – och sålde det. Ledningsbild gör bara det första steget.",
+    "Vi är nio anställda med fyra filmbilar och tar varken provision eller uppdrag för att åtgärda det vi hittar. Alla filmer klassas enligt SS-EN 13508-2 och levereras med en rapport som en annan entreprenör kan räkna på direkt."
+  ],
+  "vagval_rubrik": "Vad vill du veta om rören?",
+  "tjanster": [
+    {"titel": "Filmning vid husköp", "ikon": "kamera", "href": "verksamhet.html", "text": "Avloppet filmat och bedömt innan du skriver på – rapport inom 48 timmar."},
+    {"titel": "Statusbedömning för brf", "ikon": "dokument", "href": "verksamhet.html", "text": "Underlag inför beslut om relining, stambyte eller att vänta."},
+    {"titel": "Kontroll efter relining", "ikon": "sok", "href": "verksamhet.html", "text": "Vi granskar en annan entreprenörs arbete innan föreningen godkänner det."},
+    {"titel": "Läcksökning", "ikon": "vatten", "href": "verksamhet.html", "text": "Spårgas, akustik och värmekamera – utan att riva i onödan."},
+    {"titel": "Ledningskartor", "ikon": "karta", "href": "verksamhet.html", "text": "Digital karta över alla ledningar med position, dimension och djup."},
+    {"titel": "Spolning före filmning", "ikon": "ror", "href": "verksamhet.html", "text": "Högtrycksspolning så att filmen visar röret, inte smutsen."},
+    {"titel": "Garantibesiktning", "ikon": "skold", "href": "verksamhet.html", "text": "Filmning av relinade rör innan garantin går ut."},
+    {"titel": "Priser", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Fasta priser för villor och per lägenhet."}
+  ],
+  "affarsomraden": [
+    {"titel": "Husköp och överlåtelse", "text": "En besiktning av huset tittar sällan in i avloppet. Vi filmar från huvudrensning till anslutning mot kommunens ledning och bedömer skicket i klartext.", "text2": "Rapporten kommer inom 48 timmar, i tid före kontraktsskrivningen.", "tagg": "hem"},
+    {"titel": "Beslutsunderlag för föreningar", "text": "Inför ett stambyte eller en relining filmar vi alla stammar och grenrör och klassar varje skada. Föreningen får ett underlag som kan skickas ut till flera entreprenörer för anbud.", "text2": "Ett vanligt resultat är att stambytet kan skjutas fem till tio år.", "tagg": "bostad"},
+    {"titel": "Kontroll av utfört arbete", "text": "När en entreprenör har relinat ett hus filmar vi resultatet innan föreningen betalar slutfakturan. Vi letar efter veck, dåliga upplåsningar och otäta övergångar.", "text2": "I ungefär vart femte projekt hittar vi något som entreprenören får åtgärda.", "tagg": "vvs"},
+    {"titel": "Fastighetsbolag och kommuner", "text": "För större bestånd gör vi systematisk inventering av ledningar, med digital karta och en underhållsplan som visar vad som behöver åtgärdas när.", "text2": "Filmerna lagras i en portal där förvaltaren kan se dem i tio år.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Filmning", "segment": "5 tekniker, 4 bilar", "rubrik": "Kamera från 40 till 600 mm", "text": "Skjutkamera för smala grenrör och vagnkamera med lutningsmätning för markledningar.", "tagg": "vvs"},
+    {"namn": "Bedömning", "segment": "2 ingenjörer", "rubrik": "Varje skada klassad", "text": "Sofia och Rasmus granskar alla filmer och skriver rapporterna, så att bedömningen alltid görs av samma ögon.", "tagg": "kontor"},
+    {"namn": "Läcksökning", "segment": "2 tekniker", "rubrik": "Hittar läckan, inte bara fukten", "text": "Spårgas, marklyssning och fuktkartläggning i golv, väggar och mark.", "tagg": "vvs"}
+  ],
+  "berattelser": [
+    {"rubrik": "Föreningen som sköt stambytet tio år", "text": "Brf Rosenlund i Jönköping hade offert på 38 miljoner. Filmen visade att två stammar räckte att åtgärda.", "tagg": "bostad"},
+    {"rubrik": "Ny portal för filmerna", "text": "Alla kunder kan nu se sina filmer, rapporter och ledningskartor i webbläsaren i tio år.", "tagg": "kontor"},
+    {"rubrik": "Växjö får egen filmbil", "text": "Från januari utgår en tekniker och bil från Växjö fyra dagar i veckan.", "tagg": "vvs"}
+  ],
+  "nyckeltal": [
+    {"varde": "0 kr", "enhet": "", "etikett": "Provision på åtgärder"},
+    {"varde": "48 h", "enhet": "", "etikett": "Till rapport vid husköp"},
+    {"varde": "2 800", "enhet": "per år", "etikett": "Filmade fastigheter"},
+    {"varde": "1 av 5", "enhet": "", "etikett": "Reliningar med fel vi hittat"}
+  ],
+  "projekt": [
+    {"namn": "Brf Rosenlund", "ort": "Jönköping", "typ": "Statusbedömning, 88 lgh", "ar": "2025", "text": "Filmen visade att åtta av tio stammar höll i minst tio år till.", "tagg": "bostad"},
+    {"namn": "Kvarteret Gjuteriet", "ort": "Huskvarna", "typ": "Kontroll efter relining", "ar": "2025", "text": "Vi hittade elva felaktiga upplåsningar som entreprenören åtgärdade innan slutbesiktning.", "tagg": "vvs"},
+    {"namn": "Växjö kommun skolfastigheter", "ort": "Växjö", "typ": "Ledningsinventering", "ar": "2026", "text": "Filmning och digital karta över avlopp i 23 skolor, klart till våren 2027.", "tagg": "stad"},
+    {"namn": "Villa i Bankeryd", "ort": "Jönköping", "typ": "Husköpsfilmning", "ar": "2025", "text": "Rotinträngning i servisledningen upptäcktes – köparen fick 85 000 kronor i prisavdrag.", "tagg": "hem"},
+    {"namn": "Industrihus på Torsvik", "ort": "Jönköping", "typ": "Läcksökning", "ar": "2024", "text": "Läckande tappvattenledning under betonggolv lokaliserad med spårgas på 40 centimeters när.", "tagg": "industri"},
+    {"namn": "Värnamo Hyresgårdar", "ort": "Värnamo", "typ": "Garantibesiktning", "ar": "2024", "text": "Filmning av 140 relinade lägenheter året innan garantitiden gick ut.", "tagg": "bostad"}
+  ],
+  "process": [
+    {"titel": "Beställning", "text": "Du får fast pris direkt i telefon för villor, och efter ritningsgenomgång för flerbostadshus.", "tagg": "kontor"},
+    {"titel": "Spolning och film", "text": "Vi spolar rent och filmar varje meter, med position och lutning sparad i filmen.", "tagg": "vvs"},
+    {"titel": "Bedömning", "text": "En ingenjör går igenom filmen och klassar varje skada enligt svensk standard.", "tagg": "kontor"},
+    {"titel": "Rapport och portal", "text": "Du får en rapport i klartext och tillgång till filmerna i portalen i tio år.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Det mest hållbara röret är det som får sitta kvar",
+    "text": "Ett onödigt stambyte ger tonvis med rivningsavfall och nya material. Genom att visa vad som faktiskt behöver göras har våra kunder skjutit upp eller minskat åtgärder i över 300 fastigheter sedan 2016.",
+    "mal": [["300+", "fastigheter slapp onödiga åtgärder"], ["10 år", "filmer sparade i portalen"], ["0", "kopplingar till entreprenörer"]]
+  },
+  "karriar": {
+    "rubrik": "Bli rörens detektiv",
+    "text": "Vi söker en filmtekniker som tycker om att lösa gåtor. Du lär dig kameror, klassningsstandarden och läcksökning hos oss – erfarenhet från VVS eller spolning är ett plus.",
+    "jobb": [["Filmtekniker", "Växjö"], ["Filmtekniker", "Jönköping"]]
+  },
+  "kultur": "Varje måndag tittar vi på veckans konstigaste film tillsammans – senast en mobiltelefon i en stam på Öster.",
+  "citat": {"text": "Om vi tjänade pengar på att hitta fel skulle vi hitta fler fel. Därför har vi bestämt att vi aldrig ska göra något annat än att titta.", "namn": "Sofia Ekdahl", "roll": "Medgrundare och ingenjör", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi var på väg att skriva på ett stambyte för 38 miljoner. Rapporten från Ledningsbild gjorde att vi relinade två stammar i stället.", "namn": "Tomas R., ordförande", "ort": "Jönköping"},
+    {"text": "Rapporten kom två dagar före kontraktsskrivningen och gav oss ett prisavdrag som betalade den tio gånger om.", "namn": "Josefin och Ali M.", "ort": "Bankeryd"},
+    {"text": "Vi anlitar dem för att kontrollera våra entreprenörer. Det har gjort alla mer noggranna – även entreprenörerna.", "namn": "Annelie S., förvaltare", "ort": "Värnamo"}
+  ],
+  "faq": [
+    ["Varför gör ni inte själva relining eller stambyten?", "För att bedömningen ska vara oberoende. Vi tjänar lika mycket oavsett om ni behöver göra något eller inte."],
+    ["Vad kostar filmning vid husköp?", "4 900 kronor för en normal villa inklusive spolning och rapport. Resa inom Jönköpings kommun ingår."],
+    ["Hur snabbt kan ni komma?", "Vid husköp oftast inom tre arbetsdagar. Rapporten kommer inom 48 timmar efter filmningen."],
+    ["Måste säljaren godkänna filmningen?", "Ja, du behöver säljarens tillstånd att komma in i huset. De flesta mäklare hjälper till att boka."],
+    ["Kan ni rekommendera en entreprenör?", "Vi ger inga rekommendationer, men vår rapport är skriven så att flera entreprenörer kan lämna anbud på samma underlag."],
+    ["Vilka områden täcker ni?", "Jönköpings län och Kronobergs län, med baser i Jönköping och Växjö."]
+  ],
+  "priser": [
+    {"namn": "Husköp", "pris": "4 900 kr", "enhet": "per villa", "text": "Avloppet filmat och bedömt före kontraktet.", "punkter": ["Spolning och filmning", "Rapport inom 48 timmar", "Filmen i portalen i tio år", "Resa inom kommunen ingår"], "utvald": true},
+    {"namn": "Statusbedömning brf", "pris": "fr. 1 150 kr", "enhet": "per lägenhet, exkl. moms", "text": "Underlaget inför beslut om relining eller stambyte.", "punkter": ["Alla stammar och grenrör filmade", "Skadeklassning enligt SS-EN 13508-2", "Rapport anpassad för anbud", "Presentation för styrelsen"]},
+    {"namn": "Kontroll efter relining", "pris": "fr. 14 000 kr", "enhet": "per trapphus, exkl. moms", "text": "Oberoende granskning innan ni godkänner arbetet.", "punkter": ["Filmning av alla relinade rör", "Kontroll av upplåsningar och skarvar", "Lista över fel för entreprenören", "Uppföljande film efter åtgärd"]}
+  ],
+  "certifikat": [
+    {"titel": "Klassning SS-EN 13508-2", "text": "Våra ingenjörer är utbildade i den svenska standarden för bedömning av avloppsledningar.", "ikon": "dokument"},
+    {"titel": "ID06", "text": "Alla tekniker har ID06-kort och registreras i personalliggaren på varje byggarbetsplats.", "ikon": "folk"},
+    {"titel": "Arbete på väg", "text": "Alla tekniker har utbildning för arbete vid väg när vi filmar i kommunala brunnar.", "ikon": "vag"},
+    {"titel": "Konsultansvarsförsäkring", "text": "Försäkrade för fel i våra bedömningar upp till fem miljoner kronor.", "ikon": "skold"}
+  ],
+  "kunder": ["Brf Rosenlund", "Växjö kommun skolfastigheter", "Värnamo Hyresgårdar", "Kvarteret Gjuteriet", "Huskvarna Bostadsrättsförening Ådalen", "Smålands Mäklarhus", "Torsviks Industrifastigheter"],
+  "nyheter": [
+    ["2026-10-15", "Portalen är lanserad", "Filmer, rapporter och ledningskartor för alla kunder – sparade i tio år.", "kontor"],
+    ["2026-06-03", "Fem fel vi ofta hittar efter relining", "Det här bör styrelsen titta efter innan slutfakturan betalas.", "vvs"],
+    ["2026-02-18", "Ska du köpa hus i vår?", "Därför bör avloppet filmas – och varför besiktningsmannen inte gör det.", "hem"]
+  ],
+  "kontakt": {"adress": "Grossistgatan 6", "postnr": "553 02", "ort": "Jönköping", "telefon": "070-174 06 77", "epost": "film@ledningsbild.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–17",
+  "omrade": "Jönköpings län och Kronobergs län",
+  "fot_cta": "Ska ni besluta om rören? Se dem först.",
+  "text": {
+    "kontakt_knapp": "Beställ filmning",
+    "hero_knapp": "Vad vi filmar",
+    "hero_lank": "Se exempel",
+    "vagval_etikett": "Frågan",
+    "ber_rubrik": "Senaste fynden",
+    "proj_etikett": "Exempel",
+    "proj_rubrik": "Vad filmen visade",
+    "proj_rubrik_lista": "Filmade fastigheter",
+    "process_rubrik": "Från spolning till rapport",
+    "hb_etikett": "Oberoende",
+    "omdomen_rubrik": "Beslut som blev bättre",
+    "faq_rubrik": "Frågor om oberoende filmning",
+    "priser_etikett": "Fasta priser",
+    "priser_rubrik": "Vad det kostar att se rören",
+    "priser_not": "Husköpspris inklusive moms. Övriga priser exklusive moms.",
+    "priser_utvald": "Flest beställningar",
+    "priser_knapp": "Beställ",
+    "boka_rubrik": "Beställ filmning",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Adress och typ av fastighet"],
+    "logos_rubrik": "Uppdragsgivare som ville veta säkert",
+    "certifikat_rubrik": "Utbildade bedömare, försäkrade bedömningar",
+    "medarbetare": "Teknikerna"
+  }
+}

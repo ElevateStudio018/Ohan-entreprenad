@@ -44,7 +44,7 @@
   ],
   "nyckeltal": [
     {"varde": "14", "enhet": "slott", "etikett": "Med färdig ljusplan"},
-    {"varde": "35", "enhet": "per säsong", "etikett": "Bröllop med två team"},
+    {"varde": "35", "enhet": "per säsong", "etikett": "Fördelade på två kamerateam"},
     {"varde": "3", "enhet": "dagar", "etikett": "Till första urvalet"},
     {"varde": "48", "enhet": "sidor", "etikett": "I bröllopstidningen"}
   ],
@@ -82,10 +82,10 @@
     ["Kan vi ha två team?", "Ja. Vid över 150 gäster rekommenderar vi ett andra team med Viggo, så att middagen och köket också dokumenteras."],
     ["Hur lång tid tar leveransen?", "Ett urval på 40 bilder efter tre dagar, hela galleriet efter fem veckor och tidning eller album efter åtta veckor."],
     ["Reser ni utanför Skåne?", "Ja, till slott i Halland, Blekinge och Danmark. Resor utanför Skåne debiteras med 45 kronor per mil."],
-    ["Hur bokar vi?", "Efter konsultationen skickar vi avtal och faktura på 35 procent. Resten betalas sex veckor före bröllopet."]
+    ["När är bokningen bekräftad?", "När avtalet är signerat och förskottet på 35 procent är betalt. Återstoden faktureras sex veckor före bröllopet, samtidigt som minutplanen låses."]
   ],
   "priser": [
-    {"namn": "Salong", "pris": "29 000 kr", "enhet": "6 timmar, en fotograf", "text": "Vigsel, editorialporträtt och middagens början.", "punkter": ["Cirka 350 färdiga bilder", "Moodboard och minutplan", "45 minuters regisserade porträtt", "Urval på 40 bilder efter tre dagar"]},
+    {"namn": "Salong", "pris": "29 000 kr", "enhet": "6 timmar, Ines eller Anton", "text": "Vigsel, editorialporträtt och middagens början.", "punkter": ["Cirka 350 färdiga bilder", "Moodboard och minutplan", "45 minuters regisserade porträtt", "Urval på 40 bilder efter tre dagar"]},
     {"namn": "Slott", "pris": "48 000 kr", "enhet": "upp till 14 timmar, två fotografer och stylist", "text": "Hela dagen med regi, ljus och styling.", "punkter": ["700–1 000 färdiga bilder", "Stylist på plats hela dagen", "Platsbesök med ljusplan", "Bröllopstidning i 30 exemplar"], "utvald": true},
     {"namn": "Helg på slott", "pris": "60 000 kr", "enhet": "tre dagar, två fotografer och stylist", "text": "Välkomstmiddag, bröllopsdag och brunch.", "punkter": ["Allt i Slott", "Fredagens middag och söndagens brunch", "Läderalbum 30 × 40 cm", "Tidning i 80 exemplar"]}
   ],
@@ -109,7 +109,7 @@
     "omdomen_rubrik": "Brudparen efter slottet",
     "faq_rubrik": "Om regi, styling och leverans",
     "priser_rubrik": "Tre format för slottsbröllop",
-    "priser_not": "Alla priser inklusive moms. Resor inom Skåne ingår.",
+    "priser_not": "Priserna inkluderar moms. Resor till slott och gods i Skåne är inräknade.",
     "galleri_rubrik": "Bilder i editorialformat",
     "boka_rubrik": "Vilket slott och vilket datum?",
     "boka_text": "Skriv slott, datum och antal gäster. Vi återkommer samma arbetsdag med tillgänglighet för båda teamen.",

@@ -1,0 +1,130 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Myrvikens Timmerhus AB",
+  "kortnamn": "Myrviken",
+  "slug": "myrviken-timmerhus",
+  "typ": "Timmerhus och fjällstugor i Jämtland",
+  "tagline": "Timrat för fjället",
+  "slogan": "Vi timrar fjällstugor, året runt-hus och bastur av jämtländsk fura på vår timmerplan i Myrviken och reser dem från Bydalen till Funäsdalen.",
+  "hero_rubrik": "Timrat i Myrviken, rest på fjället",
+  "hero_text": "Varje hus provtimras på vår plan vid Storsjön, märks stock för stock och fraktas till tomten. Där står stommen på tio dagar – sedan sätter sig timret i lugn och ro.",
+  "intro_rubrik": "Fyrtiosju år vid Storsjön",
+  "om": [
+    "Olle Grahn timrade sin första fäbodstuga 1979 med virke från svärfaderns skog i Myrviken. Ryktet spred sig till Åre, och i dag timrar vi 14–18 hus om året på samma plan, numera med traverskran och bandsåg under tak.",
+    "Vi är 22 personer: tolv timmermän, fyra snickare, två på ritkontoret och resten i montage och administration. Furan fälls vintertid inom fem mil från Myrviken och torkar ett år innan den blir vägg."
+  ],
+  "vagval_rubrik": "Vilket timmerhus drömmer du om?",
+  "tjanster": [
+    {"titel": "Fjällstugor", "ikon": "hem", "href": "verksamhet.html", "text": "Timrade stugor på 40–120 m² för Åre, Vemdalen och Bydalen."},
+    {"titel": "Året runt-hus", "ikon": "hus", "href": "verksamhet.html", "text": "Bostadshus i grovt timmer som klarar energikraven."},
+    {"titel": "Bastur och bodar", "ikon": "eld", "href": "verksamhet.html", "text": "Vedeldade bastur, vedbodar och jaktstugor."},
+    {"titel": "Handbilat timmer", "ikon": "hamare", "href": "verksamhet.html", "text": "Yxbilade stockar för den som vill ha det äkta."},
+    {"titel": "Renovering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Syllbyten, tätning och nya knutar på äldre timmerhus."},
+    {"titel": "Ritkontoret", "ikon": "ritning", "href": "bolag.html", "text": "Vi ritar huset och tar fram bygglovshandlingar."},
+    {"titel": "Montage på tomten", "ikon": "kran", "href": "bolag.html", "text": "Stommen rest på 7–12 dagar, även på svåra fjälltomter."},
+    {"titel": "Besök timmerplanen", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Se ditt hus timras innan det lämnar Myrviken."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fjällstugor och fritidshus", "text": "Våra stugor har stockar på 20–28 centimeter, sadeltak med plåt eller torv och stora fönster mot fjället. De flesta byggs med sovloft och bastu.", "text2": "En stuga på 80 m² kostar runt 2,9 miljoner kronor färdig att flytta in i.", "tagg": "tra"},
+    {"titel": "Bostadshus i timmer", "text": "Ett massivt timmerhus jämnar ut temperaturen och lagrar värme. Med tilläggsisolering i tak och golv och bergvärme klarar våra hus Boverkets krav för permanentboende.", "text2": "Vi har byggt 42 året runt-hus i Jämtland och Härjedalen sedan 2005.", "tagg": "hem"},
+    {"titel": "Bastur och småhus", "text": "En timrad bastu vid sjön är ofta första kontakten med oss. Vi bygger dem färdiga på planen och kör ut dem hela på lastbil.", "text2": "Vedkaminen kommer från en smedja i Hede.", "tagg": "natur"},
+    {"titel": "Renovering av timmerhus", "text": "Gamla timmerhus i Jämtland har ofta ruttna syllar och otäta knutar efter hundra år. Vi lyfter, byter och tätar med lin så att huset står i hundra år till.", "text2": "Arbetet kan kombineras med antikvarisk dokumentation om huset är kulturhistoriskt.", "tagg": "tra"}
+  ],
+  "bolag": [
+    {"namn": "Timmerplanen", "segment": "Timring i Myrviken", "rubrik": "Varje stock märkt", "text": "Tolv timmermän som timrar husen på planen vid Storsjön, med knutar efter jämtländsk tradition.", "tagg": "tra"},
+    {"namn": "Fjällmontage", "segment": "Resning och komplettering", "rubrik": "Tio dagar till tak", "text": "Montagelaget reser stommen, lägger taket och kompletterar med fönster och golv på tomten.", "tagg": "bygg"},
+    {"namn": "Ritkontoret", "segment": "Ritning och bygglov", "rubrik": "Ritat för sättningar", "text": "Två ingenjörer som ritar husen och räknar in att timret sätter sig 4–6 centimeter per våning.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fjällgård i Bydalen med torvtak", "text": "Fyra byggnader runt en gårdsplan, timrade på planen i två månader och resta på tre veckor.", "tagg": "tra"},
+    {"rubrik": "Timmer för 2027 fällt", "text": "Vinterns avverkning i Oviken gav 1 100 stockar som nu torkar på planen.", "tagg": "natur"},
+    {"rubrik": "Hundraårigt hus i Hallen räddat", "text": "Nya syllar och omtätade knutar på en mangårdsbyggnad från 1912.", "tagg": "hem"}
+  ],
+  "nyckeltal": [
+    {"varde": "1979", "enhet": "", "etikett": "Första stugan timrad"},
+    {"varde": "560", "enhet": "", "etikett": "Timmerhus resta"},
+    {"varde": "28", "enhet": "cm", "etikett": "Grövsta stocken"},
+    {"varde": "10", "enhet": "dagar", "etikett": "Från lastbil till tak"}
+  ],
+  "projekt": [
+    {"namn": "Fjällgården Bydalen", "ort": "Bydalen", "typ": "Fritidsgård, 4 hus", "ar": "2026", "text": "Mangård, gäststuga, bastu och förråd runt en gårdsplan, med torvtak.", "tagg": "tra"},
+    {"namn": "Stuga vid Totthummeln", "ort": "Åre", "typ": "Fjällstuga", "ar": "2025", "text": "110 m² med sovloft och panoramafönster mot Åreskutan.", "tagg": "natur"},
+    {"namn": "Villa Hallen", "ort": "Hallen", "typ": "Renovering", "ar": "2025", "text": "Syllbyte och tätning av en mangårdsbyggnad från 1912.", "tagg": "hem"},
+    {"namn": "Timmerhus Brunflo", "ort": "Brunflo", "typ": "Året runt-hus", "ar": "2024", "text": "160 m² i två plan med bergvärme och handbilade knutar.", "tagg": "hem"},
+    {"namn": "Sjöbastun i Klövsjö", "ort": "Klövsjö", "typ": "Bastu", "ar": "2024", "text": "Vedeldad bastu på brygga, levererad hel på lastbil.", "tagg": "natur"},
+    {"namn": "Skidstugorna i Vemdalsskalet", "ort": "Vemdalen", "typ": "Fyra fjällstugor", "ar": "2023", "text": "Fyra uthyrningsstugor på 60 m² för en lokal stugby.", "tagg": "tra"}
+  ],
+  "process": [
+    {"titel": "Ritning och tomt", "text": "Vi besöker tomten, ritar huset och söker bygglov. Det tar oftast tre till fyra månader.", "tagg": "kontor"},
+    {"titel": "Timring på planen", "text": "Huset timras färdigt i Myrviken. Du är välkommen att komma och se det växa.", "tagg": "tra"},
+    {"titel": "Nedmontering och frakt", "text": "Varje stock märks, huset tas ned och fraktas i två till fyra lastbilar.", "tagg": "bygg"},
+    {"titel": "Resning och sättning", "text": "Stommen reses på tomten, och vi kommer tillbaka efter ett år och justerar dörrar och fönster.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Skogen ligger fem mil bort",
+    "text": "Timret köper vi från skogsägare runt Storsjön, och vi fäller bara vintertid när saven står still. Allt spill blir ved, bark blir marktäckning och ingen limmad eller impregnerad stock används i stommen.",
+    "mal": [["5 mil", "max avstånd från skog till plan"], ["0", "kemiskt behandlade stockar i stommen"], ["100 %", "av spillet blir ved eller flis"]]
+  },
+  "karriar": {
+    "rubrik": "Lär dig timra av dem som kan",
+    "text": "Vi tar emot en timmermanslärling om året och lär ut knutar, skribning och yxbilning. Du jobbar på planen vid Storsjön på vintern och i montage på fjället på sommaren.",
+    "jobb": [["Timmerman", "Myrviken"], ["Montör fjällstugor", "Åre"]]
+  },
+  "kultur": "Varje fredag eldar vi i bastun på planen, och alla som jobbar här har timrat sin egen vedbod första året.",
+  "citat": {"text": "En timmerstuga ska få sätta sig i sin egen takt. Den som stressar fram ett timmerhus får dörrar som kärvar i tio år.", "namn": "Olle Grahn", "roll": "Grundare och timmerman", "tagg": "tra"},
+  "omdomen": [
+    {"text": "Vi åkte till Myrviken tre gånger medan stugan timrades. Barnen fick skriva sina namn på en stock som nu sitter i sovloftet.", "namn": "Familjen B.", "ort": "Åre"},
+    {"text": "Stommen stod på nio dagar trots att tomten bara gick att nå med bandvagn i april.", "namn": "Göran E.", "ort": "Bydalen"},
+    {"text": "Efter ett år kom de tillbaka utan att vi frågade och justerade varenda dörr. Det är service.", "namn": "Kerstin V.", "ort": "Brunflo"}
+  ],
+  "faq": [
+    ["Vad kostar en timrad fjällstuga?", "En stuga på 60–80 m² kostar 2,3–3,1 miljoner kronor färdig att flytta in i, inklusive grund, VA och bastu. Endast stomme och tak från cirka 1,1 miljoner."],
+    ["Hur mycket sätter sig huset?", "Timret sätter sig 4–6 centimeter per våning de första två åren. Vi bygger in glipor över dörrar och fönster och justerar efter ett år."],
+    ["Är ett timmerhus energieffektivt?", "Ja, med 24–28 centimeters stock, isolerat tak och golv och en luft-vattenvärmepump klarar huset kraven för permanentboende."],
+    ["Kan ni bygga på en tomt utan väg?", "Ja, vi har rest hus med helikopter och bandvagn. Det kostar mer, men de flesta fjälltomter går att nå på vintern."],
+    ["Hur lång tid tar det från beställning till inflyttning?", "Räkna med 12–18 månader: bygglov, timring under vintern och montage och inredning under sommaren."],
+    ["Bygger ni utanför Jämtland?", "Ja, i Härjedalen, Västerbotten och i fjällen i Dalarna. Söderut sällan, eftersom frakten blir dyr."]
+  ],
+  "certifikat": [
+    {"titel": "Gesällbrev i timring", "text": "Fem av våra timmermän har gesällbrev i timmermanshantverk.", "ikon": "stjarna"},
+    {"titel": "PEFC-spårbart virke", "text": "Allt timmer kommer från skogsägare med certifierat skogsbruk.", "ikon": "skog"},
+    {"titel": "Byggföretagen", "text": "Medlemmar och följer ABS 18 för privatpersoner.", "ikon": "dokument"},
+    {"titel": "ID06", "text": "Personalliggare och identifiering på alla monteringsplatser.", "ikon": "las"}
+  ],
+  "kunder": ["Privatpersoner i Jämtland och Härjedalen", "Vemdalsskalets Stugby", "Bydalens Fjällgård", "Klövsjö Turistförening", "Oviks Skogsägarförening", "Åre Fjällbyar"],
+  "nyheter": [
+    ["2026-09-26", "Fjällgården i Bydalen rest", "Fyra byggnader med torvtak på plats före första frosten.", "tra"],
+    ["2026-04-03", "Vinterns stockar på plats", "1 100 furustockar från Oviken ligger nu på planen och torkar till 2027.", "natur"],
+    ["2026-01-18", "Öppet hus på timmerplanen", "Den 14 mars visar vi husen som timras för sommarens montage – med korv och kaffe vid elden.", "people"]
+  ],
+  "kontakt": {"adress": "Storsjövägen 41", "postnr": "845 31", "ort": "Myrviken", "telefon": "070-174 06 93", "epost": "olle@myrvikentimmer.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, planen öppen för besök efter överenskommelse",
+  "omrade": "Jämtland, Härjedalen och fjällen i Västerbotten",
+  "fot_cta": "Vill du se ditt hus timras? Hör av dig så bokar vi en dag på planen i Myrviken.",
+  "bild": {"panel": "tra", "hb": "natur", "om": "tra", "sida_bolag": "tra", "sida_om": "natur", "sida_hb": "natur", "sida_faq": "tra"},
+  "text": {
+    "topp_hem": "Myrvikens Timmerhus",
+    "meny_bolag": "Timmerlaget",
+    "hero_knapp": "Våra timmerhus",
+    "hero_lank": "Hus vi har rest",
+    "ber_rubrik": "På planen just nu",
+    "proj_rubrik": "Stugor, gårdar och bastur",
+    "proj_kol": ["Hus", "Ort", "Typ", "Status", "År"],
+    "status_pagaende": "Timras",
+    "status_klart": "Rest",
+    "process_rubrik": "Stock för stock",
+    "hb_etikett": "Skog & virke",
+    "hb_lank": "Om virket vi använder",
+    "omdomen_rubrik": "De som bor i våra hus",
+    "faq_rubrik": "Bra att veta om timmerhus",
+    "boka_rubrik": "Berätta om tomten och huset",
+    "boka_text": "Skriv var tomten ligger och hur stort huset ska vara, så ringer Olle eller ritkontoret upp.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Tomt, storlek och önskemål"],
+    "certifikat_rubrik": "Hantverk med gesällbrev",
+    "logos_rubrik": "Vi har timrat åt",
+    "bolag_rubrik": "Planen, montaget och ritbordet",
+    "ny_rubrik": "Från timmerplanen",
+    "medarbetare": "Timmermännen"
+  }
+}

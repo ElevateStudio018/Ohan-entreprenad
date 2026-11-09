@@ -1,0 +1,142 @@
+{
+  "profil": "nisch",
+  "nisch": "tak",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Takjouren Väst AB",
+  "kortnamn": "Takjouren Väst",
+  "slug": "takjouren-vast",
+  "typ": "Akuta takskador i Storgöteborg",
+  "tagline": "Läcker det? Ring nu.",
+  "slogan": "Vi kommer när taket blåst av, när vattnet droppar genom innertaket eller när ett träd landat på nocken – dygnet runt, alla dagar.",
+  "hero_rubrik": "Tak som läcker i natt lagar vi i natt",
+  "hero_text": "Jourbil på plats inom 90 minuter i Storgöteborg. Vi tätar provisoriskt, dokumenterar för försäkringsbolaget och återställer taket när vädret tillåter.",
+  "intro_rubrik": "Utryckningar, inte offertmöten",
+  "om": [
+    "Takjouren Väst startade efter stormen Gudrun i januari 2005, när plåtslagaren Marcus Andersson fick 140 samtal på två dygn och insåg att ingen i Göteborg hade takjour på riktigt. Han köpte två skåpbilar, ett lager presenningar och började svara i telefon dygnet runt.",
+    "I dag är vi 18 anställda, varav tolv takläggare och plåtslagare som går i jourschema. Vi gör runt 1 900 utryckningar om året, och lika mycket av vår tid går till att laga taken ordentligt efteråt."
+  ],
+  "vagval_rubrik": "Vad har hänt med taket?",
+  "tjanster": [
+    {"titel": "Akut läckage", "ikon": "vatten", "href": "verksamhet.html", "text": "Vi hittar var vattnet kommer in och tätar provisoriskt samma natt."},
+    {"titel": "Stormskador", "ikon": "vind", "href": "verksamhet.html", "text": "Lösa pannor, avblåst plåt och nedrivna rännor säkras innan nästa by."},
+    {"titel": "Nödtäckning", "ikon": "skold", "href": "verksamhet.html", "text": "Presenning eller krympplast som sitter kvar i veckor, fäst utan nya hål."},
+    {"titel": "Träd på taket", "ikon": "trad", "href": "verksamhet.html", "text": "Vi samarbetar med arborister som lyfter bort trädet innan vi tätar."},
+    {"titel": "Försäkringsärenden", "ikon": "dokument", "href": "verksamhet.html", "text": "Foton, fuktmätning och skaderapport som försäkringsbolagen godkänner."},
+    {"titel": "Återställning", "ikon": "hamare", "href": "verksamhet.html", "text": "Permanent reparation med samma material som resten av taket."},
+    {"titel": "Brf-jouravtal", "ikon": "kontor", "href": "verksamhet.html", "text": "Fast jouravtal med förtur för föreningar och förvaltare."},
+    {"titel": "Ring jouren", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Svarar dygnet runt, även julafton och midsommar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Akuta utryckningar", "text": "En jourbil har allt för att täta ett tak i mörker och regn: presenningar, krympplast, takpapp, plåtbitar, belysning och fallskydd. Den första timmen handlar om att stoppa vattnet och skydda det som finns under.", "text2": "Vi tar betalt per utryckning och timme – priset står på hemsidan.", "tagg": "tak"},
+    {"titel": "Skadedokumentation", "text": "Försäkringsbolaget vill veta vad som hänt, när och varför. Vi fotograferar, fuktmäter vind och bjälklag och skriver en skaderapport som du skickar direkt till bolaget.", "text2": "Rapporten är klar inom 48 timmar efter utryckningen.", "tagg": "kontor"},
+    {"titel": "Återställning efter skada", "text": "När vädret lugnat sig lagar vi taket permanent – med samma pannor, samma plåt och samma kulör. Vi har lager med 40 vanliga pannmodeller från de senaste femtio åren.", "text2": "Hittar vi inte pannan söker vi i begagnatlager i hela landet.", "tagg": "hem"},
+    {"titel": "Förebyggande stormsäkring", "text": "Efter tusentals stormskador vet vi var taken brukar ge vika: nockpannor, vindskivor och dåligt fästa plåtar. Inför hösten går vi över taket och spikar, clipsar och skruvar där det behövs.", "text2": "En stormsäkring på villa tar två till fyra timmar.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Jourcentralen", "segment": "Telefon dygnet runt", "rubrik": "En människa svarar, alltid", "text": "Tre jourledare som tar emot samtal, prioriterar och skickar närmaste bil. Ingen telefonsvarare, ingen knappval.", "tagg": "kontor"},
+    {"namn": "Utryckningslagen", "segment": "Fyra bilar i drift", "rubrik": "Två personer per bil", "text": "Tolv takläggare och plåtslagare i rullande schema, med bilar stationerade i Mölndal, Hisingen, Partille och Kungälv.", "tagg": "tak"},
+    {"namn": "Återställning", "segment": "Permanenta reparationer", "rubrik": "Dagen efter stormen", "text": "Tre hantverkare som tar över när jouren gjort sitt och lagar taket med rätt material.", "tagg": "hem"}
+  ],
+  "berattelser": [
+    {"rubrik": "312 samtal under stormen i januari", "text": "Alla fyra bilar ute i 40 timmar. Den sista nödtäckningen gjordes på Styrsö när färjorna började gå igen.", "tagg": "tak"},
+    {"rubrik": "Ekens fall på Särö", "text": "En ek på 18 meter föll över en villa en söndagsnatt. Taket var tätt klockan fem på morgonen.", "tagg": "hem"},
+    {"rubrik": "Fjärde jourbilen i Kungälv", "text": "Från oktober har vi en bil stationerad norr om älven, med 25 minuter kortare utryckningstid till Ytterby.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "90 min", "enhet": "", "etikett": "Till plats i Storgöteborg"},
+    {"varde": "1 900", "enhet": "per år", "etikett": "Utryckningar till läckande tak"},
+    {"varde": "24/7", "enhet": "", "etikett": "Även helger och storhelger"},
+    {"varde": "18", "enhet": "anställda", "etikett": "Tolv i jourschemat"}
+  ],
+  "projekt": [
+    {"namn": "Stormnatten på Styrsö", "ort": "Göteborgs södra skärgård", "typ": "Stormskador, 26 hus", "ar": "2026", "text": "Nödtäckning av 26 tak på två dygn, med material på färjan.", "tagg": "tak", "status": "Utfört"},
+    {"namn": "Villan på Särö", "ort": "Kungsbacka", "typ": "Träd på taket", "ar": "2025", "text": "Ek lyftes bort med kran och taket tätades före gryningen.", "tagg": "hem"},
+    {"namn": "Brf Linnéstaden 14", "ort": "Göteborg", "typ": "Läckage, plåttak", "ar": "2025", "text": "Läcka genom en sprucken fals – fyra lägenheter räddades från vattenskador.", "tagg": "stad"},
+    {"namn": "Kvarteret Varvsporten", "ort": "Göteborg", "typ": "Avblåst takplåt", "ar": "2025", "text": "120 kvadratmeter plåt på Hisingen säkrades med vinsch och lina mitt i natten.", "tagg": "industri"},
+    {"namn": "Radhusen i Kållered", "ort": "Mölndal", "typ": "Stormsäkring", "ar": "2024", "text": "Förebyggande genomgång av 44 radhustak inför hösten.", "tagg": "bostad"},
+    {"namn": "Förskolan i Ytterby", "ort": "Kungälv", "typ": "Återställning", "ar": "2026", "text": "Permanent reparation efter vattenskada, klart före jullovet.", "tagg": "tak"}
+  ],
+  "process": [
+    {"titel": "Du ringer", "text": "Jourledaren frågar var det läcker, hur mycket och om det finns el i närheten av vattnet.", "tagg": "kontor"},
+    {"titel": "Bilen rullar", "text": "Närmaste jourbil skickas direkt. Du får ett sms med beräknad ankomsttid.", "tagg": "people"},
+    {"titel": "Tätt före gryningen", "text": "Vi stoppar vattnet, säkrar lösa delar och fotograferar allt för försäkringen.", "tagg": "tak"},
+    {"titel": "Laga ordentligt", "text": "Inom två veckor kommer återställningslaget och lagar taket med rätt material.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen ska gå upp på ett halt tak i onödan",
+    "text": "Det mesta av vårt arbete sker i mörker, regn och vind. Därför går vi aldrig upp ensamma, vi använder alltid förankrat fallskydd och vi avbryter om vindbyarna överstiger 20 meter per sekund – då tätar vi inifrån vinden i stället. Presenningar och krympplast tas tillbaka och återvinns.",
+    "mal": [["2", "personer i varje jourbil, alltid"], ["20 m/s", "vindgräns för arbete på yttertaket"], ["90 %", "av presenningarna återanvänds"]]
+  },
+  "karriar": {
+    "rubrik": "För dig som vaknar av ett telefonsamtal",
+    "text": "Vi söker takläggare och plåtslagare som vill gå i jourschema – en vecka av fyra. Jourersättningen ligger på 30 procent över avtalet och varje jourpass följs av en ledig dag.",
+    "jobb": [["Takläggare med jour", "Mölndal"], ["Plåtslagare med jour", "Kungälv"], ["Jourledare natt", "Göteborg"]]
+  },
+  "kultur": "Efter varje storm bjuder vi hela laget och familjerna på frukost i lagret i Mölndal.",
+  "citat": {"text": "Det viktigaste vi gör sker mellan klockan två och fem på natten. Resten är hantverk som vem som helst kan planera.", "namn": "Marcus Andersson", "roll": "Grundare och jourchef", "tagg": "people"},
+  "omdomen": [
+    {"text": "Det droppade genom taklampan i barnens rum klockan halv ett. Klockan två stod två killar på taket med pannlampor, och vid tre var det tyst.", "namn": "Johanna B.", "ort": "Partille"},
+    {"text": "Skaderapporten från Takjouren godkändes av försäkringsbolaget utan en enda följdfråga.", "namn": "Lars-Erik M.", "ort": "Kungsbacka"},
+    {"text": "Föreningen har jouravtal sedan 2019. Fyra gånger har de kommit inom en timme, varje gång mitt i natten.", "namn": "Brf Linnéstaden 14, styrelsen", "ort": "Göteborg"}
+  ],
+  "faq": [
+    ["Vad ska jag göra medan jag väntar?", "Ställ hinkar under droppet, flytta möbler och stäng av elen i rum där vatten rinner nära lampor eller uttag. Gå aldrig upp på taket själv."],
+    ["Vad kostar en utryckning?", "Utryckningsavgiften är 2 900 kr vardagar dagtid och 4 900 kr nätter och helger, plus timpris och material. Du får ett ungefärligt pris i telefon."],
+    ["Betalar försäkringen?", "Ofta, om skadan beror på storm eller plötslig händelse. Vi dokumenterar så att du har det försäkringsbolaget behöver, men beslutet är bolagets."],
+    ["Hur länge håller en nödtäckning?", "En krympplasttäckning håller i flera månader. Presenning byter vi efter två till fyra veckor om återställningen dröjer."],
+    ["Kommer ni ut till skärgården?", "Ja, till alla öar med bilfärja och de flesta med passagerarfärja. Restiden blir längre, och vi meddelar tiden när du ringer."],
+    ["Får ROT-avdrag göras på jourarbete?", "Ja, på arbetskostnaden för reparation, men inte om försäkringsbolaget betalar ersättning för samma arbete."],
+    ["Har ni jouravtal för föreningar?", "Ja. Från 6 900 kr per år och förening får ni förtur, fast pris på utryckning och en årlig stormsäkring."]
+  ],
+  "priser": [
+    {"namn": "Utryckning dag", "pris": "2 900 kr", "enhet": "vardagar 7–18", "text": "Plus timpris 795 kr per person och material.", "punkter": ["Två personer på plats", "Provisorisk tätning", "Fotodokumentation", "Sms med ankomsttid"]},
+    {"namn": "Utryckning natt och helg", "pris": "4 900 kr", "enhet": "övrig tid, alla dagar", "text": "Plus timpris 1 095 kr per person och material.", "punkter": ["Allt i dagutryckning", "Belysning och fallskydd", "Nödtäckning med krympplast", "Skaderapport inom 48 h"], "utvald": true},
+    {"namn": "Jouravtal förening", "pris": "fr. 6 900 kr", "enhet": "per år", "text": "För bostadsrättsföreningar och förvaltare.", "punkter": ["Förtur vid storm", "Fast utryckningsavgift", "Årlig stormsäkring", "Kontaktperson på kontoret"]}
+  ],
+  "priser_rubrik": "Vad det kostar mitt i natten",
+  "certifikat": [
+    {"titel": "Fallskydd och räddning", "text": "Alla i jourschemat har utbildning i fallskydd och räddning från höjd.", "ikon": "hjalm"},
+    {"titel": "Heta arbeten", "text": "Certifierade enligt Brandskyddsföreningen för akuta papplagningar.", "ikon": "eld"},
+    {"titel": "Plåt & Ventföretagen", "text": "Medlemmar med kollektivavtal och jourersättning enligt avtal.", "ikon": "dokument"},
+    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Allrisk- och ansvarsförsäkring som täcker arbete på andras tak.", "ikon": "skold"}
+  ],
+  "certifikat_rubrik": "Säkra även klockan tre på natten",
+  "kunder": ["Brf Linnéstaden 14", "Kungälvs Förskolefastigheter", "Mölndals Bostadsförvaltning", "Brf Kålleredsparken", "Styrsö Samfällighet", "Hisingens Fastighetsservice", "Partille Radhusförening"],
+  "kunder_rubrik": "Föreningar med jouravtal",
+  "nyheter": [
+    ["2026-10-15", "Stormsäkra före november", "Fem ställen på taket som brukar släppa först när det blåser 25 meter per sekund.", "tak"],
+    ["2026-10-01", "Fjärde jourbilen i Kungälv", "Kortare utryckningstid för Kungälv, Ytterby och Marstrand.", "people"],
+    ["2026-01-19", "312 samtal på två dygn", "Så gick stormnatten – och därför ringde vi tillbaka alla som fick vänta.", "tak"]
+  ],
+  "kontakt": {"adress": "Flöjelbergsgatan 16", "postnr": "431 37", "ort": "Mölndal", "telefon": "070-174 06 48", "epost": "jour@takjourenvast.se", "orgnr": ""},
+  "oppettider": "Jour dygnet runt, årets alla dagar · Kontor mån–fre 8–16",
+  "omrade": "Storgöteborg, Kungsbacka, Kungälv och södra skärgården",
+  "fot_cta": "Läcker det just nu? Ring – en människa svarar, dygnet runt.",
+  "text": {
+    "hero_knapp": "Det här gör jouren",
+    "hero_lank": "Senaste utryckningarna",
+    "kontakt_knapp": "Ring jouren",
+    "vagval_etikett": "Akut hjälp",
+    "ber_etikett": "Senaste dygnen",
+    "ber_rubrik": "Från jourloggen",
+    "ber_lank": "Fler utryckningar",
+    "proj_etikett": "Utryckningar",
+    "proj_rubrik": "Nätter vi minns",
+    "proj_rubrik_lista": "Utryckningar och återställningar",
+    "proj_lank": "Alla utryckningar",
+    "status_klart": "Tätat",
+    "process_etikett": "När du ringer",
+    "process_rubrik": "Från samtal till tätt tak",
+    "hb_etikett": "Säkerhet i mörker",
+    "omdomen_etikett": "Efter natten",
+    "omdomen_rubrik": "De ringde mitt i natten",
+    "faq_rubrik": "Medan du väntar på oss",
+    "boka_rubrik": "Inte akut? Skriv till oss",
+    "boka_text": "För stormsäkring, jouravtal eller återställning – skriv adress och vad det gäller. Akuta läckor: ring.",
+    "bolag_rubrik": "Jouren i tre led",
+    "priser_etikett": "Jourpriser",
+    "certifikat_etikett": "Trygghet",
+    "medarbetare": "Jourlaget",
+    "ny_rubrik": "Råd inför stormsäsongen"
+  }
+}

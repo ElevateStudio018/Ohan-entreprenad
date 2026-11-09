@@ -90,7 +90,7 @@
   "prislista": [["Utryckning vardag 7–17, inkl. första timmen", "1 950 kr"], ["Utryckning kväll, natt och helg", "2 950 kr"], ["Timpris golvläggare vardag", "695 kr"], ["Timpris golvläggare kväll och helg", "1 040 kr"], ["Fuktmätning med protokoll", "2 400 kr"], ["Rivning av vattenskadad parkett", "fr. 180 kr/kvm"], ["Byte av enstaka parkettstav", "fr. 650 kr/st"]],
   "certifikat": [
     {"titel": "GBR-auktoriserade", "text": "Medlemmar i Golvbranschen och följer GBR:s regler för läggning och våtrum.", "ikon": "skold"},
-    {"titel": "Säker Vatten", "text": "Kunskap om vattenskadeförebyggande installationer enligt branschreglerna Säker Vatten.", "ikon": "vatten"},
+    {"titel": "Behöriga fuktkontrollanter", "text": "Två golvläggare är utbildade fuktkontrollanter och mäter enligt RBK-manualen innan nytt golv läggs.", "ikon": "sok"},
     {"titel": "Skadesaneringsavtal", "text": "Upphandlade underentreprenörer åt fyra skadesaneringsföretag verksamma i Skåne.", "ikon": "dokument"},
     {"titel": "Ansvarsförsäkring", "text": "Ansvars- och allriskförsäkring på 10 miljoner kronor för alla uppdrag.", "ikon": "las"}
   ],
@@ -119,6 +119,7 @@
     "certifikat_rubrik": "Försäkrade och upphandlade",
     "kontakt_knapp": "Ring jouren",
     "hero_knapp": "Så fungerar jouren",
+    "status_klart": "Återställt",
     "medarbetare": "Jourlaget"
   }
 }

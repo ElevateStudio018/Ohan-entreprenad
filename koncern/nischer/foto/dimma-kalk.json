@@ -43,9 +43,9 @@
   ],
   "nyckeltal": [
     {"varde": "190", "enhet": "bröllop", "etikett": "På Gotland sedan 2018"},
-    {"varde": "22", "enhet": "per år", "etikett": "Bröllop vi tar"},
+    {"varde": "22", "enhet": "per år", "etikett": "Mer hinner vi inte redigera"},
     {"varde": "40", "enhet": "minuter", "etikett": "Blå timmen i augusti"},
-    {"varde": "5", "enhet": "veckor", "etikett": "Till färdigt galleri"}
+    {"varde": "5", "enhet": "veckor", "etikett": "Innan galleriet är redigerat"}
   ],
   "projekt": [
     {"namn": "Elsa & Jonatan", "ort": "Fårö", "typ": "Heldag", "ar": "2025", "text": "Vigsel i Fårö kyrka och porträtt i havsdimma vid Langhammars.", "tagg": "brudpar"},
@@ -80,11 +80,11 @@
     ["Får man fotografera i ruinerna?", "Ja, i de flesta. För S:ta Karin efter stängning söker vi tillstånd hos Region Gotland, vilket ingår i priset."],
     ["Hur sent är blå timmen?", "I juni nästan inte alls – det blir aldrig riktigt mörkt. I augusti ungefär 21.00–21.40, i oktober runt 18.00."],
     ["Vad gör vi om det ösregnar?", "Vi har paraplyer och regnskydd till kamerorna. Kyrkor, magasin och ruinvalv fungerar fint för porträtt."],
-    ["Hur bokar vi?", "Efter videosamtalet skickar vi avtal och faktura på 30 procent. Resten betalas fyra veckor före bröllopet."]
+    ["Hur säkrar vi vårt datum?", "Säg till efter videosamtalet, så mejlar vi avtalet och en första faktura på 30 procent. Den andra delen betalar ni senast en månad före vigseln."]
   ],
   "priser": [
-    {"namn": "Vigsel och skymning", "pris": "16 900 kr", "enhet": "4 timmar, en fotograf", "text": "Vigsel, gruppbild och porträtt i blå timmen.", "punkter": ["Cirka 250 redigerade bilder", "Porträtt i skymningen", "Videosamtal före", "Galleri inom fyra veckor"]},
-    {"namn": "Heldag på Gotland", "pris": "32 500 kr", "enhet": "upp till 11 timmar, två fotografer", "text": "Hela dagen och natten med oss båda.", "punkter": ["500–800 redigerade bilder", "Två fotografer och assistent", "Platsbesök dagen före", "Ruintillstånd ingår"], "utvald": true},
+    {"namn": "Vigsel och skymning", "pris": "16 900 kr", "enhet": "4 timmar, en fotograf", "text": "Vigsel, gruppbild och porträtt i blå timmen.", "punkter": ["Cirka 250 redigerade bilder", "Porträtt i skymningen", "Videosamtal före", "Färdigt efter fyra veckor"]},
+    {"namn": "Heldag på Gotland", "pris": "32 500 kr", "enhet": "upp till 11 timmar, Saga och Hampus", "text": "Hela dagen och natten med oss båda.", "punkter": ["500–800 redigerade bilder", "Två fotografer och assistent", "Platsbesök dagen före", "Ruintillstånd ingår"], "utvald": true},
     {"namn": "Två dagar på ön", "pris": "41 000 kr", "enhet": "heldag + porträttdag", "text": "Heldagen och en extra porträttdag på Fårö eller i kalkbrotten.", "punkter": ["Allt i Heldag på Gotland", "Tre timmar porträtt dagen efter", "Album i svart linne", "Tio tryck på bomullspapper"]}
   ],
   "prislista": [["Extra timme", "2 800 kr"], ["Porträttdag efter bröllopet", "8 900 kr"], ["Album 30 × 30 i svart linne", "6 400 kr"], ["Tryck på bomullspapper 40 × 50", "1 100 kr"], ["Fotografering på fastlandet", "färja + 40 kr/mil"], ["Förlovningsfoto i Visby", "3 200 kr"]],
@@ -97,7 +97,7 @@
   "kontakt": {"adress": "Specksrum 9", "postnr": "621 55", "ort": "Visby", "telefon": "070-174 06 21", "epost": "hej@dimmaochkalk.se", "orgnr": ""},
   "oppettider": "Vi svarar mån–fre 9–18, även under säsong",
   "omrade": "Hela Gotland och Fårö, ibland fastlandet",
-  "fot_cta": "Gifter ni er på Gotland och tycker om mörker? Skriv till oss.",
+  "fot_cta": "Gifter ni er på Gotland och tycker om mörker? Då vill vi höra från er.",
   "text": {
     "ber_rubrik": "Senast i dimman",
     "proj_rubrik": "Bröllop på ön",
@@ -107,7 +107,7 @@
     "omdomen_rubrik": "De som valde mörkret",
     "faq_rubrik": "Om väder, ruiner och färjor",
     "priser_rubrik": "Fasta priser på hela ön",
-    "priser_not": "Alla priser inklusive moms. Inga reseavgifter på Gotland.",
+    "priser_not": "Moms ingår, och vi tar inga reseavgifter någonstans på Gotland eller Fårö.",
     "galleri_rubrik": "Skuggor från säsongen",
     "boka_rubrik": "Vilken kväll på ön?",
     "boka_text": "Skriv datum och plats på Gotland. Vi svarar inom ett dygn och skickar ett helt galleri att titta på.",

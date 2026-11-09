@@ -1,0 +1,136 @@
+{
+  "profil": "nisch",
+  "nisch": "sotare",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Orsasotarna AB",
+  "kortnamn": "Orsasotarna",
+  "slug": "orsasotarna",
+  "typ": "Sotare i Orsa och Älvdalen",
+  "tagline": "Stugor, fäbodar, fjäll",
+  "slogan": "Vi är ett sotarlag på sex personer som tog över i Orsa och Älvdalen 2021 – och sotar fritidshuset den helg du själv är där.",
+  "hero_rubrik": "Vi sotar stugan medan du är där",
+  "hero_text": "Sotning och brandskyddskontroll i Orsa och Älvdalen, från villan i Orsa till stugan i Idre. Välj helg själv i bokningen.",
+  "intro_rubrik": "Ett litet sotarlag med stort distrikt",
+  "om": [
+    "Emma Jons och Linnéa Bäck utbildade sig till skorstensfejare samtidigt och arbetade fem år i Falun. När sotarmästaren Gösta Ersson i Orsa gick i pension 2021 tog de över hans kunder och vann sotningsavtalen i Orsa och Älvdalen – två kommuner med närmare 9 000 kvadratkilometer skog, fjäll och fäbodar.",
+    "I dag är vi sex anställda. Hälften av de 7 400 eldstäderna i distriktet står i fritidshus, och ägarna bor i Stockholm, Göteborg eller Tyskland. Därför bokar du själv en helg i vår kalender – och får ett sms när vi har varit där, med bild på skorstenen."
+  ],
+  "vagval_rubrik": "Vad har du för hus?",
+  "tjanster": [
+    {"titel": "Sotning", "ikon": "eld", "href": "verksamhet.html", "text": "Avtalssotning i Orsa och Älvdalen enligt kommunernas frister."},
+    {"titel": "Brandskyddskontroll", "ikon": "skold", "href": "verksamhet.html", "text": "Lagstadgad kontroll, vart åttonde år för fritidshus."},
+    {"titel": "Fritidshus", "ikon": "hus", "href": "verksamhet.html", "text": "Välj helg själv och få bild på skorstenen när vi är klara."},
+    {"titel": "Fäbodar", "ikon": "skog", "href": "verksamhet.html", "text": "Vedspisar och murstockar på fäbodvallar utan väg ända fram."},
+    {"titel": "Stugbyar", "ikon": "karta", "href": "verksamhet.html", "text": "Samlad sotning för uthyrningsstugor i Grönklitt och Idre."},
+    {"titel": "Nyckelservice", "ikon": "nyckel", "href": "verksamhet.html", "text": "Lämna nyckeln hos oss eller i nyckelskåp – vi sotar när du inte är där."},
+    {"titel": "Priser", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Kommunernas taxa och vad som tillkommer."},
+    {"titel": "Boka helg", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Välj en helg mellan april och november."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villor och permanentboende", "text": "I Orsa, Hansjö, Skattungbyn och Älvdalens tätort sotar vi enligt kommunens frister. Du får sms en vecka före med datum och tidsfönster.", "text2": "Passar tiden inte svarar du på sms:et, så föreslår vi en ny.", "tagg": "skorsten"},
+    {"titel": "Fritidshus på din helg", "text": "Fritidshus sotas vart tredje år och brandskyddskontrolleras vart åttonde. I stället för att vi väljer en tisdag i oktober bokar du själv en helg mellan april och november.", "text2": "Vi sotar lördagar och söndagar från april till november, två helger i månaden.", "tagg": "hem"},
+    {"titel": "Fäbodar och fjällstugor", "text": "På fäbodvallar som Fryksås och Ärteråsen saknas ofta väg ända fram. Vi bär utrustningen sista biten och sotar vedspisar och murstockar som ibland är över hundra år gamla.", "text2": "Snöskoter använder vi till stugor i fjällen under vintern.", "tagg": "natur"},
+    {"titel": "Stugbyar och uthyrning", "text": "Uthyrningsstugor i Grönklitt, Idre och Särna har många eldstäder och tätt mellan gästerna. Vi sotar alla stugor på samma dag mellan två bokningsveckor.", "text2": "Ni får ett samlat protokoll per stugby och en faktura.", "tagg": "tra"}
+  ],
+  "bolag": [
+    {"namn": "Laget i Orsa", "segment": "Orsa kommun", "rubrik": "Emma och två sotare", "text": "Sotar Orsa, Skattungbyn och Grönklitt, och tar fäbodarna på Fryksås.", "tagg": "skorsten"},
+    {"namn": "Laget i Älvdalen", "segment": "Älvdalen, Särna, Idre", "rubrik": "Linnéa och en sotare", "text": "Kör 15 mil mellan Älvdalen och Idre och sover i Särna när turen är lång.", "tagg": "natur"},
+    {"namn": "Bokning", "segment": "Kalender och sms", "rubrik": "Ingrid håller ihop schemat", "text": "Svarar i telefon, matchar helgbokningar och skickar bilderna till stugägarna.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "1 100 helgbokningar i år", "text": "Nästan var tredje fritidshusägare valde själv sin helg, och 94 procent var på plats när vi kom.", "tagg": "hem"},
+    {"rubrik": "Fäboden på Ärteråsen", "text": "Vedspisen i en fäbodstuga från 1860-talet godkändes vid brandskyddskontrollen efter nytt rökrör.", "tagg": "natur"},
+    {"rubrik": "En sotare till i Idre", "text": "Hampus Ersson, barnbarn till Gösta, börjar i januari och blir vår första sotare med bas i Idre.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "7 400", "enhet": "eldstäder", "etikett": "I Orsa och Älvdalen"},
+    {"varde": "52 %", "enhet": "", "etikett": "Står i fritidshus"},
+    {"varde": "15 mil", "enhet": "", "etikett": "Mellan Älvdalen och Idre"},
+    {"varde": "5", "enhet": "sotare", "etikett": "Och Ingrid som bokar"}
+  ],
+  "projekt": [
+    {"namn": "Grönklitts stugby", "ort": "Orsa", "typ": "Stugby", "ar": "2026", "text": "64 uthyrningsstugor sotade på två dagar mellan två bokningsveckor i oktober.", "tagg": "tra"},
+    {"namn": "Fäboden på Ärteråsen", "ort": "Älvdalen", "typ": "Brandskyddskontroll", "ar": "2026", "text": "Vedspis från 1860-talet med nytt rökrör, godkänd efter provtryckning.", "tagg": "natur"},
+    {"namn": "Fritidshus i Idre", "ort": "Idre", "typ": "Helgsotning", "ar": "2025", "text": "210 fjällstugor sotade under sex helger, med bild till varje ägare.", "tagg": "hem"},
+    {"namn": "Skattungbyns bygdegård", "ort": "Skattungbyn", "typ": "Sotning", "ar": "2025", "text": "Två kakelugnar och en vedspis i bygdens samlingslokal från 1923.", "tagg": "skorsten"},
+    {"namn": "Särna camping", "ort": "Särna", "typ": "Stugby", "ar": "2025", "text": "Sotning och kontroll av 22 stugor och servicehusets panna före vintersäsongen.", "tagg": "tra"},
+    {"namn": "Fryksås fäbod", "ort": "Orsa", "typ": "Sotning", "ar": "2026", "text": "Tolv fäbodstugor med vedspisar – vi bar utrustningen sista 400 metrarna.", "tagg": "skorsten"}
+  ],
+  "process": [
+    {"titel": "Du får en inbjudan", "text": "När det är dags får du ett sms och ett mejl med en länk till kalendern.", "tagg": "kontor"},
+    {"titel": "Välj helg eller nyckel", "text": "Boka en helg när du är på plats, eller lämna nyckeln så kommer vi en vardag.", "tagg": "hem"},
+    {"titel": "Vi sotar", "text": "Sotning från tak och eldstad. Ett fritidshus med en eldstad tar ungefär 30 minuter.", "tagg": "skorsten"},
+    {"titel": "Bild och protokoll", "text": "Du får ett sms med bild på skorstenen och, vid kontroll, protokollet som pdf.", "tagg": "natur"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Små lag, långa avstånd, inga genvägar",
+    "text": "Vi kör långt mellan kunderna och arbetar ofta ensamma i skogen. Därför har alla sotare satellitlarm, vi checkar in hos Ingrid vid varje tak och vi går aldrig upp på ett tak med is.",
+    "mal": [["100 %", "av sotarna med satellitlarm"], ["94 %", "av helgbokade stugägare på plats"], ["1 dygn", "svarstid på sms och mejl"]]
+  },
+  "karriar": {
+    "rubrik": "Sotare i Dalarnas fjällvärld",
+    "text": "Vi letar efter en skorstensfejare som vill bo i Älvdalen eller Idre. Du får en egen bil, satellitlarm och helgtillägg för fritidshusturerna.",
+    "jobb": [["Skorstensfejare", "Idre"]]
+  },
+  "kultur": "Vi är sex personer som fikar tillsammans varje måndag i Orsa – resten av veckan ses vi mest på sms.",
+  "citat": {"text": "Gösta kände alla i distriktet. Vi känner inte alla än, men vi har sms och en kalender – och vi lär oss.", "namn": "Emma Jons", "roll": "Delägare och skorstensfejare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi bor i Uppsala och har stugan i Idre. Att få välja helg själva och sedan se skorstenen på en bild – det är precis vad vi behövde.", "namn": "Kristina N.", "ort": "Idre"},
+    {"text": "De bar upp sotarutrustningen till fäboden i regn utan att klaga. Gösta hade varit nöjd.", "namn": "Lars E.", "ort": "Fryksås"},
+    {"text": "Alla 64 stugor sotade mellan två bokningsveckor, och fakturan kom på en gång.", "namn": "Annelie S., stugbyföreståndare", "ort": "Grönklitt"}
+  ],
+  "faq": [
+    ["Hur ofta sotas mitt fritidshus?", "Ett fritidshus som eldas sporadiskt sotas vart tredje år enligt kommunernas föreskrifter. Brandskyddskontroll görs vart åttonde år."],
+    ["Måste jag vara på plats?", "Nej. Du kan boka en helg när du är där, lämna nyckeln hos oss eller sätta upp ett nyckelskåp."],
+    ["Vad kostar det att sota fritidshuset?", "Sotning av en eldstad kostar 448 kronor plus grundavgift 286 kronor enligt kommunernas taxa 2026."],
+    ["Kostar helgbokningen extra?", "Nej, helgbokning kostar samma som vardag. Vi har valt att lägga en del av vår arbetstid på helger."],
+    ["Sotar ni på vintern?", "Ja, villor och stugor med plogad väg sotar vi året runt. Fjällstugor utan väg tar vi med snöskoter efter överenskommelse."],
+    ["Vad händer om jag missar min tid?", "Svara på sms:et senast dagen innan så bokar vi om utan kostnad. Missad tid utan avbokning debiteras med 350 kronor."]
+  ],
+  "prislista": [
+    ["Grundavgift per besök", "286 kr"],
+    ["Sotning, eldstad i fritidshus", "448 kr"],
+    ["Sotning, vedpanna", "612 kr"],
+    ["Brandskyddskontroll, fritidshus", "1 190 kr"],
+    ["Brandskyddskontroll, villa", "1 360 kr"],
+    ["Snöskotertillägg, fjällstuga", "650 kr"],
+    ["Missad tid utan avbokning", "350 kr"]
+  ],
+  "certifikat": [
+    {"titel": "Sotningsavtal Orsa och Älvdalen", "text": "Entreprenadavtal med båda kommunerna enligt lagen om skydd mot olyckor, från 2021.", "ikon": "dokument"},
+    {"titel": "Skorstensfejartekniker", "text": "Emma och Linnéa har behörighet för brandskyddskontroll enligt MSB:s föreskrifter.", "ikon": "skold"},
+    {"titel": "Medlem i SSR", "text": "Medlem i Sveriges Skorstensfejaremästares Riksförbund sedan starten.", "ikon": "folk"},
+    {"titel": "Fallskydd och skoterförare", "text": "Alla sotare har fallskyddsutbildning och förarbevis för snöskoter.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Orsa kommun", "Älvdalens kommun", "Grönklitts stugby", "Särna camping", "Skattungbyns bygdegårdsförening", "Fryksås fäbodlag", "Idre Fjällstugeförening"],
+  "nyheter": [
+    ["2026-10-22", "Sista helgerna för året", "Fritidshus kan bokas till och med helgen 14–15 november.", "hem"],
+    ["2026-07-08", "Fäbodarna klara för säsongen", "Vi har sotat alla vedspisar på Fryksås och Ärteråsen före fäbodveckan.", "natur"],
+    ["2026-03-17", "Helgkalendern är öppen", "Välj själv när vi kommer till ditt fritidshus mellan april och november.", "skorsten"]
+  ],
+  "kontakt": {"adress": "Kyrkogatan 8", "postnr": "794 30", "ort": "Orsa", "telefon": "070-174 06 86", "epost": "hej@orsasotarna.se", "orgnr": ""},
+  "oppettider": "Telefon mån–fre 8–15 · Sotning även helger apr–nov",
+  "omrade": "Orsa och Älvdalens kommuner, med Särna och Idre",
+  "fot_cta": "Har du stuga i Orsa eller Älvdalen? Välj själv vilken helg vi kommer.",
+  "bild": {"panel": "natur", "hb": "skorsten"},
+  "text": {
+    "kontakt_knapp": "Boka helg",
+    "hero_knapp": "Så funkar helgbokning",
+    "vagval_etikett": "Husen",
+    "ber_etikett": "Från distriktet",
+    "ber_rubrik": "Nytt från skogen och fjället",
+    "proj_rubrik": "Stugor, fäbodar och byar",
+    "process_etikett": "Helgbokning",
+    "process_rubrik": "Fyra steg till sotad stuga",
+    "bolag_rubrik": "Två lag och en kalender",
+    "hb_etikett": "Ensamarbete och säkerhet",
+    "omdomen_rubrik": "Stugägare och grannar om oss",
+    "faq_rubrik": "Om fritidshus och frister",
+    "boka_rubrik": "Boka din helg",
+    "boka_text": "Skriv fastighetens adress och vilka helgar som passar, så bekräftar Ingrid inom ett dygn.",
+    "boka_falt": ["Namn", "Mobilnummer", "E-post", "Stugans adress och önskad helg"],
+    "certifikat_rubrik": "Avtal och behörigheter",
+    "logos_rubrik": "Kommuner, stugbyar och fäbodlag",
+    "medarbetare": "Sotarlaget"
+  }
+}

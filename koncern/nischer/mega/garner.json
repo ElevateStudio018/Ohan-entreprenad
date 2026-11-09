@@ -1,0 +1,148 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Garnér Installation Group AB",
+  "kortnamn": "Garnér",
+  "slug": "garner",
+  "typ": "Installations- och servicekoncern, Malmö",
+  "tagline": "El, VVS, service",
+  "slogan": "Garnér installerar, servar och optimerar tekniken i fastigheter och industrier i sju länder – från första kabeldragningen till trettionde året i drift.",
+  "hero_rubrik": "Tekniken bakom väggarna, dygnet runt",
+  "hero_text": "9 600 servicetekniker i bil, 410 000 serviceobjekt och en driftcentral i Malmö som aldrig stänger. 62 procent av omsättningen är service.",
+  "intro_rubrik": "Mer service än nyinstallation",
+  "om": [
+    "Hjalmar Garnér öppnade Garnérs Elektriska Byrå på Södra Förstadsgatan i Malmö 1923 och drog el i de nya hyreshusen på Möllevången. Femtio år senare hade firman blivit Skånes största elinstallatör, och på 1990-talet tillkom VVS, kyla och sprinkler genom ett tjugotal förvärv.",
+    "I dag har Garnér 24 600 medarbetare och omsätter 44 miljarder kronor i Sverige, Danmark, Norge, Finland, Tyskland, Nederländerna och Polen. Det som skiljer oss från andra installatörer är att de flesta av våra kunder stannar kvar i serviceavtal i genomsnitt elva år efter att bygget är klart."
+  ],
+  "vagval_rubrik": "Vilken teknik gäller det?",
+  "tjanster": [
+    {"titel": "El och belysning", "ikon": "blixt", "href": "verksamhet.html", "text": "Kraft, belysning och ställverk i allt från lägenheter till datahallar."},
+    {"titel": "VVS och värmepumpar", "ikon": "ror", "href": "verksamhet.html", "text": "Rör, värme och bergvärme i bostäder, sjukhus och industri."},
+    {"titel": "Ventilation och kyla", "ikon": "vind", "href": "verksamhet.html", "text": "Luftbehandling, processkyla och kylning av serverhallar."},
+    {"titel": "Sprinkler och brand", "ikon": "eld", "href": "verksamhet.html", "text": "Sprinkler, brandlarm och utrymningslarm med certifierade montörer."},
+    {"titel": "Säkerhet och passage", "ikon": "las", "href": "verksamhet.html", "text": "Inbrottslarm, kameraövervakning och passersystem."},
+    {"titel": "Service och jour", "ikon": "verktyg", "href": "verksamhet.html", "text": "Serviceavtal med fast responstid och jour dygnet runt."},
+    {"titel": "Bli servicetekniker", "ikon": "bil", "href": "karriar.html", "text": "Egen servicebil, surfplatta och fasta kunder i ditt område."},
+    {"titel": "Investerare", "ikon": "graf", "href": "investerare.html", "text": "Aktiekurs, rapporter och kalender för GARN B."}
+  ],
+  "affarsomraden": [
+    {"titel": "Service och underhåll", "text": "Förebyggande underhåll, felavhjälpning och energioptimering för fastighetsägare, sjukhus och industrier. Alla serviceobjekt är uppkopplade till driftcentralen i Malmö.", "text2": "Serviceaffären växte organiskt med 7 procent 2025.", "tagg": "el"},
+    {"titel": "Elinstallation", "text": "Kraft, belysning, laddinfrastruktur och solceller i nybyggen och ombyggnader. Våra största projekt är datahallar och batterifabriker.", "text2": "Garnér har 9 800 behöriga elektriker i koncernen.", "tagg": "el"},
+    {"titel": "VVS, ventilation och kyla", "text": "Värme, sanitet, ventilation och processkyla från en och samma projektorganisation. Vi samordnar installationerna i BIM så att schakten räcker till alla.", "text2": "Kyla till datahallar är det snabbast växande segmentet.", "tagg": "industri"},
+    {"titel": "Brand och säkerhet", "text": "Sprinkler, brandlarm, passage och kamera i allt från bostadsrättsföreningar till fängelser. Kontrollerna dokumenteras digitalt och kan visas för försäkringsbolaget.", "text2": "Vi utför 61 000 lagstadgade kontroller per år.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Garnér El AB", "segment": "Elinstallation", "rubrik": "Från säkring till ställverk", "text": "Koncernens största bolag med 120 lokalkontor i Sverige och projektenheter för datahallar och industri.", "tagg": "el"},
+    {"namn": "Garnér VS & Kyla AB", "segment": "VVS, ventilation, kyla", "rubrik": "Luft, vatten och värme", "text": "Installerar och servar värme, sanitet, ventilation och kyla, med egen förtillverkning av rörmoduler i Eslöv.", "tagg": "industri"},
+    {"namn": "Garnér Säkerhet AB", "segment": "Brand och säkerhet", "rubrik": "Larm som går när de ska", "text": "Sprinkler, brandlarm och säkerhetssystem med certifiering enligt SBF och FG.", "tagg": "kontor"},
+    {"namn": "Garnér Service Nordic", "segment": "Drift och underhåll", "rubrik": "Driftcentralen som aldrig sover", "text": "Samlar serviceavtal, jour och fjärrövervakning för 410 000 objekt i sju länder.", "tagg": "people"}
+  ],
+  "lokala_bolag": ["Garnér El", "Garnér VS & Kyla", "Garnér Säkerhet", "Garnér Service Nordic", "Garnér A/S", "Garnér Norge AS", "Garnér Talotekniikka Oy", "Garnér Gebäudetechnik GmbH", "Garnér Installatietechniek B.V.", "Garnér Polska Sp. z o.o.", "Möllevångens Elektriska AB", "Eslövs Rörmoduler AB", "Sundets Sprinkler AB", "Hallands Kyl & Värme AB"],
+  "berattelser": [
+    {"rubrik": "Datahall i Lund får 40 MW kyla", "text": "Garnér installerar el, kyla och sprinkler i en av Nordens största datahallar – med spillvärmen kopplad till fjärrvärmen.", "tagg": "industri"},
+    {"rubrik": "Driftcentralen fyller 20 år", "text": "Från 4 000 objekt 2006 till 410 000 i dag. Hälften av alla fel åtgärdas nu på distans utan att en bil rullar.", "tagg": "people"},
+    {"rubrik": "1 000 nya lärlingar", "text": "Garnér anställer rekordmånga elektriker- och VVS-lärlingar i sju länder inför 2027.", "tagg": "el"}
+  ],
+  "nyckeltal": [
+    {"varde": "44", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [29, 30, 33, 37, 40, 42, 44], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "62", "enhet": "%", "etikett": "Andel service", "trend": [51, 53, 55, 57, 59, 61, 62], "trend_text": "Serviceandel av omsättningen"},
+    {"varde": "410 000", "enhet": "", "etikett": "Objekt i serviceavtal"},
+    {"varde": "24 600", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "Datahall Brunnshög", "ort": "Lund", "typ": "El och kyla", "ar": "2027", "text": "40 MW kylkapacitet, reservkraft och spillvärmeåtervinning.", "tagg": "industri"},
+    {"namn": "Sjukhuset Fynsparken, hus 4", "ort": "Odense", "typ": "Totalinstallation", "ar": "2025", "text": "El, VVS, medicinska gaser och sprinkler i 62 000 kvadratmeter.", "tagg": "bygg"},
+    {"namn": "Battericellfabrik Sektion C", "ort": "Skellefteå", "typ": "Industriinstallation", "ar": "2024", "text": "Ställverk, processventilation och renrum för cellproduktion.", "tagg": "industri"},
+    {"namn": "Ramavtal Sundbo Fastigheter", "ort": "Malmö", "typ": "Serviceavtal", "ar": "2026", "text": "Tioårigt avtal för service och energioptimering i 31 000 lägenheter.", "tagg": "bostad"},
+    {"namn": "Hauptbahnhof Süd", "ort": "Hamburg", "typ": "Brand och säkerhet", "ar": "2026", "text": "Sprinkler och brandlarm i ny stationsbyggnad med pågående trafik.", "tagg": "stad"},
+    {"namn": "Kontorskvarteret Hyllie Gate", "ort": "Malmö", "typ": "El och styr", "ar": "2025", "text": "Fastighetsautomation som sänkte energianvändningen med 34 procent första året.", "tagg": "kontor"}
+  ],
+  "process": [
+    {"titel": "Gemensam BIM-modell", "text": "El, VVS, kyla och sprinkler samordnas i en modell innan montaget, så att inga installationer krockar i schakten.", "tagg": "kontor"},
+    {"titel": "Förtillverkning", "text": "Rörmoduler och elcentraler byggs i verkstaden i Eslöv och levereras numrerade till rätt våning.", "tagg": "industri"},
+    {"titel": "Driftsättning och injustering", "text": "Varje system provas och injusteras av samma tekniker som sedan får ansvaret i serviceavtalet.", "tagg": "el"},
+    {"titel": "Uppkoppling och service", "text": "Anläggningen ansluts till driftcentralen och vi följer energi, larm och slitage dygnet runt.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Den grönaste kilowattimmen är den som aldrig används",
+    "text": "Fastigheter står för en tredjedel av energianvändningen i Norden, och mycket försvinner i felinställda pumpar, fläktar och ventiler. I våra serviceavtal ingår energiuppföljning varje månad, och 2025 sparade kunderna tillsammans 1,1 TWh. Våra egna servicebilar är till 74 procent eldrivna.",
+    "mal": [["1,5 TWh", "årlig energibesparing hos kunderna 2028"], ["100 %", "elektrisk servicebilpark 2029"], ["30 %", "kvinnor bland nyanställda tekniker 2030"]]
+  },
+  "karriar": {
+    "rubrik": "Din servicebil står laddad",
+    "text": "Som servicetekniker hos Garnér har du egna kunder i ditt område, en eldriven servicebil och fast schema med ersättning för jour. Vi utbildar vidare till kyltekniker, sprinklermontör eller arbetsledare.",
+    "jobb": [["Servicetekniker el", "Malmö"], ["Kyltekniker datahallar", "Lund"], ["Projektledare VVS", "Köpenhamn"], ["Sprinklermontör", "Göteborg"]]
+  },
+  "kultur": "Alla tekniker har en mentor första året och rätt till två veckors utbildning om året, betald av oss.",
+  "citat": {"text": "Hjalmar drog el i hyreshusen på Möllevången 1923, och vi servar fortfarande många av dem. En installation ska bedömas när den har gått i tjugo år, inte på slutbesiktningen.", "namn": "Fredrik Garnér", "roll": "VD och koncernchef", "tagg": "people"},
+  "omdomen": [
+    {"text": "Driftcentralen såg att en kylpump drog för mycket ström och bytte den innan den havererade. Vi märkte ingenting.", "namn": "Thomas E.", "ort": "Lund"},
+    {"text": "31 000 lägenheter, en kontaktperson och en månadsrapport som visar exakt hur mycket energi vi sparat.", "namn": "Lena H.", "ort": "Malmö"},
+    {"text": "Sprinklern installerades med tågen rullande en våning ned. Inte ett enda felaktigt larm under byggtiden.", "namn": "Katrin M.", "ort": "Hamburg"}
+  ],
+  "faq": [
+    ["Vad ingår i ett serviceavtal?", "Förebyggande underhåll, lagstadgade kontroller, felavhjälpning med avtalad responstid och månatlig energiuppföljning. Reservdelar kan ingå eller debiteras löpande."],
+    ["Hur snabbt kommer ni vid akuta fel?", "Inom fyra timmar i storstäderna och inom åtta timmar i övriga landet för kunder med jouravtal."],
+    ["Tar ni små uppdrag?", "Ja. Lokalkontoren tar allt från bostadsrättsföreningar till enskilda butiker, och står för 18 procent av koncernens omsättning."],
+    ["Vilka certifieringar har ni?", "Auktoriserade elinstallatörer, Säker Vatten, SBF-certifierade sprinklerfirmor och kylföretag enligt F-gasförordningen, samt ISO 9001, 14001 och 45001."],
+    ["Hur äger familjen Garnér bolaget?", "Familjen äger 27 procent av rösterna genom Garnér Invest. B-aktien noterades 1998."],
+    ["Kan jag bli elektriker hos er utan erfarenhet?", "Ja, via vårt lärlingsprogram. Du behöver ha gått el- och energiprogrammet eller motsvarande vuxenutbildning."]
+  ],
+  "nyheter": [
+    ["2026-10-30", "Delårsrapport januari–september 2026", "Serviceintäkterna ökade med 8 procent och rörelsemarginalen förbättrades till 6,4 procent.", "kontor"],
+    ["2026-09-22", "Garnér förvärvar kylföretag i Nederländerna", "Förvärvet ger 380 kyltekniker och servicekunder i Randstad.", "industri"],
+    ["2026-06-11", "Ny driftcentral i Oslo", "Den andra driftcentralen fördelar jourärenden i Norge och fungerar som reserv för Malmö.", "people"]
+  ],
+  "investerare": {
+    "aktie": "GARN B",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "318,90",
+    "forandring": "+0,3 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-30"], ["Delårsrapport januari–juni 2026", "2026-07-23"], ["Delårsrapport januari–mars 2026", "2026-04-30"], ["Årsredovisning 2025", "2026-04-02"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-12"], ["Årsstämma, Malmö", "2027-05-11"], ["Kapitalmarknadsdag, Köpenhamn", "2027-06-03"]]
+  },
+  "kontor_rubrik": "320 lokalkontor i sju länder",
+  "kontor_text": "Serviceteknikerna utgår hemifrån eller från ett lokalkontor nära kunderna. Här är de största orterna.",
+  "kontor_lista": [
+    ["Malmö – huvudkontor", "Lundavägen 143. Koncernledning och den nordiska driftcentralen."],
+    ["Eslöv", "Förtillverkning av rörmoduler och elcentraler."],
+    ["Göteborg", "Region Väst med 2 100 tekniker."],
+    ["Stockholm", "Region Öst och projektenhet för datahallar."],
+    ["Köpenhamn", "Garnér A/S – sjukhus, kontor och service i Danmark."],
+    ["Oslo", "Garnér Norge AS och den andra driftcentralen."],
+    ["Helsingfors", "Garnér Talotekniikka Oy, el och VVS i södra Finland."],
+    ["Hamburg", "Garnér Gebäudetechnik GmbH, brand och säkerhet."],
+    ["Utrecht", "Garnér Installatietechniek, kyla och service."],
+    ["Poznań", "Garnér Polska med installationer för nordiska industrikunder."]
+  ],
+  "tidslinje_rubrik": "Ett sekel av kablar och rör",
+  "tidslinje": [
+    ["1923", "Hjalmar Garnér öppnar elbyrå i Malmö."],
+    ["1958", "Första serviceavtalet – med Malmö Allmänna Sjukhus."],
+    ["1979", "Skånes största elinstallatör med 900 elektriker."],
+    ["1994", "VVS och sprinkler genom förvärv i Halland och Skåne."],
+    ["1998", "B-aktien noteras på Stockholmsbörsen."],
+    ["2006", "Driftcentralen i Malmö öppnar."],
+    ["2017", "Etablering i Tyskland och Nederländerna."],
+    ["2025", "Serviceandelen passerar 60 procent."]
+  ],
+  "kontakt": {"adress": "Lundavägen 143", "postnr": "212 24", "ort": "Malmö", "telefon": "070-174 06 26", "epost": "info@garner.se", "orgnr": ""},
+  "oppettider": "Kundtjänst mån–fre 7–17, jour dygnet runt",
+  "omrade": "Norden, Tyskland, Nederländerna och Polen",
+  "fot_cta": "Har ni en fastighet som drar för mycket energi? Be om en genomgång av tekniken.",
+  "bild": {"panel": "el", "hb": "el"},
+  "text": {
+    "ber_rubrik": "Senaste från installationerna",
+    "proj_rubrik": "Uppdrag i drift och under montage",
+    "process_rubrik": "Från modell till driftcentral",
+    "process_etikett": "Hela livscykeln",
+    "hb_etikett": "Energi och klimat",
+    "omdomen_rubrik": "Fastighetsägarna om Garnér",
+    "faq_rubrik": "Frågor om installation och service",
+    "bolag_rubrik": "Fyra teknikbolag",
+    "vagg_rubrik": "{n} bolag, en driftcentral",
+    "panel_etikett": "Servicetekniker sökes",
+    "hero_lank": "Våra uppdrag",
+    "ny_rubrik": "Pressmeddelanden från Garnér"
+  }
+}

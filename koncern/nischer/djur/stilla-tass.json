@@ -1,0 +1,126 @@
+{
+  "profil": "djur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Stilla Tass Lågstresstrim",
+  "kortnamn": "Stilla Tass",
+  "slug": "stilla-tass",
+  "typ": "Lågstresstrim i Sundsvall",
+  "tagline": "För rädda hundar",
+  "slogan": "Hundtrim för hundar som skakar, morrar eller har blivit nekade på andra salonger – i en salong med ett enda bord på Södermalm i Sundsvall.",
+  "hero_rubrik": "Här får hunden säga nej",
+  "hero_text": "Vi trimmar hundar som är rädda för bordet, fönen eller främmande händer. I små steg, med pauser, och med ägaren nära.",
+  "intro_rubrik": "Varje steg på hundens villkor",
+  "om": [
+    "Stilla Tass startades 2020 av Therese Wallin, hundfrisör sedan 2009 och utbildad i lågstresshantering i både Sverige och USA. Hon såg alltför många hundar hållas fast med munkorg och trimgalge – och märkte att de blev räddare för varje besök.",
+    "Salongen ligger i ett gammalt garage på Södermalm och har bara ett bord. Vi tar en hund i taget, har inga andra hundar i lokalen och planerar varje besök efter hundens tidigare erfarenheter. Ibland blir första besöket bara att hunden äter godis på golvet och går hem igen."
+  ],
+  "vagval_rubrik": "Var befinner sig din hund idag?",
+  "tjanster": [
+    {"titel": "Bekantskapsbesök", "ikon": "hjarta", "href": "verksamhet.html", "text": "Hunden får lukta, äta och gå runt – inget annat händer."},
+    {"titel": "Trim i små steg", "ikon": "sax", "href": "verksamhet.html", "text": "Klippning uppdelad på flera korta besök om det behövs."},
+    {"titel": "Kloklipp på golvet", "ikon": "tass", "href": "verksamhet.html", "text": "Vi sitter på en matta på golvet och klipper en klo i taget."},
+    {"titel": "Kooperativ hantering", "ikon": "skola", "href": "verksamhet.html", "text": "Hunden lär sig en startsignal som betyder att den är redo."},
+    {"titel": "Tyst fön och handduk", "ikon": "vind", "href": "verksamhet.html", "text": "Lågljudsfön eller bara handduk för hundar som inte tål ljud."},
+    {"titel": "Hembesök", "ikon": "hem", "href": "verksamhet.html", "text": "För hundar som inte klarar att komma in i salongen alls."},
+    {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Vi tar betalt per tid, inte per resultat."},
+    {"titel": "Berätta om hunden", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi börjar alltid med ett samtal på femton minuter."}
+  ],
+  "affarsomraden": [
+    {"titel": "Rädda och reaktiva hundar", "text": "Hundar som har bitits, har morrat, eller har nekats på andra salonger. Vi läser kroppsspråket och stannar innan hunden behöver höja rösten.", "text2": "Munkorg används bara om hunden redan är tränad på den och tycker att den är okej.", "tagg": "hund"},
+    {"titel": "Kooperativ hantering", "text": "Hunden lär sig att lägga hakan på en kudde när den är redo att bli hanterad. Lyfter den på huvudet, pausar vi.", "text2": "Det låter långsamt, men efter några besök går det ofta snabbare än på en vanlig salong.", "tagg": "hundtraning"},
+    {"titel": "Omplaceringshundar", "text": "Hundar från omplacering och utlandsadoption har ofta okänd historia. Vi börjar från noll och skriver en plan tillsammans med ägaren.", "text2": "Vi samarbetar med två veterinärer i Sundsvall och Timrå.", "tagg": "hund"},
+    {"titel": "Valpar med försiktig start", "text": "Valpar som visar oro tidigt får korta, glada besök utan krav. Målet är att de aldrig ska bli rädda.", "text2": "Valpbesök på 20 minuter, högst ett i veckan.", "tagg": "valp"}
+  ],
+  "bolag": [
+    {"namn": "Therese Wallin", "segment": "Grundare och lågstresstrimmare", "rubrik": "Lågstress sedan 2014", "text": "Therese är Fear Free-certifierad och har gesällbrev i hundtrimning. Hon tar alla första besök och skriver planerna.", "tagg": "trimning"},
+    {"namn": "Kim Åberg", "segment": "Hundfrisör och hundinstruktör", "rubrik": "Tränar hunden på bordet", "text": "Kim är utbildad hundinstruktör och håller de kooperativa hanteringsträffarna. Kim har själv en omplacerad podenco.", "tagg": "hundtraning"},
+    {"namn": "Lovisa Strand", "segment": "Hundfrisör, hembesök", "rubrik": "Kommer hem till de räddaste", "text": "Lovisa gör hembesöken i Sundsvall, Timrå och Njurunda med en mobil väska och en matta som luktar salongen.", "tagg": "hund"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ronja satt på bordet", "text": "Efter sju besök på golvet hoppade en rumänsk gatuhund upp på bordet själv.", "tagg": "hund"},
+    {"rubrik": "Ny matta, nya dofter", "text": "Vi har bytt till gummimattor som tvättas utan parfym – hundarna nosar mindre och slappnar av snabbare.", "tagg": "trimning"},
+    {"rubrik": "Hanteringsträffar på lördagar", "text": "Kim startar fyra lördagspass i januari för hundar som inte gillar kloklipp.", "tagg": "hundtraning"}
+  ],
+  "nyckeltal": [
+    {"varde": "1", "enhet": "hund", "etikett": "I salongen åt gången"},
+    {"varde": "15", "enhet": "min", "etikett": "Samtal före första besöket"},
+    {"varde": "0", "enhet": "trimgalgar", "etikett": "Finns inte här"},
+    {"varde": "320", "enhet": "hundar", "etikett": "Som nekats på andra salonger"}
+  ],
+  "projekt": [
+    {"namn": "Ronja", "ort": "Rumänsk gatuhund", "typ": "Bekantskap och trim", "ar": "2026", "text": "Sju besök på golvet innan första kloklippet – nu kommer hon in med svansen uppe.", "tagg": "hund", "status": "Stamkund"},
+    {"namn": "Charlie", "ort": "Cocker spaniel", "typ": "Trim i små steg", "ar": "2026", "text": "Bitit två frisörer – klipptes på tre besök à 30 minuter utan munkorg.", "tagg": "trimning"},
+    {"namn": "Pippi", "ort": "Chihuahua", "typ": "Kloklipp på golvet", "ar": "2025", "text": "En klo per besök i början, nu alla tjugo på fem minuter.", "tagg": "hund", "status": "Stamkund"},
+    {"namn": "Viggo", "ort": "Mellanpudel", "typ": "Kooperativ hantering", "ar": "2025", "text": "Lärde sig hakan-på-kudden och står nu still under hela klippningen.", "tagg": "hundtraning"},
+    {"namn": "Nala", "ort": "Podenco", "typ": "Hembesök", "ar": "2025", "text": "Klor och bad hemma i Timrå, i hennes egen hall.", "tagg": "hund"},
+    {"namn": "Totte", "ort": "Bichon frisé, valp", "typ": "Försiktig valpstart", "ar": "2026", "text": "Fyra korta besök innan första riktiga klippningen.", "tagg": "valp"}
+  ],
+  "process": [
+    {"titel": "Samtal först", "text": "Vi pratar i femton minuter om hundens historia, triggers och vad som fungerat tidigare.", "tagg": "hund"},
+    {"titel": "Bekantskap", "text": "Hunden får komma in, lukta och äta på golvet. Ibland är det hela första besöket.", "tagg": "hund"},
+    {"titel": "Små steg", "text": "Vi arbetar i pass på några minuter och pausar så fort hunden visar stress.", "tagg": "hundtraning"},
+    {"titel": "Skriftlig plan", "text": "Efter besöket får du en plan med nästa steg och övningar att göra hemma.", "tagg": "trimning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen fasthållning, ingen trimgalge, ingen brådska",
+    "text": "Vi tar betalt per tid, inte per färdig klippning. Det betyder att vi aldrig behöver tvinga klart en behandling för att det ska gå ihop. En halvklippt hund som går hem glad är ett bättre resultat än en färdig hund som är räddare än förut.",
+    "mal": [["0", "hundar i trimgalge"], ["1", "hund i lokalen åt gången"], ["100 %", "betalt per tid, aldrig per klipp"]]
+  },
+  "karriar": {"rubrik": "Så förbereder du det första mötet", "text": "Ta med hundens favoritgodis och gärna en filt hemifrån. Kom inte för tidigt – vi vill att hunden ska komma direkt in i en tom och lugn salong.", "jobb": []},
+  "kultur": "Om hunden visar att den har fått nog slutar vi – även om bara ena sidan är klippt.",
+  "citat": {"text": "En hund som morrar berättar något. Om vi lyssnar då behöver den aldrig bita.", "namn": "Therese Wallin", "roll": "Grundare", "tagg": "trimning"},
+  "omdomen": [
+    {"text": "Charlie hade bitit två frisörer och vi var nära att ge upp. Therese tog tre besök och ingen munkorg. Vi grät i bilen på vägen hem.", "namn": "Malin E.", "ort": "Sundsvall"},
+    {"text": "Ronja fick äta godis på golvet i sju besök. Ingen annan hade det tålamodet.", "namn": "Daniel B.", "ort": "Njurunda"},
+    {"text": "Lovisa kom hem till oss eftersom Nala inte klarar bilen. Hon satt på hallgolvet i en timme.", "namn": "Annelie H.", "ort": "Timrå"}
+  ],
+  "faq": [
+    ["Min hund har bitit en frisör. Tar ni emot den?", "Ja, det är ofta just de hundarna vi träffar. Vi börjar med ett samtal och ett bekantskapsbesök."],
+    ["Varför tar ni betalt per tid?", "För att vi aldrig ska behöva tvinga en hund att bli klar. Du betalar för den tid vi arbetar."],
+    ["Använder ni munkorg?", "Bara om hunden är tränad på munkorgen och tycker att den är okej. Vi sätter aldrig på en munkorg för att kunna hålla fast."],
+    ["Hur många besök tar det innan hunden är klippt?", "Det varierar. Vissa hundar klipps på första besöket, andra behöver fem eller sex korta tillfällen."],
+    ["Kan jag vara med?", "Ja, de flesta hundar blir lugnare med ägaren i rummet. Vi visar var du ska sitta."],
+    ["Använder ni lugnande medel?", "Nej, men vi samarbetar med veterinärer som kan förskriva ångestdämpande inför besöket om hunden behöver det."],
+    ["Vad händer om vi behöver avboka?", "Avboka senast dagen innan. Är hunden orolig samma dag, ring – vi flyttar hellre tiden än tvingar fram ett besök."]
+  ],
+  "priser": [
+    {"namn": "Bekantskap", "pris": "395 kr", "enhet": "30 minuter", "text": "Första mötet – ingen behandling om hunden inte vill.", "punkter": ["Samtal före besöket", "Hunden utforskar salongen", "Godis på golvet", "Skriftlig plan för nästa steg"]},
+    {"namn": "Lågstresstrim", "pris": "fr. 795 kr", "enhet": "per påbörjad timme", "text": "Bad och trim i takt med hunden.", "punkter": ["Arbete i korta pass", "Lågljudsfön eller handduk", "Ägaren får vara med", "Uppdaterad plan efter besöket"], "utvald": true},
+    {"namn": "Hembesök", "pris": "fr. 995 kr", "enhet": "per påbörjad timme", "text": "För hundar som inte klarar att komma till salongen.", "punkter": ["Klor, bad eller trim hemma", "Inom Sundsvall, Timrå, Njurunda", "Matta och verktyg tas med", "Resa ingår inom 2 mil"]}
+  ],
+  "prislista": [["Bekantskapsbesök, 30 min", "395 kr"], ["Kloklipp på golvet, 20 min", "250 kr"], ["Lågstresstrim, liten hund", "fr. 795 kr per timme"], ["Lågstresstrim, mellan och stor hund", "fr. 895 kr per timme"], ["Kooperativ hantering, 45 min", "550 kr"], ["Valpbesök, 20 min", "250 kr"], ["Hembesök, per timme", "fr. 995 kr"], ["Resa utöver 2 mil", "30 kr per mil"]],
+  "galleri_taggar": ["hund", "trimning", "hundtraning", "valp"],
+  "nyheter": [
+    ["2026-10-19", "Fem tecken på att hunden är stressad", "Slicka sig om nosen, gäspa, vända bort huvudet – och vad du gör då.", "hund"],
+    ["2026-06-03", "Lär hunden hakan-på-kudden", "En övning som gör kloklipp och kamning lättare, steg för steg.", "hundtraning"],
+    ["2026-02-11", "Hundar från omplacering", "Varför vi alltid börjar från noll med adopterade hundar.", "hund"]
+  ],
+  "kontakt": {"adress": "Bergsgatan 41", "postnr": "852 37", "ort": "Sundsvall", "telefon": "070-174 06 49", "epost": "therese@stillatass.se", "orgnr": ""},
+  "oppettider": "Mån–tors 9–16, lördagar efter överenskommelse",
+  "omrade": "Sundsvall, Timrå, Njurunda och Härnösand",
+  "fot_cta": "Har din hund fått nej någon annanstans? Ring oss och berätta.",
+  "text": {
+    "kontakt_knapp": "Ring oss",
+    "hero_knapp": "Så arbetar vi",
+    "ber_etikett": "Små framsteg",
+    "ber_rubrik": "Hundar som tagit ett steg till",
+    "proj_rubrik": "Framsteg, inte bara frisyrer",
+    "proj_kol": ["Hund", "Ras", "Arbete", "Status", "År"],
+    "process_rubrik": "Fyra steg utan tvång",
+    "hb_etikett": "Lågstressfilosofin",
+    "hb_lank": "Så hanterar vi hundarna",
+    "omdomen_rubrik": "Från ägare som nästan gett upp",
+    "faq_rubrik": "Frågor från oroliga ägare",
+    "priser_rubrik": "Betalt per tid, inte per frisyr",
+    "priser_not": "Vi debiterar per påbörjad halvtimme efter den första timmen. Ett avbrutet besök kostar bara den tid vi arbetat.",
+    "galleri_rubrik": "Lugna stunder i salongen",
+    "boka_rubrik": "Berätta om din hund",
+    "boka_text": "Skriv hundens namn, ras och vad som har varit svårt tidigare, så ringer vi upp för ett samtal på femton minuter.",
+    "boka_falt": ["Ditt namn", "Telefon", "Hundens namn och ras", "Vad har varit svårt?"],
+    "boka_knapp": "Be om samtal",
+    "ny_rubrik": "Om rädsla och hantering",
+    "panel_etikett": "Första mötet",
+    "sida_bolag_ingress": "Vi är {n} hundfrisörer utbildade i lågstresshantering.",
+    "sida_projekt_ingress": "Några hundar och de steg de har tagit hos oss."
+  }
+}

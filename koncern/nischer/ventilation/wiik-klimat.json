@@ -1,0 +1,132 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Wiik Klimatteknik AB",
+  "kortnamn": "Wiik Klimat",
+  "slug": "wiik-klimat",
+  "typ": "Ventilation för villor och kulturmiljöer",
+  "tagline": "Tyst, osynligt, beständigt",
+  "slogan": "Wiik projekterar och bygger ventilation i påkostade villor, sekelskiftesvåningar och kulturhistoriska byggnader – där tekniken ska märkas så lite som möjligt.",
+  "hero_rubrik": "Ventilation man varken ser eller hör",
+  "hero_text": "Max 25 dB(A) i sovrummen, don som försvinner i stuckaturen och tio års garanti. Vi arbetar i villor och kulturmiljöer i Stockholm och skärgården.",
+  "intro_rubrik": "Ett hus i taget, i detalj",
+  "om": [
+    "Henrik Wiik är civilingenjör i installationsteknik och arbetade tio år med museer och kyrkor innan han startade eget 2003. Det första uppdraget var en Djursholmsvilla från 1906 där ägarna ville ha FTX utan att ett enda tak skulle sänkas – det tog åtta månader och blev vårt arbetssätt.",
+    "I dag är vi 22 personer på Vendevägen i Danderyd: fyra ingenjörer, en akustiker, egna montörer och en snickare som tillverkar don och inklädnader i ek, mässing och gips. Vi tar runt femton större projekt om året och följer varje hus i minst tio år efteråt."
+  ],
+  "vagval_rubrik": "Vilket hus gäller det?",
+  "tjanster": [
+    {"titel": "FTX i befintliga villor", "ikon": "hus", "href": "verksamhet.html", "text": "Kanaldragning i bjälklag och garderober i stället för sänkta tak."},
+    {"titel": "Kulturhistoriska hus", "ikon": "pensel", "href": "verksamhet.html", "text": "Ventilation i hus med stuckatur, kakelugnar och q-märkta fasader."},
+    {"titel": "Akustisk projektering", "ikon": "sok", "href": "verksamhet.html", "text": "Ljudberäkning per rum och mätning före överlämning."},
+    {"titel": "Specialdon", "ikon": "ritning", "href": "verksamhet.html", "text": "Slitsdon, golvdon och galler i ek, mässing och gips från vår egen verkstad."},
+    {"titel": "Vinkällare & spa", "ikon": "vatten", "href": "verksamhet.html", "text": "Styrd fukt och temperatur i vinrum, bastu och inomhuspool."},
+    {"titel": "Komfortkyla", "ikon": "sol", "href": "verksamhet.html", "text": "Dragfri kyla integrerad i ventilationen – utan synliga splitaggregat."},
+    {"titel": "Tioårsavtal", "ikon": "kalender", "href": "verksamhet.html", "text": "Service, filter och garanti i tio år med samma tekniker."},
+    {"titel": "Boka platsbesök", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Henrik eller en av ingenjörerna kommer ut och går igenom huset."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villor", "text": "Vi bygger FTX i befintliga villor från 1900-talets början till 1970-talet. Kanalerna dras i bjälklag, gamla rökkanaler och garderober, och aggregatet placeras där det inte hörs.", "text2": "Ett typiskt projekt tar åtta till tolv veckor och kostar 450 000–1 200 000 kr.", "tagg": "hem"},
+    {"titel": "Våningar och kulturmiljöer", "text": "I sekelskiftesvåningar på Östermalm och Kungsholmen samarbetar vi med antikvarie, arkitekt och föreningens styrelse. Don monteras i taklister och kakelugnsnischer så att rummen ser orörda ut.", "text2": "Vi har arbetat i 14 byggnader med kulturhistoriskt skydd.", "tagg": "interior"},
+    {"titel": "Akustik och komfort", "text": "Vår akustiker beräknar ljudnivån i varje rum innan något byggs. Vi garanterar högst 25 dB(A) i sovrum och 30 dB(A) i vardagsrum – och mäter innan vi lämnar över.", "text2": "Lufthastigheten vid vistelsezonen hålls under 0,15 meter per sekund.", "tagg": "ventilation"},
+    {"titel": "Specialrum", "text": "Vinkällare, inomhuspooler, gym och hemmabiografer har egna krav på fukt, temperatur och ljud. Vi projekterar dem som separata zoner med egen styrning.", "text2": "Allt styrs från samma app som resten av husets ventilation.", "tagg": "interior"}
+  ],
+  "bolag": [
+    {"namn": "Projektering", "segment": "4 ingenjörer och 1 akustiker", "rubrik": "Varje kanal ritad i 3D", "text": "Laserskannar huset, ritar kanaler och beräknar ljud innan första hålet tas upp.", "tagg": "kontor"},
+    {"namn": "Montage", "segment": "11 montörer", "rubrik": "Täckning, damm och tystnad", "text": "Arbetar med golvskydd, dammväggar och HEPA-filter i bebodda hus.", "tagg": "ventilation"},
+    {"namn": "Snickeriet", "segment": "2 snickare", "rubrik": "Don som smälter in", "text": "Tillverkar galler, inklädnader och slitsdon i trä, mässing och gips på mått.", "tagg": "tra"},
+    {"namn": "Service", "segment": "3 tekniker", "rubrik": "Samma tekniker i tio år", "text": "Varje hus har en egen tekniker som sköter filter, service och garanti.", "tagg": "interior"}
+  ],
+  "berattelser": [
+    {"rubrik": "Villa på Djursholm, 1911", "text": "FTX i tre våningar utan ett enda sänkt tak – kanalerna gick i gamla rökkanaler.", "tagg": "hem"},
+    {"rubrik": "22 dB(A) i sovrummet", "text": "Slutmätningen i en våning på Strandvägen blev tre decibel under garantin.", "tagg": "interior"},
+    {"rubrik": "Ny akustiker i teamet", "text": "Elsa Rudberg kommer från en akustikkonsult och tar över ljudberäkningarna.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "25", "enhet": "dB(A)", "etikett": "Garanterad max i sovrum"},
+    {"varde": "10", "enhet": "år", "etikett": "Garanti och serviceavtal"},
+    {"varde": "15", "enhet": "per år", "etikett": "Så många större projekt tar vi"},
+    {"varde": "14", "enhet": "", "etikett": "Kulturskyddade byggnader"}
+  ],
+  "projekt": [
+    {"namn": "Villa Ekudden", "ort": "Djursholm", "typ": "FTX i villa från 1911", "ar": "2025", "text": "Kanaler i gamla rökkanaler och bjälklag, aggregatet i ett ljudisolerat rum i källaren.", "tagg": "hem"},
+    {"namn": "Våning vid Strandvägen", "ort": "Östermalm, Stockholm", "typ": "Sekelskiftesvåning", "ar": "2025", "text": "Slitsdon i taklisterna och 22 dB(A) uppmätt i sovrummet.", "tagg": "interior"},
+    {"namn": "Skärgårdsvilla", "ort": "Ingarö", "typ": "Nybyggnad", "ar": "2026", "text": "Ventilation, komfortkyla och inomhuspool i en villa på 420 kvadratmeter.", "tagg": "hem", "status": "Pågående"},
+    {"namn": "Prästgården", "ort": "Vallentuna", "typ": "Kulturmiljö", "ar": "2024", "text": "Varsam ventilation i en q-märkt prästgård från 1790, i samråd med antikvarie.", "tagg": "tra"},
+    {"namn": "Vinkällare i Saltsjöbaden", "ort": "Saltsjöbaden", "typ": "Specialrum", "ar": "2024", "text": "Konstant 12 grader och 70 procent luftfuktighet för 3 000 flaskor.", "tagg": "interior"},
+    {"namn": "Villa Solbacka", "ort": "Lidingö", "typ": "FTX och kyla", "ar": "2024", "text": "Dragfri kyla via tilluften i en funkisvilla från 1934, utan synliga aggregat.", "tagg": "ventilation"}
+  ],
+  "process": [
+    {"titel": "Platsbesök och skanning", "text": "Vi går igenom huset med er och laserskannar alla våningar för att hitta vägar för kanalerna.", "tagg": "hem"},
+    {"titel": "Förslag med ljudberäkning", "text": "Ni får ritningar, en ljudberäkning per rum och ett fast pris inom tre veckor.", "tagg": "kontor"},
+    {"titel": "Montage", "text": "Vi bygger med dammskydd och städning varje dag. De flesta familjer bor kvar under arbetet.", "tagg": "ventilation"},
+    {"titel": "Mätning och överlämning", "text": "Vi mäter ljud och flöden i varje rum och lämnar en pärm med allt som har byggts.", "tagg": "interior"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Byggt för att hålla en generation",
+    "text": "Vi väljer aggregat med reservdelar i minst tjugo år, kanaler i förzinkad plåt och don som går att rengöra. Värmeåtervinningen ligger på över 85 procent, vilket i en stor villa ofta sparar 15 000–25 000 kWh om året.",
+    "mal": [["85 %", "lägsta temperaturverkningsgrad"], ["20 år", "garanterad tillgång till reservdelar"], ["0", "sänkta tak i kulturmiljöer"]]
+  },
+  "karriar": {
+    "rubrik": "För dig som vill göra det ordentligt",
+    "text": "Vi tar få projekt och lägger tid på varje detalj. Här får du arbeta i några av Stockholms mest spännande hus, med kollegor som bryr sig om hur det ser ut när locket är på.",
+    "jobb": [["Ventilationsmontör", "Danderyd"], ["Installationsingenjör", "Danderyd"]]
+  },
+  "kultur": "Varje projekt avslutas med att hela laget går igenom huset tillsammans med ägarna, rum för rum.",
+  "citat": {"text": "Den bästa ventilationen är den som ingen gäst någonsin frågar om. Den ska bara finnas där, tyst, i hundra år.", "namn": "Henrik Wiik", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi var säkra på att FTX skulle kräva sänkta tak i hela huset. Wiik hittade vägar vi inte visste fanns. Man ser ingenting.", "namn": "Charlotte A.", "ort": "Djursholm"},
+    {"text": "Antikvarien var med från första mötet och godkände allt utan anmärkning. Donen i taklisterna är osynliga.", "namn": "Fredrik L.", "ort": "Östermalm"},
+    {"text": "Det är så tyst att vi först trodde att aggregatet inte var igång.", "namn": "Sofia och Gustav M.", "ort": "Lidingö"}
+  ],
+  "faq": [
+    ["Går det att bygga FTX i ett gammalt hus utan att sänka taken?", "I nästan alla fall vi har sett, ja. Vi använder bjälklag, garderober, gamla rökkanaler och ibland golvdon. Laserskanningen visar vilka vägar som finns."],
+    ["Vad kostar det?", "En villa på 200–300 kvadratmeter landar oftast mellan 450 000 och 800 000 kr inklusive specialdon och injustering. Ni får fast pris efter platsbesöket."],
+    ["Hur tyst blir det?", "Vi garanterar högst 25 dB(A) i sovrum och 30 dB(A) i vardagsrum, och mäter innan vi lämnar över. Det motsvarar ungefär ett viskande."],
+    ["Kan vi bo kvar under arbetet?", "De flesta gör det. Vi arbetar med dammväggar och HEPA-filtrerade luftrenare och städar varje dag."],
+    ["Arbetar ni med q-märkta hus?", "Ja. Vi har arbetat i 14 kulturskyddade byggnader och tar fram underlag till bygglov och antikvarie."],
+    ["Vad ingår i tioårsavtalet?", "Filterbyte två gånger om året, årlig service, fri felavhjälpning och samma tekniker under hela perioden."],
+    ["Var arbetar ni?", "I Stockholm med omnejd och i skärgården från Norrtälje till Nynäshamn."]
+  ],
+  "certifikat": [
+    {"titel": "Funktionskontrollant behörighet K", "text": "Två av ingenjörerna är certifierade funktionskontrollanter med kvalificerad behörighet.", "ikon": "dokument"},
+    {"titel": "Medlem i Svensk Ventilation", "text": "Vi följer branschens riktlinjer och är medlemmar sedan 2005.", "ikon": "vind"},
+    {"titel": "Tio års garanti", "text": "Garantin gäller arbete och material och är försäkrad hos ett försäkringsbolag.", "ikon": "skold"},
+    {"titel": "Kollektivavtal", "text": "Alla montörer omfattas av kollektivavtal via Plåt & Ventföretagen.", "ikon": "folk"}
+  ],
+  "kunder": ["Villa Ekudden, Djursholm", "Brf Strandvägen 7", "Vallentuna prästgård", "Brf Kungsklippan", "Villa Solbacka, Lidingö", "Saltsjöbadens Strandvillor", "Brf Lärkstaden 12"],
+  "nyheter": [
+    ["2026-09-15", "Ventilation i hus med kakelugnar", "Så samsas FTX och eldning – och därför behöver huset rätt undertryck.", "interior"],
+    ["2026-05-20", "Akustikern Elsa Rudberg börjar", "Ljudberäkningarna tas nu fram i eget hus för alla projekt.", "people"],
+    ["2026-01-12", "Bokningsläget för 2027", "Vi tar emot förfrågningar för projekt med start från mars 2027.", "hem"]
+  ],
+  "kontakt": {"adress": "Vendevägen 87", "postnr": "182 32", "ort": "Danderyd", "telefon": "070-174 06 57", "epost": "henrik@wiikklimat.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–17, platsbesök även lördagar",
+  "omrade": "Stockholm, Roslagen och skärgården",
+  "fot_cta": "Funderar ni på FTX i ett äldre hus? Börja med ett platsbesök.",
+  "bild": {"panel": "interior", "hb": "hem"},
+  "text": {
+    "kontakt_knapp": "Boka platsbesök",
+    "hero_knapp": "Så arbetar vi",
+    "ber_etikett": "Aktuellt",
+    "ber_rubrik": "Ur projektboken",
+    "proj_rubrik": "Hus vi har fått arbeta i",
+    "proj_rubrik_lista": "Villor, våningar och kulturmiljöer",
+    "sida_projekt_titel": "Projekt",
+    "process_etikett": "Arbetssätt",
+    "process_rubrik": "Från laserskanning till ljudmätning",
+    "hb_etikett": "Beständighet",
+    "hb_lank": "Läs om materialval och garanti",
+    "omdomen_rubrik": "Husägarna berättar",
+    "faq_rubrik": "Frågor vi får vid första mötet",
+    "boka_rubrik": "Berätta om ert hus",
+    "boka_text": "Skriv några rader om huset och vad ni vill uppnå, så ringer Henrik upp inom två dagar.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Om huset: år, storlek, önskemål"],
+    "logos_rubrik": "Ett urval av våra uppdragsgivare",
+    "certifikat_rubrik": "Garantier och behörigheter",
+    "bolag_rubrik": "Ingenjörer, montörer och snickare",
+    "siffror_etikett": "Wiik i fyra siffror",
+    "medarbetare": "Laget"
+  }
+}

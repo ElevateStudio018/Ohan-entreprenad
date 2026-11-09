@@ -1,0 +1,125 @@
+{
+  "profil": "djur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Trimbussen i Norr AB",
+  "kortnamn": "Trimbussen",
+  "slug": "trimbussen",
+  "typ": "Mobil hundtrimning i Västerbotten",
+  "tagline": "Salongen parkerar på uppfarten",
+  "slogan": "En fullt utrustad trimsalong på hjul som kör till dig i Umeå, Vännäs, Robertsfors och byarna däremellan.",
+  "hero_rubrik": "Vi kör salongen hem till din hund",
+  "hero_text": "Varmvatten, badkar, hydraulbord och fön – allt i bussen på din uppfart. Hunden behöver aldrig åka bil eller vänta bland andra hundar.",
+  "intro_rubrik": "Tre bussar, sextio mil i veckan",
+  "om": [
+    "Trimbussen startade 2018 när Maria Lundström byggde om en begagnad Iveco Daily till trimsalong med egen vattentank på 200 liter, gasolvärmare och generator. Hon hade drivit salong i Umeå i tio år och märkt att kunderna i Hörnefors och Bjurholm tackade nej för att resan tog en halv dag.",
+    "I dag har vi tre bussar som kör fasta rutter varje vecka, från Holmsund vid kusten till Vindeln i inlandet. Bussarna värms upp till 22 grader innan vi kommer fram, även när det är trettio minusgrader ute, och vi behöver bara en plats att parkera."
+  ],
+  "vagval_rubrik": "Vad ska bussen göra hos dig?",
+  "tjanster": [
+    {"titel": "Trim på uppfarten", "ikon": "bil", "href": "verksamhet.html", "text": "Bad, klippning och kloklipp i bussen utanför din dörr."},
+    {"titel": "Fasta rutter", "ikon": "karta", "href": "verksamhet.html", "text": "Samma veckodag och samma frisör varje gång, utan körtillägg på rutten."},
+    {"titel": "Flera hundar samtidigt", "ikon": "folk", "href": "verksamhet.html", "text": "Har du tre hundar trimmar vi alla på samma besök, med rabatt."},
+    {"titel": "Seniorer och sjuka", "ikon": "hjarta", "href": "verksamhet.html", "text": "För hundar som inte orkar åka bil eller har svårt att gå i trappor."},
+    {"titel": "Kennelbesök", "ikon": "hem", "href": "verksamhet.html", "text": "Vi kommer till uppfödare och trimmar hela kullen eller kenneln."},
+    {"titel": "Avfällning", "ikon": "vind", "href": "verksamhet.html", "text": "Underullen ut på husky, malamute och samojed – i bussen, inte i ditt hall."},
+    {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Priser per storlek och körtillägg utanför rutten."},
+    {"titel": "Boka bussen", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Se när bussen kör förbi din by."}
+  ],
+  "affarsomraden": [
+    {"titel": "Mobil hundtrimning", "text": "Bussen har allt en salong har: badkar i rostfritt med varmvatten, hydrauliskt bord och kraftfön. Vi kopplar in oss på din el eller kör på egen generator.", "text2": "Ett besök tar 60–120 minuter beroende på hund.", "tagg": "trimning"},
+    {"titel": "Nordiska raser", "text": "Husky, malamute, samojed och lapphund fäller två gånger om året, och då åker det ut flera kilo underull. Bättre att det händer i bussen än i vardagsrummet.", "text2": "Vi tar med oss all päls när vi åker.", "tagg": "hund"},
+    {"titel": "Kennlar och uppfödare", "text": "Vi kör till kennlar i hela länet och tar flera hundar i rad på samma plats. Valpkullar får sitt första kloklipp och bad innan de flyttar.", "text2": "Kennelpris från fyra hundar per besök.", "tagg": "valp"},
+    {"titel": "Hundar som inte kan åka", "text": "Gamla hundar, hundar som blir bilsjuka och hundar som får panik i väntrum. Ägaren kan stå i bussens dörr hela tiden om det hjälper.", "text2": "Vi parkerar så nära ytterdörren det går.", "tagg": "hund"}
+  ],
+  "bolag": [
+    {"namn": "Maria Lundström", "segment": "Grundare, inlandsrutten", "rubrik": "Byggde den första bussen själv", "text": "Maria har trimmat hundar sedan 2008 och kör rutten Umeå–Vännäs–Vindeln. Hon har själv två alaskan malamuter.", "tagg": "trimning"},
+    {"namn": "Jonatan Vikström", "segment": "Hundfrisör, kustrutten", "rubrik": "Holmsund till Robertsfors", "text": "Jonatan kör buss nummer två längs kusten och tar de flesta kennelbesöken. Han har C-körkort och fixar det mesta på bussarna själv.", "tagg": "hund"},
+    {"namn": "Ida Nordin", "segment": "Hundfrisör, buss nummer tre", "rubrik": "Bjurholm, Nordmaling och byarna", "text": "Ida tog över buss nummer tre 2024. Hon kommer från Bjurholm och vet vilka grusvägar som är farbara i april.", "tagg": "trimning"}
+  ],
+  "berattelser": [
+    {"rubrik": "Tredje bussen är i rullning", "text": "Ny rutt varannan tisdag till Bjurholm, Nordmaling och Lögdeå.", "tagg": "trimning"},
+    {"rubrik": "Nio kilo underull från en kennel", "text": "Fem samojeder i Sävar fick sin höstavfällning på en eftermiddag.", "tagg": "hund"},
+    {"rubrik": "Minus 32 i Vindeln", "text": "Bussen höll 22 grader inne, och hunden märkte ingenting.", "tagg": "trimning"}
+  ],
+  "nyckeltal": [
+    {"varde": "3", "enhet": "bussar", "etikett": "På väg varje vecka"},
+    {"varde": "200", "enhet": "liter", "etikett": "Varmvatten i varje buss"},
+    {"varde": "60", "enhet": "mil", "etikett": "Körs varje vecka"},
+    {"varde": "22", "enhet": "°C", "etikett": "Inne i bussen, året runt"}
+  ],
+  "projekt": [
+    {"namn": "Kira", "ort": "Siberian husky", "typ": "Avfällning", "ar": "2026", "text": "Vårfällningen avklarad i bussen i Tavelsjö – inte en tuss i hallen.", "tagg": "hund", "status": "Stamkund"},
+    {"namn": "Ludde", "ort": "Cocker spaniel", "typ": "Trim på uppfarten", "ar": "2026", "text": "Var åttonde vecka på samma tisdag i Holmsund.", "tagg": "trimning", "status": "Stamkund"},
+    {"namn": "Majken", "ort": "Labrador, 14 år", "typ": "Seniorbesök", "ar": "2025", "text": "Klor, tassar och bad utan att behöva ta sig in i en bil.", "tagg": "hund"},
+    {"namn": "Kullen i Sävar", "ort": "Samojed, sex valpar", "typ": "Kennelbesök", "ar": "2025", "text": "Första badet och kloklipp innan valparna flyttade.", "tagg": "valp"},
+    {"namn": "Tore", "ort": "Svensk lapphund", "typ": "Bad och avfällning", "ar": "2025", "text": "Tät vinterpäls utblåst och kloklipp i Vännäsby.", "tagg": "hund"},
+    {"namn": "Nisse", "ort": "Shih tzu", "typ": "Helklippning", "ar": "2026", "text": "Kort sommarklipp på uppfarten i Robertsfors.", "tagg": "trimning"}
+  ],
+  "process": [
+    {"titel": "Välj din rutt", "text": "Vi berättar vilken veckodag bussen kör förbi ditt område.", "tagg": "trimning"},
+    {"titel": "Bussen kommer", "text": "Vi sms:ar när vi lämnar förra kunden och parkerar så nära dörren det går.", "tagg": "hund"},
+    {"titel": "Trim i bussen", "text": "Hunden badas och klipps i värmen, och du kan vara med eller gå in.", "tagg": "trimning"},
+    {"titel": "Ny tid på rutten", "text": "Innan vi åker bokar vi in nästa besök på samma veckodag.", "tagg": "hund"}
+  ],
+  "hallbarhet": {
+    "rubrik": "En buss som kör till tio hundar slår tio bilar till stan",
+    "text": "Rutterna planeras så att bussen kör så kort som möjligt mellan kunderna. Buss nummer tre går på HVO100, och smutsvattnet töms på reningsverket i Umeå, aldrig i diket.",
+    "mal": [["8–10", "hundar per buss och dag"], ["100 %", "smutsvatten till reningsverk"], ["1 av 3", "bussar på HVO100"]]
+  },
+  "karriar": {"rubrik": "Inför första besöket med bussen", "text": "Vi behöver plats för en buss på sju meter, gärna nära ett eluttag. Visa hunden bussen utifrån först – de flesta kliver in själva efter en godisbit på trappsteget.", "jobb": []},
+  "kultur": "Ingen väntsal, inga andra hundar – bara din hund och en frisör i bussen.",
+  "citat": {"text": "Folk här uppe kör inte sju mil för en klippning. Så då får vi köra sju mil i stället.", "namn": "Maria Lundström", "roll": "Grundare", "tagg": "trimning"},
+  "omdomen": [
+    {"text": "Majken är fjorton och kan inte hoppa in i bilen längre. Nu kommer bussen till oss och hon behöver bara gå tio meter.", "namn": "Gunnel E.", "ort": "Hörnefors"},
+    {"text": "Fem samojeder och ingen päls i huset efteråt. Jonatan tog med allt i säckar.", "namn": "Peter K.", "ort": "Sävar"},
+    {"text": "Bussen kommer varannan tisdag och Ludde springer till dörren när han hör motorn.", "namn": "Elin S.", "ort": "Holmsund"}
+  ],
+  "faq": [
+    ["Vad behöver jag ha hemma?", "Bara plats att parkera en sju meter lång buss. El är bra men inte nödvändigt, vi har generator."],
+    ["Kör ni på vintern?", "Ja, hela året. Bussarna har gasolvärme och vi kör på dubbdäck. Vid snöstorm flyttar vi tiden en dag."],
+    ["Vad kostar det om jag bor utanför rutten?", "Inom rutterna ingår resan. Utanför tar vi 25 kronor per mil från närmaste rutt."],
+    ["Kan jag vara med i bussen?", "Ja, det finns en pall vid dörren. Många hundar blir dock lugnare om du går in."],
+    ["Tar ni flera hundar på samma besök?", "Ja, och då får hund nummer två och tre tio procents rabatt."],
+    ["Vart tar pälsen vägen?", "Vi tar med all päls och allt smutsvatten när vi åker."],
+    ["Hur gör jag om jag måste ställa in?", "Ring senast dagen innan klockan 12. Står bussen på uppfarten utan hund tar vi halva priset."]
+  ],
+  "priser": [
+    {"namn": "Liten hund", "pris": "fr. 795 kr", "enhet": "upp till 10 kg, inom rutt", "text": "Bad, klippning och kloklipp i bussen.", "punkter": ["Bad i varmvatten", "Klippning efter ras", "Klor och öron", "Resa inom rutten ingår"]},
+    {"namn": "Mellanhund", "pris": "fr. 995 kr", "enhet": "10–25 kg, inom rutt", "text": "Vår vanligaste kund – spaniels, lapphundar och blandisar.", "punkter": ["Bad och utblåsning", "Klippning eller putsning", "Kloklipp och tassar", "Fast veckodag på rutten"], "utvald": true},
+    {"namn": "Stor hund", "pris": "fr. 1 295 kr", "enhet": "över 25 kg, inom rutt", "text": "Nordiska raser, retrievers och stora blandisar.", "punkter": ["Bad och avfällning med kraftfön", "Putsning av byxor och tassar", "Kloklipp", "All päls tas med från platsen"]}
+  ],
+  "prislista": [["Shih tzu, bichon, tibetansk spaniel", "fr. 795 kr"], ["Springer- och cockerspaniel", "fr. 995 kr"], ["Svensk lapphund, finsk lapphund", "fr. 995 kr"], ["Siberian husky", "fr. 1 095 kr"], ["Golden retriever, labrador", "fr. 1 195 kr"], ["Samojed, alaskan malamute", "fr. 1 495 kr"], ["Kloklipp vid besök", "200 kr"], ["Körtillägg utanför rutt, per mil", "25 kr"], ["Rabatt hund nr 2 och 3", "10 %"], ["Kennelpris, från 4 hundar", "offert"]],
+  "galleri_taggar": ["hund", "trimning", "valp"],
+  "nyheter": [
+    ["2026-10-30", "Bussens vintertider", "Från december startar vi en halvtimme senare så att vägarna hinner plogas.", "trimning"],
+    ["2026-04-14", "Vårfällning hos nordiska raser", "Därför ska du inte raka din husky – och hur ofta du bör borsta i maj.", "hund"],
+    ["2026-01-20", "Ny rutt till Bjurholm", "Buss nummer tre kör varannan tisdag från februari.", "trimning"]
+  ],
+  "kontakt": {"adress": "Förrådsvägen 6", "postnr": "906 22", "ort": "Umeå", "telefon": "070-174 06 47", "epost": "boka@trimbussen.se", "orgnr": ""},
+  "oppettider": "Bussarna kör mån–fre 8–17, telefon 7.30–9",
+  "omrade": "Umeå, Vännäs, Vindeln, Robertsfors, Bjurholm och Nordmaling",
+  "fot_cta": "Kolla när bussen kör förbi din by – och boka en plats på rutten.",
+  "text": {
+    "topp_hem": "Trimbussen",
+    "ber_etikett": "Från vägen",
+    "ber_rubrik": "Senaste turerna",
+    "proj_rubrik": "Uppfart för uppfart",
+    "proj_rubrik_lista": "Senaste stoppen",
+    "process_rubrik": "Från bokning till uppfart",
+    "hb_etikett": "Bussen och miljön",
+    "omdomen_rubrik": "Kunder längs rutterna",
+    "faq_rubrik": "Undrar du över bussen?",
+    "priser_rubrik": "Pris per storlek, resan ingår",
+    "priser_not": "Priserna gäller inom våra fasta rutter. Tovig päls debiteras med 175 kronor per påbörjad kvart.",
+    "galleri_rubrik": "Bilder från bussarna",
+    "boka_rubrik": "Boka en plats på rutten",
+    "boka_text": "Skriv din adress, hundens ras och storlek, så säger vi vilken dag bussen kommer.",
+    "boka_falt": ["Ditt namn", "Telefon", "Adress och by", "Hundens ras och storlek"],
+    "ny_rubrik": "Nytt från rutterna",
+    "panel_etikett": "Bussen kommer",
+    "fot_adress": "Garaget",
+    "sida_om_titel": "Om Trimbussen",
+    "sida_kontakt_rubrik": "Boka bussen",
+    "sida_bolag_ingress": "Vi är {n} frisörer med var sin buss och var sin rutt."
+  }
+}

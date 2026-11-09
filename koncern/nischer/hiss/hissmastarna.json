@@ -1,0 +1,141 @@
+{
+  "profil": "nisch",
+  "nisch": "hiss",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hissmästarna i Norrköping AB",
+  "kortnamn": "Hissmästarna",
+  "slug": "hissmastarna",
+  "typ": "Hisservice för bostadsrättsföreningar",
+  "tagline": "Fasta priser, brf-hissar",
+  "slogan": "Sex personer i Norrköping som servar bostadsrättsföreningarnas hissar till fast pris – och säger ifrån när en offert är för dyr.",
+  "hero_rubrik": "Vi visar vad hissen kostar – i förväg",
+  "hero_text": "Serviceavtal från 7 900 kronor per hiss och år, publicerade på vår sida. Inga startavgifter, inga indexklausuler som ingen förstår, ett års uppsägning.",
+  "intro_rubrik": "Ett litet hissföretag med öppna kort",
+  "om": [
+    "Robin Ek arbetade elva år som servicetekniker på ett av de stora hissföretagen och såg styrelser skriva på avtal de inte förstod. 2020 startade han Hissmästarna med en kollega och en enkel idé: samma kvalitet, priser som går att jämföra och avtal på två sidor.",
+    "I dag är vi sex personer – fyra tekniker, Robin och vår kundansvariga Elif Demir – och servar 210 hissar i Norrköping, Linköping, Söderköping och Finspång. Nästan alla kunder är bostadsrättsföreningar med en till sex hissar."
+  ],
+  "vagval_rubrik": "Vad behöver föreningen?",
+  "tjanster": [
+    {"titel": "Serviceavtal", "ikon": "kugge", "href": "verksamhet.html", "text": "Tre nivåer med fasta årspriser per hiss, utan startavgift."},
+    {"titel": "Besiktningsförberedelse", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi går igenom hissen före kontrollorganet och är med på besiktningen."},
+    {"titel": "Offertgranskning", "ikon": "sok", "href": "verksamhet.html", "text": "Andra åsikt på moderniseringsofferter från andra hissföretag."},
+    {"titel": "Felanmälan", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ring eller skicka sms – vi svarar inom en timme dagtid."},
+    {"titel": "Byte till 4G-larm", "ikon": "laddning", "href": "priser.html", "text": "Fast pris för ny nödtelefon inklusive montage och test."},
+    {"titel": "Mindre moderniseringar", "ikon": "verktyg", "href": "verksamhet.html", "text": "Korgdörrar, LED, nya tryckknappar och dörrmaskiner i etapper."},
+    {"titel": "Styrelseträff", "ikon": "folk", "href": "verksamhet.html", "text": "Vi kommer till ert styrelsemöte och går igenom hissens skick."},
+    {"titel": "Prislista", "ikon": "portfolj", "href": "priser.html", "text": "Alla våra priser, öppet för alla."}
+  ],
+  "affarsomraden": [
+    {"titel": "Service till fast pris", "text": "Våra avtal ryms på två sidor och har ett pris per hiss och år. I priset ingår förebyggande service, smörjning, justering och en årlig genomgång med styrelsen.", "text2": "Priset räknas upp med konsumentprisindex en gång om året, och avtalet kan sägas upp med tolv månaders varsel.", "tagg": "hiss"},
+    {"titel": "Inför besiktningen", "text": "En vecka före besiktningen går vi igenom hissen enligt samma punkter som kontrollorganet använder. Det mesta som skulle ha gett en anmärkning åtgärdar vi direkt.", "text2": "Under 2025 fick 84 procent av våra avtalshissar inga anmärkningar alls vid besiktningen.", "tagg": "hiss"},
+    {"titel": "Andra åsikt på offerter", "text": "Har föreningen fått en offert på modernisering för en miljon kronor? Vi går igenom den, tittar på hissen och berättar vad som verkligen behöver göras nu och vad som kan vänta.", "text2": "Granskningen kostar 4 500 kronor och föreningen är inte bunden att anlita oss för jobbet.", "tagg": "kontor"},
+    {"titel": "Modernisering i etapper", "text": "En hiss behöver sällan bytas på en gång. Vi delar upp moderniseringen i steg som går att lägga in i föreningens underhållsplan, med korgdörrar och styrsystem först.", "text2": "Större moderniseringar med nytt maskineri gör vi tillsammans med en samarbetspartner i Linköping.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Servicelaget", "segment": "Fyra tekniker", "rubrik": "Cirka 50 hissar var", "text": "Varje tekniker har sina egna föreningar och gör både servicebesök och felavhjälpning i dem.", "tagg": "hiss"},
+    {"namn": "Besiktning och granskning", "segment": "Robin Ek", "rubrik": "Den som säger som det är", "text": "Robin gör besiktningsförberedelser, offertgranskningar och alla styrelsegenomgångar.", "tagg": "kontor"},
+    {"namn": "Kundkontoret", "segment": "Elif Demir", "rubrik": "Ett namn att ringa", "text": "Elif tar emot felanmälningar, skickar fakturor och påminner om besiktningar.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Offerten som krympte till hälften", "text": "Brf Saltängen hade fått en offert på 1,2 miljoner. Efter granskningen räckte nya korgdörrar och styrsystem för 540 000 kronor.", "tagg": "hiss"},
+    {"rubrik": "84 procent utan anmärkning", "text": "Så gick det för våra avtalshissar vid besiktningarna 2025.", "tagg": "hiss"},
+    {"rubrik": "Fjärde teknikern på plats", "text": "Sedan augusti är vi fyra tekniker, och vi tar emot nya föreningar i Linköping.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "7 900", "enhet": "kr/år", "etikett": "Lägsta pris per hiss"},
+    {"varde": "210", "enhet": "hissar", "etikett": "Hos föreningar i Östergötland"},
+    {"varde": "84 %", "enhet": "", "etikett": "Utan anmärkning vid besiktning"},
+    {"varde": "0 kr", "enhet": "", "etikett": "I startavgift"}
+  ],
+  "projekt": [
+    {"namn": "Brf Saltängen", "ort": "Norrköping", "typ": "Offertgranskning", "ar": "2025", "text": "En offert på 1,2 miljoner blev en etappvis modernisering för 540 000 kronor.", "tagg": "kontor"},
+    {"namn": "Brf Vasaparken", "ort": "Norrköping", "typ": "Serviceavtal", "ar": "2025", "text": "Tre hissar från 1962 som bytte till oss efter en höjning av serviceavgiften med 40 procent.", "tagg": "hiss"},
+    {"namn": "Brf Valla Torg", "ort": "Linköping", "typ": "Korgdörrar", "ar": "2025", "text": "Automatiska korgdörrar i två hissar, monterade på tre dagar per hiss.", "tagg": "hiss"},
+    {"namn": "Brf Stinsen", "ort": "Söderköping", "typ": "4G-larm", "ar": "2024", "text": "Byte av nödtelefon till fast pris, klart på en förmiddag.", "tagg": "el"},
+    {"namn": "Finspångs Hyreshus", "ort": "Finspång", "typ": "Besiktningsförberedelse", "ar": "2024", "text": "Åtta hissar som gick från elva anmärkningar till en enda på ett år.", "tagg": "hiss"},
+    {"namn": "Brf Ljura Gård", "ort": "Norrköping", "typ": "Etappmodernisering", "ar": "2026", "text": "Nytt styrsystem i höst och nya dörrmaskiner 2027, enligt föreningens underhållsplan.", "tagg": "bostad", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Gratis genomgång", "text": "Vi tittar på hissen, läser senaste besiktningsprotokollet och ert nuvarande avtal.", "tagg": "hiss"},
+    {"titel": "Prisförslag", "text": "Ni får ett pris per hiss och år och ett avtal på två sidor att ta med till styrelsen.", "tagg": "kontor"},
+    {"titel": "Byte av leverantör", "text": "Vi sköter uppsägningen av det gamla avtalet och tar över när det löper ut.", "tagg": "people"},
+    {"titel": "Årligt styrelsemöte", "text": "En gång om året går vi igenom hissens skick och vad som behöver göras de närmaste fem åren.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Tre löften vi skriver in i avtalet",
+    "text": "Vi tycker att det som är viktigt för kunden ska stå i avtalet, inte i en broschyr. Därför har alla våra serviceavtal tre garantier som ger föreningen rätt till avdrag om vi inte håller dem.",
+    "mal": [["1 h", "till svar på felanmälan dagtid"], ["4 h", "till tekniker på plats vid driftstopp"], ["12 mån", "uppsägningstid, aldrig längre"]]
+  },
+  "karriar": {
+    "rubrik": "Litet företag, eget ansvar",
+    "text": "Du får egna föreningar och ett eget schema. Vi är för små för mellanchefer, så du pratar direkt med kunderna och med Robin.",
+    "jobb": [["Hisstekniker", "Linköping"]]
+  },
+  "kultur": "Varje tekniker har sina egna föreningar och träffar styrelsen minst en gång om året.",
+  "citat": {"text": "Styrelseledamöter är ofta lärare, sjuksköterskor eller pensionärer som gör det här på kvällstid. De ska inte behöva vara hissexperter för att förstå vad de betalar för.", "namn": "Robin Ek", "roll": "Grundare och vd", "tagg": "hiss"},
+  "omdomen": [
+    {"text": "Robin gick igenom offerten rad för rad och visade vad som var nödvändigt. Föreningen sparade över en halv miljon.", "namn": "Margareta J.", "ort": "Norrköping"},
+    {"text": "Avtalet är två sidor långt och vi förstår vartenda ord. Det gamla var fjorton sidor med bilagor.", "namn": "Daniel O.", "ort": "Linköping"},
+    {"text": "Elif ringde och påminde om besiktningen innan vi själva hade kommit ihåg den.", "namn": "Bengt A.", "ort": "Söderköping"}
+  ],
+  "faq": [
+    ["Varför är era priser lägre?", "Vi har inget säljteam, ingen marknadsavdelning och ett kontor på 80 kvadratmeter. Teknikerna och reservdelarna kostar lika mycket hos oss som hos andra."],
+    ["Kan vi byta från vårt nuvarande hissföretag?", "Ja. Vi läser ert avtal, ser när det kan sägas upp och sköter uppsägningen åt er. De flesta avtal har tre till sex månaders uppsägning, men vissa löper längre."],
+    ["Vilka fabrikat servar ni?", "De vanligaste fabrikaten i svenska bostadshus. Vissa hissar med låsta styrsystem kräver specialverktyg som vi inte har, och då säger vi det direkt vid genomgången."],
+    ["Har ni jour?", "Avtalsnivåerna Trygg och Allt-i-ett har jour dygnet runt. Under nätter och helger samarbetar vi med en jourpartner i Linköping, men det är alltid vår egen tekniker som följer upp nästa morgon."],
+    ["Vad händer vid en besiktningsanmärkning?", "Vi skickar ett pris på åtgärden inom tre arbetsdagar. Mindre anmärkningar åtgärdar vi ofta på plats direkt efter besiktningen."],
+    ["Gör ni stora moderniseringar?", "Vi gör korgdörrar, styrsystem, dörrmaskiner och larm själva. Byte av maskineri gör vi tillsammans med en samarbetspartner, men med oss som projektledare och samma fasta pris."]
+  ],
+  "priser": [
+    {"namn": "Bas", "pris": "7 900 kr", "enhet": "per hiss och år, exkl. moms", "text": "För hissar med lite trafik och en styrelse som vill ha det enkelt.", "punkter": ["Förebyggande service fyra gånger per år", "Smörjning och justering", "Felavhjälpning vardagar 7–16 till timpris", "Årlig genomgång med styrelsen"]},
+    {"namn": "Trygg", "pris": "11 900 kr", "enhet": "per hiss och år, exkl. moms", "text": "Det de flesta föreningar väljer.", "punkter": ["Allt i Bas, men service sex gånger per år", "Jour dygnet runt, utryckning ingår", "Besiktningsförberedelse ingår", "Förtur vid driftstopp"], "utvald": true},
+    {"namn": "Allt-i-ett", "pris": "16 900 kr", "enhet": "per hiss och år, exkl. moms", "text": "Ingen faktura utöver avtalet för slitdelar.", "punkter": ["Allt i Trygg", "Slitdelar upp till 15 000 kr per år ingår", "Närvaro vid besiktning ingår", "Femårsplan för hissen"]}
+  ],
+  "prislista": [
+    ["Timpris tekniker, vardag", "895 kr"],
+    ["Utryckning utan jouravtal, kväll och helg", "3 200 kr + timpris"],
+    ["Besiktningsförberedelse", "3 900 kr per hiss"],
+    ["Närvaro vid besiktning", "1 800 kr"],
+    ["Offertgranskning", "4 500 kr"],
+    ["Byte till 4G-larm", "14 900 kr"],
+    ["LED-belysning i korg", "3 200 kr"],
+    ["Automatiska korgdörrar", "fr. 128 000 kr"]
+  ],
+  "certifikat": [
+    {"titel": "Elsäkerhetsverket", "text": "Registrerat elinstallationsföretag med egen elsäkerhetsansvarig.", "ikon": "blixt"},
+    {"titel": "Kollektivavtal", "text": "Alla anställda har kollektivavtal, försäkringar och tjänstepension.", "ikon": "folk"},
+    {"titel": "ID06", "text": "Samtliga medarbetare har ID06-kort och kan arbeta på byggarbetsplatser.", "ikon": "las"},
+    {"titel": "Ansvarsförsäkring", "text": "Ansvars- och entreprenadförsäkring på 10 miljoner kronor.", "ikon": "skold"}
+  ],
+  "kunder": ["Brf Saltängen", "Brf Vasaparken", "Brf Valla Torg", "Brf Stinsen", "Finspångs Hyreshus", "Brf Ljura Gård", "Brf Kneippen Park"],
+  "nyheter": [
+    ["2026-09-02", "Nu tar vi nya föreningar i Linköping", "Med fyra tekniker har vi plats för ytterligare ett trettiotal hissar.", "people"],
+    ["2026-04-07", "Fem frågor att ställa om ert hissavtal", "Så ser ni om föreningen betalar för mycket.", "kontor"],
+    ["2025-11-19", "Besiktningsåret 2025", "84 procent av våra avtalshissar klarade besiktningen utan anmärkning.", "hiss"]
+  ],
+  "kontakt": {"adress": "Malmgatan 21", "postnr": "602 23", "ort": "Norrköping", "telefon": "070-174 06 71", "epost": "hej@hissmastarna.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16. Jour för avtalskunder Trygg och Allt-i-ett.",
+  "omrade": "Norrköping, Linköping, Söderköping och Finspång",
+  "fot_cta": "Skicka ert nuvarande hissavtal till oss – vi säger vad ni skulle betala hos oss.",
+  "text": {
+    "ber_rubrik": "Senaste från föreningarna",
+    "proj_rubrik": "Föreningar vi har hjälpt",
+    "process_rubrik": "Så byter föreningen till oss",
+    "hb_etikett": "Våra garantier",
+    "omdomen_rubrik": "Styrelseledamöter om oss",
+    "faq_rubrik": "Raka svar",
+    "priser_rubrik": "Tre avtal, tre priser",
+    "priser_not": "Priserna gäller per hiss och år exklusive moms. Bostadsrättsföreningar betalar moms på faktureringen.",
+    "priser_knapp": "Begär avtal",
+    "priser_utvald": "Vanligast",
+    "boka_rubrik": "Boka en gratis genomgång",
+    "boka_text": "Skriv föreningens namn och hur många hissar ni har, så hör Elif av sig inom en arbetsdag.",
+    "boka_falt": ["Namn", "Telefon", "Förening", "Antal hissar och adress"],
+    "logos_rubrik": "Föreningar som valt oss",
+    "bolag_rubrik": "Sex personer, tre roller",
+    "certifikat_rubrik": "Ordning och reda",
+    "hero_knapp": "Se våra priser",
+    "hero_lank": "Läs om offertgranskning"
+  }
+}

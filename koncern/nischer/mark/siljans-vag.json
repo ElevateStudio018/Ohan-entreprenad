@@ -1,0 +1,128 @@
+{
+  "profil": "nisch",
+  "nisch": "mark",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Siljans Väg & Grus AB",
+  "kortnamn": "Siljans Väg",
+  "slug": "siljans-vag",
+  "typ": "Grusvägar och egen täkt i Siljansbygden",
+  "tagline": "Medarbetarägt sedan 2011",
+  "slogan": "Vi underhåller över 600 kilometer grusväg runt Siljan med grus från vår egen täkt – och vi som gör jobbet äger företaget.",
+  "hero_rubrik": "Vi som kör maskinerna äger bolaget",
+  "hero_text": "Väghållning åt vägsamfälligheter, grus från egen täkt i Bonäs och skogsvägar i Mora, Orsa, Älvdalen och Rättvik. 26 anställda, varav nio delägare.",
+  "intro_rubrik": "Grusvägar är vårt hantverk",
+  "om": [
+    "Siljans Väg grundades 1979 som ett åkeri med tre lastbilar. När den förre ägaren skulle gå i pension 2011 köpte fyra av förarna bolaget, och i dag är nio av de 26 anställda delägare. Den som ringer oss pratar ofta med någon som äger en del av maskinen som kommer.",
+    "Vi har en egen grus- och bergtäkt i Bonäs norr om Mora med tillstånd för 90 000 ton per år, och vi tillverkar bärlager, slitlager och makadam själva. Det gör att vägsamfälligheterna får rätt material till ett pris som inte beror på någon annans lager."
+  ],
+  "vagval_rubrik": "Vilken väg gäller det?",
+  "tjanster": [
+    {"titel": "Väghållning", "ikon": "vag", "href": "verksamhet.html", "text": "Hyvling, grusning och dikesrensning enligt ett årsprogram för hela vägen."},
+    {"titel": "Vägförbättring", "ikon": "kugge", "href": "verksamhet.html", "text": "Nytt bärlager, trummor och breddning där vägen sätter sig varje vår."},
+    {"titel": "Dammbindning", "ikon": "vatten", "href": "verksamhet.html", "text": "Saltlösning eller lignin på sommarvägar förbi gårdar och fritidshus."},
+    {"titel": "Grus och makadam", "ikon": "sten", "href": "verksamhet.html", "text": "Bärlager, slitlager, makadam och stenmjöl från egen täkt i Bonäs."},
+    {"titel": "Hemkörning", "ikon": "bil", "href": "verksamhet.html", "text": "Vi tippar grus och matjord på din tomt, från 5 ton."},
+    {"titel": "Vinterväghållning", "ikon": "sol", "href": "verksamhet.html", "text": "Plogning och sandning av enskilda vägar och fäbodvägar."},
+    {"titel": "Skogsbilvägar", "ikon": "skog", "href": "verksamhet.html", "text": "Nybyggnad och upprustning för skogsägare och bolag."},
+    {"titel": "Vägbidrag", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi hjälper samfälligheter med underlag till Trafikverkets och kommunens bidrag."}
+  ],
+  "affarsomraden": [
+    {"titel": "Väghållning för samfälligheter", "text": "Vi sköter 64 vägsamfälligheter med sammanlagt drygt 600 kilometer väg. Varje väg får ett årsprogram med vårhyvling, grusning, dikesrensning och höstkontroll av trummor.", "text2": "Styrelsen får en rapport efter varje insats, med bilder och mängd utlagt material.", "tagg": "mark"},
+    {"titel": "Vägförbättring", "text": "När en väg sätter sig varje tjällossning hjälper det inte att grusa mer. Vi gräver ur det gamla materialet, lägger geotextil och bygger upp ett nytt bärlager med dränering och nya trummor.", "text2": "Förbättringen planeras så att bidrag från Trafikverket kan sökas för större delen av kostnaden.", "tagg": "infra"},
+    {"titel": "Egen täkt i Bonäs", "text": "I täkten krossar och sorterar vi grus och berg till CE-märkta produkter för vägbyggen, husgrunder och trädgårdar. Privatpersoner och entreprenörer hämtar själva eller får det hemkört.", "text2": "Täkten är öppen för hämtning vardagar 6.30–16.", "tagg": "anlaggning"},
+    {"titel": "Skog och fäbod", "text": "Vi bygger och rustar skogsbilvägar och vägar upp till fäbodvallar där virkesbilar och turister ska kunna mötas. Ofta i terräng där det inte finns någon annan väg för maskinerna.", "text2": "Vi har två bandgrävare med låg marktryck för blöt skogsmark.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Väglaget", "segment": "Väghållning", "rubrik": "Fyra väghyvlar och en plan för varje väg", "text": "Tio förare som sköter samfällighetsvägarna året runt, med hyvel på sommaren och plog på vintern.", "tagg": "mark"},
+    {"namn": "Täkten i Bonäs", "segment": "Grus och berg", "rubrik": "90 000 ton per år", "text": "Krossning, sortering och försäljning av ballast. Leds av delägaren Britt Mattsson.", "tagg": "anlaggning"},
+    {"namn": "Åkeriet", "segment": "Transport", "rubrik": "Sex lastbilar med släp", "text": "Kör grus från täkten till våra egna vägjobb, entreprenörer och privatpersoner i hela Siljansbygden.", "tagg": "maskin"},
+    {"namn": "Anläggning", "segment": "Väg och skog", "rubrik": "Grävare för det tunga", "text": "Fem maskinförare som bygger nya vägar, byter trummor och gör vägförbättringar.", "tagg": "natur"}
+  ],
+  "berattelser": [
+    {"rubrik": "Vägsamfälligheten Våmhus-Bonäs fick nytt bärlager", "text": "3,4 kilometer väg byggdes om på åtta veckor, med 70 procent av kostnaden täckt av bidrag.", "tagg": "infra"},
+    {"rubrik": "Täkten fick förlängt tillstånd", "text": "Länsstyrelsen gav tillstånd för brytning i ytterligare 15 år, med krav på återställning till skog.", "tagg": "anlaggning"},
+    {"rubrik": "Fäbodvägen till Gopshus", "text": "En väg som stängts varje vår i tio år är nu öppen året runt.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "600+", "enhet": "km", "etikett": "Grusväg vi underhåller"},
+    {"varde": "64", "enhet": "", "etikett": "Vägsamfälligheter med avtal"},
+    {"varde": "9", "enhet": "delägare", "etikett": "Av 26 anställda"},
+    {"varde": "90 000", "enhet": "ton", "etikett": "Grus och berg per år"}
+  ],
+  "projekt": [
+    {"namn": "Vägsamfälligheten Våmhus-Bonäs", "ort": "Mora", "typ": "Vägförbättring", "ar": "2025", "text": "3,4 kilometer nytt bärlager, 14 nya trummor och breddade mötesplatser.", "tagg": "infra"},
+    {"namn": "Gopshus fäbodväg", "ort": "Mora", "typ": "Upprustning", "ar": "2025", "text": "Sex kilometer väg till fäboden, nu farbar även under tjällossningen.", "tagg": "natur"},
+    {"namn": "Orsa Grönklitt stugby", "ort": "Orsa", "typ": "Väghållning", "ar": "2024", "text": "Årsavtal för vägar och parkeringar i stugbyn, med dammbindning på sommaren.", "tagg": "mark"},
+    {"namn": "Skogsväg vid Evertsberg", "ort": "Älvdalen", "typ": "Skogsbilväg", "ar": "2026", "text": "4,2 kilometer ny väg åt en grupp skogsägare, byggs till hösten.", "tagg": "natur"},
+    {"namn": "Nusnäs byväg", "ort": "Mora", "typ": "Dammbindning", "ar": "2025", "text": "Saltning två gånger per sommar längs två kilometer bebyggd väg.", "tagg": "mark"},
+    {"namn": "Industriplan i Rättvik", "ort": "Rättvik", "typ": "Grusleverans", "ar": "2024", "text": "18 000 ton bärlager levererat från täkten till en ny industritomt.", "tagg": "anlaggning"}
+  ],
+  "process": [
+    {"titel": "Vägvandring", "text": "Vi går eller kör vägen med styrelsen och noterar sättningar, trummor och diken.", "tagg": "natur"},
+    {"titel": "Årsprogram", "text": "Ni får en plan för året med insatser, mängder och pris per kilometer.", "tagg": "kontor"},
+    {"titel": "Utförande", "text": "Vi hyvlar, grusar och rensar enligt programmet och meddelar fastighetsägarna via sms.", "tagg": "mark"},
+    {"titel": "Rapport till stämman", "text": "Efter säsongen får styrelsen en rapport att visa på årsstämman.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Kort väg från täkt till väg",
+    "text": "Ju närmare materialet finns, desto mindre diesel går åt. Från Bonäs är det i snitt 22 kilometer till vägarna vi sköter. När ett område i täkten är färdigbrutet återställer vi det med matjord och planterar tall.",
+    "mal": [["22 km", "snittavstånd från täkt till väg"], ["8 ha", "återställd täktmark sedan 2012"], ["HVO100", "i alla lastbilar sedan 2023"]]
+  },
+  "karriar": {
+    "rubrik": "Bli anställd – och sedan delägare",
+    "text": "Efter tre år kan alla anställda köpa aktier i bolaget. Vi söker förare som vill stanna i Siljansbygden och ta ansvar för egna vägar.",
+    "jobb": [["Förare väghyvel", "Mora"], ["Lastbilschaufför CE", "Mora"], ["Krossoperatör", "Bonäs"]]
+  },
+  "kultur": "Bolagsstämman hålls varje år i täkten med korv och kaffe, och alla anställda är välkomna – inte bara delägarna.",
+  "citat": {"text": "När vi köpte bolaget bestämde vi att varje väg ska skötas som om vi själva bodde vid den. Många av oss gör det.", "namn": "Britt Mattsson", "roll": "Delägare och täktansvarig", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi har en rapport med bilder efter varje hyvling. Det har gjort årsstämmorna betydligt lugnare.", "namn": "Lars-Göran H.", "ort": "Våmhus"},
+    {"text": "De hjälpte oss att söka bidrag och fick 70 procent av vägförbättringen betald. Vi hade aldrig klarat det själva.", "namn": "Ingrid O.", "ort": "Bonäs"},
+    {"text": "Beställde tio ton makadam på måndagen och fick det på tisdagen, tippat exakt där jag pekade.", "namn": "Erik D.", "ort": "Mora"}
+  ],
+  "faq": [
+    ["Vad kostar väghållning per år?", "För en normal samfällighetsväg ligger kostnaden på 8 000–15 000 kronor per kilometer och år, beroende på trafik och hur mycket grus som behövs. Vi lämnar fast pris per kilometer i årsprogrammet."],
+    ["Kan vi få bidrag för vägen?", "Vägar med statsbidrag kan få driftbidrag varje år och särskilt förbättringsbidrag för större åtgärder. Vi tar fram underlag och kostnadsberäkning som samfälligheten skickar in."],
+    ["Vad kostar grus från täkten?", "Bärlager 0–32 kostar från 145 kronor per ton vid hämtning. Hemkörning inom Mora kostar 1 200 kronor per lass upp till 15 ton."],
+    ["Säljer ni till privatpersoner?", "Ja. Du kan hämta själv med släpvagn i täkten eller beställa hemkörning från fem ton."],
+    ["När hyvlar ni på våren?", "Så snart tjälen gått ur och vägen torkat upp, normalt i mitten av maj. Hyvlar man för tidigt förstörs vägen."],
+    ["Har ni vinterväghållning?", "Ja, för 38 av samfälligheterna. Vi plogar vid åtta centimeter och sandar backar och korsningar."]
+  ],
+  "certifikat": [
+    {"titel": "CE-märkt ballast", "text": "Alla produkter från täkten är CE-märkta och provas enligt standarden för obundna material.", "ikon": "sten"},
+    {"titel": "Täkttillstånd", "text": "Tillstånd enligt miljöbalken från Länsstyrelsen Dalarna, giltigt till 2041.", "ikon": "dokument"},
+    {"titel": "Arbete på väg", "text": "Alla förare har Trafikverkets utbildning för arbete på väg, nivå 1 och 2.", "ikon": "vag"},
+    {"titel": "Maskinentreprenörerna", "text": "Medlemmar i ME och följer branschens avtal för väghållning och entreprenad.", "ikon": "kugge"}
+  ],
+  "kunder": ["Vägsamfälligheten Våmhus-Bonäs", "Gopshus Fäbodlag", "Grönklitts Stugägareförening", "Nusnäs Byalag", "Mora kommun, gatuenheten", "Älvdalens Skogsägare", "Rättviks Industrifastigheter", "Orsa Besparingsskog"],
+  "nyheter": [
+    ["2026-10-01", "Höstkontroll av trummor pågår", "Vi går igenom alla trummor på samfällighetsvägarna innan frosten.", "mark"],
+    ["2026-05-19", "Vårhyvlingen startar", "Vi börjar i Nusnäs och Bonäs och är klara med alla vägar före midsommar.", "infra"],
+    ["2025-12-10", "Tre nya delägare", "Kristoffer, Malin och Jonas köpte aktier i bolaget efter tre år som anställda.", "people"]
+  ],
+  "kontakt": {"adress": "Bonäsvägen 140", "postnr": "792 94", "ort": "Mora", "telefon": "070-174 06 57", "epost": "vag@siljansvag.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16. Täkten mån–fre 6.30–16",
+  "omrade": "Mora, Orsa, Älvdalen och Rättvik",
+  "fot_cta": "Sitter du i en vägstyrelse? Vi bjuder på en vägvandring och ett förslag till årsprogram.",
+  "bild": {"panel": "natur", "hb": "anlaggning"},
+  "text": {
+    "hero_knapp": "Det här gör vi",
+    "kontakt_knapp": "Kontakta oss",
+    "ber_etikett": "Från vägarna",
+    "ber_rubrik": "Grus, bidrag och fäbodvägar",
+    "proj_rubrik": "Vägar vi har byggt och sköter",
+    "process_rubrik": "Så går ett år med oss",
+    "hb_etikett": "Täkt och miljö",
+    "omdomen_rubrik": "Vägstyrelser och kunder",
+    "faq_rubrik": "Frågor från vägstyrelser",
+    "logos_rubrik": "Några av de 64 samfälligheterna",
+    "certifikat_rubrik": "Tillstånd och behörigheter",
+    "bolag_rubrik": "Fyra lag, nio delägare",
+    "meny_bolag": "Lagen",
+    "boka_rubrik": "Boka en vägvandring",
+    "boka_text": "Skriv vägens namn och ungefärlig längd, så hör vi av oss och bestämmer en tid att gå den tillsammans.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Väg eller samfällighet"],
+    "siffror_etikett": "Siljans Väg i siffror",
+    "medarbetare": "Delägarna och kollegorna"
+  }
+}

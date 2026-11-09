@@ -1,0 +1,133 @@
+{
+  "profil": "nisch",
+  "nisch": "sotare",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kinnekulle Sotning AB",
+  "kortnamn": "Kinnekulle Sot",
+  "slug": "kinnekulle-sotning",
+  "typ": "Sotare för gårdar och villor i Skaraborg",
+  "tagline": "Landsbygdens sotare",
+  "slogan": "Vi sotar villor, gårdspannor, flisanläggningar och spannmålstorkar runt Kinnekulle – och vet att skörden inte väntar på någon.",
+  "hero_rubrik": "Från pannrum till spannmålstork",
+  "hero_text": "Sotning och brandskyddskontroll i Götene, Skara och Grästorp, och service av gårdarnas flispannor, pelletspannor och torkar innan skörden.",
+  "intro_rubrik": "Fjorton sotare som kan lantbruk",
+  "om": [
+    "Pär och Lisa Sandahl köpte Kinnekulle Sotning 2008 av sotarmästaren Arne Ek, som startat firman 1986. Pär är uppvuxen på en mjölkgård i Husaby och såg att gårdarnas pannor och torkar behövde en sotare som förstod hur ett lantbruk fungerar.",
+    "I dag är vi 14 anställda och har sotningsavtal med Götene, Skara och Grästorp. Ungefär hälften av våra uppdrag är på gårdar: flispannor på 60–500 kW, pelletspannor, närvärmecentraler i byarna och oljeeldade spannmålstorkar som ska vara rena och injusterade före augusti."
+  ],
+  "vagval_rubrik": "Vad står i ditt pannrum?",
+  "tjanster": [
+    {"titel": "Sotning", "ikon": "eld", "href": "verksamhet.html", "text": "Avtalssotning av villor och gårdar i Götene, Skara och Grästorp."},
+    {"titel": "Brandskyddskontroll", "ikon": "skold", "href": "verksamhet.html", "text": "Kontroll enligt lagen om skydd mot olyckor, med protokoll på plats."},
+    {"titel": "Flis- och pelletspannor", "ikon": "skog", "href": "verksamhet.html", "text": "Sotning, askurtag och rökgasanalys av pannor upp till 1 MW."},
+    {"titel": "Spannmålstorkar", "ikon": "lada", "href": "verksamhet.html", "text": "Rengöring och brännarkontroll inför skörd, med brandskyddsprotokoll."},
+    {"titel": "Närvärmecentraler", "ikon": "fabrik", "href": "verksamhet.html", "text": "Serviceavtal för byarnas värmecentraler och föreningar."},
+    {"titel": "Rökgasanalys", "ikon": "graf", "href": "verksamhet.html", "text": "Mätning av syre, koloxid och verkningsgrad med utskrivet protokoll."},
+    {"titel": "Gårdsavtal", "ikon": "dokument", "href": "verksamhet.html", "text": "Ett årsavtal för alla gårdens pannor, torkar och eldstäder."},
+    {"titel": "Boka före skörden", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Torkservice bokas senast 15 juni för att hinnas med före augusti."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villor och gårdar", "text": "Vi har sotningsavtalet i Götene, Skara och Grästorp och besöker omkring 9 800 eldstäder enligt kommunernas frister. På gårdarna sotar vi ofta flera pannor och eldstäder vid samma besök.", "text2": "Brandskyddskontroll görs vart fjärde år, och för pannor över 60 kW enligt kommunens särskilda frist.", "tagg": "skorsten"},
+    {"titel": "Flis och pellets", "text": "En flispanna som sotas för sällan tappar effekt och drar mer bränsle. Vi tar ut askan, rengör konvektionsdelen och mäter rökgaserna efteråt.", "text2": "Gårdar med serviceavtal får två besök per eldningssäsong och prioriterad utryckning vid driftstopp.", "tagg": "ved"},
+    {"titel": "Spannmålstorkar", "text": "Damm och agnar i en tork är en av de vanligaste orsakerna till bränder på gårdar. Vi rengör brännarkammare, varmluftskanaler och schakt och kontrollerar brännaren innan skörden.", "text2": "Ni får ett protokoll som försäkringsbolaget godkänner som underlag.", "tagg": "industri"},
+    {"titel": "Närvärme i byarna", "text": "Runt Kinnekulle finns flera små närvärmenät som värmer skolor, kyrkor och villor från en gemensam panncentral. Vi sotar, mäter och dokumenterar enligt avtal med föreningarna.", "text2": "Föreningen får en årsrapport med mätvärden och förslag på förbättringar.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Sotning Götene–Skara", "segment": "Villor och gårdar", "rubrik": "Åtta sotare, tre kommuner", "text": "Sköter avtalssotningen och brandskyddskontrollerna från Hällekis till Grästorps slätt.", "tagg": "skorsten"},
+    {"namn": "Pannservice", "segment": "Flis, pellets och närvärme", "rubrik": "Fyra tekniker i overall", "text": "Servar gårdspannor och värmecentraler och gör rökgasanalyser med utskrivet protokoll.", "tagg": "ved"},
+    {"namn": "Torklaget", "segment": "Juni–augusti", "rubrik": "Torkarna rena före skörd", "text": "Under sommaren går hela pannservice och två sotare över till torkarna – omkring 140 per säsong.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "142 torkar före skörd", "text": "Säsongens sista torkservice gjordes den 4 augusti på en gård utanför Grästorp, dagen innan tröskningen började.", "tagg": "industri"},
+    {"rubrik": "Ny närvärmecentral i Källby", "text": "Byns förening har tagit en ny flispanna på 400 kW i drift, och vi har fått serviceavtalet.", "tagg": "anlaggning"},
+    {"rubrik": "Askan blir gödsel", "text": "Tolv gårdar sprider nu askan från flispannorna på åkern, efter analys som vi har hjälpt till med.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "9 800", "enhet": "eldstäder", "etikett": "I tre kommuner"},
+    {"varde": "142", "enhet": "torkar", "etikett": "Servade före skörden 2026"},
+    {"varde": "210", "enhet": "gårdar", "etikett": "Med vårt gårdsavtal"},
+    {"varde": "14", "enhet": "anställda", "etikett": "Med bas i Götene"}
+  ],
+  "projekt": [
+    {"namn": "Källby närvärmeförening", "ort": "Källby", "typ": "Panncentral", "ar": "2026", "text": "Driftsättning och första sotning av en flispanna på 400 kW som värmer skolan och 38 villor.", "tagg": "anlaggning"},
+    {"namn": "Gård utanför Grästorp", "ort": "Grästorp", "typ": "Spannmålstork", "ar": "2026", "text": "Rengöring av tork med oljebrännare och 18 meter varmluftskanal, klar dagen före tröskning.", "tagg": "industri"},
+    {"namn": "Husaby mjölkgård", "ort": "Husaby", "typ": "Gårdsavtal", "ar": "2025", "text": "Flispanna, vedspis i boningshuset och två kaminer samlade i ett avtal.", "tagg": "hem"},
+    {"namn": "Varnhems lantbruksgård", "ort": "Varnhem", "typ": "Rökgasanalys", "ar": "2025", "text": "Mätning och injustering av pelletspanna på 250 kW – verkningsgraden ökade med sex procentenheter.", "tagg": "ved"},
+    {"namn": "Hällekis kalkbruksbyar", "ort": "Hällekis", "typ": "Brandskyddskontroll", "ar": "2025", "text": "Kontroll av 120 villor i det gamla bruksområdet, många med ursprungliga murstockar.", "tagg": "skorsten"},
+    {"namn": "Torksäsongen 2027", "ort": "Skaraborg", "typ": "Torkservice", "ar": "2027", "text": "Bokningen för nästa säsong har öppnat – 60 gårdar har redan bokat.", "tagg": "industri", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Gårdsgenomgång", "text": "Vi går igenom gården med dig och listar alla pannor, torkar och eldstäder i ett register.", "tagg": "hem"},
+    {"titel": "Årsplan", "text": "Du får en plan där sotning, torkservice och kontroller ligger när det passar gårdens arbete.", "tagg": "kontor"},
+    {"titel": "Utförande", "text": "Vi sotar, rengör och mäter – och rapporterar direkt om vi hittar något som brådskar.", "tagg": "skorsten"},
+    {"titel": "Protokoll till försäkringen", "text": "Alla protokoll samlas digitalt så att du kan skicka dem till försäkringsbolaget med ett klick.", "tagg": "brand"}
+  ],
+  "hallbarhet": {
+    "rubrik": "En ren panna eldar mindre flis",
+    "text": "Ett millimeter tjockt sotlager i konvektionsdelen kan sänka verkningsgraden med flera procent. När vi sotar och justerar en gårdspanna sparar gården ofta mer flis än vad besöket kostar. Askan från rena flispannor kan återföras till åkern efter analys.",
+    "mal": [["6 %", "högre verkningsgrad efter injustering i snitt"], ["12", "gårdar som återför askan till åkern"], ["0", "torkbränder hos avtalskunder sedan 2008"]]
+  },
+  "karriar": {
+    "rubrik": "Sotare på landet – med lantbruk i blodet",
+    "text": "Har du vuxit upp på en gård eller arbetat som maskinförare? Det är en fördel hos oss. Vi betalar utbildningen till skorstensfejare och du får en egen servicebil.",
+    "jobb": [["Skorstensfejare", "Götene"], ["Pannservicetekniker", "Götene"]]
+  },
+  "kultur": "Under torksäsongen äter vi lunch på gårdarna, och i november har vi kräftskiva i stället för julfest – då har vi äntligen tid.",
+  "citat": {"text": "En tork som brinner i augusti tar hela årets skörd. Därför står vi i torkarna i juni, när det fortfarande finns tid att laga det vi hittar.", "namn": "Pär Sandahl", "roll": "Ägare och skorstensfejartekniker", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Pär förstår att man inte kan stoppa flispannan mitt i januari. Han kommer på en lördag om det behövs.", "namn": "Gustav A.", "ort": "Husaby"},
+    {"text": "Torken var renare än den varit på tio år, och protokollet räckte för försäkringsbolaget.", "namn": "Maria L.", "ort": "Grästorp"},
+    {"text": "Föreningen fick en årsrapport med mätvärden som vi kunde visa på stämman. Det har vi aldrig haft förut.", "namn": "Olof J., ordförande", "ort": "Källby"}
+  ],
+  "faq": [
+    ["Ingår gårdens pannor i den kommunala sotningen?", "Ja, pannor och eldstäder som används för uppvärmning omfattas av kommunens frister. Torkar och processpannor ingår inte, men vi sköter dem på avtal."],
+    ["Hur ofta ska flispannan sotas?", "Det beror på storlek och drifttimmar. En gårdspanna på 100–300 kW behöver normalt sotas två till fyra gånger per säsong för att hålla verkningsgraden."],
+    ["När ska torken servas?", "Senast i juli. Vi rekommenderar att boka före 15 juni, så hinner eventuella reparationer göras före skörd."],
+    ["Kräver försäkringsbolaget protokoll på torken?", "Många lantbruksförsäkringar kräver att torken rengörs och kontrolleras årligen. Vårt protokoll är utformat för att godkännas som underlag."],
+    ["Vad ingår i gårdsavtalet?", "All sotning och kontroll enligt kommunens frist, plus pannservice och torkservice enligt årsplan, till fast pris per år."],
+    ["Kan askan spridas på åkern?", "Ja, aska från ren flis kan återföras till åkern efter analys av tungmetaller. Vi hjälper till med provtagning."]
+  ],
+  "priser": [
+    {"namn": "Torkservice", "pris": "fr. 2 950 kr", "enhet": "per tork och säsong", "text": "Ren och kontrollerad tork före skörd.", "punkter": ["Rengöring av brännarkammare och kanaler", "Kontroll av oljebrännare", "Brandskyddsprotokoll för försäkringen", "Påminnelse i maj varje år"]},
+    {"namn": "Gårdsavtal", "pris": "fr. 6 400 kr", "enhet": "per år", "text": "Alla gårdens pannor, torkar och eldstäder i ett avtal.", "punkter": ["Sotning enligt kommunens frist", "Två pannservicebesök per säsong", "Torkservice före skörd", "Prioriterad utryckning vid driftstopp"], "utvald": true},
+    {"namn": "Panncentral", "pris": "fr. 9 800 kr", "enhet": "per år", "text": "För närvärmeföreningar och större gårdspannor.", "punkter": ["Sotning upp till fyra gånger per säsong", "Rökgasanalys med protokoll", "Årsrapport till föreningen", "Rådgivning om askåterföring"]}
+  ],
+  "certifikat": [
+    {"titel": "Sotningsavtal i tre kommuner", "text": "Entreprenadavtal med Götene, Skara och Grästorps kommuner enligt lagen om skydd mot olyckor.", "ikon": "dokument"},
+    {"titel": "Skorstensfejartekniker", "text": "Fem tekniker med behörighet för brandskyddskontroll enligt MSB:s föreskrifter.", "ikon": "skold"},
+    {"titel": "Heta arbeten", "text": "Hela pannservice och torklaget har certifikat för heta arbeten från Brandskyddsföreningen.", "ikon": "eld"},
+    {"titel": "Kalibrerade mätinstrument", "text": "Rökgasanalysatorerna kalibreras varje år före eldningssäsongen.", "ikon": "graf"}
+  ],
+  "kunder": ["Götene kommun", "Skara kommun", "Källby närvärmeförening", "Husaby mjölkgård", "Varnhems lantbruksgård", "Grästorps Spannmål ek. för.", "Hällekis Brukssamfällighet"],
+  "nyheter": [
+    ["2026-10-01", "Dags att sota flispannan", "Gör första sotningen innan pannan går för fullt – det sparar flis hela vintern.", "ved"],
+    ["2026-08-05", "142 torkar klara", "Torksäsongen avslutades dagen innan tröskningen startade i Grästorp.", "industri"],
+    ["2026-05-04", "Boka torkservice före 15 juni", "Efter midsommar är kalendern full – och skörden väntar inte.", "lada"]
+  ],
+  "kontakt": {"adress": "Lidköpingsvägen 31", "postnr": "533 31", "ort": "Götene", "telefon": "070-174 06 71", "epost": "info@kinnekullesotning.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–15.30, torksäsong även lördagar",
+  "omrade": "Götene, Skara och Grästorp – gårdsservice i hela Skaraborg",
+  "fot_cta": "Har du en tork som ska vara klar före skörden? Boka före midsommar.",
+  "bild": {"panel": "ved", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Boka sotare",
+    "vagval_etikett": "Gård och villa",
+    "ber_etikett": "Från gårdarna",
+    "ber_rubrik": "Säsongen just nu",
+    "proj_rubrik": "Gårdar och byar vi servar",
+    "process_rubrik": "En gård, en årsplan",
+    "bolag_rubrik": "Tre lag efter årstiden",
+    "hb_etikett": "Bränsle och aska",
+    "omdomen_rubrik": "Lantbrukare om oss",
+    "faq_rubrik": "Frågor från gårdarna",
+    "priser_rubrik": "Avtal för torkar, gårdar och värmecentraler",
+    "priser_utvald": "Flest gårdar väljer",
+    "priser_knapp": "Teckna avtal",
+    "priser_not": "Priser exklusive moms. Kommunal sotning debiteras enligt kommunens taxa.",
+    "boka_rubrik": "Berätta om gården",
+    "boka_text": "Skriv vad som står i pannrummet och om du har tork, så ringer Pär eller Lisa upp inom en arbetsdag.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Pannor, torkar och eldstäder"],
+    "certifikat_rubrik": "Avtal och behörigheter",
+    "logos_rubrik": "Gårdar, föreningar och kommuner"
+  }
+}

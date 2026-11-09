@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "hiss",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vårdlyft Hissteknik AB",
+  "kortnamn": "Vårdlyft",
+  "slug": "vardlyft",
+  "typ": "Hissar för sjukhus och vård i Mellansverige",
+  "tagline": "Hissar för vården",
+  "slogan": "Sängliftar, brandbefälshissar och helikopterhissar på sjukhus i Örebro, Dalarna och Gävleborg – med tekniker som kan vårdmiljön.",
+  "hero_rubrik": "Hissar för sjukhus som aldrig stänger",
+  "hero_text": "En sänglift som står still kan stoppa en operation. Vi har tekniker på plats på sjukhusen dagtid och inställelse inom 30 minuter dygnet runt.",
+  "intro_rubrik": "Sjukhushissar är allt vi gör",
+  "om": [
+    "Vårdlyft bildades 1999 när landstingets egen hissavdelning i Örebro lades ut på entreprenad. Åtta tekniker köpte verksamheten och fortsatte sköta samma hissar – nu som eget bolag. Sedan dess har vi vuxit till 45 anställda och arbetar på elva sjukhus i tre regioner.",
+    "Alla våra tekniker är utbildade i basala hygienrutiner och vet hur man arbetar i en hiss som också är en del av vårdkedjan. Vi har fasta tekniker stationerade på de tre största sjukhusen, och reservdelar för varje hisstyp i ett låst förråd på plats."
+  ],
+  "vagval_rubrik": "Vilken typ av vårdbyggnad?",
+  "tjanster": [
+    {"titel": "Sängliftar", "ikon": "vard", "href": "verksamhet.html", "text": "Service och modernisering av hissar för sängar och patienttransporter."},
+    {"titel": "Brandbefälshissar", "ikon": "eld", "href": "verksamhet.html", "text": "Hissar för räddningstjänst och evakuering enligt SS-EN 81-72 och 81-73."},
+    {"titel": "Helikopterhissar", "ikon": "upp", "href": "verksamhet.html", "text": "Hissar från helikopterplatta till akuten med högsta prioritet."},
+    {"titel": "Tekniker på plats", "ikon": "folk", "href": "verksamhet.html", "text": "Stationerade tekniker på de största sjukhusen vardagar 7–19."},
+    {"titel": "Jour 30 minuter", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Avtalad inställelsetid dygnet runt för akutkritiska hissar."},
+    {"titel": "Reservkraft", "ikon": "blixt", "href": "verksamhet.html", "text": "Test och underhåll av hissarnas drift vid strömavbrott."},
+    {"titel": "Modernisering i drift", "ikon": "verktyg", "href": "verksamhet.html", "text": "Hiss för hiss, planerat så att vårdflödet aldrig bryts."},
+    {"titel": "Upphandling", "ikon": "dokument", "href": "faq.html", "text": "Så lämnar vi anbud och vad våra avtal innehåller."}
+  ],
+  "affarsomraden": [
+    {"titel": "Sängliftar och patienthissar", "text": "En sänglift på ett universitetssjukhus kan göra 400 turer om dagen med säng, personal och medicinsk utrustning. Den måste stanna exakt i nivå, öppna långsamt och aldrig fastna med en patient ombord.", "text2": "Vi kontrollerar stannoggrannhet, dörrkraft och hindersensorer vid varje servicebesök.", "tagg": "hiss"},
+    {"titel": "Brand och evakuering", "text": "Brandbefälshissar och evakueringshissar ska fungera när allt annat har slutat fungera. Vi testar brandläge, reservkraft och vattenskydd enligt ett eget protokoll som räddningstjänsten har granskat.", "text2": "Varje månad provkör vi hissarna i brandläge tillsammans med fastighetens driftorganisation.", "tagg": "brand"},
+    {"titel": "Modernisering i drift", "text": "Ett sjukhus kan inte stänga en hisskorridor i fem veckor. Vi planerar moderniseringarna med vårdens logistikansvariga, och vi bygger ofta tillfälliga lösningar för transporterna under tiden.", "text2": "Arbete i hygienkänsliga zoner sker bakom dammtäta skärmar och följer sjukhusets rutiner för smittskydd.", "tagg": "bygg"},
+    {"titel": "Varuhissar och logistik", "text": "Mat, sterilgods och avfall transporteras ofta i separata hissar, ibland med automatiska vagnar. Vi servar dem och kopplar in dem i sjukhusets logistiksystem.", "text2": "Hissar för rent och smutsigt gods får aldrig blandas ihop, och det följer vi även när vi arbetar i dem.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Vårdlyft Örebro", "segment": "Örebro län", "rubrik": "Där allt började 1999", "text": "Huvudkontoret och 22 tekniker som sköter universitetssjukhuset, lasaretten i Karlskoga och Lindesberg och länets vårdcentraler.", "tagg": "hiss"},
+    {"namn": "Vårdlyft Dalarna", "segment": "Falun, Mora och Borlänge", "rubrik": "Elva tekniker i Dalarna", "text": "Startade 2012 efter att vi vunnit upphandlingen av hissarna på länets sjukhus.", "tagg": "hiss"},
+    {"namn": "Vårdlyft Gävleborg", "segment": "Gävle och Hudiksvall", "rubrik": "Nyaste regionen", "text": "Åtta tekniker sedan 2021, med fast tekniker på plats på sjukhuset i Gävle vardagar.", "tagg": "stad"},
+    {"namn": "Projekt och teknik", "segment": "Moderniseringar", "rubrik": "Planerar varje hiss i vårdflödet", "text": "Projektledare och konstruktörer som leder moderniseringar och nyinstallationer i alla tre regionerna.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ny helikopterhiss i Örebro", "text": "Från helikopterplattan till akutmottagningen på 48 sekunder – med eget styrsystem som prioriterar ambulansflyget.", "tagg": "hiss"},
+    {"rubrik": "Sex sängliftar på sex månader", "text": "I Falun moderniserades hela hisskorridoren utan att en enda operation behövde flyttas.", "tagg": "bygg"},
+    {"rubrik": "Övning i brandläge", "text": "Tillsammans med räddningstjänsten i Gävle evakuerades en hel vårdavdelning med hiss under en övning i maj.", "tagg": "brand"}
+  ],
+  "nyckeltal": [
+    {"varde": "11", "enhet": "sjukhus", "etikett": "I tre regioner"},
+    {"varde": "30", "enhet": "min", "etikett": "Inställelse dygnet runt"},
+    {"varde": "99,8 %", "enhet": "", "etikett": "Tillgänglighet för sängliftar"},
+    {"varde": "45", "enhet": "anställda", "etikett": "Alla utbildade i vårdhygien"}
+  ],
+  "projekt": [
+    {"namn": "Regionfastigheter Bergslagen", "ort": "Örebro", "typ": "Helikopterhiss", "ar": "2025", "text": "Ny hiss från helikopterplattan till akuten, med reservkraft och egen prioritetsstyrning.", "tagg": "hiss"},
+    {"namn": "Dalarnas Vårdbyggnader", "ort": "Falun", "typ": "Modernisering", "ar": "2025", "text": "Sex sängliftar i samma korridor, en i taget under sex månader.", "tagg": "bygg"},
+    {"namn": "Gävleborgs Sjukhusfastigheter", "ort": "Gävle", "typ": "Brandbefälshissar", "ar": "2024", "text": "Fyra hissar uppgraderade till brandbefälshissar med vattenskydd och nytt brandläge.", "tagg": "brand"},
+    {"namn": "Karlskoga Lasarettsfastigheter", "ort": "Karlskoga", "typ": "Serviceavtal", "ar": "2024", "text": "Totalt 34 hissar, varav tolv sängliftar, med fast tekniker två dagar i veckan.", "tagg": "hiss"},
+    {"namn": "Hälsinglands Vårdlokaler", "ort": "Hudiksvall", "typ": "Varuhissar", "ar": "2026", "text": "Separata hissar för rent och smutsigt gods kopplas till sjukhusets automatiska vagnsystem.", "tagg": "industri", "status": "Pågående"},
+    {"namn": "Privatkliniken Svartån", "ort": "Örebro", "typ": "Nyinstallation", "ar": "2026", "text": "Två sängliftar i en ny operationsklinik, med inflyttning i februari.", "tagg": "bygg", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Riskklassning", "text": "Vi går igenom alla hissar med er och delar in dem efter hur kritiska de är för vården.", "tagg": "hiss"},
+    {"titel": "Avtal med inställelsetider", "text": "Akutkritiska hissar får 30 minuters inställelse, övriga två eller fyra timmar.", "tagg": "kontor"},
+    {"titel": "Drift på plats", "text": "Våra stationerade tekniker gör service, felavhjälpning och samordnar med sjukhusets driftcentral.", "tagg": "people"},
+    {"titel": "Kvartalsrapport", "text": "Ni får statistik över stopp, inställelsetider och avvikelser – per hiss och per byggnad.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Patientsäkerhet börjar i maskinrummet",
+    "text": "Varje avvikelse som berör en patienttransport rapporteras till sjukhuset inom 24 timmar och utreds tillsammans med vården. Vi följer upp alla händelser i ett gemensamt avvikelsesystem.",
+    "mal": [["24 h", "till avvikelserapport efter incident"], ["100 %", "av teknikerna utbildade i basala hygienrutiner"], ["12", "brandlägestester per hiss och år"]]
+  },
+  "karriar": {
+    "rubrik": "Ett tekniskt jobb mitt i vården",
+    "text": "Hos oss arbetar du i en miljö där det du gör märks direkt för patienter och personal. Du får utbildning i vårdhygien, brandskydd och sjukhusens säkerhetsrutiner.",
+    "jobb": [["Hisstekniker sjukhus", "Örebro"], ["Hisstekniker", "Falun"], ["Projektledare modernisering", "Gävle"]]
+  },
+  "kultur": "Varje ny tekniker får gå bredvid sjukhusets transportpersonal en dag för att förstå hur hissarna används.",
+  "citat": {"text": "När en sjuksköterska trycker på knappen med en patient i sängen ska hon aldrig behöva tänka på hissen. Det är hela vårt uppdrag.", "namn": "Mats Öberg", "roll": "Vd", "tagg": "hiss"},
+  "omdomen": [
+    {"text": "Moderniseringen av sängliftarna planerades så noga att vi inte behövde flytta en enda operation. Det trodde jag inte var möjligt.", "namn": "Karin W.", "ort": "Falun"},
+    {"text": "Teknikern på plats känner varje hiss i huset och vet vilka som får stå still en timme och vilka som inte får det.", "namn": "Per-Åke L.", "ort": "Örebro"},
+    {"text": "Kvartalsrapporterna har blivit vårt viktigaste underlag när vi prioriterar investeringar i fastigheten.", "namn": "Annelie F.", "ort": "Gävle"}
+  ],
+  "faq": [
+    ["Arbetar ni bara med sjukhus?", "Nästan. Vi arbetar med sjukhus, vårdcentraler, privatkliniker och större äldreboenden. Bostadshissar tar vi bara i fastigheter där vi redan har vårdhissar."],
+    ["Hur fungerar inställelsetiden på 30 minuter?", "Hissar som klassats som akutkritiska har en tekniker i beredskap inom 30 minuters körväg dygnet runt. På de tre största sjukhusen finns teknikern dessutom i huset vardagar 7–19."],
+    ["Vad är skillnaden mellan brandbefälshiss och evakueringshiss?", "En brandbefälshiss används av räddningstjänsten under en brand och ska klara vatten och värme. En evakueringshiss används för att flytta personer som inte kan gå i trappor. Båda ställer krav på reservkraft och brandskyddat schakt."],
+    ["Hur hanterar ni smittskydd?", "Alla tekniker har utbildning i basala hygienrutiner. I hygienkänsliga zoner arbetar vi bakom dammtäta skärmar, och vi följer sjukhusets anvisningar om skyddsutrustning."],
+    ["Kan ni modernisera en sänglift utan att stänga den länge?", "En modernisering tar normalt fyra till fem veckor per hiss. Vi planerar ordningen med sjukhusets logistik och bygger vid behov tillfälliga transportvägar."],
+    ["Är er personal säkerhetsprövad?", "Ja, tekniker som arbetar i säkerhetsklassade delar av sjukhusen är säkerhetsprövade enligt säkerhetsskyddslagen."],
+    ["Lämnar ni anbud i offentlig upphandling?", "Ja, regioner och kommuner är våra största kunder och alla våra stora avtal har vunnits i upphandling enligt LOU."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001 och ISO 45001", "text": "Certifierade ledningssystem för kvalitet och arbetsmiljö i alla tre regionerna.", "ikon": "skold"},
+    {"titel": "SS-EN 81-72 och 81-73", "text": "Kompetens för brandbefälshissar och hissars funktion vid brand.", "ikon": "eld"},
+    {"titel": "Basala hygienrutiner", "text": "Samtliga anställda har genomgått utbildning i vårdhygien och förnyar den varje år.", "ikon": "vard"},
+    {"titel": "Säkerhetsprövad personal", "text": "Tekniker i säkerhetsklassade miljöer är prövade enligt säkerhetsskyddslagen.", "ikon": "las"}
+  ],
+  "kunder": ["Regionfastigheter Bergslagen", "Dalarnas Vårdbyggnader", "Gävleborgs Sjukhusfastigheter", "Karlskoga Lasarettsfastigheter", "Hälsinglands Vårdlokaler", "Privatkliniken Svartån", "Lindesbergs Vårdcentrum"],
+  "nyheter": [
+    ["2026-09-23", "Helikopterhissen i drift", "Den nya hissen har nu gjort sina första hundra turer med ambulansflyget.", "hiss"],
+    ["2026-05-28", "Brandövning i Gävle", "Så evakuerade vi en vårdavdelning med hiss tillsammans med räddningstjänsten.", "brand"],
+    ["2026-01-15", "Vårdlyft förlänger i Dalarna", "Avtalet för länets sjukhushissar förlängs till 2030.", "kontor"]
+  ],
+  "kontakt": {"adress": "Bettorpsgatan 14", "postnr": "703 69", "ort": "Örebro", "telefon": "070-174 06 63", "epost": "kontakt@vardlyft.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16. Jour för avtalskunder dygnet runt.",
+  "omrade": "Örebro län, Dalarna och Gävleborg",
+  "fot_cta": "Ansvarar ni för hissarna i en vårdbyggnad? Boka en genomgång av vilka som är kritiska.",
+  "text": {
+    "ber_rubrik": "Aktuellt från sjukhusen",
+    "proj_rubrik": "Vårdbyggnader där vi arbetar",
+    "process_rubrik": "Så bygger vi upp ett vårdavtal",
+    "hb_etikett": "Patientsäkerhet",
+    "omdomen_rubrik": "Fastighetschefer i vården om oss",
+    "faq_rubrik": "Frågor från sjukhusens fastighetsavdelningar",
+    "boka_rubrik": "Boka en riskklassning",
+    "boka_text": "Berätta vilken byggnad det gäller och ungefär hur många hissar den har. Vi återkommer inom en arbetsdag.",
+    "logos_rubrik": "Vårdgivare och fastighetsägare",
+    "bolag_rubrik": "Tre regioner och en projektgrupp",
+    "certifikat_rubrik": "Krav vi uppfyller i vården",
+    "hero_knapp": "Våra vårdtjänster"
+  }
+}

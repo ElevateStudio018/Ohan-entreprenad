@@ -43,7 +43,7 @@
   ],
   "nyckeltal": [
     {"varde": "0", "enhet": "hundar", "etikett": "Sedan vi öppnade"},
-    {"varde": "5", "enhet": "katter", "etikett": "Max per dag"},
+    {"varde": "5", "enhet": "katter", "etikett": "Tas emot per dag"},
     {"varde": "52", "enhet": "dB", "etikett": "Fönens ljudnivå"},
     {"varde": "2017", "enhet": "", "etikett": "Öppnade på Ågatan"}
   ],
@@ -81,7 +81,7 @@
     ["Hur ofta behöver en perser badas?", "Var sjätte till åttonde vecka. Ansiktet bör torkas dagligen hemma."],
     ["Kan jag vara med under behandlingen?", "Många katter blir lugnare utan ägaren i rummet, men vid första besöket får du gärna sitta med."],
     ["Klipper ni klor på drop in?", "Ja, onsdagar 16–18. Det kostar 150 kronor."],
-    ["Vad kostar en avbokning?", "Avboka senast dagen innan klockan 12. Senare avbokningar debiteras 250 kronor."]
+    ["Vilka avbokningsregler gäller?", "Avboka senast dagen innan klockan 12. Senare avbokningar debiteras 250 kronor."]
   ],
   "priser": [
     {"namn": "Korthår", "pris": "fr. 495 kr", "enhet": "per katt", "text": "Utkamning, bad vid behov och kloklipp.", "punkter": ["Utkamning av underull", "Kloklipp", "Rengöring av öron", "Skriftlig pälsrapport"]},
@@ -102,7 +102,7 @@
   "fot_cta": "Fem katter per dag och inte en enda hund. Boka kattens tid.",
   "text": {
     "vagval_etikett": "Kattbehandlingar",
-    "ber_etikett": "Senast på bordet",
+    "ber_etikett": "Nyss klippta",
     "ber_rubrik": "Katter vi träffat i höst",
     "ber_utvalt": "Veckans katt",
     "proj_rubrik": "Tovig före, mjuk efter",
@@ -127,6 +127,6 @@
     "sida_projekt_ingress": "Några av våra katter – före och efter besöket.",
     "sida_verksamhet_text2": "Vi arbetar i korta pass med pauser och använder parfymfria produkter framtagna för katter.",
     "sida_priser_ingress": "Priserna beror på pälslängd, ras och skick.",
-    "panel_etikett": "Första besöket"
+    "panel_etikett": "Inför besöket"
   }
 }

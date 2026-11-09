@@ -1,0 +1,141 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hallandsluft AB",
+  "kortnamn": "Hallandsluft",
+  "slug": "hallandsluft",
+  "typ": "Villaventilation till fast pris i Halland",
+  "tagline": "Priset står här",
+  "slogan": "Hallandsluft servar och installerar ventilation i villor och radhus mellan Laholm och Kungsbacka – och alla priser står på sajten.",
+  "hero_rubrik": "Villans ventilation till fast pris",
+  "hero_text": "FTX-service 2 495 kr, filterabonnemang från 79 kr i månaden och OVK för småhus 3 600 kr. ROT-avdraget dras direkt på fakturan.",
+  "intro_rubrik": "Små jobb, ordentligt gjorda",
+  "om": [
+    "Linnea Svensson installerade värmepumpar i tio år och fick samma fråga i nästan varje villa: vem servar FTX-aggregatet? De stora ventilationsföretagen ville inte åka ut för ett filterbyte. 2017 startade hon Hallandsluft tillsammans med Ahmed Sultani, med en enda tjänst: villaservice till fast pris.",
+    "I dag är vi nio personer med kontor och lager på Linjegatan i Halmstad och sköter ventilationen i drygt 3 800 villor och radhus. Vi har fem servicebilar som kör i hela Halland, och vi lagerhåller filter till över 200 olika aggregatmodeller."
+  ],
+  "vagval_rubrik": "Vad behöver villan?",
+  "tjanster": [
+    {"titel": "FTX-service", "ikon": "kugge", "href": "verksamhet.html", "text": "Rengöring av värmeväxlare, fläktar och filterbyte – 2 495 kr."},
+    {"titel": "Filterabonnemang", "ikon": "kalender", "href": "verksamhet.html", "text": "Rätt filter hem i brevlådan två gånger om året, från 79 kr i månaden."},
+    {"titel": "OVK för småhus", "ikon": "dokument", "href": "verksamhet.html", "text": "Första besiktning efter nytt FTX- eller F-system – 3 600 kr."},
+    {"titel": "Kanalrengöring", "ikon": "vind", "href": "verksamhet.html", "text": "Rengöring av alla kanaler och don i villan på en förmiddag."},
+    {"titel": "Nytt FTX-aggregat", "ikon": "hem", "href": "verksamhet.html", "text": "Byte av gammalt aggregat till ett nytt med 85 procent återvinning."},
+    {"titel": "Radonsug", "ikon": "sok", "href": "verksamhet.html", "text": "Radonmätning och radonsug för villor med för höga halter."},
+    {"titel": "Köksfläkt & badrum", "ikon": "verktyg", "href": "verksamhet.html", "text": "Montering och anslutning av köksfläkt och badrumsfläkt."},
+    {"titel": "Se alla priser", "ikon": "portfolj", "href": "priser.html", "text": "Fast pris på allt vi gör, inklusive moms."}
+  ],
+  "affarsomraden": [
+    {"titel": "Service och filter", "text": "Ett FTX-aggregat som inte servas tappar upp till hälften av sin värmeåtervinning på några år. Vi rengör värmeväxlaren, kontrollerar fläktarna, byter filter och justerar inställningarna.", "text2": "Servicen tar cirka 90 minuter och kostar alltid 2 495 kr efter ROT, oavsett märke.", "tagg": "ventilation"},
+    {"titel": "Filterabonnemang", "text": "Med abonnemanget får du rätt filter hemskickade i mars och september, och var tredje år kommer en tekniker och gör service. Du behöver aldrig mer leta efter rätt filtermodell.", "text2": "Över 2 900 hushåll i Halland har filterabonnemang hos oss.", "tagg": "hem"},
+    {"titel": "Installation och byte", "text": "Aggregat från 1990-talet har ofta dålig verkningsgrad och höga ljudnivåer. Vi byter till ett modernt aggregat, oftast på en dag, och injusterar alla don.", "text2": "Fast pris från 42 900 kr efter ROT, inklusive gammalt aggregat bortforslat.", "tagg": "bostad"},
+    {"titel": "Besiktning och radon", "text": "Har du installerat ett nytt ventilationssystem krävs en första OVK. Vi besiktar och skickar protokollet till kommunen. Vi mäter också radon och installerar radonsug.", "text2": "Radonmätning under två månader kostar 1 290 kr inklusive analys.", "tagg": "interior"}
+  ],
+  "bolag": [
+    {"namn": "Service", "segment": "5 tekniker", "rubrik": "En bil per kommun", "text": "Servicebilar i Halmstad, Laholm, Falkenberg, Varberg och Kungsbacka.", "tagg": "ventilation"},
+    {"namn": "Installation", "segment": "2 montörer", "rubrik": "Nytt aggregat på en dag", "text": "Byter aggregat, monterar köksfläktar och installerar radonsug.", "tagg": "hem"},
+    {"namn": "Kundservice och lager", "segment": "2 personer", "rubrik": "Filter till 200 modeller", "text": "Bokar besök, packar filterabonnemang och svarar i telefon.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Höstens filter på väg", "text": "2 900 paket med filter skickas ut första veckan i september.", "tagg": "hem"},
+    {"rubrik": "Ny bil i Kungsbacka", "text": "Den femte servicebilen gör att väntetiden i norra Halland är nere på en vecka.", "tagg": "ventilation"},
+    {"rubrik": "Radonsommaren", "text": "Fler mätningar än någonsin – var femte villa i Tylösand låg över gränsvärdet.", "tagg": "bostad"}
+  ],
+  "nyckeltal": [
+    {"varde": "3 800", "enhet": "villor", "etikett": "Som vi sköter ventilationen i"},
+    {"varde": "2 495", "enhet": "kr", "etikett": "FTX-service efter ROT"},
+    {"varde": "200+", "enhet": "", "etikett": "Aggregatmodeller med filter i lager"},
+    {"varde": "1", "enhet": "vecka", "etikett": "Normal väntetid på service"}
+  ],
+  "projekt": [
+    {"namn": "Villa i Tylösand", "ort": "Halmstad", "typ": "Aggregatbyte", "ar": "2025", "text": "Ett aggregat från 1994 bytt mot ett nytt – elförbrukningen för fläktarna halverades.", "tagg": "hem"},
+    {"namn": "Radhusområdet Skrea", "ort": "Falkenberg", "typ": "Service, 46 radhus", "ar": "2025", "text": "Samfälligheten bokade service för alla hus samma vecka och fick mängdrabatt.", "tagg": "bostad"},
+    {"namn": "Villa i Getinge", "ort": "Getinge", "typ": "Radonsug", "ar": "2025", "text": "Radonhalten sänktes från 640 till 70 Bq/m³ med radonsug under plattan.", "tagg": "hem"},
+    {"namn": "Nybygge i Träslövsläge", "ort": "Varberg", "typ": "OVK småhus", "ar": "2025", "text": "Första besiktning av FTX innan inflyttning, protokoll till kommunen samma dag.", "tagg": "ventilation"},
+    {"namn": "Villa i Onsala", "ort": "Kungsbacka", "typ": "Kanalrengöring", "ar": "2024", "text": "Tjugo år gamla kanaler rengjorda och alla don injusterade på fem timmar.", "tagg": "interior"},
+    {"namn": "Radhus i Mellbystrand", "ort": "Laholm", "typ": "Filterabonnemang", "ar": "2026", "text": "Hela föreningen med 28 radhus har gått över till gemensamt abonnemang.", "tagg": "bostad"}
+  ],
+  "process": [
+    {"titel": "Boka på nätet eller ring", "text": "Ange aggregatmodell och adress. Du får en tid inom en vecka.", "tagg": "kontor"},
+    {"titel": "Sms dagen före", "text": "Du får ett sms med teknikerns namn och en tvåtimmarslucka.", "tagg": "people"},
+    {"titel": "Besöket", "text": "Teknikern skyddar golvet, gör jobbet och visar vad som har gjorts.", "tagg": "ventilation"},
+    {"titel": "Faktura med ROT", "text": "ROT-avdraget är redan draget. Du betalar exakt det pris som står på sajten.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett rent filter är det billigaste energisparet",
+    "text": "Ett igensatt filter kan få fläktarna att dra dubbelt så mycket el. Med regelbundna filterbyten och service håller aggregatet längre och återvinner mer värme. Gamla filter samlas in och går till energiåtervinning.",
+    "mal": [["2 900", "hushåll med filterabonnemang"], ["–50 %", "fläktel efter byte av gamla aggregat"], ["100 %", "insamlade filter till energiåtervinning"]]
+  },
+  "karriar": {
+    "rubrik": "Egen bil, eget område",
+    "text": "Som servicetekniker hos oss har du din egen bil och dina egna kunder i en kommun. Du gör fem till sex besök om dagen och är hemma till middag.",
+    "jobb": [["Servicetekniker villaventilation", "Varberg"]]
+  },
+  "kultur": "Teknikerna planerar själva sin vecka – vi har inga körscheman från huvudkontoret.",
+  "citat": {"text": "Folk vill veta vad det kostar innan de ringer. Så vi skrev upp priserna. Det var hela affärsidén.", "namn": "Linnea Svensson", "roll": "Medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Priset stod på hemsidan och det var exakt det vi betalade. Teknikern visade hur smutsig värmeväxlaren var – vi hade aldrig rengjort den på tolv år.", "namn": "Anders K.", "ort": "Tylösand"},
+    {"text": "Filterabonnemanget är det bästa vi har skaffat. Filtren kommer i brevlådan och jag behöver inte tänka.", "namn": "Maja L.", "ort": "Varberg"},
+    {"text": "Samfälligheten fick ett bra pris för alla 46 hus, och de gjorde allt på fyra dagar.", "namn": "Peter H.", "ort": "Skrea, Falkenberg"}
+  ],
+  "faq": [
+    ["Ingår ROT-avdrag i priserna?", "Ja, för arbeten som ger rätt till ROT, som service, kanalrengöring och installation, är priset efter avdrag. Besiktning, radonmätning och filter ger inte ROT. Vi sköter ansökan till Skatteverket."],
+    ["Servar ni alla märken?", "Ja, vi servar alla vanliga FTX-aggregat och frånluftsvärmepumpar och har filter till över 200 modeller i lager."],
+    ["Hur ofta ska FTX-aggregatet servas?", "Filter bör bytas två gånger om året och värmeväxlaren rengöras vart tredje år. Med vårt abonnemang sköts båda delarna."],
+    ["Kan jag säga upp filterabonnemanget?", "Ja, när som helst med en månads uppsägningstid. Det finns ingen bindningstid."],
+    ["Behöver villan OVK?", "Bara en första besiktning när ett nytt system installeras. Därefter finns inga återkommande krav för småhus."],
+    ["Hur lång är väntetiden?", "Normalt en vecka för service. Aggregatbyten bokas två till tre veckor fram."],
+    ["Åker ni utanför Halland?", "Vi kör från Båstad i söder till Kungsbacka och Mölnlycke i norr."]
+  ],
+  "priser": [
+    {"namn": "Filterabonnemang", "pris": "79 kr", "enhet": "per månad", "text": "Rätt filter hem två gånger om året.", "punkter": ["Filter i mars och september", "Fri frakt", "Påminnelse när det är dags", "Ingen bindningstid"]},
+    {"namn": "Abonnemang med service", "pris": "169 kr", "enhet": "per månad", "text": "Filter och service var tredje år.", "punkter": ["Allt i filterabonnemanget", "Service var tredje år", "Rengöring av värmeväxlare", "10 % rabatt på övriga tjänster"], "utvald": true},
+    {"namn": "FTX-service", "pris": "2 495 kr", "enhet": "per tillfälle efter ROT", "text": "Komplett service utan abonnemang.", "punkter": ["Rengöring av värmeväxlare", "Filterbyte ingår", "Kontroll av fläktar och styrning", "Protokoll efter besöket"]}
+  ],
+  "prislista": [["OVK småhus", "3 600 kr"], ["Kanalrengöring villa", "4 995 kr"], ["Nytt FTX-aggregat inkl. montage", "fr. 42 900 kr"], ["Radonmätning, två månader", "1 290 kr"], ["Radonsug inkl. montage", "fr. 18 500 kr"], ["Montering av köksfläkt", "1 895 kr"], ["Injustering av villa", "1 995 kr"], ["Framkörning utanför Halland", "fr. 395 kr"]],
+  "prislista_rubrik": "Fler fasta priser",
+  "certifikat": [
+    {"titel": "Funktionskontrollant", "text": "Linnea Svensson är certifierad funktionskontrollant med behörighet N.", "ikon": "dokument"},
+    {"titel": "F-gascertifikat", "text": "Behörighet för service av frånluftsvärmepumpar med köldmedium.", "ikon": "laddning"},
+    {"titel": "Godkänd för F-skatt och ROT", "text": "Vi sköter ROT-ansökan direkt mot Skatteverket.", "ikon": "hem"},
+    {"titel": "Ansvarsförsäkring", "text": "Försäkrade för skador upp till 10 miljoner kronor.", "ikon": "skold"}
+  ],
+  "kunder": ["Samfälligheten Skrea Strand", "Mellbystrands Radhusförening", "Brf Tylöhus", "Träslövslägets Egnahem", "Onsala Villaförening", "Getinge Samfällighet"],
+  "nyheter": [
+    ["2026-09-01", "Höstens filter skickas nu", "2 900 paket på väg – kolla brevlådan nästa vecka.", "hem"],
+    ["2026-04-22", "Ny servicebil i Kungsbacka", "Väntetiden i norra Halland är nu nere på en vecka.", "ventilation"],
+    ["2025-11-03", "Mät radon i vinter", "Mätningen ska göras under eldningssäsongen – beställ ditt kit nu.", "bostad"]
+  ],
+  "kontakt": {"adress": "Linjegatan 16", "postnr": "302 50", "ort": "Halmstad", "telefon": "070-174 06 71", "epost": "boka@hallandsluft.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–17, telefon även lör 9–12",
+  "omrade": "Halland, från Båstad till Kungsbacka",
+  "fot_cta": "När bytte du filter senast? Boka service för 2 495 kr.",
+  "bild": {"panel": "hem", "hb": "ventilation"},
+  "text": {
+    "kontakt_knapp": "Boka service",
+    "hero_knapp": "Se alla priser",
+    "ber_etikett": "Nytt",
+    "ber_rubrik": "Senaste veckorna i Halland",
+    "proj_rubrik": "Villor vi har varit i",
+    "proj_rubrik_lista": "Jobb i hela Halland",
+    "sida_projekt_titel": "Utförda jobb",
+    "process_etikett": "Så enkelt är det",
+    "process_rubrik": "Från bokning till faktura",
+    "hb_etikett": "Energi",
+    "omdomen_rubrik": "Villaägare om oss",
+    "faq_rubrik": "Om priser, ROT och filter",
+    "priser_etikett": "Fasta priser",
+    "priser_rubrik": "Välj abonnemang eller enstaka service",
+    "priser_utvald": "Mest valt",
+    "priser_not": "Priserna gäller privatpersoner, inklusive moms. Arbeten som ger rätt till ROT anges efter avdrag.",
+    "boka_rubrik": "Boka ett besök",
+    "boka_text": "Skriv vilken aggregatmodell du har, om du vet. Vi ringer upp och föreslår en tid inom en vecka.",
+    "boka_falt": ["Namn", "Telefon", "Adress", "Aggregatmodell och vad du behöver"],
+    "logos_rubrik": "Föreningar och samfälligheter vi servar",
+    "certifikat_rubrik": "Behörigheter och försäkring",
+    "bolag_rubrik": "Nio personer, tre funktioner",
+    "siffror_etikett": "Hallandsluft i korthet",
+    "medarbetare": "Teknikerna"
+  }
+}

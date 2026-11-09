@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "rivning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ekelund Selektiv Rivning AB",
+  "kortnamn": "Ekelund",
+  "slug": "ekelund-selektiv",
+  "typ": "Varsam rivning i Stockholms innerstad",
+  "tagline": "Rivning med varsamhet",
+  "slogan": "Vi river i Stockholms finaste fastigheter utan att skada det som ska stå kvar – stuckatur, parkett, kakelugnar och grannar.",
+  "hero_rubrik": "Vi river runt det som ska stå kvar",
+  "hero_text": "Invändig rivning i sekelskiftesfastigheter, hotell och butiker på Östermalm, Södermalm och i Gamla stan. Dammfritt, tyst när det behövs och med byggnadsantikvarie i laget.",
+  "intro_rubrik": "Tjugonio år i stenstaden",
+  "om": [
+    "Carl Ekelund startade företaget 1997 efter att ha sett en rivningsentreprenör slå sönder en kakelugn från 1890 på Strandvägen. Sedan 2012 driver han Ekelund tillsammans med byggnadsantikvarien Sofie Adler, och vi är i dag 28 anställda med depå i Västberga.",
+    "Vi är sällan billigast. Våra uppdrag är ofta i fastigheter där ett skadat stuckaturtak eller ett dammigt trapphus kostar mer än hela rivningen. Därför arbetar vi med undertryck, dagliga partikelmätningar och en antikvarisk plan för varje byggnad."
+  ],
+  "vagval_rubrik": "Vad ska bort – och vad ska sparas?",
+  "tjanster": [
+    {"titel": "Invändig rivning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Strip-out av kontor, butiker och lägenheter i bebodda fastigheter."},
+    {"titel": "Antikvarisk demontering", "ikon": "pensel", "href": "verksamhet.html", "text": "Kakelugnar, dörrar och snickerier numreras, packas och lagras."},
+    {"titel": "Dammfri rivning", "ikon": "vind", "href": "verksamhet.html", "text": "Undertryck, HEPA-filter och partikelmätning varje dag."},
+    {"titel": "Butiker och hotell", "ikon": "nyckel", "href": "verksamhet.html", "text": "Nattarbete och helger så att verksamheten kan hålla öppet."},
+    {"titel": "Miljösanering", "ikon": "skold", "href": "verksamhet.html", "text": "Asbest, PCB och bly i äldre fastigheter, med eget tillstånd."},
+    {"titel": "Magasinering", "ikon": "lada", "href": "verksamhet.html", "text": "Klimatstyrt lager i Västberga för det som ska tillbaka."},
+    {"titel": "Referenser", "ikon": "stjarna", "href": "projekt.html", "text": "Hotell, banker, ambassader och bostadsrätter."},
+    {"titel": "Boka besiktning", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Carl eller Sofie besiktigar inom fem arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Invändig rivning i bebodda hus", "text": "I en bostadsrättsförening på Östermalm bor grannarna kvar, hissen används och trapphuset har marmorgolv. Vi skyddar allt från entrédörr till arbetsplats och bär ut rivningsmaterialet i slutna säckar.", "text2": "Bullriga moment görs mellan 9 och 16 och anmäls i förväg till styrelsen och grannarna.", "tagg": "interior"},
+    {"titel": "Antikvarisk demontering", "text": "Kakelugnar, speglar, fyllningsdörrar och stuckaturdetaljer dokumenteras, numreras och demonteras innan rivningen börjar. Sofie Adler upprättar den antikvariska planen tillsammans med fastighetsägaren.", "text2": "Vi har demonterat och återuppsatt 64 kakelugnar sedan 2012.", "tagg": "stad"},
+    {"titel": "Butiker, hotell och restauranger", "text": "På Biblioteksgatan och i Gamla stan går det inte att stänga för en ombyggnad. Vi river nattetid och lämnar lokalen städad och dammfri till öppning klockan tio.", "text2": "Transporter sker med eldrivna lastbilar mellan klockan 22 och 06.", "tagg": "kontor"},
+    {"titel": "Miljösanering i äldre fastigheter", "text": "Sekelskiftesfastigheter har ofta asbest i rörisolering, PCB i fogar från 60-talets renoveringar och blyhaltig färg. Allt saneras innan rivningen börjar.", "text2": "Vår saneringsgrupp arbetar med undertrycksaggregat och dekontamineringssluss i trappuppgången.", "tagg": "rivning"}
+  ],
+  "bolag": [
+    {"namn": "Rivningslaget", "segment": "16 rivare", "rubrik": "Handkraft och små maskiner", "text": "Rivare som arbetar med handverktyg, eldrivna minirobotar och dammsugare med HEPA-filter.", "tagg": "interior"},
+    {"namn": "Antikvarie & Dokumentation", "segment": "Sofie Adler och 2 dokumentatörer", "rubrik": "Det som ska sparas", "text": "Inventerar kulturvärden, dokumenterar före och efter och numrerar varje demonterad detalj.", "tagg": "stad"},
+    {"namn": "Sanering", "segment": "6 sanerare", "rubrik": "Asbest, PCB och bly", "text": "Sanerar innan rivningslaget börjar, med eget tillstånd och slutna transporter.", "tagg": "rivning"},
+    {"namn": "Nattlaget", "segment": "4 rivare", "rubrik": "Medan staden sover", "text": "Arbetar i butiker, hotell och restauranger mellan 22 och 06.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Hotellet vid Nybrokajen", "text": "48 rum rivna ned till stomme medan receptionen och baren höll öppet hela vintern.", "tagg": "interior"},
+    {"rubrik": "Kakelugn nummer 64", "text": "En vit rokokougn från 1780-talet i Gamla stan nedplockad i 211 numrerade delar.", "tagg": "stad"},
+    {"rubrik": "Eldrivna transporter", "text": "Våra två nya ellastbilar gör alla nattransporter i innerstaden från och med i höst.", "tagg": "stad"}
+  ],
+  "nyckeltal": [
+    {"varde": "64", "enhet": "", "etikett": "Kakelugnar demonterade och återuppsatta"},
+    {"varde": "0", "enhet": "", "etikett": "Skadade stuckaturtak sedan 1997"},
+    {"varde": "28", "enhet": "", "etikett": "Medarbetare"},
+    {"varde": "1997", "enhet": "", "etikett": "Grundat av Carl Ekelund"}
+  ],
+  "projekt": [
+    {"namn": "Hotellet vid Nybrokajen", "ort": "Stockholm", "typ": "Invändig rivning i drift", "ar": "2026", "text": "48 hotellrum rivna i etapper med receptionen öppen hela tiden.", "tagg": "interior"},
+    {"namn": "Brf Karlavägen 54", "ort": "Stockholm", "typ": "Lägenhetsrivning", "ar": "2025", "text": "En vindsvåning på 240 kvadratmeter, med stuckatur och parkett bevarade i alla rum.", "tagg": "bostad"},
+    {"namn": "Västerlånggatan, kryddboden", "ort": "Stockholm", "typ": "Antikvarisk demontering", "ar": "2025", "text": "Butiksinredning från 1890-talet demonterad, magasinerad och återmonterad efter stambyte.", "tagg": "stad"},
+    {"namn": "Bankkontoret på Birger Jarlsgatan", "ort": "Stockholm", "typ": "Kontorsstrip-out", "ar": "2025", "text": "Valv, kassadiskar och undertak bort – marmorgolvet och mässingsräckena kvar.", "tagg": "kontor"},
+    {"namn": "Villa på Djurgården", "ort": "Stockholm", "typ": "Sanering och rivning", "ar": "2024", "text": "Asbestisolerade rör och blyfärg sanerade i en kulturmärkt villa från 1904.", "tagg": "hem"},
+    {"namn": "Butik på Biblioteksgatan", "ort": "Stockholm", "typ": "Nattrivning", "ar": "2026", "text": "Två butiksplan rivs nattetid inför ombyggnad, med öppet varje dag.", "tagg": "interior", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Besiktning", "text": "Carl och Sofie går igenom fastigheten och markerar vad som ska bort och vad som ska sparas.", "tagg": "stad"},
+    {"titel": "Antikvarisk plan", "text": "Vi dokumenterar kulturvärden och tar fram en skyddsplan för trapphus, hiss och grannytor.", "tagg": "kontor"},
+    {"titel": "Varsam rivning", "text": "Sanering först, demontering sedan och rivning sist – med partikelmätning varje dag.", "tagg": "interior"},
+    {"titel": "Överlämning", "text": "Vi lämnar en dokumentation med foton och en lista över allt som magasinerats.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mätt damm, inte uppskattat",
+    "text": "På varje arbetsplats mäter vi partikelhalten i trapphuset två gånger om dagen och skickar värdena till fastighetsägaren. Ligger värdet över vår gräns stoppar vi arbetet tills orsaken är hittad.",
+    "mal": [["2 ggr", "partikelmätning per dag i trapphuset"], ["100 %", "eldrivna nattransporter från hösten 2026"], ["64", "kakelugnar räddade sedan 2012"]]
+  },
+  "karriar": {"rubrik": "För dig som hellre skruvar än slår", "text": "Vi söker rivare som har tålamod och respekt för gamla hus. Bakgrund som snickare, målare eller möbelrenoverare är ett plus.", "jobb": [["Rivare, varsam rivning", "Stockholm"], ["Byggnadsdokumentatör", "Stockholm"]]},
+  "kultur": "Varje ny rivare får gå en dag med en kakelugnsmakare innan första uppdraget.",
+  "citat": {"text": "Jag såg en kakelugn från 1890 krossas med slägga en morgon på Strandvägen. Samma vecka bestämde jag mig för att starta ett annat sorts rivningsföretag.", "namn": "Carl Ekelund", "roll": "Grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi hade rivning i fyra månader i vår förening och fick inte ett enda klagomål om damm. Partikelvärdena kom varje kväll.", "namn": "Eva-Lena T.", "ort": "Östermalm"},
+    {"text": "Kryddbodens inredning kom tillbaka i exakt samma skick, varje låda numrerad. Det kändes som ett museum som flyttade.", "namn": "Gustaf H.", "ort": "Gamla stan"},
+    {"text": "Dyrare än de två andra anbuden. Men stuckaturen i taket var orörd, och det var hela poängen.", "namn": "Charlotte B.", "ort": "Vasastan"}
+  ],
+  "faq": [
+    ["Varför är ni dyrare än andra rivningsföretag?", "Vi arbetar mer för hand, skyddar mer och mäter mer. I fastigheter med höga kulturvärden brukar det bli billigare totalt, eftersom vi inte orsakar skador som måste åtgärdas efteråt."],
+    ["Hur gör ni med grannarna?", "Vi sätter upp information i trapphuset, anmäler bullriga moment i förväg och har en kontaktperson som grannarna kan ringa direkt."],
+    ["Kan ni spara stuckatur och golv?", "Ja. Stuckaturtak stämpas och skyddas, och parkett täcks med skivor och skyddspapp. Vi har inte skadat ett enda stuckaturtak sedan 1997."],
+    ["Behövs bygglov för rivning i lägenhet?", "Invändig rivning kräver oftast inte bygglov, men bärande väggar och kulturmärkta byggnader kan kräva anmälan eller lov. Sofie hjälper till med underlaget."],
+    ["Arbetar ni på nätter och helger?", "Ja, vårt nattlag arbetar i butiker, hotell och restauranger. I bostadshus arbetar vi bara dagtid."],
+    ["Var förvaras det som demonteras?", "I vårt klimatstyrda lager i Västberga, med försäkring och en numrerad lista över allt som lagras."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierad sakkunnig kulturvärden", "text": "Sofie Adler är certifierad sakkunnig kulturvärden enligt plan- och bygglagen.", "ikon": "pensel"},
+    {"titel": "Asbesttillstånd", "text": "Arbetsmiljöverkets tillstånd för asbestsanering, med medicinska kontroller för alla sanerare.", "ikon": "skold"},
+    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem med mätbara mål för damm och transporter.", "ikon": "lov"},
+    {"titel": "Ansvarsförsäkring 25 Mkr", "text": "Försäkring som täcker skador på fastighet, inredning och magasinerat gods.", "ikon": "las"}
+  ],
+  "kunder": ["Hotel Nybrokajen", "Brf Karlavägen 54", "Fastighets AB Birger Jarl", "Stiftelsen Gamla Stans Hus", "Brf Villagatan 9", "Advokatfirman Lindh & Rehn", "Djurgårdens Villaförvaltning"],
+  "kunder_rubrik": "Fastighetsägare som har anförtrott oss sina hus",
+  "nyheter": [
+    ["2026-10-08", "Eldrivna nattransporter", "Från och med hösten körs allt rivningsmaterial ut ur innerstaden med ellastbil.", "stad"],
+    ["2026-04-22", "Kakelugn nummer 64", "Så plockade vi ned en rokokougn från 1780-talet i 211 numrerade delar.", "stad"],
+    ["2025-12-10", "Hotellet som aldrig stängde", "Fyra månaders rivning vid Nybrokajen med receptionen öppen varje dag.", "interior"]
+  ],
+  "kontakt": {"adress": "Kommendörsgatan 28", "postnr": "114 48", "ort": "Stockholm", "telefon": "070-174 06 09", "epost": "carl@ekelundrivning.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 8–17 · Nattlag efter avtal",
+  "omrade": "Stockholms innerstad, Djurgården, Lidingö och Saltsjöbaden",
+  "fot_cta": "Ska ni bygga om i en fastighet med kulturvärden? Boka en besiktning med Carl och Sofie.",
+  "bild": {"hb": "interior", "panel": "people"},
+  "text": {
+    "hero_knapp": "Så arbetar vi",
+    "vagval_etikett": "Inriktning",
+    "ber_etikett": "I stenstaden just nu",
+    "ber_rubrik": "Fastigheter vi arbetar i",
+    "proj_rubrik": "Rivet, demonterat och bevarat",
+    "process_etikett": "Från besiktning till överlämning",
+    "process_rubrik": "Antikvarisk plan före första skruven",
+    "hb_etikett": "Damm och grannar",
+    "omdomen_rubrik": "Styrelser och fastighetsägare om oss",
+    "faq_rubrik": "Det vi brukar få förklara",
+    "certifikat_rubrik": "Sakkunniga, certifierade och försäkrade",
+    "boka_rubrik": "Boka en besiktning",
+    "boka_text": "Berätta om fastigheten och vad som ska byggas om. Carl eller Sofie återkommer inom en arbetsdag.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Fastighet och adress"],
+    "panel_etikett": "Bli en av oss"
+  }
+}

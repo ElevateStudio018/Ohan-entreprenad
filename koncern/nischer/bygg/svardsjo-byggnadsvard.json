@@ -57,7 +57,7 @@
     {"namn": "Svärdsjö kyrka", "ort": "Svärdsjö", "typ": "Interiörrenovering", "ar": "2023", "text": "Bänkinredning, läktare och väggmålningar under antikvarisk kontroll.", "tagg": "interior"}
   ],
   "process": [
-    {"titel": "Besiktning i par", "text": "Antikvarie och hantverkare går igenom huset tillsammans och tar prover på puts och färg.", "tagg": "sok"},
+    {"titel": "Besiktning i par", "text": "Antikvarie och hantverkare går igenom huset tillsammans och tar prover på puts och färg.", "tagg": "people"},
     {"titel": "Åtgärdsprogram", "text": "Vi skriver vad som bör göras, i vilken ordning och med vilka material – och söker tillstånd.", "tagg": "kontor"},
     {"titel": "Hantverket", "text": "Arbetet utförs med traditionella verktyg där det spelar roll och med maskiner där det inte syns.", "tagg": "tra"},
     {"titel": "Antikvarisk rapport", "text": "Allt dokumenteras med foto och text, och rapporten arkiveras hos länsstyrelsen.", "tagg": "kontor"}
@@ -69,7 +69,7 @@
   },
   "karriar": {
     "rubrik": "Bli hantverkare på riktigt",
-    "text": "Vi tar emot en lärling om året från hantverksutbildningen på Mora folkhögskola eller Dacapo i Mariestad. Du lär dig yxa, kalk och linolja av människor som har gjort det i 30 år.",
+    "text": "Vi tar emot en lärling om året från någon av landets hantverksutbildningar i byggnadsvård. Du lär dig yxa, kalk och linolja av människor som har gjort det i 30 år.",
     "jobb": [["Timmerman", "Svärdsjö"], ["Byggnadsmålare, traditionella färger", "Falun"]]
   },
   "kultur": "Fredagar äter vi gemensam lunch i snickeriet, och varje höst åker hela företaget på studieresa till en restaureringsplats.",
@@ -89,8 +89,8 @@
     ["När på året kan ni arbeta?", "Timmer och tak gör vi maj–oktober. Fönster, dörrar och interiörer renoveras i snickeriet hela vintern."]
   ],
   "certifikat": [
-    {"titel": "Certifierad antikvarie (KUL)", "text": "Våra antikvarier är certifierade sakkunniga enligt kulturmiljölagen.", "ikon": "dokument"},
-    {"titel": "Hantverkslaget", "text": "Gesällbrev i timmermanshantverk och byggnadsmåleri.", "ikon": "stjarna"},
+    {"titel": "Certifierad sakkunnig KUL", "text": "Våra antikvarier är certifierade sakkunniga enligt kulturmiljölagen.", "ikon": "dokument"},
+    {"titel": "Gesällbrev", "text": "Fyra av våra hantverkare har gesällbrev i timmermanshantverk eller byggnadsmåleri.", "ikon": "stjarna"},
     {"titel": "ID06", "text": "Personalliggare och legitimation på alla arbetsplatser.", "ikon": "las"},
     {"titel": "Byggföretagen", "text": "Medlemmar, med kollektivavtal och ansvarsförsäkring.", "ikon": "skold"}
   ],

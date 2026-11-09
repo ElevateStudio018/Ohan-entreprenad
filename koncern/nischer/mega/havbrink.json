@@ -1,0 +1,146 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Havbrink Energy AB",
+  "kortnamn": "Havbrink",
+  "slug": "havbrink",
+  "typ": "Havsvind och vätgas från Göteborg",
+  "tagline": "Energi från havet",
+  "slogan": "Havbrink utvecklar, bygger och driver havsbaserad vindkraft och vätgasproduktion i Nordsjön, Kattegatt och Östersjön.",
+  "hero_rubrik": "Elen som blåser in från Kattegatt",
+  "hero_text": "Nio havsvindparker i drift, sex under byggnad och 5 300 medarbetare. Sedan 2004 har vi gått från en park utanför Falkenberg till 6,8 GW till havs.",
+  "intro_rubrik": "Från en park till nio på 22 år",
+  "om": [
+    "Havbrink bildades 2004 när det kommunala Västkustens Kraft gick samman med den danska havsvindsutvecklaren Brinkholm Energi. Den första parken, Kattegatt Syd utanför Falkenberg, hade 24 turbiner på 2,3 MW – dagens turbiner är sex gånger så stora.",
+    "Med huvudkontor på Lindholmen i Göteborg omsätter vi 24 miljarder kronor och har verksamhet i Sverige, Danmark, Norge, Tyskland, Polen, Nederländerna och Storbritannien. Sedan 2021 bygger vi också vätgasanläggningar som tar emot el direkt från våra parker."
+  ],
+  "vagval_rubrik": "Vad söker du?",
+  "tjanster": [
+    {"titel": "Havsbaserad vind", "ikon": "vind", "href": "verksamhet.html", "text": "Bottenfast vindkraft på upp till 60 meters djup."},
+    {"titel": "Flytande vind", "ikon": "bat", "href": "verksamhet.html", "text": "Flytande fundament för djupa vatten i Nordsjön."},
+    {"titel": "Grön vätgas", "ikon": "laddning", "href": "verksamhet.html", "text": "Elektrolys vid kusten för stål, kemi och sjöfart."},
+    {"titel": "Kabel och anslutning", "ikon": "blixt", "href": "verksamhet.html", "text": "Exportkablar, transformatorstationer och landanslutning."},
+    {"titel": "Drift och service", "ikon": "verktyg", "href": "verksamhet.html", "text": "Servicefartyg och tekniker som håller turbinerna igång."},
+    {"titel": "Elavtal (PPA)", "ikon": "dokument", "href": "verksamhet.html", "text": "Långa elavtal med industrin direkt från en namngiven park."},
+    {"titel": "Karriär offshore", "ikon": "folk", "href": "karriar.html", "text": "Vindkraftstekniker, projektledare och elkraftingenjörer."},
+    {"titel": "Aktien HAVB", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och finansiell kalender."}
+  ],
+  "affarsomraden": [
+    {"titel": "Havsvind", "text": "Vi tar parkerna hela vägen från vindmätning och miljöprövning till driftsättning. Upphandlingen av turbiner, fundament och installation görs i egen regi.", "text2": "6,8 GW i drift och 4,2 GW under byggnad.", "tagg": "el"},
+    {"titel": "Vätgas", "text": "Elektrolysörer vid kusten omvandlar el från parkerna till vätgas för stålverk, raffinaderier och fartygsbränsle. Den första anläggningen i Stenungsund har 200 MW.", "text2": "Målet är 2 GW elektrolyskapacitet till 2032.", "tagg": "industri"},
+    {"titel": "Nät och kabel", "text": "Exportkablar och transformatorstationer till havs ägs och driftas av ett eget bolag. Det gör att vi kan ansluta nya parker utan att vänta på nätägaren.", "text2": "1 600 kilometer sjökabel i drift.", "tagg": "infra"},
+    {"titel": "Drift och underhåll", "text": "Elva servicehamnar och en flotta på 22 fartyg håller tillgängligheten över 97 procent. Teknikerna arbetar två veckor till havs och har två veckor ledigt.", "text2": "Drift och service står för 31 procent av intäkterna och är mycket stabila.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Havbrink Offshore Wind AB", "segment": "Utveckling och bygg", "rubrik": "Nio parker, sex till på väg", "text": "Utvecklar och bygger havsvindparker i sju länder från kontoren i Göteborg och Esbjerg.", "tagg": "el"},
+    {"namn": "Havbrink Hydrogen AB", "segment": "Vätgas", "rubrik": "El blir molekyler", "text": "Bygger och driver elektrolysanläggningar vid kusten och säljer vätgas på långa avtal.", "tagg": "industri"},
+    {"namn": "Havbrink Grid AS", "segment": "Nät och kabel", "rubrik": "1 600 km sjökabel", "text": "Äger exportkablar och transformatorstationer till havs i Norge, Danmark och Sverige.", "tagg": "infra"},
+    {"namn": "Havbrink Operations A/S", "segment": "Drift och service", "rubrik": "22 fartyg, 11 hamnar", "text": "Servar egna och andras turbiner med tekniker och fartyg från Esbjerg till Rügen.", "tagg": "anlaggning"}
+  ],
+  "lokala_bolag": ["Havbrink Offshore Wind", "Havbrink Hydrogen", "Havbrink Grid AS", "Havbrink Operations A/S", "Havbrink Wind Deutschland GmbH", "Havbrink Polska Sp. z o.o.", "Havbrink Offshore UK Ltd", "Havbrink Nederland B.V.", "Kattegatt Syd Vind AB", "Brinkholm Energi ApS", "Stenungsund Vätgas AB", "Havbrink Floating AS"],
+  "berattelser": [
+    {"rubrik": "Första vätgasen i Stenungsund", "text": "Elektrolysören på 200 MW startade i september och levererar vätgas till kemiindustrin via en tre kilometer lång ledning.", "tagg": "industri"},
+    {"rubrik": "Flytande park utanför Bergen", "text": "Elva turbiner på flytande betongfundament har förankrats på 240 meters djup.", "tagg": "el"},
+    {"rubrik": "Ny servicehamn i Grenå", "text": "Hamnen blir bas för 140 tekniker och fyra nya servicefartyg för parkerna i Kattegatt.", "tagg": "anlaggning"}
+  ],
+  "nyckeltal": [
+    {"varde": "6,8", "enhet": "GW", "etikett": "Havsvind i drift", "trend": [2.1, 2.6, 3.4, 4.0, 4.9, 5.7, 6.8], "trend_text": "Installerad effekt 2019–2025, GW"},
+    {"varde": "24", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [9, 11, 15, 22, 19, 21, 24], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "97,4", "enhet": "%", "etikett": "Teknisk tillgänglighet"},
+    {"varde": "5 300", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "Kattegatt Nord", "ort": "Varberg", "typ": "Havsvind", "ar": "2028", "text": "64 turbiner på 15 MW, 22 kilometer från kusten.", "tagg": "el"},
+    {"namn": "Stenungsund Vätgas", "ort": "Stenungsund", "typ": "Vätgas", "ar": "2026", "text": "Elektrolys på 200 MW med vätgasledning till två kemiföretag.", "tagg": "industri"},
+    {"namn": "Utsira Flytande", "ort": "Bergen", "typ": "Flytande vind", "ar": "2026", "text": "Elva turbiner på flytande fundament på 240 meters djup.", "tagg": "el"},
+    {"namn": "Ławica Wschodnia", "ort": "Łeba", "typ": "Havsvind", "ar": "2027", "text": "1,2 GW i polska Östersjön tillsammans med en polsk partner.", "tagg": "el"},
+    {"namn": "Exportkabel Anholt–Grenå", "ort": "Grenå", "typ": "Sjökabel", "ar": "2024", "text": "Två 220 kV-kablar på 46 kilometer till land.", "tagg": "infra"},
+    {"namn": "Kattegatt Syd, repowering", "ort": "Falkenberg", "typ": "Havsvind", "ar": "2025", "text": "Den första parken från 2007 har fått åtta nya turbiner i stället för 24 gamla.", "tagg": "el"}
+  ],
+  "process": [
+    {"titel": "Vind och havsbotten", "text": "Flytande lidarbojar mäter vinden i två år medan geofysiska fartyg kartlägger botten.", "tagg": "natur"},
+    {"titel": "Miljöprövning", "text": "Fåglar, tumlare och fiske utreds i samråd med länsstyrelser, fiskare och forskare innan ansökan.", "tagg": "natur"},
+    {"titel": "Installation till havs", "text": "Fundament, kablar och turbiner installeras under sommarhalvåret med upphandlade installationsfartyg.", "tagg": "el"},
+    {"titel": "25 år i drift", "text": "Egna tekniker och servicefartyg tar över parken från dag ett och följer varje turbin från kontrollrummet i Göteborg.", "tagg": "anlaggning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Parker som ger mer än de tar",
+    "text": "Fundamenten blir konstgjorda rev där torsk och hummer etablerar sig, och vi följer upp det med dykinventeringar vart tredje år. Under pålning används bubbelridåer som sänker undervattensbullret med 15 decibel för att skydda tumlare. Uttjänta turbinblad återvinns eller blir broar för cykelvägar.",
+    "mal": [["100 %", "återvinning av turbinblad från 2027"], ["15 GW", "havsvind i drift 2032"], ["–15 dB", "undervattensbuller vid all pålning"]]
+  },
+  "karriar": {
+    "rubrik": "Två veckor till havs, två veckor hemma",
+    "text": "Våra vindkraftstekniker arbetar i rotation från servicefartyg och hotellplattformar. Vi bekostar GWO-certifiering, offshoreläkarintyg och vidareutbildning till högspänningsbehörighet.",
+    "jobb": [["Vindkraftstekniker offshore", "Grenå"], ["Elkraftingenjör HVDC", "Göteborg"], ["Projektchef vätgas", "Stenungsund"], ["Marinkoordinator", "Esbjerg"]]
+  },
+  "kultur": "Hälften av våra medarbetare har jobbat här i mindre än fem år – här får du ansvar snabbt i ett bolag som fortfarande växer.",
+  "citat": {"text": "När vi byggde den första parken skrattade folk åt idén om el från havet. I dag är det vår snabbast växande affär – och vi har bara byggt en bråkdel av det som går.", "namn": "Kristoffer Brinkholm", "roll": "VD och koncernchef", "tagg": "el"},
+  "omdomen": [
+    {"text": "Vi har tecknat ett elavtal på 15 år från Kattegatt Nord. Det är det som gör vår fossilfria stålproduktion möjlig att finansiera.", "namn": "Andreas T.", "ort": "Luleå"},
+    {"text": "Fiskarna i Varberg fick vara med från första samrådet. Kabeldragningen flyttades så att trålområdet blev kvar.", "namn": "Bengt O.", "ort": "Varberg"},
+    {"text": "Vätgasen kommer via ledning i stället för lastbil. Vi har kapat 60 000 ton koldioxid om året.", "namn": "Eva-Lotta G.", "ort": "Stenungsund"}
+  ],
+  "faq": [
+    ["Hur långt från land ligger parkerna?", "Mellan 10 och 80 kilometer. Svenska parker placeras normalt så långt ut att de knappt syns från stranden."],
+    ["Vad händer med parkerna efter 25 år?", "Antingen förnyas de med större turbiner eller monteras ned. Avvecklingen är finansierad genom en fond som byggs upp under drifttiden."],
+    ["Hur påverkas fisket?", "Vi samråder med yrkesfiskare innan placering och betalar ersättning för förlorade fiskeområden. Inom flera parker är passivt fiske tillåtet."],
+    ["Varför satsar ni på vätgas?", "När det blåser mycket och priset är lågt är det lönsammare att producera vätgas än att sälja el. Det jämnar ut våra intäkter."],
+    ["Vem äger Havbrink?", "Aktien är noterad på Nasdaq Stockholm Large Cap sedan 2015. Största ägare är Västkustens Kraftstiftelse med 21 procent och en dansk pensionsfond med 14 procent."],
+    ["Behöver jag sjöerfarenhet för att bli tekniker?", "Nej. Du behöver elektriker- eller mekanikerbakgrund. GWO-kurserna och sjösäkerhetsutbildningen står vi för."]
+  ],
+  "nyheter": [
+    ["2026-10-28", "Delårsrapport januari–september 2026", "Produktionen ökade med 21 procent efter att Utsira Flytande och Kattegatt Syd tagits i drift.", "el"],
+    ["2026-09-15", "Vätgas från Stenungsund i drift", "Första leveransen gick till kemiklustret den 12 september.", "industri"],
+    ["2026-07-02", "Havbrink tecknar elavtal med stålindustrin", "15-årigt avtal om 4 TWh per år från Kattegatt Nord.", "industri"],
+    ["2026-03-04", "Ny servicehamn i Grenå", "Investeringen på 600 miljoner danska kronor skapar 140 jobb.", "anlaggning"]
+  ],
+  "investerare": {
+    "aktie": "HAVB",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "88,70",
+    "forandring": "+3,4 %",
+    "rapporter": [["Q3 2026 – delårsrapport", "2026-10-28"], ["Q2 2026 – delårsrapport", "2026-07-22"], ["Q1 2026 – delårsrapport", "2026-05-06"], ["Årsredovisning 2025", "2026-03-25"]],
+    "kalender": [["Q4 och helår 2026", "2027-02-17"], ["Capital Markets Day, Esbjerg", "2027-03-23"], ["Årsstämma, Göteborg", "2027-05-12"]]
+  },
+  "kontor_rubrik": "Från Nordsjön till Östersjön",
+  "kontor_text": "Kontoren ligger i hamnstäderna nära parkerna, där fartygen och teknikerna utgår.",
+  "kontor_lista": [
+    ["Göteborg – huvudkontor", "Lindholmspiren 7. Koncernledning, kontrollrum och Havbrink Hydrogen."],
+    ["Varberg", "Servicehamn för parkerna i södra Kattegatt."],
+    ["Esbjerg", "Havbrink Operations A/S och projektkontor för Nordsjön."],
+    ["Grenå", "Ny servicehamn för parkerna kring Anholt."],
+    ["Bergen", "Havbrink Grid AS och Havbrink Floating."],
+    ["Hamburg", "Havbrink Wind Deutschland, utveckling i tyska Nordsjön och Östersjön."],
+    ["Gdańsk", "Havbrink Polska och projektkontor för Ławica Wschodnia."],
+    ["Aberdeen", "Havbrink Offshore UK, flytande vind i Skottland."]
+  ],
+  "tidslinje_rubrik": "Ung koncern, gammalt hav",
+  "tidslinje": [
+    ["2004", "Västkustens Kraft och danska Brinkholm Energi går samman till Havbrink."],
+    ["2007", "Kattegatt Syd, Sveriges första kommersiella havsvindpark, tas i drift."],
+    ["2013", "Första parken i tyska Nordsjön."],
+    ["2015", "Noteras på Nasdaq Stockholm."],
+    ["2019", "Havbrink Grid bildas och tar över alla exportkablar."],
+    ["2021", "Beslut om första vätgasanläggningen i Stenungsund."],
+    ["2026", "Första flytande parken i drift utanför Bergen."]
+  ],
+  "kontakt": {"adress": "Lindholmspiren 7", "postnr": "417 56", "ort": "Göteborg", "telefon": "070-174 06 31", "epost": "info@havbrink.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 8–17, kontrollrum dygnet runt",
+  "omrade": "Nordsjön, Kattegatt och Östersjön",
+  "fot_cta": "Behöver er industri fossilfri el eller vätgas i stor skala? Prata med vårt PPA-team.",
+  "bild": {"panel": "el", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Senaste från havet",
+    "proj_rubrik": "Parker i drift och under byggnad",
+    "process_rubrik": "Så byggs en park till havs",
+    "process_etikett": "Från vindmätning till drift",
+    "hb_etikett": "Liv under ytan",
+    "omdomen_rubrik": "Kunder och kustgrannar",
+    "faq_rubrik": "Frågor om havsvind och vätgas",
+    "bolag_rubrik": "Vind, vätgas, nät och drift",
+    "vagg_rubrik": "{n} bolag i sju länder",
+    "panel_etikett": "Jobba offshore",
+    "hero_knapp": "Våra parker",
+    "ny_rubrik": "Senaste nyheterna från Havbrink"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "profil": "nisch",
+  "nisch": "maleri",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Snabbmålarna Öresund AB",
+  "kortnamn": "Snabbmålarna",
+  "slug": "snabbmalarna",
+  "typ": "Snabbmåleri och skadeåterställning i Malmö",
+  "tagline": "Måleri med klocka",
+  "slogan": "Tomma lägenheter, vattenskador och visningar som inte kan vänta – vi målar inom 48 timmar till fast pris.",
+  "hero_rubrik": "Målat och klart på 48 timmar",
+  "hero_text": "22 målare i sju servicebilar i Malmö, Lund och Trelleborg. Ring före klockan tio, så har du en målare på plats nästa arbetsdag.",
+  "intro_rubrik": "Tid är det vi säljer",
+  "om": [
+    "Snabbmålarna startades 2016 av Amra Hadžić och Filip Nyström, som båda hade arbetat som målare åt hyresvärdar i Malmö och sett lägenheter stå tomma i veckor i väntan på en målare. Idén var enkel: fasta priser per rum, ett eget bokningssystem och bilar som alltid är lastade.",
+    "Vi är i dag 22 målare och tre planerare på Lodgatan i Malmö. Ungefär hälften av uppdragen är lägenheter mellan två hyresgäster, resten återställning efter vattenskador åt försäkringsbolag och målning inför visning åt mäklare och privatpersoner."
+  ],
+  "vagval_rubrik": "Hur bråttom är det?",
+  "tjanster": [
+    {"titel": "Lägenhet mellan hyresgäster", "ikon": "nyckel", "href": "verksamhet.html", "text": "En tvåa spacklad och målad på två dagar, med nyckelhantering via er förvaltare."},
+    {"titel": "Vattenskada", "ikon": "vatten", "href": "verksamhet.html", "text": "Fuktmätning, spärrfärg och målning när avfuktningen är klar."},
+    {"titel": "Inför visning", "ikon": "stjarna", "href": "verksamhet.html", "text": "Ljusa väggar och fräscha snickerier tre dagar före fotograferingen."},
+    {"titel": "Ett rum, fast pris", "ikon": "pensel", "href": "verksamhet.html", "text": "Väggar och tak i ett rum upp till 15 kvadratmeter för ett fast pris."},
+    {"titel": "Trapphus på helg", "ikon": "kalender", "href": "verksamhet.html", "text": "Vi målar trapphus fredag kväll till söndag när färre boende rör sig."},
+    {"titel": "Klotter och skador", "ikon": "skold", "href": "verksamhet.html", "text": "Klotter i entréer och trapphus täcks inom ett dygn."},
+    {"titel": "Fasta priser", "ikon": "dokument", "href": "priser.html", "text": "Tre paket utan offertväntan."},
+    {"titel": "Ring före tio", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Då kan vi komma redan nästa arbetsdag."}
+  ],
+  "affarsomraden": [
+    {"titel": "Lägenheter för hyresvärdar", "text": "Varje tomdag kostar hyresvärden pengar. Vi får besiktningsprotokollet digitalt, hämtar nyckeln och lämnar tillbaka den med foton på varje rum inom två arbetsdagar för en tvåa.", "text2": "Ramavtal med fast pris per rum och typ av åtgärd.", "tagg": "bostad"},
+    {"titel": "Återställning efter skada", "text": "När ett tak har fått en läcka eller ett badrum har läckt in i hallen kommer vi när avfuktningen är klar. Vi spärrar fläckarna, spacklar och målar så att man inte ser var skadan var.", "text2": "Vi fakturerar försäkringsbolaget direkt och hanterar självrisken med kunden.", "tagg": "interior"},
+    {"titel": "Visningsklart", "text": "Mäklare bokar oss tre till fem dagar före fotografering. Vi målar om väggar i bruten vit, bättrar lister och dörrkarmar och byter slitna eluttagslock.", "text2": "Paketet kostar från 14 900 kronor för en trea, före ROT.", "tagg": "hem"},
+    {"titel": "Trapphus och allmänna ytor", "text": "Trapphus, tvättstugor och källargångar målas på helger eller kvällar, så att de boende störs så lite som möjligt. Vi märker ut våt färg med skyltar på svenska, arabiska och engelska.", "text2": "Ett trapphus på fyra våningar tar normalt en helg.", "tagg": "maleri"}
+  ],
+  "bolag": [
+    {"namn": "Lägenhetsteamet", "segment": "10 målare, 4 bilar", "rubrik": "Mellan två hyresgäster", "text": "Arbetar på ramavtal åt hyresvärdar och har egna nycklar till sex förvaltares nyckelskåp.", "tagg": "bostad"},
+    {"namn": "Skadeteamet", "segment": "6 målare, 2 bilar", "rubrik": "Efter vattnet", "text": "Fuktmätare, spärrfärg och ett nära samarbete med tre saneringsföretag i Skåne.", "tagg": "interior"},
+    {"namn": "Visningsklart", "segment": "4 målare, 1 bil", "rubrik": "För mäklare och säljare", "text": "Bokas via mäklarportalen eller direkt, och lämnar alltid före fotografen kommer.", "tagg": "hem"},
+    {"namn": "Planeringen", "segment": "3 planerare", "rubrik": "Bilarna, nycklarna och klockan", "text": "Svarar i telefon 7–18 och lägger ut dagens körningar varje morgon kvart i sju.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "140 lägenheter på ett kvartal", "text": "Första kvartalet med Öresundshems ramavtal. Snittiden per lägenhet blev 1,8 dagar.", "tagg": "bostad"},
+    {"rubrik": "Vattenskada i Limhamn klar på tre dagar", "text": "Hall, kök och sovrum återställda dagen efter att avfuktaren plockats bort.", "tagg": "interior"},
+    {"rubrik": "Ny servicebil i Lund", "text": "Den sjunde bilen gör att vi når Lund och Staffanstorp utan att ta från Malmö.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "48 h", "enhet": "", "etikett": "Till klart för en tvåa"},
+    {"varde": "560", "enhet": "per år", "etikett": "Lägenheter mellan hyresgäster"},
+    {"varde": "7", "enhet": "bilar", "etikett": "Alltid lastade med färg"},
+    {"varde": "96 %", "enhet": "", "etikett": "Klara på utlovad dag 2025"}
+  ],
+  "projekt": [
+    {"namn": "Öresundshem, ramavtal", "ort": "Malmö", "typ": "Lägenheter", "ar": "2026", "text": "Alla tomställda lägenheter i Rosengård och Hermodsdal, i snitt 1,8 dagar per lägenhet.", "tagg": "bostad", "status": "Pågående"},
+    {"namn": "Villa på Linnégatan", "ort": "Limhamn", "typ": "Vattenskada", "ar": "2026", "text": "Tre rum återställda på tre dagar, fakturerat direkt till försäkringsbolaget.", "tagg": "interior"},
+    {"namn": "Brf Kronprinsen 7", "ort": "Malmö, Väster", "typ": "Trapphus på helg", "ar": "2025", "text": "Två trapphus målade under två helger utan att stänga hissen en enda vardag.", "tagg": "maleri"},
+    {"namn": "Eslövs Hyresfastigheter", "ort": "Eslöv", "typ": "Lägenheter", "ar": "2025", "text": "48 lägenheter i ett hus efter stambyte – klart sex dagar före inflyttning.", "tagg": "bostad"},
+    {"namn": "Radhus i Bunkeflostrand", "ort": "Malmö", "typ": "Visningsklart", "ar": "2025", "text": "Hela nedervåningen och trappan målad på två dagar före fotografering.", "tagg": "hem"},
+    {"namn": "Studenthuset Delfinen", "ort": "Lund", "typ": "Allmänna ytor", "ar": "2024", "text": "Korridorer och kök på sex plan målade under julledigheten.", "tagg": "interior"}
+  ],
+  "process": [
+    {"titel": "Ring eller boka", "text": "Beskriv rummen eller skicka besiktningsprotokollet. Du får pris och tid i samma samtal.", "tagg": "kontor"},
+    {"titel": "Nyckel och start", "text": "Vi hämtar nyckeln hos förvaltaren eller kunden och börjar samma morgon.", "tagg": "people"},
+    {"titel": "Målning", "text": "Ett lag på två målare spacklar och målar med snabbtorkande, luktsvaga färger.", "tagg": "interior"},
+    {"titel": "Foton och nyckel tillbaka", "text": "Du får foton av varje rum i sms innan nyckeln lämnas tillbaka.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi mäter oss på klockan",
+    "text": "Varje jobb loggas med utlovad och faktisk klar-tid. Är vi mer än en dag sena på ett fastprisjobb drar vi av 10 procent av fakturan, utan att du behöver fråga.",
+    "mal": [["96 %", "klara på utlovad dag 2025"], ["10 %", "avdrag om vi blir sena"], ["2 h", "svarstid på mejl under kontorstid"]]
+  },
+  "karriar": {
+    "rubrik": "Måla mer, kör mindre",
+    "text": "Planeringen lägger dagens jobb nära varandra, och bilarna fylls på av en lagerperson varje kväll. Du kommer ut och målar – resten sköter vi.",
+    "jobb": [["Målare", "Malmö"], ["Målare", "Lund"], ["Planerare", "Malmö"]]
+  },
+  "kultur": "Fast schema 7–16, egen servicebil efter ett år och bonus när kvartalets klar-i-tid-siffra är över 95 procent.",
+  "citat": {"text": "Hyresvärdar köper inte färg. De köper dagar när lägenheten genererar hyra igen. Det är dem vi säljer.", "namn": "Amra Hadžić", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi har gått från fem till under två tomdagar per lägenhet. Fotona i sms gör att jag inte behöver åka ut och kontrollera.", "namn": "Förvaltare, Öresundshem", "ort": "Malmö"},
+    {"text": "Försäkringsbolaget betalade direkt till dem, och vi fick tillbaka hallen tre dagar efter avfuktningen.", "namn": "Johanna K.", "ort": "Limhamn"},
+    {"text": "Ringde en tisdag, målat torsdag och fredag, fotograf på måndagen. Lägenheten såldes över utgångspris.", "namn": "Mäklare", "ort": "Malmö, Davidshall"}
+  ],
+  "faq": [
+    ["Kommer ni verkligen nästa dag?", "Om du ringer före klockan tio en vardag och jobbet är inom Malmö, Lund eller Trelleborg, ja – i 9 fall av 10. Annars senast inom tre arbetsdagar."],
+    ["Vad ingår i fast pris per rum?", "Täckning, lagning av mindre hål, två strykningar på väggar och en på tak, i valfri standardkulör. Tapetborttagning och snickerier kostar extra."],
+    ["Kan ni måla med folk boende kvar?", "Ja. Vi använder luktsvaga färger och ställer undan möbler i mitten av rummet, så du kan sova där samma kväll."],
+    ["Hanterar ni försäkringsärenden?", "Ja. Vi har avtal med flera försäkringsbolag, fakturerar dem direkt och tar betalt för självrisken av dig."],
+    ["Gäller ROT-avdrag?", "Ja, för privatpersoner som äger sin bostad. Avdraget dras direkt på fakturan. Hyresvärdar och försäkringsjobb omfattas inte."],
+    ["Vilka färger använder ni?", "Helmatta och matta väggfärger med låga emissioner, i en lista med 24 standardkulörer som alltid finns i bilarna. Andra kulörer går bra med en dags framförhållning."],
+    ["Vad händer om ni blir sena?", "Är vi mer än en arbetsdag sena på ett fastprisjobb får du 10 procent avdrag på fakturan."]
+  ],
+  "priser": [
+    {"namn": "Ett rum", "pris": "6 900 kr", "enhet": "upp till 15 m² golv, före ROT", "text": "Väggar och tak i ett rum, med täckning och lagning.", "punkter": ["Två strykningar väggar", "En strykning tak", "Valfri standardkulör", "Klart på en dag"]},
+    {"namn": "Lägenhet, två rum och kök", "pris": "24 900 kr", "enhet": "upp till 65 m², före ROT", "text": "Hela lägenheten, inklusive hall, kök och dörrkarmar.", "punkter": ["Väggar och tak i alla rum", "Dörrkarmar och lister", "Två målare, två dagar", "Foton av varje rum"], "utvald": true},
+    {"namn": "Visningsklart", "pris": "fr. 14 900 kr", "enhet": "för en trea, före ROT", "text": "Det som syns på bild, fräscht på två dagar.", "punkter": ["Väggar i bruten vit", "Bättring av lister och karmar", "Nya eluttagslock", "Klart före fotografen"]}
+  ],
+  "certifikat": [
+    {"titel": "Måleriavtalet", "text": "Alla målare är anställda med kollektivavtal och avtalsenlig lön.", "ikon": "dokument"},
+    {"titel": "MVK-behörighet", "text": "Två målare har behörighet enligt Måleribranschens våtrumskontroll för målning i våtrum.", "ikon": "vatten"},
+    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Täcker skador på inredning och fastighet under arbetet.", "ikon": "skold"},
+    {"titel": "Nyckelhantering", "text": "Nycklar förvaras i kodlåst skåp med logg över varje uttag.", "ikon": "las"}
+  ],
+  "kunder": ["Öresundshem Förvaltning", "Eslövs Hyresfastigheter", "Brf Kronprinsen 7", "Bostads AB Västra Hamnen", "Skånska Skadeservice", "Limhamns Mäkleri", "Studentbostäder Lund"],
+  "nyheter": [
+    ["2026-10-12", "Klar-i-tid för tredje kvartalet: 97 procent", "Bästa kvartalet sedan vi började mäta 2019.", "people"],
+    ["2026-07-03", "Ramavtal med Öresundshem", "Avtalet gäller ett bestånd på 1 200 lägenheter och löper i tre år.", "bostad"],
+    ["2026-02-20", "Sju bilar i trafik", "Den nya bilen utgår från Lund och täcker även Staffanstorp och Lomma.", "kontor"]
+  ],
+  "kontakt": {"adress": "Lodgatan 11", "postnr": "211 24", "ort": "Malmö", "telefon": "070-174 06 41", "epost": "boka@snabbmalarna.se", "orgnr": ""},
+  "oppettider": "Telefon mån–fre 7–18, lör 9–13",
+  "omrade": "Malmö, Lund, Trelleborg, Eslöv och Vellinge",
+  "fot_cta": "Ring före tio – så kan en målare vara hos dig nästa arbetsdag.",
+  "bild": {"panel": "people", "hb": "interior"},
+  "text": {
+    "ber_etikett": "Den här veckan",
+    "ber_rubrik": "Senaste jobben i Skåne",
+    "proj_rubrik": "Snabba jobb, rätt gjorda",
+    "process_rubrik": "Från samtal till nyckel tillbaka",
+    "hb_etikett": "Löften vi mäter",
+    "omdomen_rubrik": "Förvaltare, mäklare och privatpersoner om tempot",
+    "faq_rubrik": "Frågor om tider och fasta priser",
+    "priser_rubrik": "Fasta priser – ingen offertväntan",
+    "priser_not": "Priserna gäller standardkulörer och inkluderar material och moms. ROT-avdrag dras på arbetskostnaden.",
+    "priser_utvald": "Mest bokat",
+    "priser_knapp": "Boka tid",
+    "boka_rubrik": "Ring före tio – vi kan komma i morgon",
+    "boka_text": "Skriv adress, antal rum och när det måste vara klart. Planeringen ringer upp inom två timmar.",
+    "boka_knapp": "Boka målare",
+    "logos_rubrik": "Hyresvärdar, föreningar och försäkringsbolag",
+    "certifikat_rubrik": "Avtal, behörighet och försäkring",
+    "bolag_rubrik": "Fyra team, en planering",
+    "medarbetare": "Målarna"
+  }
+}

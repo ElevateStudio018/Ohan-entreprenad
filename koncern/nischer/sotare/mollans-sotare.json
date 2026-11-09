@@ -1,0 +1,137 @@
+{
+  "profil": "nisch",
+  "nisch": "sotare",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Möllans Sotare AB",
+  "kortnamn": "Möllans Sotare",
+  "slug": "mollans-sotare",
+  "typ": "Imkanalrengöring och industrisotning i Skåne",
+  "tagline": "Vi jobbar natt",
+  "slogan": "Vi rengör imkanaler, fläktar och industriskorstenar i Skåne – på natten, så att köken och fabrikerna kan gå som vanligt på dagen.",
+  "hero_rubrik": "Vi rengör när köket har stängt",
+  "hero_text": "Imkanalrengöring för restauranger, storkök och hotell, och sotning av pannor och skorstenar för industrin. 45 medarbetare, nattarbete mellan 22 och 06.",
+  "intro_rubrik": "Från en restaurangsotare till Skånes nattskift",
+  "om": [
+    "Bosse Nilsson startade firman 1979 i en lokal vid Möllevångstorget, där restaurangerna låg vägg i vägg och fettet i imkanalerna var stadens största brandrisk. Han var den förste i Malmö som erbjöd imkanalrengöring på natten.",
+    "I dag är vi 45 anställda med bas i Agnesfrid och arbetar åt omkring 900 restauranger, 60 storkök och ett tjugotal industrier från Helsingborg till Ystad. Bosses dotter Jenny Nilsson Arvidsson är vd sedan 2014. Namnet har vi behållit – det är så kunderna fortfarande säger."
+  ],
+  "vagval_rubrik": "Vilken verksamhet driver ni?",
+  "tjanster": [
+    {"titel": "Imkanalrengöring", "ikon": "vind", "href": "verksamhet.html", "text": "Rengöring av huv, kanal och fläkt enligt Brandskyddsföreningens riktlinjer."},
+    {"titel": "Storkök", "ikon": "skola", "href": "verksamhet.html", "text": "Skolkök, sjukhuskök och centralkök med schemalagd rengöring på lov och helger."},
+    {"titel": "Fettfilterservice", "ikon": "kugge", "href": "verksamhet.html", "text": "Vi byter och tvättar fettfilter enligt avtal – varannan eller var fjärde vecka."},
+    {"titel": "Industrisotning", "ikon": "fabrik", "href": "verksamhet.html", "text": "Sotning av ångpannor, torkugnar och processkorstenar under planerade stopp."},
+    {"titel": "Höga skorstenar", "ikon": "hjalm", "href": "verksamhet.html", "text": "Inspektion och rengöring med repteknik på skorstenar upp till 60 meter."},
+    {"titel": "Rökgasanalys", "ikon": "graf", "href": "verksamhet.html", "text": "Mätning av förbränning och utsläpp på pannor upp till 5 MW."},
+    {"titel": "Brandspjäll och OVK", "ikon": "skold", "href": "verksamhet.html", "text": "Funktionskontroll av brandspjäll och obligatorisk ventilationskontroll."},
+    {"titel": "Begär nattid", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi återkommer med offert och föreslagen natt inom två arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Restauranger och hotell", "text": "Fett som samlas i imkanalen är bränsle för en brand som sprider sig genom huset. Vi rengör huv, kanal och fläkt hela vägen till taket och dokumenterar med före- och efterbilder.", "text2": "Intervallet styrs av hur mycket ni lagar – en grillrestaurang varannan månad, ett café en gång om året.", "tagg": "ventilation"},
+    {"titel": "Storkök i offentlig sektor", "text": "Skolor, äldreboenden och sjukhus kan inte stänga köket en vardag. Vi planerar rengöringen till lov, helger och nätter, och samordnar med fastighetsägare och kökspersonal.", "text2": "Vi har ramavtal med flera skånska kommuner och regionala fastighetsbolag.", "tagg": "industri"},
+    {"titel": "Industri och processpannor", "text": "Bagerier, kafferosterier och livsmedelsfabriker har torkugnar, rostar och pannor som kräver sotning och rengöring av rökgaskanaler. Vi arbetar under planerade stopp, ofta på helger.", "text2": "Arbetet görs med ID06, egen arbetsmiljöplan och certifikat för heta arbeten.", "tagg": "industri"},
+    {"titel": "Höga skorstenar", "text": "Industriskorstenar på 30–60 meter inspekteras och rengörs av vårt repteknikteam. Vi filmar insidan, mäter godstjocklek på stålskorstenar och lämnar en tillståndsrapport.", "text2": "Det sparar både ställning och tid – en inspektion tar oftast en dag.", "tagg": "skorsten"}
+  ],
+  "bolag": [
+    {"namn": "Imkanal Malmö–Lund", "segment": "Restaurang och hotell", "rubrik": "Nio team, varje natt", "text": "Rengör imkanaler i Malmö, Lund och sydvästra Skåne. Varje team har egen bil med högtryckstvätt och lyft.", "tagg": "ventilation"},
+    {"namn": "Imkanal Nordväst", "segment": "Helsingborg och Landskrona", "rubrik": "Nordvästra Skånes kök", "text": "Åtta medarbetare med bas i Helsingborg som tar restauranger och storkök från Ängelholm till Landskrona.", "tagg": "ventilation"},
+    {"namn": "Industri och skorsten", "segment": "Pannor och höga skorstenar", "rubrik": "Repteknik och rökgasanalys", "text": "Tio tekniker, varav fyra med repteknikcertifikat, som sotar industripannor och inspekterar skorstenar.", "tagg": "industri"},
+    {"namn": "Filterservice", "segment": "Fettfilter och avtal", "rubrik": "Rena filter varannan vecka", "text": "Hämtar, tvättar och byter fettfilter enligt avtal hos omkring 400 restauranger.", "tagg": "maskin"}
+  ],
+  "berattelser": [
+    {"rubrik": "Nytt filtertvätteri i Agnesfrid", "text": "Vår nya tvättlinje tvättar 1 600 fettfilter per dygn med återvunnet vatten och fettavskiljare.", "tagg": "maskin"},
+    {"rubrik": "Kafferosteriets skorsten", "text": "En 42 meter hög stålskorsten i Malmö hamn inspekterades med repteknik på sju timmar.", "tagg": "skorsten"},
+    {"rubrik": "Ramavtal med Lunds storkök", "text": "Vi rengör imkanalerna i 31 skol- och äldreboendekök under sportlov, påsklov och sommarlov.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "900", "enhet": "restauranger", "etikett": "Med rengöringsavtal"},
+    {"varde": "22–06", "enhet": "", "etikett": "Våra vanligaste arbetstider"},
+    {"varde": "60 m", "enhet": "", "etikett": "Högsta skorstenen vi inspekterat"},
+    {"varde": "1979", "enhet": "", "etikett": "Startade på Möllevången"}
+  ],
+  "projekt": [
+    {"namn": "Hotell vid Stortorget", "ort": "Malmö", "typ": "Imkanalrengöring", "ar": "2026", "text": "Tre kök och 64 meter imkanal rengjorda under två nätter utan att frukosten påverkades.", "tagg": "ventilation"},
+    {"namn": "Lunds kommuns storkök", "ort": "Lund", "typ": "Ramavtal", "ar": "2026", "text": "31 kök i skolor och äldreboenden, rengjorda på loven enligt ett rullande schema.", "tagg": "industri", "status": "Pågående"},
+    {"namn": "Kafferosteri i Malmö hamn", "ort": "Malmö", "typ": "Skorstensinspektion", "ar": "2025", "text": "Repteknisk inspektion och godstjockleksmätning av en stålskorsten på 42 meter.", "tagg": "skorsten"},
+    {"namn": "Bageri i Staffanstorp", "ort": "Staffanstorp", "typ": "Industrisotning", "ar": "2025", "text": "Sotning av tre tunnelugnar och rökgaskanaler under julstoppet.", "tagg": "industri"},
+    {"namn": "Restaurangkvarteret Möllan", "ort": "Malmö", "typ": "Imkanalrengöring", "ar": "2025", "text": "22 restauranger runt torget med gemensam planering och samma natt varje kvartal.", "tagg": "ventilation"},
+    {"namn": "Sockerbruk i Söderslätt", "ort": "Trelleborg", "typ": "Rökgasanalys", "ar": "2024", "text": "Mätning och sotning av ångpanna på 4,5 MW inför betkampanjen.", "tagg": "industri"}
+  ],
+  "process": [
+    {"titel": "Platsbesök", "text": "Vi går igenom kök, kanaldragning och fläkt dagtid och mäter hur mycket fett som har samlats.", "tagg": "ventilation"},
+    {"titel": "Intervall och avtal", "text": "Ni får ett förslag på intervall utifrån matlagning och försäkringsbolagets krav – och ett fast pris per tillfälle.", "tagg": "kontor"},
+    {"titel": "Nattarbete", "text": "Vi kommer efter stängning, täcker köksutrustningen och rengör från huv till takfläkt.", "tagg": "industri"},
+    {"titel": "Rengöringsintyg", "text": "Före- och efterbilder och ett intyg som ni visar för försäkringsbolaget och räddningstjänsten.", "tagg": "brand"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fettet ska inte hamna i avloppet",
+    "text": "Allt fett vi skrapar ur imkanalerna samlas i slutna kärl och går till biogasproduktion i Skåne. Filtertvätteriet återanvänder 80 procent av vattnet, och tvättvattnet passerar fettavskiljare innan det släpps ut.",
+    "mal": [["38 ton", "fett till biogas 2025"], ["80 %", "återanvänt tvättvatten"], ["0", "bränder i kanaler vi rengjort sedan 2014"]]
+  },
+  "karriar": {
+    "rubrik": "För dig som trivs när staden sover",
+    "text": "De flesta av oss arbetar fyra nätter i veckan och är lediga tre dagar. Nattillägget är 40 procent, och vi betalar körkort C och repteknikutbildning för den som vill vidare.",
+    "jobb": [["Imkanaltekniker natt", "Malmö"], ["Imkanaltekniker natt", "Helsingborg"], ["Repteknikcertifierad skorstenstekniker", "Malmö"], ["Servicetekniker fettfilter", "Malmö"]]
+  },
+  "kultur": "Klockan 05.30 samlas nattlagen i Agnesfrid för frukost innan de åker hem – det är där Bosse fortfarande dyker upp ibland.",
+  "citat": {"text": "Pappa sa att ett kök som brinner gör det för att någon tyckte att fettet kunde vänta en månad till. Vi tycker inte det.", "namn": "Jenny Nilsson Arvidsson", "roll": "Vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi öppnar klockan elva och de är klara klockan fem. Köket är renare än när vi stängde.", "namn": "Ahmet Y., krögare", "ort": "Möllevången"},
+    {"text": "Försäkringsbolaget kräver intyg varje halvår. Med Möllans har vi aldrig behövt jaga ett papper.", "namn": "Louise H., hotellchef", "ort": "Malmö"},
+    {"text": "De inspekterade vår skorsten på en dag i stället för att vi skulle bygga ställning i tre veckor.", "namn": "Thomas P., underhållschef", "ort": "Malmö hamn"}
+  ],
+  "faq": [
+    ["Hur ofta ska imkanalen rengöras?", "Det beror på matlagningen. Grill och fritös med hög belastning: var tredje månad eller oftare. Vanligt restaurangkök: två gånger om året. Café: en gång om året."],
+    ["Kräver försäkringsbolaget intyg?", "De flesta gör det, och räddningstjänsten frågar efter det vid tillsyn. Ni får ett intyg med bilder efter varje rengöring."],
+    ["Måste vi stänga köket?", "Nej. Vi arbetar efter stängning och är klara innan ni öppnar."],
+    ["Vad kostar en rengöring?", "Ett mindre restaurangkök med en huv och tio meter kanal kostar från 6 900 kronor. Större kök prissätts efter platsbesök."],
+    ["Gör ni vanlig villasotning?", "Nej, villasotning sköts av kommunens avtalssotare. Vi arbetar med kök, ventilation och industri."],
+    ["Arbetar ni utanför Skåne?", "Industrisotning och skorstensinspektion gör vi i hela södra Sverige och på Själland. Imkanalrengöring i Skåne."],
+    ["Har ni repteknikcertifiering?", "Ja, fyra tekniker har certifikat enligt IRATA och arbetar alltid minst två och två."]
+  ],
+  "prislista": [
+    ["Imkanal, café eller mindre kök", "fr. 6 900 kr"],
+    ["Imkanal, restaurang med grill", "fr. 11 400 kr"],
+    ["Imkanal, storkök", "efter platsbesök"],
+    ["Fettfilterbyte, var fjärde vecka", "fr. 890 kr/mån"],
+    ["Funktionskontroll brandspjäll", "fr. 450 kr/st"],
+    ["Rökgasanalys, panna upp till 1 MW", "fr. 4 200 kr"],
+    ["Inspektion av skorsten med repteknik", "fr. 18 500 kr/dag"]
+  ],
+  "certifikat": [
+    {"titel": "Imkanalrengöring enligt SBF", "text": "Rengöring och dokumentation enligt Brandskyddsföreningens riktlinjer för imkanaler.", "ikon": "eld"},
+    {"titel": "ISO 9001 och ISO 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2016.", "ikon": "skold"},
+    {"titel": "Certifierad funktionskontrollant", "text": "Två funktionskontrollanter med behörighet K för obligatorisk ventilationskontroll.", "ikon": "dokument"},
+    {"titel": "Repteknik enligt IRATA", "text": "Fyra tekniker med IRATA-certifikat för arbete på höga skorstenar.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Lunds kommun, kostenheten", "Hotell Stortorget Malmö", "Restaurangkvarteret Möllan", "Söderslätts Sockerbruk", "Staffanstorps Bageri", "Malmö Hamnrosteri", "Regionfastigheter Skåne Syd", "Helsingborgs Saluhall"],
+  "nyheter": [
+    ["2026-09-24", "Julbordssäsongen närmar sig", "Boka imkanalrengöringen i oktober – i december är nätterna fullbokade.", "ventilation"],
+    ["2026-06-10", "Filtertvätteriet i drift", "1 600 fettfilter per dygn och 80 procent återanvänt vatten.", "maskin"],
+    ["2026-02-17", "38 ton fett blev biogas", "Så mycket fett skrapade vi ur Skånes imkanaler förra året.", "industri"]
+  ],
+  "kontakt": {"adress": "Agnesfridsvägen 120", "postnr": "213 75", "ort": "Malmö", "telefon": "070-174 06 63", "epost": "natt@mollanssotare.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 8–16 · Utförande natt 22–06",
+  "omrade": "Hela Skåne, industrisotning i södra Sverige",
+  "fot_cta": "Driver du ett kök? Vi kommer efter stängning och är klara innan du öppnar.",
+  "bild": {"panel": "ventilation", "hb": "industri"},
+  "text": {
+    "kontakt_knapp": "Begär offert",
+    "vagval_etikett": "Verksamheter",
+    "ber_etikett": "Från nattskiftet",
+    "ber_rubrik": "Det här gjorde vi medan ni sov",
+    "proj_rubrik": "Kök och industrier vi har rengjort",
+    "process_rubrik": "Så blir köket rent på en natt",
+    "bolag_rubrik": "Fyra enheter i Skåne",
+    "hb_etikett": "Miljö och brandskydd",
+    "omdomen_rubrik": "Krögare och underhållschefer om oss",
+    "faq_rubrik": "Om imkanaler och intyg",
+    "boka_rubrik": "Begär en natt",
+    "boka_text": "Beskriv köket eller anläggningen, antal huvar och ungefärlig kanallängd. Vi återkommer med offert inom två arbetsdagar.",
+    "boka_falt": ["Namn och verksamhet", "Telefon", "E-post", "Kök, huvar och kanaler"],
+    "certifikat_rubrik": "Riktlinjer, certifikat och behörigheter",
+    "logos_rubrik": "Några av våra avtalskunder",
+    "priser_not": "Priser exklusive moms.",
+    "medarbetare": "Nattlagen"
+  }
+}

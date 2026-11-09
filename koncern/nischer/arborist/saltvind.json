@@ -16,109 +16,445 @@
   ],
   "vagval_rubrik": "Akut eller planerat?",
   "tjanster": [
-    {"titel": "Stormjour dygnet runt", "ikon": "vind", "href": "verksamhet.html", "text": "Två jourlag rycker ut när SMHI varnar för storm i Halland."},
-    {"titel": "Träd över tak och väg", "ikon": "kran", "href": "verksamhet.html", "text": "Vi lyfter bort nedfallna träd med kranbil utan att skada takstolarna mer."},
-    {"titel": "Förebyggande toppning", "ikon": "upp", "href": "verksamhet.html", "text": "Kronreduktion av höga tallar och popplar som tar mycket vind."},
-    {"titel": "Trädfällning", "ikon": "trad", "href": "verksamhet.html", "text": "Hel- och sektionsfällning på villatomter och i sommarstugeområden."},
-    {"titel": "Stubbfräsning", "ikon": "kugge", "href": "verksamhet.html", "text": "Fräsning till 30 cm under marknivå, även av rotvältor efter storm."},
-    {"titel": "Försäkringsärenden", "ikon": "dokument", "href": "faq.html", "text": "Vi fotodokumenterar och skickar underlag direkt till ditt försäkringsbolag."},
-    {"titel": "Fast pris och RUT", "ikon": "portfolj", "href": "priser.html", "text": "Tre paket för planerade jobb och tydlig jourtaxa."},
-    {"titel": "Ring jouren", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Samma nummer dygnet runt under stormvarning."}
+    {
+      "titel": "Stormjour dygnet runt",
+      "ikon": "vind",
+      "href": "verksamhet.html",
+      "text": "Två jourlag rycker ut när SMHI varnar för storm i Halland."
+    },
+    {
+      "titel": "Träd över tak och väg",
+      "ikon": "kran",
+      "href": "verksamhet.html",
+      "text": "Vi lyfter bort nedfallna träd med kranbil utan att skada takstolarna mer."
+    },
+    {
+      "titel": "Förebyggande toppning",
+      "ikon": "upp",
+      "href": "verksamhet.html",
+      "text": "Kronreduktion av höga tallar och popplar som tar mycket vind."
+    },
+    {
+      "titel": "Trädfällning",
+      "ikon": "trad",
+      "href": "verksamhet.html",
+      "text": "Hel- och sektionsfällning på villatomter och i sommarstugeområden."
+    },
+    {
+      "titel": "Stubbfräsning",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Fräsning till 30 cm under marknivå, även av rotvältor efter storm."
+    },
+    {
+      "titel": "Försäkringsärenden",
+      "ikon": "dokument",
+      "href": "faq.html",
+      "text": "Vi fotodokumenterar och skickar underlag direkt till ditt försäkringsbolag."
+    },
+    {
+      "titel": "Fast pris och RUT",
+      "ikon": "portfolj",
+      "href": "priser.html",
+      "text": "Tre paket för planerade jobb och tydlig jourtaxa."
+    },
+    {
+      "titel": "Ring jouren",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Samma nummer dygnet runt under stormvarning."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Akuta stormskador", "text": "Ett träd som ligger över ett tak är under spänning och kan röra sig när man börjar såga. Vi avlastar stammen med kran innan vi kapar.", "text2": "Under stormen Malik i januari 2022 hade vi 64 utryckningar på fyra dygn.", "tagg": "arborist"},
-    {"titel": "Säkra inför vintern", "text": "De flesta träd som välter i en storm visade tecken redan innan: lutning, rotlyft eller röta vid stambasen. Vi går igenom tomten i september och oktober.", "text2": "Kunder med serviceavtal får förtur i jourkön.", "tagg": "trad"},
-    {"titel": "Kustnära trädvård", "text": "Salt och sand sliter på barken och gör tallarna ensidiga. Vi beskär så att vindlasten fördelas jämnare över kronan.", "text2": "Vi arbetar mycket i sommarstugeområden i Skrea, Olofsbo och Ugglarp.", "tagg": "tradgard"},
-    {"titel": "Upparbetning och ved", "text": "Stormfällda träd blir ofta fin ved. Vi kapar, klyver och staplar på tomten eller köper virket och drar av värdet på fakturan.", "text2": "Tallstammar över 25 cm går till sågverket i Vessigebro.", "tagg": "ved"}
+    {
+      "titel": "Akuta stormskador",
+      "text": "Ett träd som ligger över ett tak är under spänning och kan röra sig när man börjar såga. Vi avlastar stammen med kran innan vi kapar.",
+      "text2": "Under stormen Malik i januari 2022 hade vi 64 utryckningar på fyra dygn.",
+      "tagg": "arborist"
+    },
+    {
+      "titel": "Säkra inför vintern",
+      "text": "De flesta träd som välter i en storm visade tecken redan innan: lutning, rotlyft eller röta vid stambasen. Vi går igenom tomten i september och oktober.",
+      "text2": "Kunder med serviceavtal får förtur i jourkön.",
+      "tagg": "trad"
+    },
+    {
+      "titel": "Kustnära trädvård",
+      "text": "Salt och sand sliter på barken och gör tallarna ensidiga. Vi beskär så att vindlasten fördelas jämnare över kronan.",
+      "text2": "Vi arbetar mycket i sommarstugeområden i Skrea, Olofsbo och Ugglarp.",
+      "tagg": "tradgard"
+    },
+    {
+      "titel": "Upparbetning och ved",
+      "text": "Stormfällda träd blir ofta fin ved. Vi kapar, klyver och staplar på tomten eller köper virket och drar av värdet på fakturan.",
+      "text2": "Tallstammar över 25 cm går till sågverket i Vessigebro.",
+      "tagg": "ved"
+    }
   ],
   "bolag": [
-    {"namn": "Jens Albertsson", "segment": "Grundare och jourchef", "rubrik": "Håller koll på varje lågtryck", "text": "Jens planerar jourlagen när en storm närmar sig och kör kranbilen vid de tyngsta lyften.", "tagg": "arborist"},
-    {"namn": "Linnea Sandberg", "segment": "Arborist, ETW", "rubrik": "Klättrar i det som står kvar", "text": "Linnea leder lag två och gör de förebyggande besiktningarna under hösten.", "tagg": "trad"},
-    {"namn": "Rasmus Kvist", "segment": "Maskinförare", "rubrik": "Grävlastare och tumgrip", "text": "Rasmus flyttar stammar, fräser rotvältor och återställer gräsmattor efter jobbet.", "tagg": "ved"},
-    {"namn": "Amra Hodžić", "segment": "Kundtjänst och försäkring", "rubrik": "Svarar när det blåser som mest", "text": "Amra tar emot jourärenden, prioriterar kön och skriver underlag till försäkringsbolagen.", "tagg": "tradgard"}
+    {
+      "namn": "Jens Albertsson",
+      "segment": "Grundare och jourchef",
+      "rubrik": "Håller koll på varje lågtryck",
+      "text": "Jens planerar jourlagen när en storm närmar sig och kör kranbilen vid de tyngsta lyften.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Linnea Sandberg",
+      "segment": "Arborist, ETW",
+      "rubrik": "Klättrar i det som står kvar",
+      "text": "Linnea leder lag två och gör de förebyggande besiktningarna under hösten.",
+      "tagg": "trad"
+    },
+    {
+      "namn": "Rasmus Kvist",
+      "segment": "Maskinförare",
+      "rubrik": "Grävlastare och tumgrip",
+      "text": "Rasmus flyttar stammar, fräser rotvältor och återställer gräsmattor efter jobbet.",
+      "tagg": "ved"
+    },
+    {
+      "namn": "Amra Hodžić",
+      "segment": "Kundtjänst och försäkring",
+      "rubrik": "Svarar när det blåser som mest",
+      "text": "Amra tar emot jourärenden, prioriterar kön och skriver underlag till försäkringsbolagen.",
+      "tagg": "tradgard"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Tall över carporten i Skrea", "text": "En 22 meter hög tall lyftes bort i tre delar med kranbilen innan vi kapade något på marken.", "tagg": "arborist"},
-    {"rubrik": "Serviceavtal för Olofsbo stugby", "text": "112 stugor har nu årlig trädgenomgång i oktober och förtur vid storm.", "tagg": "trad"},
-    {"rubrik": "Jourlag tre är på väg", "text": "Vi utbildar två nya arborister under vintern så att vi kan köra tre lag vid nästa storm.", "tagg": "tradgard"}
+    {
+      "rubrik": "Tall över carporten i Skrea",
+      "text": "En 22 meter hög tall lyftes bort i tre delar med kranbilen innan vi kapade något på marken.",
+      "tagg": "arborist"
+    },
+    {
+      "rubrik": "Serviceavtal för Olofsbo stugby",
+      "text": "112 stugor har nu årlig trädgenomgång i oktober och förtur vid storm.",
+      "tagg": "trad"
+    },
+    {
+      "rubrik": "Jourlag tre är på väg",
+      "text": "Vi utbildar två nya arborister under vintern så att vi kan köra tre lag vid nästa storm.",
+      "tagg": "tradgard"
+    }
   ],
   "nyckeltal": [
-    {"varde": "2007", "enhet": "", "etikett": "Startade efter Gudrun"},
-    {"varde": "2 h", "enhet": "", "etikett": "Utryckningstid vid jour"},
-    {"varde": "64", "enhet": "jobb", "etikett": "Under stormen Malik"},
-    {"varde": "9", "enhet": "anställda", "etikett": "Två fullständiga jourlag"}
+    {
+      "varde": "2007",
+      "enhet": "",
+      "etikett": "Startade efter Gudrun"
+    },
+    {
+      "varde": "2 h",
+      "enhet": "",
+      "etikett": "Utryckningstid vid jour"
+    },
+    {
+      "varde": "64",
+      "enhet": "jobb",
+      "etikett": "Under stormen Malik"
+    },
+    {
+      "varde": "9",
+      "enhet": "anställda",
+      "etikett": "Två fullständiga jourlag"
+    }
   ],
   "projekt": [
-    {"namn": "Tall över carport", "ort": "Skrea", "typ": "Stormjour", "ar": "2026", "text": "Kranlyft i tre sektioner, carporten kunde repareras i stället för att rivas.", "tagg": "arborist"},
-    {"namn": "Olofsbo stugby", "ort": "Olofsbo", "typ": "Serviceavtal", "ar": "2026", "text": "Genomgång av 340 träd och toppning av 28 tallar närmast stugorna.", "tagg": "trad"},
-    {"namn": "Läplantering vid gården", "ort": "Vessigebro", "typ": "Fällning av poppel", "ar": "2025", "text": "En rad med 19 kanadapopplar från 1964 ersattes med ek och lind.", "tagg": "tradgard"},
-    {"namn": "Väg 767 vid Ugglarp", "ort": "Ugglarp", "typ": "Röjning efter storm", "ar": "2025", "text": "Sex träd över vägen undanröjda på en natt tillsammans med vägföreningen.", "tagg": "arborist"},
-    {"namn": "Villa vid Tylösand", "ort": "Halmstad", "typ": "Kronreduktion", "ar": "2025", "text": "Två vindpinade tallar sänktes med fem meter och fick jämnare kronor.", "tagg": "trad"},
-    {"namn": "Glommens hamn", "ort": "Glommen", "typ": "Besiktning", "ar": "2026", "text": "Genomgång av träden vid hamnplanen inför vintern.", "tagg": "tradgard", "status": "Bokat"}
+    {
+      "namn": "Tall över carport",
+      "ort": "Skrea",
+      "typ": "Stormjour",
+      "ar": "2026",
+      "text": "Kranlyft i tre sektioner, carporten kunde repareras i stället för att rivas.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Olofsbo stugby",
+      "ort": "Olofsbo",
+      "typ": "Serviceavtal",
+      "ar": "2026",
+      "text": "Genomgång av 340 träd och toppning av 28 tallar närmast stugorna.",
+      "tagg": "trad"
+    },
+    {
+      "namn": "Läplantering vid gården",
+      "ort": "Vessigebro",
+      "typ": "Fällning av poppel",
+      "ar": "2025",
+      "text": "En rad med 19 kanadapopplar från 1964 ersattes med ek och lind.",
+      "tagg": "tradgard"
+    },
+    {
+      "namn": "Väg 767 vid Ugglarp",
+      "ort": "Ugglarp",
+      "typ": "Röjning efter storm",
+      "ar": "2025",
+      "text": "Sex träd över vägen undanröjda på en natt tillsammans med vägföreningen.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Villa vid Tylösand",
+      "ort": "Halmstad",
+      "typ": "Kronreduktion",
+      "ar": "2025",
+      "text": "Två vindpinade tallar sänktes med fem meter och fick jämnare kronor.",
+      "tagg": "trad"
+    },
+    {
+      "namn": "Glommens hamn",
+      "ort": "Glommen",
+      "typ": "Besiktning",
+      "ar": "2026",
+      "text": "Genomgång av träden vid hamnplanen inför vintern.",
+      "tagg": "tradgard",
+      "status": "Bokat"
+    }
   ],
   "process": [
-    {"titel": "Du ringer eller skickar bild", "text": "Vid jour prioriterar vi träd mot hus, el och väg. Planerade jobb får tid för besiktning inom en vecka.", "tagg": "tradgard"},
-    {"titel": "Säkring", "text": "Först gör vi platsen säker: stänger av, avlastar spänningar och kontaktar nätbolaget om ledningar berörs.", "tagg": "arborist"},
-    {"titel": "Fällning och lyft", "text": "Kranbil eller klättrare beroende på läge. Stammar som ligger på tak lyfts alltid innan de kapas.", "tagg": "trad"},
-    {"titel": "Städning och papper", "text": "Vi fräser, krattar och skickar foton och faktura i format som försäkringsbolagen godkänner.", "tagg": "ved"}
+    {
+      "titel": "Du ringer eller skickar bild",
+      "text": "Vid jour prioriterar vi träd mot hus, el och väg. Planerade jobb får tid för besiktning inom en vecka.",
+      "tagg": "tradgard"
+    },
+    {
+      "titel": "Säkring",
+      "text": "Först gör vi platsen säker: stänger av, avlastar spänningar och kontaktar nätbolaget om ledningar berörs.",
+      "tagg": "arborist"
+    },
+    {
+      "titel": "Fällning och lyft",
+      "text": "Kranbil eller klättrare beroende på läge. Stammar som ligger på tak lyfts alltid innan de kapas.",
+      "tagg": "trad"
+    },
+    {
+      "titel": "Städning och papper",
+      "text": "Vi fräser, krattar och skickar foton och faktura i format som försäkringsbolagen godkänner.",
+      "tagg": "ved"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Säkerheten går före kön",
     "text": "Stormarbete är det farligaste en arborist gör. Vi arbetar aldrig i mörker utan strålkastare, aldrig ensamma och aldrig nära strömförande ledningar innan nätbolaget har kopplat bort dem.",
-    "mal": [["0", "allvarliga olyckor sedan 2007"], ["2 h", "max utryckningstid för avtalskunder"], ["90 %", "av stormvirket blir ved eller sågtimmer"]]
+    "mal": [
+      [
+        "0",
+        "allvarliga olyckor sedan 2007"
+      ],
+      [
+        "2 h",
+        "max utryckningstid för avtalskunder"
+      ],
+      [
+        "90 %",
+        "av stormvirket blir ved eller sågtimmer"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Klarar du ett blåsigt jobb?",
     "text": "Vi söker arborister som vill ha omväxling och kan tänka sig jour några nätter per vinter. Jourtillägg, egen servicebil och betald ETW-utbildning ingår.",
-    "jobb": [["Arborist med jour", "Falkenberg"], ["Maskinförare grävlastare", "Falkenberg"], ["Sommarjobb markarbetare", "Halmstad"]]
+    "jobb": [
+      [
+        "Arborist med jour",
+        "Falkenberg"
+      ],
+      [
+        "Maskinförare grävlastare",
+        "Falkenberg"
+      ],
+      [
+        "Sommarjobb markarbetare",
+        "Halmstad"
+      ]
+    ]
   },
   "kultur": "Efter varje storm går hela laget igenom vad som gick bra och vad vi gör annorlunda nästa gång.",
-  "citat": {"text": "Efter Gudrun låg träden kvar på taken i veckor eftersom ingen hann. Det är hela anledningen till att vi finns.", "namn": "Jens Albertsson", "roll": "Grundare", "tagg": "arborist"},
+  "citat": {
+    "text": "Efter Gudrun låg träden kvar på taken i veckor eftersom ingen hann. Det är hela anledningen till att vi finns.",
+    "namn": "Jens Albertsson",
+    "roll": "Grundare",
+    "tagg": "arborist"
+  },
   "omdomen": [
-    {"text": "Ringde klockan halv tre på natten när tallen låg på taket. De var här före fem och hade presenning på hålet innan frukost.", "namn": "Petra L.", "ort": "Skrea"},
-    {"text": "Amra skickade alla foton till Folksam åt oss. Vi behövde inte göra någonting själva.", "namn": "Göran H.", "ort": "Glommen"},
-    {"text": "Toppade våra tre tallar i oktober. I februari blåste det 30 meter per sekund och de stod kvar.", "namn": "Anette B.", "ort": "Ugglarp"}
+    {
+      "text": "Ringde klockan halv tre på natten när tallen låg på taket. De var här före fem och hade presenning på hålet innan frukost.",
+      "namn": "Petra L.",
+      "ort": "Skrea"
+    },
+    {
+      "text": "Amra skickade alla foton till Folksam åt oss. Vi behövde inte göra någonting själva.",
+      "namn": "Göran H.",
+      "ort": "Glommen"
+    },
+    {
+      "text": "Toppade våra tre tallar i oktober. I februari blåste det 30 meter per sekund och de stod kvar.",
+      "namn": "Anette B.",
+      "ort": "Ugglarp"
+    }
   ],
   "faq": [
-    ["Betalar försäkringen?", "Oftast ja, om trädet har skadat en byggnad. Vi skickar underlag direkt till försäkringsbolaget. Träd som bara har fallit på gräsmattan betalar du själv."],
-    ["Vad kostar jouren?", "Jourtaxan gäller kvällar, nätter och helger under stormvarning. Priset står i prislistan och du får alltid besked innan vi börjar."],
-    ["Får jag RUT vid stormskador?", "Ja, för arbetet på din villa- eller fritidshustomt, så länge försäkringen inte redan ersätter samma kostnad."],
-    ["Kan ni komma innan stormen?", "Ja, och det är bäst. Vi besiktar och toppar under september–november så att träden står bättre rustade."],
-    ["Får jag själv såga ett nedblåst träd?", "Vi avråder från det. Stammar i vindfällen står under hög spänning och kan slå upp när de kapas."],
-    ["Vad är ett serviceavtal?", "En årlig genomgång av tomtens träd för 1 490 kr. Du får förtur vid storm och 10 procent rabatt på åtgärder."]
+    [
+      "Betalar försäkringen?",
+      "Oftast ja, om trädet har skadat en byggnad. Vi skickar underlag direkt till försäkringsbolaget. Träd som bara har fallit på gräsmattan betalar du själv."
+    ],
+    [
+      "Vad kostar jouren?",
+      "Jourtaxan gäller kvällar, nätter och helger under stormvarning. Priset står i prislistan och du får alltid besked innan vi börjar."
+    ],
+    [
+      "Får jag RUT vid stormskador?",
+      "Ja, för arbetet på din villa- eller fritidshustomt, så länge försäkringen inte redan ersätter samma kostnad."
+    ],
+    [
+      "Kan ni komma innan stormen?",
+      "Ja, och det är bäst. Vi besiktar och toppar under september–november så att träden står bättre rustade."
+    ],
+    [
+      "Får jag själv såga ett nedblåst träd?",
+      "Vi avråder från det. Stammar i vindfällen står under hög spänning och kan slå upp när de kapas."
+    ],
+    [
+      "Vad är ett serviceavtal?",
+      "En årlig genomgång av tomtens träd för 1 490 kr. Du får förtur vid storm och 10 procent rabatt på åtgärder."
+    ]
   ],
   "priser": [
-    {"namn": "Höstgenomgång", "pris": "1 490 kr", "enhet": "per år och tomt", "text": "Serviceavtal med besiktning och förtur i jourkön.", "punkter": ["Besiktning av alla träd på tomten", "Fotorapport med åtgärdsförslag", "Förtur vid stormjour", "10 % rabatt på åtgärder"]},
-    {"namn": "Fällning upp till 15 m", "pris": "6 900 kr", "enhet": "per träd före RUT", "text": "Planerad fällning av ett träd på villatomt.", "punkter": ["Sektionsfällning vid behov", "Flisning av ris", "Stammen kapad i ved", "Städning av tomten"], "utvald": true},
-    {"namn": "Toppning av tall", "pris": "fr. 5 200 kr", "enhet": "per träd före RUT", "text": "Kronreduktion som minskar vindfånget.", "punkter": ["Klättring eller lift", "Sänkning med 3–6 meter", "Formbeskärning av kronan", "Bortforsling av grenar"]}
+    {
+      "namn": "Höstgenomgång",
+      "pris": "1 490 kr",
+      "enhet": "per år och tomt",
+      "text": "Serviceavtal med besiktning och förtur i jourkön.",
+      "punkter": [
+        "Besiktning av alla träd på tomten",
+        "Fotorapport med åtgärdsförslag",
+        "Förtur vid stormjour",
+        "10 % rabatt på åtgärder"
+      ]
+    },
+    {
+      "namn": "Planerad fällning ≤ 15 m",
+      "pris": "6 900 kr",
+      "enhet": "per träd före RUT",
+      "text": "Planerad fällning av ett träd på villatomt.",
+      "punkter": [
+        "Fällning i delar om platsen kräver",
+        "Flisning av ris",
+        "Stammen kapad i ved",
+        "Städning av tomten"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Toppning av tall",
+      "pris": "fr. 5 200 kr",
+      "enhet": "per träd före RUT",
+      "text": "Kronreduktion som minskar vindfånget.",
+      "punkter": [
+        "Klättring eller lift",
+        "Sänkning med 3–6 meter",
+        "Formbeskärning av kronan",
+        "Bortforsling av grenar"
+      ]
+    }
   ],
   "prislista": [
-    ["Jourtaxa, lag om två", "2 400 kr/tim"],
-    ["Kranbil med förare", "1 650 kr/tim"],
-    ["Grävlastare med tumgrip", "1 100 kr/tim"],
-    ["Arborist, dagtid", "690 kr/tim"],
-    ["Stubbfräsning, upp till 40 cm", "950 kr"],
-    ["Fräsning av rotvälta", "fr. 2 800 kr"],
-    ["Ved av stormvirke, kluven, 1 m³", "650 kr"],
-    ["Presenning över skadat tak", "1 200 kr"]
+    [
+      "Jourtaxa, lag om två",
+      "2 400 kr/tim"
+    ],
+    [
+      "Kranbil med förare",
+      "1 650 kr/tim"
+    ],
+    [
+      "Grävlastare med tumgrip",
+      "1 100 kr/tim"
+    ],
+    [
+      "Arborist, dagtid",
+      "690 kr/tim"
+    ],
+    [
+      "Stubbfräsning, upp till 40 cm",
+      "950 kr"
+    ],
+    [
+      "Fräsning av rotvälta",
+      "fr. 2 800 kr"
+    ],
+    [
+      "Ved av stormvirke, kluven, 1 m³",
+      "650 kr"
+    ],
+    [
+      "Presenning över skadat tak",
+      "1 200 kr"
+    ]
   ],
   "certifikat": [
-    {"titel": "European Tree Worker", "text": "Lagledarna är ETW-certifierade och utbildade i fällning av vindfällen.", "ikon": "skold"},
-    {"titel": "Motorsågskörkort D", "text": "Alla fältarbetare har körkort för motorsåg nivå D för stormskadad skog.", "ikon": "verktyg"},
-    {"titel": "Arbete nära elledning", "text": "Utbildade enligt ESA Fortsättning för arbete i närheten av ledningar.", "ikon": "blixt"},
-    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Täcker skador på byggnader, fordon och tredje man under både jour och planerade jobb.", "ikon": "las"}
+    {
+      "titel": "European Tree Worker",
+      "text": "Lagledarna är ETW-certifierade och utbildade i fällning av vindfällen.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Motorsågskörkort D",
+      "text": "Alla fältarbetare har körkort för motorsåg nivå D för stormskadad skog.",
+      "ikon": "verktyg"
+    },
+    {
+      "titel": "Arbete nära elledning",
+      "text": "Utbildade enligt ESA Fortsättning för arbete i närheten av ledningar.",
+      "ikon": "blixt"
+    },
+    {
+      "titel": "Ansvarsförsäkring 10 Mkr",
+      "text": "Täcker skador på byggnader, fordon och tredje man under både jour och planerade jobb.",
+      "ikon": "las"
+    }
   ],
-  "galleri_taggar": ["arborist", "trad", "ved", "tradgard"],
+  "galleri_taggar": [
+    "arborist",
+    "trad",
+    "ved",
+    "tradgard"
+  ],
   "nyheter": [
-    ["2026-10-08", "Fem tecken på att tallen inte klarar nästa storm", "Lutning, rotlyft och svampar vid stambasen – så ser du dem själv.", "trad"],
-    ["2026-09-01", "Höstgenomgångarna har börjat", "Boka före 1 november för att få förtur i vinter.", "tradgard"],
-    ["2026-02-14", "Så gick jouren under februaristormen", "41 utryckningar på tre dygn, ingen skadad.", "arborist"]
+    [
+      "2026-10-08",
+      "Fem tecken på att tallen inte klarar nästa storm",
+      "Lutning, rotlyft och svampar vid stambasen – så ser du dem själv.",
+      "trad"
+    ],
+    [
+      "2026-09-01",
+      "Höstgenomgångarna har börjat",
+      "Boka före 1 november för att få förtur i vinter.",
+      "tradgard"
+    ],
+    [
+      "2026-02-14",
+      "Så gick jouren under februaristormen",
+      "41 utryckningar på tre dygn, ingen skadad.",
+      "arborist"
+    ]
   ],
-  "kontakt": {"adress": "Smedjegatan 18", "postnr": "311 32", "ort": "Falkenberg", "telefon": "070-174 06 37", "epost": "jour@saltvindtradvard.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Smedjegatan 18",
+    "postnr": "311 32",
+    "ort": "Falkenberg",
+    "telefon": "070-174 06 37",
+    "epost": "jour@saltvindtradvard.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 7–17 · Jour dygnet runt vid stormvarning",
   "omrade": "Halland från Laholm till Varberg",
   "fot_cta": "Spara vårt nummer i telefonen innan nästa lågtryck kommer in över Kattegatt.",
-  "bild": {"panel": "arborist", "hb": "trad"},
+  "bild": {
+    "panel": "arborist",
+    "hb": "trad"
+  },
   "text": {
     "kontakt_knapp": "Ring jouren",
     "ber_rubrik": "Senaste utryckningarna",
@@ -132,6 +468,7 @@
     "boka_rubrik": "Boka höstgenomgång eller ring jouren",
     "boka_text": "Är det akut – ring. Annars beskriver du träden här så hör vi av oss inom två arbetsdagar.",
     "bolag_rubrik": "Folket bakom jouren",
-    "certifikat_rubrik": "Utbildade för stormfällda träd"
+    "certifikat_rubrik": "Utbildade för stormfällda träd",
+    "sida_bolag_ingress": "Nio anställda i två jourlag, med kranbil, grävlastare och egen kundtjänst i Falkenberg."
   }
 }

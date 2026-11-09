@@ -44,7 +44,7 @@
   ],
   "nyckeltal": [
     {"varde": "600", "enhet": "gäster", "etikett": "Största festen hittills"},
-    {"varde": "45", "enhet": "per år", "etikett": "Bröllop med två team"},
+    {"varde": "45", "enhet": "per år", "etikett": "Ofta två bröllop samma helg"},
     {"varde": "7", "enhet": "språk", "etikett": "Talas i teamet"},
     {"varde": "10", "enhet": "dagar", "etikett": "Till highlightfilmen"}
   ],
@@ -81,15 +81,15 @@
     ["Fotograferar ni alla bord?", "Ja, vid fester över 150 gäster har vi en fotograf som bara fotograferar borden och gästerna."],
     ["Får ni flyga drönare överallt?", "Inte överallt. Karim kontrollerar luftrummet i Transportstyrelsens karttjänst och vi ansöker om tillstånd vid behov, till exempel nära Ängelholms flygplats."],
     ["Reser ni utomlands?", "Ja, vi har fotograferat i Iran, Libanon, Indien och Turkiet. Resa och boende tillkommer."],
-    ["Hur lång blir filmen?", "En highlightfilm på fyra till sex minuter, samt ceremoni och tal oklippta."],
-    ["Hur bokar vi?", "Efter konsultationen får ni avtal och en faktura på 30 procent. Resten delas på två betalningar."]
+    ["Vad ingår i filmen?", "En highlightfilm på fyra till sex minuter, samt ceremoni och tal oklippta."],
+    ["Hur fungerar betalningen?", "Vid bokning betalar ni 30 procent. Resten delar vi på två fakturor – en tre månader före och en efter sista bröllopsdagen – eftersom stora bröllop ofta kostar mycket på en gång."]
   ],
   "priser": [
-    {"namn": "En dag", "pris": "24 000 kr", "enhet": "upp till 10 timmar, två fotografer", "text": "Ceremoni, porträtt och fest på en dag.", "punkter": ["600–900 bilder", "Två fotografer", "Konsultation med familjen", "Galleri inom sex veckor"]},
+    {"namn": "En dag", "pris": "24 000 kr", "enhet": "upp till 10 timmar, två fotografer", "text": "Ceremoni, porträtt och fest på en dag.", "punkter": ["600–900 bilder", "Två fotografer, samma språk som ni", "Konsultation med familjen", "Galleri inom sex veckor"]},
     {"namn": "Bröllopsdagen", "pris": "46 000 kr", "enhet": "upp till 14 timmar, foto och film", "text": "Två fotografer, en filmare och drönare.", "punkter": ["1 000–1 500 bilder", "Highlightfilm på sex minuter", "Drönare vid kortege och lokal", "Alla bord fotograferade"], "utvald": true},
-    {"namn": "Bröllopsveckan", "pris": "60 000 kr", "enhet": "två dagar, foto, film och album", "text": "Henna eller sangeet och bröllopsdagen.", "punkter": ["Allt i Bröllopsdagen", "En extra dag med fotograf och filmare", "Läderalbum 30 × 30 cm", "Två föräldraalbum"]}
+    {"namn": "Bröllopsveckan", "pris": "60 000 kr", "enhet": "två dagar, foto, film och album", "text": "Henna eller sangeet och bröllopsdagen.", "punkter": ["Allt i Bröllopsdagen", "En extra dag med fotograf och filmare", "Läderalbum 30 × 30 cm", "Ett album till vardera familjen"]}
   ],
-  "prislista": [["Extra dag, fotograf och filmare", "18 000 kr"], ["Tredje fotograf för borden", "8 500 kr"], ["Extra timme, hela teamet", "4 500 kr"], ["Oklippt ceremonifilm", "4 000 kr"], ["Föräldraalbum 20 × 20", "2 600 kr"], ["Drönare som tillval", "3 900 kr"], ["Fotografering utomlands", "resa + boende"]],
+  "prislista": [["Extra dag, fotograf och filmare", "18 000 kr"], ["Tredje fotograf för borden", "8 500 kr"], ["Extra timme, hela teamet", "4 500 kr"], ["Oklippt ceremonifilm", "4 000 kr"], ["Familjealbum 20 × 20", "2 600 kr"], ["Drönare vid kortegen", "3 900 kr"], ["Fotografering utomlands", "resa + boende"]],
   "galleri_taggar": ["fest", "brollop", "detalj", "brudpar", "kamera"],
   "nyheter": [
     ["2026-10-12", "Säsongen för indiska bröllop", "Därför är oktober och november våra mest bokade månader.", "fest"],
@@ -109,7 +109,7 @@
     "omdomen_rubrik": "Familjerna om oss",
     "faq_rubrik": "Frågor från familjer",
     "priser_rubrik": "Per dag eller hela veckan",
-    "priser_not": "Alla priser inklusive moms. Resor inom Skåne ingår.",
+    "priser_not": "Alla belopp inklusive moms. Inom Skåne och Köpenhamn tar vi ingen reseersättning.",
     "priser_utvald": "Mest valt",
     "galleri_rubrik": "Färg, guld och dans",
     "boka_rubrik": "Hur många dagar firar ni?",

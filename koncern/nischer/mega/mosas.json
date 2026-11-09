@@ -1,0 +1,148 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Mosås Samhällsfastigheter AB (publ)",
+  "kortnamn": "Mosås",
+  "slug": "mosas",
+  "typ": "Samhällsfastigheter i 214 kommuner",
+  "tagline": "Hyresvärd åt välfärden",
+  "slogan": "Mosås äger, bygger och sköter skolor, vårdboenden, polishus och domstolar – med hyresavtal som löper i decennier.",
+  "hero_rubrik": "Skolan byggs i dag, inte om fem år",
+  "hero_text": "Mosås finansierar, bygger och förvaltar fastigheterna som kommuner och regioner behöver nu – och tar ansvaret för dem i 25 år.",
+  "intro_rubrik": "2 140 fastigheter med offentliga hyresgäster",
+  "om": [
+    "Mosås bildades 2001 när fem kommuner i Örebro län sålde sina skollokaler till ett gemensamt bolag för att frigöra kapital till nya skolor. Modellen spred sig, och 2014 noterades bolaget på Nasdaq Stockholm. I dag äger Mosås 2 140 fastigheter till ett värde av 158 miljarder kronor.",
+    "Mosås är ovanligt bland fastighetsbolag eftersom vi bygger och sköter fastigheterna själva. Mosås Bygg uppför 30–40 skolor och vårdboenden om året, och 3 900 fastighetstekniker, vaktmästare och lokalvårdare arbetar i verksamheterna varje dag. Totalt har koncernen 5 300 medarbetare."
+  ],
+  "vagval_rubrik": "Vad behöver er kommun?",
+  "tjanster": [
+    {"titel": "Skolor och förskolor", "ikon": "skola", "href": "verksamhet.html", "text": "1 080 förskolor och skolor med plats för 310 000 barn och elever."},
+    {"titel": "Vård och omsorg", "ikon": "vard", "href": "verksamhet.html", "text": "Vårdboenden, vårdcentraler och LSS-bostäder i 160 kommuner."},
+    {"titel": "Rättsväsende", "ikon": "skold", "href": "verksamhet.html", "text": "Polishus, tingsrätter och häkten med särskilda säkerhetskrav."},
+    {"titel": "Sale & leaseback", "ikon": "nyckel", "href": "verksamhet.html", "text": "Vi köper kommunens befintliga lokaler och hyr tillbaka dem på 15–25 år."},
+    {"titel": "Nybyggnation", "ikon": "kran", "href": "verksamhet.html", "text": "Egen byggorganisation med fast pris och tidplan."},
+    {"titel": "Drift och service", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vaktmästeri, städ och felanmälan med svar inom fyra timmar."},
+    {"titel": "Aktien MOSA B", "ikon": "graf", "href": "investerare.html", "text": "Förvaltningsresultat, rapporter och kalender."},
+    {"titel": "Lediga tjänster", "ikon": "folk", "href": "karriar.html", "text": "Fastighetstekniker, projektledare och förvaltare i hela landet."}
+  ],
+  "affarsomraden": [
+    {"titel": "Utbildning", "text": "Förskolor, grundskolor, gymnasier och idrottshallar utgör 46 procent av fastighetsvärdet. De flesta avtalen tecknas på 20–25 år med kommunen som hyresgäst.", "text2": "Våra skolor byggs efter typritningen Mosås Skola 600, som anpassas till varje tomt och pedagogik.", "tagg": "bygg"},
+    {"titel": "Vård och omsorg", "text": "Vårdboenden, vårdcentraler och gruppbostäder enligt LSS i 160 kommuner. Vi bygger enligt regionernas riktlinjer för vårdmiljö och smittskydd.", "text2": "Ett typiskt vårdboende har 80 lägenheter, två våningar och trädgård i markplan.", "tagg": "interior"},
+    {"titel": "Rättsväsende", "text": "Polishus, tingsrätter, häkten och migrationsfastigheter med statliga hyresgäster. Fastigheterna har säkerhetsklassade skal och egna driftorganisationer med säkerhetsprövad personal.", "text2": "Hyresavtalen har en genomsnittlig längd på 16 år.", "tagg": "kontor"},
+    {"titel": "Mosås Bygg & Service", "text": "Vår egen byggverksamhet och serviceorganisation. Att vi bygger själva sänker kostnaden per kvadratmeter med 8–12 procent jämfört med upphandlad totalentreprenad.", "text2": "Serviceavtalen täcker allt från snöröjning till lås och larm.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Mosås Utbildning", "segment": "Skolor och förskolor", "rubrik": "Plats för 310 000 elever", "text": "Förvaltning av förskolor, skolor, gymnasier och idrottshallar.", "tagg": "bygg"},
+    {"namn": "Mosås Vård", "segment": "Vård och omsorg", "rubrik": "Boenden med trädgård i markplan", "text": "Vårdboenden, vårdcentraler och LSS-bostäder.", "tagg": "interior"},
+    {"namn": "Mosås Rätt & Säkerhet", "segment": "Rättsväsende", "rubrik": "Säkerhetsklassat från grunden", "text": "Polishus, tingsrätter och häkten med statliga hyresgäster.", "tagg": "kontor"},
+    {"namn": "Mosås Bygg & Service", "segment": "Bygg och drift", "rubrik": "Vi bygger det vi äger", "text": "Egen byggorganisation och 3 900 servicemedarbetare.", "tagg": "anlaggning"}
+  ],
+  "lokala_bolag": ["Mosås Örebro", "Mosås Bergslagen", "Mosås Värmland", "Mosås Dalarna", "Mosås Gävleborg", "Mosås Norrland", "Mosås Mälardalen", "Mosås Stockholm", "Mosås Östergötland", "Mosås Småland", "Mosås Väst", "Mosås Skåne", "Mosås Bygg", "Mosås Service"],
+  "vagg_text": "Regionbolagen äger fastigheterna och har egna förvaltare – men alla ritningar går genom samma byggavdelning i Örebro.",
+  "berattelser": [
+    {"rubrik": "Nytt polishus i Västerås", "text": "Ett polishus på 28 000 kvadratmeter för 900 medarbetare, byggt på 26 månader och inflyttat i september.", "tagg": "kontor"},
+    {"rubrik": "Tolv skolor i Örebro län", "text": "Mosås tar över och renoverar tolv skolor från tre kommuner i en affär värd 3,4 miljarder kronor.", "tagg": "bygg"},
+    {"rubrik": "Solceller på 400 tak", "text": "Skolornas tak producerar nu 62 GWh om året – mer än skolorna själva använder under sommarlovet.", "tagg": "solel"}
+  ],
+  "nyckeltal": [
+    {"varde": "158", "enhet": "mdr kr", "etikett": "Fastighetsvärde", "trend": [74, 88, 104, 126, 141, 149, 158], "trend_text": "Fastighetsvärde 2020–2026, mdr kr"},
+    {"varde": "13,2", "enhet": "år", "etikett": "Genomsnittlig avtalslängd", "trend": [10.8, 11.3, 11.9, 12.4, 12.7, 13.0, 13.2], "trend_text": "Återstående löptid, år"},
+    {"varde": "97", "enhet": "%", "etikett": "Hyror från offentliga hyresgäster", "trend": [94, 95, 95, 96, 96, 97, 97], "trend_text": "Andel offentlig hyra, procent"},
+    {"varde": "5 300", "enhet": "", "etikett": "Medarbetare", "trend": [2400, 2900, 3500, 4100, 4600, 5000, 5300], "trend_text": "Medarbetare inklusive bygg och service"}
+  ],
+  "projekt": [
+    {"namn": "Polishuset Västerås", "ort": "Västerås", "typ": "Rättsväsende", "ar": "2026", "text": "28 000 kvadratmeter, säkerhetsklassat skal och arresthus med 60 platser.", "tagg": "kontor"},
+    {"namn": "Adolfsbergsskolan", "ort": "Örebro", "typ": "F–9-skola", "ar": "2025", "text": "En skola för 840 elever med idrottshall och tillagningskök, byggd i trä.", "tagg": "bygg"},
+    {"namn": "Vårdboendet Klarälvsbrinken", "ort": "Karlstad", "typ": "Vårdboende", "ar": "2025", "text": "96 lägenheter i två plan med inglasade gårdar.", "tagg": "interior"},
+    {"namn": "Tingsrätten i Falun", "ort": "Falun", "typ": "Domstol", "ar": "2027", "text": "Ny tingsrätt med åtta förhandlingssalar och säker förvarsavdelning.", "tagg": "stad"},
+    {"namn": "Gymnasiet Campus Gävle", "ort": "Gävle", "typ": "Gymnasieskola", "ar": "2026", "text": "Yrkesgymnasium för 1 200 elever med verkstäder för fordon och el.", "tagg": "people"},
+    {"namn": "Tolv skolor, Örebro län", "ort": "Kumla", "typ": "Sale & leaseback", "ar": "2026", "text": "Förvärv och renovering av tolv skolor i Kumla, Hallsberg och Askersund.", "tagg": "bygg"}
+  ],
+  "process": [
+    {"titel": "Behovsanalys", "text": "Vi går igenom elevprognoser eller vårdbehov tillsammans med kommunens lokalstrateg.", "tagg": "kontor"},
+    {"titel": "Avtal och hyra", "text": "Hyran sätts på en kalkyl som kommunen ser i sin helhet, med index och avtalslängd.", "tagg": "kontor"},
+    {"titel": "Bygget", "text": "Mosås Bygg uppför fastigheten med fast pris. En skola för 600 elever tar normalt 20 månader.", "tagg": "bygg"},
+    {"titel": "25 års förvaltning", "text": "Egen vaktmästare på plats och felanmälan som besvaras inom fyra timmar.", "tagg": "anlaggning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fastigheter som klarar nästa generation",
+    "text": "Våra fastigheter används av barn, äldre och människor i utsatta situationer. Därför prioriterar vi inomhusmiljö, tillgänglighet och trygghet före estetik. Alla nya byggnader certifieras med Miljöbyggnad Silver eller högre, och hälften av de nya skolorna har stomme i trä.",
+    "mal": [["–50 %", "energi per kvadratmeter till 2030 jämfört med 2015"], ["100 %", "solceller på lämpliga tak till 2028"], ["50 %", "nya skolor med trästomme"]]
+  },
+  "karriar": {
+    "rubrik": "Ett jobb som syns i skolgården",
+    "text": "Våra fastighetstekniker och vaktmästare är ofta de vuxna som eleverna känner igen. Vi söker också projektledare och förvaltare som vill bygga för välfärden.",
+    "jobb": [["Fastighetstekniker", "Örebro"], ["Projektledare nybyggnation skola", "Gävle"], ["Förvaltare samhällsfastigheter", "Karlstad"], ["Säkerhetssamordnare", "Västerås"]]
+  },
+  "kultur": "Alla nya medarbetare går en dag med en vaktmästare i en skola. Det är där fastigheterna gör nytta.",
+  "citat": {"text": "Kommunerna vet exakt hur många sexåringar som börjar skolan om fem år. Vårt jobb är att skolan står där när de gör det.", "namn": "Lars-Erik Bohlin", "roll": "Vd och koncernchef", "tagg": "bygg"},
+  "omdomen": [
+    {"text": "Mosås byggde vår nya F–9-skola på 20 månader. Vi slapp låna 400 miljoner och har en vaktmästare på plats varje dag.", "namn": "Kristina H.", "ort": "Örebro"},
+    {"text": "Polishuset levererades med alla säkerhetskrav uppfyllda vid första besiktningen. Det är ovanligt.", "namn": "Mats J.", "ort": "Västerås"},
+    {"text": "Vårdboendet är ljust, har korta avstånd för personalen och gårdar som de boende faktiskt använder.", "namn": "Eva L.", "ort": "Karlstad"}
+  ],
+  "faq": [
+    ["Varför ska en kommun hyra i stället för att äga?", "Kommunen frigör kapital och slipper ta byggrisken. Hyran är känd i förväg och drift och underhåll ingår."],
+    ["Hur långa är avtalen?", "Normalt 15–25 år för nybyggda skolor och vårdboenden. Vid förvärv av befintliga lokaler oftast 10–15 år."],
+    ["Följer ni LOU?", "Hyresavtal om lokaler är undantagna från LOU, men vi redovisar alltid kalkylen öppet. Mosås Bygg handlar själv upp material och underentreprenörer enligt våra inköpsregler."],
+    ["Kan kommunen köpa tillbaka fastigheten?", "Ja. De flesta avtal har en återköpsoption efter avtalstidens slut till marknadsvärde."],
+    ["Vem ringer man vid fel i lokalerna?", "Vår felanmälan är öppen dygnet runt. Akuta fel åtgärdas inom fyra timmar."],
+    ["Hur stabil är hyresintäkten?", "97 procent av hyrorna kommer från kommuner, regioner och staten. Hyresförlusterna har varit under 0,1 procent sedan noteringen."]
+  ],
+  "nyheter": [
+    ["2026-10-20", "Delårsrapport januari–september 2026", "Förvaltningsresultatet steg med 8 procent till 3 980 miljoner kronor.", "kontor"],
+    ["2026-09-01", "Polishuset i Västerås invigt", "900 polisanställda flyttade in i det nya huset vid Mälarporten.", "kontor"],
+    ["2026-05-26", "Mosås förvärvar tolv skolor i Örebro län", "Affären omfattar 98 000 kvadratmeter och nya 20-åriga hyresavtal.", "bygg"]
+  ],
+  "kontakt": {"adress": "Järnvägsgatan 8", "postnr": "702 10", "ort": "Örebro", "telefon": "070-174 06 52", "epost": "info@mosas.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–16.30, felanmälan dygnet runt",
+  "omrade": "214 kommuner i Sverige",
+  "fot_cta": "Behöver er kommun en ny skola eller ett vårdboende? Vi presenterar en kalkyl inom en månad.",
+  "investerare": {
+    "aktie": "MOSA B",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "67,92",
+    "forandring": "+0,3 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-20"], ["Delårsrapport januari–juni 2026", "2026-07-08"], ["Årsredovisning 2025", "2026-03-17"], ["Grön obligationsrapport 2025", "2026-03-17"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-02"], ["Årsstämma i Örebro", "2027-04-22"], ["Delårsrapport januari–mars 2027", "2027-04-22"]]
+  },
+  "kontor_lista": [
+    ["Örebro", "Huvudkontor, byggavdelning och felanmälan."],
+    ["Stockholm", "Region Stockholm och statliga hyresgäster."],
+    ["Göteborg", "Region Väst med 210 fastigheter."],
+    ["Malmö", "Region Skåne och Blekinge."],
+    ["Karlstad", "Region Värmland och Dalarna."],
+    ["Gävle", "Region Gävleborg."],
+    ["Umeå", "Region Norrland från Sundsvall till Kiruna."],
+    ["Linköping", "Region Östergötland och Småland."]
+  ],
+  "kontor_text": "Nära kommunerna, med vaktmästare i varje fastighet.",
+  "tidslinje": [
+    ["2001", "Fem kommuner i Örebro län bildar ett gemensamt bolag för sina skollokaler."],
+    ["2006", "Första vårdboendet byggs i Lindesberg."],
+    ["2010", "Mosås Bygg grundas för att sänka kostnaden för nya skolor."],
+    ["2014", "Notering på Nasdaq Stockholm."],
+    ["2018", "Förvärv av polishus och tingsrätter från statliga fastighetsägare."],
+    ["2023", "Fastighetsvärdet passerar 140 miljarder kronor."],
+    ["2026", "Det nya polishuset i Västerås invigs."]
+  ],
+  "tidslinje_rubrik": "Från fem kommuner till 214",
+  "text": {
+    "ber_rubrik": "Senaste överlämningarna",
+    "proj_rubrik": "Skolor, vårdboenden och polishus",
+    "proj_rubrik_lista": "Fastigheter vi bygger och har byggt",
+    "process_etikett": "Så går det till",
+    "process_rubrik": "Från elevprognos till vaktmästare",
+    "hb_etikett": "Långsiktigt ansvar",
+    "bolag_rubrik": "Tre segment och en egen byggare",
+    "kontor_rubrik": "Våra regionkontor",
+    "ny_rubrik": "Nyheter och pressmeddelanden",
+    "siffror_etikett": "Mosås i siffror",
+    "panel_etikett": "Jobba hos Mosås",
+    "omdomen_rubrik": "Hyresgästerna om oss",
+    "faq_rubrik": "Frågor från kommuner och regioner",
+    "vagg_rubrik": "{n} bolag, en byggavdelning"
+  },
+  "kontor_rubrik": "Våra regionkontor",
+  "bild": {"panel": "people", "hb": "bygg"}
+}

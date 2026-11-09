@@ -79,15 +79,15 @@
     ["Tar du betalt för resor på ön?", "Nej. Hela Öland och Kalmar ingår. Längre bort tar jag 30 kronor per mil."],
     ["Hur många bilder blir det?", "På en heldag 500–700 bilder, vid vigsel på alvaret runt 200."],
     ["Kan bilderna bli mörkare?", "Jag redigerar alla bröllop i min ljusa stil. Vill ni ha mörkt och dramatiskt är jag inte rätt fotograf."],
-    ["Vad händer om det regnar?", "Då flyttar vi porträtten till en lada eller kyrkporten. Mulet väder ger dessutom mjukt och fint ljus."],
-    ["Hur bokar vi?", "Efter fikat skickar jag avtal och en faktura på 30 procent. Resten betalas en månad före bröllopet."]
+    ["Och om det regnar på Öland?", "Då flyttar vi porträtten till en lada eller kyrkporten. Mulet väder ger dessutom mjukt och fint ljus."],
+    ["Hur blir datumet ert?", "Säg ja efter fikat, så får ni avtalet via mejl. När första delbetalningen på 30 procent är gjord stryker jag lördagen i kalendern. Resterande belopp betalar ni senast trettio dagar före bröllopet."]
   ],
   "priser": [
-    {"namn": "Alvaret", "pris": "12 500 kr", "enhet": "2,5 timmar", "text": "Vigsel, gruppbild och porträtt i kvällsljus.", "punkter": ["Cirka 200 bilder", "Fika eller video före", "Onlinegalleri att dela", "Leverans inom tre veckor"]},
+    {"namn": "Alvaret", "pris": "12 500 kr", "enhet": "2,5 timmar", "text": "Vigsel, gruppbild och porträtt i kvällsljus.", "punkter": ["Runt 200 ljusa bilder", "Fika eller video före", "Galleri som gästerna kan ladda ned från", "Bilderna klara på tre veckor"]},
     {"namn": "Sommarheldag", "pris": "26 900 kr", "enhet": "upp till 10 timmar", "text": "Hela dagen, med assistent.", "punkter": ["500–700 bilder", "Assistent hela dagen", "Tidsplan med solnedgång", "Förlovningsfoto på våren"], "utvald": true},
     {"namn": "Heldag och bok", "pris": "34 900 kr", "enhet": "heldag + bröllopsbok", "text": "Sommarheldagen och en linnebunden bok.", "punkter": ["Allt i Sommarheldag", "Bok 25 × 25 cm, 40 uppslag", "Två föräldraböcker", "50 tackkort med era bilder"]}
   ],
-  "prislista": [["Extra timme", "2 400 kr"], ["Förlovningsfoto", "2 900 kr"], ["Föräldrabok 20 × 20", "1 900 kr"], ["Tackkort, 50 st", "950 kr"], ["Bröllop utanför Öland och Kalmar", "30 kr/mil"]],
+  "prislista": [["Extra timme", "2 400 kr"], ["Förlovning bland vallmo", "2 900 kr"], ["Föräldrabok 20 × 20", "1 900 kr"], ["Tackkort, 50 st", "950 kr"], ["Bröllop utanför Öland och Kalmar", "30 kr/mil"]],
   "galleri_taggar": ["brollop", "brudpar", "fest", "detalj"],
   "nyheter": [
     ["2026-09-24", "Sommaren 2027 är öppen", "Midsommarafton och de tre första lördagarna i augusti är redan bokade.", "brollop"],
@@ -107,7 +107,7 @@
     "omdomen_rubrik": "Par som gifte sig på Öland",
     "faq_rubrik": "Bra att veta innan ni bokar",
     "priser_rubrik": "Paket för sommarbröllop",
-    "priser_not": "Alla priser inklusive moms. Resor på Öland och i Kalmar ingår.",
+    "priser_not": "Inklusive moms. Hela Öland och Kalmar utan resekostnad.",
     "galleri_rubrik": "Ljus från alvaret",
     "boka_rubrik": "Är er sommarlördag ledig?",
     "boka_text": "Skriv datum och plats på ön så svarar jag inom två dagar.",

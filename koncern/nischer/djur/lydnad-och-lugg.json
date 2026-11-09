@@ -1,0 +1,130 @@
+{
+  "profil": "djur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Lydnad & Lugg Hundskola AB",
+  "kortnamn": "Lydnad & Lugg",
+  "slug": "lydnad-och-lugg",
+  "typ": "Hundskola och trimsalong i Örebro",
+  "tagline": "Kurser och klipp",
+  "slogan": "Valpkurs på kvällen, trimning på dagen – i en gammal verkstadslokal på Aspholmen med eget träningsgolv.",
+  "hero_rubrik": "Vi tränar hunden och klipper den också",
+  "hero_text": "Valpkurser, vardagslydnad och hanteringsträning i samma hus som trimsalongen. En hund som är van vid bordet klipps lugnare.",
+  "intro_rubrik": "Hundskola och salong under samma tak",
+  "om": [
+    "Lydnad & Lugg startade 2016 när hundinstruktören Petra Sandberg och hundfrisören Sofia Nyman slog ihop sina verksamheter i en före detta mekanisk verkstad på Aspholmen. Hälften av lokalen är träningshall med gummigolv på 180 kvadratmeter, andra hälften trimsalong.",
+    "Idén var enkel: Sofia märkte att de hundar som var svårast att klippa ofta aldrig hade lärt sig att stå still och bli hanterade. Nu ingår hanteringsövningar i alla våra valpkurser, och kursdeltagare får tio procent rabatt i salongen."
+  ],
+  "vagval_rubrik": "Kurs, klipp eller både och?",
+  "tjanster": [
+    {"titel": "Valpkurs", "ikon": "skola", "href": "verksamhet.html", "text": "Sex träffar för valpar 10–20 veckor, med hanteringsträning varje gång."},
+    {"titel": "Vardagslydnad", "ikon": "folk", "href": "verksamhet.html", "text": "Inkallning, koppelgång och att vänta – i grupper om sex ekipage."},
+    {"titel": "Hanteringskurs", "ikon": "tass", "href": "verksamhet.html", "text": "Tre träffar för hundar som inte gillar kloklipp, kam eller veterinärbesök."},
+    {"titel": "Trimning", "ikon": "sax", "href": "verksamhet.html", "text": "Bad, klipp och trim av alla raser i salongen dagtid."},
+    {"titel": "Privatlektion", "ikon": "kalender", "href": "verksamhet.html", "text": "En timme med instruktör, i hallen eller i din närmiljö."},
+    {"titel": "Unghundskurs", "ikon": "upp", "href": "verksamhet.html", "text": "Fem träffar för hundar 6–18 månader när tonåren slår till."},
+    {"titel": "Kurser och priser", "ikon": "dokument", "href": "priser.html", "text": "Kurspaket, trimpriser och rabatt för kursdeltagare."},
+    {"titel": "Anmälan", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Anmäl dig till nästa kursstart eller boka trimtid."}
+  ],
+  "affarsomraden": [
+    {"titel": "Valpkurs med hantering", "text": "Sex träffar à 75 minuter där vi tränar kontakt, inkallning och att sitta still. Varje träff avslutas med fem minuter på trimbordet där valpen får känna kam, tassklämning och ljudet av en trimmer.", "text2": "Kursen startar var fjärde vecka, tisdagar och torsdagar.", "tagg": "valp"},
+    {"titel": "Vardagslydnad", "text": "För hundar som drar i kopplet, inte kommer på inkallning eller hoppar på gäster. Vi tränar inomhus i hallen och ute i Stadsparken.", "text2": "Max sex ekipage per grupp och två instruktörer.", "tagg": "hundtraning"},
+    {"titel": "Hanteringsträning", "text": "Medical training och kooperativ hantering för hundar som stressar av kloklipp, öronrengöring eller veterinärbesök. Hunden lär sig att signalera när den är redo.", "text2": "Tre träffar, individuellt eller i par.", "tagg": "hundtraning"},
+    {"titel": "Trimsalongen", "text": "Sofia klipper och trimmar alla raser dagtid, mellan kurserna. Kursdeltagare får tio procent rabatt och förtur på lördagstider.", "text2": "Valpar från kursen får sin första klippning till halva priset.", "tagg": "trimning"}
+  ],
+  "bolag": [
+    {"namn": "Petra Sandberg", "segment": "Delägare och hundinstruktör", "rubrik": "Instruktör sedan 2005", "text": "Petra är certifierad hundinstruktör och tävlar i bruks med sin malinois. Hon håller i valp- och lydnadskurserna.", "tagg": "hundtraning"},
+    {"namn": "Sofia Nyman", "segment": "Delägare, salongsansvarig", "rubrik": "Klipper och tränar hantering", "text": "Sofia har gesällbrev i hundtrimning och leder hanteringskurserna. Hon har klippt i Örebro i femton år.", "tagg": "trimning"},
+    {"namn": "Oscar Hedlund", "segment": "Hundinstruktör", "rubrik": "Unghundarnas instruktör", "text": "Oscar håller unghundskurserna och privatlektionerna. Han har en bakgrund som djurvårdare och en egen labrador i tonåren.", "tagg": "hundtraning"}
+  ],
+  "berattelser": [
+    {"rubrik": "Vårens valpkurser öppnar", "text": "Fyra grupper startar i januari, och två av dem är redan halvfulla.", "tagg": "valp"},
+    {"rubrik": "Från bitig till bordsvan", "text": "En shiba som inte gick att klippa klorna på står nu still i fem minuter efter tre hanteringsträffar.", "tagg": "hundtraning"},
+    {"rubrik": "Nytt gummigolv i hallen", "text": "180 kvadratmeter halkfritt golv som tål både löpning och vatten.", "tagg": "hundtraning"}
+  ],
+  "nyckeltal": [
+    {"varde": "180", "enhet": "m²", "etikett": "Träningshall inomhus"},
+    {"varde": "6", "enhet": "ekipage", "etikett": "Max per kursgrupp"},
+    {"varde": "1 400", "enhet": "", "etikett": "Hundar i våra kurser"},
+    {"varde": "10 %", "enhet": "", "etikett": "Trimrabatt för kursare"}
+  ],
+  "projekt": [
+    {"namn": "Yuki", "ort": "Shiba", "typ": "Hanteringskurs och kloklipp", "ar": "2026", "text": "Från att bita vid kloklipp till att själv lägga tassen i handen.", "tagg": "hundtraning"},
+    {"namn": "Zelda", "ort": "Australian shepherd", "typ": "Valpkurs och första bad", "ar": "2026", "text": "Sex träffar i hallen och en första klippning till halva priset.", "tagg": "valp"},
+    {"namn": "Harry", "ort": "Cocker spaniel", "typ": "Trimning", "ar": "2025", "text": "Gick valpkurs 2023, klipps nu var åttonde vecka utan ett gnäll.", "tagg": "trimning", "status": "Stamkund"},
+    {"namn": "Ozzy", "ort": "Labrador", "typ": "Unghundskurs", "ar": "2025", "text": "Fjorton månader, och för första gången inkallning i Stadsparken.", "tagg": "hundtraning"},
+    {"namn": "Bonnie", "ort": "Dvärgschnauzer", "typ": "Trimning", "ar": "2026", "text": "Kort kropp och kvar skägg, med paus för godis halvvägs.", "tagg": "trimning", "status": "Stamkund"},
+    {"namn": "Assar", "ort": "Golden retriever", "typ": "Vardagslydnad", "ar": "2025", "text": "Slutade dra i kopplet efter fem veckor – matte kan gå med barnvagn igen.", "tagg": "hundtraning"}
+  ],
+  "process": [
+    {"titel": "Välj kurs eller tid", "text": "Anmäl dig till en kursstart eller boka trimtid i salongen.", "tagg": "hundtraning"},
+    {"titel": "Hälsa i hallen", "text": "Första träffen börjar utan hundar för förarna, så att alla vet vad vi ska göra.", "tagg": "hundtraning"},
+    {"titel": "Träna hantering", "text": "Varje träff slutar på trimbordet, med kam, tassar och belöning.", "tagg": "valp"},
+    {"titel": "Första klippningen", "text": "När kursen är klar bokar du valpens första klipp till halva priset.", "tagg": "trimning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Belöning, inte tvång – både i hallen och på bordet",
+    "text": "Vi tränar med positiv förstärkning och använder aldrig strypkoppel eller korrigeringar. Samma princip gäller i salongen: en hund som säger nej får paus, och vi tränar vidare nästa gång.",
+    "mal": [["0", "strypkoppel i hallen"], ["6", "ekipage per grupp som mest"], ["50 %", "på valpens första klipp"]]
+  },
+  "karriar": {"rubrik": "Ny hos oss? Börja med en prova-på-kväll", "text": "Första torsdagen varje månad har vi öppet hus i hallen klockan 18. Ta med valpen, träffa instruktörerna och titta in i salongen.", "jobb": []},
+  "kultur": "Alla valpar som går kurs får komma in i salongen och sitta på bordet gratis mellan kursträffarna.",
+  "citat": {"text": "De svåraste hundarna att klippa var aldrig elaka. De hade bara aldrig fått lära sig hur det går till. Det kan vi ändra på redan vid tio veckors ålder.", "namn": "Sofia Nyman", "roll": "Delägare och hundfrisör", "tagg": "trimning"},
+  "omdomen": [
+    {"text": "Yuki bet förra frisören. Efter hanteringskursen ger hon själv Sofia tassen. Jag trodde inte att det var möjligt.", "namn": "Kristoffer M.", "ort": "Örebro"},
+    {"text": "Valpkursen gav oss mer än lydnad. Zelda tycker att trimbordet är det roligaste i hela huset.", "namn": "Hanna F.", "ort": "Kumla"},
+    {"text": "Oscar fick Ozzy att komma på inkallning mitt i en hundrastgård. Det säger allt.", "namn": "Ali R.", "ort": "Hallsberg"}
+  ],
+  "faq": [
+    ["Hur gammal ska valpen vara för valpkurs?", "Mellan 10 och 20 veckor vid kursstart. Äldre hundar hänvisar vi till unghundskursen."],
+    ["Måste man gå kurs för att få trimma hos er?", "Nej, salongen är öppen för alla. Kursdeltagare får tio procent rabatt."],
+    ["Vad är hanteringsträning?", "Träning där hunden lär sig att bli undersökt, klippt och kammad – och att signalera när den är redo. Det kallas också kooperativ hantering."],
+    ["Tränar ni inomhus?", "Ja, i vår hall på 180 kvadratmeter. Vissa träffar i vardagslydnaden hålls i Stadsparken."],
+    ["Vad händer om vi missar en kursträff?", "Du får gå på samma träff i nästa kursomgång utan kostnad."],
+    ["Hur avbokar jag en trimtid?", "Senast 24 timmar innan. Senare debiteras 250 kronor."],
+    ["Kan man köpa presentkort?", "Ja, i valfritt belopp eller som en hel valpkurs."]
+  ],
+  "priser": [
+    {"namn": "Valpkurs", "pris": "2 400 kr", "enhet": "6 träffar à 75 min", "text": "Grundträning och hantering för valpar 10–20 veckor.", "punkter": ["Kontakt, inkallning och koppel", "Hantering på trimbordet varje gång", "Max sex ekipage", "Första klippningen till halva priset"], "utvald": true},
+    {"namn": "Trimning", "pris": "fr. 695 kr", "enhet": "per tillfälle", "text": "Bad, klipp och kloklipp i salongen.", "punkter": ["Bad och fön", "Klippning efter ras", "Kloklipp och öron", "10 % för kursdeltagare"]},
+    {"namn": "Hanteringskurs", "pris": "1 800 kr", "enhet": "3 individuella träffar", "text": "För hundar som stressar av kloklipp, kam och veterinär.", "punkter": ["Kooperativ hantering", "Träning på trimbordet", "Hemuppgifter mellan träffarna", "Uppföljning vid nästa klippning"]}
+  ],
+  "prislista": [["Unghundskurs, 5 träffar", "2 200 kr"], ["Vardagslydnad, 6 träffar", "2 400 kr"], ["Privatlektion, 60 min", "750 kr"], ["Trim liten hund, t.ex. bichon", "fr. 695 kr"], ["Trim mellan, t.ex. cocker spaniel", "fr. 895 kr"], ["Trim stor, t.ex. golden retriever", "fr. 1 095 kr"], ["Bad och utblåsning", "fr. 495 kr"], ["Kloklipp", "150 kr"]],
+  "galleri_taggar": ["hundtraning", "valp", "trimning", "hund"],
+  "bild": {"panel": "hundtraning", "sida_faq": "hundtraning"},
+  "nyheter": [
+    ["2026-10-16", "Kloklipp hemma utan brottning", "Tre övningar från hanteringskursen som du kan göra vid soffan.", "hundtraning"],
+    ["2026-08-25", "Så väljer du rätt valpkurs", "Fem frågor att ställa till hundskolan innan du anmäler dig.", "valp"],
+    ["2026-03-09", "Unghundens tonår", "Varför inkallningen försvinner vid åtta månader – och hur du får tillbaka den.", "hundtraning"]
+  ],
+  "kontakt": {"adress": "Aspholmsvägen 14", "postnr": "703 76", "ort": "Örebro", "telefon": "070-174 06 48", "epost": "kurs@lydnadochlugg.se", "orgnr": ""},
+  "oppettider": "Salong mån–fre 9–16, kurser kvällar och helger",
+  "omrade": "Örebro, Kumla, Hallsberg och Lindesberg",
+  "fot_cta": "Nästa valpkurs startar snart – anmäl dig eller boka en trimtid.",
+  "text": {
+    "kontakt_knapp": "Anmälan",
+    "vagval_etikett": "Kurser och klipp",
+    "ber_etikett": "Från hallen",
+    "ber_rubrik": "Senast på kurs och i salongen",
+    "ber_utvalt": "Veckans elev",
+    "proj_etikett": "Elever",
+    "proj_rubrik": "Elever och stamkunder",
+    "proj_kol": ["Hund", "Ras", "Kurs eller behandling", "Status", "År"],
+    "process_rubrik": "Från kursstart till första klippning",
+    "hb_etikett": "Träningsfilosofi",
+    "hb_lank": "Så tränar vi",
+    "omdomen_rubrik": "Kursdeltagare berättar",
+    "faq_rubrik": "Om kurser och trim",
+    "priser_etikett": "Kurser och priser",
+    "priser_rubrik": "Kurs, klipp eller hantering",
+    "priser_not": "Kursavgiften betalas vid anmälan. Trimpriser gäller välvårdad päls.",
+    "galleri_rubrik": "I hallen och på bordet",
+    "boka_rubrik": "Anmälan och bokning",
+    "boka_text": "Skriv om du vill gå kurs eller boka trim, och berätta hundens ålder och ras.",
+    "boka_falt": ["Ditt namn", "Telefon", "Hundens namn, ålder och ras", "Kurs eller behandling"],
+    "boka_knapp": "Skicka anmälan",
+    "ny_rubrik": "Träningstips",
+    "panel_etikett": "Öppet hus",
+    "sida_bolag_ingress": "Vi är {n} instruktörer och frisörer i samma hus.",
+    "sida_verksamhet_etikett": "Kurs och behandling"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "profil": "nisch",
+  "nisch": "rivning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kraftrivning Mitt AB",
+  "kortnamn": "Kraftrivning",
+  "slug": "kraftrivning-mitt",
+  "typ": "Rivning och sanering i Mittnorden",
+  "tagline": "Fyra depåer, ett lag",
+  "slogan": "Mittnordens snabbast växande rivningsföretag – med depåer i Sundsvall, Östersund, Umeå och Örnsköldsvik.",
+  "hero_rubrik": "Från sex rivare till 85 på sju år",
+  "hero_text": "Skolor, sjukhus, kraftstationer och industrihallar mellan Härnösand och Umeå. Egen sanering, egen maskinpark och samma projektmodell i alla fyra depåer.",
+  "intro_rubrik": "Tillväxt med samma arbetssätt överallt",
+  "om": [
+    "Erik Sjödin och Amir Hadžić startade Kraftrivning 2018 med sex anställda, två grävmaskiner och en hyrd lastväxlare i Birsta. Genom att ta ramavtal med kommuner och kraftbolag har vi vuxit till 85 medarbetare och en omsättning på 214 miljoner kronor 2025.",
+    "Varje depå har egna rivare, maskinförare och arbetsledare, men kalkyl, sanering och miljöinventering sköts gemensamt från Sundsvall. Det gör att en beställare i Umeå får samma rivningsplan, samma dokumentation och samma pris per ton som en i Östersund."
+  ],
+  "vagval_rubrik": "Vilken typ av byggnad gäller det?",
+  "tjanster": [
+    {"titel": "Totalrivning", "ikon": "hamare", "href": "verksamhet.html", "text": "Hela byggnader rivs, sorteras och lämnas som planerad mark."},
+    {"titel": "Invändig rivning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Stomrent i skolor, sjukhus och kontor inför ombyggnad."},
+    {"titel": "Kraftstationer", "ikon": "blixt", "href": "verksamhet.html", "text": "Rivning och håltagning i vattenkraftstationer under revisionsstopp."},
+    {"titel": "Asbest och PCB", "ikon": "skold", "href": "verksamhet.html", "text": "Central saneringsenhet som arbetar åt alla fyra depåer."},
+    {"titel": "Håltagning", "ikon": "kugge", "href": "verksamhet.html", "text": "Kärnborrning, sågning och robotrivning med egna operatörer."},
+    {"titel": "Miljöinventering", "ikon": "sok", "href": "verksamhet.html", "text": "Inventering av farligt avfall och material inför rivningslov."},
+    {"titel": "Lediga jobb", "ikon": "folk", "href": "karriar.html", "text": "Vi anställer i alla fyra depåer."},
+    {"titel": "Hitta din depå", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Sundsvall, Östersund, Umeå och Örnsköldsvik."}
+  ],
+  "affarsomraden": [
+    {"titel": "Offentliga byggnader", "text": "Skolor, vårdcentraler och sjukhus är vår största marknad. Vi river ofta i byggnader där resten av verksamheten pågår, med dammväggar, undertryck och arbetstider anpassade efter lektioner och mottagningar.", "text2": "Ramavtal med fyra kommuner och en region ger oss ett fyrtiotal sådana uppdrag om året.", "tagg": "rivning"},
+    {"titel": "Energi och kraft", "text": "Längs Indalsälven och Ljungan river vi i kraftstationer under revisionsstopp – turbinhus, kontrollrum och gamla ställverk. Arbetet sker i skift för att stoppet ska bli så kort som möjligt.", "text2": "Våra arbetsledare har kraftbolagens elsäkerhetsutbildning och arbetar enligt ESA.", "tagg": "industri"},
+    {"titel": "Industri och handel", "text": "Sågverk, lagerhallar och gamla köpcentrum rivs med högrivare och sax, och betongen krossas på plats med vår mobilkross. Metallen sorteras ut direkt och säljs till skrot.", "text2": "Krossad betong kan ofta användas som fyllning på samma tomt.", "tagg": "rivning"},
+    {"titel": "Sanering och inventering", "text": "Den centrala saneringsenheten i Sundsvall tar hand om asbest, PCB och kvicksilver innan rivarna börjar, i alla fyra regionerna. Miljöinventerarna tar fram underlaget till byggnadsnämnden.", "text2": "En gemensam enhet gör att vi kan flytta personal dit behovet är störst samma vecka.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Kraftrivning Sundsvall", "segment": "Huvudkontor, 34 medarbetare", "rubrik": "Kalkyl, sanering och Medelpad", "text": "Huvudkontor i Birsta med kalkyl, inköp och den centrala saneringsenheten. Täcker Sundsvall, Timrå och Härnösand.", "tagg": "kontor"},
+    {"namn": "Kraftrivning Jämtland", "segment": "Östersund, 18 medarbetare", "rubrik": "Fjällnära rivning", "text": "Depå på Lugnvik med uppdrag från Åre till Bräcke, ofta i turistanläggningar och kraftstationer.", "tagg": "rivning"},
+    {"namn": "Kraftrivning Umeå", "segment": "Umeå, 21 medarbetare", "rubrik": "Västerbottens växande stad", "text": "Den snabbast växande depån, med fokus på skolor, studentbostäder och industri på Västerslätt.", "tagg": "rivning"},
+    {"namn": "Kraftrivning Höga Kusten", "segment": "Örnsköldsvik, 12 medarbetare", "rubrik": "Industri och hamn", "text": "Öppnade 2025 för att möta behovet från industri och hamn kring Örnsköldsvik och Kramfors.", "tagg": "industri"}
+  ],
+  "kontor_lista": [
+    ["Sundsvall", "Huvudkontor och central sanering, Gesällvägen 12, Birsta"],
+    ["Östersund", "Depå med maskinverkstad, Lugnviksvägen 41"],
+    ["Umeå", "Depå och sorteringsplats, Västerslätt"],
+    ["Örnsköldsvik", "Depå sedan 2025, Domsjö industriområde"],
+    ["Härnösand", "Arbetsledning för Härnösand och Kramfors"]
+  ],
+  "kontor_rubrik": "Fyra depåer i Mittnorden",
+  "kontor_text": "Alla depåer har egna rivare och maskiner. Kalkyl och sanering sköts gemensamt från Sundsvall.",
+  "berattelser": [
+    {"rubrik": "Höga Kusten-depån fyller ett år", "text": "Tolv anställda och elva uppdrag sedan starten i Örnsköldsvik i oktober 2025.", "tagg": "people"},
+    {"rubrik": "Turbinhuset i Indalsälven", "text": "Ett ställverk från 1961 revs under ett tre veckor långt revisionsstopp – två dagar före plan.", "tagg": "industri"},
+    {"rubrik": "Skolan på Ålidhem", "text": "Invändig rivning av 6 400 kvadratmeter under sommarlovet, klart till skolstarten.", "tagg": "rivning"}
+  ],
+  "nyckeltal": [
+    {"varde": "85", "enhet": "", "etikett": "Medarbetare, från 6 år 2018"},
+    {"varde": "214", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "4", "enhet": "depåer", "etikett": "I Mittnorden"},
+    {"varde": "38", "enhet": "", "etikett": "Ramavtalsuppdrag 2025"}
+  ],
+  "projekt": [
+    {"namn": "Ålidhemsskolan", "ort": "Umeå", "typ": "Invändig rivning", "ar": "2026", "text": "6 400 kvadratmeter stomrent på nio sommarveckor, inklusive asbestmattor i två plan.", "tagg": "rivning"},
+    {"namn": "Kraftstation i Indalsälven", "ort": "Bispgården", "typ": "Rivning under revisionsstopp", "ar": "2025", "text": "Ställverk och kontrollrum från 1961 revs i skift dygnet runt.", "tagg": "industri"},
+    {"namn": "Gamla vårdcentralen", "ort": "Timrå", "typ": "Totalrivning", "ar": "2025", "text": "Sanering av PCB-fogar och rivning till platta på sju veckor.", "tagg": "rivning"},
+    {"namn": "Sågverkshallen vid Ljungan", "ort": "Ånge", "typ": "Industririvning", "ar": "2025", "text": "En 9 000 kvadratmeter stor såghall, med 380 ton stål sålt till skrot.", "tagg": "industri"},
+    {"namn": "Hotell i Åre by", "ort": "Åre", "typ": "Invändig rivning", "ar": "2024", "text": "Fyra våningsplan rivna mellan vintersäsongerna med begränsad tillfart.", "tagg": "interior"},
+    {"namn": "Hamnmagasinet", "ort": "Örnsköldsvik", "typ": "Totalrivning och sanering", "ar": "2026", "text": "Ett magasin från 1940-talet med asbesttak rivs för att ge plats åt ny kaj.", "tagg": "rivning", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Kalkyl från Sundsvall", "text": "Centralt kalkylteam räknar alla anbud med samma prismodell per ton och kvadratmeter.", "tagg": "kontor"},
+    {"titel": "Inventering", "text": "Miljöinventerarna kartlägger farligt avfall och tar fram rivningsplanen.", "tagg": "bygg"},
+    {"titel": "Sanering och rivning", "text": "Saneringsenheten går först, sedan tar depåns rivare och maskinförare över.", "tagg": "rivning"},
+    {"titel": "Slutrapport", "text": "Vägningskvitton, avfallsrapport och foton samlade i en digital slutrapport.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Samma säkerhet i varje depå",
+    "text": "När ett företag växer snabbt är säkerheten det första som riskerar att halka efter. Därför går varje nyanställd samma introduktionsvecka i Sundsvall, och alla depåer följer samma skyddsronder och avvikelserapportering.",
+    "mal": [["3,1", "olycksfall per miljon arbetstimmar 2025"], ["91 %", "sorteringsgrad på våra arbetsplatser"], ["1 vecka", "introduktion för varje nyanställd"]]
+  },
+  "karriar": {"rubrik": "Vi växer – och behöver fler", "text": "Vi anställde 21 personer under 2025 och fortsätter i samma takt. Hos oss kan du byta depå om du flyttar, och vi betalar maskinförarutbildning för den som vill.", "jobb": [["Arbetsledare rivning", "Umeå"], ["Maskinförare", "Östersund"], ["Asbestsanerare", "Sundsvall"], ["Kalkylator", "Sundsvall"]]},
+  "kultur": "Alla nyanställda – oavsett depå – börjar med en vecka i Sundsvall och fikar med Erik och Amir.",
+  "citat": {"text": "Vi har vuxit fort, men en sak har vi aldrig ändrat: samma plan, samma kvitton och samma krav i alla depåer. Det är därför kommunerna vågar ge oss ramavtal.", "namn": "Amir Hadžić", "roll": "Medgrundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi har två ramavtal med Kraftrivning, i Sundsvall och Umeå. Rapporterna ser exakt likadana ut, vilket gör jämförelsen enkel.", "namn": "Karin W.", "ort": "Sundsvall"},
+    {"text": "De rev ställverket två dagar före plan. För oss betyder det två dagar mindre produktionsbortfall.", "namn": "Stefan L.", "ort": "Bispgården"},
+    {"text": "Skolan stod stomren när lärarna kom tillbaka efter sommaren. Ingen trodde att det skulle hinnas.", "namn": "Lotta F.", "ort": "Umeå"}
+  ],
+  "faq": [
+    ["Vilka områden täcker ni?", "Västernorrland, Jämtland och södra Västerbotten. Större uppdrag tar vi även i Gävleborg och Norrbotten."],
+    ["Lämnar ni anbud i offentliga upphandlingar?", "Ja, och vi har ramavtal med flera kommuner och en region. Vi uppfyller normalt krav på ISO-certifiering och kollektivavtal."],
+    ["Kan ni riva medan verksamheten är igång?", "Ja. Vi arbetar med dammväggar, undertryck och tidsplaner anpassade efter skolor, vård och industri."],
+    ["Hur hanteras farligt avfall?", "Vår saneringsenhet tar hand om asbest, PCB och kvicksilver och kör det med eget tillstånd till godkänd mottagare."],
+    ["Hur snabbt kan ni starta?", "Mindre uppdrag kan starta inom två veckor. Större projekt planeras normalt två till tre månader fram."],
+    ["Krossar ni betongen på plats?", "Ja, med vår mobilkross när tomten tillåter. Den krossade betongen kan ofta användas som fyllning på platsen."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001, 14001, 45001", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö i alla depåer.", "ikon": "dokument"},
+    {"titel": "Asbesttillstånd", "text": "Arbetsmiljöverkets tillstånd för asbestsanering, gemensamt för hela företaget.", "ikon": "skold"},
+    {"titel": "ESA och elsäkerhet", "text": "Arbetsledare med elsäkerhetsutbildning enligt ESA för arbete i kraftanläggningar.", "ikon": "blixt"},
+    {"titel": "Kollektivavtal", "text": "Medlemmar i Byggföretagen med Byggnads kollektivavtal för alla yrkesarbetare.", "ikon": "folk"}
+  ],
+  "kunder": ["Selångers Fastigheter", "Indalsälvens Kraft", "Umeå Campusfastigheter", "Östersunds Skolfastigheter", "Ånge Sågverk", "Brf Norra Stadsberget", "Örnsköldsviks Hamn & Terminal", "Region Mittnorrs Vårdfastigheter"],
+  "nyheter": [
+    ["2026-10-01", "Ett år i Örnsköldsvik", "Depån på Domsjö har vuxit till tolv anställda och tagit sitt första hamnuppdrag.", "people"],
+    ["2026-08-14", "Ålidhemsskolan klar till skolstart", "6 400 kvadratmeter stomrent på nio veckor – så planerade vi sommaren.", "rivning"],
+    ["2026-03-05", "Omsättningen passerade 200 miljoner", "Bokslutet för 2025 visar 214 miljoner kronor och 21 nyanställda.", "kontor"],
+    ["2025-10-20", "Ny depå på Höga Kusten", "Vi öppnar i Örnsköldsvik för att komma närmare industrin och hamnen.", "industri"]
+  ],
+  "kontakt": {"adress": "Gesällvägen 12", "postnr": "863 37", "ort": "Sundsvall", "telefon": "070-174 06 73", "epost": "info@kraftrivning.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16 i alla depåer",
+  "omrade": "Västernorrland, Jämtland och södra Västerbotten",
+  "fot_cta": "Har ni ett rivningsprojekt i Mittnorden? Vi lämnar anbud inom tio arbetsdagar.",
+  "bild": {"hb": "people"},
+  "text": {
+    "hero_knapp": "Vad vi river",
+    "hero_lank": "Se uppdrag",
+    "vagval_etikett": "Byggnadstyper",
+    "ber_etikett": "Från depåerna",
+    "ber_rubrik": "Nytt i Mittnorden",
+    "proj_rubrik": "Uppdrag från Åre till Umeå",
+    "process_etikett": "En modell, fyra depåer",
+    "process_rubrik": "Samma rivningsplan överallt",
+    "hb_etikett": "Arbetsmiljö",
+    "omdomen_rubrik": "Beställare med ramavtal",
+    "faq_rubrik": "Frågor från beställare",
+    "certifikat_rubrik": "Certifierade för offentliga upphandlingar",
+    "logos_rubrik": "Ramavtal och återkommande kunder",
+    "kontor_etikett": "Depåer",
+    "boka_rubrik": "Begär anbud",
+    "boka_text": "Beskriv byggnaden och vilken depå som ligger närmast, så kontaktar en kalkylator dig inom två arbetsdagar.",
+    "boka_knapp": "Skicka anbudsförfrågan",
+    "meny_bolag": "Depåer",
+    "bolag_rubrik": "Fyra depåer, en organisation",
+    "sida_bolag_ingress": "Kraftrivning består av {n} depåer med egna rivare och maskiner – och en gemensam kalkyl och sanering i Sundsvall.",
+    "panel_etikett": "Vi anställer"
+  }
+}

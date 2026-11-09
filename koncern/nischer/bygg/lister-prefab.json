@@ -1,0 +1,131 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Lister Prefab AB",
+  "kortnamn": "Lister Prefab",
+  "slug": "lister-prefab",
+  "typ": "Modulbyggda bostäder från Blekinge",
+  "tagline": "Byggt inomhus i Mjällby",
+  "slogan": "Vi bygger flerbostadshus, studentbostäder och LSS-boenden som volymelement i vår fabrik på Listerlandet – och monterar dem på några dagar.",
+  "hero_rubrik": "Huset byggs inomhus. Regnet får vänta.",
+  "hero_text": "Modulbyggda bostäder i trä från fabriken i Mjällby: 85 procent av bygget sker under tak, montaget går på en lägenhet om dagen.",
+  "intro_rubrik": "En fabrik som levererar ett hem varje arbetsdag",
+  "om": [
+    "Lister Prefab startade 2009 i en nedlagd möbelfabrik i Mjällby med åtta anställda och en order på tolv studentrum i Karlskrona. I dag har vi 112 anställda, varav 68 i fabriken, och har levererat drygt 2 300 lägenheter till fastighetsägare i Blekinge, Skåne och Småland.",
+    "Varje volymelement lämnar fabriken med kök, badrum, el, golv och tapeter färdiga. På byggplatsen återstår grund, montage, tak och anslutningar – det gör att ett flerbostadshus med 48 lägenheter kan vara inflyttningsklart fyra månader efter att grunden är gjuten."
+  ],
+  "vagval_rubrik": "Vad ska fabriken bygga åt er?",
+  "tjanster": [
+    {"titel": "Flerbostadshus", "ikon": "hus", "href": "verksamhet.html", "text": "Hyres- och bostadsrätter i två till sex våningar."},
+    {"titel": "Studentbostäder", "ikon": "skola", "href": "verksamhet.html", "text": "Kompakta rum och korridorer, levererade före terminsstart."},
+    {"titel": "LSS & trygghetsboenden", "ikon": "vard", "href": "verksamhet.html", "text": "Tillgängliga lägenheter med gemensamhetsdel."},
+    {"titel": "Paviljonger", "ikon": "lada", "href": "verksamhet.html", "text": "Tillfälliga förskolor och skolor att hyra eller köpa."},
+    {"titel": "Fabriken i Mjällby", "ikon": "fabrik", "href": "bolag.html", "text": "26 000 kvm produktion med fem parallella linjer."},
+    {"titel": "Konstruktion & projektering", "ikon": "ritning", "href": "bolag.html", "text": "Egna konstruktörer som anpassar huset till detaljplanen."},
+    {"titel": "Montage", "ikon": "kran", "href": "verksamhet.html", "text": "Egna montagelag och mobilkran – en lägenhet om dagen."},
+    {"titel": "Besök fabriken", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Se produktionen och provbo i vår visningsmodul."}
+  ],
+  "affarsomraden": [
+    {"titel": "Flerbostadshus i moduler", "text": "Vi bygger hyreshus och bostadsrätter i två till sex våningar, med fasader i trä, puts eller tegel. Husen har samma livslängd och ljudkrav som platsbyggda hus.", "text2": "Standardsystemet Lister 4 ger lägenheter från 28 till 92 kvm med fri planlösning inom modulmåtten.", "tagg": "bostad"},
+    {"titel": "Studentbostäder", "text": "Kompakta lägenheter på 18–30 kvm med eget pentry och badrum. Montaget planeras så att huset står klart till augusti.", "text2": "Vi har levererat 840 studentlägenheter till Karlskrona, Växjö och Kristianstad.", "tagg": "bostad"},
+    {"titel": "Omsorgsboenden", "text": "LSS-gruppbostäder och trygghetsboenden med breda dörrar, takliftar och personalutrymmen. Vi tar fram planlösningar tillsammans med kommunens verksamhet.", "text2": "Ett LSS-boende med sex lägenheter monteras på fyra dagar.", "tagg": "hem"},
+    {"titel": "Paviljonger och tillfälliga lokaler", "text": "När en skola byggs om eller en förskola växer snabbt hyr vi ut moduler som klassrum, kontor eller förskoleavdelningar. Hyrtiden är från ett år.", "text2": "Modulerna återanvänds i nya projekt – vissa har flyttat fyra gånger.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Fabriken", "segment": "Produktion i Mjällby", "rubrik": "Fem linjer, 68 hantverkare", "text": "Snickare, elektriker, rörläggare och målare som bygger volymelementen i fabrikshallen, med kvalitetskontroll vid varje station.", "tagg": "industri"},
+    {"namn": "Projektering", "segment": "Konstruktion och projektledning", "rubrik": "Detaljplanen först, modulerna sedan", "text": "Konstruktörer och projektledare som anpassar husen efter tomt och detaljplan och tar fram bygglovshandlingar med kundens arkitekt.", "tagg": "kontor"},
+    {"namn": "Montage", "segment": "Byggplats och färdigställande", "rubrik": "Från lastbil till nyckel", "text": "Fyra montagelag som lyfter, kopplar ihop och färdigställer husen på plats, med egen mobilkran på 220 ton.", "tagg": "bygg"},
+    {"namn": "Lister Paviljong", "segment": "Uthyrning av moduler", "rubrik": "Lokaler som kan flytta", "text": "Dotterbolag som hyr ut och säljer tillfälliga skol-, förskole- och kontorsmoduler i södra Sverige.", "tagg": "anlaggning"}
+  ],
+  "berattelser": [
+    {"rubrik": "54 lägenheter i Hässleholm lyfts på plats", "text": "Montaget av kvarteret Mejeriet började i oktober och de första hyresgästerna flyttar in i februari.", "tagg": "bostad"},
+    {"rubrik": "Linje fem i fabriken är igång", "text": "Kapaciteten ökar till 280 moduler per år efter en investering på 38 miljoner kronor.", "tagg": "industri"},
+    {"rubrik": "Paviljongerna från Ronneby flyttar till Olofström", "text": "Tolv förskolemoduler som stått i fyra år blir nya klassrum för en skola i Jämshög.", "tagg": "bygg"}
+  ],
+  "nyckeltal": [
+    {"varde": "2 300", "enhet": "lgh", "etikett": "Levererade sedan 2009"},
+    {"varde": "85 %", "enhet": "", "etikett": "Av bygget sker inomhus"},
+    {"varde": "1", "enhet": "lgh/dag", "etikett": "Montagetakt på byggplatsen"},
+    {"varde": "112", "enhet": "", "etikett": "Anställda, 68 i fabriken"}
+  ],
+  "projekt": [
+    {"namn": "Kv. Mejeriet", "ort": "Hässleholm", "typ": "Flerbostadshus", "ar": "2026", "text": "54 hyreslägenheter i fyra våningar med träfasad och solceller.", "tagg": "bostad"},
+    {"namn": "Studentbyn Gräsvik", "ort": "Karlskrona", "typ": "Studentbostäder", "ar": "2025", "text": "120 studentlägenheter i tre hus, monterade på sex veckor under våren.", "tagg": "bostad"},
+    {"namn": "Kv. Sillen", "ort": "Sölvesborg", "typ": "Bostadsrätter", "ar": "2025", "text": "36 bostadsrätter med tegelfasad nära hamnen – inflyttade fyra månader efter grundgjutning.", "tagg": "bostad"},
+    {"namn": "Gruppbostaden Solgläntan", "ort": "Ronneby", "typ": "LSS-boende", "ar": "2024", "text": "Sex lägenheter och personaldel, monterade på fyra dagar.", "tagg": "hem"},
+    {"namn": "Kv. Hamnkontoret", "ort": "Karlshamn", "typ": "Flerbostadshus", "ar": "2024", "text": "48 hyreslägenheter i sex våningar – vårt högsta modulhus hittills.", "tagg": "stad"},
+    {"namn": "Förskolepaviljong Näsby", "ort": "Kristianstad", "typ": "Paviljong", "ar": "2026", "text": "Fyra tillfälliga avdelningar under tiden som ordinarie förskola byggs om.", "tagg": "bygg"}
+  ],
+  "process": [
+    {"titel": "Tomt och detaljplan", "text": "Vi testar hur många lägenheter som ryms med vårt modulsystem och tar fram en volymstudie på två veckor.", "tagg": "kontor"},
+    {"titel": "Projektering och fast pris", "text": "Konstruktion, bygglov och upphandling av grund. Ni får ett fast pris och ett leveransdatum från fabriken.", "tagg": "kontor"},
+    {"titel": "Produktion i fabriken", "text": "Medan grunden gjuts byggs modulerna i Mjällby. Ni är välkomna att besöka linjen och se era lägenheter växa fram.", "tagg": "industri"},
+    {"titel": "Montage och inflyttning", "text": "Modulerna lyfts på plats, kopplas ihop och får tak och fasad. Inflyttning sker åtta till tolv veckor efter första lyftet.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Torrt bygge, mindre spill",
+    "text": "Inomhusproduktion betyder att virket aldrig blir blött och att fukt inte byggs in. Vi beställer material i exakta längder, sorterar spillet i fabriken och värmer hallarna med flis från vårt eget kapspill.",
+    "mal": [["4 %", "materialspill – en tredjedel av ett traditionellt bygge"], ["0", "fuktskador i levererade hus sedan 2015"], ["100 %", "fossilfri el och värme i fabriken"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg hus utan att frysa",
+    "text": "I fabriken jobbar du inomhus, dagtid, med samma kollegor varje dag. Vi har tvåskift på linje ett och två och lär upp både erfarna hantverkare och nya från gymnasiet.",
+    "jobb": [["Snickare, fabrik", "Mjällby"], ["Elektriker, fabrik", "Mjällby"], ["Montageledare", "Södra Sverige"], ["Konstruktör", "Sölvesborg"]]
+  },
+  "kultur": "Varje fredag lottar vi ut ett pass i visningsmodulen för familjen – den har bastu.",
+  "citat": {"text": "Folk tror att prefab betyder likadant. Vi har inte byggt två hus som ser lika ut – det är bara regnet vi har tagit bort.", "namn": "Henrik Ljungqvist", "roll": "Vd och medgrundare", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Från första lyftet till inflyttning gick det tio veckor. Våra hyresgäster i Karlshamn fick nycklarna en månad tidigare än i budgeten.", "namn": "Eva-Lena T.", "ort": "Fastighetschef, Karlshamn"},
+    {"text": "Vi besökte fabriken och såg våra badrum byggas. Det gav en helt annan trygghet än att stå på en lerig byggplats.", "namn": "Anders P.", "ort": "Brf Sillen, Sölvesborg"},
+    {"text": "Paviljongen stod klar över ett sportlov. Barnen gick från gamla förskolan på fredagen och kom till den nya på måndagen.", "namn": "Linda N.", "ort": "Förskolechef, Kristianstad"}
+  ],
+  "faq": [
+    ["Håller ett modulhus lika länge som ett platsbyggt?", "Ja. Husen dimensioneras för 100 års livslängd och uppfyller samma krav på ljud, brand och energi som platsbyggda hus."],
+    ["Hur höga hus kan ni bygga?", "Upp till sex våningar med vårt nuvarande system. Högre hus bygger vi i kombination med en platsgjuten bottenvåning."],
+    ["Vad kostar det?", "Ett flerbostadshus med 40–60 hyreslägenheter landar normalt på 29 000–34 000 kronor per kvadratmeter boarea inklusive grund, exklusive tomt."],
+    ["Kan arkitekten rita fritt?", "Inom modulmåtten är planlösning, fasad och tak fria. Vi rekommenderar att arkitekten är med i en tidig workshop med vår konstruktör."],
+    ["Hur långt kan ni leverera?", "Vi levererar främst inom 25 mil från Mjällby – i praktiken Skåne, Blekinge, Kalmar och Kronobergs län samt Halland."],
+    ["Kan man hyra moduler till en skola?", "Ja, via Lister Paviljong. Minsta hyrtid är ett år och vi sköter etablering, service och bortforsling."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001 & 14001", "text": "Ledningssystem för kvalitet och miljö, certifierat av Kiwa.", "ikon": "skold"},
+    {"titel": "Tredjepartskontroll", "text": "Fabrikens tillverkningskontroll granskas av ett ackrediterat organ två gånger per år.", "ikon": "sok"},
+    {"titel": "Säker Vatten", "text": "Alla badrum och installationer i modulerna byggs enligt Säker Vatten.", "ikon": "vatten"},
+    {"titel": "ID06", "text": "Personalliggare och passerkontroll i fabrik och på byggplats.", "ikon": "las"}
+  ],
+  "certifikat_rubrik": "Kontrollerat vid varje station",
+  "kunder": ["Hanöbukten Fastigheter", "Kustbostäder i Blekinge", "Blekinge Studentbo", "Sölvesborgs kommun", "Ronneby Omsorgsfastigheter", "Kristianstads kommun", "Brf Sillen", "Hässleholms Hyresbostäder AB"],
+  "kunder_rubrik": "De bor i hus från vår fabrik",
+  "nyheter": [
+    ["2026-10-19", "Första lyftet i Hässleholm", "54 lägenheter monteras i kvarteret Mejeriet under sju veckor.", "bostad"],
+    ["2026-06-11", "Linje fem invigd", "Fabriken kan nu bygga 280 moduler om året.", "industri"],
+    ["2026-03-23", "Visningsmodulen har fått bastu", "Kom och provbo en natt i fabriken i Mjällby.", "hem"]
+  ],
+  "kontakt": {"adress": "Fabriksvägen 7", "postnr": "294 72", "ort": "Mjällby", "telefon": "070-174 06 35", "epost": "projekt@listerprefab.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16, fabriksvisning efter bokning",
+  "omrade": "Södra Sverige – inom 25 mil från Mjällby",
+  "fot_cta": "Har ni en tomt med detaljplan? Vi gör en volymstudie på två veckor.",
+  "bild": {"panel": "industri", "hb": "industri", "sida_bolag": "industri"},
+  "text": {
+    "hero_knapp": "Så bygger vi",
+    "hero_lank": "Hus från fabriken",
+    "ber_rubrik": "Senast från fabriksgolvet",
+    "proj_etikett": "Leveranser",
+    "proj_rubrik": "Hus som kom på lastbil",
+    "proj_rubrik_lista": "Levererade och pågående projekt",
+    "process_etikett": "Industriellt byggande",
+    "process_rubrik": "Fyra steg från tomt till inflyttning",
+    "hb_etikett": "Fabrik & miljö",
+    "hb_lank": "Varför inomhus är bättre",
+    "omdomen_etikett": "Beställarna",
+    "omdomen_rubrik": "Fastighetsägare och föreningar om resultatet",
+    "faq_rubrik": "Frågor om modulbyggande",
+    "boka_rubrik": "Boka en fabriksvisning",
+    "boka_text": "Berätta om tomten och antalet lägenheter, så bjuder vi in er till Mjällby.",
+    "boka_falt": ["Namn och organisation", "Telefon", "E-post", "Tomt och antal lägenheter"],
+    "ny_rubrik": "Från Mjällby",
+    "bolag_rubrik": "Fabrik, projektering, montage och uthyrning",
+    "sida_bolag_ingress": "Lister Prefab är organiserat i tre avdelningar och dotterbolaget Lister Paviljong.",
+    "medarbetare": "Fabriken"
+  }
+}

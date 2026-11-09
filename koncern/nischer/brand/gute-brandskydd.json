@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Gute Brandskydd AB",
+  "kortnamn": "Gute Brand",
+  "slug": "gute-brandskydd",
+  "typ": "Brandskydd för gårdar och hus på Gotland",
+  "tagline": "Hela Gotland, hela året",
+  "slogan": "Släckare, brandvarnare och brandskydd för gotländska gårdar, sommarhus, restauranger och hotell innanför muren.",
+  "hero_rubrik": "Hela ön, från Fårö till Hoburgen",
+  "hero_text": "Fem personer, tre servicebilar och en verkstad i Visby. Vi kommer ut till gårdar, sommarhus och företag över hela Gotland – och har fasta priser.",
+  "intro_rubrik": "Gotlänningar som kör till varje socken",
+  "om": [
+    "Ingrid och Tore Lingvall startade Gute Brandskydd 2003, när Tore lämnade räddningstjänsten i Visby efter 22 år. Han hade sett för många ladugårdsbränder där släckarna var tomma och brandvarnarna saknade batteri. I dag driver dottern Elin verksamheten tillsammans med två tekniker och Ingrid, som fortfarande sköter bokningen.",
+    "Vi har kunder i alla 92 socknar. Vintern ägnar vi åt lantbruk, skolor och företag, och från maj till augusti är det sommarhusen och restaurangerna i Visby som gäller. Eftersom färjan kostar för kunderna har vi alltid reservdelar och nya släckare med i bilen."
+  ],
+  "vagval_rubrik": "Vad ska vi skydda?",
+  "tjanster": [
+    {"titel": "Sommarhus", "ikon": "hem", "href": "verksamhet.html", "text": "Varnare, släckare och brandfilt kontrollerade innan ni kommer i juni."},
+    {"titel": "Gårdar och stall", "ikon": "lada", "href": "verksamhet.html", "text": "Värmedetektorer i ladugården och släckare vid varje utgång."},
+    {"titel": "Restauranger", "ikon": "eld", "href": "verksamhet.html", "text": "Släckare, brandfiltar och kökssläcksystem innan säsongen öppnar."},
+    {"titel": "Hus innanför muren", "ikon": "sten", "href": "verksamhet.html", "text": "Diskreta varnare och släckare i kalkstenshus från medeltiden."},
+    {"titel": "Släckarservice", "ikon": "kugge", "href": "verksamhet.html", "text": "Årlig kontroll på plats eller lämna in i verkstaden på Stenhuggarvägen."},
+    {"titel": "Brandvakt Almedalen", "ikon": "folk", "href": "verksamhet.html", "text": "Brandvakter vid tält och scener under sommarens evenemang."},
+    {"titel": "Kurs för föreningen", "ikon": "skola", "href": "verksamhet.html", "text": "Två timmar brandskydd för bygdegårdar, idrottsföreningar och hembygdsföreningar."},
+    {"titel": "Priser", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Fasta priser per släckare, per varnare och per besök."}
+  ],
+  "affarsomraden": [
+    {"titel": "Lantbruk", "text": "En ladugård med hö, maskiner och djur brinner snabbt. Vi monterar värmedetektorer som larmar till mobilen, placerar släckare vid utgångarna och går igenom elcentralen med en värmekamera.", "text2": "Många försäkringsbolag ger rabatt efter en dokumenterad brandskyddsgenomgång.", "tagg": "hast"},
+    {"titel": "Sommarhus och fritidshus", "text": "Ett hus som står tomt i nio månader behöver ses över innan det används. Vi byter batterier, kontrollerar släckaren och lämnar en lapp om vad vi gjort.", "text2": "Ni behöver inte vara hemma – nyckeln kan ligga hos grannen eller i nyckelboxen.", "tagg": "hem"},
+    {"titel": "Visby innerstad", "text": "Husen innanför ringmuren är världsarv och får inte förändras hur som helst. Vi använder trådlösa varnare och placerar släckare så att de inte skadar murar eller trägolv.", "text2": "Vi har gjort brandskydd i ett hundratal hus och tolv små hotell i innerstaden.", "tagg": "sten"},
+    {"titel": "Restauranger och företag", "text": "Från första maj öppnar restaurangerna en efter en. Vi kontrollerar släckare, brandfiltar och kökssläcksystem i turordning efter öppningsdatum.", "text2": "Under Almedalsveckan har vi också brandvakter på plats vid tält och scener.", "tagg": "brand"}
+  ],
+  "bolag": [
+    {"namn": "Elin Lingvall", "segment": "Vd och tekniker", "rubrik": "Andra generationen", "text": "Tog över 2019 och kör själv servicebilen på norra Gotland och Fårö.", "tagg": "people"},
+    {"namn": "Johan och Ronja", "segment": "Servicetekniker", "rubrik": "Södra och mellersta ön", "text": "Johan har lantbruken, Ronja restaurangerna och sommarhusen. Båda är utbildade brandvakter.", "tagg": "brand"},
+    {"namn": "Ingrid och Tore", "segment": "Bokning och utbildning", "rubrik": "Grundarna är kvar", "text": "Ingrid svarar i telefon och bokar rutter. Tore håller kurserna för föreningar och bygdegårdar.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Varmgång i en fläktmotor i Fole", "text": "Värmedetektorn larmade till lantbrukarens mobil klockan fyra en morgon. Ingen brand, bara en fläkt som behövde bytas.", "tagg": "hast"},
+    {"rubrik": "Sommarhusrundan är bokad", "text": "312 sommarhus ses över mellan 10 maj och midsommar – lägg till ert före 1 april.", "tagg": "hem"},
+    {"rubrik": "Kurs i 14 bygdegårdar", "text": "Tore har hållit brandskyddskväll i bygdegårdar från Lärbro till Hablingbo under vintern.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "92", "enhet": "socknar", "etikett": "Där vi har kunder"},
+    {"varde": "312", "enhet": "sommarhus", "etikett": "Kontrolleras varje vår"},
+    {"varde": "5", "enhet": "personer", "etikett": "Varav två grundare"},
+    {"varde": "2003", "enhet": "", "etikett": "Det år vi startade"}
+  ],
+  "projekt": [
+    {"namn": "Gård i Fole", "ort": "Fole", "typ": "Värmedetektorer och släckare", "ar": "2025", "text": "Trådlösa värmedetektorer i ladugård och maskinhall med larm till mobilen.", "tagg": "hast"},
+    {"namn": "Hotell vid Stora torget", "ort": "Visby", "typ": "Brandskydd i världsarv", "ar": "2025", "text": "Trådlösa varnare i 14 rum i ett hus från 1300-talet, utan ingrepp i murarna.", "tagg": "sten"},
+    {"namn": "Krogen i Kappelshamn", "ort": "Kappelshamn", "typ": "Kökssläcksystem", "ar": "2025", "text": "Släcksystem över fritös och grill installerat före säsongsöppningen.", "tagg": "brand"},
+    {"namn": "Sommarhusrundan", "ort": "Fårö", "typ": "Säsongskontroll", "ar": "2026", "text": "Kontroll av varnare, släckare och filtar i 312 hus på hela ön.", "tagg": "hem", "status": "Pågående"},
+    {"namn": "Hablingbo bygdegård", "ort": "Hablingbo", "typ": "Utbildning och släckare", "ar": "2024", "text": "Brandskyddskväll för 30 medlemmar och nya släckare i köket.", "tagg": "people"},
+    {"namn": "Almedalsveckan", "ort": "Visby", "typ": "Brandvakter", "ar": "2025", "text": "Fyra brandvakter vid tält och scener under fem dagar i juni och juli.", "tagg": "brand"}
+  ],
+  "process": [
+    {"titel": "Ring Ingrid", "text": "Hon frågar var ni bor och lägger in er på nästa rutt genom socknen.", "tagg": "people"},
+    {"titel": "Besöket", "text": "Teknikern kontrollerar, byter det som behövs och tar betalt för det som faktiskt gjorts.", "tagg": "hem"},
+    {"titel": "Lappen på bordet", "text": "Ni får ett protokoll på papper eller e-post med vad som är gjort och vad som bör ses över.", "tagg": "brand"},
+    {"titel": "Påminnelse nästa år", "text": "Ett sms två veckor innan vi är i trakten igen. Svara ja så kommer vi.", "tagg": "natur"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen ska behöva ta färjan efter en släckare",
+    "text": "Vi har alltid nya släckare, varnare och reservdelar med i bilen, så att det mesta kan lösas vid första besöket. Gamla släckare tar vi med oss och lämnar till återvinning på Slite.",
+    "mal": [["95 %", "löst vid första besöket"], ["2 v", "max väntetid till nästa rutt i er socken"], ["0 kr", "i körkostnad på samlade rutter"]]
+  },
+  "karriar": {
+    "rubrik": "Ett litet företag på en stor ö",
+    "text": "Vi anställer sällan, men när vi gör det söker vi någon som kan prata med både lantbrukare och krögare och som tycker om att köra landsväg. Säsongstjänster finns varje sommar.",
+    "jobb": [["Säsongstekniker, maj–augusti", "Visby"]]
+  },
+  "kultur": "Fredagar efter rundan fikar vi på verkstaden med saffranspannkaka från bageriet i Roma.",
+  "citat": {"text": "Jag har stått bredvid för många lantbrukare som tittat på när ladugården brann. En värmedetektor för tolvhundra kronor hade räckt.", "namn": "Tore Lingvall", "roll": "Grundare, före detta brandman", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi bor i Stockholm halva året. Gute Brand tittar till varnarna och släckaren i maj, och lappen ligger på köksbordet när vi kommer.", "namn": "Annika och Per S.", "ort": "Ljugarn"},
+    {"text": "Johan gick igenom hela gården med värmekamera och hittade en elcentral som var varm. Elektrikern kom veckan efter.", "namn": "Gunnar H.", "ort": "Fole"},
+    {"text": "Vi öppnar krogen första helgen i maj, och de var här veckan innan. Allt klart, ett samtal, en faktura.", "namn": "Lina K.", "ort": "Kappelshamn"}
+  ],
+  "faq": [
+    ["Behöver jag vara hemma när ni kommer?", "Nej. Många sommarhusägare lämnar nyckeln hos en granne eller i en nyckelbox. Vi lämnar ett protokoll på bordet och mejlar en kopia."],
+    ["Hur ofta ska brandvarnaren bytas?", "Brandvarnare bör bytas efter tio år. Vi skriver datum på alla varnare vi monterar och påminner när det är dags."],
+    ["Vad ska finnas i en ladugård?", "Minst en släckare vid varje utgång, värmedetektorer i stället för rökdetektorer i dammiga utrymmen och en årlig kontroll av elcentralen. Vi hjälper er att göra en enkel plan."],
+    ["Får man sätta upp brandvarnare i ett världsarvshus?", "Ja. Trådlösa varnare kan monteras med minimal påverkan, och vi vet vilka ytor som inte bör röras."],
+    ["Kör ni till Fårö?", "Ja, en gång i månaden året runt och varje vecka från maj till augusti. Färjan ingår i rutten."],
+    ["Har ni fasta priser?", "Ja. Släckarkontroll, varnare och utkörning har fasta priser. Ni betalar bara för det vi faktiskt gör."]
+  ],
+  "priser": [
+    {"namn": "Sommarhuset", "pris": "1 290 kr", "enhet": "per år och hus", "text": "Kontroll innan ni kommer i juni.", "punkter": ["Kontroll av släckare och brandfilt", "Batteribyte i upp till fyra varnare", "Protokoll på bordet och via e-post", "Påminnelse varje vår"]},
+    {"namn": "Gården", "pris": "fr. 3 900 kr", "enhet": "per år", "text": "Brandskyddsgenomgång för lantbruk.", "punkter": ["Kontroll av alla släckare", "Värmekamera på elcentraler", "Test av värmedetektorer", "Intyg till försäkringsbolaget"], "utvald": true},
+    {"namn": "Företaget", "pris": "fr. 2 400 kr", "enhet": "per år", "text": "För krogar, butiker och små hotell.", "punkter": ["Släckare och brandfiltar", "Kontroll av kökssläcksystem", "Besök före säsongsöppning", "Hjälp med enkel SBA-pärm"]}
+  ],
+  "prislista": [["Kontroll av brandsläckare, per st", "130 kr"], ["Ny pulversläckare 6 kg", "1 095 kr"], ["Brandvarnare med tioårsbatteri, monterad", "390 kr"], ["Trådlös värmedetektor, monterad", "1 190 kr"], ["Brandfilt 120 × 180 cm", "345 kr"], ["Utkörning, samlad rutt", "0 kr"], ["Utkörning, akut samma dag", "650 kr"], ["Brandvakt, per timme", "495 kr"]],
+  "certifikat": [
+    {"titel": "Certifierade servicetekniker", "text": "Alla tre tekniker är certifierade för underhåll av handbrandsläckare enligt SS 3656.", "ikon": "skold"},
+    {"titel": "Heta arbeten", "text": "Brandvakterna har certifikat för heta arbeten från Brandskyddsföreningen.", "ikon": "eld"},
+    {"titel": "Före detta räddningstjänst", "text": "Kursledaren Tore har 22 år som brandman och styrkeledare i Visby.", "ikon": "hjalm"},
+    {"titel": "Ansvarsförsäkring", "text": "Ansvarsförsäkring på 10 miljoner kronor för allt vi installerar och kontrollerar.", "ikon": "lov"}
+  ],
+  "kunder": ["Hablingbo bygdegårdsförening", "Krogen i Kappelshamn", "Fole Lammgård", "Hotell Stora Torget", "Gotlands Hembygdsgårdar", "Slite Båtklubb", "Ljugarns Strandcafé"],
+  "nyheter": [
+    ["2026-10-27", "Lantbruksrundan startar i november", "Vi besöker gårdarna på södra Gotland först, sedan mitten och norr.", "hast"],
+    ["2026-04-02", "Sommarhusrundan är fullbokad", "312 hus på listan – ni som ringer nu kommer med i juni.", "hem"],
+    ["2025-12-10", "Tänk på levande ljus i bygdegården", "Tore om de tre vanligaste orsakerna till bränder vid julfester.", "brand"]
+  ],
+  "kontakt": {"adress": "Stenhuggarvägen 4", "postnr": "621 41", "ort": "Visby", "telefon": "070-174 06 83", "epost": "hej@gutebrand.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16. Maj–augusti även lördagar 9–12",
+  "omrade": "Hela Gotland och Fårö",
+  "fot_cta": "Ska huset ses över före sommaren? Ring Ingrid före första april.",
+  "bild": {"panel": "natur", "hb": "hem"},
+  "text": {
+    "ber_rubrik": "Det händer på ön",
+    "proj_rubrik": "Från gård till krog",
+    "process_rubrik": "Så enkelt är det",
+    "hb_etikett": "Ö-löfte",
+    "omdomen_rubrik": "Gotlänningar och sommargäster",
+    "faq_rubrik": "Det folk frågar Ingrid",
+    "priser_rubrik": "Tre fasta priser",
+    "priser_not": "Alla priser inklusive moms. Utkörning på samlad rutt ingår.",
+    "boka_rubrik": "Lägg till er på nästa rutt",
+    "boka_falt": ["Namn", "Telefon", "Socken och adress", "Sommarhus, gård eller företag?"],
+    "logos_rubrik": "Några av våra kunder på ön",
+    "certifikat_rubrik": "Liten firma, riktiga behörigheter",
+    "bolag_rubrik": "Fem personer, en familj och två tekniker",
+    "medarbetare": "Vi på Gute Brand"
+  }
+}

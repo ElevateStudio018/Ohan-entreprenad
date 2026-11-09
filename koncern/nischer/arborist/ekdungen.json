@@ -16,110 +16,445 @@
   ],
   "vagval_rubrik": "Vad behöver ditt träd?",
   "tjanster": [
-    {"titel": "Veteranträdsvård", "ikon": "trad", "href": "verksamhet.html", "text": "Stegvis kronreduktion som avlastar ihåliga stammar utan att träden förlorar sin livsmiljö."},
-    {"titel": "Riskbedömning", "ikon": "sok", "href": "verksamhet.html", "text": "Besiktning enligt VTA-metoden med skriftligt protokoll och åtgärdsförslag."},
-    {"titel": "Kronstabilisering", "ikon": "las", "href": "verksamhet.html", "text": "Dynamiska stag i flätat polypropylen som håller ihop tvådelade stammar."},
-    {"titel": "Naturvårdsbeskärning", "ikon": "skog", "href": "verksamhet.html", "text": "Vi skapar faunadepåer och lämnar högstubbar åt läderbagge och ekoxe."},
-    {"titel": "Sektionsfällning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Träd som inte går att rädda tas ned bit för bit med repsystem."},
-    {"titel": "Alléer och kyrkogårdar", "ikon": "karta", "href": "projekt.html", "text": "Skötselplaner för lindalléer och kyrkogårdsträd tillsammans med församlingen."},
-    {"titel": "Priser och RUT", "ikon": "dokument", "href": "priser.html", "text": "Fasta paketpriser och timpris för större uppdrag."},
-    {"titel": "Boka besiktning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Första besöket inom 20 km från Sturefors är kostnadsfritt."}
+    {
+      "titel": "Veteranträdsvård",
+      "ikon": "trad",
+      "href": "verksamhet.html",
+      "text": "Stegvis kronreduktion som avlastar ihåliga stammar utan att träden förlorar sin livsmiljö."
+    },
+    {
+      "titel": "Riskbedömning",
+      "ikon": "sok",
+      "href": "verksamhet.html",
+      "text": "Besiktning enligt VTA-metoden med skriftligt protokoll och åtgärdsförslag."
+    },
+    {
+      "titel": "Kronstabilisering",
+      "ikon": "las",
+      "href": "verksamhet.html",
+      "text": "Dynamiska stag i flätat polypropylen som håller ihop tvådelade stammar."
+    },
+    {
+      "titel": "Naturvårdsbeskärning",
+      "ikon": "skog",
+      "href": "verksamhet.html",
+      "text": "Vi skapar faunadepåer och lämnar högstubbar åt läderbagge och ekoxe."
+    },
+    {
+      "titel": "Sektionsfällning",
+      "ikon": "verktyg",
+      "href": "verksamhet.html",
+      "text": "Träd som inte går att rädda tas ned bit för bit med repsystem."
+    },
+    {
+      "titel": "Alléer och kyrkogårdar",
+      "ikon": "karta",
+      "href": "projekt.html",
+      "text": "Skötselplaner för lindalléer och kyrkogårdsträd tillsammans med församlingen."
+    },
+    {
+      "titel": "Paket och timpris",
+      "ikon": "dokument",
+      "href": "priser.html",
+      "text": "Fasta paketpriser och timpris för större uppdrag."
+    },
+    {
+      "titel": "Be Karin komma ut",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "Första besöket inom 20 km från Sturefors är kostnadsfritt."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Veteranekar på gårdar", "text": "En ek som är 400 år gammal blir ofta ihålig och tung i toppen. Genom att sänka kronan med några meter i taget minskar vi hävstången på stammen.", "text2": "Ett vanligt upplägg är tre beskärningar med fem års mellanrum.", "tagg": "trad"},
-    {"titel": "Riskbedömning och protokoll", "text": "Vi bedömer rötskador, sprickor och rotförankring med klubba, borr och ögon. Du får ett protokoll med foto, riskklass och förslag på åtgärd.", "text2": "Protokollet används ofta som underlag till länsstyrelsen eller försäkringsbolaget.", "tagg": "arborist"},
-    {"titel": "Alléer och kulturmiljöer", "text": "Lindalléer vid herrgårdar och kyrkor är skyddade enligt miljöbalken. Vi hjälper till med dispensansökan och planerar beskärningen så att allén behåller sin form.", "text2": "Hamlade lindar beskärs i samma cykel som de alltid har haft.", "tagg": "tradgard"},
-    {"titel": "Fällning när det behövs", "text": "Ibland är ett träd för skadat för att stå kvar nära ett hus eller en väg. Då sektionsfäller vi och lämnar gärna stamdelar som faunadepå i hagen.", "text2": "Grov ekved kan också kapas och klyvas åt dig.", "tagg": "ved"}
+    {
+      "titel": "Veteranekar på gårdar",
+      "text": "En ek som är 400 år gammal blir ofta ihålig och tung i toppen. Genom att sänka kronan med några meter i taget minskar vi hävstången på stammen.",
+      "text2": "Ett vanligt upplägg är tre beskärningar med fem års mellanrum.",
+      "tagg": "trad"
+    },
+    {
+      "titel": "Riskbedömning och protokoll",
+      "text": "Vi bedömer rötskador, sprickor och rotförankring med klubba, borr och ögon. Du får ett protokoll med foto, riskklass och förslag på åtgärd.",
+      "text2": "Protokollet används ofta som underlag till länsstyrelsen eller försäkringsbolaget.",
+      "tagg": "arborist"
+    },
+    {
+      "titel": "Alléer och kulturmiljöer",
+      "text": "Lindalléer vid herrgårdar och kyrkor är skyddade enligt miljöbalken. Vi hjälper till med dispensansökan och planerar beskärningen så att allén behåller sin form.",
+      "text2": "Hamlade lindar beskärs i samma cykel som de alltid har haft.",
+      "tagg": "tradgard"
+    },
+    {
+      "titel": "Fällning när det behövs",
+      "text": "Ibland är ett träd för skadat för att stå kvar nära ett hus eller en väg. Då sektionsfäller vi och lämnar gärna stamdelar som faunadepå i hagen.",
+      "text2": "Grov ekved kan också kapas och klyvas åt dig.",
+      "tagg": "ved"
+    }
   ],
   "bolag": [
-    {"namn": "Karin Ekwall", "segment": "Grundare, ETW och ISA", "rubrik": "Har klättrat i över 1 200 ekar", "text": "Karin gör de flesta besiktningar och leder beskärningen av veteranträd. Hon sitter i referensgruppen för trädvård hos länsstyrelsen.", "tagg": "arborist"},
-    {"namn": "Per Holmgren", "segment": "Klättrande arborist", "rubrik": "Repteknik och sektionsfällning", "text": "Per har Svensk Arboristexamen och ansvarar för riggning när stora grenar ska firas ned över tak och gravstenar.", "tagg": "trad"},
-    {"namn": "Sara Lind", "segment": "Naturvårdsbiolog", "rubrik": "Inventering och insekter", "text": "Sara inventerar lavar, svampar och vedlevande skalbaggar innan vi beskär och skriver skötselplanerna.", "tagg": "tradgard"},
-    {"namn": "Mattias Brodd", "segment": "Mark och maskin", "rubrik": "Flis, stubbar och transporter", "text": "Mattias kör flishugg, stubbfräs och vår bandgående minidumper som skonar gräsmattor och gräsvallar.", "tagg": "ved"}
+    {
+      "namn": "Karin Ekwall",
+      "segment": "Grundare, ETW och ISA",
+      "rubrik": "Har klättrat i över 1 200 ekar",
+      "text": "Karin gör de flesta besiktningar och leder beskärningen av veteranträd. Hon sitter i referensgruppen för trädvård hos länsstyrelsen.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Per Holmgren",
+      "segment": "Klättrande arborist",
+      "rubrik": "Repteknik och sektionsfällning",
+      "text": "Per har Svensk Arboristexamen och ansvarar för riggning när stora grenar ska firas ned över tak och gravstenar.",
+      "tagg": "trad"
+    },
+    {
+      "namn": "Sara Lind",
+      "segment": "Naturvårdsbiolog",
+      "rubrik": "Inventering och insekter",
+      "text": "Sara inventerar lavar, svampar och vedlevande skalbaggar innan vi beskär och skriver skötselplanerna.",
+      "tagg": "tradgard"
+    },
+    {
+      "namn": "Mattias Brodd",
+      "segment": "Mark och maskin",
+      "rubrik": "Flis, stubbar och transporter",
+      "text": "Mattias kör flishugg, stubbfräs och vår bandgående minidumper som skonar gräsmattor och gräsvallar.",
+      "tagg": "ved"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Prästgårdseken i Rystad avlastad", "text": "Kronan sänktes med fyra meter och fick två nya stag. Eken beräknas vara 480 år gammal.", "tagg": "trad"},
-    {"rubrik": "Lindallén i Sturefors klar", "text": "86 hamlade lindar beskurna under fyra vinterveckor, i samma cykel som på 1800-talet.", "tagg": "tradgard"},
-    {"rubrik": "Läderbagge hittad i Kisa", "text": "Vid en besiktning hittade Sara spår av läderbagge. Nu sparas tre grova grenar som faunadepå.", "tagg": "arborist"}
+    {
+      "rubrik": "Prästgårdseken i Rystad avlastad",
+      "text": "Kronan sänktes med fyra meter och fick två nya stag. Eken beräknas vara 480 år gammal.",
+      "tagg": "trad"
+    },
+    {
+      "rubrik": "Lindallén i Sturefors klar",
+      "text": "86 hamlade lindar beskurna under fyra vinterveckor, i samma cykel som på 1800-talet.",
+      "tagg": "tradgard"
+    },
+    {
+      "rubrik": "Läderbagge hittad i Kisa",
+      "text": "Vid en besiktning hittade Sara spår av läderbagge. Nu sparas tre grova grenar som faunadepå.",
+      "tagg": "arborist"
+    }
   ],
   "nyckeltal": [
-    {"varde": "1996", "enhet": "", "etikett": "Året Karin började"},
-    {"varde": "1 200+", "enhet": "ekar", "etikett": "Beskurna eller besiktade"},
-    {"varde": "6", "enhet": "anställda", "etikett": "Varav tre ETW-certifierade"},
-    {"varde": "480", "enhet": "år", "etikett": "Vår äldsta kund – en ek"}
+    {
+      "varde": "1996",
+      "enhet": "",
+      "etikett": "Året Karin började"
+    },
+    {
+      "varde": "1 200+",
+      "enhet": "ekar",
+      "etikett": "Beskurna eller besiktade"
+    },
+    {
+      "varde": "6",
+      "enhet": "anställda",
+      "etikett": "Varav tre ETW-certifierade"
+    },
+    {
+      "varde": "480",
+      "enhet": "år",
+      "etikett": "Vår äldsta kund – en ek"
+    }
   ],
   "projekt": [
-    {"namn": "Prästgårdseken", "ort": "Rystad", "typ": "Kronreduktion och stag", "ar": "2026", "text": "Andra av tre planerade reduktioner på en ihålig jätteek.", "tagg": "trad"},
-    {"namn": "Lindallén vid gården", "ort": "Sturefors", "typ": "Hamling av 86 lindar", "ar": "2026", "text": "Vinterbeskärning med lift och klättring längs en 600 meter lång allé.", "tagg": "tradgard"},
-    {"namn": "Hagmarken vid Bjärka", "ort": "Bjärka-Säby", "typ": "Naturvårdsbeskärning", "ar": "2025", "text": "Frihuggning av 14 ekar som var på väg att skuggas ihjäl av gran.", "tagg": "arborist"},
-    {"namn": "Askeby kyrkogård", "ort": "Askeby", "typ": "Riskbedömning", "ar": "2025", "text": "Protokoll över 42 träd och åtgärdsplan för församlingen på tio år.", "tagg": "trad"},
-    {"namn": "Villatomt på Ramshäll", "ort": "Linköping", "typ": "Sektionsfällning", "ar": "2025", "text": "En rötskadad bok togs ned i tolv sektioner över ett grannhus.", "tagg": "arborist"},
-    {"namn": "Torpet i Kisa", "ort": "Kisa", "typ": "Veteranträdsvård", "ar": "2026", "text": "Inventering och beskärning planerad till februari.", "tagg": "trad", "status": "Bokat"}
+    {
+      "namn": "Prästgårdseken",
+      "ort": "Rystad",
+      "typ": "Kronreduktion och stag",
+      "ar": "2026",
+      "text": "Andra av tre planerade reduktioner på en ihålig jätteek.",
+      "tagg": "trad"
+    },
+    {
+      "namn": "Lindallén vid gården",
+      "ort": "Sturefors",
+      "typ": "Hamling av 86 lindar",
+      "ar": "2026",
+      "text": "Vinterbeskärning med lift och klättring längs en 600 meter lång allé.",
+      "tagg": "tradgard"
+    },
+    {
+      "namn": "Hagmarken vid Bjärka",
+      "ort": "Bjärka-Säby",
+      "typ": "Naturvårdsbeskärning",
+      "ar": "2025",
+      "text": "Frihuggning av 14 ekar som var på väg att skuggas ihjäl av gran.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Askeby kyrkogård",
+      "ort": "Askeby",
+      "typ": "Riskbedömning",
+      "ar": "2025",
+      "text": "Protokoll över 42 träd och åtgärdsplan för församlingen på tio år.",
+      "tagg": "trad"
+    },
+    {
+      "namn": "Villatomt på Ramshäll",
+      "ort": "Linköping",
+      "typ": "Sektionsfällning",
+      "ar": "2025",
+      "text": "En rötskadad bok togs ned i tolv sektioner över ett grannhus.",
+      "tagg": "arborist"
+    },
+    {
+      "namn": "Torpet i Kisa",
+      "ort": "Kisa",
+      "typ": "Veteranträdsvård",
+      "ar": "2026",
+      "text": "Inventering och beskärning planerad till februari.",
+      "tagg": "trad",
+      "status": "Bokat"
+    }
   ],
   "process": [
-    {"titel": "Vi tittar på trädet", "text": "Karin eller Per kommer ut, knackar på stammen och fotograferar kronan. Ofta borrar vi ett provhål för att se hur tjock den friska veden är.", "tagg": "arborist"},
-    {"titel": "Plan och tillstånd", "text": "Du får ett skriftligt förslag med fast pris. Står trädet i en skyddad allé eller i ett Natura 2000-område hjälper vi till med ansökan.", "tagg": "tradgard"},
-    {"titel": "Beskärning", "text": "Vi beskär helst i september–mars när fåglarna inte häckar. Klättraren arbetar alltid med en markperson som har räddningsutbildning.", "tagg": "trad"},
-    {"titel": "Uppföljning", "text": "Efter fem år kommer vi tillbaka och ser hur trädet har svarat på beskärningen.", "tagg": "arborist"}
+    {
+      "titel": "Vi tittar på trädet",
+      "text": "Karin eller Per kommer ut, knackar på stammen och fotograferar kronan. Ofta borrar vi ett provhål för att se hur tjock den friska veden är.",
+      "tagg": "arborist"
+    },
+    {
+      "titel": "Plan och tillstånd",
+      "text": "Du får ett skriftligt förslag med fast pris. Står trädet i en skyddad allé eller i ett Natura 2000-område hjälper vi till med ansökan.",
+      "tagg": "tradgard"
+    },
+    {
+      "titel": "Beskärning",
+      "text": "Vi beskär helst i september–mars när fåglarna inte häckar. Klättraren arbetar alltid med en markperson som har räddningsutbildning.",
+      "tagg": "trad"
+    },
+    {
+      "titel": "Uppföljning",
+      "text": "Efter fem år kommer vi tillbaka och ser hur trädet har svarat på beskärningen.",
+      "tagg": "arborist"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Varje gammal ek är ett eget ekosystem",
     "text": "En jätteek kan hysa över 1 000 arter av insekter, svampar och lavar. Därför lämnar vi död ved där den gör nytta, beskär hellre än fäller och kör aldrig tunga maskiner över rotzonen.",
-    "mal": [["0", "fällda friska veteranträd sedan starten"], ["100 %", "av riset flisas och blir täckmaterial i hagar"], ["5 år", "mellan uppföljningsbesöken"]]
+    "mal": [
+      [
+        "0",
+        "fällda friska veteranträd sedan starten"
+      ],
+      [
+        "100 %",
+        "av riset flisas och blir täckmaterial i hagar"
+      ],
+      [
+        "5 år",
+        "mellan uppföljningsbesöken"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Vill du lära dig gamla träd?",
     "text": "Vi tar emot en lärling om året från naturbruksgymnasiernas arboristprogram och betalar ETW-certifiering för alla som stannar mer än ett år.",
-    "jobb": [["Klättrande arborist", "Linköping"], ["Lärling, våren 2027", "Sturefors"]]
+    "jobb": [
+      [
+        "Klättrande arborist",
+        "Linköping"
+      ],
+      [
+        "Lärling, våren 2027",
+        "Sturefors"
+      ]
+    ]
   },
   "kultur": "Vi klättrar aldrig ensamma och tar alltid en kaffe vid trädet innan första snittet.",
-  "citat": {"text": "Ett träd som har klarat sig i fyrahundra år behöver sällan räddas. Det behöver bara slippa bära sin egen tyngd längre än det orkar.", "namn": "Karin Ekwall", "roll": "Grundare", "tagg": "arborist"},
+  "citat": {
+    "text": "Ett träd som har klarat sig i fyrahundra år behöver sällan räddas. Det behöver bara slippa bära sin egen tyngd längre än det orkar.",
+    "namn": "Karin Ekwall",
+    "roll": "Grundare",
+    "tagg": "arborist"
+  },
   "omdomen": [
-    {"text": "Vi var säkra på att eken vid ladugården måste fällas. Karin visade att den friska veden var nio centimeter tjock och gjorde en plan i tre steg i stället.", "namn": "Ingrid S.", "ort": "Rystad"},
-    {"text": "Ekdungen skrev både dispensansökan och skötselplan för allén. Länsstyrelsen godkände den på första försöket.", "namn": "Henrik W.", "ort": "Sturefors"},
-    {"text": "Noggranna med gravstenarna och tydliga i protokollet. Församlingsrådet förstod direkt vad som skulle göras och när.", "namn": "Maria J.", "ort": "Askeby"}
+    {
+      "text": "Vi var säkra på att eken vid ladugården måste fällas. Karin visade att den friska veden var nio centimeter tjock och gjorde en plan i tre steg i stället.",
+      "namn": "Ingrid S.",
+      "ort": "Rystad"
+    },
+    {
+      "text": "Ekdungen skrev både dispensansökan och skötselplan för allén. Länsstyrelsen godkände den på första försöket.",
+      "namn": "Henrik W.",
+      "ort": "Sturefors"
+    },
+    {
+      "text": "Noggranna med gravstenarna och tydliga i protokollet. Församlingsrådet förstod direkt vad som skulle göras och när.",
+      "namn": "Maria J.",
+      "ort": "Askeby"
+    }
   ],
   "faq": [
-    ["Behöver jag tillstånd för att beskära en gammal ek?", "Det beror på var den står. I alléer och i skyddade områden krävs ofta dispens eller samråd med länsstyrelsen. Vi kollar det vid besiktningen."],
-    ["Varför beskär ni i omgångar?", "En stor ek tål inte att förlora för mycket blad på en gång. Med 10–20 procent per tillfälle hinner trädet bygga upp ny krona lägre ned."],
-    ["Är ett ihåligt träd farligt?", "Inte nödvändigtvis. Ett rör är starkt så länge väggen är tillräckligt tjock. Vi mäter och räknar på det innan vi säger något."],
-    ["Får jag RUT-avdrag?", "Ja, för arbetskostnaden på villa- och fritidshustomter. Gårdar som drivs som företag och kyrkogårdar får inte RUT."],
-    ["Tar ni hand om veden?", "Vi lämnar gärna grova stamdelar som faunadepå. Vill du hellre ha ved kapar och klyver vi den, eller forslar bort den mot avgift."],
-    ["Hur långt reser ni?", "Främst inom Linköping, Kinda, Åtvidaberg och Boxholm. För veteranträdsuppdrag åker vi i hela Östergötland och norra Småland."],
-    ["När på året är det bäst att beskära?", "För ek och lind är sensommar och vinter bäst. Vi undviker april–juli då fåglar häckar och trädet lägger energi på bladen."]
+    [
+      "Behöver jag tillstånd för att beskära en gammal ek?",
+      "Det beror på var den står. I alléer och i skyddade områden krävs ofta dispens eller samråd med länsstyrelsen. Vi kollar det vid besiktningen."
+    ],
+    [
+      "Varför beskär ni i omgångar?",
+      "En stor ek tål inte att förlora för mycket blad på en gång. Med 10–20 procent per tillfälle hinner trädet bygga upp ny krona lägre ned."
+    ],
+    [
+      "Är ett ihåligt träd farligt?",
+      "Inte nödvändigtvis. Ett rör är starkt så länge väggen är tillräckligt tjock. Vi mäter och räknar på det innan vi säger något."
+    ],
+    [
+      "Får jag RUT-avdrag?",
+      "Ja, för arbetskostnaden på villa- och fritidshustomter. Gårdar som drivs som företag och kyrkogårdar får inte RUT."
+    ],
+    [
+      "Tar ni hand om veden?",
+      "Vi lämnar gärna grova stamdelar som faunadepå. Vill du hellre ha ved kapar och klyver vi den, eller forslar bort den mot avgift."
+    ],
+    [
+      "Hur långt reser ni?",
+      "Främst inom Linköping, Kinda, Åtvidaberg och Boxholm. För veteranträdsuppdrag åker vi i hela Östergötland och norra Småland."
+    ],
+    [
+      "När på året är det bäst att beskära?",
+      "För ek och lind är sensommar och vinter bäst. Vi undviker april–juli då fåglar häckar och trädet lägger energi på bladen."
+    ]
   ],
   "priser": [
-    {"namn": "Besiktning med protokoll", "pris": "2 900 kr", "enhet": "upp till 5 träd", "text": "Riskbedömning enligt VTA med foto och åtgärdsförslag.", "punkter": ["Provborrning vid behov", "Riskklass per träd", "Skriftligt protokoll inom en vecka", "Avräknas om du beställer åtgärd"]},
-    {"namn": "Kronreduktion veteranek", "pris": "fr. 9 800 kr", "enhet": "per träd och tillfälle", "text": "Stegvis sänkning av kronan på ett gammalt träd.", "punkter": ["Två klättrare och markperson", "Upp till 20 % av kronan", "Faunadepå eller bortforsling", "Uppföljning efter fem år"], "utvald": true},
-    {"namn": "Sektionsfällning", "pris": "fr. 7 400 kr", "enhet": "träd upp till 15 meter", "text": "För träd som inte går att rädda och står nära byggnader.", "punkter": ["Nedfirning med repsystem", "Flisning av ris", "Stamved kvar eller bortforslad", "Städad tomt"]}
+    {
+      "namn": "Besiktning med protokoll",
+      "pris": "2 900 kr",
+      "enhet": "upp till 5 träd",
+      "text": "Riskbedömning enligt VTA med foto och åtgärdsförslag.",
+      "punkter": [
+        "Provborrning vid behov",
+        "Riskklass per träd",
+        "Skriftligt protokoll inom en vecka",
+        "Avräknas om du beställer åtgärd"
+      ]
+    },
+    {
+      "namn": "Kronreduktion veteranek",
+      "pris": "fr. 9 800 kr",
+      "enhet": "per träd och tillfälle",
+      "text": "Stegvis sänkning av kronan på ett gammalt träd.",
+      "punkter": [
+        "Två klättrare och markperson",
+        "Upp till 20 % av kronan",
+        "Faunadepå eller bortforsling",
+        "Uppföljning efter fem år"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Sektionsfällning",
+      "pris": "fr. 7 400 kr",
+      "enhet": "träd upp till 15 meter",
+      "text": "För träd som inte går att rädda och står nära byggnader.",
+      "punkter": [
+        "Nedfirning med repsystem",
+        "Flisning av ris",
+        "Stamved kvar eller bortforslad",
+        "Städad tomt"
+      ]
+    }
   ],
   "prislista": [
-    ["Arborist, timpris", "720 kr/tim"],
-    ["Klätterlag, två arborister", "1 380 kr/tim"],
-    ["Dynamiskt kronstag inkl. montage", "fr. 3 400 kr"],
-    ["Stubbfräsning, stubbe upp till 50 cm", "1 200 kr"],
-    ["Inventering av vedlevande insekter", "fr. 4 500 kr"],
-    ["Skötselplan för allé eller kyrkogård", "fr. 12 000 kr"],
-    ["Bortforsling av ris och flis", "fr. 900 kr"],
-    ["Reseersättning över 20 km", "25 kr/km"]
+    [
+      "Arborist, timpris",
+      "720 kr/tim"
+    ],
+    [
+      "Klätterlag, två arborister",
+      "1 380 kr/tim"
+    ],
+    [
+      "Dynamiskt kronstag inkl. montage",
+      "fr. 3 400 kr"
+    ],
+    [
+      "Stubbfräsning, stubbe upp till 50 cm",
+      "1 200 kr"
+    ],
+    [
+      "Inventering av vedlevande insekter",
+      "fr. 4 500 kr"
+    ],
+    [
+      "Skötselplan för allé eller kyrkogård",
+      "fr. 12 000 kr"
+    ],
+    [
+      "Bortforsling av ris och flis",
+      "fr. 900 kr"
+    ],
+    [
+      "Reseersättning över 20 km",
+      "25 kr/km"
+    ]
   ],
   "certifikat": [
-    {"titel": "European Tree Worker", "text": "Tre av oss är ETW-certifierade och omcertifieras vart femte år.", "ikon": "skold"},
-    {"titel": "ISA Certified Arborist", "text": "Karin är certifierad av International Society of Arboriculture sedan 2008.", "ikon": "stjarna"},
-    {"titel": "Svensk Arboristexamen", "text": "Alla klättrare har examen från arboristutbildningen och motorsågskörkort AB.", "ikon": "trad"},
-    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Vår försäkring hos Länsförsäkringar Östgöta täcker skador på byggnader och gravvårdar.", "ikon": "las"}
+    {
+      "titel": "European Tree Worker",
+      "text": "Tre av oss är ETW-certifierade och omcertifieras vart femte år.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "ISA Certified Arborist",
+      "text": "Karin är certifierad av International Society of Arboriculture sedan 2008.",
+      "ikon": "stjarna"
+    },
+    {
+      "titel": "Svensk Arboristexamen",
+      "text": "Alla klättrare har examen från arboristutbildningen och motorsågskörkort AB.",
+      "ikon": "trad"
+    },
+    {
+      "titel": "Ansvarsförsäkring 10 Mkr",
+      "text": "Vår försäkring hos Länsförsäkringar Östgöta täcker skador på byggnader och gravvårdar.",
+      "ikon": "las"
+    }
   ],
-  "galleri_taggar": ["trad", "arborist", "tradgard", "ved"],
+  "galleri_taggar": [
+    "trad",
+    "arborist",
+    "tradgard",
+    "ved"
+  ],
   "nyheter": [
-    ["2026-10-21", "Vinterns beskärningar bokas nu", "Vi har tolv lediga veckor mellan december och mars för ek och lind.", "trad"],
-    ["2026-06-03", "Därför ska du inte täta hål i ekar", "Cement och skum gör mer skada än nytta. Sara förklarar varför.", "arborist"],
-    ["2025-11-18", "Ny skötselplan för Askeby kyrkogård", "42 träd har fått en tioårsplan som församlingen kan budgetera efter.", "tradgard"]
+    [
+      "2026-10-21",
+      "Vinterns beskärningar bokas nu",
+      "Vi har tolv lediga veckor mellan december och mars för ek och lind.",
+      "trad"
+    ],
+    [
+      "2026-06-03",
+      "Därför ska du inte täta hål i ekar",
+      "Cement och skum gör mer skada än nytta. Sara förklarar varför.",
+      "arborist"
+    ],
+    [
+      "2025-11-18",
+      "Ny skötselplan för Askeby kyrkogård",
+      "42 träd har fått en tioårsplan som församlingen kan budgetera efter.",
+      "tradgard"
+    ]
   ],
-  "kontakt": {"adress": "Gamla Mejerivägen 4", "postnr": "589 65", "ort": "Sturefors", "telefon": "070-174 06 23", "epost": "karin@ekdungen.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Gamla Mejerivägen 4",
+    "postnr": "589 65",
+    "ort": "Sturefors",
+    "telefon": "070-174 06 23",
+    "epost": "karin@ekdungen.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 7–16, besiktning även lördagar",
   "omrade": "Linköping, Kinda, Åtvidaberg och hela Östergötland",
   "fot_cta": "Står det en gammal ek på din tomt? Låt oss mäta den innan någon tar fram sågen.",
-  "bild": {"panel": "trad", "hb": "tradgard"},
+  "bild": {
+    "panel": "trad",
+    "hb": "tradgard"
+  },
   "text": {
     "ber_rubrik": "Från vinterns arbete i eklandskapet",
     "proj_rubrik": "Träd vi har fått ta hand om",
@@ -131,6 +466,7 @@
     "galleri_rubrik": "Ekar, lindar och hagmarker",
     "boka_rubrik": "Låt oss titta på ditt träd",
     "bolag_rubrik": "Fyra av oss sex",
-    "certifikat_rubrik": "Utbildade för de svåraste träden"
+    "certifikat_rubrik": "Utbildade för de svåraste träden",
+    "sida_bolag_ingress": "Vi är sex anställda – klättrare, en naturvårdsbiolog och en maskinförare. Här är fyra av oss."
   }
 }
