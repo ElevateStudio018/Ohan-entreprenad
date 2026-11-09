@@ -5,7 +5,7 @@
   "namn": "Hisings Svetsjour AB",
   "kortnamn": "Svetsjouren",
   "slug": "svetsjouren",
-  "typ": "Mobil svets och smide dygnet runt i Göteborg",
+  "typ": "Mobil svetsjour i Göteborg",
   "tagline": "Svetsare på väg",
   "slogan": "Påkört räcke, uppbruten grind eller sprucken lastkaj – vi har en svetsbil på väg inom en timme, alla dagar året om.",
   "hero_rubrik": "Svetsbil hos dig inom en timme",
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "För svetsare som gillar att inget jobb är det andra likt",
     "text": "Hos oss är varje skift olika. Du får egen servicebil, jourersättning enligt avtal och rullande schema med lång ledighet mellan jourveckorna.",
-    "jobb": [["Jourssvetsare", "Göteborg"], ["Smed till verkstaden", "Hisings Backa"]]
+    "jobb": [["Joursvetsare", "Göteborg"], ["Smed till verkstaden", "Hisings Backa"]]
   },
   "kultur": "Efter varje jourvecka får du fem dagar ledigt i följd.",
   "citat": {"text": "Folk ringer oss när något har gått sönder och de är stressade. Då ska det vara en svetsare som svarar och kan säga exakt vad som händer.", "namn": "Patrik Andersson", "roll": "Grundare", "tagg": "svets"},
@@ -84,21 +84,21 @@
     ["Hur snabbt kommer ni?", "Snittiden till plats var 52 minuter under 2025 i Storgöteborg. Till Kungälv, Kungsbacka och Lerum räknar vi med upp till 75 minuter."],
     ["Kan ni laga allt på plats?", "Ungefär sju av tio jobb blir klara på första besöket. Behöver något tillverkas säkrar vi platsen och kommer tillbaka inom tre arbetsdagar."],
     ["Jobbar ni åt privatpersoner?", "Ja. Privatpersoner kan anlita oss för akuta jobb, men vi prioriterar avtalskunder och farliga situationer först."],
-    ["Får vi RUT eller ROT?", "Reparation av grindar och räcken på din egen bostad kan ge ROT-avdrag på arbetskostnaden. Vi gör avdraget direkt på fakturan."],
+    ["Får vi RUT eller ROT?", "Reparation av grindar och räcken på din egen bostad kan ge ROT-avdrag på arbetskostnaden. Avdraget görs redan på fakturan."],
     ["Vad ingår i ett serviceavtal?", "Två ronder per år, förtur vid akuta samtal och tio procent rabatt på timpriset. Pris från 6 400 kronor per fastighet och år."]
   ],
   "priser": [
     {"namn": "Utryckning", "pris": "1 950 kr", "enhet": "inkl. första timmen", "text": "Dygnet runt, alla dagar.", "punkter": ["Samma pris natt och helg", "Svetsbil med generator", "Säkring av platsen", "Faktura med foton"], "utvald": true},
-    {"namn": "Påbörjad timme", "pris": "895 kr", "enhet": "per timme", "text": "Efter första timmen.", "punkter": ["Debiteras per halvtimme", "Ingen jourtillägg", "Material till självkostnad + 15 %"]},
+    {"namn": "Påbörjad timme", "pris": "895 kr", "enhet": "per timme", "text": "Efter första timmen.", "punkter": ["Debiteras per halvtimme", "Inget jourtillägg", "Material till självkostnad + 15 %"]},
     {"namn": "Serviceavtal", "pris": "fr. 6 400 kr", "enhet": "per fastighet och år", "text": "För fastighetsägare och föreningar.", "punkter": ["Två ronder per år", "Förtur vid akuta samtal", "10 % rabatt på timpris", "Årlig rapport med åtgärdslista"]}
   ],
   "certifikat": [
     {"titel": "Heta arbeten", "text": "Alla svetsare har giltigt certifikat från Brandskyddsföreningen, förnyat vart femte år.", "ikon": "eld"},
-    {"titel": "Svetscertifikat ISO 9606-1", "text": "Certifierade i MIG, MMA och TIG i alla positioner.", "ikon": "skold"},
+    {"titel": "ISO 9606-1, alla lägen", "text": "Certifierade i MIG, MMA och TIG i alla positioner.", "ikon": "skold"},
     {"titel": "Arbete på väg", "text": "Utbildade enligt Trafikverkets krav för arbete vid väg och i trafikerade miljöer.", "ikon": "vag"},
     {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Företagsförsäkring med ansvarsbelopp på 10 miljoner kronor per skada.", "ikon": "dokument"}
   ],
-  "kunder": ["Hisingshus Fastigheter", "Brf Kaptensgården", "Arendals Terminalservice", "Mölndals Bostadsbolag", "Torslanda Logistikpark", "Kungälvs Vårdfastigheter", "Brf Kvillebäcken Ett"],
+  "kunder": ["Hisingshus Fastigheter", "Brf Kaptensgården", "Arendals Terminalservice", "Mölndals Bostadsbolag", "Torslanda Logistikpark", "Kungälvs Vårdfastigheter", "Brf Lindholmsporten"],
   "nyheter": [
     ["2026-10-30", "Vinterns vanligaste samtal", "Påkörda räcken vid snöröjning ökar med 40 procent i december. Så minskar ni risken.", "stad"],
     ["2026-08-12", "Femte bilen går på el", "Med batteridrivet svetsaggregat kan vi svetsa tyst nattetid i bostadsområden.", "svets"],

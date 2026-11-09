@@ -1,0 +1,144 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hejde Smedja AB",
+  "kortnamn": "Hejde Smedja",
+  "slug": "hejde-smedja",
+  "typ": "Bysmedja och gårdsservice på Gotland",
+  "tagline": "Smedjan mitt på ön",
+  "slogan": "Vi lagar redskap, bygger fållor och smider räcken till kalkstenshusen – från en smedja som funnits i Hejde sedan 1870-talet.",
+  "hero_rubrik": "Ön har en smed som kommer ut till gården",
+  "hero_text": "Lantbrukssmide, reparationer och svetsjobb på plats med servicebil, plus räcken och grindar till gotländska hus. Fem smeder, hela ön.",
+  "intro_rubrik": "En smedja, fem smeder och 2 600 gårdsbesök",
+  "om": [
+    "Det har funnits en smedja vid landsvägen i Hejde sedan 1870-talet. Gustav Ahlby gick i lära hos byns siste smed, Erik Larsson, och tog över verkstaden 2008 när Erik fyllde 74. Ässjan står kvar, men i dag svetsar vi mer än vi smider.",
+    "Vi är fem anställda och omsätter knappt sex miljoner kronor. Två tredjedelar av jobben gör vi åt öns lantbrukare – fårgårdar, mjölkgårdar och spannmålsodlare – och resten är räcken, grindar och trappor till permanentboende och sommargäster."
+  ],
+  "vagval_rubrik": "Vad har gått sönder?",
+  "tjanster": [
+    {"titel": "Redskapsreparation", "ikon": "verktyg", "href": "verksamhet.html", "text": "Plogar, harvar, frontlastare och vagnar svetsas och förstärks."},
+    {"titel": "Servicebil till gården", "ikon": "bil", "href": "verksamhet.html", "text": "Svetsbil med generator som kommer ut på åkern under sådd och skörd."},
+    {"titel": "Fållor och fårgrindar", "ikon": "lada", "href": "verksamhet.html", "text": "Fållsystem, grindar och foderhäckar för får, nöt och häst."},
+    {"titel": "Räcken till stenhus", "ikon": "hus", "href": "verksamhet.html", "text": "Enkla smidesräcken som passar gotländska kalkstenshus och lador."},
+    {"titel": "Smide i ässjan", "ikon": "hamare", "href": "verksamhet.html", "text": "Gångjärn, beslag och krokar smidda för hand som förr."},
+    {"titel": "Prislista", "ikon": "dokument", "href": "priser.html", "text": "Timpris, körning och vanliga jobb – öppet redovisat."},
+    {"titel": "Gårdar vi hjälpt", "ikon": "karta", "href": "projekt.html", "text": "Från Fårö till Hoburgen."},
+    {"titel": "Ring Gustav", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Under skörden svarar vi i telefon även på kvällarna."}
+  ],
+  "affarsomraden": [
+    {"titel": "Lantbruksreparationer", "text": "När en harv spricker i september kan den inte vänta två veckor på en verkstad i Visby. Vi kommer ut med servicebilen och svetsar på plats, eller hämtar redskapet med släp.", "text2": "Under sådd och skörd har vi alltid en smed i beredskap till klockan 21.", "tagg": "maskin"},
+    {"titel": "Djurhållning", "text": "Fållor, drivgångar, grindar och foderhäckar till fårgårdar och stall, byggda i varmförzinkat rör som tål gödsel och fukt. Vi följer Jordbruksverkets mått för djurutrymmen.", "text2": "En fårgrind på 3 meter kostar från 3 400 kronor monterad.", "tagg": "hast"},
+    {"titel": "Hus och sommarhus", "text": "Räcken, trappor och grindar till kalkstenshus, prästgårdar och lador, ofta i enkla raka former som passar den gotländska byggnadstraditionen. Vi hämtar mått under våren och monterar före midsommar.", "text2": "Sommargäster kan beställa på vintern och få allt klart till ankomsten.", "tagg": "hem"},
+    {"titel": "Traditionellt smide", "text": "Ässjan används fortfarande för gångjärn, beslag, ljuskronor och krokar till hus som restaureras. Vi samarbetar med byggnadsvårdare på ön.", "text2": "Kurser i grundläggande smide hålls fyra helger per vinter.", "tagg": "svets"}
+  ],
+  "bolag": [
+    {"namn": "Smedjan i Hejde", "segment": "Verkstad och ässja", "rubrik": "Under samma tak sedan 1870-talet", "text": "Svetsplatser, kantpress och den gamla ässjan i den ursprungliga stenbyggnaden.", "tagg": "svets"},
+    {"namn": "Gårdsservicen", "segment": "Mobil svets", "rubrik": "Två bilar, hela ön", "text": "Två servicebilar med generator, svets och gasskärning som når hela Gotland inom en och en halv timme.", "tagg": "maskin"},
+    {"namn": "Hussmidet", "segment": "Räcken och grindar", "rubrik": "Smide som passar kalksten", "text": "Räcken, grindar och beslag till hus och sommarhus, ritade efter gotländsk tradition.", "tagg": "hem"}
+  ],
+  "berattelser": [
+    {"rubrik": "Skördehelg i Lojsta", "text": "En spannmålsvagn med sprucken drag svetsad på åkern en lördagskväll – tröskan stod still i fyrtio minuter.", "tagg": "maskin"},
+    {"rubrik": "Fållsystem för 400 tackor", "text": "En fårgård i När fick nya drivgångar och sorteringsfållor inför lamningen.", "tagg": "natur"},
+    {"rubrik": "Smideskurserna fullbokade", "text": "Alla fyra vinterhelgerna är bokade – vi lägger till en femte i mars.", "tagg": "svets"}
+  ],
+  "nyckeltal": [
+    {"varde": "150", "enhet": "år", "etikett": "Med smedja vid landsvägen"},
+    {"varde": "5", "enhet": "smeder", "etikett": "Hela ön runt"},
+    {"varde": "90", "enhet": "minuter", "etikett": "Längsta körtid på Gotland"},
+    {"varde": "310", "enhet": "gårdar", "etikett": "Kunder i vårt register"}
+  ],
+  "projekt": [
+    {"namn": "Sorteringsfållor fårgård", "ort": "När", "typ": "Djurhållning", "ar": "2026", "text": "Drivgångar och fållor för 400 tackor i varmförzinkat rör.", "tagg": "natur"},
+    {"namn": "Spannmålsvagn under skörd", "ort": "Lojsta", "typ": "Akut reparation", "ar": "2026", "text": "Sprucken dragstång svetsad och förstärkt på åkern.", "tagg": "maskin"},
+    {"namn": "Räcken till prästgård", "ort": "Hejde", "typ": "Hussmide", "ar": "2025", "text": "Trappräcken och balkongräcke till en prästgård från 1840-talet.", "tagg": "hem"},
+    {"namn": "Stallinredning", "ort": "Hablingbo", "typ": "Djurhållning", "ar": "2025", "text": "Boxfronter och grindar till ett stall för tolv russ.", "tagg": "hast"},
+    {"namn": "Beslag till kalkugnsmuseum", "ort": "Slite", "typ": "Traditionellt smide", "ar": "2024", "text": "Handsmidda gångjärn och beslag till restaurerade portar.", "tagg": "svets"},
+    {"namn": "Grindar sommarhus", "ort": "Fårö", "typ": "Hussmide", "ar": "2027", "text": "Två gårdsgrindar beställda i november, montage före påsk.", "tagg": "hem", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Ring", "text": "Berätta vad som har gått sönder eller vad du vill ha. Ofta kan vi ge ett pris direkt i telefon.", "tagg": "people"},
+    {"titel": "Vi kommer ut", "text": "Servicebilen kommer till gården, eller så hämtar vi redskapet med släp.", "tagg": "maskin"},
+    {"titel": "Lagat eller smitt", "text": "Mindre jobb gör vi på plats, större i smedjan i Hejde.", "tagg": "svets"},
+    {"titel": "Faktura efter jobbet", "text": "Du betalar timmar, körning och material – inget annat.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Laga i stället för att köpa nytt",
+    "text": "En reparerad harv eller vagn sparar både pengar och transporter med färjan. Vi lagar så länge det är säkert, och skrotet går till en skrothandlare i Visby som skeppar det till fastlandet för omsmältning.",
+    "mal": [["8 av 10", "redskap lagas på plats eller i smedjan"], ["90 min", "längsta körtid till gårdar på ön"], ["100 %", "av metallskrotet till återvinning"]]
+  },
+  "karriar": {
+    "rubrik": "Smed på landet",
+    "text": "Vi letar efter en svetsare som trivs med variation – en dag fårgrindar, nästa dag en trasig plog och sedan ett räcke till ett sommarhus. Bostad kan ordnas i Hejde.",
+    "jobb": [["Svetsare/smed", "Hejde, Gotland"]]
+  },
+  "kultur": "Under lamningen och skörden hjälps vi åt så att ingen behöver jobba fler än två kvällar i veckan.",
+  "citat": {"text": "Erik lärde mig att en smed på landet ska kunna laga det mesta med det som finns i bilen. Det gäller fortfarande, bara att bilen har blivit större.", "namn": "Gustav Ahlby", "roll": "Ägare och smed", "tagg": "svets"},
+  "omdomen": [
+    {"text": "Vagnen sprack mitt i skörden en lördagskväll. Gustav var på åkern efter en halvtimme och tröskan var igång igen före mörkret.", "namn": "Björn S.", "ort": "Lojsta"},
+    {"text": "Fållorna har förenklat lamningen enormt. Vi sorterar 400 tackor på en förmiddag i stället för en hel dag.", "namn": "Karin W.", "ort": "När"},
+    {"text": "Räckena ser ut att alltid ha suttit på huset. Precis vad vi ville ha.", "namn": "Johanna och Per E.", "ort": "Fårö"}
+  ],
+  "faq": [
+    ["Vad kostar en timme?", "Timpriset är 720 kronor exklusive moms i verkstaden och 790 kronor ute på gård. Körning debiteras med 12 kronor per kilometer från Hejde."],
+    ["Kommer ni ut på helger?", "Under sådd i april–maj och skörd i juli–september har vi beredskap till klockan 21 även på helger. Resten av året är det vardagar som gäller."],
+    ["Lagar ni alla märken?", "Vi svetsar och förstärker alla märken av redskap och vagnar. Hydraulik och motorer lämnar vi till maskinhandlarna på ön."],
+    ["Kan sommargäster beställa på distans?", "Ja. Skicka mått och bilder, så tar vi fram ett förslag. Vi monterar gärna under våren innan ni kommer."],
+    ["Får jag ROT-avdrag på räcken?", "Ja, på arbetskostnaden för montage och tillverkning på plats vid din bostad."],
+    ["Hur anmäler jag mig till smideskursen?", "Ring eller mejla. En helgkurs kostar 3 900 kronor inklusive material, lunch och fika, och vi tar fyra deltagare åt gången."]
+  ],
+  "priser": [
+    {"namn": "I smedjan", "pris": "720 kr", "enhet": "per timme, exkl. moms", "text": "Du kör in redskapet eller vi hämtar det.", "punkter": ["Svets, kapning och kantpress", "Ässja för traditionellt smide", "Hämtning med släp mot körersättning"]},
+    {"namn": "Ute på gården", "pris": "790 kr", "enhet": "per timme, exkl. moms", "text": "Servicebilen kommer till åkern eller stallet.", "punkter": ["Generator, MIG och gasskärning", "Stål och rör i bilen", "12 kr/km från Hejde", "Lagat på plats i de flesta fall"], "utvald": true},
+    {"namn": "Skördeberedskap", "pris": "950 kr", "enhet": "per utryckning, plus timmar", "text": "Kvällar och helger under sådd och skörd.", "punkter": ["Smed i beredskap till 21", "Gäller april–maj och juli–september", "Avtalsgårdar har förtur"]}
+  ],
+  "prislista_rubrik": "Fler priser",
+  "prislista": [
+    ["Timpris i smedjan", "720 kr"],
+    ["Timpris ute på gård", "790 kr"],
+    ["Körning från Hejde", "12 kr/km"],
+    ["Beredskap helg under skörd", "950 kr/tillfälle"],
+    ["Fårgrind 3 m, monterad", "fr. 3 400 kr"],
+    ["Trappräcke, per löpmeter", "fr. 2 600 kr"],
+    ["Handsmitt gångjärn, par", "fr. 1 400 kr"],
+    ["Smideskurs, helg", "3 900 kr"]
+  ],
+  "certifikat": [
+    {"titel": "Certifierade svetsare", "text": "Alla fem smeder har certifikat för MIG och MMA.", "ikon": "eld"},
+    {"titel": "Heta arbeten", "text": "Certifikat från Brandskyddsföreningen – viktigt vid svetsning i lador och stall med hö och halm.", "ikon": "skold"},
+    {"titel": "Gesällbrev i smide", "text": "Gustav Ahlby har gesällbrev från Sveriges Hantverksråd.", "ikon": "stjarna"},
+    {"titel": "Medlem i LRF", "text": "Vi är företagsmedlemmar i Lantbrukarnas Riksförbund och känner gårdarnas villkor.", "ikon": "lada"}
+  ],
+  "kunder": ["Fårgården i När", "Lojsta Spannmål", "Hablingbo Russtall", "Hejde Prästgård", "Slite Kalkugnsförening", "Sudrets Fårägarförening", "Klintehamns Hamnförening"],
+  "nyheter": [
+    ["2026-10-06", "Femte kurshelgen i mars", "Vinterns smideskurser blev fullbokade på två veckor.", "svets"],
+    ["2026-08-25", "Skördeberedskap till 21", "Ring även kvällar och helger under skörden – vi har alltid en smed i beredskap.", "maskin"],
+    ["2026-04-02", "Beställ räcken före maj", "Sommargäster som beställer i vår får montage före midsommar.", "hem"]
+  ],
+  "kontakt": {"adress": "Hejde Smiss 128", "postnr": "623 64", "ort": "Hejde", "telefon": "070-174 06 76", "epost": "gustav@hejdesmedja.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16 · beredskap till 21 under sådd och skörd",
+  "omrade": "Hela Gotland, även Fårö",
+  "fot_cta": "Har något gått sönder på gården? Ring – vi har en bil på väg.",
+  "bild": {"panel": "svets", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Från gårdarna den senaste tiden",
+    "proj_rubrik": "Jobb runt ön",
+    "proj_kol": ["Jobb", "Socken", "Typ", "Status", "År"],
+    "process_rubrik": "Så enkelt är det",
+    "hb_etikett": "Laga mera",
+    "omdomen_rubrik": "Bönder och sommargäster om oss",
+    "faq_rubrik": "Priser och praktiskt",
+    "boka_rubrik": "Skriv till smedjan",
+    "boka_text": "Är det bråttom – ring istället. Mejl läser vi varje morgon och kväll.",
+    "logos_rubrik": "Gårdar och föreningar vi hjälper",
+    "certifikat_rubrik": "Behöriga för gård och stall",
+    "bolag_rubrik": "Smedja, servicebilar och hussmide",
+    "ny_rubrik": "Nytt från Hejde",
+    "kontakt_knapp": "Ring smedjan",
+    "hero_lank": "Timpris och prislista",
+    "priser_rubrik": "Öppna timpriser, inga påslag",
+    "priser_utvald": "Vanligast",
+    "priser_not": "Priser exklusive moms. Privatpersoner betalar inklusive moms och får ROT-avdrag på arbetet.",
+    "medarbetare": "Smederna"
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "profil": "nisch",
+  "nisch": "stad",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Järnbergs Lokalvård AB",
+  "kortnamn": "Järnbergs",
+  "slug": "jarnbergs-lokalvard",
+  "typ": "Industri- och lokalvård i Malmfälten",
+  "tagline": "Städ i treskift",
+  "slogan": "Vi städar verkstäder, omklädningsrum, kontor och arbetarboenden i Gällivare och Kiruna – på natten, i 35 minusgrader och på fyra språk.",
+  "hero_rubrik": "Malmfälten jobbar dygnet runt. Vi med.",
+  "hero_text": "Lokalvård för industri, verkstäder och boenden i Gällivare, Kiruna och Pajala. 64 anställda som städar när skiftet byts, även klockan fyra en januarimorgon.",
+  "intro_rubrik": "Från en städfirma i Malmberget till 64 anställda i två städer",
+  "om": [
+    "Järnbergs startades 1983 av Sirkka Järnberg, som städade verkstäder och bodar åt entreprenörerna i Malmberget. Sedan 2011 ägs och leds företaget av Erik Lantto, som började som sommarvikarie 1996 och i dag har 64 anställda i Gällivare och Kiruna.",
+    "Våra kunder är verkstäder, underleverantörer till gruvindustrin, skolor, kontor och de modulboenden som har vuxit upp för alla som bygger om Malmfälten. Vi städar i treskift, och personalen talar svenska, finska, meänkieli och arabiska."
+  ],
+  "vagval_rubrik": "Vilken arbetsplats gäller det?",
+  "tjanster": [
+    {
+      "titel": "Industristäd",
+      "ikon": "fabrik",
+      "href": "verksamhet.html",
+      "text": "Verkstäder, förråd och produktionslokaler med olja, malmdamm och järnspån."
+    },
+    {
+      "titel": "Omklädningsrum",
+      "ikon": "vatten",
+      "href": "verksamhet.html",
+      "text": "Duschar, bastu och omklädning städas vid varje skiftbyte, dygnet runt."
+    },
+    {
+      "titel": "Arbetarboenden",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Städning, byte av sängkläder och in- och utflyttning i modulboenden."
+    },
+    {
+      "titel": "Kontor och skolor",
+      "ikon": "kontor",
+      "href": "verksamhet.html",
+      "text": "Daglig lokalvård av kontor, skolor och förskolor i Gällivare och Kiruna."
+    },
+    {
+      "titel": "Bodar och matsalar",
+      "ikon": "hjalm",
+      "href": "verksamhet.html",
+      "text": "Etableringar på bygg- och industriprojekt, med städning varje dag."
+    },
+    {
+      "titel": "Vinterentréer",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Grus, snö och smältvatten bort från entréer och korridorer från oktober till maj."
+    },
+    {
+      "titel": "Storstäd och golvvård",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Maskinskurning och storstäd av verkstadsgolv och trapphus under stopp och semester."
+    },
+    {
+      "titel": "Avtal för skiftgång",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "Vi lägger städschemat efter era skift, inte tvärtom."
+    }
+  ],
+  "affarsomraden": [
+    {
+      "titel": "Industri och verkstad",
+      "text": "I en verkstad som servar gruvfordon ligger det olja, malmdamm och slangbitar på golvet efter varje skift. Vi städar med åkbara skurmaskiner, oljeabsorbenter och industridammsugare med ATEX-klassning där det krävs.",
+      "text2": "Städningen görs när skiftet byts, så att nästa lag börjar på ett rent golv.",
+      "tagg": "industri"
+    },
+    {
+      "titel": "Omklädning och hygien",
+      "text": "Omklädningsrummen för 400 personer på ett industriområde används dygnet runt. Vi städar och desinficerar duschar, bastu och toaletter tre gånger per dygn och fyller på förbrukningsmaterial.",
+      "text2": "Hygienrutinerna följer kundens egenkontrollprogram och dokumenteras digitalt.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Boenden för pendlare",
+      "text": "Tusentals pendlare och entreprenörer bor i modulboenden i Gällivare och Kiruna. Vi städar rummen veckovis, byter sängkläder och gör utflyttningsstäd så att nästa person kan flytta in samma dag.",
+      "text2": "Under 2025 gjorde vi 3 100 rumsbyten.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Kontor, skolor och vård",
+      "text": "Vi städar också kontor, förskolor och vårdlokaler. Vintertid lägger vi extra tid på entréerna, där gruset och smältvattnet kommer in.",
+      "text2": "Entrémattor byts varannan vecka från oktober till maj.",
+      "tagg": "kontor"
+    }
+  ],
+  "bolag": [
+    {
+      "namn": "Järnbergs Gällivare",
+      "segment": "38 anställda, Malmvägen",
+      "rubrik": "Där Sirkka började 1983",
+      "text": "Industri, omklädning, boenden och kontor i Gällivare, Malmberget och Koskullskulle.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Järnbergs Kiruna",
+      "segment": "22 anställda, öppnade 2014",
+      "rubrik": "Mitt i stadsflytten",
+      "text": "Kontor och skolor i nya centrum, boenden och verkstäder runt industriområdet.",
+      "tagg": "stad"
+    },
+    {
+      "namn": "Boendeservice",
+      "segment": "Ett lag i varje stad",
+      "rubrik": "3 100 rumsbyten om året",
+      "text": "Städning, sängkläder och utflyttning i modulboenden för pendlare.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Pajala och Tornedalen",
+      "segment": "4 anställda",
+      "rubrik": "Där finskan är vardag",
+      "text": "Lokalvård i Pajala, Svappavaara och byarna längs Torneälven.",
+      "tagg": "natur"
+    }
+  ],
+  "berattelser": [
+    {
+      "rubrik": "Nytt boendeavtal i Kiruna",
+      "text": "180 rum i ett modulboende för entreprenörer, med städning varje vecka och utflyttning samma dag.",
+      "tagg": "bostad"
+    },
+    {
+      "rubrik": "Treskift i nya verkstaden",
+      "text": "Vi städar en ny fordonsverkstad i Gällivare tre gånger per dygn, sju dagar i veckan.",
+      "tagg": "industri"
+    },
+    {
+      "rubrik": "Erik firar 30 år i företaget",
+      "text": "Sommarvikarien från 1996 har nu ägt Järnbergs i femton år.",
+      "tagg": "people"
+    }
+  ],
+  "nyckeltal": [
+    {
+      "varde": "1983",
+      "enhet": "",
+      "etikett": "Grundat i Malmberget"
+    },
+    {
+      "varde": "64",
+      "enhet": "anställda",
+      "etikett": "I Gällivare, Kiruna och Pajala"
+    },
+    {
+      "varde": "3 100",
+      "enhet": "rumsbyten",
+      "etikett": "I arbetarboenden 2025"
+    },
+    {
+      "varde": "−38°",
+      "enhet": "",
+      "etikett": "Kallaste morgon vi städade i fjol"
+    }
+  ],
+  "projekt": [
+    {
+      "namn": "Fordonsverkstad i Gällivare",
+      "ort": "Gällivare",
+      "typ": "Industristäd i treskift",
+      "ar": "2026",
+      "text": "Verkstadsgolv, smörjgrop och omklädning städade vid varje skiftbyte, dygnet runt.",
+      "tagg": "industri",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Modulboendet vid Tuolluvaara",
+      "ort": "Kiruna",
+      "typ": "Boendeservice",
+      "ar": "2026",
+      "text": "180 rum med veckostäd, sängkläder och utflyttningsstäd samma dag.",
+      "tagg": "bostad",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Koskullskulle Industriområde",
+      "ort": "Gällivare",
+      "typ": "Omklädningsrum",
+      "ar": "2025",
+      "text": "Duschar och omklädning för 400 personer, städade tre gånger per dygn.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Skola i nya Kiruna centrum",
+      "ort": "Kiruna",
+      "typ": "Skolstäd",
+      "ar": "2025",
+      "text": "Daglig lokalvård och extra entréstäd vintertid i en nybyggd skola.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Pajala Hälsocentral",
+      "ort": "Pajala",
+      "typ": "Lokalvård vård",
+      "ar": "2024",
+      "text": "Vårdlokaler städade enligt basala hygienrutiner, av personal som talar finska och meänkieli.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Etablering vid Vassaravaara",
+      "ort": "Gällivare",
+      "typ": "Bodar och matsalar",
+      "ar": "2025",
+      "text": "Bodar, matsal och torkrum för 120 hantverkare städade varje dag under ett års bygge.",
+      "tagg": "bygg"
+    }
+  ],
+  "process": [
+    {
+      "titel": "Platsbesök",
+      "text": "Vi går igenom lokalerna med er skyddsombud och ser vilka risker och material som finns.",
+      "tagg": "industri"
+    },
+    {
+      "titel": "Schema efter skiften",
+      "text": "Städningen läggs i era skiftbyten, så att vi aldrig står i vägen för produktionen.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Introduktion på plats",
+      "text": "Vår personal går er säkerhetsintroduktion och får passerkort innan första passet.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Digital egenkontroll",
+      "text": "Varje pass signeras i en app, och ni ser allt som gjorts i en gemensam logg.",
+      "tagg": "stadning"
+    }
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen ska skadas på jobbet hos en kund",
+    "text": "Industristäd innebär halka, tunga maskiner och fordon i rörelse. Alla som arbetar på industriområden har gått kundens säkerhetsintroduktion, bär skyddsutrustning och arbetar aldrig ensamma nattetid.",
+    "mal": [
+      [
+        "0",
+        "ensamarbete nattetid"
+      ],
+      [
+        "100 %",
+        "med kundens säkerhetsintroduktion"
+      ],
+      [
+        "4",
+        "språk i personalgruppen"
+      ]
+    ]
+  },
+  "karriar": {
+    "rubrik": "Fast jobb i Malmfälten",
+    "text": "Malmfälten växer och vi anställer året runt. Du får fast anställning, ob-tillägg för kväll och natt och vi bekostar B-körkort för den som saknar det. Det spelar ingen roll om din svenska inte är perfekt än.",
+    "jobb": [
+      [
+        "Lokalvårdare treskift",
+        "Gällivare"
+      ],
+      [
+        "Boendestädare",
+        "Kiruna"
+      ],
+      [
+        "Arbetsledare",
+        "Kiruna"
+      ],
+      [
+        "Lokalvårdare",
+        "Pajala"
+      ]
+    ]
+  },
+  "kultur": "Varje vinter har vi personalfest på isen vid Dundret med pimpelfiske och renskav i kåta.",
+  "citat": {
+    "text": "Sirkka sa att man aldrig ska låta nattskiftet komma till ett smutsigt omklädningsrum. Det är fortfarande det första jag frågar om när vi tar en ny kund.",
+    "namn": "Erik Lantto",
+    "roll": "Ägare och vd",
+    "tagg": "people"
+  },
+  "omdomen": [
+    {
+      "text": "Omklädningsrummen är rena vid varje skiftbyte, klockan sex, två och tio. Det har gjort mer för stämningen än något annat vi gjort.",
+      "namn": "Tommy K.",
+      "ort": "Gällivare"
+    },
+    {
+      "text": "Vi har 180 rum och folk som flyttar in och ut varje dag. Järnbergs har aldrig missat en inflyttning.",
+      "namn": "Hanna P.",
+      "ort": "Kiruna"
+    },
+    {
+      "text": "Personalen pratar finska med de äldre patienterna. Det betyder mycket här uppe.",
+      "namn": "Aila M.",
+      "ort": "Pajala"
+    }
+  ],
+  "faq": [
+    [
+      "Kan ni städa när vi har produktion igång?",
+      "Ja, det är det vanligaste. Vi lägger städningen i skiftbytena och följer era säkerhetsrutiner."
+    ],
+    [
+      "Städar ni på nätter och helger?",
+      "Ja. Vi har personal i treskift alla dagar i veckan, även jul och midsommar."
+    ],
+    [
+      "Har ni personal som talar finska?",
+      "Ja, i alla tre städer. Vi har också medarbetare som talar meänkieli och arabiska."
+    ],
+    [
+      "Vad kostar industristäd?",
+      "Det beror på yta, smutsgrad och antal pass per dygn. Vi lämnar fast månadspris efter platsbesök, oftast inom en vecka."
+    ],
+    [
+      "Hur fungerar boendestäd?",
+      "Vi städar rummen veckovis, byter sängkläder och gör utflyttningsstäd samma dag som någon flyttar ut. Ni beställer i en delad kalender."
+    ],
+    [
+      "Klarar ni oljespill och kemikalier?",
+      "Vi har absorbenter och utbildning för mindre spill. Större spill hanteras av saneringsföretag, men vi städar efteråt."
+    ],
+    [
+      "Kommer ni till Svappavaara och Vittangi?",
+      "Ja, vi har kunder i hela Gällivare, Kiruna och Pajala kommuner."
+    ]
+  ],
+  "certifikat": [
+    {
+      "titel": "Avtal med ob-tillägg",
+      "text": "Serviceentreprenadavtalet med ob-tillägg för kväll, natt och helg.",
+      "ikon": "folk"
+    },
+    {
+      "titel": "ID06 och säkerhetskort",
+      "text": "Alla som arbetar på industriområden har ID06 och Säkerhetskort SSG Entre.",
+      "ikon": "hjalm"
+    },
+    {
+      "titel": "ISO 9001",
+      "text": "Certifierat kvalitetsledningssystem sedan 2017.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Basala hygienrutiner",
+      "text": "Personalen i vårdlokaler är utbildad i basala hygienrutiner och smittspridning.",
+      "ikon": "kors"
+    }
+  ],
+  "kunder": [
+    "Koskullskulle Industripark",
+    "Malmbergets Verkstadsservice",
+    "Tuolluvaara Boendeby",
+    "Kiruna Skolfastigheter",
+    "Pajala Hälsocentral",
+    "Gällivare Fordonsteknik",
+    "Vassaravaara Byggkonsortium",
+    "Svappavaara Maskinhall"
+  ],
+  "nyheter": [
+    [
+      "2026-10-19",
+      "Vintersäsongen börjar – byt entrémattorna nu",
+      "Grus och smältvatten står för hälften av smutsen i en lokal vintertid.",
+      "stadning"
+    ],
+    [
+      "2026-06-03",
+      "Nytt boendeavtal i Kiruna",
+      "180 rum för entreprenörer – vi anställer tolv nya boendestädare.",
+      "bostad"
+    ],
+    [
+      "2025-11-24",
+      "Erik Lantto 30 år på Järnbergs",
+      "Från sommarvikarie 1996 till ägare och vd.",
+      "people"
+    ]
+  ],
+  "kontakt": {
+    "adress": "Malmvägen 12",
+    "postnr": "982 38",
+    "ort": "Gällivare",
+    "telefon": "070-174 06 30",
+    "epost": "kontakt@jarnbergslokalvard.se",
+    "orgnr": ""
+  },
+  "oppettider": "Kontoret vardagar 7–16 – städning alla timmar på dygnet",
+  "omrade": "Gällivare, Kiruna och Pajala kommuner",
+  "fot_cta": "Berätta hur era skift ser ut – vi lägger städningen efter dem.",
+  "bild": {
+    "panel": "industri",
+    "hb": "people"
+  },
+  "text": {
+    "hero_knapp": "Där vi städar",
+    "kontakt_knapp": "Boka platsbesök",
+    "vagval_etikett": "Arbetsplatser",
+    "ber_rubrik": "Aktuellt i Malmfälten",
+    "proj_rubrik": "Arbetsplatser vi håller rena",
+    "process_rubrik": "Från platsbesök till första skiftet",
+    "hb_etikett": "Säkerhet",
+    "omdomen_rubrik": "Röster från skiftlagen",
+    "faq_rubrik": "Om skift, industri och boenden",
+    "boka_rubrik": "Boka ett platsbesök",
+    "boka_text": "Berätta vilken arbetsplats det gäller och hur era skift ser ut, så kommer vi ut inom en vecka.",
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "Företag och ort",
+      "Lokaler och skiftschema"
+    ],
+    "logos_rubrik": "Arbetsplatser i Malmfälten",
+    "certifikat_rubrik": "Säkerhet och behörigheter",
+    "bolag_rubrik": "Gällivare, Kiruna och Tornedalen",
+    "ny_rubrik": "Nytt från Järnbergs",
+    "medarbetare": "Lokalvårdarna"
+  }
+}

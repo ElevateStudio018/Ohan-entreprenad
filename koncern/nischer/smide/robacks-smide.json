@@ -94,14 +94,14 @@
     {"namn": "Nytt fossilfritt", "pris": "fr. 3 400 kr", "enhet": "per löpmeter monterat", "text": "Nytillverkat i vätgasreducerat stål.", "punkter": ["Ritat efter dina mått", "Varmförzinkat och lackat", "Materialintyg från stålverket", "Fem års garanti på svets"]}
   ],
   "certifikat": [
-    {"titel": "Miljöfyrtornet", "text": "Diplomerade enligt Svensk Miljöbas miljöledningssystem sedan 2021.", "ikon": "lov"},
+    {"titel": "Svensk Miljöbas", "text": "Certifierat miljöledningssystem för små företag sedan 2021, med extern revision.", "ikon": "lov"},
     {"titel": "Gesällbrev i smide", "text": "Mattias Öberg har gesällbrev från Sveriges Hantverksråd.", "ikon": "stjarna"},
-    {"titel": "Svetscertifikat ISO 9606-1", "text": "Samtliga svetsare har certifikat för MIG och MMA.", "ikon": "eld"},
+    {"titel": "Svetsprövning ISO 9606-1", "text": "Fyra svetsare med prövade certifikat i MAG och TIG.", "ikon": "eld"},
     {"titel": "EN 1090-1, EXC2", "text": "CE-märkning av räcken och trappor, även återbrukade.", "ikon": "skold"}
   ],
-  "kunder": ["Brf Mariehemsgården", "Umeå kommun förskolor", "Koloniföreningen Teg", "Västerbottens Bostäder", "Sävar församling", "Tegsbyggarna", "Holmsunds Båtklubb"],
+  "kunder": ["Brf Mariehemsgården", "Umeå Kommunfastigheter", "Koloniföreningen Teg", "Västerbottens Bostäder", "Sävar församling", "Tegsbyggarna", "Holmsunds Båtklubb"],
   "nyheter": [
-    ["2026-10-15", "Klimatbokslut för 2025", "Vi sparade 186 ton koldioxid jämfört med att tillverka allt nytt.", "natur"],
+    ["2026-10-15", "Klimatbokslut för 2025", "Vi sparade 64 ton koldioxid jämfört med att tillverka allt nytt.", "natur"],
     ["2026-06-24", "Ålidhems räcken blev kolonistaket", "Så återbrukade vi 86 meter räcken från en rivning.", "rivning"],
     ["2026-02-18", "Fossilfritt till förskolor", "Umeå kommun valde vätgasreducerat stål till Tomtebos nya förskola.", "svets"]
   ],
@@ -118,6 +118,7 @@
     "omdomen_rubrik": "Vad kunderna sparade",
     "faq_rubrik": "Om återbruk och fossilfritt",
     "priser_rubrik": "Pris per meter, tre vägar",
+    "hero_lank": "Jämför priserna",
     "priser_utvald": "Lägst klimatavtryck",
     "boka_rubrik": "Går ditt smide att rädda?",
     "boka_falt": ["Namn", "Telefon", "E-post", "Vad gäller det? Bifoga gärna bilder"],

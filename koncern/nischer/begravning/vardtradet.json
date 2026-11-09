@@ -1,0 +1,141 @@
+{
+  "profil": "nisch",
+  "nisch": "begravning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vårdträdet Begravning & Samtal AB",
+  "kortnamn": "Vårdträdet",
+  "slug": "vardtradet",
+  "typ": "Begravningsbyrå och samtalsstöd i Uppsala",
+  "tagline": "Samtal före och efter",
+  "slogan": "En liten byrå i Uppsala som hjälper människor att prata om döden – innan, under och långt efter begravningen.",
+  "hero_rubrik": "Samtalen som gör avskedet lättare",
+  "hero_text": "Vårdträdet startades av en hospicesjuksköterska och en sjukhuspräst. Vi ordnar begravningar, men lika ofta planeringssamtal och sorgegrupper.",
+  "intro_rubrik": "Sju år i Uppsala",
+  "om": [
+    "Maria Ekdahl arbetade femton år på ett hospice i Uppsala och Johan Strand var präst på Akademiska sjukhuset. Båda såg hur mycket lättare det blev för de anhöriga när den som dött hade hunnit berätta vad hen ville. 2019 öppnade de Vårdträdet i ett gårdshus på Sysslomansgatan.",
+    "Vi är fem personer: två rådgivare, en borgerlig officiant, en samtalsterapeut och Maria. Vi ordnar ungefär 110 begravningar om året och håller drygt 300 planeringssamtal."
+  ],
+  "vagval_rubrik": "Var befinner ni er?",
+  "tjanster": [
+    {"titel": "Planera i förväg", "ikon": "kalender", "href": "verksamhet.html", "text": "Ett samtal på 90 minuter där du berättar hur du vill ha det – vi skriver ned det."},
+    {"titel": "När någon är svårt sjuk", "ikon": "hjarta", "href": "verksamhet.html", "text": "Vi kan komma till hemmet, hospicet eller sjukhuset för ett första samtal."},
+    {"titel": "Ordna en begravning", "ikon": "lov", "href": "verksamhet.html", "text": "Ceremonier skrivna tillsammans med familjen, kyrkliga och borgerliga."},
+    {"titel": "Borgerlig officiant", "ikon": "folk", "href": "verksamhet.html", "text": "Vår officiant Hanna Liljegren skriver och leder ceremonier utan religiöst innehåll."},
+    {"titel": "Sorgegrupper", "ikon": "trad", "href": "verksamhet.html", "text": "Åtta träffar med andra som förlorat en partner, ett barn eller en förälder."},
+    {"titel": "Barn i sorg", "ikon": "skola", "href": "verksamhet.html", "text": "Stöd till föräldrar och skolor när ett barn har mist någon nära."},
+    {"titel": "Vita arkivet", "ikon": "dokument", "href": "verksamhet.html", "text": "Dina önskemål sparas hos oss och lämnas till familjen när det behövs."},
+    {"titel": "Boka ett samtal", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Hos oss, hemma eller på video."}
+  ],
+  "affarsomraden": [
+    {"titel": "Planeringssamtal", "text": "Vill du bli kremerad eller jordbegravd? Vilken musik, vilka ord, vilka människor? I ett samtal på 90 minuter går vi igenom det tillsammans, och du får en sammanställning hem.", "text2": "Kostnaden dras av om din familj sedan låter oss ordna begravningen.", "tagg": "people"},
+    {"titel": "Begravningar", "text": "Vi tar god tid på oss i mötet med familjen och skriver ceremonin tillsammans. Vi ordnar begravningar i Uppsala domkyrka, Gamla Uppsala kyrka, Uppsala gamla kyrkogårds kapell och på platser utanför kyrkans väggar.", "text2": "Varje familj får ett uppföljande samtal en månad efter begravningen, utan kostnad.", "tagg": "begravning"},
+    {"titel": "Sorgegrupper", "text": "Grupperna samlar sex till åtta personer under åtta kvällar och leds av vår samtalsterapeut Karin Åberg. Det finns grupper för den som förlorat en partner, en förälder och för föräldrar som mist ett barn.", "text2": "Grupperna är öppna även för den som haft en annan begravningsbyrå.", "tagg": "people"},
+    {"titel": "Stöd till skolor och arbetsplatser", "text": "När en elev eller kollega dör kommer vi ut och pratar med klassen eller arbetsgruppen. Vi har en färdig plan för första veckan som skolor kan använda.", "text2": "Uppsala kommuns elevhälsa och flera företag har ramavtal med oss.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Maria Ekdahl", "segment": "Grundare, sjuksköterska", "rubrik": "Samtal i livets slutskede", "text": "Maria håller de flesta planeringssamtalen och kommer gärna till hospice eller hem.", "tagg": "people"},
+    {"namn": "Rådgivningen", "segment": "Två rådgivare", "rubrik": "Begravningar från början till slut", "text": "Elin och Daniel ordnar alla praktiska delar, från kista och tider till annons och minnesstund.", "tagg": "begravning"},
+    {"namn": "Samtal och grupper", "segment": "Karin Åberg och Hanna Liljegren", "rubrik": "Sorg, ceremoni och ord", "text": "Karin leder sorgegrupperna och Hanna skriver och leder de borgerliga ceremonierna.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ny sorgegrupp för unga vuxna", "text": "För dig mellan 18 och 30 som har förlorat en förälder – start i januari.", "tagg": "people"},
+    {"rubrik": "Dödscafé på stadsbiblioteket", "text": "En gång i månaden pratar vi om döden över kaffe, öppet för alla. Senast kom 45 personer.", "tagg": "people"},
+    {"rubrik": "Ramavtal med elevhälsan", "text": "Uppsala kommuns skolor kan nu kalla in oss när en elev eller lärare har dött.", "tagg": "kontor"}
+  ],
+  "nyckeltal": [
+    {"varde": "300", "enhet": "per år", "etikett": "Planeringssamtal"},
+    {"varde": "110", "enhet": "per år", "etikett": "Begravningar"},
+    {"varde": "14", "enhet": "grupper", "etikett": "Sorgegrupper sedan 2020"},
+    {"varde": "5", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "Planering med en hospicepatient", "ort": "Uppsala", "typ": "Planeringssamtal", "ar": "2025", "text": "Tre samtal på hospicet under hennes sista månad – musiken och dikten valde hon själv.", "tagg": "people"},
+    {"namn": "Borgerlig ceremoni i Botaniska trädgården", "ort": "Uppsala", "typ": "Borgerlig begravning", "ar": "2025", "text": "En botanist fick sitt avsked i orangeriet, med de växter han själv tagit hem från Kamerun.", "tagg": "tradgard"},
+    {"namn": "Begravning i Gamla Uppsala kyrka", "ort": "Gamla Uppsala", "typ": "Kyrklig begravning", "ar": "2025", "text": "Ceremonin hade skrivits fyra år tidigare i ett planeringssamtal – familjen behövde bara följa den.", "tagg": "begravning"},
+    {"namn": "Stöd till en högstadieklass", "ort": "Gottsunda", "typ": "Skolstöd", "ar": "2024", "text": "Tre besök i klassen efter att en elev omkommit i en trafikolycka.", "tagg": "kontor"},
+    {"namn": "Sorgegrupp för föräldrar", "ort": "Uppsala", "typ": "Sorgegrupp", "ar": "2024", "text": "Sex föräldrar som träffas fortfarande, ett år efter att gruppen avslutades.", "tagg": "people"},
+    {"namn": "Sorgegrupp för unga vuxna", "ort": "Uppsala", "typ": "Sorgegrupp", "ar": "2027", "text": "Åtta kvällar från januari – fyra platser kvar.", "tagg": "people", "status": "Anmälan öppen"}
+  ],
+  "process": [
+    {"titel": "Ett första samtal", "text": "Ring eller skriv. Vi lyssnar på var ni befinner er – om någon är sjuk, nyss har dött eller om du vill planera för dig själv.", "tagg": "people"},
+    {"titel": "Tid att prata", "text": "Vi träffas i gårdshuset, hemma eller på hospicet. Mötet får ta den tid det tar.", "tagg": "interior"},
+    {"titel": "Ceremonin", "text": "Den som har skrivits tillsammans med er, med ord och musik som betyder något.", "tagg": "begravning"},
+    {"titel": "Efteråt", "text": "Ett samtal efter en månad, och plats i en sorgegrupp om ni vill.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Sorgen slutar inte vid graven",
+    "text": "Därför ringer vi alltid upp en månad efter begravningen, och därför har vi en egen samtalsterapeut. Allt stöd efteråt är kostnadsfritt för familjer som haft sin begravning hos oss.",
+    "mal": [["1 mån", "efter begravningen ringer vi upp"], ["0 kr", "för uppföljande samtal"], ["8", "kvällar i varje sorgegrupp"]]
+  },
+  "karriar": {
+    "rubrik": "Ett första samtal, utan krav",
+    "text": "Många som ringer oss vet inte riktigt vad de vill. Det är helt i sin ordning. Ett första telefonsamtal på 20 minuter kostar ingenting och förpliktar till ingenting.",
+    "jobb": []
+  },
+  "kultur": "Vi har aldrig mer än tre möten om dagen per rådgivare, så att ingen familj behöver känna att klockan går.",
+  "citat": {"text": "På hospicet frågade nästan alla till slut samma sak: kommer de att klara sig? Det enklaste sättet att hjälpa dem man lämnar är att berätta hur man vill ha det.", "namn": "Maria Ekdahl", "roll": "Grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Mamma gjorde ett planeringssamtal med Maria två år innan hon dog. När dagen kom fanns allt nedskrivet, ända ner till vilken psalm hon inte ville ha.", "namn": "Josefin T.", "ort": "Uppsala"},
+    {"text": "Sorgegruppen räddade mitt första år som änkling. Vi är fem som fortfarande äter middag ihop varje månad.", "namn": "Lars-Göran P.", "ort": "Sävja"},
+    {"text": "Hanna skrev en ceremoni som fick alla att skratta och gråta i samma andetag. Precis som pappa.", "namn": "Amanda F.", "ort": "Knivsta"}
+  ],
+  "faq": [
+    ["Är det konstigt att planera sin egen begravning?", "Inte alls. Ungefär två av tre som kommer till oss för ett planeringssamtal är friska. De vill bara att familjen ska slippa gissa."],
+    ["Vad händer med det vi skriver ned?", "Det sparas i vårt Vita arkiv och du får en kopia. När du dör kontaktar familjen oss, eller så hittar de kopian bland dina papper."],
+    ["Måste familjen anlita er när det blir dags?", "Nej. Planeringen är din och gäller vilken byrå familjen än väljer. Väljer de oss dras kostnaden för samtalet av."],
+    ["Vem kan gå i en sorgegrupp?", "Alla som har förlorat någon nära, oavsett vilken byrå som ordnade begravningen. Vi rekommenderar att det har gått minst två månader sedan dödsfallet."],
+    ["Vad är ett dödscafé?", "En öppen träff där vi pratar om döden, livet och allt däremellan över en kopp kaffe. Det är inte en sorgegrupp och man behöver inte ha förlorat någon."],
+    ["Har ni jour?", "Vi är fem personer och har inte egen nattjour. Dödsfall utanför kontorstid hanteras av en samarbetspartner, och vi tar över nästa morgon."],
+    ["Hur bemöter man ett barn som har mist en förälder?", "Var ärlig, använd ordet död och låt barnet ställa frågor. Vi har en skrift för föräldrar som vi gärna skickar hem."]
+  ],
+  "priser": [
+    {"namn": "Planeringssamtal", "pris": "900 kr", "enhet": "90 minuter", "text": "För dig som vill skriva ned dina önskemål.", "punkter": ["Samtal hos oss, hemma eller på video", "Skriftlig sammanställning", "Förvaring i Vita arkivet", "Avdrag om vi ordnar begravningen"]},
+    {"namn": "Begravning med samtal", "pris": "fr. 31 900 kr", "enhet": "kyrklig eller borgerlig", "text": "Begravning där ceremonin skrivs tillsammans med er.", "punkter": ["Två längre möten med familjen", "Kista, svepning och transport", "Ceremonibukett och tryckt program", "Uppföljande samtal efter en månad"], "utvald": true},
+    {"namn": "Sorgegrupp", "pris": "2 400 kr", "enhet": "åtta kvällar", "text": "Kostnadsfri för familjer som haft begravningen hos oss.", "punkter": ["Sex till åtta deltagare", "Leds av legitimerad terapeut", "Te, kaffe och smörgås varje kväll", "Material att ta med hem"]}
+  ],
+  "certifikat": [
+    {"titel": "SBF-auktoriserad byrå", "text": "Auktoriserad av Sveriges Begravningsbyråers Förbund sedan 2020.", "ikon": "skold"},
+    {"titel": "Legitimerad terapeut", "text": "Sorgegrupperna leds av Karin Åberg, legitimerad psykoterapeut.", "ikon": "hjarta"},
+    {"titel": "Legitimerad sjuksköterska", "text": "Maria Ekdahl har specialistutbildning i palliativ vård.", "ikon": "vard"},
+    {"titel": "Allmänna bestämmelser", "text": "Våra avtal följer bestämmelserna för begravningstjänster som tagits fram med Konsumentverket.", "ikon": "dokument"}
+  ],
+  "kunder": ["Uppsala kommun, elevhälsan", "Hospice Fyrisgården", "Knivsta kommun", "Uppsala Stadsbibliotek", "Föreningen Leva vidare Uppland", "Gottsunda Seniorträff", "Brf Ekeby Allé"],
+  "nyheter": [
+    ["2026-10-21", "Ny sorgegrupp för unga vuxna", "Åtta kvällar från den 14 januari – anmälan är öppen.", "people"],
+    ["2026-05-19", "Dödscafé varje månad på stadsbiblioteket", "Första tisdagen i månaden klockan 18, ingen anmälan behövs.", "people"],
+    ["2025-08-28", "Så pratar du med barn om döden", "Karin Åbergs fem råd till föräldrar och lärare.", "kontor"]
+  ],
+  "kontakt": {"adress": "Sysslomansgatan 14", "postnr": "753 11", "ort": "Uppsala", "telefon": "070-174 06 89", "epost": "hej@vardtradet.se", "orgnr": ""},
+  "oppettider": "Mån–fre 9–17, torsdagar till 20",
+  "omrade": "Uppsala, Knivsta, Enköping och Östhammar",
+  "fot_cta": "Vill du prata, utan att bestämma något? Ring oss.",
+  "text": {
+    "hero_knapp": "Om våra samtal",
+    "kontakt_knapp": "Boka ett samtal",
+    "hero_lank": "Se exempel",
+    "ber_etikett": "Från gårdshuset",
+    "ber_rubrik": "Nytt på Sysslomansgatan",
+    "proj_etikett": "Exempel",
+    "proj_rubrik": "Samtal, ceremonier och grupper",
+    "status_klart": "Genomfört",
+    "process_etikett": "Hos Vårdträdet",
+    "process_rubrik": "Vi börjar alltid med att lyssna",
+    "hb_etikett": "Efteråt",
+    "panel_etikett": "Första kontakten",
+    "panel_knapp": "Boka ett samtal",
+    "panel_alla": "Boka ett samtal",
+    "bolag_rubrik": "Fem personer, tre kompetenser",
+    "bolag_kol": ["Vem", "Roll", "Om"],
+    "omdomen_rubrik": "Det säger de vi har mött",
+    "faq_rubrik": "Frågor vi ofta får i samtalen",
+    "priser_rubrik": "Samtal, begravning och grupp",
+    "priser_not": "Alla priser inklusive moms.",
+    "priser_knapp": "Boka",
+    "boka_rubrik": "Vill du prata med oss?",
+    "boka_text": "Skriv några rader om vad du funderar på. Maria eller någon av rådgivarna ringer upp.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Vad vill du prata om?"],
+    "logos_rubrik": "Vi samarbetar med",
+    "certifikat_rubrik": "Legitimerade och auktoriserade",
+    "ny_rubrik": "Tankar och nyheter"
+  }
+}

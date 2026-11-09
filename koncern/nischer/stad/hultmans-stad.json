@@ -17,95 +17,376 @@
   ],
   "vagval_rubrik": "Vad behöver föreningen hjälp med?",
   "tjanster": [
-    {"titel": "Trappstäd varje vecka", "ikon": "hus", "href": "verksamhet.html", "text": "Sopning, våttorkning av golv och avtorkning av ledstänger, dörrar och tryckknappar enligt fast schema."},
-    {"titel": "Tvättstuga och soprum", "ikon": "vatten", "href": "verksamhet.html", "text": "Rengöring av maskiner, golvbrunnar, luddfilter och sopkärlsrum – ofta samma dag som trappan."},
-    {"titel": "Storstäd av trapphus", "ikon": "stjarna", "href": "verksamhet.html", "text": "En gång om året: väggar, element, belysningsarmaturer, källargångar och vindsgångar."},
-    {"titel": "Fönster i trapphus", "ikon": "sol", "href": "verksamhet.html", "text": "Trapphusfönster och entrépartier putsas vår och höst, med stege eller teleskopstång."},
-    {"titel": "Terrazzo och sten", "ikon": "sten", "href": "verksamhet.html", "text": "Maskinskurning, slipning och impregnering av 60-talets terrazzotrappor."},
-    {"titel": "Kontorsstäd", "ikon": "kontor", "href": "verksamhet.html", "text": "Städning av mindre kontor och föreningslokaler, kvällstid eller tidig morgon."},
-    {"titel": "Flyttstäd för medlemmar", "ikon": "nyckel", "href": "verksamhet.html", "text": "Föreningens medlemmar får flyttstäd med RUT-avdrag och vår ordinarie garanti."},
-    {"titel": "Kostnadsfri visning", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi går igenom huset med styrelsen och lämnar ett fast månadspris."}
+    {
+      "titel": "Trappstäd varje vecka",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Sopning, våttorkning av golv och avtorkning av ledstänger, dörrar och tryckknappar enligt fast schema."
+    },
+    {
+      "titel": "Tvättstuga och soprum",
+      "ikon": "vatten",
+      "href": "verksamhet.html",
+      "text": "Rengöring av maskiner, golvbrunnar, luddfilter och sopkärlsrum – ofta samma dag som trappan."
+    },
+    {
+      "titel": "Storstäd av trapphus",
+      "ikon": "stjarna",
+      "href": "verksamhet.html",
+      "text": "En gång om året: väggar, element, belysningsarmaturer, källargångar och vindsgångar."
+    },
+    {
+      "titel": "Fönster i trapphus",
+      "ikon": "sol",
+      "href": "verksamhet.html",
+      "text": "Trapphusfönster och entrépartier putsas vår och höst, med stege eller teleskopstång."
+    },
+    {
+      "titel": "Terrazzo och sten",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Maskinskurning, slipning och impregnering av 60-talets terrazzotrappor."
+    },
+    {
+      "titel": "Kontor och mottagningar",
+      "ikon": "kontor",
+      "href": "verksamhet.html",
+      "text": "Städning av mindre kontor och föreningslokaler, kvällstid eller tidig morgon."
+    },
+    {
+      "titel": "Flyttstäd för medlemmar",
+      "ikon": "nyckel",
+      "href": "verksamhet.html",
+      "text": "Föreningens medlemmar får flyttstäd med RUT-avdrag och vår ordinarie garanti."
+    },
+    {
+      "titel": "Kostnadsfri visning",
+      "ikon": "dokument",
+      "href": "om-oss.html#kontakt",
+      "text": "Vi går igenom huset med styrelsen och lämnar ett fast månadspris."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Trappstäd för brf", "text": "Huvuddelen av vårt arbete är veckostäd av trapphus, entréer och hissar i bostadsrättsföreningar. Schemat sitter på anslagstavlan och städaren signerar varje besök.", "text2": "Vi städar i dag åt 74 föreningar, den äldsta har varit kund sedan 1974.", "tagg": "stadning"},
-    {"titel": "Storstäd och golvvård", "text": "Trapphus med terrazzo, klinker eller linoleum behöver mer än en mopp. Vi skurar med maskin, slipar bort repor i stengolv och lägger nytt skyddsskikt.", "text2": "Golvvården görs helst i maj och september, när gruset från vintern är borta.", "tagg": "golv"},
-    {"titel": "Kontor och lokaler", "text": "Lennart Hultman började med kontorsstäd på 1990-talet, och i dag städar vi ett trettiotal mindre kontor, tandläkarmottagningar och föreningslokaler.", "text2": "Kontoren städas av samma personal som trapphusen, så vi tar inte in vikarier från bemanningsföretag.", "tagg": "kontor"},
-    {"titel": "Tjänster för medlemmar", "text": "När någon i föreningen flyttar eller vill ha fönsterputs hemma kan de boka oss direkt. Priset är detsamma som för andra privatkunder, men vi känner redan huset.", "text2": "RUT-avdraget dras direkt på fakturan.", "tagg": "hem"}
+    {
+      "titel": "Trappstäd för brf",
+      "text": "Huvuddelen av vårt arbete är veckostäd av trapphus, entréer och hissar i bostadsrättsföreningar. Schemat sitter på anslagstavlan och städaren signerar varje besök.",
+      "text2": "Vi städar i dag åt 74 föreningar, den äldsta har varit kund sedan 1974.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Storstäd och golvvård",
+      "text": "Trapphus med terrazzo, klinker eller linoleum behöver mer än en mopp. Vi skurar med maskin, slipar bort repor i stengolv och lägger nytt skyddsskikt.",
+      "text2": "Golvvården görs helst i maj och september, när gruset från vintern är borta.",
+      "tagg": "golv"
+    },
+    {
+      "titel": "Kontor och lokaler",
+      "text": "Lennart Hultman började med kontorsstäd på 1990-talet, och i dag städar vi ett trettiotal mindre kontor, tandläkarmottagningar och föreningslokaler.",
+      "text2": "Kontoren städas av samma personal som trapphusen, så vi tar inte in vikarier från bemanningsföretag.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Tjänster för medlemmar",
+      "text": "När någon i föreningen flyttar eller vill ha fönsterputs hemma kan de boka oss direkt. Priset är detsamma som för andra privatkunder, men vi känner redan huset.",
+      "text2": "RUT-avdraget dras direkt på fakturan.",
+      "tagg": "hem"
+    }
   ],
   "bolag": [
-    {"namn": "Trappstäd Väster och Centrum", "segment": "14 städare", "rubrik": "Där allt började 1961", "text": "Stenhusen på Väster, Engelbrektsgatan och Rudbecksgatan, plus föreningarna runt Centralstationen.", "tagg": "stadning"},
-    {"namn": "Trappstäd Söder och Kumla", "segment": "12 städare", "rubrik": "Från Adolfsberg till Hallsberg", "text": "Radhusområden och lamellhus i södra Örebro samt sju föreningar i Kumla och Hallsberg.", "tagg": "bostad"},
-    {"namn": "Golv och storstäd", "segment": "6 golvvårdare", "rubrik": "Maskinerna står i Aspholmen", "text": "Gruppen som skurar, slipar och impregnerar, och som tar storstädningen när veckostädarna har semester.", "tagg": "golv"},
-    {"namn": "Kontor och kundservice", "segment": "6 medarbetare", "rubrik": "Karin svarar i telefon", "text": "Kontorsstädarna och kontoret på Elementvägen, där vi tar emot felanmälningar och bokar medlemstjänster.", "tagg": "kontor"}
+    {
+      "namn": "Trappstäd Väster och Centrum",
+      "segment": "14 städare",
+      "rubrik": "Där allt började 1961",
+      "text": "Stenhusen på Väster, Engelbrektsgatan och Rudbecksgatan, plus föreningarna runt Centralstationen.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Trappstäd Söder och Kumla",
+      "segment": "12 städare",
+      "rubrik": "Från Adolfsberg till Hallsberg",
+      "text": "Radhusområden och lamellhus i södra Örebro samt sju föreningar i Kumla och Hallsberg.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Golv och storstäd",
+      "segment": "6 golvvårdare",
+      "rubrik": "Maskinerna står i Aspholmen",
+      "text": "Gruppen som skurar, slipar och impregnerar, och som tar storstädningen när veckostädarna har semester.",
+      "tagg": "golv"
+    },
+    {
+      "namn": "Kontor och kundservice",
+      "segment": "6 medarbetare",
+      "rubrik": "Karin svarar i telefon",
+      "text": "Kontorsstädarna och kontoret på Elementvägen, där vi tar emot felanmälningar och bokar medlemstjänster.",
+      "tagg": "kontor"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Brf Stinsen firar 50 år med oss", "text": "Föreningen på Väster blev kund 1974 och har haft fyra städare sedan dess. Den nuvarande, Ritva, har haft huset sedan 2003.", "tagg": "stadning"},
-    {"rubrik": "Terrazzotrappor från 1962 som nya", "text": "I Brickebacken slipade vi 14 trapphus med sextiotalsterrazzo och sparade föreningen ett golvbyte.", "tagg": "golv"},
-    {"rubrik": "Ny elbil till Kumlarutten", "text": "Kumla och Hallsberg körs nu med en eldriven skåpbil som laddas vid kontoret på nätterna.", "tagg": "stadning"}
+    {
+      "rubrik": "Brf Stinsen firar 50 år med oss",
+      "text": "Föreningen på Väster blev kund 1974 och har haft fyra städare sedan dess. Den nuvarande, Ritva, har haft huset sedan 2003.",
+      "tagg": "stadning"
+    },
+    {
+      "rubrik": "Terrazzotrappor från 1962 som nya",
+      "text": "I Brickebacken slipade vi 14 trapphus med sextiotalsterrazzo och sparade föreningen ett golvbyte.",
+      "tagg": "golv"
+    },
+    {
+      "rubrik": "Ny elbil till Kumlarutten",
+      "text": "Kumla och Hallsberg körs nu med en eldriven skåpbil som laddas vid kontoret på nätterna.",
+      "tagg": "stadning"
+    }
   ],
   "nyckeltal": [
-    {"varde": "1961", "enhet": "", "etikett": "Året Gösta Hultman började"},
-    {"varde": "410", "enhet": "trapphus", "etikett": "Städas varje vecka"},
-    {"varde": "9", "enhet": "år", "etikett": "Snittid med samma städare i huset"},
-    {"varde": "74", "enhet": "föreningar", "etikett": "Avtalskunder i Örebro län"}
+    {
+      "varde": "1961",
+      "enhet": "",
+      "etikett": "Året Gösta Hultman började"
+    },
+    {
+      "varde": "410",
+      "enhet": "trapphus",
+      "etikett": "Städas varje vecka"
+    },
+    {
+      "varde": "9",
+      "enhet": "år",
+      "etikett": "Snittid med samma städare i huset"
+    },
+    {
+      "varde": "74",
+      "enhet": "föreningar",
+      "etikett": "Avtalskunder i Örebro län"
+    }
   ],
   "projekt": [
-    {"namn": "Brf Stinsen", "ort": "Örebro, Väster", "typ": "Trappstäd sedan 1974", "ar": "2026", "text": "Sex trapphus i sekelskifteshus med trägolv som oljas en gång om året.", "tagg": "stadning", "status": "Pågående"},
-    {"namn": "Brf Brickegården", "ort": "Örebro, Brickebacken", "typ": "Slipning av terrazzo", "ar": "2025", "text": "14 trapphus slipade, polerade och impregnerade under tre veckor i september.", "tagg": "golv"},
-    {"namn": "Lillåns Radhusförening", "ort": "Örebro, Lillån", "typ": "Tvättstuga och soprum", "ar": "2025", "text": "Två gemensamma tvättstugor och fyra soprum städas varje tisdag och fredag.", "tagg": "stadning"},
-    {"namn": "Brf Kumla Torg", "ort": "Kumla", "typ": "Trappstäd och fönster", "ar": "2024", "text": "Veckostäd av fyra trapphus och fönsterputs av entrépartierna två gånger per år.", "tagg": "bostad"},
-    {"namn": "Tandvården Engelbrekt", "ort": "Örebro", "typ": "Kontorsstäd", "ar": "2025", "text": "Daglig städning efter stängning med särskild rutin för behandlingsrummen.", "tagg": "kontor"},
-    {"namn": "Brf Hallsbergs Station", "ort": "Hallsberg", "typ": "Storstäd av trapphus", "ar": "2026", "text": "Väggtvätt, armaturer och källargångar i tre trapphus inför föreningens 40-årsjubileum.", "tagg": "stadning"}
+    {
+      "namn": "Brf Stinsen",
+      "ort": "Örebro, Väster",
+      "typ": "Trappstäd sedan 1974",
+      "ar": "2026",
+      "text": "Sex trapphus i sekelskifteshus med trägolv som oljas en gång om året.",
+      "tagg": "stadning",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Brf Brickegården",
+      "ort": "Örebro, Brickebacken",
+      "typ": "Slipning av terrazzo",
+      "ar": "2025",
+      "text": "14 trapphus slipade, polerade och impregnerade under tre veckor i september.",
+      "tagg": "golv"
+    },
+    {
+      "namn": "Lillåns Radhusförening",
+      "ort": "Örebro, Lillån",
+      "typ": "Tvättstuga och soprum",
+      "ar": "2025",
+      "text": "Två gemensamma tvättstugor och fyra soprum städas varje tisdag och fredag.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Brf Kumla Torg",
+      "ort": "Kumla",
+      "typ": "Trappstäd och fönster",
+      "ar": "2024",
+      "text": "Veckostäd av fyra trapphus och fönsterputs av entrépartierna två gånger per år.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Tandvården Engelbrekt",
+      "ort": "Örebro",
+      "typ": "Kontorsstäd",
+      "ar": "2025",
+      "text": "Daglig städning efter stängning med särskild rutin för behandlingsrummen.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Brf Hallsbergs Station",
+      "ort": "Hallsberg",
+      "typ": "Storstäd av trapphus",
+      "ar": "2026",
+      "text": "Väggtvätt, armaturer och källargångar i tre trapphus inför föreningens 40-årsjubileum.",
+      "tagg": "stadning"
+    }
   ],
   "process": [
-    {"titel": "Visning med styrelsen", "text": "Karin eller Mattias går igenom huset med er och noterar golv, ytor och tvättstugor.", "tagg": "bostad"},
-    {"titel": "Fast pris per månad", "text": "Ni får ett pris per trapphus och ett städschema att sätta upp vid entrén.", "tagg": "kontor"},
-    {"titel": "En städare för huset", "text": "Samma person kommer varje vecka och signerar schemat efter varje besök.", "tagg": "stadning"},
-    {"titel": "Rond två gånger om året", "text": "Vi går igenom huset med styrelsen igen och föreslår storstäd eller golvvård vid behov.", "tagg": "golv"}
+    {
+      "titel": "Visning med styrelsen",
+      "text": "Karin eller Mattias går igenom huset med er och noterar golv, ytor och tvättstugor.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Fast pris per månad",
+      "text": "Ni får ett pris per trapphus och ett städschema att sätta upp vid entrén.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "En städare för huset",
+      "text": "Samma person kommer varje vecka och signerar schemat efter varje besök.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Rond två gånger om året",
+      "text": "Vi går igenom huset med styrelsen igen och föreslår storstäd eller golvvård vid behov.",
+      "tagg": "golv"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Samma ansikte i trapphuset, år efter år",
     "text": "Vi anställer våra städare på heltid eller hög deltid, med kollektivavtal och egna områden. Det ger färre byten, bättre koll på huset och färre klagomål från de boende.",
-    "mal": [["9 år", "snittid med samma städare"], ["24 h", "till åtgärd vid en reklamation"], ["0", "underentreprenörer i trapphusen"]]
+    "mal": [
+      [
+        "9 år",
+        "snittid med samma städare"
+      ],
+      [
+        "24 h",
+        "till åtgärd vid en reklamation"
+      ],
+      [
+        "0",
+        "underentreprenörer i trapphusen"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Ta över ett eget område i Örebro",
     "text": "Hos oss får du ett eget område med fasta hus, en tjänstebil och arbetstider dagtid. Flera av våra städare har varit med i över 20 år.",
-    "jobb": [["Trappstädare 80–100 %", "Örebro"], ["Golvvårdare", "Örebro"]]
+    "jobb": [
+      [
+        "Trappstädare 80–100 %",
+        "Örebro"
+      ],
+      [
+        "Golvvårdare",
+        "Örebro"
+      ]
+    ]
   },
   "kultur": "Varje december bjuder familjen Hultman alla anställda och deras familjer på julbord på Elementvägen.",
-  "citat": {"text": "Farfar sa att ett rent trapphus ska lukta ingenting. Inte citron, inte klor – ingenting. Det gäller fortfarande.", "namn": "Karin Hultman", "roll": "Vd, tredje generationen", "tagg": "people"},
+  "citat": {
+    "text": "Farfar sa att ett rent trapphus ska lukta ingenting. Inte citron, inte klor – ingenting. Det gäller fortfarande.",
+    "namn": "Karin Hultman",
+    "roll": "Vd, tredje generationen",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Ritva har städat vårt hus i 23 år. Hon vet vilka som har rullator och ser till att entrémattan ligger rätt.", "namn": "Göran L.", "ort": "Väster"},
-    {"text": "Vi trodde att terrazzon måste bytas. Efter slipningen ser trappan ut som när huset var nytt.", "namn": "Annika S.", "ort": "Brickebacken"},
-    {"text": "När någon stänkt färg i trappan ringde jag på morgonen och golvet var rent till lunch.", "namn": "Peter N.", "ort": "Kumla"}
+    {
+      "text": "Ritva har städat vårt hus i 23 år. Hon vet vilka som har rullator och ser till att entrémattan ligger rätt.",
+      "namn": "Göran L.",
+      "ort": "Väster"
+    },
+    {
+      "text": "Vi trodde att terrazzon måste bytas. Efter slipningen ser trappan ut som när huset var nytt.",
+      "namn": "Annika S.",
+      "ort": "Brickebacken"
+    },
+    {
+      "text": "När någon stänkt färg i trappan ringde jag på morgonen och golvet var rent till lunch.",
+      "namn": "Peter N.",
+      "ort": "Kumla"
+    }
   ],
   "faq": [
-    ["Vad ingår i veckostädningen?", "Sopning och våttorkning av alla trappor och plan, avtorkning av ledstänger, dörrar, tryckknappar och hiss samt tömning av papperskorgar vid entrén."],
-    ["Hur ofta ska ett trapphus storstädas?", "En gång om året räcker för de flesta hus. Då tvättar vi väggar, element, fönsterbänkar, armaturer och källar- och vindsgångar."],
-    ["Får vi samma städare varje vecka?", "Ja. Varje hus har en fast städare och en fast ersättare som täcker vid semester och sjukdom."],
-    ["Hur lång är uppsägningstiden?", "Tre månader. Vi har inga bindningstider för nya föreningar."],
-    ["Vad kostar trappstäd?", "Ett vanligt trapphus med fyra plan kostar 650–900 kronor i månaden för veckostäd, beroende på golv och hiss. Vi lämnar fast pris efter visning."],
-    ["Kan ni städa källarförråd och cykelrum?", "Ja, som en extra beställning. Många föreningar gör det i samband med städdagen på våren."],
-    ["Hur anmäler vi fel eller missar?", "Ring eller mejla kontoret. Vi åtgärdar alltid inom ett dygn utan kostnad."]
+    [
+      "Vad ingår i veckostädningen?",
+      "Sopning och våttorkning av alla trappor och plan, avtorkning av ledstänger, dörrar, tryckknappar och hiss samt tömning av papperskorgar vid entrén."
+    ],
+    [
+      "Hur ofta ska ett trapphus storstädas?",
+      "En gång om året räcker för de flesta hus. Då tvättar vi väggar, element, fönsterbänkar, armaturer och källar- och vindsgångar."
+    ],
+    [
+      "Får vi samma städare varje vecka?",
+      "Ja. Varje hus har en fast städare och en fast ersättare som täcker vid semester och sjukdom."
+    ],
+    [
+      "Hur lång är uppsägningstiden?",
+      "Tre månader. Vi har inga bindningstider för nya föreningar."
+    ],
+    [
+      "Vad kostar trappstäd?",
+      "Ett vanligt trapphus med fyra plan kostar 650–900 kronor i månaden för veckostäd, beroende på golv och hiss. Vi lämnar fast pris efter visning."
+    ],
+    [
+      "Kan ni städa källarförråd och cykelrum?",
+      "Ja, som en extra beställning. Många föreningar gör det i samband med städdagen på våren."
+    ],
+    [
+      "Hur anmäler vi fel eller missar?",
+      "Ring eller mejla kontoret. Vi åtgärdar alltid inom ett dygn utan kostnad."
+    ]
   ],
   "certifikat": [
-    {"titel": "Kollektivavtal", "text": "Alla anställda har Serviceentreprenadavtalet mellan Almega och Fastighetsanställdas förbund.", "ikon": "folk"},
-    {"titel": "INSTA 800", "text": "Vi mäter städkvaliteten i trapphusen enligt den svenska standarden SS 627801.", "ikon": "sok"},
-    {"titel": "Yrkesbevis städ", "text": "Våra städare har yrkesbevis från Servicebranschens yrkesnämnd, SRY.", "ikon": "lov"},
-    {"titel": "Ansvarsförsäkring", "text": "Ansvars- och nyckelförsäkring på 10 miljoner kronor, med nyckelskåp i kodat valv.", "ikon": "las"}
+    {
+      "titel": "Kollektivavtal",
+      "text": "Alla anställda har Serviceentreprenadavtalet mellan Almega och Fastighetsanställdas förbund.",
+      "ikon": "folk"
+    },
+    {
+      "titel": "INSTA 800",
+      "text": "Vi mäter städkvaliteten i trapphusen enligt den svenska standarden SS 627801.",
+      "ikon": "sok"
+    },
+    {
+      "titel": "Yrkesbevis städ",
+      "text": "Våra städare har yrkesbevis från Servicebranschens yrkesnämnd, SRY.",
+      "ikon": "lov"
+    },
+    {
+      "titel": "Ansvarsförsäkring",
+      "text": "Ansvars- och nyckelförsäkring på 10 miljoner kronor, med nyckelskåp i kodat valv.",
+      "ikon": "las"
+    }
   ],
-  "kunder": ["Brf Stinsen", "Brf Brickegården", "Lillåns Radhusförening", "Brf Kumla Torg", "Brf Hallsbergs Station", "Tandvården Engelbrekt", "Brf Rynningeviken", "Fastighets AB Kilsbergen"],
+  "kunder": [
+    "Brf Stinsen",
+    "Brf Brickegården",
+    "Lillåns Radhusförening",
+    "Brf Kumla Torg",
+    "Brf Hallsbergs Station",
+    "Tandvården Engelbrekt",
+    "Brf Rynningeviken",
+    "Fastighets AB Kilsbergen"
+  ],
   "nyheter": [
-    ["2026-10-06", "Så klarar trapphuset gruset i vinter", "Rätt entrématta minskar vintersmutsen i trappan med hälften.", "stadning"],
-    ["2026-05-18", "Golvvårdssäsongen är i gång", "Boka slipning och impregnering av stengolv före midsommar.", "golv"],
-    ["2025-12-11", "Karin och Mattias om nästa generation", "Två av barnbarnsbarnen sommarjobbar nu i Golvgruppen.", "people"]
+    [
+      "2026-10-06",
+      "Så klarar trapphuset gruset i vinter",
+      "Rätt entrématta minskar vintersmutsen i trappan med hälften.",
+      "stadning"
+    ],
+    [
+      "2026-05-18",
+      "Golvvårdssäsongen är i gång",
+      "Boka slipning och impregnering av stengolv före midsommar.",
+      "golv"
+    ],
+    [
+      "2025-12-11",
+      "Karin och Mattias om nästa generation",
+      "Två av barnbarnsbarnen sommarjobbar nu i golvgruppen.",
+      "people"
+    ]
   ],
-  "kontakt": {"adress": "Elementvägen 14", "postnr": "702 27", "ort": "Örebro", "telefon": "070-174 06 06", "epost": "kontoret@hultmansstad.se", "orgnr": ""},
-  "oppettider": "Kontoret mån–fre 7–16",
+  "kontakt": {
+    "adress": "Elementvägen 14",
+    "postnr": "702 27",
+    "ort": "Örebro",
+    "telefon": "070-174 06 06",
+    "epost": "kontoret@hultmansstad.se",
+    "orgnr": ""
+  },
+  "oppettider": "Telefon och kontor mån–fre 6.45–15.30",
   "omrade": "Örebro, Kumla och Hallsberg",
   "fot_cta": "Sitter ni i en styrelse som letar ny trappstädning? Vi kommer gärna och tittar på huset.",
-  "bild": {"panel": "stadning", "hb": "bostad"},
+  "bild": {
+    "panel": "stadning",
+    "hb": "bostad"
+  },
   "text": {
     "hero_knapp": "Vad vi städar",
     "kontakt_knapp": "Boka visning",
@@ -117,7 +398,12 @@
     "faq_rubrik": "Frågor om trappstäd",
     "boka_rubrik": "Boka en visning av huset",
     "boka_text": "Skriv föreningens namn och hur många trapphus ni har, så ringer vi upp inom en arbetsdag.",
-    "boka_falt": ["Namn", "Telefon", "Förening och adress", "Antal trapphus och önskemål"],
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "Förening och adress",
+      "Antal trapphus och önskemål"
+    ],
     "logos_rubrik": "Några av våra föreningar",
     "certifikat_rubrik": "Avtal, mätning och försäkring",
     "bolag_rubrik": "Fyra grupper, ett kontor",

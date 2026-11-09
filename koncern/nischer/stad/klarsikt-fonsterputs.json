@@ -17,99 +17,408 @@
   ],
   "vagval_rubrik": "Hur högt sitter era fönster?",
   "tjanster": [
-    {"titel": "Villor och radhus", "ikon": "hem", "href": "verksamhet.html", "text": "In- och utsida, mellan glasen och karmar – med RUT-avdrag direkt på fakturan."},
-    {"titel": "Butiker och skyltfönster", "ikon": "stjarna", "href": "verksamhet.html", "text": "Abonnemang varannan vecka eller varje månad, alltid före öppning."},
-    {"titel": "Kontor och fastigheter", "ikon": "kontor", "href": "verksamhet.html", "text": "Utvändig puts av hela fasader två till fyra gånger per år."},
-    {"titel": "Renvattenstång", "ikon": "vatten", "href": "verksamhet.html", "text": "Avjoniserat vatten genom kolfiberstång upp till 18 meter, utan kemikalier och utan stege."},
-    {"titel": "Skylift och reparbete", "ikon": "hiss", "href": "verksamhet.html", "text": "Egna liftar på 21 och 27 meter och reparbetare certifierade enligt IRATA."},
-    {"titel": "Glastak och uterum", "ikon": "sol", "href": "verksamhet.html", "text": "Glastak, takfönster och inglasade balkonger, där smutsen syns mest."},
-    {"titel": "Solcellstvätt", "ikon": "laddning", "href": "verksamhet.html", "text": "Mjuk borste och renvatten som inte repar panelerna eller lämnar kalkfläckar."},
-    {"titel": "Pris på 2 minuter", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Räkna fönster och våningar, så får du ett fast pris direkt."}
+    {
+      "titel": "Villor och radhus",
+      "ikon": "hem",
+      "href": "verksamhet.html",
+      "text": "In- och utsida, mellan glasen och karmar – med RUT-avdrag direkt på fakturan."
+    },
+    {
+      "titel": "Butiker och skyltfönster",
+      "ikon": "stjarna",
+      "href": "verksamhet.html",
+      "text": "Abonnemang varannan vecka eller varje månad, alltid före öppning."
+    },
+    {
+      "titel": "Kontor och fastigheter",
+      "ikon": "kontor",
+      "href": "verksamhet.html",
+      "text": "Utvändig puts av hela fasader två till fyra gånger per år."
+    },
+    {
+      "titel": "Renvattenstång",
+      "ikon": "vatten",
+      "href": "verksamhet.html",
+      "text": "Avjoniserat vatten genom kolfiberstång upp till 18 meter, utan kemikalier och utan stege."
+    },
+    {
+      "titel": "Skylift och reparbete",
+      "ikon": "hiss",
+      "href": "verksamhet.html",
+      "text": "Egna liftar på 21 och 27 meter och reparbetare certifierade enligt IRATA."
+    },
+    {
+      "titel": "Glastak och uterum",
+      "ikon": "sol",
+      "href": "verksamhet.html",
+      "text": "Glastak, takfönster och inglasade balkonger, där smutsen syns mest."
+    },
+    {
+      "titel": "Solcellstvätt",
+      "ikon": "laddning",
+      "href": "verksamhet.html",
+      "text": "Mjuk borste och renvatten som inte repar panelerna eller lämnar kalkfläckar."
+    },
+    {
+      "titel": "Pris på 2 minuter",
+      "ikon": "dokument",
+      "href": "om-oss.html#kontakt",
+      "text": "Räkna fönster och våningar, så får du ett fast pris direkt."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Privata hem", "text": "En vanlig villa med tolv fönster tar två fönsterputsare runt två timmar. Vi putsar in- och utsida, mellan kopplade glas och torkar av karmar och fönsterbänkar.", "text2": "De flesta kunder har oss vår och höst, och vi skickar påminnelse i mars och augusti.", "tagg": "hem"},
-    {"titel": "Butiker och kontor", "text": "Skyltfönster i Uppsala city putsas varannan vecka före klockan nio, så att butiken öppnar med rent glas. Kontor och fastigheter har oftast två till fyra utvändiga putsningar per år.", "text2": "Abonnemangskunder får fast pris per gång och samma fönsterputsare varje gång.", "tagg": "stad"},
-    {"titel": "Höga fasader", "text": "Det mesta upp till fem våningar klarar vi med renvattenstång från marken. Högre än så arbetar vi från skylift eller i rep.", "text2": "Vi gör egen riskbedömning och avspärrning, och söker markupplåtelse hos kommunen när det behövs.", "tagg": "glas"},
-    {"titel": "Glastak och solceller", "text": "Glastak på gallerior, uterum och solcellsanläggningar tvättas med mjuk borste och avjoniserat vatten som torkar utan ränder.", "text2": "Rena solpaneler ger upp till sju procent mer el, enligt våra egna mätningar på kundtak i Knivsta.", "tagg": "solel"}
+    {
+      "titel": "Privata hem",
+      "text": "En vanlig villa med tolv fönster tar två fönsterputsare runt två timmar. Vi putsar in- och utsida, mellan kopplade glas och torkar av karmar och fönsterbänkar.",
+      "text2": "De flesta kunder har oss vår och höst, och vi skickar påminnelse i mars och augusti.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Butiker och kontor",
+      "text": "Skyltfönster i Uppsala city putsas varannan vecka före klockan nio, så att butiken öppnar med rent glas. Kontor och fastigheter har oftast två till fyra utvändiga putsningar per år.",
+      "text2": "Abonnemangskunder får fast pris per gång och samma fönsterputsare varje gång.",
+      "tagg": "stad"
+    },
+    {
+      "titel": "Höga fasader",
+      "text": "Det mesta upp till fem våningar klarar vi med renvattenstång från marken. Högre än så arbetar vi från skylift eller i rep.",
+      "text2": "Vi gör egen riskbedömning och avspärrning, och söker markupplåtelse hos kommunen när det behövs.",
+      "tagg": "glas"
+    },
+    {
+      "titel": "Glastak och solceller",
+      "text": "Glastak på gallerior, uterum och solcellsanläggningar tvättas med mjuk borste och avjoniserat vatten som torkar utan ränder.",
+      "text2": "Rena solpaneler ger upp till sju procent mer el, enligt våra egna mätningar på kundtak i Knivsta.",
+      "tagg": "solel"
+    }
   ],
   "bolag": [
-    {"namn": "Villateamet", "segment": "Sex fönsterputsare", "rubrik": "2 300 hem om året", "text": "Tre lag om två som kör villor och radhus från Gottsunda till Storvreta, mars till november.", "tagg": "hem"},
-    {"namn": "Citylaget", "segment": "Fyra fönsterputsare", "rubrik": "Klart före nio", "text": "Butiker, restauranger och kontor i Uppsala city och Enköping, året runt.", "tagg": "stad"},
-    {"namn": "Höghöjd", "segment": "Tre reparbetare och liftförare", "rubrik": "Där stegen tar slut", "text": "Skylift, rep och glasfasader – och de uppdrag som andra städföretag skickar vidare till oss.", "tagg": "glas"}
+    {
+      "namn": "Villateamet",
+      "segment": "Sex fönsterputsare",
+      "rubrik": "2 300 hem om året",
+      "text": "Tre lag om två som kör villor och radhus från Gottsunda till Storvreta, mars till november.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Citylaget",
+      "segment": "Fyra fönsterputsare",
+      "rubrik": "Klart före nio",
+      "text": "Butiker, restauranger och kontor i Uppsala city och Enköping, året runt.",
+      "tagg": "stad"
+    },
+    {
+      "namn": "Höghöjd",
+      "segment": "Tre reparbetare och liftförare",
+      "rubrik": "Där stegen tar slut",
+      "text": "Skylift, rep och glasfasader – och de uppdrag som andra städföretag skickar vidare till oss.",
+      "tagg": "glas"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Åtta våningar glas vid Resecentrum", "text": "Fasaden putsades i rep på fyra nätter för att inte störa resenärerna under dagtid.", "tagg": "glas"},
-    {"rubrik": "Ny lift på 27 meter", "text": "Bandgående och smal nog för att ta sig in på innergårdar i Luthagen och Fålhagen.", "tagg": "glas"},
-    {"rubrik": "Solcellstvätt i Knivsta", "text": "Tolv villatak tvättades i juni – produktionen steg med i snitt sex procent.", "tagg": "solel"}
+    {
+      "rubrik": "Åtta våningar glas vid Resecentrum",
+      "text": "Fasaden putsades i rep på fyra nätter för att inte störa resenärerna under dagtid.",
+      "tagg": "glas"
+    },
+    {
+      "rubrik": "Ny lift på 27 meter",
+      "text": "Bandgående och smal nog för att ta sig in på innergårdar i Luthagen och Fålhagen.",
+      "tagg": "glas"
+    },
+    {
+      "rubrik": "Solcellstvätt i Knivsta",
+      "text": "Tolv villatak tvättades i juni – produktionen steg med i snitt sex procent.",
+      "tagg": "solel"
+    }
   ],
   "nyckeltal": [
-    {"varde": "2 300", "enhet": "hem", "etikett": "Putsade fönster hos varje år"},
-    {"varde": "180", "enhet": "", "etikett": "Butiker och kontor på abonnemang"},
-    {"varde": "27 m", "enhet": "", "etikett": "Vår högsta skylift"},
-    {"varde": "0", "enhet": "kemikalier", "etikett": "I renvattensystemet"}
+    {
+      "varde": "2 300",
+      "enhet": "hem",
+      "etikett": "Putsade fönster hos varje år"
+    },
+    {
+      "varde": "180",
+      "enhet": "",
+      "etikett": "Butiker och kontor på abonnemang"
+    },
+    {
+      "varde": "27 m",
+      "enhet": "",
+      "etikett": "Vår högsta skylift"
+    },
+    {
+      "varde": "0",
+      "enhet": "kemikalier",
+      "etikett": "I renvattensystemet"
+    }
   ],
   "projekt": [
-    {"namn": "Kontorshuset vid Resecentrum", "ort": "Uppsala", "typ": "Glasfasad i rep", "ar": "2025", "text": "Åtta våningar och 1 400 kvadratmeter glas, putsat nattetid av tre reparbetare.", "tagg": "glas"},
-    {"namn": "Svartbäcksgatans butiker", "ort": "Uppsala", "typ": "Skyltfönster", "ar": "2026", "text": "34 butiker med puts varannan tisdag mellan sju och nio.", "tagg": "stad", "status": "Pågående"},
-    {"namn": "Brf Kronåsen", "ort": "Uppsala, Luthagen", "typ": "Skylift på innergård", "ar": "2025", "text": "Utvändig puts av 312 fönster med bandlift genom en portvalvsöppning på 1,9 meter.", "tagg": "bostad"},
-    {"namn": "Knivsta Solgårdar", "ort": "Knivsta", "typ": "Solcellstvätt", "ar": "2025", "text": "Tolv villatak och en ladugård med 220 paneler tvättade med renvatten.", "tagg": "solel"},
-    {"namn": "Enköpings Vårdcentral", "ort": "Enköping", "typ": "Fönster och glastak", "ar": "2024", "text": "Glastaket över entrén och 140 fönster putsas fyra gånger per år.", "tagg": "glas"},
-    {"namn": "Villor i Sunnersta", "ort": "Uppsala", "typ": "Vår- och höstputs", "ar": "2025", "text": "Över 200 villor på samma två veckor i april, i ett och samma område.", "tagg": "hem"}
+    {
+      "namn": "Kontorshuset vid Resecentrum",
+      "ort": "Uppsala",
+      "typ": "Glasfasad i rep",
+      "ar": "2025",
+      "text": "Åtta våningar och 1 400 kvadratmeter glas, putsat nattetid av tre reparbetare.",
+      "tagg": "glas"
+    },
+    {
+      "namn": "Svartbäcksgatans butiker",
+      "ort": "Uppsala",
+      "typ": "Skyltfönster",
+      "ar": "2026",
+      "text": "34 butiker med puts varannan tisdag mellan sju och nio.",
+      "tagg": "stad",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Brf Kronåsen",
+      "ort": "Uppsala, Luthagen",
+      "typ": "Skylift på innergård",
+      "ar": "2025",
+      "text": "Utvändig puts av 312 fönster med bandlift genom en portvalvsöppning på 1,9 meter.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Knivsta Solgårdar",
+      "ort": "Knivsta",
+      "typ": "Solcellstvätt",
+      "ar": "2025",
+      "text": "Tolv villatak och en ladugård med 220 paneler tvättade med renvatten.",
+      "tagg": "solel"
+    },
+    {
+      "namn": "Enköpings Vårdcentral",
+      "ort": "Enköping",
+      "typ": "Fönster och glastak",
+      "ar": "2024",
+      "text": "Glastaket över entrén och 140 fönster putsas fyra gånger per år.",
+      "tagg": "glas"
+    },
+    {
+      "namn": "Villor i Sunnersta",
+      "ort": "Uppsala",
+      "typ": "Vår- och höstputs",
+      "ar": "2025",
+      "text": "Över 200 villor på samma två veckor i april, i ett och samma område.",
+      "tagg": "hem"
+    }
   ],
   "process": [
-    {"titel": "Räkna fönster", "text": "Ange antal fönster, våningar och om det finns spröjs – så får du fast pris direkt.", "tagg": "hem"},
-    {"titel": "Vi väljer metod", "text": "Stege, renvattenstång, lift eller rep beroende på höjd och åtkomst.", "tagg": "glas"},
-    {"titel": "Putsning", "text": "Två fönsterputsare, skoskydd inomhus och möbelflytt runt fönstren ingår.", "tagg": "stadning"},
-    {"titel": "Påminnelse nästa säsong", "text": "Vi hör av oss när det är dags igen och håller samma pris om du bokar inom en vecka.", "tagg": "hem"}
+    {
+      "titel": "Räkna fönster",
+      "text": "Ange antal fönster, våningar och om det finns spröjs – så får du fast pris direkt.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Vi väljer metod",
+      "text": "Stege, renvattenstång, lift eller rep beroende på höjd och åtkomst.",
+      "tagg": "glas"
+    },
+    {
+      "titel": "Putsning",
+      "text": "Två fönsterputsare, skoskydd inomhus och möbelflytt runt fönstren ingår.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Påminnelse nästa säsong",
+      "text": "Vi hör av oss när det är dags igen och håller samma pris om du bokar inom en vecka.",
+      "tagg": "hem"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Ingen ska ramla, ingenting ska rinna ut",
     "text": "Höghöjdsarbete är det farligaste vi gör, så vi utbildar varje anställd i fallskydd och lift innan de går upp. Renvattensystemet gör att vi kan putsa utan rengöringsmedel – bara filtrerat kranvatten.",
-    "mal": [["0", "arbetsolyckor med frånvaro sedan 2016"], ["100 %", "av personalen med fallskyddsutbildning"], ["0 liter", "rengöringsmedel i renvattenputsningen"]]
+    "mal": [
+      [
+        "0",
+        "arbetsolyckor med frånvaro sedan 2016"
+      ],
+      [
+        "100 %",
+        "av personalen med fallskyddsutbildning"
+      ],
+      [
+        "0 liter",
+        "rengöringsmedel i renvattenputsningen"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Höjdrädd? Inte nödvändigtvis ett problem",
     "text": "Vi börjar alltid med villor och stege, och den som vill går vidare till lift och rep. Vi betalar liftkort, fallskyddsutbildning och IRATA-certifiering.",
-    "jobb": [["Fönsterputsare säsong", "Uppsala"], ["Reparbetare IRATA nivå 2", "Uppsala"]]
+    "jobb": [
+      [
+        "Fönsterputsare säsong",
+        "Uppsala"
+      ],
+      [
+        "Reparbetare IRATA nivå 2",
+        "Uppsala"
+      ]
+    ]
   },
   "kultur": "Varje ny fönsterputsare går två veckor bredvid Mikael eller en av lagledarna innan hon kör egen rutt.",
-  "citat": {"text": "Ett fönster är antingen rent eller inte. Det finns inget mittemellan, och kunden ser skillnaden i första solstrålen.", "namn": "Mikael Strand", "roll": "Grundare och vd", "tagg": "glas"},
+  "citat": {
+    "text": "Ett fönster är antingen rent eller inte. Det finns inget mittemellan, och kunden ser skillnaden i första solstrålen.",
+    "namn": "Mikael Strand",
+    "roll": "Grundare och vd",
+    "tagg": "glas"
+  },
   "omdomen": [
-    {"text": "Ingen annan ville ta våra fönster på innergården. Klarsikt kom med en smal lift och var klara på en dag.", "namn": "Lena K.", "ort": "Luthagen"},
-    {"text": "Skyltfönstret är rent varannan tisdag när vi öppnar. Jag har aldrig behövt påminna dem.", "namn": "Omid R.", "ort": "Uppsala city"},
-    {"text": "De flyttade blommorna, la ut skyddsduk och ställde tillbaka allt. Tolv fönster på under två timmar.", "namn": "Birgitta H.", "ort": "Sunnersta"}
+    {
+      "text": "Ingen annan ville ta våra fönster på innergården. Klarsikt kom med en smal lift och var klara på en dag.",
+      "namn": "Lena K.",
+      "ort": "Luthagen"
+    },
+    {
+      "text": "Skyltfönstret är rent varannan tisdag när vi öppnar. Jag har aldrig behövt påminna dem.",
+      "namn": "Omid R.",
+      "ort": "Uppsala city"
+    },
+    {
+      "text": "De flyttade blommorna, la ut skyddsduk och ställde tillbaka allt. Tolv fönster på under två timmar.",
+      "namn": "Birgitta H.",
+      "ort": "Sunnersta"
+    }
   ],
   "faq": [
-    ["Vad kostar fönsterputs för en villa?", "En villa med tolv fönster kostar från 1 190 kronor efter RUT-avdrag, inklusive in- och utsida och mellan glasen."],
-    ["Putsar ni när det regnar?", "Ja, utvändigt med renvattenstång går det bra i lätt regn. Vid kraftigt regn, storm eller minusgrader bokar vi om utan kostnad."],
-    ["Vad är renvattenputs?", "Vi filtrerar kranvatten så att alla mineraler försvinner. Vattnet löser smutsen och torkar utan ränder, så det behövs varken skrapa eller rengöringsmedel."],
-    ["Behöver jag vara hemma?", "Bara om vi ska putsa insidan. Utvändig puts kan vi göra när du är på jobbet."],
-    ["Hur högt kan ni nå?", "Med renvattenstång 18 meter från marken, med lift 27 meter. Högre än så arbetar vi i rep."],
-    ["Kan ni ta bort byggfärg och etiketter?", "Ja, vi skrapar bort färgstänk, tejp och etiketter med glasskrapa. Det debiteras per fönster efter besiktning."],
-    ["Har ni försäkring om något går sönder?", "Ja, ansvarsförsäkring på 10 miljoner kronor som också täcker arbete från lift och i rep."]
+    [
+      "Vad kostar fönsterputs för en villa?",
+      "En villa med tolv fönster kostar från 1 190 kronor efter RUT-avdrag, inklusive in- och utsida och mellan glasen."
+    ],
+    [
+      "Putsar ni när det regnar?",
+      "Ja, utvändigt med renvattenstång går det bra i lätt regn. Vid kraftigt regn, storm eller minusgrader bokar vi om utan kostnad."
+    ],
+    [
+      "Vad är renvattenputs?",
+      "Vi filtrerar kranvatten så att alla mineraler försvinner. Vattnet löser smutsen och torkar utan ränder, så det behövs varken skrapa eller rengöringsmedel."
+    ],
+    [
+      "Behöver jag vara hemma?",
+      "Bara om vi ska putsa insidan. Utvändig puts kan vi göra när du är på jobbet."
+    ],
+    [
+      "Hur högt kan ni nå?",
+      "Med renvattenstång 18 meter från marken, med lift 27 meter. Högre än så arbetar vi i rep."
+    ],
+    [
+      "Kan ni ta bort byggfärg och etiketter?",
+      "Ja, vi skrapar bort färgstänk, tejp och etiketter med glasskrapa. Det debiteras per fönster efter besiktning."
+    ],
+    [
+      "Har ni försäkring om något går sönder?",
+      "Ja, vår försäkring täcker skador upp till 10 miljoner kronor, även när vi arbetar från lift och i rep."
+    ]
   ],
   "priser": [
-    {"namn": "Radhus", "pris": "fr. 890 kr", "enhet": "upp till 8 fönster, efter RUT", "text": "In- och utsida, mellan glasen.", "punkter": ["Två fönsterputsare", "Karmar och bänkar torkas", "Skoskydd och skyddsduk", "Påminnelse nästa säsong"]},
-    {"namn": "Villa", "pris": "fr. 1 190 kr", "enhet": "upp till 12 fönster, efter RUT", "text": "Det vi putsar mest av, vår och höst.", "punkter": ["Allt i Radhus", "Spröjs utan tillägg", "Renvattenstång på övervåningen", "Samma pris vid ombokning"], "utvald": true},
-    {"namn": "Butiksabonnemang", "pris": "fr. 295 kr", "enhet": "per putsning, exkl. moms", "text": "Skyltfönster och entrédörrar, varannan vecka.", "punkter": ["Alltid före öppning", "Samma fönsterputsare", "Ingen bindningstid", "Faktura en gång i månaden"]}
+    {
+      "namn": "Radhus",
+      "pris": "fr. 890 kr",
+      "enhet": "upp till 8 fönster, efter RUT",
+      "text": "In- och utsida, mellan glasen.",
+      "punkter": [
+        "Två fönsterputsare",
+        "Karmar och bänkar torkas",
+        "Skoskydd och skyddsduk",
+        "Påminnelse nästa säsong"
+      ]
+    },
+    {
+      "namn": "Villa",
+      "pris": "fr. 1 190 kr",
+      "enhet": "upp till 12 fönster, efter RUT",
+      "text": "Det vi putsar mest av, vår och höst.",
+      "punkter": [
+        "Allt i Radhus",
+        "Spröjs utan tillägg",
+        "Renvattenstång på övervåningen",
+        "Samma pris vid ombokning"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Butiksabonnemang",
+      "pris": "fr. 295 kr",
+      "enhet": "per putsning, exkl. moms",
+      "text": "Skyltfönster och entrédörrar, varannan vecka.",
+      "punkter": [
+        "Alltid före öppning",
+        "Samma fönsterputsare",
+        "Ingen bindningstid",
+        "Faktura en gång i månaden"
+      ]
+    }
   ],
   "certifikat": [
-    {"titel": "IRATA-certifierade", "text": "Tre reparbetare med certifiering för arbete i rep enligt IRATA, nivå 2 och 3.", "ikon": "skold"},
-    {"titel": "Liftutbildning", "text": "Alla som kör skylift har utbildning och liftkort enligt SS-ISO 18878.", "ikon": "hiss"},
-    {"titel": "Fallskydd", "text": "Hela personalen har fallskyddsutbildning som förnyas vart tredje år.", "ikon": "hjalm"},
-    {"titel": "Ansvarsförsäkring", "text": "10 miljoner kronor, med tillägg för höghöjdsarbete och glasfasader.", "ikon": "las"}
+    {
+      "titel": "IRATA-certifierade",
+      "text": "Tre reparbetare med certifiering för arbete i rep enligt IRATA, nivå 2 och 3.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Liftutbildning",
+      "text": "Alla som kör skylift har utbildning och liftkort enligt SS-ISO 18878.",
+      "ikon": "hiss"
+    },
+    {
+      "titel": "Fallskydd",
+      "text": "Hela personalen har fallskyddsutbildning som förnyas vart tredje år.",
+      "ikon": "hjalm"
+    },
+    {
+      "titel": "Försäkrad för höjd",
+      "text": "Gäller även höghöjdsarbete och skador på glasfasader, upp till 10 Mkr.",
+      "ikon": "las"
+    }
   ],
-  "kunder": ["Brf Kronåsen", "Svartbäcksgatans Handlarförening", "Enköpings Vårdcentral", "Knivsta Solgårdar", "Fyrisfastigheter i Uppsala", "Café Linnégården", "Brf Gamla Uppsala Backe", "Storvreta Tandklinik"],
+  "kunder": [
+    "Brf Kronåsen",
+    "Svartbäcksgatans Handlarförening",
+    "Enköpings Vårdcentral",
+    "Knivsta Solgårdar",
+    "Fyrisfastigheter i Uppsala",
+    "Café Linnégården",
+    "Brf Gamla Uppsala Backe",
+    "Storvreta Tandklinik"
+  ],
   "nyheter": [
-    ["2026-09-15", "Boka höstputsen före oktober", "Efter mitten av oktober blir dagarna korta och kalendern full.", "glas"],
-    ["2026-04-02", "Bandlift som går genom portvalv", "Nu når vi innergårdar som tidigare krävde rep eller byggnadsställning.", "glas"],
-    ["2025-11-20", "Så får du ränderna att försvinna", "Fem vanliga misstag när man putsar fönster själv – och hur du undviker dem.", "hem"]
+    [
+      "2026-09-15",
+      "Boka höstputsen före oktober",
+      "Efter mitten av oktober blir dagarna korta och kalendern full.",
+      "glas"
+    ],
+    [
+      "2026-04-02",
+      "Bandlift som går genom portvalv",
+      "Nu når vi innergårdar som tidigare krävde rep eller byggnadsställning.",
+      "glas"
+    ],
+    [
+      "2025-11-20",
+      "Så får du ränderna att försvinna",
+      "Fem vanliga misstag när man putsar fönster själv – och hur du undviker dem.",
+      "hem"
+    ]
   ],
-  "kontakt": {"adress": "Bolandsgatan 15", "postnr": "753 23", "ort": "Uppsala", "telefon": "070-174 06 10", "epost": "puts@klarsiktuppsala.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Bolandsgatan 15",
+    "postnr": "753 23",
+    "ort": "Uppsala",
+    "telefon": "070-174 06 10",
+    "epost": "puts@klarsiktuppsala.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 6.30–16, telefon från 7",
   "omrade": "Uppsala, Knivsta, Enköping och Storvreta",
   "fot_cta": "Räkna dina fönster och ring – du får fast pris i telefonen.",
-  "bild": {"panel": "glas", "hb": "glas"},
+  "bild": {
+    "panel": "glas",
+    "hb": "glas"
+  },
   "text": {
     "hero_knapp": "Så putsar vi",
     "kontakt_knapp": "Få fast pris",
@@ -117,13 +426,18 @@
     "ber_rubrik": "Senaste höjderna",
     "proj_rubrik": "Glas vi har putsat",
     "process_rubrik": "Från fönsterräkning till rent glas",
-    "hb_etikett": "Säkerhet",
+    "hb_etikett": "Säkert på höjd",
     "omdomen_rubrik": "Kunderna ser skillnaden",
     "faq_rubrik": "Om fönster, höjder och väder",
     "priser_rubrik": "Fasta priser per fönster",
     "boka_rubrik": "Hur många fönster har du?",
     "boka_text": "Skriv antal fönster, våningar och adress, så skickar vi ett fast pris och ett förslag på dag.",
-    "boka_falt": ["Namn", "Telefon", "Adress", "Antal fönster och våningar"],
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "Adress",
+      "Antal fönster och våningar"
+    ],
     "logos_rubrik": "Rent glas hos",
     "certifikat_rubrik": "Utbildade för höjd",
     "bolag_rubrik": "Tre lag, en sak",

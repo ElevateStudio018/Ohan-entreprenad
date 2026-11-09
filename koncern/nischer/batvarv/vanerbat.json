@@ -1,0 +1,142 @@
+{
+  "profil": "nisch",
+  "nisch": "batvarv",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vänerbåt Karlstad AB",
+  "kortnamn": "Vänerbåt",
+  "slug": "vanerbat",
+  "typ": "Båthandel och varv vid Vänern",
+  "tagline": "Köp, byt, sälj båt",
+  "slogan": "Värmlands största båthandel – där du provkör på Vänern, byter in den gamla och får service av samma folk som sålde båten.",
+  "hero_rubrik": "Provkör på Vänern innan du bestämmer dig",
+  "hero_text": "180 båtar i lager, provturer från egen brygga och inbyte samma dag. Efter köpet sköter vår verkstad service och vinterförvaring – i samma hus.",
+  "intro_rubrik": "400 båtaffärer om året",
+  "om": [
+    "Mats och Helena Lindh öppnade Vänerbåt 1998 i en gammal lagerlokal i Karlstads hamn med tolv begagnade båtar och en lånad brygga. I dag har vi en utställningshall på 1 800 kvadratmeter, en verkstad med sex lyftplatser och vinterförvaring för 500 båtar.",
+    "Vi är 35 anställda och säljer runt 220 nya och 180 begagnade båtar per år. Två av tre kunder kommer tillbaka när de byter båt, och nästan alla lämnar sin båt hos oss för service. Det är så vi vill ha det: säljaren som sålde båten finns kvar i huset när du har frågor tre år senare."
+  ],
+  "vagval_rubrik": "Vad letar du efter?",
+  "tjanster": [
+    {"titel": "Nya båtar", "ikon": "stjarna", "href": "verksamhet.html", "text": "Återförsäljare för fem båtvarv – från daycruisers till familjebåtar på 30 fot."},
+    {"titel": "Begagnat", "ikon": "sok", "href": "verksamhet.html", "text": "Runt 90 begagnade båtar i lager, alla genomgångna i verkstaden."},
+    {"titel": "Inbyte", "ikon": "pil", "href": "verksamhet.html", "text": "Fast inbytespris samma dag, giltigt i 30 dagar."},
+    {"titel": "Förmedling", "ikon": "megafon", "href": "verksamhet.html", "text": "Vi säljer din båt på kommission – annonser, visningar och kontrakt."},
+    {"titel": "Provturer", "ikon": "bat", "href": "verksamhet.html", "text": "Provkör på Vänern från vår egen brygga, maj till oktober."},
+    {"titel": "Service & garanti", "ikon": "verktyg", "href": "verksamhet.html", "text": "Auktoriserad verkstad för tre motormärken och garantiarbeten."},
+    {"titel": "Finansiering", "ikon": "graf", "href": "verksamhet.html", "text": "Båtlån och försäkring genom två partner – besked på en timme."},
+    {"titel": "Båtar i lager", "ikon": "portfolj", "href": "projekt.html", "text": "Se vilka båtar som finns i hallen just nu."}
+  ],
+  "affarsomraden": [
+    {"titel": "Nya båtar", "text": "Vi säljer motorbåtar från fem varv i Sverige, Finland och Polen, mellan 16 och 33 fot. Alla nya båtar levereras riggade, provkörda och med en timmes genomgång på sjön.", "text2": "Första servicen efter 20 timmar ingår.", "tagg": "bat"},
+    {"titel": "Begagnat och inbyte", "text": "Varje begagnad båt går igenom en 60-punktskontroll i verkstaden innan den säljs. Du får protokollet, motorns timmar och servicehistorik med i köpet.", "text2": "Tre månaders garanti på motor och drivlina på begagnade båtar från vårt lager.", "tagg": "bat"},
+    {"titel": "Förmedling", "text": "Vill du hellre sälja själv men slippa visningarna gör vi det åt dig. Båten fotograferas, annonseras och visas av oss, och vi skriver kontrakt och sköter betalningen.", "text2": "Provision 8 procent, lägst 12 000 kr.", "tagg": "people"},
+    {"titel": "Verkstad och förvaring", "text": "Verkstaden har sex lyftplatser och tre auktoriserade motortekniker. Vinterförvaringen rymmer 500 båtar, varav 220 i kalla hallar.", "text2": "Upptagning och sjösättning med truck och egen båtramp.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Säljhallen", "segment": "Nytt och begagnat", "rubrik": "1 800 kvadratmeter båtar", "text": "Åtta säljare och 70 båtar inomhus året runt. Öppet söndagar under våren.", "tagg": "bat"},
+    {"namn": "Verkstaden", "segment": "Service och garanti", "rubrik": "Sex lyftplatser", "text": "Elva tekniker som gör leveransförberedelser, service och garantiarbeten.", "tagg": "industri"},
+    {"namn": "Förvaringen", "segment": "Vinterplatser", "rubrik": "500 båtar, 220 under tak", "text": "Upptagning med båttruck från vecka 39 och sjösättning från vecka 16.", "tagg": "bat"},
+    {"namn": "Vänerbåt Kristinehamn", "segment": "Servicepunkt", "rubrik": "Östra Vänern", "text": "Fyra tekniker och en säljare i Kristinehamns gästhamn under säsong.", "tagg": "natur"}
+  ],
+  "berattelser": [
+    {"rubrik": "Båtmässan i hallen", "text": "Tre dagar i mars med 70 båtar inomhus, kaffe i verkstaden och 2 100 besökare i år.", "tagg": "bat"},
+    {"rubrik": "Begagnat säljs på 23 dagar", "text": "Så lång tid låg en förmedlad båt i genomsnitt till salu hos oss under 2025.", "tagg": "people"},
+    {"rubrik": "Servicepunkt i Kristinehamn", "text": "Från i somras har kunderna på östra Vänern egen verkstad i gästhamnen.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "400", "enhet": "båtar", "etikett": "Säljs varje år"},
+    {"varde": "1 800", "enhet": "kvm", "etikett": "Utställningshall inomhus"},
+    {"varde": "23", "enhet": "dagar", "etikett": "Snittid för förmedlad båt"},
+    {"varde": "35", "enhet": "personer", "etikett": "Anställda i Karlstad och Kristinehamn"}
+  ],
+  "projekt": [
+    {"namn": "Daycruiser 22 fot, 2026", "ort": "Karlstad", "typ": "Ny båt", "ar": "2026", "text": "Ny med 200 hk utombordare, kapell och trailer – levereras provkörd.", "tagg": "bat", "status": "I lager"},
+    {"namn": "Familjebåt 28 fot, 2019", "ort": "Karlstad", "typ": "Begagnad", "ar": "2026", "text": "Diesel, 410 timmar, värmare och genomgången i verkstaden i augusti.", "tagg": "bat", "status": "I lager"},
+    {"namn": "Styrpulpetbåt 18 fot, 2022", "ort": "Kristinehamn", "typ": "Förmedling", "ar": "2026", "text": "Ligger kvar på ägarens plats i Kristinehamn – visning efter bokning.", "tagg": "natur", "status": "I lager"},
+    {"namn": "Utställningshallen", "ort": "Karlstad", "typ": "Tillbyggnad", "ar": "2024", "text": "Hallen byggdes ut från 1 100 till 1 800 kvadratmeter med glasfasad mot hamnen.", "tagg": "bygg"},
+    {"namn": "Karlstads kommun, räddningstjänsten", "ort": "Karlstad", "typ": "Leverans", "ar": "2025", "text": "Två räddningsbåtar levererades med blåljus, ramp och utbildning för besättningen.", "tagg": "bat"},
+    {"namn": "Servicepunkt Kristinehamn", "ort": "Kristinehamn", "typ": "Ny etablering", "ar": "2026", "text": "Verkstadscontainer och lyftplats i gästhamnen för säsongsservice.", "tagg": "anlaggning", "status": "Utfört"}
+  ],
+  "process": [
+    {"titel": "Berätta hur ni använder båten", "text": "Hur många är ni, hur långt åker ni och var ska båten ligga? Säljaren föreslår tre båtar.", "tagg": "people"},
+    {"titel": "Provtur", "text": "Du provkör på Vänern – gärna i blåsigt väder, så att du vet hur båten beter sig.", "tagg": "bat"},
+    {"titel": "Inbyte och affär", "text": "Vi värderar din gamla båt, ordnar finansiering och skriver kontrakt på samma möte.", "tagg": "kontor"},
+    {"titel": "Leverans och service", "text": "Båten levereras på din plats med en genomgång. Första servicen ingår.", "tagg": "bat"}
+  ],
+  "hallbarhet": {
+    "rubrik": "En båt ska få ett långt liv",
+    "text": "Var tredje båt vi säljer är begagnad, och vi tar hand om de båtar som inte går att sälja vidare genom branschens returssystem. I utställningen visar vi alltid minst fem eldrivna båtar, och vi har laddstolpar för båtar vid bryggan.",
+    "mal": [["45 %", "av sålda båtar är begagnade"], ["5", "elbåtar alltid i utställningen"], ["100 %", "av uttjänta inbyten till återvinning"]]
+  },
+  "karriar": {
+    "rubrik": "Sälj båtar eller laga dem",
+    "text": "Vi söker en båtsäljare som kan Vänern och en motortekniker till verkstaden. Säljarna har fast lön plus provision och provkör själva varje båt de säljer.",
+    "jobb": [["Båtsäljare", "Karlstad"], ["Motortekniker", "Karlstad"], ["Säsongstekniker", "Kristinehamn"]]
+  },
+  "kultur": "Personalbåtar att låna under sommaren och säljare som har gjort minst en säsong i verkstaden.",
+  "citat": {"text": "En båtaffär är inte klar när kunden kör iväg. Den är klar när de kommer tillbaka och byter upp sig sju år senare.", "namn": "Helena Lindh", "roll": "Vd och delägare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi provkörde tre båtar samma lördag och fick ett fast pris på inbytet innan vi åkte hem.", "namn": "Robin och Jessica K.", "ort": "Hammarö"},
+    {"text": "De sålde min båt på tolv dagar medan den låg kvar på min plats. Jag behövde inte visa den en enda gång.", "namn": "Bengt-Åke L.", "ort": "Säffle"},
+    {"text": "Säljaren ringde efter första helgen och frågade hur det gick. Vi hade en fråga om trimmet – han kom ner till bryggan samma kväll.", "namn": "Maria J.", "ort": "Karlstad"}
+  ],
+  "faq": [
+    ["Kan jag provköra båten?", "Ja, från maj till oktober från vår brygga i Inre hamnen. Boka en tid så har vi båten klar."],
+    ["Hur fungerar inbyte?", "Vi tittar på båten, motorn och servicehistoriken och lämnar ett fast pris som gäller i 30 dagar när du köper av oss."],
+    ["Vad ingår när ni förmedlar min båt?", "Fotografering, annonsering, visningar, kontrakt och säker betalning. Provisionen är 8 procent, lägst 12 000 kr."],
+    ["Har ni garanti på begagnade båtar?", "Ja, tre månaders garanti på motor och drivlina för begagnade båtar från vårt eget lager."],
+    ["Kan jag finansiera båten?", "Ja, genom våra två finansieringspartner. Du får besked inom en timme under öppettid."],
+    ["Levererar ni utanför Värmland?", "Ja, vi levererar med trailer i hela Sverige. Provtur och genomgång görs då på ditt hemmavatten."],
+    ["Servar ni båtar som inte är köpta hos er?", "Ja, verkstaden tar alla motorbåtar upp till 33 fot, oavsett var de är köpta."]
+  ],
+  "certifikat": [
+    {"titel": "Auktoriserad återförsäljare", "text": "Avtal med fem båtvarv och tre motortillverkare om försäljning och garantiarbeten.", "ikon": "stjarna"},
+    {"titel": "Medlem i Sweboat", "text": "Vi använder branschens standardavtal vid köp, försäljning och förmedling av fritidsbåtar.", "ikon": "dokument"},
+    {"titel": "Konsumentköplagen och ARN", "text": "Vi följer Allmänna reklamationsnämndens beslut i alla ärenden.", "ikon": "skold"},
+    {"titel": "Certifierade motortekniker", "text": "Tekniker utbildade och certifierade hos tre motortillverkare.", "ikon": "kugge"}
+  ],
+  "kunder": ["Karlstads kommun, räddningstjänsten", "Hammarö Båtsällskap", "Kristinehamns Gästhamn", "Säffle Kanalbolag", "Värmlands Fiskevårdsförbund", "Brf Inre Hamnen", "Klarälvens Turistbåtar", "Grums Sjöscoutkår"],
+  "nyheter": [
+    ["2026-10-08", "Höstrea på begagnat", "Tjugo båtar från vårt lager med vinterförvaring 2026/27 inkluderad i priset.", "bat"],
+    ["2026-07-03", "Kristinehamn är igång", "Servicepunkten i gästhamnen har öppet alla dagar 9–17 till och med augusti.", "natur"],
+    ["2026-03-23", "Båtmässan slog rekord", "2 100 besökare och 41 båtar sålda under tre dagar.", "bat"],
+    ["2026-01-15", "Så värderar vi din båt", "Motorns timmar, servicebok och skrov – det här tittar vi på vid inbyte.", "people"]
+  ],
+  "kontakt": {"adress": "Inre Hamnvägen 8", "postnr": "652 21", "ort": "Karlstad", "telefon": "070-174 06 82", "epost": "salj@vanerbat.se", "orgnr": ""},
+  "oppettider": "Mån–fre 9–18, lör 10–15, sön 11–15 mars–juni",
+  "omrade": "Värmland och Vänerns stränder – leverans i hela Sverige",
+  "fot_cta": "Boka en provtur på Vänern – och ta med båten du vill byta in.",
+  "bild": {"panel": "people", "hb": "bat"},
+  "text": {
+    "kontakt_knapp": "Boka provtur",
+    "hero_knapp": "Se båtar i lager",
+    "hero_lank": "Byt in din båt",
+    "vagval_etikett": "Båthandeln",
+    "ber_etikett": "Från hallen",
+    "ber_rubrik": "Det händer i Inre hamnen",
+    "ber_lank": "Fler båtar",
+    "proj_etikett": "I lager",
+    "proj_rubrik": "Ett urval från hallen och bryggan",
+    "proj_rubrik_lista": "Båtar, leveranser och etableringar",
+    "proj_lank": "Alla båtar",
+    "proj_kol": ["Båt", "Ort", "Typ", "Status", "År"],
+    "status_klart": "Levererad",
+    "status_pagaende": "I lager",
+    "process_etikett": "Ett båtköp",
+    "process_rubrik": "Från första fråga till första helgen",
+    "bolag_etikett": "Huset",
+    "bolag_rubrik": "Sälj, verkstad och förvaring under ett tak",
+    "bolag_kol": ["Del", "Inriktning", "Så arbetar vi"],
+    "meny_bolag": "Verksamheten",
+    "hb_etikett": "Båtens livslängd",
+    "omdomen_rubrik": "Efter affären",
+    "faq_rubrik": "Om köp, inbyte och förmedling",
+    "boka_rubrik": "Vilken båt vill du provköra?",
+    "boka_text": "Skriv vilken båt du är intresserad av och om du har något att byta in, så ringer en säljare upp i dag.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Båt du vill provköra och ev. inbyte"],
+    "logos_rubrik": "Kommuner, föreningar och företag",
+    "certifikat_rubrik": "Trygga båtaffärer",
+    "ny_rubrik": "Nyheter från båthandeln",
+    "medarbetare": "Medarbetare"
+  }
+}

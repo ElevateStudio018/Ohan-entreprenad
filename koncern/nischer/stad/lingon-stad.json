@@ -17,94 +17,369 @@
   ],
   "vagval_rubrik": "Vilken lokal ska vi städa?",
   "tjanster": [
-    {"titel": "Kontorsstäd", "ikon": "kontor", "href": "verksamhet.html", "text": "Mikrofiber och vatten på skrivbord, kök och toaletter – med kvartalsrapport om kemikalierna."},
-    {"titel": "Förskolor och skolor", "ikon": "skola", "href": "verksamhet.html", "text": "Doftfri städning anpassad för barn med allergi och astma."},
-    {"titel": "Trappstäd", "ikon": "hus", "href": "verksamhet.html", "text": "Veckostäd av trapphus och tvättstugor i Svanenmärkt utförande."},
-    {"titel": "Hemstäd med RUT", "ikon": "hem", "href": "verksamhet.html", "text": "Doftfritt och utan sprayflaskor, för hushåll med allergi eller små barn."},
-    {"titel": "Fönsterputs", "ikon": "sol", "href": "verksamhet.html", "text": "Renvattenputs utan rengöringsmedel för kontor och villor."},
-    {"titel": "Golvvård utan polish", "ikon": "sten", "href": "verksamhet.html", "text": "Diamantrondeller och vatten i stället för polish och strippning."},
-    {"titel": "Lådcykel i city", "ikon": "bil", "href": "verksamhet.html", "text": "Kunder i innerstaden får besök av en eldriven lådcykel, inte en bil."},
-    {"titel": "Miljörapport", "ikon": "graf", "href": "om-oss.html#kontakt", "text": "Se hur er nuvarande städning påverkar miljön – vi räknar gratis."}
+    {
+      "titel": "Kontor med mikrofiber",
+      "ikon": "kontor",
+      "href": "verksamhet.html",
+      "text": "Mikrofiber och vatten på skrivbord, kök och toaletter – med kvartalsrapport om kemikalierna."
+    },
+    {
+      "titel": "Förskolor och skolor",
+      "ikon": "skola",
+      "href": "verksamhet.html",
+      "text": "Doftfri städning anpassad för barn med allergi och astma."
+    },
+    {
+      "titel": "Svanenmärkt trappstäd",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Veckostäd av trapphus och tvättstugor i Svanenmärkt utförande."
+    },
+    {
+      "titel": "Doftfri hemstäd",
+      "ikon": "hem",
+      "href": "verksamhet.html",
+      "text": "Doftfritt och utan sprayflaskor, för hushåll med allergi eller små barn."
+    },
+    {
+      "titel": "Renvattenputs",
+      "ikon": "sol",
+      "href": "verksamhet.html",
+      "text": "Renvattenputs utan rengöringsmedel för kontor och villor."
+    },
+    {
+      "titel": "Golvvård utan polish",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Diamantrondeller och vatten i stället för polish och strippning."
+    },
+    {
+      "titel": "Lådcykel i city",
+      "ikon": "bil",
+      "href": "verksamhet.html",
+      "text": "Kunder i innerstaden får besök av en eldriven lådcykel, inte en bil."
+    },
+    {
+      "titel": "Miljörapport",
+      "ikon": "graf",
+      "href": "om-oss.html#kontakt",
+      "text": "Se hur er nuvarande städning påverkar miljön – vi räknar gratis."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Kontor och verksamheter", "text": "Kontorskunderna i Mjärdevi och innerstaden är vår största grupp. Vi städar med färgkodade mikrofiberdukar, en färg per rum, och tar fram medel bara för kalk på toaletter och fett i kök.", "text2": "Kvartalsrapporten kan läggas direkt i kundens egen hållbarhetsredovisning.", "tagg": "kontor"},
-    {"titel": "Förskolor och skolor", "text": "Barn är känsligare för doft och rester av rengöringsmedel. Vi städar 14 förskolor helt utan parfymerade produkter och torkar leksaker och ytor med vatten och mikrofiber.", "text2": "Städningen görs efter stängning, så att lokalerna hinner torka och vädras till morgonen.", "tagg": "stadning"},
-    {"titel": "Bostäder och trapphus", "text": "Trappstädningen i bostadsrättsföreningar följer samma metod: torr mopp, fuktig mopp och dosering bara där det behövs. Hemstäd erbjuder vi för hushåll med allergi.", "text2": "Föreningar kan få med vår miljösiffra i sin årsredovisning.", "tagg": "bostad"},
-    {"titel": "Golv utan polish", "text": "Traditionell golvvård betyder polish, strippning och starka lösningsmedel vartannat år. Vi underhåller linoleum och vinyl med diamantrondeller och vatten.", "text2": "Golven blir halkfriare, och kunden slipper stänga lokalen för strippning.", "tagg": "golv"}
+    {
+      "titel": "Kontor och verksamheter",
+      "text": "Kontorskunderna i Mjärdevi och innerstaden är vår största grupp. Vi städar med färgkodade mikrofiberdukar, en färg per rum, och tar fram medel bara för kalk på toaletter och fett i kök.",
+      "text2": "Kvartalsrapporten kan läggas direkt i kundens egen hållbarhetsredovisning.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Förskolor och skolor",
+      "text": "Barn är känsligare för doft och rester av rengöringsmedel. Vi städar 14 förskolor helt utan parfymerade produkter och torkar leksaker och ytor med vatten och mikrofiber.",
+      "text2": "Städningen görs efter stängning, så att lokalerna hinner torka och vädras till morgonen.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Bostäder och trapphus",
+      "text": "Trappstädningen i bostadsrättsföreningar följer samma metod: torr mopp, fuktig mopp och dosering bara där det behövs. Hemstäd erbjuder vi för hushåll med allergi.",
+      "text2": "Föreningar kan få med vår miljösiffra i sin årsredovisning.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Golv utan polish",
+      "text": "Traditionell golvvård betyder polish, strippning och starka lösningsmedel vartannat år. Vi underhåller linoleum och vinyl med diamantrondeller och vatten.",
+      "text2": "Golven blir halkfriare, och kunden slipper stänga lokalen för strippning.",
+      "tagg": "golv"
+    }
   ],
   "bolag": [
-    {"namn": "Kontorsgruppen", "segment": "13 städare", "rubrik": "Mjärdevi och innerstan", "text": "Kvälls- och morgonstäd av kontor, med två lådcyklar och en elbil.", "tagg": "kontor"},
-    {"namn": "Barn och skola", "segment": "9 städare", "rubrik": "Doftfritt i 14 förskolor", "text": "Förskolor och två grundskolor i Ryd, Lambohov och Vallastaden.", "tagg": "stadning"},
-    {"namn": "Bostad och golv", "segment": "6 medarbetare", "rubrik": "Trapphus, hem och golvmaskiner", "text": "Trappstäd, hemstäd och golvvård utan polish, plus egen tvätt för moppar och dukar.", "tagg": "golv"}
+    {
+      "namn": "Kontorsgruppen",
+      "segment": "13 städare",
+      "rubrik": "Mjärdevi och innerstan",
+      "text": "Kvälls- och morgonstäd av kontor, med två lådcyklar och en elbil.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Barn och skola",
+      "segment": "9 städare",
+      "rubrik": "Doftfritt i 14 förskolor",
+      "text": "Förskolor och två grundskolor i Ryd, Lambohov och Vallastaden.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Bostad och golv",
+      "segment": "6 medarbetare",
+      "rubrik": "Trapphus, hem och golvmaskiner",
+      "text": "Trappstäd, hemstäd och golvvård utan polish, plus egen tvätt för moppar och dukar.",
+      "tagg": "golv"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Kemikalierna halverade på fem år", "text": "Från 0,8 till 0,4 liter per 1 000 kvadratmeter och månad hos kontorskunderna.", "tagg": "stadning"},
-    {"rubrik": "Egen tvättstuga för moppar", "text": "Alla moppar och dukar tvättas nu på 60 grader i vår egen tvätt, med Svanenmärkt tvättmedel.", "tagg": "stadning"},
-    {"rubrik": "Tredje lådcykeln i trafik", "text": "Nu cyklar vi till alla kunder innanför Stångån och Kungsbergsgatan.", "tagg": "stad"}
+    {
+      "rubrik": "Kemikalierna halverade på fem år",
+      "text": "Från 0,8 till 0,4 liter per 1 000 kvadratmeter och månad hos kontorskunderna.",
+      "tagg": "stadning"
+    },
+    {
+      "rubrik": "Egen tvättstuga för moppar",
+      "text": "Alla moppar och dukar tvättas nu på 60 grader i vår egen tvätt, med Svanenmärkt tvättmedel.",
+      "tagg": "stadning"
+    },
+    {
+      "rubrik": "Tredje lådcykeln i trafik",
+      "text": "Nu cyklar vi till alla kunder innanför Stångån och Kungsbergsgatan.",
+      "tagg": "stad"
+    }
   ],
   "nyckeltal": [
-    {"varde": "0,4 l", "enhet": "", "etikett": "Kemikalier per 1 000 kvm och månad"},
-    {"varde": "14", "enhet": "förskolor", "etikett": "Städas helt doftfritt"},
-    {"varde": "3", "enhet": "lådcyklar", "etikett": "Eldrivna, i innerstaden"},
-    {"varde": "2013", "enhet": "", "etikett": "Svanenmärkt städtjänst sedan"}
+    {
+      "varde": "0,4 l",
+      "enhet": "",
+      "etikett": "Kemikalier per 1 000 kvm och månad"
+    },
+    {
+      "varde": "14",
+      "enhet": "förskolor",
+      "etikett": "Städas helt doftfritt"
+    },
+    {
+      "varde": "3",
+      "enhet": "lådcyklar",
+      "etikett": "Eldrivna, i innerstaden"
+    },
+    {
+      "varde": "2013",
+      "enhet": "",
+      "etikett": "Svanenmärkt städtjänst sedan"
+    }
   ],
   "projekt": [
-    {"namn": "Kontorshus i Mjärdevi", "ort": "Linköping", "typ": "Kontorsstäd", "ar": "2026", "text": "4 200 kvadratmeter kontor och labb städade varje kväll med mikrofiber och vatten.", "tagg": "kontor", "status": "Pågående"},
-    {"namn": "Förskolan Blåbäret", "ort": "Linköping, Ryd", "typ": "Doftfri städning", "ar": "2025", "text": "Sex avdelningar städade efter stängning, inklusive leksaker och vilrum.", "tagg": "stadning"},
-    {"namn": "Brf Vallastaden Gård", "ort": "Linköping", "typ": "Trappstäd", "ar": "2025", "text": "Svanenmärkt trappstäd i fem trapphus med miljösiffror i årsredovisningen.", "tagg": "bostad"},
-    {"namn": "Släktforskarhuset Östra Gränd", "ort": "Linköping", "typ": "Golvvård utan polish", "ar": "2025", "text": "1 100 kvadratmeter linoleum avpolerat med diamantrondeller i stället för strippning.", "tagg": "golv"},
-    {"namn": "Advokatfirman vid Stora torget", "ort": "Linköping", "typ": "Kontorsstäd med lådcykel", "ar": "2024", "text": "Tre våningar, städade två kvällar i veckan av en städare på lådcykel.", "tagg": "kontor"},
-    {"namn": "Lambohovs Skola", "ort": "Linköping", "typ": "Skolstäd", "ar": "2025", "text": "Klassrum, matsal och idrottshall med doftfria medel och färgkodade dukar.", "tagg": "stadning"}
+    {
+      "namn": "Kontorshus i Mjärdevi",
+      "ort": "Linköping",
+      "typ": "Kontorsstäd",
+      "ar": "2026",
+      "text": "4 200 kvadratmeter kontor och labb städade varje kväll med mikrofiber och vatten.",
+      "tagg": "kontor",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Förskolan Blåbäret",
+      "ort": "Linköping, Ryd",
+      "typ": "Doftfri städning",
+      "ar": "2025",
+      "text": "Sex avdelningar städade efter stängning, inklusive leksaker och vilrum.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Brf Vallastaden Gård",
+      "ort": "Linköping",
+      "typ": "Trappstäd",
+      "ar": "2025",
+      "text": "Svanenmärkt trappstäd i fem trapphus med miljösiffror i årsredovisningen.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Släktforskarhuset Östra Gränd",
+      "ort": "Linköping",
+      "typ": "Golvvård utan polish",
+      "ar": "2025",
+      "text": "1 100 kvadratmeter linoleum avpolerat med diamantrondeller i stället för strippning.",
+      "tagg": "golv"
+    },
+    {
+      "namn": "Advokatfirman vid Stora torget",
+      "ort": "Linköping",
+      "typ": "Kontorsstäd med lådcykel",
+      "ar": "2024",
+      "text": "Tre våningar, städade två kvällar i veckan av en städare på lådcykel.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Lambohovs Skola",
+      "ort": "Linköping",
+      "typ": "Skolstäd",
+      "ar": "2025",
+      "text": "Klassrum, matsal och idrottshall med doftfria medel och färgkodade dukar.",
+      "tagg": "stadning"
+    }
   ],
   "process": [
-    {"titel": "Miljögenomgång", "text": "Vi går igenom era nuvarande medel, ytor och rutiner och räknar ut er kemikalieförbrukning i dag.", "tagg": "kontor"},
-    {"titel": "Städplan", "text": "Ni får ett förslag med metod per rum och en uppskattning av hur mycket kemikalier som kan tas bort.", "tagg": "stadning"},
-    {"titel": "Städning", "text": "Färgkodade mikrofiberdukar, doseringssystem och moppar som tvättas i vår egen tvätt.", "tagg": "stadning"},
-    {"titel": "Kvartalsrapport", "text": "Liter kemikalier, kilo tvätt och körda mil, redo att klistra in i er egen redovisning.", "tagg": "kontor"}
+    {
+      "titel": "Miljögenomgång",
+      "text": "Vi går igenom era nuvarande medel, ytor och rutiner och räknar ut er kemikalieförbrukning i dag.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Städplan",
+      "text": "Ni får ett förslag med metod per rum och en uppskattning av hur mycket kemikalier som kan tas bort.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Städning",
+      "text": "Färgkodade mikrofiberdukar, doseringssystem och moppar som tvättas i vår egen tvätt.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Kvartalsrapport",
+      "text": "Liter kemikalier, kilo tvätt och körda mil, redo att klistra in i er egen redovisning.",
+      "tagg": "kontor"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Varje liter redovisad",
     "text": "Vi väger och mäter allt som går åt: rengöringsmedel, plastpåsar, tvättmedel och el till lådcyklarna. Siffrorna granskas av Svanen varje år och publiceras för hela företaget.",
-    "mal": [["0,3 l", "kemikalier per 1 000 kvm till 2028"], ["0", "sprayflaskor i städvagnarna"], ["100 %", "fossilfria transporter 2027"]]
+    "mal": [
+      [
+        "0,3 l",
+        "kemikalier per 1 000 kvm till 2028"
+      ],
+      [
+        "0",
+        "sprayflaskor i städvagnarna"
+      ],
+      [
+        "100 %",
+        "fossilfria transporter 2027"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Städjobb utan eksem och huvudvärk",
     "text": "Hos oss arbetar du med mikrofiber och vatten i stället för starka medel. Du får arbetskläder i ekologisk bomull, elcykel om du vill och schema med fasta tider.",
-    "jobb": [["Städare kontor, kvällstid", "Linköping"], ["Städare förskola", "Linköping"]]
+    "jobb": [
+      [
+        "Städare kontor, kvällstid",
+        "Linköping"
+      ],
+      [
+        "Städare förskola",
+        "Linköping"
+      ]
+    ]
   },
   "kultur": "En gång i månaden går hela företaget igenom miljösiffrorna tillsammans, och den som hittar ett sätt att spara mest får välja nästa personalaktivitet.",
-  "citat": {"text": "Jag fick eksem på mitt första städjobb och fick höra att det hörde till yrket. Det gör det inte.", "namn": "Fatima Rahimi", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {
+    "text": "Jag fick eksem på mitt första städjobb och fick höra att det hörde till yrket. Det gör det inte.",
+    "namn": "Fatima Rahimi",
+    "roll": "Grundare och vd",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Vi behövde siffror till vår hållbarhetsrapport. Lingon skickade dem samma vecka, uppdelat per kvartal.", "namn": "Jesper N.", "ort": "Mjärdevi"},
-    {"text": "Två barn med astma på avdelningen och inga besvär sedan vi bytte städfirma.", "namn": "Ingela T.", "ort": "Ryd"},
-    {"text": "Ingen doft av rengöringsmedel när man kommer in i trapphuset – bara rent.", "namn": "Ali H.", "ort": "Vallastaden"}
+    {
+      "text": "Vi behövde siffror till vår hållbarhetsrapport. Lingon skickade dem samma vecka, uppdelat per kvartal.",
+      "namn": "Jesper N.",
+      "ort": "Mjärdevi"
+    },
+    {
+      "text": "Två barn med astma på avdelningen och inga besvär sedan vi bytte städfirma.",
+      "namn": "Ingela T.",
+      "ort": "Ryd"
+    },
+    {
+      "text": "Ingen doft av rengöringsmedel när man kommer in i trapphuset – bara rent.",
+      "namn": "Ali H.",
+      "ort": "Vallastaden"
+    }
   ],
   "faq": [
-    ["Blir det verkligen rent utan rengöringsmedel?", "Ja, på de flesta ytor. Mikrofibern har så fina trådar att den tar upp fett och bakterier med bara vatten. Kalk och tung fettsmuts tar vi med doserat medel."],
-    ["Vad betyder Svanenmärkt städtjänst?", "Att hela städtjänsten är granskad: medel, mängder, transporter, tvätt och avfall. Svanen följer upp våra siffror varje år."],
-    ["Kostar det mer än vanlig städning?", "Ungefär lika mycket. Vi lägger mer på utbildning och tvätt, men mindre på kemikalier och bränsle."],
-    ["Kan ni städa hos någon med svår allergi?", "Ja. Vi städar helt doftfritt och kan använda HEPA-dammsugare och dukar som bara används hos er."],
-    ["Får vi siffror vi kan redovisa?", "Ja, alla avtalskunder får en kvartalsrapport med kemikalier, tvätt och transporter."],
-    ["Hur fungerar golvvård utan polish?", "Vi slipar golvets yta med diamantrondeller och vatten. Det ger en hård, blank yta utan polishlager som måste strippas bort."],
-    ["Var städar ni?", "I Linköping med omnejd, inklusive Malmslätt, Ljungsbro och Sturefors."]
+    [
+      "Blir det verkligen rent utan rengöringsmedel?",
+      "Ja, på de flesta ytor. Mikrofibern har så fina trådar att den tar upp fett och bakterier med bara vatten. Kalk och tung fettsmuts tar vi med doserat medel."
+    ],
+    [
+      "Vad betyder Svanenmärkt städtjänst?",
+      "Att hela städtjänsten är granskad: medel, mängder, transporter, tvätt och avfall. Svanen följer upp våra siffror varje år."
+    ],
+    [
+      "Kostar det mer än vanlig städning?",
+      "Ungefär lika mycket. Vi lägger mer på utbildning och tvätt, men mindre på kemikalier och bränsle."
+    ],
+    [
+      "Kan ni städa hos någon med svår allergi?",
+      "Ja. Vi städar helt doftfritt och kan använda HEPA-dammsugare och dukar som bara används hos er."
+    ],
+    [
+      "Får vi siffror vi kan redovisa?",
+      "Ja, alla avtalskunder får en kvartalsrapport med kemikalier, tvätt och transporter."
+    ],
+    [
+      "Hur fungerar golvvård utan polish?",
+      "Vi slipar golvets yta med diamantrondeller och vatten. Det ger en hård, blank yta utan polishlager som måste strippas bort."
+    ],
+    [
+      "Var städar ni?",
+      "I Linköping med omnejd, inklusive Malmslätt, Ljungsbro och Sturefors."
+    ]
   ],
   "certifikat": [
-    {"titel": "Svanenmärkt städtjänst", "text": "Licens för Svanenmärkt städtjänst sedan 2013, med årlig uppföljning.", "ikon": "trad"},
-    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem med extern revision varje år.", "ikon": "skold"},
-    {"titel": "Kollektivavtal", "text": "Alla anställda har Serviceentreprenadavtalet och tjänstepension.", "ikon": "folk"},
-    {"titel": "INSTA 800", "text": "Städkvaliteten kontrolleras enligt INSTA 800 hos alla kontorskunder.", "ikon": "sok"}
+    {
+      "titel": "Svanenmärkt städtjänst",
+      "text": "Licens för Svanenmärkt städtjänst sedan 2013, med årlig uppföljning.",
+      "ikon": "trad"
+    },
+    {
+      "titel": "Miljöledning ISO 14001",
+      "text": "Certifierat miljöledningssystem med extern revision varje år.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Kollektivavtal och pension",
+      "text": "Alla anställda har Serviceentreprenadavtalet och tjänstepension.",
+      "ikon": "folk"
+    },
+    {
+      "titel": "Mätt städkvalitet",
+      "text": "Kontorskunderna får städkvaliteten uppmätt med INSTA 800 två gånger per år.",
+      "ikon": "sok"
+    }
   ],
-  "kunder": ["Förskolan Blåbäret", "Brf Vallastaden Gård", "Lambohovs Skola", "Mjärdevi Kontorshus", "Släktforskarhuset Östra Gränd", "Östgöta Revisorer", "Brf Tannefors Strand", "Sturefors Tandvård"],
+  "kunder": [
+    "Förskolan Blåbäret",
+    "Brf Vallastaden Gård",
+    "Lambohovs Skola",
+    "Mjärdevi Kontorshus",
+    "Släktforskarhuset Östra Gränd",
+    "Östgöta Revisorer",
+    "Brf Tannefors Strand",
+    "Sturefors Tandvård"
+  ],
   "nyheter": [
-    ["2026-10-12", "Miljörapporten för tredje kvartalet", "Kemikalieförbrukningen hos kontorskunderna är nu nere på 0,38 liter.", "stadning"],
-    ["2026-05-04", "Vi slutar med sprayflaskor", "Alla städvagnar har nu doseringsflaskor med pump – mindre dimma, mindre medel.", "stadning"],
-    ["2025-12-01", "Därför doftar inte rent", "Om parfymerade städmedel, allergier och varför vi har tagit bort dem helt.", "people"]
+    [
+      "2026-10-12",
+      "Miljörapporten för tredje kvartalet",
+      "Kemikalieförbrukningen hos kontorskunderna är nu nere på 0,38 liter.",
+      "stadning"
+    ],
+    [
+      "2026-05-04",
+      "Vi slutar med sprayflaskor",
+      "Alla städvagnar har nu doseringsflaskor med pump – mindre dimma, mindre medel.",
+      "stadning"
+    ],
+    [
+      "2025-12-01",
+      "Därför doftar inte rent",
+      "Om parfymerade städmedel, allergier och varför vi har tagit bort dem helt.",
+      "people"
+    ]
   ],
-  "kontakt": {"adress": "Gjuterigatan 9", "postnr": "582 73", "ort": "Linköping", "telefon": "070-174 06 15", "epost": "hej@lingonstad.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Gjuterigatan 9",
+    "postnr": "582 73",
+    "ort": "Linköping",
+    "telefon": "070-174 06 15",
+    "epost": "hej@lingonstad.se",
+    "orgnr": ""
+  },
   "oppettider": "Kontoret mån–fre 7.30–16",
   "omrade": "Linköping, Malmslätt, Ljungsbro och Sturefors",
   "fot_cta": "Vill du veta hur mycket kemikalier er städning använder i dag? Vi räknar på det gratis.",
-  "bild": {"panel": "stadning", "hb": "natur"},
+  "bild": {
+    "panel": "stadning",
+    "hb": "natur"
+  },
   "text": {
     "hero_knapp": "Så städar vi",
     "kontakt_knapp": "Boka miljögenomgång",
@@ -120,6 +395,6 @@
     "certifikat_rubrik": "Granskade av Svanen",
     "bolag_rubrik": "Tre grupper, en metod",
     "ny_rubrik": "Om miljö och städning",
-    "medarbetare": "Städarna"
+    "medarbetare": "Medarbetarna"
   }
 }

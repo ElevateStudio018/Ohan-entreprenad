@@ -30,12 +30,12 @@
     {"titel": "Akut i hemmet", "text": "Ett djur inne i bostaden är inget som kan vänta en helg. Teknikern i beredskap ringer tillbaka inom tio minuter och ger en tid.", "text2": "Utryckningstiden i Örebro tätort var i snitt 1 timme och 48 minuter under 2025.", "tagg": "hem"},
     {"titel": "Getingsäsong", "text": "Från juni till september har vi tre tekniker i tjänst samtidigt bara för getingar. Bon i marken, i väggar och under takpannor tas bort med pulver och dammsugare.", "text2": "Ser du getingar igen inom 14 dagar kommer vi tillbaka utan kostnad.", "tagg": "skadedjur"},
     {"titel": "Restaurang och livsmedel", "text": "Kök, bagerier och butiker kan inte stänga i väntan på ett besök på tisdag. Vi rycker ut på kvällar och helger och lämnar ett protokoll som miljöförvaltningen godtar.", "text2": "Med jouravtal får restaurangen förtur före privata samtal.", "tagg": "stad"},
-    {"titel": "Fastigheter", "text": "Fastighetsägare slipper ta emot nattsamtal från oroliga hyresgäster. De ringer oss direkt, och förvaltaren får ett mejl när ärendet är åtgärdat.", "text2": "Jouravtalet kostar från 24 kr per lägenhet och år.", "tagg": "bostad"}
+    {"titel": "Hyreshus och förvaltare", "text": "Fastighetsägare slipper ta emot nattsamtal från oroliga hyresgäster. De ringer oss direkt, och förvaltaren får ett mejl när ärendet är åtgärdat.", "text2": "Jouravtalet kostar från 24 kr per lägenhet och år.", "tagg": "bostad"}
   ],
   "bolag": [
     {"namn": "Beredskapen", "segment": "Sju tekniker i rullande schema", "rubrik": "En vecka i taget, telefonen alltid på", "text": "Två tekniker har alltid beredskap: en för Örebro och Kumla, en för norra länet. På sommaren tillkommer en getingjour.", "tagg": "skadedjur"},
-    {"namn": "Uppföljning", "segment": "Dagtid vardagar", "rubrik": "Den som kommer tillbaka", "text": "Efter varje akutlarm gör en tekniker ett återbesök dagtid för att täta, kontrollera fällorna och avsluta ärendet.", "tagg": "hem"},
-    {"namn": "Kontoret", "segment": "Två medarbetare", "rubrik": "Fakturor, avtal och försäkringar", "text": "Hanterar jouravtal med fastighetsbolag och restauranger och hjälper privatkunder med försäkringsärenden.", "tagg": "kontor"}
+    {"namn": "Återbesöken", "segment": "Dagtid vardagar", "rubrik": "Den som kommer tillbaka", "text": "Efter varje akutlarm gör en tekniker ett återbesök dagtid för att täta, kontrollera fällorna och avsluta ärendet.", "tagg": "hem"},
+    {"namn": "Administrationen", "segment": "Två medarbetare", "rubrik": "Fakturor, avtal och försäkringar", "text": "Hanterar jouravtal med fastighetsbolag och restauranger och hjälper privatkunder med försäkringsärenden.", "tagg": "kontor"}
   ],
   "berattelser": [
     {"rubrik": "1 h 48 min i snitt", "text": "Under 2025 var genomsnittlig utryckningstid i Örebro tätort under två timmar – även nattetid.", "tagg": "skadedjur"},
@@ -94,7 +94,7 @@
   ],
   "prislista": [["Getingbo över två meter", "1 895 kr"], ["Fågel i ventilation eller skorsten", "2 195 kr"], ["Extra återbesök", "795 kr"], ["Tätning, per timme", "690 kr"], ["Restaurangutryckning utan avtal", "3 495 kr"], ["Norra länet, tillägg", "395 kr"]],
   "certifikat": [
-    {"titel": "Biocidbehörighet", "text": "Teknikerna har Kemikalieinspektionens behörighet för yrkesmässig bekämpning av gnagare och insekter.", "ikon": "skold"},
+    {"titel": "Behöriga för gnagare och insekter", "text": "Teknikerna har Kemikalieinspektionens behörighet för yrkesmässig bekämpning av gnagare och insekter.", "ikon": "skold"},
     {"titel": "Skyddsjakt med tillstånd", "text": "Två tekniker har jägarexamen och vapenlicens för skyddsjakt på fågel enligt jaktförordningen.", "ikon": "stjarna"},
     {"titel": "Säkra höjdarbeten", "text": "Utbildning i fallskydd och stegarbete för getingbon under takfot och i gavlar.", "ikon": "hjalm"},
     {"titel": "Kollektivavtal", "text": "Beredskap och nattarbete ersätts enligt kollektivavtal – du vet att jourteknikern är utvilad.", "ikon": "dokument"}

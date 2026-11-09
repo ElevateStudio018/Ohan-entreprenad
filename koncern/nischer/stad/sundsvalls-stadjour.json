@@ -17,94 +17,369 @@
   ],
   "vagval_rubrik": "Vad har hänt?",
   "tjanster": [
-    {"titel": "Efter vattenläcka", "ikon": "vatten", "href": "verksamhet.html", "text": "Vi suger upp vatten, flyttar möbler och städar så att avfuktningen kan börja direkt."},
-    {"titel": "Efter inbrott", "ikon": "las", "href": "verksamhet.html", "text": "Glassplitter, fingeravtrycksdamm och kastade lådor – när polisen är klar."},
-    {"titel": "Efter brand och sot", "ikon": "eld", "href": "verksamhet.html", "text": "Sotstäd av lättare brandskador i kök och trapphus, med torrsvamp och HEPA-sug."},
-    {"titel": "Vakansstäd på 24 h", "ikon": "nyckel", "href": "verksamhet.html", "text": "Tomma lägenheter städade inom ett dygn så att nästa hyresgäst kan flytta in."},
-    {"titel": "Efter fest och event", "ikon": "kalender", "href": "verksamhet.html", "text": "Lokaler och festvåningar klara före klockan åtta morgonen efter."},
-    {"titel": "Akut kontorsstäd", "ikon": "kontor", "href": "verksamhet.html", "text": "När det kommer kunder i morgon och kontoret ser ut som det gör."},
-    {"titel": "Trapp- och kontorsstäd", "ikon": "hus", "href": "verksamhet.html", "text": "Ordinarie städning på dagtid för fastighetsägare som redan har jouravtal."},
-    {"titel": "Jouravtal", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Fast månadsavgift och förtur – ingen kö när det händer."}
+    {
+      "titel": "Efter vattenläcka",
+      "ikon": "vatten",
+      "href": "verksamhet.html",
+      "text": "Vi suger upp vatten, flyttar möbler och städar så att avfuktningen kan börja direkt."
+    },
+    {
+      "titel": "Efter inbrott",
+      "ikon": "las",
+      "href": "verksamhet.html",
+      "text": "Glassplitter, fingeravtrycksdamm och kastade lådor – när polisen är klar."
+    },
+    {
+      "titel": "Efter brand och sot",
+      "ikon": "eld",
+      "href": "verksamhet.html",
+      "text": "Sotstäd av lättare brandskador i kök och trapphus, med torrsvamp och HEPA-sug."
+    },
+    {
+      "titel": "Vakansstäd på 24 h",
+      "ikon": "nyckel",
+      "href": "verksamhet.html",
+      "text": "Tomma lägenheter städade inom ett dygn så att nästa hyresgäst kan flytta in."
+    },
+    {
+      "titel": "Efter fest och event",
+      "ikon": "kalender",
+      "href": "verksamhet.html",
+      "text": "Lokaler och festvåningar klara före klockan åtta morgonen efter."
+    },
+    {
+      "titel": "Akut kontorsstäd",
+      "ikon": "kontor",
+      "href": "verksamhet.html",
+      "text": "När det kommer kunder i morgon och kontoret ser ut som det gör."
+    },
+    {
+      "titel": "Trapp- och kontorsstäd",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Ordinarie städning på dagtid för fastighetsägare som redan har jouravtal."
+    },
+    {
+      "titel": "Jouravtal",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Fast månadsavgift och förtur – ingen kö när det händer."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Vattenskador", "text": "Ett läckande diskmaskinsrör kan fylla en lägenhet och två trapphus på en natt. Vi suger upp vattnet, lyfter undan möbler och mattor och städar så att saneringsföretaget kan börja avfukta.", "text2": "Vi dokumenterar med foton och tidslogg som går direkt till försäkringsbolaget.", "tagg": "stadning"},
-    {"titel": "Inbrott och skadegörelse", "text": "Efter ett inbrott vill ingen sopa glas själv. Vi tar hand om splitter, pulverrester efter polisens teknik och det som har vräkts ut ur skåpen.", "text2": "Glasmästare och låssmed bokas av oss om ni vill.", "tagg": "stadning"},
-    {"titel": "Vakanser för hyresvärdar", "text": "Varje tom dag kostar hyra. När en hyresgäst flyttar ut med kort varsel städar vi lägenheten inom 24 timmar, inklusive ugn, kyl och fönster.", "text2": "Vi har nyckelavtal med sju hyresvärdar och städade 640 vakanser förra året.", "tagg": "bostad"},
-    {"titel": "Ordinarie städning", "text": "Mellan jourerna har vi ett dagtidsteam som sköter trappstäd och kontorsstäd åt fastighetsägare i Sundsvall och Timrå.", "text2": "De som har oss dagtid får automatiskt förtur på jouren.", "tagg": "kontor"}
+    {
+      "titel": "Vattenskador",
+      "text": "Ett läckande diskmaskinsrör kan fylla en lägenhet och två trapphus på en natt. Vi suger upp vattnet, lyfter undan möbler och mattor och städar så att saneringsföretaget kan börja avfukta.",
+      "text2": "Vi dokumenterar med foton och tidslogg som går direkt till försäkringsbolaget.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Inbrott och skadegörelse",
+      "text": "Efter ett inbrott vill ingen sopa glas själv. Vi tar hand om splitter, pulverrester efter polisens teknik och det som har vräkts ut ur skåpen.",
+      "text2": "Glasmästare och låssmed bokas av oss om ni vill.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Vakanser för hyresvärdar",
+      "text": "Varje tom dag kostar hyra. När en hyresgäst flyttar ut med kort varsel städar vi lägenheten inom 24 timmar, inklusive ugn, kyl och fönster.",
+      "text2": "Vi har nyckelavtal med sju hyresvärdar och städade 640 vakanser förra året.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Ordinarie städning",
+      "text": "Mellan jourerna har vi ett dagtidsteam som sköter trappstäd och kontorsstäd åt fastighetsägare i Sundsvall och Timrå.",
+      "text2": "De som har oss dagtid får automatiskt förtur på jouren.",
+      "tagg": "kontor"
+    }
   ],
   "bolag": [
-    {"namn": "Jouren Sundsvall", "segment": "Två bilar, dygnet runt", "rubrik": "Svar inom 15 minuter", "text": "Utgår från lokalen på Ljustadalen och täcker Sundsvall, Njurunda och Alnö.", "tagg": "stadning"},
-    {"namn": "Jouren Härnösand–Timrå", "segment": "En bil, dygnet runt", "rubrik": "Norr om Indalsälven", "text": "Bil stationerad i Timrå som når Härnösand inom 40 minuter.", "tagg": "stadning"},
-    {"namn": "Dagtidsteamet", "segment": "Elva städare", "rubrik": "Trappor, kontor och vakanser", "text": "Ordinarie städning och de vakansstäd som kan planeras – vardagar 6–15.", "tagg": "kontor"}
+    {
+      "namn": "Jouren Sundsvall",
+      "segment": "Två bilar, dygnet runt",
+      "rubrik": "Svar inom 15 minuter",
+      "text": "Utgår från lokalen på Ljustadalen och täcker Sundsvall, Njurunda och Alnö.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Jouren Härnösand–Timrå",
+      "segment": "En bil, dygnet runt",
+      "rubrik": "Norr om Indalsälven",
+      "text": "Bil stationerad i Timrå som når Härnösand inom 40 minuter.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Dagtidsteamet",
+      "segment": "Elva städare",
+      "rubrik": "Trappor, kontor och vakanser",
+      "text": "Ordinarie städning och de vakansstäd som kan planeras – vardagar 6–15.",
+      "tagg": "kontor"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Översvämning i Stenstan på julafton", "text": "Ett fruset rör sprack i en källare med fyra butikslager. Vi var på plats 18.10 och klara 01.30.", "tagg": "stadning"},
-    {"rubrik": "640 vakansstäd på ett år", "text": "Snittiden från nyckel till klar lägenhet var 19 timmar.", "tagg": "bostad"},
-    {"rubrik": "Ny jourbil i Timrå", "text": "Med egen vattensug, avfuktare och utrustning för sotstäd.", "tagg": "stadning"}
+    {
+      "rubrik": "Översvämning i Stenstan på julafton",
+      "text": "Ett fruset rör sprack i en källare med fyra butikslager. Vi var på plats 18.10 och klara 01.30.",
+      "tagg": "stadning"
+    },
+    {
+      "rubrik": "640 vakansstäd på ett år",
+      "text": "Snittiden från nyckel till klar lägenhet var 19 timmar.",
+      "tagg": "bostad"
+    },
+    {
+      "rubrik": "Ny jourbil i Timrå",
+      "text": "Med egen vattensug, avfuktare och utrustning för sotstäd.",
+      "tagg": "stadning"
+    }
   ],
   "nyckeltal": [
-    {"varde": "1 h 40", "enhet": "min", "etikett": "Snittid från samtal till dörren"},
-    {"varde": "24/7", "enhet": "", "etikett": "Bemannad jourtelefon"},
-    {"varde": "1 180", "enhet": "jourer", "etikett": "Utryckningar 2025"},
-    {"varde": "640", "enhet": "vakanser", "etikett": "Städade lägenheter förra året"}
+    {
+      "varde": "1 h 40",
+      "enhet": "min",
+      "etikett": "Snittid från samtal till dörren"
+    },
+    {
+      "varde": "24/7",
+      "enhet": "",
+      "etikett": "Bemannad jourtelefon"
+    },
+    {
+      "varde": "1 180",
+      "enhet": "jourer",
+      "etikett": "Utryckningar 2025"
+    },
+    {
+      "varde": "640",
+      "enhet": "vakanser",
+      "etikett": "Städade lägenheter förra året"
+    }
   ],
   "projekt": [
-    {"namn": "Butikslager i Stenstan", "ort": "Sundsvall", "typ": "Vattenskada, julafton", "ar": "2025", "text": "Fyra källarlager med 15 centimeter vatten, uppsuget och städat på sju timmar.", "tagg": "stadning"},
-    {"namn": "Selångers Fastigheter", "ort": "Sundsvall", "typ": "Vakansstäd på avtal", "ar": "2026", "text": "Alla avflyttningar i 820 lägenheter städas inom 24 timmar från nyckelöverlämning.", "tagg": "bostad", "status": "Pågående"},
-    {"namn": "Brf Norrmalmsbacken", "ort": "Sundsvall", "typ": "Sotstäd efter köksbrand", "ar": "2025", "text": "Sotrester i en lägenhet och tre våningar trapphus rengjorda med torrsvamp och HEPA-sug.", "tagg": "stadning"},
-    {"namn": "Timrå Hyreshus", "ort": "Timrå", "typ": "Jouravtal och trappstäd", "ar": "2025", "text": "Veckostäd i 46 trapphus och förtur på jouren för hela beståndet.", "tagg": "bostad"},
-    {"namn": "Festvåningen vid Norra Stadsberget", "ort": "Sundsvall", "typ": "Eventstäd", "ar": "2025", "text": "Städat mellan klockan två och sju efter 31 bröllop och företagsfester under året.", "tagg": "stadning"},
-    {"namn": "Advokatbyrå på Storgatan", "ort": "Härnösand", "typ": "Efter inbrott", "ar": "2024", "text": "Krossade glasdörrar och genomletade arkivskåp städade före klockan sju på morgonen.", "tagg": "kontor"}
+    {
+      "namn": "Butikslager i Stenstan",
+      "ort": "Sundsvall",
+      "typ": "Vattenskada, julafton",
+      "ar": "2025",
+      "text": "Fyra källarlager med 15 centimeter vatten, uppsuget och städat på sju timmar.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Selångers Fastigheter",
+      "ort": "Sundsvall",
+      "typ": "Vakansstäd på avtal",
+      "ar": "2026",
+      "text": "Alla avflyttningar i 820 lägenheter städas inom 24 timmar från nyckelöverlämning.",
+      "tagg": "bostad",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Brf Norrmalmsbacken",
+      "ort": "Sundsvall",
+      "typ": "Sotstäd efter köksbrand",
+      "ar": "2025",
+      "text": "Sotrester i en lägenhet och tre våningar trapphus rengjorda med torrsvamp och HEPA-sug.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Timrå Hyreshus",
+      "ort": "Timrå",
+      "typ": "Jouravtal och trappstäd",
+      "ar": "2025",
+      "text": "Veckostäd i 46 trapphus och förtur på jouren för hela beståndet.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Festvåningen vid Norra Stadsberget",
+      "ort": "Sundsvall",
+      "typ": "Eventstäd",
+      "ar": "2025",
+      "text": "Städat mellan klockan två och sju efter 31 bröllop och företagsfester under året.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Advokatbyrå på Storgatan",
+      "ort": "Härnösand",
+      "typ": "Efter inbrott",
+      "ar": "2024",
+      "text": "Krossade glasdörrar och genomletade arkivskåp städade före klockan sju på morgonen.",
+      "tagg": "kontor"
+    }
   ],
   "process": [
-    {"titel": "Ring jouren", "text": "En människa svarar, inte en telefonsvarare. Vi frågar vad som har hänt och vad som måste göras först.", "tagg": "people"},
-    {"titel": "Utryckning", "text": "Närmaste jourbil åker direkt. Du får ett sms med beräknad ankomsttid.", "tagg": "stadning"},
-    {"titel": "Akutinsats", "text": "Vi stoppar skadan från att växa: suger vatten, samlar glas, flyttar möbler och städar.", "tagg": "stadning"},
-    {"titel": "Rapport till försäkringen", "text": "Foton, tidslogg och materialåtgång samlas i en rapport som du kan skicka vidare samma dag.", "tagg": "kontor"}
+    {
+      "titel": "Ring jouren",
+      "text": "En människa svarar, inte en telefonsvarare. Vi frågar vad som har hänt och vad som måste göras först.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Utryckning",
+      "text": "Närmaste jourbil åker direkt. Du får ett sms med beräknad ankomsttid.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Akutinsats",
+      "text": "Vi stoppar skadan från att växa: suger vatten, samlar glas, flyttar möbler och städar.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Rapport till försäkringen",
+      "text": "Foton, tidslogg och materialåtgång samlas i en rapport som du kan skicka vidare samma dag.",
+      "tagg": "kontor"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Jour utan att bränna ut folk",
     "text": "Jour är tungt om samma personer alltid har den. Hos oss går jouren i ett rullande schema med sex veckors cykel, och den som har jobbat natt är ledig nästa dag med full lön.",
-    "mal": [["15 min", "max svarstid på jourtelefonen"], ["6 v", "rullande jourschema"], ["100 %", "betald vila efter nattutryckning"]]
+    "mal": [
+      [
+        "15 min",
+        "max svarstid på jourtelefonen"
+      ],
+      [
+        "6 v",
+        "rullande jourschema"
+      ],
+      [
+        "100 %",
+        "betald vila efter nattutryckning"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "För dig som inte blir stressad av ett telefonsamtal",
     "text": "Vi söker städare som kan tänka själva när det står vatten på golvet. Du får jourersättning, utbildning i vattenskadehantering och körkortet betalt om du saknar B.",
-    "jobb": [["Jourstädare", "Sundsvall"], ["Städare dagtid", "Timrå"]]
+    "jobb": [
+      [
+        "Jourstädare",
+        "Sundsvall"
+      ],
+      [
+        "Städare dagtid",
+        "Timrå"
+      ]
+    ]
   },
   "kultur": "Efter varje stor utryckning äter jourlaget frukost tillsammans – på företagets bekostnad, oavsett klockslag.",
-  "citat": {"text": "Klockan tre på natten vill ingen höra att vi återkommer på måndag. Det var hela affärsidén.", "namn": "Anneli Sjöberg", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {
+    "text": "Klockan tre på natten vill ingen höra att vi återkommer på måndag. Det var hela affärsidén.",
+    "namn": "Anneli Sjöberg",
+    "roll": "Grundare och vd",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Ringde 23.15 när taket droppade i trapphuset. Bilen stod på gatan halv ett och allt var torrt till morgonen.", "namn": "Kenneth L.", "ort": "Norrmalm"},
-    {"text": "Vi får tillbaka nyckeln med en städad lägenhet nästa dag. Det har kortat våra vakanser med nästan en vecka.", "namn": "Maria J.", "ort": "Sundsvall"},
-    {"text": "Efter inbrottet ville vi bara hem. När vi kom på morgonen var glaset borta och lådorna på plats igen.", "namn": "Henrik Å.", "ort": "Härnösand"}
+    {
+      "text": "Ringde 23.15 när taket droppade i trapphuset. Bilen stod på gatan halv ett och allt var torrt till morgonen.",
+      "namn": "Kenneth L.",
+      "ort": "Norrmalm"
+    },
+    {
+      "text": "Vi får tillbaka nyckeln med en städad lägenhet nästa dag. Det har kortat våra vakanser med nästan en vecka.",
+      "namn": "Maria J.",
+      "ort": "Sundsvall"
+    },
+    {
+      "text": "Efter inbrottet ville vi bara hem. När vi kom på morgonen var glaset borta och lådorna på plats igen.",
+      "namn": "Henrik Å.",
+      "ort": "Härnösand"
+    }
   ],
   "faq": [
-    ["Kommer ni verkligen mitt i natten?", "Ja. Jourtelefonen är bemannad dygnet runt alla dagar, och en jourbil åker så fort vi har förstått vad som har hänt."],
-    ["Vad kostar en utryckning?", "Utryckningsavgiften är 1 450 kronor och arbetstiden 690 kronor per timme och person, exklusive moms. Kunder med jouravtal betalar ingen utryckningsavgift."],
-    ["Ersätter försäkringen er?", "Oftast ja, vid vattenskada, brand och inbrott. Vi skickar en rapport med foton och tidslogg som försäkringsbolaget brukar godkänna utan frågor."],
-    ["Sanerar ni också?", "Vi gör akutstädningen och förbereder för avfuktning, men själva saneringen och torkningen görs av saneringsföretag som vi samarbetar med."],
-    ["Hur fungerar jouravtalet?", "Ni betalar en fast månadsavgift, får förtur och ingen utryckningsavgift. Avtalet passar hyresvärdar, brf:er och butikskedjor."],
-    ["Städar ni dödsbon?", "Ja, med kort varsel och diskret. Vi samarbetar med en firma för tömning och bortforsling."],
-    ["Hur långt bort åker ni?", "Sundsvall, Timrå, Härnösand, Njurunda och Alnö. Till Ånge och Kramfors åker vi efter överenskommelse."]
+    [
+      "Kommer ni verkligen mitt i natten?",
+      "Ja. Jourtelefonen är bemannad dygnet runt alla dagar, och en jourbil åker så fort vi har förstått vad som har hänt."
+    ],
+    [
+      "Vad kostar en utryckning?",
+      "Utryckningsavgiften är 1 450 kronor och arbetstiden 690 kronor per timme och person, exklusive moms. Kunder med jouravtal betalar ingen utryckningsavgift."
+    ],
+    [
+      "Ersätter försäkringen er?",
+      "Oftast ja, vid vattenskada, brand och inbrott. Vi skickar en rapport med foton och tidslogg som försäkringsbolaget brukar godkänna utan frågor."
+    ],
+    [
+      "Sanerar ni också?",
+      "Vi gör akutstädningen och förbereder för avfuktning, men själva saneringen och torkningen görs av saneringsföretag som vi samarbetar med."
+    ],
+    [
+      "Hur fungerar jouravtalet?",
+      "Ni betalar en fast månadsavgift, får förtur och ingen utryckningsavgift. Avtalet passar hyresvärdar, brf:er och butikskedjor."
+    ],
+    [
+      "Städar ni dödsbon?",
+      "Ja, med kort varsel och diskret. Vi samarbetar med en firma för tömning och bortforsling."
+    ],
+    [
+      "Hur långt bort åker ni?",
+      "Sundsvall, Timrå, Härnösand, Njurunda och Alnö. Till Ånge och Kramfors åker vi efter överenskommelse."
+    ]
   ],
   "certifikat": [
-    {"titel": "Utbildade i vattenskador", "text": "Jourpersonalen har gått utbildning i akut vattenskadehantering och fuktmätning.", "ikon": "vatten"},
-    {"titel": "Kollektivavtal", "text": "Serviceentreprenadavtalet med ob- och jourersättning för alla anställda.", "ikon": "folk"},
-    {"titel": "Säker nyckelhantering", "text": "Nycklar förvaras kodade i värdeskåp med loggning av varje uttag.", "ikon": "las"},
-    {"titel": "Ansvarsförsäkring", "text": "Ansvars- och nyckelförsäkring på 10 miljoner kronor.", "ikon": "skold"}
+    {
+      "titel": "Utbildade i vattenskador",
+      "text": "Jourpersonalen har gått utbildning i akut vattenskadehantering och fuktmätning.",
+      "ikon": "vatten"
+    },
+    {
+      "titel": "Avtal med jourersättning",
+      "text": "Serviceentreprenadavtalet med ob- och jourersättning för alla anställda.",
+      "ikon": "folk"
+    },
+    {
+      "titel": "Säker nyckelhantering",
+      "text": "Kundnycklar ligger kodade i ett larmat värdeskåp, och jourbilen kvitterar varje nyckel den tar ut.",
+      "ikon": "las"
+    },
+    {
+      "titel": "Försäkrade dygnet runt",
+      "text": "Försäkrade för skador i kundens lokaler upp till 10 miljoner kronor, även nattetid.",
+      "ikon": "skold"
+    }
   ],
-  "kunder": ["Selångers Fastigheter", "Timrå Hyreshus", "Brf Norrmalmsbacken", "Stenstans Butiksförening", "Härnösands Bostadsservice", "Festvåningen Stadsberget", "Njurunda Lägenhetsbolag", "Brf Alnö Strand"],
+  "kunder": [
+    "Selångers Fastigheter",
+    "Timrå Hyreshus",
+    "Brf Norrmalmsbacken",
+    "Stenstans Butiksförening",
+    "Härnösands Bostadsservice",
+    "Festvåningen Stadsberget",
+    "Njurunda Lägenhetsbolag",
+    "Brf Alnö Strand"
+  ],
   "nyheter": [
-    ["2026-11-02", "Frusna rör – så minskar du risken", "Fem saker att kontrollera i fastigheten innan den första riktiga kylan.", "vvs"],
-    ["2026-06-14", "Jouravtal nu även för butiker", "Fast månadsavgift och förtur för butikskedjor med lokaler i Medelpad.", "stadning"],
-    ["2026-01-12", "1 180 utryckningar under 2025", "Flest i januari och juli – och oftast mellan 22 och 04.", "stadning"]
+    [
+      "2026-11-02",
+      "Frusna rör – så minskar du risken",
+      "Fem saker att kontrollera i fastigheten innan den första riktiga kylan.",
+      "vvs"
+    ],
+    [
+      "2026-06-14",
+      "Jouravtal nu även för butiker",
+      "Fast månadsavgift och förtur för butikskedjor med lokaler i Medelpad.",
+      "stadning"
+    ],
+    [
+      "2026-01-12",
+      "1 180 utryckningar under 2025",
+      "Flest i januari och juli – och oftast mellan 22 och 04.",
+      "stadning"
+    ]
   ],
-  "kontakt": {"adress": "Ljustadalsvägen 31", "postnr": "856 50", "ort": "Sundsvall", "telefon": "070-174 06 13", "epost": "jour@stadjouren-sundsvall.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Ljustadalsvägen 31",
+    "postnr": "856 50",
+    "ort": "Sundsvall",
+    "telefon": "070-174 06 13",
+    "epost": "jour@stadjouren-sundsvall.se",
+    "orgnr": ""
+  },
   "oppettider": "Jour dygnet runt, kontoret mån–fre 7–16",
   "omrade": "Sundsvall, Timrå, Härnösand, Njurunda och Alnö",
   "fot_cta": "Spara numret nu – du vill inte leta efter det när vattnet rinner.",
-  "bild": {"panel": "stadning", "hb": "people"},
+  "bild": {
+    "panel": "stadning",
+    "hb": "people"
+  },
   "text": {
     "hero_knapp": "Vad vi rycker ut på",
     "kontakt_knapp": "Ring jouren",

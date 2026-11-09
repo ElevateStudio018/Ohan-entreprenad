@@ -17,94 +17,369 @@
   ],
   "vagval_rubrik": "Vilket golv har ni?",
   "tjanster": [
-    {"titel": "Linoleum och vinyl", "ikon": "sten", "href": "verksamhet.html", "text": "Polishfri behandling med diamantrondeller som gör golvet tåligare och lättare att städa."},
-    {"titel": "Terrazzo och marmor", "ikon": "stjarna", "href": "verksamhet.html", "text": "Slipning, kristallisering och impregnering av sten i trapphus och entréer."},
-    {"titel": "Betongpolering", "ikon": "kugge", "href": "verksamhet.html", "text": "Diamantslipad och polerad betong för lager, butiker och showroom."},
-    {"titel": "Textila mattor", "ikon": "vatten", "href": "verksamhet.html", "text": "Djuprengöring med varmvattenextraktion och fläckbehandling."},
-    {"titel": "Trägolv och parkett", "ikon": "trad", "href": "verksamhet.html", "text": "Rengöring och underhållsolja av parkett i skolor, gymnastiksalar och kontor."},
-    {"titel": "Lokalvård", "ikon": "kontor", "href": "verksamhet.html", "text": "Daglig städning av kontor, vårdlokaler och skolor med samma omsorg om golven."},
-    {"titel": "Golvinventering", "ikon": "sok", "href": "verksamhet.html", "text": "Vi besiktar golven i hela fastighetsbeståndet och lämnar en underhållsplan."},
-    {"titel": "Provyta utan kostnad", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi behandlar en kvadratmeter så att ni ser skillnaden innan ni bestämmer er."}
+    {
+      "titel": "Linoleum och vinyl",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Polishfri behandling med diamantrondeller som gör golvet tåligare och lättare att städa."
+    },
+    {
+      "titel": "Terrazzo och marmor",
+      "ikon": "stjarna",
+      "href": "verksamhet.html",
+      "text": "Slipning, kristallisering och impregnering av sten i trapphus och entréer."
+    },
+    {
+      "titel": "Betongpolering",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Diamantslipad och polerad betong för lager, butiker och showroom."
+    },
+    {
+      "titel": "Textila mattor",
+      "ikon": "vatten",
+      "href": "verksamhet.html",
+      "text": "Djuprengöring med varmvattenextraktion och fläckbehandling."
+    },
+    {
+      "titel": "Trägolv och parkett",
+      "ikon": "trad",
+      "href": "verksamhet.html",
+      "text": "Rengöring och underhållsolja av parkett i skolor, gymnastiksalar och kontor."
+    },
+    {
+      "titel": "Lokalvård",
+      "ikon": "kontor",
+      "href": "verksamhet.html",
+      "text": "Daglig städning av kontor, vårdlokaler och skolor med samma omsorg om golven."
+    },
+    {
+      "titel": "Golvinventering",
+      "ikon": "sok",
+      "href": "verksamhet.html",
+      "text": "Vi besiktar golven i hela fastighetsbeståndet och lämnar en underhållsplan."
+    },
+    {
+      "titel": "Provyta utan kostnad",
+      "ikon": "dokument",
+      "href": "om-oss.html#kontakt",
+      "text": "Vi behandlar en kvadratmeter så att ni ser skillnaden innan ni bestämmer er."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Golvvård i offentliga lokaler", "text": "Ett linoleumgolv i en skolkorridor kan hålla i 40 år eller vara slitet efter tio. Skillnaden är underhållet. Vi slipar bort gammal polish och behandlar golvet mekaniskt med diamantrondeller, så att ytan blir hård och tät.", "text2": "Vi arbetar kvällar, helger och skollov så att verksamheten inte störs.", "tagg": "golv"},
-    {"titel": "Sten och terrazzo", "text": "Entréer och trapphus med terrazzo eller kalksten blir matta och repiga av sand. Vi slipar stegvis med diamant och avslutar med polering eller kristallisering.", "text2": "Kalkstensgolv impregneras så att fläckar från kaffe och salt inte tränger in.", "tagg": "sten"},
-    {"titel": "Betong och industri", "text": "Polerad betong är slitstarkt, lätt att städa och binder inte damm. Vi slipar och polerar både nya och gamla betonggolv i lager, verkstäder och butiker.", "text2": "Med dammfri slipning kan vi arbeta i lokaler som är igång.", "tagg": "industri"},
-    {"titel": "Lokalvård med golvfokus", "text": "Hos våra lokalvårdskunder använder vi städmetoder och medel som är anpassade efter golvet, så att underhållsbehandlingen håller längre.", "text2": "Lokalvårdarna och golvvårdarna sitter i samma lag och lämnar över till varandra.", "tagg": "stadning"}
+    {
+      "titel": "Golvvård i offentliga lokaler",
+      "text": "Ett linoleumgolv i en skolkorridor kan hålla i 40 år eller vara slitet efter tio. Skillnaden är underhållet. Vi slipar bort gammal polish och behandlar golvet mekaniskt med diamantrondeller, så att ytan blir hård och tät.",
+      "text2": "Vi arbetar kvällar, helger och skollov så att verksamheten inte störs.",
+      "tagg": "golv"
+    },
+    {
+      "titel": "Sten och terrazzo",
+      "text": "Entréer och trapphus med terrazzo eller kalksten blir matta och repiga av sand. Vi slipar stegvis med diamant och avslutar med polering eller kristallisering.",
+      "text2": "Kalkstensgolv impregneras så att fläckar från kaffe och salt inte tränger in.",
+      "tagg": "sten"
+    },
+    {
+      "titel": "Betong och industri",
+      "text": "Polerad betong är slitstarkt, lätt att städa och binder inte damm. Vi slipar och polerar både nya och gamla betonggolv i lager, verkstäder och butiker.",
+      "text2": "Med dammfri slipning kan vi arbeta i lokaler som är igång.",
+      "tagg": "industri"
+    },
+    {
+      "titel": "Lokalvård med golvfokus",
+      "text": "Hos våra lokalvårdskunder använder vi städmetoder och medel som är anpassade efter golvet, så att underhållsbehandlingen håller längre.",
+      "text2": "Lokalvårdarna och golvvårdarna sitter i samma lag och lämnar över till varandra.",
+      "tagg": "stadning"
+    }
   ],
   "bolag": [
-    {"namn": "Golvlaget", "segment": "9 golvvårdare", "rubrik": "Maskinerna och diamanterna", "text": "Slipning, polering och behandling av alla golvtyper, mest kvällar och lov.", "tagg": "golv"},
-    {"namn": "Lokalvården", "segment": "8 lokalvårdare", "rubrik": "Dagligt underhåll", "text": "Skolor, vårdcentraler och kontor i Jönköping, Huskvarna och Tenhult.", "tagg": "stadning"},
-    {"namn": "Kontor och planering", "segment": "2 medarbetare", "rubrik": "Underhållsplaner för fastighetsägare", "text": "Golvinventeringar, offerter och schemaläggning av alla lovveckor.", "tagg": "kontor"}
+    {
+      "namn": "Golvlaget",
+      "segment": "9 golvvårdare",
+      "rubrik": "Maskinerna och diamanterna",
+      "text": "Slipning, polering och behandling av alla golvtyper, mest kvällar och lov.",
+      "tagg": "golv"
+    },
+    {
+      "namn": "Lokalvården",
+      "segment": "8 lokalvårdare",
+      "rubrik": "Dagligt underhåll",
+      "text": "Skolor, vårdcentraler och kontor i Jönköping, Huskvarna och Tenhult.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Kontor och planering",
+      "segment": "2 medarbetare",
+      "rubrik": "Underhållsplaner för fastighetsägare",
+      "text": "Golvinventeringar, offerter och schemaläggning av alla lovveckor.",
+      "tagg": "kontor"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Sportlovet i sju skolor", "text": "9 400 kvadratmeter linoleum behandlades på en vecka med tre maskinlag i skift.", "tagg": "golv"},
-    {"rubrik": "Terrazzon på Västra Storgatan", "text": "Entrén i ett hus från 1958 slipades och polerades – och fick tillbaka sitt ursprungliga mönster.", "tagg": "sten"},
-    {"rubrik": "Fem år som medarbetarägt", "text": "Alla 19 delägare fick utdelning för femte året i rad.", "tagg": "people"}
+    {
+      "rubrik": "Sportlovet i sju skolor",
+      "text": "9 400 kvadratmeter linoleum behandlades på en vecka med tre maskinlag i skift.",
+      "tagg": "golv"
+    },
+    {
+      "rubrik": "Terrazzon på Västra Storgatan",
+      "text": "Entrén i ett hus från 1958 slipades och polerades – och fick tillbaka sitt ursprungliga mönster.",
+      "tagg": "sten"
+    },
+    {
+      "rubrik": "Fem år som medarbetarägt",
+      "text": "Alla 19 delägare fick utdelning för femte året i rad.",
+      "tagg": "people"
+    }
   ],
   "nyckeltal": [
-    {"varde": "19", "enhet": "delägare", "etikett": "Alla anställda äger lika mycket"},
-    {"varde": "1994", "enhet": "", "etikett": "Grundat av Rolf Axelsson"},
-    {"varde": "40 år", "enhet": "", "etikett": "Livslängd på väl skött linoleum"},
-    {"varde": "0", "enhet": "liter polish", "etikett": "Sedan vi gick över till diamant 2015"}
+    {
+      "varde": "19",
+      "enhet": "delägare",
+      "etikett": "Alla anställda äger lika mycket"
+    },
+    {
+      "varde": "1994",
+      "enhet": "",
+      "etikett": "Grundat av Rolf Axelsson"
+    },
+    {
+      "varde": "40 år",
+      "enhet": "",
+      "etikett": "Livslängd på väl skött linoleum"
+    },
+    {
+      "varde": "0",
+      "enhet": "liter polish",
+      "etikett": "Sedan vi gick över till diamant 2015"
+    }
   ],
   "projekt": [
-    {"namn": "Grundskolor på Öster", "ort": "Jönköping", "typ": "Polishfri golvvård", "ar": "2026", "text": "Sju skolor och 9 400 kvadratmeter linoleum behandlade under sportlovet.", "tagg": "golv"},
-    {"namn": "Västra Storgatan 22", "ort": "Jönköping", "typ": "Slipning av terrazzo", "ar": "2025", "text": "Entré och trapphus från 1958 slipade i fem steg och polerade.", "tagg": "sten"},
-    {"namn": "Huskvarna Vårdcentral", "ort": "Huskvarna", "typ": "Lokalvård och golvvård", "ar": "2026", "text": "Daglig lokalvård och polishfri behandling av vinylgolv två gånger per år.", "tagg": "stadning", "status": "Pågående"},
-    {"namn": "Möbellager i Torsvik", "ort": "Jönköping", "typ": "Betongpolering", "ar": "2025", "text": "6 200 kvadratmeter betong slipad och polerad medan lagret var i drift.", "tagg": "industri"},
-    {"namn": "Äldreboendet Strandängen", "ort": "Jönköping", "typ": "Golvinventering", "ar": "2025", "text": "Besiktning av 3 800 kvadratmeter golv och tioårig underhållsplan.", "tagg": "golv"},
-    {"namn": "Tenhults Idrottshall", "ort": "Tenhult", "typ": "Parkettunderhåll", "ar": "2024", "text": "Djuprengöring och underhållsolja av sportgolv under sommaruppehållet.", "tagg": "golv"}
+    {
+      "namn": "Grundskolor på Öster",
+      "ort": "Jönköping",
+      "typ": "Polishfri golvvård",
+      "ar": "2026",
+      "text": "Sju skolor och 9 400 kvadratmeter linoleum behandlade under sportlovet.",
+      "tagg": "golv"
+    },
+    {
+      "namn": "Västra Storgatan 22",
+      "ort": "Jönköping",
+      "typ": "Slipning av terrazzo",
+      "ar": "2025",
+      "text": "Entré och trapphus från 1958 slipade i fem steg och polerade.",
+      "tagg": "sten"
+    },
+    {
+      "namn": "Huskvarna Vårdcentral",
+      "ort": "Huskvarna",
+      "typ": "Lokalvård och golvvård",
+      "ar": "2026",
+      "text": "Daglig lokalvård och polishfri behandling av vinylgolv två gånger per år.",
+      "tagg": "stadning",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Möbellager i Torsvik",
+      "ort": "Jönköping",
+      "typ": "Betongpolering",
+      "ar": "2025",
+      "text": "6 200 kvadratmeter betong slipad och polerad medan lagret var i drift.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Äldreboendet Strandängen",
+      "ort": "Jönköping",
+      "typ": "Golvinventering",
+      "ar": "2025",
+      "text": "Besiktning av 3 800 kvadratmeter golv och tioårig underhållsplan.",
+      "tagg": "golv"
+    },
+    {
+      "namn": "Tenhults Idrottshall",
+      "ort": "Tenhult",
+      "typ": "Parkettunderhåll",
+      "ar": "2024",
+      "text": "Djuprengöring och underhållsolja av sportgolv under sommaruppehållet.",
+      "tagg": "golv"
+    }
   ],
   "process": [
-    {"titel": "Inventering", "text": "Vi besiktar golven, mäter slitage och tar reda på vad som har använts tidigare.", "tagg": "golv"},
-    {"titel": "Provyta", "text": "En kvadratmeter behandlas utan kostnad så att ni ser resultatet.", "tagg": "golv"},
-    {"titel": "Behandling på lov", "text": "Vi planerar in golvvården på kvällar, helger och lov, i ett lag med egna maskiner.", "tagg": "stadning"},
-    {"titel": "Underhållsplan", "text": "Ni får en plan för daglig städning och nästa behandling, rum för rum.", "tagg": "kontor"}
+    {
+      "titel": "Inventering",
+      "text": "Vi besiktar golven, mäter slitage och tar reda på vad som har använts tidigare.",
+      "tagg": "golv"
+    },
+    {
+      "titel": "Provyta",
+      "text": "En kvadratmeter behandlas utan kostnad så att ni ser resultatet.",
+      "tagg": "golv"
+    },
+    {
+      "titel": "Behandling på lov",
+      "text": "Vi planerar in golvvården på kvällar, helger och lov, i ett lag med egna maskiner.",
+      "tagg": "stadning"
+    },
+    {
+      "titel": "Underhållsplan",
+      "text": "Ni får en plan för daglig städning och nästa behandling, rum för rum.",
+      "tagg": "kontor"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Det mest hållbara golvet är det som inte byts",
     "text": "Ett nytt linoleumgolv i en skola kostar runt 900 kronor per kvadratmeter och ger avfall och transporter. Med rätt underhåll kan det befintliga golvet ligga kvar i decennier till, och vi har slutat med polish och strippningsmedel helt.",
-    "mal": [["0 liter", "polish och strippningsmedel"], ["40 år", "målsatt livslängd för golv vi sköter"], ["100 %", "elektriska golvmaskiner 2027"]]
+    "mal": [
+      [
+        "0 liter",
+        "polish och strippningsmedel"
+      ],
+      [
+        "40 år",
+        "målsatt livslängd för golv vi sköter"
+      ],
+      [
+        "100 %",
+        "elektriska golvmaskiner 2027"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Bli delägare från första året",
     "text": "Alla som har varit anställda i ett år erbjuds att köpa en andel i företaget till samma pris som de andra. Du lär dig golvvård från grunden, med maskinutbildning och diamantslipning.",
-    "jobb": [["Golvvårdare", "Jönköping"], ["Lokalvårdare vårdcentral", "Huskvarna"]]
+    "jobb": [
+      [
+        "Golvvårdare",
+        "Jönköping"
+      ],
+      [
+        "Lokalvårdare vårdcentral",
+        "Huskvarna"
+      ]
+    ]
   },
   "kultur": "Årsstämman hålls i lokalen i Huskvarna, och alla delägare röstar om hur vinsten ska användas.",
-  "citat": {"text": "Jag tänkte sälja till en koncern, men insåg att de som kunde golven bäst redan jobbade här. Så jag sålde till dem.", "namn": "Rolf Axelsson", "roll": "Grundare, i dag styrelseledamot", "tagg": "people"},
+  "citat": {
+    "text": "Jag tänkte sälja till en koncern, men insåg att de som kunde golven bäst redan jobbade här. Så jag sålde till dem.",
+    "namn": "Rolf Axelsson",
+    "roll": "Grundare, i dag styrelseledamot",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Vi hade budgeterat för nya golv i tre skolor. Efter behandlingen sköt vi upp bytet minst tio år.", "namn": "Lars-Erik M.", "ort": "Jönköping"},
-    {"text": "Terrazzon i entrén var grå och matt. Nu syns stenarna igen, precis som när huset byggdes.", "namn": "Eva G.", "ort": "Västra Storgatan"},
-    {"text": "De slipade betongen medan vi hade lagret igång. Ingen damm på möblerna, inga stopp.", "namn": "Kristoffer B.", "ort": "Torsvik"}
+    {
+      "text": "Vi hade budgeterat för nya golv i tre skolor. Efter behandlingen sköt vi upp bytet minst tio år.",
+      "namn": "Lars-Erik M.",
+      "ort": "Jönköping"
+    },
+    {
+      "text": "Terrazzon i entrén var grå och matt. Nu syns stenarna igen, precis som när huset byggdes.",
+      "namn": "Eva G.",
+      "ort": "Västra Storgatan"
+    },
+    {
+      "text": "De slipade betongen medan vi hade lagret igång. Ingen damm på möblerna, inga stopp.",
+      "namn": "Kristoffer B.",
+      "ort": "Torsvik"
+    }
   ],
   "faq": [
-    ["Vad är polishfri golvvård?", "I stället för att lägga polish på golvet slipar vi ytan med diamantrondeller. Golvet blir hårt, tätt och blankt av sig självt och behöver aldrig strippas."],
-    ["Hur lång tid tar det?", "En skolkorridor på 300 kvadratmeter tar en kväll. Golvet kan beträdas direkt efteråt."],
-    ["Fungerar det på alla golv?", "På linoleum, vinyl, gummi, sten och betong. Trägolv och textilmattor behandlar vi med andra metoder."],
-    ["Vad kostar golvvård?", "Polishfri behandling av linoleum kostar från 38 kronor per kvadratmeter exklusive moms vid större ytor. Vi lämnar fast pris efter provyta."],
-    ["Kan ni städa våra lokaler dagligen också?", "Ja. Vi gör lokalvård åt skolor, vårdcentraler och kontor i Jönköping, Huskvarna och Tenhult."],
-    ["Vad betyder det att ni är medarbetarägda?", "Att alla anställda äger företaget i lika delar. Den som slipar ditt golv har del i om du blir nöjd."],
-    ["Arbetar ni utanför Jönköping?", "Golvvård gör vi i hela Jönköpings län och runt Vättern, till Gränna, Vaggeryd och Habo."]
+    [
+      "Vad är polishfri golvvård?",
+      "I stället för att lägga polish på golvet slipar vi ytan med diamantrondeller. Golvet blir hårt, tätt och blankt av sig självt och behöver aldrig strippas."
+    ],
+    [
+      "Hur lång tid tar det?",
+      "En skolkorridor på 300 kvadratmeter tar en kväll. Golvet kan beträdas direkt efteråt."
+    ],
+    [
+      "Fungerar det på alla golv?",
+      "På linoleum, vinyl, gummi, sten och betong. Trägolv och textilmattor behandlar vi med andra metoder."
+    ],
+    [
+      "Vad kostar golvvård?",
+      "Polishfri behandling av linoleum kostar från 38 kronor per kvadratmeter exklusive moms vid större ytor. Exakt pris får ni när provytan är gjord."
+    ],
+    [
+      "Kan ni städa våra lokaler dagligen också?",
+      "Ja. Vi gör lokalvård åt skolor, vårdcentraler och kontor i Jönköping, Huskvarna och Tenhult."
+    ],
+    [
+      "Vad betyder det att ni är medarbetarägda?",
+      "Att alla anställda äger företaget i lika delar. Den som slipar ditt golv har del i om du blir nöjd."
+    ],
+    [
+      "Arbetar ni utanför Jönköping?",
+      "Golvvård gör vi i hela Jönköpings län och runt Vättern, till Gränna, Vaggeryd och Habo."
+    ]
   ],
   "certifikat": [
-    {"titel": "Golvvårdsutbildning", "text": "Golvvårdarna har yrkesutbildning i golvvård och maskinhantering via SRY.", "ikon": "lov"},
-    {"titel": "INSTA 800", "text": "Lokalvårdens kvalitet mäts enligt INSTA 800 hos alla avtalskunder.", "ikon": "sok"},
-    {"titel": "Kollektivavtal", "text": "Serviceentreprenadavtalet för alla anställda och delägare.", "ikon": "folk"},
-    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem sedan 2019.", "ikon": "skold"}
+    {
+      "titel": "Golvvårdsutbildning",
+      "text": "Golvvårdarna har yrkesutbildning i golvvård och maskinhantering via SRY.",
+      "ikon": "lov"
+    },
+    {
+      "titel": "Kvalitet enligt INSTA 800",
+      "text": "Lokalvårdens kvalitet mäts enligt INSTA 800 hos alla avtalskunder.",
+      "ikon": "sok"
+    },
+    {
+      "titel": "Avtal för delägarna",
+      "text": "Serviceentreprenadavtalet för alla anställda och delägare.",
+      "ikon": "folk"
+    },
+    {
+      "titel": "ISO 14001",
+      "text": "Certifierat miljöledningssystem sedan 2019.",
+      "ikon": "skold"
+    }
   ],
-  "kunder": ["Jönköpings Skolfastigheter", "Huskvarna Vårdcentral", "Äldreboendet Strandängen", "Västra Storgatans Fastighets AB", "Torsviks Möbellager", "Tenhults Idrottsförening", "Brf Munksjöstranden", "Gränna Kyrkliga Samfällighet"],
+  "kunder": [
+    "Jönköpings Skolfastigheter",
+    "Huskvarna Vårdcentral",
+    "Äldreboendet Strandängen",
+    "Västra Storgatans Fastighets AB",
+    "Torsviks Möbellager",
+    "Tenhults Idrottsförening",
+    "Brf Munksjöstranden",
+    "Gränna Kyrkliga Samfällighet"
+  ],
   "nyheter": [
-    ["2026-10-01", "Boka golvvård till jullovet", "Vi har två maskinlag lediga mellan jul och nyår.", "golv"],
-    ["2026-04-28", "Femte året som medarbetarägt", "Rekordår 2025 – och två nya delägare i Golvlaget.", "people"],
-    ["2025-12-02", "Därför ska du sluta med polish", "Om strippning, halkrisk och vad det kostar över tio år.", "golv"]
+    [
+      "2026-10-01",
+      "Boka golvvård till jullovet",
+      "Vi har två maskinlag lediga mellan jul och nyår.",
+      "golv"
+    ],
+    [
+      "2026-04-28",
+      "Femte året som medarbetarägt",
+      "Rekordår 2025 – och två nya delägare i Golvlaget.",
+      "people"
+    ],
+    [
+      "2025-12-02",
+      "Därför ska du sluta med polish",
+      "Om strippning, halkrisk och vad det kostar över tio år.",
+      "golv"
+    ]
   ],
-  "kontakt": {"adress": "Jutagatan 7", "postnr": "561 31", "ort": "Huskvarna", "telefon": "070-174 06 20", "epost": "golv@vatternsgolvvard.se", "orgnr": ""},
-  "oppettider": "Kontoret mån–fre 7–16, golvlaget även kvällar och helger",
+  "kontakt": {
+    "adress": "Jutagatan 7",
+    "postnr": "561 31",
+    "ort": "Huskvarna",
+    "telefon": "070-174 06 20",
+    "epost": "golv@vatternsgolvvard.se",
+    "orgnr": ""
+  },
+  "oppettider": "Kontoret vardagar 7.30–16, golvlaget även kvällar och helger",
   "omrade": "Jönköping, Huskvarna, Tenhult, Gränna, Habo och Vaggeryd",
   "fot_cta": "Låt oss behandla en kvadratmeter av ert golv – utan kostnad.",
-  "bild": {"panel": "golv", "hb": "golv"},
+  "bild": {
+    "panel": "golv",
+    "hb": "golv"
+  },
   "text": {
     "hero_knapp": "Golv vi behandlar",
     "kontakt_knapp": "Boka provyta",
@@ -116,8 +391,13 @@
     "omdomen_rubrik": "Fastighetsägarna om resultatet",
     "faq_rubrik": "Frågor om golv och underhåll",
     "boka_rubrik": "Boka en provyta",
-    "boka_text": "Berätta vilken typ av golv det gäller och hur stor ytan är, så kommer vi ut och behandlar en provyta.",
-    "boka_falt": ["Namn", "Telefon", "Fastighet och adress", "Golvtyp och yta"],
+    "boka_text": "Skriv golvtyp och ungefärlig yta i kvadratmeter, så kommer vi ut och behandlar en provyta.",
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "Fastighet och adress",
+      "Golvtyp och yta"
+    ],
     "logos_rubrik": "Golv vi sköter",
     "certifikat_rubrik": "Utbildning och kvalitetsmätning",
     "bolag_rubrik": "Golvlaget och lokalvården",

@@ -1,0 +1,137 @@
+{
+  "profil": "nisch",
+  "nisch": "trafikskola",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kvällskörskolan i Sundsvall AB",
+  "kortnamn": "Kvällskörskolan",
+  "slug": "kvallskorskolan",
+  "typ": "Trafikskola för skiftarbetare i Sundsvall",
+  "tagline": "Öppet 05.30–22.00",
+  "slogan": "Vi började med kvällslektioner för skiftarbetarna på bruken – i dag kör vi alla dagar mellan halv sex och tio, och har provbil på jour.",
+  "hero_rubrik": "Körlektion efter nattskiftet? Visst.",
+  "hero_text": "B-körkort i Sundsvall, Timrå och Njurunda med lektioner 05.30–22.00 alla dagar. Samma pris klockan sex på morgonen som mitt på dagen.",
+  "intro_rubrik": "Fjorton år på skiftarbetarnas tider",
+  "om": [
+    "Hampus Edlund jobbade treskift på pappersbruket på Alnö i nio år och försökte ta körkort samtidigt. Varje trafikskola i stan stängde klockan 17. När han blev trafiklärare 2012 startade han Kvällskörskolan med en bil och lektioner mellan 18 och 22.",
+    "I dag är vi 18 anställda med tolv bilar och kör alla dagar mellan 05.30 och 22.00. Ungefär hälften av eleverna arbetar skift – på bruken, smältverket, sjukhuset eller i hemtjänsten – och resten är gymnasieelever och föräldrar som vill köra när barnen sover."
+  ],
+  "vagval_rubrik": "När kan du köra?",
+  "tjanster": [
+    {"titel": "Tidiga lektioner", "ikon": "sol", "href": "verksamhet.html", "text": "Från 05.30 – före dagskiftet eller direkt efter natten."},
+    {"titel": "Kvällslektioner", "ikon": "lampa", "href": "verksamhet.html", "text": "Till 22.00 alla dagar, med mörkerkörning halva året."},
+    {"titel": "Helglektioner", "ikon": "kalender", "href": "verksamhet.html", "text": "Lördag och söndag till samma pris som vardagar."},
+    {"titel": "Provbilsjouren", "ikon": "nyckel", "href": "verksamhet.html", "text": "Skolans bil till körprovet med 24 timmars varsel."},
+    {"titel": "Skiftpaketet", "ikon": "kugge", "href": "verksamhet.html", "text": "Lektioner som följer ditt skiftschema, vecka för vecka."},
+    {"titel": "Riskettan", "ikon": "skold", "href": "verksamhet.html", "text": "Riskettan på söndagar och två kvällar i månaden."},
+    {"titel": "Handledarkurs", "ikon": "folk", "href": "verksamhet.html", "text": "Introduktionsutbildning kvällstid 18–21 i Sundsvall och Timrå."},
+    {"titel": "Avbokade tider", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Lediga tider släpps i appen varje kväll klockan 20."}
+  ],
+  "affarsomraden": [
+    {"titel": "Lektioner efter ditt schema", "text": "Skicka ditt skiftschema så lägger vi lektionerna efter det, vecka för vecka. Kör du natt bokar vi direkt efter skiftet eller sent på eftermiddagen när du har sovit.", "text2": "Vi kör aldrig med en elev som kommer direkt från ett pass längre än tio timmar.", "tagg": "korskola"},
+    {"titel": "Mörker och vinterväg", "text": "Kvällslektionerna mellan oktober och mars blir mörkerkörning automatiskt. Eleverna lär sig helljus, vilt och halka på E4 mot Timrå och vägarna ut mot Alnö.", "text2": "Mörkerkörning ingår alltid i provlektionen under vinterhalvåret.", "tagg": "stad"},
+    {"titel": "Provbilsjouren", "text": "Har du fått en avbokad provtid hos Trafikverket med kort varsel ser vi till att det finns en bil och en uppvärmningslektion. Ring jourtelefonen så svarar vi även på kvällar och helger.", "text2": "Kräver att du har haft minst fem lektioner hos oss.", "tagg": "korskola"},
+    {"titel": "Arbetsgivare med skift", "text": "Vi utbildar grupper åt arbetsgivare med skiftarbete, så att personalen kan ta körkort utan att byta pass. Lektionerna läggs i anslutning till skiftbytet vid grinden.", "text2": "Hämtning vid industrigrindar i Sundsvall och Timrå.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Morgonlaget", "segment": "05.30–13.00", "rubrik": "Fem lärare som gillar gryningen", "text": "Tar eleverna före dagskiftet och direkt efter nattskiftet.", "tagg": "korskola"},
+    {"namn": "Kvällslaget", "segment": "13.00–22.00", "rubrik": "Sju lärare och mörker", "text": "Kör gymnasieelever på eftermiddagen och skiftarbetare på kvällen.", "tagg": "stad"},
+    {"namn": "Jourtelefonen", "segment": "Provbil och ombokning", "rubrik": "Svarar till 22 varje dag", "text": "Ordnar provbil, flyttar lektioner när skiftet ändras och släpper avbokade tider.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Söndagsriskettan fulltecknad", "text": "Riskettan på söndagar har varit full sedan i våras – vi lägger till ett pass varannan torsdag kväll.", "tagg": "people"},
+    {"rubrik": "38 provbilar på jour i år", "text": "Så många elever har fått en avbokad provtid med kort varsel och lånat vår bil.", "tagg": "korskola"},
+    {"rubrik": "Timrå får egen bil", "text": "En lärare och en bil utgår nu från Timrå, för att korta restiden för eleverna i norr.", "tagg": "stad"}
+  ],
+  "nyckeltal": [
+    {"varde": "05.30", "enhet": "", "etikett": "Första lektionen"},
+    {"varde": "22.00", "enhet": "", "etikett": "Sista lektionen"},
+    {"varde": "7", "enhet": "dagar", "etikett": "I veckan, samma pris"},
+    {"varde": "51 %", "enhet": "", "etikett": "Av eleverna jobbar skift"}
+  ],
+  "projekt": [
+    {"namn": "Region Västernorrland, ambulansen", "ort": "Sundsvall", "typ": "B-körkort, grupp", "ar": "2026", "text": "Åtta ambulanssjuksköterskor i treskift tar körkort inför C1-utbildningen.", "tagg": "korskola", "status": "Pågående"},
+    {"namn": "Matfors Sågverk", "ort": "Matfors", "typ": "Skiftpaket", "ar": "2025", "text": "Elva sågverksarbetare tog körkort med lektioner vid skiftbytet.", "tagg": "industri"},
+    {"namn": "Timrå kommun, hemtjänsten", "ort": "Timrå", "typ": "B-körkort, grupp", "ar": "2025", "text": "Sexton medarbetare på kväll och natt fick körkort på ett år.", "tagg": "stad"},
+    {"namn": "Njurunda Åkeri", "ort": "Njurunda", "typ": "B96 och BE", "ar": "2025", "text": "Släpbehörighet för sex lagerarbetare, på lördagsmorgnar.", "tagg": "korskola"},
+    {"namn": "Kvissleby Bemanning", "ort": "Kvissleby", "typ": "Riskettan", "ar": "2024", "text": "Riskettan på söndagar för bemanningsföretagets skiftpersonal.", "tagg": "people"},
+    {"namn": "Selångers Taxi", "ort": "Sundsvall", "typ": "Trafiksäkerhetskväll", "ar": "2024", "text": "Mörkerkörning och vilt i trafiken för nyanställda nattförare.", "tagg": "stad"}
+  ],
+  "process": [
+    {"titel": "Skicka ditt schema", "text": "Ladda upp skiftschemat i appen så ser vi vilka tider som passar.", "tagg": "kontor"},
+    {"titel": "Lektioner efter skiftet", "text": "Vi lägger lektionerna när du är utvilad – aldrig efter mer än tio timmars pass.", "tagg": "korskola"},
+    {"titel": "Risk på söndag", "text": "Riskettan på söndagar och halkbanan en lördagsmorgon.", "tagg": "people"},
+    {"titel": "Körprov med jourbil", "text": "Provlektion samma tid på dygnet som provet, och provbilen står redo.", "tagg": "stad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Trötthet är lika farligt som alkohol",
+    "text": "Den som har jobbat natt kör sämre, oavsett vad den tror själv. Därför frågar läraren alltid hur länge eleven har sovit, och vi ställer in lektionen utan kostnad om svaret är under fem timmar.",
+    "mal": [["5 h", "sömn som minimum före lektion"], ["0 kr", "för lektion som ställs in pga trötthet"], ["10 h", "längsta pass före en lektion"]]
+  },
+  "karriar": {
+    "rubrik": "Trafiklärare som vill jobba udda tider",
+    "text": "Vi söker trafiklärare till morgon- och kvällslaget. OB-tillägg från 18.00 och på helger, fyradagarsvecka om du vill.",
+    "jobb": [["Trafiklärare B, morgon", "Sundsvall"], ["Trafiklärare B, kväll", "Timrå"]]
+  },
+  "kultur": "Morgonlaget och kvällslaget möts klockan 13 varje dag över en kopp kaffe och lämnar över elever och bilar.",
+  "citat": {"text": "Jag vet hur det är att sitta i fikarummet klockan tre på natten och tänka att körkort är för folk med vanliga jobb. Det är det inte.", "namn": "Hampus Edlund", "roll": "Grundare och trafiklärare", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Jag körde lektioner klockan sex på morgonen efter nattskiftet. Ingen annan skola hade ens svarat i telefon då.", "namn": "Daniel O.", "ort": "Alnö"},
+    {"text": "Fick en avbokad provtid på torsdag kväll och körde upp på fredag morgon i deras bil. Godkänd.", "namn": "Emelie S.", "ort": "Timrå"},
+    {"text": "Våra nattsköterskor tar körkort utan att behöva byta pass. Det trodde jag inte var möjligt.", "namn": "Kristina H., enhetschef", "ort": "Sundsvall"}
+  ],
+  "faq": [
+    ["Kostar tidiga och sena lektioner mer?", "Nej, en lektion kostar 690 kronor oavsett tid och dag."],
+    ["Hur fungerar provbilsjouren?", "Ring jourtelefonen när du fått en provtid. Vi ordnar bil och en uppvärmningslektion, även med ett dygns varsel, om du har kört minst fem lektioner hos oss."],
+    ["Mitt schema ändras hela tiden – går det ändå?", "Ja. Du kan flytta lektioner i appen fram till klockan 20 kvällen före utan kostnad."],
+    ["Varför ställer ni in om jag har sovit för lite?", "För att trötthet påverkar körningen på samma sätt som alkohol. Det är dessutom ett av riskettans viktigaste ämnen."],
+    ["Har ni riskutbildning på helger?", "Riskettan går söndagar 9–12 och varannan torsdag 18–21. Halkbanan kör vi lördagsmorgnar."],
+    ["Hämtar ni vid jobbet?", "Ja, vid industrigrindar, sjukhuset och arbetsplatser i Sundsvall och Timrå."]
+  ],
+  "priser": [
+    {"namn": "Lektion", "pris": "690 kr", "enhet": "per 40 minuter", "text": "Samma pris 05.30 som 21.20.", "punkter": ["Alla dagar 05.30–22.00", "Hämtning vid jobbet", "Ombokning till kl. 20 kvällen före", "Mörkerkörning ingår vintertid"]},
+    {"namn": "Skiftpaketet", "pris": "9 950 kr", "enhet": "15 lektioner", "text": "Lektionerna läggs efter ditt skiftschema.", "punkter": ["15 lektioner à 40 minuter", "Schemaplanering varje vecka", "Riskettan på söndag", "Fri ombokning"], "utvald": true},
+    {"namn": "Provbilsjouren", "pris": "1 450 kr", "enhet": "per körprov", "text": "Bil och uppvärmning med kort varsel.", "punkter": ["Svar inom en timme", "Uppvärmningslektion 40 minuter", "Lån av bil till körprovet", "Även kvällar och helger"]}
+  ],
+  "certifikat": [
+    {"titel": "Trafikskoletillstånd", "text": "Tillstånd från Transportstyrelsen att bedriva trafikskola för behörighet B och BE.", "ikon": "dokument"},
+    {"titel": "Riskutbildning", "text": "Godkända att hålla riskettan, med halkbanan på godkänd bana i Västernorrland.", "ikon": "skold"},
+    {"titel": "Kollektivavtal", "text": "Kollektivavtal för alla anställda, med OB-tillägg för kvällar och helger.", "ikon": "folk"},
+    {"titel": "Medlem i STR", "text": "Medlem i Sveriges Trafikutbildares Riksförbund sedan 2013.", "ikon": "skola"}
+  ],
+  "kunder": ["Region Västernorrland, ambulansen", "Timrå kommun, hemtjänsten", "Matfors Sågverk AB", "Njurunda Åkeri AB", "Kvissleby Bemanning AB", "Selångers Taxi", "Brf Norra Stadsberget"],
+  "nyheter": [
+    ["2026-10-27", "Mörkerkörningen är tillbaka", "Från och med nu blir alla kvällslektioner mörkerkörning.", "stad"],
+    ["2026-08-20", "Timrå har fått en egen bil", "Lärare och bil utgår nu från Timrå centrum.", "korskola"],
+    ["2026-03-09", "Extra riskettor på torsdagar", "Söndagarna är fulla, så vi öppnar ett kvällspass varannan torsdag.", "people"]
+  ],
+  "kontakt": {"adress": "Södra vägen 41", "postnr": "852 39", "ort": "Sundsvall", "telefon": "070-174 06 71", "epost": "hej@kvallskorskolan.se", "orgnr": ""},
+  "oppettider": "Lektioner alla dagar 05.30–22 · Jourtelefon till 22",
+  "omrade": "Sundsvall, Timrå, Njurunda och Matfors",
+  "fot_cta": "Jobbar du skift? Skicka ditt schema så hittar vi tiderna.",
+  "bild": {"panel": "industri", "hb": "stad"},
+  "text": {
+    "kontakt_knapp": "Skicka schema",
+    "hero_knapp": "Våra tider",
+    "vagval_etikett": "Tider",
+    "ber_etikett": "Senaste veckorna",
+    "ber_rubrik": "Morgon, kväll och söndag",
+    "proj_etikett": "Arbetsgivare",
+    "proj_rubrik": "Skiftlag som fått körkort",
+    "process_etikett": "För skiftarbetare",
+    "process_rubrik": "Från schema till körprov",
+    "bolag_etikett": "Lagen",
+    "bolag_rubrik": "Två lag och en jourtelefon",
+    "hb_etikett": "Trötthet och säkerhet",
+    "priser_etikett": "Priser",
+    "priser_rubrik": "Samma pris dygnet runt",
+    "priser_utvald": "För skiftarbetare",
+    "omdomen_rubrik": "Nattskift, tidig morgon, godkänd",
+    "faq_rubrik": "Om tider, skift och provbil",
+    "boka_rubrik": "Skicka ditt skiftschema",
+    "boka_text": "Skriv vilket schema du går och var du jobbar, så föreslår vi tider för de kommande tre veckorna.",
+    "boka_falt": ["Namn", "Telefon", "Arbetsplats", "Skiftschema eller tider"],
+    "certifikat_rubrik": "Tillstånd och avtal",
+    "logos_rubrik": "Arbetsgivare med skift",
+    "medarbetare": "Morgon- och kvällslaget"
+  }
+}

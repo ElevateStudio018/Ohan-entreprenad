@@ -1,0 +1,140 @@
+{
+  "profil": "nisch",
+  "nisch": "trafikskola",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Lugna Vägen Trafikskola AB",
+  "kortnamn": "Lugna Vägen",
+  "slug": "lugna-vagen",
+  "typ": "Trafikskola för nervösa elever i Umeå",
+  "tagline": "I din takt",
+  "slogan": "En liten trafikskola i Umeå för dig med körångest, NPF, dyslexi eller ett tidigare misslyckat körprov – med långa lektioner och samma lärare varje gång.",
+  "hero_rubrik": "Det är okej att vara rädd för att köra",
+  "hero_text": "Lugna lektioner på 60 minuter i Umeå för dig med körångest, adhd, autism eller dyslexi. Vi kör i lugna områden tills du själv vill vidare.",
+  "intro_rubrik": "Fyra personer, en bil i taget",
+  "om": [
+    "Malin Sjölund arbetade som specialpedagog på en gymnasieskola i Umeå i femton år och såg elev efter elev ge upp körkortet efter ett par stressiga lektioner. 2018 utbildade hon sig till trafiklärare och startade Lugna Vägen tillsammans med Erik Lindgren, som undervisat i trafik sedan 2004.",
+    "Vi är fyra anställda och har tre bilar, två av dem automatväxlade. Varje lärare har högst 25 elever, och alla lektioner är 60 minuter så att det finns tid för paus, frågor och att stanna bilen när det behövs."
+  ],
+  "vagval_rubrik": "Känner du igen dig?",
+  "tjanster": [
+    {"titel": "Körångest", "ikon": "hjarta", "href": "verksamhet.html", "text": "För dig som får hjärtklappning bara av att tänka på rondeller."},
+    {"titel": "NPF och körkort", "ikon": "lampa", "href": "verksamhet.html", "text": "Struktur, förutsägbarhet och tydliga instruktioner vid adhd och autism."},
+    {"titel": "Teori med stöd", "ikon": "skola", "href": "verksamhet.html", "text": "Bildstöd, uppläsning och korta pass för dig med dyslexi."},
+    {"titel": "Efter underkänt prov", "ikon": "upp", "href": "verksamhet.html", "text": "Vi går igenom vad som hände och bygger upp tryggheten igen."},
+    {"titel": "Prova-lektion", "ikon": "bil", "href": "verksamhet.html", "text": "45 minuter på en tom parkering, utan krav på att fortsätta."},
+    {"titel": "Riskettan i liten grupp", "ikon": "skold", "href": "verksamhet.html", "text": "Högst sex deltagare och pauser när det behövs."},
+    {"titel": "Handledarstöd", "ikon": "folk", "href": "verksamhet.html", "text": "Hjälp till föräldrar och partner som övningskör med en nervös elev."},
+    {"titel": "Ring Malin", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ett första samtal utan att du behöver bestämma något."}
+  ],
+  "affarsomraden": [
+    {"titel": "Körångest", "text": "Vi börjar där du är – ibland på en tom parkering vid Nydalasjön, ibland med att bara sitta i bilen och prata. Du bestämmer när vi tar nästa steg, och vi säger alltid i förväg vad som ska hända under lektionen.", "text2": "Ingen lektion i rusningstrafik förrän du själv vill.", "tagg": "korskola"},
+    {"titel": "Adhd, autism och andra NPF", "text": "Samma lärare, samma bil och samma upplägg varje gång. Du får lektionens plan skriftligt kvällen innan, och vi använder korta, tydliga instruktioner i stället för långa förklaringar under körningen.", "text2": "Både Malin och Erik har gått högskolekurs i neuropsykiatriska funktionsnedsättningar.", "tagg": "people"},
+    {"titel": "Dyslexi och teori", "text": "Teorin är ofta det stora hindret. Vi läser frågorna högt, använder bilder och hjälper dig att ansöka om anpassat kunskapsprov hos Trafikverket, till exempel med uppläsning eller förlängd tid.", "text2": "Teorin går vi igenom i korta pass om 30 minuter.", "tagg": "stad"},
+    {"titel": "När körprovet inte gick", "text": "Ett underkänt körprov kan sätta sig i kroppen. Vi går igenom provprotokollet tillsammans, kör samma sträckor i lugn takt och övar på hur det känns att ha en förarprövare bredvid sig.", "text2": "Många behöver bara fyra till sex lektioner innan nästa försök.", "tagg": "korskola"}
+  ],
+  "bolag": [
+    {"namn": "Malin Sjölund", "segment": "Grundare, trafiklärare", "rubrik": "Specialpedagog i femton år", "text": "Tar emot de flesta elever med körångest och NPF och håller i teorin med stöd.", "tagg": "people"},
+    {"namn": "Erik Lindgren", "segment": "Delägare, trafiklärare", "rubrik": "Tjugotvå år i passagerarsätet", "text": "Kör provlektioner och tar hand om elever som ska göra om körprovet.", "tagg": "korskola"},
+    {"namn": "Sofie och Arvid", "segment": "Trafiklärare", "rubrik": "Kvällar och lördagar", "text": "Sofie har automateleverna och Arvid de flesta riskettorna i liten grupp.", "tagg": "stad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Johan, 34, körde upp till slut", "text": "Han hade avbrutit två trafikskolor och ett körprov. Efter 41 lektioner hos oss blev han godkänd.", "tagg": "people"},
+    {"rubrik": "Ny automatbil", "text": "Vi har köpt en andra automatväxlad bil eftersom fler elever med NPF väljer automat.", "tagg": "korskola"},
+    {"rubrik": "Föräldrakväll i november", "text": "En kväll för föräldrar om att övningsköra med en orolig tonåring – utan att det blir bråk.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "60", "enhet": "minuter", "etikett": "Varje lektion"},
+    {"varde": "25", "enhet": "elever", "etikett": "Som mest per lärare"},
+    {"varde": "6", "enhet": "personer", "etikett": "Som mest på riskettan"},
+    {"varde": "2018", "enhet": "", "etikett": "Året vi startade"}
+  ],
+  "projekt": [
+    {"namn": "Umeå kommun, LSS", "ort": "Umeå", "typ": "B-körkort, individuellt", "ar": "2026", "text": "Körkort för fem unga vuxna med stöd från kommunens LSS-verksamhet.", "tagg": "korskola", "status": "Pågående"},
+    {"namn": "Ersboda folkhögskola", "ort": "Umeå", "typ": "Teori med stöd", "ar": "2025", "text": "Teorikurs med bildstöd för tolv deltagare på en allmän kurs.", "tagg": "people"},
+    {"namn": "Vännäs kommun", "ort": "Vännäs", "typ": "Riskettan, liten grupp", "ar": "2025", "text": "Två riskettor med fyra deltagare var för ungdomar i kommunens jobbprogram.", "tagg": "stad"},
+    {"namn": "Föräldrakvällar", "ort": "Umeå", "typ": "Handledarstöd", "ar": "2025", "text": "Fyra kvällar om att övningsköra med en nervös elev, 30 föräldrar per gång.", "tagg": "people"},
+    {"namn": "Holmsunds Bygg", "ort": "Holmsund", "typ": "Körångest", "ar": "2024", "text": "Två anställda som behövde köra i jobbet fick lektioner på arbetstid.", "tagg": "korskola"},
+    {"namn": "Brf Tomtebogård", "ort": "Umeå", "typ": "Prova-lektioner", "ar": "2024", "text": "En lördag med prova-lektioner på föreningens parkering.", "tagg": "stad"}
+  ],
+  "process": [
+    {"titel": "Ett samtal först", "text": "Du ringer eller mejlar Malin. Vi pratar om vad som är svårt – du behöver inte bestämma något.", "tagg": "people"},
+    {"titel": "Prova-lektion", "text": "45 minuter på en tom parkering, med din blivande lärare.", "tagg": "korskola"},
+    {"titel": "En plan i små steg", "text": "Varje lektion har ett mål som du får veta i förväg. Vi går vidare när du är redo.", "tagg": "kontor"},
+    {"titel": "Trygg inför provet", "text": "Provlektioner, genomgång av provsträckor och hjälp med anpassat prov hos Trafikverket.", "tagg": "stad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen ska behöva ge upp körkortet",
+    "text": "Körkort är ofta skillnaden mellan att få ett jobb eller inte, särskilt i Västerbotten. Därför tar vi bara så många elever att varje lärare hinner förbereda lektionen, och vi höjer aldrig rösten i bilen.",
+    "mal": [["25", "elever som mest per lärare"], ["100 %", "lektioner med plan i förväg"], ["0", "lektioner i rusningstrafik innan du vill"]]
+  },
+  "karriar": {
+    "rubrik": "Trafiklärare som har tålamod",
+    "text": "Vi söker en femte trafiklärare på deltid, gärna med erfarenhet från skola, vård eller LSS. Du får färre elever än på en vanlig skola och betald NPF-kurs första året.",
+    "jobb": [["Trafiklärare B, 60 %", "Umeå"]]
+  },
+  "kultur": "Varje elev får skriva ner tre saker som gör hen nervös i bilen – och vi läser dem före varje lektion.",
+  "citat": {"text": "Jag har aldrig träffat en elev som inte kunde lära sig köra. Däremot många som aldrig fått tillräckligt med tid.", "namn": "Malin Sjölund", "roll": "Grundare och trafiklärare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Jag har adhd och har alltid haft svårt med lärare som pratar för mycket. Malin säger en sak i taget. Godkänd på första försöket.", "namn": "Elin K.", "ort": "Umeå"},
+    {"text": "Efter två underkända körprov ville jag ge upp. Erik körde provsträckorna med mig tills jag kunde dem utan att tänka.", "namn": "Mohammed A.", "ort": "Holmsund"},
+    {"text": "Vår son är autist och behövde veta exakt vad som skulle hända. Han fick lektionsplanen kvällen innan varje gång.", "namn": "Anna och Per L.", "ort": "Vännäs"}
+  ],
+  "faq": [
+    ["Måste jag berätta om min diagnos?", "Nej. Men ju mer vi vet om vad som är svårt, desto bättre kan vi lägga upp lektionerna. Allt du berättar stannar hos din lärare."],
+    ["Kan jag få anpassat kunskapsprov?", "Ja, Trafikverket erbjuder anpassningar som uppläsning och förlängd provtid för dig med till exempel dyslexi. Vi hjälper dig med ansökan och intyg."],
+    ["Får jag ta med någon på lektionen?", "Ja, på de första lektionerna får en förälder, partner eller kontaktperson sitta i baksätet."],
+    ["Hur många lektioner behöver jag?", "Det varierar mer hos oss än på andra skolor. Vissa behöver 20, andra 50. Vi ger en uppskattning efter fem lektioner."],
+    ["Vad händer om jag får panik under en lektion?", "Då stannar vi bilen på ett säkert ställe och pratar. Lektionen fortsätter när du vill, eller slutar där."],
+    ["Har ni automatbilar?", "Ja, två av tre bilar är automatväxlade. Det minskar antalet saker att tänka på samtidigt."],
+    ["Kan kommunen eller Försäkringskassan betala?", "Ibland. Försäkringskassan kan ge bidrag till körkort för vissa personer med funktionsnedsättning. Vi hjälper dig att ta reda på vad som gäller."]
+  ],
+  "priser": [
+    {"namn": "Prova-lektion", "pris": "450 kr", "enhet": "45 minuter", "text": "På en tom parkering, utan krav på att fortsätta.", "punkter": ["Samtal före lektionen", "Med din blivande lärare", "Ingen trafik", "Dras av om du fortsätter"]},
+    {"namn": "Lugn start", "pris": "4 650 kr", "enhet": "5 lektioner à 60 minuter", "text": "De fem första lektionerna, med plan och uppskattning efteråt.", "punkter": ["Fem lektioner à 60 minuter", "Skriftlig plan före varje lektion", "Uppskattning av antal lektioner", "Följeslagare välkommen i baksätet"], "utvald": true},
+    {"namn": "Lektion", "pris": "990 kr", "enhet": "per 60 minuter", "text": "Med samma lärare varje gång.", "punkter": ["Plan kvällen innan", "Paus när du behöver", "Hämtning i Umeå", "Avbokning fram till dagen före"]}
+  ],
+  "prislista": [["Prova-lektion 45 min", "450 kr"], ["Lektion 60 min", "990 kr"], ["Riskettan, högst sex deltagare", "1 150 kr"], ["Teori med stöd, 30 min", "390 kr"], ["Handledarkurs, en familj", "1 400 kr"], ["Föräldrakväll", "250 kr"]],
+  "certifikat": [
+    {"titel": "Trafikskoletillstånd", "text": "Tillstånd från Transportstyrelsen att bedriva trafikskola för behörighet B.", "ikon": "dokument"},
+    {"titel": "Riskutbildning", "text": "Godkända att hålla riskettan, med halkbanan på godkänd bana i Umeå.", "ikon": "skold"},
+    {"titel": "NPF-utbildade lärare", "text": "Alla fyra lärare har läst högskolekurs om neuropsykiatriska funktionsnedsättningar, 7,5 hp.", "ikon": "skola"},
+    {"titel": "Medlem i STR", "text": "Medlem i Sveriges Trafikutbildares Riksförbund sedan starten 2018.", "ikon": "folk"}
+  ],
+  "kunder": ["Umeå kommun, LSS", "Vännäs kommun", "Ersboda folkhögskola", "Holmsunds Bygg AB", "Brf Tomtebogård", "Ålidhems Fritidsgård"],
+  "nyheter": [
+    ["2026-10-19", "Föräldrakväll 19 november", "Så övningskör du med en orolig tonåring – utan bråk i bilen.", "people"],
+    ["2026-06-10", "Johan körde upp till slut", "Efter två avbrutna försök och ett underkänt prov blev han godkänd i maj.", "korskola"],
+    ["2026-01-22", "Så ansöker du om anpassat kunskapsprov", "Steg för steg till uppläsning eller förlängd tid hos Trafikverket.", "stad"]
+  ],
+  "kontakt": {"adress": "Kungsgatan 62", "postnr": "903 30", "ort": "Umeå", "telefon": "070-174 06 92", "epost": "malin@lugnavagen.se", "orgnr": ""},
+  "oppettider": "Lektioner mån–fre 8–19, lör 10–14 · Telefon mån–tors 9–12",
+  "omrade": "Umeå, Holmsund och Vännäs",
+  "fot_cta": "Ring Malin för ett första samtal – du behöver inte bestämma något.",
+  "bild": {"panel": "people", "hb": "korskola"},
+  "text": {
+    "kontakt_knapp": "Ring Malin",
+    "hero_knapp": "Hur vi arbetar",
+    "vagval_etikett": "För dig som",
+    "ber_etikett": "Från skolan",
+    "ber_rubrik": "Små steg som blev körkort",
+    "proj_etikett": "Samarbeten",
+    "proj_rubrik": "Kommuner och skolor vi samarbetar med",
+    "process_etikett": "Steg för steg",
+    "process_rubrik": "Du bestämmer tempot",
+    "bolag_etikett": "Vi är fyra",
+    "bolag_rubrik": "Lärarna du kommer att träffa",
+    "hb_etikett": "Vårt löfte",
+    "priser_etikett": "Priser",
+    "priser_rubrik": "Börja med en prova-lektion",
+    "priser_utvald": "Bra start",
+    "priser_not": "Alla priser inklusive moms. Trafikverkets provavgifter tillkommer.",
+    "omdomen_rubrik": "Elever som trodde att de aldrig skulle köra",
+    "faq_rubrik": "Det du kanske undrar men inte vill fråga",
+    "boka_rubrik": "Börja med ett samtal",
+    "boka_text": "Skriv några rader om vad som känns svårt, så ringer Malin upp när det passar dig. Du behöver inte bestämma något.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Vad vill du berätta?"],
+    "certifikat_rubrik": "Behöriga och utbildade i NPF",
+    "logos_rubrik": "Vi samarbetar med",
+    "medarbetare": "Lärarna"
+  }
+}

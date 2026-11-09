@@ -17,100 +17,418 @@
   ],
   "vagval_rubrik": "Vad behöver ert hem?",
   "tjanster": [
-    {"titel": "Veckostäd", "ikon": "hem", "href": "verksamhet.html", "text": "Fast hemstädare samma dag och tid varje vecka, med egen checklista för ert hem."},
-    {"titel": "Ömtåliga material", "ikon": "sten", "href": "verksamhet.html", "text": "Marmor, kalksten, oljad ek och blank lack – rätt medel för varje yta."},
-    {"titel": "Tvätt och strykning", "ikon": "kugge", "href": "verksamhet.html", "text": "Skjortor, linnedukar och sängkläder tvättas, stryks och läggs in i skåpen."},
-    {"titel": "Silver och mässing", "ikon": "stjarna", "href": "verksamhet.html", "text": "Putsning av silver, mässing och koppar inför helger och middagar."},
-    {"titel": "Säsongsstäd", "ikon": "kalender", "href": "verksamhet.html", "text": "Vår- och höststäd med garderober, fönster, mattor och förråd."},
-    {"titel": "Fönsterputs", "ikon": "sol", "href": "verksamhet.html", "text": "Spröjsade fönster och blyinfattat glas, av vår egen fönsterputsare."},
-    {"titel": "Sommarhuset", "ikon": "bat", "href": "verksamhet.html", "text": "Öppning och stängning av fritidshus i Stockholms skärgård."},
-    {"titel": "Personligt möte", "ikon": "kontor", "href": "om-oss.html#kontakt", "text": "Louise eller en arbetsledare kommer hem till er och går igenom huset."}
+    {
+      "titel": "Veckostäd",
+      "ikon": "hem",
+      "href": "verksamhet.html",
+      "text": "Fast hemstädare samma dag och tid varje vecka, med egen checklista för ert hem."
+    },
+    {
+      "titel": "Ömtåliga material",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Marmor, kalksten, oljad ek och blank lack – rätt medel för varje yta."
+    },
+    {
+      "titel": "Tvätt och strykning",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Skjortor, linnedukar och sängkläder tvättas, stryks och läggs in i skåpen."
+    },
+    {
+      "titel": "Silver och mässing",
+      "ikon": "stjarna",
+      "href": "verksamhet.html",
+      "text": "Putsning av silver, mässing och koppar inför helger och middagar."
+    },
+    {
+      "titel": "Säsongsstäd",
+      "ikon": "kalender",
+      "href": "verksamhet.html",
+      "text": "Vår- och höststäd med garderober, fönster, mattor och förråd."
+    },
+    {
+      "titel": "Spröjs och blyglas",
+      "ikon": "sol",
+      "href": "verksamhet.html",
+      "text": "Spröjsade fönster och blyinfattat glas, av vår egen fönsterputsare."
+    },
+    {
+      "titel": "Sommarhuset",
+      "ikon": "bat",
+      "href": "verksamhet.html",
+      "text": "Öppning och stängning av fritidshus i Stockholms skärgård."
+    },
+    {
+      "titel": "Personligt möte",
+      "ikon": "kontor",
+      "href": "om-oss.html#kontakt",
+      "text": "Louise eller en arbetsledare kommer hem till er och går igenom huset."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Veckostäd i fasta hem", "text": "Varje kund har en hemstädare som kommer samma dag och tid. Hon har en skriftlig instruktion för huset – vilka mattor som inte får dammsugas med borste, vilka tavlor som inte ska röras och var hunden får vara.", "text2": "Vid sjukdom eller semester kommer den namngivna ersättaren, som har varit i huset tidigare.", "tagg": "hem"},
-    {"titel": "Material och föremål", "text": "Vi utbildar alla hemstädare i natursten, oljade och lackade trägolv, blank pianolack, förgyllda ramar och textilier. Varje hem har en materiallista som följer med i instruktionen.", "text2": "Silver putsas för hand med krita och mjuk duk, aldrig i doppbad.", "tagg": "interior"},
-    {"titel": "Tvätt och garderob", "text": "Många kunder vill ha hjälp med mer än städningen. Vi tvättar och stryker, byter sängkläder, vårdar lädermöbler och packar resväskor inför resor.", "text2": "Skjortor stryks och hängs på galge, linnedukar manglas i vår egen mangel i Danderyd.", "tagg": "hem"},
-    {"titel": "Fritidshus och säsong", "text": "På våren öppnar vi sommarhus på Möja, Ingmarsö och Värmdö: vädrar, städar, bäddar och putsar fönster. I september stänger vi och tömmer kylskåpen.", "text2": "Vi samordnar gärna med båttaxi och fastighetsskötare på ön.", "tagg": "hem"}
+    {
+      "titel": "Veckostäd i fasta hem",
+      "text": "Varje kund har en hemstädare som kommer samma dag och tid. Hon har en skriftlig instruktion för huset – vilka mattor som inte får dammsugas med borste, vilka tavlor som inte ska röras och var hunden får vara.",
+      "text2": "Vid sjukdom eller semester kommer den namngivna ersättaren, som har varit i huset tidigare.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Material och föremål",
+      "text": "Vi utbildar alla hemstädare i natursten, oljade och lackade trägolv, blank pianolack, förgyllda ramar och textilier. Varje hem har en materiallista som följer med i instruktionen.",
+      "text2": "Silver putsas för hand med krita och mjuk duk, aldrig i doppbad.",
+      "tagg": "interior"
+    },
+    {
+      "titel": "Tvätt och garderob",
+      "text": "Många kunder vill ha hjälp med mer än städningen. Vi tvättar och stryker, byter sängkläder, vårdar lädermöbler och packar resväskor inför resor.",
+      "text2": "Skjortor stryks och hängs på galge, linnedukar manglas i vår egen mangel i Danderyd.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Fritidshus och säsong",
+      "text": "På våren öppnar vi sommarhus på Möja, Ingmarsö och Värmdö: vädrar, städar, bäddar och putsar fönster. I september stänger vi och tömmer kylskåpen.",
+      "text2": "Vi samordnar gärna med båttaxi och fastighetsskötare på ön.",
+      "tagg": "hem"
+    }
   ],
   "bolag": [
-    {"namn": "Hemservice Danderyd och Djursholm", "segment": "24 hemstädare", "rubrik": "Där vi började 1998", "text": "Villor och patriciervillor från Djursholms torg till Stocksund och Enebyberg.", "tagg": "hem"},
-    {"namn": "Lidingö och Östermalm", "segment": "14 hemstädare", "rubrik": "Våningar och sjötomter", "text": "Sekelskiftesvåningar på Östermalm och villor på Lidingö, med eget nyckelvalv på Karlavägen.", "tagg": "interior"},
-    {"namn": "Säsong och fönster", "segment": "5 medarbetare", "rubrik": "Skärgård, fönster och storstäd", "text": "Vår- och höststäd, fritidshus i skärgården och all fönsterputs.", "tagg": "stadning"},
-    {"namn": "Arbetsledning", "segment": "3 arbetsledare", "rubrik": "En kontakt per hem", "text": "Gör hembesök, skriver instruktioner och utbildar nya hemstädare i material och rutiner.", "tagg": "people"}
+    {
+      "namn": "Hemservice Danderyd och Djursholm",
+      "segment": "24 hemstädare",
+      "rubrik": "Där vi började 1998",
+      "text": "Villor och patriciervillor från Djursholms torg till Stocksund och Enebyberg.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Lidingö och Östermalm",
+      "segment": "14 hemstädare",
+      "rubrik": "Våningar och sjötomter",
+      "text": "Sekelskiftesvåningar på Östermalm och villor på Lidingö, med eget nyckelvalv på Karlavägen.",
+      "tagg": "interior"
+    },
+    {
+      "namn": "Säsong och fönster",
+      "segment": "5 medarbetare",
+      "rubrik": "Skärgård, fönster och storstäd",
+      "text": "Vår- och höststäd, fritidshus i skärgården och all fönsterputs.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Arbetsledning",
+      "segment": "3 arbetsledare",
+      "rubrik": "En kontakt per hem",
+      "text": "Gör hembesök, skriver instruktioner och utbildar nya hemstädare i material och rutiner.",
+      "tagg": "people"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Sommarhusen på Möja är öppnade", "text": "28 hus på fyra öar städades, vädrades och bäddades under tre veckor i maj.", "tagg": "hem"},
-    {"rubrik": "Ny kurs i natursten", "text": "Alla hemstädare har gått en dags utbildning hos en stenhuggare i Täby.", "tagg": "sten"},
-    {"rubrik": "Margareta firar 22 år", "text": "Hon har städat samma villa i Djursholm sedan 2004 och sett tre barn växa upp.", "tagg": "people"}
+    {
+      "rubrik": "Sommarhusen på Möja är öppnade",
+      "text": "28 hus på fyra öar städades, vädrades och bäddades under tre veckor i maj.",
+      "tagg": "hem"
+    },
+    {
+      "rubrik": "Ny kurs i natursten",
+      "text": "Alla hemstädare har gått en dags utbildning hos en stenhuggare i Täby.",
+      "tagg": "sten"
+    },
+    {
+      "rubrik": "Margareta firar 22 år",
+      "text": "Hon har städat samma villa i Djursholm sedan 2004 och sett tre barn växa upp.",
+      "tagg": "people"
+    }
   ],
   "nyckeltal": [
-    {"varde": "310", "enhet": "hem", "etikett": "Med fast hemstädare"},
-    {"varde": "11", "enhet": "år", "etikett": "Snittid för en kund hos oss"},
-    {"varde": "46", "enhet": "anställda", "etikett": "Alla med fast lön"},
-    {"varde": "0", "enhet": "", "etikett": "Underleverantörer i era hem"}
+    {
+      "varde": "310",
+      "enhet": "hem",
+      "etikett": "Med fast hemstädare"
+    },
+    {
+      "varde": "11",
+      "enhet": "år",
+      "etikett": "Snittid för en kund hos oss"
+    },
+    {
+      "varde": "46",
+      "enhet": "anställda",
+      "etikett": "Alla med fast lön"
+    },
+    {
+      "varde": "0",
+      "enhet": "",
+      "etikett": "Underleverantörer i era hem"
+    }
   ],
   "projekt": [
-    {"namn": "Villa vid Germaniaviken", "ort": "Djursholm", "typ": "Veckostäd och tvätt", "ar": "2026", "text": "Fyra våningar med kalkstensgolv, städade två dagar i veckan av samma hemstädare sedan 2011.", "tagg": "hem", "status": "Pågående"},
-    {"namn": "Våning på Strandvägen", "ort": "Stockholm, Östermalm", "typ": "Material och föremål", "ar": "2025", "text": "Sju rum med parkett i fiskbensmönster, förgyllda speglar och silver i vitrinskåp.", "tagg": "interior"},
-    {"namn": "Sommarhus på Möja", "ort": "Möja", "typ": "Öppning och stängning", "ar": "2025", "text": "Huvudbyggnad och två gäststugor öppnade i maj och stängda i september.", "tagg": "hem"},
-    {"namn": "Villa på Lidingö", "ort": "Lidingö, Käppala", "typ": "Säsongsstäd", "ar": "2025", "text": "Höststäd av garderober, mattor och 46 spröjsade fönster på två dagar.", "tagg": "stadning"},
-    {"namn": "Radhus i Täby", "ort": "Täby", "typ": "Varannan vecka", "ar": "2024", "text": "Hemstäd för en familj med två barn och en hund som inte gillar dammsugare.", "tagg": "hem"},
-    {"namn": "Villa i Stocksund", "ort": "Danderyd", "typ": "Inför fest", "ar": "2025", "text": "Silver, kristall och linne förberett för en middag med 40 gäster.", "tagg": "interior"}
+    {
+      "namn": "Villa vid Germaniaviken",
+      "ort": "Djursholm",
+      "typ": "Veckostäd och tvätt",
+      "ar": "2026",
+      "text": "Fyra våningar med kalkstensgolv, städade två dagar i veckan av samma hemstädare sedan 2011.",
+      "tagg": "hem",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Våning på Strandvägen",
+      "ort": "Stockholm, Östermalm",
+      "typ": "Material och föremål",
+      "ar": "2025",
+      "text": "Sju rum med parkett i fiskbensmönster, förgyllda speglar och silver i vitrinskåp.",
+      "tagg": "interior"
+    },
+    {
+      "namn": "Sommarhus på Möja",
+      "ort": "Möja",
+      "typ": "Öppning och stängning",
+      "ar": "2025",
+      "text": "Huvudbyggnad och två gäststugor öppnade i maj och stängda i september.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Villa på Lidingö",
+      "ort": "Lidingö, Käppala",
+      "typ": "Säsongsstäd",
+      "ar": "2025",
+      "text": "Höststäd av garderober, mattor och 46 spröjsade fönster på två dagar.",
+      "tagg": "stadning"
+    },
+    {
+      "namn": "Radhus i Täby",
+      "ort": "Täby",
+      "typ": "Varannan vecka",
+      "ar": "2024",
+      "text": "Hemstäd för en familj med två barn och en hund som inte gillar dammsugare.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Villa i Stocksund",
+      "ort": "Danderyd",
+      "typ": "Inför fest",
+      "ar": "2025",
+      "text": "Silver, kristall och linne förberett för en middag med 40 gäster.",
+      "tagg": "interior"
+    }
   ],
   "process": [
-    {"titel": "Hembesök", "text": "En arbetsledare går igenom huset med er, rum för rum, material för material.", "tagg": "interior"},
-    {"titel": "Skriftlig instruktion", "text": "Allt samlas i en instruktion för ert hem: rutiner, material och vad som inte ska röras.", "tagg": "kontor"},
-    {"titel": "Första städningen tillsammans", "text": "Hemstädaren och arbetsledaren kommer tillsammans första gången.", "tagg": "hem"},
-    {"titel": "Uppföljning efter en månad", "text": "Vi ringer och justerar instruktionen, och därefter en gång om året.", "tagg": "people"}
+    {
+      "titel": "Hembesök",
+      "text": "En arbetsledare går rum för rum genom huset tillsammans med er och noterar varje material.",
+      "tagg": "interior"
+    },
+    {
+      "titel": "Skriftlig instruktion",
+      "text": "Allt samlas i en instruktion för ert hem: rutiner, material och vad som inte ska röras.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Första städningen tillsammans",
+      "text": "Hemstädaren och arbetsledaren kommer tillsammans första gången.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Uppföljning efter en månad",
+      "text": "Vi ringer och justerar instruktionen, och därefter en gång om året.",
+      "tagg": "people"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Diskretion är inte ett löfte – det är en rutin",
     "text": "Alla nycklar förvaras kodade i valv, utan adress, och varje uttag loggas. Varje medarbetare lämnar utdrag ur belastningsregistret vid anställning och skriver på tystnadsplikt.",
-    "mal": [["100 %", "bakgrundskontrollerad personal"], ["0", "nycklar märkta med adress"], ["11 år", "genomsnittlig kundrelation"]]
+    "mal": [
+      [
+        "100 %",
+        "bakgrundskontrollerad personal"
+      ],
+      [
+        "0",
+        "nycklar märkta med adress"
+      ],
+      [
+        "11 år",
+        "genomsnittlig kundrelation"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Ett hantverk, inte ett städjobb",
     "text": "Hos oss får du fast månadslön, egna hem att ta hand om och utbildning i natursten, textilier och föremålsvård. Erfarenhet av hemservice eller hotell är meriterande.",
-    "jobb": [["Hemstädare heltid", "Danderyd"], ["Hemstädare", "Lidingö"], ["Arbetsledare hemservice", "Danderyd"]]
+    "jobb": [
+      [
+        "Hemstädare heltid",
+        "Danderyd"
+      ],
+      [
+        "Hemstädare",
+        "Lidingö"
+      ],
+      [
+        "Arbetsledare hemservice",
+        "Danderyd"
+      ]
+    ]
   },
   "kultur": "Varje ny hemstädare får två veckors betald introduktion och följer en erfaren kollega innan hon får egna hem.",
-  "citat": {"text": "Mamma brukade säga att man ska städa ett hem som om ägaren står bredvid – men lämna det som om ingen har varit där.", "namn": "Louise Hallberg", "roll": "Vd", "tagg": "people"},
+  "citat": {
+    "text": "Mamma brukade säga att man ska städa ett hem som om ägaren står bredvid – men lämna det som om ingen har varit där.",
+    "namn": "Louise Hallberg",
+    "roll": "Vd",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Margareta vet vilka böcker som ska stå på vilken hylla och vilken matta som inte tål vatten. Hon är en del av familjen.", "namn": "Christina W.", "ort": "Djursholm"},
-    {"text": "Sommarhuset var vädrat, bäddat och hade blommor på bordet när vi kom ut med båten i juni.", "namn": "Fredrik A.", "ort": "Möja"},
-    {"text": "Vi hade bytt städfirma fyra gånger innan. Nu har vi haft samma hemstädare i sex år.", "namn": "Johan och Sara L.", "ort": "Lidingö"}
+    {
+      "text": "Margareta vet vilka böcker som ska stå på vilken hylla och vilken matta som inte tål vatten. Hon är en del av familjen.",
+      "namn": "Christina W.",
+      "ort": "Djursholm"
+    },
+    {
+      "text": "Sommarhuset var vädrat, bäddat och hade blommor på bordet när vi kom ut med båten i juni.",
+      "namn": "Fredrik A.",
+      "ort": "Möja"
+    },
+    {
+      "text": "Vi hade bytt städfirma fyra gånger innan. Nu har vi haft samma hemstädare i sex år.",
+      "namn": "Johan och Sara L.",
+      "ort": "Lidingö"
+    }
   ],
   "faq": [
-    ["Vad kostar veckostäd?", "Varannan vecka kostar 690 kronor i timmen före RUT-avdrag och 345 kronor efter. Vid veckostäd är priset 650 respektive 325 kronor. De flesta hem har fyra till sex timmar per gång."],
-    ["Är personalen anställd av er?", "Ja. Alla 46 är anställda med fast månadslön och kollektivavtal. Vi använder aldrig underleverantörer."],
-    ["Hur hanterar ni våra nycklar?", "Nycklarna märks med en kod, aldrig adress, och förvaras i valv. Varje uttag loggas med namn och tid."],
-    ["Vad händer om något går sönder?", "Vi har ansvarsförsäkring på 20 miljoner kronor med tillägg för konst och antikviteter. Anmäl till din arbetsledare så hanteras det samma dag."],
-    ["Kan vi byta hemstädare?", "Ja, utan att förklara varför. Ring din arbetsledare så föreslår vi en ny."],
-    ["Gäller RUT-avdraget för tvätt och strykning?", "Ja, så länge det görs i ert hem. Mangling i vår lokal räknas inte som RUT."],
-    ["Har ni plats för nya kunder?", "Vi tar in nya kunder när vi har en hemstädare som passar. Väntetiden är just nu tre till sex veckor."]
+    [
+      "Vad kostar veckostäd?",
+      "Varannan vecka kostar 690 kronor i timmen före RUT-avdrag och 345 kronor efter. Vid veckostäd är priset 650 respektive 325 kronor. De flesta hem har fyra till sex timmar per gång."
+    ],
+    [
+      "Är personalen anställd av er?",
+      "Ja. Alla 46 är anställda med fast månadslön och kollektivavtal. Vi använder aldrig underleverantörer."
+    ],
+    [
+      "Hur hanterar ni våra nycklar?",
+      "Nycklarna märks med en kod, aldrig adress, och förvaras i valv. Varje uttag loggas med namn och tid."
+    ],
+    [
+      "Om något skulle skadas – hur gör vi då?",
+      "Vi har ansvarsförsäkring på 20 miljoner kronor med tillägg för konst och antikviteter. Anmäl till din arbetsledare så hanteras det samma dag."
+    ],
+    [
+      "Kan vi byta hemstädare?",
+      "Ja, utan att förklara varför. Ring din arbetsledare så föreslår vi en ny."
+    ],
+    [
+      "Gäller RUT-avdraget för tvätt och strykning?",
+      "Ja, så länge det görs i ert hem. Mangling i vår lokal räknas inte som RUT."
+    ],
+    [
+      "Har ni plats för nya kunder?",
+      "Vi tar in nya kunder när vi har en hemstädare som passar. Väntetiden är just nu tre till sex veckor."
+    ]
   ],
   "priser": [
-    {"namn": "Varannan vecka", "pris": "345 kr", "enhet": "per timme efter RUT", "text": "Fast hemstädare och skriftlig instruktion.", "punkter": ["Minst fyra timmar per gång", "Namngiven ersättare", "Uppföljning en gång om året", "Material och utrustning ingår"]},
-    {"namn": "Veckostäd", "pris": "325 kr", "enhet": "per timme efter RUT", "text": "Det de flesta av våra kunder väljer.", "punkter": ["Allt i Varannan vecka", "Tvätt och strykning ingår", "Säsongsstäd till förtur", "Silverputs inför jul utan tillägg"], "utvald": true},
-    {"namn": "Sommarhuset", "pris": "fr. 4 900 kr", "enhet": "per öppning eller stängning, efter RUT", "text": "Fritidshus i Stockholms skärgård.", "punkter": ["Vädring, städ och bäddning", "Fönsterputs", "Tömning av kyl vid stängning", "Samordning med båttaxi"]}
+    {
+      "namn": "Varannan vecka",
+      "pris": "345 kr",
+      "enhet": "per timme efter RUT",
+      "text": "Fast hemstädare och skriftlig instruktion.",
+      "punkter": [
+        "Minst fyra timmar per gång",
+        "Namngiven ersättare",
+        "Uppföljning en gång om året",
+        "Material och utrustning ingår"
+      ]
+    },
+    {
+      "namn": "Veckostäd",
+      "pris": "325 kr",
+      "enhet": "per timme efter RUT",
+      "text": "Det de flesta av våra kunder väljer.",
+      "punkter": [
+        "Allt i Varannan vecka",
+        "Tvätt och strykning ingår",
+        "Säsongsstäd till förtur",
+        "Silverputs inför jul utan tillägg"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Sommarhuset",
+      "pris": "fr. 4 900 kr",
+      "enhet": "per öppning eller stängning, efter RUT",
+      "text": "Fritidshus i Stockholms skärgård.",
+      "punkter": [
+        "Vädring, städ och bäddning",
+        "Fönsterputs",
+        "Tömning av kyl vid stängning",
+        "Samordning med båttaxi"
+      ]
+    }
   ],
   "certifikat": [
-    {"titel": "Bakgrundskontroll", "text": "Utdrag ur belastningsregistret och referenstagning för varje anställd.", "ikon": "skold"},
-    {"titel": "Kollektivavtal", "text": "Serviceentreprenadavtalet med fast månadslön, pension och försäkringar.", "ikon": "folk"},
-    {"titel": "Nyckelvalv", "text": "Kodade nycklar i två larmade valv med loggning av varje uttag.", "ikon": "las"},
-    {"titel": "Försäkring 20 Mkr", "text": "Ansvarsförsäkring med tillägg för konst, antikviteter och nyckelförlust.", "ikon": "lov"}
+    {
+      "titel": "Bakgrundskontroll",
+      "text": "Utdrag ur belastningsregistret och referenstagning för varje anställd.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Fast lön och avtal",
+      "text": "Serviceentreprenadavtalet med fast månadslön, pension och försäkringar.",
+      "ikon": "folk"
+    },
+    {
+      "titel": "Nyckelvalv",
+      "text": "Två larmade valv där varje nyckel har en kod och varje uttag signeras.",
+      "ikon": "las"
+    },
+    {
+      "titel": "Försäkring 20 Mkr",
+      "text": "Ansvarsförsäkring med tillägg för konst, antikviteter och nyckelförlust.",
+      "ikon": "lov"
+    }
   ],
-  "kunder": ["Germaniavikens Samfällighet", "Stocksunds Strandförening", "Brf Strandvägen 19", "Möja Västra Sommarhus", "Käppala Vägförening", "Djursholms Tennisklubb", "Enebybergs Konstförening"],
+  "kunder": [
+    "Germaniavikens Samfällighet",
+    "Stocksunds Strandförening",
+    "Brf Strandvägen 19",
+    "Möja Västra Sommarhus",
+    "Käppala Vägförening",
+    "Djursholms Tennisklubb",
+    "Enebybergs Konstförening"
+  ],
   "nyheter": [
-    ["2026-10-27", "Boka silverputs inför jul", "Våra hemstädare putsar silver och mässing från mitten av november.", "interior"],
-    ["2026-04-21", "Dags att öppna sommarhuset", "Vi har fyra veckor kvar i maj för öppningar i skärgården.", "hem"],
-    ["2026-02-09", "Så tar du hand om kalksten", "Tre medel som förstör stenen – och vad du ska använda i stället.", "sten"]
+    [
+      "2026-10-27",
+      "Boka silverputs inför jul",
+      "Våra hemstädare putsar silver och mässing från mitten av november.",
+      "interior"
+    ],
+    [
+      "2026-04-21",
+      "Dags att öppna sommarhuset",
+      "Vi har fyra veckor kvar i maj för öppningar i skärgården.",
+      "hem"
+    ],
+    [
+      "2026-02-09",
+      "Så tar du hand om kalksten",
+      "Tre medel som förstör stenen – och vad du ska använda i stället.",
+      "sten"
+    ]
   ],
-  "kontakt": {"adress": "Vendevägen 87", "postnr": "182 32", "ort": "Danderyd", "telefon": "070-174 06 16", "epost": "hem@hallbergstahl.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Vendevägen 87",
+    "postnr": "182 32",
+    "ort": "Danderyd",
+    "telefon": "070-174 06 16",
+    "epost": "hem@hallbergstahl.se",
+    "orgnr": ""
+  },
   "oppettider": "Kontoret mån–fre 8–17",
   "omrade": "Danderyd, Djursholm, Täby, Lidingö, Östermalm och Stockholms skärgård",
   "fot_cta": "Vill ni träffa oss hemma? Louise eller en arbetsledare kommer gärna förbi.",
-  "bild": {"panel": "interior", "hb": "hem"},
+  "bild": {
+    "panel": "interior",
+    "hb": "hem"
+  },
   "text": {
     "hero_knapp": "Det vi tar hand om",
     "kontakt_knapp": "Boka hembesök",
@@ -124,7 +442,12 @@
     "priser_rubrik": "Ett pris per timme, allt ingår",
     "boka_rubrik": "Boka ett hembesök",
     "boka_text": "Berätta kort om ert hem och vad ni behöver hjälp med, så ringer Louise eller en arbetsledare upp.",
-    "boka_falt": ["Namn", "Telefon", "Adress", "Om ert hem"],
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "Adress",
+      "Om ert hem"
+    ],
     "logos_rubrik": "Förtroende i",
     "certifikat_rubrik": "Diskretion och försäkring",
     "bolag_rubrik": "Våra områden",

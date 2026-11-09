@@ -18,17 +18,17 @@
   "vagval_rubrik": "Var ska vi göra ett tyst besök?",
   "tjanster": [
     {"titel": "Privata hem", "ikon": "hus", "href": "verksamhet.html", "text": "Villor och våningar i Långedrag, Örgryte och på Särö med fast tekniker och omärkt bil."},
-    {"titel": "Hotell", "ikon": "kontor", "href": "verksamhet.html", "text": "Besök nattetid eller i stängda korridorer, och rum tillbaka i bokningen samma dag."},
+    {"titel": "Hotell nattetid", "ikon": "kontor", "href": "verksamhet.html", "text": "Besök nattetid eller i stängda korridorer, och rum tillbaka i bokningen samma dag."},
     {"titel": "Fine dining", "ikon": "stjarna", "href": "verksamhet.html", "text": "Krogar med stjärnambitioner får besök efter stängning och protokoll före nästa sittning."},
     {"titel": "Butiker och showroom", "ikon": "portfolj", "href": "verksamhet.html", "text": "Klädesmal och pälsängrar i textil, mattor och läder hanteras före öppning."},
-    {"titel": "Råttor och möss", "ikon": "hem", "href": "verksamhet.html", "text": "Utredning med endoskop och rökprov i avlopp, tätning med rostfritt och kopparnät."},
-    {"titel": "Vägglöss", "ikon": "sok", "href": "verksamhet.html", "text": "Hundsök och värmebehandling med intyg till försäkringsbolaget."},
+    {"titel": "Gnagarutredning", "ikon": "hem", "href": "verksamhet.html", "text": "Utredning med endoskop och rökprov i avlopp, tätning med rostfritt och kopparnät."},
+    {"titel": "Vägglöss i hemmet", "ikon": "sok", "href": "verksamhet.html", "text": "Hundsök och värmebehandling med intyg till försäkringsbolaget."},
     {"titel": "Konst och textil", "ikon": "pensel", "href": "verksamhet.html", "text": "Skonsam behandling av mattor, tavlor och antika möbler mot mal och trämask."},
     {"titel": "Personlig kontakt", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Du får din teknikers direktnummer från första samtalet."}
   ],
   "affarsomraden": [
     {"titel": "Hem", "text": "Råttor i en villa i Långedrag är lika obehagligt som var som helst, men grannarna behöver inte veta. Vi kommer i en vanlig personbil, bär civila kläder och har allt material i väskor.", "text2": "Hemavtalet ger två kontroller per år och fri utryckning, och kostar 4 800 kr per år.", "tagg": "hem"},
-    {"titel": "Hotell", "text": "Ett hotell med 300 rum kan inte stänga en våning för en mus. Vi arbetar mellan klockan 01 och 05, går via personalingången och lämnar en rapport till frukostmötet.", "text2": "Ett rum som spärrats för vägglöss är tillbaka i bokningssystemet inom 24 timmar.", "tagg": "interior"},
+    {"titel": "Hotell och konferens", "text": "Ett hotell med 300 rum kan inte stänga en våning för en mus. Vi arbetar mellan klockan 01 och 05, går via personalingången och lämnar en rapport till frukostmötet.", "text2": "Ett rum som spärrats för vägglöss är tillbaka i bokningssystemet inom 24 timmar.", "tagg": "interior"},
     {"titel": "Restaurang", "text": "Ett kök som har en mus en tisdag ska vara rent till service på onsdagen. Vi kommer efter stängning, åtgärdar och skriver ett protokoll som håller vid miljöförvaltningens tillsyn.", "text2": "Restaurangavtalet inkluderar en årlig genomgång med köksmästaren av rutiner för varumottagning.", "tagg": "stad"},
     {"titel": "Samlingar och interiör", "text": "Klädesmal, pälsängrar och trämask kan förstöra mattor, möbler och konst som inte går att ersätta. Vi behandlar med frysning, kvävgas och värme utan kemiska rester.", "text2": "Vi samarbetar med två konservatorer i Göteborg när föremålen är särskilt ömtåliga.", "tagg": "interior"}
   ],
@@ -89,7 +89,7 @@
     ["Hur snabbt får jag svar?", "Din tekniker ringer tillbaka inom fyra timmar på vardagar. Hotell och restauranger med avtal når oss dygnet runt."]
   ],
   "certifikat": [
-    {"titel": "CEPA Certified (EN 16636)", "text": "Certifierade sedan 2017 för hela verksamheten, inklusive textil- och samlingsbehandling.", "ikon": "stjarna"},
+    {"titel": "Certifierade enligt EN 16636", "text": "Certifierade sedan 2017 för hela verksamheten, inklusive textil- och samlingsbehandling.", "ikon": "stjarna"},
     {"titel": "Biocidbehörighet för alla", "text": "Samtliga tekniker har Kemikalieinspektionens behörighet och minst fem års erfarenhet i yrket.", "ikon": "skold"},
     {"titel": "Säkerhetsprövad personal", "text": "Alla anställda har lämnat utdrag ur belastningsregistret och skrivit sekretessavtal.", "ikon": "las"},
     {"titel": "Ansvarsförsäkring 20 mkr", "text": "Täcker skador på fastighet, inventarier och konst under behandling.", "ikon": "dokument"}
@@ -119,6 +119,6 @@
     "logos_rubrik": "Ett fåtal av dem som valt att synas",
     "certifikat_rubrik": "Prövade, försäkrade, tysta",
     "kontakt_knapp": "Ring en tekniker",
-    "medarbetare": "Teknikerna"
+    "medarbetare": "Våra tekniker"
   }
 }

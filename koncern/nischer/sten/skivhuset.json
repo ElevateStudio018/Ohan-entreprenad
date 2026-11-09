@@ -53,7 +53,7 @@
     {"namn": "Kvarteret Kvarnbo", "ort": "Uppsala", "typ": "Nyproduktion, 212 kök", "ar": "2026", "text": "Kvartsskivor i tre kulörer, levererade trapphus för trapphus.", "tagg": "bostad", "status": "Pågående"},
     {"namn": "Villa på Djäkneberget", "ort": "Västerås", "typ": "Köksö i keramik", "ar": "2025", "text": "En 3,4 meter lång skiva med vattenfall åt båda håll, utan skarv.", "tagg": "interior"},
     {"namn": "Brf Sigurd", "ort": "Västerås", "typ": "Stambyte, 96 kök", "ar": "2025", "text": "Nya bänkskivor i takt med stambytet – tre kök om dagen.", "tagg": "bostad"},
-    {"namn": "Mälarsjukhuset", "ort": "Eskilstuna", "typ": "Pentryn och diskar", "ar": "2025", "text": "43 pentryskivor och två receptionsdiskar i kompaktkeramik.", "tagg": "kontor"},
+    {"namn": "Kontorshuset Smedjan", "ort": "Eskilstuna", "typ": "Pentryn och diskar", "ar": "2025", "text": "43 pentryskivor och två receptionsdiskar i kompaktkeramik.", "tagg": "kontor"},
     {"namn": "Radhus i Lillån", "ort": "Örebro", "typ": "Kök och badrum", "ar": "2024", "text": "Samma kvarts i köket, badrummet och fönsterbänkarna – ur två skivor.", "tagg": "hem"},
     {"namn": "Restaurang Kajen", "ort": "Västerås", "typ": "Bardisk i granit", "ar": "2024", "text": "Åtta meter flammad Absolute Black, monterad på en natt.", "tagg": "stad"}
   ],
@@ -95,18 +95,18 @@
     {"namn": "Keramik", "pris": "fr. 34 900 kr", "enhet": "upp till 5 löpmeter", "text": "Sintrad skiva, 12 mm, tål värme.", "punkter": ["Allt i Plus", "Gerad kant eller vattenfall", "Integrerad häll möjlig", "Tre provbitar hem före beställning"]}
   ],
   "certifikat": [
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat lednings­system för kvalitet och miljö sedan 2022, granskat av extern revisor varje år.", "ikon": "skold"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2022, granskat av extern revisor varje år.", "ikon": "skold"},
     {"titel": "Kvartsdammkontroll", "text": "Mätning av kvartsdamm och medicinska kontroller enligt Arbetsmiljöverkets föreskrifter.", "ikon": "vard"},
     {"titel": "ID06", "text": "Alla montörer som arbetar i nyproduktion har ID06 och registreras i personalliggaren.", "ikon": "folk"},
     {"titel": "Kiwa-kontrollerad", "text": "Fabriken är kontrollerad av Kiwa för leveranser till byggföretag med krav på spårbarhet.", "ikon": "dokument"}
   ],
-  "kunder": ["Kökshörnan Västerås", "Mälarstaden Bostäder", "Brf Sigurd", "Uppsala Nyproduktion AB", "Region Sörmland Fastigheter", "Bergslagens Kök & Bad", "Kvarnbo Bostads AB", "Fastighets AB Rudbeck"],
+  "kunder": ["Kökshörnan Västerås", "Mälarstaden Bostäder", "Brf Sigurd", "Uppsala Nyproduktion AB", "Sörmlands Fastighetsförvaltning", "Bergslagens Kök & Bad", "Kvarnbo Bostads AB", "Fastighets AB Rudbeck"],
   "nyheter": [
     ["2026-09-21", "Nu öppnar vi i Örebro", "Showroomet på Marieberg har lördagsöppet 10–15 och 70 skivor i fullformat.", "sten"],
     ["2026-06-02", "Ny vattenskärare på plats", "Hål för ho och häll skärs nu på en timme i stället för tre.", "industri"],
     ["2026-02-11", "Så väljer du mellan kvarts och keramik", "Fem frågor som avgör vilket material som passar ditt kök.", "interior"]
   ],
-  "kontakt": {"adress": "Kopparlundsvägen 18", "postnr": "721 30", "ort": "Västerås", "telefon": "070-174 06 13", "epost": "hej@skivhuset.se", "orgnr": ""},
+  "kontakt": {"adress": "Stenbygatan 18", "postnr": "721 36", "ort": "Västerås", "telefon": "070-174 06 13", "epost": "hej@skivhuset.se", "orgnr": ""},
   "oppettider": "Showroom mån–fre 9–18, lör 10–15",
   "omrade": "Västmanland, Uppsala, Örebro och Södermanland",
   "fot_cta": "Boka laserskanning i dag – nästa lediga tid är oftast inom fem arbetsdagar.",

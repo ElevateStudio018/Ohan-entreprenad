@@ -1,0 +1,134 @@
+{
+  "profil": "nisch",
+  "nisch": "trafikskola",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vätterleden Transportutbildning AB",
+  "kortnamn": "Vätterleden",
+  "slug": "vatterleden",
+  "typ": "Transportutbildning för företag i Jönköping",
+  "tagline": "YKB, ADR och CE",
+  "slogan": "Vi utbildar förare åt logistikföretagen i Torsvik och Sveriges mest trafikerade lagerkorridor – på er depå, i våra simulatorer eller på vår manöverbana.",
+  "hero_rubrik": "Förarna som håller lagren i gång",
+  "hero_text": "YKB-fortbildning, CE, ADR, truck och lastbilskran för transport- och logistikföretag i Jönköping, Nässjö och Värnamo. Kurser på er depå från sex förare.",
+  "intro_rubrik": "Där E4 och riksväg 40 möts",
+  "om": [
+    "Vätterleden startades 2002 av Göran och Lena Sjöqvist, som drev ett åkeri i Habo och tröttnade på att skicka förarna till Göteborg för ADR-kurser. I dag är vi 38 anställda, med utbildningscenter i Torsvik, en manöverbana på 9 000 kvadratmeter och två lastbilssimulatorer.",
+    "Nio av tio kunder är företag. Vi har fasta avtal med 64 åkerier, lager och kommuner i Jönköpings län och håller vart tredje kurstillfälle ute hos kunden – i fikarummet på terminalen, på lastkajen eller på deras egen gård."
+  ],
+  "vagval_rubrik": "Vad behöver era förare?",
+  "tjanster": [
+    {"titel": "YKB fortbildning", "ikon": "kalender", "href": "verksamhet.html", "text": "Fem dagar à sju timmar – på vardagar, lördagar eller hos er."},
+    {"titel": "CE-körkort", "ikon": "bil", "href": "verksamhet.html", "text": "Lastbil med släp för anställda och nyrekryterade förare."},
+    {"titel": "ADR farligt gods", "ikon": "eld", "href": "verksamhet.html", "text": "Grund, tank, klass 1 och 7 samt repetition vart femte år."},
+    {"titel": "Truckkort", "ikon": "lada", "href": "verksamhet.html", "text": "Truckutbildning A och B enligt TLP10, på er truck eller vår."},
+    {"titel": "Lastbilskran", "ikon": "kran", "href": "verksamhet.html", "text": "Utbildning för lastbilsmonterad kran med teori och praktiskt prov."},
+    {"titel": "Sparsam körning", "ikon": "graf", "href": "verksamhet.html", "text": "En dag i simulator och lastbil som sänker förbrukningen."},
+    {"titel": "Lastsäkring", "ikon": "las", "href": "verksamhet.html", "text": "Halvdag om förankring, spännband och viktfördelning på kajen."},
+    {"titel": "Utbildningsplan", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Vi håller koll på när varje förares YKB och ADR går ut."}
+  ],
+  "affarsomraden": [
+    {"titel": "YKB fortbildning", "text": "Varje yrkesförare ska gå 35 timmars fortbildning vart femte år. Vi delar upp den i fem delkurser som kan läggas en dag i månaden, så att ingen bil står stilla en hel vecka.", "text2": "Vi registrerar intygen hos Transportstyrelsen samma dag som kursen avslutas.", "tagg": "korskola"},
+    {"titel": "CE och nyrekrytering", "text": "Många lager har lagerarbetare med B-körkort som vill köra lastbil. Vi utbildar dem till CE på 10–14 veckor, med YKB, och planerar körningen kring skiften på lagret.", "text2": "Arbetsgivaren betalar och binder ofta föraren med ett utbildningsavtal.", "tagg": "industri"},
+    {"titel": "ADR och farligt gods", "text": "ADR-grundkursen tar tre dagar, tank och klass 1 en dag var. Vi har en egen övningsplats för tankfordon och samarbetar med räddningstjänsten om släckövningen.", "text2": "Repetitionskurs två dagar, senast innan intyget går ut.", "tagg": "industri"},
+    {"titel": "Truck, kran och lastsäkring", "text": "Trucken, kranen och spännbandet är där de flesta skadorna sker. Vi utbildar enligt TLP10 och branschens krav för lastbilskran, gärna på kundens egna maskiner.", "text2": "Kurser från fyra deltagare, även på kvällstid.", "tagg": "maskin"}
+  ],
+  "bolag": [
+    {"namn": "Utbildningscenter Torsvik", "segment": "Jönköping", "rubrik": "Klassrum, simulatorer och bana", "text": "Fyra lektionssalar, två lastbilssimulatorer och en manöverbana på 9 000 kvadratmeter.", "tagg": "industri"},
+    {"namn": "Ute hos kund", "segment": "Hela länet", "rubrik": "Kursbuss med 16 platser", "text": "Lärare och utrustning kommer till terminaler och depåer i Nässjö, Värnamo och Vaggeryd.", "tagg": "korskola"},
+    {"namn": "Körskolan", "segment": "C, CE och BE", "rubrik": "Elva lastbilar med släp", "text": "Körkortsutbildning för tung trafik med lärare som har kört i yrket.", "tagg": "korskola"},
+    {"namn": "Kursadministrationen", "segment": "Intyg och planering", "rubrik": "Påminner innan intygen går ut", "text": "Håller register över varje förares YKB, ADR och truckbehörighet åt kunderna.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ny simulator för vinterkörning", "text": "Den andra simulatorn tränar halka, sidvind och nödbroms med fullastad semitrailer.", "tagg": "industri"},
+    {"rubrik": "1 800 YKB-intyg på ett år", "text": "Så många fortbildningsdagar registrerade vi hos Transportstyrelsen under 2025.", "tagg": "korskola"},
+    {"rubrik": "Lagerarbetare blir förare", "text": "Ett lager i Torsvik har fått tolv nya CE-förare från den egna personalen på ett år.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "64", "enhet": "företag", "etikett": "Med fasta avtal"},
+    {"varde": "1 800", "enhet": "YKB-dagar", "etikett": "Registrerade 2025"},
+    {"varde": "9 000", "enhet": "m²", "etikett": "Manöverbana i Torsvik"},
+    {"varde": "24", "enhet": "år", "etikett": "Sedan åkeriet i Habo"}
+  ],
+  "projekt": [
+    {"namn": "Torsviks Terminal", "ort": "Jönköping", "typ": "CE och YKB", "ar": "2026", "text": "Tolv lagerarbetare utbildas till CE-förare kring skiften på lagret.", "tagg": "industri", "status": "Pågående"},
+    {"namn": "Habo Kyltransport", "ort": "Habo", "typ": "YKB fortbildning", "ar": "2025", "text": "Fyrtio förare fortbildade på lördagar under ett halvår.", "tagg": "korskola"},
+    {"namn": "Vaggeryds Åkeri", "ort": "Vaggeryd", "typ": "ADR och tank", "ar": "2025", "text": "ADR-grund och tankbehörighet för fjorton förare i drivmedelstrafik.", "tagg": "industri"},
+    {"namn": "Jönköpings kommun, tekniska", "ort": "Jönköping", "typ": "Lastbilskran", "ar": "2025", "text": "Kranutbildning för tjugo medarbetare inom gata och park.", "tagg": "maskin"},
+    {"namn": "Nässjö Mjölktransporter", "ort": "Nässjö", "typ": "Sparsam körning", "ar": "2024", "text": "Tre dagar i simulator och bil gav nio procent lägre förbrukning.", "tagg": "korskola"},
+    {"namn": "Smålands Bygglogistik", "ort": "Värnamo", "typ": "Lastsäkring", "ar": "2024", "text": "Lastsäkring på kajen för 32 förare och lagerarbetare.", "tagg": "industri"}
+  ],
+  "process": [
+    {"titel": "Inventering", "text": "Vi går igenom era förares YKB-, ADR- och truckintyg och ser vad som går ut när.", "tagg": "kontor"},
+    {"titel": "Utbildningsplan", "text": "En plan för ett till tre år, med kurser utspridda så att ingen bil står stilla.", "tagg": "industri"},
+    {"titel": "Kurser hos er eller oss", "text": "I Torsvik, i kursbussen eller i ert fikarum – dagtid, kvällar eller lördagar.", "tagg": "korskola"},
+    {"titel": "Intyg och påminnelse", "text": "Intygen registreras samma dag, och vi påminner ett halvår innan nästa förfaller.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje liter diesel som inte används",
+    "text": "En fjärrbil drar runt 3 liter per mil. Kursen i sparsam körning sänker förbrukningen med sju till tolv procent, och vi mäter före och efter med kundens egen fordonsdata. Vi är certifierade enligt ISO 9001 och ISO 14001.",
+    "mal": [["−9 %", "bränsle i snitt efter sparsam körning"], ["HVO100", "i alla egna lastbilar"], ["0", "förare med utgånget intyg hos avtalskunder"]]
+  },
+  "karriar": {
+    "rubrik": "Från förarhytten till klassrummet",
+    "text": "Vi söker lärare med lång erfarenhet av yrkestrafik. Har du kört i tio år och vill undervisa betalar vi trafiklärarutbildningen och YKB-lärarbehörigheten.",
+    "jobb": [["YKB-lärare", "Jönköping"], ["Trafiklärare CE", "Jönköping"], ["ADR-lärare", "Jönköping"]]
+  },
+  "kultur": "Alla lärare kör minst en vecka om året ute hos en kund – för att veta hur vardagen ser ut på riktigt.",
+  "citat": {"text": "Vi skickade våra förare till Göteborg i tjugo år för att få ADR. Det kändes dumt när halva Sveriges lastbilar går förbi Jönköping.", "namn": "Lena Sjöqvist", "roll": "Grundare och styrelseordförande", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Vi har 80 förare och har aldrig haft ett utgånget YKB-intyg sedan Vätterleden tog över planeringen.", "namn": "Peter L., transportchef", "ort": "Habo"},
+    {"text": "De kom till terminalen en lördag i månaden. Ingen bil stod stilla en enda dag.", "namn": "Sanna J., driftchef", "ort": "Vaggeryd"},
+    {"text": "Jag var truckförare i sex år. Nu kör jag CE för samma arbetsgivare.", "namn": "Ali R.", "ort": "Jönköping"}
+  ],
+  "faq": [
+    ["Hur ofta måste en förare gå YKB-fortbildning?", "Vart femte år, 35 timmar. Vi delar upp den i fem delkurser om sju timmar som kan gås vid olika tillfällen."],
+    ["Kan ni hålla kurser på vår depå?", "Ja, från sex deltagare. Vi tar med lärare, projektor och utrustning i kursbussen."],
+    ["Hur länge gäller ADR-intyget?", "I fem år. Repetitionskursen ska göras innan intyget går ut, annars måste föraren gå grundkursen igen."],
+    ["Har ni kurser på andra språk än svenska?", "YKB-fortbildning håller vi även på engelska och polska. ADR-provet kan göras på engelska."],
+    ["Kan anställda betala själva?", "Ja, men nio av tio deltagare har en arbetsgivare som betalar. Fråga oss om utbildningsavtal."],
+    ["Vad kostar en CE-utbildning?", "För en anställd med B-körkort kostar CE med YKB från 68 000 kronor. Vi lämnar fast pris efter en bedömningskörning."],
+    ["Ingår lunch?", "På kurser i Torsvik ingår lunch och fika. Hos er står ni för lokal och kaffe."]
+  ],
+  "prislista": [["YKB fortbildning, delkurs 7 h", "2 450 kr/förare"], ["YKB fortbildning, hela 35 h", "11 400 kr/förare"], ["ADR grundkurs, 3 dagar", "7 900 kr"], ["ADR tank", "3 200 kr"], ["ADR repetition, 2 dagar", "5 400 kr"], ["Truckkort A+B, TLP10", "4 800 kr"], ["Lastbilskran", "6 900 kr"], ["Sparsam körning, 1 dag", "3 900 kr"], ["Lastsäkring, halvdag", "1 950 kr"], ["CE med YKB", "fr. 68 000 kr"]],
+  "certifikat": [
+    {"titel": "Godkänd YKB-utbildare", "text": "Transportstyrelsens godkännande för grundutbildning och fortbildning i gods- och persontrafik.", "ikon": "dokument"},
+    {"titel": "ADR-utbildare", "text": "Godkända av MSB att utbilda i ADR grund, tank, klass 1 och klass 7.", "ikon": "eld"},
+    {"titel": "TYA-certifierad", "text": "Certifierad utbildare enligt TYA för truck (TLP10) och lastbilsmonterad kran.", "ikon": "kran"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2014.", "ikon": "skold"}
+  ],
+  "kunder": ["Torsviks Terminal AB", "Habo Kyltransport AB", "Vaggeryds Åkeri AB", "Jönköpings kommun, tekniska", "Nässjö Mjölktransporter", "Smålands Bygglogistik AB", "Gränna Frukt & Grönt AB", "Värnamo Pallservice"],
+  "nyheter": [
+    ["2026-10-15", "Ny simulator för vinterkörning", "Halka, sidvind och nödbroms med fullastad semitrailer – utan risk.", "industri"],
+    ["2026-07-01", "YKB på polska och engelska", "Från hösten kan alla fem delkurser gås på tre språk.", "korskola"],
+    ["2026-03-12", "Så planerar ni förarnas YKB", "En enkel modell för att sprida fortbildningen över fem år.", "kontor"]
+  ],
+  "kontakt": {"adress": "Grossistgatan 9", "postnr": "553 03", "ort": "Jönköping", "telefon": "070-174 06 79", "epost": "kurs@vatterleden.se", "orgnr": ""},
+  "oppettider": "Kontoret mån–fre 7–16 · Kurser även kvällar och lördagar",
+  "omrade": "Jönköpings län och norra Kronoberg",
+  "fot_cta": "Vet ni när era förares intyg går ut? Vi gör en inventering utan kostnad.",
+  "bild": {"panel": "industri", "hb": "korskola"},
+  "text": {
+    "kontakt_knapp": "Begär inventering",
+    "hero_knapp": "Kurserna",
+    "vagval_etikett": "Kurser",
+    "ber_etikett": "Från Torsvik",
+    "ber_rubrik": "Simulatorer, intyg och nya förare",
+    "proj_etikett": "Kunduppdrag",
+    "proj_rubrik": "Åkerier och lager vi utbildar",
+    "process_etikett": "För arbetsgivare",
+    "process_rubrik": "Ingen förare med utgånget intyg",
+    "bolag_etikett": "Verksamhet",
+    "bolag_rubrik": "Center, kursbuss och körskola",
+    "hb_etikett": "Bränsle och kvalitet",
+    "priser_etikett": "Prislista",
+    "priser_rubrik": "Pris per förare och kurs",
+    "omdomen_rubrik": "Transportchefer och förare",
+    "faq_rubrik": "Om YKB, ADR och avtal",
+    "boka_rubrik": "Låt oss gå igenom era intyg",
+    "boka_text": "Skriv hur många förare ni har och vilka behörigheter de behöver, så kontaktar en utbildningssamordnare er inom två dagar.",
+    "boka_falt": ["Namn", "Telefon", "Företag", "Antal förare och behörigheter"],
+    "certifikat_rubrik": "Godkända av Transportstyrelsen, MSB och TYA",
+    "logos_rubrik": "64 företag med fasta avtal",
+    "medarbetare": "Lärarna i Torsvik"
+  }
+}

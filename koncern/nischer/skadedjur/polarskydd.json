@@ -1,0 +1,131 @@
+{
+  "profil": "nisch",
+  "nisch": "skadedjur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Polarskydd Skadedjur Norrbotten AB",
+  "kortnamn": "Polarskydd",
+  "slug": "polarskydd",
+  "typ": "Skadedjur och hästmyror i Norrbotten",
+  "tagline": "Från Haparanda till Kiruna",
+  "slogan": "Två syskon från Övertorneå och tre kollegor som kör 900 kilometer i veckan för att hålla möss och hästmyror borta från Norrbottens stugor, hus och arbetsboenden.",
+  "hero_rubrik": "Fem tekniker, 98 000 km² och en snöskoter",
+  "hero_text": "Polarskydd är ett litet bolag med ett stort län. Vi tar hand om möss i fjällstugan, hästmyror i timmerhuset och vägglöss i arbetsboendet – och vi pratar svenska, finska och meänkieli.",
+  "intro_rubrik": "Ett län större än Portugal",
+  "om": [
+    "Polarskydd startades 2018 av syskonen Sara och Jonas Niemi från Övertorneå. Sara hade arbetat som tekniker i Stockholm i sex år och flyttade hem när hon insåg att närmaste skadedjursföretag låg två timmar bort för de flesta i Tornedalen.",
+    "I dag är vi fem anställda med kontor och lager i Luleå och en bil stationerad i Kiruna. Vi har avtal med drygt 600 fritidshus och stugbyar, flera arbetsboenden kring gruvorna och några av länets kommuner. Vintertid når vi stugor utan plogad väg med snöskoter."
+  ],
+  "vagval_rubrik": "Vad har du hittat i stugan?",
+  "tjanster": [
+    {"titel": "Möss i fritidshus", "ikon": "hem", "href": "verksamhet.html", "text": "Vi tätar och sätter fällor i oktober, och tittar till under vintern medan du är hemma."},
+    {"titel": "Hästmyror", "ikon": "trad", "href": "verksamhet.html", "text": "Hästmyror i timmerväggar och syllar spåras med fuktmätare och endoskop och behandlas i boet."},
+    {"titel": "Arbetsboenden", "ikon": "kontor", "href": "verksamhet.html", "text": "Hundsök och behandling av vägglöss i baracker, hotell och modulboenden kring gruvorna."},
+    {"titel": "Stugbyar och fjällhotell", "ikon": "hus", "href": "verksamhet.html", "text": "Avtal för uthyrningsstugor med kontroll före varje säsong."},
+    {"titel": "Kommuner", "ikon": "skola", "href": "verksamhet.html", "text": "Skolor, förskolor och äldreboenden i inlandskommunerna."},
+    {"titel": "Snöskoterbesök", "ikon": "karta", "href": "verksamhet.html", "text": "Stugor utan vinterväg når vi med skoter och släde från december till april."},
+    {"titel": "Stugavtal och priser", "ikon": "dokument", "href": "priser.html", "text": "Fasta vinterpriser, oavsett hur långt bort stugan ligger."},
+    {"titel": "Ring Sara eller Jonas", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi svarar själva – på svenska, finska eller meänkieli."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fritidshus och stugor", "text": "En stuga som står tom i fem månader är ett perfekt vinteride för skogsmöss och sorkar. Vi stänger upp i oktober och kontrollerar under vintern så att du slipper komma till förstörda madrasser i april.", "text2": "Efter varje besök får du ett sms med bilder från stugan.", "tagg": "hem"},
+    {"titel": "Hästmyror i trähus", "text": "Hästmyror gnager gångar i fuktigt virke och kan försvaga syllar och bjälklag i äldre timmerhus. Vi hittar boet, behandlar det och föreslår åtgärder mot fukten som lockade dit dem.", "text2": "Behandlingen görs helst i maj–juni när myrorna är aktiva, och vi ger två års garanti.", "tagg": "tra"},
+    {"titel": "Arbetsboenden och hotell", "text": "När hundratals entreprenörer bor tillfälligt kring gruvorna och industribyggena följer vägglössen med i väskorna. Vi samarbetar med en sökhund från Umeå och värmebehandlar med eget aggregat.", "text2": "Avtalskunder får besök inom 48 timmar även i Gällivare och Kiruna.", "tagg": "bostad"},
+    {"titel": "Offentliga lokaler", "text": "Skolor och äldreboenden i glesbygd har samma krav som i stan men längre till närmaste tekniker. Vi planerar rundor så att varje kommun får fasta besöksveckor.", "text2": "Kommunerna får en årsrapport per byggnad till miljö- och hälsoskyddsnämnden.", "tagg": "skadedjur"}
+  ],
+  "bolag": [
+    {"namn": "Kustlandet", "segment": "Sara och Elin", "rubrik": "Luleå, Piteå, Boden och Kalix", "text": "Kontoret i Luleå och de flesta fritidshusen i skärgården och längs älvdalarna.", "tagg": "hem"},
+    {"namn": "Tornedalen", "segment": "Jonas", "rubrik": "Haparanda till Pajala", "text": "Jonas kör Torneälvdalen och har de flesta hästmyreuppdragen i gamla gårdar och timmerhus.", "tagg": "tra"},
+    {"namn": "Malmfälten", "segment": "Anders och Niila", "rubrik": "Kiruna, Gällivare och fjällen", "text": "Arbetsboenden, fjällstugor och stugbyar. Har bilen och snöskotern stationerade i Kiruna.", "tagg": "skadedjur"}
+  ],
+  "berattelser": [
+    {"rubrik": "600 stugor stängda för vintern", "text": "Oktober är vår mest intensiva månad – i år tätade vi 214 stugor på fyra veckor.", "tagg": "hem"},
+    {"rubrik": "Egen värmebehandling i Kiruna", "text": "Vi har köpt ett eget aggregat för vägglöss och slipper vänta på hyrutrustning från kusten.", "tagg": "bostad"},
+    {"rubrik": "Hästmyror i hembygdsgården", "text": "Ett 1700-talshus i Pajala räddat efter att myrorna gnagt sig halvvägs genom en syll.", "tagg": "tra"}
+  ],
+  "nyckeltal": [
+    {"varde": "5", "enhet": "tekniker", "etikett": "För hela länet"},
+    {"varde": "600", "enhet": "stugor", "etikett": "Med vinteravtal"},
+    {"varde": "900", "enhet": "km", "etikett": "Per tekniker och vecka"},
+    {"varde": "3", "enhet": "språk", "etikett": "Svenska, finska, meänkieli"}
+  ],
+  "projekt": [
+    {"namn": "Hembygdsgård från 1700-talet", "ort": "Pajala", "typ": "Hästmyror", "ar": "2026", "text": "Bo i syllen behandlat och fuktskadat virke bytt i samråd med en timmerman.", "tagg": "tra"},
+    {"namn": "Arbetsboende med 340 rum", "ort": "Gällivare", "typ": "Vägglöss", "ar": "2025", "text": "Hundsök av alla rum och värmebehandling av 22 efter ett utbrott.", "tagg": "bostad"},
+    {"namn": "Stugby vid Kalixälven", "ort": "Överkalix", "typ": "Stugby", "ar": "2025", "text": "Sexton stugor tätade och kontrollerade två gånger per vinter.", "tagg": "hem"},
+    {"namn": "Fjällstugor", "ort": "Abisko", "typ": "Skoterbesök", "ar": "2025", "text": "Tre besök per vinter med snöskoter till stugor utan väg.", "tagg": "natur"},
+    {"namn": "Förskolor i inlandet", "ort": "Arvidsjaur", "typ": "Kommun", "ar": "2024", "text": "Fyra förskolor med fasta besöksveckor och giftfria fällor.", "tagg": "skadedjur"},
+    {"namn": "Skärgårdsstugor", "ort": "Luleå", "typ": "Fritidshus", "ar": "2026", "text": "Vinteravtal för 48 stugor på öarna – besök med bandvagn när isen bär.", "tagg": "hem", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Ett samtal", "text": "Du pratar med den som kommer ut. Vi bestämmer en vecka när vi ändå är i ditt område.", "tagg": "people"},
+    {"titel": "Höstbesöket", "text": "I oktober tätar vi ventiler, rörgenomföringar och springor och sätter fällor i låsta lådor.", "tagg": "hem"},
+    {"titel": "Vintertillsyn", "text": "Ett eller två besök med bil eller skoter. Du får bilder i mobilen efter varje besök.", "tagg": "natur"},
+    {"titel": "Vårens öppning", "text": "I april tar vi bort fällorna, städar upp och berättar vad vi har sett.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Långa avstånd, korta vägar till svar",
+    "text": "Vi kör långt, så vi planerar noga. Varje tekniker har sitt område och samordnar besöken så att bilen sällan kör tom. I stugor använder vi enbart mekaniska fällor, eftersom förgiftade möss annars äts av ugglor, rävar och mård.",
+    "mal": [["0", "giftbeten i fritidshus"], ["4 av 5", "besök samordnade med andra i området"], ["2 h", "max tid tills vi ringer tillbaka"]]
+  },
+  "karriar": {
+    "rubrik": "Bo i norr, jobba i hela länet",
+    "text": "Vi letar efter en sjätte kollega i Piteå eller Boden. Du behöver körkort, gärna skoterkort, och tycka om att vara ute i alla väder. Behörighetsutbildningen betalar vi.",
+    "jobb": [["Skadedjurstekniker", "Piteå eller Boden"]]
+  },
+  "kultur": "Litet bolag, stora avstånd: vi ses på kontoret i Luleå första måndagen varje månad och äter palt på Saras bekostnad.",
+  "citat": {"text": "I Stockholm kunde jag ta sju kunder om dagen. Här tar jag tre, men alla tre har väntat på någon som förstår hur ett timmerhus i Tornedalen fungerar.", "namn": "Sara Niemi", "roll": "Grundare och tekniker", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi bor i Göteborg och har farmors stuga i Korpilombolo. I april öppnade vi utan en enda musspillning för första gången på tio år.", "namn": "Kaisa och Peter R.", "ort": "Korpilombolo"},
+    {"text": "Jonas hittade hästmyrorna med en fuktmätare i en vägg vi var säkra på var torr. Han pratade finska med pappa hela besöket.", "namn": "Tarja L.", "ort": "Haparanda"},
+    {"text": "Vi har 340 rum och entreprenörer från hela Europa. Polarskydd var här inom ett dygn när första fallet av vägglöss kom.", "namn": "Mikael S.", "ort": "Gällivare"}
+  ],
+  "faq": [
+    ["Kommer ni ut till min stuga trots att den ligger långt bort?", "Ja. Vi tar samma pris i hela länet och samordnar besöken med andra stugor i samma område."],
+    ["Hur vet jag om det är hästmyror?", "Fint sågspånsliknande spill under väggar och lister och stora svarta myror inomhus på våren. Ring oss innan du börjar riva."],
+    ["Kan ni komma när vägen inte är plogad?", "Ja, med snöskoter från december till april om det finns spår eller led i närheten."],
+    ["Används gift i stugan?", "Nej. I fritidshus använder vi bara mekaniska fällor i låsta lådor."],
+    ["Vad kostar ett vinteravtal?", "2 950 kr för en stuga med bilväg och 3 950 kr för en stuga som kräver skoter."],
+    ["Pratar ni finska?", "Ja, Sara och Jonas pratar svenska, finska och meänkieli, och Niila kan nordsamiska."]
+  ],
+  "priser": [
+    {"namn": "Vinteravtal, bilväg", "pris": "2 950 kr", "enhet": "oktober–april", "text": "För stugor och fritidshus som nås med bil.", "punkter": ["Höststängning med tätning", "Ett tillsynsbesök i januari", "Bilder i mobilen efter varje besök", "Vårbesök med städning av fällor"], "utvald": true},
+    {"namn": "Vinteravtal, skoter", "pris": "3 950 kr", "enhet": "oktober–april", "text": "För stugor utan plogad väg vintertid.", "punkter": ["Tätning och fällådor före snön", "Två tillsynsbesök med skoter", "Bilder i mobilen efter varje besök", "Öppning i april"]},
+    {"namn": "Hästmyror", "pris": "fr. 5 800 kr", "enhet": "per hus", "text": "Spårning, behandling och efterkontroll.", "punkter": ["Fuktmätning och endoskop", "Behandling i boet", "Efterkontroll efter sex veckor", "Två års garanti"]}
+  ],
+  "prislista": [["Musbesök, villa", "1 950 kr"], ["Hundsök vägglöss, per rum", "fr. 450 kr"], ["Värmebehandling vägglöss, rum", "fr. 7 500 kr"], ["Getingbo", "1 450 kr"], ["Tätning, per timme", "650 kr"], ["Extra tillsyn under vintern", "850 kr"]],
+  "certifikat": [
+    {"titel": "Behörighet för alla fem", "text": "Alla fem tekniker har Kemikalieinspektionens behörighet för yrkesmässig bekämpning.", "ikon": "skold"},
+    {"titel": "Förarbevis snöskoter", "text": "Hela teamet har förarbevis för snöskoter och utbildning i vinterfärd och första hjälpen.", "ikon": "karta"},
+    {"titel": "CEPA – trots storleken", "text": "Certifierade sedan 2023 – som ett av de minsta bolagen i landet med certifieringen.", "ikon": "stjarna"},
+    {"titel": "Godkänd för arbetsboenden", "text": "Godkända leverantörer hos två av länets största boendeoperatörer för gruventreprenörer.", "ikon": "dokument"}
+  ],
+  "kunder": ["Pajala hembygdsförening", "Gällivare Arbetsboende", "Kalixälvens Stugby", "Arvidsjaurs kommun", "Abisko Fjällstugor", "Luleå Skärgårdsstugor", "Haparanda Gränshotell"],
+  "nyheter": [
+    ["2026-10-27", "214 stugor stängda på fyra veckor", "Oktober är över, och nu tar vi vintertillsynen – med skoter från december.", "hem"],
+    ["2026-06-03", "Hästmyrornas månad", "Ser du stora svarta myror inomhus i juni? Då är det dags att ringa.", "tra"],
+    ["2026-01-29", "Eget värmeaggregat i Kiruna", "Vägglöss i Malmfälten kan nu behandlas utan att vi väntar på utrustning från Luleå.", "bostad"]
+  ],
+  "kontakt": {"adress": "Industrivägen 11", "postnr": "973 45", "ort": "Luleå", "telefon": "070-174 06 30", "epost": "sara@polarskydd.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, oktober även lör",
+  "omrade": "Hela Norrbottens län",
+  "fot_cta": "Stänger du stugan i höst? Boka vinteravtalet före den 1 oktober.",
+  "bild": {"panel": "skadedjur", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Från länets alla hörn",
+    "proj_rubrik": "Stugor, gårdar och boenden",
+    "process_rubrik": "En vinter med Polarskydd",
+    "hb_etikett": "Natur och avstånd",
+    "omdomen_rubrik": "Röster från hela länet",
+    "faq_rubrik": "Det här frågar stugägarna",
+    "priser_rubrik": "Samma pris i hela länet",
+    "priser_utvald": "Flest stugor",
+    "priser_not": "Priser med moms. Ingen milersättning inom Norrbottens län.",
+    "boka_rubrik": "Var ligger stugan?",
+    "boka_text": "Skriv by eller närmaste ort och om det finns vinterväg. Vi ringer upp och föreslår en vecka när vi är i området.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Stugans läge och vinterväg"],
+    "logos_rubrik": "Stugbyar, boenden och kommuner",
+    "certifikat_rubrik": "Små men certifierade",
+    "kontakt_knapp": "Ring Sara",
+    "medarbetare": "Vi fem"
+  }
+}
