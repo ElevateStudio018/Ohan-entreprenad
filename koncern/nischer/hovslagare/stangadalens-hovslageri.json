@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "hovslagare",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Stångådalens Hovslageri AB",
+  "kortnamn": "Stångådalen",
+  "slug": "stangadalens-hovslageri",
+  "typ": "Fossilfritt hovslageri i Östergötland",
+  "tagline": "Fossilfri hovvård sedan 2020",
+  "slogan": "Vi har ersatt gasolen med induktion, dieseln med el och engångsskorna med återvunnet stål – utan att hästarna märker någon skillnad.",
+  "hero_rubrik": "Hovslageri utan gasol och diesel",
+  "hero_text": "Elva medarbetare i Linköping med åtta elbilar och induktionsvärmare i stället för ässja. Vi skor och verkar hästar i hela Östergötland.",
+  "intro_rubrik": "Sex år sedan sista gasolflaskan",
+  "om": [
+    "Stångådalens Hovslageri grundades 1994 av Ulf Sandberg och har alltid skott hästar mellan Linköping, Kinda och Åtvidaberg. När dottern Hanna tog över 2020 började omställningen: gasolässjorna byttes mot batteridrivna induktionsvärmare och bilarna mot elbilar med laddning vid verkstaden.",
+    "I dag är vi elva personer: åtta hovslagare, en lärling, en smed och Hanna, som delar sin tid mellan kontoret och hästarna. Utslitna skor samlas i en container vid varje stall och går tillbaka till ett stålverk i Bergslagen som tillverkar nya skor av en del av skrotet."
+  ],
+  "vagval_rubrik": "Vad behöver hästen den här säsongen?",
+  "tjanster": [
+    {"titel": "Skoning med induktion", "ikon": "laddning", "href": "verksamhet.html", "text": "Skon värms med induktion på trettio sekunder – utan öppen låga i stallgången."},
+    {"titel": "Verkning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Verkning av barfotahästar, ponnyer och unghästar var sjätte till åttonde vecka."},
+    {"titel": "Skoretur", "ikon": "kugge", "href": "verksamhet.html", "text": "Insamling av utslitna skor och sömmar från stallet för återvinning."},
+    {"titel": "Ortopedisk skoning", "ikon": "vard", "href": "verksamhet.html", "text": "Stödskor och limskor efter veterinärens bedömning."},
+    {"titel": "Ridskolor och föreningar", "ikon": "skola", "href": "verksamhet.html", "text": "Fasta avtal med årlig klimatredovisning för föreningens styrelse."},
+    {"titel": "Elbil till gården", "ikon": "bil", "href": "verksamhet.html", "text": "Alla bilar är elbilar och laddas med solel från verkstadens tak."},
+    {"titel": "Klimatredovisning", "ikon": "graf", "href": "hallbarhet.html", "text": "Så räknar vi utsläppen per skoning – och hur mycket de har minskat."},
+    {"titel": "Boka besök", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Ny kund? Vi har tider inom tre veckor i hela länet."}
+  ],
+  "affarsomraden": [
+    {"titel": "Skoning och verkning", "text": "Det mesta vi gör är vanlig skoning av ridhästar, ponnyer och travare. Med induktion värms skon jämnt och snabbt, och vi kan varmanpassa även i stall där öppen låga inte är tillåten.", "text2": "Hästar som är rädda för ljudet från gasolässjan står oftast lugnare.", "tagg": "hast"},
+    {"titel": "Skoretur", "text": "En häst sliter ut runt fem kilo järn per år. Vi ställer en liten container i varje stall vi besöker och tömmer den när den är full.", "text2": "Förra året samlade vi in 7,4 ton skor och sömmar som gick tillbaka till stålverket.", "tagg": "natur"},
+    {"titel": "Ridskolor med klimatkrav", "text": "Flera kommunala ridskolor ställer i dag miljökrav i sina upphandlingar. Vi lämnar en klimatredovisning per år med körsträcka, elförbrukning och mängd återvunnet järn.", "text2": "Redovisningen följer samma mall som kommunerna använder för sina andra leverantörer.", "tagg": "hast"},
+    {"titel": "Ortopedi och rehabilitering", "text": "Två av våra hovslagare arbetar med ortopediska skor tillsammans med veterinärer i Linköping. Specialskor smids i verkstaden i Tornby.", "text2": "Limskor av återvinningsbar plast används när hovväggen inte bär spik.", "tagg": "hast"}
+  ],
+  "bolag": [
+    {"namn": "Hovslagarna", "segment": "Hela Östergötland", "rubrik": "Åtta elbilar på väg varje morgon", "text": "Åtta hovslagare och en lärling med egna områden från Motala i väster till Valdemarsvik i öster.", "tagg": "hast"},
+    {"namn": "Verkstaden i Tornby", "segment": "Linköping", "rubrik": "Solceller på taket, städ på golvet", "text": "Smeden smider specialskor, sköter laddstationerna och sorterar returskorna innan de skickas vidare.", "tagg": "svets"},
+    {"namn": "Kontor och avtal", "segment": "Ridskolor och föreningar", "rubrik": "Siffrorna föreningarna behöver", "text": "Hanna Sandberg sköter avtalen och sammanställer klimatredovisningen för varje avtalskund.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Åttonde elbilen levererad", "text": "Den nya bilen har en inbyggd verkstadsinredning som drivs av bilens eget batteri.", "tagg": "el"},
+    {"rubrik": "7,4 ton järn tillbaka", "text": "Skoreturen slog rekord 2025 – motsvarande skorna till 1 500 hästar under ett år.", "tagg": "natur"},
+    {"rubrik": "Kommunal ridskola valde oss", "text": "Linköpings största ridskola bytte leverantör efter en upphandling med klimatkrav.", "tagg": "hast"}
+  ],
+  "nyckeltal": [
+    {"varde": "0", "enhet": "liter", "etikett": "Gasol och diesel under 2025"},
+    {"varde": "7,4", "enhet": "ton", "etikett": "Järn återvunnet förra året"},
+    {"varde": "–86 %", "enhet": "", "etikett": "Utsläpp per skoning sedan 2019"},
+    {"varde": "11", "enhet": "personer", "etikett": "Varav åtta hovslagare"}
+  ],
+  "projekt": [
+    {"namn": "Ryttarföreningen Tornbyslätten", "ort": "Linköping", "typ": "Ridskoleavtal", "ar": "2025", "text": "Femtio hästar med fast schema och klimatredovisning till föreningens årsmöte.", "tagg": "hast"},
+    {"namn": "Kinda Hästgård", "ort": "Kisa", "typ": "Skoning", "ar": "2025", "text": "Tolv ridhästar där induktionen gjorde att två nervösa hästar kunde skos utan lugnande.", "tagg": "hast"},
+    {"namn": "Åtvidabergs Travstall", "ort": "Åtvidaberg", "typ": "Travskoning", "ar": "2025", "text": "Aluminium och stål till sexton travare, med skoretur direkt i stallet.", "tagg": "hast"},
+    {"namn": "Motala Ponnyförening", "ort": "Motala", "typ": "Verkning", "ar": "2024", "text": "Tjugo ponnyer, verkning var sjunde vecka och föreningens första klimatredovisning.", "tagg": "natur"},
+    {"namn": "Solcellerna i Tornby", "ort": "Linköping", "typ": "Verkstad", "ar": "2024", "text": "Fyrtio kilowatt på verkstadstaket som laddar bilarna under sommarhalvåret.", "tagg": "el"},
+    {"namn": "Skoretur i Valdemarsvik", "ort": "Valdemarsvik", "typ": "Återvinning", "ar": "2026", "text": "Ny insamlingsrunda för åtta stall i östra länet.", "tagg": "natur"}
+  ],
+  "process": [
+    {"titel": "Bokning och område", "text": "Du får en fast hovslagare och ett ungefärligt datum för första besöket.", "tagg": "people"},
+    {"titel": "Skoning i stallet", "text": "Hovslagaren verkar, värmer skon med induktion och anpassar den på plats.", "tagg": "hast"},
+    {"titel": "Gamla skor i containern", "text": "Utslitna skor och sömmar läggs i returcontainern i stallet.", "tagg": "natur"},
+    {"titel": "Årets siffror", "text": "Avtalskunder får i januari en redovisning av körsträcka, el och återvunnet järn.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi redovisar varje kilo",
+    "text": "Utsläppen per skoning har gått från 9,2 kilo koldioxid 2019 till 1,3 kilo 2025. Det mesta av det som är kvar kommer från tillverkningen av stålet, och det arbetar vi med tillsammans med stålverket.",
+    "mal": [["1,3 kg", "koldioxid per skoning 2025"], ["2027", "alla skor av återvunnet stål"], ["100 %", "av bilarna laddade med förnybar el"]]
+  },
+  "karriar": {
+    "rubrik": "Elbil, induktion och ett eget område",
+    "text": "Vi söker en hovslagare som vill arbeta utan gasolflaskor och dieselmotor. Du får elbil med inredning, induktionsvärmare och ett eget område i länet.",
+    "jobb": [["Hovslagare med gesällbrev", "Linköping"], ["Lärling hovslageri", "Linköping"]]
+  },
+  "kultur": "Varje månad publicerar vi företagets siffror på väggen i verkstaden – körda mil, kilowattimmar och ton järn.",
+  "citat": {"text": "Pappa trodde inte att induktion skulle klara en varmanpassning. Nu vill han inte gå tillbaka.", "namn": "Hanna Sandberg", "roll": "Vd, andra generationen", "tagg": "hast"},
+  "omdomen": [
+    {"text": "Föreningen ville kunna redovisa klimatet för medlemmarna. Nu får vi siffrorna varje januari, svart på vitt.", "namn": "Per-Olof B.", "ort": "Linköping"},
+    {"text": "Min häst var livrädd för ässjan. Med induktionen står han och slumrar.", "namn": "Ida M.", "ort": "Kisa"},
+    {"text": "Containern för gamla skor i stallgången var en sådan enkel sak, men nu ligger det inga skor i hagen längre.", "namn": "Johanna T.", "ort": "Åtvidaberg"}
+  ],
+  "faq": [
+    ["Blir skoningen lika bra med induktion?", "Ja. Skon blir lika varm som i en ässja, och det går fortare att värma den en gång till för en sista justering."],
+    ["Kostar det mer?", "Nej. Vi har samma priser som andra hovslagare i länet, eftersom el är billigare än gasol och diesel."],
+    ["Vad händer med de gamla skorna?", "De samlas i containern, sorteras i verkstaden och skickas till ett stålverk i Bergslagen som smälter om dem."],
+    ["Räcker batteriet i bilen en hel dag?", "Bilarna har räckvidd för 30 mil och verkstaden drivs av en separat batteribank. Vi har aldrig behövt avbryta en dag."],
+    ["Kan ni hjälpa vår förening med klimatredovisning?", "Ja, alla avtalskunder får redovisningen utan kostnad."],
+    ["Skor ni ortopediskt?", "Ja, två av hovslagarna arbetar med ortopediska skor efter remiss från veterinär."]
+  ],
+  "certifikat": [
+    {"titel": "Gesällbrev", "text": "Alla åtta hovslagare har gesällbrev, och vår lärling gör gesällprovet 2027.", "ikon": "lov"},
+    {"titel": "Miljödiplom", "text": "Diplomerade enligt Svensk Miljöbas sedan 2022, med årlig revision.", "ikon": "trad"},
+    {"titel": "Klimatredovisning", "text": "Utsläppen beräknas enligt GHG-protokollet och granskas av en extern konsult varje år.", "ikon": "graf"},
+    {"titel": "Ansvarsförsäkring", "text": "Försäkring för skador på häst och egendom vid alla uppdrag.", "ikon": "skold"}
+  ],
+  "kunder": ["Ryttarföreningen Tornbyslätten", "Kinda Hästgård", "Åtvidabergs Travstall", "Motala Ponnyförening", "Linköpings kommun – Ridanläggningar", "Ljungsbro Islandshästar", "Stall Ekenäs", "Vikingstads Ryttargård"],
+  "nyheter": [
+    ["2026-10-08", "Bilar laddas nu även på vintern", "Vi har tecknat avtal om vindel från en kooperativ vindkraftspark i Östergötland.", "el"],
+    ["2026-04-14", "Så räknar vi utsläppen per skoning", "En genomgång av siffrorna bakom vår klimatredovisning.", "natur"],
+    ["2026-02-02", "Rekordår för skoreturen", "7,4 ton skor och sömmar samlades in under 2025.", "natur"]
+  ],
+  "kontakt": {"adress": "Gottorpsgatan 4", "postnr": "582 73", "ort": "Linköping", "telefon": "070-174 06 36", "epost": "hej@stangahov.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Östergötland: Linköping, Kinda, Åtvidaberg, Motala och Valdemarsvik",
+  "fot_cta": "Vill ni ha hovslagare med klimatredovisning? Boka ett möte med Hanna.",
+  "bild": {"hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Boka besök",
+    "hero_knapp": "Så skor vi",
+    "hero_lank": "Våra siffror",
+    "ber_rubrik": "Nytt från verkstaden i Tornby",
+    "proj_rubrik": "Stall som skor fossilfritt",
+    "process_rubrik": "En skoning, från bokning till retur",
+    "bolag_rubrik": "Bilar, verkstad och kontor",
+    "hb_etikett": "Klimat",
+    "omdomen_rubrik": "Föreningar och ryttare om omställningen",
+    "faq_rubrik": "Om induktion, el och skoretur",
+    "boka_rubrik": "Var står hästarna?",
+    "boka_falt": ["Namn", "Telefon", "Stall och ort", "Antal hästar"],
+    "certifikat_rubrik": "Diplom och redovisning",
+    "logos_rubrik": "Ridskolor och stall i länet",
+    "ny_rubrik": "Siffror och omställning",
+    "medarbetare": "Hovslagarna"
+  }
+}

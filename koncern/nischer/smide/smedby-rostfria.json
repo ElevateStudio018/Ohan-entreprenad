@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Smedby Rostfria AB",
+  "kortnamn": "Smedby Rostfria",
+  "slug": "smedby-rostfria",
+  "typ": "Rostfri verkstad i Kalmar",
+  "tagline": "Bara rostfritt sedan 1994",
+  "slogan": "Vi svetsar ingenting annat än rostfritt och syrafast – till mejerier, bryggerier, storkök och kustnära miljöer.",
+  "hero_rubrik": "Rostfritt utan en enda svart fog",
+  "hero_text": "Hygienisk processutrustning, rörsystem och rostfritt smide från vår verkstad i Smedby. Betade, passiverade och elektropolerade ytor till livsmedel och läkemedel.",
+  "intro_rubrik": "Trettiotvå år med ett enda material",
+  "om": [
+    "Torbjörn Nilsson startade Smedby Rostfria 1994 efter femton år som rörsvetsare på ett mejeri på Öland. Han bestämde redan från början att verkstaden aldrig skulle ta in kolstål, eftersom järnpartiklar från slipdamm räcker för att ett rostfritt rör ska börja rosta.",
+    "I dag är vi 31 anställda och verkstaden på Verkstadsgatan har egen betningsanläggning, elektropolering och ett rent rum för montage av processdelar. Ungefär 60 procent av uppdragen kommer från livsmedelsindustrin i Kalmar, Blekinge och på Öland."
+  ],
+  "vagval_rubrik": "Vilken yta behöver ni?",
+  "tjanster": [
+    {"titel": "Processrör", "ikon": "ror", "href": "verksamhet.html", "text": "Hygieniska rörsystem i EN 1.4404 med orbitalsvets och endoskopkontroll."},
+    {"titel": "Tankar och kärl", "ikon": "vatten", "href": "verksamhet.html", "text": "Blandningstankar, bufferttankar och tryckkärl upp till 12 kubikmeter."},
+    {"titel": "Storköksinredning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Diskbänkar, arbetsbord och hyllsystem efter mått till kök och vårdkök."},
+    {"titel": "Betning och polering", "ikon": "stjarna", "href": "verksamhet.html", "text": "Betning, passivering och elektropolering, även av andras detaljer."},
+    {"titel": "Kustnära räcken", "ikon": "bat", "href": "verksamhet.html", "text": "Syrafasta räcken och ledstänger för bryggor, hamnar och sjötomter."},
+    {"titel": "Serviceavtal", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Förebyggande kontroll av svetsar och packningar två gånger per år."},
+    {"titel": "Referenser", "ikon": "fabrik", "href": "projekt.html", "text": "Mejerier, bryggerier, fiskindustri och sjukhus i sydöstra Sverige."},
+    {"titel": "Frågor om rostfritt", "ikon": "sok", "href": "faq.html", "text": "Vad är skillnaden på 304 och 316? Vi svarar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Livsmedel och dryck", "text": "Vi bygger och bygger om processlinjer för mejerier, bryggerier och fiskberedning. Alla rörfogar orbitalsvetsas med formgas och kontrolleras med endoskop innan systemet trycksätts.", "text2": "Ytfinhet Ra under 0,8 µm som standard, under 0,4 µm vid elektropolering.", "tagg": "industri"},
+    {"titel": "Tryckkärl och tankar", "text": "Tankar och kärl konstrueras enligt tryckkärlsdirektivet PED 2014/68/EU med provtryckning i egen hall. Vi gör även isolerade mantlar för kylning och värmning.", "text2": "Största tanken hittills: 12 kubikmeter till ett bryggeri i Karlskrona.", "tagg": "svets"},
+    {"titel": "Storkök och vård", "text": "Rostfria bänkar, diskzoner och hyllor tillverkas efter ritning till skolkök, restauranger och sjukhus. Allt svetsas helt utan springor där bakterier kan samlas.", "text2": "Leveranstiden för en standardbänk är tre veckor.", "tagg": "interior"},
+    {"titel": "Marint och kustnära", "text": "Vid kusten rostar vanligt rostfritt efter några år. Vi använder syrafast stål och elektropolerar för att räcken och ledstänger ska stå emot salt och vind.", "text2": "Gästhamnen i Borgholm fick 340 meter nya räcken 2025.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Processverkstaden", "segment": "Livsmedel och läkemedel", "rubrik": "Orbitalsvets i rent rum", "text": "Fjorton svetsare med certifikat för TIG och orbitalsvets som bygger rörsystem, tankar och processmoduler.", "tagg": "svets"},
+    {"namn": "Ytbehandlingen", "segment": "Betning och elektropolering", "rubrik": "Ytan avgör hur länge det håller", "text": "Egen betningsanläggning med sluten vattenrening, som även tar legojobb från andra verkstäder.", "tagg": "industri"},
+    {"namn": "Montage och service", "segment": "Ute hos kund", "rubrik": "Ombyggnader under produktionsstopp", "text": "Åtta montörer som installerar och servar utrustning, oftast på helger när linjerna står stilla.", "tagg": "anlaggning"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ny CIP-linje på Ölandsmejeriet", "text": "380 meter processrör orbitalsvetsade under två helgstopp.", "tagg": "industri"},
+    {"rubrik": "Elektropolering i större format", "text": "Nya badet tar detaljer upp till 3,2 meter – nu kan vi polera hela räckessektioner.", "tagg": "svets"},
+    {"rubrik": "Räcken i Borgholms gästhamn", "text": "340 meter syrafasta räcken som ska klara Kalmarsundets saltstänk i minst trettio år.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "100 %", "enhet": "", "etikett": "Rostfritt – aldrig kolstål i verkstaden"},
+    {"varde": "31", "enhet": "anställda", "etikett": "Svetsare, montörer och konstruktörer"},
+    {"varde": "0,4", "enhet": "µm Ra", "etikett": "Ytfinhet efter elektropolering"},
+    {"varde": "1994", "enhet": "", "etikett": "Grundat i Smedby"}
+  ],
+  "projekt": [
+    {"namn": "CIP-linje Ölandsmejeriet", "ort": "Borgholm", "typ": "Processrör", "ar": "2026", "text": "Nytt disksystem med fyra kretsar och 380 meter rör i 1.4404.", "tagg": "industri"},
+    {"namn": "Gästhamnens räcken", "ort": "Borgholm", "typ": "Marint smide", "ar": "2025", "text": "340 meter elektropolerade räcken längs norra piren.", "tagg": "natur"},
+    {"namn": "Jästank bryggeri", "ort": "Karlskrona", "typ": "Tryckkärl", "ar": "2025", "text": "Isolerad jästank på 12 kubikmeter med kylmantel och PED-certifikat.", "tagg": "svets"},
+    {"namn": "Centralköket Oskarshamn", "ort": "Oskarshamn", "typ": "Storköksinredning", "ar": "2024", "text": "64 meter bänkar och diskzon till ett kök som lagar 3 200 portioner om dagen.", "tagg": "interior"},
+    {"namn": "Sillberedning Bergkvara", "ort": "Torsås", "typ": "Processlinje", "ar": "2024", "text": "Transportband och lakkar i syrafast stål som tål saltlake.", "tagg": "industri"},
+    {"namn": "Sterilavdelning länssjukhus", "ort": "Kalmar", "typ": "Vårdinredning", "ar": "2027", "text": "Diskbänkar och arbetsytor till ny sterilcentral, montage under våren.", "tagg": "interior", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Kravspecifikation", "text": "Vi går igenom medier, temperaturer, rengöring och ytkrav med er produktionstekniker.", "tagg": "kontor"},
+    {"titel": "Konstruktion", "text": "3D-modell med materialval och svetsplan som ni godkänner innan vi beställer material.", "tagg": "kontor"},
+    {"titel": "Tillverkning", "text": "Orbitalsvets, betning och elektropolering i verkstaden, med endoskopfilm på varje rörfog.", "tagg": "svets"},
+    {"titel": "Installation", "text": "Montage under ert produktionsstopp, provtryckning och överlämning med fullständig spårbarhet.", "tagg": "industri"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ren yta, rent vatten",
+    "text": "Betning med syra kräver ansvar. Vår anläggning har sluten vattenrening och neutralisering, och slammet hämtas av en godkänd mottagare. Rostfritt spill sorteras per stålsort och säljs tillbaka till stålverken.",
+    "mal": [["0", "liter obehandlat processvatten till avlopp"], ["99 %", "av rostfritt spill till omsmältning"], ["100 %", "spårbarhet på materialcertifikat"]]
+  },
+  "karriar": {
+    "rubrik": "Lär dig svetsa det svåraste stålet",
+    "text": "Orbitalsvets och hygienisk design är ett hantverk få behärskar. Vi utbildar dig internt i två år och betalar certifikat enligt ISO 9606-1 och ISO 14732.",
+    "jobb": [["TIG-svetsare rostfritt", "Kalmar"], ["Servicemontör livsmedel", "Kalmar"], ["Konstruktör hygienisk design", "Kalmar"]]
+  },
+  "kultur": "Verkstaden städas varje dag klockan 15.30 – i en rostfri verkstad är städning en del av kvaliteten.",
+  "citat": {"text": "En enda kolstålspån räcker för att förstöra ett rör för hundratusen kronor. Därför har vi inte haft en bit svart stål innanför dörren sedan 1994.", "namn": "Torbjörn Nilsson", "roll": "Grundare", "tagg": "svets"},
+  "omdomen": [
+    {"text": "Vi fick endoskopfilm på varenda fog i den nya CIP-linjen. Livsmedelsinspektören har aldrig varit så nöjd.", "namn": "Camilla B.", "ort": "Borgholm"},
+    {"text": "Smedby byggde om hela vår jästkällare på två helger. Bryggeriet stod aldrig still en vardag.", "namn": "Henrik N.", "ort": "Karlskrona"},
+    {"text": "Räckena i gästhamnen har stått två vintrar utan en rostprick. De gamla fick vi slipa varje vår.", "namn": "Ulf E.", "ort": "Borgholm"}
+  ],
+  "faq": [
+    ["Vad är skillnaden mellan 304 och 316?", "316 (EN 1.4404) innehåller molybden och klarar klorider, salt och syror mycket bättre än 304 (EN 1.4301). Vid kusten och i livsmedel med salt rekommenderar vi alltid 316."],
+    ["Varför rostar rostfritt ibland?", "Oftast på grund av järnpartiklar från verktyg som använts på vanligt stål, eller för att ytan inte betats efter svetsning. Därför arbetar vi bara med rostfritt och betar alla fogar."],
+    ["Kan ni elektropolera våra egna detaljer?", "Ja, vi tar legojobb upp till 3,2 meter. Leveranstiden är normalt fem arbetsdagar."],
+    ["Arbetar ni under produktionsstopp?", "Ja, de flesta installationer sker på helger eller under planerade stopp. Vi planerar arbetet så att linjen kan starta på måndagsmorgonen."],
+    ["Levererar ni dokumentation för livsmedelskontroll?", "Ja. Ni får materialcertifikat 3.1, svetsloggar, endoskopfilm och ytfinhetsmätning i en samlad pärm och digitalt."],
+    ["Hur långt reser ni?", "Främst i Kalmar, Blekinge och Kronoberg samt på Öland och Gotland, men vi har även levererat processutrustning till Norge och Danmark."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 3834-2", "text": "Fullständiga kvalitetskrav för smältsvetsning med egen IWE som svetsansvarig.", "ikon": "eld"},
+    {"titel": "PED 2014/68/EU", "text": "Tillverkning av tryckkärl enligt tryckkärlsdirektivet, med anmält organ som kontrollant.", "ikon": "skold"},
+    {"titel": "ISO 14732 orbitalsvets", "text": "Operatörscertifikat för mekaniserad orbitalsvetsning på samtliga processvetsare.", "ikon": "kugge"},
+    {"titel": "ISO 9001", "text": "Certifierat kvalitetsledningssystem sedan 2009.", "ikon": "dokument"}
+  ],
+  "kunder": ["Ölandsmejeriet", "Karlskrona Ångbryggeri", "Bergkvara Sillberedning", "Oskarshamns Centralkök", "Borgholms Gästhamn", "Regionfastigheter Kalmar", "Nybro Glasbruk"],
+  "nyheter": [
+    ["2026-09-29", "CIP-linjen i drift", "Ölandsmejeriets nya disksystem togs i drift efter två helgstopp.", "industri"],
+    ["2026-06-03", "Större elektropoleringsbad", "Nu polerar vi detaljer upp till 3,2 meter i ett stycke.", "svets"],
+    ["2026-01-22", "Därför ska bryggan ha 316", "En kort guide till stålsorter för kustnära räcken och ledstänger.", "natur"]
+  ],
+  "kontakt": {"adress": "Verkstadsgatan 4", "postnr": "393 65", "ort": "Kalmar", "telefon": "070-174 06 41", "epost": "order@smedbyrostfria.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.45–15.45",
+  "omrade": "Kalmar län, Blekinge, Kronoberg, Öland och Gotland",
+  "fot_cta": "Ska linjen byggas om? Skicka flödesschemat så återkommer vi med en kalkyl.",
+  "bild": {"panel": "svets", "hb": "industri"},
+  "text": {
+    "ber_rubrik": "Nytt från verkstaden",
+    "proj_rubrik": "Rostfria leveranser",
+    "process_rubrik": "Från kravspec till spårbar installation",
+    "hb_etikett": "Miljö",
+    "omdomen_rubrik": "Produktionschefer om oss",
+    "faq_rubrik": "Frågor om rostfritt stål",
+    "boka_rubrik": "Beskriv er process",
+    "boka_falt": ["Namn", "Telefon", "Företag", "Vad ska byggas eller byggas om?"],
+    "logos_rubrik": "Linjer och kök vi byggt",
+    "certifikat_rubrik": "Godkända för hygien och tryck",
+    "bolag_rubrik": "Tre avdelningar, ett material",
+    "ny_rubrik": "Om rostfritt och våra uppdrag",
+    "medarbetare": "Svetsarna"
+  }
+}

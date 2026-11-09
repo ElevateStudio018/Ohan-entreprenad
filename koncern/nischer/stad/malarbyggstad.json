@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "stad",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Mälarbyggstäd AB",
+  "kortnamn": "Mälarbyggstäd",
+  "slug": "malarbyggstad",
+  "typ": "Byggstäd för entreprenörer i Mälardalen",
+  "tagline": "Klart till slutbesiktning",
+  "slogan": "Vi städar byggen i tre steg – grovstäd, finstäd och slutstäd – så att besiktningsmannen bara hittar det ni har byggt.",
+  "hero_rubrik": "Inga städanmärkningar vid besiktningen",
+  "hero_text": "Byggstäd för byggföretag och fastighetsutvecklare i Västerås, Enköping och Eskilstuna. ID06, egna liftar och 42 byggstädare som vet var byggdammet gömmer sig.",
+  "intro_rubrik": "1 900 lägenheter slutstädade sedan 2020",
+  "om": [
+    "Mälarbyggstäd startades 2006 av Tomas Engström, som hade jobbat som snickare i femton år och sett hur många slutbesiktningar som sköts upp för att städningen inte var klar. Han började med två anställda och en släpkärra med industridammsugare.",
+    "I dag är vi 42 anställda och arbetar nästan bara åt byggföretag. Vi kommer in redan under stomskedet, städar löpande under produktionen och lämnar varje lägenhet besiktningsklar – fönster, ventilationsdon, golvbrunnar och dammet ovanpå dörrkarmarna."
+  ],
+  "vagval_rubrik": "I vilket skede är bygget?",
+  "tjanster": [
+    {"titel": "Grovstäd", "ikon": "hamare", "href": "verksamhet.html", "text": "Spill, kap och emballage bort under stom- och installationsskedet, sorterat i rätt container."},
+    {"titel": "Finstäd", "ikon": "kugge", "href": "verksamhet.html", "text": "Dammsugning med HEPA-filter innan målning, mattläggning och snickerier."},
+    {"titel": "Slutstäd", "ikon": "stjarna", "href": "verksamhet.html", "text": "Allt rent inför slutbesiktning: skåp, vitvaror, ventiler, golvbrunnar och fönster."},
+    {"titel": "Fönster efter bygg", "ikon": "sol", "href": "verksamhet.html", "text": "Skyddsfilm, färgstänk och fogrester skrapas bort från glas och karmar."},
+    {"titel": "Bodar och byggsanitet", "ikon": "hus", "href": "verksamhet.html", "text": "Daglig städning av bodar, matsalar och toaletter på arbetsplatsen."},
+    {"titel": "Höga ytor och lift", "ikon": "hiss", "href": "verksamhet.html", "text": "Damm på balkar, rör och installationer i lagerlokaler och trapphus."},
+    {"titel": "Avfallssortering", "ikon": "trad", "href": "verksamhet.html", "text": "Vi sorterar byggavfall enligt avfallsförordningen och rapporterar mängderna."},
+    {"titel": "Kalkyl på ritning", "ikon": "ritning", "href": "om-oss.html#kontakt", "text": "Skicka ritning och tidplan, så räknar vi på hela projektet."}
+  ],
+  "affarsomraden": [
+    {"titel": "Nyproduktion bostäder", "text": "Flerbostadshus är vår största marknad. Vi lägger in städningen i byggets tidplan och har samma arbetsledare från grovstäd till slutbesiktning.", "text2": "I snitt slutstädar vi en trea på 2,5 timmar med två byggstädare.", "tagg": "bygg"},
+    {"titel": "Lokaler och industri", "text": "Lager, verkstäder och kontor har stora ytor och höga tak. Vi städar balkar, rör och belysning från egna saxliftar och skurar golven med åkbar skurmaskin.", "text2": "Industrilokaler kan städas i etapper medan verksamheten är igång.", "tagg": "industri"},
+    {"titel": "Ombyggnad och ROT", "text": "Vid stambyten och renoveringar i bebodda hus städar vi trapphus och lägenheter varje dag, så att de boende kan bo kvar.", "text2": "Vi lägger skyddspapp och dammskydd och tar bort det när hantverkarna är klara.", "tagg": "bostad"},
+    {"titel": "Arbetsplatsservice", "text": "Bodar, matsalar och byggtoaletter städas varje dag. Ett rent bodetablissemang minskar sjukfrånvaron och gör det lättare att rekrytera.", "text2": "Vi fyller också på förbrukningsmaterial och tömmer kärl.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Bostadslaget", "segment": "24 byggstädare", "rubrik": "Från stomme till nyckel", "text": "Löpande och slutstäd i flerbostadshus och radhusområden.", "tagg": "bygg"},
+    {"namn": "Industrilaget", "segment": "10 byggstädare", "rubrik": "Höga tak och stora golv", "text": "Lager, verkstäder och industrilokaler med egna liftar och åkbara maskiner.", "tagg": "industri"},
+    {"namn": "Arbetsplatsservice", "segment": "6 städare", "rubrik": "Bodar som håller standard", "text": "Daglig städning av byggbodar och etableringar på tolv arbetsplatser.", "tagg": "stadning"}
+  ],
+  "berattelser": [
+    {"rubrik": "212 lägenheter på Öster Mälarstrand", "text": "Slutstäd i fyra etapper, alla godkända utan städanmärkningar vid besiktningen.", "tagg": "bygg"},
+    {"rubrik": "Ny saxlift på 14 meter", "text": "För damm på takbalkar och ventilationskanaler i lagerlokaler.", "tagg": "industri"},
+    {"rubrik": "Avfallsrapport till varje projekt", "text": "Nu får alla kunder kilo per fraktion efter varje månad, klart att lämna till kommunen.", "tagg": "bygg"}
+  ],
+  "nyckeltal": [
+    {"varde": "1 900", "enhet": "lägenheter", "etikett": "Slutstädade sedan 2020"},
+    {"varde": "2,5 h", "enhet": "", "etikett": "Slutstäd av en trea med två städare"},
+    {"varde": "98 %", "enhet": "", "etikett": "Utan städanmärkning vid besiktning"},
+    {"varde": "42", "enhet": "byggstädare", "etikett": "Alla med ID06"}
+  ],
+  "projekt": [
+    {"namn": "Kvarteret Ångkranen", "ort": "Västerås, Öster Mälarstrand", "typ": "Slutstäd nyproduktion", "ar": "2025", "text": "212 lägenheter i fyra etapper, alla utan städanmärkningar vid besiktningen.", "tagg": "bygg"},
+    {"namn": "Logistikhus vid Hacksta", "ort": "Västerås", "typ": "Industristäd", "ar": "2025", "text": "18 000 kvadratmeter lager med balkar och sprinklerrör dammade från lift.", "tagg": "industri"},
+    {"namn": "Stambyte i Råby", "ort": "Västerås", "typ": "Ombyggnad i bebott hus", "ar": "2026", "text": "Daglig städning av trapphus och 96 lägenheter under pågående stambyte.", "tagg": "bostad", "status": "Pågående"},
+    {"namn": "Radhusen i Ekolsund", "ort": "Enköping", "typ": "Löpande och slutstäd", "ar": "2024", "text": "34 radhus från grovstäd till besiktning på sex månader.", "tagg": "bygg"},
+    {"namn": "Skola i Skiftinge", "ort": "Eskilstuna", "typ": "Slutstäd lokaler", "ar": "2025", "text": "Klassrum, matsal och idrottshall klara två veckor före skolstart.", "tagg": "stadning"},
+    {"namn": "Arbetsplats Kopparlunden", "ort": "Västerås", "typ": "Bodar och byggsanitet", "ar": "2026", "text": "Daglig städning av bodetablering för 140 hantverkare.", "tagg": "bygg", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Kalkyl på ritning", "text": "Vi räknar på ytor, antal lägenheter och tidplan och lämnar fast pris per etapp.", "tagg": "kontor"},
+    {"titel": "In i tidplanen", "text": "Städningen läggs in i byggets tidplan, med datum för grov-, fin- och slutstäd.", "tagg": "bygg"},
+    {"titel": "Löpande städ", "text": "Grovstäd och finstäd under produktionen, med avfallsrapport varje månad.", "tagg": "bygg"},
+    {"titel": "Egen förbesiktning", "text": "Vår arbetsledare går igenom varje lägenhet med checklista dagen innan besiktningen.", "tagg": "stadning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Byggdamm är ett arbetsmiljöproblem",
+    "text": "Kvartsdamm och gipsdamm skadar lungorna. Därför använder vi bara dammsugare med H-klassade filter, andningsskydd vid torr städning och vattenbegjutning vid sopning av betong.",
+    "mal": [["100 %", "H-klassade dammsugare"], ["0", "torrsopning av betonggolv"], ["85 %", "byggavfall till materialåtervinning"]]
+  },
+  "karriar": {
+    "rubrik": "Byggstäd är ett eget yrke",
+    "text": "Vi lär dig maskiner, lift och fallskydd och ger dig ID06 från första dagen. Du jobbar dagtid, måndag till fredag, och följer samma bygge i månader.",
+    "jobb": [["Byggstädare", "Västerås"], ["Byggstädare", "Eskilstuna"], ["Arbetsledare byggstäd", "Västerås"]]
+  },
+  "kultur": "Alla nyanställda får arbetsskor, kläder med reflex och en dags utbildning i farligt damm innan de går ut på bygget.",
+  "citat": {"text": "Jag har stått på slutbesiktningar där allt var färdigbyggt men damm på karmarna sköt upp inflyttningen en vecka. Det ska inte hända med oss.", "namn": "Tomas Engström", "roll": "Grundare och vd", "tagg": "bygg"},
+  "omdomen": [
+    {"text": "212 lägenheter och inte en enda städanmärkning. Det har jag aldrig varit med om tidigare.", "namn": "Daniel S.", "ort": "Västerås"},
+    {"text": "De är med på byggmötena och vet när de ska in. Jag behöver aldrig jaga dem.", "namn": "Anna-Karin P.", "ort": "Enköping"},
+    {"text": "Bodarna är renare än på något bygge jag jobbat på. Gubbarna märker det.", "namn": "Robert L.", "ort": "Kopparlunden"}
+  ],
+  "faq": [
+    ["När ska byggstädningen in i tidplanen?", "Gärna från start. Grovstäd behövs under stomskedet, finstäd före ytskikt och slutstäd en till två veckor före besiktningen."],
+    ["Vad kostar slutstäd av en lägenhet?", "En trea på 75 kvadratmeter kostar runt 2 900 kronor exklusive moms, beroende på fönster och kök. Vi lämnar fast pris per etapp."],
+    ["Har ni egna maskiner?", "Ja: åkbara skurmaskiner, H-klassade industridammsugare, två saxliftar och en släpvagn för avfall."],
+    ["Tar ni bort skyddsfilm från fönster?", "Ja. Skyddsfilm, färgstänk och fogrester tas bort med glasskrapa och rätt lösningsmedel utan att repa glaset."],
+    ["Kan ni städa medan hantverkarna jobbar?", "Ja, det är så vi gör löpande städ. Vi planerar med platschefen så att vi inte står i vägen."],
+    ["Arbetar ni utanför Västerås?", "I hela Mälardalen – Västerås, Enköping, Eskilstuna, Köping och Sala. Större projekt tar vi även i Uppsala och Örebro."]
+  ],
+  "certifikat": [
+    {"titel": "ID06", "text": "Alla anställda har ID06-kort och är registrerade i personalliggare.", "ikon": "hjalm"},
+    {"titel": "BAM", "text": "Arbetsledarna har utbildning i Bättre arbetsmiljö och kan ingå i byggets arbetsmiljöorganisation.", "ikon": "folk"},
+    {"titel": "Lift och fallskydd", "text": "Liftutbildning och fallskyddsutbildning för alla som arbetar på höjd.", "ikon": "hiss"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat kvalitets- och miljöledningssystem sedan 2018.", "ikon": "skold"}
+  ],
+  "kunder": ["Västmanlands Husbyggare", "Kungsörs Bygg & Snickeri", "Mälarstaden Bostadsutveckling", "Hacksta Logistikfastigheter", "Eskilstuna Skolbyggen", "Ekolsunds Radhus", "Råby Fastighetsförvaltning", "Kopparlundens Byggkonsortium"],
+  "nyheter": [
+    ["2026-09-22", "Nya regler för byggavfall", "Så påverkar kraven på sortering och rapportering ert nästa projekt.", "bygg"],
+    ["2026-03-17", "Vi öppnar i Eskilstuna", "Ett nytt lag med åtta byggstädare och egen bas i Kjula.", "people"],
+    ["2025-11-04", "Checklistan inför slutbesiktning", "De tolv ställen där besiktningsmännen oftast hittar damm.", "stadning"]
+  ],
+  "kontakt": {"adress": "Saltängsvägen 48", "postnr": "721 32", "ort": "Västerås", "telefon": "070-174 06 19", "epost": "kalkyl@malarbyggstad.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–16",
+  "omrade": "Mälardalen – Västerås, Enköping, Eskilstuna, Köping och Sala",
+  "fot_cta": "Skicka ritning och tidplan – vi räknar på hela projektet inom tre arbetsdagar.",
+  "bild": {"panel": "bygg", "hb": "bygg"},
+  "text": {
+    "hero_knapp": "Byggstäd i tre steg",
+    "kontakt_knapp": "Skicka ritning",
+    "vagval_etikett": "Byggskede",
+    "ber_rubrik": "På bygget just nu",
+    "proj_rubrik": "Byggen vi har lämnat besiktningsklara",
+    "process_rubrik": "Från kalkyl till godkänd besiktning",
+    "hb_etikett": "Arbetsmiljö",
+    "omdomen_rubrik": "Platschefernas omdöme",
+    "faq_rubrik": "Frågor från platschefer",
+    "boka_rubrik": "Skicka ritning och tidplan",
+    "boka_text": "Bifoga ritning eller beskriv projektet, antal lägenheter och datum för besiktning, så lämnar vi kalkyl.",
+    "boka_falt": ["Namn", "Telefon", "Företag och projekt", "Antal lägenheter, yta och besiktningsdatum"],
+    "logos_rubrik": "Byggföretag som anlitar oss",
+    "certifikat_rubrik": "Behörigheter för byggarbetsplatsen",
+    "bolag_rubrik": "Tre lag på bygget",
+    "ny_rubrik": "Nytt för byggledare",
+    "medarbetare": "Byggstädarna"
+  }
+}

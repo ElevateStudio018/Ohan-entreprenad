@@ -1,0 +1,130 @@
+{
+  "profil": "nisch",
+  "nisch": "begravning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Begravningsjouren Väst AB",
+  "kortnamn": "Jouren Väst",
+  "slug": "jouren-vast",
+  "typ": "Begravningsjour och byrå i Göteborg",
+  "tagline": "Öppet alla nätter",
+  "slogan": "Vi svarar i telefon, hämtar och tar hand om – dygnet runt, årets alla dagar, i hela Storgöteborg.",
+  "hero_rubrik": "Natt eller dag – vi kommer inom 90 minuter",
+  "hero_text": "En människa dör oftare på natten än på kontorstid. Vår jourcentral på Hisingen är bemannad dygnet runt, och en av nio bilar är hos er inom en och en halv timme.",
+  "intro_rubrik": "Jour sedan 1998",
+  "om": [
+    "Jouren Väst startades 1998 av Leif och Margareta Strömberg som en transportfirma som hämtade avlidna åt andra begravningsbyråer i Göteborg. 2010 öppnade vi en egen rådgivning, och i dag ordnar vi omkring 700 begravningar om året utöver transporterna.",
+    "Vi är 34 anställda, varav 18 chaufförer som arbetar i treskift. I lokalerna på Exportgatan har vi jourcentral, kylrum för 40 avlidna, visningsrum och kontor för rådgivarna."
+  ],
+  "vagval_rubrik": "Vad har hänt?",
+  "tjanster": [
+    {"titel": "Dödsfall i hemmet", "ikon": "hem", "href": "verksamhet.html", "text": "Vi kommer hem till er, även mitt i natten, och tar god tid på oss."},
+    {"titel": "Hämtning från boende", "ikon": "bil", "href": "verksamhet.html", "text": "Fasta rutiner med äldreboenden och hemsjukvård i sju kommuner."},
+    {"titel": "Ordna begravningen", "ikon": "kors", "href": "verksamhet.html", "text": "Våra rådgivare tar över dagen efter, när ni har hunnit sova."},
+    {"titel": "Visning och avsked", "ikon": "lampa", "href": "verksamhet.html", "text": "Visningsrum på Hisingen som kan bokas kvällar och helger."},
+    {"titel": "Transport åt byråer", "ikon": "vag", "href": "verksamhet.html", "text": "Hämtning, kylförvaring och körningar för tjugotalet byråer i Västsverige."},
+    {"titel": "Långväga transport", "ikon": "karta", "href": "verksamhet.html", "text": "Till hemorten i Sverige och Norden, med två chaufförer på långa sträckor."},
+    {"titel": "Bouppteckning", "ikon": "dokument", "href": "verksamhet.html", "text": "Handläggning av dödsboanmälan och bouppteckning genom vår juristpartner."},
+    {"titel": "Ring jourcentralen", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ett nummer, bemannat dygnet runt av människor – aldrig en telefonsvarare."}
+  ],
+  "affarsomraden": [
+    {"titel": "Jour för familjer", "text": "När någon dör hemma ringer ni först 1177 eller hemsjukvården, sedan oss. Vi kommer två personer, svarar på frågor och hämtar när ni säger till – ingen tid är för sen eller för tidig.", "text2": "Rådgivaren ringer nästa vardag för att boka ett första möte.", "tagg": "begravning"},
+    {"titel": "Transporter för byråer och vård", "text": "Tjugotvå begravningsbyråer och sju kommuner anlitar oss för hämtning från hem, boenden och sjukhus. Vi har avtal om kylförvaring och kör till bårhus, kapell och krematorier i hela regionen.", "text2": "Varje hämtning dokumenteras digitalt med tid, plats och mottagare.", "tagg": "stad"},
+    {"titel": "Begravningar", "text": "Våra sex rådgivare ordnar kyrkliga och borgerliga begravningar i Göteborg, Kungälv, Partille och Mölndal. Vi har fasta kontakter med Kvibergs och Östra kyrkogårdens kapell.", "text2": "Första mötet kan hållas hemma, på kontoret eller över telefon.", "tagg": "begravning"},
+    {"titel": "Långa transporter", "text": "Ska begravningen hållas i Norrland, Finland eller Norge kör vi dit, med två chaufförer som turas om. En transport till Haparanda tar cirka sjutton timmar.", "text2": "Vi samordnar med byrån på mottagarorten.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Jourcentralen", "segment": "Exportgatan, dygnet runt", "rubrik": "Sex operatörer i treskift", "text": "Tar emot omkring 4 500 samtal om året och dirigerar bilarna. Medelsvarstiden är 14 sekunder.", "tagg": "kontor"},
+    {"namn": "Transport och förvaring", "segment": "Nio bilar, kylrum för 40", "rubrik": "Arton chaufförer", "text": "Chaufförerna kör alltid två och två vid hämtning i hem och har utbildning i bemötande av anhöriga.", "tagg": "stad"},
+    {"namn": "Rådgivningen", "segment": "Begravningar för familjer", "rubrik": "Dagen efter natten", "text": "Sex rådgivare tar över när familjen är redo och ordnar ceremoni, minnesstund och gravsättning.", "tagg": "begravning"},
+    {"namn": "Byråtjänster", "segment": "B2B i Västsverige", "rubrik": "Jour åt andra byråer", "text": "Vi svarar i telefon och hämtar i andra byråers namn när de har stängt – deras familjer märker ingen skillnad.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Två nya bilar i flottan", "text": "Båda är eldrivna och har lyftbord som skonar chaufförernas ryggar.", "tagg": "stad"},
+    {"rubrik": "Avtal med Kungälvs kommun", "text": "Från januari hämtar vi från kommunens samtliga särskilda boenden.", "tagg": "kontor"},
+    {"rubrik": "Ny telefonlinje för vårdpersonal", "text": "Undersköterskor och sjuksköterskor får ett eget nummer som går direkt till jourledaren.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "90", "enhet": "min", "etikett": "Längsta tid till hämtning"},
+    {"varde": "24/7", "enhet": "", "etikett": "Bemannad jourcentral"},
+    {"varde": "9", "enhet": "bilar", "etikett": "I trafik"},
+    {"varde": "22", "enhet": "byråer", "etikett": "Använder vår jour"}
+  ],
+  "projekt": [
+    {"namn": "Hämtning på nyårsnatten", "ort": "Majorna", "typ": "Jour i hemmet", "ar": "2026", "text": "Klockan 01.20 en nyårsnatt – bilen var framme 01.58 och familjen fick sitta kvar i en timme innan vi bar ut.", "tagg": "begravning", "status": "Genomförd"},
+    {"namn": "Transport till Haparanda", "ort": "Göteborg–Haparanda", "typ": "Långväga transport", "ar": "2025", "text": "1 330 kilometer med två chaufförer och överlämning till byrån i Haparanda klockan sju på morgonen.", "tagg": "natur"},
+    {"namn": "Jouravtal med 22 byråer", "ort": "Västra Götaland", "typ": "Byråtjänster", "ar": "2025", "text": "Vi svarar i deras namn kvällar och helger – i år blev det 1 900 samtal.", "tagg": "kontor"},
+    {"namn": "Begravning i Kvibergs kapell", "ort": "Göteborg", "typ": "Borgerlig begravning", "ar": "2025", "text": "En spårvagnsförare som fick en sista hälsning av kollegorna, som stannade linje 6 utanför kapellet.", "tagg": "begravning"},
+    {"namn": "Avtal med Partille kommun", "ort": "Partille", "typ": "Kommunal hämtning", "ar": "2024", "text": "Hämtning från åtta boenden med fast kontaktperson för varje enhet.", "tagg": "stad"},
+    {"namn": "Visning en julaftonskväll", "ort": "Hisingen", "typ": "Avsked", "ar": "2024", "text": "Familjen ville ses med sin pappa på julafton, och vi öppnade visningsrummet klockan sju.", "tagg": "interior"}
+  ],
+  "process": [
+    {"titel": "Samtalet", "text": "En människa svarar, vanligtvis inom 15 sekunder. Hon frågar var ni är, vad som har hänt och när ni vill att vi kommer.", "tagg": "kontor"},
+    {"titel": "Bilen kommer", "text": "Två chaufförer i mörka kläder kommer med en omärkt bil. De presenterar sig och frågar om ni vill vara med.", "tagg": "stad"},
+    {"titel": "Vila hos oss", "text": "Den som har dött vilar i vårt kylrum på Hisingen tills begravningen, eller förs till den byrå ni har valt.", "tagg": "interior"},
+    {"titel": "Rådgivaren ringer", "text": "Nästa vardag hör vår rådgivare av sig och bokar ett möte, om ni vill att vi ordnar begravningen.", "tagg": "begravning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mätbara löften, natt som dag",
+    "text": "Vi mäter tiden från samtal till ankomst på varje uppdrag och redovisar resultatet varje kvartal för våra avtalskunder. Bilarna byts successivt till el, och alla chaufförer går en dags utbildning i bemötande av anhöriga varje år.",
+    "mal": [["90 min", "längsta tid till hämtning i Storgöteborg"], ["14 sek", "medelsvarstid i jourcentralen"], ["6 av 9", "bilar eldrivna 2027"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba när andra sover",
+    "text": "Hos oss arbetar du i treskift med OB-tillägg och fast schema sex veckor framåt. Du kör alltid med en kollega, och alla nyanställda får tre veckors introduktion och lyftutbildning.",
+    "jobb": [["Jourchaufför, natt", "Göteborg"], ["Jouroperatör", "Göteborg"], ["Begravningsrådgivare", "Göteborg"]]
+  },
+  "kultur": "Efter varje svårt uppdrag – ett barn, en olycka – har chaufförerna samtal med vår handledare innan de går av passet.",
+  "citat": {"text": "Folk tror att det är ett mörkt jobb. Men att vara den som kommer lugnt in i ett kök klockan tre på natten, när allt annat har rasat – det är meningsfullt.", "namn": "Margareta Strömberg", "roll": "Grundare och jourledare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Mamma dog strax efter två på natten. Jouren svarade direkt och två män kom som tog sig tid att prata med min tonårsson.", "namn": "Annika R.", "ort": "Torslanda"},
+    {"text": "Vi är en liten byrå i Kungälv och kan inte ha jour själva. Med Jouren Väst får våra familjer svar på natten i vårt namn.", "namn": "Peter L.", "ort": "Kungälv"},
+    {"text": "Som sjuksköterska i hemsjukvården ringer jag dem ofta. De kommer alltid när de sagt, och de är fina mot de anhöriga.", "namn": "Sanna J.", "ort": "Partille"}
+  ],
+  "faq": [
+    ["Måste vi ringa er direkt när någon har dött hemma?", "Nej. Först ska en läkare eller sjuksköterska konstatera dödsfallet. Därefter kan ni vänta så länge ni vill – många vill sitta kvar några timmar."],
+    ["Kostar det extra att ni kommer på natten?", "Nej, hämtning kostar lika mycket alla tider på dygnet för familjer som ordnar begravningen hos oss."],
+    ["Är vi bundna att ordna begravningen hos er om ni hämtar?", "Nej. Vill ni anlita en annan byrå för själva begravningen för vi över den som har dött dit, och ni betalar bara för hämtning och förvaring."],
+    ["Kan vi följa med i bilen?", "Av säkerhetsskäl kan anhöriga inte åka med, men ni kan följa efter och vara med när vi tar emot på Hisingen."],
+    ["Hur blir en byrå ansluten till er jour?", "Vi tecknar ett avtal med fast månadsavgift och pris per hämtning. Vi svarar i byråns namn och skickar en rapport varje morgon."],
+    ["Vad händer om dödsfallet sker utanför Göteborg?", "Vi kör i hela Västra Götaland och norra Halland. Utanför Storgöteborg kan det ta upp till tre timmar."],
+    ["Har ni visningsrum?", "Ja, ett större och ett mindre rum på Exportgatan, som kan bokas även kvällar och helger."]
+  ],
+  "certifikat": [
+    {"titel": "SBF-auktoriserade", "text": "Medlem i Sveriges Begravningsbyråers Förbund och granskade enligt förbundets regler.", "ikon": "skold"},
+    {"titel": "Upphandlade av kommuner", "text": "Avtal efter offentlig upphandling med sju kommuner i Göteborgsregionen.", "ikon": "dokument"},
+    {"titel": "Arbetsmiljö och lyft", "text": "Alla chaufförer har lyftutbildning och fordonen har lyftbord enligt Arbetsmiljöverkets föreskrifter.", "ikon": "hjalm"},
+    {"titel": "Miljödiplomerade", "text": "Miljödiplomerade enligt Svensk Miljöbas sedan 2021, med plan för en helt eldriven fordonsflotta.", "ikon": "laddning"}
+  ],
+  "kunder": ["Kungälvs kommun, äldreomsorgen", "Partille kommun", "Askims Begravningsbyrå", "Lerums Begravningsbyrå", "Kungsbacka Ceremonibyrå", "Hisingens Seniorboende AB", "Älvsborgs Hospice", "Mölndals Hemsjukvård"],
+  "nyheter": [
+    ["2026-10-27", "Kungälvs kommun väljer oss", "Från den 1 januari hämtar vi från kommunens alla särskilda boenden.", "kontor"],
+    ["2026-06-03", "Två nya elbilar levererade", "Nu är fyra av nio bilar eldrivna.", "stad"],
+    ["2025-11-18", "Eget nummer för vårdpersonal", "Hemsjukvården når jourledaren direkt utan att gå via växeln.", "people"]
+  ],
+  "kontakt": {"adress": "Exportgatan 24", "postnr": "422 46", "ort": "Hisings Backa", "telefon": "070-174 06 41", "epost": "jour@jourenvast.se", "orgnr": ""},
+  "oppettider": "Jourcentralen dygnet runt, rådgivning mån–fre 8–17",
+  "omrade": "Storgöteborg, Kungälv, Partille, Mölndal och Västra Götaland",
+  "fot_cta": "Har någon just dött? Ring oss – vi svarar alltid, även nu.",
+  "text": {
+    "hero_knapp": "Vad händer när ni ringer",
+    "kontakt_knapp": "Ring jouren",
+    "ber_etikett": "Från jourcentralen",
+    "ber_rubrik": "Senaste nytt från Hisingen",
+    "proj_etikett": "Uppdrag",
+    "proj_rubrik": "Nätter och dagar vi har ställt upp",
+    "status_klart": "Utfört",
+    "process_etikett": "Den första timmen",
+    "process_rubrik": "Från samtal till lugn",
+    "hb_etikett": "Våra mätetal",
+    "bolag_rubrik": "Fyra enheter som aldrig stänger",
+    "omdomen_rubrik": "Familjer, byråer och vårdpersonal",
+    "faq_rubrik": "Frågor vi får på natten",
+    "boka_rubrik": "Är det inte akut? Skriv här",
+    "boka_text": "Gäller det en planering eller ett avtal för byrå eller boende? Lämna uppgifter så ringer vi under dagen.",
+    "boka_falt": ["Namn", "Telefon", "Organisation (om någon)", "Vad gäller det?"],
+    "logos_rubrik": "Kommuner och byråer som litar på vår jour",
+    "certifikat_rubrik": "Upphandlade och auktoriserade",
+    "ny_rubrik": "Nytt från Jouren Väst",
+    "panel_etikett": "Jobba skift hos oss"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "profil": "nisch",
+  "nisch": "glas",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Solsta Glas AB",
+  "kortnamn": "Solsta Glas",
+  "slug": "solsta-glas",
+  "typ": "Energiglas och återbruk i Värmland",
+  "tagline": "Byt glaset, behåll fönstret",
+  "slogan": "Vi sänker värmeräkningen genom att byta glaset i de fönster du redan har – och tar hand om det gamla glaset så att det blir nytt.",
+  "hero_rubrik": "Varmare hus utan ett enda nytt fönster",
+  "hero_text": "Energiglas i dina befintliga bågar minskar värmeförlusten med upp till hälften, för en bråkdel av vad nya fönster kostar. Vi mäter, byter och återvinner i hela Värmland.",
+  "intro_rubrik": "Glasmästare med energiräknare",
+  "om": [
+    "Solsta Glas startades 2015 av energirådgivaren Emma Sjödin och glasmästaren Viktor Persson. Emma hade sett hundratals villor i Värmland där ägarna planerade att byta helt fungerande fönster, och Viktor visste att det oftast räckte att byta innerglaset.",
+    "I dag är vi 14 anställda med verkstad och återbruksbutik på Våxnäs i Karlstad. Vi arbetar åt villaägare, bostadsrättsföreningar och kommunala fastighetsbolag – och vi räknar alltid ut energibesparingen innan vi lämnar offert."
+  ],
+  "vagval_rubrik": "Vad vill du uppnå?",
+  "tjanster": [
+    {"titel": "Energiglas i innerbågen", "ikon": "sol", "href": "verksamhet.html", "text": "Lågemissionsglas i befintlig innerbåge – klart på en dag i en vanlig villa."},
+    {"titel": "Isolerglas i gamla bågar", "ikon": "hus", "href": "verksamhet.html", "text": "Smala isolerrutor som passar i kopplade bågar från 1950–1980."},
+    {"titel": "Energikartläggning", "ikon": "graf", "href": "verksamhet.html", "text": "Värmekamera och U-värdesmätning för att se var värmen läcker ut."},
+    {"titel": "Föreningsprojekt", "ikon": "folk", "href": "verksamhet.html", "text": "Hela fastigheten på en gång, med kalkyl till styrelsen och stämman."},
+    {"titel": "Solskyddsglas", "ikon": "lampa", "href": "verksamhet.html", "text": "Glas som stänger ute värmen i söderlägen utan att göra rummet mörkt."},
+    {"titel": "Återbruksbutiken", "ikon": "lada", "href": "verksamhet.html", "text": "Begagnade fönster, dörrar och glas till stugor, växthus och kallförråd."},
+    {"titel": "Glasåtervinning", "ikon": "kugge", "href": "verksamhet.html", "text": "Vi samlar in planglas från byggen och skickar det till ny glastillverkning."},
+    {"titel": "Räkna på ditt hus", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Skicka antal fönster och byggår så får du en kalkyl."}
+  ],
+  "affarsomraden": [
+    {"titel": "Energiglas för villor", "text": "I ett kopplat fönster byter vi innerglaset mot ett lågemissionsglas. U-värdet går från ungefär 2,8 till 1,6, och fönstret ser likadant ut som förut.", "text2": "En villa med 15 fönster tar oftast en arbetsdag och kostar mellan 25 000 och 40 000 kronor efter ROT-avdrag.", "tagg": "hem"},
+    {"titel": "Föreningar och fastighetsbolag", "text": "För flerbostadshus räknar vi på hela fastigheten med värmekamera och energistatistik. Styrelsen får en kalkyl med återbetalningstid som går att visa på stämman.", "text2": "Vi byter glas lägenhet för lägenhet, med en avisering två veckor i förväg och 45 minuter per lägenhet.", "tagg": "bostad"},
+    {"titel": "Återbruk", "text": "Fönster som ändå byts ut tar vi hand om. Hela bågar säljs i återbruksbutiken, och trasigt glas sorteras för återvinning hos en glastillverkare.", "text2": "Butiken har ett hundratal fönster i lager, sorterade efter mått, och uppdateras varje vecka på vår lista.", "tagg": "tra"},
+    {"titel": "Solskydd och sommarvärme", "text": "Kontor och skolor med stora glasytor blir för varma på sommaren. Med solskyddsglas eller solskyddsfilm sjunker inomhustemperaturen utan att någon behöver dra ner persiennerna.", "text2": "Vi mäter solinstrålningen före och efter så att effekten syns i siffror.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Energiglas", "segment": "Montage", "rubrik": "Fem glasmästare i elbil", "text": "Teamet som byter glas i villor och lägenheter, med ett rullande lager av de vanligaste måtten i bilarna.", "tagg": "glas"},
+    {"namn": "Energi och kalkyl", "segment": "Rådgivning", "rubrik": "Siffrorna före offerten", "text": "Emma och två energiingenjörer gör kartläggningar, kalkyler och uppföljning för föreningar och fastighetsbolag.", "tagg": "kontor"},
+    {"namn": "Återbruket", "segment": "Butik och insamling", "rubrik": "Fönster som får ett liv till", "text": "Butiken på Våxnäs tar emot, sorterar och säljer begagnade fönster, dörrar och glasskivor.", "tagg": "tra"}
+  ],
+  "berattelser": [
+    {"rubrik": "Kronoparkens Bostäder byter glas i 620 lägenheter", "text": "Energiglas i alla innerbågar i tre kvarter på Kronoparken – beräknad besparing 290 MWh per år.", "tagg": "bostad"},
+    {"rubrik": "Den femte elbilen är levererad", "text": "Nu går alla våra bilar på el, laddade med solel från verkstadens tak.", "tagg": "glas"},
+    {"rubrik": "Återbruksbutiken fyller tre år", "text": "Hittills har 2 300 fönster fått nya ägare i stället för att hamna i containern.", "tagg": "tra"}
+  ],
+  "nyckeltal": [
+    {"varde": "9 400", "enhet": "rutor", "etikett": "Energiglas sedan 2015"},
+    {"varde": "1 100", "enhet": "MWh/år", "etikett": "Beräknad besparing hos kunderna"},
+    {"varde": "2 300", "enhet": "fönster", "etikett": "Återbrukade i butiken"},
+    {"varde": "5 av 5", "enhet": "", "etikett": "Bilar som går på el"}
+  ],
+  "projekt": [
+    {"namn": "Kronoparken, tre kvarter", "ort": "Karlstad", "typ": "Energiglas, 620 lägenheter", "ar": "2026", "text": "Lågemissionsglas i alla innerbågar, en trappuppgång om dagen.", "tagg": "bostad", "status": "Pågående"},
+    {"namn": "Brf Klarälvsstranden", "ort": "Karlstad", "typ": "Kartläggning och energiglas", "ar": "2025", "text": "Värmekamera, kalkyl till stämman och 412 bytta rutor.", "tagg": "bostad"},
+    {"namn": "Villa från 1962", "ort": "Hammarö", "typ": "Isolerglas i kopplade bågar", "ar": "2025", "text": "Sjutton fönster med U-värde 1,2 – och originalbågarna kvar.", "tagg": "hem"},
+    {"namn": "Rudsviksskolan", "ort": "Karlstad", "typ": "Solskyddsglas", "ar": "2025", "text": "Fyra grader svalare i klassrummen mot söder under juni.", "tagg": "anlaggning"},
+    {"namn": "Kommunhuset", "ort": "Kil", "typ": "Återbruk av fönster", "ar": "2024", "text": "Sextio fönster från ombyggnaden sålda vidare till stugägare.", "tagg": "tra"},
+    {"namn": "Handelsträdgård", "ort": "Grums", "typ": "Växthus av återbrukat glas", "ar": "2024", "text": "Ett 40 kvadratmeters växthus byggt av gamla fönster ur butiken.", "tagg": "natur"}
+  ],
+  "process": [
+    {"titel": "Skicka uppgifter", "text": "Antal fönster, ungefärliga mått och husets byggår räcker för en första kalkyl.", "tagg": "hem"},
+    {"titel": "Mätning och värmebild", "text": "Vi mäter varje båge och fotograferar med värmekamera, så att du ser var energin försvinner.", "tagg": "glas"},
+    {"titel": "Kalkyl och offert", "text": "Du får pris, beräknad besparing i kWh och kronor och hur lång tid det tar att tjäna in.", "tagg": "kontor"},
+    {"titel": "Byte och återvinning", "text": "Vi byter glaset på plats och tar med det gamla till återbruk eller återvinning.", "tagg": "tra"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Det gröna fönstret är det du redan har",
+    "text": "Att tillverka ett nytt fönster ger ungefär tio gånger så stort klimatavtryck som att byta glaset i det gamla. Därför börjar vi alltid med det befintliga. Allt planglas vi tar ner återbrukas eller skickas till glasindustrin för omsmältning.",
+    "mal": [["100 %", "av gammalt planglas återbrukas eller återvinns"], ["0 liter", "diesel i servicebilarna sedan 2026"], ["2 år", "uppföljning av energibesparingen hos föreningar"]]
+  },
+  "karriar": {
+    "rubrik": "Glasmästare som vill räkna på saken",
+    "text": "Vi söker dig som är glasmästare eller fönsterhantverkare och tycker att det är kul att kunna förklara varför. Vi har 38 timmars arbetsvecka och eldriven tjänstebil.",
+    "jobb": [["Glasmästare energiglas", "Karlstad"], ["Energiingenjör", "Karlstad"]]
+  },
+  "kultur": "Varje kvartal räknar vi ihop hur många megawattimmar kunderna sparat, och skriver siffran på tavlan i fikarummet.",
+  "citat": {"text": "Folk tror att man måste byta fönster för att få ett varmt hus. Oftast räcker det med fyra millimeter nytt glas.", "namn": "Emma Sjödin", "roll": "Vd och energirådgivare", "tagg": "hem"},
+  "omdomen": [
+    {"text": "Vi hade fått offert på nya fönster för 240 000 kronor. Solsta bytte glaset i alla 18 för 34 000 efter ROT, och golvdraget vid fönstren försvann.", "namn": "Kjell och Marie D.", "ort": "Hammarö"},
+    {"text": "Kalkylen var så tydlig att stämman röstade ja utan diskussion. Efter första vintern låg besparingen nära det de lovat.", "namn": "Sofia N.", "ort": "Brf Klarälvsstranden"},
+    {"text": "Byggde en friggebod med fönster från återbruksbutiken. Gammalt glas med bubblor – mycket finare än nytt.", "namn": "Andreas L.", "ort": "Kil"}
+  ],
+  "faq": [
+    ["Vad är energiglas?", "Ett glas med en tunn metalloxidbeläggning som reflekterar värmen tillbaka in i rummet. Det ser ut som vanligt glas men isolerar betydligt bättre."],
+    ["Hur mycket sparar jag?", "I en villa med kopplade tvåglasfönster brukar värmeförlusten genom fönstren minska med 40–50 procent. Vi räknar ut din besparing innan du bestämmer dig."],
+    ["Fungerar det i alla fönster?", "I de flesta kopplade och isolerade fönster från 1950 och framåt. I mycket gamla fönster kan en extra innerbåge vara bättre – det ser vi vid mätningen."],
+    ["Får jag ROT-avdrag?", "Ja, för arbetskostnaden. Vi drar av det direkt på fakturan."],
+    ["Vad händer med det gamla glaset?", "Hela rutor och bågar går till återbruksbutiken. Det som inte kan återbrukas krossas och skickas till en glastillverkare för omsmältning."],
+    ["Kan jag lämna fönster till återbruksbutiken?", "Ja, hela fönster med båge tar vi emot gratis. Vi ringer och frågar om vi kan hämta när det gäller större mängder."],
+    ["Hur lång tid tar ett byte?", "En villa med 15 fönster tar oftast en arbetsdag. I flerbostadshus räknar vi med 45 minuter per lägenhet."]
+  ],
+  "priser": [
+    {"namn": "Energiglas per ruta", "pris": "fr. 1 590 kr", "enhet": "per ruta inkl. montering", "text": "Lågemissionsglas i befintlig innerbåge.", "punkter": ["Uppmätning ingår", "Gammalt glas tas om hand", "ROT-avdrag på arbetet", "Tio års garanti på glaset"]},
+    {"namn": "Villapaket", "pris": "fr. 28 000 kr", "enhet": "upp till 15 fönster, före ROT", "text": "Hela huset på en dag, med kartläggning före.", "punkter": ["Värmebild av huset", "Kalkyl med besparing", "Energiglas i alla innerbågar", "Uppföljning efter första vintern"], "utvald": true},
+    {"namn": "Föreningskalkyl", "pris": "12 500 kr", "enhet": "per fastighet", "text": "Underlag till styrelsen och stämman.", "punkter": ["Värmekamera i fem lägenheter", "U-värden och energistatistik", "Återbetalningstid", "Avräknas vid beställning"]}
+  ],
+  "certifikat": [
+    {"titel": "Svensk Miljöbas", "text": "Miljödiplomerade sedan 2017 med årlig revision av miljöarbetet.", "ikon": "lov"},
+    {"titel": "Certifierad energiexpert", "text": "Emma Sjödin är certifierad energiexpert med behörighet att upprätta energideklarationer.", "ikon": "graf"},
+    {"titel": "Glasbranschföreningen", "text": "Medlemmar och arbetar efter branschens riktlinjer för glas i befintliga fönster.", "ikon": "skold"},
+    {"titel": "Gesällbrev", "text": "Alla fem montörer har gesällbrev i glasmästaryrket.", "ikon": "stjarna"}
+  ],
+  "kunder": ["Kronoparkens Bostäder", "Brf Klarälvsstranden", "Kils kommun", "Hammarö Bostäder", "Rudsviksskolan", "Grums Handelsträdgård", "Brf Sandbäcken"],
+  "nyheter": [
+    ["2026-10-15", "Rätt tid för energiglas", "Byt innan vintern, så märks skillnaden på första elräkningen.", "hem"],
+    ["2026-08-21", "620 lägenheter på Kronoparken", "Vårt största föreningsuppdrag har börjat.", "bostad"],
+    ["2026-04-02", "Alla bilar på el", "Den femte elbilen är levererad och laddas med solel från taket.", "glas"],
+    ["2026-01-19", "Nya fönster i återbruksbutiken", "Ett parti spröjsade fönster från ett skolhus i Kil.", "tra"]
+  ],
+  "kontakt": {"adress": "Ståltrådsvägen 9, Våxnäs", "postnr": "653 46", "ort": "Karlstad", "telefon": "070-174 06 42", "epost": "hej@solstaglas.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16 · återbruksbutiken även lör 10–14",
+  "omrade": "Karlstad och hela Värmland",
+  "fot_cta": "Fundera inte på nya fönster förrän vi har räknat på dina gamla.",
+  "bild": {"panel": "hem", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Räkna på ditt hus",
+    "hero_knapp": "Så fungerar energiglas",
+    "hero_lank": "Hus och föreningar",
+    "ber_rubrik": "Senast i Värmland",
+    "proj_rubrik": "Kilowattimmar vi har sparat",
+    "process_rubrik": "Från mätning till varmare rum",
+    "hb_etikett": "Klimat",
+    "omdomen_rubrik": "Efter första vintern",
+    "faq_rubrik": "Frågor om energiglas",
+    "priser_rubrik": "Vad det kostar att behålla fönstren",
+    "boka_rubrik": "Skicka dina fönstermått",
+    "logos_rubrik": "Fastighetsägare som valt att behålla",
+    "certifikat_rubrik": "Diplomerade och behöriga",
+    "bolag_rubrik": "Montage, kalkyl och återbruk",
+    "ny_rubrik": "Nytt från Våxnäs"
+  }
+}

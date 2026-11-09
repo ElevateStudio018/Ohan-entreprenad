@@ -1,0 +1,142 @@
+{
+  "profil": "nisch",
+  "nisch": "maskin",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hyrjouren Öst AB",
+  "kortnamn": "Hyrjouren",
+  "slug": "hyrjouren-ost",
+  "typ": "Maskinuthyrning med jour i Östergötland",
+  "tagline": "Öppet när det händer",
+  "slogan": "Elverk, pumpar och grävare ut på två timmar – vardag som julafton – i Norrköping, Linköping och Söderköping.",
+  "hero_rubrik": "Depån öppnar 05.30. Jouren stänger aldrig",
+  "hero_text": "Vi hyr ut maskiner, elverk, pumpar och byggvärme med utkörning inom två timmar dygnet runt. För entreprenörer som börjar tidigt och för alla som drabbas av något oväntat.",
+  "intro_rubrik": "Jour sedan stormen 2005",
+  "om": [
+    "Mats Engdahl startade Hyrjouren 2004 som en vanlig hyrdepå i Ingelsta. När stormen Gudrun drog in i januari 2005 stod telefonen inte still på tre veckor, och elverk kördes ut till gårdar i hela Östergötland nätter i sträck. Sedan dess har vi haft jour varje dygn.",
+    "I dag är vi 22 anställda med depåer i Norrköping och Linköping. Depåerna öppnar halv sex för entreprenörer som vill hinna till bygget före sju, och efter stängning går två chaufförer i beredskap med var sin lastbil packad med elverk, pumpar och avfuktare."
+  ],
+  "vagval_rubrik": "Planerat eller akut?",
+  "tjanster": [
+    {"titel": "Elverk", "ikon": "blixt", "href": "verksamhet.html", "text": "Från 6 till 250 kVA – inkopplade av vår egen elektriker vid behov."},
+    {"titel": "Pumpar", "ikon": "vatten", "href": "verksamhet.html", "text": "Dränkbara länspumpar och slampumpar för översvämmade källare och schakt."},
+    {"titel": "Avfuktare och fläktar", "ikon": "vind", "href": "verksamhet.html", "text": "Kondensavfuktare och byggfläktar efter vattenskador och vid uttorkning."},
+    {"titel": "Byggvärme", "ikon": "eld", "href": "verksamhet.html", "text": "Dieselvärmare och elvärmare för gjutning och arbete i kyla."},
+    {"titel": "Minigrävare", "ikon": "hamare", "href": "verksamhet.html", "text": "Grävare 0,9–5 ton med skopor och hammare, ut samma dag."},
+    {"titel": "Belysning och stängsel", "ikon": "lampa", "href": "verksamhet.html", "text": "Belysningsmaster och byggstängsel för avspärrning efter olyckor."},
+    {"titel": "Jourpriser", "ikon": "dokument", "href": "priser.html", "text": "Dygnspris plus fast utkörningsavgift – inget timpris i natten."},
+    {"titel": "Jourtelefon", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "070-174 06 41 – en chaufför svarar dygnet runt."}
+  ],
+  "affarsomraden": [
+    {"titel": "Tidig depå för entreprenörer", "text": "Depåerna i Ingelsta och Tornby öppnar 05.30 alla vardagar. Hämtar du före sex står maskinen redan uppvärmd och provkörd vid lastkajen.", "text2": "Bokar du på kvällen före plockar vi ihop ordern under natten, så att du bara behöver skriva under.", "tagg": "maskin"},
+    {"titel": "Akut strömförsörjning", "text": "När strömmen går efter en storm, ett grävarbete eller ett transformatorhaveri kör vi ut elverk inom två timmar. Vår behöriga elektriker kopplar in mot fastighetens elcentral.", "text2": "Elverken har tank för 24 timmars drift och vi tankar dem på plats så länge strömavbrottet varar.", "tagg": "el"},
+    {"titel": "Vatten och uttorkning", "text": "Efter skyfall och vattenläckor kör vi ut pumpar, avfuktare och fläktar i ett färdigt paket. Pumparna klarar 1 500 liter i minuten och avfuktarna tar upp 70 liter vatten per dygn.", "text2": "Vi har ramavtal med tre skadeserviceföretag och åker direkt på deras uppdrag.", "tagg": "vvs"},
+    {"titel": "Maskiner till byggplatsen", "text": "Minigrävare, dumprar, markvibratorer och saxliftar för planerade jobb. Leverans med egen lastbil i Norrköping, Linköping, Söderköping och Finspång.", "text2": "Hyr du i minst en vecka ingår leverans och hämtning inom Norrköpings och Linköpings tätorter.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Depå Ingelsta", "segment": "Norrköping", "rubrik": "Huvuddepå och jourcentral", "text": "Elva anställda, 6 000 kvadratmeter upplag och verkstad. Härifrån går jourbilarna nattetid.", "tagg": "maskin"},
+    {"namn": "Depå Tornby", "segment": "Linköping", "rubrik": "Öppnade 2016", "text": "Sju anställda och samma öppettider som i Norrköping. Störst på liftar och byggvärme.", "tagg": "bygg"},
+    {"namn": "Jourlaget", "segment": "Natt, helg och storm", "rubrik": "Två chaufförer i beredskap varje natt", "text": "Fyra chaufförer och en elektriker roterar beredskapen veckovis. Lastbilarna står packade i hallen.", "tagg": "el"}
+  ],
+  "berattelser": [
+    {"rubrik": "Skyfallet i Linköping i augusti", "text": "62 pumpar och 140 avfuktare ute på 30 timmar – alla från egna lager.", "tagg": "vvs"},
+    {"rubrik": "Elverk till vårdboendet i Kimstad", "text": "Ett 100 kVA-aggregat var inkopplat 1 timme och 40 minuter efter att strömmen gick en söndagskväll.", "tagg": "el"},
+    {"rubrik": "Depån öppnar redan 05.30", "text": "Sedan i våras gäller de tidiga öppettiderna även på lördagar mellan april och oktober.", "tagg": "maskin"}
+  ],
+  "nyckeltal": [
+    {"varde": "2", "enhet": "timmar", "etikett": "Längsta utkörningstid på jour"},
+    {"varde": "05.30", "enhet": "", "etikett": "Depåerna öppnar"},
+    {"varde": "1 380", "enhet": "samtal", "etikett": "Till jouren 2025"},
+    {"varde": "84", "enhet": "elverk", "etikett": "Från 6 till 250 kVA"}
+  ],
+  "projekt": [
+    {"namn": "Skyfallet i Ryd", "ort": "Linköping", "typ": "Akut pump och uttorkning", "ar": "2026", "text": "Pumpar och avfuktare i 48 källare efter 70 millimeter regn på två timmar.", "status": "Åtgärdat", "tagg": "vvs"},
+    {"namn": "Vårdboende i Kimstad", "ort": "Norrköping", "typ": "Reservkraft", "ar": "2025", "text": "100 kVA-elverk inkopplat på under två timmar en söndagskväll i november.", "tagg": "el"},
+    {"namn": "Brf Ektorpsgården", "ort": "Norrköping", "typ": "Vattenläcka", "ar": "2025", "text": "Läckande stamledning – fyra pumpar och tolv avfuktare ute klockan 02.15.", "tagg": "bostad"},
+    {"namn": "Gjutning på Butängen", "ort": "Norrköping", "typ": "Byggvärme", "ar": "2026", "text": "Sex dieselvärmare under tältduk för att gjuta en bottenplatta i minus 12.", "status": "Utfört", "tagg": "bygg"},
+    {"namn": "Söderköpings kommun", "ort": "Söderköping", "typ": "Ledningsbrott", "ar": "2024", "text": "Minigrävare, pumpar och belysningsmaster ute en nyårsnatt när huvudledningen sprack.", "tagg": "anlaggning"},
+    {"namn": "Gårdar på Vikbolandet", "ort": "Vikbolandet", "typ": "Storm", "ar": "2025", "text": "22 elverk till mjölkgårdar under ett tre dygn långt strömavbrott efter stormen i oktober.", "tagg": "natur"}
+  ],
+  "process": [
+    {"titel": "Du ringer jouren", "text": "En chaufför i beredskap svarar och frågar vad som hänt, adress och vad som behöver köras ut.", "tagg": "people"},
+    {"titel": "Pris innan vi åker", "text": "Du får ett fast pris för utkörning och dygnshyra innan bilen lämnar depån.", "tagg": "kontor"},
+    {"titel": "Utkörning inom två timmar", "text": "Lastbilen är packad i förväg. Elverk kopplas in av elektriker, pumpar startas av chauffören.", "tagg": "maskin"},
+    {"titel": "Tankning och hämtning", "text": "Vi tankar elverk och tömmer avfuktare så länge det behövs, och hämtar när du ringer.", "tagg": "el"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Beredskap kräver ordning",
+    "text": "Jourlastbilarna packas efter samma lista varje eftermiddag, och alla elverk provkörs en gång i veckan även när de står i lager. Elverken går på HVO100 och de nyaste har batteribank som stänger av motorn när lasten är låg.",
+    "mal": [["52", "veckor om året med beredskap"], ["100 %", "av elverken provkörs varje vecka"], ["30 %", "mindre bränsle i hybridelverken"]]
+  },
+  "karriar": {
+    "rubrik": "Chaufför med beredskap",
+    "text": "Du kör lastbil med kran, lastar och levererar på dagtid och går i beredskap var fjärde vecka. Beredskapsersättning och utryckningstillägg enligt avtal, och lastbilen står i hallen – inte på din uppfart.",
+    "jobb": [["Lastbilschaufför med kran", "Norrköping"], ["Elektriker med beredskap", "Norrköping"], ["Depåmedarbetare tidigt skift", "Linköping"]]
+  },
+  "kultur": "Den som haft nattjour slutar klockan elva dagen efter, och kaffet i depån är bryggt klockan fem.",
+  "citat": {"text": "Folk ringer oss när något har gått fel och de inte vet vad de ska göra. Då ska det svara en människa som vet exakt vad som ska lastas på bilen.", "namn": "Mats Engdahl", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Strömmen gick på vårdboendet en söndagskväll. Elverket var inkopplat innan vi hunnit ringa runt till anhöriga.", "namn": "Karin W.", "ort": "Kimstad"},
+    {"text": "Vi hämtar alltid kvart i sex. Grävaren står varm vid kajen och vi är på bygget innan resten av stan vaknat.", "namn": "Henrik A.", "ort": "Norrköping"},
+    {"text": "Klockan två på natten med vatten i hela källaren. De sa ett pris i telefon, kom efter en timme och fyrtio minuter och tog betalt exakt det.", "namn": "Lena O.", "ort": "Ektorp"}
+  ],
+  "faq": [
+    ["Vad kostar det att ringa jouren?", "Samtalet är gratis. Utkörning på jourtid kostar 1 650 kronor plus dygnshyran för det du hyr, och du får alltid priset innan vi åker."],
+    ["Hur stort elverk behöver jag?", "En villa klarar sig ofta med 12–20 kVA, en gård med mjölkning 40–60 kVA. Beskriv vad som ska gå så räknar chauffören fram rätt storlek."],
+    ["Kan ni koppla in elverket?", "Ja, vår behöriga elektriker kopplar in mot elcentralen. Utan omkopplare får elverket bara driva det som ansluts direkt till uttagen."],
+    ["Måste jag vara hemma när ni kommer?", "Vid pumpar och avfuktare behöver vi komma in. Elverk kan ställas upp utan att du är hemma om vi vet var de ska kopplas."],
+    ["Har ni öppet på helger?", "Depåerna har öppet lördagar 7–12 från april till oktober. Jouren är öppen alla dagar, dygnet runt."],
+    ["Kan försäkringsbolaget betala?", "Vid vattenskada ringer du först ditt försäkringsbolag. Vi har avtal med tre skadeserviceföretag och fakturerar dem direkt när de beställer."]
+  ],
+  "priser": [
+    {"namn": "Minigrävare 1,8 t", "pris": "1 190 kr", "enhet": "per dygn, hämtas på depån", "text": "Den mest uthyrda maskinen för planerade jobb.", "punkter": ["Tre skopor och tiltskopa", "Hämtas från 05.30", "Släp för 290 kr per dygn", "Veckopris 4 900 kr"]},
+    {"namn": "Akutpaket vatten", "pris": "2 900 kr", "enhet": "per dygn + utkörning", "text": "Pumpar, avfuktare och fläktar för en översvämmad källare.", "punkter": ["Två länspumpar 400 l/min", "Två kondensavfuktare", "Två byggfläktar", "Tömning och tillsyn varje dygn"], "utvald": true},
+    {"namn": "Reservkraft 40 kVA", "pris": "2 400 kr", "enhet": "per dygn + utkörning", "text": "Elverk för gård, butik eller mindre fastighet.", "punkter": ["Inkoppling av elektriker: 1 950 kr", "Tank för 24 timmars drift", "Tankning på plats", "Diesel debiteras efter förbrukning"]}
+  ],
+  "prislista": [["Utkörning dagtid inom tätort", "650 kr"], ["Utkörning jourtid, natt och helg", "1 650 kr"], ["Elverk 12 kVA, per dygn", "690 kr"], ["Elverk 100 kVA, per dygn", "4 200 kr"], ["Länspump 400 l/min, per dygn", "320 kr"], ["Kondensavfuktare, per dygn", "260 kr"], ["Dieselvärmare 40 kW, per dygn", "780 kr"], ["Belysningsmast LED, per dygn", "540 kr"]],
+  "prislista_rubrik": "Dygnspriser och utkörning",
+  "sidor": [["verksamhet", "Hyr", "verksamhet"], ["priser", "Jourpriser", "priser"], ["projekt", "Utryckningar", "projekt"], ["bolag", "Depåer", "bolag"], ["hallbarhet", "Beredskap", "hallbarhet"], ["faq", "Frågor & svar", "faq"], ["karriar", "Jobba hos oss", "karriar"], ["om-oss", "Om oss", "om-oss"]],
+  "certifikat": [
+    {"titel": "Registrerat elinstallationsföretag", "text": "Vi är registrerade hos Elsäkerhetsverket och har egen elektriker med auktorisation för inkoppling av reservkraft.", "ikon": "blixt"},
+    {"titel": "Avtal med skadeservice", "text": "Ramavtal med tre skadeserviceföretag som arbetar åt de stora försäkringsbolagen i Östergötland.", "ikon": "dokument"},
+    {"titel": "Arbete på väg", "text": "Chaufförerna har Trafikverkets utbildning för att ställa upp maskiner och belysning längs väg.", "ikon": "vag"},
+    {"titel": "Kranförarbevis och YKB", "text": "Alla chaufförer har utbildning för lastbilskran och yrkeskompetensbevis för godstransport.", "ikon": "kran"}
+  ],
+  "kunder": ["Brf Ektorpsgården", "Östgöta Skadeservice", "Söderköpings kommun, gata och park", "Kimstads Vårdboende", "Vikbolandets Lantmän", "Butängens Byggservice", "Ryds Fastighetsförvaltning"],
+  "nyheter": [
+    ["2026-08-27", "30 timmar efter skyfallet", "Så fördelade vi 62 pumpar och 140 avfuktare i Linköping.", "vvs"],
+    ["2026-03-10", "Lördagsöppet från april", "Depåerna i Ingelsta och Tornby öppnar 07.00 på lördagar hela sommarhalvåret.", "maskin"],
+    ["2025-10-30", "Förbered gården för strömavbrott", "Vad du behöver veta innan du kopplar in ett elverk.", "el"]
+  ],
+  "kontakt": {"adress": "Ingelstagatan 19", "postnr": "602 23", "ort": "Norrköping", "telefon": "070-174 06 41", "epost": "jour@hyrjouren.se", "orgnr": ""},
+  "oppettider": "Depåerna: mån–fre 5.30–17. Jouren: dygnet runt, alla dagar",
+  "omrade": "Norrköping, Linköping, Söderköping, Finspång och Vikbolandet",
+  "fot_cta": "Har något hänt? Ring 070-174 06 41 – vi kör ut inom två timmar, dygnet runt.",
+  "bild": {"panel": "el", "hb": "maskin"},
+  "text": {
+    "hero_knapp": "Vad vi kör ut",
+    "hero_lank": "Jourpriser",
+    "kontakt_knapp": "Ring jouren",
+    "ber_etikett": "Från jouren",
+    "ber_rubrik": "Nätter och morgnar vi minns",
+    "proj_etikett": "Utryckningar",
+    "proj_rubrik": "När det gick fel för någon annan",
+    "proj_rubrik_lista": "Utryckningar och leveranser",
+    "process_rubrik": "Samtal klockan två, elverk klockan fyra",
+    "hb_etikett": "Beredskap",
+    "omdomen_rubrik": "De som ringde mitt i natten",
+    "faq_rubrik": "Bra att veta när det är bråttom",
+    "priser_rubrik": "Fasta priser, även klockan tre",
+    "priser_utvald": "Flest utryckningar",
+    "priser_knapp": "Ring och boka",
+    "priser_not": "Alla priser exklusive moms. Privatpersoner betalar 25 procent moms ovanpå.",
+    "sida_priser_ingress": "Dygnspriser, utkörning och jourtillägg – samma pris vilken tid du än ringer.",
+    "logos_rubrik": "Vi har jouren åt",
+    "certifikat_rubrik": "Behöriga att koppla in, utbildade att köra",
+    "bolag_rubrik": "Två depåer och ett jourlag",
+    "meny_bolag": "Depåer",
+    "boka_rubrik": "Planera en hyra",
+    "boka_text": "För planerade hyror – skriv vad och när. Är det akut, ring jouren direkt.",
+    "boka_knapp": "Skicka bokning",
+    "siffror_etikett": "Jouren i siffror"
+  }
+}

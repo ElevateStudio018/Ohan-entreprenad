@@ -1,0 +1,134 @@
+{
+  "profil": "nisch",
+  "nisch": "maskin",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Öresund Kran & Tunglyft AB",
+  "kortnamn": "Öresund Lyft",
+  "slug": "oresund-lyft",
+  "typ": "Mobilkranar och tunga lyft i Skåne",
+  "tagline": "Varje lyft planerat",
+  "slogan": "Mobilkranar från 35 till 400 ton med förare, lyftledare och en lyftplan ritad i 3D – innan kranen lämnar hallen i Malmö.",
+  "hero_rubrik": "Varje lyft ritas innan kranen rullar",
+  "hero_text": "Kranuthyrning med förare för prefab, industri, vindkraft och konst. Egen lyftingenjör, platsbesök och fast pris per lyft i Skåne och på Själland.",
+  "intro_rubrik": "Tunga lyft sedan 1987",
+  "om": [
+    "Bengt Ohlsson köpte en begagnad 40-tonskran 1987 och började lyfta båtar i Limhamn. Dottern Camilla Ohlsson-Brandt tog över 2012 och anställde företagets första lyftingenjör. I dag är vi 46 anställda med 23 mobilkranar, fyra tornkranar och sex kranbilar.",
+    "Vi är sällan billigast på timpriset, men vi räknar med att kranen gör jobbet på första försöket. Varje lyft över 20 ton planeras i 3D med marktryck, svängradie och vindgränser, och kunden får ett fast pris per lyft i stället för ett öppet timpris."
+  ],
+  "vagval_rubrik": "Hur tungt och hur högt?",
+  "tjanster": [
+    {"titel": "Mobilkranar med förare", "ikon": "kran", "href": "verksamhet.html", "text": "23 kranar från 35 till 400 ton, alla med förare som kör samma kran varje dag."},
+    {"titel": "Lyftplanering i 3D", "ikon": "ritning", "href": "verksamhet.html", "text": "Lyftingenjören ritar kranplacering, marktryck och lastvägar innan offert."},
+    {"titel": "Tornkranar", "ikon": "upp", "href": "verksamhet.html", "text": "Fyra tornkranar för längre byggprojekt, med montage och förare."},
+    {"titel": "Kranbilar", "ikon": "bil", "href": "verksamhet.html", "text": "Lastbilar med kran för mindre lyft, maskinflytt och leveranser."},
+    {"titel": "Maskinflytt", "ikon": "kugge", "href": "verksamhet.html", "text": "Vi flyttar CNC-maskiner, pressar och transformatorer inom och mellan fabriker."},
+    {"titel": "Lyftledare", "ikon": "hjalm", "href": "verksamhet.html", "text": "Certifierad lyftledare som leder signalering och avspärrning på plats."},
+    {"titel": "Fast pris per lyft", "ikon": "dokument", "href": "verksamhet.html", "text": "Ett pris med kran, förare, transport, motvikter och tillstånd."},
+    {"titel": "Prata med lyftingenjören", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Skicka ritning och vikt – vi svarar inom två arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Prefab och stomresning", "text": "Vi lyfter betongelement, stålstommar och moduler åt byggföretag i hela Skåne. En typisk dag reser vi 40 element med en 220-tonskran och två riggare.", "text2": "Lyftschemat görs tillsammans med elementfabriken så att lastbilarna kommer i rätt ordning.", "tagg": "bygg"},
+    {"titel": "Industri och maskinflytt", "text": "Transformatorer, pressar och processutrustning ska ofta in genom ett tak eller en vägg med centimetrar till godo. Vi kombinerar kranar med hydrauliska glidsystem och domkrafter för det sista stycket.", "text2": "Det tyngsta enskilda lyft vi har gjort är en transformator på 186 ton i Trelleborg.", "tagg": "industri"},
+    {"titel": "Vindkraft och energi", "text": "Med vår 400-tonskran byter vi växellådor, blad och generatorer på vindkraftverk upp till 120 meters navhöjd. Vi arbetar även med solcellsparker och transformatorstationer.", "text2": "Vindmätning görs på navhöjd under hela lyftet och lyftet avbryts vid 9 meter per sekund.", "tagg": "infra"},
+    {"titel": "Känsliga och ovanliga lyft", "text": "Skulpturer, flyglar, glaspartier och historiska byggnadsdelar kräver annan utrustning och mer tid. Vi använder mjuka lyftstroppar, vakuumok och lastceller som visar vikten i realtid.", "text2": "Vi har lyft in tre konstverk i offentliga miljöer i Malmö sedan 2023.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Mobilkranar", "segment": "23 kranar, 35–400 ton", "rubrik": "Samma förare på samma kran", "text": "28 förare som var och en ansvarar för sin egen kran, från daglig kontroll till rengöring.", "tagg": "maskin"},
+    {"namn": "Lyftteknik", "segment": "Ingenjörer och lyftledare", "rubrik": "Varje lyft över 20 ton ritas", "text": "Två lyftingenjörer och fyra lyftledare planerar, räknar marktryck och leder lyften på plats.", "tagg": "kontor"},
+    {"namn": "Tornkranar och montage", "segment": "Fyra tornkranar", "rubrik": "För projekt som varar i månader", "text": "Montörer som reser, servar och demonterar tornkranar, och förare som sitter i dem hela projektet.", "tagg": "bygg"},
+    {"namn": "Verkstad Fosie", "segment": "Service och besiktning", "rubrik": "Kranarna stannar i Skåne", "text": "Sex mekaniker som servar alla kranar i egen hall med 18 meters takhöjd.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "186 ton transformator i Trelleborg", "text": "Två kranar i tandemlyft och fyra timmars lyftfönster i en ställverkshall med 40 centimeters marginal.", "tagg": "industri"},
+    {"rubrik": "Ny 400-tonskran i parken", "text": "Kranen med 60 meters huvudbom och fly-jib används framför allt för vindkraft och stora prefabprojekt.", "tagg": "maskin"},
+    {"rubrik": "Bronsskulptur till Västra hamnen", "text": "Fyra ton brons lyftes på plats med lastcell och mjuka stroppar efter tre veckors planering.", "tagg": "stad"}
+  ],
+  "nyckeltal": [
+    {"varde": "400", "enhet": "ton", "etikett": "Största mobilkranen"},
+    {"varde": "1 900", "enhet": "lyft", "etikett": "Planerade i 3D 2025"},
+    {"varde": "39", "enhet": "år", "etikett": "Sedan första kranen i Limhamn"},
+    {"varde": "46", "enhet": "anställda", "etikett": "Varav 28 kranförare"}
+  ],
+  "projekt": [
+    {"namn": "Ställverk Trelleborg", "ort": "Trelleborg", "typ": "Tandemlyft 186 ton", "ar": "2025", "text": "Transformator lyft från tung trailer in genom öppet tak med två kranar.", "tagg": "industri"},
+    {"namn": "Kvarteret Spinnrocken", "ort": "Lund", "typ": "Prefabresning", "ar": "2026", "text": "1 240 betongelement till sex bostadshus med en 220-tonskran och en tornkran.", "tagg": "bygg"},
+    {"namn": "Vindpark Söderslätt", "ort": "Skurup", "typ": "Växellådsbyte", "ar": "2025", "text": "Byte av växellåda på 92 meters navhöjd med 400-tonskranen på två dygn.", "tagg": "infra"},
+    {"namn": "Skulptur i Västra hamnen", "ort": "Malmö", "typ": "Konstlyft", "ar": "2025", "text": "Fyra ton brons placerad på en sockel vid kajen med millimeterprecision.", "tagg": "stad"},
+    {"namn": "Pressflytt Landskrona", "ort": "Landskrona", "typ": "Maskinflytt", "ar": "2024", "text": "Hydraulisk press på 64 ton flyttad mellan två hallar under ett veckoslut.", "tagg": "maskin"},
+    {"namn": "Moduler i Helsingborg", "ort": "Helsingborg", "typ": "Modulmontage", "ar": "2026", "text": "88 bostadsmoduler som lyfts direkt från lastbil till stomme.", "tagg": "bostad"}
+  ],
+  "process": [
+    {"titel": "Ritning och vikt", "text": "Du skickar vikt, mått, platsritning och önskat datum till lyftingenjören.", "tagg": "kontor"},
+    {"titel": "Platsbesök och 3D-plan", "text": "Vi besöker platsen, mäter markförhållanden och ritar kranplacering och lyftväg i 3D.", "tagg": "anlaggning"},
+    {"titel": "Fast pris och tillstånd", "text": "Du får ett pris per lyft. Vi söker tillstånd för tung transport och avstängning av gata.", "tagg": "people"},
+    {"titel": "Lyftdagen", "text": "Kranförare, riggare och lyftledare är på plats två timmar före första lyftet.", "tagg": "maskin"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Säkerhet är det enda vi inte förhandlar om",
+    "text": "Varje lyft över 20 ton har en skriftlig lyftplan och en riskbedömning som kranföraren signerar. Vi avbryter lyft vid vind över gränsvärdet utan kostnad för kunden, och sedan 2024 körs tre av kranarna på el från nätet under själva lyftet.",
+    "mal": [["0", "allvarliga olyckor sedan 2012"], ["100 %", "av tunga lyft med skriftlig plan"], ["3", "kranar med eldrift vid lyft"]]
+  },
+  "karriar": {
+    "rubrik": "Kranförare som vill ha en egen kran",
+    "text": "Hos oss får du ansvar för en kran som du kör varje dag, och vi betalar utbildning upp till de största klasserna. Kollektivavtal med Transport, tjänstebil för förare som har jour och friskvård på 5 000 kronor om året.",
+    "jobb": [["Mobilkranförare", "Malmö"], ["Lyftingenjör", "Malmö"], ["Riggare", "Malmö"]]
+  },
+  "kultur": "Varje fredag går en kranförare igenom veckans svåraste lyft för resten av förarna – med 3D-planen på storbild.",
+  "citat": {"text": "Ett tungt lyft är aldrig tur. Antingen har man räknat på det eller så har man inte det, och vi räknar på alla.", "namn": "Camilla Ohlsson-Brandt", "roll": "Vd, andra generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "3D-planen visade att vi behövde flytta en grusväg två meter för att kranen skulle stå stabilt. Det sparade oss en hel dag på lyftdagen.", "namn": "Ola P.", "ort": "Trelleborg"},
+    {"text": "Fast pris per element gjorde det enkelt att kalkylera stommen. Det blev exakt så som offerten sa.", "namn": "Anna-Karin L.", "ort": "Lund"},
+    {"text": "Konstnären stod bredvid och höll andan i tjugo minuter. Skulpturen landade på sockeln med en millimeters marginal.", "namn": "Eva M.", "ort": "Malmö"}
+  ],
+  "faq": [
+    ["Vad kostar det att hyra en mobilkran?", "En 60-tonskran med förare kostar från 2 450 kronor i timmen exklusive moms. För tunga eller komplicerade lyft lämnar vi fast pris per lyft efter platsbesök."],
+    ["Hur långt i förväg ska vi boka?", "Kranar upp till 100 ton går ofta att boka inom en vecka. För de största kranarna och vindkraftslyft behövs 4–8 veckor för planering och transporttillstånd."],
+    ["Vad ingår i en lyftplan?", "Kranplacering, marktryck, lastdiagram, svängradie, vindgränser och avspärrningsområde. Planen ritas i 3D och skickas till dig före lyftdagen."],
+    ["Vem ansvarar för marken där kranen står?", "Beställaren ansvarar för att marken bär, men vi räknar ut marktrycket och föreslår stödplattor eller förstärkning."],
+    ["Lyfter ni på Själland?", "Ja, vi har kört regelbundet i Köpenhamnsområdet sedan 2016 och har förare med danska kranbevis."],
+    ["Vad händer om det blåser för mycket?", "Lyftledaren avbryter vid gränsvärdet. Avbryter vi före lyftstart flyttar vi lyftet utan kostnad för kranen."],
+    ["Kan ni lyfta över en järnväg eller väg?", "Ja, vi söker tillstånd och samordnar avstängning med Trafikverket eller kommunen. Räkna med minst sex veckors förberedelse."]
+  ],
+  "certifikat": [
+    {"titel": "Kranförarbevis enligt TYA", "text": "Alla förare har utbildning för mobilkran via Transportfackens yrkes- och arbetsmiljönämnd.", "ikon": "kran"},
+    {"titel": "Certifierade lyftledare", "text": "Fyra lyftledare med utbildning i signalering, lyftplanering och avspärrning.", "ikon": "hjalm"},
+    {"titel": "ISO 9001 och 45001", "text": "Kvalitets- och arbetsmiljöledning certifierad sedan 2015.", "ikon": "skold"},
+    {"titel": "Besiktning av lyftanordningar", "text": "Återkommande besiktning av alla kranar och lyftredskap av ackrediterat kontrollorgan.", "ikon": "sok"}
+  ],
+  "kunder": ["Skånska Prefabelement", "Söderslätts Vindkraft", "Malmö Hamnterminal", "Lunds Bostadsbyggare", "Trelleborgs Ställverksservice", "Landskrona Pressteknik", "Konstnärsgruppen Västra hamnen", "Helsingborgs Modulhus"],
+  "nyheter": [
+    ["2026-10-01", "400-tonskranen i drift", "Den största kranen i parken har gjort sina första vindkraftslyft på Söderslätt.", "maskin"],
+    ["2026-04-22", "Så läser du en lyftplan", "Lyftingenjör Amir Nouri om marktryck, lastdiagram och vindgränser.", "kontor"],
+    ["2025-12-03", "1 900 planerade lyft på ett år", "Rekord för lyftteknikavdelningen – och fortfarande noll allvarliga olyckor.", "people"]
+  ],
+  "kontakt": {"adress": "Agneslundsvägen 30", "postnr": "212 15", "ort": "Malmö", "telefon": "070-174 06 56", "epost": "lyft@oresundlyft.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16. Kranarna arbetar dygnet runt efter bokning",
+  "omrade": "Skåne, Blekinge och Själland",
+  "fot_cta": "Har ni ett tungt lyft framför er? Skicka vikt och ritning till vår lyftingenjör.",
+  "bild": {"panel": "maskin", "hb": "infra", "sida_bolag": "industri"},
+  "text": {
+    "hero_knapp": "Kranar och lyft",
+    "hero_lank": "Tunga lyft vi gjort",
+    "kontakt_knapp": "Begär lyftplan",
+    "vagval_etikett": "Lyft",
+    "ber_etikett": "Senaste lyften",
+    "ber_rubrik": "Tungt, högt och ömtåligt",
+    "proj_etikett": "Lyft",
+    "proj_rubrik": "Lyft som krävde mer än en kran",
+    "proj_rubrik_lista": "Utförda lyft",
+    "process_rubrik": "Från ritning till lyftdag",
+    "hb_etikett": "Lyftsäkerhet",
+    "hb_lank": "Så planerar vi ett lyft",
+    "omdomen_rubrik": "Projektledare om lyftdagen",
+    "faq_rubrik": "Frågor inför ett lyft",
+    "logos_rubrik": "Vi har lyft åt",
+    "certifikat_rubrik": "Behörigheter för tunga lyft",
+    "bolag_rubrik": "Förare, ingenjörer och mekaniker",
+    "boka_rubrik": "Vad ska lyftas?",
+    "boka_text": "Ange vikt, mått och plats, så återkommer lyftingenjören med frågor eller förslag inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "Företag", "Vikt, mått och plats"],
+    "boka_knapp": "Skicka till lyftingenjören",
+    "siffror_etikett": "Lyft i siffror",
+    "medarbetare": "Kranförarna"
+  }
+}

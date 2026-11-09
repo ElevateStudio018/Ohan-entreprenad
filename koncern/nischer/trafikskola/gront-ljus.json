@@ -1,0 +1,138 @@
+{
+  "profil": "nisch",
+  "nisch": "trafikskola",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Grönt Ljus Elkörskola AB",
+  "kortnamn": "Grönt Ljus",
+  "slug": "gront-ljus",
+  "typ": "Elbilskörskola i Uppsala",
+  "tagline": "Bara elbilar sedan 2019",
+  "slogan": "Fjorton elbilar, solceller på taket och lärare som cyklar mellan lektionerna – Uppsalas körskola utan avgasrör.",
+  "hero_rubrik": "Fjorton bilar. Noll liter bensin.",
+  "hero_text": "Automatkörkort i elbil i Uppsala och Knivsta. Vi laddar med egen solel på Boländerna och lär dig köra sparsamt från första lektionen.",
+  "intro_rubrik": "Sju år utan en enda tankning",
+  "om": [
+    "Grönt Ljus startades 2019 av Amra Hodžić och Johan Wennberg, två trafiklärare som ville undervisa i de bilar eleverna faktiskt kommer att köra. Vi började med tre begagnade elbilar och en laddbox i garaget på Bolandsgatan.",
+    "I dag är vi 22 anställda och har fjorton elbilar. Taket på skolan har solceller på 48 kWp som täcker ungefär två tredjedelar av laddningen över året, och lärarna tar elcykel mellan elevernas hämtställen i stan."
+  ],
+  "vagval_rubrik": "Var vill du börja?",
+  "tjanster": [
+    {"titel": "Automatkörkort", "ikon": "laddning", "href": "verksamhet.html", "text": "B-körkort i elbil med villkorskod 78 – det vanligaste valet i dag."},
+    {"titel": "Sparsam körning", "ikon": "graf", "href": "verksamhet.html", "text": "Du ser förbrukningen i kWh efter varje lektion."},
+    {"titel": "Handledarkurs", "ikon": "folk", "href": "verksamhet.html", "text": "Introduktionsutbildning med ett avsnitt om att övningsköra i elbil."},
+    {"titel": "Riskettan", "ikon": "skold", "href": "verksamhet.html", "text": "Tre timmar om alkohol, droger, trötthet och distraktion i bilen."},
+    {"titel": "Halkbanan", "ikon": "vag", "href": "verksamhet.html", "text": "Risk 2 i elbil – tung bil, direkt vridmoment och regenerering."},
+    {"titel": "Elbil för vana förare", "ikon": "bil", "href": "verksamhet.html", "text": "Två lektioner för dig som har körkort men ska byta till elbil."},
+    {"titel": "Laddkurs", "ikon": "blixt", "href": "verksamhet.html", "text": "Snabbladdning, laddkort och långkörning en lördag förmiddag."},
+    {"titel": "Boka lektion", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Boka i appen – lediga tider släpps varje söndag."}
+  ],
+  "affarsomraden": [
+    {"titel": "B-körkort i elbil", "text": "Alla våra bilar är automatväxlade elbilar, så du tar körkort med villkorskod 78. Det betyder färre moment att lära sig och oftast fem till åtta färre lektioner än i manuell bil.", "text2": "Vill du senare köra manuell bil gör du ett nytt körprov i en sådan.", "tagg": "korskola"},
+    {"titel": "Sparsam körning från början", "text": "Efter varje lektion ser du hur många kWh per mil du har förbrukat och hur mycket som kom tillbaka vid inbromsning. Elever som kör sparsamt kör också mjukare, och det märks på körprovet.", "text2": "Snittet bland våra elever är 1,4 kWh per mil i stadstrafik.", "tagg": "stad"},
+    {"titel": "Riskutbildning för elbilsförare", "text": "En elbil väger 300–500 kilo mer än en motsvarande bensinbil och accelererar direkt. På halkbanan tränar vi hur det påverkar inbromsning och väggrepp på is.", "text2": "Riskettan håller vi i lektionssalen på Bolandsgatan.", "tagg": "vag"},
+    {"titel": "Byta till elbil", "text": "Många med körkort sedan länge känner sig osäkra i sin första elbil. På två lektioner går vi igenom enpedalskörning, räckvidd i kyla och hur man planerar en resa med snabbladdning.", "text2": "Populärt bland pensionärer och tjänstebilsförare.", "tagg": "el"}
+  ],
+  "bolag": [
+    {"namn": "Lärarlaget", "segment": "Sexton trafiklärare", "rubrik": "Elcykel mellan eleverna", "text": "Hämtar vid Katedralskolan, Ångström, Gränby och Knivsta station – och cyklar till nästa.", "tagg": "korskola"},
+    {"namn": "Teorisalen", "segment": "Risk 1 och handledare", "rubrik": "Kvällar på Bolandsgatan", "text": "Riskettan, handledarkurser och laddkursen på lördagar.", "tagg": "people"},
+    {"namn": "Depån", "segment": "Laddning och skötsel", "rubrik": "Fjorton bilar, sju laddpunkter", "text": "Bilarna laddas på natten och mitt på dagen när solcellerna ger mest.", "tagg": "el"}
+  ],
+  "berattelser": [
+    {"rubrik": "Solcellerna klarade 68 procent", "text": "Under det senaste året kom två tredjedelar av all laddning från vårt eget tak.", "tagg": "el"},
+    {"rubrik": "Fyra nya bilar i Knivsta", "text": "Vi har öppnat en hämtpunkt vid Knivsta station med fyra bilar och två lärare.", "tagg": "korskola"},
+    {"rubrik": "Laddkursen fyller två år", "text": "Över 400 personer har lärt sig snabbladda och planera långresor en lördag hos oss.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "14", "enhet": "elbilar", "etikett": "Alla automatväxlade"},
+    {"varde": "48 kWp", "enhet": "", "etikett": "Solceller på taket"},
+    {"varde": "68 %", "enhet": "", "etikett": "Laddning från egen sol"},
+    {"varde": "1,4", "enhet": "kWh/mil", "etikett": "Elevernas snitt i stan"}
+  ],
+  "projekt": [
+    {"namn": "Uppsala kommun, hemtjänsten", "ort": "Uppsala", "typ": "Elbilsutbildning", "ar": "2026", "text": "120 undersköterskor tränar på kommunens nya elbilar i omgångar om sex.", "tagg": "korskola", "status": "Pågående"},
+    {"namn": "Knivsta kommun", "ort": "Knivsta", "typ": "B-körkort, grupp", "ar": "2025", "text": "Körkort för tolv medarbetare i äldreomsorgen, med hämtning vid stationen.", "tagg": "stad"},
+    {"namn": "Brf Kvarnfallet", "ort": "Uppsala", "typ": "Laddkurs", "ar": "2025", "text": "Laddkurs för medlemmarna efter att föreningen byggt 40 laddplatser.", "tagg": "el"},
+    {"namn": "Bolandets Elbilspool", "ort": "Uppsala", "typ": "Introduktion", "ar": "2025", "text": "Introduktionslektion för nya medlemmar i bilpoolen, två i veckan.", "tagg": "el"},
+    {"namn": "Riskettor för avgångsklasser", "ort": "Uppsala", "typ": "Risk 1", "ar": "2024", "text": "Fyra riskettor för gymnasiets treor, bokade och samordnade av elevkåren.", "tagg": "people"},
+    {"namn": "Solcellsbygget", "ort": "Uppsala", "typ": "Egen depå", "ar": "2023", "text": "48 kWp på taket och sju laddpunkter i garaget på Bolandsgatan.", "tagg": "el"}
+  ],
+  "process": [
+    {"titel": "Tillstånd och app", "text": "Ansök om körkortstillstånd, ladda ner elevappen och boka din första lektion.", "tagg": "kontor"},
+    {"titel": "Första lektionen", "text": "Vi hämtar dig vid skolan eller jobbet och kör på parkeringen vid Fyrishov tills bilen känns lugn.", "tagg": "korskola"},
+    {"titel": "Stad, landsväg och risk", "text": "Rondellerna vid Gränby, landsväg mot Sigtuna och riskutbildningen när du kör säkert.", "tagg": "stad"},
+    {"titel": "Körprov i elbil", "text": "Du lånar skolans elbil till körprovet hos Trafikverket i Uppsala.", "tagg": "korskola"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi räknar varje kilowattimme",
+    "text": "Vi följer elförbrukning per bil och lektion och redovisar den varje kvartal. Bilarna byts efter fem år eller 150 000 kilometer och säljs vidare som begagnade elbilar, och lärarnas tjänsteresor mellan elever görs på elcykel.",
+    "mal": [["0 liter", "fossilt drivmedel sedan 2019"], ["68 %", "av laddningen från egna solceller"], ["9 av 10", "resor mellan elever på elcykel"]]
+  },
+  "karriar": {
+    "rubrik": "Trafiklärare som vill köra elektriskt",
+    "text": "Vi söker två trafiklärare till Uppsala och Knivsta. Du får elcykel, kollektivavtal och schema som du lägger själv i appen.",
+    "jobb": [["Trafiklärare B", "Uppsala"], ["Trafiklärare B", "Knivsta"]]
+  },
+  "kultur": "Varje fredag presenterar vi veckans sparsammaste elev i personalrummet – rekordet är 1,1 kWh per mil.",
+  "citat": {"text": "Eleverna som börjar hos oss kommer aldrig att tanka en bil. Det vore konstigt att lära dem köra i en bil de inte ska äga.", "namn": "Amra Hodžić", "roll": "Grundare och trafiklärare", "tagg": "korskola"},
+  "omdomen": [
+    {"text": "Jag hade aldrig kört bil och tyckte det var skönt att slippa koppling. Klarade provet efter 18 lektioner.", "namn": "Alva S.", "ort": "Uppsala"},
+    {"text": "Laddkursen gjorde att vi vågade köra elbil till fjällen. Johan planerade hela rutten med oss.", "namn": "Göran och Birgitta L.", "ort": "Knivsta"},
+    {"text": "Vi har skickat all personal i hemtjänsten hit. Färre skador på bilarna sedan dess.", "namn": "Lena A., enhetschef", "ort": "Uppsala"}
+  ],
+  "faq": [
+    ["Vad betyder villkorskod 78?", "Att körkortet bara gäller automatväxlad bil. Alla elbilar är automatväxlade, så för de flesta gör det ingen skillnad."],
+    ["Kan jag ta bort villkoret senare?", "Ja, genom att göra ett nytt körprov i en manuell bil hos Trafikverket. Du behöver inte göra om kunskapsprovet."],
+    ["Behöver jag färre lektioner i elbil?", "Ofta fem till åtta färre än i manuell bil, eftersom du slipper koppling och växling. Våra elever tar i snitt 22 lektioner."],
+    ["Får jag övningsköra hemma i bensinbil?", "Ja, du kan övningsköra i vilken automatväxlad bil som helst. En manuell bil fungerar också, men då övar du på något du inte gör hos oss."],
+    ["Hur går halkbanan till i elbil?", "Vi kör samma moment som i andra bilar, men lägger extra tid på inbromsning med regenerering och väggrepp vid acceleration."],
+    ["Har ni manuella bilar?", "Nej, vi har bara elbilar. Vill du ha körkort för manuell bil rekommenderar vi gärna en kollega i stan."]
+  ],
+  "priser": [
+    {"namn": "Lektion", "pris": "760 kr", "enhet": "per 40 minuter", "text": "Elbil, hämtning och förbrukningsrapport.", "punkter": ["Hämtning i Uppsala eller Knivsta", "Förbrukning i kWh efter lektionen", "Bokning i appen", "Avbokning fram till dagen före kl. 12"]},
+    {"namn": "Elpaketet", "pris": "10 900 kr", "enhet": "12 lektioner + risk 1 + handledarkurs", "text": "Det de flesta väljer som övningskör hemma.", "punkter": ["12 lektioner à 40 minuter", "Riskettan", "Handledarkurs för två personer", "Lån av elbil till körprovet"], "utvald": true},
+    {"namn": "Byta till elbil", "pris": "1 690 kr", "enhet": "två lektioner", "text": "För dig som har körkort men är ny i elbil.", "punkter": ["Enpedalskörning och regenerering", "Räckvidd i kyla", "Snabbladdning på riktigt", "Plan för din första långresa"]}
+  ],
+  "prislista": [["Lektion 40 min", "760 kr"], ["Riskettan", "950 kr"], ["Halkbanan i elbil", "2 600 kr"], ["Handledarkurs per person", "500 kr"], ["Laddkurs, lördag", "590 kr"], ["Lån av bil till körprov", "1 400 kr"]],
+  "certifikat": [
+    {"titel": "Trafikskoletillstånd", "text": "Tillstånd från Transportstyrelsen att bedriva trafikskola för behörighet B.", "ikon": "dokument"},
+    {"titel": "Riskutbildning", "text": "Godkända för riskutbildning del 1, med del 2 i elbil på bana i Uppsala län.", "ikon": "skold"},
+    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem sedan 2022, med årlig redovisning av energiförbrukningen.", "ikon": "sol"},
+    {"titel": "Medlem i STR", "text": "Medlem i Sveriges Trafikutbildares Riksförbund och dess nätverk för sparsam körning.", "ikon": "folk"}
+  ],
+  "kunder": ["Uppsala kommun, hemtjänsten", "Knivsta kommun", "Brf Kvarnfallet", "Bolandets Elbilspool", "Uppsala Laddinfra AB", "Fyrishovs Fastigheter AB", "Brf Rosendalsparken"],
+  "nyheter": [
+    ["2026-09-30", "Solcellerna gav 68 procent", "Vår årsredovisning för energi visar att taket räcker längre än vi trodde.", "el"],
+    ["2026-06-02", "Ny hämtpunkt vid Knivsta station", "Fyra elbilar och två lärare finns nu på plats i Knivsta varje vardag.", "korskola"],
+    ["2026-02-11", "Så kör du elbil i minus 20", "Fem råd om förvärmning, räckvidd och halka från våra lärare.", "stad"]
+  ],
+  "kontakt": {"adress": "Bolandsgatan 15", "postnr": "753 23", "ort": "Uppsala", "telefon": "070-174 06 47", "epost": "hej@grontljus.se", "orgnr": ""},
+  "oppettider": "Lektioner mån–lör 7–21 · Telefon mån–fre 9–15",
+  "omrade": "Uppsala och Knivsta",
+  "fot_cta": "Ska du ta körkort i en bil du faktiskt kommer köra? Boka din första lektion i appen.",
+  "bild": {"panel": "el", "hb": "stad"},
+  "text": {
+    "kontakt_knapp": "Boka lektion",
+    "hero_knapp": "Körkort i elbil",
+    "vagval_etikett": "Kom igång",
+    "ber_etikett": "Från Boländerna",
+    "ber_rubrik": "Sol, laddning och nya bilar",
+    "proj_etikett": "Uppdrag",
+    "proj_rubrik": "Kommuner och föreningar i elbil",
+    "process_etikett": "Så tar du körkort",
+    "process_rubrik": "Fyra steg utan avgaser",
+    "bolag_etikett": "Organisation",
+    "bolag_rubrik": "Lärare, sal och depå",
+    "hb_etikett": "Miljö",
+    "priser_etikett": "Priser",
+    "priser_rubrik": "Elbil och hämtning ingår",
+    "priser_utvald": "Flest väljer",
+    "omdomen_rubrik": "Elever och kommuner om oss",
+    "faq_rubrik": "Om automat och elbil",
+    "boka_rubrik": "Kom igång med körkortet",
+    "boka_text": "Skriv var du vill bli hämtad och när du kan köra, så återkommer vi med förslag på tider samma dag.",
+    "boka_falt": ["Namn", "Mobil", "E-post", "Hämtställe och tider"],
+    "certifikat_rubrik": "Tillstånd och miljöcertifiering",
+    "logos_rubrik": "De laddar med oss",
+    "medarbetare": "Lärarna på Grönt Ljus"
+  }
+}

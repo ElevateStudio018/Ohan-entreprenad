@@ -1,0 +1,124 @@
+{
+  "profil": "nisch",
+  "nisch": "glas",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Fyris Kulturglas AB",
+  "kortnamn": "Fyris Kulturglas",
+  "slug": "fyris-kulturglas",
+  "typ": "Blyglas och byggnadsvård i Uppsala",
+  "tagline": "Blyglas, kitt och tålamod",
+  "slogan": "Vi restaurerar kyrkfönster, blyinfattningar och gamla bågar i Uppland – med munblåst glas, linoljekitt och metoder från 1800-talet.",
+  "hero_rubrik": "Glas som har sett tio generationer",
+  "hero_text": "Sju hantverkare i en ateljé vid Fyrisån. Vi lagar blyinfattade fönster, glasar om kyrkor och herrgårdar och gör nya fönster som ser ut som de alltid funnits där.",
+  "intro_rubrik": "En ateljé, sju hantverkare",
+  "om": [
+    "Fyris Kulturglas startades 1993 av glaskonstnären Ingrid Wahlund och glasmästaren Per-Olof Berg, som hade träffats under restaureringen av ett kyrkfönster i Österbybruk. I dag drivs ateljén av Ingrids dotter Hedvig Wahlund tillsammans med sex anställda.",
+    "Vi tar uppdrag som de flesta glasmästerier tackar nej till: blyspröjsade fönster från 1600-talet, glasmålningar som behöver ny bränning och fönsterbågar där varje ruta har olika tjocklek. Ungefär hälften av arbetet sker åt församlingar och kulturmiljöer, resten åt privatpersoner i gamla hus."
+  ],
+  "vagval_rubrik": "Vad behöver lagas?",
+  "tjanster": [
+    {"titel": "Blyinfattning", "ikon": "pensel", "href": "verksamhet.html", "text": "Nya och restaurerade blyfönster med handdraget bly och lödda knutpunkter."},
+    {"titel": "Kyrkfönster", "ikon": "stjarna", "href": "verksamhet.html", "text": "Demontering, restaurering och återmontering med skyddsglas utanpå."},
+    {"titel": "Glasmålning", "ikon": "sol", "href": "verksamhet.html", "text": "Kompletteringar i svartlod och silvergult, brända i egen ugn."},
+    {"titel": "Fönsterrenovering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Kittning, kittfalsar och linoljefärg på bågar från 1700–1900-tal."},
+    {"titel": "Munblåst glas", "ikon": "lampa", "href": "verksamhet.html", "text": "Cylinderglas från Tyskland och Polen för rätt skiftning i rutan."},
+    {"titel": "Antikvarisk dokumentation", "ikon": "dokument", "href": "verksamhet.html", "text": "Före- och efterdokumentation enligt länsstyrelsens krav."},
+    {"titel": "Kurser i kittning", "ikon": "skola", "href": "verksamhet.html", "text": "Lär dig sköta dina egna fönster på en lördag i ateljén."},
+    {"titel": "Besök ateljén", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Svartbäcksgatan 58, öppet tisdagar och torsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Kyrkor och kulturmiljöer", "text": "Vi tar ner blyfönster, restaurerar dem i ateljén och sätter tillbaka dem med ett ventilerat skyddsglas utanpå. Varje ruta numreras och dokumenteras innan den lyfts ur.", "text2": "Vi har arbetat i 46 kyrkor i Uppsala stift, de flesta med bidrag från kyrkoantikvarisk ersättning.", "tagg": "glas"},
+    {"titel": "Blyglas och glasmålning", "text": "Spruckna glas ersätts med munblåst glas i samma ton. Där målningen saknas målar vi nytt i svartlod och bränner det i ateljéns ugn vid 620 grader.", "text2": "Gamla glas som inte går att rädda sparas i vårt arkiv för framtida lagningar.", "tagg": "interior"},
+    {"titel": "Gamla fönster i bostadshus", "text": "Kopplade bågar från 1920-talet, spröjsade fönster från 1800-talet och herrgårdarnas stora tvåluftsfönster. Vi skrapar, kittar och målar med linoljefärg och byter bara det glas som verkligen är trasigt.", "text2": "En renoverad båge håller i 30–40 år innan nästa ommålning om den sköts.", "tagg": "hem"},
+    {"titel": "Nytillverkning i gammal stil", "text": "När ett fönster saknas gör vi en kopia: snickaren tillverkar bågen efter förlaga och vi glasar med munblåst glas och linoljekitt.", "text2": "Passar k-märkta hus där kommunen kräver att fönstren ser ut som originalen.", "tagg": "tra"}
+  ],
+  "bolag": [
+    {"namn": "Blyglasateljén", "segment": "Hedvig och Jakob", "rubrik": "Bly, lod och bränning", "text": "Här restaureras blyfönster och glasmålningar på ljusbord, och ugnen står i rummet bredvid.", "tagg": "glas"},
+    {"namn": "Fönsterverkstaden", "segment": "Tre fönsterhantverkare", "rubrik": "Kitt, linolja och värmepistol", "text": "Bågar från villor, prästgårdar och herrgårdar skrapas, kittas och målas i en verkstad med jämn temperatur.", "tagg": "tra"},
+    {"namn": "Fältlaget", "segment": "Kyrkor och herrgårdar", "rubrik": "När fönstret inte kan flytta", "text": "Två hantverkare som arbetar på plats från ställning eller lift, ofta i kyrkor som saknar el.", "tagg": "natur"}
+  ],
+  "berattelser": [
+    {"rubrik": "Korfönstret i Tensta kyrka är tillbaka", "text": "Efter fjorton månader i ateljén sitter de medeltida glasbitarna på plats bakom ett nytt skyddsglas.", "tagg": "glas"},
+    {"rubrik": "Ny ugn för glasmålning", "text": "Den nya ugnen rymmer paneler upp till 90 × 120 cm och kan köras på lägre temperatur för känsliga glas.", "tagg": "interior"},
+    {"rubrik": "Kittkurserna är fullbokade", "text": "Vårens fyra kurser fylldes på en vecka – vi öppnar fler datum i februari.", "tagg": "hem"}
+  ],
+  "nyckeltal": [
+    {"varde": "46", "enhet": "kyrkor", "etikett": "I Uppsala stift"},
+    {"varde": "1993", "enhet": "", "etikett": "Ateljén grundades"},
+    {"varde": "620", "enhet": "°C", "etikett": "Bränning av glasmålning"},
+    {"varde": "7", "enhet": "hantverkare", "etikett": "Under samma tak"}
+  ],
+  "projekt": [
+    {"namn": "Tensta kyrka, korfönster", "ort": "Vattholma", "typ": "Restaurering av blyglas", "ar": "2026", "text": "Medeltida glasbitar rengjorda, säkrade och monterade bakom skyddsglas.", "tagg": "glas"},
+    {"namn": "Herrgård vid Lennartsnäs", "ort": "Upplands-Bro", "typ": "Fönsterrenovering, 68 bågar", "ar": "2026", "text": "Tvåluftsfönster från 1790-talet kittade och linoljemålade på plats.", "tagg": "hem", "status": "Pågående"},
+    {"namn": "Villa i Luthagen", "ort": "Uppsala", "typ": "Blyinfattade trapphusfönster", "ar": "2025", "text": "Jugendfönster med opalglas kompletterade med fem nya rutor.", "tagg": "interior"},
+    {"namn": "Bruksmiljön i Lövstabruk", "ort": "Östhammar", "typ": "Nytillverkning efter förlaga", "ar": "2025", "text": "Sju saknade fönster kopierade i furu med munblåst glas.", "tagg": "tra"},
+    {"namn": "Prästgården i Knutby", "ort": "Uppsala", "typ": "Kopplade bågar", "ar": "2024", "text": "Fyrtio bågar från 1920-talet renoverade och tätade med nya lister.", "tagg": "hem"},
+    {"namn": "Gravkoret i Vendel", "ort": "Tierp", "typ": "Glasmålning", "ar": "2024", "text": "En vapensköld från 1680 kompletterad i svartlod och silvergult.", "tagg": "glas"}
+  ],
+  "process": [
+    {"titel": "Besiktning", "text": "Vi kommer ut, fotograferar och bedömer skicket på varje ruta och båge. Besiktningen kostar 2 400 kr och dras av vid beställning.", "tagg": "hem"},
+    {"titel": "Åtgärdsförslag", "text": "Du får ett skriftligt förslag med vad som bör bevaras, vad som måste bytas och vad det kostar – som underlag till antikvarie eller länsstyrelse.", "tagg": "interior"},
+    {"titel": "Arbete i ateljén", "text": "Bågar och blyfönster tas in till verkstaden. Öppningen täcks med tillfälliga skivor eller polykarbonat.", "tagg": "glas"},
+    {"titel": "Återmontering och rapport", "text": "Fönstren sätts tillbaka och du får en rapport med bilder före och efter, och skötselråd.", "tagg": "tra"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Det mest hållbara fönstret finns redan",
+    "text": "Ett 200 år gammalt fönster av kärnvirke kan hålla i 200 år till. Vi byter bara det som är trasigt, använder linoljekitt och linoljefärg utan lösningsmedel och sparar alla hela gamla glas i vårt arkiv.",
+    "mal": [["85 %", "av originalglaset bevaras i våra kyrkouppdrag"], ["0", "lösningsmedel i färg och kitt"], ["2 400", "gamla glas sparade i arkivet"]]
+  },
+  "karriar": {
+    "rubrik": "Vill du lära dig ett hantverk som nästan försvunnit?",
+    "text": "Vi tar emot en praktikant om året från hantverksutbildningar i byggnadsvård. Lediga tjänster är sällsynta, men vi vill gärna höra från dig som är glasmästare och nyfiken på blyglas.",
+    "jobb": []
+  },
+  "kultur": "Varje fredag eftermiddag går vi igenom veckans fynd – en signatur i blyet, en gammal tidning bakom en list.",
+  "citat": {"text": "Ett gammalt glas är aldrig helt plant. Det är det som får ljuset att röra sig i rummet, och det vill vi behålla.", "namn": "Hedvig Wahlund", "roll": "Ägare och glaskonstnär", "tagg": "glas"},
+  "omdomen": [
+    {"text": "Antikvarien var med vid varje steg och sa att dokumentationen var den bästa hon sett från en entreprenör.", "namn": "Margareta H.", "ort": "Kyrkvärd, Tensta"},
+    {"text": "Vi var beredda att byta alla fönster i villan. Fyris visade att 38 av 41 bågar gick att rädda och att det blev billigare.", "namn": "Daniel och Anna K.", "ort": "Luthagen, Uppsala"},
+    {"text": "Kittkursen var den bästa lördagen i år. Nu sköter jag sommarstugans fönster själv.", "namn": "Lars-Erik B.", "ort": "Öregrund"}
+  ],
+  "faq": [
+    ["Kan ett sprucket blyfönster lagas utan att tas ner?", "Enstaka sprickor kan vi ibland laga på plats med kopparfolie. Om blyet är sprött eller fönstret buktar måste det tas in till ateljén."],
+    ["Varför ska man inte byta till nya fönster?", "Gamla fönster av kärnvirke håller längre än nya om de sköts. Med en extra innerbåge eller energiglas i innerbågen blir de lika täta som moderna fönster."],
+    ["Hur länge tar en kyrkfönsterrestaurering?", "Från besiktning till återmontering brukar det ta 8–18 månader, beroende på antikvariska beslut och storlek."],
+    ["Var kommer det munblåsta glaset ifrån?", "Vi köper cylinderglas från två glasbruk i Tyskland och Polen. Vi har också ett arkiv av gammalt glas från rivna fönster."],
+    ["Får man bidrag för att renovera gamla fönster?", "Församlingar kan söka kyrkoantikvarisk ersättning. Privatpersoner i k-märkta hus kan ibland få bidrag från länsstyrelsen, och ROT-avdrag gäller för arbetet."],
+    ["Tar ni uppdrag utanför Uppland?", "Ja, för kyrkor och kulturmiljöer i hela Mellansverige. Vanlig fönsterrenovering gör vi i Uppsala län och norra Stockholm."]
+  ],
+  "certifikat": [
+    {"titel": "Gesäll i glasmästeri", "text": "Tre av hantverkarna har gesällbrev, och Hedvig har mästarbrev med inriktning blyinfattning.", "ikon": "stjarna"},
+    {"titel": "Byggnadsvårdsutbildade", "text": "Alla har gått hantverksutbildning i byggnadsvård med kurser i fönster och glas.", "ikon": "hus"},
+    {"titel": "Antikvarisk dokumentation", "text": "Dokumentation enligt länsstyrelsens och Svenska kyrkans krav vid kyrkoantikvarisk ersättning.", "ikon": "dokument"},
+    {"titel": "Glasbranschföreningen", "text": "Medlemmar och anslutna till kollektivavtalet för glasmästerier.", "ikon": "skold"}
+  ],
+  "kunder": ["Uppsala stift", "Tensta-Lena församling", "Vendels kyrkoråd", "Stiftelsen Lennartsnäs", "Lövstabrukets bruksförening", "Uppsala Kulturfastigheter", "Brf Luthagsesplanaden"],
+  "nyheter": [
+    ["2026-09-30", "Korfönstret i Tensta på plats", "Fjorton månaders arbete med medeltida glas är avslutat.", "glas"],
+    ["2026-06-04", "Ny ugn i ateljén", "Större paneler och lägre temperatur för känsliga glasmålningar.", "interior"],
+    ["2026-02-11", "Kittkurser i vår", "Fyra lördagar i ateljén där du lär dig kitta och måla en egen båge.", "hem"]
+  ],
+  "kontakt": {"adress": "Svartbäcksgatan 58", "postnr": "753 20", "ort": "Uppsala", "telefon": "070-174 06 34", "epost": "ateljen@fyriskulturglas.se", "orgnr": ""},
+  "oppettider": "Ateljén tis och tors 10–16, övrig tid efter överenskommelse",
+  "omrade": "Uppsala län och kulturmiljöer i Mellansverige",
+  "fot_cta": "Har du ett gammalt fönster som behöver räddas? Skicka en bild till ateljén.",
+  "bild": {"panel": "interior", "hb": "tra"},
+  "text": {
+    "kontakt_knapp": "Skicka en bild",
+    "hero_knapp": "Vad vi restaurerar",
+    "hero_lank": "Kyrkor och hus",
+    "ber_rubrik": "På ljusbordet nu",
+    "proj_rubrik": "Fönster vi har räddat",
+    "process_rubrik": "Från besiktning till rapport",
+    "hb_etikett": "Bevara",
+    "omdomen_rubrik": "Kyrkvärdar och husägare",
+    "faq_rubrik": "Om gamla fönster och blyglas",
+    "boka_rubrik": "Beskriv ditt fönster",
+    "logos_rubrik": "Församlingar och kulturmiljöer",
+    "certifikat_rubrik": "Utbildade i byggnadsvård",
+    "bolag_rubrik": "Ateljé, verkstad och fältlag",
+    "ny_rubrik": "Från ateljén vid Fyrisån",
+    "meny_bolag": "Ateljén"
+  }
+}

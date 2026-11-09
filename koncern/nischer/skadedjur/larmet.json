@@ -1,0 +1,131 @@
+{
+  "profil": "nisch",
+  "nisch": "skadedjur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Larmet Skadedjursjour i Örebro AB",
+  "kortnamn": "Larmet",
+  "slug": "larmet",
+  "typ": "Skadedjursjour dygnet runt i Örebro län",
+  "tagline": "Jour alla dygnets timmar",
+  "slogan": "När råttan springer över köksgolvet klockan två på natten svarar en människa i telefonen – och en tekniker sätter sig i bilen.",
+  "hero_rubrik": "Ring 02.14. Vi är där före 05.00.",
+  "hero_text": "Larmet är Örebro läns enda skadedjursjour med egna tekniker i beredskap dygnet runt, alla årets dagar. Fast utryckningspris, oavsett klockslag.",
+  "intro_rubrik": "Jouren som aldrig stänger",
+  "om": [
+    "Larmet startades 2016 av Patrik Engström, före detta brandman i Örebro, som tyckte att det var orimligt att folk med råttor i köket fick vänta till måndag. Han byggde upp jouren som en räddningstjänst: schemalagd beredskap, packade bilar och en utryckningstid som mäts.",
+    "Vi är nio anställda, varav sju tekniker som turas om att ha beredskap i veckolånga pass. Bilarna står packade på Bettorpsgatan med fällor, getingdräkter, värmekamera och tätningsmaterial – det som behövs för nio av tio larm."
+  ],
+  "vagval_rubrik": "Vad händer hemma just nu?",
+  "tjanster": [
+    {"titel": "Råtta inomhus", "ikon": "blixt", "href": "verksamhet.html", "text": "Utryckning inom tre timmar dygnet runt i Örebro, Kumla, Hallsberg och Lindesberg."},
+    {"titel": "Getingbo vid entrén", "ikon": "eld", "href": "verksamhet.html", "text": "Vi tar bort bon vid dörrar, altaner och lekplatser samma dag – även söndagar."},
+    {"titel": "Möss i köket", "ikon": "hem", "href": "verksamhet.html", "text": "Fällor, tätning och en återkomst efter tio dagar ingår i jourpriset."},
+    {"titel": "Fladdermöss och fåglar", "ikon": "vind", "href": "verksamhet.html", "text": "Fåglar som fastnat i ventilation eller skorsten tar vi ut försiktigt – fladdermöss är fridlysta och flyttas aldrig."},
+    {"titel": "Restaurangjour", "ikon": "kontor", "href": "verksamhet.html", "text": "Hittade kocken spillning före lunchen? Vi kommer före servering och skriver protokoll."},
+    {"titel": "Jouravtal för fastighet", "ikon": "hus", "href": "verksamhet.html", "text": "Hyresgäster ringer direkt till oss dygnet runt – fastighetsägaren får rapporten."},
+    {"titel": "Fasta jourpriser", "ikon": "dokument", "href": "priser.html", "text": "Samma pris klockan 14 som klockan 03. Inga helgtillägg."},
+    {"titel": "Ring jouren", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "En tekniker svarar – inte en telefonsvarare."}
+  ],
+  "affarsomraden": [
+    {"titel": "Akut i hemmet", "text": "Ett djur inne i bostaden är inget som kan vänta en helg. Teknikern i beredskap ringer tillbaka inom tio minuter och ger en tid.", "text2": "Utryckningstiden i Örebro tätort var i snitt 1 timme och 48 minuter under 2025.", "tagg": "hem"},
+    {"titel": "Getingsäsong", "text": "Från juni till september har vi tre tekniker i tjänst samtidigt bara för getingar. Bon i marken, i väggar och under takpannor tas bort med pulver och dammsugare.", "text2": "Ser du getingar igen inom 14 dagar kommer vi tillbaka utan kostnad.", "tagg": "skadedjur"},
+    {"titel": "Restaurang och livsmedel", "text": "Kök, bagerier och butiker kan inte stänga i väntan på ett besök på tisdag. Vi rycker ut på kvällar och helger och lämnar ett protokoll som miljöförvaltningen godtar.", "text2": "Med jouravtal får restaurangen förtur före privata samtal.", "tagg": "stad"},
+    {"titel": "Fastigheter", "text": "Fastighetsägare slipper ta emot nattsamtal från oroliga hyresgäster. De ringer oss direkt, och förvaltaren får ett mejl när ärendet är åtgärdat.", "text2": "Jouravtalet kostar från 24 kr per lägenhet och år.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Beredskapen", "segment": "Sju tekniker i rullande schema", "rubrik": "En vecka i taget, telefonen alltid på", "text": "Två tekniker har alltid beredskap: en för Örebro och Kumla, en för norra länet. På sommaren tillkommer en getingjour.", "tagg": "skadedjur"},
+    {"namn": "Uppföljning", "segment": "Dagtid vardagar", "rubrik": "Den som kommer tillbaka", "text": "Efter varje akutlarm gör en tekniker ett återbesök dagtid för att täta, kontrollera fällorna och avsluta ärendet.", "tagg": "hem"},
+    {"namn": "Kontoret", "segment": "Två medarbetare", "rubrik": "Fakturor, avtal och försäkringar", "text": "Hanterar jouravtal med fastighetsbolag och restauranger och hjälper privatkunder med försäkringsärenden.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "1 h 48 min i snitt", "text": "Under 2025 var genomsnittlig utryckningstid i Örebro tätort under två timmar – även nattetid.", "tagg": "skadedjur"},
+    {"rubrik": "Rekordsommar för getingar", "text": "Augusti gav 612 getinglarm, fler än någon månad sedan starten.", "tagg": "hem"},
+    {"rubrik": "Ny jourbil till Lindesberg", "text": "Norra länet får en egen bil i beredskap så att Nora och Hällefors slipper vänta på bilen från stan.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "24/7", "enhet": "", "etikett": "Beredskap alla årets dagar"},
+    {"varde": "1:48", "enhet": "timmar", "etikett": "Snittid till dörren i Örebro"},
+    {"varde": "3 900", "enhet": "larm", "etikett": "Utryckningar 2025"},
+    {"varde": "0 kr", "enhet": "", "etikett": "Natt- och helgtillägg"}
+  ],
+  "projekt": [
+    {"namn": "Råtta i barnens rum", "ort": "Örebro, Brickebacken", "typ": "Nattlarm", "ar": "2026", "text": "Larm 01.40, tekniker på plats 02.55 och ingången under badkaret tätad samma natt.", "tagg": "hem"},
+    {"namn": "Getingbo vid skolgården", "ort": "Kumla", "typ": "Getingar", "ar": "2026", "text": "Markbo vid gungorna borttaget innan första rasten en måndagsmorgon.", "tagg": "skadedjur"},
+    {"namn": "Pizzeria i centrum", "ort": "Örebro", "typ": "Restaurang", "ar": "2025", "text": "Spillning hittad 10.30 en lördag – protokoll och åtgärd klart före lunchöppning.", "tagg": "stad"},
+    {"namn": "Hyreshus på Vivalla", "ort": "Örebro", "typ": "Jouravtal", "ar": "2025", "text": "48 hyresgästlarm under året, alla avslutade inom 24 timmar.", "tagg": "bostad"},
+    {"namn": "Kaja i ventilationen", "ort": "Nora", "typ": "Fågel", "ar": "2025", "text": "En kaja som fastnat i en ventilationskanal lyftes ut levande och kanalen nätades.", "tagg": "hem"},
+    {"namn": "Möss i lantbutik", "ort": "Hallsberg", "typ": "Livsmedel", "ar": "2024", "text": "Söndagslarm, tolv fällor utplacerade och lastporten tätad med borstlist.", "tagg": "skadedjur"}
+  ],
+  "process": [
+    {"titel": "Du ringer", "text": "Teknikern i beredskap svarar själv eller ringer tillbaka inom tio minuter.", "tagg": "people"},
+    {"titel": "Vi kör", "text": "Du får en tid och ett sms när bilen är tio minuter bort.", "tagg": "skadedjur"},
+    {"titel": "Akut åtgärd", "text": "Djuret fångas eller boet tas bort, och vi tätar det vi kan direkt.", "tagg": "hem"},
+    {"titel": "Återbesök dagtid", "text": "Inom tio dagar kommer vi tillbaka, kontrollerar fällorna och avslutar ärendet.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Snabb hjälp betyder inte slarvig hjälp",
+    "text": "Alla bilar har samma utrustning och samma checklista, oavsett om larmet kommer klockan 15 eller 03. Vi använder snapfällor och tätning i första hand och lämnar aldrig bete löst i en bostad. Beredskapsteknikerna har max sju dagar i sträck och vilar sedan en vecka.",
+    "mal": [["10 min", "längsta tid till återuppringning"], ["100 %", "av akutlarmen får återbesök"], ["7 dagar", "längsta beredskapspass"]]
+  },
+  "karriar": {
+    "rubrik": "Gillar du när telefonen ringer?",
+    "text": "Vi söker tekniker som klarar att vakna klockan tre och vara trevliga klockan halv fyra. Beredskapen ersätts enligt kollektivavtal, och veckan efter är du ledig.",
+    "jobb": [["Jourtekniker", "Örebro"], ["Getingtekniker, säsong", "Örebro"]]
+  },
+  "kultur": "Jourbilarna står packade på kvällen så att den som har beredskap aldrig behöver leta efter något mitt i natten.",
+  "citat": {"text": "I räddningstjänsten frågade ingen om klockan när det brann. Jag förstod aldrig varför en råtta i ett barnrum skulle få vänta till måndag.", "namn": "Patrik Engström", "roll": "Grundare och jourtekniker", "tagg": "people"},
+  "omdomen": [
+    {"text": "Ringde halv två på natten med en råtta under diskbänken. Patrik var här tjugo över tre, och det kostade lika mycket som på dagen.", "namn": "Emelie J.", "ort": "Örebro"},
+    {"text": "Getingboet satt i ytterdörrens karm och vi har en allergisk son. De kom på en söndagseftermiddag inom en timme.", "namn": "Fredrik N.", "ort": "Kumla"},
+    {"text": "Som restaurangägare kan jag inte vänta. Larmet har räddat två lördagar åt oss i år.", "namn": "Ali S.", "ort": "Örebro"}
+  ],
+  "faq": [
+    ["Kostar det mer på natten?", "Nej. Utryckningen kostar 2 495 kr klockan tre på natten lika väl som klockan tre på eftermiddagen."],
+    ["Hur snabbt kommer ni?", "I Örebro, Kumla och Hallsberg inom tre timmar dygnet runt. I norra länet inom fyra timmar."],
+    ["Vad ska jag göra medan jag väntar?", "Stäng dörren till rummet där djuret finns och lägg en handduk vid dörrspringan. Försök inte fånga en råtta själv."],
+    ["Tar ni bort getingbon i marken?", "Ja. Vi pudrar ingången och dammsuger upp boet när det är möjligt, så att det inte flyttar till nästa hål."],
+    ["Fladdermöss i vindsbjälklaget – vad gör ni?", "Fladdermöss är fridlysta och får inte störas. Vi hjälper dig att planera tätning till hösten när de har flyttat."],
+    ["Har ni avtal för företag?", "Ja, jouravtal för restauranger, butiker och fastighetsbolag med förtur och fast årsavgift."]
+  ],
+  "priser": [
+    {"namn": "Getingbo", "pris": "1 495 kr", "enhet": "per bo, dag som natt", "text": "Ett bo inom två meters höjd.", "punkter": ["Utryckning samma dag", "Borttagning med pulver eller sug", "Kostnadsfritt återbesök inom 14 dagar", "Andra bo på samma adress 495 kr"]},
+    {"namn": "Akut gnagare", "pris": "2 495 kr", "enhet": "dygnet runt", "text": "Råtta eller mus inne i bostaden.", "punkter": ["Utryckning inom tre timmar", "Fällor och akut tätning", "Återbesök inom tio dagar", "Inget natt- eller helgtillägg"], "utvald": true},
+    {"namn": "Jouravtal företag", "pris": "fr. 7 900 kr", "enhet": "per år", "text": "För restauranger och butiker som inte kan vänta.", "punkter": ["Förtur vid alla larm", "Två förebyggande besök per år", "Protokoll för egenkontroll", "Fast pris per utryckning"]}
+  ],
+  "prislista": [["Getingbo över två meter", "1 895 kr"], ["Fågel i ventilation eller skorsten", "2 195 kr"], ["Extra återbesök", "795 kr"], ["Tätning, per timme", "690 kr"], ["Restaurangutryckning utan avtal", "3 495 kr"], ["Norra länet, tillägg", "395 kr"]],
+  "certifikat": [
+    {"titel": "Biocidbehörighet", "text": "Teknikerna har Kemikalieinspektionens behörighet för yrkesmässig bekämpning av gnagare och insekter.", "ikon": "skold"},
+    {"titel": "Skyddsjakt med tillstånd", "text": "Två tekniker har jägarexamen och vapenlicens för skyddsjakt på fågel enligt jaktförordningen.", "ikon": "stjarna"},
+    {"titel": "Säkra höjdarbeten", "text": "Utbildning i fallskydd och stegarbete för getingbon under takfot och i gavlar.", "ikon": "hjalm"},
+    {"titel": "Kollektivavtal", "text": "Beredskap och nattarbete ersätts enligt kollektivavtal – du vet att jourteknikern är utvilad.", "ikon": "dokument"}
+  ],
+  "kunder": ["Örebrohem Norr", "Kumla kommun, tekniska förvaltningen", "Pizzeria Stortorget", "Brf Vasaparken", "Hallsbergs Lantbutik", "Fastighets AB Svartån", "Nora Gästgivaregård"],
+  "nyheter": [
+    ["2026-09-08", "612 getinglarm på en månad", "Augusti slog alla rekord – här är var bona satt.", "skadedjur"],
+    ["2026-06-02", "Vad gör du om du blir stucken?", "Råd från en allergisjuksköterska inför getingsäsongen.", "hem"],
+    ["2026-01-20", "Egen jourbil i Lindesberg", "Norra länet får kortare väntetid från februari.", "people"]
+  ],
+  "kontakt": {"adress": "Bettorpsgatan 14", "postnr": "703 69", "ort": "Örebro", "telefon": "070-174 06 13", "epost": "jour@larmetorebro.se", "orgnr": ""},
+  "oppettider": "Jouren dygnet runt, alla dagar",
+  "omrade": "Hela Örebro län",
+  "fot_cta": "Har du ett djur inne just nu? Ring jouren – vi svarar oavsett klockslag.",
+  "bild": {"panel": "skadedjur", "hb": "hem"},
+  "text": {
+    "ber_rubrik": "Från jourloggen",
+    "proj_rubrik": "Larm vi har ryckt ut på",
+    "proj_rubrik_lista": "Utryckningar i länet",
+    "process_rubrik": "Från samtal till lugn natt",
+    "hb_etikett": "Beredskap med ordning",
+    "omdomen_rubrik": "Det säger de som ringt mitt i natten",
+    "faq_rubrik": "Medan du väntar på bilen",
+    "priser_rubrik": "Samma pris dygnet runt",
+    "priser_utvald": "Vanligast larm",
+    "priser_not": "Alla priser inklusive moms. Inga tillägg för natt, helg eller röda dagar.",
+    "boka_rubrik": "Inte akut? Skriv till oss",
+    "boka_text": "För förebyggande besök och jouravtal. Är det akut – ring jouren i stället.",
+    "logos_rubrik": "Har jouravtal med oss",
+    "certifikat_rubrik": "Utbildade för natten",
+    "kontakt_knapp": "Ring jouren",
+    "medarbetare": "Jourteknikerna"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hisings Svetsjour AB",
+  "kortnamn": "Svetsjouren",
+  "slug": "svetsjouren",
+  "typ": "Mobil svets och smide dygnet runt i Göteborg",
+  "tagline": "Svetsare på väg",
+  "slogan": "Påkört räcke, uppbruten grind eller sprucken lastkaj – vi har en svetsbil på väg inom en timme, alla dagar året om.",
+  "hero_rubrik": "Svetsbil hos dig inom en timme",
+  "hero_text": "Akut svets och smide i Storgöteborg dygnet runt. Fem fullutrustade servicebilar, fast utryckningspris och faktura först när det är lagat.",
+  "intro_rubrik": "Femton år av nattsamtal",
+  "om": [
+    "Patrik Andersson körde sin första jour 2011 med en begagnad Transit och ett svetsaggregat från Hisings Backa. Han märkte att fastighetsbolagen hade elektriker och rörmokare på jour, men ingen som kunde laga en påkörd grind klockan två på natten.",
+    "I dag är vi elva svetsare och smeder med fem servicebilar som står laddade med generator, MIG, TIG, gasskärning och 300 kilo stål. Under 2025 gjorde vi 2 140 utryckningar, varav 38 procent på kvällar och helger."
+  ],
+  "vagval_rubrik": "Vad har hänt?",
+  "tjanster": [
+    {"titel": "Påkörda räcken", "ikon": "bil", "href": "verksamhet.html", "text": "Vi riktar, svetsar och säkrar räcken vid garage, lastkajer och trappor."},
+    {"titel": "Grindar och portar", "ikon": "las", "href": "verksamhet.html", "text": "Grindar som inte går att stänga lagas eller säkras samma natt."},
+    {"titel": "Efter inbrott", "ikon": "skold", "href": "verksamhet.html", "text": "Galler, gallergrindar och dörrkarmar svetsas igen direkt."},
+    {"titel": "Mobil industrisvets", "ikon": "eld", "href": "verksamhet.html", "text": "Containrar, släp, transportörer och lastbryggor i hamn och industri."},
+    {"titel": "Serviceavtal", "ikon": "dokument", "href": "verksamhet.html", "text": "Fast pris per år och förtur för fastighetsbolag och föreningar."},
+    {"titel": "Utryckningspriser", "ikon": "portfolj", "href": "priser.html", "text": "Samma pris dag som natt, ingen jourtaxa på helger."},
+    {"titel": "Senaste utryckningarna", "ikon": "karta", "href": "projekt.html", "text": "Från Torslanda till Mölndal den senaste månaden."},
+    {"titel": "Ring jouren", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Svetsaren svarar själv i telefonen, inte en växel."}
+  ],
+  "affarsomraden": [
+    {"titel": "Akut smide för fastigheter", "text": "Påkörda räcken, trasiga grindar och sönderslagna galler är vardag för oss. Vi säkrar platsen direkt och lagar ofta på plats samma besök.", "text2": "När något behöver tillverkas lämnar vi en tillfällig avspärrning och är tillbaka inom tre arbetsdagar.", "tagg": "svets"},
+    {"titel": "Hamn och logistik", "text": "Vi svetsar lastbryggor, containerlås, släpvagnar och transportörer i Arendal, på Ringön och i logistiklägena längs Hisingen. Mycket görs nattetid när terminalerna har lägst tryck.", "text2": "Två av bilarna har plasmaskärare och 6 kVA generator.", "tagg": "industri"},
+    {"titel": "Inbrott och skalskydd", "text": "Efter ett inbrott ringer försäkringsbolaget eller polisen ofta oss. Vi svetsar fast galler, förstärker karmar och tillverkar nya gallergrindar till förråd och källare.", "text2": "Vi skickar dokumentation med foton direkt till försäkringsbolaget.", "tagg": "stad"},
+    {"titel": "Planerad service", "text": "Med serviceavtal går vi igenom grindar, räcken och lastkajer två gånger per år och åtgärdar små skador innan de blir stora. Avtalskunder har förtur före alla andra samtal.", "text2": "I dag har vi 64 fastighetsägare och föreningar på avtal.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Jourlaget", "segment": "Dygnet runt", "rubrik": "Två bilar i tjänst varje natt", "text": "Sju svetsare i rullande schema så att det alltid finns två bilar ute, även julafton.", "tagg": "svets"},
+    {"namn": "Verkstaden i Backa", "segment": "Tillverkning", "rubrik": "Det som inte går att laga på plats", "text": "Tre smeder som tillverkar nya grindar, galler och räckesdelar när skadan är för stor för en snabbfix.", "tagg": "industri"},
+    {"namn": "Avtalsservice", "segment": "Förebyggande", "rubrik": "Ronder innan något går sönder", "text": "En servicetekniker och en planerare som sköter ronderna för våra 64 avtalskunder.", "tagg": "bostad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Lastkaj i Arendal klockan 03.40", "text": "En truck hade slitit loss en kajlämmare – terminalen var i drift igen före morgonskiftet.", "tagg": "industri"},
+    {"rubrik": "Femte servicebilen i trafik", "text": "Den nya bilen går på el och har batteridrivet svetsaggregat för tysta nattjobb i bostadsområden.", "tagg": "svets"},
+    {"rubrik": "Garagegrind i Majorna", "text": "Påkörd skjutgrind lagad på 50 minuter, inklusive inriktning av rälsen.", "tagg": "stad"}
+  ],
+  "nyckeltal": [
+    {"varde": "52", "enhet": "minuter", "etikett": "Snittid till plats 2025"},
+    {"varde": "2 140", "enhet": "", "etikett": "Utryckningar under 2025"},
+    {"varde": "24/7", "enhet": "", "etikett": "Även helgdagar"},
+    {"varde": "5", "enhet": "servicebilar", "etikett": "Fullt utrustade"}
+  ],
+  "projekt": [
+    {"namn": "Kajlämmare Arendal", "ort": "Göteborg", "typ": "Nattjour", "ar": "2026", "text": "Lossliten lämmare svetsad och provbelastad på två timmar.", "tagg": "industri"},
+    {"namn": "Garagegrind Brf Kaptensgården", "ort": "Majorna", "typ": "Akut grind", "ar": "2026", "text": "Skjutgrind påkörd av flyttbil, lagad och inriktad samma kväll.", "tagg": "stad"},
+    {"namn": "Källargaller efter inbrott", "ort": "Mölndal", "typ": "Skalskydd", "ar": "2025", "text": "Tolv förrådsgaller svetsade och förstärkta efter inbrottsvåg i tre fastigheter.", "tagg": "bostad"},
+    {"namn": "Trappräcke vårdcentral", "ort": "Kungälv", "typ": "Påkört räcke", "ar": "2025", "text": "Utvändigt räcke avspärrat på natten och ersatt med nytt efter två dagar.", "tagg": "svets"},
+    {"namn": "Containerramp Torslanda", "ort": "Torslanda", "typ": "Industrisvets", "ar": "2025", "text": "Sprucken ramp svetsad och förstärkt med tvärbalkar under en nattpaus.", "tagg": "industri"},
+    {"namn": "Serviceronder Hisingshus", "ort": "Hisingen", "typ": "Serviceavtal", "ar": "2027", "text": "Nytt avtal för 46 fastigheter med ronder i mars och oktober.", "tagg": "bostad", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Du ringer", "text": "Svetsaren i tjänst svarar och frågar efter adress, vad som hänt och om något är farligt.", "tagg": "people"},
+    {"titel": "Vi kör", "text": "Närmaste bil åker direkt. Du får sms med beräknad ankomsttid.", "tagg": "stad"},
+    {"titel": "Vi säkrar och lagar", "text": "Platsen säkras först. I sju fall av tio blir det lagat på samma besök.", "tagg": "svets"},
+    {"titel": "Faktura med foton", "text": "Fakturan kommer med före- och efterbilder, perfekt för försäkringsärendet.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Heta arbeten mitt i natten, utan risker",
+    "text": "Svetsning i bostadsområden och terminaler kräver brandvakt och ordning. Alla svetsare har Heta arbeten och vi gör alltid riskbedömning innan vi tänder bågen. Två av bilarna har eldrift och tysta batteriaggregat.",
+    "mal": [["100 %", "av svetsarna med Heta arbeten"], ["60 min", "efterbevakning efter varje hett arbete"], ["2 av 5", "servicebilar på el"]]
+  },
+  "karriar": {
+    "rubrik": "För svetsare som gillar att inget jobb är det andra likt",
+    "text": "Hos oss är varje skift olika. Du får egen servicebil, jourersättning enligt avtal och rullande schema med lång ledighet mellan jourveckorna.",
+    "jobb": [["Jourssvetsare", "Göteborg"], ["Smed till verkstaden", "Hisings Backa"]]
+  },
+  "kultur": "Efter varje jourvecka får du fem dagar ledigt i följd.",
+  "citat": {"text": "Folk ringer oss när något har gått sönder och de är stressade. Då ska det vara en svetsare som svarar och kan säga exakt vad som händer.", "namn": "Patrik Andersson", "roll": "Grundare", "tagg": "svets"},
+  "omdomen": [
+    {"text": "Grinden till garaget stod öppen efter en påkörning sent en fredag. 45 minuter senare var den inriktad och låst.", "namn": "Tobias M.", "ort": "Majorna"},
+    {"text": "Vi har dem på avtal för alla våra terminaler. De svarar klockan fyra på morgonen lika snabbt som klockan tio.", "namn": "Elif K.", "ort": "Arendal"},
+    {"text": "Efter inbrottet fick vi foton och en tydlig faktura direkt till försäkringsbolaget. Ärendet var klart på en vecka.", "namn": "Gunilla P.", "ort": "Mölndal"}
+  ],
+  "faq": [
+    ["Vad kostar en utryckning på natten?", "Samma som på dagen. Utryckningen kostar 1 950 kronor inklusive första timmen, och därefter 895 kronor per timme. Material tillkommer."],
+    ["Hur snabbt kommer ni?", "Snittiden till plats var 52 minuter under 2025 i Storgöteborg. Till Kungälv, Kungsbacka och Lerum räknar vi med upp till 75 minuter."],
+    ["Kan ni laga allt på plats?", "Ungefär sju av tio jobb blir klara på första besöket. Behöver något tillverkas säkrar vi platsen och kommer tillbaka inom tre arbetsdagar."],
+    ["Jobbar ni åt privatpersoner?", "Ja. Privatpersoner kan anlita oss för akuta jobb, men vi prioriterar avtalskunder och farliga situationer först."],
+    ["Får vi RUT eller ROT?", "Reparation av grindar och räcken på din egen bostad kan ge ROT-avdrag på arbetskostnaden. Vi gör avdraget direkt på fakturan."],
+    ["Vad ingår i ett serviceavtal?", "Två ronder per år, förtur vid akuta samtal och tio procent rabatt på timpriset. Pris från 6 400 kronor per fastighet och år."]
+  ],
+  "priser": [
+    {"namn": "Utryckning", "pris": "1 950 kr", "enhet": "inkl. första timmen", "text": "Dygnet runt, alla dagar.", "punkter": ["Samma pris natt och helg", "Svetsbil med generator", "Säkring av platsen", "Faktura med foton"], "utvald": true},
+    {"namn": "Påbörjad timme", "pris": "895 kr", "enhet": "per timme", "text": "Efter första timmen.", "punkter": ["Debiteras per halvtimme", "Ingen jourtillägg", "Material till självkostnad + 15 %"]},
+    {"namn": "Serviceavtal", "pris": "fr. 6 400 kr", "enhet": "per fastighet och år", "text": "För fastighetsägare och föreningar.", "punkter": ["Två ronder per år", "Förtur vid akuta samtal", "10 % rabatt på timpris", "Årlig rapport med åtgärdslista"]}
+  ],
+  "certifikat": [
+    {"titel": "Heta arbeten", "text": "Alla svetsare har giltigt certifikat från Brandskyddsföreningen, förnyat vart femte år.", "ikon": "eld"},
+    {"titel": "Svetscertifikat ISO 9606-1", "text": "Certifierade i MIG, MMA och TIG i alla positioner.", "ikon": "skold"},
+    {"titel": "Arbete på väg", "text": "Utbildade enligt Trafikverkets krav för arbete vid väg och i trafikerade miljöer.", "ikon": "vag"},
+    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Företagsförsäkring med ansvarsbelopp på 10 miljoner kronor per skada.", "ikon": "dokument"}
+  ],
+  "kunder": ["Hisingshus Fastigheter", "Brf Kaptensgården", "Arendals Terminalservice", "Mölndals Bostadsbolag", "Torslanda Logistikpark", "Kungälvs Vårdfastigheter", "Brf Kvillebäcken Ett"],
+  "nyheter": [
+    ["2026-10-30", "Vinterns vanligaste samtal", "Påkörda räcken vid snöröjning ökar med 40 procent i december. Så minskar ni risken.", "stad"],
+    ["2026-08-12", "Femte bilen går på el", "Med batteridrivet svetsaggregat kan vi svetsa tyst nattetid i bostadsområden.", "svets"],
+    ["2026-03-27", "Nytt avtal med Hisingshus", "46 fastigheter får serviceronder två gånger per år från 2027.", "bostad"]
+  ],
+  "kontakt": {"adress": "Exportgatan 28", "postnr": "422 46", "ort": "Hisings Backa", "telefon": "070-174 06 47", "epost": "jour@svetsjouren.se", "orgnr": ""},
+  "oppettider": "Jour dygnet runt, alla dagar · verkstad mån–fre 7–16",
+  "omrade": "Storgöteborg, Kungälv, Kungsbacka och Lerum",
+  "fot_cta": "Något trasigt just nu? Ring – svetsaren i tjänst svarar själv.",
+  "bild": {"panel": "svets", "hb": "stad"},
+  "text": {
+    "ber_rubrik": "Senaste nätternas jobb",
+    "proj_rubrik": "Utryckningar och avtal",
+    "proj_kol": ["Uppdrag", "Ort", "Typ", "Status", "År"],
+    "process_rubrik": "Från samtal till lagat",
+    "hb_etikett": "Säkerhet",
+    "omdomen_rubrik": "De som ringde oss",
+    "faq_rubrik": "Frågor om jour och priser",
+    "priser_rubrik": "Ett pris, dag som natt",
+    "priser_utvald": "Vanligast",
+    "priser_not": "Priser exklusive moms för företag. Privatpersoner betalar inklusive moms med ROT-avdrag.",
+    "boka_rubrik": "Inte akut? Skriv till oss",
+    "boka_text": "Är det akut – ring istället. Vi svarar på formuläret inom fyra timmar dagtid.",
+    "logos_rubrik": "Avtalskunder i Göteborg",
+    "certifikat_rubrik": "Behöriga för heta arbeten",
+    "bolag_rubrik": "Jour, verkstad och service",
+    "kontakt_knapp": "Ring jouren",
+    "hero_knapp": "Vad vi lagar",
+    "hero_lank": "Se priserna",
+    "medarbetare": "Jourlaget"
+  }
+}

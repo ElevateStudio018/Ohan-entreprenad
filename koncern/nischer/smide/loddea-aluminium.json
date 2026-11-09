@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Löddeå Aluminium AB",
+  "kortnamn": "Löddeå Aluminium",
+  "slug": "loddea-aluminium",
+  "typ": "Aluminiumsmide i västra Skåne",
+  "tagline": "Lätt, rostfritt, skånskt",
+  "slogan": "Balkonger, räcken, ramper och landgångar i svetsad aluminium – en tredjedel av stålets vikt och aldrig en rostfläck.",
+  "hero_rubrik": "En tredjedel av vikten, dubbla livslängden",
+  "hero_text": "Påhängda balkonger, glasräcken, ramper och båtlandgångar i aluminium från vår verkstad i Löddeköpinge. Medarbetarägt sedan 2021.",
+  "intro_rubrik": "Bara aluminium sedan 1999",
+  "om": [
+    "Löddeå Aluminium startades 1999 av båtbyggaren Kjell Persson, som tröttnat på att se stålbryggor rosta sönder i Barsebäckshamn. Han började svetsa landgångar i marin aluminium och fick snart frågor om balkonger från fastighetsägarna längs Öresundskusten.",
+    "När Kjell gick i pension 2021 köpte de anställda företaget. I dag är vi 26 medarbetare som äger lika stora delar, och vi omsätter 41 miljoner kronor. Verkstaden har två pulsade MIG-celler för aluminium, en CNC-bänk för profiler på tolv meter och egen provbelastningsrigg."
+  ],
+  "vagval_rubrik": "Vad ska vara lätt?",
+  "tjanster": [
+    {"titel": "Påhängda balkonger", "ikon": "hus", "href": "verksamhet.html", "text": "Färdiga balkonger i aluminium som lyfts på plats och fästs i fasaden."},
+    {"titel": "Glasräcken", "ikon": "sol", "href": "verksamhet.html", "text": "Räcken med laminerat glas i aluminiumprofil, utan skymmande spjälor."},
+    {"titel": "Ramper och trappor", "ikon": "pil", "href": "verksamhet.html", "text": "Tillgänglighetsramper med lutning 1:12 enligt Boverkets regler."},
+    {"titel": "Landgångar och bryggor", "ikon": "bat", "href": "verksamhet.html", "text": "Gångbryggor och landgångar för båtklubbar, marinor och färjelägen."},
+    {"titel": "Anodisering", "ikon": "stjarna", "href": "verksamhet.html", "text": "Naturanodiserat, bronsanodiserat eller pulverlackerat efter fasaden."},
+    {"titel": "Vi är delägare", "ikon": "folk", "href": "karriar.html", "text": "Alla anställda äger lika delar av bolaget."},
+    {"titel": "Kustnära referenser", "ikon": "karta", "href": "projekt.html", "text": "Från Höganäs till Skanör – balkonger, bryggor och ramper."},
+    {"titel": "Begär förslag", "ikon": "ritning", "href": "om-oss.html#kontakt", "text": "Vi ritar ett förslag och räknar på vikt och infästning."}
+  ],
+  "affarsomraden": [
+    {"titel": "Balkonger på befintliga hus", "text": "Många hus från 1950- och 60-talet saknar balkonger eller har balkongplattor som inte orkar mer. En påhängd aluminiumbalkong väger runt 180 kilo och kan monteras utan att fasaden förstärks.", "text2": "Vi lyfter upp till tolv balkonger per dag med mobilkran.", "tagg": "bostad"},
+    {"titel": "Glasräcken och fasadräcken", "text": "Aluminiumprofiler med laminerat säkerhetsglas på balkonger, terrasser och takterrasser. Profilerna är anodiserade och behöver inget underhåll.", "text2": "Glasräcken provbelastas i egen rigg med 1,0 kN per meter.", "tagg": "stad"},
+    {"titel": "Tillgänglighet", "text": "Ramper, plattformar och trappor med vilplan, handledare på två höjder och halksäker durk. Vi gör även lösa ramper till förskolor och vårdboenden.", "text2": "Kommuner kan avropa via vårt ramavtal med Kävlinge och Lomma.", "tagg": "anlaggning"},
+    {"titel": "Marint", "text": "Landgångar, gångbryggor och bryggfästen i havsvattenbeständig legering 5083 och 6082. Allt svetsas med pulsad MIG för täta, jämna fogar.", "text2": "Vi har levererat landgångar till elva båtklubbar mellan Höganäs och Skanör.", "tagg": "bat"}
+  ],
+  "bolag": [
+    {"namn": "Aluminiumverkstaden", "segment": "Tillverkning", "rubrik": "Tolv meter profil i en enda bänk", "text": "CNC-bearbetning, pulsad MIG och TIG för aluminium i två svetsceller.", "tagg": "svets"},
+    {"namn": "Konstruktion", "segment": "Beräkning och ritning", "rubrik": "Varje kilo räknas", "text": "Två konstruktörer som dimensionerar balkonger, ramper och bryggor enligt Eurokod 9.", "tagg": "kontor"},
+    {"namn": "Montage", "segment": "Kran och lift", "rubrik": "Balkongen på plats på tjugo minuter", "text": "Sex montörer med egen mobilkran och skylift som täcker hela Skåne.", "tagg": "bostad"}
+  ],
+  "berattelser": [
+    {"rubrik": "48 nya balkonger i Lomma", "text": "Ett 1960-talshus utan balkonger fick 48 påhängda aluminiumbalkonger på fyra dagar.", "tagg": "bostad"},
+    {"rubrik": "Landgång till färjeläget i Ven", "text": "En 22 meter lång landgång i aluminium som klarar både stormar och sommarens folkmassor.", "tagg": "bat"},
+    {"rubrik": "Fem år som medarbetarägt", "text": "Sedan de anställda tog över har omsättningen ökat med 60 procent och ingen har slutat.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "180", "enhet": "kg", "etikett": "Vikt för en påhängd balkong"},
+    {"varde": "26", "enhet": "delägare", "etikett": "Alla anställda äger lika mycket"},
+    {"varde": "11", "enhet": "båtklubbar", "etikett": "Med våra landgångar"},
+    {"varde": "41", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+  ],
+  "projekt": [
+    {"namn": "Brf Hamntornet", "ort": "Lomma", "typ": "Påhängda balkonger", "ar": "2026", "text": "48 balkonger med glasräcken på ett hus som aldrig haft balkonger.", "tagg": "bostad"},
+    {"namn": "Färjelägets landgång", "ort": "Landskrona", "typ": "Landgång", "ar": "2026", "text": "22 meter landgång i legering 5083 med ledad infästning.", "tagg": "bat"},
+    {"namn": "Vårdboendet Strandängen", "ort": "Bjärred", "typ": "Ramper", "ar": "2025", "text": "Tre ramper med vilplan och värmeslingor i durken.", "tagg": "anlaggning"},
+    {"namn": "Barsebäckshamn", "ort": "Kävlinge", "typ": "Gångbryggor", "ar": "2025", "text": "140 meter gångbryggor och sex landgångar till båtklubben.", "tagg": "bat"},
+    {"namn": "Takterrasser Västra hamnen", "ort": "Malmö", "typ": "Glasräcken", "ar": "2024", "text": "310 meter glasräcken på takterrasser i elva våningar.", "tagg": "stad"},
+    {"namn": "Kvarteret Fiskaren", "ort": "Höganäs", "typ": "Påhängda balkonger", "ar": "2027", "text": "64 balkonger i bronsanodiserad aluminium, montage i maj.", "tagg": "bostad", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Fasadbesök", "text": "Vi undersöker fasaden, mäter och bedömer var balkongerna kan fästas.", "tagg": "bostad"},
+    {"titel": "Beräkning", "text": "Konstruktörerna dimensionerar enligt Eurokod 9 och tar fram bygglovsritningar.", "tagg": "kontor"},
+    {"titel": "Tillverkning", "text": "Balkongerna svetsas färdiga, anodiseras och provbelastas innan de lämnar verkstaden.", "tagg": "svets"},
+    {"titel": "Lyft och montage", "text": "Mobilkranen lyfter balkongen på plats, och efter tjugo minuter är den fastskruvad.", "tagg": "bygg"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Aluminium som kan smältas om i all evighet",
+    "text": "Aluminium tappar inga egenskaper när det återvinns, och omsmältning kräver bara fem procent av energin för ny metall. Vi köper profiler med minst 75 procent återvunnet innehåll och sorterar allt spill per legering.",
+    "mal": [["75 %", "återvunnet innehåll i våra profiler"], ["0 kr", "i underhåll – anodiserad yta behöver ingen färg"], ["100 %", "av spillet sorterat per legering"]]
+  },
+  "karriar": {
+    "rubrik": "Bli delägare från första året",
+    "text": "Alla som anställs tillsvidare erbjuds att köpa in sig efter tolv månader, på samma villkor som alla andra. Vi har kollektivavtal och betalar certifikat för aluminiumsvets enligt ISO 9606-2.",
+    "jobb": [["Aluminiumsvetsare", "Löddeköpinge"], ["Montör med kranförarbevis", "Löddeköpinge"], ["Konstruktör Eurokod 9", "Löddeköpinge"]]
+  },
+  "kultur": "Stämman hålls i verkstaden varje mars – med 26 röster och en lång lunch efteråt.",
+  "citat": {"text": "Aluminium förlåter inget slarv vid svetsningen, men när fogen är rätt behöver ingen röra den igen på femtio år.", "namn": "Nadia Lindqvist", "roll": "Vd och delägare", "tagg": "svets"},
+  "omdomen": [
+    {"text": "Vi trodde att balkonger var omöjligt på vårt hus. Löddeå visade att aluminium vägde så lite att fasaden klarade det.", "namn": "Göran P.", "ort": "Lomma"},
+    {"text": "Våra gamla stålbryggor fick målas varje vår. Aluminiumbryggorna har inte rörts på sex år.", "namn": "Malin J.", "ort": "Barsebäckshamn"},
+    {"text": "Ramperna har värmeslingor och blir aldrig hala. De boende tar sig ut även i januari.", "namn": "Hassan O.", "ort": "Bjärred"}
+  ],
+  "faq": [
+    ["Varför aluminium i stället för stål?", "Aluminium väger en tredjedel av stål och rostar inte. Det gör att balkonger kan hängas på fasader som inte klarar tunga betongplattor, och att bryggor och landgångar inte behöver målas."],
+    ["Klarar aluminium havsmiljö?", "Ja, om man väljer rätt legering. Vi använder 5083 och 6082, som tål saltvatten, och undviker kontakt med koppar och rostfritt som kan orsaka korrosion."],
+    ["Behövs bygglov för påhängda balkonger?", "Ja, nästan alltid. Vi tar fram ritningar, konstruktionsberäkningar och fasadbilder till bygglovsansökan."],
+    ["Hur lång tid tar ett balkongprojekt?", "Från beställning till montage räknar vi med tolv till sexton veckor. Själva montaget går på ett par dagar."],
+    ["Vilka färger finns?", "Naturanodiserat, bronsanodiserat i fem nyanser eller pulverlackerat i valfri RAL-kulör."],
+    ["Lämnar ni garanti?", "Tio år på konstruktion och svetsfogar, fem år på ytbehandling."]
+  ],
+  "certifikat": [
+    {"titel": "EN 1090-3, EXC2", "text": "CE-märkning av bärande aluminiumkonstruktioner, certifierat sedan 2015.", "ikon": "skold"},
+    {"titel": "Svetscertifikat ISO 9606-2", "text": "Alla svetsare certifierade för aluminium med pulsad MIG och TIG.", "ikon": "eld"},
+    {"titel": "ISO 9001", "text": "Kvalitetsledningssystem med extern revision varje år.", "ikon": "dokument"},
+    {"titel": "Kranförarbevis och liftutbildning", "text": "Montörerna har kranförarbevis och utbildning i skylift och fallskydd.", "ikon": "kran"}
+  ],
+  "kunder": ["Brf Hamntornet", "Barsebäckshamns Båtklubb", "Strandängens Vårdboende", "Kävlinge kommun", "Lomma kommun", "Västra Hamnens Bostadsrätter", "Höganäs Hamnfastigheter", "Landskrona Färjelinjer"],
+  "nyheter": [
+    ["2026-10-01", "Klart i Lomma", "48 balkonger monterade på fyra dagar på ett hus från 1962.", "bostad"],
+    ["2026-06-11", "Landgången till Ven-färjan", "22 meter aluminium som klarar storm och sommartrafik.", "bat"],
+    ["2026-03-15", "Fem år som medarbetarägt", "Omsättningen har ökat med 60 procent sedan de anställda köpte bolaget.", "people"]
+  ],
+  "kontakt": {"adress": "Hantverkaregatan 6", "postnr": "246 42", "ort": "Löddeköpinge", "telefon": "070-174 06 63", "epost": "forslag@loddea-aluminium.se", "orgnr": ""},
+  "oppettider": "Mån–tors 7–16, fre 7–14",
+  "omrade": "Skåne, med fokus på Öresundskusten",
+  "fot_cta": "Saknar huset balkonger? Vi räknar på om fasaden klarar aluminium.",
+  "bild": {"panel": "svets", "hb": "bat"},
+  "text": {
+    "ber_rubrik": "Senast lyft på plats",
+    "proj_rubrik": "Längs Öresundskusten",
+    "process_rubrik": "Från fasad till färdig balkong",
+    "hb_etikett": "Återvinning",
+    "omdomen_rubrik": "Föreningar och båtklubbar om oss",
+    "faq_rubrik": "Frågor om aluminium",
+    "boka_rubrik": "Få ett förslag på er fasad",
+    "logos_rubrik": "Kunder längs kusten",
+    "certifikat_rubrik": "Certifierade för aluminium",
+    "bolag_rubrik": "Verkstad, konstruktion, montage",
+    "ny_rubrik": "Nytt från Löddeköpinge",
+    "panel_etikett": "Bli delägare",
+    "medarbetare": "Delägarna"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Röbäcks Smide & Återbruk AB",
+  "kortnamn": "Röbäcks Smide",
+  "slug": "robacks-smide",
+  "typ": "Smide och återbruk i Umeå",
+  "tagline": "Stål som får fortsätta",
+  "slogan": "Vi renoverar gamla räcken, grindar och trappor i stället för att skrota dem – och när något måste vara nytt svetsar vi det i fossilfritt stål.",
+  "hero_rubrik": "Ditt gamla räcke har trettio år kvar",
+  "hero_text": "Blästring, lagning och ny pulverlack på räcken, grindar och trappor – med en bråkdel av koldioxiden från ett nytt. Verkstad i Röbäck, uppdrag i hela Västerbotten.",
+  "intro_rubrik": "Sju års återbruk i siffror",
+  "om": [
+    "Ida Lidström och Mattias Öberg startade Röbäcks Smide 2019 i en gammal maskinhall som tidigare tillhörde ett åkeri. Ida är svetsare och utbildad miljöingenjör, Mattias är smed med gesällbrev, och idén var enkel: det mesta smide som rivs i Umeå är fullt fungerande stål med trasig färg.",
+    "I dag är vi nio anställda. Hälften av omsättningen kommer från renovering och återbruk, och resten från nytillverkning i fossilfritt stål. Verkstadens tak har 84 kilowatt solceller och lackugnen värms med fjärrvärme."
+  ],
+  "vagval_rubrik": "Laga, återbruka eller bygga nytt?",
+  "tjanster": [
+    {"titel": "Renovering av räcken", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vi blästrar, lagar och pulverlackar befintliga räcken på plats eller i verkstaden."},
+    {"titel": "Återbrukat smide", "ikon": "pil", "href": "verksamhet.html", "text": "Grindar, räcken och spiraltrappor från rivningar, anpassade till nya hem."},
+    {"titel": "Nytt i fossilfritt stål", "ikon": "lov", "href": "verksamhet.html", "text": "Nytillverkning i stål framställt med vätgas i stället för kol."},
+    {"titel": "Klimatkalkyl", "ikon": "graf", "href": "verksamhet.html", "text": "Varje offert visar koldioxiden för renovering jämfört med nytt."},
+    {"titel": "Grindar och staket", "ikon": "hus", "href": "verksamhet.html", "text": "Lagning av gamla grindar och nya i samma stil."},
+    {"titel": "Priser", "ikon": "portfolj", "href": "priser.html", "text": "Fasta priser per löpmeter räcke."},
+    {"titel": "Återbrukslagret", "ikon": "lada", "href": "projekt.html", "text": "Just nu har vi 140 meter räcken och elva grindar i lager."},
+    {"titel": "Skicka bilder", "ikon": "kamera", "href": "om-oss.html#kontakt", "text": "Fota ditt smide så bedömer vi om det går att rädda."}
+  ],
+  "affarsomraden": [
+    {"titel": "Renovering", "text": "Ett räcke från 1960-talet är ofta gjort i kraftigare stål än dagens. Vi blästrar bort gammal färg och rost, svetsar nya infästningar och pulverlackar i valfri kulör.", "text2": "En renovering ger cirka 85 procent lägre klimatavtryck än ett nytt räcke.", "tagg": "svets"},
+    {"titel": "Återbruk från rivningar", "text": "Vi tar hand om smide från rivnings- och ombyggnadsprojekt i Umeå med omnejd. Det sorteras, mäts upp och registreras i vårt återbrukslager.", "text2": "Byggföretag får ett intyg på hur många kilo stål som återbrukats i stället för att skrotas.", "tagg": "rivning"},
+    {"titel": "Nytt i fossilfritt stål", "text": "När inget gammalt passar svetsar vi nytt av stål som framställts med vätgas. Det kostar 10–15 procent mer, men klimatavtrycket för stålet är nästan noll.", "text2": "Vi har levererat fossilfria räcken till tre förskolor i Umeå kommun.", "tagg": "industri"},
+    {"titel": "Bostadsrättsföreningar", "text": "Många föreningar tror att de måste byta alla balkongräcken. Vi gör en okulär besiktning och visar vad som går att renovera på plats.", "text2": "Besiktning och klimatkalkyl kostar 4 500 kronor och dras av om ni beställer.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Renoveringsverkstaden", "segment": "Blästring och lack", "rubrik": "Där gammalt blir som nytt", "text": "Blästerhall, pulverlackugn för 4,5 meter långa delar och fyra svetsplatser.", "tagg": "svets"},
+    {"namn": "Återbrukslagret", "segment": "Begagnat smide", "rubrik": "Sex hundra kvadratmeter historia", "text": "Uppmätt och fotograferat smide från rivningar, sökbart på vår webbplats.", "tagg": "rivning"},
+    {"namn": "Montagelaget", "segment": "Ute hos kund", "rubrik": "Elbil, verktyg och lift", "text": "Tre montörer som demonterar, monterar och renoverar på plats, i elbil med släp.", "tagg": "bostad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Räcken från Ålidhem fick nytt liv", "text": "86 meter trapphusräcken från en rivning blev staket till en kolonilottsförening på Teg.", "tagg": "rivning"},
+    {"rubrik": "Första fossilfria förskolan", "text": "Förskolan i Tomtebo fick räcken och grindar i vätgasreducerat stål.", "tagg": "svets"},
+    {"rubrik": "Solcellerna har gått ett år", "text": "Verkstaden producerade 71 megawattimmar – mer än vi förbrukade mellan april och september.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "212", "enhet": "ton", "etikett": "Stål återbrukat sedan 2019"},
+    {"varde": "-85 %", "enhet": "CO₂", "etikett": "Renovering jämfört med nytt"},
+    {"varde": "9", "enhet": "anställda", "etikett": "Smeder, svetsare och montörer"},
+    {"varde": "84", "enhet": "kW", "etikett": "Solceller på verkstadstaket"}
+  ],
+  "projekt": [
+    {"namn": "Brf Mariehemsgården", "ort": "Umeå", "typ": "Renovering på plats", "ar": "2026", "text": "120 balkongräcken blästrade och lackade i stället för utbytta.", "tagg": "bostad"},
+    {"namn": "Förskolan Tomtebo", "ort": "Umeå", "typ": "Fossilfritt stål", "ar": "2026", "text": "Räcken, grindar och cykelställ i vätgasreducerat stål.", "tagg": "svets"},
+    {"namn": "Koloniföreningen Teg", "ort": "Umeå", "typ": "Återbruk", "ar": "2025", "text": "86 meter staket av trapphusräcken från en rivning på Ålidhem.", "tagg": "rivning"},
+    {"namn": "Spiraltrappa Holmsund", "ort": "Holmsund", "typ": "Återbruk", "ar": "2025", "text": "En spiraltrappa från ett nedlagt sågverk monterad i en sjöbod.", "tagg": "hem"},
+    {"namn": "Grindar Sävar kyrka", "ort": "Sävar", "typ": "Renovering", "ar": "2024", "text": "Tre smidesgrindar från 1880-talet lagade och lackade i originalkulör.", "tagg": "natur"},
+    {"namn": "Kvarteret Nyfiken", "ort": "Umeå", "typ": "Fossilfritt stål", "ar": "2027", "text": "Loftgångsräcken till 64 hyreslägenheter, tillverkning under vintern.", "tagg": "bygg", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Bilder eller besiktning", "text": "Skicka foton eller boka besiktning. Vi bedömer vad som går att rädda.", "tagg": "bostad"},
+    {"titel": "Offert med klimatkalkyl", "text": "Du får pris och koldioxid för renovering, återbruk och nytt sida vid sida.", "tagg": "kontor"},
+    {"titel": "Verkstad eller på plats", "text": "Små delar tas till Röbäck, stora räcken renoveras där de sitter.", "tagg": "svets"},
+    {"titel": "Montage och intyg", "text": "Du får ett intyg på återbrukad mängd stål och sparad koldioxid.", "tagg": "natur"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Det klimatsmartaste stålet är det som redan finns",
+    "text": "Att tillverka ett ton vanligt stål ger nästan två ton koldioxid. Vi räknar på varje uppdrag och redovisar resultatet öppet en gång om året. Pulverlacken är fri från lösningsmedel och blästersanden återanvänds upp till 40 gånger.",
+    "mal": [["50 %", "av omsättningen från renovering och återbruk"], ["0", "liter lösningsmedel i lackeringen"], ["100 %", "elbilar i montagelaget"]]
+  },
+  "karriar": {
+    "rubrik": "Smide för dig som hellre lagar",
+    "text": "Vi letar efter svetsare och smeder som gillar att lösa problem i gammalt stål. Du får kollektivavtal, cykelförmån och en vecka per år till att lära dig något nytt.",
+    "jobb": [["Svetsare renovering", "Umeå"]]
+  },
+  "kultur": "En gång per kvartal stänger vi verkstaden en eftermiddag och lagar något åt en förening i Umeå gratis.",
+  "citat": {"text": "Folk blir förvånade när de ser sitt gamla räcke efter blästring. Stålet är nästan alltid friskt – det var bara färgen som gav upp.", "namn": "Ida Lidström", "roll": "Medgrundare och vd", "tagg": "svets"},
+  "omdomen": [
+    {"text": "Vi skulle byta 120 räcken för 2,1 miljoner. Röbäcks renoverade dem på plats för en tredjedel av priset.", "namn": "Margareta H.", "ort": "Umeå"},
+    {"text": "Klimatkalkylen gick rakt in i vår hållbarhetsredovisning. Den var tydligare än något vi fått från större leverantörer.", "namn": "Joakim F.", "ort": "Umeå"},
+    {"text": "Spiraltrappan från sågverket är det första alla frågar om när de kommer in i sjöboden.", "namn": "Lisa B.", "ort": "Holmsund"}
+  ],
+  "faq": [
+    ["Hur vet jag om mitt räcke går att renovera?", "Skicka bilder på infästningar och de mest rostiga partierna. I de flesta fall räcker en renovering, men är fästen eller bärande delar genomrostade rekommenderar vi byte."],
+    ["Uppfyller ett gammalt räcke dagens krav?", "Inte alltid. Är räcket lägre än 110 centimeter eller har för stora öppningar kan vi bygga på eller komplettera så att det uppfyller Boverkets byggregler."],
+    ["Vad är fossilfritt stål?", "Stål där järnmalmen reducerats med vätgas från förnybar el i stället för med kol. Det ger nästan inga koldioxidutsläpp i stålframställningen."],
+    ["Kan jag köpa från återbrukslagret?", "Ja. Lagret finns på vår webbplats med mått och bilder. Vi anpassar, renoverar och monterar."],
+    ["Tar ni emot gammalt smide?", "Ja, från rivningar och ombyggnader. Vi hämtar kostnadsfritt inom Umeå kommun om mängden är över 500 kilo."],
+    ["Får jag ROT-avdrag?", "Ja, för arbetskostnaden när vi renoverar eller monterar smide på din bostad."],
+    ["Hur långt bort arbetar ni?", "Främst i Umeå, Vännäs, Robertsfors och Nordmaling, men vi har gjort renoveringar så långt bort som Skellefteå och Örnsköldsvik."]
+  ],
+  "priser": [
+    {"namn": "Renovering", "pris": "fr. 1 450 kr", "enhet": "per löpmeter", "text": "Blästring, lagning och ny pulverlack.", "punkter": ["Valfri RAL-kulör", "Nya infästningar vid behov", "Klimatintyg ingår", "Tio års garanti på lacken"], "utvald": true},
+    {"namn": "Återbrukat", "pris": "fr. 2 200 kr", "enhet": "per löpmeter monterat", "text": "Räcke från lagret, anpassat till dina mått.", "punkter": ["Renoverat och lackat", "Uppfyller Boverkets regler", "Montage ingår inom Umeå", "Historik om var stålet kommer ifrån"]},
+    {"namn": "Nytt fossilfritt", "pris": "fr. 3 400 kr", "enhet": "per löpmeter monterat", "text": "Nytillverkat i vätgasreducerat stål.", "punkter": ["Ritat efter dina mått", "Varmförzinkat och lackat", "Materialintyg från stålverket", "Fem års garanti på svets"]}
+  ],
+  "certifikat": [
+    {"titel": "Miljöfyrtornet", "text": "Diplomerade enligt Svensk Miljöbas miljöledningssystem sedan 2021.", "ikon": "lov"},
+    {"titel": "Gesällbrev i smide", "text": "Mattias Öberg har gesällbrev från Sveriges Hantverksråd.", "ikon": "stjarna"},
+    {"titel": "Svetscertifikat ISO 9606-1", "text": "Samtliga svetsare har certifikat för MIG och MMA.", "ikon": "eld"},
+    {"titel": "EN 1090-1, EXC2", "text": "CE-märkning av räcken och trappor, även återbrukade.", "ikon": "skold"}
+  ],
+  "kunder": ["Brf Mariehemsgården", "Umeå kommun förskolor", "Koloniföreningen Teg", "Västerbottens Bostäder", "Sävar församling", "Tegsbyggarna", "Holmsunds Båtklubb"],
+  "nyheter": [
+    ["2026-10-15", "Klimatbokslut för 2025", "Vi sparade 186 ton koldioxid jämfört med att tillverka allt nytt.", "natur"],
+    ["2026-06-24", "Ålidhems räcken blev kolonistaket", "Så återbrukade vi 86 meter räcken från en rivning.", "rivning"],
+    ["2026-02-18", "Fossilfritt till förskolor", "Umeå kommun valde vätgasreducerat stål till Tomtebos nya förskola.", "svets"]
+  ],
+  "kontakt": {"adress": "Gamla Vännäsvägen 12", "postnr": "905 92", "ort": "Umeå", "telefon": "070-174 06 52", "epost": "hej@robackssmide.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, återbrukslagret även lör 10–13",
+  "omrade": "Umeå, Vännäs, Robertsfors och Nordmaling",
+  "fot_cta": "Fota ditt gamla smide och skicka – vi svarar om det går att rädda.",
+  "bild": {"panel": "svets", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Aktuellt från verkstaden i Röbäck",
+    "proj_rubrik": "Smide som fick leva vidare",
+    "process_rubrik": "Så räddar vi ditt smide",
+    "hb_etikett": "Klimat",
+    "omdomen_rubrik": "Vad kunderna sparade",
+    "faq_rubrik": "Om återbruk och fossilfritt",
+    "priser_rubrik": "Pris per meter, tre vägar",
+    "priser_utvald": "Lägst klimatavtryck",
+    "boka_rubrik": "Går ditt smide att rädda?",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Vad gäller det? Bifoga gärna bilder"],
+    "logos_rubrik": "De har valt att återbruka",
+    "certifikat_rubrik": "Miljödiplom och hantverksbrev",
+    "bolag_rubrik": "Verkstad, lager och montage",
+    "ny_rubrik": "Klimat, stål och återbruk",
+    "medarbetare": "Smederna"
+  }
+}

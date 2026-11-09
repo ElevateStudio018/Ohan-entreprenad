@@ -1,0 +1,132 @@
+{
+  "profil": "nisch",
+  "nisch": "trafikskola",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Polarväg Förarutbildning AB",
+  "kortnamn": "Polarväg",
+  "slug": "polarvag",
+  "typ": "Förarutbildning i hela Norrbotten",
+  "tagline": "Lastbil, buss och bil",
+  "slogan": "Från sex anställda i Luleå 2014 till 96 i sex orter – vi utbildar förarna som Norrbottens industrier, åkerier och bussbolag behöver.",
+  "hero_rubrik": "Norrbotten saknar förare. Vi utbildar dem.",
+  "hero_text": "C, CE, D, YKB och B-körkort i Luleå, Piteå, Boden, Kalix, Gällivare och Kiruna. Egen isbana på Luleälven och 18 tunga fordon.",
+  "intro_rubrik": "Tolv år, sex orter, en region i omställning",
+  "om": [
+    "Polarväg startades 2014 av Mikael Rantatalo, lastbilschaufför i tjugo år, och Sara Niemi, som drev en bilskola i Boden. Idén var enkel: åkerierna i Malmfälten fick inte tag på förare, och närmaste CE-utbildning låg tolv mil bort.",
+    "I dag är vi 96 anställda med skolor i sex orter, 18 lastbilar och bussar och 34 personbilar. Under 2025 tog 410 elever tung behörighet hos oss, de flesta genom arbetsmarknadsutbildning eller med en arbetsgivare som betalar."
+  ],
+  "vagval_rubrik": "Vad ska du köra?",
+  "tjanster": [
+    {"titel": "Lastbil C och CE", "ikon": "bil", "href": "verksamhet.html", "text": "Tung lastbil med och utan släp, på 12–16 veckor inklusive YKB."},
+    {"titel": "Buss D", "ikon": "bil", "href": "verksamhet.html", "text": "Busskörkort för linjetrafik och skolskjuts, med fyra egna bussar."},
+    {"titel": "YKB grundutbildning", "ikon": "skola", "href": "verksamhet.html", "text": "140 timmar och prov för dig som ska köra yrkesmässigt."},
+    {"titel": "YKB fortbildning", "ikon": "kalender", "href": "verksamhet.html", "text": "35 timmar vart femte år, som kvällar, helger eller en hel vecka."},
+    {"titel": "B-körkort", "ikon": "bil", "href": "verksamhet.html", "text": "Personbil i alla sex orter, med mörker- och vinterkörning som standard."},
+    {"titel": "Vinterkörning", "ikon": "vag", "href": "verksamhet.html", "text": "Isbana på Luleälven från januari till mars, för bil och lastbil."},
+    {"titel": "ADR farligt gods", "ikon": "eld", "href": "verksamhet.html", "text": "Grund-, tank- och repetitionskurs för transporter till gruvor och industri."},
+    {"titel": "Företagsavtal", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Fasta platser per år för åkerier, bussbolag och kommuner."}
+  ],
+  "affarsomraden": [
+    {"titel": "Tung lastbil", "text": "CE-utbildningen tar 12–16 veckor och innehåller YKB grundutbildning, ADR och praktik hos ett åkeri. Vi kör med timmerbil, grusbil och skåpbil så att eleven har provat det arbetsgivaren kör.", "text2": "Två av tre elever har ett anställningslöfte när utbildningen börjar.", "tagg": "korskola"},
+    {"titel": "Buss och kollektivtrafik", "text": "D-utbildningen genomförs i Luleå och Gällivare med fyra bussar, varav en ledbuss. Vi samarbetar med bussbolagen om praktik på skolskjuts- och länslinjer.", "text2": "Utbildningen tar 10 veckor för dig som redan har C-behörighet.", "tagg": "infra"},
+    {"titel": "B-körkort i sex orter", "text": "I varje ort har vi minst två trafiklärare och personbilar med dubbelkommando. Alla elever kör i mörker, på vägar med vägren och i snö innan vi bokar körprov.", "text2": "Riskettan hålls lokalt och halkbanan ersätts vintertid av isbanan.", "tagg": "korskola"},
+    {"titel": "Företag och fortbildning", "text": "För arbetsgivare håller vi YKB-fortbildning, ADR och sparsam körning där personalen finns – i Kiruna, i Kalix eller på er egen depå.", "text2": "Ni får ett samlat intyg per förare och påminnelse när fortbildningen löper ut.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Polarväg Tung", "segment": "C, CE, D och YKB", "rubrik": "Luleå och Gällivare", "text": "Två skolor för tung trafik med 14 lastbilar, 4 bussar och egen manöverbana i Svartöstaden.", "tagg": "korskola"},
+    {"namn": "Polarväg Bil", "segment": "B, BE och risk", "rubrik": "Sex orter, 34 bilar", "text": "B-körkort i Luleå, Piteå, Boden, Kalix, Gällivare och Kiruna, med lokala lärare.", "tagg": "stad"},
+    {"namn": "Polarväg Företag", "segment": "YKB, ADR och avtal", "rubrik": "Utbildning där förarna finns", "text": "Fortbildning på depåer och industriområden i hela länet, med egen kursbuss.", "tagg": "industri"},
+    {"namn": "Isbanan Luleälven", "segment": "Vinterkörning", "rubrik": "Två kilometer is i Gammelstad", "text": "Plogad bana på älvisen från januari till mars för halkkörning med bil och lastbil.", "tagg": "infra"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ny skola i Kiruna", "text": "Den sjätte skolan har öppnat på Industrivägen med tre trafiklärare och två lastbilar.", "tagg": "korskola"},
+    {"rubrik": "82 nya CE-förare på ett år", "text": "Arbetsmarknadsutbildningen i Luleå och Gällivare gav 82 nya förare – 71 hade jobb inom en månad.", "tagg": "industri"},
+    {"rubrik": "Isbanan öppnar i januari", "text": "Så fort isen bär 40 centimeter plogar vi upp banan i Gammelstad igen.", "tagg": "infra"}
+  ],
+  "nyckeltal": [
+    {"varde": "96", "enhet": "anställda", "etikett": "Från sex 2014"},
+    {"varde": "6", "enhet": "orter", "etikett": "Från Kalix till Kiruna"},
+    {"varde": "410", "enhet": "elever", "etikett": "Med tung behörighet 2025"},
+    {"varde": "87 %", "enhet": "", "etikett": "Har jobb inom tre månader"}
+  ],
+  "projekt": [
+    {"namn": "Malmfältens Åkeri", "ort": "Gällivare", "typ": "CE och YKB", "ar": "2026", "text": "Tjugofyra nya förare utbildas för malmtransporter i treskift.", "tagg": "korskola", "status": "Pågående"},
+    {"namn": "Arbetsmarknadsutbildning CE", "ort": "Luleå", "typ": "Upphandlad utbildning", "ar": "2025", "text": "Fyra kullar om 16 elever, med praktik på åkerier i hela länet.", "tagg": "industri"},
+    {"namn": "Gällivare Bussbolag", "ort": "Gällivare", "typ": "D-körkort", "ar": "2025", "text": "Tolv nya bussförare inför att linjetrafiken flyttade till nya centrum.", "tagg": "infra"},
+    {"namn": "Kalix Grus & Transport", "ort": "Kalix", "typ": "YKB fortbildning", "ar": "2025", "text": "Trettio förare fortbildade på egen depå under fem lördagar.", "tagg": "industri"},
+    {"namn": "Bodens kommun", "ort": "Boden", "typ": "B-körkort, grupp", "ar": "2024", "text": "Körkort för 26 medarbetare i hemtjänst och personlig assistans.", "tagg": "korskola"},
+    {"namn": "Luleå Hamnlogistik", "ort": "Luleå", "typ": "ADR och tank", "ar": "2024", "text": "ADR-intyg med tankbehörighet för åtta förare i hamnens bränsletrafik.", "tagg": "industri"}
+  ],
+  "process": [
+    {"titel": "Samtal och tester", "text": "Vi går igenom körkortstillstånd, läkarintyg och om du har en arbetsgivare eller går via Arbetsförmedlingen.", "tagg": "kontor"},
+    {"titel": "Teori och YKB", "text": "Fyra veckor i klassrum med YKB-moduler, regler för kör- och vilotider och lastsäkring.", "tagg": "people"},
+    {"titel": "Körning och praktik", "text": "Manöverbana, landsväg och vinterväg – sedan två veckors praktik på ett åkeri.", "tagg": "korskola"},
+    {"titel": "Prov och anställning", "text": "Körprov hos Trafikverket i Luleå eller Gällivare, och vi förmedlar kontakten med arbetsgivaren.", "tagg": "industri"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje förare ska klara en vinter i Malmfälten",
+    "text": "Ingen elev får köra upp för tung behörighet utan att ha kört på is och i polarmörker med en lärare bredvid. Alla våra lastbilar går på HVO100 och har mätare för sparsam körning, som eleverna får se efter varje pass.",
+    "mal": [["100 %", "av de tunga eleverna kör på isbanan"], ["HVO100", "i alla lastbilar och bussar"], ["−12 %", "bränsle efter kursen i sparsam körning"]]
+  },
+  "karriar": {
+    "rubrik": "Vi växer i hela länet",
+    "text": "Vi behöver fler trafiklärare för tung trafik och en lärare för B i Kiruna. Vi betalar trafiklärarutbildningen för förare som vill byta yrke.",
+    "jobb": [["Trafiklärare tung trafik", "Gällivare"], ["Trafiklärare B", "Kiruna"], ["YKB-lärare", "Luleå"], ["Utbildningsadministratör", "Luleå"]]
+  },
+  "kultur": "Hälften av våra lärare har kört lastbil eller buss i yrket – de vet hur en timmerväg ser ut i februari.",
+  "citat": {"text": "Jag körde malm i tjugo år och såg hur åkerierna ställde bilar för att det inte fanns förare. Vi startade Polarväg för att lösa det problemet, inte för att bli stora.", "namn": "Mikael Rantatalo", "roll": "Grundare och vd", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Vi har anställt nitton förare från Polarväg på två år. De kan köra på vinterväg från första dagen.", "namn": "Tomas K., trafikchef", "ort": "Gällivare"},
+    {"text": "Jag var 41 och arbetslös efter sågverket. Fyra månader senare körde jag timmer.", "namn": "Johanna P.", "ort": "Kalix"},
+    {"text": "YKB-fortbildningen på vår depå sparade oss trettio resor till Luleå.", "namn": "Ronny E., åkeriägare", "ort": "Kalix"}
+  ],
+  "faq": [
+    ["Hur lång tid tar CE-utbildningen?", "12–16 veckor på heltid, beroende på om du redan har C. YKB grundutbildning ingår."],
+    ["Kan Arbetsförmedlingen betala?", "Ja, om du är inskriven och har en anvisning till arbetsmarknadsutbildning. Vi har platser i Luleå och Gällivare."],
+    ["Vad kostar CE om jag betalar själv?", "En CE-utbildning med YKB kostar från 74 500 kronor. Vi lämnar fast pris efter ett inledande samtal."],
+    ["Hur gammal måste jag vara?", "Med YKB kan du ta C från 18 år och D från 21. Utan YKB gäller 21 respektive 24 år."],
+    ["Behöver jag läkarintyg?", "Ja, för C, CE och D krävs ett läkarintyg och syntest i ansökan om körkortstillstånd."],
+    ["Håller ni utbildning på vår depå?", "Ja, YKB-fortbildning, ADR och sparsam körning kan vi hålla hos er från sex deltagare."],
+    ["När är isbanan öppen?", "Normalt från mitten av januari till mitten av mars, när isen på Luleälven är minst 40 centimeter."]
+  ],
+  "prislista": [["CE med YKB, heltid", "fr. 74 500 kr"], ["C för dig med B", "fr. 49 500 kr"], ["D för dig med C", "fr. 46 000 kr"], ["YKB fortbildning 35 h", "9 900 kr"], ["ADR grundkurs", "7 400 kr"], ["Vinterkörning på isbanan", "2 900 kr"], ["B-lektion 40 min", "740 kr"]],
+  "certifikat": [
+    {"titel": "Godkänd YKB-utbildare", "text": "Transportstyrelsens godkännande för YKB grundutbildning och fortbildning i godstrafik och persontrafik.", "ikon": "dokument"},
+    {"titel": "ADR-utbildare", "text": "Godkända av MSB att hålla ADR-utbildning för grund, tank och klass 1.", "ikon": "eld"},
+    {"titel": "Arbetsmarknadsutbildning", "text": "Upphandlad leverantör av förarutbildning C och CE till Arbetsförmedlingen i Norrbotten.", "ikon": "portfolj"},
+    {"titel": "ISO 9001", "text": "Certifierat ledningssystem för kvalitet sedan 2021, med årlig revision.", "ikon": "skold"}
+  ],
+  "kunder": ["Malmfältens Åkeri AB", "Gällivare Bussbolag AB", "Kalix Grus & Transport", "Luleå Hamnlogistik AB", "Bodens kommun", "Piteå kommun", "Tornedalens Timmer AB", "Kiruna Entreprenad & Last"],
+  "nyheter": [
+    ["2026-10-05", "Polarväg öppnar i Kiruna", "Sjätte skolan finns på Industrivägen, med B och tung trafik.", "korskola"],
+    ["2026-06-11", "82 nya förare från arbetsmarknadsutbildningen", "Sju av åtta hade jobb inom en månad efter körprovet.", "industri"],
+    ["2026-02-02", "Isbanan i Gammelstad är öppen", "Isen bär 52 centimeter och banan är plogad för både bil och lastbil.", "infra"],
+    ["2025-11-18", "Alla lastbilar går på HVO100", "Den sista dieselbilen konverterades före vintern.", "korskola"]
+  ],
+  "kontakt": {"adress": "Banvägen 14", "postnr": "973 46", "ort": "Luleå", "telefon": "070-174 06 23", "epost": "info@polarvag.se", "orgnr": ""},
+  "oppettider": "Kontoret mån–fre 7–17 · Utbildning dag, kväll och helg",
+  "omrade": "Norrbottens län, med skolor i sex orter",
+  "fot_cta": "Behöver ert åkeri fler förare? Ring oss så tar vi fram en utbildningsplan.",
+  "bild": {"panel": "industri", "hb": "infra"},
+  "text": {
+    "kontakt_knapp": "Kontakta oss",
+    "hero_knapp": "Utbildningarna",
+    "vagval_etikett": "Behörigheter",
+    "ber_etikett": "Nytt från länet",
+    "ber_rubrik": "Från Kalix till Kiruna",
+    "proj_rubrik": "Förare vi har utbildat åt andra",
+    "process_etikett": "Tung behörighet",
+    "process_rubrik": "Från ansökan till anställning",
+    "bolag_etikett": "Verksamheter",
+    "bolag_rubrik": "Fyra verksamheter, ett län",
+    "hb_etikett": "Vinter och miljö",
+    "omdomen_rubrik": "Åkerier och elever om Polarväg",
+    "faq_rubrik": "Om tung trafik och finansiering",
+    "boka_rubrik": "Planera en utbildning",
+    "boka_text": "Berätta vilka behörigheter ni behöver och hur många förare det gäller, så återkommer en utbildningssamordnare inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Företag, ort och behörighet"],
+    "certifikat_rubrik": "Godkända för yrkesutbildning",
+    "logos_rubrik": "Åkerier, bussbolag och kommuner",
+    "medarbetare": "Lärarna i Norrbotten"
+  }
+}

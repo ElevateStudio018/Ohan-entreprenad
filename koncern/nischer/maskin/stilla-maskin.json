@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "maskin",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Stilla Maskinuthyrning AB",
+  "kortnamn": "Stilla",
+  "slug": "stilla-maskin",
+  "typ": "Eldrivna maskiner att hyra i Stockholm",
+  "tagline": "Bara batteri och kabel",
+  "slogan": "Vi hyr ut grävmaskiner, lastare och liftar som inte släpper ut något på arbetsplatsen – och som grannarna knappt hör.",
+  "hero_rubrik": "Gräv klockan sex utan att väcka kvarteret",
+  "hero_text": "95 eldrivna grävmaskiner, lastare, dumprar och liftar för fossilfria byggplatser i Storstockholm. Med batteribanker som laddar dem där elnätet inte räcker.",
+  "intro_rubrik": "Noll avgaser sedan första dagen",
+  "om": [
+    "Leila Haddad var miljöansvarig på ett byggföretag när Stockholms stad började ställa krav på fossilfria arbetsmaskiner i sina upphandlingar 2020. Hon fick inte tag på en enda eldriven grävare att hyra. Samma år startade hon Stilla tillsammans med maskintekniker Per Ström, med fyra elminigrävare i en hall i Västberga.",
+    "Vi har aldrig ägt en dieselmaskin. I dag hyr vi ut 95 batteri- och kabeldrivna maskiner, från 1,7 tons minigrävare till en 14 tons hjulgrävare, och har 18 anställda. Det mesta går till innerstadsprojekt med tidiga starttider, källarschakt där avgaser inte är tillåtna och kommunala projekt med klimatkrav."
+  ],
+  "vagval_rubrik": "Vilken maskin ska bli eldriven?",
+  "tjanster": [
+    {"titel": "Elgrävare", "ikon": "hamare", "href": "verksamhet.html", "text": "Från 1,7 till 14 ton, med batteri för en arbetsdag eller kabel för obegränsad drift."},
+    {"titel": "Eldumprar", "ikon": "bil", "href": "verksamhet.html", "text": "Bandtumlare och hjuldumprar som kör i källare och trapphus utan ventilation."},
+    {"titel": "Ellastare", "ikon": "kugge", "href": "verksamhet.html", "text": "Kompaktlastare och hjullastare för materialhantering på trånga gårdar."},
+    {"titel": "Elliftar", "ikon": "upp", "href": "verksamhet.html", "text": "Sax-, bom- och spindelliftar, alla på batteri."},
+    {"titel": "Batteribanker", "ikon": "laddning", "href": "verksamhet.html", "text": "Mobila batterier 60–500 kWh som laddar maskinerna där bygget saknar stark el."},
+    {"titel": "Solcellsbodar", "ikon": "sol", "href": "verksamhet.html", "text": "Personalbodar med solceller och värmepump, utan elverk."},
+    {"titel": "Klimatrapport", "ikon": "graf", "href": "hallbarhet.html", "text": "Utsläpp och energiförbrukning per maskin, redo för beställarens uppföljning."},
+    {"titel": "Prata med Per", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Per räknar på laddning och drifttid för just ditt projekt."}
+  ],
+  "affarsomraden": [
+    {"titel": "Eldrivna grävmaskiner", "text": "Våra 38 elgrävare har samma brytkraft som motsvarande dieselmaskiner men låter 62 decibel på tio meters håll. De minsta går på batteri i åtta timmar, de större kan köras på kabel från byggström dygnet runt.", "text2": "Alla grävare levereras med tiltrotator, snabbfäste och laddkabel anpassad för byggets elcentral.", "tagg": "maskin"},
+    {"titel": "Laddning på byggplatsen", "text": "Det är sällan maskinen som är problemet – det är byggströmmen. Våra batteribanker laddas nattetid från en vanlig 63-amperesanslutning och levererar effekt till flera maskiner samtidigt på dagen.", "text2": "Per Ström gör en laddplan för varje projekt med effektbehov per timme.", "tagg": "el"},
+    {"titel": "Arbete inomhus och under mark", "text": "I källare, garage och tunnlar får dieselmaskiner bara köras med kraftig ventilation. Våra eldumprar och elgrävare kan arbeta i slutna utrymmen utan avgaser och med en bråkdel av värmen.", "text2": "Vi har levererat till ett tiotal stambyten och källarsänkningar i innerstaden sedan 2023.", "tagg": "rivning"},
+    {"titel": "Klimatredovisning", "text": "Allt fler beställare kräver redovisning av energi och utsläpp per arbetsmaskin. Varje maskin hos oss loggar förbrukad kilowattimme, och efter hyran får du en rapport per maskin och vecka.", "text2": "Rapporten följer formatet som Stockholms stad efterfrågar i sina klimatkrav.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Uthyrning", "segment": "Västberga", "rubrik": "Sex personer som kan batterier", "text": "Uthyrarna bokar maskiner, räknar drifttid och följer upp att laddningen fungerar under första veckan.", "tagg": "people"},
+    {"namn": "Laddning & el", "segment": "Projektering", "rubrik": "Laddplan före leverans", "text": "Per Ström och två elingenjörer dimensionerar batteribanker och byggström för varje projekt.", "tagg": "el"},
+    {"namn": "Service", "segment": "Verkstad och servicebilar", "rubrik": "Elmotorer kräver mindre men annat", "text": "Fem tekniker med högvoltsbehörighet servar batterier, laddare och hydraulik.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Källarschakt på Södermalm", "text": "Två elgrävare och tre eldumprar sänker källarplanet i ett hus från 1898 – utan en enda fläkt för avgaser.", "tagg": "rivning"},
+    {"rubrik": "Vår första 14-tonnare på kabel", "text": "Hjulgrävaren kör på byggström i två skift på en skolgård i Hammarby sjöstad.", "tagg": "maskin"},
+    {"rubrik": "410 ton koldioxid mindre", "text": "Så mycket sparade våra kunder 2025 jämfört med motsvarande dieselmaskiner.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "95", "enhet": "maskiner", "etikett": "Alla eldrivna"},
+    {"varde": "62", "enhet": "dB", "etikett": "Ljudnivå på tio meters avstånd"},
+    {"varde": "410", "enhet": "ton CO₂", "etikett": "Undvikta utsläpp 2025"},
+    {"varde": "0", "enhet": "liter", "etikett": "Diesel köpt sedan 2020"}
+  ],
+  "projekt": [
+    {"namn": "Källarsänkning, Brf Tantolunden 3", "ort": "Södermalm", "typ": "Schakt inomhus", "ar": "2026", "text": "60 centimeters sänkning av källarplanet med eldumprar genom portvalvet.", "tagg": "rivning"},
+    {"namn": "Skolgård Hammarby sjöstad", "ort": "Stockholm", "typ": "Elgrävare på kabel", "ar": "2026", "text": "14 tons hjulgrävare i två skift under skolans sommarlov.", "status": "Utfört", "tagg": "maskin"},
+    {"namn": "Kv. Glasbruket", "ort": "Sundbyberg", "typ": "Fossilfri byggplats", "ar": "2025", "text": "Hela maskinparken eldriven, med två batteribanker på 300 kWh.", "tagg": "bygg"},
+    {"namn": "Stambyte Vasastan", "ort": "Stockholm", "typ": "Minigrävare inomhus", "ar": "2025", "text": "Elminigrävare i källargången för nya avloppsledningar under bottenplattan.", "tagg": "vvs"},
+    {"namn": "Parkupprustning Liljeholmen", "ort": "Stockholm", "typ": "Kompaktlastare", "ar": "2025", "text": "Tysta lastare som kunde arbeta från klockan sex intill bostadshusen.", "tagg": "stad"},
+    {"namn": "Solcellsetablering Solna", "ort": "Solna", "typ": "Bodar utan elverk", "ar": "2024", "text": "Tolv personalbodar som drevs av solceller och batteri hela sommaren.", "tagg": "solel"}
+  ],
+  "process": [
+    {"titel": "Beskriv jobbet", "text": "Maskinbehov, arbetstider och vilken byggström som finns. Vi frågar alltid om säkringsstorlek.", "tagg": "people"},
+    {"titel": "Laddplan", "text": "Vi räknar ut om maskinerna klarar dagen på batteri eller behöver kabel eller batteribank.", "tagg": "el"},
+    {"titel": "Leverans laddad", "text": "Maskinerna kommer fulladdade med laddkabel, adapter och en kort genomgång för förarna.", "tagg": "maskin"},
+    {"titel": "Rapport efter hyran", "text": "Du får energiförbrukning och undvikta utsläpp per maskin, klar att skicka till beställaren.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi räknar varje kilowattimme",
+    "text": "Laddningen i depån sker med el märkt Bra Miljöval, och batteribankerna laddas nattetid när elnätet har överskott. Uttjänta maskinbatterier går tillbaka till tillverkaren för återvinning eller får ett andra liv som stationär lagring i vår egen depå.",
+    "mal": [["100 %", "förnybar el i depån"], ["410 t", "undvikt koldioxid 2025"], ["2", "andrahandsbatterier i depåns lager"]]
+  },
+  "karriar": {
+    "rubrik": "Maskintekniker som vill lära sig batterier",
+    "text": "Vi utbildar dig i högvoltssäkerhet och batterisystem, och du får arbeta med den nyaste tekniken i branschen. Kollektivavtal, förmånscykel och fyra veckors sommarsemester.",
+    "jobb": [["Servicetekniker eldrivna maskiner", "Hägersten"], ["Uthyrare med teknisk bakgrund", "Hägersten"]]
+  },
+  "kultur": "Hela personalstyrkan cyklar eller åker tunnelbana till depån – det finns ingen personalparkering.",
+  "citat": {"text": "Varje gång någon säger att elmaskiner inte klarar riktiga jobb tar vi med dem till ett källarschakt på Södermalm. Ingen har sagt det två gånger.", "namn": "Leila Haddad", "roll": "Vd och grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi fick börja schakta klockan sex utan en enda klagan från grannarna. Med dieselmaskiner hade vi fått vänta till sju.", "namn": "Johan E.", "ort": "Hammarby sjöstad"},
+    {"text": "Laddplanen var avgörande. Per visade att vi klarade oss med vår 63-ampere byggström och en batteribank.", "namn": "Sara N.", "ort": "Sundbyberg"},
+    {"text": "Klimatrapporten gick rakt in i vår slutredovisning till staden. Inga egna beräkningar behövdes.", "namn": "Magnus F.", "ort": "Solna"}
+  ],
+  "faq": [
+    ["Räcker batteriet en hel arbetsdag?", "För minigrävare upp till fem ton, ja, vid normal grävning. Större maskiner kör vi på kabel eller med en batteribank som laddar under lunch."],
+    ["Vilken byggström behövs?", "En minigrävare laddar på 16 ampere över natten. För flera större maskiner behövs minst 63 ampere, annars löser vi det med batteribank."],
+    ["Är elmaskiner dyrare att hyra?", "Hyran är 15–25 procent högre än för diesel, men du betalar ingen diesel. Räknat per dag blir det ofta jämnt, och beställarens klimatkrav uppfylls."],
+    ["Klarar de kyla?", "Batterierna har värmesystem och fungerar ned till minus 20. Under vintern levererar vi alltid med laddare och rekommenderar laddning på lunchen."],
+    ["Får maskinerna köras inomhus?", "Ja, de släpper inte ut några avgaser. Tänk på att damm från schaktet fortfarande kräver ventilation."],
+    ["Gör ni klimatrapporter för upphandlingar?", "Ja, efter varje hyra får du energiförbrukning och undvikta utsläpp per maskin i ett format som passar kommunala beställares uppföljning."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 14001", "text": "Miljöledningssystemet är certifierat sedan 2022 och omfattar även batterihantering och återvinning.", "ikon": "lov"},
+    {"titel": "Bra Miljöval el", "text": "All el i depån och i batteribankerna kommer från förnybar el märkt Bra Miljöval.", "ikon": "laddning"},
+    {"titel": "Högvoltsbehörighet", "text": "Alla servicetekniker har utbildning för arbete med elsystem över 60 volt likström enligt elsäkerhetsstandarden.", "ikon": "blixt"},
+    {"titel": "ID06 och kollektivavtal", "text": "Kollektivavtal med IF Metall, och alla som levererar till byggplatser har ID06.", "ikon": "skold"}
+  ],
+  "kunder": ["Brf Tantolunden 3", "Hammarby Sjöstads Fastighets AB", "Nordviken Bygg", "Södermalms Schakt", "Liljeholmens Parkförvaltning", "Solna Stadsbyggnad", "Vasastadens Stambyten"],
+  "nyheter": [
+    ["2026-09-15", "Hjulgrävare på 14 ton nu på kabel", "Vår största maskin hittills kör två skift på byggström.", "maskin"],
+    ["2026-05-04", "Så räknar du på laddningen", "Per Ström om säkringar, batteribanker och lunchladdning.", "el"],
+    ["2026-01-21", "Klimatrapporten för 2025", "410 ton koldioxid undveks på våra kunders byggplatser.", "natur"]
+  ],
+  "kontakt": {"adress": "Elektravägen 22", "postnr": "126 30", "ort": "Hägersten", "telefon": "070-174 06 48", "epost": "hej@stillamaskin.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–16",
+  "omrade": "Storstockholm, från Södertälje till Täby",
+  "fot_cta": "Har beställaren ställt klimatkrav? Vi räknar på en eldriven maskinpark åt dig.",
+  "bild": {"panel": "el", "hb": "natur", "sida_om": "stad"},
+  "text": {
+    "hero_knapp": "Våra elmaskiner",
+    "hero_lank": "Se var de kör",
+    "kontakt_knapp": "Räkna på laddning",
+    "vagval_etikett": "Maskinparken",
+    "ber_etikett": "Från byggplatserna",
+    "ber_rubrik": "Tyst arbete i staden",
+    "proj_rubrik": "Där ingen hörde oss",
+    "process_rubrik": "Från säkringsstorlek till klimatrapport",
+    "hb_etikett": "Klimat",
+    "hb_lank": "Så räknar vi utsläppen",
+    "omdomen_rubrik": "Platschefer som bytt till el",
+    "faq_rubrik": "Frågor om batterier och laddning",
+    "logos_rubrik": "Fossilfria byggplatser hos",
+    "certifikat_rubrik": "Förnybart och behörigt",
+    "bolag_rubrik": "18 personer, tre uppdrag",
+    "boka_rubrik": "Vad ska grävas och var finns strömmen?",
+    "boka_text": "Skriv maskinbehov, arbetstider och säkringsstorlek, så får du en laddplan och ett pris inom två dagar.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Maskiner, tider och byggström"],
+    "siffror_etikett": "Stilla i siffror",
+    "medarbetare": "Medarbetare"
+  }
+}

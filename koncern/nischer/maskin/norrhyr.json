@@ -1,0 +1,136 @@
+{
+  "profil": "nisch",
+  "nisch": "maskin",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Norrhyr Maskin & Etablering AB",
+  "kortnamn": "Norrhyr",
+  "slug": "norrhyr",
+  "typ": "Maskin- och bodhyra i Norrbotten",
+  "tagline": "Nio depåer i norr",
+  "slogan": "När industrin i norr växer behöver den maskiner, bodar och liftar snabbare än någon annanstans i landet – därför har vi byggt nio depåer på nio år.",
+  "hero_rubrik": "Nio depåer från Kiruna till Umeå",
+  "hero_text": "Grävmaskiner, liftar, bodar och kompletta etableringar för industribyggen, gruvor och stadsomvandling. Kallstartade och vinterklassade ned till minus 40.",
+  "intro_rubrik": "Från sex till 120 anställda sedan 2017",
+  "om": [
+    "Norrhyr startades 2017 i en kall plåthall på Storheden i Luleå av Sara Lundmark och Johan Pekkari, som båda kom från industriservice i Malmfälten. Första året hade vi sex anställda, 40 maskiner och en depå. Sedan dess har industrietableringarna längs kusten och stadsflytten i Kiruna gjort Norrbotten till landets snabbast växande hyrmarknad.",
+    "I dag är vi 120 anställda med 2 300 hyrobjekt i nio depåer, från Kiruna i norr till Umeå i söder. Omsättningen var 486 miljoner kronor 2025. Allt vi köper in är specificerat för arktiskt klimat: motorvärmare, vinteroljor, uppvärmda hytter och bodar isolerade för minus 40."
+  ],
+  "vagval_rubrik": "Vad behöver bygget i norr?",
+  "tjanster": [
+    {"titel": "Grävmaskiner", "ikon": "hamare", "href": "verksamhet.html", "text": "Från 1,7 till 50 ton, med motorvärmare och vinterolja som standard."},
+    {"titel": "Hjullastare", "ikon": "kugge", "href": "verksamhet.html", "text": "Lastare för snö, massor och materialhantering på stora industriområden."},
+    {"titel": "Liftar", "ikon": "upp", "href": "verksamhet.html", "text": "Sax- och bomliftar upp till 41 meter, många med diesel för kalla hallar."},
+    {"titel": "Bodar och etablering", "ikon": "hus", "href": "verksamhet.html", "text": "Bodbyar för 10 till 600 personer, med kök, torkrum och fiber."},
+    {"titel": "Tillfällig värme", "ikon": "eld", "href": "verksamhet.html", "text": "Värmeaggregat och dieselvärmare för gjutning och arbete i kyla."},
+    {"titel": "Elverk och belysning", "ikon": "blixt", "href": "verksamhet.html", "text": "Elverk upp till 500 kVA och belysningsmaster för polarnatten."},
+    {"titel": "Våra nio depåer", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Luleå, Boden, Piteå, Kalix, Haparanda, Gällivare, Kiruna, Skellefteå och Umeå."},
+    {"titel": "Ramavtal", "ikon": "portfolj", "href": "verksamhet.html", "text": "Gemensam prislista och kontaktperson för alla depåer."}
+  ],
+  "affarsomraden": [
+    {"titel": "Entreprenadmaskiner", "text": "Vår maskinpark har 640 grävmaskiner, lastare och dumprar som alla är byggda eller ombyggda för arktisk vinter. Varje maskin har motorvärmare, extra batterikapacitet och vinterolja i hydrauliken från oktober.", "text2": "Medelåldern i parken är 3,1 år, och vi byter ut maskinerna efter 6 000 timmar.", "tagg": "maskin"},
+    {"titel": "Bodar och etablering", "text": "Norrhyr Etablering levererar allt från en ensam personalbod till bodbyar med matsal, torkrum och sovplatser för 600 personer. Bodarna är isolerade för minus 40 och har värmepumpar som klarar polarnatt.", "text2": "Vi ritar etableringen, söker bygglov åt kunden och har egna montörer på plats.", "tagg": "bygg"},
+    {"titel": "Liftar och höjdarbete", "text": "Inne i nya industrihallar behövs liftar i hundratal under montagefasen. Vi har 520 sax- och bomliftar, varav 180 eldrivna för inomhusbruk.", "text2": "Liftutbildning enligt Arbetsmiljöverkets krav hålls i Luleå, Gällivare och Skellefteå varje vecka.", "tagg": "industri"},
+    {"titel": "Kraft, värme och ljus", "text": "Gjutning i minus 25 kräver uppvärmda tält och värmeaggregat, och i december är det mörkt 22 timmar om dygnet. Vi hyr ut elverk, värmare och belysningsmaster med service dygnet runt.", "text2": "Elverken övervakas på distans, och vi tankar dem innan de står still.", "tagg": "el"}
+  ],
+  "bolag": [
+    {"namn": "Norrhyr Kust", "segment": "Luleå, Boden, Piteå, Kalix, Haparanda", "rubrik": "Fem depåer längs E4", "text": "Huvudkontor och största depå på Storheden i Luleå, med verkstad för 14 maskiner samtidigt.", "tagg": "maskin"},
+    {"namn": "Norrhyr Malmfälten", "segment": "Kiruna och Gällivare", "rubrik": "Där staden flyttar", "text": "Två depåer som försörjer stadsomvandlingen och gruvindustrins underhållsstopp med maskiner och bodar.", "tagg": "industri"},
+    {"namn": "Norrhyr Västerbotten", "segment": "Skellefteå och Umeå", "rubrik": "Senaste tillskottet", "text": "Depåerna i Skellefteå 2021 och Umeå 2024 öppnades för de stora industribyggena söderut längs kusten.", "tagg": "bygg"},
+    {"namn": "Norrhyr Etablering", "segment": "Dotterbolag sedan 2020", "rubrik": "Bodbyar för upp till 600", "text": "Egna ritare, elektriker och montörer som projekterar och bygger etableringar i hela norra Sverige.", "tagg": "anlaggning"}
+  ],
+  "berattelser": [
+    {"rubrik": "Bodby för 420 personer i Boden", "text": "Matsal, gym, torkrum och 210 sovrum monterade på elva veckor åt ett industribygge söder om staden.", "tagg": "bygg"},
+    {"rubrik": "Depå nummer nio öppnade i Umeå", "text": "8 000 kvadratmeter upplag och en verkstadshall på Västerslätt, med elva anställda från första dagen.", "tagg": "maskin"},
+    {"rubrik": "180 elliftar till en ny hall", "text": "Den största liftleveransen i vår historia gick till montaget av en processhall i Skellefteå.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "9", "enhet": "depåer", "etikett": "Från Kiruna till Umeå"},
+    {"varde": "2 300", "enhet": "objekt", "etikett": "Maskiner, liftar och bodar"},
+    {"varde": "486", "enhet": "mkr", "etikett": "Omsättning 2025"},
+    {"varde": "−40", "enhet": "°C", "etikett": "Lägsta temperatur maskinerna är klassade för"}
+  ],
+  "projekt": [
+    {"namn": "Bodby Svartbyn", "ort": "Boden", "typ": "Etablering 420 personer", "ar": "2026", "text": "210 sovbodar, matsal och tvätteri till ett industribygge, i drift i fyra år.", "tagg": "bygg"},
+    {"namn": "Processhall Hedensbyn", "ort": "Skellefteå", "typ": "Liftleverans", "ar": "2025", "text": "180 eldrivna saxliftar och 26 bomliftar under montagefasen.", "tagg": "industri"},
+    {"namn": "Nya stadskärnan", "ort": "Kiruna", "typ": "Maskiner och bodar", "ar": "2025", "text": "Grävmaskiner, lastare och personalbodar till tre kvarter i den nya stadskärnan.", "tagg": "stad"},
+    {"namn": "Underhållsstopp Malmberget", "ort": "Gällivare", "typ": "Korttidshyra", "ar": "2025", "text": "90 liftar, 14 teleskoplastare och 40 bodar på plats under ett tre veckor långt stopp.", "tagg": "maskin"},
+    {"namn": "Hamnutbyggnad", "ort": "Piteå", "typ": "Entreprenadmaskiner", "ar": "2024", "text": "Fyra 45-tonnare och sex dumprar i två vintrar på kajutbyggnaden.", "tagg": "infra"},
+    {"namn": "Polarnattsbelysning E4", "ort": "Kalix", "typ": "Elverk och ljus", "ar": "2026", "text": "32 belysningsmaster och sex elverk längs en vägombyggnad i decembermörker.", "tagg": "el"}
+  ],
+  "process": [
+    {"titel": "En kontakt för hela norr", "text": "Du får en kundansvarig som bokar i alla nio depåer och ser vad som finns ledigt i realtid.", "tagg": "people"},
+    {"titel": "Etablering ritas", "text": "För större jobb ritar Norrhyr Etablering upp bodar, el, VA och uppställningsytor och tar fram bygglovshandlingar.", "tagg": "kontor"},
+    {"titel": "Leverans från närmaste depå", "text": "Egna lastbilar kör ut maskinerna, och vi kallstartar och provkör dem på plats.", "tagg": "maskin"},
+    {"titel": "Service under hyran", "text": "26 servicetekniker i servicebilar åker till arbetsplatsen. Går något sönder byter vi maskin inom ett dygn.", "tagg": "industri"}
+  ],
+  "hallbarhet": {
+    "rubrik": "En ung maskinpark är också en renare",
+    "text": "Vi byter maskiner efter 6 000 timmar, vilket gör att hela parken uppfyller Steg V. Alla dieselmaskiner tankas med HVO100 från våra egna tankar i depåerna, och bodarna värms med luft-vattenvärmepumpar i stället för direktel.",
+    "mal": [["3,1 år", "snittålder i maskinparken"], ["100 %", "HVO100 i egna tankar"], ["38 %", "lägre elförbrukning i nya bodar"]]
+  },
+  "karriar": {
+    "rubrik": "Vi har anställt 114 personer på nio år",
+    "text": "Vi behöver servicetekniker, chaufförer och montörer i alla depåer. Du får servicebil, verktyg och en betald utbildningsvecka i Luleå varje år. Flyttbidrag på 25 000 kronor för den som flyttar norrut.",
+    "jobb": [["Servicetekniker entreprenadmaskiner", "Gällivare"], ["Montör bodetablering", "Boden"], ["Lastbilschaufför C/CE", "Skellefteå"], ["Kundansvarig industri", "Luleå"]]
+  },
+  "kultur": "Varje ny medarbetare får en vecka på huvuddepån i Luleå och ett varmt par vinterkängor första dagen.",
+  "citat": {"text": "Vi startade för att det tog tre dagar att få en lift till Gällivare. Nu tar det tre timmar, och det är därför vi har vuxit.", "namn": "Sara Lundmark", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Bodbyn stod klar en vecka före tidplanen, och när det var minus 38 i januari frös inte en enda vattenledning.", "namn": "Mikael R.", "ort": "Boden"},
+    {"text": "Vi behövde 90 liftar till ett underhållsstopp med tio dagars varsel. Norrhyr samlade ihop dem från fyra depåer.", "namn": "Annika P.", "ort": "Gällivare"},
+    {"text": "Elverken övervakas på distans, så de tankade innan vi ens märkte att det behövdes.", "namn": "Tobias L.", "ort": "Kalix"}
+  ],
+  "faq": [
+    ["Klarar maskinerna verkligen minus 40?", "Våra grävmaskiner och lastare har motorvärmare, vinterolja och extra batterier. Under minus 30 rekommenderar vi ändå att de står inkopplade när de inte används."],
+    ["Kan jag hämta i en depå och lämna i en annan?", "Ja, mellan alla nio depåer. Vi tar ingen avgift om maskinen ändå ska tillbaka åt det hållet."],
+    ["Hur snabbt får vi en etablering?", "Mindre etableringar med upp till 20 bodar levererar vi inom en vecka. En bodby för flera hundra personer tar 8–12 veckor inklusive bygglov."],
+    ["Har ni liftutbildning?", "Ja, vi håller utbildningar för mobila arbetsplattformar varje vecka i Luleå, Gällivare och Skellefteå, och på arbetsplatsen för grupper över åtta personer."],
+    ["Vad ingår i service under hyran?", "Förebyggande service, reparationer och utbyte vid driftstopp. Skador som beror på felaktig användning debiteras."],
+    ["Hyr ni ut till privatpersoner?", "I depåerna i Luleå, Piteå och Umeå hyr vi ut minigrävare, släp och mindre liftar även till privatpersoner."],
+    ["Kan vi få en gemensam faktura för flera projekt?", "Ja. Med ramavtal får ni en samlad faktura per månad med ett underlag per projekt och kostnadsställe."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001, 14001 och 45001", "text": "Kvalitet, miljö och arbetsmiljö certifieras av ett ackrediterat certifieringsorgan sedan 2021.", "ikon": "skold"},
+    {"titel": "Besiktade lyftanordningar", "text": "Alla liftar och teleskoplastare har återkommande besiktning av ackrediterat kontrollorgan.", "ikon": "upp"},
+    {"titel": "Behöriga elinstallatörer", "text": "Norrhyr Etablering är registrerat hos Elsäkerhetsverket och kopplar in alla bodbyar själva.", "ikon": "blixt"},
+    {"titel": "ID06 och kollektivavtal", "text": "Kollektivavtal med IF Metall och Transport, och elektroniska personalliggare i alla etableringar.", "ikon": "folk"}
+  ],
+  "kunder": ["Bodens kommun", "Malmbanans Entreprenad AB", "Polarbygg Norr AB", "Kiruna Stadsutveckling", "Piteå Hamnservice", "Arvidsjaur Testbanor AB", "Norrbottens Fiberentreprenad", "Brf Hertsön Centrum"],
+  "nyheter": [
+    ["2026-09-22", "Depå nummer nio öppnad i Umeå", "8 000 kvadratmeter upplag och verkstad på Västerslätt.", "maskin"],
+    ["2026-05-18", "Bodbyn i Boden inflyttad", "420 personer bor och äter i den största etablering vi har byggt.", "bygg"],
+    ["2026-01-29", "Så startar du en grävare i minus 35", "Våra servicetekniker om motorvärmare, batterier och hydraulolja.", "industri"],
+    ["2025-10-07", "Omsättningen passerade 450 miljoner", "Tillväxten fortsätter med industrietableringarna längs kusten.", "people"]
+  ],
+  "kontakt": {"adress": "Storhedens industriväg 14", "postnr": "973 46", "ort": "Luleå", "telefon": "070-174 06 27", "epost": "kund@norrhyr.se", "orgnr": ""},
+  "oppettider": "Depåerna: mån–fre 6–17, lör 8–12. Service: dygnet runt",
+  "omrade": "Norrbotten och Västerbotten – nio depåer från Kiruna till Umeå",
+  "fot_cta": "Har ni ett bygge i norr? Ring 070-174 06 27 så kopplar vi dig till närmaste depå.",
+  "bild": {"panel": "industri", "hb": "natur", "sida_bolag": "maskin"},
+  "text": {
+    "topp_hem": "Norrhyr – nio depåer",
+    "hero_knapp": "Vad vi hyr ut",
+    "hero_lank": "Se uppdrag i norr",
+    "kontakt_knapp": "Hitta din depå",
+    "meny_bolag": "Regioner",
+    "bolag_etikett": "Regioner",
+    "bolag_rubrik": "Tre regioner och ett etableringsbolag",
+    "bolag_kol": ["Region", "Depåer", "Inriktning"],
+    "sida_bolag_ingress": "Norrhyr har nio depåer i tre regioner och ett eget bolag för bodetableringar.",
+    "ber_etikett": "Nytt i norr",
+    "ber_rubrik": "Senaste leveranserna",
+    "proj_rubrik": "Bygget i norr, uppdrag för uppdrag",
+    "process_rubrik": "Så fungerar det med nio depåer",
+    "hb_etikett": "Miljö & arbetsmiljö",
+    "omdomen_rubrik": "Platschefer om Norrhyr",
+    "faq_rubrik": "Frågor om kyla, depåer och avtal",
+    "logos_rubrik": "Några som hyr av oss",
+    "certifikat_rubrik": "Certifierat i alla nio depåer",
+    "kontor_etikett": "Depåer",
+    "kontor_rubrik": "Nio depåer i norr",
+    "boka_rubrik": "Berätta om ert projekt",
+    "boka_text": "Skriv ort, startdatum och vad ni behöver, så svarar en kundansvarig inom fyra timmar på vardagar.",
+    "siffror_etikett": "Norrhyr i siffror",
+    "medarbetare": "Medarbetare"
+  }
+}

@@ -81,10 +81,10 @@
     ["Får man gifta sig var som helst?", "I naturreservat och nationalparker gäller särskilda regler. Vi kontrollerar med länsstyrelsen i Jämtland och söker tillstånd när det behövs."],
     ["Vad har vi på oss?", "Många väljer klänning eller kostym under en dunjacka och kängor på fötterna. Vi bär en extra ryggsäck med skor, värmeplagg och regnskydd."],
     ["Ingår resan till Åre?", "Resor inom Åre kommun ingår. För Storlien och Sylarna tillkommer milersättning, och helikopter debiteras separat."],
-    ["Hur bokar vi?", "Efter samtalet skickar vi avtal och en faktura på 25 procent. Resten betalas tre veckor före bröllopet."]
+    ["Hur bokar vi?", "Efter samtalet skickar vi avtal och en faktura på 25 procent. Slutbetalning sker tre veckor före."]
   ],
   "priser": [
-    {"namn": "Topptur", "pris": "18 500 kr", "enhet": "4 timmar, en fotograf + fjälledare", "text": "Elopement på en dagstur nära Åre.", "punkter": ["Cirka 250 redigerade bilder", "Rutt, reservplan och packlista", "Fjälledare hela turen", "Leverans inom fem veckor"]},
+    {"namn": "Topptur", "pris": "18 500 kr", "enhet": "4 timmar, en fotograf + fjälledare", "text": "Elopement på en dagstur nära Åre.", "punkter": ["Runt 250 bilder från turen", "Rutt, reservplan och packlista", "Fjälledare hela turen", "Leverans inom fem veckor"]},
     {"namn": "Fjälldag", "pris": "36 000 kr", "enhet": "upp till 10 timmar, tre personer", "text": "Förberedelser, vandring, vigsel och middag.", "punkter": ["500–700 redigerade bilder", "Film på fyra minuter", "Vigselförrättare bokas av oss", "Lån av värmekläder och broddar"], "utvald": true},
     {"namn": "Två dagar i Sylarna", "pris": "58 000 kr", "enhet": "två dagar inkl. boende för er", "text": "Vandring, övernattning och soluppgång.", "punkter": ["Allt i Fjälldag", "Två nätter på fjällstation", "Bärhjälp för packning", "Album 25 × 25 cm, 40 sidor"]}
   ],
@@ -105,16 +105,16 @@
     "ber_etikett": "Från fjället",
     "proj_rubrik": "Toppar, tjärnar och forsar",
     "proj_rubrik_lista": "Fjällbröllop vi har följt",
-    "process_rubrik": "Från samtal till topp",
+    "process_rubrik": "Väderbeslut 48 timmar före",
     "hb_etikett": "Lämna inga spår",
-    "omdomen_rubrik": "Par som gick hela vägen",
+    "omdomen_rubrik": "Uppför, i blåst och nöjda",
     "faq_rubrik": "Väder, kondition och tillstånd",
     "priser_rubrik": "Halvdag, heldag eller två dygn",
-    "priser_not": "Alla priser inklusive moms. Resor inom Åre kommun ingår.",
+    "priser_not": "Priser inklusive moms. Inom Åre kommun kör vi utan resetillägg.",
     "galleri_rubrik": "Vind, snö och midnattsljus",
     "boka_rubrik": "Vilken säsong lockar er?",
     "boka_text": "Skriv önskad månad och hur vana ni är vid fjällen, så återkommer vi med förslag på rutt och datum.",
-    "panel_etikett": "Första samtalet",
+    "panel_etikett": "Innan vi packar",
     "ny_rubrik": "Anteckningar från fjället"
   }
 }
