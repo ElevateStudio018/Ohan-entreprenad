@@ -982,9 +982,12 @@ class Sajt:
         (self.ut / "paket.json").write_text(json.dumps(self.p, ensure_ascii=False, indent=1), encoding="utf-8")
 
     def bygg(self):
+        tumme = (self.ut / "tumme.jpg").read_bytes() if (self.ut / "tumme.jpg").exists() else None
         if self.ut.exists():
             shutil.rmtree(self.ut)
         self.ut.mkdir(parents=True)
+        if tumme:
+            (self.ut / "tumme.jpg").write_bytes(tumme)  # miniatyren till galleriet överlever ombyggnad
         self.bilder = Bilder(self.p.get("fro", self.b["slug"]), self.ut, self.p.get("bildtyngd", []), self.delad, self.p.get("bildreserv"))
         self.hero_bild = self.bilder.ta(self.p.get("hero_tagg"))
         self.assets()

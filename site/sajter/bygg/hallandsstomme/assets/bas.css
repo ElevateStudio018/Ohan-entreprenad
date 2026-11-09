@@ -1047,3 +1047,19 @@ body.har-hero[data-header="transparent"] .hero-split .split-text { padding-top: 
 /* v6: fyra bolag i cirkelvarianten på en rad, kontorsrutnät efter antal */
 @media (min-width: 1100px) { .bo-rund:has(> li:nth-child(4):last-child) { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
 @media (min-width: 1100px) { .kontor.n6, .kontor.n9 { grid-template-columns: repeat(3, minmax(0, 1fr)); } .kontor.n7, .kontor.n8 { grid-template-columns: repeat(4, minmax(0, 1fr)); } .kontor.n3 { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+/* v6: långa svenska sammansättningar får aldrig spräcka rutnät på mobil */
+.vv-nummer, .vv-cirklar, .vagval, .vv-bild, .certifikat, .kontor, .priser, .omdomen, .siffror { min-width: 0; }
+.vv-nummer { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (min-width: 900px) { .vv-nummer { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+.vv-nummer .t, .vagval span, .vv-cirklar span, .vv-bild .t, .certifikat b, .kontor b, .pris-kort h3, .siffra span, .bo-namn, .vv-rader .t, .vv-register .t { overflow-wrap: anywhere; hyphens: auto; }
+@media (max-width: 480px) { .vv-nummer .t { font-size: 17px; } .vv-nummer a { padding: 16px; } }
+/* v6: långa företagsnamn i loggan får inte trycka ut menyknappen på mobil */
+.head > .wrap { min-width: 0; }
+.head .logga { min-width: 0; flex: 0 1 auto; }
+.head .head-verktyg { flex: 0 0 auto; }
+@media (max-width: 560px) {
+  .head .logga .tag { display: none; }
+  .head .logga .ord { font-size: clamp(13px, 4.2vw, 18px); white-space: normal; line-height: 1.1; overflow-wrap: anywhere; }
+}
+/* v6: skyddsnät – inget får ge sidled-scroll (clip bryter inte sticky header) */
+html, body { overflow-x: clip; }
