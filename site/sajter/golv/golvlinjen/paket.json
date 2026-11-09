@@ -5,23 +5,25 @@
  "arketyp": "finans",
  "fro": "8656c408",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "lora",
+  "kategori": "serif",
+  "rubrik": "Lora",
+  "text": "Nunito Sans",
+  "rubrik_vikt": 500,
+  "spatiering": "-0.015em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
-  "logo_versaler": true,
+  "siffra_vikt": 500,
+  "logo_vikt": 500,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
+  "kursiv": true
  },
  "palett": "nisch-150",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#ff8f6b"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "statement",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
-  "bolag": "lista",
+  "vagval": "lankar",
+  "bolag": "karusell",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "logos": "band",
+  "projekt": "tabell",
+  "citat": "bild",
+  "faq": "tva",
+  "process": "standard",
+  "boka": "standard",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -103,6 +112,7 @@
   "projekt",
   "citat",
   "bolag",
+  "cta",
   "faq",
   "process",
   "boka"
@@ -143,5 +153,14 @@
   "interior",
   "hem",
   "people"
- ]
+ ],
+ "herotext": "hoger",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "lora",
+  "hero": "statement",
+  "herotext": "hoger",
+  "rubrik": "kant",
+  "form": "rundad"
+ }
 }

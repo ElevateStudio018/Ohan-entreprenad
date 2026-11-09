@@ -5,23 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "4b6409ff",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "figtree",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
+  "rubrik": "Figtree",
+  "text": "Figtree",
+  "rubrik_vikt": 700,
   "spatiering": "-0.025em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-60",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#bc60e6"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
+  "vagval": "expertis",
   "bolag": "rund",
-  "siffror": "rad",
-  "nyheter": "tidning",
-  "omdomen": "kort"
+  "siffror": "vertikal",
+  "nyheter": "sida",
+  "omdomen": "stor",
+  "panel": "kort",
+  "faq": "tva",
+  "projekt": "lista",
+  "certifikat": "rad",
+  "logos": "standard",
+  "boka": "centrerad",
+  "cta": "band"
  },
  "ordning_lista": [
   "vagval",
@@ -102,6 +111,7 @@
   "omdomen",
   "projekt",
   "certifikat",
+  "cta",
   "logos",
   "nyheter",
   "boka"
@@ -144,5 +154,14 @@
   "bostad",
   "hem",
   "people"
- ]
+ ],
+ "herotext": "kursiv",
+ "rubrikstil": "mitt",
+ "v7": {
+  "typ": "figtree",
+  "hero": "centrerad",
+  "herotext": "kursiv",
+  "rubrik": "mitt",
+  "form": "kantig"
+ }
 }

@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
+  "vagval": "rullband",
   "bolag": "tabell",
   "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "galleri": "standard",
-  "faq": "standard",
+  "omdomen": "stor",
+  "galleri": "rad",
+  "faq": "centrerad",
   "priser": "standard",
-  "hb": "siffror",
-  "boka": "standard"
+  "hb": "split",
+  "boka": "centrerad",
+  "cta": "band"
  },
  "ordning_lista": [
   "galleri",
@@ -109,6 +110,7 @@
   "hb",
   "siffror",
   "omdomen",
+  "cta",
   "boka"
  ],
  "panel_omvand": true,

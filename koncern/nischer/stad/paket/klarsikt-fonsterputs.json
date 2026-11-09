@@ -93,16 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "vagg",
-  "siffror": "dashboard",
+  "vagval": "rutor",
+  "bolag": "namnlista",
+  "siffror": "kort",
   "nyheter": "lista",
   "omdomen": "stor",
-  "projekt": "karusell",
-  "priser": "standard",
-  "berattelser": "stor",
+  "projekt": "lista",
+  "priser": "lista",
+  "berattelser": "tre",
   "hb": "split",
-  "snabb": "rutor"
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -112,6 +113,7 @@
   "siffror",
   "berattelser",
   "hb",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,

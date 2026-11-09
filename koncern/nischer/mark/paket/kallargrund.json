@@ -93,15 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "rullband",
   "bolag": "tabell",
-  "siffror": "jatte",
+  "siffror": "cirklar",
   "nyheter": "lista",
   "omdomen": "kort",
-  "logos": "standard",
-  "projekt": "feature",
-  "panel": "jobb",
-  "boka": "standard"
+  "logos": "band",
+  "projekt": "tabell",
+  "panel": "delad",
+  "boka": "standard",
+  "cta": "bild"
  },
  "ordning_lista": [
   "omdomen",
@@ -109,6 +110,7 @@
   "logos",
   "siffror",
   "projekt",
+  "cta",
   "panel",
   "boka"
  ],

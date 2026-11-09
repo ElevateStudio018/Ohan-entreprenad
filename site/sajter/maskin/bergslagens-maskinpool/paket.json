@@ -5,23 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "c79547e7",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "playfair",
+  "kategori": "serif",
+  "rubrik": "Playfair Display",
+  "text": "Source Sans 3",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.015em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "logo_vikt": 600,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,600;0,700;1,400;1,600",
+  "kursiv": true
  },
  "palett": "nisch-30",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#deb692"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -89,10 +91,18 @@
  "motiv": "inget",
  "block": {
   "vagval": "rader",
-  "bolag": "tabell",
+  "bolag": "zigzag",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "rad",
+  "projekt": "stor",
+  "citat": "bild",
+  "berattelser": "zigzag",
+  "process": "vertikal",
+  "panel": "jobb",
+  "hb": "tre",
+  "boka": "centrerad",
+  "cta": "band"
  },
  "ordning_lista": [
   "projekt",
@@ -103,6 +113,7 @@
   "bolag",
   "panel",
   "omdomen",
+  "cta",
   "hb",
   "boka"
  ],
@@ -144,5 +155,14 @@
   "mark",
   "bygg",
   "people"
- ]
+ ],
+ "herotext": "uppe",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "playfair",
+  "hero": "centrerad",
+  "herotext": "uppe",
+  "rubrik": "kant",
+  "form": "latt"
+ }
 }

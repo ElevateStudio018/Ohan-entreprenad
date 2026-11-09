@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
+  "vagval": "register",
   "bolag": "kort",
-  "siffror": "rad",
-  "nyheter": "tidning",
-  "omdomen": "stor",
+  "siffror": "vertikal",
+  "nyheter": "sida",
+  "omdomen": "rad",
   "projekt": "karusell",
-  "berattelser": "tre",
-  "citat": "standard",
-  "panel": "jobb",
-  "logos": "standard",
-  "boka": "standard"
+  "berattelser": "band",
+  "citat": "sida",
+  "panel": "kultur",
+  "logos": "band",
+  "boka": "centrerad",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -112,6 +113,7 @@
   "panel",
   "omdomen",
   "logos",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,

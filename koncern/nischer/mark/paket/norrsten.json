@@ -90,15 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
+  "vagval": "chips",
   "bolag": "lista",
-  "siffror": "dashboard",
+  "siffror": "vertikal",
   "nyheter": "tidning",
-  "omdomen": "kort",
-  "panel": "panel",
+  "omdomen": "stor",
+  "panel": "kultur",
   "berattelser": "tre",
-  "projekt": "lista",
-  "snabb": "band"
+  "projekt": "zigzag",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "panel",
@@ -107,6 +108,7 @@
   "berattelser",
   "projekt",
   "omdomen",
+  "cta",
   "nyheter",
   "snabb"
  ],

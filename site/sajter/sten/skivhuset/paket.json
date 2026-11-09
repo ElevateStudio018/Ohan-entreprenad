@@ -5,23 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "2b4dd394",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "newsreader",
+  "kategori": "serif",
+  "rubrik": "Newsreader",
+  "text": "Inter",
+  "rubrik_vikt": 500,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "skala": 1.06,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "siffra_vikt": 500,
+  "logo_vikt": 500,
+  "logo_versaler": false,
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400",
+  "kursiv": true
  },
  "palett": "nisch-240",
  "farger": {
@@ -74,8 +76,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "mosaik",
- "header": "ljus",
+ "hero": "statement",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,8 +93,17 @@
   "vagval": "cirklar",
   "bolag": "rund",
   "siffror": "rad",
-  "nyheter": "tidning",
-  "omdomen": "stor"
+  "nyheter": "lista",
+  "omdomen": "stor",
+  "panel": "delad",
+  "logos": "band",
+  "hb": "split",
+  "process": "vertikal",
+  "priser": "lista",
+  "citat": "sida",
+  "projekt": "karusell",
+  "certifikat": "rad",
+  "snabb": "rutor"
  },
  "ordning_lista": [
   "panel",
@@ -146,5 +157,14 @@
   "interior",
   "natur",
   "people"
- ]
+ ],
+ "herotext": "uppe",
+ "rubrikstil": "mitt",
+ "v7": {
+  "typ": "newsreader",
+  "hero": "statement",
+  "herotext": "uppe",
+  "rubrik": "mitt",
+  "form": "piller-kantig"
+ }
 }

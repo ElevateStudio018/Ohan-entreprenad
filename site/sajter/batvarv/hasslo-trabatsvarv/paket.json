@@ -5,23 +5,25 @@
  "arketyp": "ramad",
  "fro": "cb52534e",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "spacegrotesk",
+  "kategori": "grotesk",
+  "rubrik": "Space Grotesk",
+  "text": "Inter",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-240",
  "farger": {
@@ -74,8 +76,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
+  "vagval": "expertis",
   "bolag": "kort",
   "siffror": "rad",
-  "nyheter": "tidning",
-  "omdomen": "stor"
+  "nyheter": "minimal",
+  "omdomen": "stor",
+  "projekt": "tabell",
+  "faq": "standard",
+  "logos": "standard",
+  "hb": "band",
+  "citat": "bild",
+  "certifikat": "rad",
+  "panel": "kort",
+  "berattelser": "rad",
+  "snabb": "band"
  },
  "ordning_lista": [
   "projekt",
@@ -144,5 +155,14 @@
   "bat",
   "natur",
   "people"
- ]
+ ],
+ "herotext": "kontur",
+ "rubrikstil": "nummer",
+ "v7": {
+  "typ": "spacegrotesk",
+  "hero": "centrerad",
+  "herotext": "kontur",
+  "rubrik": "nummer",
+  "form": "piller-kantig"
+ }
 }

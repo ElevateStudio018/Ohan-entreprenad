@@ -5,23 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "a61e138b",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
+  "id": "chivo",
+  "kategori": "grotesk",
+  "rubrik": "Chivo",
+  "text": "Chivo",
+  "rubrik_vikt": 700,
   "spatiering": "-0.025em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_versaler": false,
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;0,800;1,600",
+  "kursiv": true
  },
  "palett": "nisch-0",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#63b3e3"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "mosaik",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "nummer",
   "bolag": "flikar",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "process": "standard",
+  "projekt": "mosaik",
+  "faq": "standard",
+  "logos": "standard",
+  "citat": "standard",
+  "certifikat": "standard",
+  "hb": "siffror",
+  "snabb": "band",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -102,6 +113,7 @@
   "faq",
   "logos",
   "citat",
+  "cta",
   "certifikat",
   "hb",
   "snabb"
@@ -143,5 +155,14 @@
   "interior",
   "natur",
   "people"
- ]
+ ],
+ "herotext": "nere",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "chivo",
+  "hero": "mosaik",
+  "herotext": "nere",
+  "rubrik": "understruken",
+  "form": "piller-rund"
+ }
 }

@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "expertis",
   "bolag": "tabell",
-  "siffror": "rad",
+  "siffror": "vertikal",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "panel": "helbild",
+  "panel": "panel",
   "priser": "standard",
-  "hb": "split",
-  "projekt": "karusell",
+  "hb": "siffror",
+  "projekt": "feature",
   "citat": "standard",
-  "logos": "standard"
+  "logos": "standard",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -110,7 +111,8 @@
   "siffror",
   "projekt",
   "citat",
-  "logos"
+  "logos",
+  "cta"
  ],
  "panel_omvand": true,
  "sidfot": "primar",

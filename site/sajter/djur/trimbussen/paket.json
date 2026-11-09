@@ -5,12 +5,12 @@
  "arketyp": "koncernband",
  "fro": "b48c644e",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "lexend",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Lexend",
+  "text": "Lexend",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -18,10 +18,12 @@
   "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "djur-180",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#eaae81"
  },
  "form": {
-  "namn": "piller-rundad",
-  "knapp": 999,
-  "kort": 18,
-  "bild": 16,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "statement",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "typo",
   "bolag": "flikar",
-  "siffror": "jatte",
+  "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "panel": "panel",
+  "berattelser": "band",
+  "citat": "standard",
+  "faq": "tva",
+  "priser": "tabell",
+  "process": "kort",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -106,6 +115,7 @@
   "citat",
   "faq",
   "priser",
+  "cta",
   "process"
  ],
  "panel_omvand": false,
@@ -148,5 +158,14 @@
   "valp",
   "katt",
   "hundtraning"
- ]
+ ],
+ "herotext": "jatte",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "lexend",
+  "hero": "statement",
+  "herotext": "jatte",
+  "rubrik": "kant",
+  "form": "latt"
+ }
 }

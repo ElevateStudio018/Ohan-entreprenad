@@ -5,23 +5,25 @@
  "arketyp": "ramad",
  "fro": "9288dacc",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "josefin",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Josefin Sans",
+  "text": "Mulish",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.01em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_versaler": false,
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,600;0,700;1,400",
+  "kursiv": true
  },
  "palett": "djur-270",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#96cd73"
  },
  "form": {
-  "namn": "piller-rundad",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 18,
-  "bild": 16,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "bildrutor",
   "bolag": "rund",
-  "siffror": "jatte",
+  "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "galleri": "standard",
+  "berattelser": "stor",
+  "projekt": "karusell",
+  "priser": "lista",
+  "panel": "helbild",
+  "citat": "bild",
+  "hb": "band",
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -103,6 +114,7 @@
   "priser",
   "omdomen",
   "panel",
+  "cta",
   "citat",
   "hb",
   "boka"
@@ -149,5 +161,14 @@
   "valp",
   "katt",
   "hundtraning"
- ]
+ ],
+ "herotext": "linje",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "josefin",
+  "hero": "centrerad",
+  "herotext": "linje",
+  "rubrik": "understruken",
+  "form": "piller-rund"
+ }
 }

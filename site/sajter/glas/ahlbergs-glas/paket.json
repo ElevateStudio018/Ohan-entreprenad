@@ -5,23 +5,25 @@
  "arketyp": "koncernband",
  "fro": "fa647eee",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "instrument-serif",
+  "kategori": "serif",
+  "rubrik": "Instrument Serif",
+  "text": "Inter",
+  "rubrik_vikt": 400,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_spatiering": "-0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;1,400",
+  "kursiv": true
  },
  "palett": "nisch-180",
  "farger": {
@@ -77,8 +79,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "rund",
-  "siffror": "rad",
+  "vagval": "bildrutor",
+  "bolag": "tabell",
+  "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "logos": "standard",
+  "projekt": "zigzag",
+  "berattelser": "band",
+  "citat": "bild",
+  "process": "linje"
  },
  "ordning_lista": [
   "siffror",
@@ -145,5 +152,14 @@
   "kontor",
   "interior",
   "people"
- ]
+ ],
+ "herotext": "kursiv",
+ "rubrikstil": "nummer",
+ "v7": {
+  "typ": "instrument-serif",
+  "hero": "centrerad",
+  "herotext": "kursiv",
+  "rubrik": "nummer",
+  "form": "piller-kantig"
+ }
 }

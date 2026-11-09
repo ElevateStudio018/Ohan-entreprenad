@@ -93,16 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
+  "vagval": "rutor",
   "bolag": "kort",
-  "siffror": "jatte",
+  "siffror": "dashboard",
   "nyheter": "rad",
   "omdomen": "kort",
   "citat": "standard",
-  "berattelser": "band",
+  "berattelser": "kolumner",
   "faq": "standard",
-  "projekt": "karusell",
-  "boka": "standard"
+  "projekt": "mosaik",
+  "boka": "standard",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -112,6 +113,7 @@
   "nyheter",
   "projekt",
   "omdomen",
+  "cta",
   "siffror",
   "boka"
  ],

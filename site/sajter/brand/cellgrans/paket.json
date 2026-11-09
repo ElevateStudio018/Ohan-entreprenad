@@ -5,23 +5,25 @@
  "arketyp": "finans",
  "fro": "f46b12b8",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "zilla",
+  "kategori": "slab",
+  "rubrik": "Zilla Slab",
+  "text": "Source Sans 3",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.01em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "skala": 1.06,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
+  "kursiv": true
  },
  "palett": "nisch-90",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "rund",
-  "siffror": "jatte",
-  "nyheter": "lista",
-  "omdomen": "stor"
+  "vagval": "rullband",
+  "bolag": "kort",
+  "siffror": "dashboard",
+  "nyheter": "rad",
+  "omdomen": "stor",
+  "hb": "band",
+  "projekt": "lista",
+  "faq": "centrerad",
+  "berattelser": "rad",
+  "process": "linje",
+  "logos": "band",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -103,6 +113,7 @@
   "bolag",
   "berattelser",
   "process",
+  "cta",
   "siffror",
   "logos",
   "snabb"
@@ -146,5 +157,14 @@
   "kontor",
   "people",
   "people"
- ]
+ ],
+ "herotext": "jatte",
+ "rubrikstil": "standard",
+ "v7": {
+  "typ": "zilla",
+  "hero": "helskarm",
+  "herotext": "jatte",
+  "rubrik": "standard",
+  "form": "kantig"
+ }
 }

@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "46111047",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "baskerville",
+  "kategori": "serif",
+  "rubrik": "Libre Baskerville",
+  "text": "Lato",
+  "rubrik_vikt": 400,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "skala": 1.06,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,700;1,400",
+  "kursiv": true
  },
  "palett": "nisch-330",
  "farger": {
@@ -88,11 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "flikar",
+  "vagval": "duo",
+  "bolag": "karusell",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "faq": "tva",
+  "logos": "standard",
+  "hb": "tre",
+  "projekt": "lista",
+  "cta": "delad"
  },
  "ordning_lista": [
   "siffror",
@@ -101,7 +108,8 @@
   "logos",
   "bolag",
   "hb",
-  "projekt"
+  "projekt",
+  "cta"
  ],
  "panel_omvand": true,
  "sidfot": "primar",
@@ -137,5 +145,14 @@
   "kontor",
   "people",
   "people"
- ]
+ ],
+ "herotext": "hoger",
+ "rubrikstil": "pill",
+ "v7": {
+  "typ": "baskerville",
+  "hero": "helskarm",
+  "herotext": "hoger",
+  "rubrik": "pill",
+  "form": "piller-kantig"
+ }
 }

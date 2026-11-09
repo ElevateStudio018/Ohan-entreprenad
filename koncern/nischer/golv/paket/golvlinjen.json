@@ -93,17 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "flikar",
+  "vagval": "lankar",
+  "bolag": "karusell",
   "siffror": "dashboard",
   "nyheter": "lista",
   "omdomen": "kort",
-  "logos": "standard",
-  "projekt": "feature",
-  "citat": "standard",
-  "faq": "standard",
+  "logos": "band",
+  "projekt": "tabell",
+  "citat": "bild",
+  "faq": "tva",
   "process": "standard",
-  "boka": "standard"
+  "boka": "standard",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -111,6 +112,7 @@
   "projekt",
   "citat",
   "bolag",
+  "cta",
   "faq",
   "process",
   "boka"

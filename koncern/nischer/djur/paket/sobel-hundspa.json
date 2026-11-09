@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
-  "bolag": "flikar",
-  "siffror": "jatte",
+  "vagval": "nummer",
+  "bolag": "tabell",
+  "siffror": "bild",
   "nyheter": "lista",
   "omdomen": "kort",
-  "panel": "helbild",
-  "process": "standard",
-  "citat": "standard",
-  "priser": "standard",
-  "hb": "helbild",
-  "berattelser": "stor"
+  "panel": "kort",
+  "process": "vertikal",
+  "citat": "sida",
+  "priser": "tabell",
+  "hb": "citat",
+  "berattelser": "zigzag",
+  "cta": "delad"
  },
  "ordning_lista": [
   "siffror",
@@ -111,6 +112,7 @@
   "citat",
   "bolag",
   "priser",
+  "cta",
   "hb",
   "berattelser"
  ],

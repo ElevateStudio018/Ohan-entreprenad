@@ -5,23 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "5e8beaa5",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "nunito",
+  "kategori": "rund",
+  "rubrik": "Nunito",
+  "text": "Nunito",
+  "rubrik_vikt": 800,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 800,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,600;0,700;0,800;1,700",
+  "kursiv": true
  },
  "palett": "nisch-120",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#ffd27a"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "statement",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "kort",
-  "siffror": "jatte",
-  "nyheter": "tidning",
-  "omdomen": "kort"
+  "vagval": "register",
+  "bolag": "mosaik",
+  "siffror": "kort",
+  "nyheter": "minimal",
+  "omdomen": "kort",
+  "logos": "standard",
+  "priser": "tabell",
+  "hb": "helbild",
+  "process": "standard",
+  "projekt": "tabell",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "bolag",
@@ -102,6 +111,7 @@
   "hb",
   "siffror",
   "nyheter",
+  "cta",
   "process",
   "projekt",
   "snabb"
@@ -144,5 +154,14 @@
   "hem",
   "industri",
   "people"
- ]
+ ],
+ "herotext": "band",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "nunito",
+  "hero": "statement",
+  "herotext": "band",
+  "rubrik": "kant",
+  "form": "mjuk"
+ }
 }

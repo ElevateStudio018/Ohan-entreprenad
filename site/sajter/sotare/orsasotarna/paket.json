@@ -5,14 +5,14 @@
  "arketyp": "teknisk",
  "fro": "45feb650",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "instrumentsans",
+  "kategori": "grotesk",
+  "rubrik": "Instrument Sans",
+  "text": "Instrument Sans",
   "rubrik_vikt": 600,
   "spatiering": "-0.025em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
@@ -21,7 +21,9 @@
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
+  "kursiv": true
  },
  "palett": "nisch-0",
  "farger": {
@@ -74,8 +76,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "statement",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,15 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "register",
   "bolag": "flikar",
-  "siffror": "rad",
+  "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "projekt": "tabell",
+  "faq": "tva",
+  "berattelser": "band",
+  "boka": "centrerad"
  },
  "ordning_lista": [
   "projekt",
@@ -138,5 +144,14 @@
   "hem",
   "tak",
   "people"
- ]
+ ],
+ "herotext": "hoger",
+ "rubrikstil": "versal",
+ "v7": {
+  "typ": "instrumentsans",
+  "hero": "helskarm",
+  "herotext": "hoger",
+  "rubrik": "versal",
+  "form": "piller-kantig"
+ }
 }

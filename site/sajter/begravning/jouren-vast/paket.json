@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "45702003",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
+  "id": "albert",
+  "kategori": "grotesk",
+  "rubrik": "Albert Sans",
+  "text": "Albert Sans",
+  "rubrik_vikt": 700,
   "spatiering": "-0.025em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-240",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#7eea55"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "split",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -88,11 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
+  "vagval": "chips",
   "bolag": "rund",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "citat": "sida",
+  "certifikat": "standard",
+  "panel": "delad",
+  "hb": "split",
+  "projekt": "feature",
+  "logos": "band",
+  "boka": "centrerad",
+  "cta": "band"
  },
  "ordning_lista": [
   "citat",
@@ -103,6 +113,7 @@
   "panel",
   "hb",
   "projekt",
+  "cta",
   "logos",
   "boka"
  ],
@@ -142,5 +153,14 @@
   "begravning",
   "natur",
   "people"
- ]
+ ],
+ "herotext": "standard",
+ "rubrikstil": "mitt",
+ "v7": {
+  "typ": "albert",
+  "hero": "split",
+  "herotext": "standard",
+  "rubrik": "mitt",
+  "form": "kantig"
+ }
 }

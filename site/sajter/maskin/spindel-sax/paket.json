@@ -5,23 +5,25 @@
  "arketyp": "finans",
  "fro": "72bef3da",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "josefin",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Josefin Sans",
+  "text": "Mulish",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.01em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_versaler": false,
+  "logo_spatiering": "-0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,600;0,700;1,400",
+  "kursiv": true
  },
  "palett": "nisch-30",
  "farger": {
@@ -75,7 +77,7 @@
   "hero": 0
  },
  "hero": "band",
- "header": "ljus",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
+  "vagval": "rutor",
   "bolag": "tabell",
-  "siffror": "band",
+  "siffror": "cirklar",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "faq": "tva",
+  "certifikat": "rad",
+  "priser": "tabell",
+  "panel": "kort",
+  "projekt": "karusell"
  },
  "ordning_lista": [
   "siffror",
@@ -137,5 +144,14 @@
   "mark",
   "bygg",
   "people"
- ]
+ ],
+ "herotext": "hoger",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "josefin",
+  "hero": "band",
+  "herotext": "hoger",
+  "rubrik": "understruken",
+  "form": "piller-kantig"
+ }
 }

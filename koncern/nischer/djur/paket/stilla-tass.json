@@ -93,18 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "rund",
+  "vagval": "kakel",
+  "bolag": "zigzag",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "stor",
-  "process": "standard",
+  "omdomen": "betyg",
+  "process": "linje",
   "priser": "standard",
   "faq": "standard",
-  "hb": "split",
-  "berattelser": "band",
-  "projekt": "feature",
-  "snabb": "band"
+  "hb": "kort",
+  "berattelser": "lista",
+  "projekt": "mosaik",
+  "snabb": "band",
+  "cta": "band"
  },
  "ordning_lista": [
   "bolag",
@@ -116,6 +117,7 @@
   "omdomen",
   "berattelser",
   "projekt",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,

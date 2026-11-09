@@ -5,23 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "a9509a38",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "epilogue",
+  "kategori": "grotesk",
+  "rubrik": "Epilogue",
+  "text": "Epilogue",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-60",
  "farger": {
@@ -74,8 +76,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "band",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -89,16 +91,22 @@
  "motiv": "inget",
  "block": {
   "vagval": "lankar",
-  "bolag": "kort",
-  "siffror": "jatte",
+  "bolag": "namnlista",
+  "siffror": "rad",
   "nyheter": "tidning",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "citat": "standard",
+  "logos": "band",
+  "projekt": "mosaik",
+  "boka": "centrerad",
+  "cta": "band"
  },
  "ordning_lista": [
   "citat",
   "vagval",
   "logos",
   "siffror",
+  "cta",
   "bolag",
   "projekt",
   "boka"
@@ -138,5 +146,14 @@
   "hem",
   "industri",
   "people"
- ]
+ ],
+ "herotext": "nere",
+ "rubrikstil": "nummer",
+ "v7": {
+  "typ": "epilogue",
+  "hero": "band",
+  "herotext": "nere",
+  "rubrik": "nummer",
+  "form": "piller-kantig"
+ }
 }

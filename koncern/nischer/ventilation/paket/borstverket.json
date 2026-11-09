@@ -93,21 +93,23 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
+  "vagval": "rullband",
   "bolag": "kort",
   "siffror": "band",
-  "nyheter": "rad",
+  "nyheter": "kort",
   "omdomen": "kort",
-  "projekt": "karusell",
+  "projekt": "tabell",
   "certifikat": "standard",
-  "panel": "jobb",
-  "boka": "standard"
+  "panel": "kort",
+  "boka": "centrerad",
+  "cta": "band"
  },
  "ordning_lista": [
   "nyheter",
   "vagval",
   "projekt",
   "bolag",
+  "cta",
   "certifikat",
   "panel",
   "boka"

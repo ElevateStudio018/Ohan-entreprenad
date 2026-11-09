@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "tabell",
+  "vagval": "bildrutor",
+  "bolag": "kort",
   "siffror": "jatte",
   "nyheter": "lista",
   "omdomen": "kort",
-  "projekt": "feature",
+  "projekt": "karusell",
   "panel": "jobb",
   "certifikat": "standard",
-  "berattelser": "tre",
-  "boka": "standard"
+  "berattelser": "overlap",
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "projekt",
@@ -109,6 +110,7 @@
   "certifikat",
   "omdomen",
   "berattelser",
+  "cta",
   "boka"
  ],
  "panel_omvand": true,

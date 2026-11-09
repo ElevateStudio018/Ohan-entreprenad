@@ -93,17 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "kakel",
   "bolag": "flikar",
-  "siffror": "rad",
+  "siffror": "bild",
   "nyheter": "lista",
   "omdomen": "stor",
-  "citat": "standard",
-  "process": "standard",
-  "projekt": "lista",
-  "priser": "standard",
-  "hb": "siffror",
-  "berattelser": "rad"
+  "citat": "bild",
+  "process": "linje",
+  "projekt": "feature",
+  "priser": "tabell",
+  "hb": "kort",
+  "berattelser": "rad",
+  "cta": "band"
  },
  "ordning_lista": [
   "citat",
@@ -113,6 +114,7 @@
   "priser",
   "siffror",
   "hb",
+  "cta",
   "berattelser"
  ],
  "panel_omvand": false,

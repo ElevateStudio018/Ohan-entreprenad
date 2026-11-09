@@ -93,18 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "vagg",
+  "vagval": "kort",
+  "bolag": "lista",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "berattelser": "stor",
-  "projekt": "karusell",
-  "hb": "helbild",
-  "citat": "standard",
-  "process": "standard",
-  "certifikat": "standard",
-  "snabb": "rutor"
+  "omdomen": "stor",
+  "berattelser": "lista",
+  "projekt": "feature",
+  "hb": "citat",
+  "citat": "bild",
+  "process": "linje",
+  "certifikat": "rad",
+  "snabb": "band",
+  "cta": "band"
  },
  "ordning_lista": [
   "vagval",
@@ -115,6 +116,7 @@
   "citat",
   "process",
   "certifikat",
+  "cta",
   "bolag",
   "snabb"
  ],

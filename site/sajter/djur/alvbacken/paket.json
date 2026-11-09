@@ -5,23 +5,25 @@
  "arketyp": "finans",
  "fro": "f796b4e9",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "fredoka",
+  "kategori": "rund",
+  "rubrik": "Fredoka",
+  "text": "Nunito",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.01em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_versaler": false,
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "djur-30",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "piller-rundad",
-  "knapp": 999,
-  "kort": 18,
-  "bild": 16,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "mosaik",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "cirklar",
   "bolag": "rund",
   "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "betyg",
+  "berattelser": "rad",
+  "galleri": "standard",
+  "priser": "tabell",
+  "panel": "kultur",
+  "process": "linje",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -143,5 +151,14 @@
   "valp",
   "katt",
   "hundtraning"
- ]
+ ],
+ "herotext": "delad",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "fredoka",
+  "hero": "mosaik",
+  "herotext": "delad",
+  "rubrik": "kant",
+  "form": "kantig"
+ }
 }

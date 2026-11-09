@@ -5,23 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "07eb84cf",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "redhat",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "rubrik": "Red Hat Display",
+  "text": "Red Hat Text",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_versaler": false,
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-0",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "statement",
- "header": "ljus",
+ "hero": "band",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "duo",
   "bolag": "lista",
   "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "rad",
+  "projekt": "stor",
+  "logos": "band",
+  "hb": "citat",
+  "panel": "delad",
+  "process": "linje",
+  "boka": "standard",
+  "cta": "band"
  },
  "ordning_lista": [
   "projekt",
@@ -102,6 +111,7 @@
   "omdomen",
   "panel",
   "process",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,
@@ -140,5 +150,14 @@
   "bostad",
   "hem",
   "people"
- ]
+ ],
+ "herotext": "delad",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "redhat",
+  "hero": "band",
+  "herotext": "delad",
+  "rubrik": "stor",
+  "form": "rundad"
+ }
 }

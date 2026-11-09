@@ -93,16 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "register",
   "bolag": "kort",
-  "siffror": "jatte",
-  "nyheter": "rad",
+  "siffror": "vertikal",
+  "nyheter": "lista",
   "omdomen": "stor",
-  "logos": "standard",
-  "process": "standard",
-  "projekt": "lista",
-  "kontor": "standard",
-  "certifikat": "standard"
+  "logos": "band",
+  "process": "kort",
+  "projekt": "mosaik",
+  "kontor": "lista",
+  "certifikat": "rad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -111,6 +112,7 @@
   "nyheter",
   "projekt",
   "kontor",
+  "cta",
   "certifikat",
   "siffror"
  ],

@@ -90,21 +90,23 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "tabell",
-  "siffror": "dashboard",
+  "vagval": "lankar",
+  "bolag": "namnlista",
+  "siffror": "rad",
   "nyheter": "tidning",
   "omdomen": "stor",
   "citat": "standard",
-  "logos": "standard",
-  "projekt": "feature",
-  "boka": "standard"
+  "logos": "band",
+  "projekt": "mosaik",
+  "boka": "centrerad",
+  "cta": "band"
  },
  "ordning_lista": [
   "citat",
   "vagval",
   "logos",
   "siffror",
+  "cta",
   "bolag",
   "projekt",
   "boka"

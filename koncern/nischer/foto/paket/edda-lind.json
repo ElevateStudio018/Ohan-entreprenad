@@ -91,18 +91,19 @@
  "motiv": "inget",
  "block": {
   "vagval": "rutor",
-  "bolag": "vagg",
-  "siffror": "jatte",
-  "nyheter": "tidning",
+  "bolag": "namnlista",
+  "siffror": "kort",
+  "nyheter": "rad",
   "omdomen": "kort",
-  "faq": "standard",
-  "priser": "standard",
-  "galleri": "standard",
-  "hb": "siffror",
-  "process": "standard",
+  "faq": "centrerad",
+  "priser": "lista",
+  "galleri": "rutnat",
+  "hb": "helbild",
+  "process": "kort",
   "panel": "jobb",
-  "projekt": "feature",
-  "boka": "standard"
+  "projekt": "stor",
+  "boka": "centrerad",
+  "cta": "bild"
  },
  "ordning_lista": [
   "faq",
@@ -115,6 +116,7 @@
   "panel",
   "nyheter",
   "projekt",
+  "cta",
   "siffror",
   "boka"
  ],

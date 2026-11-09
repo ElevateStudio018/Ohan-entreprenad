@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
-  "bolag": "tabell",
+  "vagval": "rader",
+  "bolag": "zigzag",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "projekt": "karusell",
-  "citat": "standard",
-  "berattelser": "rad",
-  "process": "standard",
-  "panel": "helbild",
-  "hb": "siffror",
-  "boka": "standard"
+  "omdomen": "rad",
+  "projekt": "stor",
+  "citat": "bild",
+  "berattelser": "zigzag",
+  "process": "vertikal",
+  "panel": "jobb",
+  "hb": "tre",
+  "boka": "centrerad",
+  "cta": "band"
  },
  "ordning_lista": [
   "projekt",
@@ -112,6 +113,7 @@
   "bolag",
   "panel",
   "omdomen",
+  "cta",
   "hb",
   "boka"
  ],

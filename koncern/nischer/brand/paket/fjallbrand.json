@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "rutor",
   "bolag": "lista",
   "siffror": "jatte",
   "nyheter": "tidning",
   "omdomen": "stor",
   "projekt": "feature",
-  "berattelser": "band",
+  "berattelser": "zigzag",
   "logos": "standard",
-  "citat": "standard",
-  "certifikat": "standard",
-  "hb": "split"
+  "citat": "sida",
+  "certifikat": "rad",
+  "hb": "split",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -109,7 +110,8 @@
   "logos",
   "citat",
   "certifikat",
-  "hb"
+  "hb",
+  "cta"
  ],
  "panel_omvand": false,
  "sidfot": "primar",

@@ -93,17 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "vagg",
+  "vagval": "lankar",
+  "bolag": "rund",
   "siffror": "dashboard",
-  "nyheter": "lista",
+  "nyheter": "sida",
   "omdomen": "stor",
-  "projekt": "feature",
-  "berattelser": "band",
+  "projekt": "tabell",
+  "berattelser": "kolumner",
   "faq": "standard",
   "logos": "standard",
-  "certifikat": "standard",
-  "boka": "standard"
+  "certifikat": "rad",
+  "boka": "standard",
+  "cta": "bild"
  },
  "ordning_lista": [
   "projekt",
@@ -114,6 +115,7 @@
   "nyheter",
   "bolag",
   "certifikat",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,

@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "chips",
   "bolag": "rund",
   "siffror": "dashboard",
   "nyheter": "tidning",
   "omdomen": "kort",
-  "citat": "standard",
+  "citat": "sida",
   "certifikat": "standard",
-  "panel": "helbild",
-  "hb": "helbild",
+  "panel": "delad",
+  "hb": "split",
   "projekt": "feature",
-  "logos": "standard",
-  "boka": "standard"
+  "logos": "band",
+  "boka": "centrerad",
+  "cta": "band"
  },
  "ordning_lista": [
   "citat",
@@ -112,6 +113,7 @@
   "panel",
   "hb",
   "projekt",
+  "cta",
   "logos",
   "boka"
  ],

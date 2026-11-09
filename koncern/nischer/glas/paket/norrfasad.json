@@ -90,19 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "kort",
   "bolag": "rund",
-  "siffror": "rad",
+  "siffror": "cirklar",
   "nyheter": "tidning",
-  "omdomen": "stor",
+  "omdomen": "betyg",
   "faq": "standard",
-  "citat": "standard",
-  "panel": "panel",
-  "process": "standard",
-  "berattelser": "stor",
+  "citat": "sida",
+  "panel": "jobb",
+  "process": "linje",
+  "berattelser": "zigzag",
   "projekt": "feature",
   "kontor": "standard",
-  "snabb": "rutor"
+  "snabb": "rutor",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -114,6 +115,7 @@
   "omdomen",
   "projekt",
   "kontor",
+  "cta",
   "siffror",
   "snabb"
  ],

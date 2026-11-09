@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
-  "bolag": "tabell",
+  "vagval": "rullband",
+  "bolag": "vagg",
   "siffror": "dashboard",
   "nyheter": "lista",
   "omdomen": "kort",
-  "berattelser": "tre",
-  "process": "standard",
-  "faq": "standard",
-  "projekt": "lista",
+  "berattelser": "overlap",
+  "process": "linje",
+  "faq": "tva",
+  "projekt": "zigzag",
   "certifikat": "standard",
   "priser": "standard",
-  "snabb": "band"
+  "snabb": "rutor",
+  "cta": "bild"
  },
  "ordning_lista": [
   "berattelser",
@@ -112,6 +113,7 @@
   "projekt",
   "certifikat",
   "priser",
+  "cta",
   "snabb"
  ],
  "panel_omvand": false,

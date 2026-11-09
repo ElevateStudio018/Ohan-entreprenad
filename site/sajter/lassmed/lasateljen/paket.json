@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "05cfea82",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "bricolage",
+  "kategori": "display",
+  "rubrik": "Bricolage Grotesque",
+  "text": "Inter",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700;800",
+  "kursiv": false
  },
  "palett": "nisch-30",
  "farger": {
@@ -74,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "split",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -88,11 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "kort",
   "bolag": "kort",
-  "siffror": "dashboard",
+  "siffror": "cirklar",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "faq": "tva",
+  "hb": "tre",
+  "projekt": "zigzag",
+  "logos": "standard",
+  "process": "vertikal",
+  "snabb": "rutor"
  },
  "ordning_lista": [
   "siffror",
@@ -140,5 +148,14 @@
   "kontor",
   "hem",
   "people"
- ]
+ ],
+ "herotext": "standard",
+ "rubrikstil": "standard",
+ "v7": {
+  "typ": "bricolage",
+  "hero": "split",
+  "herotext": "standard",
+  "rubrik": "standard",
+  "form": "piller-kantig"
+ }
 }

@@ -92,15 +92,16 @@
  "block": {
   "vagval": "rutor",
   "bolag": "kort",
-  "siffror": "rad",
-  "nyheter": "rad",
+  "siffror": "cirklar",
+  "nyheter": "minimal",
   "omdomen": "stor",
-  "panel": "jobb",
-  "priser": "standard",
-  "projekt": "feature",
-  "hb": "helbild",
-  "galleri": "standard",
-  "snabb": "rutor"
+  "panel": "kultur",
+  "priser": "lista",
+  "projekt": "mosaik",
+  "hb": "citat",
+  "galleri": "rutnat",
+  "snabb": "rutor",
+  "cta": "delad"
  },
  "ordning_lista": [
   "bolag",
@@ -112,6 +113,7 @@
   "siffror",
   "galleri",
   "omdomen",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,

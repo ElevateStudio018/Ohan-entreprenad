@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
+  "vagval": "duo",
   "bolag": "flikar",
   "siffror": "band",
   "nyheter": "tidning",
   "omdomen": "kort",
-  "faq": "standard",
-  "projekt": "feature",
-  "panel": "jobb",
+  "faq": "centrerad",
+  "projekt": "mosaik",
+  "panel": "delad",
   "process": "standard",
-  "hb": "kort",
-  "berattelser": "band"
+  "hb": "helbild",
+  "berattelser": "rad",
+  "cta": "bild"
  },
  "ordning_lista": [
   "faq",
@@ -111,6 +112,7 @@
   "process",
   "hb",
   "berattelser",
+  "cta",
   "siffror"
  ],
  "panel_omvand": false,

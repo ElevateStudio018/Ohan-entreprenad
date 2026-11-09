@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "lista",
+  "vagval": "rullband",
+  "bolag": "zigzag",
   "siffror": "jatte",
-  "nyheter": "tidning",
-  "omdomen": "stor",
-  "projekt": "karusell",
-  "panel": "panel",
-  "logos": "standard",
-  "faq": "standard",
-  "berattelser": "band"
+  "nyheter": "minimal",
+  "omdomen": "rad",
+  "projekt": "lista",
+  "panel": "kort",
+  "logos": "band",
+  "faq": "centrerad",
+  "berattelser": "lista",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -110,7 +111,8 @@
   "faq",
   "berattelser",
   "nyheter",
-  "omdomen"
+  "omdomen",
+  "cta"
  ],
  "panel_omvand": false,
  "sidfot": "primar",

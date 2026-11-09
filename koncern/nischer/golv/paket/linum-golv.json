@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "rutor",
   "bolag": "tabell",
   "siffror": "jatte",
   "nyheter": "lista",
   "omdomen": "kort",
   "priser": "standard",
-  "berattelser": "rad",
-  "process": "standard",
-  "projekt": "lista",
-  "boka": "standard"
+  "berattelser": "lista",
+  "process": "linje",
+  "projekt": "mosaik",
+  "boka": "standard",
+  "cta": "band"
  },
  "ordning_lista": [
   "priser",
@@ -107,6 +108,7 @@
   "vagval",
   "process",
   "projekt",
+  "cta",
   "omdomen",
   "boka"
  ],

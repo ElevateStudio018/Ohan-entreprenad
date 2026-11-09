@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
+  "vagval": "duo",
   "bolag": "kort",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "stor",
-  "projekt": "karusell",
-  "faq": "standard",
-  "berattelser": "band",
-  "process": "standard",
-  "boka": "standard"
+  "omdomen": "rad",
+  "projekt": "stor",
+  "faq": "tva",
+  "berattelser": "tre",
+  "process": "kort",
+  "boka": "standard",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -107,6 +108,7 @@
   "omdomen",
   "faq",
   "berattelser",
+  "cta",
   "process",
   "boka"
  ],

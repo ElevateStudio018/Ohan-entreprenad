@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "duo",
   "bolag": "flikar",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "faq": "standard",
-  "citat": "standard",
-  "hb": "siffror",
-  "projekt": "lista",
-  "priser": "standard",
+  "omdomen": "stor",
+  "faq": "tva",
+  "citat": "stor",
+  "hb": "citat",
+  "projekt": "tabell",
+  "priser": "tabell",
   "certifikat": "standard",
-  "berattelser": "tre"
+  "berattelser": "overlap",
+  "cta": "delad"
  },
  "ordning_lista": [
   "faq",
@@ -112,7 +113,8 @@
   "omdomen",
   "priser",
   "certifikat",
-  "berattelser"
+  "berattelser",
+  "cta"
  ],
  "panel_omvand": false,
  "sidfot": "primar",

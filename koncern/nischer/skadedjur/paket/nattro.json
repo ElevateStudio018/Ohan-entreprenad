@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "kort",
-  "siffror": "jatte",
-  "nyheter": "lista",
+  "vagval": "register",
+  "bolag": "mosaik",
+  "siffror": "kort",
+  "nyheter": "minimal",
   "omdomen": "kort",
   "logos": "standard",
-  "priser": "standard",
+  "priser": "tabell",
   "hb": "helbild",
   "process": "standard",
-  "projekt": "lista",
-  "snabb": "band"
+  "projekt": "tabell",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "bolag",
@@ -110,6 +111,7 @@
   "hb",
   "siffror",
   "nyheter",
+  "cta",
   "process",
   "projekt",
   "snabb"

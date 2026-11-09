@@ -93,18 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "flikar",
-  "siffror": "band",
+  "vagval": "rullband",
+  "bolag": "rund",
+  "siffror": "rad",
   "nyheter": "tidning",
-  "omdomen": "kort",
-  "projekt": "lista",
-  "citat": "standard",
-  "berattelser": "rad",
-  "certifikat": "standard",
-  "panel": "jobb",
+  "omdomen": "rad",
+  "projekt": "zigzag",
+  "citat": "bild",
+  "berattelser": "zigzag",
+  "certifikat": "rad",
+  "panel": "kultur",
   "process": "standard",
-  "boka": "standard"
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -117,6 +118,7 @@
   "panel",
   "process",
   "omdomen",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,

@@ -5,23 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "6af545b5",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "librefranklin",
+  "kategori": "humanistisk",
+  "rubrik": "Libre Franklin",
+  "text": "Libre Franklin",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "mega-330",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#a6e3a1"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "mosaik",
- "header": "ljus",
+ "hero": "statement",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
-  "bolag": "tabell",
-  "siffror": "band",
+  "vagval": "duo",
+  "bolag": "namnlista",
+  "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "kontor": "standard",
+  "ir": "tabell",
+  "process": "vertikal",
+  "tidslinje": "standard",
+  "citat": "bild",
+  "hb": "band",
+  "snabb": "band",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -104,6 +114,7 @@
   "citat",
   "siffror",
   "hb",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,
@@ -139,5 +150,14 @@
  },
  "profil": "mega",
  "min_avstand": 10.52,
- "hero_tagg": "natur"
+ "hero_tagg": "natur",
+ "herotext": "delad",
+ "rubrikstil": "standard",
+ "v7": {
+  "typ": "librefranklin",
+  "hero": "statement",
+  "herotext": "delad",
+  "rubrik": "standard",
+  "form": "mjuk"
+ }
 }

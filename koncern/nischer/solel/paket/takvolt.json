@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "kort",
+  "vagval": "lankar",
+  "bolag": "flikar",
   "siffror": "jatte",
   "nyheter": "tidning",
   "omdomen": "kort",
-  "hb": "helbild",
+  "hb": "band",
   "process": "standard",
   "berattelser": "rad",
   "faq": "standard",
-  "projekt": "feature",
-  "certifikat": "standard",
-  "boka": "standard"
+  "projekt": "tabell",
+  "certifikat": "rad",
+  "boka": "standard",
+  "cta": "bild"
  },
  "ordning_lista": [
   "hb",
@@ -110,6 +111,7 @@
   "berattelser",
   "faq",
   "projekt",
+  "cta",
   "certifikat",
   "bolag",
   "boka"

@@ -93,18 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "lankar",
   "bolag": "tabell",
   "siffror": "jatte",
-  "nyheter": "tidning",
+  "nyheter": "sida",
   "omdomen": "kort",
-  "priser": "standard",
-  "certifikat": "standard",
-  "projekt": "feature",
-  "citat": "standard",
-  "faq": "standard",
-  "berattelser": "band",
-  "snabb": "rutor"
+  "priser": "lista",
+  "certifikat": "rad",
+  "projekt": "lista",
+  "citat": "stor",
+  "faq": "tva",
+  "berattelser": "stor",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -116,6 +117,7 @@
   "faq",
   "nyheter",
   "berattelser",
+  "cta",
   "snabb"
  ],
  "panel_omvand": false,

@@ -5,23 +5,25 @@
  "arketyp": "ramad",
  "fro": "2247137c",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "syne",
+  "kategori": "display",
+  "rubrik": "Syne",
+  "text": "Inter",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700;800",
+  "kursiv": false
  },
  "palett": "bygg-120",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#d9718a"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "kort",
+  "vagval": "register",
+  "bolag": "vagg",
   "siffror": "rad",
-  "nyheter": "lista",
-  "omdomen": "kort"
+  "nyheter": "kort",
+  "omdomen": "kort",
+  "projekt": "tabell",
+  "faq": "tva",
+  "certifikat": "standard",
+  "citat": "standard",
+  "hb": "tre",
+  "panel": "delad",
+  "boka": "standard",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -108,6 +118,7 @@
   "citat",
   "hb",
   "panel",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,
@@ -145,5 +156,14 @@
  },
  "profil": "bygg",
  "min_avstand": 10.54,
- "hero_tagg": "hem"
+ "hero_tagg": "hem",
+ "herotext": "delad",
+ "rubrikstil": "pill",
+ "v7": {
+  "typ": "syne",
+  "hero": "centrerad",
+  "herotext": "delad",
+  "rubrik": "pill",
+  "form": "rundad"
+ }
 }

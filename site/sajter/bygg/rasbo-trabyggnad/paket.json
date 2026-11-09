@@ -5,23 +5,25 @@
  "arketyp": "ramad",
  "fro": "c46f2d3d",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "raleway",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "rubrik": "Raleway",
+  "text": "Raleway",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
+  "kursiv": true
  },
  "palett": "bygg-30",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#c8e07a"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "band",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "tabell",
+  "vagval": "register",
+  "bolag": "zigzag",
   "siffror": "dashboard",
-  "nyheter": "lista",
-  "omdomen": "stor"
+  "nyheter": "minimal",
+  "omdomen": "stor",
+  "process": "linje",
+  "projekt": "zigzag",
+  "faq": "tva",
+  "hb": "helbild",
+  "citat": "bild",
+  "berattelser": "lista",
+  "snabb": "rutor"
  },
  "ordning_lista": [
   "process",
@@ -142,5 +151,14 @@
  },
  "profil": "bygg",
  "min_avstand": 10.48,
- "hero_tagg": "tra"
+ "hero_tagg": "tra",
+ "herotext": "kursiv",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "raleway",
+  "hero": "band",
+  "herotext": "kursiv",
+  "rubrik": "stor",
+  "form": "piller-rund"
+ }
 }

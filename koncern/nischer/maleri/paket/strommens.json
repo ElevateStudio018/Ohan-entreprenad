@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "typo",
   "bolag": "lista",
   "siffror": "band",
-  "nyheter": "lista",
-  "omdomen": "stor",
-  "projekt": "feature",
-  "process": "standard",
+  "nyheter": "rad",
+  "omdomen": "rad",
+  "projekt": "mosaik",
+  "process": "linje",
   "panel": "panel",
-  "hb": "helbild",
-  "citat": "standard",
-  "snabb": "band"
+  "hb": "band",
+  "citat": "stor",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "nyheter",
@@ -111,6 +112,7 @@
   "panel",
   "hb",
   "citat",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,

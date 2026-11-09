@@ -93,17 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "duo",
   "bolag": "tabell",
   "siffror": "dashboard",
-  "nyheter": "rad",
-  "omdomen": "stor",
-  "projekt": "karusell",
-  "priser": "standard",
-  "certifikat": "standard",
-  "berattelser": "tre",
-  "faq": "standard",
-  "boka": "standard"
+  "nyheter": "tidning",
+  "omdomen": "kort",
+  "projekt": "zigzag",
+  "priser": "lista",
+  "certifikat": "rad",
+  "berattelser": "lista",
+  "faq": "tva",
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "projekt",
@@ -112,6 +113,7 @@
   "omdomen",
   "certifikat",
   "nyheter",
+  "cta",
   "berattelser",
   "faq",
   "boka"

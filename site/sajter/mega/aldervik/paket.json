@@ -5,12 +5,12 @@
  "arketyp": "industriell",
  "fro": "767ac08d",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "unbounded",
+  "kategori": "display",
+  "rubrik": "Unbounded",
+  "text": "Inter",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -21,7 +21,9 @@
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "mega-0",
  "farger": {
@@ -74,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "kurs",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -88,11 +90,21 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "rund",
-  "siffror": "rad",
-  "nyheter": "lista",
-  "omdomen": "kort"
+  "vagval": "chips",
+  "bolag": "tabell",
+  "siffror": "vertikal",
+  "nyheter": "kort",
+  "omdomen": "kort",
+  "ir": "kompakt",
+  "kontor": "lista",
+  "panel": "jobb",
+  "citat": "standard",
+  "projekt": "lista",
+  "process": "vertikal",
+  "hb": "tre",
+  "tidslinje": "standard",
+  "snabb": "rutor",
+  "cta": "delad"
  },
  "ordning_lista": [
   "bolag",
@@ -107,6 +119,7 @@
   "process",
   "hb",
   "tidslinje",
+  "cta",
   "snabb"
  ],
  "panel_omvand": false,
@@ -146,5 +159,14 @@
  },
  "profil": "mega",
  "min_avstand": 11.38,
- "hero_tagg": "bostad"
+ "hero_tagg": "bostad",
+ "herotext": "standard",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "unbounded",
+  "hero": "kurs",
+  "herotext": "standard",
+  "rubrik": "understruken",
+  "form": "piller-kantig"
+ }
 }

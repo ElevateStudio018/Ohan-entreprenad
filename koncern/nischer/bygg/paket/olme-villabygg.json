@@ -93,18 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "rund",
+  "vagval": "register",
+  "bolag": "vagg",
   "siffror": "rad",
-  "nyheter": "rad",
+  "nyheter": "kort",
   "omdomen": "kort",
-  "projekt": "lista",
-  "faq": "standard",
+  "projekt": "tabell",
+  "faq": "tva",
   "certifikat": "standard",
   "citat": "standard",
-  "hb": "helbild",
-  "panel": "helbild",
-  "boka": "standard"
+  "hb": "tre",
+  "panel": "delad",
+  "boka": "standard",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -117,6 +118,7 @@
   "citat",
   "hb",
   "panel",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,

@@ -5,23 +5,25 @@
  "arketyp": "finans",
  "fro": "b82a7a4c",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "manrope",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "rubrik": "Manrope",
+  "text": "Inter",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700;800",
+  "kursiv": false
  },
  "palett": "mega-210",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#c8e07a"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "statement",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -88,11 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "tabell",
-  "siffror": "rad",
+  "vagval": "duo",
+  "bolag": "kort",
+  "siffror": "vertikal",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "ir": "kort",
+  "projekt": "mosaik",
+  "kontor": "lista",
+  "process": "vertikal",
+  "berattelser": "zigzag",
+  "hb": "tre",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "ir",
@@ -104,6 +114,7 @@
   "berattelser",
   "hb",
   "siffror",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,
@@ -140,5 +151,14 @@
  },
  "profil": "mega",
  "min_avstand": 9.69,
- "hero_tagg": "bygg"
+ "hero_tagg": "bygg",
+ "herotext": "uppe",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "manrope",
+  "hero": "statement",
+  "herotext": "uppe",
+  "rubrik": "stor",
+  "form": "kantig"
+ }
 }

@@ -93,18 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
+  "vagval": "rullband",
   "bolag": "flikar",
-  "siffror": "jatte",
+  "siffror": "band",
   "nyheter": "lista",
   "omdomen": "kort",
-  "certifikat": "standard",
-  "projekt": "karusell",
-  "hb": "kort",
-  "process": "standard",
-  "berattelser": "stor",
-  "citat": "standard",
-  "snabb": "band"
+  "certifikat": "rad",
+  "projekt": "lista",
+  "hb": "citat",
+  "process": "linje",
+  "berattelser": "lista",
+  "citat": "sida",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "certifikat",
@@ -115,6 +116,7 @@
   "berattelser",
   "siffror",
   "citat",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,

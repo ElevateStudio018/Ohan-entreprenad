@@ -5,23 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "116650c4",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "bricolage",
+  "kategori": "display",
+  "rubrik": "Bricolage Grotesque",
+  "text": "Inter",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_versaler": false,
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700;800",
+  "kursiv": false
  },
  "palett": "mega-0",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#e9e179"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "mosaik",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -91,11 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "lista",
-  "siffror": "jatte",
-  "nyheter": "tidning",
-  "omdomen": "kort"
+  "vagval": "lankar",
+  "bolag": "flikar",
+  "siffror": "rad",
+  "nyheter": "lista",
+  "omdomen": "kort",
+  "hb": "kort",
+  "process": "kort",
+  "projekt": "stor",
+  "kontor": "standard",
+  "ir": "kompakt",
+  "tidslinje": "horisontell",
+  "snabb": "rutor",
+  "cta": "bild"
  },
  "ordning_lista": [
   "hb",
@@ -108,6 +118,7 @@
   "ir",
   "tidslinje",
   "nyheter",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,
@@ -145,5 +156,14 @@
  },
  "profil": "mega",
  "min_avstand": 9.6,
- "hero_tagg": "bostad"
+ "hero_tagg": "bostad",
+ "herotext": "linje",
+ "rubrikstil": "versal",
+ "v7": {
+  "typ": "bricolage",
+  "hero": "helskarm",
+  "herotext": "linje",
+  "rubrik": "versal",
+  "form": "mjuk"
+ }
 }

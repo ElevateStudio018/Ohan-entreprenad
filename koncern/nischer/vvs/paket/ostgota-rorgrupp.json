@@ -93,18 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "cirklar",
   "bolag": "rund",
   "siffror": "jatte",
   "nyheter": "lista",
   "omdomen": "kort",
   "citat": "standard",
-  "panel": "helbild",
+  "panel": "kultur",
   "projekt": "feature",
-  "process": "standard",
-  "logos": "standard",
+  "process": "kort",
+  "logos": "band",
   "kontor": "standard",
-  "certifikat": "standard"
+  "certifikat": "standard",
+  "cta": "bild"
  },
  "ordning_lista": [
   "citat",
@@ -114,6 +115,7 @@
   "process",
   "omdomen",
   "logos",
+  "cta",
   "kontor",
   "certifikat"
  ],

@@ -90,22 +90,24 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
-  "bolag": "tabell",
+  "vagval": "rader",
+  "bolag": "namnlista",
   "siffror": "band",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "projekt": "lista",
-  "berattelser": "tre",
-  "hb": "split",
-  "citat": "standard",
-  "boka": "standard"
+  "projekt": "karusell",
+  "berattelser": "band",
+  "hb": "helbild",
+  "citat": "sida",
+  "boka": "centrerad",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
   "projekt",
   "berattelser",
   "hb",
+  "cta",
   "citat",
   "bolag",
   "boka"

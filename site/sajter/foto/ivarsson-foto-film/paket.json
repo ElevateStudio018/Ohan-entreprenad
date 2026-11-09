@@ -94,18 +94,19 @@
  "motiv": "inget",
  "block": {
   "vagval": "bildrutor",
-  "bolag": "vagg",
-  "siffror": "jatte",
-  "nyheter": "lista",
+  "bolag": "zigzag",
+  "siffror": "band",
+  "nyheter": "tidning",
   "omdomen": "kort",
-  "priser": "standard",
+  "priser": "tabell",
   "galleri": "standard",
   "faq": "standard",
   "projekt": "karusell",
-  "panel": "helbild",
+  "panel": "kort",
   "process": "standard",
   "berattelser": "band",
-  "boka": "standard"
+  "boka": "centrerad",
+  "cta": "bild"
  },
  "ordning_lista": [
   "nyheter",
@@ -118,6 +119,7 @@
   "bolag",
   "process",
   "berattelser",
+  "cta",
   "siffror",
   "boka"
  ],

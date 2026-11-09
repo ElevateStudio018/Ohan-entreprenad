@@ -93,19 +93,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
-  "bolag": "tabell",
+  "vagval": "nummer",
+  "bolag": "namnlista",
   "siffror": "dashboard",
-  "nyheter": "lista",
+  "nyheter": "rad",
   "omdomen": "stor",
   "faq": "standard",
-  "projekt": "feature",
-  "panel": "jobb",
-  "berattelser": "band",
-  "citat": "standard",
-  "process": "standard",
-  "hb": "kort",
-  "boka": "standard"
+  "projekt": "stor",
+  "panel": "kultur",
+  "berattelser": "tre",
+  "citat": "sida",
+  "process": "vertikal",
+  "hb": "split",
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "faq",
@@ -118,6 +119,7 @@
   "process",
   "nyheter",
   "hb",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,

@@ -5,23 +5,25 @@
  "arketyp": "urban",
  "fro": "ae3c42c1",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "publicsans",
+  "kategori": "grotesk",
+  "rubrik": "Public Sans",
+  "text": "Public Sans",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-120",
  "farger": {
@@ -68,10 +70,10 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
  "hero": "centrerad",
@@ -88,11 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "flikar",
-  "siffror": "jatte",
+  "vagval": "cirklar",
+  "bolag": "namnlista",
+  "siffror": "cirklar",
   "nyheter": "tidning",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "hb": "kort",
+  "citat": "stor",
+  "faq": "tva",
+  "certifikat": "standard",
+  "projekt": "lista",
+  "panel": "jobb",
+  "berattelser": "lista",
+  "snabb": "band"
  },
  "ordning_lista": [
   "hb",
@@ -144,5 +154,14 @@
   "begravning",
   "natur",
   "people"
- ]
+ ],
+ "herotext": "delad",
+ "rubrikstil": "linje",
+ "v7": {
+  "typ": "publicsans",
+  "hero": "centrerad",
+  "herotext": "delad",
+  "rubrik": "linje",
+  "form": "rundad"
+ }
 }

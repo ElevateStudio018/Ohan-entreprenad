@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "lankar",
   "bolag": "lista",
   "siffror": "jatte",
-  "nyheter": "lista",
-  "omdomen": "stor",
-  "priser": "standard",
+  "nyheter": "rad",
+  "omdomen": "betyg",
+  "priser": "tabell",
   "faq": "standard",
-  "citat": "standard",
-  "certifikat": "standard",
-  "logos": "standard",
-  "projekt": "karusell"
+  "citat": "bild",
+  "certifikat": "rad",
+  "logos": "band",
+  "projekt": "mosaik",
+  "cta": "bild"
  },
  "ordning_lista": [
   "priser",
@@ -111,6 +112,7 @@
   "siffror",
   "nyheter",
   "logos",
+  "cta",
   "omdomen",
   "projekt"
  ],

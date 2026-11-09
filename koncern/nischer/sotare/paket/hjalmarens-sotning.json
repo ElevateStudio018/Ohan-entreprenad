@@ -93,17 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
-  "bolag": "flikar",
+  "vagval": "nummer",
+  "bolag": "vagg",
   "siffror": "band",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "projekt": "feature",
+  "projekt": "karusell",
   "certifikat": "standard",
-  "hb": "split",
-  "logos": "standard",
-  "panel": "jobb",
-  "snabb": "band"
+  "hb": "band",
+  "logos": "band",
+  "panel": "kort",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "bolag",
@@ -111,6 +112,7 @@
   "vagval",
   "certifikat",
   "hb",
+  "cta",
   "logos",
   "panel",
   "snabb"

@@ -91,15 +91,16 @@
  "motiv": "inget",
  "block": {
   "vagval": "register",
-  "bolag": "kort",
+  "bolag": "mosaik",
   "siffror": "jatte",
-  "nyheter": "lista",
+  "nyheter": "kort",
   "omdomen": "kort",
-  "panel": "helbild",
-  "projekt": "karusell",
-  "citat": "standard",
+  "panel": "panel",
+  "projekt": "zigzag",
+  "citat": "sida",
   "logos": "standard",
-  "snabb": "rutor"
+  "snabb": "rutor",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -107,6 +108,7 @@
   "projekt",
   "citat",
   "logos",
+  "cta",
   "bolag",
   "nyheter",
   "snabb"

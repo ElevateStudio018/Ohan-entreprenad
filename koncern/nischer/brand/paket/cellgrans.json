@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
-  "bolag": "vagg",
+  "vagval": "rullband",
+  "bolag": "kort",
   "siffror": "dashboard",
-  "nyheter": "lista",
+  "nyheter": "rad",
   "omdomen": "stor",
-  "hb": "siffror",
-  "projekt": "feature",
-  "faq": "standard",
+  "hb": "band",
+  "projekt": "lista",
+  "faq": "centrerad",
   "berattelser": "rad",
-  "process": "standard",
-  "logos": "standard",
-  "snabb": "rutor"
+  "process": "linje",
+  "logos": "band",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -112,6 +113,7 @@
   "bolag",
   "berattelser",
   "process",
+  "cta",
   "siffror",
   "logos",
   "snabb"

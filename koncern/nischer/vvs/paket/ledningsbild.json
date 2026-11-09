@@ -90,21 +90,23 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "kort",
   "bolag": "kort",
   "siffror": "rad",
-  "nyheter": "lista",
+  "nyheter": "kort",
   "omdomen": "stor",
   "process": "standard",
-  "projekt": "lista",
-  "berattelser": "rad",
-  "boka": "standard"
+  "projekt": "feature",
+  "berattelser": "zigzag",
+  "boka": "standard",
+  "cta": "band"
  },
  "ordning_lista": [
   "omdomen",
   "vagval",
   "process",
   "projekt",
+  "cta",
   "nyheter",
   "berattelser",
   "boka"

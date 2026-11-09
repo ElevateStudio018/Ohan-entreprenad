@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "duo",
   "bolag": "rund",
-  "siffror": "band",
+  "siffror": "jatte",
   "nyheter": "lista",
   "omdomen": "kort",
-  "hb": "siffror",
-  "projekt": "feature",
-  "logos": "standard",
+  "hb": "helbild",
+  "projekt": "karusell",
+  "logos": "band",
   "citat": "standard",
   "panel": "helbild",
-  "snabb": "rutor"
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "hb",
@@ -109,6 +110,7 @@
   "siffror",
   "logos",
   "citat",
+  "cta",
   "panel",
   "snabb"
  ],

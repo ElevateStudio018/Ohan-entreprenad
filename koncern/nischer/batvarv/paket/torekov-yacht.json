@@ -92,17 +92,18 @@
  "block": {
   "vagval": "lankar",
   "bolag": "tabell",
-  "siffror": "band",
+  "siffror": "rad",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "citat": "standard",
-  "faq": "standard",
+  "citat": "bild",
+  "faq": "tva",
   "logos": "standard",
   "certifikat": "standard",
-  "projekt": "karusell",
-  "panel": "helbild",
-  "process": "standard",
-  "boka": "standard"
+  "projekt": "stor",
+  "panel": "delad",
+  "process": "linje",
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -113,6 +114,7 @@
   "certifikat",
   "projekt",
   "panel",
+  "cta",
   "process",
   "boka"
  ],

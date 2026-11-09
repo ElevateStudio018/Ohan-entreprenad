@@ -91,17 +91,18 @@
  "motiv": "inget",
  "block": {
   "vagval": "lankar",
-  "bolag": "rund",
-  "siffror": "band",
-  "nyheter": "lista",
+  "bolag": "zigzag",
+  "siffror": "dashboard",
+  "nyheter": "rad",
   "omdomen": "stor",
-  "process": "standard",
-  "citat": "standard",
-  "ir": "kort",
-  "panel": "jobb",
-  "kontor": "standard",
+  "process": "linje",
+  "citat": "bild",
+  "ir": "tabell",
+  "panel": "helbild",
+  "kontor": "lista",
   "hb": "siffror",
-  "snabb": "rutor"
+  "snabb": "rutor",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -114,6 +115,7 @@
   "bolag",
   "kontor",
   "hb",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,

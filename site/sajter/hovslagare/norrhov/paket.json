@@ -5,23 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "11998652",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "rubik",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Rubik",
+  "text": "Rubik",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-330",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#c8e07a"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
  "hero": "split",
- "header": "ljus",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "expertis",
   "bolag": "lista",
   "siffror": "band",
-  "nyheter": "lista",
-  "omdomen": "stor"
+  "nyheter": "kort",
+  "omdomen": "stor",
+  "certifikat": "standard",
+  "projekt": "karusell",
+  "faq": "standard",
+  "kontor": "lista",
+  "boka": "centrerad"
  },
  "ordning_lista": [
   "certifikat",
@@ -138,5 +145,14 @@
   "hast",
   "natur",
   "people"
- ]
+ ],
+ "herotext": "standard",
+ "rubrikstil": "pill",
+ "v7": {
+  "typ": "rubik",
+  "hero": "split",
+  "herotext": "standard",
+  "rubrik": "pill",
+  "form": "mjuk"
+ }
 }

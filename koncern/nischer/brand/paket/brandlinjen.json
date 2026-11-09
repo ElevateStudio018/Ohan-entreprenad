@@ -93,15 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
+  "vagval": "nummer",
   "bolag": "tabell",
-  "siffror": "jatte",
+  "siffror": "cirklar",
   "nyheter": "tidning",
-  "omdomen": "stor",
+  "omdomen": "betyg",
   "logos": "standard",
-  "hb": "kort",
+  "hb": "siffror",
   "certifikat": "standard",
-  "projekt": "karusell"
+  "projekt": "tabell",
+  "cta": "band"
  },
  "ordning_lista": [
   "logos",
@@ -110,6 +111,7 @@
   "hb",
   "certifikat",
   "projekt",
+  "cta",
   "omdomen"
  ],
  "panel_omvand": false,

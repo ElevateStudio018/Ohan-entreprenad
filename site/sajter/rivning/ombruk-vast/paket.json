@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "c9897fe3",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "urbanist",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "rubrik": "Urbanist",
+  "text": "Urbanist",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-270",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -88,11 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "register",
   "bolag": "tabell",
   "siffror": "jatte",
-  "nyheter": "lista",
-  "omdomen": "stor"
+  "nyheter": "tidning",
+  "omdomen": "stor",
+  "logos": "standard",
+  "berattelser": "lista",
+  "citat": "standard",
+  "panel": "kultur",
+  "projekt": "tabell"
  },
  "ordning_lista": [
   "vagval",
@@ -138,5 +145,14 @@
   "mark",
   "bygg",
   "people"
- ]
+ ],
+ "herotext": "band",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "urbanist",
+  "hero": "band",
+  "herotext": "band",
+  "rubrik": "stor",
+  "form": "kantig"
+ }
 }

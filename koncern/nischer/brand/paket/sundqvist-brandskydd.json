@@ -90,15 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "flikar",
-  "siffror": "rad",
+  "vagval": "duo",
+  "bolag": "karusell",
+  "siffror": "band",
   "nyheter": "lista",
   "omdomen": "kort",
-  "faq": "standard",
+  "faq": "tva",
   "logos": "standard",
-  "hb": "kort",
-  "projekt": "lista"
+  "hb": "tre",
+  "projekt": "lista",
+  "cta": "delad"
  },
  "ordning_lista": [
   "siffror",
@@ -107,7 +108,8 @@
   "logos",
   "bolag",
   "hb",
-  "projekt"
+  "projekt",
+  "cta"
  ],
  "panel_omvand": true,
  "sidfot": "primar",

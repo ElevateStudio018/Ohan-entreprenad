@@ -93,15 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "rund",
+  "vagval": "chips",
+  "bolag": "tabell",
   "siffror": "jatte",
-  "nyheter": "tidning",
+  "nyheter": "sida",
   "omdomen": "kort",
-  "citat": "standard",
+  "citat": "sida",
   "logos": "standard",
-  "projekt": "karusell",
-  "certifikat": "standard"
+  "projekt": "lista",
+  "certifikat": "rad",
+  "cta": "bild"
  },
  "ordning_lista": [
   "nyheter",
@@ -110,6 +111,7 @@
   "citat",
   "logos",
   "projekt",
+  "cta",
   "omdomen",
   "certifikat"
  ],

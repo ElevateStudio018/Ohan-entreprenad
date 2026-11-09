@@ -93,20 +93,21 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
+  "vagval": "chips",
   "bolag": "rund",
   "siffror": "rad",
   "nyheter": "lista",
   "omdomen": "kort",
-  "berattelser": "rad",
+  "berattelser": "zigzag",
   "certifikat": "standard",
-  "citat": "standard",
-  "projekt": "karusell",
-  "galleri": "standard",
-  "priser": "standard",
-  "process": "standard",
-  "hb": "split",
-  "snabb": "rutor"
+  "citat": "stor",
+  "projekt": "feature",
+  "galleri": "rutnat",
+  "priser": "tabell",
+  "process": "vertikal",
+  "hb": "citat",
+  "snabb": "band",
+  "cta": "bild"
  },
  "ordning_lista": [
   "berattelser",
@@ -119,6 +120,7 @@
   "omdomen",
   "process",
   "hb",
+  "cta",
   "snabb"
  ],
  "panel_omvand": false,

@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "4f2d7065",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "archivo",
+  "kategori": "grotesk",
+  "rubrik": "Archivo",
+  "text": "Archivo",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_spatiering": "-0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;0,800;1,600",
+  "kursiv": true
  },
  "palett": "nisch-0",
  "farger": {
@@ -88,11 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "rund",
+  "vagval": "register",
+  "bolag": "namnlista",
   "siffror": "jatte",
-  "nyheter": "lista",
-  "omdomen": "stor"
+  "nyheter": "minimal",
+  "omdomen": "stor",
+  "kontor": "standard",
+  "faq": "standard",
+  "projekt": "karusell",
+  "logos": "standard",
+  "hb": "siffror",
+  "boka": "centrerad"
  },
  "ordning_lista": [
   "vagval",
@@ -142,5 +150,14 @@
   "bostad",
   "hem",
   "people"
- ]
+ ],
+ "herotext": "mitten",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "archivo",
+  "hero": "helskarm",
+  "herotext": "mitten",
+  "rubrik": "understruken",
+  "form": "piller-kantig"
+ }
 }

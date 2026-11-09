@@ -90,20 +90,21 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "vagg",
-  "siffror": "band",
-  "nyheter": "rad",
+  "vagval": "chips",
+  "bolag": "tabell",
+  "siffror": "vertikal",
+  "nyheter": "kort",
   "omdomen": "kort",
-  "ir": "tabell",
-  "kontor": "standard",
+  "ir": "kompakt",
+  "kontor": "lista",
   "panel": "jobb",
   "citat": "standard",
   "projekt": "lista",
-  "process": "standard",
-  "hb": "siffror",
+  "process": "vertikal",
+  "hb": "tre",
   "tidslinje": "standard",
-  "snabb": "rutor"
+  "snabb": "rutor",
+  "cta": "delad"
  },
  "ordning_lista": [
   "bolag",
@@ -118,6 +119,7 @@
   "process",
   "hb",
   "tidslinje",
+  "cta",
   "snabb"
  ],
  "panel_omvand": false,

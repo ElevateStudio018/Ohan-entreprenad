@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "3f2098f5",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "barlowcond",
+  "kategori": "smal",
+  "rubrik": "Barlow Condensed",
+  "text": "Barlow",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
-  "versaler": false,
-  "skala": 1.0,
+  "spatiering": "0",
+  "versaler": true,
+  "skala": 0.9,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "logo_vikt": 600,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
-  "knapp_versaler": false,
-  "logo_font": "text"
+  "knapp_versaler": true,
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700",
+  "kursiv": false
  },
  "palett": "mega-270",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#ce71c0"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -88,11 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "tabell",
-  "siffror": "rad",
-  "nyheter": "lista",
-  "omdomen": "kort"
+  "vagval": "expertis",
+  "bolag": "karusell",
+  "siffror": "bild",
+  "nyheter": "minimal",
+  "omdomen": "kort",
+  "panel": "kultur",
+  "hb": "tre",
+  "kontor": "lista",
+  "tidslinje": "horisontell",
+  "process": "kort",
+  "projekt": "zigzag",
+  "ir": "kort",
+  "snabb": "rutor"
  },
  "ordning_lista": [
   "vagval",
@@ -144,5 +154,14 @@
  },
  "profil": "mega",
  "min_avstand": 9.81,
- "hero_tagg": "bygg"
+ "hero_tagg": "bygg",
+ "herotext": "stack",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "barlowcond",
+  "hero": "centrerad",
+  "herotext": "stack",
+  "rubrik": "understruken",
+  "form": "kantig"
+ }
 }

@@ -93,17 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "typo",
   "bolag": "flikar",
-  "siffror": "band",
+  "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "panel": "jobb",
-  "berattelser": "tre",
+  "omdomen": "stor",
+  "panel": "panel",
+  "berattelser": "band",
   "citat": "standard",
-  "faq": "standard",
-  "priser": "standard",
-  "process": "standard"
+  "faq": "tva",
+  "priser": "tabell",
+  "process": "kort",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -114,6 +115,7 @@
   "citat",
   "faq",
   "priser",
+  "cta",
   "process"
  ],
  "panel_omvand": false,

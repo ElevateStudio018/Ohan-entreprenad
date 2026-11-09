@@ -5,23 +5,25 @@
  "arketyp": "industriell",
  "fro": "9b768718",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "intertight",
+  "kategori": "grotesk",
+  "rubrik": "Inter Tight",
+  "text": "Inter",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.035em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
+  "kursiv": true
  },
  "palett": "nisch-30",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#e0ec8d"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -88,11 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
+  "vagval": "rullband",
   "bolag": "kort",
-  "siffror": "band",
+  "siffror": "kort",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "projekt": "zigzag",
+  "panel": "helbild",
+  "logos": "standard",
+  "certifikat": "standard",
+  "kontor": "lista",
+  "priser": "standard",
+  "boka": "centrerad",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -102,6 +112,7 @@
   "logos",
   "certifikat",
   "kontor",
+  "cta",
   "priser",
   "boka"
  ],
@@ -141,5 +152,14 @@
   "bostad",
   "hem",
   "people"
- ]
+ ],
+ "herotext": "linje",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "intertight",
+  "hero": "mosaik",
+  "herotext": "linje",
+  "rubrik": "kant",
+  "form": "latt"
+ }
 }

@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
-  "bolag": "tabell",
-  "siffror": "dashboard",
-  "nyheter": "lista",
+  "vagval": "duo",
+  "bolag": "rund",
+  "siffror": "vertikal",
+  "nyheter": "sida",
   "omdomen": "stor",
-  "process": "standard",
+  "process": "linje",
   "projekt": "lista",
-  "hb": "split",
-  "certifikat": "standard",
+  "hb": "band",
+  "certifikat": "rad",
   "berattelser": "band",
-  "boka": "standard"
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -110,6 +111,7 @@
   "hb",
   "siffror",
   "certifikat",
+  "cta",
   "berattelser",
   "nyheter",
   "boka"

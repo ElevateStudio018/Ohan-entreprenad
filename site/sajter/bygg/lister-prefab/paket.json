@@ -5,23 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "8fe4be6c",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "archivo",
+  "kategori": "grotesk",
+  "rubrik": "Archivo",
+  "text": "Archivo",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;0,800;1,600",
+  "kursiv": true
  },
  "palett": "bygg-270",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#ff8f6b"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "statement",
- "header": "ljus",
+ "hero": "band",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -91,11 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
-  "bolag": "rund",
+  "vagval": "typo",
+  "bolag": "zigzag",
   "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "projekt": "feature",
+  "citat": "standard",
+  "hb": "kort",
+  "berattelser": "overlap",
+  "process": "vertikal",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -141,5 +149,14 @@
  },
  "profil": "bygg",
  "min_avstand": 10.43,
- "hero_tagg": "bostad"
+ "hero_tagg": "bostad",
+ "herotext": "kontur",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "archivo",
+  "hero": "band",
+  "herotext": "kontur",
+  "rubrik": "understruken",
+  "form": "piller-rund"
+ }
 }

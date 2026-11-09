@@ -93,18 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "typo",
   "bolag": "flikar",
   "siffror": "band",
-  "nyheter": "lista",
+  "nyheter": "minimal",
   "omdomen": "kort",
   "process": "standard",
   "citat": "standard",
-  "hb": "split",
-  "projekt": "feature",
+  "hb": "citat",
+  "projekt": "zigzag",
   "logos": "standard",
-  "panel": "helbild",
-  "faq": "standard"
+  "panel": "jobb",
+  "faq": "centrerad",
+  "cta": "band"
  },
  "ordning_lista": [
   "process",
@@ -115,7 +116,8 @@
   "projekt",
   "logos",
   "panel",
-  "faq"
+  "faq",
+  "cta"
  ],
  "panel_omvand": false,
  "sidfot": "primar",

@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
-  "bolag": "vagg",
+  "vagval": "chips",
+  "bolag": "namnlista",
   "siffror": "dashboard",
   "nyheter": "lista",
   "omdomen": "stor",
-  "certifikat": "standard",
+  "certifikat": "rad",
   "faq": "standard",
   "projekt": "feature",
-  "process": "standard",
-  "berattelser": "stor",
-  "boka": "standard"
+  "process": "kort",
+  "berattelser": "zigzag",
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "certifikat",
@@ -109,6 +110,7 @@
   "bolag",
   "projekt",
   "process",
+  "cta",
   "berattelser",
   "boka"
  ],

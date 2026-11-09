@@ -90,15 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
-  "bolag": "lista",
-  "siffror": "dashboard",
+  "vagval": "chips",
+  "bolag": "flikar",
+  "siffror": "vertikal",
   "nyheter": "lista",
-  "omdomen": "stor",
-  "projekt": "karusell",
+  "omdomen": "kort",
+  "projekt": "lista",
   "logos": "standard",
   "berattelser": "stor",
-  "faq": "standard"
+  "faq": "standard",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -108,7 +109,8 @@
   "logos",
   "berattelser",
   "bolag",
-  "faq"
+  "faq",
+  "cta"
  ],
  "panel_omvand": false,
  "sidfot": "primar",

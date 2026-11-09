@@ -95,15 +95,16 @@
  "block": {
   "vagval": "nummer",
   "bolag": "flikar",
-  "siffror": "band",
+  "siffror": "dashboard",
   "nyheter": "tidning",
   "omdomen": "stor",
   "logos": "standard",
-  "faq": "standard",
+  "faq": "centrerad",
   "process": "standard",
   "certifikat": "standard",
-  "projekt": "karusell",
-  "snabb": "rutor"
+  "projekt": "feature",
+  "snabb": "rutor",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -113,6 +114,7 @@
   "process",
   "certifikat",
   "projekt",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,

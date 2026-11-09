@@ -93,19 +93,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "flikar",
+  "vagval": "register",
+  "bolag": "rund",
   "siffror": "band",
-  "nyheter": "rad",
+  "nyheter": "kort",
   "omdomen": "kort",
   "kontor": "standard",
-  "citat": "standard",
-  "hb": "helbild",
-  "process": "standard",
-  "ir": "kort",
-  "panel": "panel",
-  "projekt": "lista",
-  "snabb": "band"
+  "citat": "stor",
+  "hb": "split",
+  "process": "linje",
+  "ir": "tabell",
+  "panel": "helbild",
+  "projekt": "feature",
+  "snabb": "band",
+  "cta": "band"
  },
  "ordning_lista": [
   "kontor",
@@ -118,6 +119,7 @@
   "bolag",
   "nyheter",
   "panel",
+  "cta",
   "projekt",
   "snabb"
  ],

@@ -93,17 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "nummer",
   "bolag": "flikar",
   "siffror": "jatte",
   "nyheter": "tidning",
   "omdomen": "kort",
-  "panel": "jobb",
-  "projekt": "feature",
+  "panel": "helbild",
+  "projekt": "zigzag",
   "logos": "standard",
-  "process": "standard",
+  "process": "kort",
   "faq": "standard",
-  "snabb": "rutor"
+  "snabb": "rutor",
+  "cta": "bild"
  },
  "ordning_lista": [
   "vagval",
@@ -113,6 +114,7 @@
   "logos",
   "process",
   "faq",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,

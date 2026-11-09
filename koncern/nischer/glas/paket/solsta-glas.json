@@ -90,19 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "lista",
+  "vagval": "register",
+  "bolag": "mosaik",
   "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "kort",
+  "omdomen": "rad",
   "logos": "standard",
   "citat": "standard",
-  "panel": "jobb",
-  "berattelser": "tre",
-  "projekt": "lista",
-  "priser": "standard",
-  "process": "standard",
-  "snabb": "rutor"
+  "panel": "delad",
+  "berattelser": "stor",
+  "projekt": "zigzag",
+  "priser": "lista",
+  "process": "kort",
+  "snabb": "rutor",
+  "cta": "delad"
  },
  "ordning_lista": [
   "bolag",
@@ -115,6 +116,7 @@
   "priser",
   "process",
   "omdomen",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,

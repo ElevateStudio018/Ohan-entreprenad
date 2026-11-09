@@ -93,12 +93,13 @@
   "vagval": "rader",
   "bolag": "flikar",
   "siffror": "dashboard",
-  "nyheter": "tidning",
+  "nyheter": "minimal",
   "omdomen": "kort",
-  "berattelser": "band",
-  "projekt": "feature",
-  "citat": "standard",
-  "panel": "helbild"
+  "berattelser": "zigzag",
+  "projekt": "zigzag",
+  "citat": "sida",
+  "panel": "kort",
+  "cta": "band"
  },
  "ordning_lista": [
   "berattelser",
@@ -106,6 +107,7 @@
   "vagval",
   "projekt",
   "omdomen",
+  "cta",
   "citat",
   "panel"
  ],

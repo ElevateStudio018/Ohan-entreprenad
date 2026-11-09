@@ -5,23 +5,25 @@
  "arketyp": "ramad",
  "fro": "4e1b58d5",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "archivoblack",
+  "kategori": "tung",
+  "rubrik": "Archivo Black",
+  "text": "Archivo",
+  "rubrik_vikt": 400,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
+  "logo_versaler": false,
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400",
+  "kursiv": false
  },
  "palett": "nisch-180",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#efd075"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "mosaik",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "tabell",
-  "siffror": "rad",
+  "vagval": "cirklar",
+  "bolag": "vagg",
+  "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "citat": "standard",
+  "projekt": "stor",
+  "faq": "centrerad",
+  "logos": "band",
+  "boka": "centrerad"
  },
  "ordning_lista": [
   "siffror",
@@ -141,5 +148,14 @@
   "bat",
   "natur",
   "people"
- ]
+ ],
+ "herotext": "nere",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "archivoblack",
+  "hero": "mosaik",
+  "herotext": "nere",
+  "rubrik": "understruken",
+  "form": "latt"
+ }
 }

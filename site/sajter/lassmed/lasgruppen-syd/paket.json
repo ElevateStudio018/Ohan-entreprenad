@@ -5,23 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "0ef687cb",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "playfair",
+  "kategori": "serif",
+  "rubrik": "Playfair Display",
+  "text": "Source Sans 3",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.015em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
-  "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_vikt": 600,
+  "logo_versaler": false,
+  "logo_spatiering": "0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,600;0,700;1,400;1,600",
+  "kursiv": true
  },
  "palett": "nisch-180",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#86e0b9"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "rutor",
   "bolag": "flikar",
-  "siffror": "rad",
+  "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "citat": "bild",
+  "process": "standard",
+  "projekt": "stor",
+  "hb": "siffror",
+  "panel": "kort",
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -101,6 +110,7 @@
   "projekt",
   "siffror",
   "hb",
+  "cta",
   "panel",
   "boka"
  ],
@@ -140,5 +150,14 @@
   "kontor",
   "hem",
   "people"
- ]
+ ],
+ "herotext": "jatte",
+ "rubrikstil": "mitt",
+ "v7": {
+  "typ": "playfair",
+  "hero": "helskarm",
+  "herotext": "jatte",
+  "rubrik": "mitt",
+  "form": "latt"
+ }
 }

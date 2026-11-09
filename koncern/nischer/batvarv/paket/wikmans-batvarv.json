@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "kakel",
   "bolag": "flikar",
   "siffror": "jatte",
   "nyheter": "lista",
   "omdomen": "stor",
   "panel": "jobb",
   "certifikat": "standard",
-  "faq": "standard",
-  "priser": "standard",
-  "projekt": "feature",
-  "citat": "standard"
+  "faq": "centrerad",
+  "priser": "tabell",
+  "projekt": "karusell",
+  "citat": "stor",
+  "cta": "bild"
  },
  "ordning_lista": [
   "panel",
@@ -109,7 +110,8 @@
   "faq",
   "priser",
   "projekt",
-  "citat"
+  "citat",
+  "cta"
  ],
  "panel_omvand": false,
  "sidfot": "primar",

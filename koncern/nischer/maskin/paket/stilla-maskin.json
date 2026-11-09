@@ -93,16 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "lista",
+  "vagval": "expertis",
+  "bolag": "rund",
   "siffror": "rad",
-  "nyheter": "lista",
+  "nyheter": "tidning",
   "omdomen": "stor",
   "citat": "standard",
-  "projekt": "lista",
-  "process": "standard",
+  "projekt": "stor",
+  "process": "kort",
   "certifikat": "standard",
-  "snabb": "band"
+  "snabb": "band",
+  "cta": "bild"
  },
  "ordning_lista": [
   "bolag",
@@ -112,6 +113,7 @@
   "nyheter",
   "process",
   "certifikat",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,

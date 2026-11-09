@@ -5,23 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "a5d0c7ba",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "nunito",
+  "kategori": "rund",
+  "rubrik": "Nunito",
+  "text": "Nunito",
+  "rubrik_vikt": 800,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 800,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,600;0,700;0,800;1,700",
+  "kursiv": true
  },
  "palett": "djur-30",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#6b89e6"
  },
  "form": {
-  "namn": "piller-rundad",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 18,
-  "bild": 16,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "statement",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
-  "bolag": "flikar",
+  "vagval": "expertis",
+  "bolag": "rund",
   "siffror": "rad",
   "nyheter": "tidning",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "galleri": "rutnat",
+  "priser": "standard",
+  "hb": "helbild",
+  "faq": "tva",
+  "berattelser": "kolumner"
  },
  "ordning_lista": [
   "vagval",
@@ -143,5 +150,14 @@
   "valp",
   "katt",
   "hundtraning"
- ]
+ ],
+ "herotext": "versal",
+ "rubrikstil": "standard",
+ "v7": {
+  "typ": "nunito",
+  "hero": "statement",
+  "herotext": "versal",
+  "rubrik": "standard",
+  "form": "mjuk"
+ }
 }

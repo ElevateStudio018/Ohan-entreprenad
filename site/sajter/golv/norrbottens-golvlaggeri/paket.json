@@ -5,23 +5,25 @@
  "arketyp": "ramad",
  "fro": "2b262fea",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "archivoblack",
+  "kategori": "tung",
+  "rubrik": "Archivo Black",
+  "text": "Archivo",
+  "rubrik_vikt": 400,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
+  "logo_versaler": false,
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400",
+  "kursiv": false
  },
  "palett": "nisch-270",
  "farger": {
@@ -74,8 +76,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "band",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -89,10 +91,17 @@
  "motiv": "inget",
  "block": {
   "vagval": "chips",
-  "bolag": "rund",
+  "bolag": "namnlista",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "certifikat": "rad",
+  "faq": "standard",
+  "projekt": "feature",
+  "process": "kort",
+  "berattelser": "zigzag",
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "certifikat",
@@ -101,6 +110,7 @@
   "bolag",
   "projekt",
   "process",
+  "cta",
   "berattelser",
   "boka"
  ],
@@ -140,5 +150,14 @@
   "interior",
   "hem",
   "people"
- ]
+ ],
+ "herotext": "stack",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "archivoblack",
+  "hero": "band",
+  "herotext": "stack",
+  "rubrik": "stor",
+  "form": "piller-kantig"
+ }
 }

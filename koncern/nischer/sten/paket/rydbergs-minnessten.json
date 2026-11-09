@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "flikar",
+  "vagval": "kort",
+  "bolag": "vagg",
   "siffror": "band",
   "nyheter": "lista",
   "omdomen": "stor",
   "priser": "standard",
-  "faq": "standard",
-  "projekt": "feature",
-  "berattelser": "band",
-  "panel": "panel",
-  "boka": "standard"
+  "faq": "tva",
+  "projekt": "lista",
+  "berattelser": "zigzag",
+  "panel": "kort",
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "omdomen",
@@ -111,6 +112,7 @@
   "projekt",
   "berattelser",
   "panel",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,

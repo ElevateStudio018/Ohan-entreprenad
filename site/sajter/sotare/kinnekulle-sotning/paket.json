@@ -5,23 +5,25 @@
  "arketyp": "finans",
  "fro": "d7a376c1",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
-  "versaler": false,
-  "skala": 1.0,
+  "id": "anton",
+  "kategori": "smal",
+  "rubrik": "Anton",
+  "text": "Roboto",
+  "rubrik_vikt": 400,
+  "spatiering": "0",
+  "versaler": true,
+  "skala": 0.9,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
-  "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_spatiering": "0.02em",
+  "nav_versaler": true,
+  "knapp_versaler": true,
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400",
+  "kursiv": false
  },
  "palett": "nisch-0",
  "farger": {
@@ -74,8 +76,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "split",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "rader",
   "bolag": "rund",
-  "siffror": "rad",
+  "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "betyg",
+  "certifikat": "standard",
+  "priser": "tabell",
+  "projekt": "zigzag",
+  "citat": "stor",
+  "process": "vertikal",
+  "cta": "delad"
  },
  "ordning_lista": [
   "certifikat",
@@ -102,6 +110,7 @@
   "projekt",
   "siffror",
   "citat",
+  "cta",
   "process"
  ],
  "panel_omvand": true,
@@ -140,5 +149,14 @@
   "hem",
   "tak",
   "people"
- ]
+ ],
+ "herotext": "standard",
+ "rubrikstil": "standard",
+ "v7": {
+  "typ": "anton",
+  "hero": "split",
+  "herotext": "standard",
+  "rubrik": "standard",
+  "form": "piller-kantig"
+ }
 }

@@ -93,17 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "chips",
   "bolag": "rund",
   "siffror": "rad",
-  "nyheter": "rad",
+  "nyheter": "tidning",
   "omdomen": "stor",
   "certifikat": "standard",
-  "berattelser": "tre",
-  "process": "standard",
-  "projekt": "lista",
+  "berattelser": "overlap",
+  "process": "linje",
+  "projekt": "zigzag",
   "faq": "standard",
-  "panel": "panel"
+  "panel": "kort",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -113,6 +114,7 @@
   "projekt",
   "faq",
   "panel",
+  "cta",
   "nyheter"
  ],
  "panel_omvand": true,

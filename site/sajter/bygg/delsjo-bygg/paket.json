@@ -5,10 +5,10 @@
  "arketyp": "varm-bostad",
  "fro": "fcf71ba4",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "instrumentsans",
+  "kategori": "grotesk",
+  "rubrik": "Instrument Sans",
+  "text": "Instrument Sans",
   "rubrik_vikt": 600,
   "spatiering": "-0.025em",
   "versaler": false,
@@ -17,11 +17,13 @@
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_versaler": false,
+  "logo_spatiering": "-0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
+  "kursiv": true
  },
  "palett": "bygg-0",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#e8db57"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "flikar",
-  "siffror": "rad",
-  "nyheter": "tidning",
-  "omdomen": "stor"
+  "vagval": "cirklar",
+  "bolag": "vagg",
+  "siffror": "cirklar",
+  "nyheter": "rad",
+  "omdomen": "betyg",
+  "berattelser": "kolumner",
+  "certifikat": "rad",
+  "faq": "tva",
+  "hb": "kort",
+  "projekt": "mosaik",
+  "snabb": "band",
+  "cta": "delad"
  },
  "ordning_lista": [
   "siffror",
@@ -108,6 +117,7 @@
   "projekt",
   "bolag",
   "nyheter",
+  "cta",
   "snabb"
  ],
  "panel_omvand": false,
@@ -145,5 +155,14 @@
  },
  "profil": "bygg",
  "min_avstand": 10.64,
- "hero_tagg": "interior"
+ "hero_tagg": "interior",
+ "herotext": "jatte",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "instrumentsans",
+  "hero": "helskarm",
+  "herotext": "jatte",
+  "rubrik": "stor",
+  "form": "rundad"
+ }
 }

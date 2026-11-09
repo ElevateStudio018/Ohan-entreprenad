@@ -90,19 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "kort",
   "bolag": "rund",
-  "siffror": "jatte",
-  "nyheter": "lista",
+  "siffror": "dashboard",
+  "nyheter": "kort",
   "omdomen": "kort",
-  "hb": "siffror",
+  "hb": "kort",
   "faq": "standard",
-  "priser": "standard",
-  "projekt": "lista",
-  "berattelser": "rad",
+  "priser": "tabell",
+  "projekt": "stor",
+  "berattelser": "band",
   "logos": "standard",
-  "citat": "standard",
-  "snabb": "band"
+  "citat": "stor",
+  "snabb": "rutor",
+  "cta": "band"
  },
  "ordning_lista": [
   "hb",
@@ -114,6 +115,7 @@
   "berattelser",
   "nyheter",
   "logos",
+  "cta",
   "citat",
   "snabb"
  ],

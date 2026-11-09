@@ -94,19 +94,20 @@
  "motiv": "inget",
  "block": {
   "vagval": "rader",
-  "bolag": "rund",
-  "siffror": "rad",
-  "nyheter": "tidning",
+  "bolag": "namnlista",
+  "siffror": "jatte",
+  "nyheter": "sida",
   "omdomen": "kort",
-  "projekt": "feature",
-  "panel": "jobb",
-  "hb": "split",
-  "berattelser": "stor",
+  "projekt": "mosaik",
+  "panel": "helbild",
+  "hb": "band",
+  "berattelser": "overlap",
   "priser": "standard",
-  "galleri": "standard",
-  "faq": "standard",
+  "galleri": "rutnat",
+  "faq": "centrerad",
   "citat": "standard",
-  "snabb": "rutor"
+  "snabb": "band",
+  "cta": "band"
  },
  "ordning_lista": [
   "projekt",
@@ -120,6 +121,7 @@
   "faq",
   "citat",
   "bolag",
+  "cta",
   "siffror",
   "snabb"
  ],

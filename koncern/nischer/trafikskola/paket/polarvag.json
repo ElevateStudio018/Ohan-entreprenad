@@ -90,14 +90,15 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "kort",
-  "siffror": "jatte",
+  "vagval": "chips",
+  "bolag": "karusell",
+  "siffror": "bild",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "process": "standard",
+  "process": "linje",
   "logos": "standard",
-  "projekt": "lista"
+  "projekt": "karusell",
+  "cta": "delad"
  },
  "ordning_lista": [
   "process",
@@ -105,6 +106,7 @@
   "bolag",
   "logos",
   "siffror",
+  "cta",
   "nyheter",
   "projekt"
  ],

@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "rund",
-  "siffror": "rad",
-  "nyheter": "rad",
+  "vagval": "kakel",
+  "bolag": "lista",
+  "siffror": "dashboard",
+  "nyheter": "kort",
   "omdomen": "kort",
   "certifikat": "standard",
-  "projekt": "lista",
-  "faq": "standard",
-  "berattelser": "stor",
-  "citat": "standard"
+  "projekt": "karusell",
+  "faq": "centrerad",
+  "berattelser": "rad",
+  "citat": "bild",
+  "cta": "delad"
  },
  "ordning_lista": [
   "certifikat",
@@ -109,6 +110,7 @@
   "siffror",
   "berattelser",
   "citat",
+  "cta",
   "nyheter",
   "bolag"
  ],
