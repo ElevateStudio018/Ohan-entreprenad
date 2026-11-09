@@ -534,7 +534,32 @@ def nytt(namn, bransch="bygg", farg=None, stil=None, antal=600, accent=None, ege
         if d > best_d:
             best, best_d = k, d
     best["min_avstand"] = round(best_d, 2)
-    return best
+    return smak(best, rng, profil)
+
+
+def smak(p, rng, profil="koncern"):
+    """Användarens val (koncern/preferenser.json): bara godkända sektionsvarianter, hero-typer och hero-layouter."""
+    try:
+        import sys as _s
+        _s.path.insert(0, str(ROT / "mall"))
+        import preferenser
+        import varianter
+    except ImportError:
+        return p
+    ok = preferenser.godkanda(varianter.alla())
+    if not ok:
+        return p
+    p["ordning_lista"] = [x for x in p.get("ordning_lista", []) if x in ok or x == "snabb"]
+    p.setdefault("block", {})
+    for sek in p["ordning_lista"]:
+        if sek in ok and p["block"].get(sek) not in ok[sek]:
+            p["block"][sek] = rng.choice(ok[sek])
+    heroer = preferenser.heroer(profil)
+    if p.get("hero") not in heroer:
+        p["hero"] = rng.choice(heroer)
+    p["herotext"] = rng.choice(preferenser.herotext())
+    p["header"] = "transparent"
+    return p
 
 
 def registrera(p):

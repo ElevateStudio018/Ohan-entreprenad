@@ -18,6 +18,14 @@ koncernkänsla och vilka arketyper som finns). Verktygen ligger i `koncern/`:
 - `koncern/bildbank/` + `koncern/bildbank.tsv` – stockfoton från Pexels, taggade (kontor, bostad, bygg, stad, tra, infra,
   people, interior, anlaggning).
 
+## Användarens smak (viktigt)
+Användaren har gått igenom alla sektionsvarianter i Sektionsväljaren. Valen ligger i `koncern/preferenser.json` och
+`koncern/preferenser.py`, och `paket.py` använder dem automatiskt: bara godkända sektionsvarianter, hero-typer och
+hero-layouter väljs. Ändra aldrig `block`, `hero` eller `herotext` i ett paket till något som står under "nej".
+Användaren gillar bildtunga layouter, kort, bento-rutnät, karuseller och scrollrader, färgblock och överlappande kort.
+Användaren gillar inte rent typografiska sektioner, tabeller och textlistor, tidningsstil, centrerade minimalistiska
+sektioner, kontur-, kursiv- och versalrubriker i heron, och delad bild/text-hero.
+
 ## Arbetsgång
 
 1. **Ta reda på fakta om företaget.** Läs företagets egen webbplats och sök (WebSearch) efter: fullständigt namn,

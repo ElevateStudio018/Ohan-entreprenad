@@ -134,18 +134,20 @@ def _minst(alt, raknare, glob, rng):
     return min(alt, key=lambda x: (raknare[x], glob[x]))
 
 
-def differentiera(nya=False):
+def differentiera(nya=False, bara=None):
     """Går igenom alla paket grupp för grupp och ger varje sajt det typsnitt, den hero, rubrikstil, form och de
     sektionsvarianter som är minst använda i gruppen (och totalt). Resultatet sparas i paketen (nyckeln 'v7')."""
     import collections
     import random
     import typsnitt
     import varianter
-    alla_var = varianter.alla()
+    import preferenser
+    alla_var = preferenser.godkanda(varianter.alla())
     glob = collections.defaultdict(collections.Counter)
     for g in grupper_alla():
         filer = sorted((BRIEFS / g).glob("*.json"))
         rak = collections.defaultdict(collections.Counter)
+        nya_g = nya and (bara is None or g in bara)
         for fil in filer:
             pfil = BRIEFS / g / "paket" / fil.name
             if not pfil.exists():
@@ -153,7 +155,7 @@ def differentiera(nya=False):
             b = json.loads(fil.read_text(encoding="utf-8"))
             p = json.loads(pfil.read_text(encoding="utf-8"))
             rng = random.Random(f"v7-{g}-{b['slug']}")
-            if p.get("v7") and not nya:
+            if p.get("v7") and not nya_g:
                 for k in ("typ", "hero", "herotext", "rubrik", "form"):
                     rak[k][p["v7"][k]] += 1
                     glob[k][p["v7"][k]] += 1
@@ -173,9 +175,9 @@ def differentiera(nya=False):
                                  logo_versaler=ty.get("versaler", False) or rng.random() < 0.5, logo_vikt=ty["vikt"] if ty["kat"] in ("serif", "smal", "tung") else 800,
                                  nav_versaler=rng.random() < 0.3, logo_spatiering=rng.choice(["-0.02em", "0.02em", "0.08em"]))
             # hero och herotext
-            heroer = HEROER["mega" if profil == "mega" else "standard"]
+            heroer = preferenser.heroer(profil)
             p["hero"] = _minst(heroer, rak["hero"], glob["hero"], rng)
-            ht_alt = [h for h in HEROTEXT if h != "kursiv" or ty.get("kursiv")]
+            ht_alt = [h for h in preferenser.herotext() if h != "kursiv" or ty.get("kursiv")]
             if ty.get("versaler"):
                 ht_alt = [h for h in ht_alt if h not in ("versal", "kursiv")]
             p["herotext"] = _minst(ht_alt, rak["herotext"], glob["herotext"], rng) if p["hero"] in OVERLAY else "standard"
@@ -190,6 +192,8 @@ def differentiera(nya=False):
                 o = p["ordning_lista"]
                 slut = len(o) - (1 if o and o[-1] in ("snabb", "boka") else 0)
                 o.insert(max(1, slut - rng.choice([0, 1, 2])), "cta")
+            # sektioner utan någon godkänd variant tas bort (användarens val)
+            p["ordning_lista"] = [x for x in p["ordning_lista"] if x in alla_var or x in ("snabb",)]
             # sektionsvarianter
             for sek in p["ordning_lista"]:
                 if sek in alla_var:
@@ -210,7 +214,7 @@ def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     nya = "--nya-paket" in sys.argv
     if "--differentiera" in sys.argv or "--ny-stil" in sys.argv:
-        g = differentiera("--ny-stil" in sys.argv)
+        g = differentiera("--ny-stil" in sys.argv, args or None)
         for k in ("typ", "hero", "herotext", "rubrik", "form"):
             print(k, len(g[k]), "olika")
     if "--galleri" not in sys.argv:
