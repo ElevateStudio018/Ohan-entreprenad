@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "rivning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Saneringsjouren Skåne AB",
+  "kortnamn": "Saneringsjouren",
+  "slug": "saneringsjouren-skane",
+  "typ": "Skadesanering och akut rivning i Skåne",
+  "tagline": "Jour dygnet runt",
+  "slogan": "Vattenskada, brand eller mögel – vi är på plats i Skåne inom två timmar, alla dagar om året.",
+  "hero_rubrik": "Översvämning klockan tre? Vi kör nu.",
+  "hero_text": "Akut vattenskadesanering, brandsanering och fuktsanering för hem, butiker och fastighetsbolag. 31 jourbilar mellan Ystad och Ängelholm.",
+  "intro_rubrik": "Från larm till torrt hus",
+  "om": [
+    "Saneringsjouren startades 2009 av brandmannen Johan Tell, som såg hur mycket som förstördes timmarna efter släckningen. I dag är vi 60 anställda och tar emot drygt 4 200 skador om året, de flesta på uppdrag av försäkringsbolag och fastighetsförvaltare.",
+    "Jourledaren svarar alltid inom tre signaler, och vi har jourbilar i Malmö, Lund, Helsingborg och Kristianstad. När det akuta är klart river vi skadade golv och väggar, torkar konstruktionen och lämnar över till återställning – med fuktmätningar dokumenterade i varje steg."
+  ],
+  "vagval_rubrik": "Vad har hänt?",
+  "tjanster": [
+    {"titel": "Vattenskada", "ikon": "vatten", "href": "verksamhet.html", "text": "Läckagesökning, vattensugning och akut rivning av blöta golv och väggar."},
+    {"titel": "Brandsanering", "ikon": "eld", "href": "verksamhet.html", "text": "Sot, brandrök och lukt tas bort från ytor, möbler och ventilation."},
+    {"titel": "Fukt och torkning", "ikon": "sol", "href": "verksamhet.html", "text": "Avfuktare, värme och mätningar tills konstruktionen är torr."},
+    {"titel": "Mögelsanering", "ikon": "sok", "href": "verksamhet.html", "text": "Torrisblästring och sanering av vindar, krypgrunder och källare."},
+    {"titel": "Akut rivning", "ikon": "hamare", "href": "verksamhet.html", "text": "Skadade innertak, mellanväggar och golv rivs samma natt."},
+    {"titel": "Luktsanering", "ikon": "vind", "href": "verksamhet.html", "text": "Ozon och hydroxyl mot röklukt, urinlukt och dödsfallslukt."},
+    {"titel": "Försäkringsärenden", "ikon": "dokument", "href": "faq.html", "text": "Vi rapporterar direkt till ditt försäkringsbolag."},
+    {"titel": "Ring jouren", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Dygnet runt, alla årets dagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Vattenskador", "text": "Ett brustet rör kan fylla ett bjälklag på en timme. Vi stänger, suger upp vattnet, river det som inte går att rädda och ställer in avfuktare samma natt.", "text2": "Läckagesökning görs med termokamera, spårgas och fuktmätare, så att vi bara river där det behövs.", "tagg": "vvs"},
+    {"titel": "Brand och sot", "text": "Efter en brand sprider sig sot och syror till ytor som inte ens var nära lågorna. Vi rengör, river brandskadade material och sanerar ventilationen innan lukten satt sig.", "text2": "Inventarier som går att rädda packas, rengörs i vår lokal i Malmö och lämnas tillbaka.", "tagg": "brand"},
+    {"titel": "Fukt och mögel", "text": "Mögel på vinden eller i krypgrunden saneras med torrisblästring och antimikrobiell behandling. Därefter sätter vi in avfuktare och följer upp med mätningar.", "text2": "Vi lämnar ett protokoll som kan användas vid försäljning eller i dialog med försäkringsbolaget.", "tagg": "hem"},
+    {"titel": "Akut rivning och säkring", "text": "Ett nedfallet innertak eller en sviktande mellanvägg måste bort direkt. Jourlaget river, säkrar och täcker in så att lokalen går att använda igen.", "text2": "Butiker och restauranger kan ofta öppna nästa morgon.", "tagg": "rivning"}
+  ],
+  "bolag": [
+    {"namn": "Jourcentralen", "segment": "Dygnet runt, 8 jourledare", "rubrik": "Svar inom tre signaler", "text": "Tar emot larm, skickar närmaste bil och rapporterar till försäkringsbolaget innan bilen är framme.", "tagg": "kontor"},
+    {"namn": "Vatten & Torkning", "segment": "26 tekniker", "rubrik": "Fukten ut ur huset", "text": "Läckagesökning, akut rivning och torkning med 640 avfuktare i lager.", "tagg": "vvs"},
+    {"namn": "Brand & Lukt", "segment": "14 sanerare", "rubrik": "Sot, rök och lukt", "text": "Brandsanering, inventarierengöring och luktsanering för hem, butiker och industri.", "tagg": "brand"},
+    {"namn": "Återställning", "segment": "12 hantverkare", "rubrik": "Tillbaka till som innan", "text": "Snickare och golvläggare som bygger upp det vi rivit, i samma ärende och med samma kontaktperson.", "tagg": "interior"}
+  ],
+  "berattelser": [
+    {"rubrik": "Skyfallet i Lund", "text": "Under ett dygn i augusti tog vi emot 218 larm – sista källaren var tömd efter 36 timmar.", "tagg": "vvs"},
+    {"rubrik": "Restaurangen öppnade på lördagen", "text": "Ett köksbrand på Möllan på torsdagskvällen, sanerat och luktfritt lagom till helgen.", "tagg": "brand"},
+    {"rubrik": "Ny jourbas i Kristianstad", "text": "Sex bilar och fyra tekniker korta ner körtiden i nordöstra Skåne till under en timme.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "2 h", "enhet": "", "etikett": "Längsta tid till plats i Skåne"},
+    {"varde": "4 200", "enhet": "", "etikett": "Skador per år"},
+    {"varde": "31", "enhet": "bilar", "etikett": "I jour dygnet runt"},
+    {"varde": "640", "enhet": "", "etikett": "Avfuktare i lager"}
+  ],
+  "projekt": [
+    {"namn": "Skyfallet i Lund", "ort": "Lund", "typ": "Vattenskador, 218 larm", "ar": "2026", "text": "Källare, hissgropar och undercentraler tömdes och torkades under ett dygn.", "tagg": "vvs"},
+    {"namn": "Restaurang på Möllevången", "ort": "Malmö", "typ": "Brandsanering", "ar": "2025", "text": "Köksbrand sanerad på 40 timmar – kökskanaler, tak och matsal rengjorda.", "tagg": "brand"},
+    {"namn": "Brf Slottsstaden 7", "ort": "Malmö", "typ": "Vattenskada i bjälklag", "ar": "2025", "text": "Ett stambrott på femte våningen drabbade fyra lägenheter – inga boende behövde flytta.", "tagg": "bostad"},
+    {"namn": "Lagerhall i Hyllie", "ort": "Malmö", "typ": "Akut rivning och säkring", "ar": "2025", "text": "Ett snötyngt undertak rasade och revs samma natt så att lagret kunde öppna kl. 06.", "tagg": "rivning"},
+    {"namn": "Villa i Höganäs", "ort": "Höganäs", "typ": "Mögelsanering krypgrund", "ar": "2024", "text": "Torrisblästring och avfuktare inför försäljning, med protokoll till köparen.", "tagg": "hem"},
+    {"namn": "Kullabygdens Hyresgårdar", "ort": "Ängelholm", "typ": "Ramavtal vattenskador", "ar": "2026", "text": "Jour för 1 900 lägenheter med fast pris per ärende och månatlig rapport.", "tagg": "bostad", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Larm", "text": "Ring jouren. Vi säger vad du ska göra tills vi kommer och skickar närmaste bil.", "tagg": "kontor"},
+    {"titel": "Akut åtgärd", "text": "Vattnet stängs och sugs upp, skadat material rivs och lokalen säkras.", "tagg": "rivning"},
+    {"titel": "Torkning", "text": "Avfuktare och fläktar går tills mätningarna visar torrt – oftast två till fyra veckor.", "tagg": "vvs"},
+    {"titel": "Återställning", "text": "Våra hantverkare bygger upp golv och väggar. Försäkringsbolaget får hela dokumentationen.", "tagg": "interior"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje skada dokumenterad från första minut",
+    "text": "Tekniker fotograferar och mäter fukt i appen redan vid ankomst, och försäkringsbolaget ser samma underlag som vi. Det gör att vi river mindre, torkar rätt och att ärendet kan stängas snabbare.",
+    "mal": [["< 2 h", "till plats i hela Skåne"], ["48 h", "till skadeutredning hos försäkringsbolaget"], ["70 %", "av avfuktarna går på solel från taket i Fosie"]]
+  },
+  "karriar": {"rubrik": "Jobba när det verkligen behövs", "text": "Vi söker tekniker och jourledare som vill göra skillnad för folk som har haft en riktigt dålig dag. Jouren är schemalagd i veckor, med ersättning även när det är lugnt.", "jobb": [["Skadesaneringstekniker", "Malmö"], ["Skadesaneringstekniker", "Helsingborg"], ["Jourledare, nattskift", "Malmö"], ["Projektledare försäkringsskador", "Lund"]]},
+  "kultur": "Den som kör natten får alltid sova ut – nästa dag börjar ingen före tio.",
+  "citat": {"text": "Jag stod som brandman och såg hela hem förstöras i timmarna efter släckningen. Det var de timmarna jag ville göra något åt.", "namn": "Johan Tell", "roll": "Grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Ringde 02.40 när diskmaskinen läckt igenom till grannen. Teknikern var här 03.25 och hade redan pratat med vårt försäkringsbolag.", "namn": "Sara M.", "ort": "Malmö"},
+    {"text": "Som förvaltare vill jag ha en rapport jag kan skicka vidare utan att skriva om. Den får jag varje gång.", "namn": "Henrik O.", "ort": "Ängelholm"},
+    {"text": "Brand i köket på torsdagen, gäster i matsalen på lördagen. Ingen röklukt alls.", "namn": "Ali K.", "ort": "Malmö"}
+  ],
+  "faq": [
+    ["Vad ska jag göra innan ni kommer?", "Stäng vattnet vid huvudkranen om du kan, bryt strömmen till drabbade rum och flytta det som går att flytta. Jourledaren guidar dig i telefonen."],
+    ["Betalar försäkringen?", "Vatten- och brandskador täcks oftast av hemförsäkringen eller fastighetsförsäkringen, med självrisk. Vi kontaktar ditt bolag och skickar underlaget direkt."],
+    ["Måste ni riva golvet?", "Bara om mätningarna visar att det inte går att torka på plats. Vi börjar alltid med att försöka torka utan rivning."],
+    ["Hur länge pågår torkningen?", "Oftast två till fyra veckor. Betongbjälklag kan ta längre tid. Vi mäter varje vecka och plockar bort avfuktarna när det är torrt."],
+    ["Kostar det något att ringa jouren?", "Rådgivning i telefon är gratis. Utryckning debiteras enligt ditt försäkringsbolags avtal eller enligt vår prislista för privatpersoner."],
+    ["Kan ni hantera asbest i gamla golv?", "Ja. Vi har tillstånd från Arbetsmiljöverket och tar prov på mattor och mattlim innan vi river i hus byggda före 1982."],
+    ["Arbetar ni även med butiker och restauranger?", "Ja, ungefär en tredjedel av våra uppdrag är lokaler. Vi planerar så att verksamheten kan öppna så snart som möjligt."]
+  ],
+  "certifikat": [
+    {"titel": "Diplomerade fuktsakkunniga", "text": "Fyra projektledare är diplomerade fuktsakkunniga enligt RISE.", "ikon": "vatten"},
+    {"titel": "Asbesttillstånd", "text": "Arbetsmiljöverkets tillstånd för rivning av asbesthaltigt material.", "ikon": "skold"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2017.", "ikon": "dokument"},
+    {"titel": "Heta arbeten", "text": "Alla tekniker har certifikat för heta arbeten från Brandskyddsföreningen.", "ikon": "eld"}
+  ],
+  "kunder": ["Sundets Försäkring", "Kullabygdens Hyresgårdar", "Brf Slottsstaden 7", "Fastighets AB Möllevången", "Hyllie Kontorsfastigheter", "Trelleborgs Hamnfastigheter", "Hotell Kanalen", "Lunds Studentgårdar"],
+  "kunder_rubrik": "Ramavtal och återkommande uppdragsgivare",
+  "nyheter": [
+    ["2026-09-01", "218 larm på ett dygn", "Så hanterade vi skyfallet i Lund – och vad du kan göra för att skydda källaren.", "vvs"],
+    ["2026-03-17", "Jourbas i Kristianstad", "Sex nya bilar i nordöstra Skåne ger kortare körtid till Åhus, Hässleholm och Bromölla.", "people"],
+    ["2025-11-04", "Fem saker att göra vid vattenskada", "Det jourledarna säger till alla som ringer – innan bilen är framme.", "hem"],
+    ["2025-06-23", "Avfuktarna går på solel", "Solcellerna på taket i Fosie laddar nu större delen av vår avfuktarflotta.", "people"]
+  ],
+  "kontakt": {"adress": "Agnesfridsvägen 182", "postnr": "213 75", "ort": "Malmö", "telefon": "070-174 06 62", "epost": "jour@saneringsjouren.se", "orgnr": ""},
+  "oppettider": "Jour dygnet runt · Kontor mån–fre 8–17",
+  "omrade": "Hela Skåne, från Ystad till Ängelholm och Bromölla",
+  "fot_cta": "Har det hänt något? Ring jouren – vi svarar dygnet runt.",
+  "bild": {"panel": "people", "hb": "vvs"},
+  "text": {
+    "kontakt_knapp": "Ring jouren",
+    "hero_knapp": "Vad vi sanerar",
+    "vagval_etikett": "Skadetyp",
+    "ber_etikett": "Senaste dygnen",
+    "ber_rubrik": "Larm vi har ryckt ut på",
+    "proj_rubrik": "Skador vi har tagit hand om",
+    "process_etikett": "Från larm till återställt",
+    "process_rubrik": "Vad som händer efter ditt samtal",
+    "hb_etikett": "Snabbhet och spårbarhet",
+    "omdomen_rubrik": "Samtal mitt i natten",
+    "faq_rubrik": "När något har hänt",
+    "certifikat_rubrik": "Behörigheter för fukt, asbest och brand",
+    "boka_rubrik": "Inte akut? Skicka ett ärende",
+    "boka_text": "För akuta skador – ring jouren. För fuktmätning, mögel eller offert svarar vi inom fyra timmar på vardagar.",
+    "boka_knapp": "Skicka ärende",
+    "boka_falt": ["Namn", "Telefon", "Adress", "Vad har hänt?"],
+    "panel_etikett": "Jobba i jouren"
+  }
+}

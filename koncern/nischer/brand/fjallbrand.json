@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Fjällbrand Säkerhet AB",
+  "kortnamn": "Fjällbrand",
+  "slug": "fjallbrand",
+  "typ": "Brandskydd för fjällhotell och stugbyar",
+  "tagline": "Hotell, stugbyar, restauranger",
+  "slogan": "Vi gör jämtländska hotell, stugbyar och restaurangkök redo för säsongen – innan gästerna kommer.",
+  "hero_rubrik": "Klart före första liftdagen",
+  "hero_text": "Brandlarm, kökssläcksystem och brandutbildning för säsongspersonal i Åre, Vemdalen, Funäsdalen och Bydalen. Vi planerar efter er säsong, inte vår.",
+  "intro_rubrik": "Byggt för en bransch som jobbar i säsonger",
+  "om": [
+    "Fjällbrand startades 2006 av Mikael Ström, som då hade arbetat tolv vintrar som brandman i Åre. Han såg samma sak varje december: larm som inte var reviderade, nyanställda som inte visste var släckarna fanns och fritöser utan släcksystem.",
+    "I dag är vi 14 personer med kontor i Östersund och en säsongsbas i Åre by. Nästan alla våra kunder är hotell, stugbyar, restauranger och konferensanläggningar, och vi lägger all service i maj, oktober och november – när anläggningarna står tomma."
+  ],
+  "vagval_rubrik": "Vad driver ni?",
+  "tjanster": [
+    {"titel": "Hotell och konferens", "ikon": "hus", "href": "verksamhet.html", "text": "Brandlarm och utrymningslarm som går att prova en vardag i maj utan att störa gäster."},
+    {"titel": "Stugbyar", "ikon": "hem", "href": "verksamhet.html", "text": "Trådlösa brandvarnare i varje stuga, kopplade till receptionens telefon."},
+    {"titel": "Restaurangkök", "ikon": "eld", "href": "verksamhet.html", "text": "Fasta släcksystem över fritöser och stekbord, med service två gånger per år."},
+    {"titel": "Säsongsutbildning", "ikon": "skola", "href": "verksamhet.html", "text": "En och en halv timme brandskydd för nyanställda – på svenska eller engelska."},
+    {"titel": "Brandsläckare", "ikon": "kugge", "href": "verksamhet.html", "text": "Kontroll av alla släckare och brandfiltar före säsongsstart."},
+    {"titel": "SBA för anläggningar", "ikon": "dokument", "href": "verksamhet.html", "text": "Rutiner och egenkontroll anpassade till hög personalomsättning."},
+    {"titel": "Brandvakt vid event", "ikon": "folk", "href": "verksamhet.html", "text": "Utbildade brandvakter vid tävlingar, konserter och afterski."},
+    {"titel": "Boka höstservice", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Oktober fylls först – boka senast i augusti."}
+  ],
+  "affarsomraden": [
+    {"titel": "Hotell och konferens", "text": "Ett hotell med 200 bäddar har sovande gäster som inte känner byggnaden. Vi installerar adresserbara brandlarm med talat utrymningslarm och dörrstängare som släpper vid larm.", "text2": "Revisionen görs under lågsäsong, och i högsäsong har vi en tekniker i beredskap i Åre.", "tagg": "brand"},
+    {"titel": "Stugbyar och uthyrning", "text": "I en stugby med 80 timmerstugor går det inte att springa runt och lyssna efter brandvarnare. Vi kopplar ihop varnarna trådlöst så att receptionen får larmet direkt.", "text2": "Varje stuga får också brandfilt, släckare och en utrymningsskylt på fyra språk.", "tagg": "hem"},
+    {"titel": "Restaurang och afterski", "text": "De flesta bränder i fjällets restauranger börjar vid fritösen. Vi installerar och servar fasta kökssläcksystem som löser ut automatiskt och stänger av gasen.", "text2": "Vi rengör också inte imkanaler – men vi samordnar med sotaren så att allt blir klart samma vecka.", "tagg": "brand"},
+    {"titel": "Personal som byts varje år", "text": "Hälften av personalen på en fjällanläggning är ny varje säsong. Därför utbildar vi i grupper direkt vid introduktionen, med praktisk släckning på parkeringen.", "text2": "Ni får ett intyg per person till ert SBA och en film att visa dem som börjar senare.", "tagg": "people"}
+  ],
+  "bolag": [
+    {"namn": "Anläggning", "segment": "Hotell och konferens", "rubrik": "Larm som provas i maj", "text": "Fyra tekniker installerar och reviderar brandlarm och utrymningslarm på cirka 60 hotell och anläggningar.", "tagg": "brand"},
+    {"namn": "Stuga & by", "segment": "Stugbyar och uthyrning", "rubrik": "2 300 stugor i registret", "text": "Två tekniker sköter varnare, släckare och skyltar i stugbyar från Storlien till Ljusnedal.", "tagg": "hem"},
+    {"namn": "Kök", "segment": "Restaurang och afterski", "rubrik": "Släcksystem över fritösen", "text": "Två tekniker med certifiering för kökssläcksystem servar 110 restaurangkök i Jämtland och Härjedalen.", "tagg": "brand"},
+    {"namn": "Utbildning", "segment": "Säsongspersonal", "rubrik": "2 600 nyanställda per säsong", "text": "Tre instruktörer, varav två före detta brandmän, håller utbildningar på svenska och engelska.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Höstservicen är fullbokad", "text": "112 anläggningar på sex veckor – den sista revisionen görs 28 november, en dag före säsongsstart i Åre.", "tagg": "brand"},
+    {"rubrik": "Stugbyn i Vemdalsskalet blev trådlös", "text": "120 stugor fick sammankopplade brandvarnare som larmar direkt till receptionens mobil.", "tagg": "hem"},
+    {"rubrik": "Utbildning på thailändska och nepali", "text": "Allt fler kockar kommer från Asien. Nu finns vår kortutbildning med textade filmer på fyra språk.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "20", "enhet": "år", "etikett": "Bara i fjällen sedan 2006"},
+    {"varde": "2 300", "enhet": "stugor", "etikett": "Med brandvarnare från oss"},
+    {"varde": "110", "enhet": "kök", "etikett": "Med släcksystem under avtal"},
+    {"varde": "2 600", "enhet": "personer", "etikett": "Utbildade per säsong"}
+  ],
+  "projekt": [
+    {"namn": "Hotell Mullfjällsgården", "ort": "Åre", "typ": "Brandlarm och utrymning", "ar": "2025", "text": "Nytt adresserbart larm med talat utrymningslarm i 146 rum, installerat på fem veckor under maj och juni.", "tagg": "brand"},
+    {"namn": "Skalbyn", "ort": "Vemdalsskalet", "typ": "Trådlösa brandvarnare", "ar": "2025", "text": "Sammankopplade varnare i 120 timmerstugor med larm till receptionen.", "tagg": "hem"},
+    {"namn": "Bykrogen", "ort": "Funäsdalen", "typ": "Kökssläcksystem", "ar": "2025", "text": "Släcksystem över två fritöser och ett stekbord med automatisk gasavstängning.", "tagg": "brand"},
+    {"namn": "Bydalens Konferens", "ort": "Bydalen", "typ": "SBA och utbildning", "ar": "2024", "text": "Nytt systematiskt brandskyddsarbete och utbildning för 45 säsongsanställda.", "tagg": "people"},
+    {"namn": "Storliens Fjällstation", "ort": "Storlien", "typ": "Serviceavtal", "ar": "2024", "text": "Samlad service av larm, nödbelysning och 70 släckare i en byggnad från 1930-talet.", "tagg": "tra"},
+    {"namn": "Åre Vinterfestival", "ort": "Åre", "typ": "Brandvakter", "ar": "2026", "text": "Åtta brandvakter under tre kvällar med konsert i tält för 3 000 besökare.", "tagg": "people", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Säsongsplan", "text": "I mars går vi igenom era datum för stängning och öppning och lägger in servicen i luckan.", "tagg": "kontor"},
+    {"titel": "Lågsäsongsservice", "text": "Revision, släckarkontroll och köksystem görs på en eller två dagar när huset är tomt.", "tagg": "brand"},
+    {"titel": "Introduktionsdagen", "text": "Vi kommer till personalens första dag med instruktör, släckövning och intyg.", "tagg": "people"},
+    {"titel": "Beredskap i högsäsong", "text": "Från jul till påsk har vi en tekniker i Åre som kan rycka ut samma dag.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Gästerna sover – därför är vi noggranna",
+    "text": "Hotell och stugbyar har människor som sover i byggnader de inte känner. Vi följer upp varje anmärkning från revisionen tills den är åtgärdad och skickar en sammanställning till er före säsongsstart.",
+    "mal": [["100 %", "av revisionerna klara före säsongsstart"], ["Samma dag", "utryckning i Åre under högsäsong"], ["4 språk", "i utrymningsskyltar och utbildningsfilmer"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba där andra semestrar",
+    "text": "Våra tekniker har hektiska höstar och lugnare vintrar med tid för skidåkning. Vi söker dig som gillar att resa i länet och prata med hotellchefer och kockar.",
+    "jobb": [["Servicetekniker brandlarm", "Östersund"], ["Instruktör brandskydd, säsong", "Åre"]]
+  },
+  "kultur": "Under högsäsong har alla anställda en ledig förmiddag i veckan – många använder den i backen.",
+  "citat": {"text": "Jag har burit ut folk ur ett hotell i Åre klockan tre på natten. Det är därför vi aldrig hoppar över en revision för att kalendern är full.", "namn": "Mikael Ström", "roll": "Grundare", "tagg": "brand"},
+  "omdomen": [
+    {"text": "Fjällbrand frågade vilka veckor vi stänger och lade all service där. Inga tekniker i korridorerna när gästerna är här.", "namn": "Johanna S.", "ort": "Åre"},
+    {"text": "Vi anställer 40 personer i december. Instruktören kom första dagen, och alla fick släcka en riktig brand på parkeringen.", "namn": "Daniel K.", "ort": "Funäsdalen"},
+    {"text": "Sedan stugorna fick sammankopplade varnare har vi slutat oroa oss för de som ligger längst bort i byn.", "namn": "Ewa N.", "ort": "Vemdalsskalet"}
+  ],
+  "faq": [
+    ["Kan ni göra revisionen när vi har stängt?", "Ja, det är så vi föredrar att jobba. De flesta kunder har service i maj eller mellan mitten av oktober och slutet av november."],
+    ["Behöver en stugby ha brandlarm?", "Det beror på storlek och hur stugorna hyrs ut. Brandvarnare krävs alltid, och vid uthyrning till många gäster rekommenderar vi sammankopplade varnare med larm till receptionen."],
+    ["Måste restaurangen ha kökssläcksystem?", "Det finns inget generellt lagkrav, men många försäkringsbolag kräver det över fritöser. Ett släcksystem kostar ofta mindre än självrisken vid en köksbrand."],
+    ["Hur lång är utbildningen för säsongspersonal?", "Kortversionen tar 90 minuter med teori och praktisk släckning. Grundläggande brandskydd för chefer och ansvariga tar tre timmar."],
+    ["Har ni utbildning på engelska?", "Ja, alla utbildningar finns på engelska, och filmerna finns textade på svenska, engelska, thailändska och nepali."],
+    ["Hur långt kör ni?", "Hela Jämtland och Härjedalen samt Klövsjö. Ånge och Sveg tar vi vid samordnade turer."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierad anläggarfirma", "text": "SBSC-certifierade för projektering, installation och service av brandlarm enligt SBF 110.", "ikon": "skold"},
+    {"titel": "Kökssläcksystem", "text": "Tillverkarcertifierade för installation och service av de två vanligaste kökssläcksystemen.", "ikon": "eld"},
+    {"titel": "Auktoriserad elinstallatör", "text": "Auktorisation hos Elsäkerhetsverket, så att vi kan dra matning till larm och varnare själva.", "ikon": "blixt"},
+    {"titel": "Utbildning enligt SBF", "text": "Grundläggande brandskydd och Heta arbeten med instruktörer godkända av Brandskyddsföreningen.", "ikon": "skola"}
+  ],
+  "kunder": ["Hotell Mullfjällsgården", "Skalbyn Stuguthyrning", "Bykrogen Funäsdalen", "Bydalens Konferens", "Storliens Fjällstation", "Vemdalens Fjällhotell", "Åreskutans Stugby"],
+  "prislista": [["Kortutbildning säsongspersonal, per person", "650 kr"], ["Grundläggande brandskydd, per person", "1 150 kr"], ["Service kökssläcksystem, per system", "fr. 2 400 kr"], ["Kontroll brandsläckare, per st", "145 kr"], ["Trådlös brandvarnare monterad, per stuga", "fr. 1 290 kr"], ["Brandvakt, per timme", "520 kr"]],
+  "nyheter": [
+    ["2026-10-13", "Sista luckan för höstservice", "Två dagar kvar i november för anläggningar som öppnar till jul.", "brand"],
+    ["2026-08-25", "Utbildningsfilmer på fyra språk", "Nu kan nyanställda se grunderna innan de kommer till fjällen.", "people"],
+    ["2026-04-14", "Säsongen 2025/26 i siffror", "Tre utryckningar, noll bränder med personskador och 2 600 utbildade.", "brand"]
+  ],
+  "kontakt": {"adress": "Chaufförvägen 9", "postnr": "831 48", "ort": "Östersund", "telefon": "070-174 06 47", "epost": "hej@fjallbrand.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7.30–16. Högsäsong: beredskap i Åre alla dagar",
+  "omrade": "Jämtland och Härjedalen – Åre, Vemdalen, Funäsdalen, Bydalen och Storlien",
+  "fot_cta": "Öppnar ni till jul? Boka höstservicen innan oktober är full.",
+  "bild": {"panel": "people", "hb": "hem"},
+  "text": {
+    "ber_rubrik": "Senast från fjällen",
+    "proj_rubrik": "Anläggningar som är redo för gäster",
+    "process_rubrik": "Ett år i fyra steg",
+    "hb_etikett": "Gästernas säkerhet",
+    "omdomen_rubrik": "Hotellchefer och krögare om oss",
+    "faq_rubrik": "Frågor från besöksnäringen",
+    "boka_rubrik": "När stänger ni för säsongen?",
+    "boka_text": "Skriv era stängningsveckor så föreslår vi datum för revision och utbildning.",
+    "logos_rubrik": "Anläggningar vi sköter",
+    "certifikat_rubrik": "Behörigheter för kök, larm och el",
+    "bolag_rubrik": "Fyra team för fyra sorters gäster"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Storsjöluft AB",
+  "kortnamn": "Storsjöluft",
+  "slug": "storsjoluft",
+  "typ": "Ventilation för fjäll, by och gård i Jämtland",
+  "tagline": "Hela Jämtland, varje vecka",
+  "slogan": "Storsjöluft servar ventilation i fjällhotell, byskolor och ladugårdar i hela Jämtland och Härjedalen – och planerar körningarna så att ingen betalar för tomma mil.",
+  "hero_rubrik": "Från Storlien till Strömsund samma vecka",
+  "hero_text": "Fjorton tekniker, fem fullutrustade servicebilar och fasta turer genom länet. Vi installerar, besiktar och servar ventilation där avstånden är långa.",
+  "intro_rubrik": "Länets ventilation, mil för mil",
+  "om": [
+    "Ingrid Persson startade Storsjöluft 1994 med en servicebil och kunder i Östersund och Frösön. När fjällturismen i Åre växte på 2000-talet följde vi med upp i fjällen, och i dag är hotell, lägenhetsanläggningar och liftstugor en tredjedel av vår verksamhet.",
+    "Resten är det som håller länet igång: byskolor i Hammerdal och Föllinge, äldreboenden i Svenstavik och mjölkgårdar runt Storsjön som behöver bra stallklimat året om. Vi kör runt 11 000 mil om året, och därför planerar vi turer – är vi ändå i Strömsund på tisdag kan grannarna dela på framkörningen."
+  ],
+  "vagval_rubrik": "Var ligger fastigheten?",
+  "tjanster": [
+    {"titel": "Fjällanläggningar", "ikon": "sten", "href": "verksamhet.html", "text": "Service och OVK i hotell och lägenheter före vintersäsongen."},
+    {"titel": "Stallventilation", "ikon": "lada", "href": "verksamhet.html", "text": "Fläktar, styrning och luftintag i ladugårdar och lösdriftsstallar."},
+    {"titel": "OVK-besiktning", "ikon": "dokument", "href": "verksamhet.html", "text": "Certifierade funktionskontrollanter med turer i hela länet."},
+    {"titel": "Skolor och boenden", "ikon": "skola", "href": "verksamhet.html", "text": "Treårsbesiktningar och service på kommunala fastigheter."},
+    {"titel": "Villa-FTX", "ikon": "hem", "href": "verksamhet.html", "text": "Installation av FTX i villor och fritidshus, anpassad för minus 35."},
+    {"titel": "Filterturer", "ikon": "bil", "href": "verksamhet.html", "text": "Filterbyte på fasta turer – dela framkörningen med grannarna."},
+    {"titel": "Frostskydd", "ikon": "sol", "href": "verksamhet.html", "text": "Förvärmning och avfrostning så att värmeväxlaren inte fryser."},
+    {"titel": "Turlistan", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Se när vi är i din del av länet nästa gång."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fjäll och turism", "text": "Hotell, lägenhetsanläggningar och restauranger i Åre, Duved, Storlien och Vemdalen ska fungera från första snön till påsk. Vi gör service, filterbyten och OVK under höstrundan i september och oktober.", "text2": "Under säsongen har vi en tekniker stationerad i Åre från december till april.", "tagg": "ventilation"},
+    {"titel": "Lantbruk", "text": "Ett mjölkstall med 200 kor behöver rätt luftväxling för både djurhälsa och mjölkmängd. Vi installerar och servar stallfläktar, styrsystem och luftintag, och mäter ammoniak och fukt.", "text2": "Vi hjälper också till med ventilationsdelen när ett nytt stall ska förprövas hos länsstyrelsen.", "tagg": "natur"},
+    {"titel": "Offentliga fastigheter", "text": "Skolor, förskolor, äldreboenden och sporthallar i länets kommuner besiktas vart tredje år. Vi samordnar besiktningarna by för by så att framkörningen delas.", "text2": "Kommunerna får en samlad plan för tre år framåt.", "tagg": "interior"},
+    {"titel": "Villor och fritidshus", "text": "Fritidshus som står kalla halva året och villor där det är minus 35 i januari ställer särskilda krav. Vi installerar FTX-aggregat med förvärmning och avfrostningsstyrning.", "text2": "Filterbyte kan läggas på våra fasta turer för fast pris.", "tagg": "hem"}
+  ],
+  "bolag": [
+    {"namn": "Östersund", "segment": "Kontor och lager, 8 tekniker", "rubrik": "Basen vid Storsjön", "text": "Kontor, lager och verkstad på Lugnvik. Härifrån går turerna mot Strömsund, Krokom och Svenstavik.", "tagg": "kontor"},
+    {"namn": "Åre", "segment": "Säsongsbas, 3 tekniker", "rubrik": "Fjällen december–april", "text": "En stationerad tekniker under vintern och tre under höstrundan.", "tagg": "ventilation"},
+    {"namn": "Lantbruk", "segment": "2 tekniker", "rubrik": "Stallklimat", "text": "Stallventilation, mätningar och styrsystem på gårdar i hela Jämtland.", "tagg": "natur"},
+    {"namn": "Besiktning", "segment": "2 funktionskontrollanter", "rubrik": "OVK i länet", "text": "Besiktningar i skolor, boenden, hyreshus och fjällanläggningar.", "tagg": "interior"}
+  ],
+  "berattelser": [
+    {"rubrik": "Höstrundan klar på 38 dagar", "text": "64 fjällanläggningar servade och besiktade innan första snön föll i Duved.", "tagg": "ventilation"},
+    {"rubrik": "Nytt lösdriftsstall i Rödön", "text": "Takfläktar och gardinväggar för 240 kor, styrt efter temperatur och vind.", "tagg": "natur"},
+    {"rubrik": "Ny servicebil till Härjedalen", "text": "Den femte bilen gör att vi kan köra fasta turer till Vemdalen och Sveg varannan vecka.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "11 000", "enhet": "mil/år", "etikett": "Körda för kunderna"},
+    {"varde": "64", "enhet": "", "etikett": "Fjällanläggningar på avtal"},
+    {"varde": "32", "enhet": "år", "etikett": "I Jämtland sedan 1994"},
+    {"varde": "−35", "enhet": "°C", "etikett": "Det klarar våra FTX-lösningar"}
+  ],
+  "projekt": [
+    {"namn": "Fjällhotell i Duved", "ort": "Duved", "typ": "Aggregatbyte", "ar": "2025", "text": "Två aggregat med roterande växlare bytta under sex veckor i maj och juni, mellan säsongerna.", "tagg": "ventilation"},
+    {"namn": "Gården i Rödön", "ort": "Rödön, Krokom", "typ": "Stallventilation", "ar": "2026", "text": "Nytt lösdriftsstall för 240 kor med naturlig ventilation och takfläktar.", "tagg": "natur", "status": "Pågående"},
+    {"namn": "Hammerdals skola", "ort": "Hammerdal", "typ": "OVK", "ar": "2025", "text": "Treårsbesiktning samordnad med förskolan och äldreboendet i samma by.", "tagg": "interior"},
+    {"namn": "Lägenheter vid Tegefjäll", "ort": "Åre", "typ": "Serviceavtal", "ar": "2025", "text": "86 lägenhetsaggregat på avtal med filterbyte varje höst.", "tagg": "bostad"},
+    {"namn": "Äldreboendet i Svenstavik", "ort": "Svenstavik", "typ": "Injustering", "ar": "2024", "text": "Drag i korridorerna åtgärdat med ny injustering och nya tilluftsdon.", "tagg": "interior"},
+    {"namn": "Fritidshus vid Kallsjön", "ort": "Kall", "typ": "Villa-FTX", "ar": "2024", "text": "FTX med förvärmning i ett timmerhus som står kallt åtta månader om året.", "tagg": "hem"}
+  ],
+  "process": [
+    {"titel": "Samtal", "text": "Du ringer eller mejlar, och vi berättar när vi är i din del av länet nästa gång.", "tagg": "people"},
+    {"titel": "Tur eller eget besök", "text": "Rutinjobb läggs på en fast tur. Akuta fel får ett eget besök så snart det går.", "tagg": "ventilation"},
+    {"titel": "Arbete på plats", "text": "Bilarna har filter, remmar, motorer och mätinstrument, så att vi slipper åka tillbaka.", "tagg": "interior"},
+    {"titel": "Rapport och nästa tur", "text": "Du får en rapport och ett förslag på datum för nästa besök.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Färre mil, mer service",
+    "text": "Långa avstånd är vår största miljöpåverkan. Med fasta turer har vi minskat körsträckan per servicebesök med 40 procent sedan 2019, och alla bilar tankas med HVO100 från macken på Lugnvik.",
+    "mal": [["–40 %", "mil per servicebesök sedan 2019"], ["100 %", "HVO100 i alla servicebilar"], ["9 av 10", "jobb klara vid första besöket"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba i Jämtland – på riktigt",
+    "text": "Du får se hela länet, från fjällhotell till mjölkgårdar. Vi har fyradagarsvecka under höstrundan och ledigt två veckor i mars, när fjället är som bäst.",
+    "jobb": [["Servicetekniker ventilation", "Östersund"], ["Säsongstekniker", "Åre"]]
+  },
+  "kultur": "Under höstrundan bor fjällteamet tillsammans i Åre, och den som lagar middag slipper diska.",
+  "citat": {"text": "I Stockholm är tio mil en lång resa. Här är det ett vanligt tisdagsjobb. Det enda vi kan göra är att planera bättre än alla andra.", "namn": "Ingrid Persson", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Höstrundan gör att vi alltid har fungerande ventilation när de första gästerna kommer. Vi har inte haft ett enda haveri under säsong på fem år.", "namn": "Lars-Erik W.", "ort": "Hotell i Duved"},
+    {"text": "De kunde stallventilation på riktigt. Korna mår bättre och vi har mindre problem med fukt i taket.", "namn": "Maria och Jonas S.", "ort": "Rödön"},
+    {"text": "Vi bor sju mil från Östersund men betalar nästan ingen framkörning, eftersom de ändå kör förbi på tisdagarna.", "namn": "Gunnel H.", "ort": "Hammerdal"}
+  ],
+  "faq": [
+    ["Hur fungerar turerna?", "Vi kör fasta turer till olika delar av länet varje vecka. Bokar du på en tur delar du framkörningen med andra kunder i området."],
+    ["Vad kostar framkörning?", "Inom Östersund och Frösön ingår den. På en fast tur betalar du 350 kr, och vid eget besök utanför tur 18 kr per kilometer."],
+    ["När ska fjällanläggningar servas?", "Helst i september eller oktober, före säsong. Vi bokar höstrundan redan i juni."],
+    ["Fryser inte värmeväxlaren i kylan?", "Det kan den göra om aggregatet inte är byggt för det. Vi installerar förvärmning och avfrostningsstyrning som klarar minus 35."],
+    ["Arbetar ni med lantbruk?", "Ja, två av våra tekniker arbetar bara med stallventilation, mätningar och styrsystem."],
+    ["Har ni jour?", "Avtalskunder i Åre har jour under vintersäsongen. Övriga avtalskunder når oss vardagar 7–18 och helger via jourtelefon."],
+    ["Gör ni OVK i Härjedalen?", "Ja, varannan vecka kör vi tur till Vemdalen, Sveg och Funäsdalen."]
+  ],
+  "certifikat": [
+    {"titel": "Funktionskontrollanter", "text": "Två certifierade funktionskontrollanter, varav en med behörighet K.", "ikon": "dokument"},
+    {"titel": "Medlem i Svensk Ventilation", "text": "Vi följer branschens riktlinjer för installation och rengöring.", "ikon": "vind"},
+    {"titel": "F-gascertifikat", "text": "Tre tekniker certifierade för värmepumpar och kylaggregat.", "ikon": "laddning"},
+    {"titel": "Kollektivavtal", "text": "Kollektivavtal via Plåt & Ventföretagen för alla tekniker.", "ikon": "folk"}
+  ],
+  "kunder": ["Fjällhotellet Tegeån", "Tegefjäll Lägenheter", "Rödö Mjölk HB", "Hammerdals byskola", "Svenstaviks äldreboende", "Vemdalens Stugby", "Bostads AB Storsjöstrand", "Frösö Hyreshus"],
+  "nyheter": [
+    ["2026-10-27", "Höstrundan avslutad", "64 anläggningar klara – vintersäsongen kan börja.", "ventilation"],
+    ["2026-06-04", "Boka höstrundan nu", "Vi börjar i Storlien 1 september och slutar i Vemdalen i mitten av oktober.", "natur"],
+    ["2026-02-18", "Så klarar FTX minus 35", "Förvärmning, avfrostning och rätt filter – tre saker som avgör vintern.", "hem"]
+  ],
+  "kontakt": {"adress": "Chaufförsvägen 8", "postnr": "831 48", "ort": "Östersund", "telefon": "070-174 06 52", "epost": "service@storsjoluft.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, jour för avtalskunder",
+  "omrade": "Jämtland och Härjedalen",
+  "fot_cta": "Vill du veta när vi kör förbi nästa gång? Ring så tittar vi i turlistan.",
+  "bild": {"panel": "natur", "hb": "ventilation"},
+  "text": {
+    "ber_etikett": "Från vägarna",
+    "ber_rubrik": "Nytt från länet",
+    "proj_rubrik": "Fjäll, by och gård",
+    "proj_rubrik_lista": "Uppdrag i Jämtland och Härjedalen",
+    "process_rubrik": "Så får du service fast du bor långt bort",
+    "hb_etikett": "Miljö och mil",
+    "omdomen_rubrik": "Röster från Jämtland",
+    "faq_rubrik": "Om turer, kyla och avstånd",
+    "boka_rubrik": "Lägg dig på nästa tur",
+    "boka_text": "Skriv var fastigheten ligger så föreslår vi ett datum när vi ändå är i närheten.",
+    "boka_falt": ["Namn", "Telefon", "Ort eller by", "Vad gäller det?"],
+    "logos_rubrik": "Från fjällhotell till mjölkgård",
+    "certifikat_rubrik": "Behörigheter",
+    "bolag_rubrik": "Fyra lag i ett stort län",
+    "siffror_etikett": "Storsjöluft i siffror",
+    "medarbetare": "Teknikerna"
+  }
+}

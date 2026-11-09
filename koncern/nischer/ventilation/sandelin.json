@@ -1,0 +1,127 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Bröderna Sandelin Ventilation AB",
+  "kortnamn": "Sandelin",
+  "slug": "sandelin",
+  "typ": "Ventilationsentreprenör i Gävle sedan 1958",
+  "tagline": "Tredje generationen sedan 1958",
+  "slogan": "Vi har bockat plåt, dragit kanaler och justerat flöden i Gävleborg i tre generationer – och har kvar ritningarna till de flesta hus vi har rört.",
+  "hero_rubrik": "Kanalerna i Gävle har vi böjt själva",
+  "hero_text": "Egen plåtverkstad på Brynäs, egna montörer och egna funktionskontrollanter. Vi installerar, besiktar och servar ventilation i hela Gävleborg.",
+  "intro_rubrik": "Tre generationer, en verkstad",
+  "om": [
+    "Bröderna Erik och Sven Sandelin öppnade ett plåtslageri på Södra Skeppsbron 1958 och tillverkade sina första ventilationskanaler till nybyggena i Sätra. Lars Sandelin tog över 1986 och byggde upp avdelningen för OVK, och sedan 2015 leds företaget av hans dotter Karin.",
+    "I dag är vi 34 anställda med verkstad och kontor på Industrigatan i Brynäs. Där tillverkar vi spirokanaler, rektangulära kanaler och huvar på mått – och i källaren står ett ritningsarkiv med över 4 000 anläggningar som vi har installerat eller besiktat sedan 1960-talet."
+  ],
+  "vagval_rubrik": "Vad behöver ditt hus?",
+  "tjanster": [
+    {"titel": "Ventilationsinstallation", "ikon": "vind", "href": "verksamhet.html", "text": "Kompletta system i flerbostadshus, skolor och kontor – från projektering till injusterat flöde."},
+    {"titel": "OVK-besiktning", "ikon": "dokument", "href": "verksamhet.html", "text": "Egna certifierade funktionskontrollanter med behörighet K, även för komplicerade anläggningar."},
+    {"titel": "Injustering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Flödesmätning don för don och protokoll som går att läsa även om tio år."},
+    {"titel": "Plåtverkstaden", "ikon": "hamare", "href": "verksamhet.html", "text": "Spiro, rektangulära kanaler, huvar och specialdelar tillverkade på mått i Brynäs."},
+    {"titel": "FTX i flerbostadshus", "ikon": "hus", "href": "verksamhet.html", "text": "Vi byter självdrag och F-system mot FTX med lägenhetsvisa eller centrala aggregat."},
+    {"titel": "Service & filterbyte", "ikon": "kalender", "href": "verksamhet.html", "text": "Serviceavtal med fasta besök vår och höst och filter som alltid finns i lager."},
+    {"titel": "Ritningsarkivet", "ikon": "ritning", "href": "om-oss.html", "text": "Har vi varit i ditt hus förut kan vi ofta ta fram den gamla ritningen samma dag."},
+    {"titel": "Begär offert", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Beskriv huset så kommer en av våra projektledare ut och tittar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Entreprenad", "text": "Vi tar hela ventilationsentreprenaden i om- och nybyggnad, som underentreprenör eller direkt åt beställaren. Egna montörer, egen plåt och egen injustering gör att vi sällan väntar på någon annan.", "text2": "Typiska uppdrag är stambyten i 1950-talshus, nya skolor och kontorsombyggnader på 2 000–15 000 kvadratmeter.", "tagg": "ventilation"},
+    {"titel": "OVK och injustering", "text": "Våra fyra funktionskontrollanter besiktar runt 900 lägenheter och 60 lokaler varje år. Vi skriver protokoll som pekar ut exakt vilket don och vilket rum som behöver åtgärdas.", "text2": "Brister åtgärdas av våra montörer och ombesiktas utan extra framkörningsavgift.", "tagg": "interior"},
+    {"titel": "Plåtverkstaden", "text": "I verkstaden står en spiromaskin, en kantvikmaskin på tre meter och en CNC-klippmaskin. Vi tillverkar till egna jobb men också åt andra entreprenörer i Gävleborg.", "text2": "Specialdelar som böjar och övergångar levereras normalt inom fem arbetsdagar.", "tagg": "industri"},
+    {"titel": "Service", "text": "Serviceavdelningen sköter drygt 300 aggregat åt bostadsrättsföreningar och fastighetsägare. Vi byter filter, kontrollerar remmar och lager och läser av driften i samma besök.", "text2": "Efter varje besök får styrelsen en kort rapport med foton och förslag på åtgärder.", "tagg": "ventilation"}
+  ],
+  "bolag": [
+    {"namn": "Entreprenad", "segment": "14 montörer och 2 projektledare", "rubrik": "Från ritning till drift", "text": "Installerar ventilation i om- och nybyggnad i hela Gävleborg och norra Uppland.", "tagg": "bygg"},
+    {"namn": "Besiktning", "segment": "4 funktionskontrollanter", "rubrik": "OVK med behörighet K", "text": "Utför OVK, injustering och energiberäkningar inför åtgärder i bostäder och lokaler.", "tagg": "ventilation"},
+    {"namn": "Verkstaden", "segment": "6 plåtslagare", "rubrik": "Kanaler på mått", "text": "Tillverkar spiro, rektangulära kanaler och huvar till egna och andras projekt.", "tagg": "industri"},
+    {"namn": "Service", "segment": "5 servicetekniker", "rubrik": "Vår och höst, varje år", "text": "Sköter filterbyten, aggregatservice och felavhjälpning på serviceavtal.", "tagg": "interior"}
+  ],
+  "berattelser": [
+    {"rubrik": "Sätras första hus får FTX", "text": "Kvarteret som farfar Erik gjorde kanalerna till 1961 får nu nya aggregat – med hans originalritningar som underlag.", "tagg": "bostad"},
+    {"rubrik": "Ny kantvik i verkstaden", "text": "En tremetersmaskin halverar tiden för rektangulära kanaler och tar bort ett tungt lyft för plåtslagarna.", "tagg": "industri"},
+    {"rubrik": "Skolan i Hemlingby klar", "text": "Fyra aggregat, 380 don och injustering klar två veckor före skolstart.", "tagg": "ventilation"}
+  ],
+  "nyckeltal": [
+    {"varde": "68", "enhet": "år", "etikett": "I familjens ägo"},
+    {"varde": "4 000+", "enhet": "", "etikett": "Anläggningar i ritningsarkivet"},
+    {"varde": "34", "enhet": "anställda", "etikett": "Alla med kollektivavtal"},
+    {"varde": "11", "enhet": "km", "etikett": "Spirokanal från verkstaden per år"}
+  ],
+  "projekt": [
+    {"namn": "Brf Tallbacken", "ort": "Sätra, Gävle", "typ": "Byte till FTX", "ar": "2026", "text": "Självdrag ersätts med FTX i tre trevåningshus från 1961, 54 lägenheter.", "tagg": "bostad", "status": "Pågående"},
+    {"namn": "Hemlingbyskolan", "ort": "Gävle", "typ": "Ny skola", "ar": "2025", "text": "Fyra aggregat med roterande värmeväxlare och 380 tilluftsdon injusterade.", "tagg": "ventilation"},
+    {"namn": "Kv. Valfisken", "ort": "Söder, Gävle", "typ": "Kontorsombyggnad", "ar": "2025", "text": "Nya kanaler ovan undertak i en kontorsfastighet på 6 200 kvadratmeter.", "tagg": "kontor"},
+    {"namn": "Strömsbro Bruksgård", "ort": "Strömsbro", "typ": "OVK och injustering", "ar": "2025", "text": "OVK i 120 lägenheter, där vi hittade och åtgärdade 38 igensatta frånluftsdon.", "tagg": "interior"},
+    {"namn": "Sandvikens simhall", "ort": "Sandviken", "typ": "Aggregatbyte", "ar": "2024", "text": "Avfuktande aggregat bytt under sex sommarveckor, med kanaler i syrafast plåt från verkstaden.", "tagg": "industri"},
+    {"namn": "Brf Villastaden 4", "ort": "Gävle", "typ": "Service", "ar": "2024", "text": "Serviceavtal sedan 1994 – samma aggregat, nya fläktar och tre generationer Sandelin.", "tagg": "ventilation"}
+  ],
+  "process": [
+    {"titel": "Platsbesök", "text": "En projektledare går igenom huset, letar i arkivet efter gamla ritningar och mäter upp schakten.", "tagg": "bygg"},
+    {"titel": "Projektering", "text": "Vi dimensionerar kanaler och aggregat, gör en energiberäkning och lämnar fast pris.", "tagg": "kontor"},
+    {"titel": "Tillverkning och montage", "text": "Kanalerna tillverkas i Brynäs veckan före montage, så att de boende störs så kort tid som möjligt.", "tagg": "ventilation"},
+    {"titel": "Injustering och OVK", "text": "Vi justerar varje don, besiktar och lämnar protokoll och driftinstruktion till fastighetsägaren.", "tagg": "interior"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Kanaler som håller i femtio år",
+    "text": "Vi bygger för att det ska gå att serva: revisionsluckor vid varje böj, märkta kanaler och aggregat som går att ta sig fram till. Plåtspillet från verkstaden går till återvinning i Skutskär, och vi kör sedan 2024 servicebilarna på HVO100.",
+    "mal": [["98 %", "av plåtspillet återvinns"], ["100 %", "HVO100 i servicebilarna"], ["50 år", "dokumenterad livslängd på våra kanaler"]]
+  },
+  "karriar": {
+    "rubrik": "Lär dig yrket av någon som kan det",
+    "text": "Hos oss går nya montörer bredvid en erfaren kollega det första året. Flera av våra plåtslagare har varit här i över 25 år – och de lär gärna ut.",
+    "jobb": [["Ventilationsmontör", "Gävle"], ["Plåtslagare till verkstaden", "Gävle"], ["Servicetekniker ventilation", "Gävle"]]
+  },
+  "kultur": "Fredagsfika i verkstaden klockan tre, oavsett hur mycket som är kvar på listan.",
+  "citat": {"text": "Farfar sa att en kanal ska man kunna öppna och titta in i om trettio år. Det är fortfarande så vi ritar – och det är därför vi sparar varenda ritning.", "namn": "Karin Sandelin", "roll": "Vd, tredje generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "De hittade ritningen från 1964 i sitt eget arkiv och visste var schakten gick innan de ens kommit hit. Det sparade oss minst en vecka.", "namn": "Göran H.", "ort": "Brf Tallbacken, Sätra"},
+    {"text": "Protokollet från OVK:n pekade ut exakt vilka lägenheter som hade problem. Åtgärderna var klara inom tre veckor.", "namn": "Annika S.", "ort": "Strömsbro"},
+    {"text": "Vi har haft serviceavtal i trettio år. Teknikern vet mer om vårt aggregat än vi gör.", "namn": "Bertil Ö.", "ort": "Villastaden, Gävle"}
+  ],
+  "faq": [
+    ["Hur ofta måste vi göra OVK?", "Flerbostadshus med FT- eller FTX-system ska besiktas vart tredje år, hus med självdrag eller F-system vart sjätte. Vi påminner er i god tid om ni har avtal med oss."],
+    ["Har ni ritningar på vårt hus?", "Om huset ligger i Gävleborg och byggdes efter 1958 är chansen stor. Skicka adressen så söker vi i arkivet, det kostar ingenting."],
+    ["Vad händer om OVK:n inte blir godkänd?", "Protokollet anger vilka brister som måste åtgärdas och när. Våra montörer kan oftast göra jobbet inom några veckor, och ombesiktningen ingår."],
+    ["Kan vi bo kvar under ett byte till FTX?", "Ja. Vi arbetar en trappuppgång i taget och är normalt inne i varje lägenhet två till tre dagar."],
+    ["Tillverkar ni kanaler åt andra?", "Ja, verkstaden tar beställningar från andra entreprenörer och plåtslagare. Skicka måtten så får du pris och leveransdag."],
+    ["Arbetar ni utanför Gävle?", "Vi arbetar i hela Gävleborgs län och i norra Uppland, från Tierp till Hudiksvall."],
+    ["Vad ingår i ett serviceavtal?", "Två besök per år med filterbyte, kontroll av fläktar, remmar och värmeväxlare samt en skriftlig rapport. Akuta fel prioriteras före annat arbete."]
+  ],
+  "certifikat": [
+    {"titel": "Funktionskontrollant behörighet K", "text": "Fyra certifierade funktionskontrollanter med kvalificerad behörighet, certifierade via ackrediterat organ.", "ikon": "dokument"},
+    {"titel": "Kollektivavtal", "text": "Medlem i Plåt & Ventföretagen med kollektivavtal för alla montörer och plåtslagare.", "ikon": "folk"},
+    {"titel": "Heta arbeten", "text": "Alla montörer har giltigt certifikat för heta arbeten från Brandskyddsföreningen.", "ikon": "eld"},
+    {"titel": "ISO 9001", "text": "Certifierat ledningssystem för kvalitet sedan 2011, granskat årligen.", "ikon": "skold"}
+  ],
+  "kunder": ["Brf Tallbacken", "Brf Villastaden 4", "Fastighets AB Gävleport", "Strömsbro Bruksgårdar", "Hemlingby Skolfastigheter", "Bomhus Industrihus AB", "Brf Sjötullen", "Söderhamns Hyreshus AB"],
+  "nyheter": [
+    ["2026-10-06", "Farfars ritningar blir digitala", "Vi skannar hela arkivet – 4 000 anläggningar ska vara sökbara till sommaren 2027.", "ventilation"],
+    ["2026-06-12", "Ny kantvikmaskin i verkstaden", "Rektangulära kanaler upp till tre meter tillverkas nu i ett stycke.", "industri"],
+    ["2026-02-03", "Två nya lärlingar på plats", "Ella och Mohammed börjar sin utbildning till ventilationsmontörer.", "people"]
+  ],
+  "kontakt": {"adress": "Industrigatan 9", "postnr": "802 83", "ort": "Gävle", "telefon": "070-174 06 23", "epost": "kontor@sandelinvent.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, verkstaden 6.30–15",
+  "omrade": "Gävleborgs län och norra Uppland",
+  "fot_cta": "Har vi varit i ditt hus förut? Ring och fråga – vi letar i arkivet medan du väntar.",
+  "bild": {"panel": "people", "hb": "industri"},
+  "text": {
+    "ber_etikett": "Från verkstaden",
+    "ber_rubrik": "Senaste nytt från Brynäs",
+    "proj_rubrik": "Hus vi har gett luft",
+    "proj_rubrik_lista": "Uppdrag i Gävleborg",
+    "process_etikett": "Arbetsgång",
+    "process_rubrik": "Från gammal ritning till nytt protokoll",
+    "hb_etikett": "Hållbart byggt",
+    "omdomen_rubrik": "Styrelser som har anlitat oss",
+    "faq_rubrik": "Det här undrar fastighetsägare oftast",
+    "boka_rubrik": "Skicka adressen så letar vi i arkivet",
+    "boka_text": "Berätta vad som gäller så ringer en projektledare upp inom två arbetsdagar.",
+    "logos_rubrik": "Några som litar på oss",
+    "certifikat_rubrik": "Behörigheter och avtal",
+    "bolag_rubrik": "Fyra avdelningar under samma tak",
+    "siffror_etikett": "Sandelin sedan 1958",
+    "medarbetare": "Montörerna och plåtslagarna"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Flödesgruppen Mälardalen AB",
+  "kortnamn": "Flödesgruppen",
+  "slug": "flodesgruppen",
+  "typ": "Ventilation och OVK i hela Mälardalen",
+  "tagline": "Fyra städer, ett avtal",
+  "slogan": "Flödesgruppen samlar fyra lokala ventilationsföretag under ett avtal, en serviceportal och ett telefonnummer.",
+  "hero_rubrik": "Från två montörer till 120 på tio år",
+  "hero_text": "Vi installerar, besiktar och driftövervakar ventilation åt fastighetsägare i Västerås, Eskilstuna, Örebro och Uppsala – med lokala team och gemensamma rutiner.",
+  "intro_rubrik": "Mälardalens snabbast växande ventilationsföretag",
+  "om": [
+    "Flödesgruppen startades 2016 av ventilationsmontörerna Petter Ahlqvist och Sara Nyberg i en hyrd lokal på Finnslätten i Västerås. De tog uppdrag som ingen annan hann med – OVK i hela bestånd med kort varsel – och hade 20 anställda efter tre år.",
+    "Sedan dess har vi köpt tre familjeföretag i Eskilstuna, Örebro och Uppsala som saknade någon som ville ta över. De behåller sina namn på bilarna, sina kunder och sina chefer. Det vi tillför är gemensamma inköp, en jourcentral och serviceportalen där fastighetsägaren ser varje aggregat, protokoll och åtgärd."
+  ],
+  "vagval_rubrik": "Hur stort är ert bestånd?",
+  "tjanster": [
+    {"titel": "OVK i hela bestånd", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi besiktar hundratals lägenheter i samma projekt och levererar protokoll per trapphus."},
+    {"titel": "Serviceavtal", "ikon": "kalender", "href": "verksamhet.html", "text": "Ett avtal för alla fastigheter i Mälardalen, med samma pris och samma rutiner."},
+    {"titel": "Driftövervakning", "ikon": "graf", "href": "verksamhet.html", "text": "Larm från aggregaten går direkt till vår jourcentral i Västerås."},
+    {"titel": "Installation & ombyggnad", "ikon": "kran", "href": "verksamhet.html", "text": "Entreprenader från enstaka aggregat till hela kvarter."},
+    {"titel": "Injustering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Injustering enligt AMA VVS & Kyl med digitala protokoll."},
+    {"titel": "Energiberäkning", "ikon": "blixt", "href": "verksamhet.html", "text": "Vi räknar på vad en åtgärd sparar innan ni bestämmer er."},
+    {"titel": "Serviceportalen", "ikon": "glob", "href": "om-oss.html", "text": "Alla protokoll, foton och avvikelser samlade per fastighet."},
+    {"titel": "Våra fyra kontor", "ikon": "karta", "href": "bolag.html", "text": "Västerås, Eskilstuna, Örebro och Uppsala."}
+  ],
+  "affarsomraden": [
+    {"titel": "Besiktning i stor skala", "text": "Vi har sju funktionskontrollanter och kan besikta upp till 400 lägenheter i veckan när ett bestånd ska klaras av på en gång. Aviseringar, nycklar och ombokningar sköts av vår egen samordnare.", "text2": "Protokollen läggs i serviceportalen samma dag som besiktningen är gjord.", "tagg": "ventilation"},
+    {"titel": "Service och drift", "text": "Över 2 100 aggregat ligger på serviceavtal hos oss. Varje aggregat har en egen sida i portalen med filterhistorik, larm och reservdelar.", "text2": "Fastighetsägare med flera orter får ett gemensamt avtal och en kontaktperson.", "tagg": "interior"},
+    {"titel": "Entreprenad", "text": "Våra installationsteam bygger ventilation i nya bostäder, skolor och lokaler, och byter aggregat i befintliga hus. Vi arbetar både som underentreprenör och i egen regi.", "text2": "Största pågående uppdraget är 280 lägenheter i Örebro.", "tagg": "bygg"},
+    {"titel": "Energi och åtgärder", "text": "Två energiingenjörer gör energiberäkningar inför aggregatbyten och följer upp utfallet efter ett år. Underlaget passar för bankens gröna lån och för hållbarhetsrapporten.", "text2": "Vi redovisar besparingen i kilowattimmar och kronor per fastighet.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Flödesgruppen Västerås", "segment": "Huvudkontor, 46 anställda", "rubrik": "Där allt började 2016", "text": "Huvudkontor, jourcentral och största installationsteamet, med uppdrag i hela Västmanland.", "tagg": "kontor"},
+    {"namn": "Eskilstuna Ventilationsservice", "segment": "I gruppen sedan 2019, 24 anställda", "rubrik": "Grundat 1982", "text": "Service och OVK i Eskilstuna, Strängnäs och Katrineholm. Leds fortfarande av Mats Holm.", "tagg": "ventilation"},
+    {"namn": "Närkes Luftteknik", "segment": "I gruppen sedan 2021, 31 anställda", "rubrik": "Örebros installatör", "text": "Entreprenad och service i Örebro, Kumla och Hallsberg, med egen kanalverkstad.", "tagg": "bygg"},
+    {"namn": "Flödesgruppen Uppsala", "segment": "I gruppen sedan 2023, 19 anställda", "rubrik": "Universitetsstadens ventilation", "text": "Laboratorier, studentbostäder och kontor i Uppsala och Enköping.", "tagg": "interior"}
+  ],
+  "berattelser": [
+    {"rubrik": "3 600 lägenheter på fem månader", "text": "Vi tog över OVK:n för ett helt allmännyttigt bestånd i Västmanland när den tidigare leverantören inte hann.", "tagg": "bostad"},
+    {"rubrik": "Ny jourcentral i Västerås", "text": "Sex operatörer tar emot larm från 2 100 aggregat dygnet runt.", "tagg": "kontor"},
+    {"rubrik": "Uppsala växer", "text": "Laboratoriekunderna i Uppsala gör att vi anställer åtta personer till under 2027.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "120", "enhet": "anställda", "etikett": "På fyra kontor"},
+    {"varde": "214", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "2 100", "enhet": "aggregat", "etikett": "På serviceavtal"},
+    {"varde": "14 000", "enhet": "lgh", "etikett": "Besiktade sedan 2016"}
+  ],
+  "projekt": [
+    {"namn": "Kv. Smedjan", "ort": "Örebro", "typ": "Nyproduktion", "ar": "2026", "text": "280 hyresrätter med lägenhetsaggregat och central frånluftsvärmepump.", "tagg": "bygg", "status": "Pågående"},
+    {"namn": "Bäckby och Råby", "ort": "Västerås", "typ": "OVK i bestånd", "ar": "2025", "text": "3 600 lägenheter besiktade på fem månader, med protokoll per trapphus i portalen.", "tagg": "bostad"},
+    {"namn": "Biomedicinhuset", "ort": "Uppsala", "typ": "Laboratorieventilation", "ar": "2025", "text": "Dragskåp och punktutsug injusterade i 42 laboratorier under pågående verksamhet.", "tagg": "interior"},
+    {"namn": "Torshälla skolor", "ort": "Eskilstuna", "typ": "Aggregatbyte", "ar": "2025", "text": "Fem aggregat från 1970-talet ersatta under sommarlovet, med 38 procent lägre elbehov.", "tagg": "ventilation"},
+    {"namn": "Logistikcenter Hälla", "ort": "Västerås", "typ": "Serviceavtal", "ar": "2024", "text": "Tolv takaggregat och 60 000 kvadratmeter lager på ett gemensamt avtal.", "tagg": "industri"},
+    {"namn": "Brf Fjärdingen", "ort": "Uppsala", "typ": "Byte till FTX", "ar": "2024", "text": "Centralt FTX-aggregat på vinden i en fastighet från 1938 med 46 lägenheter.", "tagg": "ventilation"}
+  ],
+  "process": [
+    {"titel": "Inventering", "text": "Vi går igenom hela beståndet och lägger in varje aggregat och varje OVK-datum i portalen.", "tagg": "kontor"},
+    {"titel": "Plan för tre år", "text": "Ni får en plan som visar när varje fastighet ska besiktas och vad det kostar per år.", "tagg": "ventilation"},
+    {"titel": "Utförande", "text": "Det lokala teamet besiktar, servar och åtgärdar. Samordnaren sköter aviseringar och nycklar.", "tagg": "people"},
+    {"titel": "Uppföljning", "text": "Varje kvartal går vi igenom avvikelser, larm och energiutfall med er förvaltare.", "tagg": "interior"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi mäter det vi lovar",
+    "text": "Varje aggregatbyte följs upp med en mätning efter tolv månader, och resultatet redovisas öppet i portalen. Våra 64 servicebilar är på väg att bli eldrivna, och alla nya bilar sedan 2024 är elbilar.",
+    "mal": [["–35 %", "genomsnittlig elbesparing vid aggregatbyte"], ["70 %", "elbilar i flottan 2027"], ["12 mån", "uppföljning efter varje åtgärd"]]
+  },
+  "karriar": {
+    "rubrik": "Växa med ett företag som växer",
+    "text": "Vi har gått från två till 120 personer, och de flesta av våra arbetsledare började som montörer här. Vi betalar för certifiering som funktionskontrollant efter två år.",
+    "jobb": [["Funktionskontrollant OVK", "Uppsala"], ["Ventilationsmontör", "Örebro"], ["Jouroperatör", "Västerås"], ["Projektledare entreprenad", "Eskilstuna"]]
+  },
+  "kultur": "Varje höst träffas alla fyra kontoren en helg i Kolbäck – med utbildning på fredagen och kräftor på lördagen.",
+  "citat": {"text": "Vi köper inte företag för att byta skylt på dem. Vi köper dem för att de ska finnas kvar när grundaren går i pension.", "namn": "Petter Ahlqvist", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi har fastigheter i tre av städerna och fick ett gemensamt avtal med samma priser. Portalen ersatte tre pärmar.", "namn": "Johanna L.", "ort": "Förvaltare, Västerås"},
+    {"text": "De tog över 3 600 lägenheter med kort varsel och höll tidplanen. Aviseringarna till hyresgästerna fungerade bättre än någonsin.", "namn": "Mikael R.", "ort": "Bäckby"},
+    {"text": "Att injustera 42 labb utan att stoppa forskningen kräver planering. Det fick vi.", "namn": "Lena V.", "ort": "Uppsala"}
+  ],
+  "faq": [
+    ["Kan vi teckna avtal för fastigheter på flera orter?", "Ja, det är vår specialitet. Ni får ett avtal, en prislista och en kontaktperson oavsett om fastigheterna ligger i Västerås eller Uppsala."],
+    ["Vad är serviceportalen?", "En webbtjänst där ni ser alla aggregat, OVK-protokoll, servicerapporter och larm per fastighet. Den ingår i alla serviceavtal."],
+    ["Hur snabbt kan ni starta en stor OVK?", "Vi kan normalt börja inom tre veckor och besikta upp till 400 lägenheter i veckan när avisering och nycklar är klara."],
+    ["Har ni jour?", "Ja, jourcentralen i Västerås är bemannad dygnet runt för kunder med serviceavtal. Tekniker på plats inom fyra timmar i våra fyra städer."],
+    ["Byter ni namn på företagen ni köper?", "Nej. Eskilstuna Ventilationsservice och Närkes Luftteknik behåller sina namn och sina chefer."],
+    ["Gör ni energiberäkningar?", "Ja, våra energiingenjörer räknar på aggregatbyten och värmeåtervinning och följer upp utfallet efter ett år."],
+    ["Arbetar ni utanför Mälardalen?", "Vi tar uppdrag i Västmanland, Sörmland, Örebro län och Uppsala län. Längre bort samarbetar vi med lokala partner."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001 och ISO 14001", "text": "Gemensamt certifierat ledningssystem för alla fyra bolagen.", "ikon": "skold"},
+    {"titel": "Funktionskontrollanter N och K", "text": "Sju certifierade funktionskontrollanter, varav fyra med kvalificerad behörighet.", "ikon": "dokument"},
+    {"titel": "ISO 45001", "text": "Certifierat arbetsmiljöledningssystem sedan 2022.", "ikon": "hjalm"},
+    {"titel": "Medlem i Svensk Ventilation", "text": "Vi följer branschens riktlinjer för installation, injustering och rengöring.", "ikon": "vind"}
+  ],
+  "kunder": ["Mälarbo Fastigheter", "Västerås Allmännytta Väst", "Kv. Smedjan Bostäder", "Hälla Logistikfastigheter", "Uppsala Campusfastigheter", "Brf Fjärdingen", "Torshälla Skolfastigheter", "Närkes Hyresbostäder"],
+  "kontor_rubrik": "Fyra kontor i Mälardalen",
+  "kontor_text": "Varje kontor har egna montörer, egen servicechef och egna bilar – och samma jourcentral i ryggen.",
+  "kontor_lista": [
+    ["Västerås", "Huvudkontor och jourcentral, Finnslätten. 46 anställda."],
+    ["Eskilstuna", "Eskilstuna Ventilationsservice, Kjula. 24 anställda."],
+    ["Örebro", "Närkes Luftteknik med kanalverkstad, Aspholmen. 31 anställda."],
+    ["Uppsala", "Labb, studentbostäder och kontor, Boländerna. 19 anställda."]
+  ],
+  "nyheter": [
+    ["2026-09-22", "Jourcentralen bemannas dygnet runt", "Sex operatörer övervakar 2 100 aggregat från Finnslätten.", "kontor"],
+    ["2026-05-14", "Flödesgruppen passerar 200 miljoner", "Omsättningen ökade med 31 procent under 2025.", "people"],
+    ["2026-01-29", "Närkes Luftteknik bygger ut verkstaden", "Ny spiromaskin och 400 kvadratmeter mer yta på Aspholmen.", "industri"],
+    ["2025-11-10", "Uppsala tar över labbkunderna", "Ett eget team för laboratorieventilation med fem tekniker.", "interior"]
+  ],
+  "kontakt": {"adress": "Kopparlundsvägen 14", "postnr": "721 30", "ort": "Västerås", "telefon": "070-174 06 31", "epost": "kundtjanst@flodesgruppen.se", "orgnr": ""},
+  "oppettider": "Kundtjänst mån–fre 7–17, jour dygnet runt",
+  "omrade": "Västmanland, Sörmland, Örebro län och Uppsala län",
+  "fot_cta": "Fastigheter på flera orter? Samla dem under ett avtal.",
+  "bild": {"panel": "people", "hb": "kontor"},
+  "text": {
+    "ber_etikett": "Just nu",
+    "ber_rubrik": "Det händer i gruppen",
+    "proj_rubrik": "Uppdrag från fyra städer",
+    "proj_rubrik_lista": "Utvalda uppdrag i Mälardalen",
+    "process_rubrik": "Så tar vi över ett bestånd",
+    "hb_etikett": "Uppföljning",
+    "omdomen_rubrik": "Förvaltarna om samarbetet",
+    "faq_rubrik": "Frågor från fastighetsägare",
+    "boka_rubrik": "Berätta om ert bestånd",
+    "boka_text": "Ange antal fastigheter och orter så återkommer en kundansvarig med ett förslag inom en vecka.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Antal fastigheter och orter"],
+    "logos_rubrik": "Fastighetsägare med avtal hos oss",
+    "certifikat_rubrik": "Certifierade i alla fyra bolag",
+    "bolag_etikett": "Gruppen",
+    "bolag_rubrik": "Fyra bolag, en grupp",
+    "meny_bolag": "Bolagen",
+    "sida_bolag_ingress": "Flödesgruppen består av {n} lokala bolag med egna chefer, egna montörer och gemensam jourcentral.",
+    "siffror_etikett": "Gruppen i siffror",
+    "medarbetare": "Medarbetare"
+  }
+}

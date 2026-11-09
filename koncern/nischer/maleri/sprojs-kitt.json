@@ -1,0 +1,132 @@
+{
+  "profil": "nisch",
+  "nisch": "maleri",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Spröjs & Kitt Fönsterhantverk AB",
+  "kortnamn": "Spröjs & Kitt",
+  "slug": "sprojs-kitt",
+  "typ": "Fönsterrenovering i Dalarna",
+  "tagline": "Fönster från förr",
+  "slogan": "Vi renoverar gamla fönster i ett före detta mejeri i Rättvik – med linoljekitt, kärnved och fast pris per båge.",
+  "hero_rubrik": "Ditt hundraåriga fönster klarar hundra år till",
+  "hero_text": "Sex hantverkare, 850 bågar om året och fast pris per båge. Vi hämtar, renoverar och sätter tillbaka – i hela Siljansbygden och ner till Falun.",
+  "intro_rubrik": "Ett mejeri fullt av fönsterbågar",
+  "om": [
+    "Per-Olof Matsson var byggnadssnickare i tjugo år innan han 2008 köpte det nedlagda mejeriet i Vikarbyn och började renovera fönster på heltid. Han hade sett för många hus i Dalarna där fullt friska fönster från 1910-talet byttes mot plastkarmar som höll i trettio år.",
+    "I dag är vi sex hantverkare som bara arbetar med fönster, dörrar och slamfärg. Vi renoverar omkring 850 bågar om året, och vintern är bokad redan i september."
+  ],
+  "vagval_rubrik": "Hur mår dina fönster?",
+  "tjanster": [
+    {"titel": "Bågrenovering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Skrapning, nytt linoljekitt och tre strykningar linoljefärg på verkstadsbänken."},
+    {"titel": "Snickerilagning", "ikon": "hamare", "href": "verksamhet.html", "text": "Rötskadade delar byts mot kärnfuru och limmas med traditionella skarvar."},
+    {"titel": "Energiglas i innerbåge", "ikon": "sol", "href": "verksamhet.html", "text": "Isolerglas eller energiglas i innerbågen – originalglaset sitter kvar ytterst."},
+    {"titel": "Karmar på plats", "ikon": "hus", "href": "verksamhet.html", "text": "Vi skrapar och målar karmar och foder på huset medan bågarna är i verkstaden."},
+    {"titel": "Dörrar och portar", "ikon": "nyckel", "href": "verksamhet.html", "text": "Ytterdörrar och ladugårdsportar renoveras med samma metoder som fönstren."},
+    {"titel": "Slamfärg på timmer", "ikon": "pensel", "href": "verksamhet.html", "text": "Röd, gul eller grå slamfärg kokad på plats på timmerhus och lador."},
+    {"titel": "Pris per båge", "ikon": "dokument", "href": "priser.html", "text": "Tre nivåer, före ROT-avdrag."},
+    {"titel": "Butiken i mejeriet", "ikon": "lada", "href": "om-oss.html#kontakt", "text": "Linolja, kitt, pigment och beslag för dig som gör själv."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fönster i verkstaden", "text": "Bågarna hämtas och tas till verkstaden, där de värms försiktigt med infravärme så att gammal färg och kitt släpper utan att glaset spricker. Sedan grundas de med linolja, kittas och målas tre gånger.", "text2": "En båge tar i snitt fem timmar från skrapning till färdig.", "tagg": "glas"},
+    {"titel": "Lagning av trä", "text": "Röta i nederstycken och droppbleck är det vanligaste vi ser. Vi sågar bort det skadade och lagar med kärnfuru från ett sågverk i Orsa, aldrig med plastspackel.", "text2": "Över 90 procent av alla bågar vi får in går att rädda.", "tagg": "tra"},
+    {"titel": "Bättre energi utan att byta", "text": "Ett gammalt tvåluftsfönster med tätade karmar och energiglas i innerbågen har nästan samma U-värde som ett nytt treglasfönster. Originalglaset med sina små ojämnheter sitter kvar ytterst.", "text2": "Vi mäter före och efter med värmekamera om du vill.", "tagg": "maleri"},
+    {"titel": "Slamfärg och timmerhus", "text": "På sommaren kokar vi slamfärg på plats och målar timmerhus, fäbodar och lador runt Siljan. Vi använder mineralpigment och rågmjöl, och färgen kokas i en 200-liters gryta på gården.", "text2": "En slamfärgad fasad behöver strykas om vart åttonde till tionde år.", "tagg": "maleri"}
+  ],
+  "bolag": [
+    {"namn": "Verkstaden", "segment": "3 hantverkare", "rubrik": "Bänk, värme och kitt", "text": "Renoverar bågar och dörrar året runt i mejeriets gamla ysteri.", "tagg": "tra"},
+    {"namn": "Montagelaget", "segment": "2 hantverkare", "rubrik": "Ut till huset", "text": "Hämtar bågar, sätter skivor i karmarna, målar karmar och monterar tillbaka.", "tagg": "maleri"},
+    {"namn": "Slamfärgslaget", "segment": "Sommartid, 4 hantverkare", "rubrik": "Grytan på gården", "text": "Maj till september kokar och målar vi slamfärg på timmerhus i Siljansbygden.", "tagg": "maleri"},
+    {"namn": "Butiken", "segment": "Öppen torsdagar", "rubrik": "För dig som gör själv", "text": "Linoljefärg, kitt, glas, pigment och handsmidda beslag – och råd på köpet.", "tagg": "hem"}
+  ],
+  "berattelser": [
+    {"rubrik": "42 bågar från Gammelgården i Boda", "text": "Fönster från 1890 med blåsglas – bara tre rutor behövde bytas.", "tagg": "glas"},
+    {"rubrik": "Vinterns kö är full", "text": "Alla verkstadsplatser fram till mars är bokade. Vi tar anmälningar till våren.", "tagg": "tra"},
+    {"rubrik": "Slamfärgskurs på midsommarafton", "text": "Kurs i att koka slamfärg vid mejeriet – tjugo platser, gratis för våra kunder.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "850", "enhet": "bågar", "etikett": "Renoverade per år"},
+    {"varde": "90 %", "enhet": "", "etikett": "Av bågarna går att rädda"},
+    {"varde": "5", "enhet": "timmar", "etikett": "Snittid per båge"},
+    {"varde": "6", "enhet": "hantverkare", "etikett": "Bara fönster och färg"}
+  ],
+  "projekt": [
+    {"namn": "Gammelgården i Boda", "ort": "Boda", "typ": "Fönsterrenovering", "ar": "2026", "text": "42 bågar med blåsglas från 1890-talet renoverade och kittade.", "tagg": "glas"},
+    {"namn": "Hotell Klockargården", "ort": "Tällberg", "typ": "Fönster och dörrar", "ar": "2025", "text": "112 bågar och fyra pardörrar under två vintrar, utan att hotellet stängde.", "tagg": "maleri"},
+    {"namn": "Brf Stora Torget", "ort": "Falun", "typ": "Innerbågar med energiglas", "ar": "2025", "text": "Energiglas i 96 innerbågar – värmeförlusten minskade med 38 procent.", "tagg": "bostad"},
+    {"namn": "Fäbodvallen i Gärdsjö", "ort": "Gärdsjö", "typ": "Slamfärg", "ar": "2025", "text": "Sju fäbodstugor och en lada i röd slamfärg på tio dagar.", "tagg": "tra"},
+    {"namn": "Skolhuset i Vikarbyn", "ort": "Vikarbyn", "typ": "Fönsterrenovering", "ar": "2024", "text": "Höga tvåluftsfönster från 1924 renoverade under ett sommarlov.", "tagg": "maleri"},
+    {"namn": "Prästgården i Ore", "ort": "Furudal", "typ": "Fönster och karmar", "ar": "2027", "text": "64 bågar inbokade för vintern 2026–2027.", "tagg": "glas", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Räkna och fotografera", "text": "Skicka antal bågar och några bilder. Vi lämnar ett preliminärt pris samma vecka.", "tagg": "hem"},
+    {"titel": "Hämtning", "text": "Vi plockar ur bågarna, sätter vita skivor i karmarna och tar med dem till verkstaden.", "tagg": "maleri"},
+    {"titel": "På verkstadsbänken", "text": "Värme, skrapning, lagning, linolja, kitt och tre strykningar färg.", "tagg": "tra"},
+    {"titel": "Tillbaka i huset", "text": "Bågarna hängs i, justeras och tätas. Du får ett skötselblad med till nästa vår.", "tagg": "glas"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett renoverat fönster är det klimatsmartaste fönstret",
+    "text": "Ett nytt fönster med aluminiumbeklädnad ger cirka 60 kilo koldioxid vid tillverkning, och håller ofta 30–40 år. Ett gammalt fönster i kärnved som renoveras med linolja kan sitta i hundra år till.",
+    "mal": [["90 %", "av inlämnade bågar räddas"], ["0", "plastspackel i våra lagningar"], ["100 år", "är inte ovanligt för en välskött båge"]]
+  },
+  "karriar": {
+    "rubrik": "Snickare som vill arbeta långsamt?",
+    "text": "Vi söker sällan folk, men när vi gör det är det hantverkare som tycker om att se en sak bli färdig. Lön enligt avtal och arbetstid 7–16 året runt.",
+    "jobb": [["Fönsterhantverkare", "Rättvik"]]
+  },
+  "kultur": "Radion står på P2 i verkstaden, och vi äter lunch tillsammans vid det gamla mejeribordet varje dag.",
+  "citat": {"text": "Det som var fel med de gamla fönstren var nästan aldrig fönstren. Det var att ingen hade målat dem på fyrtio år.", "namn": "Per-Olof Matsson", "roll": "Grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi hade fått offert på nya fönster för 340 000 kronor. Pelle renoverade alla 28 bågarna för en tredjedel – och huset ser ut som det ska.", "namn": "Maria och Jon E.", "ort": "Rättvik"},
+    {"text": "Hotellgästerna märkte knappt att fönstren var borta. Skivorna i karmarna var målade vita så de syntes inte ens från vägen.", "namn": "Hotell Klockargården", "ort": "Tällberg"},
+    {"text": "Värmekameran visade skillnaden efter energiglaset. Vi har sänkt värmen en grad i hela huset.", "namn": "Brf Stora Torget", "ort": "Falun"}
+  ],
+  "faq": [
+    ["Hur länge är fönstren borta?", "Normalt tre till sex veckor beroende på antal. Karmarna täcks med vitmålade skivor och plast, så huset är tätt hela tiden."],
+    ["Kan ni renovera ett fönster med trasig spröjs?", "Ja. Vi tillverkar nya spröjsar i kärnfuru med samma profil som originalet."],
+    ["Är renovering verkligen billigare än nytt?", "För de flesta hus ja, och särskilt för ovanliga storlekar. En renoverad båge kostar 3 400–7 800 kronor, ett nytt specialfönster ofta 12 000–20 000."],
+    ["Hur ofta behöver fönstren underhållas efteråt?", "Stryk linolja på utsidan av nederstycket var tredje år. Med linoljefärg brukar en ommålning räcka vart åttonde till tolfte år."],
+    ["Får jag ROT-avdrag?", "Ja, på arbetskostnaden. Avdraget dras direkt på fakturan."],
+    ["Åker ni utanför Siljansbygden?", "Vi hämtar inom 8 mil från Rättvik utan resekostnad. Längre bort kan du köra hit bågarna själv, eller betala milersättning."]
+  ],
+  "priser": [
+    {"namn": "Bågrenovering", "pris": "3 400 kr", "enhet": "per båge, före ROT", "text": "För bågar med friskt trä som behöver skrapas, kittas och målas.", "punkter": ["Skrapning med infravärme", "Nytt linoljekitt", "Tre strykningar linoljefärg", "Byte av upp till två rutor"]},
+    {"namn": "Fullrenovering", "pris": "5 200 kr", "enhet": "per båge, före ROT", "text": "Vanligast för bågar äldre än 1940.", "punkter": ["Allt i Bågrenovering", "Lagning av röta i kärnfuru", "Justering av gångjärn och hakar", "Ny tätningslist i karm"], "utvald": true},
+    {"namn": "Fullrenovering med energiglas", "pris": "7 800 kr", "enhet": "per båge, före ROT", "text": "Originalglaset ytterst, energiglas i innerbågen.", "punkter": ["Allt i Fullrenovering", "Energiglas i innerbågen", "Värmekamera före och efter", "Karmar målade på plats"]}
+  ],
+  "certifikat": [
+    {"titel": "Gesällbrev, snickeri", "text": "Grundaren har gesällbrev i byggnadssnickeri från Sveriges Hantverksråd.", "ikon": "stjarna"},
+    {"titel": "Byggnadsvårdsutbildning", "text": "Tre av oss har gått fönsterkursen vid Hantverkslaboratoriet i Mariestad.", "ikon": "skola"},
+    {"titel": "F-skatt och ROT", "text": "Godkänd för F-skatt, ROT-avdrag dras direkt på fakturan.", "ikon": "dokument"},
+    {"titel": "Ansvarsförsäkring", "text": "Bågarna är försäkrade under transport och medan de står i verkstaden.", "ikon": "skold"}
+  ],
+  "kunder": ["Hotell Klockargården", "Brf Stora Torget", "Stiftelsen Gärdsjö Fäbod", "Gammelgården i Boda", "Siljan Hus & Hem AB", "Rättviks skolfastigheter", "Brf Siljansvy"],
+  "nyheter": [
+    ["2026-09-15", "Vinterplatserna är slut", "Vi har 410 bågar inbokade fram till mars. Anmäl dig till vårens kö redan nu.", "glas"],
+    ["2026-06-24", "Slamfärgskursen blev rekord", "34 personer kokade färg vid mejeriet på midsommarafton.", "people"],
+    ["2026-03-02", "Så gör du vårkollen på fönstren", "Fem minuter per fönster och en burk linolja räcker långt.", "hem"]
+  ],
+  "kontakt": {"adress": "Mejerivägen 3, Vikarbyn", "postnr": "795 35", "ort": "Rättvik", "telefon": "070-174 06 36", "epost": "pelle@sprojsochkitt.se", "orgnr": ""},
+  "oppettider": "Verkstaden mån–fre 7–16, butiken tors 12–18",
+  "omrade": "Siljansbygden, Falun och Leksand – 8 mil runt Rättvik",
+  "fot_cta": "Räkna dina bågar och skicka en bild – du får ett preliminärt pris inom en vecka.",
+  "bild": {"panel": "tra", "hb": "glas"},
+  "text": {
+    "ber_etikett": "I verkstaden",
+    "ber_rubrik": "Senast på bänken",
+    "proj_rubrik": "Fönster vi har räddat",
+    "process_rubrik": "Bågens väg genom mejeriet",
+    "hb_etikett": "Varför renovera",
+    "omdomen_rubrik": "Från hus runt Siljan",
+    "faq_rubrik": "Om kitt, glas och energi",
+    "priser_rubrik": "Fast pris per båge",
+    "priser_not": "Priserna gäller tvåluftsfönster upp till 0,6 m² per båge, inklusive moms och före ROT-avdrag.",
+    "priser_utvald": "Vanligast",
+    "priser_knapp": "Boka plats",
+    "boka_rubrik": "Räkna bågarna och hör av dig",
+    "boka_text": "Ange antal bågar, ungefärlig storlek och var huset ligger. Bilder hjälper oss att ge rätt pris.",
+    "logos_rubrik": "Hus och gårdar vi har arbetat på",
+    "certifikat_rubrik": "Utbildning och försäkring",
+    "bolag_rubrik": "Fyra delar under samma tak",
+    "medarbetare": "Hantverkarna"
+  }
+}

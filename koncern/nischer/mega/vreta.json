@@ -1,0 +1,149 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vreta Industrier AB (publ)",
+  "kortnamn": "Vreta",
+  "slug": "vreta",
+  "typ": "Industrikoncern inom drivsystem",
+  "tagline": "Drivlinor sedan 1919",
+  "slogan": "Vreta konstruerar och tillverkar drivlinor, hydraulik och elektriska drivsystem för gruvor, skogsmaskiner och vindkraft.",
+  "hero_rubrik": "Det som sitter mellan motor och hjul",
+  "hero_text": "Var tredje gruvlastare i världen har en växellåda från Vreta. 16 200 medarbetare i elva länder konstruerar drivsystem för maskiner som inte får stanna.",
+  "intro_rubrik": "Hundra år av kugghjul",
+  "om": [
+    "Vreta Industrier startade 1919 som en mekanisk verkstad vid Kinda kanal utanför Linköping och tillverkade kugghjul åt lantbruksmaskiner. I dag konstruerar koncernen kompletta drivlinor för tunga fordon och omsätter 52,4 miljarder kronor, varav 88 procent utanför Sverige.",
+    "Huvudkontoret och det största utvecklingscentret ligger kvar i Linköping, där 1 900 ingenjörer arbetar med allt från kuggslipning till programvara för batterielektriska drivsystem. Produktionen sker i 24 fabriker, från Mjölby till Monterrey."
+  ],
+  "vagval_rubrik": "Vilken maskin ska drivas?",
+  "tjanster": [
+    {"titel": "Växellådor", "ikon": "kugge", "href": "verksamhet.html", "text": "Planet- och powershiftlådor för gruvlastare, dumprar och skogsmaskiner."},
+    {"titel": "Elektriska drivsystem", "ikon": "laddning", "href": "verksamhet.html", "text": "Integrerade elmotorer, växellådor och kraftelektronik för batteridrivna maskiner."},
+    {"titel": "Hydraulik", "ikon": "ror", "href": "verksamhet.html", "text": "Pumpar, motorer och ventilblock för tryck upp till 450 bar."},
+    {"titel": "Vindkraftslager", "ikon": "vind", "href": "verksamhet.html", "text": "Huvudlager och girväxlar för vindkraftverk upp till 15 MW."},
+    {"titel": "Eftermarknad", "ikon": "verktyg", "href": "verksamhet.html", "text": "Renovering, reservdelar och tillståndsövervakning i 60 länder."},
+    {"titel": "Fabriker och bolag", "ikon": "fabrik", "href": "bolag.html", "text": "Fyra divisioner och 24 fabriker i elva länder."},
+    {"titel": "Aktien VRET B", "ikon": "graf", "href": "investerare.html", "text": "Rapporter, kurs och finansiell kalender."},
+    {"titel": "Ingenjörsjobb", "ikon": "ritning", "href": "karriar.html", "text": "Vi anställer 300 ingenjörer per år, främst i Linköping och Mjölby."}
+  ],
+  "affarsomraden": [
+    {"titel": "Vreta Heavy Drive", "text": "Divisionen tillverkar växellådor och axlar för gruvlastare, ramtruckar och dumprar. Kunderna är de stora tillverkarna av gruv- och anläggningsmaskiner i Sverige, Finland, USA och Japan.", "text2": "En växellåda från Heavy Drive är dimensionerad för 30 000 drifttimmar före första renovering.", "tagg": "industri"},
+    {"titel": "Vreta E-Drive", "text": "E-Drive utvecklar kompletta elektriska drivsystem med motor, växellåda och omriktare i samma hus. Produktionen i Mjölby fördubblades 2025 och levererar nu 14 000 enheter per år.", "text2": "Systemen sitter i allt från eldrivna skogsmaskiner till autonoma gruvfordon.", "tagg": "el"},
+    {"titel": "Vreta Hydraulics", "text": "Hydraulpumpar och ventilblock för kranar, skogsmaskiner och marina vinschar. Fabrikerna i Linköping, Tampere och Lodz tillverkar 600 000 komponenter per år.", "text2": "Elektroniskt styrda ventiler sänker bränsleförbrukningen i en skotare med upp till 15 procent.", "tagg": "maskin"},
+    {"titel": "Vreta Wind", "text": "Huvudlager, girväxlar och pitchsystem för landbaserad och havsbaserad vindkraft. Divisionen har ramavtal med fyra av världens fem största turbintillverkare.", "text2": "Vår provrigg i Esbjerg kan simulera 25 års belastning på ett huvudlager på åtta månader.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Vreta Heavy Drive", "segment": "Gruvor och anläggning", "rubrik": "Lådor för 30 000 drifttimmar", "text": "Växellådor, axlar och slutväxlar för tunga maskiner under jord och i dagbrott.", "tagg": "industri"},
+    {"namn": "Vreta E-Drive", "segment": "Elektrifiering", "rubrik": "Motor, låda och omriktare i ett", "text": "Batterielektriska drivsystem för skog, gruva och hamn.", "tagg": "el"},
+    {"namn": "Vreta Hydraulics", "segment": "Hydraulik", "rubrik": "450 bar utan läckage", "text": "Pumpar, motorer och ventilblock för mobila maskiner och marina applikationer.", "tagg": "maskin"},
+    {"namn": "Vreta Wind", "segment": "Vindkraft", "rubrik": "Lager som snurrar i 25 år", "text": "Huvudlager och girväxlar för turbiner på land och till havs.", "tagg": "anlaggning"}
+  ],
+  "lokala_bolag": ["Vreta Linköping", "Vreta Mjölby", "Vreta Motala", "Vreta Kinda Gjuteri", "Vreta Tampere Oy", "Vreta Hydraulics Lodz", "Vreta Wind Esbjerg", "Vreta Drive GmbH Kassel", "Vreta Mining Services Perth", "Vreta Drive Inc. Milwaukee", "Vreta de México Monterrey", "Vreta Suzhou", "Vreta Chile Antofagasta", "Vreta India Pune"],
+  "vagg_text": "Fabrikerna har eget resultatansvar men delar konstruktionsregler, kvalitetssystem och testcentret i Linköping.",
+  "berattelser": [
+    {"rubrik": "Elektrisk gruvlastare i Kiruna", "text": "Vår drivlina E-Drive 900 klarade 6 000 timmar under jord utan oplanerat stopp i det första fältprovet.", "tagg": "el"},
+    {"rubrik": "Ny kuggslipningshall i Mjölby", "text": "En investering på 2,1 miljarder kronor och 220 nya jobb. Hallen värms helt med spillvärme från härdugnarna.", "tagg": "industri"},
+    {"rubrik": "Huvudlager till Dogger Bank", "text": "Vreta Wind levererar 190 huvudlager till en havsbaserad vindpark i Nordsjön under 2026 och 2027.", "tagg": "anlaggning"}
+  ],
+  "nyckeltal": [
+    {"varde": "52,4", "enhet": "mdr kr", "etikett": "Nettoomsättning 2025", "trend": [34.1, 31.2, 36.8, 43.5, 48.9, 50.2, 52.4], "trend_text": "Nettoomsättning 2019–2025, mdr kr"},
+    {"varde": "12,8", "enhet": "%", "etikett": "Justerad rörelsemarginal", "trend": [10.9, 9.4, 11.6, 12.1, 12.4, 12.6, 12.8], "trend_text": "Rörelsemarginal per år, procent"},
+    {"varde": "16 200", "enhet": "", "etikett": "Medarbetare i 11 länder", "trend": [12400, 12100, 13300, 14600, 15400, 15900, 16200], "trend_text": "Antal medarbetare"},
+    {"varde": "31", "enhet": "%", "etikett": "Andel elektrifierade produkter", "trend": [4, 7, 11, 16, 21, 26, 31], "trend_text": "Elektrifierat av orderingången, procent"}
+  ],
+  "projekt": [
+    {"namn": "Kuggslipningshall 3", "ort": "Mjölby", "typ": "Fabriksinvestering", "ar": "2026", "text": "Tolv nya slipmaskiner och automatiserad mätning av varje kugghjul.", "tagg": "industri"},
+    {"namn": "E-Drive 900 fältprov", "ort": "Kiruna", "typ": "Elektrisk gruvlastare", "ar": "2025", "text": "6 000 drifttimmar på nivå 1 365 meter under mark.", "tagg": "el"},
+    {"namn": "Provrigg för huvudlager", "ort": "Esbjerg", "typ": "Testcenter", "ar": "2024", "text": "Världens största provrigg för lager till 15 MW-turbiner.", "tagg": "anlaggning"},
+    {"namn": "Fabrik Monterrey II", "ort": "Monterrey", "typ": "Ny fabrik", "ar": "2027", "text": "Axlar och slutväxlar för nordamerikanska gruvmaskiner, 480 anställda vid full drift.", "tagg": "bygg"},
+    {"namn": "Gjuteriet i Kinda", "ort": "Kisa", "typ": "Elektrifiering av ugnar", "ar": "2025", "text": "Induktionsugnar ersätter koks och halverar gjuteriets koldioxidutsläpp.", "tagg": "svets"},
+    {"namn": "Autonoma skotare", "ort": "Linköping", "typ": "Utvecklingsprojekt", "ar": "2026", "text": "Drivlina och hydraulik för förarlösa skotare tillsammans med Linköpings universitet.", "tagg": "maskin"}
+  ],
+  "process": [
+    {"titel": "Specifikation", "text": "Våra applikationsingenjörer mäter last, varvtal och driftcykel i kundens maskin.", "tagg": "kontor"},
+    {"titel": "Konstruktion", "text": "Simulering och prototyp i Linköping, med provkörning i vår egen bänkhall på 8 000 kvadratmeter.", "tagg": "maskin"},
+    {"titel": "Serieproduktion", "text": "Tillverkning i den fabrik som ligger närmast kundens monteringslinje.", "tagg": "industri"},
+    {"titel": "Hela livslängden", "text": "Sensorer i lådan rapporterar slitage, och renovering sker i något av våra 18 servicecenter.", "tagg": "svets"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fossilfria fabriker 2030",
+    "text": "Två tredjedelar av våra utsläpp uppstår när kunderna använder maskinerna. Därför satsar vi hårdast på elektriska drivlinor och effektivare växellådor. I våra egna fabriker byts gas och koks mot el, och SBTi har godkänt våra mål för 2030.",
+    "mal": [["–55 %", "utsläpp från egna fabriker till 2030 jämfört med 2019"], ["50 %", "elektrifierade produkter av orderingången 2030"], ["94 %", "av stålspånet återvinns till nytt stål"]]
+  },
+  "karriar": {
+    "rubrik": "Konstruera det som håller",
+    "text": "I Linköping och Mjölby finns 3 400 av våra medarbetare. Vi har ett eget traineeprogram för maskiningenjörer och ett industritekniskt gymnasium tillsammans med Mjölby kommun.",
+    "jobb": [["Beräkningsingenjör, kuggväxlar", "Linköping"], ["Mjukvaruutvecklare, omriktare", "Linköping"], ["Produktionstekniker", "Mjölby"], ["Fältservicetekniker", "Antofagasta"]]
+  },
+  "kultur": "Varje ny ingenjör följer en växellåda genom hela fabriken under första veckan – från smide till provkörning.",
+  "citat": {"text": "Ingen kund köper en växellåda för att den är snygg. De köper den för att maskinen ska gå 30 000 timmar i en gruva fyra kilometer från närmaste mekaniker.", "namn": "Johan Esbjörnsson", "roll": "Vd och koncernchef", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Vreta tog fram en elektrisk drivlina för vår lastare på arton månader. Fältprovet visade 40 procent lägre energiförbrukning än dieselversionen.", "namn": "Mikko H.", "ort": "Tampere"},
+    {"text": "Tillståndsövervakningen varnade för ett lagerhaveri tre veckor innan det skulle ha hänt. Vi bytte under ett planerat stopp i stället.", "namn": "Carolina R.", "ort": "Antofagasta"},
+    {"text": "Leveransprecisionen från Mjölby har legat över 98 procent i fyra år. Det är därför vi har förlängt avtalet till 2032.", "namn": "Stefan L.", "ort": "Eskilstuna"}
+  ],
+  "faq": [
+    ["Säljer ni direkt till slutkunder?", "Huvudsakligen säljer vi till maskintillverkare. Eftermarknadstjänster och renoveringar säljer vi även direkt till gruvor och entreprenörer."],
+    ["Kan befintliga dieselmaskiner byggas om till eldrift?", "Ja, för vissa modeller av lastare och skotare erbjuder vi ombyggnadssatser. En ombyggnad tar normalt tre veckor."],
+    ["Hur lång garanti lämnar ni?", "Två år eller 8 000 drifttimmar på nya växellådor. Med serviceavtal och tillståndsövervakning förlängs garantin till fem år."],
+    ["Var tillverkas era produkter?", "I 24 fabriker i elva länder. Kuggslipning och montering av de största växellådorna sker i Mjölby och Linköping."],
+    ["Vilka certifieringar har ni?", "Samtliga fabriker är certifierade enligt ISO 9001, ISO 14001 och ISO 45001. Vindkraftsdivisionen är även certifierad enligt DNV."],
+    ["Hur ser utdelningspolicyn ut?", "Styrelsen föreslår normalt en utdelning på 40–50 procent av nettoresultatet."]
+  ],
+  "nyheter": [
+    ["2026-10-21", "Delårsrapport januari–september 2026", "Orderingången ökade med 9 procent, driven av elektriska drivlinor.", "industri"],
+    ["2026-08-28", "Vreta bygger ny fabrik i Monterrey", "Investeringen uppgår till 1,6 miljarder kronor och skapar 480 jobb.", "bygg"],
+    ["2026-05-13", "E-Drive 900 klar för serieproduktion", "Den elektriska drivlinan för gruvlastare börjar levereras i januari 2027.", "el"],
+    ["2026-02-04", "Bokslutskommuniké 2025", "Rekordomsättning på 52,4 miljarder kronor och förslag om höjd utdelning till 7,80 kronor.", "maskin"]
+  ],
+  "kontakt": {"adress": "Kinda kanalväg 2", "postnr": "582 73", "ort": "Linköping", "telefon": "070-174 06 81", "epost": "info@vreta-industrier.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7.30–16.30",
+  "omrade": "Elva länder med fabriker, service i 60 länder",
+  "fot_cta": "Utvecklar ni en maskin som ska elektrifieras? Prata med våra applikationsingenjörer.",
+  "investerare": {
+    "aktie": "VRET B",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "312,80",
+    "forandring": "+2,1 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-21"], ["Delårsrapport januari–juni 2026", "2026-07-16"], ["Delårsrapport januari–mars 2026", "2026-04-22"], ["Årsredovisning 2025", "2026-03-12"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-03"], ["Årsstämma i Linköping", "2027-04-21"], ["Kapitalmarknadsdag i Mjölby", "2027-06-09"]]
+  },
+  "kontor_lista": [
+    ["Linköping", "Huvudkontor, utvecklingscenter och provbänkshall."],
+    ["Mjölby", "Kuggslipning och montering av växellådor upp till 12 ton."],
+    ["Tampere, Finland", "Hydraulikfabrik och kundcenter för nordiska maskintillverkare."],
+    ["Esbjerg, Danmark", "Vreta Wind och provrigg för huvudlager."],
+    ["Kassel, Tyskland", "Försäljning och service för Centraleuropa."],
+    ["Lodz, Polen", "Ventilblock och hydraulmotorer."],
+    ["Milwaukee, USA", "Montering och eftermarknad för Nordamerika."],
+    ["Monterrey, Mexiko", "Axlar och slutväxlar."],
+    ["Antofagasta, Chile", "Servicecenter för gruvorna i Atacama."],
+    ["Suzhou, Kina", "Fabrik för asiatiska maskintillverkare."]
+  ],
+  "kontor_text": "Konstruktionen sker i Linköping. Fabrikerna ligger nära kundernas monteringslinjer.",
+  "tidslinje": [
+    ["1919", "Mekaniska verkstaden vid Kinda kanal startar med kugghjul till slåttermaskiner."],
+    ["1952", "Första växellådan till en skogstraktor."],
+    ["1974", "Leveranser till gruvorna i Kiruna och Malmberget inleds."],
+    ["1995", "Börsnotering och förvärv av hydraulikbolag i Tampere."],
+    ["2009", "Vreta Wind bildas och öppnar fabrik i Esbjerg."],
+    ["2018", "Den första elektriska drivlinan går i serieproduktion."],
+    ["2025", "Elektrifierade produkter passerar 30 procent av orderingången."]
+  ],
+  "tidslinje_rubrik": "Från slåttermaskin till gruvrobot",
+  "text": {
+    "ber_rubrik": "Nytt från verkstadsgolvet",
+    "proj_rubrik": "Fabriker, fältprov och testriggar",
+    "process_etikett": "Från ritning till drifttimmar",
+    "process_rubrik": "Konstruerat för hela livet",
+    "hb_etikett": "Elektrifiering",
+    "bolag_rubrik": "Fyra divisioner, en konstruktionsavdelning",
+    "kontor_rubrik": "Fabriker på fem kontinenter",
+    "ny_rubrik": "Pressmeddelanden",
+    "siffror_etikett": "Vreta i siffror",
+    "panel_etikett": "Ingenjör hos Vreta",
+    "omdomen_rubrik": "Kunderna om våra drivlinor",
+    "faq_rubrik": "Tekniska och finansiella frågor",
+    "vagg_rubrik": "{n} enheter i elva länder"
+  },
+  "bild": {"panel": "industri", "hb": "el"}
+}

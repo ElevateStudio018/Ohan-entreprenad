@@ -1,0 +1,124 @@
+{
+  "profil": "nisch",
+  "nisch": "vvs",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Fröjd Värme & Rör AB",
+  "kortnamn": "Fröjd",
+  "slug": "frojd-varme",
+  "typ": "Värme och VVS med miljöprofil i Örebro",
+  "tagline": "Mindre energi, längre livslängd",
+  "slogan": "Vi räknar på energin innan vi säljer en pump, och vi lagar hellre en blandare än byter den.",
+  "hero_rubrik": "Vi har tagit bort 640 oljepannor i Närke",
+  "hero_text": "Värmepumpar, vattensnåla badrum och energiberäkningar för villor och fastigheter i Örebro län. Alla servicebilar går på el sedan 2022.",
+  "intro_rubrik": "Mätbart mindre energi och vatten",
+  "om": [
+    "Linnea Fröjd är energiingenjör från Örebro universitet och jobbade med energideklarationer i sju år innan hon och rörmokaren Tobias Ahl startade Fröjd 2014. Idén var enkel: ingen kund skulle få en värmepump utan en riktig effektberäkning först.",
+    "I dag är vi 27 anställda i ett ombyggt mejeri på Bettorpsgatan. Vi gör värmepumpar, badrum och service, men alltid med samma frågor först: vad drar huset i dag, vad kan sparas, och vad går att återanvända?"
+  ],
+  "vagval_rubrik": "Vad vill du få ner?",
+  "tjanster": [
+    {"titel": "Bergvärme", "ikon": "sol", "href": "verksamhet.html", "text": "Effektberäknad bergvärme med rätt borrdjup – inte största pumpen i katalogen."},
+    {"titel": "Luft/vatten-pumpar", "ikon": "vind", "href": "verksamhet.html", "text": "För hus där borrning inte är möjlig, med ljudmätning före och efter."},
+    {"titel": "Energikartläggning", "ikon": "graf", "href": "verksamhet.html", "text": "Vi mäter förbrukningen i två veckor och visar var energin tar vägen."},
+    {"titel": "Vattensnåla badrum", "ikon": "vatten", "href": "verksamhet.html", "text": "Badrum med snålspolande armaturer och återanvänt porslin där det går."},
+    {"titel": "Solvärme", "ikon": "laddning", "href": "verksamhet.html", "text": "Solfångare som laddar ackumulatortanken från april till september."},
+    {"titel": "Laga i stället för byta", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vi byter packningar och patroner i blandare som andra skulle kasta."},
+    {"titel": "Fastighetsenergi", "ikon": "hus", "href": "verksamhet.html", "text": "Injustering och värmepumpar för flerbostadshus och lokaler."},
+    {"titel": "Räkna på ditt hus", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Skicka energideklarationen så räknar vi gratis."}
+  ],
+  "affarsomraden": [
+    {"titel": "Värmepumpar som är rätt dimensionerade", "text": "En överdimensionerad värmepump startar och stoppar för ofta och slits ut på halva tiden. Vi gör alltid en effektberäkning enligt SS-EN 12831 och mäter husets verkliga förbrukning innan vi föreslår storlek.", "text2": "En vanlig villa från 1970-talet går från 22 000 till 7 500 kWh per år med bergvärme.", "tagg": "hem"},
+    {"titel": "Badrum med lägre vattenförbrukning", "text": "Med snålspolande toalett, termostatblandare och duschmunstycke på 6 liter per minut minskar ett hushåll på fyra personer sin varmvattenförbrukning med runt 40 procent.", "text2": "Hel porslinsutrustning i gott skick återanvänds från vår egen återbrukshylla.", "tagg": "vvs"},
+    {"titel": "Energi i flerbostadshus", "text": "För bostadsrättsföreningar gör vi injustering av radiatorsystemet, frånluftsvärmepumpar och byte från fjärrvärme till hybridlösningar där det lönar sig.", "text2": "Vi redovisar alltid återbetalningstiden innan styrelsen beslutar.", "tagg": "bostad"},
+    {"titel": "Service som förlänger livet", "text": "Vi servar värmepumpar av alla märken och lagar kranar, ventiler och cirkulationspumpar i stället för att byta hela enheter.", "text2": "Ett serviceavtal för värmepump kostar 1 690 kronor per år.", "tagg": "vvs"}
+  ],
+  "bolag": [
+    {"namn": "Energi", "segment": "4 ingenjörer", "rubrik": "Mäter innan vi säljer", "text": "Gör effektberäkningar, energikartläggningar och följer upp förbrukningen ett år efter installationen.", "tagg": "kontor"},
+    {"namn": "Värme", "segment": "11 montörer", "rubrik": "Pumpar, solfångare och tankar", "text": "Installerar och servar värmepumpar och solvärme i Örebro, Kumla, Hallsberg och Lindesberg.", "tagg": "hem"},
+    {"namn": "Badrum och service", "segment": "12 hantverkare", "rubrik": "Vattensnålt och hållbart", "text": "Renoverar badrum och tar hand om småjobben – med återbrukshyllan i lagret som första stopp.", "tagg": "vvs"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ettårsuppföljning: 68 procent mindre köpt energi", "text": "Snittet för de 112 villor vi installerade bergvärme i under 2025.", "tagg": "hem"},
+    {"rubrik": "Återbrukshyllan fyller ett år", "text": "Sedan hösten 2025 har 230 toalettstolar och tvättställ fått ett nytt badrum i stället för deponi.", "tagg": "vvs"},
+    {"rubrik": "Brf Rudbecksgatan byter värmesystem", "text": "Frånluftsvärmepumpar i 84 lägenheter halverar föreningens fjärrvärmekostnad.", "tagg": "bostad"}
+  ],
+  "nyckeltal": [
+    {"varde": "640", "enhet": "pannor", "etikett": "Olja och el ersatta"},
+    {"varde": "68 %", "enhet": "", "etikett": "Mindre köpt energi i snitt"},
+    {"varde": "100 %", "enhet": "", "etikett": "Elbilar i service"},
+    {"varde": "230", "enhet": "enheter", "etikett": "Återbrukat porslin"}
+  ],
+  "projekt": [
+    {"namn": "Brf Rudbecksgatan", "ort": "Örebro", "typ": "Frånluftsvärmepumpar, 84 lgh", "ar": "2026", "text": "Tre värmepumpar på vinden tar tillvara värmen i ventilationsluften och halverar fjärrvärmen.", "tagg": "bostad"},
+    {"namn": "Villa i Adolfsberg", "ort": "Örebro", "typ": "Bergvärme", "ar": "2025", "text": "Direktverkande el ersattes med vattenburen värme och en 8 kW bergvärmepump.", "tagg": "hem"},
+    {"namn": "Gården Lindhult", "ort": "Kumla", "typ": "Solvärme och pellets", "ar": "2025", "text": "Tolv kvadratmeter solfångare laddar en 1 000-literstank från april till september.", "tagg": "natur"},
+    {"namn": "Radhus i Lillån", "ort": "Örebro", "typ": "Badrum med återbruk", "ar": "2025", "text": "Badrum med återbrukat porslin och klinker – klimatavtrycket beräknat till 60 procent under ett nytt.", "tagg": "interior"},
+    {"namn": "Hallsbergs Folkets hus", "ort": "Hallsberg", "typ": "Injustering", "ar": "2024", "text": "Injustering av 140 radiatorer gav jämnare värme och 14 procent lägre förbrukning.", "tagg": "vvs"},
+    {"namn": "Villakvarteret Mosås", "ort": "Örebro", "typ": "Luft/vatten, 12 villor", "ar": "2024", "text": "Samordnad installation i ett område där bergborrning inte var tillåten.", "tagg": "hem"}
+  ],
+  "process": [
+    {"titel": "Mätning", "text": "Vi sätter upp en energimätare i två veckor eller räknar på dina senaste tre års fakturor.", "tagg": "kontor"},
+    {"titel": "Beräkning", "text": "Du får en rapport med effektbehov, förslag på lösning, investering och återbetalningstid.", "tagg": "kontor"},
+    {"titel": "Installation", "text": "Våra egna montörer installerar. En bergvärmepump tar normalt två dagar plus borrning.", "tagg": "hem"},
+    {"titel": "Uppföljning", "text": "Efter ett år jämför vi den verkliga förbrukningen med beräkningen och justerar om det behövs.", "tagg": "vvs"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi redovisar vårt eget avtryck också",
+    "text": "Fröjd klimatberäknar varje badrum och varje värmeinstallation och redovisar resultatet för kunden. Våra 19 servicebilar är elbilar som laddas med solel från taket på verkstaden, och allt koppar och mässing säljs till återvinning i Karlskoga.",
+    "mal": [["19 av 19", "servicebilar är elbilar"], ["85 kW", "solceller på verkstadstaket"], ["1 år", "uppföljning efter varje installation"]]
+  },
+  "karriar": {
+    "rubrik": "För dig som vill göra mätbar skillnad",
+    "text": "Vi söker montörer och ingenjörer som vill förstå varför, inte bara hur. Alla anställda får F-gascertifikat och en dag per månad för egen fortbildning.",
+    "jobb": [["Värmepumpsmontör", "Örebro"], ["Energiingenjör", "Örebro"], ["Servicetekniker VVS", "Lindesberg"]]
+  },
+  "kultur": "Vi cyklar eller samåker till verkstaden, och hälften av oss har solceller hemma.",
+  "citat": {"text": "Det mest hållbara rör vi kan installera är det som inte behöver bytas på femtio år. Det andra mest hållbara är det vi lagar i stället för att kasta.", "namn": "Linnea Fröjd", "roll": "Grundare och energiingenjör", "tagg": "people"},
+  "omdomen": [
+    {"text": "Andra firmor ville sälja en 12 kW-pump. Fröjd mätte och landade på 8 kW. Elräkningen har mer än halverats.", "namn": "Mikael S.", "ort": "Adolfsberg"},
+    {"text": "Att de faktiskt kom tillbaka efter ett år och visade siffrorna – det har ingen annan hantverkare gjort.", "namn": "Annika L.", "ort": "Kumla"},
+    {"text": "Vår blandare skulle bytas enligt förra rörmokaren. Fröjd bytte en patron för 380 kronor.", "namn": "Bo E.", "ort": "Örebro"}
+  ],
+  "faq": [
+    ["Vad kostar bergvärme?", "En normal villa landar på 150 000–210 000 kronor inklusive borrning, före rotavdrag. Du får exakt pris efter effektberäkningen."],
+    ["Hur lång är återbetalningstiden?", "För en villa med direktverkande el eller olja brukar den vara 6–9 år. Vi visar din beräkning innan du bestämmer dig."],
+    ["Kan ni använda mitt gamla porslin?", "Ja, om det är helt och har rätt anslutning. Vi tar också emot porslin till vår återbrukshylla."],
+    ["Servar ni andra märken än de ni säljer?", "Ja, vi servar alla vanliga värmepumpsmärken och har reservdelar för de flesta."],
+    ["Får jag grönt avdrag för solfångare?", "Ja, solvärme ger skattereduktion för grön teknik. Vi sköter avdraget direkt på fakturan."],
+    ["Vad händer om pumpen drar mer än ni lovat?", "Då justerar vi installationen utan kostnad. Det är därför vi följer upp efter ett år."]
+  ],
+  "certifikat": [
+    {"titel": "F-gascertifikat", "text": "Alla montörer är certifierade enligt EU:s F-gasförordning, kategori I.", "ikon": "sol"},
+    {"titel": "Säker Vatten", "text": "Auktoriserat företag enligt branschreglerna Säker Vatteninstallation.", "ikon": "vatten"},
+    {"titel": "Certifierad energiexpert", "text": "Två av våra ingenjörer är certifierade energiexperter och kan upprätta energideklarationer.", "ikon": "graf"},
+    {"titel": "ISO 14001", "text": "Miljöledningssystem certifierat sedan 2019.", "ikon": "lov"}
+  ],
+  "kunder": ["Brf Rudbecksgatan", "Hallsbergs Folkets hus", "Kumla Bostadsstiftelse", "Brf Svampen Norra", "Gården Lindhult", "Örebro Läns Hembygdsförbund", "Lindesbergs Hyresfastigheter"],
+  "nyheter": [
+    ["2026-10-20", "Så räknar vi ut rätt storlek på värmepumpen", "Därför är den största pumpen nästan aldrig den bästa.", "hem"],
+    ["2026-07-02", "Ettårsuppföljningen är klar", "112 villor, 68 procent mindre köpt energi – och tre som vi fick justera.", "kontor"],
+    ["2026-03-25", "Lämna ditt gamla porslin till oss", "Hela toaletter och tvättställ får nytt liv i andras badrum.", "vvs"]
+  ],
+  "kontakt": {"adress": "Bettorpsgatan 22", "postnr": "703 69", "ort": "Örebro", "telefon": "070-174 06 53", "epost": "hej@frojdvarme.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Örebro, Kumla, Hallsberg, Lindesberg och Nora",
+  "fot_cta": "Skicka din energideklaration – vi räknar gratis på vad du kan spara.",
+  "bild": {"hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Räkna på mitt hus",
+    "hero_knapp": "Så sparar du energi",
+    "ber_rubrik": "Siffror och nyheter",
+    "proj_rubrik": "Hus som drar mindre i dag",
+    "process_rubrik": "Mät, räkna, installera, följ upp",
+    "hb_etikett": "Klimat och resurser",
+    "hb_lank": "Så räknar vi klimatavtryck",
+    "omdomen_rubrik": "Kunder som jämfört elräkningen",
+    "faq_rubrik": "Frågor om värme och besparing",
+    "boka_rubrik": "Få en gratis energiberäkning",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Byggår, uppvärmning och årsförbrukning"],
+    "logos_rubrik": "Fastigheter som sänkt förbrukningen",
+    "certifikat_rubrik": "Behörigheter för värme och energi",
+    "vagval_etikett": "Spara",
+    "medarbetare": "Montörer och ingenjörer"
+  }
+}

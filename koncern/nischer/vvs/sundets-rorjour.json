@@ -1,0 +1,135 @@
+{
+  "profil": "nisch",
+  "nisch": "vvs",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Sundets Rörjour AB",
+  "kortnamn": "Sundets Rörjour",
+  "slug": "sundets-rorjour",
+  "typ": "Rörjour dygnet runt i Malmö och Skåne",
+  "tagline": "Dygnet runt, året om",
+  "slogan": "Stopp i avloppet klockan tre en söndagsnatt? Då är det vi som svarar – en rörmokare, inte en callcenter.",
+  "hero_rubrik": "Vi är framme inom 60 minuter i hela Malmö",
+  "hero_text": "Akuta läckor, stopp och vattenskador dygnet runt. Åtta jourbilar och en spolbil i rörelse mellan Lund, Malmö, Trelleborg och Ystad.",
+  "intro_rubrik": "Vad som händer när du ringer",
+  "om": [
+    "Amir Haddad jobbade natt som servicetekniker i sju år och såg hur kunder fick vänta till måndag för att ingen svarade i helgen. 2011 startade han Sundets Rörjour med en skåpbil, en rörspole och telefonen på nattduksbordet.",
+    "I dag är vi 22 anställda som går i treskift. Jourcentralen på Jägersro bemannas av två rörmokare dygnet runt, och de ser var varje bil befinner sig på kartan. Förra året gjorde vi 8 400 utryckningar, varav en tredjedel mellan 22 och 06."
+  ],
+  "vagval_rubrik": "Vad har hänt?",
+  "tjanster": [
+    {"titel": "Akut vattenläcka", "ikon": "vatten", "href": "verksamhet.html", "text": "Vi stänger av, lokaliserar läckan och lagar provisoriskt samma natt."},
+    {"titel": "Stopp i avlopp", "ikon": "ror", "href": "verksamhet.html", "text": "Mekanisk rensning eller högtrycksspolning av kök, toalett och stam."},
+    {"titel": "Spolbil", "ikon": "bil", "href": "verksamhet.html", "text": "Slamsugning och spolning av servisledningar och fettavskiljare."},
+    {"titel": "Översvämmad källare", "ikon": "hus", "href": "verksamhet.html", "text": "Länspumpning efter skyfall och backflöde från kommunens ledningsnät."},
+    {"titel": "Läcksökning", "ikon": "sok", "href": "verksamhet.html", "text": "Värmekamera och spårgas när läckan sitter i golv eller vägg."},
+    {"titel": "Kamerafilmning", "ikon": "kamera", "href": "verksamhet.html", "text": "Vi filmar direkt efter spolningen och visar orsaken till stoppet."},
+    {"titel": "Avtal för fastigheter", "ikon": "nyckel", "href": "verksamhet.html", "text": "Jouravtal med fast svarstid för förvaltare och föreningar."},
+    {"titel": "Ring jouren", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "070-174 06 42 – öppet alla dygnets timmar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Akuta läckor och vattenskador", "text": "När vatten rinner där det inte ska handlar det om minuter. Vi stänger av, säkrar och sätter in avfuktare innan skadan sprider sig till grannen under.", "text2": "Vi fotograferar och skriver skaderapport direkt till ditt försäkringsbolag.", "tagg": "vvs"},
+    {"titel": "Stopp och spolning", "text": "Hälften av våra utryckningar gäller stopp. De flesta löser vi med rensmaskin på under en timme, och svårare stopp i stammar och servisledningar tar spolbilen hand om.", "text2": "Spolbilen har 300 bars tryck och 4 000 liter slamtank.", "tagg": "vvs"},
+    {"titel": "Skyfall och översvämning", "text": "Efter skyfallen i Malmö de senaste åren har vi länspumpat hundratals källare. Vi monterar också backventiler så att det inte händer igen.", "text2": "En backventil i en villa kostar runt 14 000 kronor installerad.", "tagg": "bostad"},
+    {"titel": "Jouravtal för fastighetsägare", "text": "Förvaltare och bostadsrättsföreningar får ett eget nummer, prioritet i kön och samma timpris dag som natt. Vi skickar en rapport efter varje utryckning.", "text2": "Svarstid inom 45 minuter i Malmö, 90 minuter i övriga Skåne.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Jourcentralen", "segment": "6 rörmokare i skift", "rubrik": "Två personer vakna dygnet runt", "text": "Tar emot samtal, ger råd om hur du stänger av vattnet och skickar närmaste bil.", "tagg": "kontor"},
+    {"namn": "Utryckning", "segment": "13 tekniker, 8 bilar", "rubrik": "Fullt lager i varje bil", "text": "Rensmaskin, värmekamera, avfuktare och reservdelar för de vanligaste läckorna.", "tagg": "vvs"},
+    {"namn": "Spolbil och filmning", "segment": "3 förare", "rubrik": "Tunga stopp och servisledningar", "text": "Högtrycksspolning, slamsugning och filmning av ledningar upp till 300 millimeter.", "tagg": "anlaggning"}
+  ],
+  "berattelser": [
+    {"rubrik": "Skyfallet den 14 augusti", "text": "Vi tog emot 412 samtal på ett dygn och hade alla bilar ute i 31 timmar i sträck.", "tagg": "stad"},
+    {"rubrik": "Ny spolbil på plats", "text": "Den andra spolbilen gör att vi kan ta Lund och Ystad parallellt nattetid.", "tagg": "anlaggning"},
+    {"rubrik": "Jouravtal med 140 föreningar", "text": "Bostadsrättsföreningar i Västra Hamnen och Limhamn har nu ett eget prioriterat nummer.", "tagg": "bostad"}
+  ],
+  "nyckeltal": [
+    {"varde": "24/7", "enhet": "", "etikett": "Bemannad jourcentral"},
+    {"varde": "47", "enhet": "minuter", "etikett": "Snittid till dörren i Malmö"},
+    {"varde": "8 400", "enhet": "per år", "etikett": "Utryckningar 2025"},
+    {"varde": "8", "enhet": "bilar", "etikett": "Ute varje natt"}
+  ],
+  "projekt": [
+    {"namn": "Skyfallsnatten i Malmö", "ort": "Malmö", "typ": "Länspumpning", "ar": "2026", "text": "412 samtal på ett dygn och 96 källare länspumpade innan räddningstjänsten hann dit.", "tagg": "stad", "status": "Utfört"},
+    {"namn": "Brf Ankarparken", "ort": "Malmö", "typ": "Stopp i stam", "ar": "2025", "text": "Stopp i en spillvattenstam på plan 9 – spolat och filmat klockan två på natten.", "tagg": "vvs"},
+    {"namn": "Restaurangkök på Möllevången", "ort": "Malmö", "typ": "Fettavskiljare", "ar": "2025", "text": "Akut slamsugning en lördagskväll så att köket kunde öppna igen efter 40 minuter.", "tagg": "vvs"},
+    {"namn": "Villa i Bjärred", "ort": "Lomma", "typ": "Vattenläcka", "ar": "2025", "text": "Läcka i golvvärmeslinga lokaliserad med spårgas och lagad utan att riva hela golvet.", "tagg": "hem"},
+    {"namn": "Studenthusen i Lund", "ort": "Lund", "typ": "Jouravtal", "ar": "2024", "text": "Jour för 2 300 studentrum med svarstid 60 minuter dygnet runt.", "tagg": "bostad"},
+    {"namn": "Trelleborgs hamnkontor", "ort": "Trelleborg", "typ": "Spolning och filmning", "ar": "2024", "text": "Rotinträngning i servisledning – spolad, filmad och åtgärdad med punktlining.", "tagg": "anlaggning"}
+  ],
+  "process": [
+    {"titel": "Du ringer", "text": "En rörmokare svarar, inte en telefonist. Vi hjälper dig stänga av vattnet medan bilen är på väg.", "tagg": "kontor"},
+    {"titel": "Bilen åker", "text": "Du får ett sms med teknikerns namn och beräknad ankomst. I Malmö oftast inom en timme.", "tagg": "vvs"},
+    {"titel": "Akut åtgärd", "text": "Vi stoppar läckan eller löser stoppet och berättar vad det kostar innan vi gör något mer.", "tagg": "vvs"},
+    {"titel": "Rapport", "text": "Foton, film och skaderapport skickas samma dag – färdigt att skicka till försäkringsbolaget.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Snabbt, men aldrig slarvigt",
+    "text": "Jourtekniker som jobbar natt får inte gå mer än tre nätter i följd och har alltid elva timmars vila. Bilarna går på HVO100, och slam från spolbilen lämnas till VA SYD:s mottagning i Sjölunda.",
+    "mal": [["3", "nätter i följd som mest"], ["HVO100", "i alla jourbilar"], ["Fast pris", "på utryckning, dygnet runt"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba när andra sover – och få betalt för det",
+    "text": "Vi söker rörmokare som tycker om tempo och inte gillar samma jobb två dagar i rad. Ob-tillägg enligt VVS-avtalet, egen jourbil och fyra dagars arbetsvecka i skiftschemat.",
+    "jobb": [["Jourtekniker VVS, natt", "Malmö"], ["Spolbilsförare med C-körkort", "Malmö"], ["Jourtekniker VVS", "Lund"]]
+  },
+  "kultur": "Skiftschemat görs tolv veckor i förväg, och den som jobbar julafton är ledig på nyår.",
+  "citat": {"text": "Ingen ringer oss för att de har tråkigt. Den som ringer är stressad, och det första vi gör är att hjälpa dem att stänga av vattnet.", "namn": "Amir Haddad", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Ringde 02.40 när diskmaskinen läckt ut i köket. Han var här 03.25 och hade avfuktaren igång innan jag hunnit klä på mig.", "namn": "Karin W.", "ort": "Limhamn"},
+    {"text": "Vi har jouravtalet för föreningen. Rapporterna efter varje utryckning gör styrelsens liv mycket enklare.", "namn": "Fredrik N., Brf Kajen", "ort": "Malmö"},
+    {"text": "Fast pris på utryckningen, även en söndag. Inga överraskningar på fakturan.", "namn": "Sanna O.", "ort": "Staffanstorp"}
+  ],
+  "faq": [
+    ["Vad kostar en utryckning?", "Vi tar fast pris för utryckning inklusive första halvtimmen: 1 295 kronor dagtid, 1 995 kronor kvällar och 2 895 kronor nätter och helger. Därefter gäller timpris."],
+    ["Hur snabbt kommer ni?", "I Malmö är snittiden 47 minuter. Till Lund, Trelleborg och Vellinge räknar vi med 60–90 minuter, Ystad lite längre."],
+    ["Vad ska jag göra innan ni kommer?", "Stäng huvudkranen, oftast vid vattenmätaren i källaren eller under diskbänken. Stäng av strömmen till rum där vatten har nått eluttag."],
+    ["Gäller rotavdrag på jourarbete?", "Ja, för arbetskostnaden i ditt hem. Utryckningsavgiften räknas också som arbete."],
+    ["Pratar ni med mitt försäkringsbolag?", "Vi skickar skaderapport med foton direkt och har arbetat med alla större försäkringsbolag i Skåne. Självrisken betalar du till försäkringsbolaget."],
+    ["Gör ni större renoveringar efter skadan?", "Nej, vi gör det akuta och dokumenterar. Återställningen lämnar vi till försäkringsbolagets entreprenör eller din egen hantverkare."],
+    ["Kan föreningen få ett eget nummer?", "Ja, med ett jouravtal får styrelsen och förvaltaren ett prioriterat nummer och samma timpris dygnet runt."]
+  ],
+  "priser": [
+    {"namn": "Dagtid", "pris": "1 295 kr", "enhet": "vardagar 7–17", "text": "Utryckning inklusive första halvtimmen.", "punkter": ["Rörmokare på plats inom 60 min i Malmö", "Rensmaskin och värmekamera i bilen", "Därefter 895 kr per timme", "Före rotavdrag"]},
+    {"namn": "Kväll", "pris": "1 995 kr", "enhet": "vardagar 17–22", "text": "Det vanligaste – läckan upptäcks när du kommer hem.", "punkter": ["Fast pris för utryckningen", "Första halvtimmen ingår", "Därefter 1 195 kr per timme", "Skaderapport till försäkringsbolaget"], "utvald": true},
+    {"namn": "Natt och helg", "pris": "2 895 kr", "enhet": "22–07, lördag, söndag och helgdag", "text": "Samma tekniker, samma utrustning, klockan tre på natten.", "punkter": ["Fast pris även på juldagen", "Första halvtimmen ingår", "Därefter 1 495 kr per timme", "Avfuktare utan extra hyra första dygnet"]}
+  ],
+  "prislista": [["Spolbil, per timme", "2 400 kr"], ["Kamerafilmning med rapport", "2 900 kr"], ["Läcksökning med spårgas", "fr. 4 500 kr"], ["Avfuktare, per dygn efter första", "190 kr"], ["Backventil i villa, installerad", "fr. 14 000 kr"], ["Länspump, per timme", "650 kr"]],
+  "certifikat": [
+    {"titel": "Säker Vatten", "text": "Auktoriserat företag – även provisoriska lagningar dokumenteras enligt branschreglerna.", "ikon": "vatten"},
+    {"titel": "Heta arbeten", "text": "Alla tekniker har certifikat för heta arbeten från Brandskyddsföreningen.", "ikon": "eld"},
+    {"titel": "ADR för spolbil", "text": "Våra spolbilsförare har ADR-utbildning för transport av slam och farligt avfall.", "ikon": "bil"},
+    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Vi är försäkrade för skador vi orsakar upp till tio miljoner kronor.", "ikon": "skold"}
+  ],
+  "kunder": ["Brf Kajen", "Studenthusen i Lund", "Öresund Förvaltning", "Brf Limhamns Torg", "Vellinge Hyreshus", "Möllans Restauranggrupp", "Trelleborgs Hamnfastigheter"],
+  "nyheter": [
+    ["2026-08-16", "412 samtal på ett dygn", "Så hanterade vi skyfallet i augusti – och vad du kan göra inför nästa.", "stad"],
+    ["2026-05-20", "Andra spolbilen i trafik", "Nu kan vi ta tunga stopp i Lund och Ystad samtidigt, även nattetid.", "anlaggning"],
+    ["2026-01-09", "Frusna rör i fritidshuset", "Fem saker att göra innan du stänger stugan för vintern.", "hem"]
+  ],
+  "kontakt": {"adress": "Jägersrovägen 160", "postnr": "212 37", "ort": "Malmö", "telefon": "070-174 06 42", "epost": "jour@sundetsror.se", "orgnr": ""},
+  "oppettider": "Jour dygnet runt, alla dagar",
+  "omrade": "Malmö, Lund, Trelleborg, Vellinge, Staffanstorp och Ystad",
+  "fot_cta": "Rinner det just nu? Ring 070-174 06 42 – vi svarar alltid.",
+  "text": {
+    "kontakt_knapp": "Ring jouren",
+    "hero_knapp": "Vad har hänt?",
+    "hero_lank": "Se priser",
+    "ber_rubrik": "Från jourcentralen",
+    "proj_rubrik": "Utryckningar vi minns",
+    "process_rubrik": "Från samtal till skaderapport",
+    "hb_etikett": "Arbetsmiljö och fordon",
+    "omdomen_rubrik": "Mitt i natten, enligt kunderna",
+    "faq_rubrik": "Bra att veta när det är bråttom",
+    "priser_etikett": "Fasta priser",
+    "priser_rubrik": "Vad kostar det att ringa oss?",
+    "priser_not": "Priser inklusive moms, före rotavdrag.",
+    "priser_knapp": "Ring jouren",
+    "priser_utvald": "Flest samtal",
+    "boka_rubrik": "Inte akut? Skriv till oss",
+    "boka_text": "För jouravtal och planerade besök svarar vi inom en arbetsdag. Är det akut – ring.",
+    "logos_rubrik": "Fastigheter med jouravtal",
+    "certifikat_rubrik": "Säkert även klockan tre på natten",
+    "bolag_rubrik": "Tre grupper, ett dygn",
+    "medarbetare": "Jourteknikerna"
+  }
+}

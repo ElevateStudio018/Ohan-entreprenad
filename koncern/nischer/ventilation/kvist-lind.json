@@ -1,0 +1,137 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kvist & Lind Besiktning AB",
+  "kortnamn": "Kvist & Lind",
+  "slug": "kvist-lind",
+  "typ": "Oberoende OVK-besiktning i Västerbotten",
+  "tagline": "Vi besiktar, inget annat",
+  "slogan": "Kvist & Lind besiktar ventilation och skriver protokoll – vi installerar ingenting och har inget att sälja efteråt.",
+  "hero_rubrik": "Ett protokoll utan något att sälja",
+  "hero_text": "Sex certifierade funktionskontrollanter i Umeå. Vi gör OVK, flödesmätningar och ventilationsutredningar – och tjänar inte en krona på åtgärderna.",
+  "intro_rubrik": "Oberoende sedan första dagen",
+  "om": [
+    "Annelie Kvist och Tomas Lind arbetade båda som funktionskontrollanter på installationsföretag i Umeå. De tröttnade på att samma bolag som hittade felen också skulle tjäna på att laga dem, och startade en ren besiktningsbyrå 2012.",
+    "I dag är vi sex funktionskontrollanter med kontor på Västra Esplanaden. Vi besiktar bostadsrättsföreningar, skolor och vårdlokaler från Skellefteå till Örnsköldsvik – och lämnar en åtgärdslista som vilken installatör som helst kan räkna på."
+  ],
+  "vagval_rubrik": "Vilken besiktning gäller det?",
+  "tjanster": [
+    {"titel": "OVK flerbostadshus", "ikon": "hus", "href": "verksamhet.html", "text": "Besiktning per lägenhet med tydlig åtgärdslista per trapphus."},
+    {"titel": "OVK skolor och vård", "ikon": "skola", "href": "verksamhet.html", "text": "Treårsbesiktningar i förskolor, skolor och vårdlokaler, utanför verksamhetstid."},
+    {"titel": "OVK småhus", "ikon": "hem", "href": "verksamhet.html", "text": "Första besiktning efter installation av FTX eller frånluftsvärmepump."},
+    {"titel": "Flödesmätning", "ikon": "graf", "href": "verksamhet.html", "text": "Kontroll av luftflöden när någon klagar på drag, lukt eller dålig luft."},
+    {"titel": "Ventilationsutredning", "ikon": "sok", "href": "verksamhet.html", "text": "Fukt, mögel eller kondens? Vi utreder orsaken och vad som behöver göras."},
+    {"titel": "Kontroll av injustering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Stickprov på en installatörs injustering innan ni godkänner slutbesiktningen."},
+    {"titel": "Fasta priser", "ikon": "dokument", "href": "priser.html", "text": "Pris per lägenhet, per småhus och per aggregat."},
+    {"titel": "Boka besiktning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi har lediga tider inom tre veckor året runt."}
+  ],
+  "affarsomraden": [
+    {"titel": "OVK i bostäder", "text": "Vi besiktar runt 3 000 lägenheter om året, oftast i bostadsrättsföreningar som vill ha en oberoende bedömning. Varje brist dokumenteras med foto, rumsnummer och uppmätt flöde.", "text2": "Åtgärdslistan är skriven så att ni kan ta in offerter från flera installatörer.", "tagg": "ventilation"},
+    {"titel": "Skolor och vårdlokaler", "text": "Förskolor, skolor och vårdlokaler ska besiktas vart tredje år oavsett system. Vi gör det på kvällar och lov för att inte störa verksamheten.", "text2": "Protokollet skickas till byggnadsnämnden av oss, med kopia till er.", "tagg": "interior"},
+    {"titel": "Utredningar", "text": "När det luktar i trapphuset, drar i sovrummet eller bildas kondens på fönstren mäter vi flöden, tryck och fukt. Ni får en rapport med orsak och förslag – inte ett försäljningsförslag.", "text2": "Utredningarna används ofta som underlag i tvister mellan förening och entreprenör.", "tagg": "bostad"},
+    {"titel": "Småhus", "text": "När du installerar FTX, F- eller FT-system i villan krävs en första OVK innan systemet tas i bruk. Vi kommer ut, mäter och skickar protokollet till kommunen.", "text2": "Besöket tar en till två timmar och kostar fast pris.", "tagg": "hem"}
+  ],
+  "bolag": [
+    {"namn": "Bostäder", "segment": "3 funktionskontrollanter", "rubrik": "Föreningar och hyreshus", "text": "OVK och flödesmätning i flerbostadshus från Skellefteå till Örnsköldsvik.", "tagg": "bostad"},
+    {"namn": "Lokaler", "segment": "2 funktionskontrollanter med behörighet K", "rubrik": "Skolor, vård och kontor", "text": "Komplicerade anläggningar med flera aggregat, styrsystem och behovsstyrning.", "tagg": "kontor"},
+    {"namn": "Utredning", "segment": "1 ventilationsingenjör", "rubrik": "När något är fel", "text": "Fukt- och luftutredningar, kontroll av injustering och sakkunnigutlåtanden.", "tagg": "ventilation"}
+  ],
+  "berattelser": [
+    {"rubrik": "Tvisten på Ålidhem avgjord", "text": "Vår mätning visade att injusteringen aldrig gjorts. Entreprenören fick åtgärda på egen bekostnad.", "tagg": "bostad"},
+    {"rubrik": "Skellefteå växer – vi också", "text": "En sjätte funktionskontrollant anställd för att klara alla nya bostäder norrut.", "tagg": "people"},
+    {"rubrik": "Lovbesiktningar i Vännäs", "text": "Tolv förskolor besiktade under jullovet, utan ett enda stört pass.", "tagg": "interior"}
+  ],
+  "nyckeltal": [
+    {"varde": "0", "enhet": "kr", "etikett": "Det vi tjänar på åtgärderna"},
+    {"varde": "3 000", "enhet": "lgh/år", "etikett": "Besiktade lägenheter"},
+    {"varde": "6", "enhet": "personer", "etikett": "Alla certifierade"},
+    {"varde": "3", "enhet": "veckor", "etikett": "Längsta väntetid på besiktning"}
+  ],
+  "projekt": [
+    {"namn": "Brf Ålidhöjden", "ort": "Ålidhem, Umeå", "typ": "Utredning", "ar": "2026", "text": "Mätning av 64 lägenheter visade att den nya FTX-anläggningen aldrig hade injusterats.", "tagg": "bostad"},
+    {"namn": "Förskolor i Vännäs", "ort": "Vännäs", "typ": "OVK lokaler", "ar": "2025", "text": "Tolv förskolor besiktade under jullovet, protokoll till byggnadsnämnden före skolstart.", "tagg": "interior"},
+    {"namn": "Kv. Morkullan", "ort": "Skellefteå", "typ": "OVK nyproduktion", "ar": "2025", "text": "Första besiktning av 140 nya lägenheter innan inflyttning.", "tagg": "ventilation"},
+    {"namn": "Vårdcentralen Teg", "ort": "Umeå", "typ": "OVK med behörighet K", "ar": "2025", "text": "Tre aggregat med behovsstyrning och tryckstyrda frånluftsdon, besiktade nattetid.", "tagg": "kontor"},
+    {"namn": "Brf Strandängen", "ort": "Örnsköldsvik", "typ": "OVK flerbostadshus", "ar": "2024", "text": "96 lägenheter, 11 anmärkningar och en åtgärdslista som föreningen tog in tre offerter på.", "tagg": "ventilation"},
+    {"namn": "Villa i Holmsund", "ort": "Holmsund", "typ": "OVK småhus", "ar": "2024", "text": "Första besiktning efter installation av frånluftsvärmepump.", "tagg": "hem"}
+  ],
+  "process": [
+    {"titel": "Bokning och avisering", "text": "Vi skickar färdiga aviseringslappar till föreningen två veckor före besiktningen.", "tagg": "kontor"},
+    {"titel": "Besiktning", "text": "Vi mäter flöden i varje don, kontrollerar aggregat, filter och kanaler och fotograferar alla brister.", "tagg": "ventilation"},
+    {"titel": "Protokoll och åtgärdslista", "text": "Inom fem arbetsdagar får ni protokollet och en åtgärdslista som går att skicka på offertförfrågan.", "tagg": "interior"},
+    {"titel": "Ombesiktning", "text": "När bristerna är åtgärdade kontrollerar vi just dem och skickar slutligt protokoll till kommunen.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varför vi aldrig lagar något",
+    "text": "En besiktning är bara värd något om den som gör den inte har något att vinna på resultatet. Därför äger vi inga montörer, tar ingen provision från installatörer och rekommenderar aldrig ett enskilt företag.",
+    "mal": [["0", "provisioner från installatörer"], ["5 dagar", "från besiktning till protokoll"], ["100 %", "av bristerna fotodokumenterade"]]
+  },
+  "karriar": {
+    "rubrik": "Bli funktionskontrollant hos oss",
+    "text": "Vi söker dig som har arbetat med ventilation i några år och vill gå över till besiktning. Vi betalar certifieringen och du går bredvid en kollega det första halvåret.",
+    "jobb": [["Funktionskontrollant OVK", "Skellefteå"]]
+  },
+  "kultur": "Varje fredag går vi igenom veckans svåraste protokoll tillsammans, så att alla bedömer likadant.",
+  "citat": {"text": "Föreningar frågar ofta vem vi tycker att de ska anlita för åtgärderna. Svaret är alltid detsamma: ta in tre offerter på vår lista.", "namn": "Annelie Kvist", "roll": "Medgrundare och funktionskontrollant", "tagg": "people"},
+  "omdomen": [
+    {"text": "Den förra besiktningen gjordes av samma firma som sedan ville byta allt. Kvist & Lind hittade elva brister, varav nio vi kunde åtgärda själva.", "namn": "Per-Olof N.", "ort": "Brf Strandängen, Örnsköldsvik"},
+    {"text": "Deras mätrapport var avgörande i tvisten med entreprenören. Den var omöjlig att argumentera emot.", "namn": "Sanna M.", "ort": "Ålidhem, Umeå"},
+    {"text": "De besiktade alla tolv förskolor på lovet. Personalen märkte inte ens att de hade varit där.", "namn": "Henrik B.", "ort": "Vännäs"}
+  ],
+  "faq": [
+    ["Varför ska vi välja en oberoende besiktningsbyrå?", "För att den som besiktar inte ska kunna tjäna på att hitta fel. Vi installerar ingenting, så vår enda uppgift är att bedöma om ventilationen fungerar."],
+    ["Hur ofta ska vi göra OVK?", "Flerbostadshus och kontor med FT- eller FTX-system vart tredje år, med självdrag eller F-system vart sjätte. Skolor, förskolor och vårdlokaler alltid vart tredje år."],
+    ["Behöver villor OVK?", "Bara en första besiktning när ett nytt FTX-, F- eller FT-system installeras. Därefter finns inga återkommande krav för småhus."],
+    ["Måste vi komma in i alla lägenheter?", "Ja, varje don ska mätas. Vi skickar aviseringslappar och kommer tillbaka en extra dag för dem som inte var hemma, utan kostnad."],
+    ["Vem skickar protokollet till kommunen?", "Vi gör det. Ni får en kopia och ska enligt lag sätta upp ett intyg om besiktningen väl synligt i huset."],
+    ["Kan ni rekommendera någon som åtgärdar bristerna?", "Nej, det gör vi aldrig. Men åtgärdslistan är skriven så att vilken ventilationsfirma som helst kan räkna på den."],
+    ["Hur långt reser ni?", "Hela Västerbotten och södra Norrbotten samt Örnsköldsvik. Resor över fem mil debiteras med milersättning."]
+  ],
+  "priser": [
+    {"namn": "Småhus", "pris": "3 900 kr", "enhet": "per villa", "text": "Första besiktning efter installation.", "punkter": ["Mätning av alla don", "Kontroll av aggregat och filter", "Protokoll till kommunen", "Inom Umeå kommun ingår resan"]},
+    {"namn": "Flerbostadshus", "pris": "fr. 390 kr", "enhet": "per lägenhet", "text": "OVK med åtgärdslista per trapphus.", "punkter": ["Aviseringslappar ingår", "Extra besöksdag utan kostnad", "Fotodokumenterade brister", "Ombesiktning av upp till 10 lägenheter ingår"], "utvald": true},
+    {"namn": "Lokaler", "pris": "fr. 6 900 kr", "enhet": "per aggregat", "text": "Skolor, vård och kontor.", "punkter": ["Besiktning utanför verksamhetstid", "Behörighet K vid behov", "Kontroll av styr och behovsstyrning", "Protokoll till byggnadsnämnden"]}
+  ],
+  "prislista": [["Ombesiktning per besök", "1 900 kr"], ["Flödesmätning, enstaka lägenhet", "1 650 kr"], ["Ventilationsutredning", "fr. 9 500 kr"], ["Kontroll av injustering, stickprov", "fr. 7 500 kr"], ["Resor över 5 mil", "45 kr/mil"], ["Kvälls- och helgbesiktning", "+25 %"]],
+  "certifikat": [
+    {"titel": "Certifierade funktionskontrollanter", "text": "Alla sex har behörighet N, två har även kvalificerad behörighet K.", "ikon": "dokument"},
+    {"titel": "Oberoende besiktning", "text": "Inga ägarband, provisioner eller samarbetsavtal med installatörer.", "ikon": "las"},
+    {"titel": "Ansvarsförsäkring", "text": "Konsultansvarsförsäkring på 10 miljoner kronor per skada.", "ikon": "skold"},
+    {"titel": "Kalibrerade instrument", "text": "Flödes- och tryckmätare kalibreras årligen hos ackrediterat laboratorium.", "ikon": "graf"}
+  ],
+  "kunder": ["Brf Ålidhöjden", "Brf Strandängen", "Skelleftebo Hyresfastigheter", "Vännäs förskolor", "Umeå Vårdlokaler AB", "Brf Tegsbron", "Holmsunds Egnahem"],
+  "nyheter": [
+    ["2026-09-30", "Ny kollega i Skellefteå", "Jonas Öhman börjar som funktionskontrollant med kontor på Kanalgatan.", "people"],
+    ["2026-04-08", "Så läser ni ett OVK-protokoll", "En enkel genomgång av alla rutor, koder och anmärkningar.", "ventilation"],
+    ["2025-12-15", "Lediga lovtider för skolor", "Vi har kvar tider under sportlovet för förskolor och skolor.", "interior"]
+  ],
+  "kontakt": {"adress": "Västra Esplanaden 11", "postnr": "903 26", "ort": "Umeå", "telefon": "070-174 06 38", "epost": "besiktning@kvistlind.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–16.30",
+  "omrade": "Västerbotten, södra Norrbotten och Örnsköldsvik",
+  "fot_cta": "Vill ni ha en besiktning som ingen tjänar på? Boka en tid inom tre veckor.",
+  "bild": {"panel": "people", "hb": "ventilation"},
+  "text": {
+    "ber_etikett": "Senast",
+    "ber_rubrik": "Från våra protokoll",
+    "proj_rubrik": "Besiktningar vi har gjort",
+    "proj_rubrik_lista": "Besiktningar och utredningar",
+    "sida_projekt_titel": "Besiktningar",
+    "process_etikett": "Gången",
+    "process_rubrik": "Från avisering till godkänt",
+    "hb_etikett": "Oberoende",
+    "hb_lank": "Läs om hur vi håller oss oberoende",
+    "omdomen_rubrik": "Föreningar som bytt till oss",
+    "faq_rubrik": "Raka svar om OVK",
+    "priser_etikett": "Priser",
+    "priser_rubrik": "Fast pris per lägenhet, villa och aggregat",
+    "priser_not": "Alla priser exklusive moms för föreningar och företag. Privatpersoner betalar inklusive moms.",
+    "boka_rubrik": "Boka en oberoende besiktning",
+    "boka_text": "Skriv adress och antal lägenheter så skickar vi förslag på datum och fast pris.",
+    "logos_rubrik": "Har besiktats av oss",
+    "certifikat_rubrik": "Därför kan ni lita på protokollet",
+    "bolag_rubrik": "Tre team, sex kontrollanter",
+    "siffror_etikett": "Kvist & Lind i korthet",
+    "medarbetare": "Funktionskontrollanterna"
+  }
+}

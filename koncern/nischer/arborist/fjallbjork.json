@@ -1,0 +1,138 @@
+{
+  "profil": "arborist",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Fjällbjörk Trädvård AB",
+  "kortnamn": "Fjällbjörk",
+  "slug": "fjallbjork",
+  "typ": "Arborister i Åre och västra Jämtland",
+  "tagline": "Trädvård vid fjällstugan",
+  "slogan": "Vi sköter träden runt fjällstugor och gårdar i Åredalen – oftast medan ägarna är någon annanstans.",
+  "hero_rubrik": "Fällt och krattat innan du kommer upp",
+  "hero_text": "Snötyngda granar, björkar som skymmer Åreskutan och träd över skoterleden. Vi arbetar från Järpen till Storlien, året runt.",
+  "intro_rubrik": "Trädvård på 400 meters höjd",
+  "om": [
+    "Fjällbjörk startades 2015 av Ida och Magnus Westin, som flyttade till Järpen från Uppsala för skidåkningens skull och upptäckte att ingen arborist ville åka upp till stugorna i Edsåsdalen. I dag är vi fyra arborister med en bandvagn, en skoter med släde och en Hilux med flishugg på kroken.",
+    "Fjällnära trädvård skiljer sig från den i stan. Snölasten kan bli 300 kilo per kvadratmeter krona, tjälen sitter kvar till juni och många tomter saknar plogad väg på vintern. Vi planerar därför de flesta fällningar till september–november och tar akuta snöbrott med skoter."
+  ],
+  "vagval_rubrik": "Vad behöver stugan?",
+  "tjanster": [
+    {"titel": "Utsiktsröjning", "ikon": "sol", "href": "verksamhet.html", "text": "Vi gallrar fram fjällutsikten utan att kalhugga tomten."},
+    {"titel": "Fällning nära stugan", "ikon": "trad", "href": "verksamhet.html", "text": "Granar och tallar som står för nära tak, eldstad eller jordkällare."},
+    {"titel": "Snöbrott och vinterjour", "ikon": "vind", "href": "verksamhet.html", "text": "Vi tar oss fram med skoter när en gran har knäckts över taket."},
+    {"titel": "Fjällbjörksvård", "ikon": "skog", "href": "verksamhet.html", "text": "Försiktig beskärning av knotiga fjällbjörkar som växer långsamt."},
+    {"titel": "Brandsäker tomt", "ikon": "eld", "href": "verksamhet.html", "text": "Glesare skog och kronhöjning runt stugor enligt räddningstjänstens råd."},
+    {"titel": "Fotorapport", "ikon": "kamera", "href": "verksamhet.html", "text": "Du får bilder före, under och efter – oavsett var du befinner dig."},
+    {"titel": "Priser och RUT", "ikon": "dokument", "href": "priser.html", "text": "Fasta paket för fjällstugor och tydliga tillägg för terräng."},
+    {"titel": "Boka höstjobb", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "September och oktober fylls i juli. Boka i god tid."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fritidshus och fjällstugor", "text": "Över hälften av våra kunder bor i Stockholm, Göteborg eller Trondheim. Vi besiktar via bild och karta, lämnar pris på mejl och gör jobbet medan stugan står tom.", "text2": "Nyckel kan lämnas i nyckelskåp eller hos stugbyns uthyrning.", "tagg": "arborist"},
+    {"titel": "Utsikt mot fjället", "text": "Den som köpte stugan för utsikten mot Åreskutan ser ofta bara granar tjugo år senare. Vi tar bort utvalda träd och höjer kronorna på resten, så att tomten behåller lä och skydd.", "text2": "Utsiktsröjning kräver ibland samråd med kommunen inom detaljplan – det sköter vi.", "tagg": "trad"},
+    {"titel": "Vintertjänst", "text": "Blöt snö i november och december knäcker toppar på gran och tall. Vi har jour under snöovädersvarningar och tar oss fram där plogbilen inte går.", "text2": "Kunder med säsongsavtal får förtur och fast jourtaxa.", "tagg": "tradgard"},
+    {"titel": "Gårdar i dalen", "text": "Gamla jämtgårdar i Mörsil, Undersåker och Hallen har ofta stora rönnar, häggar och björkar intill husen. Vi beskär och fäller med samma omsorg som på fjället.", "text2": "Veden kapas i 30 cm och staplas i vedboden om du vill.", "tagg": "ved"}
+  ],
+  "bolag": [
+    {"namn": "Ida Westin", "segment": "Grundare, ETW", "rubrik": "Besiktar på distans och på plats", "text": "Ida gör offerterna, planerar säsongen och klättrar i de träd som står närmast stugväggarna.", "tagg": "arborist"},
+    {"namn": "Magnus Westin", "segment": "Grundare, maskiner", "rubrik": "Bandvagn, skoter och flishugg", "text": "Magnus tar maskinerna dit vägen tar slut och sköter vinterjouren.", "tagg": "trad"},
+    {"namn": "Nils Persson Kråik", "segment": "Arborist", "rubrik": "Uppvuxen i Kall", "text": "Nils kan fjällbjörk bättre än någon av oss och vet hur sälgen beter sig i frost.", "tagg": "tradgard"},
+    {"namn": "Tove Lundin", "segment": "Arborist, säsong", "rubrik": "Skidlärare på vintern", "text": "Tove arbetar hos oss maj–november och är skidlärare i Åre resten av året.", "tagg": "ved"}
+  ],
+  "berattelser": [
+    {"rubrik": "Utsikten tillbaka i Edsåsdalen", "text": "Elva granar fällda och sex höjda – nu syns Åreskutan från verandan igen.", "tagg": "trad"},
+    {"rubrik": "Snöbrott över taket i Duved", "text": "En knäckt granstopp låg på nocken. Magnus var där med skoter samma eftermiddag.", "tagg": "tradgard"},
+    {"rubrik": "Höstsäsongen fullbokad", "text": "Vi har några tider kvar i slutet av november, före snön.", "tagg": "arborist"}
+  ],
+  "nyckeltal": [
+    {"varde": "4", "enhet": "arborister", "etikett": "Järpen till Storlien"},
+    {"varde": "62 %", "enhet": "", "etikett": "Av kunderna bor inte här"},
+    {"varde": "8 mil", "enhet": "", "etikett": "Längsta resan i dalen"},
+    {"varde": "24 h", "enhet": "", "etikett": "Till fotorapport"}
+  ],
+  "projekt": [
+    {"namn": "Stuga i Edsåsdalen", "ort": "Edsåsdalen", "typ": "Utsiktsröjning", "ar": "2026", "text": "Elva granar fällda och kronhöjning av sex fjällbjörkar.", "tagg": "trad"},
+    {"namn": "Snöbrott på nocken", "ort": "Duved", "typ": "Vinterjour", "ar": "2026", "text": "Granstopp borttagen med lina och skoter i 40 cm nysnö.", "tagg": "tradgard"},
+    {"namn": "Jämtgård i Hallen", "ort": "Hallen", "typ": "Beskärning", "ar": "2025", "text": "Två hundraåriga rönnar avlastade inför vintern.", "tagg": "arborist"},
+    {"namn": "Stugbyn vid Bydalen", "ort": "Bydalen", "typ": "Brandsäker tomt", "ar": "2025", "text": "Gallring och kronhöjning runt 24 stugor tillsammans med samfälligheten.", "tagg": "trad"},
+    {"namn": "Fjällgård i Ånn", "ort": "Ånn", "typ": "Fällning nära hus", "ar": "2025", "text": "Fyra granar fällda med klättring intill en timrad bod från 1880-talet.", "tagg": "ved"},
+    {"namn": "Stuga i Björnen", "ort": "Åre Björnen", "typ": "Utsiktsröjning", "ar": "2026", "text": "Planerad till sista veckan i november.", "tagg": "trad", "status": "Bokat"}
+  ],
+  "process": [
+    {"titel": "Bilder och karta", "text": "Skicka foton och fastighetsbeteckning. Ofta räcker det för ett preliminärt pris.", "tagg": "arborist"},
+    {"titel": "Besök på plats", "text": "Vi åker förbi när vi ändå är i närheten och märker träden med band. Du godkänner urvalet på bild.", "tagg": "trad"},
+    {"titel": "Jobbet", "text": "Vi arbetar helst på barmark med frusen mark som skonar mossa och lyng. Riset flisas och sprids eller körs bort.", "tagg": "tradgard"},
+    {"titel": "Rapport", "text": "Inom ett dygn får du en fotorapport och faktura med RUT-avdraget gjort.", "tagg": "ved"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fjällmiljön växer långsamt",
+    "text": "En fjällbjörk som är fem meter hög kan vara 80 år gammal, och körskador i fjällhed syns i decennier. Vi kör aldrig på tinad mark, lämnar lågor där de inte stör och flisar riset i stället för att elda.",
+    "mal": [["0", "körskador i fjällhed sedan 2015"], ["100 %", "av riset flisas eller blir faunahögar"], ["1 av 4", "fällda granar ersätts med björk eller rönn"]]
+  },
+  "karriar": {
+    "rubrik": "Klättra på sommaren, åk skidor på vintern",
+    "text": "Vi söker säsongsanställda arborister maj–november. Boende i personalrum i Järpen kan ordnas och vi betalar motorsågskörkort och klätterkurs.",
+    "jobb": [["Arborist, säsong 2027", "Järpen"], ["Markarbetare, sommar", "Åre"]]
+  },
+  "kultur": "Ingen klättrar i ett träd när vinden är över 12 meter per sekund, oavsett hur bokad veckan är.",
+  "citat": {"text": "Folk köper en stuga för utsikten och glömmer att granarna växer en halvmeter om året. Vi lämnar tillbaka utsikten utan att ta bort skogskänslan.", "namn": "Ida Westin", "roll": "Grundare", "tagg": "arborist"},
+  "omdomen": [
+    {"text": "Vi satt i Göteborg och fick en film från verandan när sista granen låg ned. Åreskutan rakt fram – för första gången sedan 2012.", "namn": "Charlotte E.", "ort": "Edsåsdalen"},
+    {"text": "Ringde en lördag i december när en topp låg på taket. Magnus kom på skoter och hade den nere innan det blev mörkt.", "namn": "Håkan R.", "ort": "Duved"},
+    {"text": "De förstod direkt vilka björkar vi ville behålla. Ingen annan har frågat om det.", "namn": "Ingela N.", "ort": "Hallen"}
+  ],
+  "faq": [
+    ["Måste jag vara på plats?", "Nej. De flesta kunder är inte det. Vi godkänner urvalet via bilder och skickar en fotorapport efteråt."],
+    ["När på året arbetar ni?", "Huvudsäsongen är juni–november. På vinter gör vi bara akuta snöbrott och jobb där vi kommer fram med skoter."],
+    ["Får jag fälla träd för utsiktens skull?", "Utanför detaljplan oftast ja. Inom detaljplan, till exempel i Åre by, kan det krävas marklov. Vi kontrollerar det åt dig."],
+    ["Får jag RUT-avdrag för fritidshuset?", "Ja, RUT gäller även för fritidshus som du äger. Avdraget görs direkt på fakturan."],
+    ["Vad kostar det att ta sig till svåra tomter?", "Terrängtillägget med bandvagn eller skoter står i prislistan. Vi meddelar alltid i förväg om det behövs."],
+    ["Säljer ni ved?", "Bara ved från egna fällningar, i småsäck på 40 liter. Den finns att köpa i Järpen så länge den räcker."],
+    ["Vad händer om det blåser?", "Vi flyttar jobbet. Vindarna i dalen kan vända snabbt och vi klättrar aldrig i hård vind."]
+  ],
+  "priser": [
+    {"namn": "Utsiktsröjning", "pris": "fr. 9 900 kr", "enhet": "per tomt före RUT", "text": "Urval, fällning och kronhöjning för fri sikt.", "punkter": ["Märkning och godkännande på bild", "Upp till sex träd fällda", "Kronhöjning av kvarvarande", "Fotorapport före och efter"], "utvald": true},
+    {"namn": "Fällning upp till 15 m", "pris": "5 600 kr", "enhet": "per träd före RUT", "text": "Gran, tall eller björk nära stugan.", "punkter": ["Klätter- eller fritt fall", "Flisning av ris", "Ved i 30 cm vid önskemål", "Krattning efteråt"]},
+    {"namn": "Säsongsavtal", "pris": "2 400 kr", "enhet": "per år och fastighet", "text": "Tillsyn av tomtens träd och förtur vid snöbrott.", "punkter": ["Höstbesiktning med bilder", "Förtur i vinterjouren", "Fast jourtaxa", "10 % på åtgärder"]}
+  ],
+  "prislista": [
+    ["Arborist, timpris", "700 kr/tim"],
+    ["Vinterjour, lag om två", "2 200 kr/tim"],
+    ["Terrängtillägg bandvagn", "1 400 kr/tillfälle"],
+    ["Skoter med släde", "900 kr/tillfälle"],
+    ["Stubbfräsning, per stubbe", "1 100 kr"],
+    ["Kronhöjning av fjällbjörk", "fr. 1 200 kr/träd"],
+    ["Ved från egna fällningar, 40 l", "95 kr"],
+    ["Resa väster om Åre by", "30 kr/km"]
+  ],
+  "certifikat": [
+    {"titel": "European Tree Worker", "text": "Ida är ETW-certifierad sedan 2018 och omcertifierad 2023.", "ikon": "skold"},
+    {"titel": "Svensk Arboristexamen", "text": "Tre av fyra har arboristexamen, Tove läser den på distans.", "ikon": "trad"},
+    {"titel": "Motorsågskörkort och terräng", "text": "Motorsågskörkort AB samt förarbevis för terrängskoter.", "ikon": "verktyg"},
+    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Gäller även när vi arbetar i obebodda fritidshus.", "ikon": "las"}
+  ],
+  "galleri_taggar": ["trad", "arborist", "tradgard", "ved"],
+  "nyheter": [
+    ["2026-10-27", "Snön är på väg – så ser du riskgranarna", "Granar med tung topp och smal stam knäcks först. Här är tecknen.", "trad"],
+    ["2026-07-14", "Boka utsiktsröjningen före augusti", "Höstens bästa veckor fylls under semestern.", "arborist"],
+    ["2025-12-09", "Novemberstormen i Åredalen", "Tolv snöbrott på två dygn – och vad som höll.", "tradgard"]
+  ],
+  "kontakt": {"adress": "Kyrkvägen 12", "postnr": "837 31", "ort": "Järpen", "telefon": "070-174 06 64", "epost": "hej@fjallbjork.se", "orgnr": ""},
+  "oppettider": "Juni–nov: mån–lör 7–18 · Dec–maj: jour vid snöbrott",
+  "omrade": "Åre kommun från Järpen till Storlien, samt Hallen och Bydalen",
+  "fot_cta": "Har granarna tagit utsikten från stugan? Skicka en bild från verandan.",
+  "bild": {"panel": "trad", "hb": "tradgard"},
+  "text": {
+    "kontakt_knapp": "Skicka bilder",
+    "ber_rubrik": "Senaste från dalen",
+    "proj_rubrik": "Stugor och gårdar i Åredalen",
+    "process_rubrik": "Så sköter vi stugan när du inte är där",
+    "hb_etikett": "Fjällmiljö",
+    "omdomen_rubrik": "Stugägare berättar",
+    "faq_rubrik": "Frågor om fjällstugans träd",
+    "priser_rubrik": "Paket för fjällstugor",
+    "galleri_rubrik": "Mellan fjäll och älv",
+    "boka_rubrik": "Skicka en bild från verandan",
+    "boka_text": "Bifoga gärna fastighetsbeteckning och en bild mot de träd det gäller, så svarar vi med ett preliminärt pris.",
+    "bolag_rubrik": "Fyra arborister i Järpen",
+    "certifikat_rubrik": "Behöriga i skog, fjäll och träd"
+  }
+}

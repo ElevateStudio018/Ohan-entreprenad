@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "hiss",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Atrium Hissverkstad AB",
+  "kortnamn": "Atrium",
+  "slug": "atrium-hissverkstad",
+  "typ": "Hissar för kulturhus och villor i Stockholm",
+  "tagline": "Hissverkstad sedan 1994",
+  "slogan": "Vi moderniserar sekelskifteshissar utan att förstöra dem och bygger villahissar som ser ut att alltid ha funnits där.",
+  "hero_rubrik": "Hissar värdiga sina trapphus",
+  "hero_text": "Smidesgrindar, korgar i valnöt och fasettslipade speglar – med modern drivning, tyst gång och samma säkerhet som en ny hiss. I Stockholms innerstad och i villor runt om.",
+  "intro_rubrik": "Trettio år bland Stockholms vackraste hissar",
+  "om": [
+    "Atrium grundades 1994 av hissmontören Fredrik Malmsten, som tröttnat på att se gamla hisskorgar slängas i containrar på Östermalm. Han startade med en verkstad i Ulvsunda och tre kunder på Strandvägen. Sedan 2020 leds företaget av Elisabeth Ternström.",
+    "Vi är i dag 26 personer: hisstekniker, en möbelsnickare, en smed med gesällbrev och två projektledare med antikvarisk erfarenhet. Vi tar ett begränsat antal projekt per år och gör nästan allt i egen regi, från linbyte till ytbehandling av mässing."
+  ],
+  "vagval_rubrik": "Vad vill ni göra med er hiss?",
+  "tjanster": [
+    {"titel": "Antikvarisk modernisering", "ikon": "hiss", "href": "verksamhet.html", "text": "Ny teknik bakom original­korgen, i samråd med antikvarie och stadsbyggnadskontoret."},
+    {"titel": "Villahissar", "ikon": "hus", "href": "verksamhet.html", "text": "Hissar för privata hem, i glas, ek eller en finish ni väljer."},
+    {"titel": "Glashissar", "ikon": "stjarna", "href": "verksamhet.html", "text": "Panoramahissar i härdat laminerat glas för trapphallar och ljusgårdar."},
+    {"titel": "Smide och grindar", "ikon": "hamare", "href": "verksamhet.html", "text": "Renovering och nytillverkning av sax- och gallergrindar i vår smedja."},
+    {"titel": "Korgsnickeri", "ikon": "trad", "href": "verksamhet.html", "text": "Panel, bänkar och lister i valnöt, ek och mahogny från eget snickeri."},
+    {"titel": "Service innerstaden", "ikon": "kugge", "href": "verksamhet.html", "text": "Fyra tekniker som enbart sköter äldre hissar i Stockholms stenstad."},
+    {"titel": "Tyst gång", "ikon": "vind", "href": "verksamhet.html", "text": "Vibrationsdämpning och ljudmätning för hissar som stör de boende."},
+    {"titel": "Boka ett möte", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi börjar alltid med ett besök i trapphuset."}
+  ],
+  "affarsomraden": [
+    {"titel": "Kulturhistoriska hissar", "text": "I många hus från 1890–1930 är hissen en del av byggnadens kulturvärde. Vi renoverar korg, grind och schaktgaller och byter maskineri, styrning och säkerhetssystem i maskinrummet.", "text2": "Arbetet sker i dialog med en certifierad sakkunnig kulturvärden och, i q-märkta hus, med stadsbyggnadskontoret.", "tagg": "hiss"},
+    {"titel": "Villahissar", "text": "En villahiss tar mindre plats än man tror: en korg på 90 × 110 centimeter räcker för rullstol och kräver varken maskinrum eller grop. Vi ritar in den tillsammans med er arkitekt.", "text2": "Hissarna går i 0,15 meter per sekund och ljudnivån i korgen ligger under 45 dB.", "tagg": "hem"},
+    {"titel": "Glas och panorama", "text": "I ljusgårdar och trapphallar bygger vi hissar med schakt och korg i laminerat glas och stålprofiler som lackeras i valfri kulör. Varje projekt ritas för sig.", "text2": "Glaset kommer från en glasmästare i Södertälje som vi samarbetat med sedan 2001.", "tagg": "interior"},
+    {"titel": "Snickeri och smedja", "text": "I verkstaden i Ulvsunda finns ett snickeri och en smedja. Där renoveras grindar, dörrblad och korgpaneler, och där tillverkar vi delar som inte går att köpa.", "text2": "Mässing och brons poleras och lackeras för hand, och fasettslipade speglar beställs i exakt originalmått.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Atrium Kulturhiss", "segment": "Antikvariska moderniseringar", "rubrik": "Tolv till femton hus per år", "text": "Två projektledare och sex montörer som enbart arbetar med äldre hissar i kulturhistoriskt värdefulla hus.", "tagg": "hiss"},
+    {"namn": "Atrium Villa", "segment": "Privata hem", "rubrik": "Från skiss till första åket", "text": "Villahissar och glashissar i Djursholm, Saltsjöbaden, Lidingö och på Värmdö, ritade tillsammans med kundens arkitekt.", "tagg": "hem"},
+    {"namn": "Atrium Service", "segment": "Underhåll i innerstaden", "rubrik": "230 äldre hissar under avtal", "text": "Fyra tekniker med cykel och lastcykel i Vasastan, på Östermalm och Kungsholmen, och med servicebil för villorna.", "tagg": "stad"},
+    {"namn": "Verkstaden Ulvsunda", "segment": "Snickeri och smide", "rubrik": "Där korgarna får nytt liv", "text": "Möbelsnickaren Johan Ekberg och smeden Anna Rask renoverar korgar och grindar och tillverkar nya i gammal stil.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Saxgrinden från 1908", "text": "Brf Lärkstaden fick sin grind tillbaka efter tolv veckor i smedjan – med ljusridå bakom så att inga fingrar kan klämmas.", "tagg": "hiss"},
+    {"rubrik": "Glashiss i en Saltsjöbadsvilla", "text": "Tre våningar, ett schakt helt i glas och utsikt över Baggensfjärden under hela åket.", "tagg": "hem"},
+    {"rubrik": "Nu servar vi med lastcykel", "text": "Teknikerna i innerstaden har bytt bil mot lastcyklar med verktyg och vanliga reservdelar.", "tagg": "stad"}
+  ],
+  "nyckeltal": [
+    {"varde": "1994", "enhet": "", "etikett": "Verkstaden öppnade i Ulvsunda"},
+    {"varde": "230", "enhet": "hissar", "etikett": "Äldre hissar under avtal"},
+    {"varde": "< 45", "enhet": "dB", "etikett": "Ljudnivå i våra villahissar"},
+    {"varde": "15", "enhet": "år", "etikett": "Garanti på villahissens maskin"}
+  ],
+  "projekt": [
+    {"namn": "Brf Lärkstaden", "ort": "Stockholm", "typ": "Antikvarisk modernisering", "ar": "2025", "text": "Saxgrind och valnötskorg från 1908 renoverade, maskinrummet helt nytt.", "tagg": "hiss"},
+    {"namn": "Villa vid Baggensfjärden", "ort": "Saltsjöbaden", "typ": "Glashiss", "ar": "2025", "text": "Tre plan i härdat laminerat glas, infälld i en ny trapphall.", "tagg": "hem"},
+    {"namn": "Brf Karlaplan Nord", "ort": "Stockholm", "typ": "Modernisering", "ar": "2024", "text": "Två hissar i ett hus från 1929, där vi återskapade de etsade glasen i schaktdörrarna.", "tagg": "interior"},
+    {"namn": "Hotell Nybroviken", "ort": "Stockholm", "typ": "Korgrenovering", "ar": "2024", "text": "Mahognypanel och bronsdetaljer i tre gästhissar, utfört nattetid under fyra veckor.", "tagg": "interior"},
+    {"namn": "Villa på Lidingö", "ort": "Lidingö", "typ": "Villahiss", "ar": "2026", "text": "Hiss i ek och patinerad mässing från källaren till takterrassen.", "tagg": "hem", "status": "Pågående"},
+    {"namn": "Stiftelsen Gamla Stans Hus", "ort": "Stockholm", "typ": "Eftermontage", "ar": "2026", "text": "Ny hiss i ett 1600-talshus där schaktet byggs in i ett befintligt ljusschakt.", "tagg": "stad", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Besök i trapphuset", "text": "Vi dokumenterar hissen, tar ut originalritningar ur stadsbyggnadsarkivet och bedömer kulturvärdet.", "tagg": "hiss"},
+    {"titel": "Gestaltning", "text": "Ni får ritningar, materialprover och ett fast pris. I villor arbetar vi direkt med er arkitekt.", "tagg": "interior"},
+    {"titel": "Hantverk", "text": "Korg och grind renoveras i verkstaden medan montörerna bygger om maskinrum och schakt.", "tagg": "industri"},
+    {"titel": "Invigning", "text": "Efter besiktningen åker vi första turen tillsammans med styrelsen eller familjen.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Det mest hållbara är att behålla",
+    "text": "En renoverad hisskorg i massivt trä har lägre klimatavtryck än en ny korg i rostfritt stål och håller i ytterligare ett sekel. Vi sparar originaldelar i ett eget arkiv så att de kan återanvändas i andra hus.",
+    "mal": [["95 %", "av korgarna vi moderniserar behålls och renoveras"], ["4", "lastcyklar i servicen i innerstaden"], ["340", "originaldelar i vårt delarkiv"]]
+  },
+  "karriar": {
+    "rubrik": "För dig som vill göra det ordentligt",
+    "text": "Vi söker hisstekniker som tycker om gamla hissar och hantverkare som vill lära sig hissbranschen. Hos oss får du ta den tid jobbet kräver.",
+    "jobb": [["Hisstekniker äldre hissar", "Stockholm"], ["Möbelsnickare", "Bromma"]]
+  },
+  "kultur": "Varje ny medarbetare får följa ett helt antikvariskt projekt från första besöket till invigningen.",
+  "citat": {"text": "En hiss från 1908 är inte gammal och trasig. Den är gammal och väl byggd. Det enda som behöver bytas är det man inte ser.", "namn": "Elisabeth Ternström", "roll": "Vd", "tagg": "hiss"},
+  "omdomen": [
+    {"text": "Två andra hissföretag ville byta ut hela korgen. Atrium visade att den gick att rädda, och nu är den det första gästerna kommenterar.", "namn": "Charlotte W.", "ort": "Östermalm"},
+    {"text": "Hissen i vår villa är så tyst att barnen trodde att den var trasig första veckan.", "namn": "Magnus F.", "ort": "Saltsjöbaden"},
+    {"text": "Projektledaren hade tagit fram ritningar från 1929 som vi i föreningen inte visste fanns.", "namn": "Gustaf L.", "ort": "Stockholm"}
+  ],
+  "faq": [
+    ["Kan en gammal hiss bli lika säker som en ny?", "Ja. Vi gör en riskbedömning enligt SS-EN 81-80 och åtgärdar alla allvarliga risker, till exempel med korgdörrar eller ljusridå bakom grinden, nya fånganordningar och exakt stannnivå."],
+    ["Vad kostar en antikvarisk modernisering?", "Det beror mycket på korgens och grindens skick. De flesta projekt hamnar mellan 1,1 och 1,8 miljoner kronor exklusive moms per hiss."],
+    ["Behövs bygglov för en villahiss?", "En hiss inne i en villa kräver oftast ingen bygglov men en anmälan till byggnadsnämnden. Bygger vi schakt utanpå fasaden krävs bygglov, och det söker vi tillsammans med er."],
+    ["Hur lång tid tar ett villaprojekt?", "Från första skiss till färdig hiss räknar vi med fem till åtta månader, varav själva montaget tar två till tre veckor."],
+    ["Servar ni moderna hissar också?", "Vi servar de villahissar och glashissar vi själva har byggt, men vår serviceavdelning i innerstaden är inriktad på hissar äldre än 1960."],
+    ["Kan ni göra en hiss tystare?", "Ofta. Vi mäter ljud och vibrationer, och byter ofta till frekvensstyrd drivning, nya gejdskor och dämpare. Ljudnivån i angränsande lägenheter brukar sjunka med 6–10 dB."]
+  ],
+  "certifikat": [
+    {"titel": "Sakkunnig kulturvärden", "text": "Vi arbetar tillsammans med certifierade sakkunniga kulturvärden enligt plan- och bygglagen.", "ikon": "dokument"},
+    {"titel": "Gesällbrev", "text": "Vår möbelsnickare och vår smed har båda gesällbrev i sina hantverk.", "ikon": "hamare"},
+    {"titel": "ISO 9001", "text": "Certifierat kvalitetsledningssystem med dokumentation av varje projekt.", "ikon": "skold"},
+    {"titel": "Elsäkerhetsverket", "text": "Registrerat elinstallationsföretag med auktoriserad elinstallatör i ledningen.", "ikon": "blixt"}
+  ],
+  "kunder": ["Brf Lärkstaden", "Brf Karlaplan Nord", "Hotell Nybroviken", "Stiftelsen Gamla Stans Hus", "Diplomatstadens Fastighets AB", "Brf Röda Bergen", "Kungsholms Strands Kontorshus"],
+  "nyheter": [
+    ["2026-10-20", "Delarkivet passerar 340 föremål", "Grindar, handtag och korgspeglar som väntar på ett nytt hus.", "hiss"],
+    ["2026-04-14", "Lastcyklar i innerstaden", "Servicen i Vasastan och på Östermalm sker nu helt utan bil.", "stad"],
+    ["2025-12-09", "Glashissen i Saltsjöbaden", "Om hur vi byggde ett schakt helt i glas i en villa från 1912.", "hem"]
+  ],
+  "kontakt": {"adress": "Grev Turegatan 40", "postnr": "114 38", "ort": "Stockholm", "telefon": "070-174 06 44", "epost": "kontor@atriumhiss.se", "orgnr": ""},
+  "oppettider": "Kontoret mån–fre 8–17. Verkstaden i Ulvsunda efter överenskommelse.",
+  "omrade": "Stockholms innerstad, Lidingö, Danderyd, Nacka och Värmdö",
+  "fot_cta": "Innan någon föreslår att ni byter hela hissen – låt oss titta på den först.",
+  "text": {
+    "ber_rubrik": "Ur verkstaden just nu",
+    "proj_rubrik": "Hus och hem vi arbetat i",
+    "process_rubrik": "Från arkivritning till första åket",
+    "hb_etikett": "Bevara",
+    "omdomen_rubrik": "Ord från föreningar och familjer",
+    "faq_rubrik": "Om gamla hissar och nya villahissar",
+    "boka_rubrik": "Boka ett besök i trapphuset",
+    "boka_text": "Beskriv huset och hissen, gärna med en bild, så kontaktar en projektledare er inom två arbetsdagar.",
+    "logos_rubrik": "Uppdragsgivare i urval",
+    "bolag_rubrik": "Fyra verksamheter, ett hantverk",
+    "certifikat_rubrik": "Kunskap vi kan visa upp",
+    "hero_knapp": "Se vårt hantverk",
+    "medarbetare": "Hantverkarna"
+  }
+}

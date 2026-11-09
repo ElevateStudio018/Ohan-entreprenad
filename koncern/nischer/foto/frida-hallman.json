@@ -1,0 +1,118 @@
+{
+  "profil": "foto",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Frida Hallman Reportage AB",
+  "kortnamn": "Frida Hallman",
+  "slug": "frida-hallman",
+  "typ": "Dokumentär bröllopsfotograf i Halland",
+  "tagline": "Inga uppställda bilder",
+  "slogan": "Bröllopsreportage utan regi – vi fotograferar det som händer, inte det som ser ut att hända.",
+  "hero_rubrik": "Vi säger aldrig titta hit",
+  "hero_text": "Före detta pressfotografer som dokumenterar bröllop som ett reportage. Ingen regi, inga poser – från Laholm till Varberg.",
+  "intro_rubrik": "Tolv år på redaktion, sju år på bröllop",
+  "om": [
+    "Frida Hallman var fotograf på Hallandsposten i tolv år innan hon startade eget 2019. Hon fotograferade valvakor, fotbollsfinaler och kommunfullmäktige – och lärde sig att de bästa bilderna kommer när ingen vet att kameran är där. Idag driver hon studion från Storgatan i Halmstad tillsammans med två kollegor.",
+    "Vi regisserar ingenting. Vi ber er inte titta in i kameran, vi ställer inte upp er under ett träd och vi gör inga gruppbilder på uppdrag – om ni inte uttryckligen vill ha en, då tar vi den på fem minuter och går tillbaka till att observera. Allt annat får hända av sig själv."
+  ],
+  "vagval_rubrik": "Hur mycket av dagen vill ni ha med?",
+  "tjanster": [
+    {"titel": "Heldagsreportage", "ikon": "kamera", "href": "verksamhet.html", "text": "Hela dagen utan regi, två fotografer, upp till tolv timmar."},
+    {"titel": "Halvdagsreportage", "ikon": "kalender", "href": "verksamhet.html", "text": "Från förberedelser till middagens början, sex timmar."},
+    {"titel": "Bara vigseln", "ikon": "ringar", "href": "verksamhet.html", "text": "Ceremoni och mingel på två timmar – inget mer."},
+    {"titel": "Dagen efter", "ikon": "sol", "href": "verksamhet.html", "text": "Frukosten, städningen och bakfyllan dokumenterad."},
+    {"titel": "Reportagebok", "ikon": "dokument", "href": "priser.html", "text": "En bok i kronologisk ordning, med bildtexter som i en tidning."},
+    {"titel": "Gäster och barn", "ikon": "folk", "href": "verksamhet.html", "text": "En tredje fotograf som bara följer gästerna."},
+    {"titel": "Priser", "ikon": "portfolj", "href": "priser.html", "text": "Fasta paket och tydliga timpriser."},
+    {"titel": "Ledigt datum?", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ring Frida direkt – hon svarar själv."}
+  ],
+  "affarsomraden": [
+    {"titel": "Heldagsreportage", "text": "Två fotografer följer dagen i realtid, ungefär som en reporter följer ett nyhetsförlopp. Vi rör oss tyst, använder små kameror och undviker blixt.", "text2": "Ni får 600–900 bilder i kronologisk ordning inom fyra veckor.", "tagg": "brollop"},
+    {"titel": "Ögonblicken mellan", "text": "Pappan som övar talet på toaletten, barnen under bordet, mormors min när prästen skämtar. Det är de bilderna vi letar efter.", "text2": "Vi fotograferar med Fujifilm X-Pro3 och Leica Q3 – kameror som inte syns eller hörs.", "tagg": "detalj"},
+    {"titel": "Paret utan regi", "text": "Vi gör inga porträttpromenader. I stället följer vi er när ni har en stund för er själva, och fotograferar på avstånd.", "text2": "Brudpar säger ofta att de inte märkte att vi var där – det är meningen.", "tagg": "brudpar"},
+    {"titel": "Fest och tal", "text": "Talen, skratten och dansgolvet efter midnatt. Här arbetar vi som på en konsert: nära, snabbt och med högt ISO i stället för blixt.", "text2": "Vi stannar tills ni säger att vi får gå.", "tagg": "fest"}
+  ],
+  "bolag": [
+    {"namn": "Frida Hallman", "segment": "Grundare och fotograf", "rubrik": "Tolv år på Hallandsposten", "text": "Frida leder varje reportage och väljer ut bilderna. Hon nominerades till Årets Bild i kategorin Vardag 2016.", "tagg": "kamera"},
+    {"namn": "Oskar Mattsson", "segment": "Fotograf", "rubrik": "Gäster, barn och tal", "text": "Oskar kommer från lokal-tv och är bäst på att stå still länge. Han fotograferar gästerna och har alltid ett öga på barnbordet.", "tagg": "fest"},
+    {"namn": "Rebecka Åkesson", "segment": "Bildredaktör", "rubrik": "Urval och bildtexter", "text": "Rebecka sorterar, redigerar och skriver bildtexterna till reportageböckerna. Hon har arbetat på bilddesken på Sydsvenskan.", "tagg": "detalj"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ett bröllop på Tylösand", "text": "Elva timmar, 812 bilder och inte en enda uppställd – inte ens gruppbilden.", "tagg": "brollop"},
+    {"rubrik": "Reportageboken i ny form", "text": "Nu med bildtexter, klockslag och en karta över dagen på första uppslaget.", "tagg": "detalj"},
+    {"rubrik": "Dagen efter i Haverdal", "text": "Frukost i pyjamas, en borttappad sko och bröllopstårtan till lunch.", "tagg": "fest"}
+  ],
+  "nyckeltal": [
+    {"varde": "0", "enhet": "poser", "etikett": "Om ni inte ber om en"},
+    {"varde": "25", "enhet": "per år", "etikett": "Reportage vi gör"},
+    {"varde": "12", "enhet": "år", "etikett": "Som pressfotograf"},
+    {"varde": "4", "enhet": "veckor", "etikett": "Till färdigt reportage"}
+  ],
+  "projekt": [
+    {"namn": "Anna & Kalle", "ort": "Tylösand", "typ": "Heldagsreportage", "ar": "2025", "text": "Strandvigsel, fotbollsmatch mellan släkterna och dans till tre.", "tagg": "brollop"},
+    {"namn": "Sara & Mohammed", "ort": "Halmstad", "typ": "Halvdagsreportage", "ar": "2025", "text": "Rådhusvigsel, kebab på Lilla torg och tal på tre språk.", "tagg": "fest"},
+    {"namn": "Lena & Bosse", "ort": "Laholm", "typ": "Bara vigseln", "ar": "2025", "text": "Andra giftet, sju barnbarn och en vigsel på tjugo minuter.", "tagg": "detalj"},
+    {"namn": "Malin & Joakim", "ort": "Haverdal", "typ": "Heldag och dagen efter", "ar": "2024", "text": "Sommarstuga, tält i trädgården och frukost i pyjamas.", "tagg": "fest"},
+    {"namn": "Elin & Martin", "ort": "Varberg", "typ": "Heldagsreportage", "ar": "2024", "text": "Vigsel på fästningen, regn i fyra timmar och ingen som brydde sig.", "tagg": "brollop"},
+    {"namn": "Josefin & Pontus", "ort": "Falkenberg", "typ": "Heldagsreportage", "ar": "2027", "text": "Bokat till maj – vigsel vid Skrea strand.", "tagg": "brollop", "status": "Bokat"}
+  ],
+  "process": [
+    {"titel": "Ring eller skriv", "text": "Frida svarar själv, oftast samma dag. Vi pratar om datum och om ni verkligen vill slippa poser.", "tagg": "kamera"},
+    {"titel": "Briefing", "text": "Vi går igenom tidsplanen som en redaktion inför ett uppdrag: vem är viktig, vad får inte missas, var står vi.", "tagg": "detalj"},
+    {"titel": "Reportaget", "text": "På dagen märks vi knappt. Vi pratar lite, rör oss mycket och fotograferar det som händer.", "tagg": "brollop"},
+    {"titel": "Bildredigering", "text": "Rebecka gör urvalet i kronologisk ordning. Galleriet kommer inom fyra veckor, boken efter sju.", "tagg": "detalj"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Pressetik på bröllop",
+    "text": "Vi följer samma regler som på en redaktion: inga arrangerade bilder presenteras som spontana, och vi tar bort inga personer eller föremål i efterhand. Vi beskär och justerar ljus, men vi ändrar aldrig vad som hände.",
+    "mal": [["0", "manipulerade bilder"], ["100 %", "kronologisk leverans"], ["4 v", "till färdigt galleri"]]
+  },
+  "karriar": {"rubrik": "Briefingen före dagen", "text": "Vi träffas på vårt kontor på Storgatan eller hemma hos er. Ni berättar vilka som är viktiga, vilka konflikter som finns i släkten och om något inte får fotograferas. Vi antecknar som inför vilket uppdrag som helst.", "jobb": []},
+  "kultur": "Ni får en kort fråga från oss veckan före: finns det någon vi ska hålla extra koll på?",
+  "citat": {"text": "Jag har fotograferat statsministrar och ishockeyfinaler. Ingenting slår en pappa som försöker hålla ihop rösten under sitt tal.", "namn": "Frida Hallman", "roll": "Grundare och fotograf", "tagg": "kamera"},
+  "omdomen": [
+    {"text": "Vi ville inte stå och posera i en timme. Nu har vi en bok där man kan följa hela dagen klockslag för klockslag.", "namn": "Anna T.", "ort": "Tylösand"},
+    {"text": "Oskar fick en bild av min farfar som dansar med vår dotter. Farfar dog i våras. Den bilden betyder allt.", "namn": "Malin & Joakim", "ort": "Haverdal"},
+    {"text": "Det regnade hela eftermiddagen på fästningen. Frida sa bara att regn gör bättre bilder, och hon hade rätt.", "namn": "Elin S.", "ort": "Varberg"}
+  ],
+  "faq": [
+    ["Gör ni verkligen inga gruppbilder?", "Om ni ber om det tar vi en släktbild på fem minuter. Men vi föreslår det aldrig själva, och de flesta par hoppar över den."],
+    ["Får vi några porträtt alls?", "Ja, men inte uppställda. Vi följer er när ni drar er undan en stund och fotograferar på avstånd med långt objektiv."],
+    ["Retuscherar ni bilderna?", "Vi justerar ljus, färg och beskärning. Vi tar aldrig bort personer, finnar eller föremål – samma regler som i en tidning."],
+    ["Varför kostar dagen efter extra?", "Det är ett eget uppdrag på tre timmar, men det ger ofta de mest avslappnade bilderna."],
+    ["Fotograferar ni utanför Halland?", "Ja, i hela Skåne och Västra Götaland. Utanför Halland tar vi 40 kronor per mil."],
+    ["Hur bokar vi?", "Efter briefingen får ni avtal och en faktura på 30 procent. Resten betalas två veckor före bröllopet."]
+  ],
+  "priser": [
+    {"namn": "Halvdag", "pris": "14 000 kr", "enhet": "6 timmar, en fotograf", "text": "Förberedelser, vigsel och middagens början.", "punkter": ["Cirka 300 bilder", "Briefing före bröllopet", "Kronologiskt galleri", "Leverans inom tre veckor"]},
+    {"namn": "Heldag", "pris": "29 500 kr", "enhet": "upp till 12 timmar, två fotografer", "text": "Hela dagen som ett reportage.", "punkter": ["600–900 bilder", "Två fotografer", "Bildtexter till 40 bilder", "Leverans inom fyra veckor"], "utvald": true},
+    {"namn": "Heldag med bok", "pris": "37 500 kr", "enhet": "heldag + reportagebok", "text": "Heldagen i bokform, med klockslag och bildtexter.", "punkter": ["Allt i Heldag", "Reportagebok 24 × 30 cm, 80 sidor", "Karta över dagen", "Två extra exemplar"]}
+  ],
+  "prislista": [["Bara vigseln, 2 timmar", "8 500 kr"], ["Dagen efter, 3 timmar", "6 900 kr"], ["Tredje fotograf för gäster", "9 500 kr"], ["Extra timme", "2 600 kr"], ["Reportagebok, extra exemplar", "1 400 kr"], ["Resor utanför Halland", "40 kr/mil"]],
+  "galleri_taggar": ["fest", "brollop", "detalj", "brudpar"],
+  "nyheter": [
+    ["2026-10-08", "Därför tar vi inga gruppbilder", "Frida om vad som händer med en dag när ingen behöver ställa upp sig.", "fest"],
+    ["2026-04-22", "Så ser en reportagebok ut", "Klockslag, bildtexter och en karta över dagen – uppslag för uppslag.", "detalj"],
+    ["2025-12-04", "Ett år av bröllop i Halland", "25 reportage, 18 000 bilder och ett regnrekord i Varberg.", "brollop"]
+  ],
+  "kontakt": {"adress": "Storgatan 38", "postnr": "302 43", "ort": "Halmstad", "telefon": "070-174 06 28", "epost": "frida@hallmanreportage.se", "orgnr": ""},
+  "oppettider": "Kontoret: mån–fre 9–16",
+  "omrade": "Halland, Skåne och södra Västra Götaland",
+  "fot_cta": "Vill ni ha ett bröllop som det faktiskt var? Ring Frida.",
+  "text": {
+    "ber_rubrik": "Senaste reportagen",
+    "proj_rubrik": "Reportage från Halland",
+    "proj_rubrik_lista": "Alla reportage, utan regi",
+    "process_rubrik": "Från briefing till bildredigering",
+    "hb_etikett": "Våra regler",
+    "omdomen_rubrik": "Par som slapp posera",
+    "faq_rubrik": "Frågor om reportagefoto",
+    "priser_rubrik": "Halvdag, heldag eller bok",
+    "priser_not": "Alla priser inklusive moms. Resor inom Halland ingår.",
+    "galleri_rubrik": "Ingenting här är uppställt",
+    "boka_rubrik": "Ring eller skriv om datumet",
+    "boka_text": "Frida svarar själv, oftast samma dag. Skriv datum, plats och ungefär hur många gäster.",
+    "sida_bolag_ingress": "Två fotografer och en bildredaktör – alla med bakgrund på dagstidningar och tv.",
+    "panel_etikett": "Före uppdraget",
+    "proj_etikett": "Reportage"
+  }
+}

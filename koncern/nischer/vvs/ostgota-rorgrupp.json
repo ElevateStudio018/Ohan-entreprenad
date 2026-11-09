@@ -1,0 +1,137 @@
+{
+  "profil": "nisch",
+  "nisch": "vvs",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Östgöta Rörgrupp AB",
+  "kortnamn": "Östgöta Rör",
+  "slug": "ostgota-rorgrupp",
+  "typ": "VVS-koncern i Östergötland",
+  "tagline": "Fem orter, en rörgrupp",
+  "slogan": "Fem lokala rörfirmor med egna namn och gemensamma resurser – från Finspång i norr till Mjölby i söder.",
+  "hero_rubrik": "Östergötlands största rörgrupp på sju år",
+  "hero_text": "120 anställda i Linköping, Norrköping, Motala, Mjölby och Finspång. Stambyten, badrum, värme och service – med lokala kontor och en gemensam projektavdelning.",
+  "intro_rubrik": "Från två firmor till fem på sju år",
+  "om": [
+    "Östgöta Rörgrupp bildades 2017 när Ekelunds Rör i Linköping och Strands VVS i Norrköping slogs ihop. Johan Ekelund och Maria Strand ville kunna ta stora stambyten utan att tappa det lokala. Sedan dess har Motala Rörservice, Mjölby Värme & Sanitet och Finspångs Rörteknik anslutit.",
+    "Varje bolag behåller sitt namn, sina kunder och sin platschef. Gemensamt har vi inköp, projektledning för stora uppdrag, en servicedesk och ett centrallager på 1 800 kvadratmeter i Linköping. Omsättningen var 214 miljoner kronor 2025."
+  ],
+  "vagval_rubrik": "Var i länet behöver du hjälp?",
+  "tjanster": [
+    {"titel": "Stambyten", "ikon": "hus", "href": "verksamhet.html", "text": "Kompletta stambyten för allmännyttan och bostadsrättsföreningar, upp till 300 lägenheter per år."},
+    {"titel": "Badrumsrenovering", "ikon": "vatten", "href": "verksamhet.html", "text": "Villor och lägenheter, med fasta lag i varje ort."},
+    {"titel": "Relining", "ikon": "ror", "href": "verksamhet.html", "text": "Strumpinfodring och sprutlining när rören går att rädda."},
+    {"titel": "Värmepumpar", "ikon": "sol", "href": "verksamhet.html", "text": "Bergvärme, luft/vatten och frånluftsvärmepumpar i villor och flerbostadshus."},
+    {"titel": "Service och jour", "ikon": "verktyg", "href": "verksamhet.html", "text": "54 servicebilar och gemensam jour i hela länet."},
+    {"titel": "Industri och process", "ikon": "fabrik", "href": "verksamhet.html", "text": "Processrör, tryckluft och kylvatten för industrin i Norrköping och Finspång."},
+    {"titel": "Vattenskador", "ikon": "skold", "href": "verksamhet.html", "text": "Ramavtal med tre försäkringsbolag för akuta skador."},
+    {"titel": "Våra fem kontor", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Hitta närmaste kontor och platschef."}
+  ],
+  "affarsomraden": [
+    {"titel": "Stambyten och ROT-projekt", "text": "Den gemensamma projektavdelningen tar stambyten som inget av de lokala bolagen hade klarat ensamt. Vi har bytt stammar i 1 140 lägenheter sedan 2019, de flesta i miljonprogramsområden som Skäggetorp, Navestad och Råssnäs.", "text2": "Vi arbetar med boende kvar och tillfälliga hygienmoduler på gården.", "tagg": "bostad"},
+    {"titel": "Privat: badrum och värme", "text": "Villaägare möter alltid det lokala bolaget och en hantverkare som bor i närheten. Badrum, nya värmesystem och byte av varmvattenberedare är det vanligaste.", "text2": "Rotavdraget sköter vi direkt på fakturan.", "tagg": "vvs"},
+    {"titel": "Service och underhåll", "text": "Fastighetsägare med fastigheter i flera orter får ett avtal, ett fakturaflöde och en servicedesk – men en tekniker från närmaste kontor.", "text2": "Servicedesken tar 210 ärenden per dag och har svarstid under två minuter.", "tagg": "vvs"},
+    {"titel": "Industri", "text": "I Norrköping och Finspång jobbar vi med processrör i rostfritt och syrafast stål, tryckluftssystem och kylvattenkretsar åt verkstads- och livsmedelsindustrin.", "text2": "Sex av våra svetsare är certifierade enligt SS-EN ISO 9606-1.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Ekelunds Rör", "segment": "Linköping, 42 anställda", "rubrik": "Där gruppen började", "text": "Service, badrum och gruppens projektavdelning för stambyten. Platschef: Johan Ekelund.", "tagg": "vvs"},
+    {"namn": "Strands VVS", "segment": "Norrköping, 38 anställda", "rubrik": "Industri och fastighet", "text": "Starkt inom industri, processrör och ramavtal med fastighetsbolag i Norrköping.", "tagg": "industri"},
+    {"namn": "Motala Rörservice", "segment": "Motala, 19 anställda", "rubrik": "Vid Vätterns strand", "text": "Villaservice, värmepumpar och fritidshus runt Vättern. Anslöt 2020.", "tagg": "hem"},
+    {"namn": "Mjölby & Finspång", "segment": "21 anställda", "rubrik": "Två yngsta bolagen", "text": "Mjölby Värme & Sanitet (2022) och Finspångs Rörteknik (2025) delar platschef och servicebilar.", "tagg": "vvs"}
+  ],
+  "kontor_lista": [
+    ["Linköping", "Gottorpsgatan 18 – huvudkontor, centrallager och servicedesk"],
+    ["Norrköping", "Södra Promenaden 71 – industri och fastighetsservice"],
+    ["Motala", "Bispmotalagatan 4 – villa, värme och fritidshus"],
+    ["Mjölby", "Kungsvägen 32 – service och badrum i Mjölby, Boxholm och Ödeshög"],
+    ["Finspång", "Bergslagsvägen 9 – industri och service, nytt från 2025"]
+  ],
+  "kontor_rubrik": "Fem kontor i länet",
+  "kontor_text": "Du ringer ett nummer och får en tekniker från närmaste kontor. Ingen ort i Östergötland ligger mer än 40 minuter från en av våra bilar.",
+  "berattelser": [
+    {"rubrik": "Finspångs Rörteknik välkomnas i gruppen", "text": "Elva medarbetare och 46 år av industrikunder i Finspång blir vårt femte bolag.", "tagg": "people"},
+    {"rubrik": "Stambyte i Skäggetorp, 186 lägenheter", "text": "Etapp tre av fyra startade i oktober med tillfälliga hygienmoduler på gårdarna.", "tagg": "bostad"},
+    {"rubrik": "Centrallagret har fördubblats", "text": "Servicebilarna fylls nu på varje natt, så att 87 procent av jobben blir klara vid första besöket.", "tagg": "vvs"}
+  ],
+  "nyckeltal": [
+    {"varde": "120", "enhet": "anställda", "etikett": "I fem bolag"},
+    {"varde": "214", "enhet": "Mkr", "etikett": "Omsättning 2025", "trend": "+18 %"},
+    {"varde": "1 140", "enhet": "lgh", "etikett": "Stambyten sedan 2019"},
+    {"varde": "54", "enhet": "bilar", "etikett": "I service och jour"}
+  ],
+  "projekt": [
+    {"namn": "Skäggetorp etapp 3", "ort": "Linköping", "typ": "Stambyte, 186 lgh", "ar": "2026", "text": "Nya stammar, badrum och ventilation i hus från 1968, med boende kvar.", "tagg": "bostad"},
+    {"namn": "Navestad Norra", "ort": "Norrköping", "typ": "Stambyte, 240 lgh", "ar": "2024", "text": "Gruppens hittills största stambyte, klart två veckor före tidplan.", "tagg": "bostad"},
+    {"namn": "Valsverket i Finspång", "ort": "Finspång", "typ": "Processrör", "ar": "2025", "text": "Ny kylvattenkrets i rostfritt stål, installerad under ett tre veckor långt sommarstopp.", "tagg": "industri"},
+    {"namn": "Brf Varvsholmen", "ort": "Motala", "typ": "Relining, 52 lgh", "ar": "2025", "text": "Strumpinfodring av spillvatten och nya golvbrunnar i ett 60-talshus vid Göta kanal.", "tagg": "vvs"},
+    {"namn": "Mjölby kommunfastigheter", "ort": "Mjölby", "typ": "Ramavtal service", "ar": "2025", "text": "Service och jour i 34 skolor, förskolor och idrottshallar.", "tagg": "vvs"},
+    {"namn": "Villakvarteret Ekholmen", "ort": "Linköping", "typ": "Värmepumpar, 28 villor", "ar": "2024", "text": "Samordnad upphandling där en villaförening bytte till bergvärme i ett och samma projekt.", "tagg": "hem"}
+  ],
+  "process": [
+    {"titel": "Ett samtal", "text": "Servicedesken i Linköping tar emot och skickar ärendet till rätt bolag och tekniker.", "tagg": "kontor"},
+    {"titel": "Lokal kontakt", "text": "Du får namnet på platschefen i din ort. Det är hen som lämnar offert och ansvarar för jobbet.", "tagg": "people"},
+    {"titel": "Gruppens resurser", "text": "Vid stora uppdrag kliver projektavdelningen in med inköp, logistik och boendesamordning.", "tagg": "bostad"},
+    {"titel": "En faktura", "text": "Oavsett hur många bolag som varit inblandade får du en faktura och en slutdokumentation.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Växa utan att bli anonyma",
+    "text": "När ett bolag ansluter behåller det namn, platschef och anställningsvillkor. Vi har ett gemensamt kvalitets- och miljösystem enligt ISO 9001 och 14001, och 31 av 54 servicebilar går nu på el.",
+    "mal": [["31 av 54", "servicebilar på el"], ["0", "anställda som sagts upp vid förvärv"], ["2028", "alla bilar fossilfria"]]
+  },
+  "karriar": {
+    "rubrik": "Fem arbetsplatser, en anställning",
+    "text": "Hos oss kan du byta ort, gå från service till projekt eller vidareutbilda dig till arbetsledare utan att byta arbetsgivare. Vi har 14 lärlingar i gruppen just nu.",
+    "jobb": [["Projektledare stambyten", "Linköping"], ["Servicetekniker VVS", "Norrköping"], ["Rörsvetsare industri", "Finspång"], ["Lärling VVS", "Motala"]]
+  },
+  "kultur": "Varje höst samlas alla fem bolag för en gemensam utbildningsdag och middag i Norrköping.",
+  "citat": {"text": "Vi köper inte rörfirmor för att lägga ner dem. Vi köper dem för att de är bra, och sedan ger vi dem ett lager, en projektavdelning och en lärlingsplan.", "namn": "Maria Strand", "roll": "Vd, Östgöta Rörgrupp", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi har fastigheter i fyra orter i länet. Nu har vi ett avtal, en faktura och ändå teknikern från orten.", "namn": "Henrik B., förvaltningschef", "ort": "Norrköping"},
+    {"text": "Stambytet i vårt hus tog sju veckor per trapphus. Hygienmodulen på gården var bättre än vi trodde.", "namn": "Aisha M.", "ort": "Linköping"},
+    {"text": "Motala Rörservice har kommit till sommarstugan i tjugo år. Det är fortfarande Bengt som kommer.", "namn": "Ulla och Rolf T.", "ort": "Motala"}
+  ],
+  "faq": [
+    ["Vem kommer när jag ringer?", "En tekniker från bolaget närmast dig. Servicedesken i Linköping fördelar ärendet, men jobbet görs lokalt."],
+    ["Är de lokala bolagen fortfarande egna?", "De är dotterbolag i gruppen men har kvar namn, platschef och kunder. Det är platschefen som ansvarar för ditt jobb."],
+    ["Hur stora stambyten tar ni?", "Vi har gjort upp till 240 lägenheter i ett projekt och klarar runt 300 lägenheter per år totalt."],
+    ["Kan vi teckna ett avtal för flera orter?", "Ja. Fastighetsägare med bestånd i flera kommuner får ett gemensamt serviceavtal med samma priser i hela länet."],
+    ["Har ni jour?", "Ja, gemensam jour dygnet runt för avtalskunder och för privatpersoner i Linköping och Norrköping."],
+    ["Säljer ni er rörfirma till er?", "Vi pratar gärna med ägare som funderar på generationsskifte. Hör av dig direkt till Maria Strand."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001 och 14001", "text": "Gemensamt certifierat ledningssystem för alla fem bolag, reviderat av tredje part varje år.", "ikon": "skold"},
+    {"titel": "Säker Vatten", "text": "Samtliga bolag är auktoriserade enligt branschreglerna Säker Vatteninstallation.", "ikon": "vatten"},
+    {"titel": "Svetscertifikat", "text": "Industrisvetsare certifierade enligt SS-EN ISO 9606-1 för rostfritt och kolstål.", "ikon": "eld"},
+    {"titel": "F-gascertifikat", "text": "Certifierade tekniker för installation av värmepumpar med köldmedier, kategori I.", "ikon": "sol"}
+  ],
+  "kunder": ["Bostadsstiftelsen Tornby", "Kvarnholmens Fastigheter", "Mjölby kommunfastigheter", "Brf Varvsholmen", "Finspångs Valsverk", "Östgöta Fastighetspartner", "Motala Hamnhus", "Villaföreningen Ekholmen"],
+  "nyheter": [
+    ["2026-09-01", "Finspångs Rörteknik blir en del av gruppen", "Bolaget behåller namn och platschef – och får tillgång till centrallagret.", "people"],
+    ["2026-06-18", "31 servicebilar på el", "Vi är över halvvägs mot en fossilfri fordonsflotta 2028.", "vvs"],
+    ["2026-03-12", "Omsättningen ökade med 18 procent", "Stambyten och industri drev tillväxten under 2025.", "kontor"],
+    ["2025-11-27", "Etapp tre i Skäggetorp upphandlad", "186 lägenheter med boende kvar, start hösten 2026.", "bostad"]
+  ],
+  "kontakt": {"adress": "Gottorpsgatan 18", "postnr": "582 73", "ort": "Linköping", "telefon": "070-174 06 47", "epost": "kundservice@ostgotaror.se", "orgnr": ""},
+  "oppettider": "Servicedesk mån–fre 6.30–17, jour dygnet runt",
+  "omrade": "Hela Östergötland",
+  "fot_cta": "Ett nummer till fem rörfirmor – ring servicedesken.",
+  "text": {
+    "topp_hem": "Östgöta Rörgrupp",
+    "meny_bolag": "Våra bolag",
+    "bolag_etikett": "Gruppen",
+    "bolag_rubrik": "Fem lokala bolag",
+    "bolag_kol": ["Bolag", "Ort", "Inriktning"],
+    "sida_bolag_ingress": "Östgöta Rörgrupp består av {n} bolagsenheter med egna namn och platschefer – och en gemensam servicedesk.",
+    "ber_rubrik": "Senast i gruppen",
+    "proj_rubrik": "Uppdrag runt om i länet",
+    "process_rubrik": "Lokalt utfört, gemensamt stöd",
+    "hb_etikett": "Ansvarsfull tillväxt",
+    "omdomen_rubrik": "Kunder i fem orter",
+    "faq_rubrik": "Om gruppen och våra tjänster",
+    "boka_rubrik": "Skicka ett ärende",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Ort och ärende"],
+    "logos_rubrik": "Uppdragsgivare i Östergötland",
+    "certifikat_rubrik": "Ett ledningssystem för alla bolag",
+    "kontor_etikett": "Kontor",
+    "medarbetare": "Medarbetare i gruppen"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "profil": "nisch",
+  "nisch": "mark",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Grön Linje Anläggning AB",
+  "kortnamn": "Grön Linje",
+  "slug": "gron-linje",
+  "typ": "Fossilfri markentreprenad i Skåne",
+  "tagline": "Eldrivet och regnsäkert",
+  "slogan": "Vi bygger dagvattenlösningar, gröna gårdar och gator med eldrivna maskiner och återbrukade massor – och vi redovisar klimatavtrycket för varje projekt.",
+  "hero_rubrik": "Grävt med el, byggt för regnet",
+  "hero_text": "Grön Linje är en markentreprenör i Lund med nio eldrivna maskiner. Vi bygger regnbäddar, skolgårdar och gator åt kommuner och fastighetsägare i sydvästra Skåne.",
+  "intro_rubrik": "Mätbart lägre utsläpp sedan 2015",
+  "om": [
+    "Landskapsingenjören Leila Nasser och anläggaren Henrik Persson startade Grön Linje 2015 efter skyfallen i Malmö året innan. De ville bygga ytor som tar hand om regnet där det faller – och göra det utan att elda tusentals liter diesel.",
+    "I dag är vi 34 anställda. Vi har nio batteridrivna grävare och lastare, kör resten av maskinparken på HVO100 och har ett eget mellanlager i Gunnesbo där schaktmassor sorteras och återanvänds. Varje projekt får ett klimatbokslut när det lämnas över."
+  ],
+  "vagval_rubrik": "Vad ska marken klara?",
+  "tjanster": [
+    {"titel": "Dagvatten och LOD", "ikon": "vatten", "href": "verksamhet.html", "text": "Regnbäddar, svackdiken och makadammagasin som fördröjer vattnet på tomten."},
+    {"titel": "Skolgårdar", "ikon": "skola", "href": "verksamhet.html", "text": "Lekytor, odlingslådor och träddungar med genomsläpplig beläggning."},
+    {"titel": "Gröna gårdar", "ikon": "trad", "href": "verksamhet.html", "text": "Bostadsgårdar med ängsmark, skelettjord för träd och plattor som släpper igenom vatten."},
+    {"titel": "Masshantering", "ikon": "sten", "href": "verksamhet.html", "text": "Sortering, provtagning och återbruk av schaktmassor i eget mellanlager."},
+    {"titel": "Eldrivna maskiner", "ikon": "laddning", "href": "verksamhet.html", "text": "Nio batteridrivna maskiner för tysta jobb i stadsmiljö och vid skolor."},
+    {"titel": "Gator och torg", "ikon": "vag", "href": "verksamhet.html", "text": "Lokalgator, gångstråk och torgytor i natursten och betong."},
+    {"titel": "Klimatbokslut", "ikon": "graf", "href": "hallbarhet.html", "text": "Redovisning av koldioxid per projekt, timme och kubikmeter."},
+    {"titel": "Begär anbud", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi räknar på kommunala och privata förfrågningar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Dagvatten och skyfall", "text": "Skåne får allt kraftigare skyfall, och de gamla ledningarna räcker inte. Vi bygger regnbäddar, översvämningsytor och makadammagasin som tar hand om ett 20-årsregn på den egna fastigheten.", "text2": "Vi har byggt över 60 lösningar för lokalt omhändertagande av dagvatten sedan 2016.", "tagg": "mark"},
+    {"titel": "Skolgårdar och förskolor", "text": "En skolgård ska tåla 400 barn och samtidigt ha träd som ger skugga om tjugo år. Vi bygger med eldrivna maskiner så att verksamheten kan pågå medan vi arbetar.", "text2": "Ljudnivån från en elgrävare är ungefär som ett samtal – under 70 decibel.", "tagg": "natur"},
+    {"titel": "Bostadsgårdar", "text": "Vi bygger om asfaltgårdar från 60-talet till gröna gårdar med växtbäddar, sittplatser och genomsläppliga plattor. Det befintliga materialet krossas och läggs tillbaka som bärlager.", "text2": "Arbetet görs etappvis så att de boende alltid har en väg in.", "tagg": "tradgard"},
+    {"titel": "Masshantering och återbruk", "text": "Ungefär en tredjedel av all avfallsmängd i Sverige är schaktmassor. Vi provtar, sorterar och återanvänder dem i våra egna projekt eller säljer dem vidare som fyllnadsmaterial.", "text2": "Mellanlagret i Gunnesbo har tillstånd för 40 000 ton per år.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Dagvatten och gata", "segment": "Kommuner och exploatörer", "rubrik": "Ytor som tar emot regnet", "text": "Fyra arbetslag bygger dagvattenanläggningar, gator och torg. Leds av Henrik Persson.", "tagg": "mark"},
+    {"namn": "Gårdar och skolor", "segment": "Fastighetsägare och förvaltare", "rubrik": "Gröna gårdar i drift", "text": "Två lag med eldrivna maskiner som arbetar på skolor och bostadsgårdar där folk är kvar under bygget.", "tagg": "natur"},
+    {"namn": "Gunnesbo massterminal", "segment": "Återbruk", "rubrik": "40 000 ton per år", "text": "Mottagning, provtagning och sortering av schaktmassor, betong och tegel för återbruk.", "tagg": "anlaggning"}
+  ],
+  "berattelser": [
+    {"rubrik": "Tolv regnbäddar på Brunnshög", "text": "Gatorna i det nya kvarteret leder regnvatten till planteringar i stället för till ledningsnätet.", "tagg": "mark"},
+    {"rubrik": "Skolgården i Staffanstorp klar under terminen", "text": "Två elgrävare arbetade bredvid rasterna i elva veckor utan en enda klagan på buller.", "tagg": "natur"},
+    {"rubrik": "Vår tionde eldrivna maskin", "text": "En batteridriven hjullastare levereras i december och ersätter vår sista dieselmaskin i stadstrafik.", "tagg": "maskin"}
+  ],
+  "nyckeltal": [
+    {"varde": "9", "enhet": "elmaskiner", "etikett": "Grävare och lastare på batteri"},
+    {"varde": "81 %", "enhet": "", "etikett": "Av massorna återbrukade 2025"},
+    {"varde": "−58 %", "enhet": "CO₂", "etikett": "Per maskintimme jämfört med 2019"},
+    {"varde": "34", "enhet": "anställda", "etikett": "I Lund och Malmö"}
+  ],
+  "projekt": [
+    {"namn": "Kvarteret Kalkbrottet", "ort": "Lund", "typ": "Dagvatten och gata", "ar": "2025", "text": "Tolv regnbäddar och 600 meter lokalgata med genomsläpplig beläggning.", "tagg": "mark"},
+    {"namn": "Tågarps skola", "ort": "Staffanstorp", "typ": "Skolgård", "ar": "2025", "text": "Ny skolgård med träddungar och skyfallsyta, byggd under pågående termin.", "tagg": "natur"},
+    {"namn": "Brf Möllevångsgården", "ort": "Malmö", "typ": "Bostadsgård", "ar": "2024", "text": "Asfaltgård blev gröngård, med den gamla asfalten krossad till bärlager.", "tagg": "tradgard"},
+    {"namn": "Skyfallsparken Lomma", "ort": "Lomma", "typ": "Översvämningsyta", "ar": "2026", "text": "Park som kan ta emot 4 000 kubikmeter vatten vid skyfall.", "tagg": "anlaggning"},
+    {"namn": "Furulunds förskola", "ort": "Kävlinge", "typ": "Förskolegård", "ar": "2024", "text": "Odlingsytor, sandlekplats och regnvattenränna byggda med eldrivna maskiner.", "tagg": "natur"},
+    {"namn": "Gunnesbo massterminal", "ort": "Lund", "typ": "Återbruk", "ar": "2025", "text": "Utbyggnad av mellanlagret med ny sorteringsyta och tvättanläggning.", "tagg": "anlaggning"}
+  ],
+  "process": [
+    {"titel": "Massbalans först", "text": "Innan vi räknar pris räknar vi hur mycket som kan återanvändas på plats.", "tagg": "anlaggning"},
+    {"titel": "Klimatkalkyl i anbudet", "text": "Varje anbud visar förväntade utsläpp och vilka maskiner vi använder.", "tagg": "kontor"},
+    {"titel": "Byggskede", "text": "Eldrivna maskiner där människor vistas, HVO100 på resten. Laddning sker från egen container med batteri.", "tagg": "mark"},
+    {"titel": "Klimatbokslut", "text": "Vid överlämningen får ni faktiska utsläpp, återbrukade massor och skötselplan för växterna.", "tagg": "natur"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi redovisar varje kilo koldioxid",
+    "text": "Klimatbokslutet bygger på faktisk energiförbrukning från maskinernas loggar, inte schabloner. 2025 släppte vi ut 3,1 kilo koldioxid per maskintimme, jämfört med 7,4 kilo 2019. Målet är noll fossila bränslen 2028.",
+    "mal": [["2028", "helt fossilfri maskinpark"], ["90 %", "återbrukade massor 2027"], ["3,1 kg", "CO₂ per maskintimme 2025"]]
+  },
+  "karriar": {
+    "rubrik": "Kör framtidens maskiner i dag",
+    "text": "Vi söker anläggare och maskinförare som vill arbeta med eldrivna maskiner och växter lika mycket som med rör och grus. Vi erbjuder utbildning i dagvattenteknik och växtbäddar.",
+    "jobb": [["Maskinförare eldrivna maskiner", "Lund"], ["Anläggare med växtkunskap", "Malmö"], ["Arbetsledare dagvatten", "Lund"]]
+  },
+  "kultur": "Alla anställda cyklar gratis på företagets elcyklar, och varje höst planterar vi ett träd per nyanställd på massterminalen.",
+  "citat": {"text": "Regnet kommer att falla hårdare och oftare. Vi kan antingen bygga större rör eller låta marken göra jobbet. Vi har valt marken.", "namn": "Leila Nasser", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi fick ett klimatbokslut med faktiska siffror, inte uppskattningar. Det kunde vi använda direkt i vår hållbarhetsredovisning.", "namn": "Johanna R.", "ort": "Lund"},
+    {"text": "Elva veckor med grävmaskiner på skolgården och inte ett enda klagomål från lärarna. Det trodde jag inte var möjligt.", "namn": "Ali K.", "ort": "Staffanstorp"},
+    {"text": "Föreningens gamla asfaltgård är nu det ställe där alla barn i huset leker. De krossade asfalten och använde den under plattorna.", "namn": "Birgitta L.", "ort": "Malmö"}
+  ],
+  "faq": [
+    ["Är eldrivna maskiner dyrare?", "Timpriset är cirka 8 procent högre för de batteridrivna maskinerna. Ofta tjänar ni in det genom att slippa bullerrestriktioner och kunna arbeta tidigare på morgonen nära bostäder och skolor."],
+    ["Hur laddar ni maskinerna på bygget?", "Vi har en egen battericontainer på 500 kilowattimmar som laddas över natten via byggström. Den räcker för två grävare en hel arbetsdag."],
+    ["Vad är LOD?", "Lokalt omhändertagande av dagvatten – att regnet tas om hand på fastigheten genom infiltration och fördröjning i stället för att ledas direkt till kommunens ledningar."],
+    ["Tar ni emot massor från andra entreprenörer?", "Ja, Gunnesbo massterminal tar emot rena och lätt förorenade massor efter provtagning. Pris per ton beror på analysresultatet."],
+    ["Kan ni sköta växterna efteråt?", "Vi lämnar en skötselplan och erbjuder två års etableringsskötsel, så att träd och perenner får en bra start."],
+    ["Arbetar ni utanför Skåne?", "Nej. Vi håller oss inom fem mil från Lund för att hålla nere transporterna, och det är en del av vårt klimatlöfte."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem sedan 2018, med årlig extern revision.", "ikon": "lov"},
+    {"titel": "Gemensamma miljökrav", "text": "Vi uppfyller storstädernas gemensamma miljökrav för entreprenader, även i de kommuner som inte ställer dem.", "ikon": "skold"},
+    {"titel": "Fossilfritt Sverige", "text": "Undertecknare av anläggningsbranschens färdplan för fossilfri konkurrenskraft.", "ikon": "sol"},
+    {"titel": "Byggvarubedömningen", "text": "Alla material i våra anläggningar är bedömda i Byggvarubedömningen och loggas i projektets loggbok.", "ikon": "dokument"}
+  ],
+  "kunder": ["Lunds kommun, tekniska förvaltningen", "Brunnshög Exploatering", "Staffanstorps skolfastigheter", "Brf Möllevångsgården", "Lomma kommun", "Kävlinge kommun", "Bostadsstiftelsen Öresundsgården", "Universitetsfastigheter Syd"],
+  "kontor_lista": [
+    ["Lund", "Huvudkontor och laddstation på Gastelyckan."],
+    ["Gunnesbo", "Massterminal och maskinhall."],
+    ["Malmö", "Arbetsplatskontor för gårdar och skolor."]
+  ],
+  "kontor_rubrik": "Tre platser inom fem mil",
+  "kontor_text": "Vi arbetar nära för att hålla transporterna korta.",
+  "nyheter": [
+    ["2026-10-14", "Klimatbokslut för 2025 publicerat", "Utsläppen per maskintimme minskade med 18 procent på ett år.", "natur"],
+    ["2026-08-27", "Skyfallsparken i Lomma påbörjad", "Parken ska kunna ta emot 4 000 kubikmeter regnvatten när den är klar 2027.", "anlaggning"],
+    ["2026-03-09", "Så fungerar en regnbädd", "Leila Nasser förklarar uppbyggnaden lager för lager – från makadam till perenner.", "mark"]
+  ],
+  "kontakt": {"adress": "Gastelyckan Västra 12", "postnr": "224 78", "ort": "Lund", "telefon": "070-174 06 44", "epost": "hej@gronlinje.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Lund, Malmö och sydvästra Skåne inom fem mil",
+  "fot_cta": "Planerar ni för skyfall eller en grönare gård? Vi visar klimatkalkylen redan i anbudet.",
+  "bild": {"panel": "natur", "hb": "mark"},
+  "text": {
+    "hero_knapp": "Det här bygger vi",
+    "kontakt_knapp": "Begär anbud",
+    "ber_etikett": "Senaste projekten",
+    "ber_rubrik": "Regnbäddar, skolgårdar och elmaskiner",
+    "proj_rubrik": "Ytor som tar hand om vattnet",
+    "process_rubrik": "Klimatet räknas in från första kalkylen",
+    "hb_etikett": "Klimatbokslut",
+    "hb_lank": "Läs klimatbokslutet",
+    "omdomen_rubrik": "Beställare och boende",
+    "faq_rubrik": "Om elmaskiner, dagvatten och massor",
+    "logos_rubrik": "Kommuner och fastighetsägare vi bygger åt",
+    "certifikat_rubrik": "Miljökrav vi ställer på oss själva",
+    "bolag_rubrik": "Två produktionsenheter och en massterminal",
+    "boka_rubrik": "Vad ska marken klara?",
+    "boka_text": "Beskriv platsen och vad ni vill uppnå, så återkommer vi med ett förslag och en första klimatkalkyl.",
+    "siffror_etikett": "Grön Linje 2025",
+    "sida_bolag_ingress": "Grön Linje är organiserat i två produktionsenheter och en massterminal, med gemensam kalkyl och miljösamordning."
+  }
+}

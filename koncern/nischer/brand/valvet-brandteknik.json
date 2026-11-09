@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Valvet Brandteknik AB",
+  "kortnamn": "Valvet",
+  "slug": "valvet-brandteknik",
+  "typ": "Brandskydd för kulturhistoriska byggnader",
+  "tagline": "Brandteknik för kulturarv",
+  "slogan": "Vi skyddar sekelskiftesvåningar, kyrkor, herrgårdar och samlingar mot brand – utan att det syns i rummen.",
+  "hero_rubrik": "Brandskydd som inte syns i stuckaturen",
+  "hero_text": "Brandingenjörer och tekniker som projekterar och installerar dold detektering och vattendimma i k-märkta hus, kyrkor och privata samlingar i Stockholm och Mälardalen.",
+  "intro_rubrik": "Arton projekt per år, inga fler",
+  "om": [
+    "Valvet grundades 1997 av brandingenjören Fredrik Ekdahl efter branden i en sekelskiftesvåning på Narvavägen, där en konstsamling förstördes av släckvattnet snarare än av elden. Sedan dess har vi arbetat med en enda fråga: hur man skyddar ett rum utan att förstöra det man skyddar.",
+    "Vi är 26 personer – brandingenjörer, tekniker och en byggnadsantikvarie – med kontor på Riddargatan. Vi tar högst arton nya installationsprojekt per år och arbetar alltid med samma projektledare från första besöket till sista besiktningen."
+  ],
+  "vagval_rubrik": "Vad ska skyddas?",
+  "tjanster": [
+    {"titel": "Dold detektering", "ikon": "sok", "href": "verksamhet.html", "text": "Aspirerande rökdetektering genom kapillärrör som försvinner i stuckatur och listverk."},
+    {"titel": "Vattendimma", "ikon": "vatten", "href": "verksamhet.html", "text": "Högtrycksdimma som släcker med en tiondel av vattnet i en vanlig sprinkler."},
+    {"titel": "Kyrkor och kapell", "ikon": "stjarna", "href": "verksamhet.html", "text": "Brandlarm och stöldskydd i medeltida kyrkor i samråd med stiftet."},
+    {"titel": "Privata samlingar", "ikon": "las", "href": "verksamhet.html", "text": "Släcksystem med inert gas i arkiv, vinkällare och konstförråd."},
+    {"titel": "Brandskyddsbeskrivning", "ikon": "ritning", "href": "verksamhet.html", "text": "Analytisk dimensionering när förenklade regler inte går att följa i ett gammalt hus."},
+    {"titel": "Antikvarisk samordning", "ikon": "kontor", "href": "verksamhet.html", "text": "Vi tar fram underlag för bygglov och samråd med Länsstyrelsen."},
+    {"titel": "Diskret förvaltning", "ikon": "nyckel", "href": "verksamhet.html", "text": "Service och revision med samma tekniker, efter överenskommelse om tider."},
+    {"titel": "Boka ett samtal", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ett första platsbesök är kostnadsfritt och förutsättningslöst."}
+  ],
+  "affarsomraden": [
+    {"titel": "Våningar och residens", "text": "Sekelskiftesvåningar har bjälklag av trä, öppna spisar och tak med gipsornament. Vi placerar detektering och släcksystem så att de varken syns eller kräver ingrepp i ytskikten.", "text2": "Installationen samordnas med er inredningsarkitekt och utförs ofta under en enda sommar.", "tagg": "interior"},
+    {"titel": "Kyrkor och kulturbyggnader", "text": "En medeltida kyrka kan inte ersättas. Vi projekterar brandlarm med trådlösa detektorer i valven och värmekamera i tornet, där kabeldragning inte är tillåten.", "text2": "Allt arbete godkänns av stiftets antikvarie och Länsstyrelsen innan vi börjar.", "tagg": "brand"},
+    {"titel": "Samlingar och arkiv", "text": "Vatten skadar papper, textil och olja. I förråd och arkiv installerar vi släcksystem med inert gas som sänker syrehalten utan att lämna rester.", "text2": "För utställningsrum föreslår vi vattendimma som ger minimala vattenskador.", "tagg": "brand"},
+    {"titel": "Brandteknisk projektering", "text": "När ett gammalt hus byggs om räcker sällan Boverkets förenklade regler. Våra brandingenjörer gör analytisk dimensionering och skriver brandskyddsbeskrivningen.", "text2": "Vi är certifierade sakkunniga och kan också granska andra konsulters handlingar.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Projektering", "segment": "Brandingenjörer", "rubrik": "Fem ingenjörer från Lund", "text": "Brandskyddsbeskrivningar, analytisk dimensionering och utrymningssimuleringar för ombyggnad av kulturhistoriska hus.", "tagg": "kontor"},
+    {"namn": "Kulturmiljö", "segment": "Antikvarisk samordning", "rubrik": "En byggnadsantikvarie i varje projekt", "text": "Vår antikvarie dokumenterar ytskikten före installation och sköter kontakten med Länsstyrelsen och stiften.", "tagg": "interior"},
+    {"namn": "Installation", "segment": "Detektering och släcksystem", "rubrik": "Tolv tekniker med vita handskar", "text": "Montörer vana vid att arbeta i möblerade hem, med skyddsmaterial för golv och dammfria borrsystem.", "tagg": "brand"},
+    {"namn": "Förvaltning", "segment": "Service och revision", "rubrik": "Samma tekniker varje år", "text": "Revision och service av cirka 140 anläggningar, utförd när ägaren inte är hemma om så önskas.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Vattendimma i en våning på Strandvägen", "text": "Tolv rum, åtta meter stuckatur och ett system som syns som 14 millimeter stora munstycken.", "tagg": "interior"},
+    {"rubrik": "Kyrka från 1200-talet får brandlarm", "text": "Trådlösa detektorer i valven och värmekamera i tornet i en uppländsk sockenkyrka.", "tagg": "brand"},
+    {"rubrik": "Arkivet som klarade läckan", "text": "När ett vattenrör sprack i grannfastigheten var arkivet med inertgas torrt. Ett vanligt sprinklerrum hade inte varit det.", "tagg": "brand"}
+  ],
+  "nyckeltal": [
+    {"varde": "29", "enhet": "år", "etikett": "Med kulturhistoriska hus"},
+    {"varde": "18", "enhet": "projekt", "etikett": "Det högsta vi tar per år"},
+    {"varde": "140", "enhet": "anläggningar", "etikett": "I diskret förvaltning"},
+    {"varde": "1/10", "enhet": "av vattnet", "etikett": "Vattendimma mot sprinkler"}
+  ],
+  "projekt": [
+    {"namn": "En våning på Strandvägen", "ort": "Stockholm", "typ": "Vattendimma och dold detektering", "ar": "2025", "text": "Tolv rum från 1898 med kapillärdetektering i taklisterna och dimmunstycken i kulören.", "tagg": "interior"},
+    {"namn": "Skederids kyrka", "ort": "Norrtälje", "typ": "Trådlöst brandlarm", "ar": "2025", "text": "Detektorer i valven och värmekamera i tornet utan en enda ny kabel i murverket.", "tagg": "brand"},
+    {"namn": "Herrgård i Sörmland", "ort": "Gnesta", "typ": "Brandlarm och dimma", "ar": "2024", "text": "Huvudbyggnad från 1760 med bibliotek och två flyglar, utfört under en sommar.", "tagg": "hem"},
+    {"namn": "Privat arkiv", "ort": "Djursholm", "typ": "Inertgassläckning", "ar": "2024", "text": "Släcksystem med kvävgas i ett källararkiv med brev och fotografier från 1800-talet.", "tagg": "brand"},
+    {"namn": "Kv. Pilen", "ort": "Gamla stan", "typ": "Brandskyddsbeskrivning", "ar": "2025", "text": "Analytisk dimensionering för ombyggnad av ett 1600-talshus till hotell med 22 rum.", "tagg": "stad"},
+    {"namn": "Galleri på Hornsgatan", "ort": "Stockholm", "typ": "Vattendimma", "ar": "2026", "text": "Utställningshall och konstförråd, med installation mellan två utställningar i januari.", "tagg": "interior", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Förtroligt samtal", "text": "Vi börjar med ett möte på plats under tystnadsplikt, ofta tillsammans med er förvaltare eller arkitekt.", "tagg": "people"},
+    {"titel": "Dokumentation", "text": "Antikvarien fotograferar och beskriver ytskikten, och ingenjören tar fram ett förslag med alternativ.", "tagg": "interior"},
+    {"titel": "Varsam installation", "text": "Golv och möbler skyddas, damm sugs vid källan och varje dag avslutas med städning.", "tagg": "brand"},
+    {"titel": "Förvaltning", "text": "Samma tekniker sköter revisionen varje år, på tider som passar hushållet.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Det ska se ut som om vi aldrig varit där",
+    "text": "Vi fotodokumenterar varje rum före och efter installation, och ingrepp i ursprungliga ytskikt görs bara efter skriftligt godkännande. Allt arbete omfattas av tystnadsplikt, och vi publicerar aldrig adresser utan ägarens samtycke.",
+    "mal": [["0", "synliga kablar i rum med ursprungliga ytskikt"], ["1", "projektledare från första besök till besiktning"], ["10 år", "garanti på installationsarbetet"]]
+  },
+  "karriar": {
+    "rubrik": "För dig som vill arbeta i Stockholms vackraste rum",
+    "text": "Vi söker brandingenjörer och tekniker med tålamod och känsla för material. Du får arbeta i hus som de flesta aldrig får se, och ta ansvar för hela projekt.",
+    "jobb": [["Brandingenjör", "Stockholm"], ["Servicetekniker brandlarm", "Stockholm"]]
+  },
+  "kultur": "Varje höst gör hela kontoret en studieresa till en byggnad vi har arbetat i – i år Skokloster.",
+  "citat": {"text": "Släckvatten har förstört fler konstverk i Stockholm än eld. Det är därför vi började, och det är fortfarande det vi tänker på i varje rum.", "namn": "Fredrik Ekdahl", "roll": "Grundare och brandingenjör", "tagg": "kontor"},
+  "omdomen": [
+    {"text": "Vi var oroliga för taken i salongen. I dag kan inte ens vår inredningsarkitekt peka ut var detektorerna sitter.", "namn": "Charlotte v. B.", "ort": "Östermalm"},
+    {"text": "Valvets antikvarie hade alla handlingar klara till samrådet med Länsstyrelsen. Vi fick godkänt på första mötet.", "namn": "Kyrkoherde Anna L.", "ort": "Roslagen"},
+    {"text": "Installationen gjordes medan vi var i Provence. När vi kom hem var allt städat och det enda som syntes var ett nytt protokoll på hallbordet.", "namn": "Gustaf R.", "ort": "Djursholm"}
+  ],
+  "faq": [
+    ["Syns detektorerna?", "Med aspirerande detektering syns bara små sughål på 3–4 millimeter, som kan målas i takets kulör. I rum där även det är olämpligt använder vi trådlösa detektorer i listverk eller ovanliggande bjälklag."],
+    ["Vad är skillnaden mellan vattendimma och sprinkler?", "Vattendimma bildar mycket små droppar under högt tryck och kyler branden med ungefär en tiondel av vattenmängden. Det minskar skadorna på parkettgolv, tapeter och konst."],
+    ["Behöver vi tillstånd för installationen?", "I k-märkta byggnader och kyrkor krävs ofta tillstånd från Länsstyrelsen eller stiftet. Vår antikvarie tar fram underlaget och sköter samrådet."],
+    ["Hur lång tid tar ett projekt?", "En våning tar normalt fyra till åtta veckor på plats. Projekteringen och tillstånden tar ofta lika lång tid, så räkna med ett halvår från första samtal."],
+    ["Arbetar ni utanför Stockholm?", "Ja, i hela Mälardalen och på Gotland. Kyrkor och herrgårdar tar vi även längre bort efter överenskommelse."],
+    ["Vad kostar det?", "Varje projekt är unikt, så vi lämnar alltid fast pris efter platsbesök och förslag. Det första besöket är kostnadsfritt."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierad sakkunnig brand", "text": "Två av våra brandingenjörer är certifierade sakkunniga av brandskydd och kan intyga handlingar.", "ikon": "ritning"},
+    {"titel": "Certifierad anläggarfirma", "text": "SBSC-certifierade för projektering, installation och service av brandlarm enligt SBF 110.", "ikon": "skold"},
+    {"titel": "Sakkunnig kulturvärden", "text": "Vår byggnadsantikvarie är certifierad sakkunnig kulturvärden (CSK).", "ikon": "kontor"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö, inklusive rutiner för tystnadsplikt.", "ikon": "lov"}
+  ],
+  "kunder": ["Ekdahlska Stiftelsen", "Skederids församling", "Fastighets AB Pilen", "Strandvägens Förvaltning", "Galleri Ljusgården", "Säteriet Hallsta", "Djurgårdens Samfällighet"],
+  "nyheter": [
+    ["2026-09-22", "Vattendimma i en salong från 1898", "Hur vi placerade munstyckena så att de följer rosetternas mönster.", "interior"],
+    ["2026-05-18", "Seminarium för kyrkoförvaltare", "Brandskydd i medeltida kyrkor – vad stiften kräver och vad som fungerar.", "brand"],
+    ["2025-12-03", "Valvet anställer byggnadsantikvarie nummer två", "Fler projekt utanför Stockholm kräver ännu mer antikvarisk kompetens.", "people"]
+  ],
+  "kontakt": {"adress": "Riddargatan 27", "postnr": "114 57", "ort": "Stockholm", "telefon": "070-174 06 58", "epost": "kontakt@valvetbrand.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8.30–17 eller efter överenskommelse",
+  "omrade": "Stockholm, Mälardalen och Gotland",
+  "fot_cta": "Har ni ett hus som inte går att ersätta? Låt oss börja med ett samtal.",
+  "bild": {"panel": "interior", "hb": "interior"},
+  "text": {
+    "ber_rubrik": "Ur projektjournalen",
+    "proj_rubrik": "Rum vi har fått skydda",
+    "process_rubrik": "Varsamt, i fyra steg",
+    "hb_etikett": "Vårt löfte",
+    "omdomen_rubrik": "Ägare och förvaltare berättar",
+    "faq_rubrik": "Det ägare till gamla hus undrar",
+    "boka_rubrik": "Berätta om huset",
+    "boka_text": "Vi återkommer inom två arbetsdagar för att boka ett första platsbesök under tystnadsplikt.",
+    "logos_rubrik": "Ett urval av uppdragsgivare",
+    "certifikat_rubrik": "Ingenjörer, antikvarier och certifikat",
+    "bolag_rubrik": "Fyra kompetenser i samma rum",
+    "kontakt_knapp": "Boka ett samtal"
+  }
+}

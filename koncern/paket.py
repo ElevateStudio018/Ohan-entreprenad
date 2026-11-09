@@ -216,7 +216,7 @@ def slumpa(rng, axel, tvang=None):
     return rng.choices(list(alt), weights=list(alt.values()))[0]
 
 
-def kandidat(rng, namn, bransch, farg=None, stil=None, accent=None):
+def kandidat(rng, namn, bransch, farg=None, stil=None, accent=None, profil="koncern", nisch=None):
     if not stil or stil not in ARKETYPER:
         stil = rng.choice(list(ARKETYPER))
     ark = ARKETYPER[stil]
@@ -225,12 +225,16 @@ def kandidat(rng, namn, bransch, farg=None, stil=None, accent=None):
     if farg:
         pal = dict(id="egen", fam="egen", primar=farg, accent=accent or blanda(farg, "#ffffff", 0.45), mork=justera(farg, -0.25, -0.1),
                    ton=blanda(farg, "#ffffff", 0.9), ton2=blanda(farg, "#ffffff", 0.78))
+    elif profil != "koncern":
+        pal = palett_for(rng, profil, nisch)
     else:
         pal = rng.choice(PALETTER)
     v = {ax: slumpa(rng, ax, ark.get(ax)) for ax in AXLAR}
+    if profil not in ("koncern", "mega") and v["hero"] in ("kurs", "sok"):
+        v["hero"] = rng.choice(["helskarm", "split", "statement", "mosaik", "centrerad", "band"])
     if v["header"] == "transparent" and v["hero"] not in ("helskarm", "centrerad", "kurs"):
         v["header"] = "ljus"
-    if v["hero"] == "kurs" and bransch not in ("fastighet", "samhalle"):
+    if v["hero"] == "kurs" and bransch not in ("fastighet", "samhalle") and profil != "mega":
         v["hero"] = "helskarm"
     if v["hero"] == "sok" and bransch not in ("bostad", "fastighet"):
         v["hero"] = "split"
@@ -341,6 +345,9 @@ def avstand(a, b):
     ab, bb = a.get("block", {}), b.get("block", {})
     d += 1.6 * (ab.get("vagval") != bb.get("vagval")) + 1.4 * (ab.get("bolag") != bb.get("bolag")) + 1.0 * (ab.get("siffror") != bb.get("siffror"))
     d += 1.2 * (a.get("motiv", "inget") != b.get("motiv", "inget"))
+    oa, ob = a.get("ordning_lista") or [], b.get("ordning_lista") or []
+    if oa and ob:
+        d += 2.0 * (1 - len(set(oa) & set(ob)) / max(1, len(set(oa) | set(ob)))) + 1.0 * (oa[:3] != ob[:3])
     return d
 
 
@@ -375,16 +382,154 @@ def husstil(k, farger_om=None):
     return k
 
 
-def nytt(namn, bransch="bygg", farg=None, stil=None, antal=600, accent=None, egen_stil=False):
+# --- Nischer: färgfamiljer, typsnitt och sektionsordning per profil -------------------------------------------------
+# (nyans-intervall i grader, mättnad, ljushet) – primärfärgen slumpas inom ett av intervallen
+PROFIL_FARG = {
+    "koncern": [((0, 360), (0.35, 0.75), (0.18, 0.38))],
+    "mega": [((195, 235), (0.45, 0.85), (0.14, 0.30)), ((140, 175), (0.35, 0.70), (0.14, 0.26)), ((350, 365), (0.50, 0.80), (0.24, 0.36)),
+             ((0, 360), (0.00, 0.06), (0.08, 0.16)), ((260, 290), (0.30, 0.55), (0.18, 0.30)), ((20, 40), (0.55, 0.85), (0.30, 0.42))],
+    "bygg": [((0, 360), (0.35, 0.80), (0.20, 0.40))],
+    "foto": [((330, 370), (0.12, 0.32), (0.30, 0.46)), ((80, 150), (0.08, 0.22), (0.26, 0.40)), ((20, 45), (0.15, 0.35), (0.28, 0.42)),
+             ((200, 240), (0.10, 0.28), (0.20, 0.34)), ((270, 320), (0.10, 0.25), (0.24, 0.38)), ((0, 360), (0.00, 0.05), (0.10, 0.22))],
+    "arborist": [((85, 160), (0.25, 0.60), (0.16, 0.32)), ((18, 40), (0.30, 0.60), (0.20, 0.34)), ((60, 85), (0.30, 0.55), (0.22, 0.34)),
+                 ((0, 360), (0.00, 0.06), (0.10, 0.18)), ((165, 200), (0.30, 0.55), (0.16, 0.28))],
+    "djur": [((170, 195), (0.45, 0.75), (0.28, 0.40)), ((5, 20), (0.55, 0.80), (0.42, 0.52)), ((38, 50), (0.65, 0.85), (0.40, 0.48)),
+             ((250, 285), (0.35, 0.60), (0.36, 0.48)), ((215, 235), (0.55, 0.80), (0.34, 0.46)), ((320, 345), (0.45, 0.70), (0.38, 0.48)),
+             ((95, 140), (0.35, 0.60), (0.28, 0.38))],
+}
+# Nischens egen grundton (B2B-nischerna), ± spridning
+NISCH_NYANS = {
+    "hiss": 215, "brand": 4, "ventilation": 195, "tak": 15, "sotare": 30, "lassmed": 45, "golv": 32, "rivning": 40, "mark": 42,
+    "solel": 48, "vvs": 205, "maleri": 340, "skadedjur": 100, "stad": 185, "maskin": 45, "begravning": 260, "trafikskola": 225,
+    "batvarv": 205, "smide": 20, "glas": 190, "sten": 30, "hovslagare": 25,
+}
+ACCENTER = ["#f2b84b", "#e98a5d", "#7fd6c2", "#c8e07a", "#f4a6b8", "#9ec5ff", "#ffd27a", "#d9c2a5", "#b8a1e8", "#ff8f6b", "#a6e3a1", "#e8d48a"]
+
+
+def _hsl(h, s, l):
+    r, g, b = colorsys.hls_to_rgb((h % 360) / 360, l, s)
+    return hexa(r, g, b)
+
+
+def palett_for(rng, profil, nisch=None):
+    if profil == "nisch" and nisch in NISCH_NYANS:
+        bas = NISCH_NYANS[nisch]
+        if rng.random() < 0.7:
+            h, s, l = bas + rng.uniform(-28, 28), rng.uniform(0.35, 0.8), rng.uniform(0.18, 0.38)
+        else:  # ibland en helt egen färg, så att inte alla i nischen får samma familj
+            h, s, l = rng.uniform(0, 360), rng.uniform(0.3, 0.75), rng.uniform(0.16, 0.36)
+    else:
+        (h0, h1), (s0, s1), (l0, l1) = rng.choice(PROFIL_FARG.get(profil, PROFIL_FARG["koncern"]))
+        h, s, l = rng.uniform(h0, h1), rng.uniform(s0, s1), rng.uniform(l0, l1)
+    primar = _hsl(h, s, l)
+    if rng.random() < 0.55:
+        accent = rng.choice(ACCENTER)
+    else:
+        accent = _hsl(h + rng.choice([150, 180, 200, 30, -30]), rng.uniform(0.45, 0.8), rng.uniform(0.62, 0.74))
+    mork = _hsl(h, min(1, s * 0.8), max(0.06, l * 0.55))
+    ton = blanda(primar, "#ffffff", rng.uniform(0.88, 0.93))
+    ton2 = blanda(accent, "#ffffff", 0.78)
+    fam = f"{profil}-{int(h % 360) // 30 * 30}"
+    return dict(id=fam, fam=fam, primar=primar, accent=accent, mork=mork, ton=ton, ton2=ton2)
+
+
+# Sektioner per profil: (måste med, valfria). Endast sektioner som briefen har innehåll för tas med.
+PROFIL_SEK = {
+    "koncern": (["vagval", "bolag", "projekt", "siffror"], ["berattelser", "panel", "hb", "ir", "nyheter", "process", "citat"]),
+    "mega": (["vagval", "bolag", "siffror", "ir"], ["berattelser", "panel", "hb", "nyheter", "process", "citat", "kontor", "tidslinje", "projekt"]),
+    "bygg": (["vagval", "projekt", "bolag"], ["berattelser", "siffror", "panel", "hb", "nyheter", "process", "citat", "omdomen", "faq", "certifikat", "boka"]),
+    "foto": (["projekt", "priser", "omdomen", "galleri"], ["vagval", "process", "bolag", "citat", "faq", "hb", "berattelser", "siffror", "nyheter", "boka", "panel"]),
+    "arborist": (["vagval", "projekt", "priser"], ["process", "omdomen", "certifikat", "faq", "berattelser", "bolag", "siffror", "hb", "panel", "boka", "galleri", "citat"]),
+    "djur": (["vagval", "priser", "omdomen"], ["galleri", "projekt", "process", "faq", "bolag", "hb", "citat", "berattelser", "boka", "panel", "siffror"]),
+    "nisch": (["vagval", "projekt"], ["process", "bolag", "siffror", "omdomen", "citat", "certifikat", "faq", "logos", "hb", "panel", "kontor", "berattelser", "nyheter", "boka"]),
+}
+KRAV = {"priser": "priser", "omdomen": "omdomen", "faq": "faq", "galleri": "galleri_taggar", "process": "process", "citat": "citat",
+        "certifikat": "certifikat", "logos": "kunder", "kontor": "kontor_lista", "tidslinje": "tidslinje", "ir": "investerare", "nyheter": "nyheter",
+        "berattelser": "berattelser", "panel": "karriar", "boka": "kontakt", "bolag": "bolag"}
+HELBILD = {"siffror": {"band"}, "hb": {"helbild"}, "berattelser": {"band"}, "panel": {"helbild"}}
+
+
+def ordning_for(rng, profil, brief):
+    mast, valfri = PROFIL_SEK.get(profil, PROFIL_SEK["koncern"])
+    har = [x for x in valfri if KRAV.get(x) is None or brief.get(KRAV[x])]
+    n = min(len(har), rng.randint(5, 8))
+    val = rng.sample(har, n)
+    slut = None
+    if "boka" in val and profil != "koncern":
+        val.remove("boka")
+        slut = "boka"
+    mitt = [x for x in mast if x != "vagval"] + val
+    rng.shuffle(mitt)
+    lista = mitt
+    if "vagval" in mast:
+        lista.insert(rng.choice([0, 0, 1, 2]), "vagval")
+    if profil in ("koncern", "mega"):
+        lista.append("snabb")
+    elif slut:
+        lista.append(slut)
+    elif rng.random() < 0.5:
+        lista.append("snabb")
+    return lista
+
+
+def bakgrunder(rng, ordning, p):
+    """Sektionsbakgrunder i rytm: aldrig två färgade ytor i rad, och tonen växlar."""
+    rytm = p.get("rytm", "ton")
+    starka = {"ton": ["pa-ton", "pa-yta"], "mork": ["pa-mork", "pa-yta", "pa-ton"], "farg": ["pa-farg", "pa-ton"], "ljus": ["pa-yta", "pa-ton"]}[rytm]
+    bg, forra = {}, ""
+    for i, sek in enumerate(ordning):
+        if sek in ("snabb",):
+            bg[sek] = ""
+            forra = ""
+            continue
+        if sek in HELBILD and p.get("block", {}).get(sek) in HELBILD[sek]:
+            forra = "x"
+            continue
+        if forra:
+            val = ""
+        else:
+            val = rng.choice(starka + [""]) if i else rng.choice(starka)
+        if sek in ("priser", "omdomen", "galleri", "boka") and val == "pa-farg":
+            val = "pa-ton"
+        bg[sek] = val
+        forra = val
+    return bg
+
+
+FOTO_TYPSNITT = [t for t in TYPSNITT if t["kat"] == "serif"]
+
+
+def anpassa_profil(k, profil, rng):
+    """Koncernstilen anpassad efter nischen: bröllop får serif-rubriker, djursalonger mjukare former."""
+    if profil == "foto":
+        ty = rng.choice(FOTO_TYPSNITT)
+        k["typsnitt"].update(id=ty["id"] + "+pj", kategori="serif", rubrik=ty["rubrik"], rubrik_vikt=ty["vikt"], spatiering=ty["sp"],
+                             rubrik_fallback=ty.get("fallback", "Georgia, serif"), rubrik_vikter=ty.get("vikter", "400;500;600;700"), siffra_vikt=ty["vikt"])
+        k["form"] = {"namn": "piller-mjuk", "knapp": 999, "kort": 4, "bild": 2, "hero": 0}
+    elif profil == "djur":
+        k["form"] = {"namn": "piller-rundad", "knapp": 999, "kort": 18, "bild": 16, "hero": 0}
+    elif profil == "arborist":
+        k["form"] = {"namn": "piller-latt", "knapp": 999, "kort": 6, "bild": 4, "hero": 0}
+    return k
+
+
+def nytt(namn, bransch="bygg", farg=None, stil=None, antal=600, accent=None, egen_stil=False, profil="koncern", nisch=None, brief=None, tidigare=None):
     """Väljer den kandidat som ligger längst ifrån alla paket i registret (max-min-avstånd).
     Som standard får paketet husstilen (Sjöstadens typsnitt och form) – då skiljer sig sajterna i färg och sektioner."""
     rng = random.Random(hashlib.md5(namn.encode()).hexdigest())
-    tidigare = [r for r in register() if r["for"] != namn]
+    if tidigare is None:
+        tidigare = [r for r in register() if r["for"] != namn]
     best, best_d = None, -1
     for _ in range(antal):
-        k = kandidat(rng, namn, bransch, farg, stil, accent)
+        k = kandidat(rng, namn, bransch, farg, stil, accent, profil, nisch)
         if not egen_stil:
             k = husstil(k)
+            k = anpassa_profil(k, profil, rng)
+        if brief is not None:
+            k["block"]["omdomen"] = rng.choice(["kort", "stor"])
+            k["ordning_lista"] = ordning_for(rng, profil, brief)
+            k["bakgrund"] = bakgrunder(rng, k["ordning_lista"], k)
+            k["profil"] = profil
         d = min((avstand(k, t) for t in tidigare), default=99) + rng.random() * 0.3
         if d > best_d:
             best, best_d = k, d

@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "lassmed",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Nattlåset Göteborg AB",
+  "kortnamn": "Nattlåset",
+  "slug": "nattlaset",
+  "typ": "Låsjour dygnet runt i Storgöteborg",
+  "tagline": "Jour alla årets nätter",
+  "slogan": "En människa svarar, en låssmed kör – dygnet runt, 365 dagar om året, i hela Storgöteborg.",
+  "hero_rubrik": "Vi öppnar dörrar när andra sover",
+  "hero_text": "Utelåst, inbrott eller en nyckel som gått av i låset? Nio jourbilar står laddade på Ringön och är i snitt framme på 34 minuter.",
+  "intro_rubrik": "Natten är vår arbetsdag",
+  "om": [
+    "Nattlåset startades 2008 av Mikael Strand, som efter tio år som låsmontör tröttnade på att telefonsvararen tog alla samtal efter fem. Han körde jour själv de första två åren. I dag är vi 24 anställda och tar emot runt 9 000 jourärenden om året.",
+    "Vår jourcentral på Ringön är bemannad dygnet runt av egen personal, inte av en inhyrd växel. Den som svarar ser var bilarna är, ger dig ett fast pris i telefonen och skickar ett sms när låssmeden är på väg."
+  ],
+  "vagval_rubrik": "Vad har hänt?",
+  "tjanster": [
+    {"titel": "Utelåst", "ikon": "las", "href": "verksamhet.html", "text": "Vi öppnar utan att förstöra låset i nio fall av tio."},
+    {"titel": "Efter inbrott", "ikon": "skold", "href": "verksamhet.html", "text": "Nytt lås och provisorisk säkring av dörr eller fönster samma natt."},
+    {"titel": "Nyckel av i låset", "ikon": "nyckel", "href": "verksamhet.html", "text": "Vi plockar ut nyckelbiten och byter cylinder om det behövs."},
+    {"titel": "Bil och båt", "ikon": "bil", "href": "verksamhet.html", "text": "Låsöppning av bilar, husbilar och båtar i hamnarna."},
+    {"titel": "Kassaskåp i lås", "ikon": "lada", "href": "verksamhet.html", "text": "Butiker och restauranger som inte kommer åt kassan."},
+    {"titel": "Fastighetsjour", "ikon": "kontor", "href": "verksamhet.html", "text": "Jouravtal för förvaltare och bostadsrättsföreningar."},
+    {"titel": "Låsbyte dagtid", "ikon": "verktyg", "href": "verksamhet.html", "text": "Planerade låsbyten vardagar till lägre pris än jour."},
+    {"titel": "Ring jouren", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "070-174 06 33 – svar inom 30 sekunder, dygnet runt."}
+  ],
+  "affarsomraden": [
+    {"titel": "Låsöppning", "text": "De flesta lägenhetsdörrar öppnar vi med verktyg genom brevinkast eller cylinder utan att något går sönder. Vi kontrollerar alltid legitimation och att du är skriven på adressen.", "text2": "Kan vi inte öppna utan att borra får du veta det innan vi börjar.", "tagg": "las"},
+    {"titel": "Akutsäkring efter inbrott", "text": "Uppbruten dörr, krossad ruta eller stulna nycklar. Vi byter cylinder, sätter provisoriskt lås och skivar för fönster så att bostaden är låst innan vi åker.", "text2": "Du får en skaderapport med bilder som försäkringsbolaget godkänner.", "tagg": "hem"},
+    {"titel": "Jour för fastighetsägare", "text": "Förvaltare och föreningar med jouravtal får prioriterad utryckning till portar, garage och soprum. Vi har nyckelkopior och ritningar i bilen.", "text2": "Ett åttiotal avtal med föreningar och förvaltare i Storgöteborg.", "tagg": "bostad"},
+    {"titel": "Planerade låsbyten", "text": "Dagtid gör jourlåssmederna vanliga låsbyten och monterar säkerhetslås. Det håller bilarna i rörelse och priset nere.", "text2": "Vardagar 8–16 betalar du dagtaxa även om du bokar samma dag.", "tagg": "las"}
+  ],
+  "bolag": [
+    {"namn": "Jourcentralen", "segment": "Ringön, bemannad 24/7", "rubrik": "Sex operatörer i treskift", "text": "Svarar, prissätter och dirigerar bilarna. Alla operatörer har själva gått ut som låsmontörer minst ett år.", "tagg": "people"},
+    {"namn": "Utryckningen", "segment": "Nio bilar, 14 låssmeder", "rubrik": "Framme på 34 minuter i snitt", "text": "Bilarna står uppställda i Hisingen, Mölndal, Partille och Kungälv nattetid för att korta körtiden.", "tagg": "las"},
+    {"namn": "Akutsäkring", "segment": "Inbrott och skadegörelse", "rubrik": "Låst innan vi åker", "text": "Två specialbilar med skivor, beslag och glasfilm för dörrar och fönster som inte går att stänga.", "tagg": "hem"}
+  ],
+  "berattelser": [
+    {"rubrik": "Nyårsnatten: 61 utryckningar", "text": "Alla nio bilar var ute från klockan 22 till 07. Längsta väntetiden blev 58 minuter, till Torslanda.", "tagg": "las"},
+    {"rubrik": "Ny uppställning i Kungälv", "text": "Sedan oktober står en jourbil i Kungälv, vilket halverar tiden till Ytterby och Kode.", "tagg": "hem"},
+    {"rubrik": "Svar inom 30 sekunder", "text": "Under september svarade jourcentralen på 97 procent av samtalen inom en halv minut.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "34", "enhet": "min", "etikett": "Snittid till plats 2025"},
+    {"varde": "24/7", "enhet": "", "etikett": "Egen bemannad central"},
+    {"varde": "9 000", "enhet": "per år", "etikett": "Jourärenden"},
+    {"varde": "9 av 10", "enhet": "", "etikett": "Öppnas utan att borra"}
+  ],
+  "projekt": [
+    {"namn": "Brf Masthuggsterrassen", "ort": "Göteborg", "typ": "Jouravtal, 140 lgh", "ar": "2026", "text": "Prioriterad jour till portar, garage och cykelrum.", "tagg": "bostad"},
+    {"namn": "Inbrottsserie i Askim", "ort": "Göteborg", "typ": "Akutsäkring, 11 villor", "ar": "2025", "text": "Elva villor säkrade under en helg, med nya lås och skaderapporter till försäkringen.", "tagg": "hem"},
+    {"namn": "Hotell vid Lilla Bommen", "ort": "Göteborg", "typ": "Nattjour, 210 rum", "ar": "2025", "text": "Avtal om utryckning till rumsdörrar och kassaskåp nattetid.", "tagg": "stad"},
+    {"namn": "Långedrag Gästhamn", "ort": "Göteborg", "typ": "Låsöppning båtar", "ar": "2025", "text": "Fast pris för gästande båtar som tappat nycklar i sjön.", "tagg": "las"},
+    {"namn": "Förvaltning Mölndal Centrum", "ort": "Mölndal", "typ": "Fastighetsjour, 6 hus", "ar": "2024", "text": "Jour till portar och garage i sex hyreshus med 420 lägenheter.", "tagg": "bostad"},
+    {"namn": "Partille Arena", "ort": "Partille", "typ": "Evenemangsjour", "ar": "2026", "text": "Låssmed i beredskap under handbollsturneringen i juli.", "tagg": "las", "status": "Utfört"}
+  ],
+  "process": [
+    {"titel": "Du ringer", "text": "En operatör svarar, frågar vad som hänt och ger dig ett fast pris innan vi kör.", "tagg": "people"},
+    {"titel": "Sms med tid", "text": "Du får ett sms med låssmedens namn och beräknad ankomsttid, och ett nytt när bilen är fem minuter bort.", "tagg": "las"},
+    {"titel": "Legitimation", "text": "Låssmeden kontrollerar legitimation och folkbokföring innan dörren öppnas – alltid.", "tagg": "hem"},
+    {"titel": "Betalt och klart", "text": "Kort, Swish eller faktura. Kvitto och eventuell skaderapport kommer på mejl samma natt.", "tagg": "las"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Trygghet är ett löfte vi mäter",
+    "text": "Varje jourärende loggas med tid för samtal, ankomst och avslut. Vi publicerar snittiderna varje kvartal och bjuder på utryckningen om vi är mer än en timme sena i Göteborgs kommun.",
+    "mal": [["< 40 min", "snittid till plats, mål för 2027"], ["97 %", "samtal besvarade inom 30 sekunder"], ["100 %", "legitimationskontroll före öppning"]]
+  },
+  "karriar": {
+    "rubrik": "Gillar du att jobba när staden sover?",
+    "text": "Vi söker låssmeder och operatörer som trivs med skift. Jour ersätts med 45 procent OB-tillägg natt och 100 procent på storhelger, och du har alltid två lediga helger i månaden.",
+    "jobb": [["Jourlåssmed", "Göteborg"], ["Operatör jourcentral, natt", "Göteborg"], ["Låsmontör dagtid", "Mölndal"]]
+  },
+  "kultur": "Nattskiftet äter gemensam frukost i centralen klockan sex innan dagpersonalen tar över.",
+  "citat": {"text": "Den som ringer klockan tre har oftast frusit en stund redan. Därför svarar vi på riktigt och säger exakt när vi kommer.", "namn": "Mikael Strand", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Låste ute mig i strumplästen i januari. Hon i telefon sa 2 190 kr och 25 minuter. Det blev 22 minuter och exakt det priset.", "namn": "Oskar L.", "ort": "Majorna"},
+    {"text": "Efter inbrottet satt dörren i två delar. Låssmeden byggde en provisorisk dörr och var klar halv fem på morgonen.", "namn": "Elif D.", "ort": "Askim"},
+    {"text": "Som förvaltare uppskattar jag att jag får en rapport med bild på varje ärende morgonen efter.", "namn": "Thomas B.", "ort": "Mölndal"}
+  ],
+  "faq": [
+    ["Vad kostar det att bli utelåst på natten?", "Låsöppning av en lägenhetsdörr kostar 2 190 kr kl. 18–07 och 1 490 kr dagtid, inklusive moms och resa i Göteborgs kommun. Priset gäller om vi inte behöver byta något."],
+    ["Måste jag visa legitimation?", "Ja. Vi öppnar bara för den som kan visa legitimation och är folkbokförd på adressen, eller har hyreskontrakt. Annars krävs att hyresvärden eller styrelsen bekräftar."],
+    ["Hur snabbt kommer ni?", "Snittiden till plats var 34 minuter 2025. I Kungsbacka, Lerum och Stenungsund räknar du med upp till en timme."],
+    ["Betalar försäkringen?", "Efter inbrott ersätter hemförsäkringen oftast låsbyte och akutsäkring. Vi skriver skaderapport med bilder som du skickar in."],
+    ["Öppnar ni bilar?", "Ja, de flesta bilmodeller öppnar vi utan skador. Moderna bilar med nyckellöst system kan kräva att vi kopplar in diagnosutrustning."],
+    ["Har ni jour på julafton och midsommar?", "Ja, samma bemanning alla storhelger. Storhelgstillägget är 600 kr."],
+    ["Kan föreningen teckna jouravtal?", "Ja. Avtalet kostar från 2 400 kr per år och ger prioriterad utryckning och lägre timpris för alla föreningens allmänna utrymmen."]
+  ],
+  "priser": [
+    {"namn": "Dagtid", "pris": "1 490 kr", "enhet": "vardagar 07–18", "text": "Låsöppning av vanlig lägenhets- eller villadörr.", "punkter": ["Resa i Göteborgs kommun ingår", "Fast pris i telefonen", "Legitimationskontroll", "Kort, Swish eller faktura"]},
+    {"namn": "Natt och helg", "pris": "2 190 kr", "enhet": "kl. 18–07 och helger", "text": "Samma jobb, när det behövs som mest.", "punkter": ["Bil på väg inom minuter", "Sms med ankomsttid", "Snittid 34 minuter", "Inga dolda tillägg"], "utvald": true},
+    {"namn": "Akutsäkring", "pris": "fr. 3 900 kr", "enhet": "efter inbrott", "text": "Ny cylinder och provisorisk säkring.", "punkter": ["Byte av cylinder", "Skivning av dörr eller fönster", "Skaderapport med bilder", "Uppföljning dagen efter"]}
+  ],
+  "prislista": [["Storhelgstillägg", "600 kr"], ["Ny cylinder inkl. 3 nycklar", "fr. 1 150 kr"], ["Utryckning utanför Göteborgs kommun", "+ 350 kr"], ["Bilöppning", "fr. 1 790 kr"], ["Kassaskåpsöppning", "fr. 2 900 kr"], ["Jouravtal för förening", "fr. 2 400 kr/år"]],
+  "certifikat": [
+    {"titel": "Medlem i SLR", "text": "Vi följer Sveriges Låssmeders Riksförbunds etiska regler för låsöppning och legitimationskontroll.", "ikon": "skold"},
+    {"titel": "Gesällbrev, låssmed", "text": "Alla 14 jourlåssmeder har gesällbrev, fyra av dem mästarbrev.", "ikon": "stjarna"},
+    {"titel": "Alkolås i alla bilar", "text": "Samtliga jourbilar har alkolås och vinterdäck från 1 oktober.", "ikon": "bil"},
+    {"titel": "Ansvarsförsäkring", "text": "Försäkrade för skador vid låsöppning och akutsäkring upp till 10 Mkr.", "ikon": "dokument"}
+  ],
+  "kunder": ["Brf Masthuggsterrassen", "Brf Kvarnbyfallet", "Mölndals Bostadsförvaltning", "Hotell Bommens Kaj", "Långedrag Gästhamn", "Partille Arena", "Hisingens Studentbostäder"],
+  "nyheter": [
+    ["2026-10-28", "Jourbil nummer nio i Kungälv", "Kortare väntetid i Kungälv, Ytterby och Kode från och med oktober.", "las"],
+    ["2026-09-15", "Sju råd före mörka hösten", "Så ser du till att din ytterdörr klarar försäkringsbolagets krav.", "hem"],
+    ["2026-07-08", "Lugn handbollsvecka", "Arenajouren hade tolv ärenden på sju dagar – mest cykellås.", "las"]
+  ],
+  "kontakt": {"adress": "Järnmalmsgatan 4", "postnr": "417 07", "ort": "Göteborg", "telefon": "070-174 06 33", "epost": "jour@nattlaset.se", "orgnr": ""},
+  "oppettider": "Jour dygnet runt, alla dagar · kontoret mån–fre 8–16",
+  "omrade": "Storgöteborg: Göteborg, Mölndal, Partille, Kungälv, Lerum och Kungsbacka",
+  "fot_cta": "Står du utanför just nu? Ring 070-174 06 33 – du får pris och ankomsttid direkt.",
+  "bild": {"panel": "people", "hb": "las"},
+  "text": {
+    "hero_knapp": "Vad gör vi?",
+    "ber_rubrik": "Från nattskiftet",
+    "proj_rubrik": "Avtal och utryckningar",
+    "process_rubrik": "Så går ett jourärende till",
+    "hb_etikett": "Våra löften",
+    "omdomen_rubrik": "Från dem vi släppt in",
+    "faq_rubrik": "Innan du ringer",
+    "priser_rubrik": "Priset får du i telefonen",
+    "boka_rubrik": "Boka låsbyte dagtid",
+    "logos_rubrik": "Har jouravtal med oss",
+    "certifikat_rubrik": "Därför kan du släppa in oss",
+    "bolag_rubrik": "Tre lag, en jour",
+    "ny_rubrik": "Senaste från jouren"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "profil": "nisch",
+  "nisch": "hiss",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kvadrant Hissgrupp AB",
+  "kortnamn": "Kvadrant",
+  "slug": "kvadrant-hiss",
+  "typ": "Hissgrupp med fyra bolag i Västsverige",
+  "tagline": "Hissar i hela väst",
+  "slogan": "Fyra lokala hissbolag med gemensam jour, gemensamt lager och en kundportal där varje hiss syns i realtid.",
+  "hero_rubrik": "Fyra lokala bolag. En jour. En portal.",
+  "hero_text": "Kvadrant samlar hissbolag i Göteborg, Borås, Trollhättan och Halmstad. Ni behåller teknikern som känner huset och får en storskalig organisation bakom.",
+  "intro_rubrik": "Från 22 till 120 medarbetare på sju år",
+  "om": [
+    "Kvadrant bildades 2016 när Göteborgsföretaget Ekdahl Hissteknik gick ihop med en hissfirma i Borås. Sedan dess har vi tagit in ytterligare två lokala bolag och vuxit från 22 till 120 anställda, med en omsättning på 212 miljoner kronor 2025.",
+    "Varje bolag har kvar sitt kontor, sina tekniker och sina kunder. Det som är gemensamt är jourcentralen i Göteborg, centrallagret i Mölndal, inköpen och Kvadrantportalen där fastighetsägare ser driftstatus, servicehistorik och besiktningsprotokoll för alla sina hissar."
+  ],
+  "vagval_rubrik": "Hur kan vi hjälpa er fastighet?",
+  "tjanster": [
+    {"titel": "Serviceavtal", "ikon": "kugge", "href": "verksamhet.html", "text": "Tre avtalsnivåer, från grundservice till fullservice med alla delar inkluderade."},
+    {"titel": "Kvadrantportalen", "ikon": "graf", "href": "verksamhet.html", "text": "Driftstatus, felanmälningar och protokoll för alla era hissar på en skärm."},
+    {"titel": "Fjärrövervakning", "ikon": "laddning", "href": "verksamhet.html", "text": "Sensorer som larmar om dörrfel och ovanliga stopp innan någon ringer."},
+    {"titel": "Jour i hela regionen", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "En jourcentral och 14 tekniker i beredskap från Strömstad till Laholm."},
+    {"titel": "Modernisering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Hela hissbestånd planeras in i en tioårig moderniseringsplan."},
+    {"titel": "Nyinstallation", "ikon": "hiss", "href": "verksamhet.html", "text": "Hissar och rulltrappor till nyproduktion i samarbete med byggentreprenören."},
+    {"titel": "Besiktningsstöd", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi bokar kontrollorganet, deltar och stänger anmärkningarna i portalen."},
+    {"titel": "Lediga jobb", "ikon": "folk", "href": "karriar.html", "text": "Vi anställer runt 15 tekniker och montörer per år."}
+  ],
+  "affarsomraden": [
+    {"titel": "Service i stor skala", "text": "Vi har 4 800 hissar under avtal i Västsverige, från tvåvåningshissar i radhusområden till högbyggnader på Lindholmen. Varje hiss har en namngiven tekniker och en reserv som också känner den.", "text2": "Fastighetsbolag med många objekt får en egen kundansvarig och en gemensam årsrapport för hela beståndet.", "tagg": "hiss"},
+    {"titel": "Digital drift", "text": "I Kvadrantportalen ser ni varje hiss med status, senaste servicebesök och öppna anmärkningar från besiktningen. Drygt 1 900 hissar har också sensorer som skickar larm vid dörrfel och upprepade stopp.", "text2": "Portalen kan kopplas till ert fastighetssystem via API så att felanmälningar hamnar på rätt ställe.", "tagg": "kontor"},
+    {"titel": "Moderniseringsplaner", "text": "För fastighetsägare med många hissar gör vi en tioårsplan som fördelar moderniseringarna jämnt över åren. Det ger förutsägbara kostnader och färre akuta byten.", "text2": "Planen bygger på besiktningsprotokoll, felstatistik och en inventering av varje hiss enligt SS-EN 81-80.", "tagg": "stad"},
+    {"titel": "Nyproduktion", "text": "Vi levererar och monterar hissar till nya bostäder, kontor och vårdbyggnader, och tar över servicen när huset står klart. Vi är med i projekteringen från systemhandlingsskedet.", "text2": "Under 2025 levererade vi 86 nya hissar och två rulltrappor.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Kvadrant Göteborg", "segment": "Storgöteborg och Kungälv", "rubrik": "Huvudkontor och jourcentral", "text": "Det ursprungliga Ekdahl Hissteknik, i dag 58 anställda med kontor vid Gullbergs Strandgata och centrallager i Mölndal.", "tagg": "stad"},
+    {"namn": "Kvadrant Sjuhärad", "segment": "Borås, Ulricehamn och Mark", "rubrik": "Textilstadens hissar sedan 1974", "text": "Tidigare Borås Hisservice, med 24 anställda och många kunder bland stadens bostadsbolag och industrifastigheter.", "tagg": "hiss"},
+    {"namn": "Kvadrant Fyrstad", "segment": "Trollhättan, Vänersborg och Uddevalla", "rubrik": "Industrihissar och bostäder", "text": "17 anställda som delar sin tid mellan bostadsrättsföreningar och varuhissar på industriområdena längs älven.", "tagg": "industri"},
+    {"namn": "Kvadrant Halland", "segment": "Halmstad, Falkenberg och Laholm", "rubrik": "Vårt nyaste bolag", "text": "Gick in i gruppen 2023 med 14 anställda och har sedan dess anställt sex till för att möta byggtakten i Halmstad.", "tagg": "bostad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Halland växer med sex tekniker", "text": "Byggtakten i Halmstad gör att Kvadrant Halland har gått från 14 till 20 anställda på två år.", "tagg": "people"},
+    {"rubrik": "1 900 hissar med sensorer", "text": "Fjärrövervakningen har minskat antalet akuta stopp i de uppkopplade hissarna med 31 procent sedan 2023.", "tagg": "hiss"},
+    {"rubrik": "Tioårsplan för Hisingshus", "text": "214 hissar, en plan och samma kostnad varje år fram till 2036.", "tagg": "stad"}
+  ],
+  "nyckeltal": [
+    {"varde": "4 800", "enhet": "hissar", "etikett": "Under avtal i Västsverige"},
+    {"varde": "120", "enhet": "anställda", "etikett": "I fyra lokala bolag"},
+    {"varde": "212", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "−31 %", "enhet": "", "etikett": "Akuta stopp med sensorer"}
+  ],
+  "projekt": [
+    {"namn": "Hisingshus Förvaltning", "ort": "Göteborg", "typ": "Moderniseringsplan", "ar": "2026", "text": "Inventering och tioårsplan för 214 hissar, med de första 22 moderniseringarna påbörjade i år.", "tagg": "stad", "status": "Pågående"},
+    {"namn": "Kvarteret Varvsbassängen", "ort": "Göteborg", "typ": "Nyproduktion", "ar": "2025", "text": "Fjorton maskinrumslösa hissar i tre bostadshus på upp till 16 våningar.", "tagg": "bygg"},
+    {"namn": "Sjuhärads Fastighets AB", "ort": "Borås", "typ": "Fullserviceavtal", "ar": "2025", "text": "Samtliga 168 hissar kopplade till portalen, med felanmälan direkt från hyresgästernas app.", "tagg": "hiss"},
+    {"namn": "Fyrstadens Bostäder", "ort": "Trollhättan", "typ": "Modernisering", "ar": "2024", "text": "Nya styrsystem och korgdörrar i 18 hissar från 1971, fyra hissar i taget.", "tagg": "hiss"},
+    {"namn": "Halmstads Hamnhus", "ort": "Halmstad", "typ": "Nyproduktion", "ar": "2026", "text": "Sex hissar och en panoramahiss i glas i det nya kontorshuset vid inre hamnen.", "tagg": "bygg", "status": "Pågående"},
+    {"namn": "Västra Vårdfastigheter", "ort": "Uddevalla", "typ": "Sängliftar", "ar": "2024", "text": "Fyra sängliftar moderniserade med reservkraftsdrift och prioritet för akuttransporter.", "tagg": "hiss"}
+  ],
+  "process": [
+    {"titel": "Inventering", "text": "Vi går igenom varje hiss i beståndet och lägger in skick, ålder och besiktningsstatus i portalen.", "tagg": "hiss"},
+    {"titel": "Avtal och plan", "text": "Ni väljer avtalsnivå och får en moderniseringsplan med kostnad per år.", "tagg": "kontor"},
+    {"titel": "Lokal tekniker", "text": "Det lokala bolaget tar över driften med namngiven tekniker och reserv.", "tagg": "people"},
+    {"titel": "Årlig genomgång", "text": "En gång per år går kundansvarig igenom statistik, kostnader och planen med er.", "tagg": "stad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mätbart, varje kvartal",
+    "text": "Vi redovisar driftsäkerhet, inställelsetider och utsläpp per bolag varje kvartal. Servicebilarna är elbilar i Göteborg och Borås, och hela fordonsflottan ska vara fossilfri 2028.",
+    "mal": [["99,6 %", "tillgänglighet för hissar med fullserviceavtal 2025"], ["62 %", "av servicebilarna går på el"], ["2028", "helt fossilfri fordonsflotta"]]
+  },
+  "karriar": {
+    "rubrik": "Väx med oss",
+    "text": "Vi har vuxit med i snitt 18 procent per år sedan 2019 och behöver fler tekniker, montörer och projektledare. Du anställs i det lokala bolaget men kan byta ort inom gruppen.",
+    "jobb": [["Servicetekniker hiss", "Göteborg"], ["Hissmontör nyproduktion", "Halmstad"], ["Projektledare modernisering", "Borås"], ["Jourtekniker", "Trollhättan"]]
+  },
+  "kultur": "Alla nyanställda går Kvadrantskolan: sex veckor med en erfaren tekniker innan du får egna hissar.",
+  "citat": {"text": "Vi har inte köpt bolag för att göra dem till filialer. Vi har köpt dem för att de var bra lokalt, och vi ger dem verktyg som bara en större organisation har råd med.", "namn": "Jonas Ekdahl", "roll": "Vd och koncernchef", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi förvaltar 168 hissar och har äntligen en överblick. Besiktningsanmärkningarna stängs i portalen och jag slipper jaga papper.", "namn": "Fredrik A.", "ort": "Borås"},
+    {"text": "Vi bytte till Kvadrant men fick behålla samma tekniker som vi haft i nio år. Det var avgörande för styrelsen.", "namn": "Eva-Lena T.", "ort": "Trollhättan"},
+    {"text": "Sensorlarmet ringde teknikern innan någon av de boende hade märkt att dörren gick trögt.", "namn": "Ali R.", "ort": "Göteborg"}
+  ],
+  "faq": [
+    ["Vad skiljer era tre avtalsnivåer?", "Grundservice täcker förebyggande underhåll. Plus lägger till jour och fjärrövervakning. Fullservice inkluderar dessutom alla reservdelar utom större komponenter som maskin och styrsystem."],
+    ["Behöver en liten brf portalen?", "Nej, men den ingår i alla avtal och används av många styrelser för att följa felanmälningar och besiktningar. Ni får inloggning till så många som ni vill i styrelsen."],
+    ["Vilka hissar kan fjärrövervakas?", "Nästan alla. Vi monterar en sensorenhet i maskinrum eller schakt, och den fungerar oberoende av hissens fabrikat och ålder."],
+    ["Kan vi behålla vår nuvarande tekniker om vi byter till er?", "Om teknikern redan arbetar hos något av våra bolag, ja. Annars får ni en ny tekniker som alltid gör en grundlig genomgång under första månaden."],
+    ["Lämnar ni anbud i offentliga upphandlingar?", "Ja, vi lämnar anbud till kommuner, regioner och allmännyttiga bostadsbolag i hela Västsverige."],
+    ["Hur lång är uppsägningstiden?", "Våra serviceavtal löper på tre år med tre månaders uppsägning, och kan förlängas ett år i taget."],
+    ["Kan ni ta hand om rulltrappor också?", "Ja, Kvadrant Göteborg har en grupp på fem tekniker som servar rulltrappor och rullramper i köpcentrum och på stationer."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001 och ISO 14001", "text": "Gemensamt ledningssystem för kvalitet och miljö i alla fyra bolagen.", "ikon": "skold"},
+    {"titel": "ISO 45001", "text": "Certifierat arbetsmiljöarbete med årlig revision på varje kontor.", "ikon": "hjalm"},
+    {"titel": "ISO 27001", "text": "Kvadrantportalen och sensordatan hanteras enligt certifierad informationssäkerhet.", "ikon": "las"},
+    {"titel": "Elsäkerhetsverket", "text": "Samtliga bolag är registrerade elinstallationsföretag med egen elsäkerhetsansvarig.", "ikon": "blixt"}
+  ],
+  "kunder": ["Hisingshus Förvaltning", "Sjuhärads Fastighets AB", "Fyrstadens Bostäder", "Halmstads Hamnhus", "Västra Vårdfastigheter", "Brf Masthuggsterrassen", "Kungälvs Allmännyttiga Bostäder", "Mölndals Kvarnbyfastigheter"],
+  "kontor_rubrik": "Fyra kontor, samma telefonnummer",
+  "kontor_text": "Felanmälan och jour går alltid till jourcentralen i Göteborg, som skickar närmaste tekniker.",
+  "kontor_lista": [
+    ["Göteborg", "Huvudkontor och jourcentral, Gullbergs Strandgata 34"],
+    ["Mölndal", "Centrallager med 9 000 artiklar, Kvarnbygatan 18"],
+    ["Borås", "Kvadrant Sjuhärad, Lundbygatan 6"],
+    ["Trollhättan", "Kvadrant Fyrstad, Kardanvägen 22"],
+    ["Halmstad", "Kvadrant Halland, Kristinebergsvägen 3"],
+    ["Uddevalla", "Servicedepå för Fyrstads norra område"]
+  ],
+  "nyheter": [
+    ["2026-09-17", "Halland passerar 20 anställda", "Kvadrant Halland har fördubblat antalet montörer sedan 2023.", "people"],
+    ["2026-06-02", "Portalen får API", "Nu kan felanmälningar gå direkt från ert fastighetssystem till vår jour.", "kontor"],
+    ["2026-03-11", "Bokslut 2025: 212 miljoner", "Omsättningen ökade med 16 procent och rörelsemarginalen till 9,4 procent.", "stad"],
+    ["2025-12-04", "Hisingshus väljer tioårsplan", "Vårt största moderniseringsuppdrag hittills omfattar 214 hissar.", "hiss"]
+  ],
+  "kontakt": {"adress": "Gullbergs Strandgata 34", "postnr": "411 04", "ort": "Göteborg", "telefon": "070-174 06 33", "epost": "kontakt@kvadranthiss.se", "orgnr": ""},
+  "oppettider": "Kundtjänst mån–fre 7–17. Jourcentral dygnet runt.",
+  "omrade": "Västra Götaland och Halland",
+  "fot_cta": "Förvaltar ni fler än tjugo hissar? Be om en kostnadsfri genomgång av beståndet.",
+  "text": {
+    "ber_rubrik": "Nytt i gruppen",
+    "proj_rubrik": "Uppdrag i hela Västsverige",
+    "process_rubrik": "Från inventering till tioårsplan",
+    "hb_etikett": "Uppföljning",
+    "omdomen_rubrik": "Förvaltare och styrelser om Kvadrant",
+    "faq_rubrik": "Frågor om avtal och portal",
+    "boka_rubrik": "Boka en genomgång av ert bestånd",
+    "logos_rubrik": "Fastighetsägare som valt Kvadrant",
+    "bolag_rubrik": "Fyra bolag i gruppen",
+    "bolag_etikett": "Gruppen",
+    "certifikat_rubrik": "Certifierade i alla led",
+    "ny_rubrik": "Nyheter från Kvadrant"
+  }
+}

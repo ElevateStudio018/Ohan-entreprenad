@@ -1,0 +1,123 @@
+{
+  "profil": "nisch",
+  "nisch": "maleri",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Bröderna Hägg Måleri AB",
+  "kortnamn": "Hägg Måleri",
+  "slug": "hagg-maleri",
+  "typ": "Målerifirma i Gävle sedan 1958",
+  "tagline": "Tre generationer målare",
+  "slogan": "Farfar Gunnar målade Gävles träkåkar med pensel och stege – vi målar dem fortfarande, nu med ställning och fem års garanti.",
+  "hero_rubrik": "Gävles fasader har burit vår färg sedan 1958",
+  "hero_text": "34 målare, egen fönsterverkstad på Strömsbro och en vd som själv lärde sig skrapa fönsterbågar som tolvåring. Villor, brf:er och kulturhus i hela Gästrikland.",
+  "intro_rubrik": "Ett familjeföretag i tredje led",
+  "om": [
+    "Gunnar Hägg startade firman 1958 med en cykelkärra och två lärlingar i Gamla Gefle. Sönerna Sven och Lars tog över 1984 och byggde upp fasadavdelningen, och sedan 2017 leds bolaget av Karin Hägg tillsammans med kusinen Mattias.",
+    "I dag är vi 34 anställda, varav 29 målare med gesällbrev eller yrkesbevis. Vi målar omkring 70 fasader om året, och ungefär var tredje kund har anlitat oss förut – ibland för tredje gången på samma hus."
+  ],
+  "vagval_rubrik": "Vad ska målas den här gången?",
+  "tjanster": [
+    {"titel": "Fasadmålning trä", "ikon": "hus", "href": "verksamhet.html", "text": "Panel, knutar och vindskivor med linoljefärg eller alkydolja – egen ställning ingår."},
+    {"titel": "Puts och sockel", "ikon": "sten", "href": "verksamhet.html", "text": "Lagning av sprickor och avfärgning med silikat- eller kalkfärg."},
+    {"titel": "Invändig målning", "ikon": "pensel", "href": "verksamhet.html", "text": "Väggar, tak och snickerier – vi täcker, målar och städar efter oss."},
+    {"titel": "Tapetsering", "ikon": "hem", "href": "verksamhet.html", "text": "Från vliestapet i barnrummet till mönsterpassad tapet i hallen."},
+    {"titel": "Fönsterrenovering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Bågarna tas till verkstaden på Strömsbro och kommer tillbaka kittade och linoljemålade."},
+    {"titel": "Trapphus i brf", "ikon": "folk", "href": "verksamhet.html", "text": "Ett trapphus på fem våningar målat på tre veckor, med boende kvar."},
+    {"titel": "ROT och offert", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Fast pris efter besök, ROT-avdraget dras direkt på fakturan."},
+    {"titel": "Ring Karin", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vd svarar själv i telefon på förmiddagarna."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fasader i trä och puts", "text": "Gävle är byggt i trä, och träfasader är vår största verksamhet. Vi skrapar till fast underlag, tvättar, grundar och stryker två gånger med färgsystem som passar husets ålder.", "text2": "På hus från före 1940 rekommenderar vi linoljefärg, på senare hus oftast alkydolja eller akrylat.", "tagg": "maleri"},
+    {"titel": "Inomhus och tapet", "text": "Ett eget lag på sju målare gör bara invändiga jobb: lägenheter, villor, kontor och skolsalar. De täcker golv med hårdpapp, skyddar lister och lämnar rummet dammsuget.", "text2": "Vi har alltid ett hundratal tapetprover i bilen och hjälper till med valet.", "tagg": "interior"},
+    {"titel": "Fönster och snickerier", "text": "I verkstaden på Strömsbro renoverar två snickare-målare omkring 600 fönsterbågar om året. Rötskadat trä lagas med nytt virke av kärnfuru, inte med spackel.", "text2": "Medan bågarna är borta sätter vi masonit i karmarna så att huset är tätt.", "tagg": "maleri"},
+    {"titel": "Bostadsrättsföreningar", "text": "Trapphus, entréer, källargångar och fasader i föreningar från Brynäs till Sätra. Vi lämnar en färgsättning, en tidplan som anslås i trapphusen och en kontaktperson för de boende.", "text2": "Slutbesiktning görs tillsammans med styrelsen och en oberoende besiktningsman.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Fasad & ställning", "segment": "14 målare, 2 ställningsbyggare", "rubrik": "Utsidan av Gästrikland", "text": "Egen ställning för upp till fyra våningar och två skylifter. Leds av Mattias Hägg, som har varit med sedan 2003.", "tagg": "maleri"},
+    {"namn": "Inne & tapet", "segment": "7 målare", "rubrik": "Rum för rum", "text": "Lägenheter, villor och kontor. Laget tar också akuta jobb efter vattenskador åt två försäkringsbolag.", "tagg": "interior"},
+    {"namn": "Fönsterverkstaden Strömsbro", "segment": "3 hantverkare", "rubrik": "Bågar från 1880 och framåt", "text": "Kittning, glasbyte, laxning och linoljemålning i en gammal snickerifabrik vid Testeboån.", "tagg": "tra"},
+    {"namn": "Brf-service", "segment": "2 projektledare", "rubrik": "Underhållsplan och färgsättning", "text": "Hjälper styrelser att planera måleriet tio år framåt och tar fram förfrågningsunderlag.", "tagg": "bostad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Villa Bergsgården får tillbaka sin gröna kulör", "text": "Färgskiktsanalys visade att huset på Villastaden var ljusgrönt 1912. Nu är det det igen.", "tagg": "maleri"},
+    {"rubrik": "Trapphuset på Norra Kopparslagargatan klart", "text": "Sex våningar, schablonbård vid taket och 42 hushåll som kunde bo kvar hela tiden.", "tagg": "interior"},
+    {"rubrik": "Fjärde lärlingen på två år", "text": "Elsa Nordin från Hofors började i augusti och går yrkesutbildningen parallellt med jobbet.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "1958", "enhet": "", "etikett": "Året Gunnar startade firman"},
+    {"varde": "34", "enhet": "anställda", "etikett": "Varav 29 utbildade målare"},
+    {"varde": "70", "enhet": "per år", "etikett": "Fasader vi målar"},
+    {"varde": "5", "enhet": "år", "etikett": "Garanti på fasadmålning"}
+  ],
+  "projekt": [
+    {"namn": "Villa Bergsgården", "ort": "Gävle, Villastaden", "typ": "Fasad i linoljefärg", "ar": "2026", "text": "Skrapning till trä, linoljefärg i originalkulören och nya vindskivor i kärnfuru.", "tagg": "maleri"},
+    {"namn": "Brf Fältskären", "ort": "Gävle, Brynäs", "typ": "Trapphus och entréer", "ar": "2026", "text": "Tre trapphus med boende kvar – klart tre dagar före tidplan.", "tagg": "interior"},
+    {"namn": "Prästgården i Valbo", "ort": "Valbo", "typ": "Fönsterrenovering", "ar": "2025", "text": "48 bågar från 1890-talet renoverade i verkstaden under vintern.", "tagg": "maleri"},
+    {"namn": "Gästrike Hyresfastigheter", "ort": "Sandviken", "typ": "Putsfasad", "ar": "2025", "text": "Sprickor lagade och fasaden avfärgad med silikatfärg på två flerbostadshus.", "tagg": "bostad"},
+    {"namn": "Skolan i Forsbacka", "ort": "Forsbacka", "typ": "Invändig målning", "ar": "2024", "text": "Tolv klassrum och en matsal målade under sommarlovet.", "tagg": "interior"},
+    {"namn": "Gårdarna i Gamla Gefle", "ort": "Gävle", "typ": "Fasad i linoljefärg", "ar": "2027", "text": "Tre gårdshus på Övre Bergsgatan – start i maj.", "tagg": "maleri", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Vi tittar på huset", "text": "En av oss kommer ut, skrapar ett provhål och tar fuktmätning i panelen. Det tar en timme.", "tagg": "maleri"},
+    {"titel": "Fast pris inom en vecka", "text": "Offerten anger färgsystem, antal strykningar och ROT-avdrag i kronor.", "tagg": "people"},
+    {"titel": "Ställning och målning", "text": "Ett fast lag på två till fyra målare stannar på jobbet tills det är klart.", "tagg": "maleri"},
+    {"titel": "Slutsyn med kunden", "text": "Vi går runt huset tillsammans, och garantibeviset skickas samma vecka.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen ska behöva måla om efter fem år",
+    "text": "Vi lämnar fem års garanti på fasadmålning och gör en kostnadsfri garantibesiktning efter två år. Alla målare har fallskydds- och ställningsutbildning, och vi har inte haft en arbetsplatsolycka med sjukfrånvaro sedan 2019.",
+    "mal": [["5 år", "garanti på all fasadmålning"], ["2 år", "kostnadsfri garantibesiktning"], ["0", "olyckor med sjukfrånvaro sedan 2019"]]
+  },
+  "karriar": {
+    "rubrik": "Hägg har utbildat målare i 68 år",
+    "text": "Vi följer Måleriavtalet, betalar för gesällbrev och har lärlingar varje år. Många av våra målare har varit här i över femton år.",
+    "jobb": [["Fasadmålare", "Gävle"], ["Lärling måleri", "Gävle"], ["Snickare till fönsterverkstaden", "Strömsbro"]]
+  },
+  "kultur": "Fredagsfika i verkstaden på Strömsbro, och första veckan går du alltid med en målare som varit här i minst tio år.",
+  "citat": {"text": "Farfar sa att ett hus ska kunna målas om utan att man behöver skrapa bort det vi gjorde. Det är fortfarande vår måttstock.", "namn": "Karin Hägg", "roll": "Vd, tredje generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Hägg målade huset 1987 och nu igen 2025. Samma omsorg – och den här gången hade de med sig gamla anteckningar om kulören.", "namn": "Birgitta L.", "ort": "Gävle, Villastaden"},
+    {"text": "Fönstren var borta i fem veckor och kom tillbaka som nya. Masoniten i karmarna gjorde att vi inte frös en dag.", "namn": "Henrik S.", "ort": "Valbo"},
+    {"text": "Tidplanen i trapphuset höll på dagen och de boende fick lappar i brevlådan inför varje moment.", "namn": "Ordförande, Brf Fältskären", "ort": "Brynäs"}
+  ],
+  "faq": [
+    ["Hur ofta behöver ett trähus målas?", "Med linoljefärg brukar det gå 12–15 år mellan ommålningar, med akrylat 8–12 år. Söder- och västsidan slits snabbast och kan behöva bättras tidigare."],
+    ["Vad kostar det att måla om en villa?", "En normalvilla på 140 kvadratmeter i ett och ett halvt plan kostar oftast 85 000–140 000 kronor före ROT-avdrag, beroende på hur mycket som måste skrapas."],
+    ["Får vi ROT-avdrag?", "Ja, på arbetskostnaden för ditt eget hus eller bostadsrätt. Vi drar av det direkt på fakturan och sköter ansökan hos Skatteverket."],
+    ["När på året målar ni fasader?", "Från mitten av maj till slutet av september. Under vintern gör vi invändiga jobb och renoverar fönster i verkstaden."],
+    ["Måste vi vara hemma?", "Nej. För fasadjobb räcker det att vi har tillgång till el och vatten utomhus. Vid inomhusjobb lämnar många nyckel till lagledaren."],
+    ["Har ni kollektivavtal?", "Ja, vi följer Måleriavtalet mellan Måleriföretagen och Målareförbundet sedan 1962."],
+    ["Kan ni hjälpa till med kulörval?", "Ja. Vi tar fram provbitar i två eller tre kulörer på huset och kan göra en enkel färgskiktsanalys på äldre hus."]
+  ],
+  "certifikat": [
+    {"titel": "Måleriavtalet", "text": "Kollektivavtal med Målareförbundet sedan 1962.", "ikon": "dokument"},
+    {"titel": "Måleriföretagen i Sverige", "text": "Medlemmar med branschens garantier och avtalsvillkor.", "ikon": "skold"},
+    {"titel": "Ställning och fallskydd", "text": "Alla fasadmålare har ställningsutbildning 2–9 meter och fallskyddsutbildning.", "ikon": "hjalm"},
+    {"titel": "ID06", "text": "Personalliggare och ID06-kort på alla arbetsplatser.", "ikon": "las"}
+  ],
+  "kunder": ["Brf Fältskären", "Brf Kungsbäck", "Gästrike Hyresfastigheter", "Fastighets AB Gefle Gård", "Hofors kommun", "Valbo församling", "Brf Söderhamnsporten"],
+  "nyheter": [
+    ["2026-10-06", "Vinterpriser i fönsterverkstaden", "Lämnar du in bågarna före 1 december får du 10 procent på renoveringen.", "maleri"],
+    ["2026-06-12", "Karin Hägg ny ordförande i den lokala målarföreningen", "Uppdraget gäller två år och handlar mest om lärlingsfrågor.", "people"],
+    ["2026-03-18", "Så vet du om huset tål en säsong till", "Fem saker att titta efter på fasaden när snön har smält.", "hem"]
+  ],
+  "kontakt": {"adress": "Hamnfogdegatan 6", "postnr": "802 82", "ort": "Gävle", "telefon": "070-174 06 17", "epost": "kontor@haggmaleri.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, telefon från 6.45",
+  "omrade": "Gävle, Sandviken, Hofors och norra Uppland",
+  "fot_cta": "Ska fasaden målas nästa sommar? Boka besiktning före jul så har du fast pris i januari.",
+  "bild": {"panel": "maleri", "hb": "bostad"},
+  "text": {
+    "ber_etikett": "Från ställningarna",
+    "ber_rubrik": "Det här målar vi i Gävle just nu",
+    "proj_rubrik": "Hus vi har lämnat över",
+    "process_rubrik": "Från provhål till slutsyn",
+    "hb_etikett": "Garanti & arbetsmiljö",
+    "omdomen_rubrik": "Kunder som anlitat oss mer än en gång",
+    "faq_rubrik": "Frågor vi får vid köksbordet",
+    "boka_rubrik": "Boka en kostnadsfri fasadbesiktning",
+    "boka_text": "Skriv adress och vad som ska målas, så ringer vi inom två arbetsdagar och bokar en tid.",
+    "logos_rubrik": "Föreningar och fastighetsägare vi målar åt",
+    "certifikat_rubrik": "Avtal, medlemskap och behörigheter",
+    "medarbetare": "Målarna"
+  }
+}

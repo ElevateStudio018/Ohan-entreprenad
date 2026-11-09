@@ -1,0 +1,145 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Dalström Energi AB",
+  "kortnamn": "Dalström",
+  "slug": "dalstrom",
+  "typ": "Energikoncern med huvudkontor i Stockholm",
+  "tagline": "Planerbar kraft",
+  "slogan": "Dalström producerar och distribuerar el och värme i sex länder – med vattenkraften som ryggrad och vinden som tillväxt.",
+  "hero_rubrik": "Kraften som går att lita på i januari",
+  "hero_text": "44 vattenkraftverk i Dalälven, Indalsälven och Ljusnan, 1 080 vindkraftverk och 71 000 kilometer elnät. Vi producerar 41 TWh om året.",
+  "intro_rubrik": "Vatten i botten, vind på toppen",
+  "om": [
+    "Dalström bildades 1906 som Dalälvens Kraft AB för att förse Falun och Borlänge med el från Kvarnfors kraftstation. Under 1900-talet byggdes vattenkraften ut längs tre norrländska älvar, och 1997 noterades bolaget på Stockholmsbörsen.",
+    "I dag har vi 6 800 medarbetare och en omsättning på 58 miljarder kronor. Vattenkraften står för 62 procent av produktionen och är det som gör att vi kan balansera vind och sol när efterfrågan toppar en kall vintermorgon."
+  ],
+  "vagval_rubrik": "Vad behöver du från oss?",
+  "tjanster": [
+    {"titel": "Vattenkraft", "ikon": "vatten", "href": "verksamhet.html", "text": "44 kraftverk som kan starta på minuter när nätet behöver det."},
+    {"titel": "Vindkraft", "ikon": "vind", "href": "verksamhet.html", "text": "Landbaserade parker i Sverige, Finland och Polen."},
+    {"titel": "Elnät", "ikon": "blixt", "href": "verksamhet.html", "text": "Region- och lokalnät till 980 000 kunder i fyra länder."},
+    {"titel": "Fjärrvärme", "ikon": "eld", "href": "verksamhet.html", "text": "Värme till 14 städer från kraftvärmeverk och spillvärme."},
+    {"titel": "Elavtal för företag", "ikon": "fabrik", "href": "verksamhet.html", "text": "Långa avtal för industrin med el från namngivna kraftverk."},
+    {"titel": "Laddinfrastruktur", "ikon": "laddning", "href": "verksamhet.html", "text": "Snabbladdning för tunga transporter längs E4 och E45."},
+    {"titel": "Karriär i energi", "ikon": "folk", "href": "karriar.html", "text": "Drifttekniker, elnätsingenjörer och dammsäkerhetsexperter."},
+    {"titel": "Aktieinformation", "ikon": "graf", "href": "investerare.html", "text": "Kurs, utdelning och rapporter för DLST."}
+  ],
+  "affarsomraden": [
+    {"titel": "Vattenkraft", "text": "Kraftverken i Dalälven, Indalsälven och Ljusnan producerar i genomsnitt 25 TWh per år. Magasinen fungerar som ett batteri som kan hålla energi i månader.", "text2": "Vi investerar 1,8 miljarder kronor om året i turbinbyten och dammsäkerhet.", "tagg": "natur"},
+    {"titel": "Vindkraft", "text": "1 080 turbiner i 46 parker från Jämtland till Pommern. Nya parker planeras i dialog med samebyar, markägare och kommuner i tidigt skede.", "text2": "Installerad effekt 4,1 GW, med ytterligare 1,3 GW under byggnad.", "tagg": "el"},
+    {"titel": "Elnät", "text": "Vi äger och driver region- och lokalnät i Sverige, Finland, Litauen och Polen. Varje år vädersäkras 2 400 kilometer luftledning genom markförläggning.", "text2": "Medelavbrottstiden per kund var 64 minuter 2025.", "tagg": "infra"},
+    {"titel": "Värme och kunder", "text": "Fjärrvärme i 14 städer och elavtal med 1,2 miljoner hushåll och företag. Kraftvärmeverken eldar returträ och skogsrester.", "text2": "Spillvärme från sex datahallar levereras in i våra nät.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Dalström Vattenkraft AB", "segment": "Produktion", "rubrik": "Tre älvar, 44 kraftverk", "text": "Driver, underhåller och moderniserar vattenkraften från driftcentralen i Borlänge.", "tagg": "natur"},
+    {"namn": "Dalström Vind AB", "segment": "Förnybar produktion", "rubrik": "Från vindmätning till drift", "text": "Projekterar, bygger och förvaltar vindkraft i Sverige, Finland och Polen.", "tagg": "el"},
+    {"namn": "Dalström Elnät AB", "segment": "Distribution", "rubrik": "Elen hela vägen hem", "text": "Ansvarar för 71 000 kilometer ledning och nätanslutning av ny industri och laddinfrastruktur.", "tagg": "infra"},
+    {"namn": "Dalström Värme AB", "segment": "Värme och försäljning", "rubrik": "Varmt vatten i 14 städer", "text": "Fjärrvärme, kraftvärme och elhandel för hushåll och företag.", "tagg": "stad"}
+  ],
+  "lokala_bolag": ["Dalström Vattenkraft", "Dalström Vind", "Dalström Elnät", "Dalström Värme", "Dalström Energia Oy", "Dalström Sähköverkko Oy", "Dalström Polska Sp. z o.o.", "Dalström Wiatr Sp. z o.o.", "UAB Dalström Tinklai", "Dalström Energie GmbH", "Dalström Norge AS", "Ljusnans Kraft AB", "Indalsälvens Regleringsbolag AB", "Dalström Laddning AB"],
+  "berattelser": [
+    {"rubrik": "Nya turbiner i Kvarnfors", "text": "De två 1950-talsaggregaten är utbytta och ger 11 procent mer el ur samma vattenmängd.", "tagg": "natur"},
+    {"rubrik": "Elnätet till nya stålverket", "text": "En 130 kV-ledning på 38 kilometer ansluter vätgasreduktionen i Borlänge – två år före plan.", "tagg": "infra"},
+    {"rubrik": "Fiskvägar i Ljusnan", "text": "Tre nya fiskvägar gör att lax och öring kan vandra förbi kraftverken för första gången sedan 1950-talet.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "41", "enhet": "TWh", "etikett": "Produktion 2025", "trend": [36, 37, 35, 38, 39, 40, 41], "trend_text": "Produktion 2019–2025, TWh"},
+    {"varde": "58", "enhet": "mdr kr", "etikett": "Omsättning", "trend": [34, 33, 49, 71, 62, 55, 58], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "98", "enhet": "%", "etikett": "Fossilfri produktion"},
+    {"varde": "980 000", "enhet": "", "etikett": "Elnätskunder"}
+  ],
+  "projekt": [
+    {"namn": "Kvarnfors kraftstation", "ort": "Avesta", "typ": "Vattenkraft", "ar": "2025", "text": "Turbinbyte och ny damm som klarar ett tiotusenårsflöde.", "tagg": "natur"},
+    {"namn": "Vindpark Storberget", "ort": "Bräcke", "typ": "Vindkraft", "ar": "2027", "text": "62 turbiner på 6,2 MW, byggd i samråd med två samebyar.", "tagg": "el"},
+    {"namn": "Ledning Borlänge–Domnarvet", "ort": "Borlänge", "typ": "Regionnät", "ar": "2026", "text": "130 kV-ledning till ny fossilfri stålproduktion.", "tagg": "infra"},
+    {"namn": "Wiatr Słupsk", "ort": "Słupsk", "typ": "Vindkraft", "ar": "2024", "text": "Polens största landbaserade vindpark i Dalströms ägo, 412 MW.", "tagg": "el"},
+    {"namn": "Kraftvärmeverk Hedemora", "ort": "Hedemora", "typ": "Fjärrvärme", "ar": "2028", "text": "Nytt kraftvärmeverk för returträ med koldioxidavskiljning.", "tagg": "industri"},
+    {"namn": "Snabbladdning E45", "ort": "Östersund", "typ": "Laddinfrastruktur", "ar": "2026", "text": "Tolv laddstationer för lastbilar mellan Mora och Gällivare.", "tagg": "infra"}
+  ],
+  "process": [
+    {"titel": "Mät och samråd", "text": "Vindmätning i minst ett år och samråd med markägare, samebyar och kommun innan en ansökan lämnas in.", "tagg": "natur"},
+    {"titel": "Tillstånd och anslutning", "text": "Miljötillstånd och nätanslutning söks parallellt så att ingen park står klar utan en ledning att mata in på.", "tagg": "infra"},
+    {"titel": "Bygg och driftsätt", "text": "Fundament, vägar och turbiner byggs av upphandlade entreprenörer under vår egen projektledning.", "tagg": "el"},
+    {"titel": "Drift i 30 år", "text": "Driftcentralen i Borlänge övervakar varje turbin och kraftverk dygnet runt och planerar underhållet efter elpriset.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Älven ska må bra, inte bara turbinen",
+    "text": "Vattenkraft påverkar fisk, flöden och stränder. Inom den nationella planen för miljöanpassning ska alla våra 44 kraftverk ha moderna miljövillkor till 2037. Vi har redan byggt 19 fiskvägar och släpper minimitappning i torrfåror där älven tidigare stod tom.",
+    "mal": [["100 %", "fossilfri produktion 2030"], ["44 av 44", "kraftverk med moderna miljövillkor 2037"], ["–40 %", "avbrottstid i elnätet till 2030"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba med Sveriges elförsörjning",
+    "text": "Hos oss jobbar elkraftingenjörer, drifttekniker och biologer sida vid sida. Många av tjänsterna finns i Dalarna, Jämtland och Hälsingland – nära älvarna.",
+    "jobb": [["Drifttekniker vattenkraft", "Sveg"], ["Elnätsprojektör", "Borlänge"], ["Dammsäkerhetsingenjör", "Stockholm"], ["Vindkraftstekniker", "Bräcke"]]
+  },
+  "kultur": "Alla nyanställda åker en dag till Kvarnfors och ser kraftstationen där Dalström började 1906.",
+  "citat": {"text": "Vinden är billigast, men det är vattnet i magasinen som håller elen på när det är tjugo minus och vindstilla. Den balansen är hela vår affärsidé.", "namn": "Magnus Engström", "roll": "VD och koncernchef", "tagg": "natur"},
+  "omdomen": [
+    {"text": "Vi fick en 130 kV-anslutning till stålverket två år före plan. Utan den hade vätgassatsningen fått vänta.", "namn": "Lars B.", "ort": "Borlänge"},
+    {"text": "Samrådet om Storberget tog två år, men vi fick flytta elva turbiner så att renarnas kalvningsland förblev orört.", "namn": "Elle-Maj S.", "ort": "Bräcke"},
+    {"text": "Elavtalet på tolv år med el från namngivna kraftverk gör att vi kan räkna på vår produktion med samma elpris hela decenniet.", "namn": "Susanne K.", "ort": "Sandviken"}
+  ],
+  "faq": [
+    ["Hur mycket av elen är fossilfri?", "98 procent 2025. Resten kommer från reservkraft som bara körs vid störningar i nätet."],
+    ["Vem äger Dalström?", "Aktien är noterad på Nasdaq Stockholm Large Cap. Största ägare är Dalarnas Kraftstiftelse med 18 procent och ett antal nordiska pensionsfonder."],
+    ["Hur anmäler jag ett strömavbrott?", "Ring vår felanmälan eller se aktuella avbrott på avbrottskartan. Vid avbrott längre än tolv timmar betalar vi ut avbrottsersättning automatiskt."],
+    ["Säljer ni el direkt till industrin?", "Ja. Vi tecknar avtal på 5–15 år med fast pris och ursprungsgarantier från namngivna kraftverk."],
+    ["Hur fungerar samrådet för nya vindparker?", "Vi bjuder in markägare, samebyar och boende inom 5 kilometer redan innan vindmätningen startar, och redovisar alla synpunkter i ansökan."],
+    ["Vilken utdelning betalar ni?", "Policyn är 50–70 procent av justerat resultat. För 2025 betalades 9,40 kronor per aktie."]
+  ],
+  "nyheter": [
+    ["2026-10-21", "Delårsrapport januari–september 2026", "Hög tillrinning i Indalsälven gav rekordproduktion av vattenkraft i tredje kvartalet.", "natur"],
+    ["2026-08-27", "Dalström bygger vindpark i Litauen", "Parken på 240 MW kopplas in på det egna regionnätet i Klaipėda-regionen.", "el"],
+    ["2026-04-15", "Fiskvägen i Ljusnan invigd", "Laxen har för första gången på 70 år nått lekplatserna ovanför kraftverket i Ljusne.", "natur"]
+  ],
+  "investerare": {
+    "aktie": "DLST",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "212,40",
+    "forandring": "+1,2 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-21"], ["Delårsrapport januari–juni 2026", "2026-07-16"], ["Delårsrapport januari–mars 2026", "2026-04-22"], ["Årsredovisning och hållbarhetsrapport 2025", "2026-03-12"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-01-29"], ["Årsstämma, Falun", "2027-04-15"], ["Delårsrapport januari–mars 2027", "2027-04-21"]]
+  },
+  "kontor_rubrik": "Längs älvarna och kusterna",
+  "kontor_text": "Huvudkontoret ligger i Stockholm, men de flesta av oss arbetar nära kraftverken och nätstationerna.",
+  "kontor_lista": [
+    ["Stockholm – huvudkontor", "Tegeluddsvägen 32. Koncernledning, energihandel och finans."],
+    ["Borlänge", "Driftcentral för all produktion och Dalström Elnät, 1 100 medarbetare."],
+    ["Sveg", "Underhållsbas för kraftverken i Ljusnan."],
+    ["Östersund", "Dalström Vind och kraftverken i Indalsälven."],
+    ["Uleåborg", "Dalström Energia Oy, vindkraft och elnät i norra Finland."],
+    ["Gdańsk", "Dalström Polska med vindparker i Pommern."],
+    ["Vilnius", "UAB Dalström Tinklai, regionnät i västra Litauen."],
+    ["Hamburg", "Dalström Energie GmbH, elhandel på den kontinentala marknaden."]
+  ],
+  "tidslinje_rubrik": "Från Kvarnfors till Kattegatt",
+  "tidslinje": [
+    ["1906", "Dalälvens Kraft AB bildas och bygger Kvarnfors kraftstation."],
+    ["1948", "Första kraftverket i Indalsälven tas i drift."],
+    ["1971", "Namnbyte till Dalström Energi efter fusion med Ljusnans Kraft."],
+    ["1997", "Notering på Stockholmsbörsen."],
+    ["2011", "Första vindparken, Ödmården, med 40 turbiner."],
+    ["2018", "Förvärv av elnät i Finland och Litauen."],
+    ["2025", "Dalström blir 98 procent fossilfritt."]
+  ],
+  "kontakt": {"adress": "Tegeluddsvägen 32", "postnr": "115 41", "ort": "Stockholm", "telefon": "070-174 06 14", "epost": "info@dalstrom.se", "orgnr": ""},
+  "oppettider": "Växel mån–fre 8–17, felanmälan elnät dygnet runt",
+  "omrade": "Sverige, Finland, Polen, Litauen, Norge och Tyskland",
+  "fot_cta": "Behöver er verksamhet mer el eller en ny nätanslutning? Börja med ett samtal med vår industriförsäljning.",
+  "bild": {"panel": "el", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Senaste från kraftverken",
+    "proj_rubrik": "Investeringar i produktion och nät",
+    "process_rubrik": "Så blir en vindpark verklighet",
+    "process_etikett": "Från idé till drift",
+    "hb_etikett": "Vatten, fisk och klimat",
+    "omdomen_rubrik": "Kunder och grannar om Dalström",
+    "faq_rubrik": "Vanliga frågor om Dalström",
+    "bolag_rubrik": "Produktion, nät och värme",
+    "vagg_rubrik": "{n} bolag längs elens väg",
+    "panel_etikett": "Jobba nära älvarna",
+    "hero_knapp": "Vår produktion",
+    "ny_rubrik": "Pressmeddelanden och kraftnyheter"
+  }
+}

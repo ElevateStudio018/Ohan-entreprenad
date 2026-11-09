@@ -1,0 +1,123 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Jourlarm Mitt AB",
+  "kortnamn": "Jourlarm",
+  "slug": "jourlarm-mitt",
+  "typ": "Brandlarmsjour i Sundsvall och Höga kusten",
+  "tagline": "Dygnet runt, året runt",
+  "slogan": "När brandlarmet går klockan tre på natten kommer vi, återställer, hittar orsaken och ser till att det inte händer igen.",
+  "hero_rubrik": "Larmet gick 03.12. Vi var där 03.48",
+  "hero_text": "Jour för brandlarm och sprinkler, brandvakter vid heta arbeten och tillfälligt larm när ert eget är ur drift. Åtta jourbilar mellan Sundsvall och Örnsköldsvik.",
+  "intro_rubrik": "Vi är vakna när ni sover",
+  "om": [
+    "Anders och Lena Byström startade Jourlarm 2001 med en bil och ett avtal med ett fastighetsbolag i Sundsvall som tröttnat på att ingen kunde återställa brandlarmet på nätterna. I dag är vi 22 anställda och har jouravtal för drygt 900 fastigheter i Medelpad och Västernorrland.",
+    "Vi gör inte nyinstallationer av stora anläggningar – det överlåter vi till andra. Vår uppgift är att vara där inom en timme när något har hänt, och att sedan analysera varför larmet gick så att räddningstjänsten slipper åka ut i onödan nästa gång."
+  ],
+  "vagval_rubrik": "Vad har hänt?",
+  "tjanster": [
+    {"titel": "Larmjour 24/7", "ikon": "telefon", "href": "verksamhet.html", "text": "Vi återställer brandlarmet och kontrollerar att anläggningen är i drift igen."},
+    {"titel": "Sprinkler efter utlösning", "ikon": "vatten", "href": "verksamhet.html", "text": "Stänger ventilen, byter munstycken och sätter systemet i drift samma natt."},
+    {"titel": "Brandvakt heta arbeten", "ikon": "eld", "href": "verksamhet.html", "text": "Certifierade brandvakter under och en timme efter svetsning och skärning."},
+    {"titel": "Tillfälligt brandlarm", "ikon": "laddning", "href": "verksamhet.html", "text": "Trådlöst larm som monteras på två timmar när ert eget är ur drift."},
+    {"titel": "Onödiga larm", "ikon": "sok", "href": "verksamhet.html", "text": "Felanalys och åtgärdsplan när larmet går utan att det brinner."},
+    {"titel": "Brandvakt ur drift", "ikon": "folk", "href": "verksamhet.html", "text": "Ronderande brandvakt när larm eller sprinkler är avstängt för ombyggnad."},
+    {"titel": "Byggarbetsplatser", "ikon": "hjalm", "href": "verksamhet.html", "text": "Tillfälligt larm och brandvakter för byggen i trähus och vindar."},
+    {"titel": "Teckna jouravtal", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Fast månadsavgift och fast pris per utryckning."}
+  ],
+  "affarsomraden": [
+    {"titel": "Larm- och sprinklerjour", "text": "När ett brandlarm har löst ut och räddningstjänsten konstaterat att det inte brinner måste någon återställa anläggningen. Vi har nycklar, koder och ritningar för alla avtalsfastigheter.", "text2": "Snittiden till plats i Sundsvall var 36 minuter under 2025.", "tagg": "brand"},
+    {"titel": "Brandvakter", "text": "Vid heta arbeten krävs en brandvakt under arbetet och minst en timme efteråt. Våra brandvakter har certifikat för heta arbeten och kan beställas med fyra timmars varsel.", "text2": "Vi ronderar också i byggnader där larmet är avstängt under ombyggnad, med loggning i en app som ni kan följa.", "tagg": "people"},
+    {"titel": "Tillfälligt brandskydd", "text": "Vi har 400 trådlösa detektorer och 30 centralapparater på lager som kan monteras utan kabeldragning. Det används vid byggen, vid haverier och när ett gammalt larm ska bytas.", "text2": "Larmet kan kopplas till räddningstjänsten eller till vår jourtelefon.", "tagg": "bygg"},
+    {"titel": "Färre onödiga larm", "text": "Räddningstjänsten tar ut en avgift för varje onödig utryckning, och efter några gånger slutar folk att utrymma. Vi läser av larmloggen, hittar mönstret och föreslår åtgärder.", "text2": "Ofta handlar det om fel detektortyp i ett kök eller dammiga lokaler – och det går att lösa.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Jourcentralen", "segment": "Sundsvall", "rubrik": "Telefon som alltid svarar", "text": "Fyra operatörer i skift tar emot samtal, skickar närmaste jourbil och för logg över varje ärende.", "tagg": "kontor"},
+    {"namn": "Utryckning Syd", "segment": "Sundsvall, Timrå, Ånge", "rubrik": "Fem jourbilar i rotation", "text": "Tekniker med behörighet att återställa brandlarm och sprinkler. Bilarna är utrustade med reservmunstycken och detektorer.", "tagg": "brand"},
+    {"namn": "Utryckning Nord", "segment": "Härnösand, Kramfors, Örnsköldsvik", "rubrik": "Höga kusten på 90 minuter", "text": "Tre jourbilar med bas i Härnösand sedan 2018, för fastigheter och industri längs E4.", "tagg": "infra"},
+    {"namn": "Brandvakterna", "segment": "Heta arbeten och rondering", "rubrik": "Bokningsbara med fyra timmars varsel", "text": "En pool av tolv brandvakter med certifikat för heta arbeten, som arbetar både dag och natt.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Sprinklern i Logistikparken löste ut", "text": "En truck körde in i ett munstycke klockan 01.40. Systemet var i drift igen 03.15, och lagret öppnade som vanligt.", "tagg": "vvs"},
+    {"rubrik": "62 procent färre onödiga larm", "text": "Efter vår felanalys på ett gymnasium i Härnösand gick larmet tre gånger i fjol mot åtta gånger året innan.", "tagg": "brand"},
+    {"rubrik": "Brandvakter under bruksstoppet", "text": "Tolv brandvakter i skift under tio dygn när ett pappersbruk i Timrå gjorde sitt årliga underhållsstopp.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "36", "enhet": "minuter", "etikett": "Snittid till plats i Sundsvall"},
+    {"varde": "3 900", "enhet": "utryckningar", "etikett": "Under 2025"},
+    {"varde": "900+", "enhet": "fastigheter", "etikett": "Med jouravtal"},
+    {"varde": "8", "enhet": "jourbilar", "etikett": "I tjänst dygnet runt"}
+  ],
+  "projekt": [
+    {"namn": "Medelpads Logistikpark", "ort": "Sundsvall", "typ": "Sprinklerjour", "ar": "2026", "text": "Återställning efter påkört munstycke i höglager – i drift igen på en och en halv timme.", "tagg": "vvs"},
+    {"namn": "Bruksstopp", "ort": "Timrå", "typ": "Brandvakter", "ar": "2025", "text": "Brandvakter i tre skift under tio dygn med 140 tillstånd för heta arbeten.", "tagg": "industri"},
+    {"namn": "Härnösands gymnasium", "ort": "Härnösand", "typ": "Analys av onödiga larm", "ar": "2025", "text": "Byte av 22 detektorer i kök och slöjdsalar efter genomgång av två års larmlogg.", "tagg": "brand"},
+    {"namn": "Kv. Kajen", "ort": "Kramfors", "typ": "Tillfälligt brandlarm", "ar": "2025", "text": "Trådlöst larm i ett trähus från 1890-talet under åtta månaders ombyggnad.", "tagg": "tra"},
+    {"namn": "Brf Södra Stadsberget", "ort": "Sundsvall", "typ": "Jouravtal", "ar": "2024", "text": "Larmjour och nyckelhantering för 210 lägenheter i fem hus.", "tagg": "bostad"},
+    {"namn": "Höga Kusten Hotell", "ort": "Örnsköldsvik", "typ": "Brandvakt ur drift", "ar": "2026", "text": "Rondering varje timme under tre veckor medan hotellets larmcentral byts.", "tagg": "brand", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Avtal och nycklar", "text": "Vi hämtar nycklar, koder och ritningar och lägger in fastigheten i vårt jour­system.", "tagg": "kontor"},
+    {"titel": "Larmet går", "text": "Jourcentralen får signalen, ringer er kontaktperson och skickar närmaste bil.", "tagg": "brand"},
+    {"titel": "På plats", "text": "Teknikern återställer, kontrollerar anläggningen och fotograferar orsaken.", "tagg": "people"},
+    {"titel": "Rapport nästa morgon", "text": "Ni får en rapport före klockan nio med orsak, åtgärd och förslag på hur det kan undvikas.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje onödigt larm är ett misslyckande",
+    "text": "Ett brandlarm som går för ofta gör att människor slutar ta det på allvar. Därför följer vi upp alla kunder med fler än tre onödiga larm per år och föreslår åtgärder utan extra kostnad.",
+    "mal": [["< 60 min", "till plats i Sundsvall och Timrå"], ["09.00", "rapport efter nattens utryckning"], ["3 larm", "gräns för kostnadsfri felanalys"]]
+  },
+  "karriar": {
+    "rubrik": "Ett jobb för dig som inte vill sitta still",
+    "text": "Jourtekniker arbetar i rullande schema med betald beredskap och egen jourbil. Vi utbildar dig i brandlarm och sprinkler – du behöver körkort och lugn när det är stressigt.",
+    "jobb": [["Jourtekniker brandlarm", "Sundsvall"], ["Jourtekniker", "Härnösand"], ["Brandvakt, timanställning", "Sundsvall"], ["Operatör jourcentral", "Sundsvall"]]
+  },
+  "kultur": "Efter varje natt med mer än två utryckningar får teknikern sova till lunch dagen efter – utan att fråga.",
+  "citat": {"text": "Det svåraste med vårt jobb är inte natten. Det är att få en kund att förstå att ett larm som går tio gånger om året inte är ett larm som fungerar.", "namn": "Lena Byström", "roll": "Vd och medgrundare", "tagg": "brand"},
+  "omdomen": [
+    {"text": "Sprinklern löste ut en lördagskväll. Jourlarm var där på 40 minuter och vi hade torrt golv innan midnatt.", "namn": "Peter W.", "ort": "Sundsvall"},
+    {"text": "Vi betalade för åtta onödiga utryckningar på ett år. Efter deras analys bytte vi detektorer i köket och har haft ett enda larm sedan dess.", "namn": "Maria J.", "ort": "Härnösand"},
+    {"text": "Brandvakterna var på plats klockan sex varje morgon under hela stoppet. Ingen behövde jaga dem.", "namn": "Henrik Å.", "ort": "Timrå"}
+  ],
+  "faq": [
+    ["Vem får återställa ett brandlarm?", "Räddningstjänsten återställer inte anläggningen. Det ska göras av någon med kunskap om larmet – er anläggningsskötare eller en firma som vår med behörighet."],
+    ["Vad kostar ett jouravtal?", "Från 395 kr per månad för en mindre fastighet, plus fast pris per utryckning. Ni får en offert efter att vi sett anläggningen."],
+    ["Hur snabbt kommer ni?", "I Sundsvall och Timrå inom en timme, oftast snabbare. I Härnösand, Kramfors och Örnsköldsvik inom 90 minuter."],
+    ["Kan vi beställa brandvakt utan avtal?", "Ja. Brandvakter kan bokas av alla med minst fyra timmars varsel, eller samma natt om vi har folk lediga."],
+    ["När behövs brandvakt vid heta arbeten?", "Enligt säkerhetsreglerna för heta arbeten ska brandvakt finnas under arbetet, vid raster och minst en timme efter att arbetet avslutats."],
+    ["Måste vi ha brandvakt när larmet är avstängt?", "Det står ofta i försäkringsvillkoren och i ert SBA. Alternativet är ett tillfälligt trådlöst larm, som vi kan montera på ett par timmar."],
+    ["Tar ni hand om sprinklerskadan också?", "Vi stänger av, dränerar och sätter systemet i drift. Vattenskadan överlåter vi till ett saneringsföretag, men vi ringer dem åt er om ni vill."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierad anläggarfirma", "text": "SBSC-certifierad för service och underhåll av brandlarm enligt SBF 110.", "ikon": "skold"},
+    {"titel": "Heta arbeten", "text": "Samtliga tekniker och brandvakter har giltigt certifikat för heta arbeten från Brandskyddsföreningen.", "ikon": "eld"},
+    {"titel": "Auktoriserat bevakningsföretag", "text": "Tillstånd från Länsstyrelsen Västernorrland för nyckelhantering och rondering.", "ikon": "las"},
+    {"titel": "ISO 9001", "text": "Certifierat ledningssystem för jourverksamhet och rapportering sedan 2014.", "ikon": "lov"}
+  ],
+  "kunder": ["Brf Södra Stadsberget", "Medelpads Logistikpark", "Stadsbergens Fastigheter", "Timrå Bruksservice", "Härnösands Skolfastigheter", "Höga Kusten Hotell", "Selånger Handelsplats"],
+  "nyheter": [
+    ["2026-10-20", "Åttonde jourbilen i trafik", "Den nya bilen har bas i Örnsköldsvik och kortar tiden till norra Höga kusten.", "brand"],
+    ["2026-07-03", "Fler heta arbeten under sommaren", "Takarbetena ökar – boka brandvakter i god tid inför augusti.", "people"],
+    ["2026-02-16", "Nu kan ni följa ronderingen i appen", "Varje runda loggas med tid, plats och foto.", "kontor"]
+  ],
+  "kontakt": {"adress": "Bergsgatan 112", "postnr": "852 33", "ort": "Sundsvall", "telefon": "070-174 06 52", "epost": "jour@jourlarm.se", "orgnr": ""},
+  "oppettider": "Jour dygnet runt. Kontor mån–fre 8–16",
+  "omrade": "Sundsvall, Timrå, Ånge, Härnösand, Kramfors och Örnsköldsvik",
+  "fot_cta": "Larmet har gått och ingen vet hur man återställer det? Ring oss nu.",
+  "bild": {"panel": "brand", "hb": "kontor"},
+  "text": {
+    "ber_rubrik": "Senaste nätterna",
+    "proj_rubrik": "Utryckningar och uppdrag",
+    "process_rubrik": "Från larmsignal till rapport",
+    "hb_etikett": "Ansvar",
+    "omdomen_rubrik": "De ringde mitt i natten",
+    "faq_rubrik": "Frågor om jour och brandvakt",
+    "boka_rubrik": "Teckna jour eller boka brandvakt",
+    "boka_falt": ["Namn", "Telefon", "Fastighet eller arbetsplats", "Jour, brandvakt eller tillfälligt larm?"],
+    "logos_rubrik": "Fastigheter vi har nycklarna till",
+    "certifikat_rubrik": "Tillstånd och certifikat",
+    "bolag_rubrik": "Så fungerar jouren",
+    "kontakt_knapp": "Ring jouren"
+  }
+}

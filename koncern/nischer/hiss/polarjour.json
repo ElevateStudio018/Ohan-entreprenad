@@ -1,0 +1,120 @@
+{
+  "profil": "nisch",
+  "nisch": "hiss",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Polarjour Hiss AB",
+  "kortnamn": "Polarjour",
+  "slug": "polarjour",
+  "typ": "Hissjour och service i Norrbotten",
+  "tagline": "Jour i Norrbotten",
+  "slogan": "Hissjour med egna tekniker i Luleå, Boden, Piteå och Malmfälten – vaken när ni sover.",
+  "hero_rubrik": "När hissen stannar klockan tre i natt",
+  "hero_text": "Då svarar en av våra egna tekniker, inte en larmcentral i Mellansverige. I Luleå är vi på plats på i snitt 38 minuter – även när det är minus 30.",
+  "intro_rubrik": "Byggt för långa nätter och hård kyla",
+  "om": [
+    "Polarjour startades 2009 av hisstekniker Mikael Nordström och Sara Lantto, som båda tröttnat på att jouren för Norrbotten skulle köras från Umeå. De började med en servicebil och 40 hissar i Luleå centrum.",
+    "I dag är vi 18 anställda med tekniker stationerade i Luleå, Piteå, Kiruna och Gällivare. Jouren bemannas av oss själva i rullande schema, och telefonen kopplas direkt till den tekniker som har jourveckan."
+  ],
+  "vagval_rubrik": "Vad behöver ni hjälp med?",
+  "tjanster": [
+    {"titel": "Jour 24/7", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ring 070-174 06 27 när som helst – teknikern som svarar är också den som kommer."},
+    {"titel": "Personbefrielse", "ikon": "kors", "href": "verksamhet.html", "text": "Instängda personer prioriteras alltid före allt annat i schemat."},
+    {"titel": "Serviceavtal", "ikon": "kugge", "href": "verksamhet.html", "text": "Förebyggande underhåll med extra genomgång inför vintern varje oktober."},
+    {"titel": "Vinterförberedelse", "ikon": "eld", "href": "verksamhet.html", "text": "Schaktvärme, tröskelvärme och kontroll av dörrar som fryser fast."},
+    {"titel": "4G-larm i hissen", "ikon": "laddning", "href": "verksamhet.html", "text": "Byte av nödtelefoner före 2G-nedsläckningen, med test mot vår egen jour."},
+    {"titel": "Industrihissar", "ikon": "fabrik", "href": "verksamhet.html", "text": "Service på varuhissar och personhissar i gruvor, hamnar och verk."},
+    {"titel": "Besiktningshjälp", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi förbereder hissen och åtgärdar anmärkningar inom avtalad tid."},
+    {"titel": "Jourpriser", "ikon": "portfolj", "href": "faq.html", "text": "Fast pris per utryckning för avtalskunder, oavsett tid på dygnet."}
+  ],
+  "affarsomraden": [
+    {"titel": "Jour dygnet runt", "text": "Vi har två tekniker i beredskap varje natt, en i Luleå–Boden–Piteå och en i Malmfälten. De har servicebilen hemma och reservdelar för de vanligaste felen med sig.", "text2": "Snittid till plats är 38 minuter i Luleå och 55 minuter i Kiruna under 2025.", "tagg": "hiss"},
+    {"titel": "Service för kallt klimat", "text": "Kyla ställer till det: oljan i hydraulhissar blir trög, dörrgångar fryser och kondens i schakten fräter på kontakter. Vårt serviceprogram har en särskild vinterrunda i oktober.", "text2": "Vi kontrollerar schaktvärme, tröskelvärme och tätningar i alla hissar som har dörr mot det fria.", "tagg": "hiss"},
+    {"titel": "Malmfälten", "text": "I Kiruna och Gällivare servar vi hissar i nybyggda hus i de nya stadskärnorna och i äldre fastigheter som ännu står kvar. Två tekniker bor och arbetar där.", "text2": "Vi har ett eget reservdelsförråd i Kiruna så att vi slipper vänta på leveranser från kusten.", "tagg": "stad"},
+    {"titel": "Industri och hamn", "text": "Varuhissar, personhissar i verkstadsbyggnader och hissar i hamnens silor. Vi har den säkerhetsutbildning som krävs för att jobba inne på industriområdena.", "text2": "Industrikunder kan teckna avtal med garanterad inställelsetid på 60 minuter.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Jouren", "segment": "Beredskap och felanmälan", "rubrik": "Två tekniker vakna varje natt", "text": "Sju tekniker turas om i rullande schema. Felanmälan går direkt till den som har jouren, med kartan över alla avtalshissar i telefonen.", "tagg": "hiss"},
+    {"namn": "Kustlandet", "segment": "Luleå, Boden och Piteå", "rubrik": "480 hissar längs kusten", "text": "Huvuddelen av våra avtalskunder: bostadsrättsföreningar, kommunala bostadsbolag, hotell och vårdlokaler.", "tagg": "stad"},
+    {"namn": "Malmfälten", "segment": "Kiruna och Gällivare", "rubrik": "Egna tekniker, eget förråd", "text": "Två tekniker med kontor på Föraregatan i Kiruna som sköter 140 hissar och industrikunderna i området.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Natten när det var minus 38", "text": "Sju hissar i Luleå stannade på grund av frusna dörrar mellan klockan två och sex. Alla var igång igen före frukost.", "tagg": "hiss"},
+    {"rubrik": "Nytt förråd i Kiruna", "text": "Vi har flyttat in i större lokaler och har nu dörrmotorer och styrkort i lager på plats.", "tagg": "industri"},
+    {"rubrik": "300 larm bytta till 4G", "text": "Alla avtalshissar i Piteå har fått ny nödtelefon som ringer direkt till vår jour.", "tagg": "el"}
+  ],
+  "nyckeltal": [
+    {"varde": "38", "enhet": "min", "etikett": "Snittid till plats i Luleå"},
+    {"varde": "24/7", "enhet": "", "etikett": "Egen jour, ingen larmcentral"},
+    {"varde": "620", "enhet": "hissar", "etikett": "Under avtal i Norrbotten"},
+    {"varde": "4", "enhet": "orter", "etikett": "Med stationerade tekniker"}
+  ],
+  "projekt": [
+    {"namn": "Brf Norrskenet", "ort": "Luleå", "typ": "Jouravtal", "ar": "2025", "text": "Fyra hissar i ett av de högsta husen i centrum, med inställelsetid på 45 minuter i avtalet.", "tagg": "hiss"},
+    {"namn": "Kiruna Centrumfastigheter", "ort": "Kiruna", "typ": "Serviceavtal", "ar": "2025", "text": "Elva hissar i nybyggda hus i den nya stadskärnan, med schaktvärme vi själva har dimensionerat.", "tagg": "stad"},
+    {"namn": "Piteå Havsbadshotell", "ort": "Piteå", "typ": "Service och jour", "ar": "2024", "text": "Hotellet kräver hiss i drift hela sommarsäsongen, så vi har reservdelar för deras hissar i bilen.", "tagg": "hiss"},
+    {"namn": "Bodens Hyresbostäder", "ort": "Boden", "typ": "Nödtelefoner", "ar": "2026", "text": "Byte av larm i 46 hissar till 4G, klart på sex veckor utan en enda dags stillestånd.", "tagg": "el"},
+    {"namn": "Malmbanans Verkstäder", "ort": "Gällivare", "typ": "Industrihissar", "ar": "2024", "text": "Två varuhissar och en personhiss i en verkstadshall, med avtal om 60 minuters inställelse.", "tagg": "industri"},
+    {"namn": "Norrbottens Vårdlokaler", "ort": "Luleå", "typ": "Vinterprogram", "ar": "2026", "text": "Tröskelvärme och nya tätningar på åtta hissar med dörrar direkt mot ambulansintaget.", "tagg": "hiss", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Ni ringer", "text": "Samtalet går direkt till jourteknikern. Ni får besked om ungefärlig ankomsttid innan ni lägger på.", "tagg": "people"},
+    {"titel": "Vi prioriterar", "text": "Instängda personer först, sedan hissar i vård och äldreboenden, sedan övriga stopp.", "tagg": "hiss"},
+    {"titel": "Felsökning på plats", "text": "Teknikern har de vanligaste reservdelarna i bilen och löser de flesta fel vid första besöket.", "tagg": "el"},
+    {"titel": "Rapport på morgonen", "text": "Fastighetsägaren får en kort rapport per mejl före klockan åtta: vad som hände och vad som gjordes.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Säkert ute på vägarna i mörkret",
+    "text": "Våra tekniker kör mycket i mörker och halka. Alla servicebilar har dubbdäck, motorvärmare och spårning, och ingen jourtekniker kör mer än 14 timmar i sträck.",
+    "mal": [["100 %", "av jourtimmarna bemannas av egen personal"], ["14 h", "längsta tillåtna arbetspass på jour"], ["< 60 min", "inställelse för instängda personer"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba där andra sover",
+    "text": "Jouren ersätts med beredskapsersättning och en extra ledig vecka per år. Vi delar schemat så att ingen har jour mer än var sjunde vecka.",
+    "jobb": [["Hisstekniker med jour", "Luleå"], ["Hisstekniker", "Kiruna"]]
+  },
+  "kultur": "Efter varje jourvecka får du en ledig måndag – utan att någon frågar varför.",
+  "citat": {"text": "Den som sitter fast i en hiss klockan tre på natten vill höra en människa som vet vad den pratar om. Därför svarar vi själva.", "namn": "Sara Lantto", "roll": "Grundare och teknisk chef", "tagg": "hiss"},
+  "omdomen": [
+    {"text": "Min mamma satt fast i hissen på nyårsnatten. Teknikern pratade med henne i telefon hela vägen från Bergnäset och var framme på 25 minuter.", "namn": "Jenny K.", "ort": "Luleå"},
+    {"text": "Förut fick vi vänta till nästa vardag när något hände en helg. Nu har vi aldrig haft hissen stilla mer än några timmar.", "namn": "Hans-Erik P.", "ort": "Kiruna"},
+    {"text": "Rapporten varje morgon gör att jag vet vad som hänt innan hyresgästerna hinner ringa mig.", "namn": "Lena M.", "ort": "Boden"}
+  ],
+  "faq": [
+    ["Vad kostar en jourutryckning?", "För avtalskunder är priset 2 400 kronor per utryckning plus delar, oavsett tid på dygnet. Utan avtal debiterar vi 3 900 kronor och timpris efter första timmen."],
+    ["Hur snabbt kommer ni?", "Under 2025 var snittiden 38 minuter i Luleå, 45 i Piteå och Boden och 55 minuter i Kiruna och Gällivare. Instängda personer prioriteras alltid."],
+    ["Kan vi ha jour hos er och service hos någon annan?", "Ja, men det fungerar bäst om vi också gör servicen. Då vet jourteknikern hur hissen är byggd och har rätt delar med sig."],
+    ["Varför fryser hissdörrarna?", "Oftast handlar det om att kall luft drar in genom schaktet eller att tröskelspåret fylls med snö och is. Tröskelvärme och bättre tätningar löser de flesta fall."],
+    ["Måste vi byta nödtelefon i hissen?", "Ja, om larmet går via 2G eller 3G. När näten släcks fungerar inte larmet, och hissen får då inte användas. Vi byter till 4G-larm på en förmiddag."],
+    ["Servar ni hissar utanför Norrbotten?", "Nej, vi stannar i Norrbotten. Det är det som gör att vi kan hålla tiderna."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 45001", "text": "Certifierat ledningssystem för arbetsmiljö, med särskilda rutiner för ensamarbete nattetid.", "ikon": "skold"},
+    {"titel": "Elsäkerhetsverket", "text": "Registrerade som elinstallationsföretag med egen elsäkerhetsansvarig.", "ikon": "blixt"},
+    {"titel": "SSG Entre", "text": "Alla tekniker har säkerhetsutbildningen som krävs för entreprenörer på industriområden.", "ikon": "hjalm"},
+    {"titel": "ID06", "text": "Samtliga medarbetare har giltigt ID06-kort och förs in i personalliggaren.", "ikon": "las"}
+  ],
+  "kunder": ["Brf Norrskenet", "Kiruna Centrumfastigheter", "Piteå Havsbadshotell", "Bodens Hyresbostäder", "Malmbanans Verkstäder", "Norrbottens Vårdlokaler", "Brf Porsön Övre"],
+  "nyheter": [
+    ["2026-10-01", "Vinterrundan är igång", "Under oktober och november går vi igenom schaktvärme och tätningar i alla avtalshissar.", "hiss"],
+    ["2026-08-25", "Större förråd i Kiruna", "Färre väntetider på delar för kunderna i Malmfälten.", "industri"],
+    ["2026-02-03", "Så gick köldnatten", "Sju stopp, sju frusna dörrar och en lärdom om tröskelvärme.", "hiss"]
+  ],
+  "kontakt": {"adress": "Midgårdsvägen 11", "postnr": "973 34", "ort": "Luleå", "telefon": "070-174 06 27", "epost": "jour@polarjour.se", "orgnr": ""},
+  "oppettider": "Jour dygnet runt, alla dagar. Kontor mån–fre 7–15.",
+  "omrade": "Luleå, Boden, Piteå, Kiruna och Gällivare",
+  "fot_cta": "Spara vårt nummer i telefonen nu – det är lättare än att leta upp det när hissen står still.",
+  "text": {
+    "ber_rubrik": "Från jourveckorna",
+    "proj_rubrik": "Fastigheter vi håller vakt över",
+    "process_rubrik": "Från samtal till rapport",
+    "hb_etikett": "Säkerhet på jour",
+    "omdomen_rubrik": "Röster från natten",
+    "faq_rubrik": "Frågor om jour och kyla",
+    "boka_rubrik": "Teckna jouravtal",
+    "boka_text": "Skriv hur många hissar ni har och var de står, så skickar vi ett jourpris inom två arbetsdagar.",
+    "logos_rubrik": "Vi har jouren åt",
+    "bolag_rubrik": "En jour, två regioner",
+    "certifikat_rubrik": "Säkerhet och behörighet",
+    "hero_knapp": "Så fungerar jouren"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "solel",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Takvolt Fastighetssol AB",
+  "kortnamn": "Takvolt",
+  "slug": "takvolt",
+  "typ": "Solceller för brf och fastighetsägare",
+  "tagline": "Bara flerbostadshus",
+  "slogan": "Vi bygger solceller och laddplatser för bostadsrättsföreningar i Stockholm – från stämmobeslut till färdig anläggning.",
+  "hero_rubrik": "Brf-taket är er billigaste elleverantör",
+  "hero_text": "Sedan 2015 har vi bara arbetat med flerbostadshus. 212 föreningar i Storstockholm har låtit oss räkna, rita och bygga på sina tak.",
+  "intro_rubrik": "Specialister på tak med många grannar",
+  "om": [
+    "Takvolt startades 2015 av Karin Åström, tidigare förvaltare på ett fastighetsbolag på Södermalm, och elingenjören Daniel Mäkinen. Idén var enkel: bostadsrättsföreningar behöver en leverantör som förstår stämmor, styrelsebyten och föreningsekonomi – inte bara paneler.",
+    "Vi är 18 personer på kontoret vid Hammarby Kaj, varav sju projektledare. Vi bygger 30–40 anläggningar om året på mellan 20 och 300 kW, oftast på platta papptak, sedumtak eller bandtäckt plåt från 30-talet."
+  ],
+  "vagval_rubrik": "Var står föreningen i dag?",
+  "tjanster": [
+    {"titel": "Förstudie för styrelsen", "ikon": "sok", "href": "verksamhet.html", "text": "En rapport med tak, el och ekonomi som styrelsen kan ta till stämman."},
+    {"titel": "Solceller på flerbostadshus", "ikon": "sol", "href": "verksamhet.html", "text": "Nyckelfärdiga anläggningar på 20–300 kW."},
+    {"titel": "Laddplatser i garaget", "ikon": "bil", "href": "verksamhet.html", "text": "Laddinfrastruktur med lastbalansering och debitering per plats."},
+    {"titel": "IMD och elmätning", "ikon": "graf", "href": "verksamhet.html", "text": "Individuell mätning så att solelen kommer alla lägenheter till del."},
+    {"titel": "Stämmounderlag", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi skriver underlaget och står på plats när medlemmarna frågar."},
+    {"titel": "Bygglov och tillstånd", "ikon": "ritning", "href": "verksamhet.html", "text": "Ansökan, antikvarisk dialog och kontakt med stadsbyggnadskontoret."},
+    {"titel": "Drift och förvaltning", "ikon": "kugge", "href": "verksamhet.html", "text": "Driftavtal med larm, årlig kontroll och rapport till styrelsen."},
+    {"titel": "Boka styrelsemöte", "ikon": "folk", "href": "om-oss.html#kontakt", "text": "Vi kommer till ert styrelsemöte – kvällstid går bra."}
+  ],
+  "affarsomraden": [
+    {"titel": "Förstudie och stämma", "text": "De flesta projekt faller inte på taket utan på stämman. Vår förstudie visar investering, återbetalning och påverkan på avgiften per lägenhet.", "text2": "Förstudien kostar 18 000 kr och dras av om föreningen beställer anläggningen.", "tagg": "kontor"},
+    {"titel": "Solceller på flerbostadshus", "text": "Vi bygger på papp, sedum och plåt, ofta med ballastsystem som inte kräver hål i tätskiktet. Allt samordnas med takentreprenörens garanti.", "text2": "En anläggning på 100 kW täcker ungefär fastighetselen för 80 lägenheter.", "tagg": "solel"},
+    {"titel": "Laddinfrastruktur", "text": "Vi dimensionerar laddningen efter fastighetens servis, så att 40 bilar kan ladda samtidigt utan att huvudsäkringen behöver höjas.", "text2": "Medlemmarna betalar för sin el via appen och föreningen slipper administrationen.", "tagg": "el"},
+    {"titel": "IMD och drift", "text": "Med individuell mätning och debitering kan solelen användas i lägenheterna, inte bara i trapphus och tvättstuga. Det höjer egenanvändningen från 30 till 70 procent.", "text2": "Driftavtalet ger styrelsen en årsrapport som passar rakt in i förvaltningsberättelsen.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Förstudie & ekonomi", "segment": "Styrelser och stämmor", "rubrik": "Siffror som håller på stämman", "text": "Tre analytiker som räknar på tak, förbrukning och föreningsekonomi och skriver stämmounderlagen.", "tagg": "kontor"},
+    {"namn": "Projekt", "segment": "Byggledning", "rubrik": "En projektledare från start till slut", "text": "Sju projektledare som ansvarar för upphandling, tidplan, boendeinformation och slutbesiktning.", "tagg": "solel"},
+    {"namn": "Laddning & IMD", "segment": "Garage och elmätning", "rubrik": "Varje kilowattimme på rätt lägenhet", "text": "Elektriker och systemtekniker som bygger laddplatser och mätsystem.", "tagg": "el"},
+    {"namn": "Drift", "segment": "Förvaltning", "rubrik": "Larm innan styrelsen märker något", "text": "Övervakning av 180 anläggningar, årliga kontroller och felavhjälpning.", "tagg": "stad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Stämman i Årsta sa ja med 94 procent", "text": "Brf Årstaskogen fick sitt underlag i mars och beslut i maj. Anläggningen på 140 kW byggs i höst.", "tagg": "bostad"},
+    {"rubrik": "Sedumtak och solceller i Hammarby Sjöstad", "text": "Vi har utvecklat en ballastlösning som låter sedumet växa under panelerna.", "tagg": "solel"},
+    {"rubrik": "212 föreningar", "text": "Sedan 2015 har vi gjort förstudier åt 212 bostadsrättsföreningar – 148 av dem har byggt.", "tagg": "stad"}
+  ],
+  "nyckeltal": [
+    {"varde": "212", "enhet": "brf:er", "etikett": "Har fått en förstudie"},
+    {"varde": "148", "enhet": "", "etikett": "Byggda anläggningar"},
+    {"varde": "11,2", "enhet": "MW", "etikett": "Installerad effekt"},
+    {"varde": "70 %", "enhet": "", "etikett": "Egenanvändning med IMD"}
+  ],
+  "projekt": [
+    {"namn": "Brf Årstaskogen", "ort": "Årsta", "typ": "140 kW + 48 laddplatser", "ar": "2026", "text": "Tre lamellhus från 1948 med nytt papptak och ballastmonterade paneler.", "tagg": "bostad"},
+    {"namn": "Brf Sjöstadsporten", "ort": "Hammarby Sjöstad", "typ": "Sedumtak, 96 kW", "ar": "2025", "text": "Paneler på upphöjda ställ som låter sedumet växa under.", "tagg": "solel"},
+    {"namn": "Brf Vintertullen", "ort": "Södermalm", "typ": "Kulturmiljö, 38 kW", "ar": "2024", "text": "Svarta paneler som inte syns från gatan, godkända av stadsantikvarien.", "tagg": "stad"},
+    {"namn": "Brf Kärrtorpsbacken", "ort": "Kärrtorp", "typ": "IMD + 72 kW", "ar": "2025", "text": "Individuell mätning i 112 lägenheter och solel direkt till hushållen.", "tagg": "el"},
+    {"namn": "Sundbybergs Hyresfastigheter", "ort": "Sundbyberg", "typ": "Hyresfastighet, 210 kW", "ar": "2025", "text": "Fyra punkthus med gemensam anläggning och batteri på 100 kWh.", "tagg": "bostad"},
+    {"namn": "Brf Mälarhöjdsterrassen", "ort": "Mälarhöjden", "typ": "Garage, 60 laddplatser", "ar": "2024", "text": "Laddning i garaget utan att höja huvudsäkringen.", "tagg": "el"}
+  ],
+  "process": [
+    {"titel": "Styrelsemöte", "text": "Vi kommer till ett styrelsemöte, går upp på taket och tittar i elrummet. Det kostar ingenting.", "tagg": "people"},
+    {"titel": "Förstudie", "text": "Inom fyra veckor får styrelsen en rapport med kalkyl, ritning och förslag till stämmobeslut.", "tagg": "kontor"},
+    {"titel": "Stämma och bygglov", "text": "Vi presenterar på stämman och söker bygglov om det behövs. Handläggningstiden i Stockholm är 6–10 veckor.", "tagg": "stad"},
+    {"titel": "Bygge och drift", "text": "Själva montaget tar två till fyra veckor. De boende får information i trapphusen innan ställningen kommer.", "tagg": "solel"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Tätskiktet är heligt",
+    "text": "Ett läckande tak kostar mer än solcellerna sparar. Därför använder vi ballastsystem där det går, samordnar varje genomföring med takentreprenören och fotodokumenterar tätskiktet före och efter montage. Vi lämnar tio års garanti på vårt arbete.",
+    "mal": [["10 år", "garanti på montage och genomföringar"], ["0", "takläckage i våra anläggningar sedan 2015"], ["4 v", "från styrelsemöte till färdig förstudie"]]
+  },
+  "karriar": {
+    "rubrik": "Projektledare som gillar styrelsemöten",
+    "text": "Hos oss jobbar du med fastighetsägare, inte enskilda villaägare. Det kräver tålamod, tydlighet och förmågan att förklara en kalkyl för tjugo medlemmar en tisdagskväll.",
+    "jobb": [["Projektledare solel", "Stockholm"], ["Elektriker laddinfrastruktur", "Stockholm"]]
+  },
+  "kultur": "Varje projektledare har högst sex föreningar samtidigt – det är så vi hinner svara på styrelsernas mejl samma dag.",
+  "citat": {"text": "En styrelse sitter i två år och vill inte lämna efter sig ett tak som läcker eller en kalkyl som inte höll. Vi bygger för den som kommer efter.", "namn": "Karin Åström", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Karin svarade på 43 frågor på stämman utan att titta i papperen. Beslutet gick igenom med bred marginal.", "namn": "Ordförande, Brf Årstaskogen", "ort": "Årsta"},
+    {"text": "Vi var rädda för taket, som var nytt. Takvolt samordnade med vår takläggare så att garantin gäller.", "namn": "Lars E.", "ort": "Hammarby Sjöstad"},
+    {"text": "Årsrapporten från driften har vi klistrat in rakt i förvaltningsberättelsen två år i rad.", "namn": "Kassör, Brf Kärrtorpsbacken", "ort": "Kärrtorp"}
+  ],
+  "faq": [
+    ["Måste stämman fatta beslut?", "Ja, en solcellsanläggning är oftast en väsentlig förändring av föreningens egendom. Vi hjälper till med förslag till beslut och presentation."],
+    ["Får vi grönt avdrag som förening?", "Nej, grönt avdrag gäller bara privatpersoner. Föreningar kan i stället skriva av anläggningen över 20–25 år."],
+    ["Kan solelen användas i lägenheterna?", "Ja, om föreningen har individuell mätning och debitering, IMD. Utan IMD används elen till fastighetsel som hissar, belysning och ventilation."],
+    ["Behövs bygglov?", "I Stockholm krävs ofta bygglov i kulturmiljöer och på synliga fasadnära tak. Vi bedömer det i förstudien och sköter ansökan."],
+    ["Vad händer om taket behöver läggas om?", "Ballastsystemet kan lyftas av och läggas tillbaka. Vi rekommenderar ändå att bygga solceller i samband med takbyte."],
+    ["Hur lång är återbetalningstiden?", "Oftast 9–13 år för en förening med IMD, längre utan. Anläggningen beräknas producera i minst 30 år."],
+    ["Vad kostar driftavtalet?", "Från 9 500 kr per år, med övervakning, årlig kontroll och rapport till styrelsen."]
+  ],
+  "certifikat": [
+    {"titel": "Auktorisation AB", "text": "Registrerat elinstallatörsföretag hos Elsäkerhetsverket.", "ikon": "blixt"},
+    {"titel": "BAS-P och BAS-U", "text": "Vi tar arbetsmiljöansvaret för planering och utförande på varje bygge.", "ikon": "hjalm"},
+    {"titel": "Medlem i Svensk Solenergi", "text": "Vi följer branschens riktlinjer för avtal och kalkyler.", "ikon": "sol"},
+    {"titel": "Heta arbeten", "text": "Alla montörer har certifikat från Brandskyddsföreningen för arbete på papptak.", "ikon": "eld"}
+  ],
+  "kunder": ["Brf Årstaskogen", "Brf Sjöstadsporten", "Brf Vintertullen", "Brf Kärrtorpsbacken", "Sundbybergs Hyresfastigheter AB", "Brf Mälarhöjdsterrassen", "Brf Fruängsgården", "Liljeholmens Fastighets AB"],
+  "nyheter": [
+    ["2026-10-08", "Inför vårens stämmor", "Beställ förstudien före januari så hinner underlaget med till kallelsen.", "kontor"],
+    ["2026-07-01", "Ny vägledning om IMD", "Vi har sammanfattat vad som gäller för individuell mätning i bostadsrätter.", "el"],
+    ["2026-02-17", "Sedum under panelerna", "Resultat efter två säsonger i Hammarby Sjöstad: växtligheten mår bra.", "solel"]
+  ],
+  "kontakt": {"adress": "Hammarby Kaj 18", "postnr": "120 30", "ort": "Stockholm", "telefon": "070-174 06 37", "epost": "styrelse@takvolt.se", "orgnr": ""},
+  "oppettider": "Mån–fre 08–17, styrelsemöten även kvällstid",
+  "omrade": "Stockholm, Solna, Sundbyberg, Nacka och Huddinge",
+  "fot_cta": "Sitter ni i styrelsen? Bjud in oss till nästa möte – vi tar med kalkylen.",
+  "bild": {"panel": "bostad", "hb": "tak"},
+  "text": {
+    "kontakt_knapp": "Bjud in oss",
+    "hero_knapp": "Så går det till för en brf",
+    "hero_lank": "Föreningar vi byggt åt",
+    "vagval_etikett": "För styrelsen",
+    "ber_rubrik": "Senast från föreningarna",
+    "proj_rubrik": "Föreningar som redan tagit steget",
+    "process_rubrik": "Från styrelserum till tak",
+    "hb_etikett": "Tak & garanti",
+    "omdomen_rubrik": "Styrelserna om oss",
+    "faq_rubrik": "Frågor som kommer upp på stämman",
+    "boka_rubrik": "Boka ett styrelsemöte",
+    "boka_text": "Skriv föreningens namn och adress, så föreslår vi en kväll när vi kan komma.",
+    "boka_falt": ["Namn", "Roll i styrelsen", "Föreningens namn och adress", "Antal lägenheter"],
+    "logos_rubrik": "Några av föreningarna",
+    "certifikat_rubrik": "Ansvar för hela bygget",
+    "bolag_rubrik": "Fyra team för en förening",
+    "ny_rubrik": "För styrelser och förvaltare",
+    "medarbetare": "Projektledarna"
+  }
+}

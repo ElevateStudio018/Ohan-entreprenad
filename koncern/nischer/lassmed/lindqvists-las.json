@@ -1,0 +1,128 @@
+{
+  "profil": "nisch",
+  "nisch": "lassmed",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Lindqvists Lås & Nyckel AB",
+  "kortnamn": "Lindqvists Lås",
+  "slug": "lindqvists-las",
+  "typ": "Låssmed i Örebro sedan 1958",
+  "tagline": "Tredje generationen låssmeder",
+  "slogan": "Butik, verkstad och servicebilar på Drottninggatan – samma familj, samma telefonnummer sedan 1958.",
+  "hero_rubrik": "Örebros nycklar sedan 1958",
+  "hero_text": "Vi byter lås i villor och lägenheter, bygger nyckelsystem åt bostadsrättsföreningar och kopierar nycklar medan du väntar – mitt i Örebro.",
+  "intro_rubrik": "Tre generationer bakom disken",
+  "om": [
+    "Gunnar Lindqvist öppnade en nyckelbar i en före detta tobaksaffär på Drottninggatan 1958. Sonen Bengt tog över 1986 och byggde upp servicebilarna, och sedan 2017 driver barnbarnet Karin Lindqvist företaget med 14 anställda.",
+    "Butiken ligger kvar på samma adress, men i dag gör vi lika mycket ute hos kunderna: låsbyten, nyckelsystem för föreningar i Vivalla, Rynninge och Adolfsberg och service av kassaskåp åt butiker och kontor i hela Örebro län."
+  ],
+  "vagval_rubrik": "Vad behöver du hjälp med?",
+  "tjanster": [
+    {"titel": "Låsbyte i villa", "ikon": "hus", "href": "verksamhet.html", "text": "Nytt SSF-godkänt lås och tre nycklar, monterat samma vecka."},
+    {"titel": "Nyckelkopiering", "ikon": "nyckel", "href": "verksamhet.html", "text": "Vanliga nycklar kopierar vi på fem minuter i butiken."},
+    {"titel": "Nyckelsystem för brf", "ikon": "hem", "href": "verksamhet.html", "text": "Ett system där varje nyckel går till rätt dörrar – och inga andra."},
+    {"titel": "Låsöppning", "ikon": "las", "href": "verksamhet.html", "text": "Utelåst i Örebro? Vi är hos dig inom en timme på vardagar."},
+    {"titel": "Kassaskåp", "ikon": "skold", "href": "verksamhet.html", "text": "Försäljning, kodbyte och service av kassaskåp i alla klasser."},
+    {"titel": "Kodlås & tagglås", "ikon": "kugge", "href": "verksamhet.html", "text": "Kodlås till förråd, tvättstugor och personalingångar."},
+    {"titel": "Verkstaden", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vi renoverar gamla lås och kassaskåp som inte går att köpa nya."},
+    {"titel": "Ring butiken", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Karin, Lars eller någon av montörerna svarar – inte en växel."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villor och lägenheter", "text": "Har du köpt hus, tappat en nyckel eller haft inbrott byter vi låscylindrar och monterar SSF-godkända lås som försäkringsbolagen kräver. Vi har alltid de vanligaste cylindrarna i bilen.", "text2": "Ett normalt låsbyte i en villa tar under en timme.", "tagg": "las"},
+    {"titel": "Bostadsrättsföreningar", "text": "Vi bygger och förvaltar nyckelsystem åt drygt 140 föreningar i Örebro. Systemen registreras hos oss så att bara styrelsen kan beställa nya nycklar.", "text2": "Vid lägenhetsförsäljning byter vi cylinder i lägenhetsdörren till ett fast pris.", "tagg": "bostad"},
+    {"titel": "Butiker och kontor", "text": "Kassaskåp, dagkassaboxar och kodlås till personalutrymmen. Vi servar skåp åt ett sextiotal butiker längs Drottninggatan och i Marieberg.", "text2": "Kodbyte på kassaskåp gör vi samma dag när en anställd slutar.", "tagg": "kontor"},
+    {"titel": "Verkstad och renovering", "text": "I verkstaden bakom butiken renoverar vi kistlås, gamla kassaskåp och lås till kyrkor och gårdar. Delar som inte finns svarvar vi själva.", "text2": "Karins farbror Lars, 71, är fortfarande med två dagar i veckan.", "tagg": "las"}
+  ],
+  "bolag": [
+    {"namn": "Butiken", "segment": "Drottninggatan 19", "rubrik": "Disken där allt började", "text": "Nyckelkopiering, lås, kassaskåp och rådgivning. Tre personer i butiken och öppet till 18 på torsdagar.", "tagg": "las"},
+    {"namn": "Servicebilarna", "segment": "Fyra bilar, hela länet", "rubrik": "Låssmed vid dörren", "text": "Fyra låsmontörer med fullutrustade bilar som täcker Örebro, Kumla, Hallsberg och Lindesberg.", "tagg": "hem"},
+    {"namn": "Nyckelsystem", "segment": "Föreningar och fastighetsägare", "rubrik": "Registret över 140 föreningar", "text": "Två projektledare som planerar, ritar och förvaltar nyckelsystem. Varje system har en egen pärm – och en digital kopia.", "tagg": "bostad"},
+    {"namn": "Verkstaden", "segment": "Renovering och specialarbeten", "rubrik": "Lås som inte görs längre", "text": "Renovering av gamla lås och kassaskåp, tillverkning av nycklar efter avtryck och kodbyten på mekaniska skåp.", "tagg": "las"}
+  ],
+  "berattelser": [
+    {"rubrik": "Nytt nyckelsystem i Rynninge", "text": "Brf Rynningeåsen med 212 lägenheter bytte från 70-talsnycklar till ett patentskyddat system under tre veckor i september.", "tagg": "bostad"},
+    {"rubrik": "Kyrkdörren i Längbro", "text": "Verkstaden har renoverat ett kistlås från 1800-talet och tillverkat två nya nycklar efter det gamla avtrycket.", "tagg": "las"},
+    {"rubrik": "Servicebil nummer fyra", "text": "Sedan i våras har vi en fjärde bil som utgår från Kumla och tar södra länet.", "tagg": "hem"}
+  ],
+  "nyckeltal": [
+    {"varde": "1958", "enhet": "", "etikett": "Samma adress sedan dess"},
+    {"varde": "14", "enhet": "anställda", "etikett": "Varav tre med mästarbrev"},
+    {"varde": "140", "enhet": "brf:er", "etikett": "Nyckelsystem vi förvaltar"},
+    {"varde": "5", "enhet": "min", "etikett": "För en vanlig nyckelkopia"}
+  ],
+  "projekt": [
+    {"namn": "Brf Rynningeåsen", "ort": "Örebro", "typ": "Nyckelsystem, 212 lgh", "ar": "2026", "text": "Nya cylindrar i alla lägenheter, förråd, tvättstugor och soprum på tre veckor.", "tagg": "bostad", "status": "Utfört"},
+    {"namn": "Längbro kyrka", "ort": "Örebro", "typ": "Renovering av kistlås", "ar": "2026", "text": "Kistlåset från 1830-talet nedmonterat, rengjort och försett med nya nycklar.", "tagg": "las", "status": "Utfört"},
+    {"namn": "Brf Adolfsbergsgården", "ort": "Örebro", "typ": "Kodlås och nyckelsystem", "ar": "2025", "text": "Kodlås på sex portar och nytt system för 96 lägenheter.", "tagg": "stad"},
+    {"namn": "Kumla Torghandel", "ort": "Kumla", "typ": "Kassaskåp och dagkassa", "ar": "2025", "text": "Två nya kassaskåp i klass 2 och dagkassabox monterad i golv.", "tagg": "kontor"},
+    {"namn": "Lindesbergs Folkets hus", "ort": "Lindesberg", "typ": "Låsbyte, hela huset", "ar": "2024", "text": "Byte av 48 cylindrar efter att en huvudnyckel försvunnit.", "tagg": "las"},
+    {"namn": "Brf Mariebergsparken", "ort": "Örebro", "typ": "Nyckelsystem, 118 lgh", "ar": "2026", "text": "Projektering pågår – montering av nya cylindrar planerad till december.", "tagg": "bostad"}
+  ],
+  "process": [
+    {"titel": "Ring eller kom in", "text": "Beskriv dörren och låset, eller ta med en bild. Vi säger direkt om det är en butiksfråga eller ett hembesök.", "tagg": "las"},
+    {"titel": "Fast pris", "text": "För låsbyten i villor och lägenheter får du ett fast pris innan vi kör ut.", "tagg": "hem"},
+    {"titel": "Montering", "text": "Montören byter lås och cylindrar, provar alla nycklar och tar med det gamla låset.", "tagg": "las"},
+    {"titel": "Registrering", "text": "Nycklar och cylindrar registreras hos oss så att du kan beställa fler utan att börja om.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett företag som ska finnas om trettio år också",
+    "text": "Vi tar tillbaka gamla cylindrar och lämnar mässingen till återvinning hos Stena i Örebro. Servicebilarna går på HVO sedan 2023 och vi utbildar alltid minst en lärling åt gången.",
+    "mal": [["100 %", "av gammal mässing till återvinning"], ["1", "lärling i tjänst varje år sedan 1974"], ["4 av 4", "servicebilar på förnybart bränsle"]]
+  },
+  "karriar": {
+    "rubrik": "Vill du bli låssmed i Örebro?",
+    "text": "Vi har utbildat lärlingar sedan 1974 och flera av dem är kvar i dag. Du får gå bredvid en erfaren montör det första året och ta gesällbrev genom Sveriges Låssmeders Riksförbund.",
+    "jobb": [["Låsmontör med B-körkort", "Örebro"], ["Lärling, låssmed", "Örebro"]]
+  },
+  "kultur": "Fika klockan nio i verkstaden, och alla nyanställda får en egen nyckelring med butikens första nyckel inristad.",
+  "citat": {"text": "Farfar sa att en låssmed säljer förtroende och att låsen bara är förpackningen. Det står fortfarande på en lapp ovanför disken.", "namn": "Karin Lindqvist", "roll": "Vd, tredje generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi köpte hus i Ekeby och ringde på måndagen. På tisdagen hade vi nya lås i alla tre ytterdörrar och kvitto till försäkringsbolaget.", "namn": "Johanna W.", "ort": "Örebro"},
+    {"text": "Föreningen har haft Lindqvists nyckelsystem sedan 1994. När vi bytte i år hade de fortfarande ritningen från då.", "namn": "Per-Olof S.", "ort": "Brf Rynningeåsen"},
+    {"text": "Kassaskåpet från min morfars järnhandel gick inte att öppna. Verkstaden fick upp det och tillverkade en ny nyckel.", "namn": "Anders H.", "ort": "Hallsberg"}
+  ],
+  "faq": [
+    ["Kan ni kopiera alla nycklar?", "De flesta vanliga nycklar kopierar vi direkt i butiken. Nycklar till patentskyddade system kräver ett nyckelkort eller beställning från föreningens styrelse."],
+    ["Vad kostar ett låsbyte?", "Byte av cylinder i en lägenhetsdörr kostar från 1 950 kr och ett komplett SSF-godkänt lås i en villadörr från 3 450 kr, inklusive montering och tre nycklar."],
+    ["Vilka lås godkänner försäkringsbolaget?", "De flesta kräver lås godkända enligt SSF 3522 i lägst klass 3 i ytterdörrar. Vi kontrollerar dina lås och skriver intyg om det behövs."],
+    ["Har ni jour?", "Vardagar 7–19 har vi bilar ute. På kvällar och helger hänvisar vi till en samarbetspartner i Örebro som har jour dygnet runt."],
+    ["Hur lång tid tar ett nytt nyckelsystem för en brf?", "Från beslut till färdiga nycklar brukar det ta sex till tio veckor, beroende på antal lägenheter och leveranstid på cylindrarna."],
+    ["Kan ni öppna ett gammalt kassaskåp?", "Ja, i de flesta fall utan att förstöra skåpet. Vi tar 1 450 kr för ett försök på plats och lämnar fast pris för reparation efteråt."],
+    ["Var kan jag parkera vid butiken?", "Det finns korttidsparkering på Drottninggatan och i Krämaren-garaget två minuter bort."]
+  ],
+  "priser": [
+    {"namn": "Cylinderbyte", "pris": "fr. 1 950 kr", "enhet": "lägenhetsdörr", "text": "När du flyttar in eller har tappat nycklar.", "punkter": ["Ny cylinder i befintligt lås", "Tre nycklar", "Montering och resa i Örebro", "Gammal cylinder återvinns"]},
+    {"namn": "Villapaket", "pris": "fr. 3 450 kr", "enhet": "per ytterdörr", "text": "Komplett lås som klarar försäkringsbolagets krav.", "punkter": ["SSF-godkänt lås klass 3", "Låsintyg till försäkringen", "Tre nycklar, fler i samma system", "Montering samma vecka"], "utvald": true},
+    {"namn": "Brf-nyckelsystem", "pris": "Offert", "enhet": "efter besiktning", "text": "Hela föreningen i ett registrerat system.", "punkter": ["Platsbesök och nyckelschema", "Patentskyddade nycklar", "Registrering och styrelsebehörighet", "Montering i alla lägenheter"]}
+  ],
+  "certifikat": [
+    {"titel": "Medlem i SLR sedan 1961", "text": "Sveriges Låssmeders Riksförbund – vi följer förbundets yrkesregler och etiska krav.", "ikon": "skold"},
+    {"titel": "Mästarbrev, låssmed", "text": "Karin Lindqvist och två montörer har mästarbrev, övriga montörer gesällbrev.", "ikon": "stjarna"},
+    {"titel": "SSF-godkända lås", "text": "Vi monterar och intygar lås enligt SSF 3522, som försäkringsbolagen utgår från.", "ikon": "las"},
+    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Alla uppdrag är försäkrade, även nyckelsystem som vi förvarar åt kunder.", "ikon": "dokument"}
+  ],
+  "kunder": ["Brf Rynningeåsen", "Brf Adolfsbergsgården", "Brf Mariebergsparken", "Längbro församling", "Kumla Torghandel", "Lindesbergs Folkets hus", "Örebro Studentbostäder", "Hallsbergs Järn & Färg"],
+  "nyheter": [
+    ["2026-10-06", "Torsdagsöppet till 18", "Butiken har öppet längre på torsdagar hela vintern.", "las"],
+    ["2026-09-22", "Rynningeåsen klart på tre veckor", "212 lägenheter fick nya cylindrar utan att någon stod utelåst.", "bostad"],
+    ["2026-04-14", "Ny servicebil i Kumla", "Södra länet får kortare väntetid med en egen montör.", "hem"]
+  ],
+  "kontakt": {"adress": "Drottninggatan 19", "postnr": "702 22", "ort": "Örebro", "telefon": "070-174 06 21", "epost": "butiken@lindqvistslas.se", "orgnr": ""},
+  "oppettider": "Butiken: mån–fre 9–17.30, tors till 18, lör 10–13",
+  "omrade": "Örebro, Kumla, Hallsberg och Lindesberg",
+  "fot_cta": "Kom in på Drottninggatan 19 eller ring – vi har svarat i samma butik sedan 1958.",
+  "bild": {"panel": "people", "hb": "las"},
+  "text": {
+    "ber_rubrik": "Senast från verkstaden",
+    "proj_rubrik": "Dörrar vi har tagit hand om",
+    "process_rubrik": "Från disken till din dörr",
+    "hb_etikett": "Ansvar",
+    "omdomen_rubrik": "Kunder som kommit tillbaka",
+    "faq_rubrik": "Det vi får höra vid disken",
+    "priser_rubrik": "Fasta priser på vanliga jobb",
+    "boka_rubrik": "Beskriv dörren så återkommer vi",
+    "logos_rubrik": "Några som litar på familjen",
+    "certifikat_rubrik": "Yrkesbevis och försäkringar",
+    "bolag_rubrik": "Fyra delar av samma butik",
+    "ny_rubrik": "Nytt från Drottninggatan"
+  }
+}

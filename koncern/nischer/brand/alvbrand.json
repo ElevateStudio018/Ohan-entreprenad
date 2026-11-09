@@ -1,0 +1,121 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Älvbrand Miljö & Säkerhet AB",
+  "kortnamn": "Älvbrand",
+  "slug": "alvbrand",
+  "typ": "Fossilfri brandskyddsservice i Värmland",
+  "tagline": "Fluorfritt och fossilfritt",
+  "slogan": "Vi servar, renoverar och byter brandsläckare i Värmland med elbilar, fluorfritt skum och så lite avfall som möjligt.",
+  "hero_rubrik": "Brandskydd utan PFAS och utan diesel",
+  "hero_text": "Byt ut skumsläckarna med fluor, låt oss renovera de släckare ni redan har och få service från en elbil. Brandskyddet blir lika säkert – och betydligt renare.",
+  "intro_rubrik": "Elva personer, en elbilsflotta och en verkstad för återbruk",
+  "om": [
+    "Älvbrand startades 2012 av Sara Lindqvist och Omar Haddad, som båda hade arbetat på en större brandskyddsfirma och sett hur många fungerande släckare som skrotades varje år. I verkstaden på Lamberget i Karlstad renoverar vi i dag mer än 4 000 släckare per år som annars hade blivit skrot.",
+    "Sedan 2020 har vi också bytt ut skumsläckare med PFAS – fluorerade ämnen som inte bryts ned i naturen – hos kommuner, bostadsrättsföreningar och industrier i Värmland. Våra fem servicebilar går på el, och den sjätte, som drar släpet med farligt avfall, kör på HVO."
+  ],
+  "vagval_rubrik": "Vad vill ni göra med ert brandskydd?",
+  "tjanster": [
+    {"titel": "Byt till fluorfritt", "ikon": "vatten", "href": "verksamhet.html", "text": "Vi ersätter PFAS-skum med fluorfritt skum och tar hand om det gamla som farligt avfall."},
+    {"titel": "Renoverade släckare", "ikon": "kugge", "href": "verksamhet.html", "text": "Kontrollerade, omladdade och provtryckta släckare med samma garanti som nya."},
+    {"titel": "Släckarservice", "ikon": "bil", "href": "verksamhet.html", "text": "Årlig kontroll enligt SS 3656 från en servicebil som går på el."},
+    {"titel": "Brandvarnare och filtar", "ikon": "hem", "href": "verksamhet.html", "text": "Varnare med tioårsbatteri och brandfiltar i ull för hem och fritidshus."},
+    {"titel": "Brandlarm för små hus", "ikon": "blixt", "href": "verksamhet.html", "text": "Enklare larm för förskolor, butiker och gruppbostäder."},
+    {"titel": "SBA-stöd", "ikon": "dokument", "href": "verksamhet.html", "text": "Egenkontroll och dokumentation i en enkel delad mapp."},
+    {"titel": "Övning utan rök", "ikon": "skola", "href": "verksamhet.html", "text": "Släckövning med digital eld och vattenfylld övningssläckare – ingen pulvermoln."},
+    {"titel": "Miljögenomgång", "ikon": "trad", "href": "om-oss.html#kontakt", "text": "Vi inventerar era släckare och visar vilka som innehåller PFAS."}
+  ],
+  "affarsomraden": [
+    {"titel": "Ut med fluorerat skum", "text": "Många skumsläckare som köptes före 2020 innehåller PFAS, och EU fasar nu ut ämnena. Vi inventerar, tömmer och laddar om med fluorfritt skum som klarar samma brandklasser.", "text2": "Det gamla skummet lämnas till godkänd destruktion, och ni får ett intyg för er miljörapport.", "tagg": "brand"},
+    {"titel": "Återbruk av släckare", "text": "En släckare i stål håller i 20–30 år om den sköts. Vi byter packningar, slangar och släckmedel och provtrycker behållaren i stället för att köpa nytt.", "text2": "Renoverade släckare kostar ungefär hälften av en ny och har två års garanti.", "tagg": "brand"},
+    {"titel": "Service från elbil", "text": "Våra servicebilar har allt med sig för kontroll och enklare reparationer på plats. Vi planerar rutterna per kommun för att minska körningen.", "text2": "Kunder i Karlstad, Hammarö, Kil och Forshaga får service samma vecka varje år.", "tagg": "el"},
+    {"titel": "Utbildning och SBA", "text": "Pulver från övningssläckare sprids långt och är svårt att städa bort. Vi övar med digital eld och vattenfyllda övningssläckare i stället.", "text2": "Utbildningen går att hålla inomhus, i ett vanligt konferensrum.", "tagg": "people"}
+  ],
+  "bolag": [
+    {"namn": "Släckarverkstaden", "segment": "Lamberget, Karlstad", "rubrik": "4 300 släckare fick ett nytt liv i fjol", "text": "Tre tekniker renoverar, provtrycker och laddar om släckare, och sorterar det som inte går att rädda för materialåtervinning.", "tagg": "brand"},
+    {"namn": "Service på väg", "segment": "Hela Värmland", "rubrik": "Fem elbilar, en släpvagn", "text": "Fyra servicetekniker som kör planerade rutter från Arvika till Kristinehamn.", "tagg": "el"},
+    {"namn": "Utbildning & SBA", "segment": "Företag och föreningar", "rubrik": "Övning utan pulvermoln", "text": "Två instruktörer som håller utbildningar i grundläggande brandskydd och hjälper till med egenkontrollen.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "PFAS-fritt i alla kommunens skolor", "text": "960 skumsläckare i 41 skolor och förskolor tömdes och laddades om under sommarlovet.", "tagg": "brand"},
+    {"rubrik": "Femte elbilen i trafik", "text": "Nu går hela serviceflottan på el, med laddning från solcellerna på verkstadstaket.", "tagg": "solel"},
+    {"rubrik": "Släckare från 1998 tillbaka i tjänst", "text": "En brf i Herrhagen ville kasta 120 släckare. 112 klarade provtryckningen och sitter kvar i trapphusen.", "tagg": "bostad"}
+  ],
+  "nyckeltal": [
+    {"varde": "4 300", "enhet": "släckare", "etikett": "Renoverade i stället för skrotade 2025"},
+    {"varde": "1 900", "enhet": "liter", "etikett": "PFAS-skum lämnat till destruktion"},
+    {"varde": "100 %", "enhet": "", "etikett": "Fossilfria körningar sedan 2024"},
+    {"varde": "50 %", "enhet": "", "etikett": "Lägre pris med renoverad släckare"}
+  ],
+  "projekt": [
+    {"namn": "Skolor och förskolor", "ort": "Karlstad", "typ": "Byte till fluorfritt skum", "ar": "2025", "text": "960 skumsläckare i 41 verksamheter omladdade under sju sommarveckor.", "tagg": "brand"},
+    {"namn": "Brf Herrhagsbacken", "ort": "Karlstad", "typ": "Återbruk", "ar": "2025", "text": "112 av 120 gamla släckare renoverade och provtryckta i stället för att ersättas.", "tagg": "bostad"},
+    {"namn": "Gruvöns Massalager", "ort": "Grums", "typ": "Serviceavtal", "ar": "2024", "text": "Släckare, brandposter och PFAS-inventering på ett industriområde vid Vänern.", "tagg": "industri"},
+    {"namn": "Arvika Bilcenter", "ort": "Arvika", "typ": "Släckare och utbildning", "ar": "2025", "text": "Fluorfria skumsläckare i verkstaden och övning med digital eld för 18 mekaniker.", "tagg": "people"},
+    {"namn": "Hammarö Gruppbostäder", "ort": "Hammarö", "typ": "Brandlarm", "ar": "2024", "text": "Enkla brandlarm med talat meddelande i fyra gruppbostäder.", "tagg": "brand"},
+    {"namn": "Kils Kyrkliga Samfällighet", "ort": "Kil", "typ": "Miljögenomgång", "ar": "2026", "text": "Inventering av släckare och skum i sex kyrkor och församlingshem.", "tagg": "brand", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Inventering", "text": "Vi går igenom alla släckare och märker vilka som innehåller PFAS eller är för gamla.", "tagg": "brand"},
+    {"titel": "Förslag med miljösiffror", "text": "Ni får pris och en kalkyl på hur mycket avfall och koldioxid ni sparar.", "tagg": "kontor"},
+    {"titel": "Renovering", "text": "Släckarna hämtas eller byts på plats mot redan renoverade exemplar.", "tagg": "brand"},
+    {"titel": "Årlig service", "text": "Ni läggs in på en fast rutt och får påminnelse två veckor innan vi kommer.", "tagg": "el"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi mäter avfallet, inte bara antalet släckare",
+    "text": "Varje kund får en årlig sammanställning med antal renoverade släckare, mängd omhändertaget PFAS-skum och körda mil. Vi redovisar samma siffror för hela företaget här på sajten.",
+    "mal": [["0 kg", "fungerande släckare till skrot"], ["2027", "alla avtalskunder fria från PFAS-skum"], ["90 %", "av släckarna återbrukade eller materialåtervunna"]]
+  },
+  "karriar": {
+    "rubrik": "Vill du arbeta med brandskydd som gör skillnad två gånger?",
+    "text": "Vi letar efter tekniker som tycker om att laga saker hellre än att byta dem. Du får elbil, fasta rutter och en arbetsplats där miljösiffrorna diskuteras på varje måndagsmöte.",
+    "jobb": [["Verkstadstekniker släckare", "Karlstad"]]
+  },
+  "kultur": "Alla anställda får en dag per år till ett eget miljöprojekt – i år byggde två tekniker en laddplats till grannföretaget.",
+  "citat": {"text": "En släckare är en tryckbehållare med lite pulver i. Att vi i branschen slänger tiotusentals fungerande behållare varje år har ingen kunnat förklara för mig.", "namn": "Sara Lindqvist", "roll": "Vd och grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi visste inte ens att våra skumsläckare innehöll PFAS. Älvbrand inventerade alla skolor och bytte under sommarlovet utan att vi behövde göra något.", "namn": "Cecilia M.", "ort": "Karlstad"},
+    {"text": "Vi sparade nästan 40 000 kronor på att renovera i stället för att köpa nytt. Släckarna ser ut som nya.", "namn": "Björn T.", "ort": "Herrhagen"},
+    {"text": "Släckövningen hölls i fikarummet med en skärm och en vattensläckare. Ingen behövde städa pulver efteråt.", "namn": "Jenny A.", "ort": "Arvika"}
+  ],
+  "faq": [
+    ["Hur vet jag om mina skumsläckare innehåller PFAS?", "Det står sällan tydligt på etiketten. Vi kontrollerar fabrikat, årsmodell och skumtyp och kan ta ett prov om det är oklart."],
+    ["Är fluorfritt skum lika effektivt?", "Ja, för de brandklasser som handbrandsläckare används till. De fluorfria skummen vi använder är provade för klass A och B enligt SS-EN 3."],
+    ["Har en renoverad släckare garanti?", "Ja, två års garanti, samma som på en ny. Behållaren provtrycks och alla slitdelar byts."],
+    ["Vad händer med det gamla skummet?", "Det samlas i godkända behållare och transporteras som farligt avfall till destruktion. Ni får ett intyg med mängd och mottagare."],
+    ["Kommer ni till hela Värmland?", "Ja. Karlstadsområdet har service varje vecka, resten av länet på fasta rutter två till fyra gånger per år."],
+    ["Kan vi som privatperson anlita er?", "Ja. Vi servar släckare och säljer renoverade släckare och brandvarnare direkt i verkstaden på Lamberget."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierade servicetekniker", "text": "Samtliga tekniker är certifierade för underhåll av handbrandsläckare enligt SS 3656.", "ikon": "skold"},
+    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem sedan 2016, med årlig extern revision.", "ikon": "trad"},
+    {"titel": "Tillstånd för farligt avfall", "text": "Tillstånd från Länsstyrelsen Värmland att transportera PFAS-skum och pulverrester.", "ikon": "lov"},
+    {"titel": "Utbildare i brandskydd", "text": "Instruktörer med utbildning från Brandskyddsföreningen i grundläggande brandskydd.", "ikon": "skola"}
+  ],
+  "kunder": ["Brf Herrhagsbacken", "Gruvöns Massalager", "Arvika Bilcenter", "Hammarö Gruppbostäder", "Kils Kyrkliga Samfällighet", "Värmlands Skolfastigheter", "Klarälvens Kanotcenter", "Forshaga Snickeri"],
+  "prislista": [["Årlig kontroll, per släckare", "125 kr"], ["Omladdning till fluorfritt skum, 6 liter", "690 kr"], ["Renoverad pulversläckare 6 kg", "fr. 590 kr"], ["Ny pulversläckare 6 kg", "fr. 1 190 kr"], ["Destruktion av PFAS-skum, per liter", "38 kr"], ["Brandfilt i ull", "495 kr"], ["Släckövning med digital eld, grupp upp till 15", "6 900 kr"]],
+  "nyheter": [
+    ["2026-09-08", "EU skärper kraven på PFAS i släckmedel", "Så påverkas skumsläckare i skolor, kontor och föreningar.", "brand"],
+    ["2026-06-02", "Solceller på verkstadstaket", "Nu laddas servicebilarna med el från vårt eget tak.", "solel"],
+    ["2026-01-19", "Miljöredovisningen för 2025", "4 300 renoverade släckare och 1 900 liter PFAS-skum ur omlopp.", "brand"]
+  ],
+  "kontakt": {"adress": "Gjuterivägen 6", "postnr": "652 21", "ort": "Karlstad", "telefon": "070-174 06 63", "epost": "hej@alvbrand.se", "orgnr": ""},
+  "oppettider": "Verkstaden mån–fre 7–16, torsdagar till 18",
+  "omrade": "Hela Värmland – Karlstad, Hammarö, Kil, Arvika, Grums och Kristinehamn",
+  "fot_cta": "Har ni skumsläckare äldre än 2020? Låt oss kontrollera dem.",
+  "bild": {"panel": "el", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Senast från verkstaden",
+    "proj_rubrik": "Uppdrag med mindre avfall",
+    "process_rubrik": "Från inventering till fast rutt",
+    "hb_etikett": "Miljö",
+    "omdomen_rubrik": "Varför kunderna valde oss",
+    "faq_rubrik": "Om PFAS, återbruk och service",
+    "boka_rubrik": "Boka en miljögenomgång",
+    "logos_rubrik": "Kunder som har bytt",
+    "certifikat_rubrik": "Certifierade för säkerhet och miljö",
+    "bolag_rubrik": "Verkstad, bilar och utbildning",
+    "ny_rubrik": "Nytt om miljö och brandskydd"
+  }
+}

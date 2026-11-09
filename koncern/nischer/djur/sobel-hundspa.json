@@ -1,0 +1,155 @@
+{
+  "profil": "djur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Sobel Hundspa AB",
+  "kortnamn": "Sobel",
+  "slug": "sobel-hundspa",
+  "typ": "Hundspa och salong på Östermalm",
+  "tagline": "Hundspa sedan 2011",
+  "slogan": "En lugn eftermiddag på Grevgatan för hunden – och en espresso för dig medan du väntar.",
+  "hero_rubrik": "Pälsvård på hotellnivå, en hund i taget",
+  "hero_text": "Ozonbad, handfön och klippning i ett privat rum utan burar. Varje hund har salongen för sig själv under hela besöket.",
+  "intro_rubrik": "Femton år på samma adress",
+  "om": [
+    "Sobel öppnade 2011 i en före detta hattateljé på Grevgatan. Grundaren Cecilia Wrede hade då arbetat sju år som frisör på utställningar i Europa och ville bygga en salong där hunden aldrig behöver vänta i bur.",
+    "Vi tar emot högst sex hundar per dag och bokar dem med minst en halvtimmes glapp. Salongen har två behandlingsrum, ett badrum med ozonkar och ett väntrum med fönster mot gården, där ägare kan sitta kvar eller hämta efter avisering via sms."
+  ],
+  "vagval_rubrik": "Välj ritualen för din hund",
+  "tjanster": [
+    {"titel": "Ozonbad & handfön", "ikon": "vatten", "href": "verksamhet.html", "text": "Mikrobubblor löser smuts i underullen utan att du behöver starka schampon."},
+    {"titel": "Helklippning med sax", "ikon": "sax", "href": "verksamhet.html", "text": "Klippning helt med sax för ett mjukare, mer naturligt fall i pälsen."},
+    {"titel": "Tass- och nosbalsam", "ikon": "tass", "href": "verksamhet.html", "text": "Sheabaserat balsam för spruckna trampdynor efter vinterns saltade trottoarer."},
+    {"titel": "Tandborstning", "ikon": "stjarna", "href": "verksamhet.html", "text": "Enzymtandkräm och mjuk borste – ett tillval på tio minuter."},
+    {"titel": "Hämtning med bil", "ikon": "bil", "href": "verksamhet.html", "text": "Vi hämtar och lämnar inom Östermalm, Vasastan och Lidingö."},
+    {"titel": "Valpens första spa", "ikon": "hjarta", "href": "verksamhet.html", "text": "Fyrtio minuter med bad, fön och massor av beröm för valpar 12–20 veckor."},
+    {"titel": "Prislista", "ikon": "dokument", "href": "priser.html", "text": "Tre spaprogram och priser per ras."},
+    {"titel": "Boka rum", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Sex rum per dag, bokas via telefon eller formulär."}
+  ],
+  "affarsomraden": [
+    {"titel": "Ozonspa", "text": "Badkaret fylls med ozonberikat vatten som löser fett och smuts i underullen. Vi följer upp med kallpressad kokosolja i pälsen och fönar för hand.", "text2": "Passar särskilt hundar med känslig hud eller klåda efter vinterhalvåret.", "tagg": "hund"},
+    {"titel": "Saxklippning", "text": "Vi klipper helst med sax hela vägen, även på kroppen. Det tar längre tid än maskin men ger en päls som rör sig naturligt.", "text2": "Pudlar, bichon frisé och shih tzu är vanligast i stolen.", "tagg": "trimning"},
+    {"titel": "Valpspa", "text": "Valpens första besök är kort och helt utan klippning. Vi badar, fönar på låg värme och låter valpen bekanta sig med ljuden.", "text2": "Tre valpbesök till fast pris före första riktiga klippningen.", "tagg": "valp"},
+    {"titel": "Seniorbehandling", "text": "Äldre hundar får ligga ned på ett uppvärmt bord med memoryskum. Vi delar upp behandlingen och tar paus när hunden behöver.", "text2": "Ingen extra kostnad för pauser – vi bokar längre tid från start.", "tagg": "hund"}
+  ],
+  "bolag": [
+    {"namn": "Cecilia Wrede", "segment": "Grundare och hundfrisör", "rubrik": "Saxen är hennes verktyg", "text": "Cecilia har klippt på utställningar i Paris, Bryssel och Crufts. Hon tar hand om alla saxklippningar och utbildar personalen.", "tagg": "trimning"},
+    {"namn": "Johan Lindqvist", "segment": "Hundfrisör och spaansvarig", "rubrik": "Badet är hans rum", "text": "Johan sköter ozonbadet, fönen och pälsinpackningarna. Han har gesällbrev i hundtrimning sedan 2018.", "tagg": "hund"},
+    {"namn": "Amira Haddad", "segment": "Reception och hämtning", "rubrik": "Hon kör hundarna hem", "text": "Amira bokar, svarar i telefon och kör vår elbil med hämtningar i innerstan varje förmiddag.", "tagg": "valp"}
+  ],
+  "berattelser": [
+    {"rubrik": "Bernie fick rummet för sig själv", "text": "En berner sennen på 58 kilo, två timmars ozonbad och fön – och en tupplur på golvvärmen efteråt.", "tagg": "hund"},
+    {"rubrik": "Ny saxlinje från Japan", "text": "Vi har bytt till handsmidda saxar i koboltstål, slipade hos en saxslipare på Södermalm varannan månad.", "tagg": "trimning"},
+    {"rubrik": "Valpdagar i december", "text": "Varje torsdag i december är förmiddagen vikt åt valpspa – fyra valpar, ingen stress.", "tagg": "valp"}
+  ],
+  "nyckeltal": [
+    {"varde": "6", "enhet": "hundar", "etikett": "Max per dag"},
+    {"varde": "2011", "enhet": "", "etikett": "Öppnade på Grevgatan"},
+    {"varde": "0", "enhet": "burar", "etikett": "I hela salongen"},
+    {"varde": "38", "enhet": "°C", "etikett": "Badvattnets temperatur"}
+  ],
+  "projekt": [
+    {"namn": "Bernie", "ort": "Berner sennen", "typ": "Ozonspa och fön", "ar": "2026", "text": "Två kilo löst underull borta, och en päls som glänste igen efter fällningen.", "tagg": "hund", "status": "Stamkund"},
+    {"namn": "Coco", "ort": "Toypudel", "typ": "Saxklippning", "ar": "2026", "text": "Från tovig vinterpäls till rundat huvud och kort kropp – helt med sax.", "tagg": "trimning"},
+    {"namn": "Sixten", "ort": "Shih tzu", "typ": "Helklippning", "ar": "2025", "text": "Kortklippt teddymodell som håller i åtta veckor mellan besöken.", "tagg": "trimning", "status": "Stamkund"},
+    {"namn": "Lady", "ort": "Cavalier king charles", "typ": "Bad och öronvård", "ar": "2025", "text": "Utredda öronfransar och tassar som klippts fria från tovor.", "tagg": "hund"},
+    {"namn": "Olle", "ort": "Bichon frisé", "typ": "Valpspa", "ar": "2026", "text": "Tredje valpbesöket – första gången han somnade under fönen.", "tagg": "valp"},
+    {"namn": "Greta", "ort": "Golden retriever", "typ": "Seniorbehandling", "ar": "2025", "text": "Fjorton år gammal, behandlad liggande i tre pass med vila emellan.", "tagg": "hund"}
+  ],
+  "process": [
+    {"titel": "Konsultation", "text": "Vid första besöket känner vi igenom pälsen och huden och frågar om allergier och tidigare erfarenheter.", "tagg": "hund"},
+    {"titel": "Ozonbad", "text": "Hunden badas i 38-gradigt vatten och får en pälsinpackning som verkar i tio minuter.", "tagg": "hund"},
+    {"titel": "Fön och sax", "text": "Vi fönar med handfön i stället för torkskåp och klipper i ett eget rum.", "tagg": "trimning"},
+    {"titel": "Hämtning", "text": "Du får ett sms tjugo minuter innan hunden är klar, med en bild från rummet.", "tagg": "valp"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Inga burar, inga torkskåp, ingen brådska",
+    "text": "Torkskåp och burar stressar många hundar, så vi har inga. Alla schampon är parfymfria och tillverkade i Sverige, och vi tvättar handdukar i 60 grader utan sköljmedel.",
+    "mal": [["6", "hundar per dag som mest"], ["30 min", "glapp mellan varje bokning"], ["100 %", "parfymfria produkter"]]
+  },
+  "karriar": {"rubrik": "Första besöket är en provsittning", "text": "Nya kunder bokar en kortare tid där hunden får hälsa på i salongen, sitta på bordet och höra fönen. Kostar 350 kronor och dras av vid första behandlingen.", "jobb": []},
+  "kultur": "Vi skickar aldrig hem en hund med tovor kvar utan att först ringa och fråga om du vill att vi rakar.",
+  "citat": {"text": "Jag har sett för många hundar vänta i bur i tre timmar på stora salonger. Här ska ingen hund vänta på sin tur – den är vår tur.", "namn": "Cecilia Wrede", "roll": "Grundare", "tagg": "trimning"},
+  "omdomen": [
+    {"text": "Vår pudel brukade skaka i bilen på väg till frisören. Nu drar hon i kopplet uppför trappan på Grevgatan.", "namn": "Louise B.", "ort": "Östermalm"},
+    {"text": "Amira hämtade Bernie på morgonen och lämnade honom ren och trött vid fyra. Jag behövde inte ens gå från jobbet.", "namn": "Henrik S.", "ort": "Lidingö"},
+    {"text": "Greta är fjorton och har ont i höfterna. De lät henne ligga ned hela tiden och tog tre pauser.", "namn": "Margareta N.", "ort": "Vasastan"}
+  ],
+  "faq": [
+    ["Varför tar ni bara sex hundar per dag?", "För att varje hund ska ha ett eget rum och aldrig behöva vänta. Det ger lugnare hundar och jämnare resultat."],
+    ["Vad är ett ozonbad?", "Ozon tillsätts i badvattnet som mikrobubblor. Det löser smuts och fett i underullen och är skonsamt mot känslig hud."],
+    ["Kan jag sitta kvar under behandlingen?", "Ja, i väntrummet med kaffe. Många hundar blir dock lugnare om ägaren går en promenad."],
+    ["Hur fungerar hämtningen?", "Vi hämtar mellan 8 och 10 och lämnar mellan 15 och 17 inom Östermalm, Vasastan och Lidingö. Det kostar 395 kronor tur och retur."],
+    ["Vad händer om pälsen är tovig?", "Vi ringer innan vi rakar. Utredning av tovor kostar 200 kronor per påbörjad kvart."],
+    ["Hur avbokar jag?", "Avboka senast 48 timmar innan. Senare avbokning debiteras med halva priset."],
+    ["Tar ni emot katter?", "Nej, vi är en ren hundsalong. Vi tipsar gärna om en kattfrisör i närheten."]
+  ],
+  "priser": [
+    {"namn": "Spa", "pris": "fr. 895 kr", "enhet": "ozonbad och handfön", "text": "För hundar som behöver ren päls men ingen klippning.", "punkter": ["Ozonbad i 38 grader", "Pälsinpackning med kokosolja", "Handfön och utborstning", "Klotrimning och öronrengöring"]},
+    {"namn": "Spa med sax", "pris": "fr. 1 495 kr", "enhet": "bad, fön och klippning", "text": "Hela ritualen med klippning helt med sax.", "punkter": ["Allt i Spa", "Helklippning med sax", "Tassbalsam och nosbalsam", "Bild och sms vid hämtning"], "utvald": true},
+    {"namn": "Grand", "pris": "fr. 2 195 kr", "enhet": "spa, sax och hämtning", "text": "Vi hämtar, behandlar och lämnar hunden hemma.", "punkter": ["Allt i Spa med sax", "Hämtning och lämning med elbil", "Tandborstning med enzymtandkräm", "Förtur till lördagstider"]}
+  ],
+  "prislista": [
+    [
+      "Toypudel, chihuahua, yorkshireterrier",
+      "fr. 1 195 kr"
+    ],
+    [
+      "Bichon frisé, shih tzu, maltese",
+      "fr. 1 395 kr"
+    ],
+    [
+      "Cavalier, cocker spaniel",
+      "fr. 1 595 kr"
+    ],
+    [
+      "Mellanpudel, lagotto",
+      "fr. 1 895 kr"
+    ],
+    [
+      "Golden retriever, berner sennen",
+      "fr. 1 995 kr"
+    ],
+    [
+      "Storpudel, briard",
+      "fr. 2 495 kr"
+    ],
+    [
+      "Tandborstning",
+      "195 kr"
+    ],
+    [
+      "Hämtning tur och retur",
+      "395 kr"
+    ],
+    [
+      "Utredning av tovor, per kvart",
+      "200 kr"
+    ]
+  ],
+  "galleri_taggar": ["hund", "trimning", "valp"],
+  "nyheter": [
+    ["2026-10-21", "Vinterns saltskador på tassarna", "Så skyddar du trampdynorna när kommunen börjar salta Strandvägen.", "hund"],
+    ["2026-08-30", "Därför använder vi inte torkskåp", "Varmluft i ett stängt skåp kan ge överhettning på kortnosiga raser.", "trimning"],
+    ["2026-04-12", "Valpens första år i pälsen", "När valppälsen släpper och varför de första tre besöken bör vara korta.", "valp"]
+  ],
+  "kontakt": {"adress": "Grevgatan 34", "postnr": "114 53", "ort": "Stockholm", "telefon": "070-174 06 41", "epost": "salong@sobelhundspa.se", "orgnr": ""},
+  "oppettider": "Tis–lör 9–17, endast bokade besök",
+  "omrade": "Östermalm, Vasastan, Gärdet och Lidingö",
+  "fot_cta": "Sex rum per dag. Boka ditt i god tid före jul.",
+  "text": {
+    "ber_rubrik": "Senaste gästerna i spat",
+    "proj_rubrik": "Före och efter ritualen",
+    "process_rubrik": "Ett eftermiddagsbesök på Grevgatan",
+    "hb_etikett": "Lugn i salongen",
+    "omdomen_rubrik": "Ord från Östermalms hundägare",
+    "faq_rubrik": "Bra att veta före besöket",
+    "priser_rubrik": "Tre spaprogram",
+    "galleri_rubrik": "Ur salongens fotoalbum",
+    "boka_rubrik": "Reservera ett rum",
+    "boka_text": "Skriv hundens namn, ras och ungefärliga vikt så återkommer vi med lediga rum inom ett dygn.",
+    "ny_rubrik": "Från spabordet",
+    "panel_etikett": "Provsittning",
+    "priser_not": "Priserna avser välvårdad päls. Hundar över 45 kilo bokas på förmiddagen.",
+    "sida_bolag_ingress": "Vi är {n} personer som delar på sex bokningar om dagen."
+  }
+}

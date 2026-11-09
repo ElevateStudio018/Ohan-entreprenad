@@ -954,3 +954,96 @@ body.har-hero[data-header="transparent"] .hero-split .split-text { padding-top: 
 .demo-rad a { color: #fff; }
 /* Split-hero har fast header ovanför – fyll resten av skärmen */
 @media (min-width: 960px) { body[data-hero="split"] .hero-split { min-height: calc(var(--hero-h) - var(--head-h)); } body[data-hero="split"] .hero-split .split-text { padding-top: 72px; } }
+
+/* =====================================================================================================================
+   Version 6: block för små företag och nischer (priser, omdömen, frågor, galleri, bokning, certifikat, kunder)
+   ===================================================================================================================== */
+.topprad span.t-dold { opacity: .7; }
+/* Priser */
+.priser { display: grid; gap: 20px; }
+@media (min-width: 760px) { .priser.n2 { grid-template-columns: repeat(2, minmax(0, 1fr)); } .priser.n3, .priser.n4 { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 1100px) { .priser.n3 { grid-template-columns: repeat(3, minmax(0, 1fr)); } .priser.n4 { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+.pris-kort { position: relative; display: flex; flex-direction: column; gap: 14px; padding: clamp(24px, 2.4vw, 36px); background: var(--c-bg); border: 1px solid var(--c-line); border-radius: var(--r-card); color: var(--c-ink); }
+.pa-ton .pris-kort, .pa-yta .pris-kort { border-color: transparent; }
+.pris-kort.utvald { background: var(--c-dark); color: var(--c-dark-ink); border-color: var(--c-dark); }
+.pris-kort.utvald h3 { color: inherit; }
+.pris-utvald { position: absolute; top: 18px; right: 18px; padding: 5px 12px; border-radius: 999px; background: var(--c-a); color: var(--c-a-ink); font-size: 12px; font-weight: 600; }
+.pris-kort h3 { font: var(--w-r) clamp(20px, 1.7vw, 24px)/1.2 var(--font-r); padding-right: 96px; color: var(--c-rubrik); }
+.pris-text { opacity: .8; font-size: 15.5px; }
+.pris-belopp { display: flex; align-items: baseline; flex-wrap: wrap; gap: 6px 10px; padding-block: 12px; border-block: 1px solid currentColor; border-color: color-mix(in srgb, currentColor 18%, transparent); }
+.pris-belopp b { font: var(--w-siffra) clamp(30px, 2.8vw, 40px)/1 var(--font-r); letter-spacing: var(--tr-r); }
+.pris-belopp span { font-size: 14px; opacity: .75; }
+.pris-punkter { display: grid; gap: 8px; flex: 1; font-size: 15px; }
+.pris-punkter li { padding-left: 24px; position: relative; }
+.pris-punkter li::before { content: ""; position: absolute; left: 2px; top: .45em; width: 11px; height: 6px; border-left: 2px solid var(--c-a); border-bottom: 2px solid var(--c-a); transform: rotate(-45deg); }
+.pris-kort .knapp { align-self: flex-start; margin-top: 6px; }
+.pris-kort.utvald .knapp-primar { background: var(--c-a); border-color: var(--c-a); color: var(--c-a-ink); }
+.pris-not { margin-top: 22px; font-size: 14px; }
+.prislista-ram { margin-top: clamp(32px, 4vw, 56px); }
+.prislista-ram h3 { font: var(--w-r) 22px/1.2 var(--font-r); margin-bottom: 14px; }
+.prislista { width: 100%; border-collapse: collapse; }
+.prislista th, .prislista td { padding: 14px 0; border-bottom: 1px solid var(--c-line); text-align: left; font-weight: 400; }
+.prislista td { text-align: right; white-space: nowrap; font-weight: 600; padding-left: 16px; }
+/* Omdömen */
+.omdomen { display: grid; gap: 20px; }
+@media (min-width: 900px) { .omdomen { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.omdomen li { display: flex; flex-direction: column; gap: 16px; padding: clamp(24px, 2.4vw, 34px); background: var(--c-yta); border-radius: var(--r-card); }
+.pa-ton .omdomen li, .pa-yta .omdomen li { background: var(--c-bg); }
+.pa-mork .omdomen li, .pa-farg .omdomen li { background: rgba(255,255,255,.08); }
+.omdomen blockquote p { font: 400 clamp(17px, 1.3vw, 19px)/1.55 var(--font-t); }
+.omdomen li > span { margin-top: auto; font-size: 14.5px; opacity: .8; }
+.stjarnor { display: flex; gap: 3px; color: var(--c-a); }
+.stjarnor .stj { width: 18px; height: 18px; fill: currentColor; stroke: currentColor; }
+.om-stor { display: grid; gap: 32px; }
+@media (min-width: 960px) { .om-stor { grid-template-columns: 1fr 1.6fr; gap: 24px 72px; } .om-stor .om-ovr { grid-column: 2; } }
+.om-forsta blockquote p { font: var(--w-r) clamp(24px, 2.4vw, 36px)/1.3 var(--font-r); letter-spacing: var(--tr-r); color: var(--c-rubrik); }
+.pa-mork .om-forsta blockquote p, .pa-farg .om-forsta blockquote p { color: inherit; }
+.om-forsta figcaption { margin-top: 18px; display: flex; gap: 10px; font-size: 15px; }
+.om-forsta figcaption span { opacity: .7; }
+.om-ovr { display: grid; gap: 18px; border-top: 1px solid var(--c-line); padding-top: 22px; }
+@media (min-width: 700px) { .om-ovr { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.om-ovr p { font-size: 16px; line-height: 1.55; }
+.om-ovr span { display: block; margin-top: 10px; font-size: 14px; opacity: .75; }
+/* Frågor och svar */
+.faq-grid { display: grid; gap: 32px; }
+@media (min-width: 960px) { .faq-grid { grid-template-columns: 1fr 1.5fr; gap: 72px; align-items: start; } }
+.vv-expertis.faq summary { grid-template-columns: 1fr 28px; }
+.vv-expertis.faq .t { font-size: clamp(17px, 1.4vw, 21px); }
+.vv-expertis.faq .ex-text { padding-left: 0; }
+/* Galleri */
+.galleri { display: grid; gap: 10px; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-auto-rows: clamp(140px, 22vw, 300px); }
+.galleri li { overflow: hidden; border-radius: var(--r-img); }
+.galleri img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s; }
+.galleri li:hover img { transform: scale(1.04); }
+.galleri .g0 { grid-row: span 2; }
+.galleri .g6 { grid-column: span 2; }
+@media (min-width: 900px) { .galleri { grid-template-columns: repeat(4, minmax(0, 1fr)); } .galleri .g0 { grid-column: span 2; } .galleri .g3 { grid-row: span 2; } .galleri .g6 { grid-column: span 1; } }
+.figtext-rad { margin-top: 10px; font-size: 12px; text-align: right; }
+/* Bokning */
+.boka { display: grid; gap: 36px; }
+@media (min-width: 960px) { .boka { grid-template-columns: 1fr 1.2fr; gap: 72px; align-items: start; } }
+.boka-info { display: grid; gap: 18px; margin-top: 28px; }
+.boka-info dt { font-size: 12.5px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--c-etikett); margin-bottom: 4px; }
+.pa-mork .boka-info dt, .pa-farg .boka-info dt { color: inherit; opacity: .75; }
+.boka-info dd { font-size: 19px; }
+.boka-info a { text-decoration: none; }
+.boka-form { display: grid; gap: 16px; padding: clamp(22px, 2.6vw, 40px); background: var(--c-bg); color: var(--c-ink); border-radius: var(--r-card); }
+@media (min-width: 640px) { .boka-form { grid-template-columns: repeat(2, minmax(0, 1fr)); } .boka-form .hel, .boka-form button, .boka-form .boka-tack { grid-column: 1 / -1; } }
+.boka-form label { display: grid; gap: 6px; font-size: 14px; font-weight: 600; }
+.boka-form input, .boka-form textarea { width: 100%; font: inherit; font-weight: 400; font-size: 16px; padding: 13px 14px; border: 1px solid var(--c-line); border-radius: min(var(--r-card), 8px); background: var(--c-yta); color: inherit; }
+.boka-form input:focus, .boka-form textarea:focus { outline: 2px solid var(--c-p); outline-offset: 1px; }
+.boka-form button { justify-self: start; }
+.boka-tack { font-size: 15px; color: var(--c-p-text); }
+/* Certifikat */
+.certifikat { display: grid; gap: 1px; background: var(--c-line); border: 1px solid var(--c-line); grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (min-width: 900px) { .certifikat.n4, .certifikat.n5 { grid-template-columns: repeat(4, minmax(0, 1fr)); } .certifikat.n3, .certifikat.n6 { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+.certifikat li { display: flex; flex-direction: column; gap: 8px; padding: clamp(18px, 2vw, 28px); background: var(--c-bg); }
+.certifikat svg { width: 30px; height: 30px; color: var(--c-p-text); margin-bottom: 6px; }
+.certifikat b { font: var(--w-r) 18px/1.25 var(--font-r); color: var(--c-rubrik); }
+.certifikat span { font-size: 14.5px; color: var(--c-mut); }
+/* Uppdragsgivare (ordbilder) */
+.logos { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px 40px; }
+.logos li span { font: 800 clamp(16px, 1.5vw, 21px)/1 var(--font-logo); letter-spacing: .06em; text-transform: uppercase; opacity: .55; }
+/* v6: fyra bolag i cirkelvarianten på en rad, kontorsrutnät efter antal */
+@media (min-width: 1100px) { .bo-rund:has(> li:nth-child(4):last-child) { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+@media (min-width: 1100px) { .kontor.n6, .kontor.n9 { grid-template-columns: repeat(3, minmax(0, 1fr)); } .kontor.n7, .kontor.n8 { grid-template-columns: repeat(4, minmax(0, 1fr)); } .kontor.n3 { grid-template-columns: repeat(3, minmax(0, 1fr)); } }

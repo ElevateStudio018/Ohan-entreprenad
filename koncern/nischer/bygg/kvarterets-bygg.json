@@ -1,0 +1,131 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kvarterets Bygg i Malmö AB",
+  "kortnamn": "Kvarterets",
+  "slug": "kvarterets-bygg",
+  "typ": "Totalentreprenör för brf i Malmö och Lund",
+  "tagline": "Bara bostadsrättsföreningar",
+  "slogan": "Vi bygger om hus där människor bor kvar – stambyten, fasader, balkonger och vindar åt bostadsrättsföreningar i Skåne.",
+  "hero_rubrik": "Nytt badrum på 18 arbetsdagar. Du bor kvar.",
+  "hero_text": "Totalentreprenör för bostadsrättsföreningar: stambyte, fasad, balkong och takpåbyggnad – med egen boendesamordnare i varje trapphus.",
+  "intro_rubrik": "Över 4 000 lägenheter ombyggda med folk hemma",
+  "om": [
+    "Kvarterets startades 2004 av Samir Haddad och Jenny Lindqvist, en rörläggare och en projektledare som ville göra stambyten utan att föreningarna skulle behöva välja mellan pris och lugn. I dag är vi 135 anställda och har byggt om drygt 4 000 lägenheter i Malmö, Lund och Helsingborg.",
+    "Vi arbetar enbart åt bostadsrättsföreningar. Det betyder att vi vet hur en extrastämma går till, hur man skriver ett bra informationsbrev och vad som händer när en medlem inte släpper in hantverkarna."
+  ],
+  "vagval_rubrik": "Vad står på föreningens underhållsplan?",
+  "tjanster": [
+    {"titel": "Stambyte", "ikon": "ror", "href": "verksamhet.html", "text": "Nya stammar, badrum och el – 18 arbetsdagar per lägenhet."},
+    {"titel": "Relining eller byte?", "ikon": "sok", "href": "verksamhet.html", "text": "Filmning och oberoende bedömning innan föreningen bestämmer."},
+    {"titel": "Fasadrenovering", "ikon": "hus", "href": "verksamhet.html", "text": "Tegel, puts och tilläggsisolering på hus från 1890 till 1970."},
+    {"titel": "Balkonger", "ikon": "kran", "href": "verksamhet.html", "text": "Nya, större eller inglasade balkonger – med bygglov."},
+    {"titel": "Takpåbyggnad", "ikon": "upp", "href": "verksamhet.html", "text": "Nya lägenheter på taket som finansierar föreningens renovering."},
+    {"titel": "Boendesamordning", "ikon": "folk", "href": "verksamhet.html", "text": "En person som svarar på medlemmarnas frågor varje dag."},
+    {"titel": "Garanti & service", "ikon": "skold", "href": "verksamhet.html", "text": "Felanmälan och garantibesiktningar i fem år efter projektet."},
+    {"titel": "Boka styrelsemöte", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi kommer till er styrelse och går igenom underhållsplanen."}
+  ],
+  "affarsomraden": [
+    {"titel": "Stambyte och badrum", "text": "Vi byter avlopp, vatten och el och bygger nya badrum i en lägenhet åt gången. Varje trapphus får ett provbadrum som medlemmarna kan besöka innan de väljer kakel.", "text2": "Under bygget har lägenheten en tillfällig dusch och toalett i trapphuset eller i en evakueringslägenhet.", "tagg": "interior"},
+    {"titel": "Fasad och balkong", "text": "Tegelfasader omfogas, puts lagas och balkonger byggs om eller ersätts med större. Vi tar fram bygglovshandlingar i samarbete med föreningens arkitekt.", "text2": "Ställningen står aldrig längre än nödvändigt – vi planerar sida för sida.", "tagg": "stad"},
+    {"titel": "Tak och vind", "text": "Takomläggning, vindsinredning och takpåbyggnad med nya lägenheter. Försäljningen av de nya bostäderna kan finansiera stora delar av föreningens renovering.", "text2": "Vi har byggt 61 nya vindslägenheter i Malmö sedan 2015.", "tagg": "bostad"},
+    {"titel": "Service efter projektet", "text": "När stämman har godkänt slutbesiktningen fortsätter vi att ta hand om huset. Medlemmarna anmäler fel direkt till oss i fem år.", "text2": "Ett- och tvåårsbesiktning ingår, liksom en genomgång med styrelsen inför garantitidens slut.", "tagg": "people"}
+  ],
+  "bolag": [
+    {"namn": "Stambyte & våtrum", "segment": "Rör, el och badrum", "rubrik": "Sju lag som gör ett badrum i veckan var", "text": "Rörläggare, elektriker, plattsättare och snickare i fasta lag. Samma lag följer ett trapphus från rivning till slutstädning.", "tagg": "interior"},
+    {"namn": "Fasad & balkong", "segment": "Klimatskal", "rubrik": "Murare, putsare och plåtslagare", "text": "Avdelningen ansvarar för fasader, balkonger och fönsterbyten, med egen ställningsmontör och kranbil.", "tagg": "stad"},
+    {"namn": "Tak & vind", "segment": "Nya bostäder på taket", "rubrik": "Varje vind är en möjlighet", "text": "Projekterar och bygger takpåbyggnader och vindslägenheter, från förstudie och bygglov till försäljning tillsammans med föreningen.", "tagg": "bostad"},
+    {"namn": "Kvarterets Service", "segment": "Garanti och felanmälan", "rubrik": "Fem år med samma telefonnummer", "text": "Sex servicetekniker tar hand om felanmälningar, garantiärenden och mindre åtgärder i de föreningar vi har byggt om.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Brf Pilträdet: sista badrummet klart", "text": "96 lägenheter på Möllevången har fått nya stammar och badrum på 14 månader.", "tagg": "interior"},
+    {"rubrik": "Sex nya vindslägenheter i Limhamn", "text": "Brf Sommarvinden har sålt alla sex lägenheterna på taket – och finansierat hela fasadrenoveringen.", "tagg": "bostad"},
+    {"rubrik": "Ställningen ned på Fridhemsvägen", "text": "Tegelfasaden från 1912 är omfogad med kalkbruk och alla 140 fönster är renoverade.", "tagg": "stad"}
+  ],
+  "nyckeltal": [
+    {"varde": "4 100", "enhet": "lgh", "etikett": "Ombyggda sedan 2004"},
+    {"varde": "18", "enhet": "dagar", "etikett": "Arbetsdagar per badrum"},
+    {"varde": "135", "enhet": "", "etikett": "Anställda i Malmö och Lund"},
+    {"varde": "5", "enhet": "år", "etikett": "Garanti med egen service"}
+  ],
+  "projekt": [
+    {"namn": "Brf Pilträdet", "ort": "Möllevången, Malmö", "typ": "Stambyte", "ar": "2026", "text": "96 lägenheter i tre hus från 1938 med nya stammar, badrum och treaskåp.", "tagg": "interior", "status": "Färdigt"},
+    {"namn": "Brf Sommarvinden", "ort": "Limhamn", "typ": "Takpåbyggnad", "ar": "2026", "text": "Sex nya lägenheter på taket och renoverad putsfasad på hela huset.", "tagg": "bostad"},
+    {"namn": "Brf Fridhem 12", "ort": "Fridhem, Malmö", "typ": "Fasadrenovering", "ar": "2025", "text": "Omfogning med kalkbruk och renovering av 140 kopplade fönster.", "tagg": "stad"},
+    {"namn": "Brf Kronotorpet", "ort": "Lund", "typ": "Stambyte", "ar": "2025", "text": "72 lägenheter i ett 60-talshus, med relining av bottenplattan och nya stammar ovanför.", "tagg": "interior"},
+    {"namn": "Brf Strandvallen", "ort": "Ribersborg, Malmö", "typ": "Balkonger", "ar": "2024", "text": "88 nya balkonger i större format med inglasning mot Öresund.", "tagg": "bostad"},
+    {"namn": "Brf Möllebacken", "ort": "Helsingborg", "typ": "Stambyte", "ar": "2027", "text": "Projektering pågår för 54 lägenheter – byggstart i mars.", "tagg": "interior", "status": "Projektering"}
+  ],
+  "process": [
+    {"titel": "Förstudie med styrelsen", "text": "Vi filmar stammarna, inventerar huset och tar fram en kalkyl och tidplan som styrelsen kan ta till stämman.", "tagg": "kontor"},
+    {"titel": "Medlemsmöte och provbadrum", "text": "Vi presenterar projektet för medlemmarna och bygger ett provbadrum som alla kan besöka och välja tillval i.", "tagg": "people"},
+    {"titel": "Bygget, trapphus för trapphus", "text": "Varje lägenhet får ett datumschema i brevlådan fyra veckor innan. Boendesamordnaren finns på plats varje vardag.", "tagg": "interior"},
+    {"titel": "Slutbesiktning och garanti", "text": "En oberoende besiktningsman godkänner arbetet. Därefter tar Kvarterets Service över i fem år.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi mäter hur medlemmarna har det",
+    "text": "Efter varje trapphus skickar vi en enkät till de boende och redovisar svaren för styrelsen samma vecka. Rivningsmaterialet sorteras i nio fraktioner, och porslin och armaturer som går att använda igen lämnas till återbruk i Sege Park.",
+    "mal": [["8,9", "av 10 i snittbetyg från boende 2025"], ["92 %", "av rivningsmaterialet sorteras för återvinning"], ["24 h", "svarstid på medlemsfrågor under bygget"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg om hem – inte byggarbetsplatser",
+    "text": "Hos oss jobbar du i någons hall varje morgon. Det kräver noggrannhet och vanlig hyfs, och det ger ett yrke där du ser människors reaktion när badrummet är klart.",
+    "jobb": [["Rörläggare, stambyte", "Malmö"], ["Plattsättare", "Malmö"], ["Boendesamordnare", "Lund"], ["Projektledare, takpåbyggnad", "Malmö"]]
+  },
+  "kultur": "Alla nyanställda följer en boendesamordnare under en vecka innan de börjar i sitt lag.",
+  "citat": {"text": "Ett stambyte avgörs inte i schaktet utan i trapphuset. Om fru Persson på tredje våningen vet vad som händer i morgon har vi gjort halva jobbet.", "namn": "Jenny Lindqvist", "roll": "Medgrundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi fick ett schema med exakta datum fyra veckor innan, och badrummet var klart på dag sjutton. Hantverkarna tog av sig skorna varje morgon.", "namn": "Lena M.", "ort": "Brf Pilträdet, Malmö"},
+    {"text": "Takpåbyggnaden betalade fasaden. Utan Kvarterets förstudie hade styrelsen aldrig vågat föreslå det på stämman.", "namn": "Mattias O.", "ort": "Brf Sommarvinden, Limhamn"},
+    {"text": "Två år efter projektet ringer vi fortfarande samma servicenummer och någon kommer inom en vecka.", "namn": "Ingrid H.", "ort": "Brf Kronotorpet, Lund"}
+  ],
+  "faq": [
+    ["Vad kostar ett stambyte?", "För ett hus från 1930–1960 brukar totalkostnaden landa på 450 000–650 000 kronor per lägenhet inklusive badrum, el och projektering. Exakt kalkyl får ni efter förstudien."],
+    ["Måste vi flytta ut?", "Nej, de flesta bor kvar. Under arbetet finns tillfälliga duschar och toaletter i trapphuset eller i en evakueringslägenhet."],
+    ["Kan medlemmarna välja eget kakel?", "Ja. Standardutförandet ingår, och i provbadrummet finns tre kakelserier och tillval som medlemmarna betalar själva direkt till oss."],
+    ["Är relining ett alternativ?", "Ibland, särskilt för avlopp under bottenplattan. Vi filmar alltid stammarna först och redovisar ärligt när relining räcker."],
+    ["Vem sköter kontakten med medlemmarna?", "Vår boendesamordnare. Hon eller han finns i huset varje vardag, svarar på frågor inom ett dygn och delar ut veckobrev."],
+    ["Hur fungerar en takpåbyggnad ekonomiskt?", "Föreningen säljer byggrätten eller de färdiga lägenheterna. I flera av våra projekt har intäkten täckt 60–100 procent av fasad- eller stambytets kostnad."],
+    ["Vilket kontrakt använder ni?", "Totalentreprenad enligt ABT 06, med fast pris och vite om tidplanen inte hålls."]
+  ],
+  "certifikat": [
+    {"titel": "Säker Vatten", "text": "Auktoriserat företag – alla installationer görs enligt Säker Vatteninstallation.", "ikon": "vatten"},
+    {"titel": "Behörig Våtrum", "text": "Våra plattsättare har BKR-behörighet och varje badrum dokumenteras.", "ikon": "skold"},
+    {"titel": "BF9K", "text": "Kvalitets- och miljöledningssystem anpassat för byggföretag, certifierat av Kiwa.", "ikon": "dokument"},
+    {"titel": "ID06", "text": "Alla på plats bär ID06-kort och registreras i personalliggaren.", "ikon": "las"}
+  ],
+  "certifikat_rubrik": "Behöriga i varje badrum vi bygger",
+  "kunder": ["Brf Pilträdet", "Brf Sommarvinden", "Brf Fridhem 12", "Brf Kronotorpet", "Brf Strandvallen", "Brf Möllebacken", "Brf Slottsparken 4", "Brf Tornfalken"],
+  "kunder_rubrik": "Föreningar vi har byggt om",
+  "nyheter": [
+    ["2026-10-28", "96 badrum på 14 månader", "Brf Pilträdet på Möllevången är klar – med 8,7 i betyg från de boende.", "interior"],
+    ["2026-09-09", "Vindslägenheterna i Limhamn sålda", "Försäljningen täckte hela fasadrenoveringen för Brf Sommarvinden.", "bostad"],
+    ["2026-05-20", "Så förbereder styrelsen ett stambyte", "Fem beslut som bör vara fattade innan första medlemsmötet.", "people"],
+    ["2026-02-03", "Nytt kontor i Lund", "Vi har flyttat in på Byggmästaregatan för att vara närmare föreningarna i Lund.", "kontor"]
+  ],
+  "kontakt": {"adress": "Föreningsgatan 38", "postnr": "211 52", "ort": "Malmö", "telefon": "070-174 06 14", "epost": "styrelsen@kvarteretsbygg.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, felanmälan dygnet runt",
+  "omrade": "Malmö, Lund, Helsingborg och sydvästra Skåne",
+  "fot_cta": "Står stambytet på underhållsplanen? Vi kommer gärna till nästa styrelsemöte.",
+  "bild": {"panel": "people", "hb": "stad", "sida_faq": "bostad"},
+  "text": {
+    "topp_hem": "Kvarterets Bygg",
+    "hero_knapp": "Så går ett stambyte till",
+    "ber_rubrik": "I föreningarna just nu",
+    "proj_etikett": "Föreningar",
+    "proj_rubrik": "Hus vi har byggt om med folk hemma",
+    "proj_rubrik_lista": "Stambyten, fasader och takpåbyggnader",
+    "process_etikett": "För styrelsen",
+    "process_rubrik": "Från underhållsplan till garantibesiktning",
+    "hb_etikett": "De boende",
+    "hb_lank": "Så mäter vi nöjdheten",
+    "omdomen_etikett": "Medlemmarna",
+    "omdomen_rubrik": "Röster från trapphusen",
+    "faq_rubrik": "Styrelsens vanligaste frågor",
+    "boka_rubrik": "Bjud in oss till styrelsen",
+    "boka_text": "Berätta om föreningen och vad som står på underhållsplanen, så föreslår vi en tid för ett möte.",
+    "boka_falt": ["Namn och förening", "Telefon", "E-post", "Antal lägenheter och byggår"],
+    "ny_rubrik": "Nytt från Kvarterets",
+    "medarbetare": "Hantverkarna i trapphusen"
+  }
+}

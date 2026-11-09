@@ -1,0 +1,134 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Luftjouren Skåne AB",
+  "kortnamn": "Luftjouren",
+  "slug": "luftjouren",
+  "typ": "Ventilationsjour dygnet runt i Skåne",
+  "tagline": "Jour alla årets timmar",
+  "slogan": "När ett aggregat stannar i ett kök, ett labb eller en serverhall ringer man Luftjouren – dag som natt, julafton som midsommar.",
+  "hero_rubrik": "Fläkten stannade 02.14. Vi var där 03.05.",
+  "hero_text": "Sju jourbilar, ett reservdelslager med 600 motorer och fläkthjul, och tekniker på plats inom två timmar i Malmö, Lund och Helsingborg.",
+  "intro_rubrik": "När det inte kan vänta till måndag",
+  "om": [
+    "Nils Bengtsson var servicetekniker i femton år och irriterade sig på att kunderna fick vänta till nästa vardag när ett aggregat havererade en fredagskväll. 2009 köpte han en begagnad servicebil, skaffade en jourtelefon och startade Luftjouren i ett garage i Fosie.",
+    "I dag är vi 28 anställda i egna lokaler på Agnesfridsvägen. Hälften av uppdragen kommer utanför kontorstid – restaurangkök som inte kan laga mat, serverhallar som blir för varma och äldreboenden där luften står still. Resten av tiden gör vi förebyggande service så att det inte ska hända igen."
+  ],
+  "vagval_rubrik": "Vad har hänt?",
+  "tjanster": [
+    {"titel": "Akut jour 24/7", "ikon": "telefon", "href": "verksamhet.html", "text": "Ring jourtelefonen så svarar en tekniker, inte en växel."},
+    {"titel": "Haveri i storkök", "ikon": "eld", "href": "verksamhet.html", "text": "Köksfläktar och imkanaler – vi prioriterar restauranger mitt i serveringen."},
+    {"titel": "Serverhallar & labb", "ikon": "laddning", "href": "verksamhet.html", "text": "Kyla och ventilation där några graders skillnad kostar miljoner."},
+    {"titel": "Motorbyte på plats", "ikon": "kugge", "href": "verksamhet.html", "text": "600 motorer, fläkthjul och remmar i lager – oftast byter vi samma natt."},
+    {"titel": "Förebyggande service", "ikon": "kalender", "href": "verksamhet.html", "text": "Vibrationsmätning och lagerkontroll som hittar felet innan det händer."},
+    {"titel": "Jouravtal", "ikon": "dokument", "href": "verksamhet.html", "text": "Fast månadskostnad, garanterad inställelsetid och lägre timpris."},
+    {"titel": "Tillfällig ventilation", "ikon": "vind", "href": "verksamhet.html", "text": "Mobila fläktar och kylaggregat som hyrs ut medan vi reparerar."},
+    {"titel": "Ring jouren", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "070-174 06 44 – dygnet runt, alla dagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Akuta haverier", "text": "Jourtelefonen besvaras av den tekniker som har beredskap, och bilen är redan lastad. I Malmö, Lund och Helsingborg är vi på plats inom två timmar, i resten av Skåne inom tre.", "text2": "Förra året gjorde vi 2 340 jourutryckningar, varav 61 procent mellan klockan 17 och 07.", "tagg": "ventilation"},
+    {"titel": "Restaurang och storkök", "text": "När köksfläkten stannar måste köket stänga. Vi har reservmotorer till de vanligaste köksfläktarna i bilarna och prioriterar alltid kök under pågående servering.", "text2": "Vi rengör även imkanaler och fettfilter på avtal.", "tagg": "industri"},
+    {"titel": "Kritiska miljöer", "text": "Serverhallar, laboratorier och operationssalar har ingen marginal. Kunder med kritiska miljöer får en dedikerad tekniker som känner anläggningen.", "text2": "Inställelsetiden är garanterad till 60 minuter i Malmö och Lund.", "tagg": "el"},
+    {"titel": "Förebyggande service", "text": "Ungefär hälften av alla haverier vi rycker ut till hade gått att förutse. Med vibrationsmätning, termografering av motorer och regelbundet rembyte minskar vi akuta fel med i snitt 70 procent.", "text2": "Serviceavtalet ger också lägre jourtaxa om något ändå händer.", "tagg": "interior"}
+  ],
+  "bolag": [
+    {"namn": "Jourgruppen", "segment": "14 tekniker i rotation", "rubrik": "Alltid fyra i beredskap", "text": "Fyra tekniker har beredskap varje natt, fördelade på Malmö, Lund, Helsingborg och Kristianstad.", "tagg": "ventilation"},
+    {"namn": "Service", "segment": "9 tekniker", "rubrik": "Så att jouren inte behövs", "text": "Förebyggande service, vibrationsmätning och rembyte på avtal.", "tagg": "interior"},
+    {"namn": "Lager och logistik", "segment": "3 personer", "rubrik": "Rätt motor i rätt bil", "text": "Reservdelslager på 800 kvadratmeter som fyller på jourbilarna varje morgon.", "tagg": "industri"},
+    {"namn": "Kundtjänst", "segment": "2 personer", "rubrik": "Avtal och uppföljning", "text": "Jouravtal, rapporter efter varje utryckning och fakturor som går att förstå.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Julafton på Lilla Torg", "text": "Köksfläkten på en restaurang med 140 bokade gäster gick sönder 15.40. Ny motor satt 16.55.", "tagg": "industri"},
+    {"rubrik": "Ny bas i Kristianstad", "text": "Den sjunde jourbilen står nu i Kristianstad och halverar tiden till nordöstra Skåne.", "tagg": "ventilation"},
+    {"rubrik": "Värmeböljan i juli", "text": "112 utryckningar på en vecka – de flesta till serverrum och butiker med kyldiskar.", "tagg": "el"}
+  ],
+  "nyckeltal": [
+    {"varde": "2 340", "enhet": "", "etikett": "Jourutryckningar 2025"},
+    {"varde": "51", "enhet": "min", "etikett": "Snittid till plats i Malmö"},
+    {"varde": "600", "enhet": "", "etikett": "Motorer och fläkthjul i lager"},
+    {"varde": "24/7", "enhet": "", "etikett": "Alla årets 8 760 timmar"}
+  ],
+  "projekt": [
+    {"namn": "Restaurang vid Lilla Torg", "ort": "Malmö", "typ": "Juljour", "ar": "2025", "text": "Ny motor i köksfläkten på 75 minuter, en timme innan första sittningen.", "tagg": "industri"},
+    {"namn": "Serverhall i Hyllie", "ort": "Malmö", "typ": "Kritisk miljö", "ar": "2025", "text": "Havererat kylaggregat ersatt med mobil kyla inom 40 minuter, permanent lösning efter två dygn.", "tagg": "el"},
+    {"namn": "Äldreboendet Kastanjen", "ort": "Lund", "typ": "Nattutryckning", "ar": "2025", "text": "Remhaveri i tilluftsfläkten klockan 01.30 – åtgärdat innan morgonpasset.", "tagg": "interior"},
+    {"namn": "Labbhuset Brunnshög", "ort": "Lund", "typ": "Jouravtal", "ar": "2024", "text": "60 minuters garanterad inställelse och dedikerad tekniker för 34 dragskåp.", "tagg": "ventilation"},
+    {"namn": "Livsmedelsbutik Väla", "ort": "Helsingborg", "typ": "Förebyggande service", "ar": "2024", "text": "Vibrationsmätning hittade ett slitet lager i tid – haveriet hade stängt butiken en lördag.", "tagg": "industri"},
+    {"namn": "Hotell vid Stortorget", "ort": "Kristianstad", "typ": "Aggregathaveri", "ar": "2026", "text": "Fläkthjul bytt under natten med del från lagret i Malmö.", "tagg": "ventilation"}
+  ],
+  "process": [
+    {"titel": "Du ringer", "text": "Jourteknikern svarar direkt och ställer fem frågor för att veta vilka delar som behövs.", "tagg": "people"},
+    {"titel": "Vi kör", "text": "Bilen är lastad med motorer, remmar och fläkthjul. Du får ett sms med beräknad ankomsttid.", "tagg": "ventilation"},
+    {"titel": "Vi lagar", "text": "Åtta av tio fel åtgärdas vid första besöket. Annars ställer vi upp tillfällig ventilation.", "tagg": "industri"},
+    {"titel": "Rapport", "text": "Nästa morgon får du en rapport med orsak, åtgärd och förslag för att det inte ska hända igen.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje utryckning är ett misslyckande",
+    "text": "Det låter konstigt från ett jourföretag, men vi mäter oss på hur få utryckningar våra avtalskunder behöver. Ett aggregat som servas rätt håller längre, drar mindre el och slipper nattbesök.",
+    "mal": [["–70 %", "akuta fel hos kunder med serviceavtal"], ["8 av 10", "fel åtgärdade vid första besöket"], ["2 h", "max inställelsetid i storstäderna"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba när det verkligen behövs",
+    "text": "Jouren går i rotation – en vecka med beredskap var femte vecka, med jourersättning och ledig dag efter. Resten av tiden arbetar du med service på dagtid.",
+    "jobb": [["Servicetekniker med jour", "Malmö"], ["Servicetekniker med jour", "Helsingborg"], ["Lagerarbetare", "Malmö"]]
+  },
+  "kultur": "Efter en tuff natt bjuder vi på frukost på kontoret – och ingen förväntas vara där före tio.",
+  "citat": {"text": "Klockan tre på natten vill ingen prata med en växel. Därför svarar alltid den som ska åka.", "namn": "Nils Bengtsson", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Fläkten dog en timme innan julbordet. De var här på 35 minuter och vi missade inte en enda sittning.", "namn": "Ali K.", "ort": "Restaurang, Malmö"},
+    {"text": "Vi har jouravtal för serverhallen. Två gånger på tre år har de behövts, och båda gångerna var de på plats inom en timme.", "namn": "Camilla F.", "ort": "Malmö"},
+    {"text": "Rapporten dagen efter förklarade varför remmen gått av och vad vi skulle göra. Sedan dess har det inte hänt igen.", "namn": "Thomas E.", "ort": "Äldreboende, Lund"}
+  ],
+  "faq": [
+    ["Hur snabbt kommer ni?", "Inom två timmar i Malmö, Lund och Helsingborg och inom tre i resten av Skåne. Med jouravtal för kritiska miljöer garanterar vi 60 minuter."],
+    ["Vad kostar en jourutryckning?", "Utan avtal är framkörningen 2 900 kr och timpriset 1 450 kr på kvällar och nätter. Med jouravtal halveras framkörningen."],
+    ["Måste man ha avtal för att ringa?", "Nej, alla kan ringa. Men avtalskunder går före i kön om flera ringer samtidigt."],
+    ["Vilka märken kan ni?", "Vi servar alla vanliga aggregat och har reservdelar till de flesta tillverkare på den svenska marknaden i lager."],
+    ["Kan ni hjälpa till om ni inte kan laga direkt?", "Ja. Vi har mobila fläktar och kylaggregat som vi ställer upp tills reparationen är klar."],
+    ["Gör ni även service på dagtid?", "Ja, ungefär hälften av vårt arbete är förebyggande service. Det minskar behovet av jour."],
+    ["Får vi en rapport efter utryckningen?", "Alltid, senast klockan tio nästa vardag. Den beskriver orsaken, vad vi gjorde och vad vi rekommenderar."]
+  ],
+  "prislista": [["Framkörning jour, utan avtal", "2 900 kr"], ["Framkörning jour, med avtal", "1 450 kr"], ["Timpris vardag 07–17", "895 kr"], ["Timpris kväll och natt", "1 450 kr"], ["Timpris storhelg", "1 950 kr"], ["Mobil fläkt, per dygn", "650 kr"], ["Mobil kyla 10 kW, per dygn", "1 200 kr"], ["Jouravtal, kritisk miljö", "fr. 3 900 kr/mån"]],
+  "prislista_rubrik": "Jourtaxa 2026, exklusive moms",
+  "certifikat": [
+    {"titel": "F-gascertifikat", "text": "Alla jourtekniker är certifierade för arbete med köldmedier i kategori I.", "ikon": "laddning"},
+    {"titel": "Elbehörighet", "text": "Två auktoriserade elinstallatörer för motorer, frekvensomriktare och styr.", "ikon": "blixt"},
+    {"titel": "Heta arbeten", "text": "Certifikat från Brandskyddsföreningen för arbete i kök och på tak.", "ikon": "eld"},
+    {"titel": "ISO 9001", "text": "Certifierat ledningssystem med uppföljning av varje utryckning.", "ikon": "skold"}
+  ],
+  "kunder": ["Restauranggruppen Lilla Torg", "Hyllie Datacenter", "Äldreboendet Kastanjen", "Brunnshögs Labbfastigheter", "Livsboden Väla", "Hotell Stortorget Kristianstad", "Malmö Storkök AB"],
+  "nyheter": [
+    ["2026-10-01", "Sjunde jourbilen i Kristianstad", "Nordöstra Skåne får egen beredskap från november.", "ventilation"],
+    ["2026-07-24", "112 utryckningar på en vecka", "Värmeböljan satte rekord – så kan du förbereda serverrummet till nästa sommar.", "el"],
+    ["2026-03-11", "Utökat lager på Agnesfridsvägen", "Nu 600 motorer och fläkthjul, till 95 procent av aggregaten vi servar.", "industri"]
+  ],
+  "kontakt": {"adress": "Agnesfridsvägen 182", "postnr": "212 37", "ort": "Malmö", "telefon": "070-174 06 44", "epost": "jour@luftjouren.se", "orgnr": ""},
+  "oppettider": "Jour dygnet runt, kontor mån–fre 7–16",
+  "omrade": "Hela Skåne, med jourbilar i Malmö, Lund, Helsingborg och Kristianstad",
+  "fot_cta": "Har fläkten stannat? Ring nu – den som svarar är den som kommer.",
+  "bild": {"panel": "people", "hb": "el"},
+  "text": {
+    "kontakt_knapp": "Ring jouren",
+    "hero_knapp": "Så fungerar jouren",
+    "ber_etikett": "Från jourtelefonen",
+    "ber_rubrik": "Nätter vi minns",
+    "proj_rubrik": "Utryckningar och avtal",
+    "proj_rubrik_lista": "Ett urval av utryckningar",
+    "sida_projekt_titel": "Utryckningar",
+    "status_klart": "Åtgärdat",
+    "process_etikett": "Från samtal till rapport",
+    "process_rubrik": "Fyra steg, oftast samma natt",
+    "hb_etikett": "Förebyggande",
+    "omdomen_rubrik": "De ringde mitt i natten",
+    "faq_rubrik": "Bra att veta innan något händer",
+    "boka_rubrik": "Teckna jouravtal",
+    "boka_text": "Är det akut – ring 070-174 06 44. För avtal och service, fyll i formuläret så hör vi av oss nästa vardag.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Typ av verksamhet och aggregat"],
+    "logos_rubrik": "Har jouravtal hos oss",
+    "certifikat_rubrik": "Behöriga för det som går sönder",
+    "bolag_rubrik": "Fyra grupper, en jourtelefon",
+    "siffror_etikett": "Jouren i siffror",
+    "medarbetare": "Teknikerna"
+  }
+}

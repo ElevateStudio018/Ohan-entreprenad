@@ -1,0 +1,120 @@
+{
+  "profil": "nisch",
+  "nisch": "hiss",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Bergsten Hiss AB",
+  "kortnamn": "Bergsten Hiss",
+  "slug": "bergsten-hiss",
+  "typ": "Familjeägt hissföretag i Sundsvall",
+  "tagline": "Hissar sedan 1958",
+  "slogan": "Tredje generationen Bergsten servar, moderniserar och bygger hissar i stenstaden och resten av Mittsverige.",
+  "hero_rubrik": "Tre generationer i Sundsvalls hisschakt",
+  "hero_text": "Farfar Gunnar monterade sin första hiss på Storgatan 1958. I dag har vi 1 400 hissar under avtal mellan Härnösand och Östersund – och delar till de flesta.",
+  "intro_rubrik": "Sextioåtta år, samma efternamn på bilarna",
+  "om": [
+    "Gunnar Bergsten var montör hos en av de stora tillverkarna innan han startade eget i ett garage på Södermalm i Sundsvall 1958. Sonen Lars tog över 1987 och byggde upp moderniseringsavdelningen, och sedan 2019 är det Karin Bergsten som är vd.",
+    "Vi är 34 anställda, varav 21 tekniker i fält. Många av hissarna i stenstadens sekelskifteshus har vi skött i tre generationer, och i vårt lager på Bryggargatan finns reservdelar till fabrikat som tillverkarna slutade stödja på åttiotalet."
+  ],
+  "vagval_rubrik": "Vad gäller det för hiss?",
+  "tjanster": [
+    {"titel": "Serviceavtal", "ikon": "kugge", "href": "verksamhet.html", "text": "Förebyggande underhåll med fast tekniker som känner er hiss, oftast var sjätte vecka."},
+    {"titel": "Felanmälan dygnet runt", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Jouren går i skift med egen personal – ingen extern larmcentral däremellan."},
+    {"titel": "Inför besiktning", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi går igenom hissen veckan före kontrollorganet och är med vid besiktningen."},
+    {"titel": "Modernisering", "ikon": "verktyg", "href": "verksamhet.html", "text": "Nytt maskineri, styrsystem och dörrar – med korgens snickerier kvar om ni vill."},
+    {"titel": "Hiss i befintligt hus", "ikon": "hiss", "href": "verksamhet.html", "text": "Eftermontage i trapphusets öga eller i nytt schakt på gårdssidan."},
+    {"titel": "Reservdelar", "ikon": "lada", "href": "verksamhet.html", "text": "Över 6 000 artikelnummer i eget lager, även till äldre fabrikat."},
+    {"titel": "Renovering av korgar", "ikon": "hamare", "href": "verksamhet.html", "text": "Ekpanel, mässing och speglar renoveras i vår egen verkstad."},
+    {"titel": "Begär offert", "ikon": "pil", "href": "om-oss.html#kontakt", "text": "Vi kommer ut och tittar utan kostnad inom Sundsvalls kommun."}
+  ],
+  "affarsomraden": [
+    {"titel": "Service och jour", "text": "Varje hiss har en ansvarig tekniker som gör de förebyggande besöken och kan maskinrummet utantill. Det ger färre stopp och snabbare felsökning när något ändå händer.", "text2": "Jouren nås på samma nummer dygnet runt och har normalt en tekniker på plats inom två timmar i tätorten.", "tagg": "hiss"},
+    {"titel": "Modernisering", "text": "Många hissar från femtio- och sextiotalet har ett schakt och en korg i fint skick men ett reläskåp som är slut. Vi byter det som behöver bytas och sparar resten.", "text2": "Ett normalt moderniseringsjobb tar tre till fem veckor per hiss, och vi planerar så att trapphuset aldrig står utan hiss längre än nödvändigt.", "tagg": "hiss"},
+    {"titel": "Eftermontage", "text": "Att bygga in en hiss i ett trapphus utan hiss är vår specialitet sedan nittiotalet. Vi gör förstudien, ritningarna och anmälan till byggnadsnämnden.", "text2": "I smala trapphus använder vi maskinrumslösa hissar med korg ner till 80 × 100 cm.", "tagg": "bostad"},
+    {"titel": "Verkstad och lager", "text": "I verkstaden renoverar vi korgar, grindar och dörrblad, och vi lindar om motorer som inte längre går att köpa nya. Lagret är vår försäkring mot långa stillestånd.", "text2": "Delar som inte finns att köpa tillverkar vi ibland själva i samarbete med en verkstad i Timrå.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Bergsten Service", "segment": "Underhåll och jour", "rubrik": "1 400 hissar, 21 tekniker", "text": "Serviceavdelningen sköter avtalskunderna i Medelpad, Ångermanland och Jämtland, med servicebilar stationerade i Härnösand och Östersund.", "tagg": "hiss"},
+    {"namn": "Bergsten Projekt", "segment": "Modernisering och nya hissar", "rubrik": "Från förstudie till slutbesiktning", "text": "Projektavdelningen leds av Lars Bergsten och genomför runt 40 moderniseringar och eftermontage per år.", "tagg": "bygg"},
+    {"namn": "Verkstaden", "segment": "Renovering och reservdelar", "rubrik": "Delar som inte finns att köpa", "text": "Tre hantverkare renoverar korgar och dörrar och håller ordning på lagret med reservdelar till ett trettiotal fabrikat.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Sekelskifteshissen på Storgatan 21", "text": "Brf Kärnan behöll den handsmidda grinden och den gamla ekkorgen – men fick ny maskin och automatiska korgdörrar.", "tagg": "hiss"},
+    {"rubrik": "Ny servicebil i Östersund", "text": "Från oktober har vi en fast tekniker stationerad på Frösön för kunderna i Jämtland.", "tagg": "people"},
+    {"rubrik": "Larmen byts till 4G", "text": "Vi har bytt nödtelefon i 310 hissar inför att 2G-nätet stängs, och resten är klara före sommaren.", "tagg": "el"}
+  ],
+  "nyckeltal": [
+    {"varde": "1958", "enhet": "", "etikett": "Grundat av Gunnar Bergsten"},
+    {"varde": "1 400", "enhet": "hissar", "etikett": "Under serviceavtal"},
+    {"varde": "34", "enhet": "personer", "etikett": "Anställda, alla i egen regi"},
+    {"varde": "6 000", "enhet": "artiklar", "etikett": "Reservdelar i eget lager"}
+  ],
+  "projekt": [
+    {"namn": "Brf Kärnan", "ort": "Sundsvall", "typ": "Modernisering", "ar": "2025", "text": "Ny linmaskin och styrsystem i en hiss från 1912, med originalgrinden renoverad i vår verkstad.", "tagg": "hiss"},
+    {"namn": "Brf Norra Stadsberget", "ort": "Sundsvall", "typ": "Eftermontage", "ar": "2025", "text": "Två nya hissar i trapphus från 1938 där de boende tidigare bar barnvagnar fem våningar.", "tagg": "bostad"},
+    {"namn": "Härnösands Hamnfastigheter", "ort": "Härnösand", "typ": "Serviceavtal", "ar": "2024", "text": "Tolv hissar och en varuhiss i hamnmagasinen tog vi över efter en upphandling.", "tagg": "stad"},
+    {"namn": "Timrå Kommunfastigheter", "ort": "Timrå", "typ": "Modernisering", "ar": "2024", "text": "Fyra hissar i ett äldreboende moderniserades en i taget så att boendet alltid hade två i drift.", "tagg": "hiss"},
+    {"namn": "Brf Frösöstrand", "ort": "Östersund", "typ": "Nyinstallation", "ar": "2026", "text": "Maskinrumslös hiss i nybyggt flerbostadshus med 24 lägenheter, inflyttning i december.", "tagg": "bygg", "status": "Pågående"},
+    {"namn": "Kramfors Stadshus", "ort": "Kramfors", "typ": "Korgrenovering", "ar": "2023", "text": "Ekpanelen slipades och oljades, och mässingen poleras nu av vaktmästaren varje vår.", "tagg": "interior"}
+  ],
+  "process": [
+    {"titel": "Platsbesök", "text": "En projektledare tittar på maskinrum, schakt och korg och tar del av senaste besiktningsprotokollet.", "tagg": "hiss"},
+    {"titel": "Förslag i tre nivåer", "text": "Ni får ett minimialternativ, ett rekommenderat och ett fullt utbyte – med pris för vart och ett.", "tagg": "kontor"},
+    {"titel": "Montage", "text": "Vi sätter upp information i trapphuset en vecka före och håller tidplanen dag för dag.", "tagg": "bygg"},
+    {"titel": "Besiktning och överlämning", "text": "Kontrollorganet besiktar, vi går igenom hissen med styrelsen och tar över servicen.", "tagg": "hiss"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi byter inte det som håller",
+    "text": "En hisskorg i ek från 1930-talet kan gå hundra år till. Därför renoverar vi hellre än ersätter, och vi tar tillbaka utbytta delar till lagret när de går att använda i en annan hiss.",
+    "mal": [["40 %", "av utbytta komponenter återanvänds eller renoveras"], ["2 h", "till tekniker på plats i tätorten"], ["0", "allvarliga arbetsplatsolyckor sedan 2011"]]
+  },
+  "karriar": {
+    "rubrik": "Bli en del av familjen Bergsten",
+    "text": "Vi anställer hellre en lärling och lär upp henne i fyra år än att hyra in konsulter. Två av våra nuvarande tekniker började som sommarjobbare under gymnasiet.",
+    "jobb": [["Hisstekniker service", "Sundsvall"], ["Hissmontör projekt", "Sundsvall"], ["Lärling hissteknik", "Östersund"]]
+  },
+  "kultur": "Fredagsfika i verkstaden är obligatorisk, även för vd.",
+  "citat": {"text": "Farfar sa att en hiss ska låta som en gammal klocka – man ska bara höra den när något är fel. Det försöker vi fortfarande leva upp till.", "namn": "Karin Bergsten", "roll": "Vd, tredje generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi fick tre offerter på modernisering och Bergsten var den enda som föreslog att vi skulle behålla grinden. Nu är hissen husets stolthet igen.", "namn": "Annika S.", "ort": "Sundsvall"},
+    {"text": "Hissen stannade mellan våningarna en söndag i januari. Teknikern var där på femtio minuter och ringde mig efteråt och förklarade vad som hänt.", "namn": "Peter H.", "ort": "Härnösand"},
+    {"text": "Samma tekniker har skött våra hissar i elva år. Han vet vilken dörr som kärvar när det är minus tjugo.", "namn": "Maria L.", "ort": "Timrå"}
+  ],
+  "faq": [
+    ["Hur ofta behöver hissen service?", "De flesta bostadshissar klarar sig med ett förebyggande besök var sjätte vecka. Hissar med mycket trafik, som i sjukhus och varuhus, besöker vi oftare."],
+    ["Kan ni serva hissar av andra fabrikat?", "Ja. Vi servar ett trettiotal fabrikat och har reservdelar till de flesta, även hissar där tillverkaren inte längre finns kvar."],
+    ["Vad kostar en modernisering?", "En modernisering av en vanlig bostadshiss med nytt maskineri, styrsystem och korgdörrar landar oftast mellan 650 000 och 950 000 kronor exklusive moms."],
+    ["Måste vi söka bygglov för en ny hiss?", "Installation och väsentlig ändring av hissar kräver en anmälan till byggnadsnämnden, och ett nytt schakt på fasaden kräver ofta bygglov. Vi tar fram handlingarna åt er."],
+    ["Får vi behålla den gamla grinden?", "Ofta ja, men då kompletterar vi med korgdörr eller ljusridå så att ingen kan komma i kläm. Vi gör en riskbedömning enligt SS-EN 81-80 först."],
+    ["Hur lång tid står hissen still vid en modernisering?", "Räkna med tre till fem veckor per hiss. Har huset flera hissar tar vi en i taget."],
+    ["Är ni med vid besiktningen?", "Ja, alltid för våra avtalskunder. Vi åtgärdar anmärkningar direkt om det går och skickar ett åtgärdsförslag på resten inom en vecka."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001", "text": "Certifierat ledningssystem för kvalitet sedan 2004, granskat av tredje part varje år.", "ikon": "skold"},
+    {"titel": "Elinstallatör, auktoriserad", "text": "Auktorisation från Elsäkerhetsverket för arbete i hissarnas elsystem.", "ikon": "blixt"},
+    {"titel": "ID06 och personalliggare", "text": "Alla anställda bär ID06-kort och registreras på varje byggarbetsplats.", "ikon": "las"},
+    {"titel": "Riskbedömning SS-EN 81-80", "text": "Våra projektledare gör säkerhetsinventering av befintliga hissar enligt standarden.", "ikon": "dokument"}
+  ],
+  "kunder": ["Brf Kärnan", "Brf Norra Stadsberget", "Härnösands Hamnfastigheter", "Timrå Kommunfastigheter", "Selångers Bostäder", "Brf Frösöstrand", "Medelpads Hotellfastigheter"],
+  "nyheter": [
+    ["2026-10-06", "Fast tekniker i Jämtland", "Från oktober utgår en av våra servicebilar från Frösön.", "people"],
+    ["2026-06-12", "Dags att byta nödtelefonen", "Hissar med 2G-larm måste ha nytt larm innan nätet släcks. Så går bytet till.", "el"],
+    ["2026-03-20", "Lars går i pension efter 39 år", "Lars Bergsten lämnar projektavdelningen men finns kvar i styrelsen.", "people"],
+    ["2025-11-14", "Grinden på Storgatan räddad", "Om hur en 113 år gammal hiss fick nytt liv utan att förlora sin själ.", "hiss"]
+  ],
+  "kontakt": {"adress": "Bryggargatan 7", "postnr": "852 34", "ort": "Sundsvall", "telefon": "070-174 06 21", "epost": "info@bergstenhiss.se", "orgnr": ""},
+  "oppettider": "Kontoret mån–fre 7–16. Jour dygnet runt.",
+  "omrade": "Medelpad, Ångermanland och Jämtland",
+  "fot_cta": "Har ni en gammal hiss som krånglar? Ring oss innan ni bestämmer er för att byta den.",
+  "text": {
+    "ber_rubrik": "Senast från verkstaden",
+    "proj_rubrik": "Hissar vi har tagit hand om",
+    "process_rubrik": "Så går en modernisering till hos oss",
+    "hb_etikett": "Renovera före ersätta",
+    "omdomen_rubrik": "Styrelser som har anlitat oss",
+    "faq_rubrik": "Det styrelser brukar fråga oss",
+    "boka_rubrik": "Berätta om er hiss",
+    "logos_rubrik": "Några av våra avtalskunder",
+    "bolag_rubrik": "Tre avdelningar under samma tak",
+    "certifikat_rubrik": "Behörigheter och certifikat"
+  }
+}

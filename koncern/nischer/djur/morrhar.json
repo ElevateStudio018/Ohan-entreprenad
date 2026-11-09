@@ -1,0 +1,132 @@
+{
+  "profil": "djur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Morrhår Kattfrisör AB",
+  "kortnamn": "Morrhår",
+  "slug": "morrhar",
+  "typ": "Kattfrisör i Linköping",
+  "tagline": "Bara katter, aldrig hundar",
+  "slogan": "En salong byggd för katter – utan hundlukt, utan skällande och med ett rum som tystnar när dörren stängs.",
+  "hero_rubrik": "Ingen hund har någonsin varit här inne",
+  "hero_text": "Lejonklipp, bad och avfiltning för perser, maine coon och huskatter. Vi är Östergötlands enda salong som bara tar emot katter.",
+  "intro_rubrik": "En salong för det mest kräsna djuret",
+  "om": [
+    "Morrhår öppnade 2017 på Ågatan i Linköping. Grundaren Hanna Bergkvist arbetade tidigare som djursjukskötare på en smådjursklinik och såg hur många långhåriga katter som kom in för att sövas – bara för att få bort tovor som ingen salong ville ta i.",
+    "Katter är känsliga för lukter, så vi har aldrig haft en hund i lokalen. Behandlingsrummet är ljudisolerat, fönen är en lågljudsmodell på 52 decibel och vi använder feromondoftare i väntrummet. Vi tar högst fem katter om dagen."
+  ],
+  "vagval_rubrik": "Vad behöver katten hjälp med?",
+  "tjanster": [
+    {"titel": "Lejonklipp", "ikon": "sax", "href": "verksamhet.html", "text": "Kroppen kortklipps, man, tassar och svanstofs får vara kvar."},
+    {"titel": "Avfiltning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vi tar bort filt och tovor utan att katten behöver sövas."},
+    {"titel": "Bad och fön", "ikon": "vatten", "href": "verksamhet.html", "text": "För perser och exotic som får fet päls och tårrännor."},
+    {"titel": "Avfällning", "ikon": "vind", "href": "verksamhet.html", "text": "Underullen ut på maine coon, norsk skogkatt och ragdoll."},
+    {"titel": "Kloklipp", "ikon": "tass", "href": "verksamhet.html", "text": "Tio minuter i famnen, drop in onsdagar 16–18."},
+    {"titel": "Seniorkatt", "ikon": "hjarta", "href": "verksamhet.html", "text": "Mjuk hantering för äldre katter som inte längre tvättar sig själva."},
+    {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Kort, halvlång och långhårig päls."},
+    {"titel": "Boka", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Fem katter per dag, ring eller skicka formulär."}
+  ],
+  "affarsomraden": [
+    {"titel": "Lejonklipp", "text": "Populärast för långhåriga katter som tovar sig snabbt eller har svårt att sköta pälsen själva. Vi klipper med kam på 5 millimeter så att huden aldrig blir bar.", "text2": "Pälsen växer ut igen på tre till fyra månader.", "tagg": "katt"},
+    {"titel": "Avfiltning utan narkos", "text": "Många katter sövs på klinik för att få bort tovor. Vi tar bort filten i korta pass med maskin och kam, med pauser i en mörk transportbur mellan passen.", "text2": "Mycket svår filt kan kräva två besök med en veckas mellanrum.", "tagg": "katt"},
+    {"titel": "Perser och exotic", "text": "Platta ansikten ger tårrännor och fet päls som behöver badas regelbundet. Vi badar med avfettande schampo och torkar ansiktet med koksaltlösning.", "text2": "Rekommenderat intervall är var sjätte till åttonde vecka.", "tagg": "katt"},
+    {"titel": "Seniorkatter", "text": "Äldre katter med artros slutar ofta tvätta ryggen och bakdelen. Vi klipper sanitärt runt baken och kammar ut den döda pälsen liggande.", "text2": "Vi samarbetar med två veterinärer i Linköping kring katter med sjukdomar.", "tagg": "katt"}
+  ],
+  "bolag": [
+    {"namn": "Hanna Bergkvist", "segment": "Grundare och kattfrisör", "rubrik": "Från klinik till salong", "text": "Hanna är legitimerad djursjukskötare och har gått kattfrisörutbildning i Nederländerna. Hon har tre egna perser.", "tagg": "katt"},
+    {"namn": "Linnea Olofsson", "segment": "Kattfrisör", "rubrik": "Maine coon är hennes ras", "text": "Linnea har fött upp maine coon sedan 2012 och sköter de flesta avfällningar på stora katter.", "tagg": "katt"},
+    {"namn": "Erik Sjöberg", "segment": "Assistent och bokning", "rubrik": "Den lugna famnen", "text": "Erik håller katterna under kloklipp och badar, och tar hand om bokningar och telefon på eftermiddagarna.", "tagg": "katt"}
+  ],
+  "berattelser": [
+    {"rubrik": "Smulan slapp narkosen", "text": "En fjortonårig perser med filt över hela ryggen – avfiltad på två besök utan sövning.", "tagg": "katt"},
+    {"rubrik": "Ny tystare fön", "text": "Vi har bytt till en fön på 52 decibel, lika högt som ett tyst kylskåp.", "tagg": "katt"},
+    {"rubrik": "Vinterns kloklippsdagar", "text": "Drop in-kloklipp nu även lördagar 10–12 under december.", "tagg": "katt"}
+  ],
+  "nyckeltal": [
+    {"varde": "0", "enhet": "hundar", "etikett": "Sedan vi öppnade"},
+    {"varde": "5", "enhet": "katter", "etikett": "Max per dag"},
+    {"varde": "52", "enhet": "dB", "etikett": "Fönens ljudnivå"},
+    {"varde": "2017", "enhet": "", "etikett": "Öppnade på Ågatan"}
+  ],
+  "projekt": [
+    {"namn": "Smulan", "ort": "Perser", "typ": "Avfiltning utan narkos", "ar": "2026", "text": "Filt över hela ryggen borttagen på två besök med en veckas mellanrum.", "tagg": "katt"},
+    {"namn": "Thor", "ort": "Maine coon", "typ": "Avfällning", "ar": "2026", "text": "En hel matkasse med underull, och en katt som slutade kräkas hårbollar.", "tagg": "katt", "status": "Stamkund"},
+    {"namn": "Mira", "ort": "Norsk skogkatt", "typ": "Lejonklipp", "ar": "2025", "text": "Sommarklipp med kvar man och svanstofs – kattens favoritlook enligt matte.", "tagg": "katt"},
+    {"namn": "Pelle", "ort": "Huskatt, långhårig", "typ": "Seniorkatt", "ar": "2025", "text": "Sjutton år och artros – sanitärklipp och utkammad rygg liggande i famnen.", "tagg": "katt", "status": "Stamkund"},
+    {"namn": "Bella", "ort": "Exotic shorthair", "typ": "Bad och fön", "ar": "2026", "text": "Avfettad päls och rengjorda tårrännor var sjätte vecka.", "tagg": "katt"},
+    {"namn": "Sixten", "ort": "Ragdoll", "typ": "Avfällning", "ar": "2025", "text": "Byxor och bröst utkammade innan vårfällningen tog fart.", "tagg": "katt"}
+  ],
+  "process": [
+    {"titel": "Tyst ankomst", "text": "Katten bärs direkt in i behandlingsrummet och får sitta kvar i buren med öppen lucka i fem minuter.", "tagg": "katt"},
+    {"titel": "Hälsokoll", "text": "Vi känner igenom huden och kollar öron, klor och tänder innan vi börjar.", "tagg": "katt"},
+    {"titel": "Korta pass", "text": "Vi arbetar i pass på högst femton minuter och låter katten vila i buren däremellan.", "tagg": "katt"},
+    {"titel": "Hem med rapport", "text": "Du får en skriftlig rapport om pälsen, huden och när nästa besök bör vara.", "tagg": "katt"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Katten bestämmer takten",
+    "text": "En katt som fräser och spänner sig är inte stilla, den är rädd. Vi avbryter hellre ett besök än håller fast en katt som kämpar emot, och vi använder aldrig lugnande medel utan att katten först träffat veterinär.",
+    "mal": [["15 min", "längsta pass utan paus"], ["0", "hundar i lokalen, någonsin"], ["2 st", "samarbetande veterinärer"]]
+  },
+  "karriar": {"rubrik": "Inför kattens första besök", "text": "Låt transportburen stå framme hemma några dagar innan, med en filt som luktar hemma. Ge en liten frukost och boka förmiddag – då är de flesta katter lugnast.", "jobb": []},
+  "kultur": "Vi ringer upp dagen efter för att höra hur katten mår hemma.",
+  "citat": {"text": "Jag har sett för många katter sövas för något som en lugn person med kam kunde ha gjort på en timme. Morrhår finns för att det ska bli färre.", "namn": "Hanna Bergkvist", "roll": "Grundare", "tagg": "katt"},
+  "omdomen": [
+    {"text": "Veterinären ville söva Smulan för att få bort filten. Hanna gjorde det på två besök utan narkos, och Smulan var inte ens sur efteråt.", "namn": "Birgitta L.", "ort": "Linköping"},
+    {"text": "Thor är nio kilo och hatar att bli lyft. Linnea pratade med honom hela tiden och han låg still i fyrtio minuter.", "namn": "Jonas P.", "ort": "Norrköping"},
+    {"text": "Äntligen en salong som inte luktar hund. Mira gick själv ut ur buren.", "namn": "Sofie A.", "ort": "Mjölby"}
+  ],
+  "faq": [
+    ["Varför tar ni inte emot hundar?", "Katter reagerar starkt på hundlukt och skall. En salong helt utan hundar gör katterna lugnare och behandlingen kortare."],
+    ["Är lejonklipp skonsamt för katten?", "Ja, om man klipper med kam och inte rakar ned till huden. Vi använder minst 5 millimeters kam och lämnar man, tassar och svanstofs."],
+    ["Behöver katten vara sövd?", "Nej, nästan aldrig. Är katten mycket rädd eller sjuk hänvisar vi till veterinär först."],
+    ["Hur ofta behöver en perser badas?", "Var sjätte till åttonde vecka. Ansiktet bör torkas dagligen hemma."],
+    ["Kan jag vara med under behandlingen?", "Många katter blir lugnare utan ägaren i rummet, men vid första besöket får du gärna sitta med."],
+    ["Klipper ni klor på drop in?", "Ja, onsdagar 16–18. Det kostar 150 kronor."],
+    ["Vad kostar en avbokning?", "Avboka senast dagen innan klockan 12. Senare avbokningar debiteras 250 kronor."]
+  ],
+  "priser": [
+    {"namn": "Korthår", "pris": "fr. 495 kr", "enhet": "per katt", "text": "Utkamning, bad vid behov och kloklipp.", "punkter": ["Utkamning av underull", "Kloklipp", "Rengöring av öron", "Skriftlig pälsrapport"]},
+    {"namn": "Långhår", "pris": "fr. 895 kr", "enhet": "per katt", "text": "För perser, maine coon och andra långhåriga.", "punkter": ["Bad och lågljudsfön", "Avfällning eller putsning", "Sanitärklipp och tassar", "Kloklipp och pälsrapport"], "utvald": true},
+    {"namn": "Lejonklipp", "pris": "fr. 1 295 kr", "enhet": "per katt", "text": "Kortklippt kropp med kvar man och svanstofs.", "punkter": ["Klippning med 5 mm kam", "Bad före klippning", "Kvar man, tassar och svanstofs", "Uppföljningssamtal dagen efter"]}
+  ],
+  "prislista": [["Huskatt, korthårig", "fr. 495 kr"], ["British shorthair, exotic", "fr. 695 kr"], ["Ragdoll, helig birma", "fr. 895 kr"], ["Perser", "fr. 995 kr"], ["Maine coon, norsk skogkatt", "fr. 1 095 kr"], ["Lejonklipp, alla raser", "fr. 1 295 kr"], ["Avfiltning, per kvart", "195 kr"], ["Sanitärklipp", "350 kr"], ["Kloklipp drop in", "150 kr"]],
+  "galleri_taggar": ["katt", "katt"],
+  "bild": {"panel": "katt", "hb": "katt", "om": "katt", "sida_bolag": "katt", "sida_om": "katt", "sida_hb": "katt", "sida_priser": "katt", "sida_faq": "katt", "citat": "katt"},
+  "nyheter": [
+    ["2026-10-27", "Så vänjer du katten vid transportburen", "Fem steg som gör att buren blir en trygg plats i stället för ett hot.", "katt"],
+    ["2026-05-19", "Vårfällningen hos maine coon", "Varför underullen släpper i klumpar i april och maj – och vad du kan göra hemma.", "katt"],
+    ["2026-02-06", "Tovor hos äldre katter", "När katten slutar tvätta sig själv är det ofta smärta, inte lathet.", "katt"]
+  ],
+  "kontakt": {"adress": "Ågatan 22", "postnr": "582 22", "ort": "Linköping", "telefon": "070-174 06 46", "epost": "mjau@morrhar.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–16, drop in-kloklipp ons 16–18",
+  "omrade": "Linköping, Norrköping, Mjölby och Motala",
+  "fot_cta": "Fem katter per dag och inte en enda hund. Boka kattens tid.",
+  "text": {
+    "vagval_etikett": "Kattbehandlingar",
+    "ber_etikett": "Senast på bordet",
+    "ber_rubrik": "Katter vi träffat i höst",
+    "ber_utvalt": "Veckans katt",
+    "proj_rubrik": "Tovig före, mjuk efter",
+    "proj_kol": ["Katt", "Ras", "Behandling", "Status", "År"],
+    "process_rubrik": "Så går ett kattbesök till",
+    "hb_etikett": "Kattens välmående",
+    "hb_lank": "Så tar vi hand om katterna",
+    "omdomen_rubrik": "Kattägare om sina besök",
+    "faq_rubrik": "Frågor om katt och päls",
+    "priser_rubrik": "Pris efter pälslängd",
+    "priser_not": "Priserna gäller päls utan filt. Avfiltning debiteras per påbörjad kvart.",
+    "galleri_rubrik": "Nyklippta katter",
+    "boka_rubrik": "Boka kattens tid",
+    "boka_text": "Berätta kattens namn, ras, ålder och hur pälsen ser ut, så föreslår vi en förmiddagstid.",
+    "boka_falt": ["Ditt namn", "Telefon", "Kattens namn och ras", "Önskad behandling"],
+    "ny_rubrik": "Kattskolan",
+    "ny_etikett": "Kattips",
+    "fot_cta": "Fem katter per dag och inte en enda hund. Boka kattens tid.",
+    "kultur": "Vi ringer upp dagen efter för att höra hur katten mår hemma.",
+    "omdomen_etikett": "Omdömen",
+    "sida_bolag_ingress": "Vi är {n} kattfrisörer och kattmänniskor.",
+    "sida_projekt_ingress": "Några av våra katter – före och efter besöket.",
+    "sida_verksamhet_text2": "Vi arbetar i korta pass med pauser och använder parfymfria produkter framtagna för katter.",
+    "sida_priser_ingress": "Priserna beror på pälslängd, ras och skick.",
+    "panel_etikett": "Första besöket"
+  }
+}

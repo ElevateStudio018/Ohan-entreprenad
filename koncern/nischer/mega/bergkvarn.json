@@ -1,0 +1,145 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Bergkvarn AB",
+  "kortnamn": "Bergkvarn",
+  "slug": "bergkvarn",
+  "typ": "Tunnel- och bergbyggnadskoncern, Solna",
+  "tagline": "Under jord sedan 1946",
+  "slogan": "Bergkvarn borrar, spränger och förstärker tunnlar, bergrum och gruvor i sju länder – allt som byggs under marknivå.",
+  "hero_rubrik": "Sverige byggs också under jord",
+  "hero_text": "Tunnelbana, vägtunnlar, bergrum för energilager och gruvortar. 9 200 medarbetare som arbetar där dagsljuset inte når.",
+  "intro_rubrik": "312 kilometer tunnel på tio år",
+  "om": [
+    "Bergkvarn grundades 1946 som en sprängfirma i Södertälje, uppkallad efter stenbrottet där bröderna Holger och Sixten Wahlberg tog sina första uppdrag. Efterkrigstidens kraftverksbyggen i Norrland gjorde firman till landets största på bergarbeten.",
+    "I dag omsätter koncernen 34 miljarder kronor och har tunnelprojekt i Sverige, Norge, Finland, Schweiz, Österrike och Kanada. Vi arbetar med både borr- och sprängteknik och tunnelborrmaskiner, och har en av Europas största flottor av borriggar."
+  ],
+  "vagval_rubrik": "Vilket berg ska genom?",
+  "tjanster": [
+    {"titel": "Tunnelbana och järnväg", "ikon": "bro", "href": "verksamhet.html", "text": "Spårtunnlar, stationsrum och schakt i tät stadsmiljö."},
+    {"titel": "Vägtunnlar", "ikon": "vag", "href": "verksamhet.html", "text": "Huvudtunnlar, ramper och utrymningstunnlar med full installation."},
+    {"titel": "Bergrum och lager", "ikon": "lada", "href": "verksamhet.html", "text": "Bergrum för värmelager, datahallar, bränsle och skyddsrum."},
+    {"titel": "Gruvutveckling", "ikon": "kran", "href": "verksamhet.html", "text": "Ortdrivning, schakt och bergförstärkning för gruvbolag i Norden och Kanada."},
+    {"titel": "Vatten och avlopp", "ikon": "vatten", "href": "verksamhet.html", "text": "Avloppstunnlar och råvattentunnlar för kommuner och vattenbolag."},
+    {"titel": "Geoteknik", "ikon": "sten", "href": "verksamhet.html", "text": "Kärnborrning, bergmekanisk analys och injekteringsdesign före byggstart."},
+    {"titel": "Arbeta under jord", "ikon": "hjalm", "href": "karriar.html", "text": "Bergarbetare, borriggsoperatörer och tunnelingenjörer."},
+    {"titel": "Investerare", "ikon": "graf", "href": "investerare.html", "text": "Kursen för BKVN B och kommande rapporter."}
+  ],
+  "affarsomraden": [
+    {"titel": "Infrastrukturtunnlar", "text": "Väg-, järnvägs- och tunnelbanetunnlar är koncernens största område. Vi driver ofta flera fronter samtidigt och sprängs nattetid i tätort med vibrationsövervakning i realtid.", "text2": "Området står för 58 procent av omsättningen.", "tagg": "infra"},
+    {"titel": "Bergrum och energilager", "text": "Uttjänta oljebergrum byggs om till värmelager och nya bergrum sprängs för datahallar och vätgas. Bergets temperatur på 8 grader året runt sparar kyla.", "text2": "Vi har byggt elva värmelager i berg sedan 2015.", "tagg": "anlaggning"},
+    {"titel": "Mining Services", "text": "Kontrakterad ortdrivning, schaktsänkning och förstärkning åt gruvbolag i Sverige, Finland och Ontario. Våra lag arbetar på 1 400 meters djup.", "text2": "Långa avtal på fem till tio år ger en stabil grund i koncernen.", "tagg": "industri"},
+    {"titel": "Geoteknik och design", "text": "Geologer och bergmekaniker kartlägger berget innan första salvan. Det gör kalkylen säkrare och minskar behovet av förstärkning.", "text2": "Vi kärnborrar omkring 90 kilometer per år.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Bergkvarn Tunnel AB", "segment": "Infrastruktur", "rubrik": "Spår och väg genom berget", "text": "Driver tunnelprojekt i Sverige och Norge – från tunnelbanan i Stockholm till vägtunnlar i Hordaland.", "tagg": "infra"},
+    {"namn": "Bergkvarn Alpine AG", "segment": "Tunnel Centraleuropa", "rubrik": "Långa tunnlar under Alperna", "text": "Bolaget i Chur förvärvades 2012 och har sedan dess byggt 64 kilometer järnvägstunnel i Schweiz och Österrike.", "tagg": "natur"},
+    {"namn": "Bergkvarn Mining Services", "segment": "Gruvor", "rubrik": "Ortdrivning på kontrakt", "text": "Kontrakterad gruvutveckling i Malmfälten, Skelleftefältet, Finland och Ontario.", "tagg": "industri"},
+    {"namn": "Bergkvarn Geoteknik AB", "segment": "Undersökning och design", "rubrik": "Vi läser berget först", "text": "Geologer, bergmekaniker och borrlag som undersöker berget åt egna projekt och externa beställare.", "tagg": "anlaggning"}
+  ],
+  "lokala_bolag": ["Bergkvarn Tunnel", "Bergkvarn Tunnel Norge AS", "Bergkvarn Alpine AG", "Bergkvarn Tunnelbau GmbH", "Bergkvarn Louhinta Oy", "Bergkvarn Mining Canada Inc.", "Bergkvarn Mining Services", "Bergkvarn Geoteknik", "Bergkvarn Injektering AB", "Wahlbergs Borrteknik AB", "Norrbergs Sprängtjänst AB"],
+  "berattelser": [
+    {"rubrik": "Genomslag under Riddarfjärden", "text": "Efter 26 månader möttes de två tunnelfronterna med en avvikelse på elva millimeter.", "tagg": "infra"},
+    {"rubrik": "Värmelager i Hagersten", "text": "Ett oljebergrum från 1970-talet rymmer nu 300 000 kubikmeter varmt vatten för fjärrvärmen.", "tagg": "anlaggning"},
+    {"rubrik": "Elektriska borriggar i Kiruna", "text": "Alla tolv riggar i gruvkontraktet går nu på batteri, vilket sänker dieselförbrukningen under jord med 1,4 miljoner liter om året.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "34", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [22, 24, 26, 27, 29, 31, 34], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "38", "enhet": "km", "etikett": "Tunnel drivet 2025", "trend": [27, 29, 31, 30, 33, 35, 38], "trend_text": "Drivna tunnelkilometer per år"},
+    {"varde": "9 200", "enhet": "", "etikett": "Medarbetare i sju länder"},
+    {"varde": "1,9", "enhet": "", "etikett": "Olycksfrekvens (LTIF)", "trend": [5.1, 4.4, 3.8, 3.1, 2.6, 2.2, 1.9], "trend_text": "Olyckor med frånvaro per miljon timmar"}
+  ],
+  "projekt": [
+    {"namn": "Tunnelbana Söderort, etapp 3", "ort": "Stockholm", "typ": "Tunnelbana", "ar": "2029", "text": "4,6 kilometer spårtunnel och två stationer under Riddarfjärden och Södermalm.", "tagg": "infra"},
+    {"namn": "Hagerstens värmelager", "ort": "Stockholm", "typ": "Bergrum", "ar": "2025", "text": "Ombyggnad av oljebergrum till säsongslager för fjärrvärme.", "tagg": "anlaggning"},
+    {"namn": "Fløyfjellstunnelen II", "ort": "Bergen", "typ": "Vägtunnel", "ar": "2027", "text": "3,8 kilometer dubbelspårig vägtunnel med två utrymningstunnlar.", "tagg": "infra"},
+    {"namn": "Brennerachse Los Nord", "ort": "Innsbruck", "typ": "Järnvägstunnel", "ar": "2028", "text": "Tolv kilometer tunnel med tunnelborrmaskin i ett internationellt konsortium.", "tagg": "natur"},
+    {"namn": "Ortdrivning nivå 1 365", "ort": "Kiruna", "typ": "Gruva", "ar": "2026", "text": "Tioårigt kontrakt för ortdrivning och förstärkning på ny huvudnivå.", "tagg": "industri"},
+    {"namn": "Råvattentunnel Mälaren", "ort": "Strängnäs", "typ": "Vatten", "ar": "2024", "text": "Elva kilometer råvattentunnel som säkrar dricksvattnet för 400 000 människor.", "tagg": "anlaggning"}
+  ],
+  "process": [
+    {"titel": "Kärnborra och kartlägg", "text": "Geologerna borrar och kartlägger sprickzoner innan kalkylen låses, så att förstärkningen dimensioneras efter verkligt berg.", "tagg": "natur"},
+    {"titel": "Välj drivmetod", "text": "Borra och spränga eller tunnelborrmaskin – valet görs utifrån bergkvalitet, längd och störningar för grannarna.", "tagg": "anlaggning"},
+    {"titel": "Driv och förstärk", "text": "Varje salva följs av skrotning, sprutbetong och bultning. Vibrationer och buller mäts och publiceras för boende i realtid.", "tagg": "infra"},
+    {"titel": "Installera och lämna över", "text": "Vi lägger vägbana, ventilation och tätning och lämnar över en tunnel som är redo för trafik.", "tagg": "el"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen diesel under jord år 2030",
+    "text": "Avgaser i en tunnel drabbar dem som arbetar där först. Därför byter vi ut dieselriggar, lastare och bergtruckar mot batteridrivna maskiner, och laddar dem med el från ursprungsmärkt vattenkraft. Samtidigt återanvänds bergmassorna: 81 procent av allt berg vi tog ut 2025 blev ballast i betong och vägar.",
+    "mal": [["100 %", "eldrivna maskiner under jord 2030"], ["81 %", "av utsprängt berg återanvänt 2025"], ["< 1,0", "olycksfrekvens LTIF till 2028"]]
+  },
+  "karriar": {
+    "rubrik": "Vi utbildar bergarbetare själva",
+    "text": "Bergkvarnskolan i Gällivare och Södertälje utbildar 220 nya bergarbetare om året. Du får lön under utbildningen och en anställning efter godkänd praktik.",
+    "jobb": [["Borriggsoperatör", "Stockholm"], ["Tunnelingenjör", "Bergen"], ["Bergarbetare, Bergkvarnskolan", "Gällivare"], ["Produktionschef gruva", "Sudbury"]]
+  },
+  "kultur": "Under jord arbetar vi alltid i lag om minst två, och alla får tre dagars säkerhetsutbildning innan första skiftet.",
+  "citat": {"text": "Berget berättar inte i förväg var sprickorna sitter. Därför lägger vi mer pengar på att kärnborra än de flesta – en meter borrkärna kostar mindre än en dag med stillastående front.", "namn": "Anna Wahlberg-Kjellin", "roll": "VD och koncernchef", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi bor tolv meter ovanför tunneln. Bergkvarn skickade sms före varje kvällssalva och höll sig under gränsvärdet varenda gång.", "namn": "Peter H.", "ort": "Södermalm"},
+    {"text": "De bytte drivmetod i en sprickzon på 48 timmar utan att tidplanen sprack. Den geotekniska förberedelsen var avgörande.", "namn": "Ingrid V.", "ort": "Bergen"},
+    {"text": "Tre år på kontrakt i gruvan utan en enda olycka med frånvaro. Det är så vi vill ha det.", "namn": "Mikael J.", "ort": "Kiruna"}
+  ],
+  "faq": [
+    ["Hur nära bostäder kan ni spränga?", "Vi spränger rutinmässigt under bebyggelse med 10–15 meters bergtäckning. Laddningen anpassas efter vibrationsmätare på närliggande hus."],
+    ["Får grannar information före sprängning?", "Ja. Boende inom påverkansområdet kan prenumerera på sms-aviseringar och se mätvärden i realtid på projektets webbsida."],
+    ["Vad händer med bergmassorna?", "De krossas och används som ballast i betong, vägbyggen och utfyllnad, i första hand inom samma projekt."],
+    ["Arbetar ni utanför Norden?", "Ja, i Schweiz och Österrike genom Bergkvarn Alpine och i Ontario genom gruvverksamheten. Utlandet står för 41 procent av omsättningen."],
+    ["Hur blir jag bergarbetare?", "Sök till Bergkvarnskolan. Utbildningen tar 30 veckor med lön, och du behöver B-körkort och god fysik."],
+    ["Vilka är de största ägarna?", "Familjen Wahlberg via Sixten Invest äger 22 procent av rösterna. Övriga större ägare är svenska och norska pensionsfonder."]
+  ],
+  "nyheter": [
+    ["2026-10-29", "Rekordorderstock efter tredje kvartalet", "Orderstocken uppgår till 61 miljarder kronor, drivet av tunnelbane- och gruvkontrakt.", "infra"],
+    ["2026-09-03", "Bergkvarn vinner tunnelkontrakt i Trondheim", "Kontraktet omfattar 5,2 kilometer vägtunnel och är värt 3,4 miljarder norska kronor.", "infra"],
+    ["2026-05-12", "Bergkvarnskolan öppnar i Södertälje", "Den andra skolan för bergarbetare tar emot 110 elever per år.", "people"]
+  ],
+  "investerare": {
+    "aktie": "BKVN B",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "96,15",
+    "forandring": "–0,6 %",
+    "rapporter": [["Kvartalsrapport Q3 2026", "2026-10-29"], ["Halvårsrapport 2026", "2026-07-21"], ["Kvartalsrapport Q1 2026", "2026-04-28"], ["Årsredovisning 2025", "2026-03-26"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-11"], ["Kapitalmarknadsdag i Kiruna", "2027-03-17"], ["Årsstämma, Solna", "2027-05-06"]]
+  },
+  "kontor_rubrik": "Sju länder med berg att bygga i",
+  "kontor_text": "Våra kontor ligger där berget finns – i Alperna, i fjordlandet och i de nordiska gruvfälten.",
+  "kontor_lista": [
+    ["Solna – huvudkontor", "Kolonnvägen 21. Koncernledning, Bergkvarn Tunnel och Bergkvarn Geoteknik."],
+    ["Södertälje", "Verkstad för borriggar och den nya Bergkvarnskolan, där allt startade 1946."],
+    ["Gällivare", "Mining Services och Bergkvarnskolan Norr."],
+    ["Bergen", "Bergkvarn Tunnel Norge AS med vägtunnlar längs Vestlandet."],
+    ["Tammerfors", "Bergkvarn Louhinta Oy – tunnlar och schakt i Finland."],
+    ["Chur", "Bergkvarn Alpine AG, järnvägstunnlar i Schweiz."],
+    ["Innsbruck", "Bergkvarn Tunnelbau GmbH och projektkontor för Brennertunneln."],
+    ["Sudbury, Ontario", "Bergkvarn Mining Canada med 640 medarbetare i nickelgruvorna."]
+  ],
+  "tidslinje_rubrik": "Åttio år i berget",
+  "tidslinje": [
+    ["1946", "Bröderna Wahlberg startar sprängfirma i Bergkvarns stenbrott i Södertälje."],
+    ["1952", "Första kraftverkstunneln i Lule älv."],
+    ["1964", "Bergkvarn spränger stationsrum till Stockholms tunnelbana."],
+    ["1989", "Noteras på Stockholmsbörsen."],
+    ["2012", "Förvärv av Alpine Tunnelbau i Chur."],
+    ["2019", "Etablering i Ontario genom köp av Nordrock Mining."],
+    ["2024", "Första helt eldrivna tunnelfronten i Norden."]
+  ],
+  "kontakt": {"adress": "Kolonnvägen 21", "postnr": "169 71", "ort": "Solna", "telefon": "070-174 06 11", "epost": "kontakt@bergkvarn.se", "orgnr": ""},
+  "oppettider": "Växel mån–fre 7–16, projektjour dygnet runt",
+  "omrade": "Norden, Alperna och Kanada",
+  "fot_cta": "Har ni ett berg i vägen? Våra geologer kan börja kartlägga redan i förstudien.",
+  "bild": {"panel": "anlaggning", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Senaste genomslagen",
+    "proj_rubrik": "Tunnlar och bergrum i drift och under arbete",
+    "process_rubrik": "Från borrkärna till öppen tunnel",
+    "process_etikett": "Metod",
+    "hb_etikett": "Säkerhet och miljö under jord",
+    "omdomen_rubrik": "Grannar och beställare berättar",
+    "faq_rubrik": "Frågor om sprängning och tunnlar",
+    "bolag_rubrik": "Fyra bolag, ett berg i taget",
+    "vagg_rubrik": "{n} bolag som arbetar under marken",
+    "panel_etikett": "Bergkvarnskolan",
+    "hero_lank": "Pågående tunnlar",
+    "ny_rubrik": "Nytt från tunnelfronterna"
+  }
+}

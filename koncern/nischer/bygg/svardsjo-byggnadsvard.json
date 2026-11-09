@@ -1,0 +1,127 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Svärdsjö Byggnadsvård AB",
+  "kortnamn": "Svärdsjö",
+  "slug": "svardsjo-byggnadsvard",
+  "typ": "Byggnadsvård och kulturfastigheter i Dalarna",
+  "tagline": "Byggnadsvård sedan 1994",
+  "slogan": "Vi renoverar kyrkor, gårdar och kulturhistoriska byggnader i Dalarna med de material och metoder de en gång byggdes med.",
+  "hero_rubrik": "Vi lagar hus som har stått i 300 år",
+  "hero_text": "Timmerbyten, kalkputs, spåntak och fönsterrenovering för kyrkor, bergsmansgårdar och byggnadsminnen – utförda av hantverkare och antikvarie i samma lag.",
+  "intro_rubrik": "Gammalt hantverk, dokumenterat",
+  "om": [
+    "Svärdsjö Byggnadsvård grundades 1994 av byggnadsantikvarien Ingrid Hedlund och timmermannen Per Ersson, som träffades vid restaureringen av en härbre i Linghed. De ville att den som ritar och den som yxar skulle sitta vid samma fikabord.",
+    "I dag är vi 28 personer: timmermän, snickare, murare, målare och två antikvarier. Snickeriet ligger i den gamla mejeribyggnaden i Svärdsjö, och där renoveras omkring 400 fönsterbågar om året."
+  ],
+  "vagval_rubrik": "Vilket hus behöver hjälp?",
+  "tjanster": [
+    {"titel": "Kyrkorenovering", "ikon": "kors", "href": "verksamhet.html", "text": "Tak, fasad och interiör i medeltida och senare kyrkor."},
+    {"titel": "Timmerbyten", "ikon": "hamare", "href": "verksamhet.html", "text": "Syllar och rötskadade stockar byts med handbilat virke."},
+    {"titel": "Fönsterrenovering", "ikon": "hus", "href": "verksamhet.html", "text": "Kittning, linoljefärg och nytt glas i gamla bågar."},
+    {"titel": "Kalkputs", "ikon": "sten", "href": "verksamhet.html", "text": "Lufthärdande kalkbruk som släpper ut fukt ur murverket."},
+    {"titel": "Spån- och torvtak", "ikon": "hem", "href": "verksamhet.html", "text": "Stickspån, kluven spån och näver med torv."},
+    {"titel": "Slamfärg och linolja", "ikon": "pensel", "href": "verksamhet.html", "text": "Rödfärg kokad på plats och linoljefärg med naturpigment."},
+    {"titel": "Antikvarisk kontroll", "ikon": "sok", "href": "bolag.html", "text": "Dokumentation och rapport enligt kulturmiljölagen."},
+    {"titel": "Boka besiktning", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "En antikvarie och en hantverkare kommer ut tillsammans."}
+  ],
+  "affarsomraden": [
+    {"titel": "Kyrkor och byggnadsminnen", "text": "Vi har arbetat i 34 kyrkor i Västerås och Uppsala stift. Arbetet sker med tillstånd från länsstyrelsen och med antikvarisk medverkan under hela projektet.", "text2": "Kyrkan kan ofta hållas öppen för gudstjänster under renoveringen.", "tagg": "sten"},
+    {"titel": "Timmerhus och gårdar", "text": "Bergsmansgårdar, härbren och lador behöver ofta nya syllar efter 150 år. Vi lyfter huset med domkrafter, byter de ruttna stockarna och sänker tillbaka det.", "text2": "Virket är vinterfällt och kommer från skogar i Svärdsjö och Envikens finnmarker.", "tagg": "tra"},
+    {"titel": "Fönster och snickerier", "text": "Gamla fönster håller i hundra år till om de får ny kitt och linoljefärg vart tjugonde år. I snickeriet tillverkar vi också nya bågar, dörrar och lister efter gamla profiler.", "text2": "Vi har 140 profilstål för hyvling av lister från 1700- till 1900-tal.", "tagg": "interior"},
+    {"titel": "Puts, murning och färg", "text": "Kalkbruk, slamfärg och linoljefärg är material som låter huset andas. Fel material ger fuktskador inom några år, och det är där många av våra uppdrag börjar.", "text2": "Rödfärgen kokar vi själva på järnvitriol, råg och Falu rödfärgspigment.", "tagg": "maleri"}
+  ],
+  "bolag": [
+    {"namn": "Kyrkolaget", "segment": "Kyrkor och kulturbyggnader", "rubrik": "Medeltid och 1700-tal", "text": "Murare och snickare som renoverar kyrkor, prästgårdar och byggnadsminnen under antikvarisk kontroll.", "tagg": "sten"},
+    {"namn": "Timmerlaget", "segment": "Timmer och knut", "rubrik": "Syllbyten utan att riva", "text": "Fem timmermän som lyfter, byter och knuttimrar med yxa och bandsåg.", "tagg": "tra"},
+    {"namn": "Snickeriet i Svärdsjö", "segment": "Fönster och snickerier", "rubrik": "400 bågar om året", "text": "Verkstad för fönsterrenovering, nya bågar, dörrar och profilerade lister.", "tagg": "interior"},
+    {"namn": "Antikvarien", "segment": "Dokumentation och tillstånd", "rubrik": "Ritning, rapport, tillstånd", "text": "Två byggnadsantikvarier som tar fram åtgärdsprogram och sköter kontakten med länsstyrelsen.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Nytt spåntak på Envikens kyrka", "text": "Vi har lagt 22 000 handkluvna spån av furu, tjärade på plats. Klart före första snön.", "tagg": "tak"},
+    {"rubrik": "Bergsmansgård i Linghed lyft 30 centimeter", "text": "Fyra syllvarv byttes på mangårdsbyggnaden från 1780 innan den sänktes tillbaka.", "tagg": "tra"},
+    {"rubrik": "Fönsterkurs för husägare", "text": "Under vintern håller vi helgkurser i snickeriet – tolv platser per tillfälle.", "tagg": "interior"}
+  ],
+  "nyckeltal": [
+    {"varde": "34", "enhet": "", "etikett": "Kyrkor vi har arbetat i"},
+    {"varde": "400", "enhet": "bågar", "etikett": "Renoverade fönster per år"},
+    {"varde": "28", "enhet": "", "etikett": "Hantverkare och antikvarier"},
+    {"varde": "1994", "enhet": "", "etikett": "Första uppdraget, ett härbre"}
+  ],
+  "projekt": [
+    {"namn": "Envikens kyrka", "ort": "Enviken", "typ": "Spåntak", "ar": "2026", "text": "22 000 handkluvna spån av furu på kyrkans tak och lanternin.", "tagg": "tak"},
+    {"namn": "Bergsmansgården Linghed", "ort": "Linghed", "typ": "Syllbyte", "ar": "2026", "text": "Mangårdsbyggnad från 1780 lyft och försedd med nya syllvarv.", "tagg": "tra"},
+    {"namn": "Gamla prästgården", "ort": "Sundborn", "typ": "Fönster och puts", "ar": "2025", "text": "46 fönster och ny kalkputs på en prästgård från 1820.", "tagg": "sten"},
+    {"namn": "Gruvstugorna vid Stora Stöten", "ort": "Falun", "typ": "Rödfärg och timmer", "ar": "2025", "text": "Sju arbetarbostäder med nya knutar och kokad rödfärg.", "tagg": "maleri"},
+    {"namn": "Ornäs härbre", "ort": "Ornäs", "typ": "Flytt och återuppbyggnad", "ar": "2024", "text": "Ett härbre från 1600-talet nedmonterat, numrerat och återrest.", "tagg": "tra"},
+    {"namn": "Svärdsjö kyrka", "ort": "Svärdsjö", "typ": "Interiörrenovering", "ar": "2023", "text": "Bänkinredning, läktare och väggmålningar under antikvarisk kontroll.", "tagg": "interior"}
+  ],
+  "process": [
+    {"titel": "Besiktning i par", "text": "Antikvarie och hantverkare går igenom huset tillsammans och tar prover på puts och färg.", "tagg": "sok"},
+    {"titel": "Åtgärdsprogram", "text": "Vi skriver vad som bör göras, i vilken ordning och med vilka material – och söker tillstånd.", "tagg": "kontor"},
+    {"titel": "Hantverket", "text": "Arbetet utförs med traditionella verktyg där det spelar roll och med maskiner där det inte syns.", "tagg": "tra"},
+    {"titel": "Antikvarisk rapport", "text": "Allt dokumenteras med foto och text, och rapporten arkiveras hos länsstyrelsen.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Det mest hållbara huset är det som redan står",
+    "text": "Att renovera ett timmerhus i stället för att bygga nytt sparar i regel 80–90 procent av klimatpåverkan. Vi använder lokalt virke, kalk och linolja och återbrukar gammalt glas, beslag och tegel från vårt eget förråd.",
+    "mal": [["85 %", "av virket fällt inom fem mil"], ["2 100", "beslag och glas i återbruksförrådet"], ["0", "plastbaserade färger i våra projekt"]]
+  },
+  "karriar": {
+    "rubrik": "Bli hantverkare på riktigt",
+    "text": "Vi tar emot en lärling om året från hantverksutbildningen på Mora folkhögskola eller Dacapo i Mariestad. Du lär dig yxa, kalk och linolja av människor som har gjort det i 30 år.",
+    "jobb": [["Timmerman", "Svärdsjö"], ["Byggnadsmålare, traditionella färger", "Falun"]]
+  },
+  "kultur": "Fredagar äter vi gemensam lunch i snickeriet, och varje höst åker hela företaget på studieresa till en restaureringsplats.",
+  "citat": {"text": "Huset vet redan hur det vill bli lagat. Vår uppgift är att lyssna på det innan vi tar fram maskinerna.", "namn": "Per Ersson", "roll": "Grundare och timmerman", "tagg": "tra"},
+  "omdomen": [
+    {"text": "Vi trodde att hela mangårdsbyggnaden måste rivas. Svärdsjö bytte fyra syllvarv och nu står den rakare än på 50 år.", "namn": "Margareta O.", "ort": "Linghed"},
+    {"text": "Antikvarien och timmermannen svarade på allt vid samma möte. Länsstyrelsen godkände ansökan på första försöket.", "namn": "Kyrkoråd", "ort": "Envikens församling"},
+    {"text": "Fönstren var spruckna och ruttna. Nu har vi originalbågarna kvar, med nytt kitt och gammalt glas som de hittat i förrådet.", "namn": "Jonas H.", "ort": "Sundborn"}
+  ],
+  "faq": [
+    ["Arbetar ni bara med kulturminnen?", "Nej, ungefär hälften av våra kunder är privatpersoner med gamla trähus. Det räcker att huset är byggt före 1950 och att du vill behålla det som det är."],
+    ["Vad kostar en fönsterrenovering?", "En vanlig tvåluftsbåge kostar 4 500–7 000 kronor att renovera, beroende på skick. ROT-avdrag gäller för arbetskostnaden."],
+    ["Behöver jag tillstånd för att renovera?", "För byggnadsminnen och kyrkor krävs tillstånd från länsstyrelsen. För andra hus kan bygglov behövas om du ändrar fasaden – vi tar reda på vad som gäller."],
+    ["Finns det bidrag att söka?", "Länsstyrelsen i Dalarna delar ut bidrag för kulturhistoriskt värdefull bebyggelse. Vi hjälper dig med ansökan och kostnadsunderlag."],
+    ["Varför inte plastfärg på timmerhuset?", "Plastfärg stänger in fukten i virket så att det ruttnar inifrån. Slamfärg och linoljefärg släpper ut fukten och kan målas över utan att skrapas."],
+    ["Hur långt reser ni?", "Främst i Dalarna, Gävleborg och Västmanland. Kyrkor tar vi i hela Mellansverige."],
+    ["När på året kan ni arbeta?", "Timmer och tak gör vi maj–oktober. Fönster, dörrar och interiörer renoveras i snickeriet hela vintern."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierad antikvarie (KUL)", "text": "Våra antikvarier är certifierade sakkunniga enligt kulturmiljölagen.", "ikon": "dokument"},
+    {"titel": "Hantverkslaget", "text": "Gesällbrev i timmermanshantverk och byggnadsmåleri.", "ikon": "stjarna"},
+    {"titel": "ID06", "text": "Personalliggare och legitimation på alla arbetsplatser.", "ikon": "las"},
+    {"titel": "Byggföretagen", "text": "Medlemmar, med kollektivavtal och ansvarsförsäkring.", "ikon": "skold"}
+  ],
+  "kunder": ["Envikens församling", "Svärdsjö församling", "Falu kommun, kulturförvaltningen", "Stiftelsen Gruvstugorna", "Sundborns hembygdsförening", "Länsstyrelsen i Dalarnas län", "Bergsmansgårdar i Dalarna"],
+  "nyheter": [
+    ["2026-10-17", "Spåntaket i Enviken klart", "22 000 spån, 380 liter tjära och åtta veckors arbete i dimma och regn.", "tak"],
+    ["2026-07-02", "Härbret i Ornäs står på ny plats", "Varje stock märktes, monterades ned och restes igen 400 meter bort.", "tra"],
+    ["2026-01-22", "Vinterns fönsterkurser", "Lär dig kitta och måla gamla bågar under en helg i snickeriet.", "interior"]
+  ],
+  "kontakt": {"adress": "Kyrkbyvägen 12", "postnr": "790 23", "ort": "Svärdsjö", "telefon": "070-174 06 83", "epost": "hej@svardsjobyggnadsvard.se", "orgnr": ""},
+  "oppettider": "Mån–tors 7–16, fre 7–13",
+  "omrade": "Dalarna, Gävleborg och Västmanland",
+  "fot_cta": "Har du ett gammalt hus som behöver lagas? Boka en besiktning med antikvarie och timmerman.",
+  "bild": {"panel": "tra", "hb": "natur", "sida_bolag": "tra", "sida_om": "natur", "sida_faq": "tra"},
+  "text": {
+    "hero_knapp": "Hantverk vi utför",
+    "hero_lank": "Hus vi har lagat",
+    "ber_rubrik": "Det här lagar vi nu",
+    "proj_rubrik": "Kyrkor, gårdar och härbren",
+    "process_rubrik": "Från besiktning till rapport",
+    "hb_etikett": "Material & metod",
+    "hb_lank": "Om våra material",
+    "omdomen_rubrik": "Husägare och församlingar",
+    "faq_rubrik": "Frågor om gamla hus",
+    "boka_rubrik": "Berätta om ditt hus",
+    "boka_text": "Skicka några bilder och husets byggår, så ringer en antikvarie upp inom en vecka.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Huset, byggår och vad som behöver lagas"],
+    "certifikat_rubrik": "Utbildade i traditionellt hantverk",
+    "logos_rubrik": "Vi har arbetat åt",
+    "bolag_rubrik": "Fyra lag, ett fikabord",
+    "ny_rubrik": "Från snickeriet och byggplatserna",
+    "medarbetare": "Hantverkarna"
+  }
+}

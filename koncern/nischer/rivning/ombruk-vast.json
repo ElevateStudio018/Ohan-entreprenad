@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "rivning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ombruk Väst AB",
+  "kortnamn": "Ombruk Väst",
+  "slug": "ombruk-vast",
+  "typ": "Selektiv rivning och återbruk i Göteborg",
+  "tagline": "Rivning för återbruk",
+  "slogan": "Vi monterar ned byggnader i Göteborg så att dörrar, tegel och parkett kan användas igen.",
+  "hero_rubrik": "Det vi river hamnar i nästa hus",
+  "hero_text": "Selektiv rivning, återbruksinventering och ett eget lager på Ringön. 412 ton byggmaterial fick ett nytt liv genom oss under 2025.",
+  "intro_rubrik": "Rivning räknad i ton som stannar kvar",
+  "om": [
+    "Ombruk Väst grundades 2016 av arkitekten Linnea Ahlgren och rivaren Kristoffer Saleh, som tröttnat på att se hela trapphus av ekparkett åka i containern. Vi är i dag 22 anställda och arbetar i Göteborg, Mölndal, Kungälv och Kungsbacka.",
+    "Varje uppdrag börjar med en återbruksinventering där vi väger och fotograferar det som går att rädda. Det som inte kan återbrukas sorteras i minst sex fraktioner, enligt avfallsförordningens krav, innan det lämnar platsen."
+  ],
+  "vagval_rubrik": "Hur mycket av huset kan räddas?",
+  "tjanster": [
+    {"titel": "Selektiv rivning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Handdemontering i rätt ordning så att material lossnar helt."},
+    {"titel": "Återbruksinventering", "ikon": "sok", "href": "verksamhet.html", "text": "Vi listar, väger och fotograferar allt som går att återbruka – med koldioxidberäkning."},
+    {"titel": "Lagret på Ringön", "ikon": "lada", "href": "verksamhet.html", "text": "1 800 kvadratmeter med dörrar, tegel, radiatorer och kakel till salu."},
+    {"titel": "Asbest och PCB", "ikon": "skold", "href": "verksamhet.html", "text": "Miljöfarligt material saneras först så att resten kan räddas."},
+    {"titel": "Köksrivning", "ikon": "hem", "href": "verksamhet.html", "text": "Vi river köket och köper det hela om det är yngre än femton år."},
+    {"titel": "Klimatrapport", "ikon": "graf", "href": "hallbarhet.html", "text": "Undviken klimatpåverkan i kilo koldioxid, redo för hållbarhetsredovisningen."},
+    {"titel": "Referenser", "ikon": "ritning", "href": "projekt.html", "text": "Skolor, kontor och trapphus där materialet lever vidare."},
+    {"titel": "Boka inventering", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi kommer ut inom tio arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Selektiv rivning", "text": "Vi monterar ned inifrån och ut: armaturer, dörrar, golv, innerväggar och sist stommen. Det tar längre tid än att riva med maskin, men varje skruvad del kan säljas eller användas igen.", "text2": "I ett normalt kontorsplan återbrukar vi mellan 18 och 30 procent av vikten.", "tagg": "rivning"},
+    {"titel": "Återbruksinventering", "text": "Före rivningslovet går vår inventerare igenom byggnaden och registrerar allt som kan återbrukas i CCBuilds databas. Fastighetsägaren får en lista med vikt, skick och uppskattat värde.", "text2": "Inventeringen kan också användas som underlag för materialinventeringen som kommunen kräver.", "tagg": "interior"},
+    {"titel": "Lagret på Ringön", "text": "I vår hall på Ringön säljer vi det vi monterat ned: innerdörrar från 1930-talet, handslaget tegel, gjutjärnsradiatorer och parkettstav. Byggare och privatpersoner handlar sida vid sida.", "text2": "Lagret har öppet onsdag till lördag och tar emot beställningar från arkitekter.", "tagg": "tra"},
+    {"titel": "Miljösanering", "text": "Asbest i mattlim och PCB i fogar måste bort innan något kan återbrukas. Vi sanerar med eget tillstånd och märker allt som har varit i kontakt med farligt material.", "text2": "Sanerat material blir aldrig återbruk – det går till deponi med full spårbarhet.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Rivningslaget", "segment": "12 rivare", "rubrik": "Skruvdragare före slägga", "text": "Laget som monterar ned, sorterar och lastar. Alla har gått CCBuilds utbildning i återbruksdemontering.", "tagg": "rivning"},
+    {"namn": "Inventering & Klimat", "segment": "4 inventerare", "rubrik": "Vikt, skick och koldioxid", "text": "Arkitekter och byggingenjörer som gör återbruksinventeringar och räknar fram undviken klimatpåverkan.", "tagg": "kontor"},
+    {"namn": "Lagret på Ringön", "segment": "4 i butik och lager", "rubrik": "Där materialet byter ägare", "text": "Tar emot, rengör, prismärker och säljer. Levererar till byggarbetsplatser i hela Göteborg.", "tagg": "tra"},
+    {"namn": "Sanering", "segment": "2 sanerare", "rubrik": "Det farliga först", "text": "Asbest- och PCB-sanering med undertryck och dekontaminering, alltid innan demonteringen börjar.", "tagg": "bygg"}
+  ],
+  "berattelser": [
+    {"rubrik": "Trapphuset i Linnéstaden", "text": "Ekparketten från fem våningsplan lades om i en förskola i Kvillebäcken – 340 kvadratmeter.", "tagg": "tra"},
+    {"rubrik": "Ett kontor blev tre", "text": "Glasväggarna från ett kontorsplan på Lindholmen sitter nu i tre olika företags lokaler.", "tagg": "interior"},
+    {"rubrik": "Lagret utökar", "text": "Vi har tagit över grannhallen på Ringön och har nu 1 800 kvadratmeter yta.", "tagg": "tra"}
+  ],
+  "nyckeltal": [
+    {"varde": "412", "enhet": "ton", "etikett": "Återbrukat material 2025"},
+    {"varde": "1 800", "enhet": "kvm", "etikett": "Lagret på Ringön"},
+    {"varde": "27 %", "enhet": "", "etikett": "Snittandel återbruk per uppdrag"},
+    {"varde": "22", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "Brf Linnéstaden Övre", "ort": "Göteborg", "typ": "Selektiv rivning av trapphus", "ar": "2026", "text": "340 kvadratmeter ekparkett och 22 innerdörrar räddades och såldes vidare.", "tagg": "tra"},
+    {"namn": "Lindholmen Kontorshus, plan 4", "ort": "Göteborg", "typ": "Kontorsstrip-out", "ar": "2025", "text": "Glasväggar, undertak och 160 armaturer återbrukades i tre andra lokaler.", "tagg": "interior"},
+    {"namn": "Gamla slöjdsalen", "ort": "Mölndal", "typ": "Rivning av skolbyggnad", "ar": "2025", "text": "Handslaget tegel från 1912 rengjordes och används i en ny fasad i Kållered.", "tagg": "rivning"},
+    {"namn": "Villa på Särövägen", "ort": "Kungsbacka", "typ": "Selektiv rivning och sanering", "ar": "2024", "text": "Asbestmattor sanerades först, sedan räddades fönster, kakelugn och golvbrädor.", "tagg": "hem"},
+    {"namn": "Kungälvs Hyresbostäder", "ort": "Kungälv", "typ": "Återbruksinventering", "ar": "2024", "text": "Inventering av 96 lägenheter före stambyte – 31 ton material listat för återbruk.", "tagg": "bostad"},
+    {"namn": "Kvarnbyns industrihall", "ort": "Mölndal", "typ": "Selektiv rivning", "ar": "2026", "text": "Limträbalkar på 18 meter demonteras hela och ska bära ett nytt lager i Borås.", "tagg": "tra", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Inventering", "text": "Vår inventerare listar allt som kan återbrukas, med vikt, mått och foto.", "tagg": "interior"},
+    {"titel": "Avsättning", "text": "Vi hittar köpare innan rivningen börjar – egna projekt, vårt lager eller andra byggare.", "tagg": "tra"},
+    {"titel": "Demontering", "text": "Sanering först, sedan monterar rivningslaget ned i omvänd byggordning.", "tagg": "rivning"},
+    {"titel": "Klimatrapport", "text": "Du får en rapport med återbrukad vikt och undviken klimatpåverkan i kilo koldioxid.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi mäter det som inte hamnar i containern",
+    "text": "Varje uppdrag avslutas med en rapport som visar hur mycket som återbrukats, materialåtervunnits och deponerats. Klimatberäkningen görs med Boverkets klimatdatabas, så att siffrorna kan användas direkt i fastighetsägarens redovisning.",
+    "mal": [["30 %", "återbruk per uppdrag till 2028"], ["640 t", "undviken koldioxid sedan 2016"], ["6+", "fraktioner på varje arbetsplats"]]
+  },
+  "karriar": {"rubrik": "Bli rivare som sparar i stället för att slå sönder", "text": "Vi söker folk med bakgrund som snickare, rivare eller lagerarbetare som vill lära sig återbruk. Utbildning ingår och du får jobba i hela Storgöteborg.", "jobb": [["Rivare med inriktning återbruk", "Göteborg"], ["Återbruksinventerare", "Göteborg"], ["Lagerarbetare, Ringön", "Göteborg"]]},
+  "kultur": "Varje fredag går vi igenom veckans fynd på lagret – den bästa dörren får ett namn.",
+  "citat": {"text": "En dörr från 1934 har redan klarat nittio år. Det enda den behöver är någon som skruvar loss den i stället för att slå sönder den.", "namn": "Linnea Ahlgren", "roll": "Grundare och arkitekt", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi fick en rapport som visade 41 ton återbrukat och nästan 19 ton koldioxid undviket. Den gick rakt in i vår hållbarhetsredovisning.", "namn": "Johan P.", "ort": "Göteborg"},
+    {"text": "Jag köpte sex fyllningsdörrar på lagret till vår lägenhet i Majorna. De är vackrare än allt nytt vi tittat på.", "namn": "Emelie S.", "ort": "Göteborg"},
+    {"text": "Rivningen tog två veckor längre än en vanlig rivning, men vi sålde tegel och balkar för mer än mellanskillnaden.", "namn": "Peter K.", "ort": "Mölndal"}
+  ],
+  "faq": [
+    ["Blir selektiv rivning dyrare?", "Arbetstiden blir längre, oftast 10–25 procent. Samtidigt minskar deponikostnaden och materialet har ett värde, så nettokostnaden hamnar ofta nära en vanlig rivning."],
+    ["Vad går att återbruka?", "Innerdörrar, fönster, golv, tegel, radiatorer, armaturer, sanitetsporslin, glasväggar och limträ är vanligast. Vi bedömer skicket på plats."],
+    ["Köper ni material av privatpersoner?", "Ja, om vi får demontera det själva. Kök yngre än femton år och äldre fyllningsdörrar köper vi oftast."],
+    ["Uppfyller inventeringen kommunens krav?", "Vår återbruksinventering kan användas som underlag för den materialinventering som byggnadsnämnden kräver i samband med rivningslov."],
+    ["Hur fungerar klimatrapporten?", "Vi väger allt som återbrukas och räknar med generiska värden från Boverkets klimatdatabas. Rapporten visar undviken klimatpåverkan i kilo koldioxidekvivalenter."],
+    ["Kan jag hämta på lagret samma dag?", "Ja, under öppettiderna onsdag–lördag. Större beställningar levererar vi med vår kranbil i hela Storgöteborg."],
+    ["Tar ni emot uppdrag utanför Göteborg?", "Vi arbetar främst mellan Kungälv och Kungsbacka. Större uppdrag i Västsverige tar vi efter överenskommelse."]
+  ],
+  "certifikat": [
+    {"titel": "CCBuild", "text": "Anslutna till Centrum för cirkulärt byggande och registrerar inventeringar i dess marknadsplats.", "ikon": "glob"},
+    {"titel": "Asbesttillstånd", "text": "Arbetsmiljöverkets tillstånd för asbestsanering, förnyat 2025.", "ikon": "skold"},
+    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem med årlig revision.", "ikon": "lov"},
+    {"titel": "Kollektivavtal", "text": "Byggnads kollektivavtal för alla rivare och lagerpersonal.", "ikon": "folk"}
+  ],
+  "kunder": ["Brf Linnéstaden Övre", "Fastighets AB Kvillebäcken", "Lindholmen Kontorshus", "Mölndals Skolfastigheter", "Kungälvs Hyresbostäder", "Hisingsbyggen Arkitekter", "Majorna Byggnadsvård"],
+  "nyheter": [
+    ["2026-09-30", "Lagret är nu dubbelt så stort", "Grannhallen på Ringön är vår – mer plats för tegel, limträ och fönster.", "tra"],
+    ["2026-05-12", "Återbruk i siffror 2025", "412 ton återbrukat, 1 120 ton materialåtervunnet och 9 procent till deponi.", "rivning"],
+    ["2025-12-03", "Så läser du en återbruksinventering", "Vad vikt, skick och klimatvärde betyder när du ska bestämma vad som räddas.", "interior"]
+  ],
+  "kontakt": {"adress": "Ringögatan 19", "postnr": "417 07", "ort": "Göteborg", "telefon": "070-174 06 18", "epost": "hej@ombrukvast.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16 · Lagret ons–fre 10–18, lör 10–15",
+  "omrade": "Göteborg, Mölndal, Kungälv och Kungsbacka",
+  "fot_cta": "Ska ni riva? Boka en återbruksinventering innan något åker i containern.",
+  "bild": {"hb": "tra"},
+  "text": {
+    "hero_knapp": "Så river vi",
+    "vagval_etikett": "Tjänster",
+    "ber_etikett": "Senaste fynden",
+    "ber_rubrik": "Material som har bytt adress",
+    "proj_rubrik": "Byggnader vi har tagit isär",
+    "process_etikett": "Inventera, sälja, demontera",
+    "process_rubrik": "Köparen hittas innan rivningen börjar",
+    "hb_etikett": "Återbruk i siffror",
+    "omdomen_rubrik": "Beställare och lagerkunder berättar",
+    "faq_rubrik": "Frågor om återbruk",
+    "certifikat_rubrik": "Anslutna, certifierade och tillståndsgivna",
+    "logos_rubrik": "Har låtit oss rädda materialet",
+    "boka_rubrik": "Vad står ni och ska riva?",
+    "boka_text": "Berätta om byggnaden så föreslår vi en tid för återbruksinventering inom tio arbetsdagar.",
+    "panel_etikett": "Lediga jobb"
+  }
+}

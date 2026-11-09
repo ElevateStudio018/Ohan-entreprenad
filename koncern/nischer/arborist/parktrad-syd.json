@@ -1,0 +1,140 @@
+{
+  "profil": "arborist",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Parkträd Syd AB",
+  "kortnamn": "Parkträd Syd",
+  "slug": "parktrad-syd",
+  "typ": "Trädvård för kommuner och förvaltare i Skåne",
+  "tagline": "Ramavtal för stadsträd",
+  "slogan": "Vi inventerar, beskär och förnyar träd i parker, alléer och på bostadsgårdar – med data som beställaren kan använda i tio år.",
+  "hero_rubrik": "Varje stadsträd i vårt register har ett ID",
+  "hero_text": "Trädinventering i GIS, skötselplaner och beskärning på ramavtal åt kommuner, allmännyttan och bostadsrättsföreningar i Skåne.",
+  "intro_rubrik": "Siffrorna bakom 38 000 stadsträd",
+  "om": [
+    "Parkträd Syd bildades 2004 när två anställda på en kommunal parkförvaltning i Malmö tog med sig kunskapen om stadsträd ut i privat regi. Vi är i dag 14 anställda, varav tre trädinventerare med landskapsingenjörsexamen från Alnarp.",
+    "Våra beställare är kommuner, kommunala bostadsbolag och större bostadsrättsföreningar. De köper sällan en enstaka fällning – de vill veta vilka träd som behöver åtgärdas de kommande fem åren, vad det kostar och hur trädbeståndet ska förnyas. Därför börjar nästan alla våra uppdrag med en inventering."
+  ],
+  "vagval_rubrik": "Vilket uppdrag har ni?",
+  "tjanster": [
+    {"titel": "Trädinventering i GIS", "ikon": "karta", "href": "verksamhet.html", "text": "Varje träd mäts, fotograferas och läggs in med koordinat, art, vitalitet och åtgärdsbehov."},
+    {"titel": "Skötselplaner", "ikon": "ritning", "href": "verksamhet.html", "text": "Fem- och tioårsplaner med budget per år, kopplade till inventeringen."},
+    {"titel": "Trädvärdering", "ikon": "graf", "href": "verksamhet.html", "text": "Värdering enligt Alnarpsmodellen vid skadeärenden och exploatering."},
+    {"titel": "Allé- och parkbeskärning", "ikon": "trad", "href": "verksamhet.html", "text": "Uppbyggnadsbeskärning, kronhöjning och underhåll av hamlade träd."},
+    {"titel": "Trädskydd vid byggen", "ikon": "hjalm", "href": "verksamhet.html", "text": "Skyddsplaner och kontroll av rotzoner när entreprenörer schaktar."},
+    {"titel": "Fällning och nyplantering", "ikon": "upp", "href": "projekt.html", "text": "Vi tar ned uttjänta träd och planterar ersättningsträd med bevattningssäckar."},
+    {"titel": "Ramavtal och priser", "ikon": "portfolj", "href": "priser.html", "text": "Fasta à-priser per åtgärd för förvaltare och kommuner."},
+    {"titel": "Kontakta oss", "ikon": "kontor", "href": "om-oss.html#kontakt", "text": "Vi svarar på förfrågningsunderlag inom fem arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Inventering och data", "text": "Våra inventerare registrerar stamdiameter, kronbredd, vitalitet och skador i fält med surfplatta och RTK-GPS. Data levereras i format som passar kommunens GIS eller förvaltarens system.", "text2": "Vi har inventerat över 38 000 träd i Malmö, Lund, Trelleborg och Eslöv.", "tagg": "tradgard"},
+    {"titel": "Park och allé", "text": "Unga gatuträd behöver uppbyggnadsbeskärning under de första 15 åren för att få en fri stam och stabil krona. Äldre lindar och platanlönnar behöver regelbunden underhållsbeskärning.", "text2": "Vi arbetar efter Trafikverkets och SKR:s riktlinjer för vägträd.", "tagg": "trad"},
+    {"titel": "Bostadsgårdar", "text": "Allmännyttan och stora föreningar har ofta hundratals träd som planterades samtidigt på 1960- och 70-talen och nu blir gamla samtidigt. Vi gör en förnyelseplan så att gården inte töms på en gång.", "text2": "Boende får informationsblad på svenska, arabiska och engelska före varje insats.", "tagg": "arborist"},
+    {"titel": "Träd i exploatering", "text": "När ett kvarter ska byggas om skriver vi trädskyddsplan, sätter upp stängsel och följer upp schaktningen. Skadas ett träd värderar vi det enligt Alnarpsmodellen.", "text2": "Beloppen används som underlag för vite i entreprenadkontrakten.", "tagg": "ved"}
+  ],
+  "bolag": [
+    {"namn": "Henrik Nilsson", "segment": "Vd, landskapsingenjör", "rubrik": "Tjugo år med Malmös stadsträd", "text": "Henrik var med och byggde upp Malmös första digitala trädregister och leder i dag våra anbud och ramavtal.", "tagg": "tradgard"},
+    {"namn": "Leila Haddad", "segment": "Inventering och GIS", "rubrik": "Har mätt 14 000 träd själv", "text": "Leila leder inventeringsteamet och ansvarar för att alla data går att läsa in i beställarens system.", "tagg": "trad"},
+    {"namn": "Jonas Persson", "segment": "Arbetsledare, ETW", "rubrik": "Leder tre beskärningslag", "text": "Jonas planerar arbetet ute i parker och alléer och är kontaktperson mot driftansvariga på kommunerna.", "tagg": "arborist"},
+    {"namn": "Moa Engström", "segment": "Trädvärderare", "rubrik": "Alnarpsmodellen och trädskydd", "text": "Moa skriver trädskyddsplaner och värderingar och är den som åker ut när en grävmaskin kommit för nära.", "tagg": "ved"}
+  ],
+  "berattelser": [
+    {"rubrik": "Nytt ramavtal med Trelleborg", "text": "Fyra år med underhållsbeskärning av gatuträd och parkträd i hela kommunen.", "tagg": "trad"},
+    {"rubrik": "6 200 träd inventerade i Lund", "text": "Fältarbetet klart på elva veckor, inklusive alla träd på skolgårdar och förskolor.", "tagg": "tradgard"},
+    {"rubrik": "Trädskydd i Västra hamnen", "text": "Tolv bevarade platanlönnar följs upp under hela byggtiden fram till 2028.", "tagg": "arborist"}
+  ],
+  "nyckeltal": [
+    {"varde": "38 000", "enhet": "träd", "etikett": "Inventerade sedan 2004"},
+    {"varde": "11", "enhet": "ramavtal", "etikett": "Med kommuner och bolag"},
+    {"varde": "14", "enhet": "anställda", "etikett": "Fält, kontor och GIS"},
+    {"varde": "1:1", "enhet": "", "etikett": "Nytt träd för varje fällt"}
+  ],
+  "projekt": [
+    {"namn": "Trädregister Lund", "ort": "Lund", "typ": "Inventering i GIS", "ar": "2026", "text": "6 200 träd på kommunal mark registrerade med foto och åtgärdsklass.", "tagg": "tradgard"},
+    {"namn": "Gatuträd i Trelleborg", "ort": "Trelleborg", "typ": "Ramavtal beskärning", "ar": "2026", "text": "Underhållsbeskärning av 1 400 gatuträd per år enligt plan.", "tagg": "trad"},
+    {"namn": "Rosengårds bostadsgårdar", "ort": "Malmö", "typ": "Förnyelseplan", "ar": "2025", "text": "Plan för 820 träd där 15 procent byts ut i etapper över tio år.", "tagg": "arborist"},
+    {"namn": "Kvarteret Varvsporten", "ort": "Västra hamnen", "typ": "Trädskyddsplan", "ar": "2025", "text": "Skydd och uppföljning av tolv platanlönnar under nybyggnation.", "tagg": "ved"},
+    {"namn": "Brf Pildammsparken", "ort": "Malmö", "typ": "Skötselplan", "ar": "2025", "text": "Tioårsplan för 96 träd med budget fördelad per verksamhetsår.", "tagg": "tradgard"},
+    {"namn": "Lindallén i Eslöv", "ort": "Eslöv", "typ": "Hamling och nyplantering", "ar": "2026", "text": "Beskärning av 210 lindar och plantering av 18 ersättningsträd.", "tagg": "trad", "status": "Pågår"}
+  ],
+  "process": [
+    {"titel": "Startmöte", "text": "Vi går igenom förfrågningsunderlag, kartmaterial och befintliga register med beställaren.", "tagg": "tradgard"},
+    {"titel": "Inventering", "text": "Inventerarna mäter och bedömer varje träd i fält. Riskträd flaggas samma dag till beställaren.", "tagg": "trad"},
+    {"titel": "Åtgärdsplan", "text": "Data blir en prioriterad lista per år med kostnad per åtgärd enligt avtalets à-priser.", "tagg": "arborist"},
+    {"titel": "Utförande och rapport", "text": "Lagen utför åtgärderna och varje träd uppdateras i registret med datum, foto och utförare.", "tagg": "ved"}
+  ],
+  "hallbarhet": {
+    "rubrik": "En stad ska ha fler träd om tio år, inte färre",
+    "text": "Malmö, Lund och Trelleborg har mål för krontäckning som kräver att varje fällt träd ersätts. Vi planterar i skelettjord där det går, använder bevattningssäckar de första tre somrarna och kör elektriska lastbilar i innerstaden.",
+    "mal": [["1:1", "ersättningsträd för varje fällt träd"], ["3 år", "garanterad etableringsvattning"], ["60 %", "av körningarna i Malmö med el"]]
+  },
+  "karriar": {
+    "rubrik": "Arbeta med data och motorsåg",
+    "text": "Vi söker både arborister och inventerare. Våra anställda går ETW-utbildningen på betald arbetstid och får två dagar per år till fortbildning på Alnarp.",
+    "jobb": [["Arborist, beskärningslag", "Malmö"], ["Trädinventerare", "Lund"], ["Sommarinventerare 2027", "Skåne"]]
+  },
+  "kultur": "Fältlag och inventerare sitter vid samma bord på måndagsmötet så att planerna stämmer med verkligheten.",
+  "citat": {"text": "En kommun som vet exakt vilka träd den har kan planera tio år framåt. En kommun som inte vet släcker bränder varje höst.", "namn": "Henrik Nilsson", "roll": "Vd", "tagg": "tradgard"},
+  "omdomen": [
+    {"text": "Inventeringen levererades som shapefiler som gick rakt in i vårt system. Det har vi inte varit med om tidigare.", "namn": "Lars-Erik T., stadsträdgårdsmästare", "ort": "Lund"},
+    {"text": "Förnyelseplanen gjorde att vi slapp tömma gården på en gång. De boende fick information på tre språk och klagomålen uteblev.", "namn": "Sanna M., förvaltare", "ort": "Malmö"},
+    {"text": "Moa upptäckte att entreprenören schaktat i rotzonen och stoppade arbetet samma eftermiddag. Platanerna står kvar.", "namn": "Peter Å., projektledare", "ort": "Västra hamnen"}
+  ],
+  "faq": [
+    ["Arbetar ni med privatpersoner?", "Sällan. Vi är organiserade för kommuner, bolag och föreningar med fler än 30 träd. Villaägare hänvisar vi gärna till kollegor i regionen."],
+    ["Vilka format levererar ni data i?", "Shapefil, GeoPackage, Excel och direkt import till de vanligaste trädregistren. Vi följer SLU:s rekommendationer för trädinventering."],
+    ["Hur går upphandlingen till?", "Vi lämnar anbud på offentliga upphandlingar enligt LOU och kan också ta direktupphandlade uppdrag under gränsen."],
+    ["Vad är Alnarpsmodellen?", "En svensk metod för att värdera träd i pengar utifrån art, storlek, kondition och placering. Den används vid skadestånd och exploatering."],
+    ["Hur lång tid tar en inventering?", "En inventerare hinner 120–200 träd per dag beroende på hur tätt de står. 1 000 träd tar oftast två till tre veckor med rapport."],
+    ["Kan ni hjälpa till med förfrågningsunderlag?", "Ja, vi skriver tekniska beskrivningar för trädskötsel åt kommuner som inte har egen arborist."]
+  ],
+  "priser": [
+    {"namn": "Inventering brf", "pris": "fr. 9 500 kr", "enhet": "upp till 50 träd", "text": "Register med foto och åtgärdsklass för föreningens träd.", "punkter": ["Mätning och bedömning av varje träd", "Karta och tabell i PDF", "Riskträd flaggas samma dag", "Genomgång med styrelsen"]},
+    {"namn": "Skötselplan 10 år", "pris": "fr. 24 000 kr", "enhet": "upp till 150 träd", "text": "Inventering plus plan och budget för tio år.", "punkter": ["Fullständig inventering", "Åtgärder och kostnad per år", "Förnyelseplan för gamla träd", "Uppdatering efter fem år ingår"], "utvald": true},
+    {"namn": "Fällning upp till 15 m", "pris": "5 800 kr", "enhet": "per träd", "text": "Fällning med flisning och ersättningsträd.", "punkter": ["Sektionsfällning vid behov", "Stubbfräsning ingår", "Ersättningsträd 16–18 cm", "Registret uppdateras"]}
+  ],
+  "prislista": [
+    ["Inventering, per träd över 50", "95 kr"],
+    ["Trädvärdering enligt Alnarpsmodellen", "fr. 3 800 kr"],
+    ["Trädskyddsplan vid byggprojekt", "fr. 14 000 kr"],
+    ["Uppbyggnadsbeskärning ungt träd", "480 kr/st"],
+    ["Underhållsbeskärning alléträd", "fr. 1 900 kr/st"],
+    ["Hamling av lind", "fr. 1 400 kr/st"],
+    ["Plantering av ersättningsträd", "fr. 6 500 kr/st"],
+    ["Arborist med lift", "1 450 kr/tim"],
+    ["Bevattningssäck och vattning, per säsong", "850 kr/träd"]
+  ],
+  "certifikat": [
+    {"titel": "European Tree Worker", "text": "Alla lagledare och sex arborister är ETW-certifierade.", "ikon": "skold"},
+    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem som krävs i de flesta kommunala upphandlingar.", "ikon": "lov"},
+    {"titel": "Arbete på väg nivå 2", "text": "Alla som arbetar med gatuträd har utbildning för arbete på väg.", "ikon": "vag"},
+    {"titel": "Ansvarsförsäkring 20 Mkr", "text": "Täcker skador på tredje man, fordon och kommunal egendom.", "ikon": "las"}
+  ],
+  "galleri_taggar": ["tradgard", "trad", "arborist", "ved"],
+  "nyheter": [
+    ["2026-10-15", "Planera trädbudgeten för 2027", "Därför ska styrelser ha en skötselplan innan årsstämman.", "tradgard"],
+    ["2026-07-02", "Torkan och de unga gatuträden", "Så klarade sig 2 000 nyplanterade träd i Malmö i sommarens värme.", "trad"],
+    ["2026-03-18", "Vi har vunnit Trelleborgs upphandling", "Fyra års avtal för gatuträd och parker börjar i maj.", "arborist"]
+  ],
+  "kontakt": {"adress": "Lundavägen 145", "postnr": "212 24", "ort": "Malmö", "telefon": "070-174 06 48", "epost": "info@parktradsyd.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Skåne, främst Malmö, Lund, Trelleborg och Eslöv",
+  "fot_cta": "Ska ni upphandla trädskötsel? Vi hjälper gärna till med underlaget redan nu.",
+  "bild": {"panel": "tradgard", "hb": "trad", "sida_priser": "trad"},
+  "text": {
+    "kontakt_knapp": "Kontakta oss",
+    "hero_lank": "Ramavtal och à-priser",
+    "ber_rubrik": "Aktuellt från uppdragen",
+    "proj_rubrik": "Kommuner och förvaltare vi arbetar för",
+    "process_rubrik": "Från register till utfört arbete",
+    "hb_etikett": "Miljö & förnyelse",
+    "omdomen_rubrik": "Beställarna om samarbetet",
+    "faq_rubrik": "Frågor från beställare",
+    "priser_rubrik": "À-priser som går att budgetera",
+    "priser_not": "Priser exklusive moms. Ramavtalspriser lämnas i anbud.",
+    "galleri_rubrik": "Parker, alléer och gårdar",
+    "boka_rubrik": "Berätta om ert trädbestånd",
+    "boka_text": "Ange ungefärligt antal träd, vilka områden det gäller och om det finns ett befintligt register.",
+    "bolag_rubrik": "Specialisterna",
+    "certifikat_rubrik": "Krav som upphandlingar ställer"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "profil": "nisch",
+  "nisch": "solel",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Växelverket Solservice AB",
+  "kortnamn": "Växelverket",
+  "slug": "vaxelverket",
+  "typ": "Service och jour för solceller i Skåne",
+  "tagline": "Service, felsökning, jour",
+  "slogan": "Vi installerar sällan nytt – vi får befintliga solcellsanläggningar att fungera igen.",
+  "hero_rubrik": "Vi tar hand om solceller andra lämnat",
+  "hero_text": "Har installatören gått i konkurs eller slutat svara? Vi felsöker, byter växelriktare och tar över garantiärenden i hela Skåne – oftast inom 48 timmar.",
+  "intro_rubrik": "Skånes solcellsverkstad",
+  "om": [
+    "Nils Åkesson var servicetekniker hos en av Skånes större installatörer när den gick i konkurs 2023. Telefonen fortsatte ringa – från kunder med svarta displayer, felkoder och ingen att vända sig till. Året efter startade han Växelverket i en verkstad på Jägersro.",
+    "I dag är vi tolv tekniker och elektriker med fem servicebilar och ett eget lager med 140 växelriktare av de vanligaste märkena. Vi har tagit över ansvaret för drygt 3 400 anläggningar som byggts av andra."
+  ],
+  "vagval_rubrik": "Vad har hänt med anläggningen?",
+  "tjanster": [
+    {"titel": "Felsökning", "ikon": "sok", "href": "verksamhet.html", "text": "Tekniker på plats inom 48 timmar, med mätinstrument och reservdelar i bilen."},
+    {"titel": "Byte av växelriktare", "ikon": "kugge", "href": "verksamhet.html", "text": "140 växelriktare i lager – oftast byte samma dag som felsökningen."},
+    {"titel": "Jour för företag", "ikon": "telefon", "href": "verksamhet.html", "text": "Dygnetruntjour för kommersiella anläggningar över 100 kW."},
+    {"titel": "Termografi med drönare", "ikon": "kamera", "href": "verksamhet.html", "text": "Värmekamera hittar trasiga celler och glappa kontakter på en timme."},
+    {"titel": "Serviceavtal", "ikon": "dokument", "href": "verksamhet.html", "text": "Årlig kontroll, övervakning och fast pris på åtgärder."},
+    {"titel": "Övertagna anläggningar", "ikon": "nyckel", "href": "verksamhet.html", "text": "Vi tar över anläggningar vars installatör inte längre finns."},
+    {"titel": "Batteri i efterhand", "ikon": "laddning", "href": "verksamhet.html", "text": "Vi kompletterar befintliga anläggningar med batteri och ny styrning."},
+    {"titel": "Prislista", "ikon": "portfolj", "href": "verksamhet.html", "text": "Fasta priser för de vanligaste åtgärderna."}
+  ],
+  "affarsomraden": [
+    {"titel": "Felsökning och reparation", "text": "Det vanligaste felet är en växelriktare som slutat, följt av glappa MC4-kontakter och skadade kablar efter mårdar och kajor. Vi mäter isolationsresistans och strängspänning och hittar felet på plats.", "text2": "Fast pris för felsökning: 2 900 kr inklusive första timmen.", "tagg": "solel"},
+    {"titel": "Byte av växelriktare", "text": "Många anläggningar från 2015–2019 har växelriktare som närmar sig slutet av sin livslängd. Vi byter till en modell som passar panelerna och kan förberedas för batteri.", "text2": "Arbetet ger 15 procents grönt avdrag för privatpersoner.", "tagg": "el"},
+    {"titel": "Jour och företagsservice", "text": "För lantbruk, industri och fastighetsbolag med större anläggningar har vi dygnetruntjour och fjärrövervakning. Ett stopp i juni kan kosta tusentals kronor om dagen.", "text2": "Jourkunder har en tekniker på plats inom åtta timmar.", "tagg": "industri"},
+    {"titel": "Termografi och besiktning", "text": "Med drönare och värmekamera hittar vi heta celler, trasiga bypassdioder och smutsiga paneler innan de blir produktionsförluster.", "text2": "Passar också vid husköp – vi besiktar anläggningen innan ni skriver kontrakt.", "tagg": "tak"}
+  ],
+  "bolag": [
+    {"namn": "Utryckning", "segment": "Fem servicebilar", "rubrik": "Bilen är verkstaden", "text": "Varje bil har växelriktare, kablage, kontakter och mätinstrument så att de flesta fel kan åtgärdas vid första besöket.", "tagg": "el"},
+    {"namn": "Övervakningscentralen", "segment": "Fjärrövervakning", "rubrik": "Vi ser felet innan du gör det", "text": "Två tekniker som följer 1 900 uppkopplade anläggningar och larmar ut vid avvikelser.", "tagg": "kontor"},
+    {"namn": "Drönarteamet", "segment": "Termografi och besiktning", "rubrik": "Värmekamera från luften", "text": "Certifierade drönarpiloter som termograferar allt från villatak till solparker.", "tagg": "solel"}
+  ],
+  "berattelser": [
+    {"rubrik": "420 kunder från en konkurs", "text": "När en installatör i Helsingborg gick i konkurs i våras tog vi över serviceansvaret för alla dess anläggningar.", "tagg": "solel"},
+    {"rubrik": "En kaja i Kävlinge", "text": "Ett fågelbo under panelerna hade gnagt av en strängkabel. Felet var hittat och lagat på 40 minuter.", "tagg": "tak"},
+    {"rubrik": "Ny drönare med radiometrisk kamera", "text": "Nu mäter vi exakta temperaturer på varje cell, även på stora parker.", "tagg": "el"}
+  ],
+  "nyckeltal": [
+    {"varde": "48 h", "enhet": "", "etikett": "Längsta väntan på tekniker"},
+    {"varde": "3 400", "enhet": "", "etikett": "Anläggningar vi har tagit över"},
+    {"varde": "140", "enhet": "st", "etikett": "Växelriktare i lager"},
+    {"varde": "87 %", "enhet": "", "etikett": "Löses vid första besöket"}
+  ],
+  "projekt": [
+    {"namn": "Övertagande Helsingborg", "ort": "Helsingborg", "typ": "420 anläggningar", "ar": "2026", "text": "Serviceansvar för alla kunder efter en installatörs konkurs.", "tagg": "solel", "status": "Pågående"},
+    {"namn": "Söderslätts Grönsaker", "ort": "Trelleborg", "typ": "Jour, 360 kW", "ar": "2025", "text": "Dygnetruntjour för ett packeri med kylrum och solceller på två hallar.", "tagg": "industri"},
+    {"namn": "Villa i Staffanstorp", "ort": "Staffanstorp", "typ": "Byte av växelriktare", "ar": "2025", "text": "Anläggning från 2016 åter i drift samma dag, nu förberedd för batteri.", "tagg": "hem"},
+    {"namn": "Lunds Studentbostäder", "ort": "Lund", "typ": "Termografi, 14 tak", "ar": "2025", "text": "Drönarbesiktning som hittade 38 trasiga paneler på en förmiddag.", "tagg": "bostad"},
+    {"namn": "Gården i Skurup", "ort": "Skurup", "typ": "Felsökning, 120 kW", "ar": "2026", "text": "Isolationsfel efter blixtnedslag – tre strängar lagade på en dag.", "tagg": "el", "status": "Utfört"},
+    {"namn": "Husköp i Höllviken", "ort": "Höllviken", "typ": "Besiktning vid köp", "ar": "2024", "text": "Besiktning som sänkte köpeskillingen med 40 000 kronor.", "tagg": "tak"}
+  ],
+  "process": [
+    {"titel": "Ring eller skicka felkoden", "text": "Ta en bild på växelriktarens display. Med felkoden kan vi ofta säga vad som är fel redan i telefon.", "tagg": "people"},
+    {"titel": "Tekniker på plats", "text": "Inom 48 timmar kommer en tekniker med mätinstrument och de reservdelar som sannolikt behövs.", "tagg": "el"},
+    {"titel": "Åtgärd och fast pris", "text": "Du får pris innan vi byter något. 87 procent av felen löses vid första besöket.", "tagg": "solel"},
+    {"titel": "Övervakning", "text": "Vi kopplar upp anläggningen så att vi ser nästa fel innan du gör det.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Reparera före byte",
+    "text": "En solpanel som tas ner i förtid är ett slöseri med glas, aluminium och kisel. Vi lagar kontakter, byter bypassdioder och flyttar hellre en panel än skrotar den. Det som inte går att laga lämnas till El-Kretsen för materialåtervinning.",
+    "mal": [["92 %", "av felanmälda paneler sitter kvar efter åtgärd"], ["100 %", "av uttjänt utrustning till återvinning"], ["5", "servicebilar med reservdelslager"]]
+  },
+  "karriar": {
+    "rubrik": "För dig som hellre felsöker än monterar",
+    "text": "Vi letar efter elektriker som gillar mätinstrument och problemlösning. Du får egen servicebil, jour i rullande schema och utbildning hos de stora växelriktartillverkarna.",
+    "jobb": [["Servicetekniker solel", "Malmö"], ["Elektriker med jour", "Helsingborg"]]
+  },
+  "kultur": "Varje fredag går vi igenom veckans konstigaste fel – vinnaren slipper diska i verkstaden.",
+  "citat": {"text": "Det finns tiotusentals anläggningar i Skåne där installatören inte längre svarar. Panelerna håller i 30 år. Någon måste finnas där i 30 år.", "namn": "Nils Åkesson", "roll": "Grundare och servicechef", "tagg": "people"},
+  "omdomen": [
+    {"text": "Displayen hade varit svart i tre månader och företaget som byggde den fanns inte längre. Växelverket kom på torsdagen och anläggningen gick igen samma eftermiddag.", "namn": "Eva M.", "ort": "Staffanstorp"},
+    {"text": "Jouren ringde oss innan vi själva hade märkt att en hall stod still. Det kallar jag service.", "namn": "Tomas P.", "ort": "Trelleborg"},
+    {"text": "Besiktningen före husköpet hittade två trasiga paneler och en växelriktare på upphällningen.", "namn": "Sanna och Ali R.", "ort": "Höllviken"}
+  ],
+  "faq": [
+    ["Servar ni anläggningar som andra har byggt?", "Ja, det är huvuddelen av vårt arbete. Vi servar alla vanliga märken av paneler, växelriktare och batterier."],
+    ["Gäller tillverkarens garanti om installatören har gått i konkurs?", "Ofta ja. Produktgarantin ligger hos tillverkaren, och vi kan driva garantiärendet åt dig."],
+    ["Hur vet jag om anläggningen producerar som den ska?", "Jämför årets produktion med tidigare år i appen. En nedgång på mer än tio procent bör undersökas."],
+    ["Vad kostar ett serviceavtal?", "Från 1 490 kr per år för en villa. Då ingår övervakning, årlig fjärrkontroll och 20 procents rabatt på åtgärder."],
+    ["Kan ni lägga till ett batteri på en gammal anläggning?", "Ja, oftast i kombination med en ny hybridväxelriktare. Batteriet ger 50 procents grönt avdrag."],
+    ["Har ni jour för privatpersoner?", "Nej, dygnetruntjouren gäller företagsavtal. Privatkunder hjälper vi vardagar inom 48 timmar."],
+    ["Åker ni utanför Skåne?", "Till Blekinge och södra Halland för företagskunder, annars håller vi oss i Skåne."]
+  ],
+  "priser": [
+    {"namn": "Bas", "pris": "1 490 kr", "enhet": "per år, villa", "text": "För dig som vill veta att allt fungerar.", "punkter": ["Fjärrövervakning med larm", "Årlig fjärrkontroll", "Rapport varje januari", "20 % rabatt på åtgärder"]},
+    {"namn": "Trygg", "pris": "2 990 kr", "enhet": "per år, villa", "text": "Med besök och termografi vartannat år.", "punkter": ["Allt i Bas", "Platsbesök vartannat år", "Drönartermografi", "Felsökning ingår"], "utvald": true},
+    {"namn": "Företag", "pris": "fr. 14 000 kr", "enhet": "per år", "text": "För anläggningar över 100 kW.", "punkter": ["Dygnetruntjour", "Tekniker inom 8 timmar", "Årlig termografi", "Kvartalsrapport"]}
+  ],
+  "prislista": [["Felsökning inkl. första timmen", "2 900 kr"], ["Extra timme", "950 kr"], ["Byte av växelriktare 8 kW, inkl. enhet", "fr. 21 500 kr"], ["Byte av MC4-kontakter, per sträng", "1 200 kr"], ["Drönartermografi villa", "3 400 kr"], ["Besiktning vid husköp", "4 900 kr"], ["Fågelskydd runt anläggningen", "fr. 6 800 kr"], ["Panelbyte, per panel inkl. arbete", "fr. 3 600 kr"]],
+  "certifikat": [
+    {"titel": "Auktorisation B", "text": "Registrerat elinstallatörsföretag hos Elsäkerhetsverket.", "ikon": "blixt"},
+    {"titel": "Drönarcertifikat A2", "text": "Våra piloter har behörighet från Transportstyrelsen för flygning nära bebyggelse.", "ikon": "kamera"},
+    {"titel": "Tillverkarcertifierade", "text": "Utbildade och godkända servicepartner hos fyra växelriktartillverkare.", "ikon": "kugge"},
+    {"titel": "Ansluten till El-Kretsen", "text": "Uttjänta paneler och växelriktare lämnas till producentansvarets återvinning.", "ikon": "lov"}
+  ],
+  "kunder": ["Söderslätts Grönsaker AB", "Lunds Studentbostäder", "Brf Västra Hamnens Kaj", "Kävlinge Bostads AB", "Österlens Äppelgård", "Burlövs Logistikcenter", "Ystads Fritidsfastigheter"],
+  "nyheter": [
+    ["2026-09-24", "Vi tar över 420 anläggningar i Helsingborg", "Kunder till den konkursade installatören får service till samma villkor.", "solel"],
+    ["2026-05-13", "Fem felkoder du kan åtgärda själv", "Innan du ringer: så startar du om växelriktaren på rätt sätt.", "el"],
+    ["2025-12-02", "Kajor och mårdar under panelerna", "Så skyddar du kablarna inför våren – och vad ett fågelnät kostar.", "tak"]
+  ],
+  "kontakt": {"adress": "Jägersrovägen 160", "postnr": "212 37", "ort": "Malmö", "telefon": "070-174 06 42", "epost": "service@vaxelverket.se", "orgnr": ""},
+  "oppettider": "Mån–fre 07–17, jour dygnet runt för företagsavtal",
+  "omrade": "Hela Skåne, för företag även Blekinge och södra Halland",
+  "fot_cta": "Svart display eller konstig felkod? Skicka en bild så ringer vi inom två timmar.",
+  "bild": {"panel": "el", "hb": "solel"},
+  "text": {
+    "kontakt_knapp": "Felanmäl",
+    "hero_knapp": "Felanmäl din anläggning",
+    "hero_lank": "Se prislistan",
+    "vagval_etikett": "Felanmälan",
+    "ber_rubrik": "Fel vi har hittat nyligen",
+    "proj_rubrik": "Anläggningar som går igen",
+    "proj_kol": ["Uppdrag", "Ort", "Åtgärd", "Status", "År"],
+    "process_rubrik": "Från felkod till full produktion",
+    "hb_etikett": "Laga, inte slänga",
+    "omdomen_rubrik": "Kunder som fick tillbaka sin el",
+    "faq_rubrik": "Frågor om service och garantier",
+    "priser_rubrik": "Serviceavtal med fast pris",
+    "priser_knapp": "Teckna avtal",
+    "priser_not": "Priser inklusive moms. Privatpersoner får grönt avdrag på arbetskostnaden vid byte av utrustning.",
+    "boka_rubrik": "Felanmäl din anläggning",
+    "boka_text": "Skriv adress, märke på växelriktaren och felkoden. Bifoga gärna en bild på displayen.",
+    "boka_knapp": "Skicka felanmälan",
+    "boka_falt": ["Namn", "Telefon", "Adress", "Märke och felkod"],
+    "logos_rubrik": "Företag med jouravtal",
+    "certifikat_rubrik": "Behöriga att laga det andra byggt",
+    "bolag_rubrik": "Tre team, ett servicelöfte",
+    "ny_rubrik": "Felkoder och råd",
+    "medarbetare": "Teknikerna"
+  }
+}

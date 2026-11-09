@@ -1,0 +1,137 @@
+{
+  "profil": "nisch",
+  "nisch": "sotare",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Sotjouren Väst AB",
+  "kortnamn": "Sotjouren",
+  "slug": "sotjouren-vast",
+  "typ": "Skorstensjour dygnet runt i Storgöteborg",
+  "tagline": "Jour dygnet runt",
+  "slogan": "När det har brunnit i skorstenen, när huven har blåst av eller när koloxidlarmet tjuter – då ringer man oss, oavsett klockslag.",
+  "hero_rubrik": "Soteld i natt? Vi är på väg.",
+  "hero_text": "Akut kontroll efter skorstensbrand, stormskador och rökgasläckage. Vi svarar inom fem minuter och är på plats inom tre timmar i hela Storgöteborg.",
+  "intro_rubrik": "Byggt för de samtal som kommer klockan tre",
+  "om": [
+    "Sotjouren startades 2012 av skorstensfejarmästaren Tobias Frick, efter en vinter då han fick tjugo samtal från familjer som stod med en kall eldstad efter en soteld och inte fick tag i någon sotare förrän veckan efter. Det blev hans affärsidé.",
+    "I dag är vi 28 anställda med bas i Hisings Backa. Sju skorstensfejartekniker har jour i rullande schema, och vi arbetar på uppdrag av privatpersoner, försäkringsbolag, fastighetsjourer och räddningstjänsten. Dagtid gör vi kamerainspektioner, insatsrör och reparationer efter skador."
+  ],
+  "vagval_rubrik": "Vad har hänt?",
+  "tjanster": [
+    {"titel": "Efter soteld", "ikon": "eld", "href": "verksamhet.html", "text": "Kontroll av rökkanalen efter skorstensbrand – du får inte elda igen förrän den är gjord."},
+    {"titel": "Stormskador", "ikon": "vind", "href": "verksamhet.html", "text": "Avblåsta huvar, lösa plåtar och skadade murkrön säkras samma natt."},
+    {"titel": "Koloxidlarm", "ikon": "blixt", "href": "verksamhet.html", "text": "Rökgasläckage spåras med mätinstrument och kanalen stängs tills den är tät."},
+    {"titel": "Kamerainspektion", "ikon": "kamera", "href": "verksamhet.html", "text": "Vi filmar hela rökkanalen och dokumenterar sprickor för försäkringsbolaget."},
+    {"titel": "Skaderapport", "ikon": "dokument", "href": "verksamhet.html", "text": "Rapport med bilder och åtgärdsförslag, klar inom 48 timmar."},
+    {"titel": "Insatsrör", "ikon": "ror", "href": "verksamhet.html", "text": "När kanalen har spruckit monterar vi insatsrör inom två veckor."},
+    {"titel": "Fastighetsjourer", "ikon": "nyckel", "href": "verksamhet.html", "text": "Avtal för fastighetsägare med prioriterad utryckning och nyckelhantering."},
+    {"titel": "Ring jouren", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ett nummer, dygnet runt, alla dagar om året."}
+  ],
+  "affarsomraden": [
+    {"titel": "Kontroll efter soteld", "text": "En soteld kan bli 1 200 grader varm och spräcka både murbruk och tegel. Räddningstjänsten släcker, men eldstaden får inte användas igen förrän en skorstensfejare har kontrollerat rökkanalen.", "text2": "Vi gör kontrollen samma dygn, med kamera och provtryckning, och skickar protokollet direkt till räddningstjänsten.", "tagg": "brand"},
+    {"titel": "Stormskador på skorstenar", "text": "När höststormarna drar in från Kattegatt blåser huvar och plåtbeslag loss. Vi säkrar skorstenen från skylift och täcker öppningen tills den kan lagas.", "text2": "Under januaristormen 2026 gjorde vi 61 utryckningar på två dygn.", "tagg": "tak"},
+    {"titel": "Rökgasläckage", "text": "Ett koloxidlarm som går i ett hus med eldstad ska alltid tas på allvar. Vi mäter koloxid i rummen, letar läckaget och stänger kanalen tills den är säker.", "text2": "Vid akut fara ska du alltid ringa 112 först – vi kommer efter räddningstjänsten.", "tagg": "skorsten"},
+    {"titel": "Skadeutredning åt försäkringsbolag", "text": "Försäkringsbolag och skadereglerare anlitar oss för opartisk bedömning av skador på skorstenar efter brand, blixtnedslag och storm.", "text2": "Rapporten innehåller filmade kanaler, mätvärden och en kostnadsbedömning.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Jourlaget", "segment": "Dygnet runt", "rubrik": "Sju tekniker i rullande schema", "text": "Två tekniker är alltid i tjänst, med varsin fullutrustad bil och skylift på släp.", "tagg": "skorsten"},
+    {"namn": "Skadeteamet", "segment": "Utredning och rapport", "rubrik": "Kamera, mätning, dokumentation", "text": "Gör skadeutredningar åt försäkringsbolag och skriver rapporterna inom 48 timmar.", "tagg": "kontor"},
+    {"namn": "Reparation", "segment": "Insatsrör och murning", "rubrik": "Laga det som gick sönder", "text": "Nio montörer och murare som reparerar efter skadan – insatsrör, nya krön och plåtbeslag.", "tagg": "tak"},
+    {"namn": "Larmcentralen", "segment": "Växel och utlarmning", "rubrik": "Svarar inom fem minuter", "text": "Tar emot samtalen, prioriterar och skickar närmaste tekniker. Bemannad dygnet runt sedan 2019.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "61 utryckningar på två dygn", "text": "Januaristormen tog huvar och plåtar från Särö till Kungälv. Alla skorstenar var säkrade inom 36 timmar.", "tagg": "tak"},
+    {"rubrik": "Ny skylift på Hisingen", "text": "Vår andra skylift når 21 meter och gör att vi kan säkra skorstenar på flerbostadshus utan ställning.", "tagg": "skorsten"},
+    {"rubrik": "Avtal med tre fastighetsjourer", "text": "Fastighetsägare med 9 000 lägenheter i Göteborg har nu prioriterad utryckning hos oss.", "tagg": "bostad"}
+  ],
+  "nyckeltal": [
+    {"varde": "24/7", "enhet": "", "etikett": "Jour alla dagar om året"},
+    {"varde": "5", "enhet": "minuter", "etikett": "Längsta svarstid i växeln"},
+    {"varde": "3", "enhet": "timmar", "etikett": "Till plats i Storgöteborg"},
+    {"varde": "1 870", "enhet": "utryckningar", "etikett": "Under 2025"}
+  ],
+  "projekt": [
+    {"namn": "Soteld i Kärra", "ort": "Göteborg", "typ": "Kontroll efter brand", "ar": "2026", "text": "Kanalen kontrollerad kl. 02.40, sprucken – insatsrör monterat tolv dagar senare.", "tagg": "brand"},
+    {"namn": "Januaristormen", "ort": "Kungälv–Särö", "typ": "Stormskador", "ar": "2026", "text": "61 skorstenar säkrade på två dygn, varav 14 på flerbostadshus.", "tagg": "tak"},
+    {"namn": "Radhus i Mölndal", "ort": "Mölndal", "typ": "Koloxidlarm", "ar": "2025", "text": "Läckage från en spräckt rökkanal i mellanväggen – hittat och stängt på 40 minuter.", "tagg": "skorsten"},
+    {"namn": "Fastighets AB Göta Älvstrand", "ort": "Göteborg", "typ": "Jouravtal", "ar": "2025", "text": "Prioriterad utryckning till 3 200 lägenheter med eldstäder på Hisingen.", "tagg": "bostad"},
+    {"namn": "Villa i Torslanda", "ort": "Torslanda", "typ": "Blixtnedslag", "ar": "2025", "text": "Skadeutredning åt försäkringsbolaget efter blixtnedslag i murstocken.", "tagg": "kontor"},
+    {"namn": "Sekelskifteshus i Partille", "ort": "Partille", "typ": "Ommurning efter soteld", "ar": "2026", "text": "Murstocken byggs om från taket och ner efter en kraftig soteld i oktober.", "tagg": "skorsten", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Du ringer", "text": "Larmcentralen svarar inom fem minuter och ställer fem frågor om vad som har hänt.", "tagg": "people"},
+    {"titel": "Vi åker", "text": "Närmaste tekniker får uppdraget direkt. Du får ett sms med beräknad ankomsttid.", "tagg": "skorsten"},
+    {"titel": "Säkra och kontrollera", "text": "Vi kontrollerar kanalen, säkrar skador och lämnar besked om du får elda eller inte.", "tagg": "brand"},
+    {"titel": "Rapport och reparation", "text": "Inom 48 timmar får du rapport till försäkringsbolaget och ett fast pris på reparationen.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen jourtekniker kör trött",
+    "text": "Ett jourpass är högst 14 timmar, och efter en natt med fler än tre utryckningar tar en kollega över morgonen. Ingen går upp på ett tak ensam efter mörkrets inbrott, och vid kuling arbetar vi bara från skylift.",
+    "mal": [["14 h", "längsta jourpasset"], ["2", "tekniker på tak nattetid"], ["48 h", "till färdig skaderapport"]]
+  },
+  "karriar": {
+    "rubrik": "Jour med betald beredskap",
+    "text": "Jourteknikerna har beredskapsersättning varje vecka de ingår i schemat, plus OB och övertid vid utryckning. Du har jour var tredje vecka och är ledig veckan efter.",
+    "jobb": [["Skorstensfejartekniker med jour", "Göteborg"], ["Montör insatsrör", "Göteborg"], ["Larmoperatör natt", "Hisings Backa"]]
+  },
+  "kultur": "Efter varje stormnatt bjuder vi hela jourlaget på frukost – och den som tog flest samtal väljer var.",
+  "citat": {"text": "Folk ringer oss när de är rädda. Det första vi gör är att lyssna, det andra är att åka.", "namn": "Tobias Frick", "roll": "Grundare och skorstensfejarmästare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Det brann i skorstenen en lördagskväll. Brandkåren släckte, och Sotjouren var hos oss före midnatt. Vi visste vad som gällde innan vi la oss.", "namn": "Josefine A.", "ort": "Kärra"},
+    {"text": "Rapporten var så tydlig att försäkringsbolaget godkände reparationen samma vecka.", "namn": "Per-Olof W.", "ort": "Torslanda"},
+    {"text": "Vi har jouravtal för tre bostadsområden. De svarar alltid, och de ringer tillbaka när det är klart.", "namn": "Annika R., förvaltare", "ort": "Hisingen"}
+  ],
+  "faq": [
+    ["Vad ska jag göra vid soteld?", "Ring 112, stäng luckor och spjäll och ställ dig utomhus. Ring oss när räddningstjänsten har släckt – du får inte elda igen förrän kanalen är kontrollerad."],
+    ["Vad kostar en utryckning?", "Vardagar 7–17 kostar en akut kontroll 2 900 kronor. Kvällar, nätter och helger 4 600 kronor. Försäkringen täcker ofta kostnaden efter brand eller storm."],
+    ["Ersätter försäkringen?", "Skador efter soteld, storm och blixtnedslag täcks oftast av hemförsäkringen, minus självrisk. Vår rapport är skriven för att skickas direkt till försäkringsbolaget."],
+    ["Är ni kommunens sotare?", "Nej, den ordinarie sotningen sköts av kommunens avtalssotare. Vi är specialiserade på akuta lägen och reparationer."],
+    ["Hur långt åker ni?", "Inom Storgöteborg, Kungälv, Kungsbacka och Alingsås lovar vi tre timmar. Längre bort åker vi efter överenskommelse."],
+    ["Kan ni komma även om inget har brunnit?", "Ja, om det luktar rök inomhus, om drag saknas eller om du hört ett smäll i skorstenen kommer vi och kontrollerar."]
+  ],
+  "prislista": [
+    ["Akut kontroll, vardag 7–17", "2 900 kr"],
+    ["Akut kontroll, kväll, natt och helg", "4 600 kr"],
+    ["Kamerainspektion med film", "3 400 kr"],
+    ["Säkring av skorsten med skylift", "fr. 5 800 kr"],
+    ["Koloxidmätning och läcksökning", "2 200 kr"],
+    ["Skaderapport till försäkringsbolag", "1 900 kr"],
+    ["Insatsrör efter brand, monterat", "fr. 26 500 kr"],
+    ["Jouravtal för fastighetsägare", "fr. 1 200 kr/mån"]
+  ],
+  "certifikat": [
+    {"titel": "Skorstensfejarmästare", "text": "Tobias Frick och två kollegor har mästarbrev, och sju tekniker har behörighet för brandskyddskontroll.", "ikon": "stjarna"},
+    {"titel": "Heta arbeten", "text": "Alla montörer och tekniker har certifikat för heta arbeten från Brandskyddsföreningen.", "ikon": "eld"},
+    {"titel": "Liftbehörighet", "text": "Utbildning för mobila arbetsplattformar enligt Arbetsmiljöverkets föreskrifter, för skylift upp till 21 meter.", "ikon": "hjalm"},
+    {"titel": "Kalibrerade instrument", "text": "Rökgas- och koloxidmätare kalibreras två gånger om året hos ackrediterat laboratorium.", "ikon": "sok"}
+  ],
+  "kunder": ["Fastighets AB Göta Älvstrand", "Brf Kärrablick", "Backa Hyresfastigheter", "Skadeservice Väst", "Försäkringsbolaget Västkust Ömsesidig", "Brf Furulund", "Brf Ängåsen"],
+  "nyheter": [
+    ["2026-10-30", "Stormsäsongen är här", "Fem tecken på att huven eller plåten på din skorsten sitter löst.", "tak"],
+    ["2026-05-12", "Ny skylift når 21 meter", "Nu kan vi säkra skorstenar på flerbostadshus utan att bygga ställning.", "skorsten"],
+    ["2026-01-19", "Januaristormen i siffror", "61 utryckningar, 36 timmar och ett jourlag som behövde sova.", "people"]
+  ],
+  "kontakt": {"adress": "Exportgatan 34", "postnr": "422 46", "ort": "Hisings Backa", "telefon": "070-174 06 38", "epost": "jour@sotjourenvast.se", "orgnr": ""},
+  "oppettider": "Jour dygnet runt · Kontor mån–fre 7–16",
+  "omrade": "Storgöteborg, Kungälv, Kungsbacka och Alingsås",
+  "fot_cta": "Har det brunnit i skorstenen? Ring oss direkt – även klockan tre på natten.",
+  "bild": {"panel": "brand", "hb": "skorsten"},
+  "text": {
+    "kontakt_knapp": "Ring jouren",
+    "hero_knapp": "Vad har hänt?",
+    "vagval_etikett": "Akut",
+    "ber_etikett": "Från jouren",
+    "ber_rubrik": "Senaste nätterna",
+    "proj_rubrik": "Utryckningar och reparationer",
+    "process_etikett": "När du ringer",
+    "process_rubrik": "Från samtal till säker skorsten",
+    "bolag_rubrik": "Fyra enheter, en jour",
+    "hb_etikett": "Säkerhet i jouren",
+    "omdomen_rubrik": "De ringde mitt i natten",
+    "faq_rubrik": "Frågor efter en skorstensbrand",
+    "boka_rubrik": "Inte akut? Skriv till oss",
+    "boka_text": "För akuta lägen – ring. För kamerainspektion, offert eller jouravtal svarar vi på mejl inom en arbetsdag.",
+    "certifikat_rubrik": "Behörigheter för akuta lägen",
+    "logos_rubrik": "Fastighetsägare och försäkringsbolag",
+    "priser_not": "Priser inklusive moms. Försäkringen täcker ofta kostnaden vid brand och storm."
+  }
+}
