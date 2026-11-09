@@ -243,7 +243,7 @@
   -webkit-mask: radial-gradient(circle 14px at 0 0, transparent 98%, #000) left / 51% 100% no-repeat, radial-gradient(circle 14px at 100% 0, transparent 98%, #000) right / 51% 100% no-repeat;
   mask: radial-gradient(circle 14px at 0 0, transparent 98%, #000) left / 51% 100% no-repeat, radial-gradient(circle 14px at 100% 0, transparent 98%, #000) right / 51% 100% no-repeat; }
 .ipb-stub::before { content: ""; position: absolute; left: 22px; right: 22px; top: 0; border-top: 2px dashed color-mix(in srgb, currentColor 30%, transparent); }
-.ipb-rad { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
+.ipb-rad { min-height: 28px; display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; }
 .ipb-kod { font: 600 12px/1.2 var(--font-t); letter-spacing: .18em; text-transform: uppercase; opacity: .65; }
 .ipb-flagga { padding: 5px 12px; border-radius: 999px; background: var(--c-a); color: var(--c-a-ink); font-size: 12px; font-weight: 600; }
 .ipb-biljett h3 { font-size: clamp(24px, 2.2vw, 32px); color: inherit; }
@@ -380,7 +380,7 @@
 @media (max-width: 899px) { .igk-6 { display: none; } }
 .igk-not { margin-top: 18px; font-size: 13px; color: var(--iv-mut); text-align: right; }
 @media (min-width: 900px) {
-  .igk-bord { display: block; position: relative; aspect-ratio: 16 / 10.2; padding: 0; }
+  .igk-bord { display: block; position: relative; aspect-ratio: 16 / 9.7; padding: 0; }
   .igk-foto { position: absolute; width: 27%; }
   .igk-foto figure { padding: 12px 12px 0; }
   .igk-bild { aspect-ratio: 4 / 3.3; }

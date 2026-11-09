@@ -188,7 +188,7 @@ def priser_flikar(s):
         flagga = f'<span class="ipf-flagga">{E(s.T("priser_utvald"))}</span>' if utv else ""
         paneler += (f'<div class="ipf-panel ipf-p{i}"><div class="ipf-vanster">{flagga}<h3>{E(x["namn"])}</h3><p class="ipf-text">{E(x.get("text", ""))}</p>'
                     f'<ul class="ipf-punkter">{pkt}</ul></div><div class="ipf-hoger"><span class="ipf-fran">Pris</span><b class="ipf-pris">{_nb(x["pris"])}</b>'
-                    f'<span class="ipf-enhet">{E(x.get("enhet", ""))}</span>{s.knapp(s.T("priser_knapp"), "om-oss.html#kontakt", "ljus")}</div></div>')
+                    f'<span class="ipf-enhet">{E(x.get("enhet", ""))}</span>{s.knapp(s.T("priser_knapp"), "om-oss.html#kontakt")}</div></div>')
     n = min(len(pr), 6)
     return f'''<section class="sek {s.bg("priser")}" aria-labelledby="ipf-h"><div class="wrap iv ipf">
   {s.huvud(et, rub, "ipf-h", s.textlank("Alla priser", "priser.html"), mitt=True)}

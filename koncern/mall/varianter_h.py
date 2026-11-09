@@ -211,7 +211,7 @@ def process_helbild(s):
     bild = s.bilder.ta(st[-1].get("tagg") if st else None)
     li = "".join(f'<li class="reveal"><span class="hpb-nr">{i + 1:02d}</span><h3>{E(x["titel"])}</h3><p>{nb(x["text"])}</p></li>' for i, x in enumerate(st))
     return f'''<section class="hpb" aria-labelledby="hpb-h">{s.bilder.fyll(bild, "100vw")}<div class="hpb-skugga" aria-hidden="true"></div>
-  <div class="wrap hpb-in"><div class="hpb-huvud"><span class="etikett">{E(s.T("process_etikett"))}</span><h2 id="hpb-h">{E(process_rubrik(s))}</h2>
+  <div class="wrap hpb-in"><div class="hpb-huvud"><div><span class="etikett">{E(s.T("process_etikett"))}</span><h2 id="hpb-h">{E(process_rubrik(s))}</h2></div>
     {s.knapp(s.T("kontakt_knapp"), "om-oss.html#kontakt", "ljus")}</div>
   <ol class="hpb-steg n{len(st)}">{li}</ol></div><span class="foto-not">Illustrationsbild</span></section>'''
 

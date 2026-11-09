@@ -252,7 +252,7 @@
 .fbq .bild-fyll::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.15) 0%, rgba(0,0,0,.1) 35%, rgba(0,0,0,.82) 100%); }
 .fbq a:hover .bild-fyll img { transform: scale(1.05); }
 .fbq-nr { position: absolute; top: clamp(18px, 2vw, 28px); left: clamp(20px, 2vw, 30px); font: var(--w-r) 15px/1 var(--font-r); letter-spacing: .08em; padding-bottom: 8px; border-bottom: 2px solid var(--c-a); }
-.fbq-text h3 { font-size: clamp(22px, 2vw, 30px); color: #fff; }
+.fbq-text h3 { overflow-wrap: anywhere; hyphens: auto; font-size: clamp(22px, 2vw, 30px); color: #fff; }
 .fbq-mer { display: grid; gap: 14px; margin-top: 12px; }
 .fbq-mer p { font-size: 15.5px; line-height: 1.6; opacity: .9; max-width: 32em; }
 .fbq-mer .textlank { color: #fff; }
@@ -349,7 +349,8 @@
 .fpk-prick { position: relative; display: grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; background: var(--c-p); color: var(--c-p-ink);
   font: 700 13px/1 var(--font-t); box-shadow: 0 6px 16px -6px rgba(0,0,0,.5); transition: transform .25s ease, background-color .25s; }
 .fpk-prick::after { content: ""; position: absolute; inset: -7px; border-radius: 50%; border: 2px solid var(--c-p); opacity: .35; }
-.pa-farg .fpk-prick { background: var(--c-a); color: var(--c-a-ink); } .pa-farg .fpk-prick::after { border-color: var(--c-a); }
+.pa-farg .fpk-prick, .pa-mork .fpk-prick { background: var(--c-a); color: var(--c-a-ink); } .pa-farg .fpk-prick::after, .pa-mork .fpk-prick::after { border-color: var(--c-a); }
+.pa-mork .fpk-karta, .pa-farg .fpk-karta { background-color: color-mix(in srgb, currentColor 6%, transparent); }
 .fpk-ort { padding: 4px 9px; border-radius: 6px; background: var(--fv-ytbg); color: var(--c-ink); font-size: 12px; font-weight: 600; white-space: nowrap; box-shadow: 0 2px 8px -4px rgba(0,0,0,.3); }
 @media (max-width: 599px) { .fpk-ort { display: none; } }
 .fpk-lista { display: grid; align-content: center; counter-reset: fpk; border-top: 1px solid var(--fv-linje); }
@@ -369,7 +370,7 @@
 .fpa { border-top: 2px solid currentColor; }
 .fpa-grupp { display: grid; gap: 4px; padding: 26px 0 30px; border-bottom: 1px solid var(--fv-linje); }
 @media (min-width: 900px) { .fpa-grupp { grid-template-columns: minmax(0, 4fr) minmax(0, 8fr); gap: 48px; padding: 40px 0; } .fpa-ar span { position: sticky; top: calc(var(--head-h) + 24px); } }
-.fpa-ar span { display: block; font: var(--w-r) clamp(64px, 9vw, 150px)/.85 var(--font-r); letter-spacing: -.03em; color: color-mix(in srgb, var(--fv-accent) 24%, transparent); overflow-wrap: anywhere; }
+.fpa-ar span { display: block; font: var(--w-r) clamp(64px, 9vw, 150px)/.85 var(--font-r); letter-spacing: -.03em; color: color-mix(in srgb, var(--fv-accent) 26%, transparent); overflow-wrap: anywhere; }
 .fpa-lista { display: grid; }
 .fpa-lista li + li { border-top: 1px solid var(--fv-linje); }
 .fpa-lista a { display: grid; grid-template-columns: minmax(0, 120px) minmax(0, 1fr); gap: 8px 18px; align-items: center; padding: 18px 0; text-decoration: none; }
@@ -395,7 +396,7 @@
 .fpr a:hover .bild-fyll img { transform: scale(1.04); }
 .fpr-inne { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: 8px 22px; align-items: end; padding-block: clamp(22px, 3vw, 40px); }
 .fpr-nr { align-self: start; font: var(--w-r) 15px/1 var(--font-r); letter-spacing: .08em; padding-top: 10px; opacity: .85; }
-.fpr-inne h3 { font-size: calc(clamp(28px, 4vw, 60px) * var(--skala-r)); line-height: 1; color: #fff; }
+.fpr-inne h3 { overflow-wrap: anywhere; hyphens: auto; font-size: calc(clamp(28px, 4vw, 60px) * var(--skala-r)); line-height: 1; color: #fff; }
 .fpr-fakta { grid-column: 2; display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; font-size: 14.5px; opacity: .95; }
 .fpr-status:not(.pag) { background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.35); color: #fff; }
 .fpr-pil { grid-column: 3; grid-row: 1 / span 2; align-self: center; display: grid; place-items: center; width: 56px; height: 56px; border-radius: 50%; border: 1.5px solid rgba(255,255,255,.7); transition: background-color .2s, color .2s; }
@@ -451,7 +452,7 @@
 .fpu-topp { display: flex; justify-content: space-between; align-items: center; gap: 10px; font: var(--w-r) 14px/1 var(--font-r); letter-spacing: .08em; }
 .fpu-status:not(.pag) { background: rgba(255,255,255,.16); border-color: rgba(255,255,255,.4); color: #fff; }
 .fpu-text span { font-size: 12px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; opacity: .9; }
-.fpu-text h3 { margin-top: 6px; font-size: clamp(21px, 1.8vw, 27px); color: #fff; }
+.fpu-text h3 { overflow-wrap: anywhere; hyphens: auto; margin-top: 6px; font-size: clamp(21px, 1.8vw, 27px); color: #fff; }
 .fpu-text p { margin-top: 8px; font-size: 14.5px; line-height: 1.55; opacity: .88; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
 /* ---------- projekt/f-index ---------- */

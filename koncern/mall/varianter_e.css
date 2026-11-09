@@ -97,8 +97,8 @@
 .pa-farg .eme-topp h2, .pa-mork .eme-topp h2 { color: inherit; opacity: .8; }
 .eme-ord { display: block; max-width: 1240px; margin-inline: auto; text-wrap: balance;
   font: var(--w-r) calc(clamp(28px, 3.7vw, 58px) * var(--skala-r))/1.34 var(--font-r); letter-spacing: var(--tr-r); text-transform: var(--tt-r); }
-.eme-ord li { display: inline; }
-.eme-ord a { text-decoration: none; color: inherit; overflow-wrap: anywhere; }
+.eme-ord li { display: inline; white-space: nowrap; }
+.eme-ord a { display: inline-block; max-width: calc(100% - 1em); white-space: normal; text-decoration: none; color: inherit; overflow-wrap: anywhere; }
 .eme-ord li:nth-child(even) a { color: var(--c-p-text); }
 .pa-farg .eme-ord li:nth-child(even) a, .pa-mork .eme-ord li:nth-child(even) a { color: inherit; opacity: .62; }
 .eme-ik { display: inline-grid; place-items: center; width: .8em; height: .8em; margin-right: .2em; vertical-align: -.06em; border-radius: 50%; background: var(--c-ton); color: var(--c-p-text); transition: background-color .2s, color .2s; }
