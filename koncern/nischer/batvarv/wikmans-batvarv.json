@@ -1,0 +1,142 @@
+{
+  "profil": "nisch",
+  "nisch": "batvarv",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Wikmans Båtvarv AB",
+  "kortnamn": "Wikmans",
+  "slug": "wikmans-batvarv",
+  "typ": "Familjevarv i Grisslehamn sedan 1946",
+  "tagline": "Tredje generationen vid slipen",
+  "slogan": "Farfar byggde snipor på udden, pappa byggde hallarna – i dag tar vi hand om 380 båtar varje vinter.",
+  "hero_rubrik": "Samma udde, samma slip, sedan 1946",
+  "hero_text": "Vinterförvaring, sjösättning, motorservice och 120 båtplatser i Grisslehamn – drivet av syskonen Anna och Fredrik Wikman, tredje generationen på varvet.",
+  "intro_rubrik": "Åttio säsonger vid Ålands hav",
+  "om": [
+    "Sigurd Wikman köpte udden norr om fiskehamnen 1946 och byggde roddsnipor och fiskebåtar i ett plåtskjul. Hans son Gunnar slutade bygga nytt 1974, lade ner slipen för fritidsbåtar och byggde den första kalla hallen – den står kvar och rymmer 70 båtar.",
+    "Sedan 2011 driver Anna och Fredrik Wikman varvet. Vi är 14 anställda året runt och 6 extra under sjösättning och upptagning. Varje båt har en egen plats i hallen eller på planen, och de flesta kunder har haft samma plats i över tio år."
+  ],
+  "vagval_rubrik": "Vad behöver båten i år?",
+  "tjanster": [
+    {"titel": "Vinterförvaring", "ikon": "lada", "href": "verksamhet.html", "text": "210 platser i tre kalla hallar och 170 på grusplanen, med vakt och kameror."},
+    {"titel": "Sjösättning & upptagning", "ikon": "kran", "href": "verksamhet.html", "text": "Travelliften tar båtar upp till 25 ton och 4,8 meter breda."},
+    {"titel": "Motorservice", "ikon": "kugge", "href": "verksamhet.html", "text": "Höst- och vårservice på inombordare och utombordare, med originaldelar i lager."},
+    {"titel": "Bottenmålning", "ikon": "pensel", "href": "verksamhet.html", "text": "Tvätt, slipning och två lager bottenfärg godkänd för Östersjön."},
+    {"titel": "Båtplatser", "ikon": "bat", "href": "verksamhet.html", "text": "120 platser vid Y-bom i en skyddad hamn med el och vatten på varje brygga."},
+    {"titel": "Riggning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vi tar ner och reser masten och förvarar riggen märkt i masthuset."},
+    {"titel": "Prislista", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Tre nivåer på vinterförvaring och fasta priser på lyft."},
+    {"titel": "Boka höstplats", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Upptagningslistan öppnar 1 augusti."}
+  ],
+  "affarsomraden": [
+    {"titel": "Vinterförvaring", "text": "Hallarna är kalla men täta och ventilerade, och planen har grus på packad makadam så att stöttorna inte sjunker. Båtarna står på egna bockar som vi kontrollerar inför varje säsong.", "text2": "Kunder med båt i hallen kan arbeta på den lördagar 9–15 från mars.", "tagg": "bat"},
+    {"titel": "Lyft och transport", "text": "Vi tar upp båtar från vecka 38 och sjösätter från vecka 17, i den ordning ni bokat. Travelliften går ända ner i hamnbassängen, så båten behöver aldrig gå på trailer inom varvet.", "text2": "Hämtning med egen båttrailer i Roslagen upp till 32 fot.", "tagg": "bat"},
+    {"titel": "Motor och skrov", "text": "Två mekaniker sköter motorerna, en båtbyggare sköter skrov och gelcoat. Vi gör impellerbyte, oljebyte, avgasböj och drevservice i samma vända som upptagningen.", "text2": "Ni får en lista med bilder på allt vi hittar innan vi gör något extra.", "tagg": "people"},
+    {"titel": "Hamnen", "text": "Hamnen ligger i lä innanför udden och har 2,8 meters djup vid yttre bryggan. Sommarplatserna hyrs per säsong, gästplatserna per natt.", "text2": "Septiktömning, diesel och bensin vid samma brygga.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Hallarna", "segment": "Vinterförvaring", "rubrik": "Tre hallar, 210 båtar", "text": "Hall 1 från 1974, hall 2 från 1988 och den nya hall 3 med 7 meters takhöjd för segelbåtar med mast på.", "tagg": "bat"},
+    {"namn": "Verkstaden", "segment": "Motor och skrov", "rubrik": "Fyra tekniker året runt", "text": "Fredrik leder verkstaden. Här görs motorservice, gelcoatlagning och bottenmålning.", "tagg": "people"},
+    {"namn": "Hamnkontoret", "segment": "Båtplatser och bokning", "rubrik": "Anna har listan", "text": "Bokning av lyft, platser och fakturor – och svaret på var din båt står just nu.", "tagg": "kontor"},
+    {"namn": "Sjöboden", "segment": "Butik och drivmedel", "rubrik": "Öppet maj–september", "text": "Bottenfärg, tampar, fendrar och glass. Bensin och diesel vid bryggan dygnet runt med kort.", "tagg": "natur"}
+  ],
+  "berattelser": [
+    {"rubrik": "Hall 3 tar emot sina första båtar", "text": "Den nya hallen på 1 400 kvadratmeter är fylld till hösten – 48 segelbåtar står med masten kvar.", "tagg": "bat"},
+    {"rubrik": "Gunnar fyller 85", "text": "Han kommer fortfarande ner varje morgon klockan sju och kontrollerar att bockarna står rätt.", "tagg": "people"},
+    {"rubrik": "Ny brygga D", "text": "Tjugo nya platser för båtar upp till 11 meter, med landström på 16 ampere vid varje plats.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "1946", "enhet": "", "etikett": "Året Sigurd köpte udden"},
+    {"varde": "380", "enhet": "båtar", "etikett": "I vinterförvaring varje år"},
+    {"varde": "25", "enhet": "ton", "etikett": "Travelliftens kapacitet"},
+    {"varde": "3", "enhet": "generationer", "etikett": "Wikman på varvet"}
+  ],
+  "projekt": [
+    {"namn": "Hall 3", "ort": "Grisslehamn", "typ": "Ny förvaringshall", "ar": "2025", "text": "Limträhall på 1 400 kvadratmeter med 7 meters takhöjd för master och fläktar mot kondens.", "tagg": "bat"},
+    {"namn": "Brygga D", "ort": "Grisslehamn", "typ": "Hamnutbyggnad", "ar": "2026", "text": "Tjugo platser med Y-bom och landström, klara till midsommar.", "tagg": "natur", "status": "Utfört"},
+    {"namn": "Albin Vega från 1972", "ort": "Väddö", "typ": "Skrovrenovering", "ar": "2025", "text": "Ny bottenbeläggning, nya genomföringar och en dieselmotor på 20 hk i stället för den gamla bensinmotorn.", "tagg": "bat"},
+    {"namn": "Roslagens Taxibåt", "ort": "Grisslehamn", "typ": "Serviceavtal", "ar": "2024", "text": "Tre taxibåtar får motorservice varje oktober och april så att de klarar 900 timmar per säsong.", "tagg": "bat"},
+    {"namn": "Samfälligheten Singö Norra", "ort": "Singö", "typ": "Upptagning", "ar": "2025", "text": "Vi tog upp 34 båtar från samfällighetens brygga på två dagar med traileråkning hela vägen.", "tagg": "people"},
+    {"namn": "Sigurds sista snipa", "ort": "Grisslehamn", "typ": "Renovering", "ar": "2026", "text": "Snipan som farfar byggde 1959 har fått nya bord i lärk och ska visas i hamnen till sommaren.", "tagg": "tra", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Anmälan i augusti", "text": "Ni anmäler upptagning och tjänster före 15 september. Platsen från förra året är er om ni vill ha den.", "tagg": "kontor"},
+    {"titel": "Upptagning och tvätt", "text": "Båten lyfts, högtryckstvättas på spolplattan och körs till sin plats samma dag.", "tagg": "bat"},
+    {"titel": "Vinterarbeten", "text": "Motorservice och skrovarbeten görs under vintern. Ni får bilder och en kostnad innan vi börjar.", "tagg": "people"},
+    {"titel": "Sjösättning i maj", "text": "Båten är bottenmålad, motorn provkörd och förtöjd på sommarplatsen när ni kommer.", "tagg": "natur"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Spolplattan fångar färgen",
+    "text": "All båttvätt sker på en spolplatta med slamavskiljare och filter sedan 2016. Slammet töms av en godkänd entreprenör och vattnet provtas två gånger per säsong av kommunens miljöenhet.",
+    "mal": [["100 %", "av båttvätten på spolplatta med rening"], ["2", "vattenprover per säsong"], ["0", "tvätt på planen eller i hamnen"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba på varvet vid havet",
+    "text": "Vi söker folk som vill stanna. Två av våra mekaniker började som säsongsanställda under gymnasiet och har varit här i femton år.",
+    "jobb": [["Båtmekaniker", "Grisslehamn"], ["Säsongsanställd lyft och hamn", "Grisslehamn"]]
+  },
+  "kultur": "Fika klockan nio i sjöboden, ledigt i juli och en chef som heter samma sak som företaget.",
+  "citat": {"text": "Farfar sa att en båt ska stå på samma plats varje vinter, så att den vet var den är. Vi har hållit fast vid det.", "namn": "Anna Wikman", "roll": "Vd, tredje generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Min far hade sin Vindö hos Gunnar på sjuttiotalet. Nu står min båt på samma plats i hall 1.", "namn": "Lars-Olof B.", "ort": "Norrtälje"},
+    {"text": "De ringde i januari och berättade att en bock hade sjunkit efter tjällossningen – och att de redan hade rättat till den.", "namn": "Karin S.", "ort": "Uppsala"},
+    {"text": "Båten låg i sjön med full tank och ren däck när vi kom upp på fredagskvällen.", "namn": "Henrik T.", "ort": "Stockholm"}
+  ],
+  "faq": [
+    ["När kan jag boka upptagning?", "Listan öppnar 1 augusti. Upptagning sker vecka 38–44 och sjösättning vecka 17–22."],
+    ["Får jag arbeta på båten själv?", "Ja, i hallarna på lördagar 9–15 från mars och på planen alla dagar. Slipning av bottenfärg ska göras med dammsugare."],
+    ["Hur stor båt kan ni ta?", "Upp till 25 ton, 4,8 meter bredd och 16 meter längd. I hall 3 får master på upp till 17 meter stå kvar."],
+    ["Har ni vakt?", "Varvet har kameror, grind med kod och Fredrik bor i huset vid infarten."],
+    ["Kan ni hämta båten?", "Ja, med vår egen trailer i Roslagen för båtar upp till 32 fot. Pris efter avstånd."],
+    ["Vilken bottenfärg använder ni?", "En färg som är godkänd av Kemikalieinspektionen för Östersjön, eller ingen alls om ni hellre borsttvättar."],
+    ["Har ni gästplatser?", "Ja, tolv gästplatser på brygga A. Ring hamnkontoret för att boka."]
+  ],
+  "priser": [
+    {"namn": "Planen", "pris": "fr. 310 kr", "enhet": "per kvm och vinter", "text": "Utomhus på grusplanen med egen bock.", "punkter": ["Upptagning och sjösättning ingår", "Högtryckstvätt på spolplatta", "Kamerabevakat område", "Plats från förra året garanterad"]},
+    {"namn": "Kall hall", "pris": "fr. 590 kr", "enhet": "per kvm och vinter", "text": "Under tak i hall 1, 2 eller 3.", "punkter": ["Allt som ingår på planen", "Ingen presenning behövs", "Egen arbetstid lördagar", "Mast kvar i hall 3"], "utvald": true},
+    {"namn": "Helservice", "pris": "fr. 890 kr", "enhet": "per kvm och vinter", "text": "Hall, motorservice och bottenmålning i ett.", "punkter": ["Kall hall", "Vår- och höstservice av motorn", "Bottenmålning eller borsttvätt", "Båten förtöjd och klar i maj"]}
+  ],
+  "certifikat": [
+    {"titel": "Auktoriserad motorverkstad", "text": "Våra mekaniker är utbildade hos två motortillverkare och får göra garantiarbeten.", "ikon": "kugge"},
+    {"titel": "Spolplatta med tillstånd", "text": "Anmäld till Norrtälje kommuns miljöenhet och provtagen varje säsong.", "ikon": "vatten"},
+    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Båten är försäkrad hos oss under lyft, transport och förvaring.", "ikon": "skold"},
+    {"titel": "Kranförare med behörighet", "text": "Alla som kör travelliften har utbildning och dokumenterad lyftplan.", "ikon": "kran"}
+  ],
+  "kunder": ["Roslagens Taxibåt", "Samfälligheten Singö Norra", "Norrtälje kommun, hamnenheten", "Väddö Fiskelag", "Brf Ålandsutsikten", "Hotell Havsbandet", "Grisslehamns Fritidshusägare"],
+  "nyheter": [
+    ["2026-08-01", "Upptagningslistan är öppen", "Boka vecka och tjänster före 15 september så får du samma plats som i fjol.", "bat"],
+    ["2026-05-28", "Brygga D invigd", "Tjugo nya sommarplatser med landström – fyra är fortfarande lediga.", "natur"],
+    ["2026-02-10", "Kolla bockarna efter tjälen", "Därför går vi runt planen varje vecka från februari till april.", "bat"]
+  ],
+  "kontakt": {"adress": "Varvsvägen 9", "postnr": "760 45", "ort": "Grisslehamn", "telefon": "070-174 06 06", "epost": "varvet@wikmansbatvarv.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, lördagar 9–15 mars–maj",
+  "omrade": "Grisslehamn, Väddö och hela Roslagen",
+  "fot_cta": "Vill du ha en plats i hallen till hösten? Anna har listan – ring eller skriv.",
+  "bild": {"panel": "bat", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Boka plats",
+    "hero_knapp": "Det här gör varvet",
+    "vagval_etikett": "På varvet",
+    "ber_etikett": "Från udden",
+    "ber_rubrik": "Senaste nytt från slipen",
+    "proj_etikett": "Från verkstaden",
+    "proj_rubrik": "Båtar som passerat varvet",
+    "proj_rubrik_lista": "Arbeten på varvet",
+    "process_etikett": "Varvsåret",
+    "process_rubrik": "Från augusti till maj",
+    "bolag_rubrik": "Fyra verksamheter på samma udde",
+    "bolag_kol": ["Del", "Ansvar", "Det här gör vi"],
+    "hb_etikett": "Hamnen och havet",
+    "omdomen_rubrik": "Kunder sedan tre generationer",
+    "faq_rubrik": "Det folk frågar på bryggan",
+    "priser_etikett": "Vinterförvaring",
+    "priser_rubrik": "Planen, hallen eller allt i ett",
+    "priser_knapp": "Boka plats",
+    "priser_not": "Priserna gäller vintern 2026/27, inklusive moms. Ytan räknas som längd × bredd.",
+    "boka_rubrik": "Plats kvar i hallen?",
+    "boka_text": "Skriv båtmodell, längd och vad du vill ha gjort så svarar Anna inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Båt och önskemål"],
+    "logos_rubrik": "Grannar och uppdragsgivare",
+    "certifikat_rubrik": "Försäkrat och behörigt",
+    "ny_rubrik": "Anslagstavlan",
+    "medarbetare": "Varvsfolket"
+  }
+}

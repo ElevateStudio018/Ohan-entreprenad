@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Bodvik Svets & Montage AB",
+  "kortnamn": "Bodvik",
+  "slug": "bodvik-svets",
+  "typ": "Industrisvets och underhåll i Norrbotten",
+  "tagline": "Svets för processindustrin",
+  "slogan": "När ett verk står still kostar varje timme – därför har vi 120 svetsare och montörer från Luleå till Gällivare.",
+  "hero_rubrik": "Vi håller Norrbottens industri igång",
+  "hero_text": "Stoppservice, rörsvets och stålkonstruktion för stål-, pappers- och gruvindustrin. Egna team i Luleå, Piteå och Malmfälten – på plats inom fyra timmar.",
+  "intro_rubrik": "Trettioåtta år vid ugnar, kokare och kvarnar",
+  "om": [
+    "Bodvik startades 1987 av Lars-Åke Bodvik och två kollegor som lämnat underhållsavdelningen på valsverket i Luleå. I dag är vi 120 anställda och omsätter 184 miljoner kronor, varav två tredjedelar kommer från planerade underhållsstopp.",
+    "Vi svetsar i allt från kolstål och Hardox till duplex och Inconel, och har 42 svetsare med certifikat enligt SS-EN ISO 9606-1. Prefabverkstaden på Midgårdsvägen har två traverser på 20 ton och en egen blästerhall."
+  ],
+  "vagval_rubrik": "Vad behöver anläggningen?",
+  "tjanster": [
+    {"titel": "Stoppservice", "ikon": "kalender", "href": "verksamhet.html", "text": "Bemannade skift dygnet runt under planerade stopp, från 10 till 90 montörer."},
+    {"titel": "Rörsvets", "ikon": "ror", "href": "verksamhet.html", "text": "Process-, ång- och hydraulrör i kolstål, rostfritt och duplex med röntgad kvalitet."},
+    {"titel": "Slitplåt och påsvets", "ikon": "eld", "href": "verksamhet.html", "text": "Skoningar, krossar och skänklar påsvetsas med hårdmetall för längre livslängd."},
+    {"titel": "Stålkonstruktion", "ikon": "kran", "href": "verksamhet.html", "text": "Gångbryggor, plattformar och transportörstativ CE-märkta enligt EN 1090 EXC3."},
+    {"titel": "Prefabverkstad", "ikon": "fabrik", "href": "verksamhet.html", "text": "2 400 kvadratmeter verkstad i Luleå där vi bygger färdigt före stoppet."},
+    {"titel": "Industrijour", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Avtalskunder når en arbetsledare dygnet runt, alla dagar."},
+    {"titel": "Referensstopp", "ikon": "graf", "href": "projekt.html", "text": "Se hur vi planerat och bemannat stopp på bruk, verk och gruvor."},
+    {"titel": "Bli svetsare hos oss", "ikon": "hjalm", "href": "karriar.html", "text": "Vi anställer 15 svetsare och montörer under 2027."}
+  ],
+  "affarsomraden": [
+    {"titel": "Underhållsstopp", "text": "Vi tar ansvar för hela svets- och mekdelen i ett planerat stopp: bemanning, materialbeställning, egenkontroller och dokumentation. Planeringen börjar normalt fyra månader före första skiftet.", "text2": "Under stoppet på Piteå Kartongbruk 2026 arbetade 74 av våra montörer i tre skift under elva dygn.", "tagg": "industri"},
+    {"titel": "Rör och tryckbärande", "text": "Rörsvets enligt SS-EN 13480 med röntgen och ultraljud via ackrediterat provningsföretag. Vi svetsar TIG och MMA i positioner där andra tackar nej.", "text2": "Svetsprocedurer (WPQR) finns för 37 materialkombinationer.", "tagg": "svets"},
+    {"titel": "Slitdelar för gruvindustri", "text": "Krosskäftar, matarbord och skänkar renoveras genom påsvetsning med hårdmetall och byte till slitplåt i 500 HB. En renoverad skänk är ofta i drift igen efter 36 timmar.", "text2": "Vi har en fast verkstadsbas i Gällivare med fyra svetsare och servicebil.", "tagg": "maskin"},
+    {"titel": "Stålkonstruktioner", "text": "Plattformar, trapptorn och transportörbryggor konstrueras av vår egen konstruktör och tillverkas i Luleå. Allt levereras med prestandadeklaration och CE-märkning.", "text2": "Största enskilda leverans hittills: 186 ton stål till en ny pelletslinje.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Bodvik Luleå", "segment": "Huvudkontor och prefab", "rubrik": "Verkstaden där stoppen byggs", "text": "68 medarbetare, prefabverkstad, konstruktion och stoppledning för stål- och energikunder runt Luleå och Boden.", "tagg": "svets"},
+    {"namn": "Bodvik Piteå", "segment": "Pappers- och massaindustri", "rubrik": "Specialister på kokare och rör", "text": "31 medarbetare som arbetar i bruken mellan Piteå och Skellefteå, med fokus på rostfritt och duplex.", "tagg": "industri"},
+    {"namn": "Bodvik Malmfälten", "segment": "Gruvor och anrikning", "rubrik": "Slitdelar som håller längre", "text": "21 medarbetare i Gällivare och Kiruna som renoverar krossar, skänkar och transportörer under jord och ovan jord.", "tagg": "maskin"}
+  ],
+  "berattelser": [
+    {"rubrik": "Elva dygn i kartongbruket", "text": "74 montörer, 1 900 svetsfogar och noll arbetsskador under höstens stopp i Piteå.", "tagg": "industri"},
+    {"rubrik": "Ny blästerhall i Luleå", "text": "Hallen på 400 kvadratmeter ger oss egen blästring och målning av stålkonstruktioner upp till 14 meter.", "tagg": "svets"},
+    {"rubrik": "Svetsskola med Luleå tekniska gymnasium", "text": "Tolv elever gör sin APL i vår verkstad i vår – fyra av dem har redan anställningserbjudande.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "120", "enhet": "anställda", "etikett": "I Luleå, Piteå och Malmfälten"},
+    {"varde": "184", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "4", "enhet": "timmar", "etikett": "Inställelsetid för avtalskunder"},
+    {"varde": "37", "enhet": "WPQR", "etikett": "Godkända svetsprocedurer"}
+  ],
+  "projekt": [
+    {"namn": "Höststopp kartonglinje 2", "ort": "Piteå", "typ": "Underhållsstopp", "ar": "2026", "text": "Byte av 340 meter processrör i duplex samt nya inspektionsplattformar.", "tagg": "industri"},
+    {"namn": "Pelletslinje Svartön", "ort": "Luleå", "typ": "Stålkonstruktion", "ar": "2025", "text": "186 ton transportörbryggor och trapptorn, CE-märkt enligt EXC3.", "tagg": "anlaggning"},
+    {"namn": "Krossrenovering nivå 1 045", "ort": "Malmberget", "typ": "Påsvets och slitplåt", "ar": "2025", "text": "Renovering av två käftkrossar under jord på tre veckor.", "tagg": "maskin"},
+    {"namn": "Ångledning kraftvärmeverk", "ort": "Boden", "typ": "Rörsvets", "ar": "2024", "text": "Ny ångledning DN 300 med 100 procent röntgad svetskvalitet.", "tagg": "svets"},
+    {"namn": "Sågverkets nya justerverk", "ort": "Älvsbyn", "typ": "Montage", "ar": "2024", "text": "Montage av transportörer och stålstommar på nio veckor.", "tagg": "industri"},
+    {"namn": "Vårstopp masugn", "ort": "Luleå", "typ": "Underhållsstopp", "ar": "2027", "text": "Planering pågår för 90 montörer i treskift under fjorton dygn.", "tagg": "svets", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Stoppgenomgång", "text": "Vi går igenom arbetsordrarna med er underhållsavdelning och delar upp dem i svets, mek och prefab.", "tagg": "kontor"},
+    {"titel": "Prefab i Luleå", "text": "Rörspolar och stålpartier byggs i verkstaden veckorna före, så att tiden i anläggningen blir kort.", "tagg": "svets"},
+    {"titel": "Skift på plats", "text": "En stoppledare per skift rapporterar framdrift varje morgon klockan sju.", "tagg": "industri"},
+    {"titel": "Dokumentation", "text": "Svetsloggar, NDT-protokoll och materialcertifikat levereras samlat inom tio arbetsdagar.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Säkerhet först, även klockan tre på natten",
+    "text": "Industristopp är högriskarbete med heta arbeten, slutna utrymmen och tunga lyft. Alla montörer har SSG Entre och Heta arbeten, och varje skift börjar med en riskgenomgång på plats. Vi följer upp varje tillbud inom 48 timmar.",
+    "mal": [["0", "arbetsskador med frånvaro sedan 2023"], ["100 %", "av montörerna med SSG Entre"], ["48 h", "till åtgärd efter rapporterat tillbud"]]
+  },
+  "karriar": {
+    "rubrik": "Svetsa där det verkligen gör skillnad",
+    "text": "Hos oss får du certifikat, stoppbonus och betald övertid enligt Teknikavtalet IF Metall. Vi har plats för både erfarna rörsvetsare och nyutexaminerade som vill lära sig.",
+    "jobb": [["Rörsvetsare TIG", "Luleå"], ["Montör stoppservice", "Piteå"], ["Svetsare slitdelar", "Gällivare"], ["Stoppledare", "Luleå"]]
+  },
+  "kultur": "Varje ny svetsare går med en erfaren kollega i tre månader och får sina certifikat betalda av oss.",
+  "citat": {"text": "Ett bra stopp märks inte. Bruket startar på utsatt tid, och ingen i kontrollrummet behöver veta hur många fogar vi svetsade under natten.", "namn": "Maria Bodvik", "roll": "Vd sedan 2019", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Bodvik hade 74 personer på plats under elva dygn och vi startade linjen fyra timmar före plan. Dokumentationen kom komplett veckan efter.", "namn": "Jonas H.", "ort": "Piteå"},
+    {"text": "Vi har haft dem på ramavtal i nio år. När matarbordet sprack en julafton stod två svetsare i krossen efter tre timmar.", "namn": "Annelie K.", "ort": "Gällivare"},
+    {"text": "Bryggorna levererades i sektioner som passade på första försöket. Det säger det mesta om deras prefab.", "namn": "Peter S.", "ort": "Luleå"}
+  ],
+  "faq": [
+    ["Hur tidigt behöver vi boka inför ett stopp?", "För stopp med fler än 30 montörer vill vi börja planera fyra till sex månader före. Mindre stopp kan vi ofta bemanna med sex veckors framförhållning."],
+    ["Vilka material svetsar ni?", "Kolstål, slitstål, rostfritt, duplex, superduplex och nickelbaserade legeringar. Vi har godkända svetsprocedurer för 37 materialkombinationer."],
+    ["Har ni egen NDT?", "Vi har VT-behöriga svetsinspektörer i egen regi. Röntgen och ultraljud utförs av ett ackrediterat provningsföretag som vi samarbetar med på alla större stopp."],
+    ["Arbetar ni utanför Norrbotten?", "Ja, vid större stopp har vi arbetat i Västerbotten, Västernorrland och norra Finland. Resor och logi offereras separat."],
+    ["Kan ni ta helhetsansvar för en stålkonstruktion?", "Ja. Vi konstruerar, tillverkar, ytbehandlar och monterar, med CE-märkning enligt EN 1090 upp till EXC3."],
+    ["Hur fungerar jouren?", "Kunder med serviceavtal ringer ett eget jourummer och når en arbetsledare dygnet runt. Inställelsetiden är fyra timmar inom Luleå, Piteå och Gällivare."],
+    ["Vilka säkerhetsutbildningar har personalen?", "Alla har SSG Entre, Heta arbeten, ID06 och utbildning i arbete i slutna utrymmen. Stoppledarna har dessutom BAS-U."]
+  ],
+  "certifikat": [
+    {"titel": "EN 1090-1, EXC3", "text": "CE-märkning av bärande stålkonstruktioner, certifierad av tredjepartsorgan sedan 2014.", "ikon": "skold"},
+    {"titel": "ISO 3834-2", "text": "Fullständiga kvalitetskrav för smältsvetsning, med två egna IWE-ingenjörer som svetsansvariga.", "ikon": "eld"},
+    {"titel": "ISO 9001, 14001 och 45001", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö med årlig extern revision.", "ikon": "dokument"},
+    {"titel": "SSG Entre och Heta arbeten", "text": "Samtliga montörer har giltig industrisäkerhetsintroduktion och certifikat för heta arbeten.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Piteå Kartongbruk", "Svartöns Pelletsverk", "Gällivare Anrikning", "Bodens Kraftvärme", "Älvsbyns Sågverk", "Bottenvikens Hamnbolag", "Kallax Industripark", "Malmbanans Lokverkstad"],
+  "nyheter": [
+    ["2026-10-21", "Höststoppet i Piteå klart", "Linjen startade fyra timmar före plan efter elva dygn och 1 900 svetsfogar.", "industri"],
+    ["2026-08-30", "Blästerhallen tagen i drift", "Nu blästrar och målar vi stålkonstruktioner upp till 14 meter i egen regi.", "svets"],
+    ["2026-05-12", "Femton nya tjänster under 2027", "Vi rekryterar svetsare och montörer till alla tre orter inför vårens stopp.", "people"],
+    ["2026-02-03", "Ny verkstadsbas i Gällivare", "Fyra svetsare och en servicebil placeras fast i Malmfälten.", "maskin"]
+  ],
+  "kontakt": {"adress": "Midgårdsvägen 18", "postnr": "973 34", "ort": "Luleå", "telefon": "070-174 06 12", "epost": "stopp@bodviksvets.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 6.30–16 · jour dygnet runt för avtalskunder",
+  "omrade": "Norrbotten, Västerbotten och norra Finland",
+  "fot_cta": "Planerar ni ett stopp under 2027? Ring stoppledningen i Luleå.",
+  "bild": {"panel": "svets", "hb": "industri"},
+  "text": {
+    "ber_rubrik": "Senaste stoppen",
+    "proj_rubrik": "Stopp och leveranser",
+    "process_rubrik": "Från arbetsorder till startad linje",
+    "hb_etikett": "Säkerhet",
+    "omdomen_rubrik": "Underhållschefernas ord",
+    "faq_rubrik": "Frågor inför ett stopp",
+    "boka_rubrik": "Berätta om ert nästa stopp",
+    "boka_falt": ["Namn", "Telefon", "Anläggning", "Stoppdatum och omfattning"],
+    "logos_rubrik": "Anläggningar vi underhåller",
+    "certifikat_rubrik": "Certifierade för tung industri",
+    "bolag_rubrik": "Tre orter, en stoppledning",
+    "ny_rubrik": "Nytt från verkstäderna",
+    "hero_knapp": "Våra industritjänster",
+    "kontakt_knapp": "Kontakta stoppledningen",
+    "medarbetare": "Svetsare och montörer"
+  }
+}

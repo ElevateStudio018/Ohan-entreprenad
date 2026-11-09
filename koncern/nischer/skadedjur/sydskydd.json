@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "skadedjur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Sydskydd Skadedjurskontroll AB",
+  "kortnamn": "Sydskydd",
+  "slug": "sydskydd",
+  "typ": "Digital skadedjurskontroll i Skåne och Halland",
+  "tagline": "Sensorer, inte gissningar",
+  "slogan": "Vi startade med två bilar 2017 och har i dag 64 medarbetare som övervakar 11 000 fällor i realtid från Ystad till Halmstad.",
+  "hero_rubrik": "Vi vet att råttan kom innan ni gör det",
+  "hero_text": "Uppkopplade fällor larmar till vår driftcentral i Malmö inom tre minuter. Då är teknikern redan på väg när personalen kommer till jobbet.",
+  "intro_rubrik": "Från två bilar till fyra kontor på nio år",
+  "om": [
+    "Sydskydd grundades 2017 av Amir Haddad och Johanna Lindell, som båda arbetat som tekniker på ett större bolag och tröttnat på att gå runt till tomma fällor. De byggde affären kring sensorer som skickar larm i stället för att vänta på månadsronden.",
+    "I dag har vi kontor i Malmö, Helsingborg, Kristianstad och Halmstad och 64 anställda, varav 41 tekniker i fält. Omsättningen har vuxit från 3 till 78 miljoner kronor, och drygt två tredjedelar kommer från livsmedelsindustri, logistik och handel."
+  ],
+  "vagval_rubrik": "Vilken verksamhet ska skyddas?",
+  "tjanster": [
+    {"titel": "Uppkopplade fällor", "ikon": "laddning", "href": "verksamhet.html", "text": "Sensorer i varje fälla skickar larm vid fångst, rörelse eller flyttad station."},
+    {"titel": "Livsmedelsindustri", "ikon": "fabrik", "href": "verksamhet.html", "text": "Kontrollprogram som uppfyller BRCGS, IFS och FSSC 22000 med rapporter i portalen."},
+    {"titel": "Lager och logistik", "ikon": "lada", "href": "verksamhet.html", "text": "Skydd för terminaler och höglager där gods kommer in från hela Europa."},
+    {"titel": "Butik och restaurang", "ikon": "portfolj", "href": "verksamhet.html", "text": "Diskreta besök före öppning och dokumentation till miljöförvaltningens tillsyn."},
+    {"titel": "Kackerlackor", "ikon": "sok", "href": "verksamhet.html", "text": "Tyska och orientaliska kackerlackor i storkök och flerbostadshus behandlas med gelbete."},
+    {"titel": "Fastighetsbolag", "ikon": "hus", "href": "verksamhet.html", "text": "Ramavtal för hela beståndet med felanmälan direkt till vår driftcentral."},
+    {"titel": "Kundportalen", "ikon": "graf", "href": "verksamhet.html", "text": "Se varje fälla, varje larm och varje åtgärd – och exportera till revisionen."},
+    {"titel": "Begär en riskanalys", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi går igenom anläggningen kostnadsfritt och lämnar förslag inom fem arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Livsmedel och dryck", "text": "Bagerier, mejerier och charkuterier har noll tolerans mot skadedjur. Vi bygger ett kontrollprogram med zonindelning, fällor och insektsljusfällor som följer era certifieringskrav.", "text2": "Revisorn får tillgång till portalen med trendgrafer, kartor och åtgärdslogg för de senaste 36 månaderna.", "tagg": "industri"},
+    {"titel": "Logistik", "text": "Gods från andra länder kan bära med sig både råttor och lagerinsekter. Vi skyddar portar, lastkajer och pallställ med en kombination av sensorer och feromonfällor.", "text2": "Vid larm utanför kontorstid ringer driftcentralen er platschef och skickar jourtekniker.", "tagg": "industri"},
+    {"titel": "Handel och restaurang", "text": "En enda mus i en butik kan bli en stängning vid nästa inspektion. Våra servicebesök sker före öppning och protokollen ligger klara innan miljöinspektören frågar.", "text2": "Kedjor med flera enheter får en samlad rapport per region varje månad.", "tagg": "stad"},
+    {"titel": "Fastigheter", "text": "Bostadsbolag med tusentals lägenheter behöver en motpart som svarar dygnet runt. Hyresgäster felanmäler direkt till oss och fastighetsägaren ser varje ärende i portalen.", "text2": "Snittid från felanmälan till besök är 26 timmar i Malmö och Helsingborg.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Sydskydd Malmö", "segment": "Huvudkontor och driftcentral", "rubrik": "Larm dygnet runt från Hyllie", "text": "Här sitter driftcentralen som bevakar alla uppkopplade fällor, och 18 tekniker för sydvästra Skåne.", "tagg": "kontor"},
+    {"namn": "Sydskydd Helsingborg", "segment": "Nordvästra Skåne", "rubrik": "Hamnen, lagren och Söderåsen", "text": "Elva tekniker med fokus på logistikparkerna kring E6 och hamnens terminaler.", "tagg": "industri"},
+    {"namn": "Sydskydd Kristianstad", "segment": "Nordöstra Skåne och Blekinge", "rubrik": "Livsmedel och lantbruk", "text": "Sju tekniker som sköter livsmedelsföretag, spannmålslager och gårdar i Skånes matregion.", "tagg": "skadedjur"},
+    {"namn": "Sydskydd Halmstad", "segment": "Halland, öppnat 2025", "rubrik": "Vårt nyaste kontor", "text": "Fem tekniker som täcker kusten från Laholm till Falkenberg, med Varberg som nästa steg.", "tagg": "stad"}
+  ],
+  "berattelser": [
+    {"rubrik": "11 000 fällor uppkopplade", "text": "I september passerade vi elvatusen sensorer i drift – en ökning med 40 procent på ett år.", "tagg": "skadedjur"},
+    {"rubrik": "Halmstadskontoret firar ett år", "text": "Från två tekniker till fem och avtal med tre av Hallands största livsmedelsföretag.", "tagg": "people"},
+    {"rubrik": "Revision utan anmärkning", "text": "Ett mejeri utanför Kristianstad klarade BRCGS-revisionen med noll avvikelser inom skadedjur.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "11 000", "enhet": "fällor", "etikett": "Uppkopplade i realtid"},
+    {"varde": "3", "enhet": "minuter", "etikett": "Från fångst till larm"},
+    {"varde": "64", "enhet": "anställda", "etikett": "På fyra kontor"},
+    {"varde": "78", "enhet": "mkr", "etikett": "Omsättning 2025"}
+  ],
+  "projekt": [
+    {"namn": "Mejeri i Kristianstad", "ort": "Kristianstad", "typ": "Livsmedelsindustri", "ar": "2026", "text": "320 sensorer och insektsljusfällor i produktion, lager och utlastning.", "tagg": "industri"},
+    {"namn": "Logistikpark Väla", "ort": "Helsingborg", "typ": "Lager", "ar": "2025", "text": "Fyra höglager på totalt 86 000 kvadratmeter skyddade med portsensorer.", "tagg": "industri"},
+    {"namn": "Bostadsbestånd i Rosengård", "ort": "Malmö", "typ": "Ramavtal", "ar": "2025", "text": "Kackerlackssanering i 140 lägenheter med uppföljning och information på fem språk.", "tagg": "bostad"},
+    {"namn": "Restaurangkedja i Skåne", "ort": "Lund", "typ": "Restaurang", "ar": "2025", "text": "Samlat avtal för tolv restauranger med besök före öppning varannan vecka.", "tagg": "stad"},
+    {"namn": "Charkuteri i Laholm", "ort": "Laholm", "typ": "Livsmedelsindustri", "ar": "2026", "text": "Driftstart för helt uppkopplat kontrollprogram i ny fabrik.", "tagg": "industri", "status": "Pågående"},
+    {"namn": "Spannmålsterminal", "ort": "Åhus", "typ": "Hamn och lager", "ar": "2024", "text": "Feromonövervakning av lagerinsekter i sex silor under hela skördesäsongen.", "tagg": "skadedjur"}
+  ],
+  "process": [
+    {"titel": "Riskanalys", "text": "En tekniker går igenom anläggningen och markerar risker på en ritning.", "tagg": "industri"},
+    {"titel": "Installation", "text": "Vi monterar sensorer och stationer, ofta på en dag, och kopplar dem till portalen.", "tagg": "skadedjur"},
+    {"titel": "Bevakning", "text": "Driftcentralen följer larmen dygnet runt och skickar tekniker vid fångst.", "tagg": "kontor"},
+    {"titel": "Kvartalsgenomgång", "text": "Vi går igenom trender och avvikelser med er kvalitetschef och justerar planen.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Färre körningar, mindre gift",
+    "text": "När fällorna själva säger till behöver ingen åka till en tom station. Det har halverat våra körda mil per kund sedan 2021. Samtidigt kan vi använda giftfria fällor på fler platser, eftersom vi ser direkt när något fastnar.",
+    "mal": [["–52 %", "körda mil per kund sedan 2021"], ["65 %", "av stationerna helt giftfria"], ["2028", "hela bilparken elektrisk"]]
+  },
+  "karriar": {
+    "rubrik": "Vi anställer en ny tekniker i månaden",
+    "text": "Vi växer på alla fyra orter och söker både erfarna tekniker och nyfikna som vill lära sig yrket. Du får behörighetsutbildningen betald, elbil och en surfplatta med alla dina kunder.",
+    "jobb": [["Skadedjurstekniker", "Malmö"], ["Skadedjurstekniker", "Halmstad"], ["Operatör driftcentral", "Malmö"], ["Kundansvarig livsmedel", "Helsingborg"]]
+  },
+  "kultur": "Ett bolag där nio år gamla rutiner fortfarande får ifrågasättas – och där du märker att det du föreslår faktiskt införs.",
+  "citat": {"text": "Jag gick runt i åtta år och öppnade tomma fällor. Det var då jag förstod att branschen mätte fel sak – besök i stället för resultat.", "namn": "Amir Haddad", "roll": "Medgrundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Larmet kom klockan 04.12 en söndag. När vi öppnade sex timmar senare var musen borta, hålet vid porten tätat och rapporten låg i portalen.", "namn": "Sara M.", "ort": "Kristianstad"},
+    {"text": "Vi bytte från kvartalsbesök till sensorer och fick en tydligare bild på tre månader än under fem år innan.", "namn": "Daniel B.", "ort": "Helsingborg"},
+    {"text": "Miljöförvaltningen bad att få se dokumentationen. Jag skrev ut den på två minuter.", "namn": "Leila K.", "ort": "Lund"}
+  ],
+  "faq": [
+    ["Hur fungerar en uppkopplad fälla?", "Varje fälla har en sensor som känner av när den löser ut eller när något rör sig i stationen. Larmet går via mobilnätet till vår driftcentral."],
+    ["Behöver vi wifi i lokalen?", "Nej. Sensorerna använder ett eget lågenerginätverk och batterierna räcker i tre till fem år."],
+    ["Vad kostar det?", "Ett avtal för ett mindre livsmedelsföretag börjar på cirka 2 800 kr i månaden inklusive sensorer, portal och utryckningar."],
+    ["Uppfyller ni BRCGS och IFS?", "Ja. Kontrollprogrammet, kartorna och trendrapporterna är upplagda efter kraven i standarderna."],
+    ["Tar ni privatkunder?", "Vi prioriterar företag och fastighetsbolag, men hyresgäster hos våra fastighetskunder felanmäler direkt till oss."],
+    ["Hur snabbt kommer ni vid larm?", "Inom fyra timmar dygnet runt för livsmedelskunder i Malmö, Helsingborg och Kristianstad. Övriga inom ett arbetsdygn."],
+    ["Kan vi behålla befintliga stationer?", "Ofta ja. Vi kan bygga om många vanliga betesstationer med sensorer i stället för att byta ut dem."]
+  ],
+  "certifikat": [
+    {"titel": "CEPA Certified (EN 16636)", "text": "Hela verksamheten certifierad enligt europeisk standard för professionell skadedjurskontroll.", "ikon": "stjarna"},
+    {"titel": "ISO 9001 och ISO 14001", "text": "Certifierat ledningssystem för kvalitet och miljö på alla fyra kontor.", "ikon": "dokument"},
+    {"titel": "Behörighet för biocider", "text": "Samtliga 41 tekniker har Kemikalieinspektionens behörighet för yrkesmässig bekämpning.", "ikon": "skold"},
+    {"titel": "Revisionsklar dokumentation", "text": "Kontrollprogram enligt BRCGS, IFS, FSSC 22000 och IP Livsmedel.", "ikon": "las"}
+  ],
+  "kunder": ["Österlenmejeriet", "Väla Logistikpark", "Fastighets AB Sundsbro", "Laholms Chark", "Restauranggruppen Lundagård", "Åhus Spannmålsterminal", "Bostads AB Kärnan", "Bageri Fyra Vindar"],
+  "nyheter": [
+    ["2026-09-30", "Elvatusen sensorer i drift", "Vi har aldrig vuxit snabbare – och larmtiden har samtidigt kortats till tre minuter.", "skadedjur"],
+    ["2026-05-18", "Nytt kontor i Halmstad ett år", "Hallandskontoret har nu fem tekniker och letar efter en sjätte.", "people"],
+    ["2026-03-03", "Så klarar ni BRCGS-revisionen", "Fem punkter revisorerna oftast tittar på när det gäller skadedjur.", "industri"],
+    ["2025-11-11", "Hela Malmöflottan går på el", "Tjugo nya servicebilar levererade under hösten.", "stad"]
+  ],
+  "kontakt": {"adress": "Hyllie Stationsväg 34", "postnr": "215 32", "ort": "Malmö", "telefon": "070-174 06 08", "epost": "drift@sydskydd.se", "orgnr": ""},
+  "oppettider": "Driftcentral dygnet runt, kontor mån–fre 7–17",
+  "omrade": "Skåne, Blekinge och Halland",
+  "fot_cta": "Vill ni se era egna larm i realtid? Boka en riskanalys – den är kostnadsfri.",
+  "bild": {"panel": "skadedjur", "hb": "skadedjur"},
+  "text": {
+    "ber_rubrik": "Siffror från driftcentralen",
+    "proj_rubrik": "Anläggningar vi bevakar",
+    "process_rubrik": "Från riskanalys till realtid",
+    "hb_etikett": "Data och miljö",
+    "omdomen_rubrik": "Kvalitetschefer om larmen",
+    "faq_rubrik": "Frågor om sensorer och avtal",
+    "boka_rubrik": "Boka en kostnadsfri riskanalys",
+    "boka_text": "Berätta vilken typ av anläggning ni har och hur stor den är, så föreslår vi en tid för genomgång inom en vecka.",
+    "logos_rubrik": "Anläggningar som larmar till oss",
+    "certifikat_rubrik": "Dokumentation som klarar revisorn",
+    "kontakt_knapp": "Boka riskanalys",
+    "vagval_etikett": "Branscher",
+    "medarbetare": "Medarbetarna"
+  }
+}
