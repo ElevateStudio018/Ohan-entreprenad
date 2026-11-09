@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Gasfors Släcksystem AB",
+  "kortnamn": "Gasfors",
+  "slug": "gasfors",
+  "typ": "Gassläcksystem för datahallar och ställverk",
+  "tagline": "Släcker utan vatten",
+  "slogan": "Vi skyddar serverhallar, ställverk, arkiv och magasin med gas som släcker branden utan att förstöra det som står i rummet.",
+  "hero_rubrik": "Branden släckt. Servrarna snurrar vidare",
+  "hero_text": "Inertgas, kemisk släckgas och syrereducering för rum där vatten gör mer skada än elden. Projektering, installation och service i hela landet från Borlänge.",
+  "intro_rubrik": "Ett rum, en gas, en beräkning",
+  "om": [
+    "Per Forsgren var drifttekniker på ett kraftverk vid Dalälven när ett ställverk brann 1991 och sprinklervattnet slog ut halva stationen. Två år senare startade han Gasfors i Borlänge med en enda idé: att det finns rum där vatten inte hör hemma. I dag leds företaget av hans tidigare lärling Sofia Lindblom, och vi är 24 anställda.",
+    "Vi arbetar i hela Sverige men med en smal uppgift. Varje anläggning börjar med en beräkning av rummets volym, läckage och vilken koncentration som behövs, och slutar med ett täthetsprov där vi trycksätter rummet med en fläkt i dörren. Utan godkänt prov lämnar vi inget intyg."
+  ],
+  "vagval_rubrik": "Vad står i rummet ni vill skydda?",
+  "tjanster": [
+    {"titel": "Inertgas", "ikon": "vind", "href": "verksamhet.html", "text": "Kväve eller argon som sänker syrehalten under den nivå där en brand kan leva."},
+    {"titel": "Kemisk släckgas", "ikon": "vatten", "href": "verksamhet.html", "text": "Kompakta system där flaskutrymmet är litet, till exempel i serverskåp och telestationer."},
+    {"titel": "Syrereducering", "ikon": "skold", "href": "verksamhet.html", "text": "Permanent sänkt syrehalt i arkiv och automatlager så att en brand aldrig kan starta."},
+    {"titel": "Tidig detektering", "ikon": "sok", "href": "verksamhet.html", "text": "Aspirerande rökdetektorer som känner rök långt innan en vanlig detektor reagerar."},
+    {"titel": "Täthetsprov", "ikon": "hus", "href": "verksamhet.html", "text": "Vi trycksätter rummet och räknar ut hur länge gasen stannar kvar."},
+    {"titel": "Flaskservice", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vägning, tryckkontroll och omprovning av släckgasflaskor enligt tidsplan."},
+    {"titel": "Ombyggnad av äldre system", "ikon": "kugge", "href": "verksamhet.html", "text": "Byte från haloner och gamla koldioxidsystem till säkrare gaser."},
+    {"titel": "Begär beräkning", "ikon": "graf", "href": "om-oss.html#kontakt", "text": "Skicka rumsmått och användning så får ni en budgetkalkyl."}
+  ],
+  "affarsomraden": [
+    {"titel": "Datahallar och serverrum", "text": "I en datahall är det inte bara elden som kostar – det är driftstoppet. En inertgas släcker utan att lämna rester, och utrustningen kan fortsätta gå medan rummet ventileras.", "text2": "Vi samordnar munstycken och tryckavlastning med kylsystem och upphöjda golv.", "tagg": "el"},
+    {"titel": "Ställverk och kraftstationer", "text": "Ställverk står ofta obemannade långt från närmaste räddningstjänst. Vi kombinerar tidig detektering med automatisk gassläckning och fjärrövervakning till driftcentralen.", "text2": "Montörerna har elsäkerhetsutbildning för arbete nära spänningsförande anläggningar.", "tagg": "industri"},
+    {"titel": "Arkiv, museer och magasin", "text": "Papper, textil och fotografier tål varken vatten eller sot. Med syrereducering hålls luften på 15 procent syre året om – tillräckligt för personal att arbeta men för lite för att en brand ska starta.", "text2": "Systemet övervakas dygnet runt och larmar om syrehalten avviker.", "tagg": "brand"},
+    {"titel": "Service och omprovning", "text": "Gassläcksystem ska kontrolleras regelbundet och flaskorna omprovas med jämna mellanrum. Vi väger flaskorna, kontrollerar ventiler och gör om täthetsprovet när rummet har byggts om.", "text2": "Vi servar även system som andra har installerat, efter en första genomgång.", "tagg": "maskin"}
+  ],
+  "bolag": [
+    {"namn": "Projektering", "segment": "Beräkning och design", "rubrik": "Fem ingenjörer räknar på varje rum", "text": "Projekteringen gör flödesberäkningar, väljer gas och placerar munstycken och tryckavlastning.", "tagg": "kontor"},
+    {"namn": "Installation", "segment": "Hela landet", "rubrik": "Tio montörer på resande fot", "text": "Montörerna arbetar i lag om två till fyra och är på resande fot i genomsnitt tre dagar i veckan.", "tagg": "industri"},
+    {"namn": "Service och prov", "segment": "Täthetsprov och flaskor", "rubrik": "740 rum under avtal", "text": "Sex tekniker gör årlig service, täthetsprov och flaskbyten och har ett eget flasklager i Borlänge.", "tagg": "maskin"}
+  ],
+  "berattelser": [
+    {"rubrik": "Inertgas i ny datahall i Ludvika", "text": "Sju datasalar med kvävesystem och 420 flaskor i ett gemensamt flaskrum.", "tagg": "el"},
+    {"rubrik": "Länsarkivet får syrereducering", "text": "12 000 hyllmeter handlingar förvaras nu i luft med 15 procent syre.", "tagg": "brand"},
+    {"rubrik": "Sista halonsystemet i Dalarna borta", "text": "Ett ställverk från 1978 bytte sitt halonsystem mot argon i september.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "740", "enhet": "rum", "etikett": "Under serviceavtal"},
+    {"varde": "1993", "enhet": "", "etikett": "Grundat i Borlänge"},
+    {"varde": "24", "enhet": "anställda", "etikett": "Bara gassläckning"},
+    {"varde": "15 %", "enhet": "syre", "etikett": "I våra syrereducerade arkiv"}
+  ],
+  "projekt": [
+    {"namn": "Datahallen Grängesberg", "ort": "Ludvika", "typ": "Inertgas", "ar": "2026", "text": "Kvävesystem för sju datasalar med gemensamt flaskrum och tryckavlastning i fasaden.", "tagg": "el", "status": "Pågående"},
+    {"namn": "Dalarnas länsarkiv", "ort": "Falun", "typ": "Syrereducering", "ar": "2025", "text": "Permanent sänkt syrehalt i fyra magasin med rörliga hyllsystem.", "tagg": "brand"},
+    {"namn": "Ställverk Kvarnsveden", "ort": "Borlänge", "typ": "Byte från halon", "ar": "2025", "text": "Ett halonsystem från 1978 ersattes med argon och aspirerande detektering.", "tagg": "industri"},
+    {"namn": "Regionens serverhall", "ort": "Västerdalarna", "typ": "Kemisk släckgas", "ar": "2025", "text": "Kompakt system i en serverhall utan plats för ett separat flaskrum.", "tagg": "el"},
+    {"namn": "Konstmagasinet", "ort": "Avesta", "typ": "Inertgas och detektering", "ar": "2024", "text": "Argon och tidig detektering i ett magasin för 3 000 konstverk.", "tagg": "interior"},
+    {"namn": "Telestation Idre", "ort": "Idre", "typ": "Serviceavtal", "ar": "2024", "text": "Fjärrövervakat släcksystem i en obemannad station på 800 meters höjd.", "tagg": "anlaggning"}
+  ],
+  "process": [
+    {"titel": "Rummet mäts upp", "text": "Vi besöker platsen, mäter volymen och tittar på dörrar, kanaler och genomföringar.", "tagg": "industri"},
+    {"titel": "Gas och beräkning", "text": "Vi väljer släckmedel och räknar ut koncentration, flaskantal och hålltid.", "tagg": "kontor"},
+    {"titel": "Installation", "text": "Rör, munstycken, flaskor och styrning monteras, och personalen får en genomgång av larm och utrymning.", "tagg": "maskin"},
+    {"titel": "Täthetsprov och intyg", "text": "Rummet trycksätts med fläkt. Först när hålltiden räcker lämnar vi anläggarintyget.", "tagg": "brand"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Släckgaser som inte värmer klimatet",
+    "text": "Vi installerar inga nya system med fluorerade gaser som har hög klimatpåverkan. Inertgaserna kväve och argon tas direkt ur luften och återgår dit, och gamla haloner och HFC-gaser lämnas till destruktion med intyg.",
+    "mal": [["0", "nya system med HFC-gas sedan 2018"], ["100 %", "av utbytt halon till destruktion med intyg"], ["1 prov", "täthetsprov på varje rum före intyg"]]
+  },
+  "karriar": {
+    "rubrik": "En nisch som få kan, i ett företag som lär ut den",
+    "text": "Ingen kommer till oss som färdig gassläckmontör. Du får gå bredvid i ett år, resa i hela landet och lära dig ett hantverk där varje rum är ett nytt räknetal.",
+    "jobb": [["Montör gassläcksystem", "Borlänge"], ["Serviceingenjör", "Borlänge"], ["Projektör släcksystem", "Borlänge"]]
+  },
+  "kultur": "Varje januari reser hela företaget till ett av årets projekt och får se anläggningen i drift tillsammans med kunden.",
+  "citat": {"text": "Per lärde mig att räkna på rummet innan man pratar gas. Ett system som läcker ut på två minuter är bara en dyr flaska.", "namn": "Sofia Lindblom", "roll": "Vd", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Vi hade ett utlöst system i en datasal i fjol. Branden i en UPS var släckt på 40 sekunder och vi tappade inte en enda kund.", "namn": "Daniel W.", "ort": "Ludvika"},
+    {"text": "Syrereduceringen gör att vi inte behöver sprinkler i magasinen alls. Personalen arbetar där varje dag utan problem.", "namn": "Eva-Lena K.", "ort": "Falun"},
+    {"text": "Täthetsprovet hittade tre kabelgenomföringar som vår egen elfirma hade missat. Bra att det kom fram före intyget.", "namn": "Mikael H.", "ort": "Borlänge"}
+  ],
+  "faq": [
+    ["Är gassläckning farlig för människor?", "Inertgaser sänker syrehalten till en nivå där en brand slocknar men som människor tål under den tid det tar att utrymma. Rummet utryms ändå alltid vid utlösning, och systemen har förvarning med larm och fördröjning."],
+    ["Vad är skillnaden mellan inertgas och kemisk släckgas?", "Inertgas består av kväve eller argon och kräver fler flaskor. Kemisk släckgas tar mindre plats men har en annan miljöprofil. Vi rekommenderar efter rummets storlek och utrymme för flaskor."],
+    ["Måste rummet vara helt tätt?", "Det behöver vara tillräckligt tätt för att gasen ska hålla koncentrationen i minst tio minuter. Täthetsprovet visar om det räcker."],
+    ["Har vi fortfarande halon?", "Halon är förbjudet sedan länge, men vissa undantag har funnits. Hittar ni gamla flaskor tar vi hand om dem och lämnar intyg på destruktion."],
+    ["Hur ofta ska systemet servas?", "Årlig service och kontroll av flaskornas innehåll. Täthetsprovet görs om när rummet byggs om och flaskorna omprovas med de intervall som gäller för tryckkärl."],
+    ["Kommer ni till hela Sverige?", "Ja. Ungefär hälften av våra anläggningar finns utanför Dalarna, från Skåne till Norrbotten."],
+    ["Vad kostar ett gassläcksystem?", "Ett serverrum på 50 kubikmeter kostar ofta 90 000–160 000 kronor installerat. Större hallar offereras efter beräkning."]
+  ],
+  "certifikat": [
+    {"titel": "Anläggarfirma gassläcksystem", "text": "Certifierade för projektering och installation av gassläcksystem enligt SBF 500.", "ikon": "skold"},
+    {"titel": "Projektering enligt SS-EN 15004", "text": "Beräkningar och täthetsprov utförs enligt den europeiska standarden för gassläcksystem.", "ikon": "ritning"},
+    {"titel": "Tryckbärande anordningar", "text": "Hantering och omprovning av flaskor enligt AFS om tryckbärande anordningar.", "ikon": "verktyg"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat kvalitets- och miljöledningssystem med spårbarhet för varje flaska.", "ikon": "lov"}
+  ],
+  "kunder": ["Grängesbergs Datacenter", "Dalarnas Länsarkiv", "Kvarnsvedens Kraft", "Avesta Konstmagasin", "Idre Telenät", "Dalälvens Vattenkraft", "Region Västerdalarna IT", "Borlänge Energinät"],
+  "nyheter": [
+    ["2026-09-24", "Det sista halonsystemet i Dalarna är borta", "Argon ersätter halon i ett ställverk från 1978.", "industri"],
+    ["2026-06-16", "Syrereducering i länsarkivet", "12 000 hyllmeter handlingar skyddas utan vatten och utan gas.", "brand"],
+    ["2026-02-05", "Datahallen i Grängesberg byggs vidare", "Etapp två omfattar tre nya datasalar och ytterligare 180 flaskor.", "el"]
+  ],
+  "kontakt": {"adress": "Tunavägen 211", "postnr": "781 73", "ort": "Borlänge", "telefon": "070-174 06 36", "epost": "berakning@gasfors.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7.30–16.30. Servicejour för avtalskunder",
+  "omrade": "Hela Sverige, med bas i Borlänge",
+  "fot_cta": "Står det något i rummet som inte tål vatten? Skicka måtten till oss.",
+  "bild": {"panel": "industri", "hb": "el"},
+  "text": {
+    "ber_rubrik": "Från rummen vi skyddar",
+    "proj_rubrik": "Rum där gasen står redo",
+    "process_rubrik": "Mätt, beräknat och provat",
+    "hb_etikett": "Klimat",
+    "omdomen_rubrik": "Driftchefer och arkivarier om oss",
+    "faq_rubrik": "Frågor om gassläckning",
+    "boka_rubrik": "Skicka mått för en budgetkalkyl",
+    "boka_falt": ["Namn", "Telefon", "Företag", "Rummets mått och vad det används till"],
+    "logos_rubrik": "Rum vi skyddar åt",
+    "certifikat_rubrik": "Behörigheter för gas och tryck",
+    "bolag_rubrik": "Beräkna, montera, prova",
+    "ny_rubrik": "Nytt från Tunavägen"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "sotare",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kobbfejarna Roslagen AB",
+  "kortnamn": "Kobbfejarna",
+  "slug": "kobbfejarna",
+  "typ": "Sotare i Norrtäljes skärgård",
+  "tagline": "Vi kommer med båt",
+  "slogan": "Åtta skorstensfejare, två arbetsbåtar och en svävare – för de 3 100 eldstäderna på öar utan bro mellan Arholma och Furusund.",
+  "hero_rubrik": "Sotaren lägger till vid din brygga",
+  "hero_text": "Sotning och brandskyddskontroll på öarna i Norrtälje kommun. Vi kommer med egen båt från maj till november och med svävare när isen ligger.",
+  "intro_rubrik": "Ett sotningsdistrikt med 900 öar",
+  "om": [
+    "Kobbfejarna startades 2011 av Fredrik Söderman och Ulrika Blom, båda uppvuxna på Blidö. När Norrtälje kommun delade upp sotningen och gjorde skärgården till ett eget distrikt la de anbud med en begagnad aluminiumbåt och en idé om att planera rundorna efter vind och tidvatten i stället för efter postnummer.",
+    "I dag är vi åtta anställda med båthus i Furusund och ett litet kontor på Rådmansö. Vi sotar och kontrollerar omkring 3 100 eldstäder på öar utan fast förbindelse – från helårshus på Arholma till fiskestugor på yttre skären, där vedspisen är enda värmekällan."
+  ],
+  "vagval_rubrik": "Vilken ö bor du på?",
+  "tjanster": [
+    {"titel": "Skärgårdssotning", "ikon": "bat", "href": "verksamhet.html", "text": "Sotning enligt kommunens frister på alla öar utan bro i Norrtälje kommun."},
+    {"titel": "Kontroll av eldstäder", "ikon": "skold", "href": "verksamhet.html", "text": "Brandskyddskontroll med protokoll som skickas med sms samma kväll."},
+    {"titel": "Vintersotning med svävare", "ikon": "vind", "href": "verksamhet.html", "text": "När isen ligger tar vi oss ut med svävare till helårsboende."},
+    {"titel": "Vedspisar och bastur", "ikon": "eld", "href": "verksamhet.html", "text": "Gamla järnspisar, bastuaggregat och bakugnar i fiskestugor."},
+    {"titel": "Nyckel på bryggan", "ikon": "nyckel", "href": "verksamhet.html", "text": "Lämna nyckeln i nyckelskåp på bryggan så sotar vi medan du är i stan."},
+    {"titel": "Takstegar för skärgården", "ikon": "hus", "href": "verksamhet.html", "text": "Vi monterar galvaniserade takstegar som tål salt och vinterstormar."},
+    {"titel": "Taxa och båttillägg", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Kommunens taxa gäller – utan extra kostnad för båtresan."},
+    {"titel": "Se när vi kommer", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Vår öplan visar vilken vecka vi är på din ö."}
+  ],
+  "affarsomraden": [
+    {"titel": "Sotning från båt", "text": "Vi planerar varje vecka efter väder och vind och sotar en ögrupp i taget, till exempel Lidö och Lisslö på måndagen och Gräskö på tisdagen. Båten har stegar, sotsugar och reservdelar ombord.", "text2": "Kommunens taxa gäller precis som på fastlandet – båtresan ingår.", "tagg": "bat"},
+    {"titel": "Brandskyddskontroll i fritidshus", "text": "De flesta husen på öarna är fritidshus med kontroll vart åttonde år. Vi kontrollerar eldstad, rökkanal och avstånd till brännbart och tittar extra noga på plåtskorstenar som utsatts för salt.", "text2": "Protokollet skickas som sms och mejl, och bilder från taket följer med.", "tagg": "skorsten"},
+    {"titel": "Helårsboende och vinter", "text": "På Arholma, Rödlöga och Tjockö bor ett hundratal familjer året om. När isen ligger tar vi oss ut med svävare, och vid otjänlig is samordnar vi med skärgårdstrafiken.", "text2": "Helårsboende med vedspis som enda värme prioriteras alltid.", "tagg": "natur"},
+    {"titel": "Fiskestugor och bastur", "text": "Ute på skären står gamla järnspisar, bakugnar och vedeldade bastur som ingen annan sotare har sett. Vi känner dem och vet vilka som behöver ny rökrörsböj.", "text2": "Många föreningar på yttre skären har ett gemensamt avtal med oss.", "tagg": "tra"}
+  ],
+  "bolag": [
+    {"namn": "Båtlaget Norra", "segment": "Arholma till Lidö", "rubrik": "Två sotare och M/S Grisslan", "text": "Sotar de norra öarna från Arholma ner till Lidö med en 9-metersbåt med lastlucka i fören.", "tagg": "bat"},
+    {"namn": "Båtlaget Södra", "segment": "Tjockö till Furusund", "rubrik": "Tre sotare och M/S Tärnan", "text": "Täcker Gräskö, Tjockö och öarna runt Furusund, med båthus och förråd på Furusund.", "tagg": "skorsten"},
+    {"namn": "Kontoret på Rådmansö", "segment": "Öplan och kundservice", "rubrik": "Planerar efter väderprognosen", "text": "Två personer som lägger veckoplanen, ringer kunderna och skickar protokoll.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Hela Gräskö på en vecka", "text": "Vi sotade 214 eldstäder på ön i september och hann med fikat på Gräskö Gästgiveri varje dag.", "tagg": "bat"},
+    {"rubrik": "Ny svävare till vintern", "text": "En begagnad svävare från sjöräddningen ersätter den gamla och tar två sotare med utrustning.", "tagg": "natur"},
+    {"rubrik": "Bastuföreningen på Söderarm", "text": "Den gamla fyrvaktarbastun har fått ny rökrörsböj och godkänd kontroll – första gången sedan 1990-talet.", "tagg": "tra"}
+  ],
+  "nyckeltal": [
+    {"varde": "3 100", "enhet": "eldstäder", "etikett": "På öar utan bro"},
+    {"varde": "900+", "enhet": "öar", "etikett": "I vårt distrikt"},
+    {"varde": "11 000", "enhet": "sjömil", "etikett": "Körda under 2025"},
+    {"varde": "8", "enhet": "anställda", "etikett": "Två båtar och en svävare"}
+  ],
+  "projekt": [
+    {"namn": "Gräskö", "ort": "Norrtälje skärgård", "typ": "Sotning", "ar": "2026", "text": "214 eldstäder sotade på en vecka med båt och terrängmoped.", "tagg": "bat"},
+    {"namn": "Arholma helårsboende", "ort": "Arholma", "typ": "Vintersotning", "ar": "2026", "text": "38 helårshus sotade med svävare i februari när isen låg.", "tagg": "natur"},
+    {"namn": "Söderarms fyrplats", "ort": "Söderarm", "typ": "Brandskyddskontroll", "ar": "2025", "text": "Bastu, kokspis och kamin i fyrvaktarbostaden kontrollerade och godkända.", "tagg": "tra"},
+    {"namn": "Lidö stugförening", "ort": "Lidö", "typ": "Föreningsavtal", "ar": "2025", "text": "46 stugor med gemensam nyckelhantering och sotning samma helg.", "tagg": "skorsten"},
+    {"namn": "Tjockö skola", "ort": "Tjockö", "typ": "Kakelugnar", "ar": "2025", "text": "Fyra kakelugnar i den gamla skolan, numera samlingslokal, sotade och kontrollerade.", "tagg": "hem"},
+    {"namn": "Rödlöga by", "ort": "Rödlöga", "typ": "Takstegar", "ar": "2026", "text": "Galvaniserade takstegar på tolv hus inför nästa års kontroll – pågår.", "tagg": "tak", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Öplanen", "text": "I mars publicerar vi vilken vecka vi är på varje ö. Du får ett sms när din vecka närmar sig.", "tagg": "kontor"},
+    {"titel": "Väderkollen", "text": "Kvällen före bestämmer vi rutt efter vind och våghöjd. Blir det inställt flyttar vi till närmaste lugna dag.", "tagg": "bat"},
+    {"titel": "På bryggan", "text": "Vi lägger till, bär upp utrustningen och sotar. Är du inte hemma använder vi nyckeln i nyckelskåpet.", "tagg": "skorsten"},
+    {"titel": "Sms och protokoll", "text": "Du får sms när vi har varit där, med bild från taket och protokoll vid kontroll.", "tagg": "brand"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Skärgården ska klara sig utan oss",
+    "text": "Vi planerar rutterna så att varje båt kör så kort som möjligt, och båda arbetsbåtarna har fått nya motorer som drar 30 procent mindre bränsle. Allt sot och avfall tas med tillbaka till fastlandet. Alla sotare har förarintyg och sjukvårdsutbildning för skärgårdsförhållanden.",
+    "mal": [["−30 %", "bränsle efter motorbytet 2025"], ["100 %", "av soten tillbaka till fastlandet"], ["0", "olyckor till sjöss sedan start"]]
+  },
+  "karriar": {
+    "rubrik": "Ett kontor med havsutsikt",
+    "text": "Vi söker skorstensfejare som trivs på sjön och klarar en lång dag ute på öarna. Förarintyg för båt kan du ta hos oss, och på vintern arbetar vi kortare dagar.",
+    "jobb": [["Skorstensfejare, säsong maj–november", "Furusund"], ["Skorstensfejartekniker", "Rådmansö"]]
+  },
+  "kultur": "Varje fredag i juni avslutar båtlagen veckan med strömmingsmiddag på bryggan i Furusund.",
+  "citat": {"text": "På fastlandet planerar man efter adresser. Här ute planerar vi efter vinden – annars kommer vi inte fram.", "namn": "Ulrika Blom", "roll": "Medgrundare och skorstensfejartekniker", "tagg": "bat"},
+  "omdomen": [
+    {"text": "Vi bor på Arholma året om. Att sotaren kommer med svävare i februari är ingen självklarhet, men de har aldrig missat.", "namn": "Kerstin och Bo L.", "ort": "Arholma"},
+    {"text": "Nyckeln låg i skåpet på bryggan och vi fick sms med bild på skorstenen medan vi satt på jobbet i Stockholm.", "namn": "Johan E.", "ort": "Lidö"},
+    {"text": "De hittade en rostig rökrörsböj i bastun som vi aldrig hade sett. Ny böj kom med nästa tur.", "namn": "Anders P.", "ort": "Gräskö"}
+  ],
+  "faq": [
+    ["Kostar det mer att bo på en ö?", "Nej. Kommunens sotningstaxa är densamma som på fastlandet, och båtresan ingår. Du betalar bara för det arbete som görs i ditt hus."],
+    ["Vad händer om det blåser för mycket?", "Då ställer vi in och flyttar besöket till närmaste dag med bättre väder. Du får ett sms så fort beslutet är taget."],
+    ["Måste jag vara hemma?", "Nej, de flesta stugägare lämnar nyckel i ett nyckelskåp på bryggan eller hos en granne. Vid kontroll av eldstaden behöver vi komma in."],
+    ["Sotar ni på öar med bro?", "Nej, Väddö, Rådmansö och andra öar med fast förbindelse ingår i kommunens fastlandsdistrikt med en annan sotningsentreprenör."],
+    ["Vad gör ni på vintern?", "Vi sotar helårsboende med svävare eller med skärgårdstrafikens båtar. Fritidshus sotas från maj till november."],
+    ["Kan vi som förening boka samma helg?", "Ja. Stugföreningar och samfälligheter kan boka en gemensam helg, och vi sotar alla hus på ön på en gång."]
+  ],
+  "certifikat": [
+    {"titel": "Sotningsavtal skärgårdsdistriktet", "text": "Avtal med Norrtälje kommun för öar utan fast förbindelse sedan 2011.", "ikon": "dokument"},
+    {"titel": "Skorstensfejartekniker", "text": "Tre tekniker med behörighet för brandskyddskontroll.", "ikon": "skold"},
+    {"titel": "Förarintyg och kustskepparintyg", "text": "Alla som kör våra båtar har förarintyg, och båtlagsledarna har kustskepparintyg.", "ikon": "bat"},
+    {"titel": "Fallskydd och första hjälpen", "text": "Hela personalen har fallskydd, HLR och första hjälpen anpassad för skärgården.", "ikon": "kors"}
+  ],
+  "kunder": ["Norrtälje kommun", "Lidö Stugförening", "Arholma Byalag", "Gräskö Samfällighetsförening", "Söderarms Fyrförening", "Tjockö Hembygdsförening", "Rödlöga Bastulag"],
+  "nyheter": [
+    ["2026-10-14", "Sista båtrundan för säsongen", "Vecka 46 sotar vi de sista fritidshusen på yttre skären innan isen lägger sig.", "bat"],
+    ["2026-07-02", "Saltet och plåtskorstenen", "Varför plåtskorstenar i skärgården behöver ses över oftare än på fastlandet.", "skorsten"],
+    ["2026-03-11", "Öplanen för 2026 är klar", "Nu kan du se vilken vecka vi kommer till just din ö.", "karta"]
+  ],
+  "kontakt": {"adress": "Furusundsvägen 1340", "postnr": "760 19", "ort": "Furusund", "telefon": "070-174 06 52", "epost": "bryggan@kobbfejarna.se", "orgnr": ""},
+  "oppettider": "Kontoret mån–fre 8–15, båtarna ute mån–tors",
+  "omrade": "Norrtälje kommuns öar utan fast förbindelse, från Arholma till Furusund",
+  "fot_cta": "Undrar du när vi kommer till din ö? Titta i öplanen eller ring kontoret.",
+  "bild": {"panel": "bat", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Ring kontoret",
+    "hero_knapp": "Se öplanen",
+    "hero_lank": "Öar vi har besökt",
+    "vagval_etikett": "Skärgården",
+    "ber_etikett": "Från båtarna",
+    "ber_rubrik": "Senaste turerna",
+    "proj_rubrik": "Öar, stugor och fyrplatser",
+    "proj_rubrik_lista": "Uppdrag i skärgården",
+    "process_etikett": "Ett besök på ön",
+    "process_rubrik": "Från öplan till sms",
+    "bolag_rubrik": "Två båtlag och ett kontor",
+    "hb_etikett": "Hav och säkerhet",
+    "omdomen_rubrik": "Öbor och stugägare om oss",
+    "faq_rubrik": "Om väder, nycklar och taxor",
+    "boka_rubrik": "Vilken ö och vilket hus?",
+    "boka_text": "Skriv ön, fastighetsbeteckning och om du vill lämna nyckel. Vi svarar inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Mobilnummer", "E-post", "Ö och fastighet"],
+    "certifikat_rubrik": "Behörigheter på land och sjö",
+    "logos_rubrik": "Öar och föreningar vi sotar åt",
+    "medarbetare": "Båtlagen"
+  }
+}

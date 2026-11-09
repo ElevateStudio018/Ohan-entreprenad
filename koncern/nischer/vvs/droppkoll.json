@@ -1,0 +1,139 @@
+{
+  "profil": "nisch",
+  "nisch": "vvs",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Droppkoll Uppsala AB",
+  "kortnamn": "Droppkoll",
+  "slug": "droppkoll",
+  "typ": "Läckagelarm och smart VVS i Uppsala",
+  "tagline": "Läckor stoppas automatiskt",
+  "slogan": "Sensorer under diskbänken, en ventil på inkommande vatten och en rörmokare som ringer dig innan grannen under gör det.",
+  "hero_rubrik": "Vattnet stängs av innan du märker läckan",
+  "hero_text": "Läckagesensorer, automatiska avstängningsventiler och flödesmätning för villor, lägenheter och bostadsrättsföreningar i Uppsala län. Installerat av rörmokare, övervakat dygnet runt.",
+  "intro_rubrik": "Sensorer, ventiler och en människa som svarar",
+  "om": [
+    "Viktor Almgren är civilingenjör från Ångströmlaboratoriet och hade byggt sensorer för vindkraftverk när hans egen lägenhet i Luthagen fick en vattenskada från grannen ovanför. Han kontaktade rörmokaren Nadia Sabri, och 2020 startade de Droppkoll med frågan om läckor kunde stoppas innan de blev skador.",
+    "I dag är vi 19 anställda: rörmokare, en elektriker, två utvecklare och en larmcentral som bemannas dygnet runt. Vi har installerat avstängningsventiler i 5 600 bostäder, och systemen stängde vattnet vid 312 läckor under 2025."
+  ],
+  "vagval_rubrik": "Var vill du ha koll?",
+  "tjanster": [
+    {"titel": "Läckagesensorer", "ikon": "sok", "href": "verksamhet.html", "text": "Trådlösa sensorer under diskbänk, diskmaskin, tvättmaskin och i golvbrunnen."},
+    {"titel": "Automatisk avstängning", "ikon": "las", "href": "verksamhet.html", "text": "En motorventil på inkommande vatten som stänger på några sekunder."},
+    {"titel": "Flödesmätning", "ikon": "graf", "href": "verksamhet.html", "text": "Hittar droppande toaletter och små läckor som annars syns först i bjälklaget."},
+    {"titel": "Larmcentral dygnet runt", "ikon": "telefon", "href": "verksamhet.html", "text": "Vi ringer dig när ett larm går och skickar en rörmokare om du vill."},
+    {"titel": "System för brf", "ikon": "hus", "href": "verksamhet.html", "text": "Alla lägenheter i en panel för styrelsen och förvaltaren."},
+    {"titel": "Frostvakt i stugan", "ikon": "eld", "href": "verksamhet.html", "text": "Temperaturlarm och avstängning när fritidshuset riskerar att frysa."},
+    {"titel": "Rörmokare efter larm", "ikon": "ror", "href": "verksamhet.html", "text": "Samma rörmokare som installerade åtgärdar läckan."},
+    {"titel": "Räkna på din bostad", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Fast pris för villa, lägenhet eller förening."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villor och radhus", "text": "En motorventil monteras direkt efter vattenmätaren och kopplas till sensorer i kök, tvättstuga och badrum. När en sensor blir blöt eller flödet beter sig konstigt stängs vattnet och du får ett larm i telefonen.", "text2": "Flera försäkringsbolag sänker självrisken för vattenskador när ventilen är installerad.", "tagg": "hem"},
+    {"titel": "Bostadsrättsföreningar", "text": "I ett flerbostadshus drabbar en läcka sällan bara en lägenhet. Vi monterar ventil och sensorer i varje lägenhet och ger styrelsen en panel som visar alla larm, förbrukning och batteristatus.", "text2": "Föreningen kan välja att larmen även går till förvaltaren eller fastighetsjouren.", "tagg": "bostad"},
+    {"titel": "Larmcentral och utryckning", "text": "Larmen hamnar hos vår egen larmcentral i Boländerna, som ringer upp inom två minuter. Om ingen svarar och vattnet fortfarande flödar skickar vi en rörmokare med tillgång till din nyckelbricka.", "text2": "Avtal om larmcentral kostar 89 kronor per månad och bostad.", "tagg": "kontor"},
+    {"titel": "Fritidshus", "text": "Stugor som står tomma på vintern får temperaturgivare och en ventil som stänger om det blir för kallt eller om vatten börjar rinna. Du ser temperaturen i stugan i appen hela året.", "text2": "Systemet drivs med batteri i upp till fem år och klarar strömavbrott.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Installation", "segment": "9 rörmokare, 1 elektriker", "rubrik": "Ventil på en förmiddag", "text": "Monterar ventiler, sensorer och gateways och provar hela kedjan innan de åker.", "tagg": "vvs"},
+    {"namn": "Larmcentralen", "segment": "5 operatörer", "rubrik": "Ringer upp inom två minuter", "text": "Bemannad dygnet runt i Boländerna, med rörmokarnas scheman framför sig.", "tagg": "kontor"},
+    {"namn": "Utveckling", "segment": "2 utvecklare", "rubrik": "Appen och styrelsepanelen", "text": "Bygger mjukvaran som tolkar flödet och skiljer en dusch från en läcka.", "tagg": "el"},
+    {"namn": "Ledning", "segment": "Viktor och Nadia", "rubrik": "Ingenjör och rörmokare", "text": "Viktor ansvarar för tekniken, Nadia för installationerna och kontakten med försäkringsbolagen.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "312 läckor stoppade under 2025", "text": "Den vanligaste orsaken var diskmaskinsslangar, följt av toaletter som självspolade dygnet runt.", "tagg": "vvs"},
+    {"rubrik": "Brf Kvarnbo Strand kopplar upp 140 lägenheter", "text": "Styrelsen ser nu förbrukning och larm för hela huset i en och samma panel.", "tagg": "bostad"},
+    {"rubrik": "Ny algoritm för små läckor", "text": "Systemet känner nu igen läckor ner till en deciliter i timmen efter sju dygns inlärning.", "tagg": "el"}
+  ],
+  "nyckeltal": [
+    {"varde": "5 600", "enhet": "bostäder", "etikett": "Med automatisk ventil"},
+    {"varde": "312", "enhet": "läckor", "etikett": "Stoppade under 2025"},
+    {"varde": "2 min", "enhet": "", "etikett": "Till uppringning vid larm"},
+    {"varde": "2020", "enhet": "", "etikett": "Första ventilen i Luthagen"}
+  ],
+  "projekt": [
+    {"namn": "Brf Kvarnbo Strand", "ort": "Uppsala", "typ": "Ventiler, 140 lgh", "ar": "2026", "text": "Ventil och fyra sensorer i varje lägenhet, med larm direkt till fastighetsjouren.", "tagg": "bostad", "status": "Utfört"},
+    {"namn": "Studentbostäder i Flogsta", "ort": "Uppsala", "typ": "Flödesmätning, 420 rum", "ar": "2025", "text": "Mätningen hittade 37 toaletter som rann konstant och sparade 9 000 kubikmeter vatten första året.", "tagg": "bostad"},
+    {"namn": "Villa i Sunnersta", "ort": "Uppsala", "typ": "Villapaket", "ar": "2025", "text": "Ventilen stängde tre veckor efter installationen när en diskmaskinsslang sprack under natten.", "tagg": "hem"},
+    {"namn": "Knivsta Hyreshus", "ort": "Knivsta", "typ": "Ventiler, 96 lgh", "ar": "2025", "text": "Hyresvärden fick sänkt försäkringspremie efter installationen i hela beståndet.", "tagg": "bostad"},
+    {"namn": "Sommarhus vid Ekoln", "ort": "Uppsala", "typ": "Frostvakt", "ar": "2024", "text": "Temperaturlarmet gick när värmen slogs ut under en köldknäpp – vattnet stängdes innan rören frös.", "tagg": "natur"},
+    {"namn": "Radhusområde i Enköping", "ort": "Enköping", "typ": "Ventiler, 38 radhus", "ar": "2026", "text": "Samfälligheten installerar ventiler i alla hus före vintern.", "tagg": "hem", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Genomgång", "text": "Vi tittar på var vattnet kommer in, var maskinerna står och hur täckningen för sensorerna blir.", "tagg": "vvs"},
+    {"titel": "Installation", "text": "En rörmokare monterar ventilen och en elektriker kopplar strömmen. En villa tar en förmiddag.", "tagg": "vvs"},
+    {"titel": "Inlärning", "text": "Under sju dygn lär sig systemet hur ni använder vatten, så att duschen inte ger falsklarm.", "tagg": "el"},
+    {"titel": "Bevakning", "text": "Larmcentralen tar över. Du får en sammanfattning av förbrukningen i appen varje månad.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Den vattenskada som aldrig händer",
+    "text": "En vattenskada i en lägenhet kostar i snitt runt 100 000 kronor och fyller containrar med gips och golv. Varje stoppad läcka sparar alltså både material och avfuktarel. Flödesmätningen hittar dessutom rinnande toaletter och droppande kranar som annars slösar tusentals liter om året.",
+    "mal": [["312", "skador förhindrade 2025"], ["9 000 m³", "vatten sparat i Flogsta"], ["5 år", "batteritid i sensorerna"]]
+  },
+  "karriar": {
+    "rubrik": "Rörmokare som gillar teknik",
+    "text": "Vi söker rörmokare som tycker att en app och en motorventil är lika intressanta som en pressmaskin, och en operatör till larmcentralen. Alla får utbildning i systemet och betald certifiering i Säker Vatten.",
+    "jobb": [["Rörmokare installation", "Uppsala"], ["Larmoperatör, skift", "Uppsala"], ["Mjukvaruutvecklare", "Uppsala"]]
+  },
+  "kultur": "En gång i månaden visar utvecklarna vad de har byggt, och rörmokarna berättar vad som inte fungerade ute hos kunderna.",
+  "citat": {"text": "Vi har aldrig ändrat på hur vatten beter sig. Vi har bara gett rören ett sätt att säga till när något är fel.", "namn": "Nadia Sabri", "roll": "Medgrundare och rörmokare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Jag var i Barcelona när appen plingade. Ventilen hade stängt och larmcentralen hade redan ringt grannen.", "namn": "Ludvig H.", "ort": "Sunnersta"},
+    {"text": "Vi fick se exakt vilka lägenheter som hade rinnande toaletter. Vattenräkningen sjönk med en femtedel.", "namn": "Marie W., förvaltare", "ort": "Flogsta"},
+    {"text": "Försäkringsbolaget sänkte självrisken från 15 000 till 3 000 kronor när de såg intyget.", "namn": "Agnes och Kim R.", "ort": "Enköping"}
+  ],
+  "faq": [
+    ["Vad händer om strömmen går?", "Ventilen och sensorerna har batteribackup. Ventilen stannar i det läge den var i, och du får en notis om strömavbrottet."],
+    ["Blir det falsklarm när vi duschar länge?", "Nej. Systemet lär sig era vanor under sju dygn och skiljer en lång dusch från en läcka. Du kan också sätta semesterläge."],
+    ["Får jag rabatt på försäkringen?", "Flera försäkringsbolag sänker självrisken eller premien för vattenskador. Vi skickar ett installationsintyg som du lämnar till ditt bolag."],
+    ["Måste jag ha larmcentralen?", "Nej. Ventilen stänger automatiskt ändå och larmet kommer till din telefon. Larmcentralen är ett tillval för den som vill att någon ringer."],
+    ["Var lagras min data?", "På servrar i Sverige. Vi delar inga förbrukningsdata med någon annan utan ditt godkännande."],
+    ["Kan ni installera i en hyreslägenhet?", "Ja, med hyresvärdens godkännande. Många hyresvärdar betalar installationen själva."],
+    ["Gäller rotavdrag?", "Ja, för rörmokarens och elektrikerns arbetstid. Utrustningen ger inget avdrag."]
+  ],
+  "priser": [
+    {"namn": "Lägenhet", "pris": "fr. 4 900 kr", "enhet": "installerat", "text": "Ventil i lägenhetens stamanslutning och tre sensorer.", "punkter": ["Motorventil på inkommande vatten", "Sensorer i kök och badrum", "Appen utan månadsavgift", "Intyg till försäkringsbolaget"]},
+    {"namn": "Villa", "pris": "fr. 8 900 kr", "enhet": "installerat", "text": "Ventil efter vattenmätaren, flödesmätning och fem sensorer.", "punkter": ["Motorventil och flödesmätare", "Fem trådlösa sensorer", "Inlärning och semesterläge", "Två års garanti på allt"], "utvald": true},
+    {"namn": "Brf", "pris": "fr. 3 600 kr", "enhet": "per lägenhet, exkl. moms", "text": "Hela huset uppkopplat i en panel för styrelsen.", "punkter": ["Ventil och sensorer i varje lägenhet", "Styrelsepanel med alla larm", "Larm till förvaltare eller jour", "Installation trapphus för trapphus"]}
+  ],
+  "certifikat": [
+    {"titel": "Säker Vatten", "text": "Varje ventil monteras av en certifierad rörmokare enligt branschreglerna.", "ikon": "vatten"},
+    {"titel": "Auktoriserad elinstallatör", "text": "Elarbetet utförs av vår egen elektriker med auktorisation från Elsäkerhetsverket.", "ikon": "blixt"},
+    {"titel": "Godkänd av försäkringsbolag", "text": "Systemet uppfyller kraven för vattenfelsbrytare hos de större försäkringsbolagen.", "ikon": "skold"},
+    {"titel": "Data i Sverige", "text": "All förbrukningsdata lagras krypterat på servrar i Sverige och raderas när avtalet sägs upp.", "ikon": "las"}
+  ],
+  "kunder": ["Brf Kvarnbo Strand", "Knivsta Hyreshus", "Studentbostäder Flogsta Norra", "Enköpings Radhussamfällighet", "Brf Rosendal Allé", "Gottsunda Fastigheter", "Brf Luthagsesplanaden 12"],
+  "nyheter": [
+    ["2026-10-19", "312 stoppade läckor på ett år", "Diskmaskinsslangar toppar listan – så kontrollerar du din.", "vvs"],
+    ["2026-05-26", "Små läckor syns nu i appen", "Ny version känner igen en deciliter i timmen.", "el"],
+    ["2026-01-14", "Stugan och kylan", "Så fungerar frostvakten när värmen slås ut i fritidshuset.", "natur"]
+  ],
+  "kontakt": {"adress": "Bolandsgatan 15", "postnr": "753 23", "ort": "Uppsala", "telefon": "070-174 06 26", "epost": "hej@droppkoll.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 8–17, larmcentral dygnet runt",
+  "omrade": "Uppsala, Knivsta, Enköping och Östhammar",
+  "fot_cta": "Låt rören säga till i tid – boka en genomgång av din bostad.",
+  "bild": {"panel": "el", "hb": "vvs"},
+  "text": {
+    "kontakt_knapp": "Boka genomgång",
+    "hero_knapp": "Så fungerar systemet",
+    "hero_lank": "Se priser",
+    "vagval_etikett": "Bevaka",
+    "ber_rubrik": "Från larmcentralen",
+    "proj_etikett": "Installationer",
+    "proj_rubrik": "Läckor som aldrig blev skador",
+    "proj_rubrik_lista": "Installerade system",
+    "process_rubrik": "Från ventil till bevakning",
+    "hb_etikett": "Skador som uteblir",
+    "omdomen_rubrik": "När larmet gick",
+    "faq_rubrik": "Frågor om sensorer och ventiler",
+    "priser_etikett": "Paket",
+    "priser_rubrik": "Vad det kostar att stänga läckan i tid",
+    "priser_not": "Lägenhet och villa inklusive moms, före rotavdrag. Brf exklusive moms.",
+    "priser_utvald": "Mest installerat",
+    "priser_knapp": "Boka genomgång",
+    "boka_rubrik": "Boka en genomgång",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Villa, lägenhet eller förening – och ungefär hur stor"],
+    "logos_rubrik": "Föreningar och hyresvärdar som är uppkopplade",
+    "certifikat_rubrik": "Behörigt installerat, säkert lagrat",
+    "bolag_rubrik": "Rör, el och mjukvara under ett tak",
+    "medarbetare": "Rörmokare och ingenjörer"
+  }
+}

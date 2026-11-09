@@ -1,0 +1,121 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Nödljuset Väst AB",
+  "kortnamn": "Nödljuset",
+  "slug": "nodljuset",
+  "typ": "Utrymningsspecialist i Fyrstadsområdet",
+  "tagline": "Hitta ut i mörker",
+  "slogan": "Nödbelysning, utrymningsskyltar och utrymningslarm som visar vägen ut när strömmen går och rummet fylls av rök – sedan 1984 från Trollhättan.",
+  "hero_rubrik": "När ljuset slocknar ska skylten lysa",
+  "hero_text": "Vi projekterar, installerar och testar nödbelysning, vägledande markeringar och utrymningslarm i fabriker, skolor, köpcentrum och teatrar i Fyrstadsområdet och Dalsland.",
+  "intro_rubrik": "Fyrtio år av gröna skyltar",
+  "om": [
+    "Elektrikern Sven-Olof Karlsson startade Nödljuset 1984, när de nya kraven på nödbelysning gjorde att varje verkstad längs Göta älv plötsligt behövde batteriarmaturer över dörrarna. Hans dotter Hanna Karlsson Berg och sonen Viktor tog över 2016 och driver i dag företaget med 17 anställda från Stridsbergsgatan i Trollhättan.",
+    "Vi gör en sak riktigt ordentligt: allt som hjälper människor att hitta ut. Det betyder nödljus med centralbatteri eller egna batterier, genomlysta och efterlysande skyltar, ledstråk i golvet, talat utrymningslarm, blixtljus för den som inte hör och orienteringsritningar på väggen. Varje armatur vi monterat finns i ett register med datum för senaste test."
+  ],
+  "vagval_rubrik": "Vilken lokal behöver visa vägen ut?",
+  "tjanster": [
+    {"titel": "Nödbelysning", "ikon": "lampa", "href": "verksamhet.html", "text": "Armaturer som tänds på en halv sekund och lyser i minst en timme vid strömavbrott."},
+    {"titel": "Utrymningsskyltar", "ikon": "pil", "href": "verksamhet.html", "text": "Genomlysta och efterlysande skyltar placerade efter siktlinjer, inte efter vana."},
+    {"titel": "Centralbatterisystem", "ikon": "laddning", "href": "verksamhet.html", "text": "Ett batteriskåp för hela byggnaden med automatisk test varje vecka."},
+    {"titel": "Utrymningslarm", "ikon": "megafon", "href": "verksamhet.html", "text": "Talat larm, ringklockor och blixtljus som når alla i lokalen."},
+    {"titel": "Ledstråk i golv", "ikon": "vag", "href": "verksamhet.html", "text": "Lågt placerad markering som syns även när röken ligger under taket."},
+    {"titel": "Orienteringsritningar", "ikon": "karta", "href": "verksamhet.html", "text": "Utrymningsplaner ritade av oss, med rätt vy från platsen där de sitter."},
+    {"titel": "Årlig funktionstest", "ikon": "kalender", "href": "verksamhet.html", "text": "Fullängdstest av varje armatur och batteribyte innan kapaciteten tar slut."},
+    {"titel": "Beställ en ljusmätning", "ikon": "sok", "href": "om-oss.html#kontakt", "text": "Vi mäter belysningsstyrkan i era utrymningsvägar en kväll med släckt belysning."}
+  ],
+  "affarsomraden": [
+    {"titel": "Nödbelysning och batterier", "text": "Vi väljer mellan armaturer med egna batterier och centralbatterisystem efter byggnadens storlek och hur testerna ska skötas. I större anläggningar sparar ett centralt system hundratals batteribyten.", "text2": "Alla system dimensioneras enligt SS-EN 1838 och provas enligt SS-EN 50172.", "tagg": "el"},
+    {"titel": "Vägledande markering", "text": "En skylt som sitter bakom en reklampelare hjälper ingen. Vi går lokalen med ritningen i handen, sätter oss på huk där röken skulle ligga och placerar skyltar och ledstråk därefter.", "text2": "Efterlysande markeringar laddas av vanlig belysning och kräver ingen ström alls.", "tagg": "brand"},
+    {"titel": "Utrymningslarm", "text": "I en verkstad med hörselskydd hörs ingen ringklocka. Vi kombinerar talat meddelande, sirener och blixtljus så att signalen når fram oavsett buller eller hörselnedsättning.", "text2": "Larmet kopplas till befintligt brandlarm eller fungerar fristående med egna knappar.", "tagg": "industri"},
+    {"titel": "Test, register och service", "text": "Nödljus som inte testas fungerar sällan den dag det behövs. Vi testar varje armatur en gång om året med full urladdning och för in resultatet i ert register.", "text2": "Batterier byts innan de tappar kapacitet, inte efter att de har gjort det.", "tagg": "brand"}
+  ],
+  "bolag": [
+    {"namn": "Installation", "segment": "Nybyggnad och ombyggnad", "rubrik": "Åtta elektriker med utrymning som yrke", "text": "Installationsavdelningen monterar runt 3 500 armaturer och skyltar om året, ofta som underentreprenör till elfirman.", "tagg": "el"},
+    {"namn": "Service och test", "segment": "Årliga funktionstester", "rubrik": "22 000 armaturer i registret", "text": "Fyra servicetekniker kör de årliga testerna, oftast kvällstid när lokalerna är tomma.", "tagg": "brand"},
+    {"namn": "Ritkontoret", "segment": "Projektering och planer", "rubrik": "Hanna och två ritare", "text": "Här projekteras nödljuset och här ritas orienteringsritningarna, för hand i skiss och sedan i CAD.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Teatern fick ledstråk i salongen", "text": "Efterlysande markering längs varje bänkrad, som syns när salongen släcks men inte stör föreställningen.", "tagg": "interior"},
+    {"rubrik": "Centralbatteri i motorverkstaden", "text": "820 armaturer kopplade till två batteriskåp ersätter lika många enskilda batterier.", "tagg": "industri"},
+    {"rubrik": "Viktor provar blixtljus med hörselföreningen", "text": "Medlemmar från HRF i Vänersborg testade nya blixtljus i en skola för att hitta rätt placering.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "1984", "enhet": "", "etikett": "Sven-Olof startade firman"},
+    {"varde": "22 000", "enhet": "armaturer", "etikett": "Testas av oss varje år"},
+    {"varde": "17", "enhet": "anställda", "etikett": "Andra generationen leder"},
+    {"varde": "60", "enhet": "minuter", "etikett": "Minsta lystid vid avbrott"}
+  ],
+  "projekt": [
+    {"namn": "Motorverkstaden Stallbacka", "ort": "Trollhättan", "typ": "Centralbatterisystem", "ar": "2026", "text": "Nödbelysning i en verkstadshall på 18 000 kvadratmeter med två centralbatterier.", "tagg": "industri", "status": "Pågående"},
+    {"namn": "Folkteatern vid Kanalen", "ort": "Trollhättan", "typ": "Ledstråk och skyltar", "ar": "2025", "text": "Efterlysande markering i salong och foajé utan att störa ljussättningen.", "tagg": "interior"},
+    {"namn": "Torpaskolan", "ort": "Vänersborg", "typ": "Utrymningslarm", "ar": "2025", "text": "Talat larm och blixtljus i alla klassrum, med meddelanden anpassade för elever med hörselnedsättning.", "tagg": "brand"},
+    {"namn": "Handelsplats Torp", "ort": "Uddevalla", "typ": "Nödbelysning i köpcentrum", "ar": "2025", "text": "Byte av 640 armaturer och nya skyltar efter att butikerna byggts om.", "tagg": "stad"},
+    {"namn": "Åmåls Bryggeri", "ort": "Åmål", "typ": "Orienteringsritningar", "ar": "2024", "text": "Utrymningsplaner på svenska och engelska för 28 platser i produktionen.", "tagg": "kontor"},
+    {"namn": "Brf Slussgränd", "ort": "Trollhättan", "typ": "Trapphusbelysning", "ar": "2024", "text": "Nödljus i sju trapphus och källargångar i ett hus från 1958.", "tagg": "bostad"}
+  ],
+  "process": [
+    {"titel": "Kvällsvandring", "text": "Vi släcker all ordinarie belysning och går utrymningsvägarna med en luxmätare.", "tagg": "brand"},
+    {"titel": "Ritning och förslag", "text": "Ni får en ritning med varje armatur och skylt utmärkt och ett fast pris per punkt.", "tagg": "kontor"},
+    {"titel": "Montage", "text": "Våra elektriker monterar, ofta på kvällar och helger för att inte störa verksamheten.", "tagg": "el"},
+    {"titel": "Test och register", "text": "Varje armatur får ett nummer, testas med full urladdning och förs in i registret.", "tagg": "brand"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje armatur har ett nummer och ett testdatum",
+    "text": "Vi tar inte på oss service på anläggningar vi inte kan registrera fullt ut. Batterier som byts ut lämnas till återvinning med intyg, och vi väljer LED-armaturer som drar under två watt i beredskap.",
+    "mal": [["100 %", "av armaturerna testade med full urladdning"], ["< 2 W", "effekt per armatur i beredskapsläge"], ["98 %", "av utbytta batterier materialåtervunna"]]
+  },
+  "karriar": {
+    "rubrik": "Elektriker som vill göra något mer än att dra kabel",
+    "text": "Hos oss lär du dig projektera och testa nödljus och utrymningslarm, och du får ett eget kundregister att ansvara för. Kvällsarbete ersätts med ledig tid.",
+    "jobb": [["Elektriker nödbelysning", "Trollhättan"], ["Servicetekniker", "Uddevalla"]]
+  },
+  "kultur": "Sven-Olof är 79 år och kommer fortfarande in varje måndag för att gå igenom veckans ritningar.",
+  "citat": {"text": "Pappa sa alltid att ingen tackar för en nödlampa. Men alla som någon gång stått i ett mörkt trapphus vet hur mycket den är värd.", "namn": "Hanna Karlsson Berg", "roll": "Vd, andra generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Kvällsvandringen visade att halva lagret var mörkt vid strömavbrott. Nu har vi ett centralbatteri som testar sig självt varje vecka.", "namn": "Roger E.", "ort": "Trollhättan"},
+    {"text": "De placerade ledstråken så att publiken ser dem men skådespelarna inte gör det. Vi trodde inte att det gick.", "namn": "Ingela F.", "ort": "Trollhättan"},
+    {"text": "Våra elever med hörapparat ser nu larmet i varje klassrum. Hörselföreningen var med och testade.", "namn": "Mohammed A.", "ort": "Vänersborg"}
+  ],
+  "faq": [
+    ["Var krävs nödbelysning?", "Enligt Boverkets byggregler i utrymningsvägar i lokaler där många vistas eller där det är svårt att hitta ut, till exempel i skolor, butiker, samlingslokaler och större arbetsplatser."],
+    ["Hur ofta ska nödbelysningen testas?", "En kort funktionskontroll varje månad och ett fullständigt test med urladdning en gång om året. Med centralbatteri sköts den månatliga kontrollen automatiskt."],
+    ["Är efterlysande skyltar godkända?", "Ja, i många lokaler. De kräver att den ordinarie belysningen laddar dem, och vi mäter alltid att ljuset räcker innan vi föreslår dem."],
+    ["Vad kostar en nödljusarmatur?", "En LED-armatur med eget batteri kostar monterad från cirka 1 900 kronor. Vid fler än 150 punkter lönar sig ofta centralbatteri."],
+    ["Kan ni ta över service på nödljus någon annan har monterat?", "Ja. Vi inventerar, numrerar och testar allt vid första besöket och lämnar en lista över det som behöver åtgärdas."],
+    ["Gör ni utrymningsplaner?", "Ja, vi ritar orienteringsritningar som visar rätt vy från där de sitter, med släckare, larmknappar och återsamlingsplats utmärkta."]
+  ],
+  "certifikat": [
+    {"titel": "Auktoriserad elinstallatör", "text": "Auktorisation AL från Elsäkerhetsverket och ett registrerat egenkontrollprogram.", "ikon": "blixt"},
+    {"titel": "Anläggarfirma utrymningslarm", "text": "Certifierade för projektering och installation av brand- och utrymningslarm enligt SBF 110.", "ikon": "skold"},
+    {"titel": "Nödbelysning enligt standard", "text": "Dimensionering enligt SS-EN 1838 och test enligt SS-EN 50172 med protokoll per armatur.", "ikon": "lampa"},
+    {"titel": "ID06 och kollektivavtal", "text": "Alla montörer har ID06 och anställning enligt Installationsavtalet.", "ikon": "folk"}
+  ],
+  "kunder": ["Stallbacka Motorverkstad", "Folkteatern vid Kanalen", "Vänersborgs Skolfastigheter", "Handelsplats Torp", "Åmåls Bryggeri", "Brf Slussgränd", "Fyrstadens Elservice", "Dalslands Folkhögskola"],
+  "nyheter": [
+    ["2026-10-09", "Mörkt i november – tid för kvällsvandring", "Vi bokar ljusmätningar i utrymningsvägar under hela vintern.", "brand"],
+    ["2026-05-20", "Blixtljus testade av hörselföreningen", "Medlemmar i Vänersborg hjälpte oss att hitta bästa placeringen i klassrum.", "people"],
+    ["2026-01-14", "Registret passerade 22 000 armaturer", "Varje armatur har ett eget nummer och ett datum för senaste test.", "el"]
+  ],
+  "kontakt": {"adress": "Stridsbergsgatan 17", "postnr": "461 53", "ort": "Trollhättan", "telefon": "070-174 06 24", "epost": "ljus@nodljuset.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16. Tester kvällstid efter överenskommelse",
+  "omrade": "Trollhättan, Vänersborg, Uddevalla, Lysekil och Dalsland",
+  "fot_cta": "Vet ni hur det ser ut i trapphuset när strömmen går? Boka en kvällsvandring.",
+  "bild": {"panel": "el", "hb": "brand"},
+  "text": {
+    "ber_rubrik": "Senaste från ritkontoret",
+    "proj_rubrik": "Lokaler där vägen ut nu syns",
+    "process_rubrik": "Från släckt lampa till godkänt test",
+    "hb_etikett": "Spårbarhet",
+    "omdomen_rubrik": "Fastighetsägare och rektorer berättar",
+    "faq_rubrik": "Frågor om nödljus och skyltar",
+    "boka_rubrik": "Boka en kvällsvandring",
+    "boka_text": "Berätta om lokalen så föreslår vi en kväll för mätning och ett förslag med fast pris.",
+    "logos_rubrik": "Lokaler som lyser åt rätt håll",
+    "certifikat_rubrik": "Elbehörighet och larmcertifiering",
+    "bolag_rubrik": "Tre avdelningar i samma hus",
+    "ny_rubrik": "Nytt från Stridsbergsgatan"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "profil": "nisch",
+  "nisch": "solel",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Fyris Energiråd AB",
+  "kortnamn": "Fyris Energiråd",
+  "slug": "fyris",
+  "typ": "Oberoende solcellsrådgivning i Uppsala",
+  "tagline": "Vi säljer inga paneler",
+  "slogan": "Vi granskar offerter, upphandlar åt föreningar och besiktar färdiga anläggningar – utan provision från någon leverantör.",
+  "hero_rubrik": "Låt någon utan provision läsa offerten",
+  "hero_text": "Fem ingenjörer i Uppsala som jämför offerter, skriver förfrågningsunderlag och slutbesiktar solcellsanläggningar. Vi tjänar ingenting på vad du väljer.",
+  "intro_rubrik": "Tio år på köparens sida",
+  "om": [
+    "Helena Wikström forskade på solcellers åldrande vid Ångströmlaboratoriet i åtta år. Bekanta började skicka henne offerter för att få en andra åsikt, och hon såg samma problem gång på gång: överdimensionerade växelriktare, optimistiska produktionskalkyler och garantier som inte gällde det som såldes. 2016 startade hon Fyris Energiråd.",
+    "I dag är vi fem: Helena, två elingenjörer, en byggnadsingenjör och Oscar som har arbetat som installatör i tolv år och vet var det brukar slarvas. Vi har granskat 2 900 offerter, upphandlat åt 74 bostadsrättsföreningar och slutbesiktat 610 anläggningar."
+  ],
+  "vagval_rubrik": "Var i processen är du?",
+  "tjanster": [
+    {"titel": "Offertgranskning", "ikon": "sok", "href": "priser.html", "text": "Vi jämför upp till tre offerter och säger vad som är rimligt."},
+    {"titel": "Rådgivning på plats", "ikon": "hus", "href": "priser.html", "text": "En ingenjör går igenom tak, elcentral och förbrukning hemma hos dig."},
+    {"titel": "Upphandling för brf", "ikon": "dokument", "href": "verksamhet.html", "text": "Förfrågningsunderlag, utvärdering och avtal för föreningen."},
+    {"titel": "Slutbesiktning", "ikon": "skold", "href": "verksamhet.html", "text": "Vi kontrollerar montage, el och dokumentation innan du betalar sista fakturan."},
+    {"titel": "Besiktning vid husköp", "ikon": "nyckel", "href": "priser.html", "text": "Vad är anläggningen på det nya huset värd – och fungerar den?"},
+    {"titel": "Tvister och reklamation", "ikon": "lov", "href": "verksamhet.html", "text": "Sakkunnigutlåtande när anläggningen inte levererar som utlovat."},
+    {"titel": "Kurser för styrelser", "ikon": "skola", "href": "verksamhet.html", "text": "Två timmar om solceller för föreningens styrelse."},
+    {"titel": "Skicka din offert", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ladda upp offerten så svarar vi inom fem arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Offertgranskning för villaägare", "text": "Vi går igenom produktionskalkylen, komponenterna, garantierna och priset per kW och jämför med de 2 900 offerter vi har sett. Du får ett skriftligt utlåtande på två sidor.", "text2": "Ungefär var tredje offert vi granskar har en produktionskalkyl som är mer än 15 procent för optimistisk.", "tagg": "hem"},
+    {"titel": "Upphandling för bostadsrättsföreningar", "text": "Vi skriver förfrågningsunderlaget, bjuder in leverantörer, utvärderar anbuden och förhandlar avtalet. Föreningen fattar besluten – vi tar fram underlaget.", "text2": "Ett vanligt resultat är 10–20 procent lägre pris än första offerten föreningen fick.", "tagg": "bostad"},
+    {"titel": "Slutbesiktning och kontroll", "text": "Innan sista fakturan betalas kontrollerar vi infästningar, kabeldragning, märkning, isolationsresistans och att anläggningen motsvarar avtalet. Vi termograferar vid sol.", "text2": "Brister dokumenteras med foto och protokoll som installatören ska åtgärda.", "tagg": "solel"},
+    {"titel": "Sakkunnig vid tvist", "text": "När en anläggning producerar mindre än utlovat eller taket börjar läcka skriver vi sakkunnigutlåtanden för Allmänna reklamationsnämnden eller domstol.", "text2": "Vi tar också uppdrag från försäkringsbolag efter storm- och brandskador.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Helena Wikström", "segment": "Grundare, tekn. dr", "rubrik": "Paneler som åldras", "text": "Helena skriver sakkunnigutlåtanden och granskar produktionskalkyler. Hon har publicerat sju vetenskapliga artiklar om solcellers degradering.", "tagg": "people"},
+    {"namn": "Oscar Lindblad", "segment": "Besiktningsman", "rubrik": "Vet var det brukar slarvas", "text": "Oscar installerade solceller i tolv år innan han bytte sida. Han gör de flesta slutbesiktningar.", "tagg": "solel"},
+    {"namn": "Rasmus Ekman och Fatima Yilmaz", "segment": "Elingenjörer", "rubrik": "Upphandling och föreningar", "text": "Rasmus och Fatima skriver förfrågningsunderlag och sitter med på brf-styrelsernas möten.", "tagg": "kontor"},
+    {"namn": "Jonatan Brodd", "segment": "Byggnadsingenjör", "rubrik": "Tak, bärighet och tätskikt", "text": "Jonatan bedömer takkonstruktioner och granskar hur infästningar påverkar tätskiktet och garantin.", "tagg": "tak"}
+  ],
+  "berattelser": [
+    {"rubrik": "Föreningen i Luthagen sparade 410 000 kronor", "text": "Tre anbud, en förhandling och ett avtal med tolv års montagegaranti i stället för fem.", "tagg": "bostad"},
+    {"rubrik": "Var tredje offert för optimistisk", "text": "Vi har sammanställt 2 900 granskade offerter – och vad som oftast är fel.", "tagg": "kontor"},
+    {"rubrik": "Slutbesiktning hittade lös kabel", "text": "En DC-kabel låg mot plåtkanten på ett tak i Knivsta. Den hade skavts av inom två år.", "tagg": "solel"}
+  ],
+  "nyckeltal": [
+    {"varde": "2 900", "enhet": "", "etikett": "Granskade offerter"},
+    {"varde": "74", "enhet": "brf:er", "etikett": "Har upphandlat med oss"},
+    {"varde": "610", "enhet": "", "etikett": "Slutbesiktningar"},
+    {"varde": "0 kr", "enhet": "", "etikett": "Ersättning från leverantörer"}
+  ],
+  "projekt": [
+    {"namn": "Brf Luthagsesplanaden", "ort": "Uppsala", "typ": "Upphandling, 120 kW", "ar": "2025", "text": "Tre anbud och tolv års garanti på montage och genomföringar.", "tagg": "bostad"},
+    {"namn": "Villa i Storvreta", "ort": "Storvreta", "typ": "Offertgranskning", "ar": "2025", "text": "Kalkylen sänktes från 11 000 till 8 900 kWh – kunden valde en mindre anläggning.", "tagg": "hem"},
+    {"namn": "Radhus i Knivsta", "ort": "Knivsta", "typ": "Slutbesiktning", "ar": "2025", "text": "Fyra brister åtgärdades innan slutfakturan betalades.", "tagg": "solel"},
+    {"namn": "Alunda Hästgård", "ort": "Alunda", "typ": "Rådgivning, ridhus", "ar": "2024", "text": "Bärighetsberäkning visade att ridhustaket behövde förstärkas först.", "tagg": "tak"},
+    {"namn": "Östhammars Hyresbostäder", "ort": "Östhammar", "typ": "Upphandling, 6 fastigheter", "ar": "2024", "text": "Gemensam upphandling för sex hus gav ett pris 18 procent under budget.", "tagg": "stad"},
+    {"namn": "Villa i Gamla Uppsala", "ort": "Uppsala", "typ": "Sakkunnigutlåtande", "ar": "2026", "text": "Reklamation av anläggning som producerar 30 procent under kalkyl.", "tagg": "kontor", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Skicka underlaget", "text": "Ladda upp offerter, ritningar eller avtal. Vi bekräftar uppdraget och priset samma dag.", "tagg": "kontor"},
+    {"titel": "Granskning eller platsbesök", "text": "Vi går igenom handlingarna och åker ut när taket eller elcentralen behöver ses.", "tagg": "hem"},
+    {"titel": "Skriftligt utlåtande", "text": "Du får våra slutsatser på två sidor, med det viktigaste först.", "tagg": "kontor"},
+    {"titel": "Frågor efteråt", "text": "Ring oss under trettio dagar om leverantören svarar på våra synpunkter.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vårt oberoende är hela affären",
+    "text": "Vi tar inte emot provision, rabatter eller resor från tillverkare och installatörer. Alla medarbetare redovisar årligen att de inte har uppdrag eller aktier hos leverantörer vi granskar.",
+    "mal": [["0 kr", "från leverantörer, aldrig"], ["5 dagar", "längsta svarstid på offertgranskning"], ["100 %", "av utlåtandena skrivna av ingenjör"]]
+  },
+  "karriar": {"rubrik": "Granska i stället för att sälja", "text": "Vi växer långsamt och anställer sällan. Är du ingenjör eller erfaren installatör och vill byta sida är du välkommen att höra av dig.", "jobb": [["Besiktningsingenjör solel", "Uppsala"]]},
+  "kultur": "Varje torsdag går vi igenom veckans konstigaste offert tillsammans – utan namn på leverantören.",
+  "citat": {"text": "De flesta installatörer gör ett bra jobb. Men den som säljer ska inte vara den enda som räknar. Vi är där för att någon på köparens sida ska förstå siffrorna.", "namn": "Helena Wikström", "roll": "Grundare, teknologie doktor", "tagg": "people"},
+  "omdomen": [
+    {"text": "Utlåtandet visade att offerten räknade med fel taklutning. Med rätt siffror valde vi en mindre anläggning och sparade 38 000 kronor.", "namn": "Anders K.", "ort": "Storvreta"},
+    {"text": "Fyris skrev upphandlingen, vi fick tre seriösa anbud och styrelsen kunde förklara allt på stämman.", "namn": "Eva-Lena D.", "ort": "Uppsala"},
+    {"text": "Oscar hittade fyra fel vid slutbesiktningen som installatören åtgärdade utan diskussion. Värt varenda krona.", "namn": "Maria F.", "ort": "Knivsta"}
+  ],
+  "faq": [
+    ["Hur kan ni vara oberoende?", "Vi får betalt av dig, aldrig av leverantörer. Vi säljer inga produkter, tar inga provisioner och rekommenderar aldrig ett enskilt företag."],
+    ["Vad kostar en offertgranskning?", "2 900 kronor för upp till tre offerter för en villa. Priset gäller även om du har fått offerterna från olika leverantörer med olika upplägg."],
+    ["Arbetar ni utanför Uppsala?", "Offertgranskning gör vi i hela landet digitalt. Platsbesök och besiktningar gör vi i Uppsala län och norra Stockholm."],
+    ["Kan ni tala om vilket företag vi ska välja?", "Vi säger vilken offert som är mest rimlig och varför, men vi tipsar inte om företag som inte redan har lämnat offert."],
+    ["Vad kontrollerar ni vid slutbesiktning?", "Infästningar och genomföringar, kabeldragning, märkning, jordning, isolationsresistans, växelriktarens inställningar och att dokumentationen är komplett."],
+    ["Hur lång tid tar en brf-upphandling?", "Vanligtvis tre till fyra månader från första styrelsemöte till signerat avtal. Stämmobeslut kan behövas däremellan."],
+    ["Får man grönt avdrag för er tjänst?", "Nej, grönt avdrag gäller bara installationen. Våra arvoden betalas fullt ut."]
+  ],
+  "priser": [
+    {"namn": "Offertgranskning", "pris": "2 900 kr", "enhet": "upp till tre offerter, villa", "text": "Skriftligt utlåtande inom fem arbetsdagar.", "punkter": ["Kontroll av produktionskalkyl", "Jämförelse av pris per kW", "Genomgång av garantier", "Utlåtande på två sidor"]},
+    {"namn": "Rådgivning på plats", "pris": "5 900 kr", "enhet": "besök och utlåtande, villa", "text": "En ingenjör kommer hem till dig.", "punkter": ["Tak och bärighet", "Elcentral och servis", "Förbrukningsanalys", "Offertgranskning ingår"], "utvald": true},
+    {"namn": "Slutbesiktning", "pris": "4 400 kr", "enhet": "villa upp till 15 kW", "text": "Innan du betalar slutfakturan.", "punkter": ["Kontroll av montage och el", "Isolationsmätning", "Termografi vid sol", "Protokoll med foto"]}
+  ],
+  "prislista": [["Upphandling brf, upp till 100 kW", "fr. 24 000 kr"], ["Upphandling brf, över 100 kW", "fr. 38 000 kr"], ["Slutbesiktning brf eller företag", "fr. 9 800 kr"], ["Besiktning vid husköp", "3 900 kr"], ["Sakkunnigutlåtande", "1 450 kr/tim"], ["Styrelsekurs, två timmar", "6 500 kr"]],
+  "certifikat": [
+    {"titel": "Certifierad besiktningsman", "text": "Oscar är certifierad för besiktning av elanläggningar och har lång erfarenhet av solcellsinstallation.", "ikon": "skold"},
+    {"titel": "Teknologie doktor i solenergi", "text": "Helena disputerade på solcellers degradering vid Uppsala universitet och följer forskningen löpande.", "ikon": "skola"},
+    {"titel": "Konsultansvarsförsäkring", "text": "Våra utlåtanden omfattas av en konsultansvarsförsäkring på 10 miljoner kronor.", "ikon": "las"},
+    {"titel": "Medlem i Innovationsföretagen", "text": "Vi följer branschens allmänna bestämmelser för konsultuppdrag, ABK 09.", "ikon": "dokument"}
+  ],
+  "kunder": ["Brf Luthagsesplanaden", "Östhammars Hyresbostäder", "Alunda Hästgård", "Brf Kvarngärdet Norra", "Knivsta Radhusförening", "Brf Eriksbergs Höjd", "Tierps Villaägareförening"],
+  "nyheter": [
+    ["2026-10-13", "Vanligaste felen i 2 900 offerter", "Taklutning, skuggning och växelriktarens storlek toppar listan.", "kontor"],
+    ["2026-06-09", "Styrelsekurs i september", "Två timmar för brf-styrelser som funderar på solceller.", "bostad"],
+    ["2026-03-17", "Köper du hus med solceller?", "Fem saker att kontrollera innan du skriver på.", "hem"]
+  ],
+  "kontakt": {"adress": "Sysslomansgatan 9", "postnr": "753 11", "ort": "Uppsala", "telefon": "070-174 06 52", "epost": "rad@fyrisenergirad.se", "orgnr": ""},
+  "oppettider": "Mån–tors 08–17, fre 08–15",
+  "omrade": "Uppsala län och norra Stockholm – offertgranskning i hela landet",
+  "fot_cta": "Har du fått en offert? Skicka den till oss innan du skriver på.",
+  "bild": {"panel": "kontor", "hb": "solel"},
+  "text": {
+    "kontakt_knapp": "Skicka offert",
+    "hero_knapp": "Så granskar vi",
+    "hero_lank": "Priser",
+    "vagval_etikett": "Uppdrag",
+    "ber_rubrik": "Ur granskningarna",
+    "proj_rubrik": "Uppdrag på köparens sida",
+    "proj_kol": ["Uppdrag", "Ort", "Typ", "Status", "År"],
+    "process_rubrik": "Från uppladdad offert till utlåtande",
+    "hb_etikett": "Oberoende",
+    "hb_lank": "Läs vår oberoendepolicy",
+    "omdomen_rubrik": "Köpare som fick en andra åsikt",
+    "faq_rubrik": "Om oberoende och arvoden",
+    "priser_rubrik": "Fasta arvoden för villaägare",
+    "priser_utvald": "Mest beställd",
+    "priser_knapp": "Beställ",
+    "priser_not": "Priser inklusive moms. Resor inom Uppsala län ingår.",
+    "boka_rubrik": "Skicka din offert",
+    "boka_text": "Beskriv kort vad du vill ha hjälp med och bifoga offerten. Vi bekräftar uppdrag och pris samma arbetsdag.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Vad vill du ha granskat?"],
+    "logos_rubrik": "Föreningar och fastighetsägare vi företrätt",
+    "certifikat_rubrik": "Kompetens utan bindningar",
+    "bolag_etikett": "Vi som granskar",
+    "bolag_rubrik": "Fem personer på köparens sida",
+    "bolag_kol": ["Namn", "Roll", "Om"],
+    "meny_bolag": "Vi som granskar",
+    "sida_bolag_ingress": "Fyris Energiråd är fem ingenjörer och besiktningsmän som aldrig tar betalt av leverantörer.",
+    "ny_rubrik": "Råd och sammanställningar",
+    "medarbetare": "Ingenjörerna"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "sotare",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Alnö Skorstensteknik AB",
+  "kortnamn": "Alnö Skorsten",
+  "slug": "alno-skorstensteknik",
+  "typ": "Skorstensinspektion med drönare, Sundsvall",
+  "tagline": "Vi ser hela skorstenen",
+  "slogan": "Drönare, värmekamera och kamerasond ger fastighetsägare i Medelpad ett skorstensregister med bilder på varje murstock – utan att någon klättrar i onödan.",
+  "hero_rubrik": "Varje murstock filmad från luften",
+  "hero_text": "Vi inspekterar skorstenar med drönare, värmekamera och kamerasond och levererar en rapport med bilder, mått och åtgärdsförslag inom fem arbetsdagar.",
+  "intro_rubrik": "Mätbart, filmat och arkiverat",
+  "om": [
+    "Alnö Skorstensteknik startades 2017 av skorstensfejarteknikern Jesper Wiklund och drönarpiloten Sara Nordqvist. Jesper hade sett för många murstockar där sprickorna bara syntes från luften, och Sara hade precis lämnat ett jobb med kraftledningsinspektioner på Sundsvall Elnät.",
+    "Vi är tolv personer i en före detta båtverkstad vid Alnöbron. Våra kunder är fastighetsbolag, bostadsrättsföreningar, industrier och sotningsentreprenörer i Medelpad och Ångermanland som vill veta skicket på sina skorstenar innan de lägger pengar på ställningar och renovering."
+  ],
+  "vagval_rubrik": "Vilken skorsten behöver ni se?",
+  "tjanster": [
+    {"titel": "Drönarinspektion", "ikon": "kamera", "href": "verksamhet.html", "text": "4K-film och stillbilder av murkrön, plåt och fogar från alla fyra väderstreck."},
+    {"titel": "Termografi", "ikon": "eld", "href": "verksamhet.html", "text": "Värmekamera under eldning visar läckage genom sprickor i rökkanalen."},
+    {"titel": "Kamerasond i rökkanal", "ikon": "sok", "href": "verksamhet.html", "text": "En sond med ljus och 360-graderslins filmar kanalen från topp till sotlucka."},
+    {"titel": "3D-mätning av murstock", "ikon": "ritning", "href": "verksamhet.html", "text": "Fotogrammetri ger exakta mått till offert, ritning och bygglov."},
+    {"titel": "Skorstensregister", "ikon": "dokument", "href": "verksamhet.html", "text": "Alla skorstenar i beståndet samlade i en webbtjänst med bilder per år."},
+    {"titel": "Industriskorstenar", "ikon": "fabrik", "href": "verksamhet.html", "text": "Inspektion av stål- och betongskorstenar upp till 90 meter utan avstängning."},
+    {"titel": "Skaderapport efter storm", "ikon": "vind", "href": "verksamhet.html", "text": "Bilder och bedömning till försäkringsbolaget inom två dygn."},
+    {"titel": "Beställ inspektion", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Skicka adresslista eller fastighetsbeteckningar så planerar vi en flygdag."}
+  ],
+  "affarsomraden": [
+    {"titel": "Inspektion från luften", "text": "En drönare flyger runt murstocken på fyra meters avstånd och tar 120–200 bilder i hög upplösning. Vi ser frostsprängt tegel, lösa plåtbeslag och sprickor i krönet som inte syns från gatan.", "text2": "En vanlig flerbostadsfastighet med sex murstockar tar 40 minuter att flyga.", "tagg": "skorsten"},
+    {"titel": "Termografi och kamerasond", "text": "Med värmekamera under pågående eldning ser vi var rökgaserna tränger ut genom murverket. Kamerasonden visar insidan av kanalen, varv för varv.", "text2": "Kombinationen ger ett underlag som går att jämföra år för år.", "tagg": "brand"},
+    {"titel": "Register och underhållsplan", "text": "Varje skorsten får ett eget kort i vår webbtjänst med bilder, mått, byggår och tidigare åtgärder. Förvaltaren ser direkt vilka murstockar som behöver åtgärdas inom ett, tre eller fem år.", "text2": "Registret kan exporteras till de vanligaste underhållssystemen för fastigheter.", "tagg": "kontor"},
+    {"titel": "Industri och energi", "text": "Höga skorstenar på sågverk, värmeverk och processindustri inspekteras utan att anläggningen stängs. Vi flyger inom den säkerhetszon som driftledningen godkänner.", "text2": "Rapporten följer kundens egna mallar för underhåll och myndighetskontroll.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Flyglaget", "segment": "Drönare och termografi", "rubrik": "Fem piloter med specifikt tillstånd", "text": "Planerar flygningar, söker tillstånd nära flygplatsen i Midlanda och flyger två lag samtidigt under högsäsong.", "tagg": "skorsten"},
+    {"namn": "Skorstensteknikerna", "segment": "Bedömning och kamerasond", "rubrik": "Tre tekniker som läser bilderna", "text": "Skorstensfejartekniker som går igenom varje bild, filmar kanalerna och skriver åtgärdsförslagen.", "tagg": "brand"},
+    {"namn": "Rapport och register", "segment": "Dokumentation och webbtjänst", "rubrik": "Från rådata till beslutsunderlag", "text": "Två personer som bygger 3D-modeller, sammanställer rapporter och sköter kundernas skorstensregister.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Hela Skönsberg på en vecka", "text": "Vi flög 214 murstockar åt ett bostadsbolag i oktober och hittade elva som behöver nytt krön före vintern.", "tagg": "skorsten"},
+    {"rubrik": "Massabrukets 84-metersskorsten", "text": "Betongskorstenen i Matfors inspekterades under full drift, och sprickkartan levererades dagen efter.", "tagg": "industri"},
+    {"rubrik": "Ny värmekamera med högre upplösning", "text": "Från november ser vi temperaturskillnader på 0,03 grader genom tegel – det fångar läckor som tidigare missades.", "tagg": "brand"}
+  ],
+  "nyckeltal": [
+    {"varde": "11 600", "enhet": "murstockar", "etikett": "Inspekterade sedan 2017"},
+    {"varde": "5", "enhet": "dagar", "etikett": "Från flygning till rapport"},
+    {"varde": "90 m", "enhet": "", "etikett": "Högsta skorstenen vi flugit"},
+    {"varde": "12", "enhet": "personer", "etikett": "Piloter, tekniker och analytiker"}
+  ],
+  "projekt": [
+    {"namn": "Skönsbergs bostadsområde", "ort": "Sundsvall", "typ": "Drönarinspektion", "ar": "2026", "text": "214 murstockar i 38 hus från 1940–1960 inspekterade och inlagda i registret.", "tagg": "skorsten"},
+    {"namn": "Matfors pappersbruk", "ort": "Matfors", "typ": "Industriskorsten", "ar": "2026", "text": "Sprickkartering av en betongskorsten på 84 meter utan driftstopp.", "tagg": "industri"},
+    {"namn": "Brf Norra Stadsberget", "ort": "Sundsvall", "typ": "Termografi", "ar": "2025", "text": "Värmekameran visade läckage i tre av nio kanaler, som sedan fick insatsrör.", "tagg": "brand"},
+    {"namn": "Härnösands domkyrkoförsamling", "ort": "Härnösand", "typ": "3D-mätning", "ar": "2025", "text": "Fotogrammetri av två murstockar på prästgården som underlag för antikvarisk renovering.", "tagg": "tak"},
+    {"namn": "Timrå skolfastigheter", "ort": "Timrå", "typ": "Skorstensregister", "ar": "2025", "text": "Sju skolor med pannrum och kök fick ett gemensamt register med underhållsplan på fem år.", "tagg": "kontor"},
+    {"namn": "Stormen Hans efterspel", "ort": "Alnö", "typ": "Skaderapport", "ar": "2026", "text": "Inspektion av 40 villor åt ett försäkringsbolag efter höststormen – arbetet pågår.", "tagg": "bostad", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Adresslista", "text": "Ni skickar fastigheter och eventuella ritningar. Vi kontrollerar luftrum och grannar och bokar en flygdag.", "tagg": "kontor"},
+    {"titel": "Flygdag", "text": "Två piloter och en tekniker på plats. Hyresgästerna aviseras en vecka i förväg med lapp i trapphuset.", "tagg": "skorsten"},
+    {"titel": "Analys", "text": "Teknikern går igenom bilderna, markerar skador och klassar varje murstock i tre nivåer.", "tagg": "brand"},
+    {"titel": "Rapport och register", "text": "Inom fem arbetsdagar får ni rapporten och tillgång till registret, med fasta priser för åtgärderna från samarbetande murare.", "tagg": "tak"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Färre klättringar, färre ställningar",
+    "text": "Varje gång en drönare ersätter en ställning sparas i snitt två dagars byggtid och en lastbilstransport. Vi klättrar bara när kamerasonden kräver det, och då med fallskydd och liftkort. Batterierna laddas med el från solcellerna på verkstadstaket.",
+    "mal": [["0", "personskador på tak sedan start"], ["−70 %", "färre ställningar för kunderna"], ["100 %", "laddning från egna solceller maj–augusti"]]
+  },
+  "karriar": {
+    "rubrik": "Flyg, filma och förstå skorstenar",
+    "text": "Vi söker folk som gillar både teknik och tegel. Du får drönarutbildning, termografikurs och går bredvid en skorstensfejartekniker tills du kan läsa en murstock själv.",
+    "jobb": [["Drönarpilot och inspektör", "Sundsvall"], ["Skorstensfejartekniker", "Sundsvall"], ["Rapportskribent, deltid", "Härnösand"]]
+  },
+  "kultur": "Varje fredag visar någon veckans konstigaste skorstensbild på storbildsskärmen i verkstaden.",
+  "citat": {"text": "Förr byggde man ställning för att se om man behövde bygga ställning. Det känns som en annan tid nu.", "namn": "Jesper Wiklund", "roll": "Grundare och skorstensfejartekniker", "tagg": "skorsten"},
+  "omdomen": [
+    {"text": "Vi hade budgeterat för fem nya murkrön. Rapporten visade att två räckte, och de tre andra klarar sig med fogning i fem år till.", "namn": "Annika S.", "ort": "Sundsvall"},
+    {"text": "Bilderna från drönaren gick rakt in i vår ansökan om bidrag från länsstyrelsen. Handläggaren frågade vem som gjort dem.", "namn": "Per-Olof H.", "ort": "Härnösand"},
+    {"text": "Ingen driftstopp, ingen ställning och en sprickkarta som vårt underhåll kunde använda direkt.", "namn": "Lennart F.", "ort": "Matfors"}
+  ],
+  "faq": [
+    ["Ersätter drönarinspektionen sotarens brandskyddskontroll?", "Nej. Brandskyddskontrollen enligt lagen om skydd mot olyckor görs av kommunens sotningsentreprenör. Vår inspektion är ett tekniskt underlag om murstockens skick, och många sotare använder våra bilder."],
+    ["Får ni flyga var som helst?", "Vi har tillstånd från Transportstyrelsen i specifik kategori och söker särskilt tillstånd nära Midlanda flygplats och i centrala Sundsvall. Grannar informeras alltid i förväg."],
+    ["Vad händer med bilderna på grannarna?", "Vi filmar uppåt och mot taket. Bilder där personer eller fönster syns tydligt raderas innan rapporten levereras."],
+    ["Kan ni flyga på vintern?", "Ja, ned till 15 minusgrader och vindar upp till 10 m/s. Termografi fungerar faktiskt bäst när det är kallt ute och varmt i kanalen."],
+    ["Vad kostar en inspektion?", "En enskild villa kostar 3 900 kr inklusive rapport. För bostadsbolag räknar vi per murstock, från 1 150 kr vid fler än 50."],
+    ["Utför ni också renoveringen?", "Nej, vi säljer bara underlaget. Det gör att vi aldrig har intresse av att hitta fler skador än det finns. Vi kan däremot tipsa om murare och plåtslagare."]
+  ],
+  "certifikat": [
+    {"titel": "Tillstånd i specifik kategori", "text": "Drönartillstånd från Transportstyrelsen för flygning nära byggnader och människor.", "ikon": "dokument"},
+    {"titel": "Certifierad termograf", "text": "Två medarbetare med termografcertifikat nivå 2 för byggnader och installationer.", "ikon": "sok"},
+    {"titel": "Skorstensfejartekniker", "text": "Tre tekniker med yrkesexamen som bedömer varje skorsten.", "ikon": "skold"},
+    {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Täcker både drönarverksamhet och tekniska bedömningar.", "ikon": "las"}
+  ],
+  "kunder": ["Sundsvalls Bostadsstiftelse", "Brf Norra Stadsberget", "Matfors Bruk AB", "Härnösands domkyrkoförsamling", "Timrå Skolfastigheter", "Försäkringsbolaget Mittnorr", "Medelpads Sotningsdistrikt", "Alnö Hembygdsförening"],
+  "nyheter": [
+    ["2026-10-27", "Därför syns sprickan inte från gatan", "Frostskador börjar på läsidan av krönet, den sida som sällan syns från marken.", "skorsten"],
+    ["2026-07-08", "Vi öppnar i Örnsköldsvik", "Från september har vi en pilot och en tekniker på plats i Höga kusten.", "people"],
+    ["2026-03-19", "Ny exportfunktion i registret", "Skorstenskorten kan nu läggas direkt i underhållsplanen i fastighetssystemet.", "kontor"]
+  ],
+  "kontakt": {"adress": "Båtvarvsvägen 3", "postnr": "865 32", "ort": "Alnö", "telefon": "070-174 06 07", "epost": "flyg@alnoskorsten.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7.30–16, flygdagar även lördagar",
+  "omrade": "Medelpad, Ångermanland och södra Jämtland – industriskorstenar i hela Norrland",
+  "fot_cta": "Skicka en adresslista, så får ni ett pris per murstock inom två dagar.",
+  "bild": {"panel": "skorsten", "hb": "tak"},
+  "text": {
+    "kontakt_knapp": "Beställ flygning",
+    "hero_knapp": "Så går en inspektion till",
+    "hero_lank": "Se inspektioner",
+    "vagval_etikett": "Metoder",
+    "ber_etikett": "Från flygdagarna",
+    "ber_rubrik": "Senast i luften",
+    "proj_rubrik": "Inspektioner som sparade pengar",
+    "proj_rubrik_lista": "Utförda inspektioner",
+    "process_etikett": "Arbetsgång",
+    "process_rubrik": "Från adresslista till underhållsplan",
+    "bolag_rubrik": "Pilot, tekniker, analytiker",
+    "hb_etikett": "Säkerhet och resurser",
+    "omdomen_rubrik": "Förvaltare som slapp gissa",
+    "faq_rubrik": "Om drönare, bilder och tillstånd",
+    "boka_rubrik": "Vilka skorstenar gäller det?",
+    "boka_text": "Skriv antal fastigheter och murstockar, så återkommer vi med pris och förslag på flygdag inom två arbetsdagar.",
+    "boka_falt": ["Namn och organisation", "Telefon", "E-post", "Fastigheter och antal murstockar"],
+    "certifikat_rubrik": "Tillstånd och yrkesbevis",
+    "logos_rubrik": "Uppdragsgivare i Mittsverige",
+    "medarbetare": "Teamet"
+  }
+}

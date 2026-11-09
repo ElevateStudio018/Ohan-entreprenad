@@ -1,0 +1,123 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Brandritarna i Halland AB",
+  "kortnamn": "Brandritarna",
+  "slug": "brandritarna",
+  "typ": "Brandkonsulter i Halmstad",
+  "tagline": "Brandingenjörer för bygglov",
+  "slogan": "Vi skriver brandskyddsbeskrivningar, simulerar utrymning och kontrollerar på plats – så att bygglovet går igenom och huset blir som ritat.",
+  "hero_rubrik": "Brandskyddet avgörs på ritbordet",
+  "hero_text": "21 brandingenjörer och sakkunniga som tar fram brandskyddsdokumentation för nybyggen, ombyggnader och ändrad användning i Halland och västra Småland.",
+  "intro_rubrik": "380 brandskyddsbeskrivningar om året, skrivna i Halmstad",
+  "om": [
+    "Karolina Bengtsson och Erik Malmqvist läste till brandingenjörer i Lund samtidigt och startade Brandritarna 2009 i ett rum ovanför en cykelaffär på Storgatan i Halmstad. De första åren handlade det mest om villor och små verksamhetslokaler, i dag är det flerbostadshus i trä, logistikhallar och vårdbyggnader.",
+    "Vi bygger ingenting själva och säljer ingen utrustning. Vårt jobb är att tolka Boverkets byggregler för just er byggnad, räkna där regelverket inte räcker till och sedan kontrollera att det som byggs stämmer med det som står i handlingarna. Det gör oss oberoende av vilken entreprenör ni väljer."
+  ],
+  "vagval_rubrik": "Vad ska byggas eller ändras?",
+  "tjanster": [
+    {"titel": "Handling för bygglov", "ikon": "dokument", "href": "verksamhet.html", "text": "Handlingen som byggnadsnämnden kräver för bygglov och tekniskt samråd."},
+    {"titel": "Analytisk dimensionering", "ikon": "graf", "href": "verksamhet.html", "text": "Brand- och utrymningssimuleringar när förenklad dimensionering inte räcker."},
+    {"titel": "Sakkunnig brand", "ikon": "sok", "href": "verksamhet.html", "text": "Certifierad sakkunnig som kontrollerar brandskyddet under bygget och vid slutsamråd."},
+    {"titel": "Ändrad användning", "ikon": "hus", "href": "verksamhet.html", "text": "När kontoret blir förskola, ladan blir bostad eller lagret blir padelhall."},
+    {"titel": "Befintliga byggnader", "ikon": "ritning", "href": "verksamhet.html", "text": "Inventering och dokumentation av brandskyddet i hus som saknar handlingar."},
+    {"titel": "Riskutredning", "ikon": "vag", "href": "verksamhet.html", "text": "Riskanalyser för byggen nära farligt gods-leder, järnväg och bensinstationer."},
+    {"titel": "Brandfarlig vara", "ikon": "eld", "href": "verksamhet.html", "text": "Tillståndsansökan och klassningsplan för hantering av gas och brandfarliga vätskor."},
+    {"titel": "Skicka ritningar", "ikon": "pil", "href": "om-oss.html#kontakt", "text": "Vi lämnar fast pris på brandskyddsbeskrivningen inom tre arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Bygglov och projektering", "text": "Vi tar fram brandskyddsbeskrivningen i tidigt skede och sitter med på projekteringsmötena tills bygghandlingarna är klara. Arkitekt, konstruktör och installatörer får brandkrav som de kan rita efter.", "text2": "För flerbostadshus i trä tar vi fram särskilda lösningar för fasad, bjälklag och brandcellsgränser.", "tagg": "kontor"},
+    {"titel": "Simulering och analys", "text": "När en byggnad har långa gångavstånd, stora öppna ytor eller ett ovanligt atrium räknar vi fram brandförloppet i CFD och simulerar hur människor rör sig ut.", "text2": "Analysen redovisas så att byggnadsnämnden och räddningstjänsten kan följa varje antagande.", "tagg": "brand"},
+    {"titel": "Kontroll under bygget", "text": "Våra certifierade sakkunniga besöker bygget vid bestämda kontrollpunkter och kontrollerar dörrar, tätningar, brandklassade fönster och larm innan väggarna sluts.", "text2": "Ni får ett utlåtande till slutsamrådet som visar att brandskyddet är utfört enligt handlingarna.", "tagg": "bygg"},
+    {"titel": "Befintliga fastigheter", "text": "Många äldre hus saknar brandskyddsdokumentation helt. Vi inventerar på plats, ritar upp brandceller och utrymningsvägar och skriver en dokumentation som går att arbeta efter i förvaltningen.", "text2": "Dokumentationen blir grunden för fastighetsägarens systematiska brandskyddsarbete.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Projekteringsgruppen", "segment": "Nybyggnad", "rubrik": "Nio ingenjörer i tidiga skeden", "text": "Gruppen skriver brandskyddsbeskrivningar för bostäder, skolor, handel och industri och tar de flesta bygglovsärendena.", "tagg": "kontor"},
+    {"namn": "Analysgruppen", "segment": "Simulering och risk", "rubrik": "Där regelboken tar slut", "text": "Fyra ingenjörer med inriktning på CFD-simulering, utrymningsanalys och riskutredningar längs väg och järnväg.", "tagg": "brand"},
+    {"namn": "Sakkunniga", "segment": "Kontroll och besiktning", "rubrik": "Ute på byggena varje vecka", "text": "Sex certifierade sakkunniga brand som kontrollerar utförandet och följer projekten fram till slutsamråd.", "tagg": "bygg"}
+  ],
+  "berattelser": [
+    {"rubrik": "Sex våningar i massivträ vid Nissan", "text": "Analytisk dimensionering av ett bostadshus i KL-trä med synliga trätak i alla lägenheter.", "tagg": "bostad"},
+    {"rubrik": "Lagret som blev padelhall", "text": "Ändrad användning med ny utrymning för 300 personer i en hall från 1974 i Falkenberg.", "tagg": "brand"},
+    {"rubrik": "Två nya sakkunniga", "text": "Linnea och Ahmed har klarat certifieringen och tar egna kontrolluppdrag från november.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "21", "enhet": "konsulter", "etikett": "Brandingenjörer och sakkunniga"},
+    {"varde": "380", "enhet": "uppdrag", "etikett": "Brandskyddsbeskrivningar 2025"},
+    {"varde": "3", "enhet": "dagar", "etikett": "Till offert med fast pris"},
+    {"varde": "2009", "enhet": "", "etikett": "Grundat i Halmstad"}
+  ],
+  "projekt": [
+    {"namn": "Kv. Gjutaren", "ort": "Halmstad", "typ": "Bostadshus i massivträ", "ar": "2026", "text": "Analytisk dimensionering av fasad och bjälklag i ett sexvåningshus med 74 lägenheter.", "tagg": "bostad", "status": "Pågående"},
+    {"namn": "Padelhallen Ätran", "ort": "Falkenberg", "typ": "Ändrad användning", "ar": "2025", "text": "Ett gammalt lager blev padelhall med ny utrymning, nödbelysning och brandlarm.", "tagg": "brand"},
+    {"namn": "Logistikcenter Kistinge", "ort": "Halmstad", "typ": "Brandskyddsbeskrivning", "ar": "2025", "text": "En hall på 42 000 kvadratmeter med sprinkler, brandgasventilation och två brandväggar.", "tagg": "industri"},
+    {"namn": "Varbergs tunnelstation", "ort": "Varberg", "typ": "Riskutredning", "ar": "2025", "text": "Riskanalys för kontor och bostäder ovanpå den nya järnvägsdragningen.", "tagg": "infra"},
+    {"namn": "Vårdboendet Lyckåsen", "ort": "Laholm", "typ": "Sakkunnig kontroll", "ar": "2024", "text": "Kontroll av brandcellsgränser och boendesprinkler i ett vårdboende med 60 platser.", "tagg": "bygg"},
+    {"namn": "Rådhuskvarteret", "ort": "Kungsbacka", "typ": "Befintlig byggnad", "ar": "2024", "text": "Inventering och ny brandskyddsdokumentation för ett kontorshus från 1938 utan ritningar.", "tagg": "stad"}
+  ],
+  "process": [
+    {"titel": "Ritningar in", "text": "Ni skickar situationsplan och planritningar. Vi ringer upp och frågar om verksamheten och antalet personer.", "tagg": "kontor"},
+    {"titel": "Fast pris", "text": "Inom tre arbetsdagar får ni en offert med fast pris och en tidplan som passar bygglovet.", "tagg": "kontor"},
+    {"titel": "Beskrivning och samråd", "text": "Vi skriver brandskyddsbeskrivningen och deltar vid tekniskt samråd med byggnadsnämnden.", "tagg": "people"},
+    {"titel": "Kontroll till slutsamråd", "text": "Sakkunnig kontrollerar på plats och lämnar utlåtandet som behövs för slutbeskedet.", "tagg": "bygg"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Oberoende är vår viktigaste certifiering",
+    "text": "Vi har inga provisioner från tillverkare och äger inga delar i installationsföretag. Varje brandskyddsbeskrivning granskas av en andra ingenjör innan den lämnas ut, och vi redovisar alla avsteg från regelverket öppet.",
+    "mal": [["100 %", "av handlingarna granskade av en andra ingenjör"], ["0 kr", "i provision från leverantörer"], ["97 %", "av bygglovsärendena utan komplettering 2025"]]
+  },
+  "karriar": {
+    "rubrik": "Nyexad brandingenjör? Börja med riktiga projekt",
+    "text": "Nyanställda får en handledare och egna mindre uppdrag från första månaden. Vi betalar certifieringen till sakkunnig brand och fem fortbildningsdagar per år.",
+    "jobb": [["Brandingenjör", "Halmstad"], ["Brandingenjör med inriktning simulering", "Halmstad"], ["Sakkunnig brand", "Varberg"]]
+  },
+  "kultur": "Varje torsdag eftermiddag går vi igenom ett av veckans svåraste ärenden tillsammans – den som skrev det får frågorna först.",
+  "citat": {"text": "Ett brandskydd som bara finns i en pärm är inget brandskydd. Därför åker vi ut och tittar på det som faktiskt byggts.", "namn": "Karolina Bengtsson", "roll": "Vd och brandingenjör", "tagg": "kontor"},
+  "omdomen": [
+    {"text": "Byggnadsnämnden hade inga frågor om brandskyddet, och det är första gången på ett trähus i den storleken.", "namn": "Jonas R.", "ort": "Halmstad"},
+    {"text": "De räknade fram att vi kunde behålla de öppna trapporna i ateljén. Arkitekten var lycklig, räddningstjänsten nöjd.", "namn": "Maria T.", "ort": "Varberg"},
+    {"text": "Offerten kom på två dagar och priset höll hela vägen till slutbesked.", "namn": "Kenneth B.", "ort": "Laholm"}
+  ],
+  "faq": [
+    ["När behövs en brandskyddsbeskrivning?", "Vid nybyggnad, tillbyggnad och ändrad användning som kräver bygglov eller anmälan begär byggnadsnämnden nästan alltid en brandskyddsbeskrivning inför tekniskt samråd."],
+    ["Vad är skillnaden mellan förenklad och analytisk dimensionering?", "Förenklad dimensionering följer Boverkets allmänna råd rakt av. Analytisk dimensionering används när byggnaden avviker och vi med beräkningar visar att säkerheten blir minst lika god."],
+    ["Vad kostar en brandskyddsbeskrivning?", "För en enklare verksamhetslokal ofta 12 000–25 000 kronor. Flerbostadshus och hallar offereras med fast pris utifrån ritningarna."],
+    ["Säljer ni brandlarm eller sprinkler?", "Nej. Vi är oberoende konsulter och kan därför hjälpa er att jämföra anbud från olika entreprenörer."],
+    ["Kan ni hjälpa privatpersoner?", "Ja, till exempel när ett garage byggs ihop med huset eller en lada görs om till bostad."],
+    ["Hur lång tid tar det?", "En brandskyddsbeskrivning för en mindre byggnad tar två till tre veckor. Analytisk dimensionering tar fyra till åtta veckor beroende på antalet simuleringar."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierade sakkunniga brand", "text": "Sex medarbetare är certifierade sakkunniga brandskydd (SAK3) enligt Boverkets regler.", "ikon": "skold"},
+    {"titel": "Brandingenjörer från LTH", "text": "Samtliga konsulter har brandingenjörsexamen eller civilingenjörsexamen i riskhantering.", "ikon": "skola"},
+    {"titel": "Kontrollansvarig enligt PBL", "text": "Två certifierade kontrollansvariga med behörighet K för komplicerade byggnader.", "ikon": "ritning"},
+    {"titel": "ISO 9001", "text": "Kvalitetsledningssystem med intern granskning av varje handling, certifierat sedan 2015.", "ikon": "lov"}
+  ],
+  "kunder": ["Halmstads Bostadsbyggare", "Kistinge Logistikfastigheter", "Ätrans Padel & Event", "Lyckåsens Omsorg", "Kungsbacka Rådhusfastigheter", "Varbergs Stationsbygg", "Tylö Arkitekter", "Hallandsåsens Trähus"],
+  "nyheter": [
+    ["2026-10-15", "Nya byggregler – vad ändras för brandskyddet?", "En genomgång av Boverkets nya föreskrifter och vad de betyder för pågående projekt.", "kontor"],
+    ["2026-07-01", "Brandritarna öppnar i Varberg", "Tre konsulter flyttar in på Kungsgatan för att vara närmare byggena i norra Halland.", "people"],
+    ["2026-03-09", "Frukostseminarium om trähus", "60 arkitekter och byggherrar kom för att höra om brandskydd i massivträ.", "bostad"]
+  ],
+  "kontakt": {"adress": "Storgatan 44", "postnr": "302 43", "ort": "Halmstad", "telefon": "070-174 06 19", "epost": "rita@brandritarna.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–17",
+  "omrade": "Halland, västra Småland och södra Västra Götaland",
+  "fot_cta": "Skicka ritningarna i dag – fast pris inom tre arbetsdagar.",
+  "bild": {"panel": "kontor", "hb": "brand"},
+  "text": {
+    "ber_rubrik": "På ritbordet just nu",
+    "proj_rubrik": "Byggnader vi har dimensionerat",
+    "process_rubrik": "Från ritning till slutbesked",
+    "hb_etikett": "Oberoende",
+    "omdomen_rubrik": "Byggherrar och arkitekter om oss",
+    "faq_rubrik": "Frågor om bygglov och brandskydd",
+    "boka_rubrik": "Skicka ritningar för offert",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Byggnad, ort och skede"],
+    "logos_rubrik": "Byggherrar vi har arbetat för",
+    "certifikat_rubrik": "Behörigheter som byggnadsnämnden känner igen",
+    "bolag_rubrik": "Tre grupper, 21 ingenjörer",
+    "ny_rubrik": "Regler, seminarier och nyheter",
+    "medarbetare": "Konsulterna",
+    "kontakt_knapp": "Begär offert"
+  }
+}

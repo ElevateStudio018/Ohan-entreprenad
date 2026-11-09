@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "solel",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Tjurkö Flytenergi AB",
+  "kortnamn": "Tjurkö",
+  "slug": "tjurko",
+  "typ": "Flytande solceller från Blekinge",
+  "tagline": "Solceller som flyter",
+  "slogan": "Vi bygger solcellsanläggningar som flyter på dammar, grustag och reningsverk – för den som har vatten men ont om tak och mark.",
+  "hero_rubrik": "Dammen är den bästa platsen ni har",
+  "hero_text": "Flytande anläggningar på bevattningsdammar, dagvattendammar och vattenfyllda grustag. Byggda av en båtbyggare och en ingenjör på en ö utanför Karlskrona.",
+  "intro_rubrik": "Båtbygge möter elkraft",
+  "om": [
+    "Linnea Brandt är civilingenjör i energiteknik och Johan Ek är båtbyggare från Sturkö. 2020 lade de ut en provanläggning på 24 paneler i ett vattenfyllt stenbrott på Tjurkö och mätte i två år. Kylningen från vattnet gav sju procent mer el än samma paneler på land, och flottörerna klarade både is och höststormar.",
+    "I dag är vi elva personer med verkstad och sjösättningsramp i Tjurkö hamn. Vi har byggt 23 flytande anläggningar från 50 kW till 2,4 MW i Blekinge, Kalmar län och Kronoberg och tillverkar förankringar och gångbryggor själva."
+  ],
+  "vagval_rubrik": "Vilket vatten har ni?",
+  "tjanster": [
+    {"titel": "Bevattningsdammar", "ikon": "vatten", "href": "verksamhet.html", "text": "Solceller som också minskar avdunstningen under torra somrar."},
+    {"titel": "Grustag och stenbrott", "ikon": "sten", "href": "verksamhet.html", "text": "Uttjänta täkter som blir kraftverk i stället för att stå oanvända."},
+    {"titel": "Reningsverk och VA", "ikon": "kugge", "href": "verksamhet.html", "text": "Pumpar och luftning drivs av anläggningen i bassängen bredvid."},
+    {"titel": "Industridammar", "ikon": "fabrik", "href": "verksamhet.html", "text": "Kyl- och processdammar intill fabriker med hög förbrukning dagtid."},
+    {"titel": "Förankring och is", "ikon": "bat", "href": "verksamhet.html", "text": "Egna förankringssystem som följer vattennivån och klarar isläggning."},
+    {"titel": "Tillstånd och samråd", "ikon": "dokument", "href": "verksamhet.html", "text": "Anmälan om vattenverksamhet och samråd med länsstyrelsen."},
+    {"titel": "Drift från båt", "ikon": "verktyg", "href": "verksamhet.html", "text": "Service, tvätt och inspektion från vår egen arbetsbåt."},
+    {"titel": "Skicka en flygbild", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "En bild på vattnet räcker för en första bedömning."}
+  ],
+  "affarsomraden": [
+    {"titel": "Lantbrukets bevattningsdammar", "text": "Grönsaksodlare och fruktgårdar har ofta en damm som bara används några veckor om året. En anläggning som täcker 40 procent av ytan producerar el och minskar avdunstningen med upp till en tredjedel.", "text2": "Elen driver bevattningspumparna, kylrummen och packeriet.", "tagg": "solel"},
+    {"titel": "Grustag och nedlagda täkter", "text": "När en täkt är uttjänt fylls den med grundvatten och blir en sjö som ingen använder. Vi bygger anläggningar på 1–3 MW där markägaren får ett arrende i trettio år.", "text2": "Förankringen följer nivåskillnader på flera meter mellan vår och höst.", "tagg": "natur"},
+    {"titel": "Reningsverk och vattenverk", "text": "Ett reningsverk förbrukar mycket el till luftning och pumpar dygnet runt. Flytande paneler på efterpoleringsdammar eller i närliggande bassänger ger nästan full egenanvändning.", "text2": "Vi har byggt åt två VA-bolag i Blekinge.", "tagg": "anlaggning"},
+    {"titel": "Industrins processdammar", "text": "Industrier med kyldammar eller dagvattenmagasin har ofta ont om tak men gott om vatten. Vi bygger utan att störa vattnets funktion.", "text2": "Paneler och flottörer tillåter syresättning och inspektion av dammen.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Varvet", "segment": "Flottörer och förankring", "rubrik": "Byggt på en ö, för vatten", "text": "Johan och tre båtbyggare tillverkar förankringar, gångbryggor och skarvar i verkstaden i Tjurkö hamn.", "tagg": "bat"},
+    {"namn": "Projektering", "segment": "Ingenjörer", "rubrik": "Vågor, is och vattennivå", "text": "Linnea och två ingenjörer räknar på vindlast, islast, djup och elanslutning – och sköter tillstånden.", "tagg": "kontor"},
+    {"namn": "Montage och el", "segment": "Elektriker", "rubrik": "Sjösättning från stranden", "text": "Fyra elektriker som monterar sektioner på land och drar ut dem på vattnet med arbetsbåt.", "tagg": "solel"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fyra vintrar i stenbrottet på Tjurkö", "text": "Provanläggningen har klarat is på 30 centimeter utan en enda skadad panel.", "tagg": "natur"},
+    {"rubrik": "2,4 MW i ett grustag i Kallinge", "text": "Vår största anläggning är sjösatt och ansluten – markägaren får arrende i trettio år.", "tagg": "solel"},
+    {"rubrik": "Mindre avdunstning i Listerlandet", "text": "Mätningar visar att dammen under panelerna förlorade 29 procent mindre vatten i juli.", "tagg": "vatten"}
+  ],
+  "nyckeltal": [
+    {"varde": "23", "enhet": "", "etikett": "Flytande anläggningar"},
+    {"varde": "+7 %", "enhet": "", "etikett": "Mer el än på land tack vare kylningen"},
+    {"varde": "2,4", "enhet": "MW", "etikett": "Största anläggningen"},
+    {"varde": "11", "enhet": "personer", "etikett": "Båtbyggare, ingenjörer, elektriker"}
+  ],
+  "projekt": [
+    {"namn": "Kallinge Grustag", "ort": "Kallinge", "typ": "Täkt, 2,4 MW", "ar": "2025", "text": "Sjösatt i sektioner och förankrad för fyra meters nivåskillnad.", "tagg": "solel"},
+    {"namn": "Listerlandets Grönsaker", "ort": "Sölvesborg", "typ": "Bevattningsdamm, 320 kW", "ar": "2025", "text": "Elen driver bevattning och kylrum – dammen tappar mindre vatten.", "tagg": "vatten"},
+    {"namn": "Nättraby reningsverk", "ort": "Nättraby", "typ": "VA, 180 kW", "ar": "2024", "text": "Flytande paneler på efterpoleringsdammen driver luftningen.", "tagg": "anlaggning"},
+    {"namn": "Olofströms Pressverk", "ort": "Olofström", "typ": "Industridamm, 650 kW", "ar": "2024", "text": "Dagvattenmagasinet bredvid fabriken blev en del av elförsörjningen.", "tagg": "industri"},
+    {"namn": "Fruktgården i Jämjö", "ort": "Jämjö", "typ": "Bevattningsdamm, 90 kW", "ar": "2023", "text": "En liten anläggning för pumpar och äppellagrets kylrum.", "tagg": "natur"},
+    {"namn": "Brömsebro Stentäkt", "ort": "Brömsebro", "typ": "Täkt, 1,6 MW", "ar": "2026", "text": "Samråd klart, sjösättning planerad till våren.", "tagg": "solel", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Flygbild och djupkarta", "text": "Vi bedömer vattnet från flygfoto och mäter djup och botten med ekolod från båten.", "tagg": "bat"},
+    {"titel": "Tillstånd och samråd", "text": "Anmälan om vattenverksamhet, samråd och vid behov naturvärdesinventering.", "tagg": "kontor"},
+    {"titel": "Bygge på stranden", "text": "Sektionerna monteras på land och sjösätts en i taget.", "tagg": "solel"},
+    {"titel": "Förankring och drift", "text": "Vi förankrar mot botten eller stranden och inspekterar från båt två gånger om året.", "tagg": "vatten"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vattnet ska må lika bra som förut",
+    "text": "Vi täcker aldrig mer än hälften av en vattenyta och lämnar strandzonen fri. Syrehalt och temperatur mäts före och efter bygget, och resultaten delas med länsstyrelsen och kommunen.",
+    "mal": [["≤ 50 %", "av vattenytan täcks"], ["0", "kemikalier vid rengöring av paneler"], ["2 ggr/år", "mätning av syre och temperatur"]]
+  },
+  "karriar": {"rubrik": "Elektriker som inte blir sjösjuka", "text": "Hos oss arbetar du lika mycket i båt som på land. Vi söker elektriker och båtbyggare som vill vara med och utveckla en ny sorts kraftverk.", "jobb": [["Elektriker", "Karlskrona"], ["Båtbyggare / plastlaminerare", "Tjurkö"]]},
+  "kultur": "Fredagslunchen äter vi på arbetsbåten om vädret tillåter – annars i verkstaden med utsikt över Tjurkö hamn.",
+  "citat": {"text": "Folk tror att vatten och el är en dålig kombination. Men en båt har haft elsystem i hundra år. Det handlar om att bygga för vågor, is och fukt från början.", "namn": "Johan Ek", "roll": "Medgrundare och varvschef", "tagg": "bat"},
+  "omdomen": [
+    {"text": "Dammen användes tre veckor om året. Nu driver den kylrummen hela sommaren och vi behöver fylla på mindre vatten.", "namn": "Ingrid M.", "ort": "Sölvesborg"},
+    {"text": "Grustaget hade stått vattenfyllt i tio år. Arrendet från anläggningen ger mer än täkten gjorde de sista åren.", "namn": "Bengt-Åke F.", "ort": "Kallinge"},
+    {"text": "De mätte syrehalten innan och efter. Ingen förändring i dammen, men elräkningen för luftningen halverades.", "namn": "Christer L.", "ort": "Nättraby"}
+  ],
+  "faq": [
+    ["Klarar flytande solceller isen?", "Ja. Flottörerna är byggda för att frysa fast och lossna igen, och förankringen har fjädrande linor som tar upp rörelserna. Vår provanläggning har klarat fyra vintrar."],
+    ["Behövs tillstånd?", "Oftast krävs en anmälan om vattenverksamhet till länsstyrelsen och ibland samråd. Vi gör ansökan och tar fram underlaget."],
+    ["Påverkas fiskar och växter i vattnet?", "Vi täcker högst halva ytan och mäter syre och temperatur före och efter. Skuggan kan minska algblomning under varma somrar."],
+    ["Är det dyrare än på land?", "Ungefär 10–15 procent dyrare per kW, men kylningen ger mer el och ni sparar mark eller tak. På dammar med hög förbrukning intill blir kalkylen ofta bättre."],
+    ["Hur djupt måste vattnet vara?", "Minst en meter vid lägsta vattenstånd. Vi har byggt på allt från 1,2 till 18 meters djup."],
+    ["Hur rengörs panelerna?", "Fåglar är den vanligaste orsaken till smuts. Vi tvättar från båt med avjoniserat vatten utan kemikalier och sätter upp fågelavvisare vid behov."],
+    ["Kan man bygga på en sjö?", "Bara i undantagsfall. Naturliga sjöar har ofta höga naturvärden, så vi bygger i första hand på anlagda dammar och vattenfyllda täkter."]
+  ],
+  "certifikat": [
+    {"titel": "Auktorisation för elinstallation", "text": "Elsäkerhetsverkets auktorisation med egenkontrollprogram anpassat för anläggningar på vatten.", "ikon": "blixt"},
+    {"titel": "Båtbyggarexamen", "text": "Två medarbetare har yrkesexamen som båtbyggare och bygger alla flottörfästen och bryggor.", "ikon": "bat"},
+    {"titel": "Säkerhet vid arbete på vatten", "text": "Alla som arbetar på anläggningarna har utbildning i livräddning och arbete från båt.", "ikon": "kors"},
+    {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem med rutiner för arbete nära vatten och känsliga miljöer.", "ikon": "lov"}
+  ],
+  "kunder": ["Listerlandets Grönsaker AB", "Kallinge Grus & Sten AB", "Nättraby VA-förening", "Olofströms Pressverk AB", "Jämjö Fruktgård", "Brömsebro Stentäkt AB", "Rödeby Bevattningsförening"],
+  "nyheter": [
+    ["2026-09-30", "Kallinge levererar över kalkyl", "Första sommaren gav anläggningen 6 procent mer än beräknat.", "solel"],
+    ["2026-05-14", "Ny arbetsbåt i hamnen", "Med kran och tvättutrustning kan vi serva anläggningar upp till 3 MW.", "bat"],
+    ["2026-02-02", "Isen ligger – och det är bra", "Så fungerar förankringen när dammen fryser till.", "natur"]
+  ],
+  "kontakt": {"adress": "Tjurkö hamn, Hamnvägen 3", "postnr": "373 45", "ort": "Tjurkö", "telefon": "070-174 06 45", "epost": "linnea@tjurkoflyt.se", "orgnr": ""},
+  "oppettider": "Mån–fre 07–16, varvet stängt i juli",
+  "omrade": "Blekinge, Kalmar län, Kronoberg och nordöstra Skåne",
+  "fot_cta": "Har ni en damm eller ett grustag? Skicka en flygbild så gör vi en första bedömning gratis.",
+  "bild": {"panel": "bat", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Skicka flygbild",
+    "hero_knapp": "Så flyter det",
+    "hero_lank": "Dammar vi byggt på",
+    "vagval_etikett": "Vattentyp",
+    "ber_rubrik": "Senast från vattnet",
+    "proj_rubrik": "Dammar, täkter och bassänger",
+    "process_rubrik": "Från flygbild till förankring",
+    "hb_etikett": "Vattenmiljö",
+    "hb_lank": "Läs om våra mätningar",
+    "omdomen_rubrik": "Markägare och odlare om oss",
+    "faq_rubrik": "Om is, tillstånd och fiskar",
+    "boka_rubrik": "Låt oss titta på ert vatten",
+    "boka_text": "Bifoga en flygbild eller fastighetsbeteckning och ungefärlig yta. Linnea svarar med en första bedömning inom en vecka.",
+    "boka_falt": ["Namn", "Telefon", "Fastighet eller adress", "Vattnets yta och djup"],
+    "logos_rubrik": "Odlare, täkter och VA-bolag",
+    "certifikat_rubrik": "El, båtbygge och säkerhet på vatten",
+    "bolag_rubrik": "Varv, ritbord och montage",
+    "ny_rubrik": "Från varvet i Tjurkö",
+    "medarbetare": "Tjurkögänget"
+  }
+}

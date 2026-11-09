@@ -1,0 +1,127 @@
+{
+  "profil": "nisch",
+  "nisch": "solel",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Strömsbro Laddteknik AB",
+  "kortnamn": "Strömsbro",
+  "slug": "stromsbro",
+  "typ": "Sol och laddning för åkerier och bussdepåer",
+  "tagline": "Depåladdning för tunga fordon",
+  "slogan": "Vi bygger solceller på terminaltak, batterier mot effekttoppar och snabbladdare för ellastbilar och bussar – dimensionerat efter körschemat.",
+  "hero_rubrik": "Ellastbilen laddar på terminalens tak",
+  "hero_text": "Åkerier, bussbolag och terminaler i Gävleborg och Uppland laddar tunga fordon med egen solel och batterier som håller nere effektavgiften.",
+  "intro_rubrik": "Elkraft för dem som kör på el",
+  "om": [
+    "Kristina Hallberg var ekonomichef på ett åkeri i Valbo när de första ellastbilarna kom 2018. Elnätsbolaget ville ha två år och en ny transformator för att leverera 1 MW till depån. Tillsammans med elkraftingenjören Robert Sjödin hittade hon en annan väg: solceller på terminaltaket, ett batteri och smart laddning. Samma år startade de Strömsbro.",
+    "I dag är vi 27 anställda med kontor och verkstad i Strömsbro norr om Gävle. Vi har byggt laddning och lokal elproduktion på 46 depåer och terminaler, med sammanlagt 210 laddpunkter för tunga fordon och 14 MWh batterier."
+  ],
+  "vagval_rubrik": "Vad ska laddas på er depå?",
+  "tjanster": [
+    {"titel": "Depåladdning för lastbilar", "ikon": "bil", "href": "verksamhet.html", "text": "Nattladdning 40–150 kW per plats, styrd efter avgångstider."},
+    {"titel": "Snabbladdning 400 kW", "ikon": "blixt", "href": "verksamhet.html", "text": "Laddning under lunchrast och lastning för fjärrtrafik."},
+    {"titel": "Bussdepåer", "ikon": "folk", "href": "verksamhet.html", "text": "Laddning för stads- och regionbussar med schemalagd start."},
+    {"titel": "Solceller på terminaltak", "ikon": "sol", "href": "verksamhet.html", "text": "Stora platta tak som producerar när kylaggregat och truckar går."},
+    {"titel": "Batteri mot effekttoppar", "ikon": "laddning", "href": "verksamhet.html", "text": "Kapar effekten när tio bilar kopplas in samtidigt."},
+    {"titel": "Effektutredning", "ikon": "graf", "href": "verksamhet.html", "text": "Vi räknar på körschema, servis och nätets kapacitet innan något byggs."},
+    {"titel": "Nät- och myndighetskontakt", "ikon": "dokument", "href": "verksamhet.html", "text": "Ansökan om anslutning, bygglov och stöd från Klimatklivet."},
+    {"titel": "Boka depåbesök", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi kommer ut med en elkraftingenjör och en projektledare."}
+  ],
+  "affarsomraden": [
+    {"titel": "Laddning för åkerier", "text": "Ett åkeri med femton ellastbilar behöver ladda 3–4 MWh på en natt. Vi bygger laddningen efter körschemat så att bilar med tidig avgång prioriteras.", "text2": "Laddsystemet kopplas till åkeriets transportledningssystem.", "tagg": "el"},
+    {"titel": "Bussdepåer och kollektivtrafik", "text": "Bussar står still mellan nio och tre och på natten – två laddfönster som passar solceller och billig nattel. Vi bygger depåladdning med pantografer eller kabel.", "text2": "Vi har byggt åt två trafikföretag i Gävleborg och ett i Uppsala län.", "tagg": "infra"},
+    {"titel": "Solceller på terminaler", "text": "Terminaler har stora platta tak och förbrukar el dagtid till kyla, belysning och truckladdning. En anläggning på 800 kW kan täcka en fjärdedel av en mellanstor terminals förbrukning.", "text2": "Överskottet går rakt till batteriet eller till lastbilarna som står inne.", "tagg": "solel"},
+    {"titel": "Batterier och effektstyrning", "text": "Det är inte energin utan effekten som begränsar de flesta depåer. Ett batteri på 1 MWh gör att tio bilar kan snabbladda samtidigt på en servis dimensionerad för fyra.", "text2": "Batteriet kan dessutom säljas in på stödtjänstmarknaden när det inte behövs.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Elkraft & utredning", "segment": "Ingenjörer", "rubrik": "Körschemat först, ritningen sedan", "text": "Fem elkraftingenjörer som räknar på effektbehov, servis, transformatorer och nätanslutning.", "tagg": "kontor"},
+    {"namn": "Högspänningsmontage", "segment": "Entreprenad", "rubrik": "Från nätstation till laddkontakt", "text": "Tolv elektriker och montörer med behörighet för högspänning, nätstationer och laddsystem.", "tagg": "el"},
+    {"namn": "Sol & tak", "segment": "Solcellsmontage", "rubrik": "Terminaltak på tusentals kvadratmeter", "text": "Ett montagelag som bygger stora anläggningar på plåt och papp, oftast ballastsystem utan håltagning.", "tagg": "solel"},
+    {"namn": "Depådrift", "segment": "Service och jour", "rubrik": "Laddaren får inte stå still", "text": "Jour dygnet runt, reservdelslager och fjärrövervakning av alla laddpunkter.", "tagg": "maskin"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fjorton ellastbilar i Valbo utan ny transformator", "text": "Batteriet på 1,2 MWh gjorde att depån klarade sig på befintlig servis.", "tagg": "el"},
+    {"rubrik": "Bussdepån i Sandviken i drift", "text": "Tjugotvå elbussar laddar på natten och fyller på mitt på dagen från taket.", "tagg": "infra"},
+    {"rubrik": "Terminaltak på 1,1 MW i Skutskär", "text": "Den största solcellsanläggningen vi har byggt hittills är klar.", "tagg": "solel"}
+  ],
+  "nyckeltal": [
+    {"varde": "46", "enhet": "depåer", "etikett": "Med vår laddning och sol"},
+    {"varde": "210", "enhet": "", "etikett": "Laddpunkter för tunga fordon"},
+    {"varde": "14", "enhet": "MWh", "etikett": "Batterier i drift"},
+    {"varde": "27", "enhet": "anställda", "etikett": "Ingenjörer och elektriker"}
+  ],
+  "projekt": [
+    {"namn": "Valbo Åkericentral", "ort": "Valbo", "typ": "14 platser + batteri", "ar": "2025", "text": "Nattladdning för fjorton lastbilar på befintlig servis.", "tagg": "el"},
+    {"namn": "Sandvikens bussdepå", "ort": "Sandviken", "typ": "Bussdepå, 22 bussar", "ar": "2025", "text": "Depåladdning med schemastyrning och solceller på verkstaden.", "tagg": "infra"},
+    {"namn": "Skutskärs Logistikterminal", "ort": "Skutskär", "typ": "Terminaltak, 1,1 MW", "ar": "2025", "text": "Solcellerna driver kylan, truckarna och delar av lastbilsladdningen.", "tagg": "solel"},
+    {"namn": "Hofors Timmertransport", "ort": "Hofors", "typ": "Snabbladdning 400 kW", "ar": "2024", "text": "Laddning under lastning för timmerbilar i trafik mellan skog och bruk.", "tagg": "maskin"},
+    {"namn": "Gävle Hamnterminal Syd", "ort": "Gävle", "typ": "Batteri 2 MWh", "ar": "2024", "text": "Batteri som jämnar ut effekten när terminaltraktorerna laddar.", "tagg": "industri"},
+    {"namn": "Ockelbo Mjölktransport", "ort": "Ockelbo", "typ": "Depå, 6 platser", "ar": "2026", "text": "Laddning för tankbilar som hämtar mjölk på gårdarna tidigt på morgonen.", "tagg": "el", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Körschema och mätdata", "text": "Vi går igenom fordonens rutter, avgångar och depåns förbrukning timme för timme.", "tagg": "kontor"},
+    {"titel": "Effektutredning", "text": "Ni får en rapport med servis, batteristorlek, laddeffekt och kalkyl – inklusive Klimatklivet.", "tagg": "el"},
+    {"titel": "Bygge utan stillestånd", "text": "Vi bygger etappvis så att depån kan köra som vanligt under hela entreprenaden.", "tagg": "bygg"},
+    {"titel": "Drift och jour", "text": "Laddpunkterna övervakas dygnet runt och en tekniker är på plats inom fyra timmar.", "tagg": "maskin"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Diesel ut, egen el in",
+    "text": "Varje ellastbil som laddar på våra depåer ersätter ungefär 35 000 liter diesel om året. Vi redovisar hur stor del av laddningen som kommer från depåns egna solceller, så att åkerierna kan visa det för sina transportköpare.",
+    "mal": [["35 000 l", "diesel som ersätts per ellastbil och år"], ["4 h", "längsta inställelsetid vid laddarfel"], ["99,2 %", "tillgänglighet på laddpunkterna 2025"]]
+  },
+  "karriar": {"rubrik": "Elektrifiera tunga transporter i Gävleborg", "text": "Vi söker elektriker och ingenjörer som vill arbeta med högspänning, stora batterier och fordon som väger fyrtio ton. Jouren delas på sex personer och ersätts enligt avtal.", "jobb": [["Elkraftingenjör", "Gävle"], ["Elektriker med högspänningsbehörighet", "Gävle"], ["Servicetekniker laddsystem", "Sandviken"]]},
+  "kultur": "Alla nyanställda åker ett dygn med en av kundernas ellastbilar – från laddning till leverans.",
+  "citat": {"text": "Jag satt på åkeriet och fick höra att vi fick vänta två år på el. Lastbilarna stod redan på gården. Det var där Strömsbro började: i att det går att lösa effekten lokalt.", "namn": "Kristina Hallberg", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Nätbolaget sa två år. Strömsbro byggde batteri och laddning på fem månader och vi har inte haft en försenad avgång sedan dess.", "namn": "Mikael T.", "ort": "Valbo"},
+    {"text": "Effektutredningen tog hänsyn till våra vinterscheman. Det hade ingen annan leverantör gjort.", "namn": "Sara N.", "ort": "Sandviken"},
+    {"text": "En laddare fick fel en lördagsnatt. Teknikern var på plats klockan fyra och bilarna kom iväg i tid.", "namn": "Peter J.", "ort": "Hofors"}
+  ],
+  "faq": [
+    ["Hur mycket effekt behöver en depå?", "Det beror på antal fordon, körsträckor och hur länge de står still. En vanlig depå med tio lastbilar klarar sig ofta på 600–800 kW med rätt styrning och batteri."],
+    ["Måste vi bygga en ny nätstation?", "Inte alltid. I två av tre projekt har vi kunnat undvika en ny transformator genom batteri, solceller och lastbalansering."],
+    ["Kan vi få stöd från Klimatklivet?", "Laddinfrastruktur för tunga fordon har ofta kunnat få stöd. Vi tar fram underlaget och hjälper till med ansökan, men beslutet fattas av Naturvårdsverket."],
+    ["Vilka lastbilsmärken fungerar med era laddare?", "Alla laddare följer CCS-standarden och fungerar med de vanliga tillverkarnas tunga fordon. Vi förbereder också för MCS för megawattladdning."],
+    ["Hur lång tid tar ett projekt?", "Fyra till åtta månader från utredning till drift, om ingen ny nätanslutning behövs. Med ny anslutning styrs tiden av nätbolaget."],
+    ["Vad händer om en laddare går sönder på natten?", "Med driftavtal har ni jour dygnet runt och en tekniker på plats inom fyra timmar. Vi har reservdelar för alla laddare vi installerat i lager i Strömsbro."],
+    ["Bygger ni laddning för personbilar?", "Bara som en del av en depå, till exempel för personalens eller servicefordonens bilar."]
+  ],
+  "certifikat": [
+    {"titel": "Högspänningsbehörighet", "text": "Elsäkerhetsverkets auktorisation för arbete på anläggningar över 1 000 V, inklusive nätstationer.", "ikon": "blixt"},
+    {"titel": "ISO 9001 och 45001", "text": "Certifierat ledningssystem för kvalitet och arbetsmiljö med årlig extern revision.", "ikon": "skold"},
+    {"titel": "ESA-utbildad personal", "text": "Alla elektriker har aktuell ESA-utbildning för arbete i och nära elanläggningar.", "ikon": "hjalm"},
+    {"titel": "Auktoriserad servicepartner", "text": "Godkända för service och garantiarbeten hos tre tillverkare av laddsystem för tunga fordon.", "ikon": "verktyg"}
+  ],
+  "kunder": ["Valbo Åkericentral AB", "Sandvikens Busstrafik AB", "Skutskärs Logistikterminal AB", "Hofors Timmertransport HB", "Gävle Hamnterminal Syd", "Ockelbo Mjölktransport AB", "Norrlandskustens Kyltransporter", "Gästriklands Renhållning AB"],
+  "nyheter": [
+    ["2026-10-01", "Skutskär producerar för fullt", "Terminaltaket på 1,1 MW gav 980 000 kWh första året.", "solel"],
+    ["2026-06-24", "Förberedda för megawattladdning", "Alla nya depåer byggs med kanalisation för MCS-laddare.", "el"],
+    ["2026-01-15", "Så klarar en depå vintern", "Kyla minskar räckvidden – så räknar vi med det i effektutredningen.", "infra"],
+    ["2025-09-08", "Ny verkstad i Strömsbro", "Reservdelslager och utbildningsrigg för laddsystem under samma tak.", "maskin"]
+  ],
+  "kontakt": {"adress": "Strömsbrovägen 31", "postnr": "803 09", "ort": "Gävle", "telefon": "070-174 06 31", "epost": "depa@stromsbroladd.se", "orgnr": ""},
+  "oppettider": "Mån–fre 07–16, depåjour dygnet runt",
+  "omrade": "Gävleborg, Uppsala län och södra Hälsingland",
+  "fot_cta": "Har ni ellastbilar på väg? Boka ett depåbesök innan ni beställer laddare.",
+  "bild": {"panel": "infra", "hb": "industri"},
+  "text": {
+    "kontakt_knapp": "Boka depåbesök",
+    "hero_knapp": "Depåer vi byggt",
+    "hero_lank": "Om effektutredningen",
+    "vagval_etikett": "Fordonstyp",
+    "ber_rubrik": "Nytt från depåerna",
+    "proj_rubrik": "Depåer och terminaler i drift",
+    "process_rubrik": "Från körschema till laddkontakt",
+    "hb_etikett": "Fossilfritt",
+    "hb_lank": "Så redovisar vi",
+    "omdomen_rubrik": "Trafikledare och åkare om oss",
+    "faq_rubrik": "Om effekt, nät och laddning",
+    "boka_rubrik": "Boka ett depåbesök",
+    "boka_text": "Berätta hur många fordon ni har eller planerar, så kommer en elkraftingenjör ut inom två veckor.",
+    "boka_falt": ["Namn", "Företag", "Telefon", "Antal fordon och depåns adress"],
+    "logos_rubrik": "Åkerier, bussbolag och terminaler",
+    "certifikat_rubrik": "Behöriga från nätstation till laddare",
+    "bolag_rubrik": "Ingenjörer, elektriker och jour",
+    "ny_rubrik": "Om laddning och tunga transporter",
+    "medarbetare": "Strömsbroarna"
+  }
+}

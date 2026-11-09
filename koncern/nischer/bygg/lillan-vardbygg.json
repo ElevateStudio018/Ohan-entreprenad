@@ -1,0 +1,133 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Lillån Vårdbygg AB",
+  "kortnamn": "Lillån Vårdbygg",
+  "slug": "lillan-vardbygg",
+  "typ": "Byggare av vård- och omsorgsboenden, Örebro",
+  "tagline": "Vård, omsorg, LSS",
+  "slogan": "Vi bygger äldreboenden, gruppbostäder och vårdlokaler – och bygger om sjukhusavdelningar medan patienterna ligger kvar.",
+  "hero_rubrik": "Byggt för dem som bor och arbetar här",
+  "hero_text": "Äldreboenden, LSS-gruppbostäder och vårdcentraler i Mellansverige. 120 anställda som kan hygienrutiner, larmsystem och lyftskenor.",
+  "intro_rubrik": "1 400 vårdplatser byggda sedan 2001",
+  "om": [
+    "Lillån Vårdbygg startades 2001 av byggingenjören Karin Wahlström och undersköterskan som blev projektledare, Reza Amini. Idén var enkel: om de som bygger vårdlokaler förstår hur vården fungerar blir det färre ändringar och bättre hus.",
+    "I dag har vi 120 anställda med huvudkontor vid Lillån i norra Örebro och arbetsplatser i Örebro, Västmanlands och Värmlands län. Hälften av våra uppdrag är nybyggnation, hälften ombyggnad i lokaler där vården pågår dygnet runt."
+  ],
+  "vagval_rubrik": "Vilken verksamhet ska få nya lokaler?",
+  "tjanster": [
+    {"titel": "Äldreboenden", "ikon": "hjarta", "href": "verksamhet.html", "text": "Särskilda boenden med 40–90 lägenheter, byggda för demensvård."},
+    {"titel": "LSS-gruppbostäder", "ikon": "hem", "href": "verksamhet.html", "text": "Sex lägenheter och gemensamhetsdel – vår mest byggda planlösning."},
+    {"titel": "Vårdcentraler", "ikon": "vard", "href": "verksamhet.html", "text": "Mottagningar, provtagning och tandvård, nya eller ombyggda."},
+    {"titel": "Bygga om i drift", "ikon": "skold", "href": "verksamhet.html", "text": "Avdelningar på sjukhus byggs om med dammväggar och undertryck."},
+    {"titel": "Hjälpmedel & lyft", "ikon": "upp", "href": "verksamhet.html", "text": "Takliftskenor, förstärkta väggar och breda dörrar från början."},
+    {"titel": "Larm & passage", "ikon": "las", "href": "verksamhet.html", "text": "Samordning av trygghetslarm, passagesystem och sjuksköterskeanrop."},
+    {"titel": "Utemiljöer", "ikon": "trad", "href": "verksamhet.html", "text": "Sinnesträdgårdar och inhägnade gårdar för boende med demens."},
+    {"titel": "Boka förstudie", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi går igenom verksamhetens behov innan arkitekten ritar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Särskilda boenden", "text": "Våra äldreboenden byggs i enheter om tio lägenheter runt ett gemensamt kök, så att personalen ser alla boende från samma plats. Varje lägenhet har förberedelse för taklyft och badrum där två personal kan arbeta samtidigt.", "text2": "Vi har byggt 22 särskilda boenden i sju kommuner sedan starten.", "tagg": "bostad"},
+    {"titel": "LSS och socialpsykiatri", "text": "Gruppbostäder och servicebostäder med extra ljudisolering, robusta ytskikt och tydlig avgränsning mellan privat och gemensamt. Vi lyssnar på personalen och de boendes företrädare redan i programskedet.", "text2": "En typisk gruppbostad med sex lägenheter byggs på nio månader.", "tagg": "hem"},
+    {"titel": "Ombyggnad i pågående vård", "text": "När en sjukhusavdelning byggs om flyttar patienterna sällan långt. Vi bygger tätade dammväggar, kör undertrycksaggregat och mäter partiklar varje dag i samråd med vårdhygien.", "text2": "Alla som arbetar i vårdmiljö har gått vår hygienutbildning på en halv dag.", "tagg": "interior"},
+    {"titel": "Vårdcentraler och mottagningar", "text": "Från tom lokal till öppnad mottagning med provtagningsrum, väntrum och personalutrymmen. Vi samordnar el, ventilation, medicinska gaser och IT så att verksamheten kan flytta in en måndag.", "text2": "Vanlig byggtid för 800 kvadratmeter mottagning är 16 veckor.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Nyproduktion omsorg", "segment": "Boenden", "rubrik": "Från tom tomt till första boende", "text": "Bygger särskilda boenden och gruppbostäder som totalentreprenad eller i partnering med kommuner och privata vårdgivare.", "tagg": "bostad"},
+    {"namn": "Vård i drift", "segment": "Ombyggnad på sjukhus", "rubrik": "Dammfritt, tyst och planerat per natt", "text": "Ett lag med 28 hantverkare som bara arbetar i lokaler där vård pågår, med egna rutiner för hygien och buller.", "tagg": "interior"},
+    {"namn": "Installationssamordning", "segment": "Teknik", "rubrik": "Larm, lyft och gaser på samma ritning", "text": "Ingenjörer som samordnar el, ventilation, sprinkler, larm och medicintekniska installationer från start.", "tagg": "el"},
+    {"namn": "Lillån Service", "segment": "Efter inflyttning", "rubrik": "En kontakt i två år", "text": "Tar hand om garantiärenden och små anpassningar när verksamheten har börjat använda huset.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ekbackens äldreboende öppnar", "text": "60 lägenheter i Kumla, varav 30 för demensvård, togs i bruk i oktober.", "tagg": "bostad"},
+    {"rubrik": "Avdelning 42 ombyggd utan stopp", "text": "Sjukhusavdelningen byggdes om på 19 veckor medan halva avdelningen var belagd.", "tagg": "interior"},
+    {"rubrik": "Tre gruppbostäder i Karlstad", "text": "Byggstart för 18 LSS-lägenheter i Kronoparken, inflyttning hösten 2027.", "tagg": "hem"}
+  ],
+  "nyckeltal": [
+    {"varde": "1 400", "enhet": "platser", "etikett": "Vård- och boendeplatser byggda"},
+    {"varde": "120", "enhet": "", "etikett": "Anställda i tre län"},
+    {"varde": "22", "enhet": "", "etikett": "Särskilda boenden"},
+    {"varde": "0", "enhet": "", "etikett": "Smittspridningar kopplade till våra byggen"}
+  ],
+  "projekt": [
+    {"namn": "Ekbackens äldreboende", "ort": "Kumla", "typ": "Särskilt boende", "ar": "2026", "text": "60 lägenheter i tre plan med inhägnad sinnesträdgård och tillagningskök.", "tagg": "bostad", "status": "Färdigt"},
+    {"namn": "Avdelning 42", "ort": "Örebro", "typ": "Ombyggnad i drift", "ar": "2026", "text": "24 vårdplatser moderniserade med nya patientrum, enkelrum och förrådsrum.", "tagg": "interior", "status": "Färdigt"},
+    {"namn": "Gruppbostäder Kronoparken", "ort": "Karlstad", "typ": "LSS", "ar": "2027", "text": "Tre gruppbostäder med sex lägenheter vardera och gemensam personalbyggnad.", "tagg": "hem"},
+    {"namn": "Vårdcentralen Brickebacken", "ort": "Örebro", "typ": "Mottagning", "ar": "2025", "text": "900 kvadratmeter med provtagning, BVC och barnmorskemottagning.", "tagg": "kontor"},
+    {"namn": "Hammarhagens servicebostäder", "ort": "Västerås", "typ": "Socialpsykiatri", "ar": "2024", "text": "Tolv lägenheter med förstärkta ytskikt och personalbas i markplan.", "tagg": "hem"},
+    {"namn": "Lindesbergs korttidsboende", "ort": "Lindesberg", "typ": "Ombyggnad", "ar": "2024", "text": "Ett tidigare skolhus ombyggt till 20 korttidsplatser med taklift i alla rum.", "tagg": "bygg"}
+  ],
+  "process": [
+    {"titel": "Verksamheten först", "text": "Vi intervjuar personal, chefer och anhörigföreträdare innan ritningarna låses, och bygger ett provrum i fullskala.", "tagg": "people"},
+    {"titel": "Hygien- och riskplan", "text": "Vid ombyggnad i drift godkänns planen av vårdhygien. Den anger dammskydd, städning och tider för bullrande arbete.", "tagg": "kontor"},
+    {"titel": "Byggtid med samordning", "text": "En installationssamordnare håller ihop el, ventilation, larm och medicinska gaser genom hela bygget.", "tagg": "el"},
+    {"titel": "Inflyttning med personal", "text": "Personalen får gå igenom huset och testa larm och lyft två veckor före de boende flyttar in.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Lokaler som håller för tunga lyft och lång tid",
+    "text": "Ett äldreboende används dygnet runt i femtio år. Vi väljer slitstarka ytskikt som klarar desinfektion, bygger med Miljöbyggnad Silver som lägsta nivå och mäter radon, fukt och buller innan vi lämnar över.",
+    "mal": [["Silver", "lägsta nivå i Miljöbyggnad för nya boenden"], ["100 %", "av material loggade i Byggvarubedömningen"], ["2 v", "provdrift med personal före inflyttning"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg där det betyder något",
+    "text": "Du arbetar nära människor som behöver lokalerna: sjuksköterskor, boende och anhöriga. Vi utbildar alla i hygien och bemötande, och du får ofta höra hur huset fungerar året efter.",
+    "jobb": [["Platschef, särskilt boende", "Örebro"], ["Snickare, ombyggnad i vårdmiljö", "Örebro"], ["Installationssamordnare", "Västerås"], ["Arbetsledare", "Karlstad"]]
+  },
+  "kultur": "Alla nyanställda gör en praktikdag på ett äldreboende vi har byggt.",
+  "citat": {"text": "Vi frågar alltid undersköterskan på nattskiftet vad som var fel med det förra huset. Hon vet saker som ingen arkitekt har ritat.", "namn": "Reza Amini", "roll": "Medgrundare och projektchef", "tagg": "people"},
+  "omdomen": [
+    {"text": "Provlägenheten i fullskala gjorde att vi flyttade ett handfat och vidgade en dörr innan något var byggt. Det sparade oss månader av irritation.", "namn": "Eva-Lena K.", "ort": "Kumla kommun"},
+    {"text": "Ombyggnaden pågick på ena halvan av avdelningen och vi hade inte en enda patient som klagade på damm. Bullret låg alltid mellan nio och tre.", "namn": "Jonas F.", "ort": "Avdelning 42, Örebro"},
+    {"text": "Lillån förstod varför vi ville ha två utgångar från personalrummet. Det behövde vi inte förklara två gånger.", "namn": "Sanna B.", "ort": "Hammarhagen, Västerås"}
+  ],
+  "faq": [
+    ["Kan ni bygga om medan vården pågår?", "Ja, det är ungefär halva vår verksamhet. Vi delar upp avdelningen i etapper och tätar med dammväggar och undertryck enligt en plan som vårdhygien godkänner."],
+    ["Vad kostar ett nytt äldreboende?", "Ett särskilt boende med 60 lägenheter kostar normalt 170–230 miljoner kronor beroende på tomt, kök och gemensamma ytor."],
+    ["Arbetar ni med partnering?", "Ja, med öppna böcker och gemensam budget. Det passar särskilt bra när verksamheten vill vara med och påverka i varje skede."],
+    ["Hur hanterar ni sekretess och boendes integritet?", "Alla som arbetar i vårdmiljö skriver tystnadsförbindelse och bär synlig ID06-bricka. Vi går aldrig in i ett rum utan personal."],
+    ["Vilka kommuner bygger ni i?", "Främst i Örebro, Västmanlands och Värmlands län, men vi tar uppdrag i hela Mellansverige."],
+    ["Bygger ni åt privata vårdgivare?", "Ja. Ungefär en tredjedel av våra uppdrag kommer från privata omsorgsföretag och fastighetsbolag som hyr ut till vården."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001", "text": "Kvalitetsledning som täcker projektering, produktion och garantitid.", "ikon": "dokument"},
+    {"titel": "ISO 14001", "text": "Miljöledning med årliga mål för avfall, transporter och kemikalier.", "ikon": "skog"},
+    {"titel": "Byggvarubedömningen", "text": "Alla produkter i våra hus är bedömda och loggade i en loggbok som följer med fastigheten.", "ikon": "lov"},
+    {"titel": "ID06 och Byggföretagen", "text": "Kollektivavtal, personalliggare och Byggföretagens arbetsmiljöregler på alla arbetsplatser.", "ikon": "las"}
+  ],
+  "certifikat_rubrik": "Krav som vårdens upphandlare ställer",
+  "kunder": ["Örebro kommun", "Region Örebro län", "Kumla kommun", "Karlstads kommun", "Omsorgshuset Fastigheter", "Västerås stad", "Lindesbergs kommun", "Bergslagens Vårdfastigheter"],
+  "kunder_rubrik": "Kommuner, regioner och vårdgivare",
+  "nyheter": [
+    ["2026-10-20", "Ekbacken i Kumla har öppnat", "De första boende flyttade in i ett av Örebro läns största nya äldreboenden.", "bostad"],
+    ["2026-07-03", "Så bygger vi om utan damm", "Partikelmätningarna från avdelning 42 – och vad vi lärde oss.", "interior"],
+    ["2026-03-18", "Kontor i Karlstad", "Vi öppnar en arbetsplatsbas i Kronoparken inför tre nya gruppbostäder.", "kontor"],
+    ["2025-11-12", "Miljöbyggnad Silver i alla nya boenden", "Från och med i år är Silver vår lägsta nivå.", "natur"]
+  ],
+  "kontakt": {"adress": "Lillåvägen 12", "postnr": "703 75", "ort": "Örebro", "telefon": "070-174 06 08", "epost": "info@lillanvardbygg.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Örebro, Västmanlands och Värmlands län",
+  "fot_cta": "Planerar kommunen ett nytt boende? Bjud in oss redan när behovsanalysen skrivs.",
+  "bild": {"panel": "people", "hb": "bostad"},
+  "text": {
+    "topp_hem": "Lillån Vårdbygg",
+    "kontakt_knapp": "Boka förstudie",
+    "hero_knapp": "Lokaler vi bygger",
+    "hero_lank": "Boenden i drift",
+    "ber_rubrik": "Nyss överlämnat till vården",
+    "proj_etikett": "Vårdlokaler",
+    "proj_rubrik": "Boenden och avdelningar som används varje dygn",
+    "proj_rubrik_lista": "Äldreboenden, gruppbostäder och mottagningar",
+    "process_etikett": "Med verksamheten",
+    "process_rubrik": "Personalen är med från första ritningen",
+    "hb_etikett": "Hälsa & material",
+    "hb_lank": "Om material i vårdmiljö",
+    "omdomen_etikett": "Verksamheterna",
+    "omdomen_rubrik": "Chefer och personal efter inflyttning",
+    "faq_rubrik": "Frågor från kommuner och vårdgivare",
+    "boka_rubrik": "Börja med verksamhetens behov",
+    "boka_text": "Berätta vilken verksamhet som ska flytta in och när, så hör en projektchef av sig inom en vecka.",
+    "boka_falt": ["Namn och organisation", "Telefon", "E-post", "Verksamhet, antal platser och kommun"],
+    "ny_rubrik": "Nytt från Lillån",
+    "bolag_rubrik": "Boenden, ombyggnad, teknik och service",
+    "medarbetare": "Byggarna i vårdmiljö"
+  }
+}

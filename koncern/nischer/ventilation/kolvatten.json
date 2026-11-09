@@ -1,0 +1,131 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kölvatten Marinventilation AB",
+  "kortnamn": "Kölvatten",
+  "slug": "kolvatten",
+  "typ": "Ventilation för fartyg och varv i Blekinge",
+  "tagline": "Ventilation under däck",
+  "slogan": "Kölvatten bygger om och servar ventilation ombord på färjor, arbetsfartyg och örlogsfartyg – och i hallarna där de byggs.",
+  "hero_rubrik": "Vi jobbar där kanalerna går genom skott",
+  "hero_text": "Maskinrum, hytter, bryggor och lastdäck. 19 anställda med marin erfarenhet, A60-klassade genomföringar och montage under varvsliggningen i Karlskrona.",
+  "intro_rubrik": "Ombord sedan 2001",
+  "om": [
+    "Jörgen Ask var maskinchef på en Gotlandsfärja i femton år och tröttnade på att ventilationsfirmor från land inte förstod varför en kanal genom ett vattentätt skott är en helt annan sak än en kanal genom en gipsvägg. 2001 startade han Kölvatten med två före detta motormän i en lokal på Verkö.",
+    "I dag är vi 19 anställda: montörer med bakgrund som plåtslagare och motormän, två marinarkitekter och en svetsare med klassningsbevis. Vi arbetar mest på varv i Karlskrona och längs södra Östersjön, men åker ombord var fartyget än ligger när något måste lagas mellan två turer."
+  ],
+  "vagval_rubrik": "Vilket fartyg gäller det?",
+  "tjanster": [
+    {"titel": "Varvsombyggnad", "ikon": "bat", "href": "verksamhet.html", "text": "Nya aggregat och kanaler under varvsliggningen, klart till provtur."},
+    {"titel": "Maskinrumsventilation", "ikon": "vind", "href": "verksamhet.html", "text": "Förbränningsluft och kylning för huvudmaskiner och hjälpmaskiner."},
+    {"titel": "Hytter och salonger", "ikon": "hem", "href": "verksamhet.html", "text": "Tysta don och individuell temperatur för passagerare och besättning."},
+    {"titel": "Brandspjäll A60", "ikon": "eld", "href": "verksamhet.html", "text": "Klassade genomföringar och spjäll med provning inför besiktning."},
+    {"titel": "Lastdäck och fordon", "ikon": "bil", "href": "verksamhet.html", "text": "Avgasventilation på bildäck med gasdetektering."},
+    {"titel": "Akut ombord", "ikon": "telefon", "href": "verksamhet.html", "text": "Montör ombord i hamn inom ett dygn, i hela Östersjön."},
+    {"titel": "Hallar och varv", "ikon": "fabrik", "href": "verksamhet.html", "text": "Svetsröksutsug och ventilation i varvshallar och verkstäder."},
+    {"titel": "Skicka ritningar", "ikon": "ritning", "href": "om-oss.html#kontakt", "text": "Vi räknar på generalarrangemang och kanalritningar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Passagerarfärjor", "text": "En färja har hundratals hytter, flera restauranger och ett bildäck – och får bara ligga på varv några veckor om året. Vi planerar ombyggnaden månader i förväg och arbetar i skift dygnet runt när fartyget ligger inne.", "text2": "Elva färjor i Östersjötrafik har fått ny ventilation av oss.", "tagg": "bat"},
+    {"titel": "Örlogs- och myndighetsfartyg", "text": "Marinens och myndigheternas fartyg har krav på skydd mot gas och rök, övertryck i citadell och dokumentation på varje komponent. Vår personal är säkerhetsprövad för arbete på örlogsbasen.", "text2": "Ramavtal för underhåll av ventilation på mindre ytstridsfartyg sedan 2018.", "tagg": "ventilation"},
+    {"titel": "Arbetsfartyg och fiske", "text": "Bogserbåtar, lotsbåtar och fiskefartyg har trånga maskinrum och besättningar som bor ombord i veckor. Vi bygger om med komponenter i syrafast stål som tål salt och vibrationer.", "text2": "Från 12 meters lotsbåtar till 90 meters forskningsfartyg.", "tagg": "svets"},
+    {"titel": "Varv och marina verkstäder", "text": "I varvshallarna svetsas och målas det dygnet runt. Vi bygger punktutsug, allmänventilation och tilluft som klarar hallar på 20 meters takhöjd.", "text2": "Tre varvshallar i Karlskrona och en i Ronneby har ventilation från oss.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Varvslaget", "segment": "10 montörer", "rubrik": "Skift när fartyget ligger inne", "text": "Arbetar i tre skift under varvsliggningar och med nybyggen.", "tagg": "bat"},
+    {"namn": "Konstruktion", "segment": "2 marinarkitekter, 1 ingenjör", "rubrik": "Ritat för klassningssällskapet", "text": "Tar fram kanalritningar, beräkningar och dokumentation för godkännande.", "tagg": "kontor"},
+    {"namn": "Service och akut", "segment": "6 tekniker", "rubrik": "Ombord mellan två turer", "text": "Reser till fartyget i hamn och lagar det som inte kan vänta till nästa varv.", "tagg": "ventilation"}
+  ],
+  "berattelser": [
+    {"rubrik": "Färjan klar på 19 dygn", "text": "Hela hyttventilationen på däck 6 och 7 byttes under en varvsliggning som planerades i fem månader.", "tagg": "bat"},
+    {"rubrik": "Ny verkstad på Verkö", "text": "Egen tillverkning av kanaldelar i rostfritt och aluminium efter fartygens mått.", "tagg": "svets"},
+    {"rubrik": "Natt i Gdynia", "text": "En fläktmotor i maskinrummet havererade. Montören flög ned på morgonen och fartyget gick enligt tidtabell.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "11", "enhet": "färjor", "etikett": "Med ny ventilation från oss"},
+    {"varde": "19", "enhet": "dygn", "etikett": "Kortaste ombyggnad av en hel färjedel"},
+    {"varde": "24", "enhet": "h", "etikett": "Till ombord i Östersjöhamn"},
+    {"varde": "2001", "enhet": "", "etikett": "Första uppdraget på Verkö"}
+  ],
+  "projekt": [
+    {"namn": "Färjan Östersjöbris", "ort": "Karlskrona varv", "typ": "Hyttventilation däck 6–7", "ar": "2025", "text": "214 hytter fick nya don och kanaler på 19 dygn i tre skift.", "tagg": "bat"},
+    {"namn": "Forskningsfartyget Havsörn", "ort": "Karlskrona", "typ": "Labbventilation ombord", "ar": "2025", "text": "Dragskåp och undertryck i två laboratorier med provning till sjöss.", "tagg": "ventilation"},
+    {"namn": "Bogserbåten Tärnö", "ort": "Karlshamn", "typ": "Maskinrum", "ar": "2024", "text": "Ny förbränningsluft och kylning efter byte av huvudmaskin.", "tagg": "industri"},
+    {"namn": "Varvshall 3", "ort": "Karlskrona", "typ": "Svetsröksutsug", "ar": "2024", "text": "24 punktutsug och tilluft som klarar hallens 22 meter i takhöjd.", "tagg": "svets"},
+    {"namn": "Lotsbåtar Södra Östersjön", "ort": "Ronneby", "typ": "Serviceavtal, 6 båtar", "ar": "2025", "text": "Årlig service på aggregat och brandspjäll inför klassningsbesiktning.", "tagg": "bat"},
+    {"namn": "Bilfärja under ombyggnad", "ort": "Gdańsk", "typ": "Avgasventilation bildäck", "ar": "2026", "text": "Nya fläktar och gasdetektering monteras under vinterns varvsliggning.", "tagg": "bat", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Ombord i förväg", "text": "Vi besöker fartyget under drift, mäter upp och fotograferar varje utrymme som berörs.", "tagg": "bat"},
+    {"titel": "Ritning och godkännande", "text": "Ritningar och beräkningar skickas till klassningssällskapet för godkännande före varvet.", "tagg": "kontor"},
+    {"titel": "Varvsliggning", "text": "Material är förtillverkat och märkt. Montaget går i skift tills fartyget ska ut.", "tagg": "svets"},
+    {"titel": "Provtur", "text": "Flöden, tryck och spjäll provas till sjöss tillsammans med besättningen.", "tagg": "ventilation"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje kilowatt ombord kostar diesel",
+    "text": "Ombord produceras all el med bränsle. Effektivare fläktar och värmeåtervinning i hytter och salonger sänker förbrukningen direkt. Vi mäter elförbrukningen före och efter varje ombyggnad och redovisar besparingen i ton bränsle.",
+    "mal": [["–28 %", "ventilationsel efter ombyggnad av hyttdäck"], ["140 t", "sparat bränsle per år på våra färjeprojekt"], ["100 %", "syrafast eller aluminium i exponerade delar"]]
+  },
+  "karriar": {
+    "rubrik": "Har du varit till sjöss?",
+    "text": "Många av oss har jobbat ombord innan. Du arbetar i perioder – intensivt under varvsliggningar och lugnare däremellan – och får skifttillägg och resdagsersättning.",
+    "jobb": [["Ventilationsmontör marin", "Karlskrona"], ["Servicetekniker med resor", "Karlskrona"]]
+  },
+  "kultur": "När ett fartyg vi har byggt om går ut på provtur följer den som har jobbat flest skift med.",
+  "citat": {"text": "Ett fartyg är en byggnad som rullar, rör sig och står i saltvatten. Den som har stått i ett maskinrum i grov sjö bygger ventilation på ett annat sätt.", "namn": "Jörgen Ask", "roll": "Grundare och vd, före detta maskinchef", "tagg": "bat"},
+  "omdomen": [
+    {"text": "19 dygn för två hela hyttdäck. Kölvatten var det enda företaget som inte bad om förlängd liggetid.", "namn": "Stefan R.", "ort": "Teknisk chef, rederi"},
+    {"text": "De förstår klassningsreglerna och har dokumentationen klar innan inspektören frågar.", "namn": "Hanna J.", "ort": "Varvsplanerare, Karlskrona"},
+    {"text": "Fläkten i maskinrummet stannade en lördag i Gdynia. På söndag morgon stod deras montör på kajen.", "namn": "Kapten Erik N.", "ort": "Forskningsfartyg"}
+  ],
+  "faq": [
+    ["Arbetar ni även på land?", "Ja, i varvshallar och marina verkstäder. Vanliga bostäder och kontor tar vi inte."],
+    ["Kan ni arbeta utomlands?", "Ja. Vi har arbetat på varv i Polen, Danmark och Litauen och åker ombord i alla Östersjöhamnar."],
+    ["Vad krävs för brandspjäll ombord?", "Spjäll och genomföringar ska vara typgodkända för den brandklass skottet har, till exempel A60, och provas regelbundet. Vi hjälper till med dokumentationen till klassningssällskapet."],
+    ["Hinner ni på en kort varvsliggning?", "Ja, om vi får komma ombord i god tid före. Vi förtillverkar och märker allt material så att montaget går fort."],
+    ["Har ni säkerhetsprövad personal?", "Ja, de montörer som arbetar på örlogsbasen är säkerhetsprövade enligt kraven för uppdraget."],
+    ["Vad kostar en akut resa ombord?", "Vi tar timpris för restid och arbete plus resekostnader. Kunder med serviceavtal har fast pris på framkörning inom Sverige."]
+  ],
+  "certifikat": [
+    {"titel": "Klassningsgodkänd dokumentation", "text": "Ritningar och beräkningar godkända av de stora klassningssällskapen.", "ikon": "dokument"},
+    {"titel": "Svetsare med klassningsbevis", "text": "Egen svetsare godkänd för stål och aluminium ombord.", "ikon": "verktyg"},
+    {"titel": "Säkerhetsprövad personal", "text": "Montörer med behörighet för arbete på marinens anläggningar.", "ikon": "las"},
+    {"titel": "ISO 9001 sedan 2009", "text": "Certifierat kvalitetsledningssystem för projekt ombord och på land.", "ikon": "skold"}
+  ],
+  "kunder": ["Östersjöbris Rederi", "Blekinge Varvsindustri", "Havsforskningsinstitutet Syd", "Tärnö Bogsering AB", "Södra Östersjöns Lotsbåtar", "Ronneby Marinverkstad", "Kalmarsunds Färjelinjer"],
+  "nyheter": [
+    ["2026-10-01", "Vinterns varvsliggningar bokade", "Fyra fartyg ligger inne mellan december och mars – vi tar inte fler.", "bat"],
+    ["2026-03-23", "Egen tillverkning i aluminium", "Den nya verkstaden på Verkö tillverkar kanaldelar efter fartygens mått.", "svets"],
+    ["2025-06-15", "Ramavtalet förlängt till 2030", "Underhållet av ventilation på mindre ytstridsfartyg fortsätter.", "ventilation"]
+  ],
+  "kontakt": {"adress": "Verkövägen 3", "postnr": "371 41", "ort": "Karlskrona", "telefon": "070-174 06 41", "epost": "varv@kolvatten.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16, varvsskift dygnet runt",
+  "omrade": "Blekinge, Kalmarsund och varv runt södra Östersjön",
+  "fot_cta": "Ska fartyget på varv? Hör av er minst tre månader före.",
+  "bild": {"panel": "bat", "hb": "bat"},
+  "text": {
+    "kontakt_knapp": "Ring varvslaget",
+    "hero_knapp": "Fartyg och varv",
+    "hero_lank": "Fartyg vi har byggt om",
+    "ber_etikett": "Från kajen",
+    "ber_rubrik": "Senaste varvsliggningarna",
+    "proj_rubrik": "Fartyg och hallar",
+    "proj_rubrik_lista": "Ombyggnader till sjöss och på land",
+    "sida_projekt_titel": "Fartyg",
+    "status_klart": "Levererat",
+    "process_etikett": "Från kaj till provtur",
+    "process_rubrik": "Planerat i månader, byggt på dygn",
+    "hb_etikett": "Bränsle och miljö",
+    "omdomen_rubrik": "Rederier, varv och befäl",
+    "faq_rubrik": "Om fartyg, varv och klassning",
+    "boka_rubrik": "När ligger fartyget inne?",
+    "boka_text": "Ange fartyg, varv och datum för liggningen så kontaktar en marinarkitekt er inom tre arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "Rederi eller varv", "Fartyg och planerad liggning"],
+    "logos_rubrik": "Rederier och varv",
+    "certifikat_rubrik": "Godkänt för sjöfart",
+    "bolag_rubrik": "Tre lag för hav och varv",
+    "siffror_etikett": "Kölvatten till sjöss",
+    "medarbetare": "Montörerna ombord"
+  }
+}

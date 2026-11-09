@@ -1,0 +1,123 @@
+{
+  "profil": "nisch",
+  "nisch": "lassmed",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Nordkalottens Nyckelsystem AB",
+  "kortnamn": "Nordkalotten",
+  "slug": "nordkalotten",
+  "typ": "Kortlås och nyckelsystem i Kiruna",
+  "tagline": "Låsteknik ovanför polcirkeln",
+  "slogan": "Kortlås, kodlås och nyckelsystem för hotell, stugbyar och hus som har flyttat tre kilometer österut.",
+  "hero_rubrik": "Nycklar för norrskenets gäster",
+  "hero_text": "Vi programmerar kortlås till hotell i Kiruna, kodlås till stugbyar längs Torneträsk och nya system till hus som lyfts från gamla stan. Tretton personer, två bilar med vinterverkstad.",
+  "intro_rubrik": "Turism, gruva och en stad i rörelse",
+  "om": [
+    "Anders Niemi startade företaget 2003 i ett garage i Lombolo, när de första ishotellsgästerna började komma året runt och hotellen ville ha kortlås i stället för nyckeltavlor i receptionen. Hans första uppdrag var 42 rum på ett hotell vid järnvägsstationen.",
+    "I dag är vi tretton anställda och sköter låsen på 38 boenden från Jukkasjärvi till Riksgränsen. Sedan stadsomvandlingen tog fart har vi också satt nya lås i omkring 160 hus och lokaler som flyttats eller byggts i det nya centrumet."
+  ],
+  "vagval_rubrik": "Vad ska gästerna öppna?",
+  "tjanster": [
+    {"titel": "Kortlås för hotell", "ikon": "las", "href": "verksamhet.html", "text": "RFID-kort och mobilnyckel kopplade till ert bokningssystem."},
+    {"titel": "Stugbyar och camp", "ikon": "hus", "href": "verksamhet.html", "text": "Kodlås som klarar frost, snödrev och 200 gästbyten per vinter."},
+    {"titel": "Självincheckning", "ikon": "telefon", "href": "verksamhet.html", "text": "Gästen får koden i ett sms när betalningen har gått igenom."},
+    {"titel": "Lägenhetshotell", "ikon": "kontor", "href": "verksamhet.html", "text": "Nyckelfria entréer, tvättstugor och förråd i samma behörighet."},
+    {"titel": "Hus som flyttats", "ikon": "kran", "href": "verksamhet.html", "text": "Nya lås och justerade dörrar när huset står på sin nya grund."},
+    {"titel": "Skoter- och skidförråd", "ikon": "nyckel", "href": "verksamhet.html", "text": "Förrådslås som guiderna öppnar med samma kort som rummet."},
+    {"titel": "Säsongsservice", "ikon": "kalender", "href": "verksamhet.html", "text": "Genomgång av alla lås i november, före norrskenssäsongen."},
+    {"titel": "Ring Kirunakontoret", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Avtalskunder når en tekniker även under polarnatten."}
+  ],
+  "affarsomraden": [
+    {"titel": "Hotell och konferens", "text": "Kortlåssystem för hotell med 20 till 300 rum, integrerade med de bokningssystem som används i branschen. Vi byter batterier, kodar om läsare och lär upp receptionen inför varje säsong.", "text2": "Omkring 2 900 hotellrum i Malmfälten öppnas med kort vi har programmerat.", "tagg": "las"},
+    {"titel": "Stugbyar och fjällanläggningar", "text": "Stugor i Abisko och Björkliden ligger ofta utan bemanning nattetid. Kodlåsen vi monterar har värmda tangentbord och skickar en signal till värden om batteriet börjar ta slut.", "text2": "Låsen provas i frysrum på minus 35 grader innan de åker ut.", "tagg": "natur"},
+    {"titel": "Stadsomvandlingen", "text": "När ett hus lyfts och körs till en ny tomt sätter sig dörrkarmarna och nycklarna slutar passa. Vi justerar dörrar, byter cylindrar och ritar nya nyckelsystem för fastighetsägare i det nya centrumet.", "text2": "Vi har ett avtal med stadens fastighetsbolag för flyttade bostadshus fram till 2028.", "tagg": "stad"},
+    {"titel": "Förråd, verkstäder och guider", "text": "Turistföretag har dyr utrustning i boden: skotrar, kälkar, vadarbyxor och kameror. Vi samlar förråd och rum i samma behörighet så att guiden har ett kort i stället för ett knippe.", "text2": "Behörigheten kan tidsbegränsas till en säsong eller en enskild tur.", "tagg": "las"}
+  ],
+  "bolag": [
+    {"namn": "Hotellteamet", "segment": "Fem tekniker", "rubrik": "Kort, läsare och bokningssystem", "text": "Programmerar och servar kortlås på hotell och lägenhetshotell, och har jour för avtalskunder under högsäsong.", "tagg": "las"},
+    {"namn": "Fjällbilen", "segment": "Abisko, Björkliden, Riksgränsen", "rubrik": "Längs E10 varje tisdag", "text": "En servicebil med verkstad och reservdelar som kör E10 västerut en gång i veckan från december till april.", "tagg": "natur"},
+    {"namn": "Stadsgruppen", "segment": "Nya centrum", "rubrik": "Dörrar som har flyttat", "text": "Tre montörer som arbetar med flyttade hus, nybyggda kvarter och nya nyckelsystem i centrala Kiruna.", "tagg": "stad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ett hus på blocklastare", "text": "Ett trevåningshus från 1950-talet har körts till sin nya tomt. Vi bytte 36 cylindrar och justerade varje dörr innan hyresgästerna flyttade tillbaka.", "tagg": "stad"},
+    {"rubrik": "Stugbyn vid Torneträsk", "text": "24 stugor har fått kodlås med självincheckning, så att värden kan sova även när flyget från Arlanda landar sent.", "tagg": "natur"},
+    {"rubrik": "Novemberrundan klar", "text": "Alla 38 boenden har fått nya batterier och uppdaterade läsare inför norrskenssäsongen.", "tagg": "las"}
+  ],
+  "nyckeltal": [
+    {"varde": "2 900", "enhet": "rum", "etikett": "Med kort vi programmerat"},
+    {"varde": "38", "enhet": "boenden", "etikett": "I serviceavtal"},
+    {"varde": "160", "enhet": "hus", "etikett": "Nya lås efter flytt"},
+    {"varde": "13", "enhet": "personer", "etikett": "Kontor i nya centrum"}
+  ],
+  "projekt": [
+    {"namn": "Flyttat hyreshus, kvarter Malmen", "ort": "Kiruna", "typ": "36 cylindrar och dörrjustering", "ar": "2026", "text": "Nytt nyckelsystem och justerade karmar efter flytten till ny grund.", "tagg": "stad", "status": "Utfört"},
+    {"namn": "Stugby vid Torneträsk", "ort": "Abisko", "typ": "Kodlås, 24 stugor", "ar": "2026", "text": "Självincheckning med kod i sms och värmda tangentbord.", "tagg": "natur"},
+    {"namn": "Hotell vid stationen", "ort": "Kiruna", "typ": "Kortlås, 118 rum", "ar": "2025", "text": "Byte från magnetkort till RFID och mobilnyckel under lågsäsongen i maj.", "tagg": "las"},
+    {"namn": "Fjällstation", "ort": "Björkliden", "typ": "Förråd och torkrum", "ar": "2025", "text": "Guiderna öppnar förråd, torkrum och verkstad med sitt rumskort.", "tagg": "las"},
+    {"namn": "Lägenhetshotell i centrum", "ort": "Kiruna", "typ": "Nyckelfria entréer", "ar": "2024", "text": "Gästen får behörighet till port, lägenhet och tvättstuga i en kod.", "tagg": "kontor"},
+    {"namn": "Byskola som blev vandrarhem", "ort": "Jukkasjärvi", "typ": "Kortlås och kodlås", "ar": "2026", "text": "Montering pågår i en gammal skola som blir vandrarhem med 22 bäddar.", "tagg": "hem"}
+  ],
+  "process": [
+    {"titel": "Säsongsplan", "text": "Vi börjar med er beläggning: när är det fullt, när står det tomt och när kan vi arbeta utan att störa gäster.", "tagg": "kontor"},
+    {"titel": "Prov i kyla", "text": "Lås och läsare som ska sitta utomhus provas i vårt frysrum innan de monteras.", "tagg": "las"},
+    {"titel": "Montage i lågsäsong", "text": "Byten görs helst i maj eller oktober. Hotellet behåller alltid öppna rum under arbetet.", "tagg": "las"},
+    {"titel": "Utbildning av receptionen", "text": "Personalen lär sig koda kort, spärra borttappade och läsa loggen på en eftermiddag.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Lås som klarar en vinter här uppe",
+    "text": "Kyla tömmer batterier och fukt från torkrum fräter på elektronik. Därför ger vi ut en batteriplan per anläggning, samlar in alla gamla batterier och kör fjällbilen bara en fast dag i veckan i stället för vid varje enskilt ärende.",
+    "mal": [["−35 °C", "provtemperatur före montering"], ["1", "fast fjälldag i veckan"], ["100 %", "av gamla batterier till insamling"]]
+  },
+  "karriar": {
+    "rubrik": "Låstekniker i Malmfälten",
+    "text": "Vi söker dig som klarar både en bokningsserver och en frusen dörrkarm. Du får tillverkarutbildning i kortlås och kör fjällbilen till Abisko några gånger i månaden.",
+    "jobb": [["Låstekniker hotell och kortlås", "Kiruna"], ["Montör, flyttade hus", "Kiruna"]]
+  },
+  "kultur": "När norrskenet syns över Luossavaara går den som är ledig upp på taket med kaffe – det har blivit en regel snarare än ett undantag.",
+  "citat": {"text": "En turist som står ute i trettio minusgrader med ett kort som inte fungerar glömmer aldrig det. Därför provar vi varje lås som om vi själva skulle sova där.", "namn": "Anders Niemi", "roll": "Grundare och vd", "tagg": "natur"},
+  "omdomen": [
+    {"text": "Vi bytte till mobilnyckel mitt i maj och hade inte en enda stängd våning. Receptionen var utbildad på en eftermiddag.", "namn": "Paula K.", "ort": "Hotellchef, Kiruna"},
+    {"text": "Gästerna kommer med sista flyget och går direkt till stugan. Jag har inte behövt köra ut en enda natt den här vintern.", "namn": "Nils-Erik T.", "ort": "Stugvärd, Abisko"},
+    {"text": "Huset flyttades i september. I oktober passade varje nyckel igen och dörrarna stängde utan att vi behövde slå i dem.", "namn": "Margit L.", "ort": "Hyresgäst, nya centrum"}
+  ],
+  "faq": [
+    ["Fungerar kodlås i stark kyla?", "Ja, om de är byggda för det. Vi monterar bara lås med värmda knappsatser och litiumbatterier som provats i vårt frysrum."],
+    ["Kan låsen kopplas till vårt bokningssystem?", "De flesta kortlås vi säljer har färdiga kopplingar till de vanliga hotell- och stugbokningssystemen. Vi kontrollerar ert system innan vi lämnar offert."],
+    ["Vad händer när ett hus flyttas?", "Karmar och trösklar rör sig under transporten. Vi justerar dörrarna när huset satt sig, oftast fyra till sex veckor efter flytten, och byter cylindrar om fastighetsägaren vill."],
+    ["Kör ni till Riksgränsen och Karesuando?", "Ja. Fjällbilen kör E10 varje tisdag under säsongen och Karesuando bokar vi i samråd, med fast resekostnad."],
+    ["Har ni jour?", "Avtalskunder har jour dygnet runt från december till april. Övriga tider vardagar 7–17."],
+    ["Vad kostar ett kortlås per rum?", "Normalt 6 500–9 000 kr per dörr inklusive montering och programmering, beroende på dörr och läsare."],
+    ["Kan gästen använda mobilen som nyckel?", "Ja, om hotellets bokningssystem stöder det. Gästen får nyckeln i en länk och kan även använda ett vanligt kort."]
+  ],
+  "certifikat": [
+    {"titel": "Tillverkarutbildade i kortlås", "text": "Fem tekniker är utbildade hos de två största tillverkarna av hotellås.", "ikon": "las"},
+    {"titel": "Medlemmar i SLR", "text": "Sveriges Låssmeders Riksförbund sedan 2004, med tre gesäller och en mästare.", "ikon": "skold"},
+    {"titel": "Registrerat elinstallationsföretag", "text": "Behörighet hos Elsäkerhetsverket för elslutbleck och uppkopplade läsare.", "ikon": "blixt"},
+    {"titel": "ID06 på alla montörer", "text": "Krav i stadsomvandlingens byggprojekt, som vi uppfyller sedan 2014.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Hotell Polarporten", "Stugbyn Lapporten", "Fjällgården Björkliden", "Malmfältens Hyreshus AB", "Vassijaure Basecamp", "Lägenhetshotell Bergmästaren", "Byskolans Vandrarhem"],
+  "nyheter": [
+    ["2026-11-02", "Novemberrundan klar", "Alla 38 boenden har nya batterier och uppdaterade läsare.", "las"],
+    ["2026-09-18", "Ett hus på väg", "Så bytte vi 36 cylindrar i ett hus som just körts till ny tomt.", "stad"],
+    ["2026-03-27", "Självincheckning vid Torneträsk", "24 stugor tar emot sena gäster utan värd på plats.", "natur"]
+  ],
+  "kontakt": {"adress": "Bergmästaregatan 12", "postnr": "981 31", "ort": "Kiruna", "telefon": "070-174 06 06", "epost": "service@nordkalottenlas.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–17 · jour för avtalskunder dec–apr",
+  "omrade": "Kiruna kommun, Malmfälten och fjällen längs E10",
+  "fot_cta": "Planerar ni byte av kortlås? Boka in det före maj, när hotellen står halvtomma.",
+  "bild": {"panel": "natur", "hb": "las"},
+  "text": {
+    "hero_knapp": "Lås för gästboenden",
+    "hero_lank": "Boenden vi har utrustat",
+    "ber_rubrik": "Från polcirkeln i höst",
+    "proj_rubrik": "Hotell, stugor och flyttade hus",
+    "process_rubrik": "Planerat efter er beläggning",
+    "hb_etikett": "Kyla och batterier",
+    "omdomen_rubrik": "Värdar, chefer och hyresgäster",
+    "faq_rubrik": "Om lås i arktiskt klimat",
+    "boka_rubrik": "Hur många dörrar har ni?",
+    "logos_rubrik": "Boenden i serviceavtal",
+    "certifikat_rubrik": "Utbildade hos tillverkarna",
+    "bolag_rubrik": "Hotell, fjäll och stad",
+    "ny_rubrik": "Senaste från Bergmästaregatan"
+  }
+}

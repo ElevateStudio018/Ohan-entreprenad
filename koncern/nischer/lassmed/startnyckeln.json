@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "lassmed",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Startnyckeln i Linköping AB",
+  "kortnamn": "Startnyckeln",
+  "slug": "startnyckeln",
+  "typ": "Bil- och fordonsnycklar i Östergötland",
+  "tagline": "Nycklar till allt med motor",
+  "slogan": "Vi tillverkar och programmerar nycklar till bilar, traktorer, hjullastare och husbilar – på plats, där fordonet står.",
+  "hero_rubrik": "Ny bilnyckel utan att bärga bilen",
+  "hero_text": "Tappat den enda nyckeln? Vi kommer med verkstadsbussen, slipar ett nytt blad och programmerar transpondern vid bilen. Fyra personer, hela Östergötland.",
+  "intro_rubrik": "En verkstad på fyra hjul",
+  "om": [
+    "Mattias Gustafsson arbetade tolv år som diagnostekniker på en bilverkstad i Linköping och såg hur kunder fick vänta tre veckor och betala för bärgning bara för att en nyckel var borta. 2016 byggde han om en skåpbil till rullande nyckelverkstad och startade Startnyckeln.",
+    "I dag är vi fyra: Mattias, Emma Sjöberg som programmerar nycklar till lantbruks- och entreprenadmaskiner, en montör och Mattias pappa Leif som sköter bokningen. Vi har två bussar och gör omkring 2 300 fordonsnycklar om året."
+  ],
+  "vagval_rubrik": "Vilket fordon gäller det?",
+  "tjanster": [
+    {"titel": "Alla nycklar borta", "ikon": "bil", "href": "verksamhet.html", "text": "Ny nyckel tillverkad och programmerad vid bilen, utan bärgning."},
+    {"titel": "Extranyckel", "ikon": "nyckel", "href": "verksamhet.html", "text": "En reservnyckel innan den enda du har går sönder."},
+    {"titel": "Nyckellösa system", "ikon": "laddning", "href": "verksamhet.html", "text": "Smarta nycklar och nyckelkort till bilar med startknapp."},
+    {"titel": "Nytt nyckelskal", "ikon": "verktyg", "href": "verksamhet.html", "text": "Trasigt skal eller knappar – vi flyttar elektroniken till ett nytt."},
+    {"titel": "Traktor och maskin", "ikon": "kugge", "href": "verksamhet.html", "text": "Nycklar och startkoder till traktorer, hjullastare och grävare."},
+    {"titel": "Husbil och husvagn", "ikon": "hus", "href": "verksamhet.html", "text": "Dörr-, lucklås och nycklar till påbyggnaden."},
+    {"titel": "Tändlås och rattlås", "ikon": "las", "href": "verksamhet.html", "text": "Byte eller lagning när nyckeln inte går att vrida."},
+    {"titel": "Boka bussen", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi kommer hem, till jobbet eller till parkeringen."}
+  ],
+  "affarsomraden": [
+    {"titel": "Personbilar", "text": "Vi har utrustning för omkring 90 procent av bilmodellerna på svenska vägar, från 90-talets Volvo till nyare elbilar med nyckelkort. Nyckelbladet slipas i bussen och transpondern programmeras via bilens diagnosuttag.", "text2": "En extranyckel tar normalt 30–45 minuter vid bilen.", "tagg": "las"},
+    {"titel": "Lantbruk och entreprenad", "text": "Traktorer, skördetröskor, hjullastare och grävmaskiner med immobilizer eller startkod. När en maskin står still mitt i skörden eller på ett bygge kör vi ut samma dag.", "text2": "Emma har tillverkarutbildning för de vanligaste maskinmärkena i Sverige.", "tagg": "maskin"},
+    {"titel": "Bilhandel, hyrbilar och bilpooler", "text": "Bilhandlare som köper in bilar med en nyckel och hyrbilsföretag som tappar nycklar varje vecka. Vi kommer en fast dag och gör alla nycklar på en gång.", "text2": "Avtalskunder får fast pris per nyckel och faktura en gång i månaden.", "tagg": "kontor"},
+    {"titel": "Husbilar, MC och båtar", "text": "Lås till påbyggnader, servicelucker och förvaringsboxar på husbilar, och tändningsnycklar till motorcyklar och utombordare. Påbyggnadslås har vi i lager för de vanligaste tillverkarna.", "text2": "Inför säsongen i april har vi kvällstider för husbilsägare.", "tagg": "las"}
+  ],
+  "bolag": [
+    {"namn": "Bil", "segment": "Mattias Gustafsson", "rubrik": "Diagnosuttag och nyckelblad", "text": "Personbilar, transportbilar och elbilar, med en buss som täcker Linköping, Norrköping och Mjölby.", "tagg": "las"},
+    {"namn": "Maskin", "segment": "Emma Sjöberg", "rubrik": "Traktorer och hjullastare", "text": "Lantbruk, åkerier och entreprenadföretag. Bussen har fyrhjulsdrift och kommer ut på åkern.", "tagg": "maskin"},
+    {"namn": "Bokning", "segment": "Leif Gustafsson", "rubrik": "Rätt nyckelämne i bussen", "text": "Tar reda på exakt modell och årsmodell före besöket, så att rätt ämne och programvara finns med.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Mitt i skörden", "text": "En skördetröska på Östgötaslätten stod med trasig nyckel en fredag i augusti. Ny nyckel var programmerad inom två timmar.", "tagg": "maskin"},
+    {"rubrik": "Avtal med en bilpool", "text": "En bilpool med 140 bilar i Linköping har nu fast nyckeldag hos oss varannan torsdag.", "tagg": "las"},
+    {"rubrik": "Buss nummer två", "text": "Den nya bussen har fyrhjulsdrift och tar sig ut på åkrar och byggen.", "tagg": "maskin"}
+  ],
+  "nyckeltal": [
+    {"varde": "2 300", "enhet": "nycklar", "etikett": "Per år"},
+    {"varde": "90 %", "enhet": "", "etikett": "Av bilmodellerna i Sverige"},
+    {"varde": "45", "enhet": "min", "etikett": "För en vanlig extranyckel"},
+    {"varde": "4", "enhet": "personer", "etikett": "Två bussar"}
+  ],
+  "projekt": [
+    {"namn": "Skördetröska på slätten", "ort": "Vreta kloster", "typ": "Maskinnyckel med startkod", "ar": "2026", "text": "Ny nyckel programmerad på fältet, tröskan i gång samma eftermiddag.", "tagg": "maskin", "status": "Utfört"},
+    {"namn": "Bilpool i Linköping", "ort": "Linköping", "typ": "Avtal, 140 bilar", "ar": "2026", "text": "Fast nyckeldag varannan vecka och reservnycklar till alla bilar.", "tagg": "las"},
+    {"namn": "Bilhandlare i Norrköping", "ort": "Norrköping", "typ": "Extranycklar, 60 bilar", "ar": "2025", "text": "Inbytesbilar som kom in med en nyckel fick en andra före försäljning.", "tagg": "kontor"},
+    {"namn": "Åkeri i Mjölby", "ort": "Mjölby", "typ": "Lastbilsnycklar", "ar": "2025", "text": "Nycklar och nyckelskåp för tolv lastbilar och två hjullastare.", "tagg": "maskin"},
+    {"namn": "Husbilsklubb i Motala", "ort": "Motala", "typ": "Påbyggnadslås", "ar": "2024", "text": "Kvällsträff där 23 husbilar fick nya lås till servicelucker.", "tagg": "las"},
+    {"namn": "Grävmaskin på bygge", "ort": "Linköping", "typ": "Immobilizer", "ar": "2024", "text": "Borttappad nyckel på ett bygge i Vallastaden, maskinen i gång efter en timme.", "tagg": "bygg"}
+  ],
+  "process": [
+    {"titel": "Registreringsnummer", "text": "Du ringer eller skickar registreringsnumret. Vi tar fram modell och vilket nyckelämne som behövs.", "tagg": "kontor"},
+    {"titel": "Ägarkontroll", "text": "Vi kontrollerar mot vägtrafikregistret att du äger fordonet, eller att du har fullmakt.", "tagg": "las"},
+    {"titel": "Bussen kommer", "text": "Nyckeln slipas och programmeras vid fordonet. Gamla nycklar som försvunnit raderas ur bilen.", "tagg": "las"},
+    {"titel": "Provkörning", "text": "Vi startar, låser och provar fjärrkontrollen tillsammans med dig innan vi åker.", "tagg": "las"}
+  ],
+  "hallbarhet": {
+    "rubrik": "En nyckel ska inte kosta en bärgning",
+    "text": "Varje gång vi gör nyckeln på plats slipper någon bärga bilen till en verkstad. Under 2025 motsvarade det omkring 1 100 bärgningar. Gamla nyckelskal sorteras som elektronikavfall och batterierna lämnas separat.",
+    "mal": [["1 100", "bärgningar som inte behövdes 2025"], ["100 %", "ägarkontroll före varje nyckel"], ["24 h", "längsta väntan för maskiner i skörden"]]
+  },
+  "karriar": {
+    "rubrik": "Diagnos och låsteknik i samma jobb",
+    "text": "Vi är ett litet företag och anställer sällan. Är du bilmekaniker eller låssmed och nyfiken på fordonselektronik får du gärna höra av dig inför 2027.",
+    "jobb": []
+  },
+  "kultur": "Leif har en whiteboard med alla bilmodeller vi inte kunnat göra nyckel till – den har krympt från 31 till 6 rader sedan 2019.",
+  "citat": {"text": "En bil utan nyckel är en bil som står. Den kunden vill inte höra om leveranstider från Tyskland, den vill ha en nyckel i dag.", "namn": "Mattias Gustafsson", "roll": "Grundare", "tagg": "las"},
+  "omdomen": [
+    {"text": "Generalagenten sa tre veckor och bärgning. Startnyckeln kom till parkeringen vid jobbet och jag körde hem samma kväll.", "namn": "Linnea F.", "ort": "Linköping"},
+    {"text": "Tröskan stod på fältet och vädret skulle vända. Emma var där inom en timme och tröskan gick efter två.", "namn": "Bertil Å.", "ort": "Lantbrukare, Vreta kloster"},
+    {"text": "Vi har slutat sälja bilar med en nyckel. Varannan torsdag kommer bussen och fixar alla på en gång.", "namn": "Mikael R.", "ort": "Bilhandlare, Norrköping"}
+  ],
+  "faq": [
+    ["Kan ni göra nyckel till min bil?", "Till de flesta bilar från 1995 och framåt. Skicka registreringsnumret så svarar vi direkt om vi kan och vad det kostar."],
+    ["Måste jag ha kvar en gammal nyckel?", "Nej. Vi kan tillverka en ny nyckel även när alla är borta, och samtidigt radera de försvunna ur bilens minne så att de inte längre startar bilen."],
+    ["Hur vet ni att jag äger bilen?", "Vi kontrollerar registreringsbevis och legitimation mot vägtrafikregistret. Vid leasing eller firmabil behöver vi fullmakt från ägaren."],
+    ["Är det billigare än hos märkesverkstaden?", "Oftast 30–50 procent billigare, och du slipper bärgning och väntetid. Vissa nyare modeller kräver originalnyckel som vi beställer åt dig."],
+    ["Vilka maskiner gör ni nycklar till?", "Traktorer, hjullastare, grävmaskiner, truckar och skördetröskor från de vanligaste tillverkarna i Sverige. Ring och fråga om just din modell."],
+    ["Hur långt kör ni?", "Hela Östergötland. Inom Linköping, Norrköping och Mjölby ingår resan, i övriga länet tar vi 9 kr per kilometer från närmaste buss."]
+  ],
+  "priser": [
+    {"namn": "Extranyckel", "pris": "fr. 1 900 kr", "enhet": "per nyckel", "text": "Reservnyckel medan du har en som fungerar.", "punkter": ["Slipat blad", "Programmerad transponder", "Fjärrkontroll om bilen har det", "Klar på under en timme"], "utvald": true},
+    {"namn": "Alla nycklar borta", "pris": "fr. 3 900 kr", "enhet": "vid bilen", "text": "Ny nyckel utan bärgning till verkstad.", "punkter": ["Ägarkontroll mot registret", "Försvunna nycklar raderas", "Programmering på plats", "Två nycklar ingår"]},
+    {"namn": "Maskinnyckel", "pris": "fr. 2 600 kr", "enhet": "per maskin", "text": "Traktorer, hjullastare och grävmaskiner.", "punkter": ["Utryckning samma dag i skörden", "Startkod och immobilizer", "Fyrhjulsdriven buss", "Faktura till företaget"]}
+  ],
+  "prislista": [["Nytt nyckelskal, elektroniken flyttas", "690 kr"], ["Batteribyte i nyckel", "150 kr"], ["Låsöppning av bil", "fr. 1 400 kr"], ["Byte av tändlås", "fr. 2 900 kr"], ["Påbyggnadslås husbil", "fr. 850 kr"], ["Resa utanför tätort", "9 kr/km"]],
+  "certifikat": [
+    {"titel": "Tillverkarutbildning", "text": "Utbildning i transpondersystem och immobilizer för personbilar och maskiner.", "ikon": "kugge"},
+    {"titel": "Ägarkontroll i varje ärende", "text": "Vi följer Sveriges Låssmeders Riksförbunds regler och kontrollerar ägare mot vägtrafikregistret.", "ikon": "dokument"},
+    {"titel": "Gesällbrev, låssmed", "text": "Mattias och Emma har gesällbrev genom Sveriges Låssmeders Riksförbund.", "ikon": "stjarna"},
+    {"titel": "Ansvarsförsäkring", "text": "Försäkrade för skador på fordonets elektronik upp till 3 Mkr.", "ikon": "skold"}
+  ],
+  "kunder": ["Bilpoolen i Ryd", "Norrköpings Bilcenter", "Mjölby Åkeri & Schakt", "Vreta Lantbruksgrupp", "Motala Husbilsklubb", "Valla Hyrbil", "Kinda Maskinstation"],
+  "nyheter": [
+    ["2026-09-29", "Fyrhjulsdriven buss", "Nu tar vi oss ut på åkrar och byggen även efter regn.", "maskin"],
+    ["2026-06-15", "Nyckeldag för bilpoolen", "140 bilar får fasta besök varannan torsdag.", "las"],
+    ["2026-04-02", "Kvällstider för husbilar", "Lås och nycklar inför säsongen, tisdagar och torsdagar till 20.", "las"]
+  ],
+  "kontakt": {"adress": "Roxtorpsgatan 11", "postnr": "582 73", "ort": "Linköping", "telefon": "070-174 06 24", "epost": "nyckel@startnyckeln.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–18 · under skörden även lördagar",
+  "omrade": "Hela Östergötland",
+  "fot_cta": "Skicka registreringsnumret – du får pris och tid innan vi kör.",
+  "bild": {"panel": "maskin", "hb": "las"},
+  "text": {
+    "hero_knapp": "Fordon vi gör nycklar till",
+    "hero_lank": "Senaste utryckningarna",
+    "ber_rubrik": "Ute med bussen",
+    "proj_rubrik": "Bilar, tröskor och grävare",
+    "process_rubrik": "Från registreringsnummer till startad motor",
+    "hb_etikett": "Färre bärgningar",
+    "omdomen_rubrik": "Bilägare, bönder och bilhandlare",
+    "faq_rubrik": "Om fordonsnycklar",
+    "priser_rubrik": "Vad en nyckel kostar",
+    "boka_rubrik": "Vilket fordon och var står det?",
+    "logos_rubrik": "Fasta kunder i länet",
+    "certifikat_rubrik": "Ägarkontroll och utbildning",
+    "bolag_rubrik": "Bil, maskin och bokning",
+    "ny_rubrik": "Från verkstadsbussen"
+  }
+}

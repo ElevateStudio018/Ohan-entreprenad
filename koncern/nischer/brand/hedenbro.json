@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hedenbro Brandteknik AB",
+  "kortnamn": "Hedenbro",
+  "slug": "hedenbro",
+  "typ": "Brandlarmsentreprenör i Gävleborg och Dalarna",
+  "tagline": "För de stora byggena",
+  "slogan": "Vi bygger brandlarm, utrymningslarm och sprinkler i sjukhus, tunnlar, bruk och arenor – som totalentreprenad med en enda ansvarig projektledare.",
+  "hero_rubrik": "Sjukhus, tunnlar och bruk. Klart till invigning",
+  "hero_text": "96 medarbetare i Gävle, Hudiksvall, Söderhamn och Mora. Vi tar hela brandskyddsentreprenaden i byggprojekt från 20 till 400 miljoner kronor.",
+  "intro_rubrik": "Entreprenader där ett försenat larm stoppar hela bygget",
+  "om": [
+    "Elektrikern Bertil Hedenbro startade firman i en källarlokal på Södra Kungsgatan i Gävle 1988, med uppdrag åt massabruken längs kusten. 2012 köpte fem personer i ledningsgruppen ut honom, och sedan dess har Hedenbro gått från 31 till 96 anställda och en omsättning på 168 miljoner kronor.",
+    "Vi är ingen servicefirma som ibland tar ett större jobb. Vår kärna är entreprenaden: detektorer, centraler, högtalare, sprinklerrör och brandgasluckor samordnade i samma BIM-modell som el och ventilation, med en projektledare som sitter med på byggmötena från systemhandling till slutbesiktning."
+  ],
+  "vagval_rubrik": "Vilket skede är projektet i?",
+  "tjanster": [
+    {"titel": "Totalentreprenad brand", "ikon": "kran", "href": "verksamhet.html", "text": "Brandlarm, utrymningslarm, sprinkler och brandgasventilation i ett och samma kontrakt."},
+    {"titel": "Projektering i BIM", "ikon": "ritning", "href": "verksamhet.html", "text": "Egna projektörer modellerar i Revit och gör kollisionskontroll mot övriga installationer."},
+    {"titel": "Sjukhus och vård", "ikon": "vard", "href": "verksamhet.html", "text": "Etappvis byggnation i lokaler som är i drift, med avstängningar planerade per avdelning."},
+    {"titel": "Tunnlar och infra", "ikon": "vag", "href": "verksamhet.html", "text": "Linjevärmedetektering och talat utrymningslarm i väg- och järnvägstunnlar."},
+    {"titel": "Bruk och processindustri", "ikon": "fabrik", "href": "verksamhet.html", "text": "Detektering i dammiga och fuktiga miljöer, från barkrensning till sodapanna."},
+    {"titel": "Arenor och samlingslokaler", "ikon": "megafon", "href": "verksamhet.html", "text": "Talat utrymningslarm med zonstyrning för upp till 9 000 åskådare."},
+    {"titel": "Drift efter överlämning", "ikon": "kugge", "href": "verksamhet.html", "text": "Samma tekniker som byggde anläggningen sköter revision och service."},
+    {"titel": "Skicka förfrågningsunderlag", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi lämnar anbud på entreprenader i hela Mellannorrland."}
+  ],
+  "affarsomraden": [
+    {"titel": "Vårdbyggnader", "text": "Ett sjukhus kan inte stänga för att larmet ska bytas. Vi bygger om i etapper på 400–800 kvadratmeter och håller det gamla och det nya systemet parallellt tills varje etapp är provad.", "text2": "Under de senaste tio åren har vi arbetat i fyra av regionens sjukhus och en rad vårdcentraler.", "tagg": "brand"},
+    {"titel": "Infrastruktur och tunnlar", "text": "I tunnlar använder vi linjevärmedetektorer i fiberkabel som känner av temperaturen meter för meter. Systemen kopplas till trafikledningscentralen och styr bommar, fläktar och skyltar.", "text2": "Montörerna har utbildning för arbete på väg och spår enligt Trafikverkets krav.", "tagg": "infra"},
+    {"titel": "Industri och bruk", "text": "Massabruk, sågverk och stålverk har miljöer där en vanlig rökdetektor larmar varje timme. Vi väljer flamdetektorer, aspirerande system och värmekameror efter vad som faktiskt kan brinna.", "text2": "Arbetet planeras kring underhållsstoppen, ofta med skift dygnet runt i två veckor.", "tagg": "industri"},
+    {"titel": "Arenor, skolor och kultur", "text": "Där många människor samlas avgör utrymningslarmet hur snabbt lokalen töms. Vi bygger talat larm med förinspelade meddelanden och zonstyrning, så att rätt sektion utryms först.", "text2": "Ljudnivåer och taluppfattbarhet mäts innan anläggningen lämnas över.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Projekt Gävle", "segment": "Huvudkontor", "rubrik": "38 montörer och sju projektledare", "text": "Här drivs de största entreprenaderna, och här sitter också inköp, kalkyl och vårt lager för centralapparater.", "tagg": "bygg"},
+    {"namn": "Projektering", "segment": "BIM och dokumentation", "rubrik": "Ritningarna är klara innan rören kommer", "text": "Elva projektörer och två certifierade ingenjörer brandlarm modellerar anläggningen och tar fram relationshandlingar.", "tagg": "kontor"},
+    {"namn": "Hälsingland", "segment": "Hudiksvall och Söderhamn", "rubrik": "Industrin längs E4", "text": "Arton tekniker med fokus på sågverk, bruk och kommunala byggnader norr om Gävle.", "tagg": "industri"},
+    {"namn": "Dalarna", "segment": "Mora", "rubrik": "Västerdalarna och fjällvägen", "text": "Kontoret i Mora öppnade 2020 och har tolv medarbetare som bygger skolor, vårdboenden och anläggningar i Siljansbygden.", "tagg": "brand"}
+  ],
+  "berattelser": [
+    {"rubrik": "Nya akutvåningen är provad", "text": "Etapp tre av sex i sjukhusprojektet lämnades över två veckor före tidplan, med 1 140 detektorer i drift.", "tagg": "brand"},
+    {"rubrik": "Fiberkabel genom Skogmurtunneln", "text": "2,4 kilometer linjevärmedetektering monterades under fyra nätter när trafiken var avstängd.", "tagg": "infra"},
+    {"rubrik": "Stoppet på bruket i Skutskär", "text": "42 montörer i skift under tolv dygn bytte detektering i hela barkrenseriet.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "96", "enhet": "anställda", "etikett": "På fyra orter i två län"},
+    {"varde": "168", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "14 000", "enhet": "detektorer", "etikett": "Installerade under 2025"},
+    {"varde": "31", "enhet": "entreprenader", "etikett": "Pågår just nu"}
+  ],
+  "projekt": [
+    {"namn": "Akutvåningen, etapp 3", "ort": "Gävle", "typ": "Brandlarm i drift", "ar": "2026", "text": "Ombyggnad av larm och utrymning på en avdelning som aldrig stängde under byggtiden.", "tagg": "brand", "status": "Pågående"},
+    {"namn": "Skogmurtunneln", "ort": "Gävle", "typ": "Tunneldetektering", "ar": "2025", "text": "Linjevärmedetektering och talat utrymningslarm kopplat till trafikledningen.", "tagg": "infra"},
+    {"namn": "Barkrenseriet Skutskär", "ort": "Skutskär", "typ": "Industridetektering", "ar": "2025", "text": "Flamdetektorer och aspirerande system i ett av länets mest dammiga rum.", "tagg": "industri"},
+    {"namn": "Isstadion Mora", "ort": "Mora", "typ": "Utrymningslarm", "ar": "2025", "text": "Talat larm i tre zoner för 4 500 åskådare, med meddelanden på svenska och engelska.", "tagg": "stad"},
+    {"namn": "Kv. Rudbeck", "ort": "Hudiksvall", "typ": "Skola och idrottshall", "ar": "2024", "text": "Brandlarm, sprinkler och brandgasventilation i en ny F–6-skola i trä.", "tagg": "bygg"},
+    {"namn": "Söderhamns Hamnterminal", "ort": "Söderhamn", "typ": "Sprinkler och larm", "ar": "2024", "text": "Torrörssprinkler och värmekameror i ett lager för träpellets.", "tagg": "anlaggning"}
+  ],
+  "process": [
+    {"titel": "Anbud och kalkyl", "text": "Vi läser förfrågningsunderlaget, ställer frågorna tidigt och lämnar ett anbud med tydliga undantag.", "tagg": "kontor"},
+    {"titel": "Samordnad projektering", "text": "Anläggningen modelleras i samma BIM-modell som el och ventilation och kollisionstestas varje vecka.", "tagg": "kontor"},
+    {"titel": "Montage i etapper", "text": "Egen arbetsledning på plats, dagliga avstämningar med byggledningen och ingen överraskning på slutbesiktningen.", "tagg": "bygg"},
+    {"titel": "Provning och överlämning", "text": "Samordnad funktionsprovning med räddningstjänst, hissar och ventilation, och relationsritningar inom 30 dagar.", "tagg": "brand"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen ska skadas på våra byggen",
+    "text": "Vi arbetar på höjd, i tunnlar och i processindustri, och mäter därför arbetsmiljön lika noga som tidplanen. Varje projekt har en egen skyddsrond varannan vecka, och alla tillbud rapporteras i appen samma dag.",
+    "mal": [["0", "allvarliga olyckor sedan 2017"], ["96 %", "av entreprenaderna klara i tid 2025"], ["30 dagar", "till kompletta relationshandlingar"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg sjukhusen och tunnlarna som Gävleborg behöver",
+    "text": "Vi anställer elektriker och lär dem brandlarm, och vi betalar certifieringen till ingenjör brandlarm för den som vill vidare. Alla montörer har kollektivavtal, servicebil och betald restid.",
+    "jobb": [["Projektledare brandentreprenad", "Gävle"], ["Montör brandlarm", "Hudiksvall"], ["BIM-projektör", "Gävle"], ["Montör brandlarm", "Mora"]]
+  },
+  "kultur": "Varje avslutad entreprenad firas med en middag för hela projektgruppen – även underentreprenörerna bjuds.",
+  "citat": {"text": "Brandlarmet är det sista som blir klart och det första som måste fungera. Därför sitter vi med från första byggmötet, inte från det sista.", "namn": "Annelie Westberg", "roll": "Vd och delägare", "tagg": "bygg"},
+  "omdomen": [
+    {"text": "Vi byggde om akuten medan den var full av patienter. Hedenbros projektledare planerade varje avstängning med vårdenhetscheferna, och vi hade inte ett enda oplanerat larm.", "namn": "Peter N.", "ort": "Gävle"},
+    {"text": "Fyra nätter, en tunnel och noll förseningar. De hade provat varje kabelsträcka på dagen innan vi stängde vägen.", "namn": "Sanna J.", "ort": "Trafikprojekt Gävleborg"},
+    {"text": "Under stoppet jobbade de i skift dygnet runt och lämnade över dokumentationen innan vi startade pannan igen.", "namn": "Henrik Å.", "ort": "Skutskär"}
+  ],
+  "faq": [
+    ["Tar ni bara stora entreprenader?", "Vår kärna är projekt mellan cirka 2 och 40 miljoner kronor i brandskyddsdelen, men vi tar även mindre jobb åt beställare vi redan arbetar med."],
+    ["Kan ni gå in som underentreprenör till elentreprenören?", "Ja, ungefär hälften av våra uppdrag är sidoentreprenader och resten är underentreprenader till el- eller totalentreprenören."],
+    ["Arbetar ni i BIM?", "Ja. Vi modellerar i Revit, levererar IFC-filer och deltar i samordningsmöten med kollisionskontroll."],
+    ["Hur hanterar ni byggen i lokaler som är i drift?", "Vi delar upp arbetet i etapper, håller det befintliga larmet i drift tills den nya delen är provad och planerar avstängningar med verksamheten."],
+    ["Vem äger relationshandlingarna?", "Beställaren. Ni får ritningar, anläggarintyg, provningsprotokoll och drift- och skötselinstruktioner inom 30 dagar efter överlämning."],
+    ["Sköter ni anläggningen efteråt?", "Gärna. Drygt 70 procent av anläggningarna vi bygger ligger i dag under serviceavtal hos oss."],
+    ["Vilket område täcker ni?", "Gävleborg, Dalarna och norra Uppland. Större entreprenader tar vi även i Västernorrland."]
+  ],
+  "certifikat": [
+    {"titel": "Anläggarfirma brandlarm", "text": "SBSC-certifierad med fem certifierade ingenjörer brandlarm fördelade på våra kontor.", "ikon": "skold"},
+    {"titel": "Sprinklerentreprenör", "text": "Certifierad för installation av sprinkler enligt SBF 120, med egen konstruktör.", "ikon": "vatten"},
+    {"titel": "ISO 9001, 14001 och 45001", "text": "Ledningssystem för kvalitet, miljö och arbetsmiljö, certifierade av tredje part sedan 2016.", "ikon": "lov"},
+    {"titel": "Arbete på väg och spår", "text": "Montörerna i infrastrukturprojekt har utbildning enligt Trafikverkets krav och ID06.", "ikon": "vag"}
+  ],
+  "kunder": ["Region Gävleborgs Fastigheter", "Skutskärs Massafabrik", "Moraparken Arenor", "Hudiksvalls Skolfastigheter", "Söderhamns Hamnterminal", "Norrlandsbyggen AB", "Gävle Elinstallation", "Siljans Vårdfastigheter"],
+  "nyheter": [
+    ["2026-10-22", "Etapp tre lämnades över i förtid", "Akutvåningen är i drift igen och arbetet flyttar vidare till röntgen.", "brand"],
+    ["2026-06-03", "Hedenbro tecknar ramavtal för vårdbyggnader", "Avtalet gäller i fyra år och omfattar ombyggnader i hela regionen.", "kontor"],
+    ["2026-02-17", "Tolv nya montörer på ett år", "Kontoret i Mora har vuxit snabbast och flyttar till större lokaler i Noret.", "people"],
+    ["2025-09-30", "Bokslut 2025: 168 miljoner kronor", "Omsättningen ökade med 14 procent, främst genom vård- och infrastrukturprojekt.", "kontor"]
+  ],
+  "kontakt": {"adress": "Utmarksvägen 21", "postnr": "802 91", "ort": "Gävle", "telefon": "070-174 06 07", "epost": "anbud@hedenbro.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16. Projektledare nås via växeln",
+  "omrade": "Gävleborg, Dalarna och norra Uppland",
+  "fot_cta": "Har ni ett förfrågningsunderlag på bordet? Skicka det till vår kalkylavdelning.",
+  "bild": {"panel": "bygg", "hb": "brand"},
+  "text": {
+    "ber_rubrik": "Från byggena just nu",
+    "proj_rubrik": "Entreprenader vi har lämnat över",
+    "process_rubrik": "Från anbud till slutbesiktning",
+    "hb_etikett": "Arbetsmiljö",
+    "omdomen_rubrik": "Byggledare om samarbetet",
+    "faq_rubrik": "Frågor från beställare och entreprenörer",
+    "boka_rubrik": "Skicka underlag för anbud",
+    "boka_falt": ["Namn", "Företag", "E-post", "Projekt, ort och anbudsdatum"],
+    "logos_rubrik": "Beställare och samarbetspartner",
+    "certifikat_rubrik": "Certifierade för stora anläggningar",
+    "bolag_rubrik": "Fyra enheter, en projektorganisation",
+    "ny_rubrik": "Nytt från Utmarksvägen",
+    "kontakt_knapp": "Begär anbud"
+  }
+}

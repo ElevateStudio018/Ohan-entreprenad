@@ -1,0 +1,132 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Asepta Luftteknik AB",
+  "kortnamn": "Asepta",
+  "slug": "asepta",
+  "typ": "Ventilation för vård, labb och renrum",
+  "tagline": "Där partiklar räknas",
+  "slogan": "Asepta bygger, validerar och servar ventilation i operationssalar, isoleringsrum, labb och läkemedelsrenrum i Norrland.",
+  "hero_rubrik": "Luft som går att räkna partikel för partikel",
+  "hero_text": "Operationssalar enligt SIS-TS 39, renrum enligt ISO 14644 och isoleringsrum med tryckvakt. 42 specialister med bas i Sundsvall och uppdrag från Hudiksvall till Luleå.",
+  "intro_rubrik": "Ventilation som en del av vården",
+  "om": [
+    "Ulf Edlund var driftingenjör på sjukhuset i Sundsvall när han 1998 startade Asepta för att serva de operationstak som ingen lokal installatör ville röra. Det första uppdraget var en partikelmätning en söndagsnatt, mellan två akuta operationer.",
+    "I dag är vi 42 anställda på Gesällvägen i Sundsvall och i en mindre verkstad i Härnösand. Sedan 2017 leds företaget av Mona Berglund, som tidigare var operationssjuksköterska och sedan utbildade sig till VVS-ingenjör. Vi arbetar åt regioner, privata vårdgivare, universitetslabb och två läkemedelstillverkare."
+  ],
+  "vagval_rubrik": "Vilken miljö ska skyddas?",
+  "tjanster": [
+    {"titel": "Operationssalar", "ikon": "vard", "href": "verksamhet.html", "text": "Operationstak med omblandande eller deplacerande luft enligt SIS-TS 39."},
+    {"titel": "Isoleringsrum", "ikon": "las", "href": "verksamhet.html", "text": "Undertryck, slussar och tryckvakter som larmar till avdelningen."},
+    {"titel": "Läkemedelsrenrum", "ikon": "fabrik", "href": "verksamhet.html", "text": "Renrumsklass A till D med dokumentation för GMP-revision."},
+    {"titel": "Laboratorier", "ikon": "sok", "href": "verksamhet.html", "text": "Dragskåp, säkerhetsbänkar och punktutsug i forskningslabb."},
+    {"titel": "Validering", "ikon": "graf", "href": "verksamhet.html", "text": "Partikelräkning, återhämtningstid och röktest med fullständig rapport."},
+    {"titel": "HEPA-filterbyte", "ikon": "kugge", "href": "verksamhet.html", "text": "Byte och läcksökning av terminalfilter med DEHS-aerosol."},
+    {"titel": "Sterilcentraler", "ikon": "skold", "href": "verksamhet.html", "text": "Rätt tryckkaskad mellan smutsig, ren och steril sida."},
+    {"titel": "Planera ett stopp", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi lägger arbetet när salen ändå är stängd."}
+  ],
+  "affarsomraden": [
+    {"titel": "Operation och intensivvård", "text": "En operationssal ska ha under 10 CFU per kubikmeter luft vid infektionskänsliga ingrepp. Vi installerar och servar operationstak och mäter att kravet hålls vid varje årlig kontroll.", "text2": "Vi har 61 operationssalar i Norrland på serviceavtal.", "tagg": "ventilation"},
+    {"titel": "Isolering och smittskydd", "text": "Under pandemin byggde vi om 34 vårdrum till isoleringsrum på sju veckor. Nu installerar vi permanenta slussar med tryckvakter och larmöverföring till avdelningens system.", "text2": "Varje rum röktestas och dokumenteras innan det tas i bruk.", "tagg": "interior"},
+    {"titel": "Läkemedel och renrum", "text": "Ett renrum som tillverkar sterila läkemedel granskas av Läkemedelsverket. Vi levererar installation, kvalificering och den dokumentation som revisorerna frågar efter.", "text2": "Kvalificering enligt EU-GMP bilaga 1, med IQ, OQ och PQ.", "tagg": "industri"},
+    {"titel": "Forskning och labb", "text": "Laboratorier har många dragskåp, varierande flöden och höga energikostnader. Vi bygger behovsstyrning som sänker flödet när luckorna stängs utan att säkerheten påverkas.", "text2": "Snittbesparing på 40 procent av fläktenergin i de labb vi har byggt om.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Vårdenheten", "segment": "18 tekniker", "rubrik": "Sjukhus och vårdcentraler", "text": "Installation och service i operationssalar, isoleringsrum och sterilcentraler.", "tagg": "ventilation"},
+    {"namn": "Renrum och GMP", "segment": "9 specialister", "rubrik": "Där revisorn kommer", "text": "Läkemedelsrenrum, kvalificering och dokumentation för tillverkare.", "tagg": "industri"},
+    {"namn": "Mät och validering", "segment": "8 mättekniker", "rubrik": "Siffrorna bakom intyget", "text": "Partikelräkning, CFU-mätning, läcksökning av filter och röktest.", "tagg": "kontor"},
+    {"namn": "Verkstaden i Härnösand", "segment": "7 montörer", "rubrik": "Rostfritt på mått", "text": "Tillverkar slussar, filterhus och kanaldelar i rostfritt stål.", "tagg": "svets"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fyra salar på tre helger", "text": "Operationstaken i Örnsköldsvik byttes fredag kväll till måndag morgon utan inställda planerade operationer.", "tagg": "ventilation"},
+    {"rubrik": "Renrum godkänt vid första revisionen", "text": "Ett nytt renrum för cellterapi godkändes av Läkemedelsverket utan avvikelser.", "tagg": "industri"},
+    {"rubrik": "Ny partikelräknare i fält", "text": "Tre nya instrument gör att vi kan validera två salar parallellt.", "tagg": "kontor"}
+  ],
+  "nyckeltal": [
+    {"varde": "61", "enhet": "salar", "etikett": "Operationssalar på serviceavtal"},
+    {"varde": "<10", "enhet": "CFU/m³", "etikett": "Kravet vi mäter mot"},
+    {"varde": "42", "enhet": "", "etikett": "Specialister i Sundsvall och Härnösand"},
+    {"varde": "1998", "enhet": "", "etikett": "Första nattmätningen"}
+  ],
+  "projekt": [
+    {"namn": "Operationsavdelning plan 4", "ort": "Örnsköldsvik", "typ": "Byte av fyra operationstak", "ar": "2025", "text": "Taken byttes över tre helger med validering innan varje sal öppnade igen.", "tagg": "ventilation"},
+    {"namn": "Cellterapilabbet", "ort": "Sundsvall", "typ": "Renrum klass B och C", "ar": "2025", "text": "Nytt renrum med kvalificering och fullständig GMP-dokumentation.", "tagg": "industri"},
+    {"namn": "Infektionskliniken", "ort": "Sundsvall", "typ": "14 isoleringsrum", "ar": "2024", "text": "Permanenta slussar med tryckvakter kopplade till sjuksköterskornas larm.", "tagg": "interior"},
+    {"namn": "Kemihuset", "ort": "Härnösand", "typ": "Behovsstyrda dragskåp", "ar": "2024", "text": "42 dragskåp fick behovsstyrning och fläktenergin sjönk med 44 procent.", "tagg": "kontor"},
+    {"namn": "Sterilcentralen", "ort": "Hudiksvall", "typ": "Ny tryckkaskad", "ar": "2026", "text": "Tryckskillnaderna mellan zonerna justerades in och larmas nu vid avvikelse.", "tagg": "ventilation"},
+    {"namn": "Dagkirurgin", "ort": "Sollefteå", "typ": "Två nya operationssalar", "ar": "2026", "text": "Installation pågår, validering planerad till januari.", "tagg": "bygg", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Riskbedömning", "text": "Tillsammans med vårdhygien eller kvalitetsansvarig bestämmer vi vilka krav som gäller.", "tagg": "people"},
+    {"titel": "Stoppfönster", "text": "Vi planerar arbetet till helger, nätter eller lov när salen ändå är stängd.", "tagg": "kontor"},
+    {"titel": "Installation under kontroll", "text": "Dammskydd, undertryck och städning enligt vårdhygienens rutiner under hela arbetet.", "tagg": "ventilation"},
+    {"titel": "Validering och intyg", "text": "Partiklar, flöden, tryck och återhämtningstid mäts och dokumenteras innan rummet lämnas tillbaka.", "tagg": "industri"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Patientsäkerhet först, sedan kilowattimmar",
+    "text": "Vård och labb är bland de mest energikrävande byggnaderna som finns, eftersom luften byts så ofta. Vi sänker flödet nattetid i salar som inte används, med automatisk uppstart och mätning som visar att renheten är tillbaka innan nästa operation.",
+    "mal": [["<10", "CFU per kubikmeter i ultrarena salar"], ["–35 %", "energi med nattsänkning i operationssalar"], ["100 %", "av salarna validerade före återlämning"]]
+  },
+  "karriar": {
+    "rubrik": "Teknik som patienterna aldrig ser",
+    "text": "Vi anställer ventilationstekniker, mättekniker och ingenjörer som vill arbeta med de högsta kraven i branschen. Alla nyanställda går en intern utbildning i vårdhygien och renrumsteknik under första halvåret.",
+    "jobb": [["Mättekniker validering", "Sundsvall"], ["Servicetekniker vårdmiljöer", "Sundsvall"], ["Renrumsingenjör", "Sundsvall"], ["Rostfritt-montör", "Härnösand"]]
+  },
+  "kultur": "Alla i företaget får gå bredvid en operationssjuksköterska en dag, så att man vet vem man bygger för.",
+  "citat": {"text": "Jag har stått vid operationsbordet och vet att ingen där tänker på ventilationen. Det är precis så det ska vara.", "namn": "Mona Berglund", "roll": "Vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "De bytte fyra operationstak utan att vi behövde ställa in en enda planerad operation. Valideringsrapporten låg i inkorgen innan måndagens första patient.", "namn": "Karin S.", "ort": "Avdelningschef, Örnsköldsvik"},
+    {"text": "Läkemedelsverkets inspektör hade inga frågor om ventilationen. Dokumentationen från Asepta var bättre än vår egen.", "namn": "Daniel H.", "ort": "Kvalitetschef, Sundsvall"},
+    {"text": "Dragskåpen är lika säkra som förut, men fläktarna går på halvfart när labbet är tomt. Det syns på elräkningen.", "namn": "Eva-Lena M.", "ort": "Labbchef, Härnösand"}
+  ],
+  "faq": [
+    ["Vad är SIS-TS 39?", "En svensk teknisk specifikation för mikrobiologisk renhet i operationsrum. Den anger hur luften ska mätas och vilka nivåer som krävs för olika typer av ingrepp."],
+    ["Kan ni arbeta utan att operationer ställs in?", "I de flesta fall ja. Vi planerar arbetet till helger och nätter och validerar salen innan den lämnas tillbaka."],
+    ["Hur ofta ska en operationssal kontrolleras?", "Vi rekommenderar årlig kontroll av flöden, tryck och partiklar, och mikrobiologisk mätning efter ombyggnad eller filterbyte."],
+    ["Gör ni GMP-kvalificering?", "Ja, vi gör installations-, drift- och prestandakvalificering av renrum enligt EU-GMP bilaga 1."],
+    ["Arbetar ni utanför Västernorrland?", "Ja, vi har avtal i fem regioner i Norrland och tar specialuppdrag i resten av landet."],
+    ["Gör ni vanlig OVK?", "Ja, men bara i de byggnader där vi redan sköter vårdventilationen. För övriga fastigheter hänvisar vi till lokala företag."],
+    ["Hur snabbt kan ni komma vid ett larm?", "Kunder med serviceavtal i Sundsvall och Härnösand får en tekniker på plats inom två timmar, dygnet runt."]
+  ],
+  "certifikat": [
+    {"titel": "Renrum enligt ISO 14644", "text": "Klassning och kontroll av renrum enligt ISO 14644-1 och -2.", "ikon": "sok"},
+    {"titel": "SIS-TS 39 för operationsrum", "text": "Mätning av mikrobiologisk renhet med kalibrerade instrument och ackrediterat labb.", "ikon": "vard"},
+    {"titel": "Vårdhygienisk utbildning", "text": "Alla tekniker är utbildade i basala hygienrutiner och arbete i vårdmiljö.", "ikon": "hjarta"},
+    {"titel": "ISO 9001 och 45001", "text": "Certifierat ledningssystem för kvalitet och arbetsmiljö sedan 2015.", "ikon": "skold"}
+  ],
+  "kunder": ["Region Mittnorrland Fastigheter", "Sundsvalls Sjukhusfastigheter", "Nordcell Terapi AB", "Härnösands Universitetslabb", "Höga Kustens Dagkirurgi", "Hälsinge Vårdfastigheter", "Medilab Norr", "Sollefteå Vårdhus AB"],
+  "nyheter": [
+    ["2026-10-06", "Ny partikelräknare i fält", "Tre instrument gör att vi kan validera två operationssalar samtidigt.", "kontor"],
+    ["2026-04-28", "Renrummet för cellterapi godkänt", "Inga avvikelser vid Läkemedelsverkets inspektion.", "industri"],
+    ["2025-11-12", "Nattsänkning i operationssalar", "Så sparar regionerna energi utan att tumma på renheten.", "ventilation"]
+  ],
+  "kontakt": {"adress": "Gesällvägen 7", "postnr": "856 33", "ort": "Sundsvall", "telefon": "070-174 06 17", "epost": "kontakt@asepta.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7.30–16.30, larmberedskap dygnet runt",
+  "omrade": "Norrland, med bas i Sundsvall och Härnösand",
+  "fot_cta": "Planerar ni ett stopp i en operationssal eller ett renrum? Ring oss i god tid.",
+  "bild": {"panel": "people", "hb": "interior"},
+  "text": {
+    "kontakt_knapp": "Planera ett stopp",
+    "hero_knapp": "Vård och renrum",
+    "ber_etikett": "Från salarna",
+    "ber_rubrik": "Senast validerat",
+    "proj_rubrik": "Salar, labb och renrum",
+    "proj_rubrik_lista": "Vårdmiljöer vi har byggt och validerat",
+    "sida_projekt_titel": "Miljöer",
+    "process_etikett": "Arbete i vårdmiljö",
+    "process_rubrik": "Från riskbedömning till intyg",
+    "hb_etikett": "Ansvar",
+    "hb_lank": "Läs om nattsänkning och validering",
+    "omdomen_rubrik": "Vården och labben om oss",
+    "faq_rubrik": "Om renhet, standarder och stopp",
+    "boka_rubrik": "Beskriv rummet och kraven",
+    "boka_text": "Berätta vilken typ av miljö det gäller och när den kan stängas, så ringer en specialist upp inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "Region eller företag", "Miljö, krav och möjliga stoppdatum"],
+    "logos_rubrik": "Regioner, labb och tillverkare",
+    "certifikat_rubrik": "Standarder och kompetens",
+    "bolag_rubrik": "Fyra specialistenheter",
+    "siffror_etikett": "Asepta i fyra tal",
+    "medarbetare": "Specialisterna"
+  }
+}

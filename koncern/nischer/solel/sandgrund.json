@@ -1,0 +1,127 @@
+{
+  "profil": "nisch",
+  "nisch": "solel",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Sandgrund Energiteknik AB",
+  "kortnamn": "Sandgrund",
+  "slug": "sandgrund",
+  "typ": "Solel för kommuner och offentliga fastigheter",
+  "tagline": "Ramavtal i Värmland",
+  "slogan": "Vi bygger solceller och laddinfrastruktur på skolor, sporthallar och vårdbyggnader – upphandlat enligt LOU och levererat enligt avtalet.",
+  "hero_rubrik": "Skoltak som undervisar och producerar",
+  "hero_text": "Sju värmländska kommuner har ramavtal med oss. Vi bygger på förskolor, simhallar och äldreboenden – med BAS-U, egen projektering och full dokumentation.",
+  "intro_rubrik": "Fjorton år av offentliga tak",
+  "om": [
+    "Sandgrund startades 2012 av Ulrika Svanberg, som hade arbetat som energistrateg på en värmländsk kommun, och elkraftingenjören Tomas Ahlgren. De visste hur svårt det var för en fastighetsförvaltning att hitta en leverantör som kunde både upphandlingar, arbetsmiljöansvar och elkraft.",
+    "Vi är 34 anställda med kontor vid Sandgrundsudden i Karlstad och en filial i Arvika. Vi har byggt 310 anläggningar på offentliga byggnader och har i dag ramavtal med Karlstad, Hammarö, Kil, Forshaga, Grums, Säffle och Arvika."
+  ],
+  "vagval_rubrik": "Vilken byggnad ska få solceller?",
+  "tjanster": [
+    {"titel": "Skolor och förskolor", "ikon": "skola", "href": "verksamhet.html", "text": "Anläggningar som byggs under sommarlovet och följs upp i undervisningen."},
+    {"titel": "Sporthallar och bad", "ikon": "vatten", "href": "verksamhet.html", "text": "Simhallar och ishallar med jämn förbrukning året runt."},
+    {"titel": "Vård och omsorg", "ikon": "vard", "href": "verksamhet.html", "text": "Äldreboenden och vårdcentraler där driften aldrig får störas."},
+    {"titel": "Laddning för kommunbilar", "ikon": "bil", "href": "verksamhet.html", "text": "Laddplatser för hemtjänstens och fastighetsskötarnas fordon."},
+    {"titel": "Avrop på ramavtal", "ikon": "dokument", "href": "verksamhet.html", "text": "Förnyad konkurrensutsättning eller direkt avrop – vi svarar inom tio dagar."},
+    {"titel": "Energikartläggning", "ikon": "sok", "href": "verksamhet.html", "text": "Vilka tak i beståndet ger mest per investerad krona?"},
+    {"titel": "Elevmaterial", "ikon": "lampa", "href": "verksamhet.html", "text": "Lektionsupplägg och skärmar så att eleverna kan följa sin skolas el."},
+    {"titel": "Kontakta upphandling", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "En kontaktperson för varje kommun vi har avtal med."}
+  ],
+  "affarsomraden": [
+    {"titel": "Skolor och förskolor", "text": "Skolor står tomma i juli, men höstterminen startar när solen fortfarande ger mycket. Vi bygger under sommarlovet så att inga elever finns på gården under montaget.", "text2": "Varje skola får en skärm i entrén och ett lektionsupplägg för mellanstadiet.", "tagg": "solel"},
+    {"titel": "Bad, idrott och ishallar", "text": "Simhallar och ishallar förbrukar mycket el jämnt över dygnet, vilket ger nästan hundra procents egenanvändning. Det gör dem till de mest lönsamma taken i en kommuns bestånd.", "text2": "Vi samordnar med takentreprenören när tätskiktet ändå ska bytas.", "tagg": "anlaggning"},
+    {"titel": "Vård och omsorg", "text": "På äldreboenden arbetar vi med avbrottsfria omkopplingar och särskilda tider för montage nära boendes fönster. Allt planeras med enhetschefen.", "text2": "Batterier kan kombineras med reservkraft för kritisk drift.", "tagg": "bostad"},
+    {"titel": "Laddinfrastruktur och fordonsdepåer", "text": "Hemtjänsten byter till elbilar och behöver ladda 30 bilar på en natt. Vi bygger laddning med lastbalansering och solceller på carportar vid depåerna.", "text2": "Debitering och statistik per förvaltning ingår.", "tagg": "el"}
+  ],
+  "bolag": [
+    {"namn": "Anbud & avtal", "segment": "Upphandling", "rubrik": "Vi läser förfrågningsunderlaget två gånger", "text": "Två anbudsansvariga som svarar på upphandlingar och håller ordning på avrop, prisjusteringar och uppföljning.", "tagg": "kontor"},
+    {"namn": "Projektering & BAS", "segment": "Konstruktion och arbetsmiljö", "rubrik": "Ritningar som klarar en granskning", "text": "Konstruktörer och BAS-P som tar fram relationshandlingar, hållfasthetsberäkningar och arbetsmiljöplaner.", "tagg": "bygg"},
+    {"namn": "Entreprenad", "segment": "Montage och el", "rubrik": "Tre lag som bygger på sommarlovet", "text": "Sexton montörer och elektriker som bygger på skolor i juli och på badhus resten av året.", "tagg": "solel"},
+    {"namn": "Sandgrund Arvika", "segment": "Västra Värmland", "rubrik": "Nära Arvika, Eda och Årjäng", "text": "Sex medarbetare som täcker västra Värmland och avrop från Arvika kommun.", "tagg": "stad"}
+  ],
+  "berattelser": [
+    {"rubrik": "Elva skolor på ett sommarlov", "text": "Mellan midsommar och skolstarten byggde vi elva anläggningar på skolor i Karlstad – utan en enda försening.", "tagg": "solel"},
+    {"rubrik": "Ishallen i Kil täcker halva sin kyla", "text": "Anläggningen på 420 kW driver kylmaskinerna under augustiträningen.", "tagg": "anlaggning"},
+    {"rubrik": "Nytt ramavtal med Säffle", "text": "Avtalet gäller i fyra år och omfattar solceller och laddning på 38 kommunala fastigheter.", "tagg": "kontor"}
+  ],
+  "nyckeltal": [
+    {"varde": "7", "enhet": "kommuner", "etikett": "Med ramavtal i Värmland"},
+    {"varde": "310", "enhet": "", "etikett": "Offentliga anläggningar"},
+    {"varde": "18,6", "enhet": "MW", "etikett": "Installerad effekt"},
+    {"varde": "34", "enhet": "anställda", "etikett": "I Karlstad och Arvika"}
+  ],
+  "projekt": [
+    {"namn": "Sandbäcksskolan", "ort": "Karlstad", "typ": "Skola, 210 kW", "ar": "2025", "text": "Byggd under sommarlovet, med skärm i entrén och lektionsmaterial.", "tagg": "solel"},
+    {"namn": "Kils ishall", "ort": "Kil", "typ": "Ishall, 420 kW", "ar": "2025", "text": "Solcellerna driver kylan under augustis försäsong.", "tagg": "anlaggning"},
+    {"namn": "Hammarö simhall", "ort": "Skoghall", "typ": "Badhus, 180 kW", "ar": "2024", "text": "Samordnat med takbyte och ny ventilation.", "tagg": "tak"},
+    {"namn": "Äldreboendet Solgläntan", "ort": "Forshaga", "typ": "Vård, 95 kW", "ar": "2024", "text": "Montage med fasta tider och omkoppling på natten.", "tagg": "bostad"},
+    {"namn": "Hemtjänstdepån Grums", "ort": "Grums", "typ": "Laddning, 32 platser", "ar": "2025", "text": "Solcarport och laddning för hela hemtjänstens fordonsflotta.", "tagg": "el"},
+    {"namn": "Säffle kommunhus", "ort": "Säffle", "typ": "Kontor, 140 kW", "ar": "2026", "text": "Första avropet på det nya ramavtalet, klart före årsskiftet.", "tagg": "kontor", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Upphandling eller avrop", "text": "Kommunen upphandlar eller avropar på ramavtalet. Vi lämnar svar inom tio arbetsdagar.", "tagg": "kontor"},
+    {"titel": "Projektering och BAS-P", "text": "Hållfasthet, elschema, arbetsmiljöplan och tidplan godkänns av förvaltningen.", "tagg": "bygg"},
+    {"titel": "Montage enligt verksamheten", "text": "Vi bygger när skolan är stängd eller enligt boendets dagsrytm.", "tagg": "solel"},
+    {"titel": "Överlämning och uppföljning", "text": "Relationshandlingar, drift- och skötselinstruktioner och tolv månaders produktionsrapport.", "tagg": "el"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Offentliga pengar ska gå att följa",
+    "text": "Vi redovisar varje projekt öppet: investering, produktion och avvikelser mot kalkylen. Kommunerna får en årlig rapport per fastighet som kan användas direkt i klimatredovisningen.",
+    "mal": [["100 %", "av projekten med relationshandlingar vid överlämning"], ["10 dagar", "längsta svarstid på avrop"], ["0", "allvarliga arbetsmiljöincidenter sedan 2019"]]
+  },
+  "karriar": {"rubrik": "Bygg för kommunerna du själv bor i", "text": "Våra projekt sitter på skolor där medarbetarnas barn går och simhallar där de tränar. Vi har kollektivavtal, friskvårdsbidrag och fasta arbetstider.", "jobb": [["Elektriker", "Karlstad"], ["Anbudsingenjör", "Karlstad"], ["Montör solceller", "Arvika"], ["BAS-P / projektör", "Karlstad"]]},
+  "kultur": "Varje höst bjuder vi in elever från en skola vi byggt på till en dag i verkstaden på Sandgrundsudden.",
+  "citat": {"text": "En kommun kan inte ringa en kompis för att få solceller. Den måste upphandla, dokumentera och kunna förklara varje krona för fullmäktige. Vi har byggt hela företaget kring det.", "namn": "Ulrika Svanberg", "roll": "Vd och grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Elva skolor på ett sommarlov, och inte en enda avvikelse i slutbesiktningen. Dokumentationen var klar dagen efter.", "namn": "Lars-Göran P.", "ort": "Karlstad"},
+    {"text": "Montörerna anpassade sig efter boendets måltider och vilotider. Ingen av de boende klagade på buller.", "namn": "Mona S.", "ort": "Forshaga"},
+    {"text": "Eleverna i femman räknade själva ut hur mycket skolan sparat under höstterminen. Det var Sandgrunds material som gjorde det möjligt.", "namn": "Petra L.", "ort": "Kil"}
+  ],
+  "faq": [
+    ["Kan vi avropa direkt utan ny upphandling?", "Ja, om er kommun har ett gällande ramavtal med oss. Beroende på avtalets fördelningsnyckel görs avropet direkt eller via förnyad konkurrensutsättning."],
+    ["Lämnar ni anbud i andra län?", "Vi lämnar anbud i Värmland, Dalsland och norra Örebro län. Längre bort samarbetar vi med lokala installatörer."],
+    ["Hur hanterar ni arbetsmiljöansvaret?", "Vi kan ta rollen som BAS-P och BAS-U och upprättar arbetsmiljöplan för varje projekt. På skolor bygger vi alltid avspärrat från verksamheten."],
+    ["Kan solcellerna kopplas till fastighetens styrsystem?", "Ja, vi levererar data via Modbus eller öppna API:er till de vanligaste systemen för fastighetsautomation."],
+    ["Vad ingår i elevmaterialet?", "Ett lektionsupplägg för årskurs 4–6, en skärm i entrén och ett webbgränssnitt där eleverna kan följa produktionen timme för timme."],
+    ["Hur lång är garantin?", "Fem år på entreprenaden enligt AB 04, tolv år på panelernas material och 25 år på effekten. Garantitiden kan förlängas med serviceavtal."],
+    ["Bygger ni åt privatpersoner?", "Nej. Vi arbetar bara med offentliga beställare och kommunala bostadsbolag."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001, 14001 och 45001", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö – krav i de flesta offentliga upphandlingar.", "ikon": "skold"},
+    {"titel": "BAS-P och BAS-U", "text": "Fyra medarbetare är utbildade byggarbetsmiljösamordnare för planering och utförande.", "ikon": "hjalm"},
+    {"titel": "Elsäkerhetsverket, behörighet AB", "text": "Registrerat elinstallationsföretag med egenkontrollprogram anpassat för offentliga entreprenader.", "ikon": "blixt"},
+    {"titel": "Kollektivavtal och ID06", "text": "Kollektivavtal med Elektrikerförbundet och ID06 på alla arbetsplatser.", "ikon": "folk"}
+  ],
+  "kunder": ["Karlstads kommun", "Hammarö kommun", "Kils kommun", "Forshaga kommun", "Grums kommun", "Säffle kommun", "Arvika kommun", "Klarälvens Skolfastigheter AB"],
+  "nyheter": [
+    ["2026-09-18", "Elva skolor klara före skolstart", "Sommarlovets montage blev det största hittills.", "solel"],
+    ["2026-06-03", "Ramavtal med Säffle kommun", "Fyra år och 38 fastigheter – första avropet är kommunhuset.", "kontor"],
+    ["2026-02-11", "Nytt elevmaterial för årskurs 4–6", "Tre lektioner om energi, med data från elevernas egen skola.", "people"],
+    ["2025-10-27", "Klimatrapporten för 2025 är klar", "Varje kommun har fått produktion och avvikelser per fastighet.", "natur"]
+  ],
+  "kontakt": {"adress": "Sandgrundsgatan 4", "postnr": "652 26", "ort": "Karlstad", "telefon": "070-174 06 19", "epost": "upphandling@sandgrundenergi.se", "orgnr": ""},
+  "oppettider": "Mån–fre 07.30–16.30",
+  "omrade": "Värmland, Dalsland och norra Örebro län",
+  "fot_cta": "Planerar ni en upphandling eller ett avrop? Ring så skickar vi referenser och avtalsvillkor.",
+  "bild": {"panel": "stad", "hb": "solel"},
+  "text": {
+    "kontakt_knapp": "Avrop och anbud",
+    "hero_knapp": "Så avropar ni",
+    "hero_lank": "Offentliga referenser",
+    "vagval_etikett": "Fastighetstyp",
+    "ber_rubrik": "Senaste avropen",
+    "proj_rubrik": "Skolor, bad och boenden i drift",
+    "process_rubrik": "Från avrop till relationshandling",
+    "hb_etikett": "Öppen redovisning",
+    "hb_lank": "Läs om vår rapportering",
+    "omdomen_rubrik": "Förvaltare och rektorer om oss",
+    "faq_rubrik": "Frågor från upphandlare och förvaltare",
+    "boka_rubrik": "Kontakta vår anbudsavdelning",
+    "boka_text": "Skriv vilken kommun eller förvaltning ni representerar och vad det gäller, så svarar en anbudsansvarig inom en arbetsdag.",
+    "boka_falt": ["Namn", "Kommun eller förvaltning", "E-post", "Avrop, upphandling eller fråga"],
+    "logos_rubrik": "Kommuner med ramavtal",
+    "certifikat_rubrik": "Det upphandlare brukar kräva",
+    "bolag_rubrik": "Anbud, projektering, montage",
+    "ny_rubrik": "Avtal och nyheter",
+    "medarbetare": "Medarbetarna"
+  }
+}

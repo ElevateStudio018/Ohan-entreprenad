@@ -1,0 +1,130 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ripa Ventilation AB",
+  "kortnamn": "Ripa",
+  "slug": "ripa",
+  "typ": "Ventilationsentreprenör i Malmfälten",
+  "tagline": "Vi bygger nya Kiruna",
+  "slogan": "Ripa installerar ventilation i husen som byggs när Kiruna flyttar – förtillverkat inomhus, monterat på rekordtid.",
+  "hero_rubrik": "En stad flyttar. Luften följer med.",
+  "hero_text": "26 montörer, en monteringshall på 1 400 m² och schaktmoduler som byggs klara i värmen. Vi har ventilerat 38 nya hus i Kirunas centrum sedan 2016.",
+  "intro_rubrik": "Nybyggt i arktiskt klimat",
+  "om": [
+    "Mikael Kuoppa och Lena Rantatalo var montör och projektledare åt ett sydsvenskt installationsföretag som skickade upp folk på veckopendling till Kiruna. 2013 insåg de att stadsflytten skulle pågå i tjugo år och startade ett lokalt företag i stället för att flyga hem varje fredag.",
+    "I dag är vi 26 anställda med kontor och monteringshall på Industrivägen. Vi bygger aggregatrum och kanalschakt som moduler under vintern, när det är minus trettio ute, och lyfter in dem när stommen står. Det har kortat montagetiden på plats med ungefär en tredjedel."
+  ],
+  "vagval_rubrik": "Vad är det som ska byggas?",
+  "tjanster": [
+    {"titel": "Ventilation i nyproduktion", "ikon": "kran", "href": "verksamhet.html", "text": "Hela ventilationsentreprenaden, från bygghandling till godkänd OVK."},
+    {"titel": "Schaktmoduler", "ikon": "lada", "href": "verksamhet.html", "text": "Kanalschakt och aggregatrum förtillverkade i vår hall och lyfta på plats."},
+    {"titel": "BIM-samordning", "ikon": "ritning", "href": "verksamhet.html", "text": "Vi ritar ventilationen i samma modell som el, rör och stomme."},
+    {"titel": "Arktisk FTX", "ikon": "vind", "href": "verksamhet.html", "text": "Avfrostning och förvärmning som fungerar ned till minus 40."},
+    {"titel": "Personalbostäder", "ikon": "hus", "href": "verksamhet.html", "text": "Snabba projekt för gruvornas och entreprenörernas boenden."},
+    {"titel": "Första OVK", "ikon": "dokument", "href": "verksamhet.html", "text": "Funktionskontroll innan inflyttning, med protokoll klart vid slutbesiktning."},
+    {"titel": "Drift första året", "ikon": "kalender", "href": "verksamhet.html", "text": "Vi följer upp flöden och larm under det första vinterhalvåret."},
+    {"titel": "Skicka bygghandlingar", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Vi räknar på entreprenader från 2 miljoner kronor."}
+  ],
+  "affarsomraden": [
+    {"titel": "Nya stadskärnan", "text": "Bostäder, kontor, butiker och hotell i det nya centrum öster om Luossavaara. Vi arbetar som underentreprenör åt byggföretagen och i egen totalentreprenad åt fastighetsägare.", "text2": "38 hus färdiga och sex under byggnad hösten 2026.", "tagg": "bygg"},
+    {"titel": "Prefabricerade moduler", "text": "Byggsäsongen för montage under tak är lång, men inlyft och anslutning går bäst när det inte är snöstorm. Därför bygger vi schakt, aggregatrum och fördelningslådor färdiga i hallen och testar dem innan de lämnar oss.", "text2": "En modul monteras och ansluts på i snitt fyra timmar.", "tagg": "industri"},
+    {"titel": "Arktiska installationer", "text": "Ett vanligt FTX-aggregat fryser igen vid minus 25. Vi dimensionerar förvärmning, frysskydd och kondensavledning efter klimatet i Malmfälten och lägger alla intag skyddade mot snödrev.", "text2": "Vi har dokumenterat drift ned till minus 41,2 grader i januari 2024.", "tagg": "ventilation"},
+    {"titel": "Gällivare och Svappavaara", "text": "Även Malmberget avvecklas och Gällivare bygger nytt. Vi har ett arbetslag stationerat där och tar uppdrag i hela Malmfälten.", "text2": "Tolv pågående eller färdiga projekt i Gällivare kommun.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Monteringshallen", "segment": "8 montörer och plåtslagare", "rubrik": "Ett bygge inomhus", "text": "Tillverkar och provar schaktmoduler, aggregatrum och kanalsektioner året om.", "tagg": "industri"},
+    {"namn": "Byggarbetsplatserna", "segment": "14 montörer", "rubrik": "Lyfter in och ansluter", "text": "Tre arbetslag i Kiruna och ett i Gällivare som tar modulerna hela vägen till drift.", "tagg": "bygg"},
+    {"namn": "Projektering och BIM", "segment": "4 ingenjörer", "rubrik": "Ritat innan det byggs", "text": "Dimensionerar, ritar i 3D och samordnar med övriga installatörer.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Hotellet i nya centrum invigt", "text": "212 rum, fyra aggregat och 96 schaktmoduler – montaget tog nio veckor i stället för fjorton.", "tagg": "stad"},
+    {"rubrik": "Minus 38 och full drift", "text": "Under kylan i februari stod inte ett enda av våra aggregat still.", "tagg": "ventilation"},
+    {"rubrik": "Arbetslag på plats i Gällivare", "text": "Fem montörer bor och arbetar nu på heltid i Gällivare.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "38", "enhet": "hus", "etikett": "I Kirunas nya centrum"},
+    {"varde": "−41,2", "enhet": "°C", "etikett": "Lägsta dokumenterade drift"},
+    {"varde": "1 400", "enhet": "m²", "etikett": "Monteringshall för moduler"},
+    {"varde": "−33 %", "enhet": "", "etikett": "Montagetid på plats med moduler"}
+  ],
+  "projekt": [
+    {"namn": "Hotell vid stadstorget", "ort": "Kiruna", "typ": "Totalentreprenad ventilation", "ar": "2025", "text": "212 rum ventilerade med 96 förtillverkade schaktmoduler.", "tagg": "stad"},
+    {"namn": "Kv. Kaolinet", "ort": "Kiruna", "typ": "Flerbostadshus, 74 lgh", "ar": "2025", "text": "Lägenhetsaggregat med frysskydd och avfrostning anpassade för minus 40.", "tagg": "bostad"},
+    {"namn": "Nya simhallens personaldel", "ort": "Kiruna", "typ": "Kontor och omklädning", "ar": "2024", "text": "Ventilation i omklädningsrum och personalytor, samordnad i en gemensam BIM-modell.", "tagg": "bygg"},
+    {"namn": "Personalbyn Tuolluvaara", "ort": "Kiruna", "typ": "Moduler till 180 bostäder", "ar": "2024", "text": "Hela ventilationen levererad som prefabricerade enheter på sju veckor.", "tagg": "industri"},
+    {"namn": "Vårdcentralen i Gällivare", "ort": "Gällivare", "typ": "Nybyggnad", "ar": "2026", "text": "Behovsstyrd ventilation i väntrum och behandlingsrum, klar till öppning i augusti.", "tagg": "ventilation"},
+    {"namn": "Kv. Malmen 3", "ort": "Kiruna", "typ": "Kontor och butiker", "ar": "2026", "text": "Sex våningar med schaktmoduler som lyfts in under november.", "tagg": "bygg", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Bygghandlingar och kalkyl", "text": "Vi går igenom handlingarna och lämnar pris inom tre veckor, med förslag på vad som kan förtillverkas.", "tagg": "kontor"},
+    {"titel": "Modellen", "text": "Ventilationen ritas i projektets BIM-modell och krockar med el och rör löses innan något kapas.", "tagg": "bygg"},
+    {"titel": "Hallen", "text": "Moduler byggs, trycktestas och märks i vår hall medan stommen reses.", "tagg": "industri"},
+    {"titel": "Lyft, anslut, besikta", "text": "Modulerna lyfts in, ansluts och injusteras. Första OVK är klar till slutbesiktningen.", "tagg": "ventilation"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mindre spill när man bygger inomhus",
+    "text": "När kanaler kapas i en uppvärmd hall i stället för på en snöig byggarbetsplats blir spillet mindre och kvaliteten jämnare. Vi samlar plåtrester till en skrothandlare i Kiruna och kör modulerna i fullastade transporter.",
+    "mal": [["–60 %", "plåtspill jämfört med traditionellt montage"], ["100 %", "av plåtresterna går till återvinning"], ["94 %", "täta kanaler vid första provtryckning"]]
+  },
+  "karriar": {
+    "rubrik": "Hemma varje kväll, i stället för veckopendling",
+    "text": "Stadsflytten pågår till mitten av 2030-talet. Hos oss bygger du den i stället för att flyga in och ut – och får arbeta inomhus i hallen när det är som kallast.",
+    "jobb": [["Ventilationsmontör", "Kiruna"], ["BIM-projektör ventilation", "Kiruna"], ["Montör, arbetslag Gällivare", "Gällivare"]]
+  },
+  "kultur": "Vi stänger hallen tidigt den dag solen kommer tillbaka i januari och fikar ute, oavsett temperatur.",
+  "citat": {"text": "Vi flyttade inte hit för att bygga ett hus. Vi flyttade hit för att bygga en hel stad, och det kommer att ta resten av vårt yrkesliv.", "namn": "Lena Rantatalo", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Schaktmodulerna kom märkta och färdiga. Vi sparade fem veckor på hotellbygget och ingen behövde stå på ett tak i februari.", "namn": "Henrik B.", "ort": "Platschef, Kiruna"},
+    {"text": "Ripa var den enda ventilationsentreprenören som hade folk som bodde här. Det märks när något behöver lösas en söndag.", "namn": "Sanna P.", "ort": "Fastighetsägare, Kiruna"},
+    {"text": "Vi hade inga krockar mellan ventilation och sprinkler i modellen. Det har jag aldrig varit med om tidigare.", "namn": "Tomas E.", "ort": "Projektledare, Gällivare"}
+  ],
+  "faq": [
+    ["Vilka projekt tar ni?", "Nybyggnad och större ombyggnader från ungefär 2 miljoner kronor i ventilationsentreprenad. Mindre servicejobb hänvisar vi till lokala serviceföretag."],
+    ["Vad är en schaktmodul?", "En förtillverkad enhet med kanaler, spjäll och ibland aggregat, byggd i vår hall, provtryckt och klar att lyftas in i huset."],
+    ["Klarar FTX verkligen minus 40?", "Ja, om det dimensioneras rätt. Vi använder förvärmning, frysskydd och kondensavledning anpassat för Malmfälten och följer upp driften första vintern."],
+    ["Arbetar ni utanför Malmfälten?", "Vi tar uppdrag i hela Norrbotten när det passar vår planering, men huvuddelen av arbetet är i Kiruna och Gällivare."],
+    ["Kan ni rita i vår BIM-modell?", "Ja, vi arbetar i de vanliga formaten och samordnar gärna från tidigt skede."],
+    ["Gör ni OVK själva?", "Vi gör första OVK på våra egna anläggningar med egen certifierad funktionskontrollant. Återkommande OVK kan andra företag ta över."]
+  ],
+  "certifikat": [
+    {"titel": "Funktionskontrollant K", "text": "Egen certifierad kontrollant för första OVK i stora byggnader.", "ikon": "dokument"},
+    {"titel": "AMA VVS & Kyl", "text": "Montage och provtryckning enligt gällande AMA och projektets tekniska beskrivning.", "ikon": "ritning"},
+    {"titel": "Säkra lyft", "text": "Utbildade signalmän och anslagsmän för inlyft av moduler med mobilkran.", "ikon": "kran"},
+    {"titel": "Miljöledning ISO 14001", "text": "Certifierat miljöledningssystem sedan 2021.", "ikon": "lov"}
+  ],
+  "kunder": ["Malmfältens Bostadsbolag", "Kiruna Centrumfastigheter", "Tuolluvaara Personalboenden", "Nya Torget Hotell AB", "Gällivare Vårdfastigheter", "Arktiska Bygg i Norr", "Kv. Kaolinet Bostäder"],
+  "nyheter": [
+    ["2026-09-08", "Sex hus samtidigt i höst", "Vi har vårt största orderläge hittills och söker fler montörer.", "bygg"],
+    ["2026-02-17", "Minus 38 utan stopp", "Driftdata från vintern visar att frysskydden fungerade som beräknat.", "ventilation"],
+    ["2025-05-05", "Hallen byggs ut", "Monteringshallen växer från 900 till 1 400 kvadratmeter.", "industri"]
+  ],
+  "kontakt": {"adress": "Industrivägen 14", "postnr": "981 38", "ort": "Kiruna", "telefon": "070-174 06 14", "epost": "anbud@ripaventilation.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–15.30",
+  "omrade": "Kiruna, Gällivare och övriga Malmfälten",
+  "fot_cta": "Bygger ni i Malmfälten? Skicka handlingarna – vi lämnar pris inom tre veckor.",
+  "bild": {"panel": "bygg", "hb": "industri"},
+  "text": {
+    "kontakt_knapp": "Skicka handlingar",
+    "hero_knapp": "Så bygger vi moduler",
+    "hero_lank": "Hus vi har ventilerat",
+    "ber_etikett": "Från bygget",
+    "ber_rubrik": "Nytt från stadsflytten",
+    "proj_rubrik": "Hus i den nya staden",
+    "proj_rubrik_lista": "Entreprenader i Malmfälten",
+    "sida_projekt_titel": "Entreprenader",
+    "process_etikett": "Hall före bygge",
+    "process_rubrik": "Från modell till inlyft modul",
+    "hb_etikett": "Resurser",
+    "omdomen_rubrik": "Platschefer och beställare",
+    "faq_rubrik": "Om moduler, kyla och entreprenader",
+    "boka_rubrik": "Räkna på ert projekt",
+    "boka_text": "Bifoga bygghandlingar eller en länk till förfrågningsunderlaget, så återkommer en kalkylator inom tre veckor.",
+    "boka_falt": ["Namn", "Telefon", "Företag", "Projekt och tidplan"],
+    "logos_rubrik": "Byggherrar och fastighetsägare",
+    "certifikat_rubrik": "Behörigheter för nybyggnad",
+    "bolag_rubrik": "Hall, bygge och modell",
+    "siffror_etikett": "Ripa i Malmfälten",
+    "medarbetare": "Montörerna"
+  }
+}

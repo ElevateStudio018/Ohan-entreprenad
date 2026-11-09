@@ -1,0 +1,131 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Trapphuset Brandskydd AB",
+  "kortnamn": "Trapphuset",
+  "slug": "trapphuset-brandskydd",
+  "typ": "Brandskydd för bostadsrättsföreningar",
+  "tagline": "Bara bostadsrättsföreningar",
+  "slogan": "Vi tar över brandskyddet i bostadsrättsföreningar runt Vättern – för ett fast pris per lägenhet, så att styrelsen kan ägna mötena åt annat.",
+  "hero_rubrik": "Styrelsen slipper tänka på brandskyddet",
+  "hero_text": "Brandskyddsrond, släckare, brandvarnare och hela det systematiska brandskyddsarbetet för 210 föreningar i Jönköping, Huskvarna och Habo. Fast pris per lägenhet och år.",
+  "intro_rubrik": "En firma, en kundgrupp, 210 föreningar",
+  "om": [
+    "Mattias Öhman satt i styrelsen för en förening på Öster i Jönköping när räddningstjänsten kom på tillsyn 2016 och hittade barnvagnar i trapphuset, en tom släckare i soprummet och ingen dokumentation alls. Ingen i styrelsen visste vem som var ansvarig. Året därpå startade han Trapphuset tillsammans med Josefin Aho, som hade arbetat som brandinspektör i Värnamo.",
+    "Vi har valt att bara arbeta med bostadsrättsföreningar och samfälligheter. Det gör att vi kan stadgarna, vet vad en ny ordförande behöver få veta och har mallar för allt från informationslappen till nyinflyttade till protokollet som försäkringsbolaget vill se. I dag är vi nio anställda och sköter brandskyddet i drygt 9 800 lägenheter."
+  ],
+  "vagval_rubrik": "Hur stor är er förening?",
+  "tjanster": [
+    {"titel": "Brandskyddsrond", "ikon": "sok", "href": "verksamhet.html", "text": "Vi går igenom trapphus, källare, vind, garage och soprum två gånger om året."},
+    {"titel": "Digital SBA-pärm", "ikon": "dokument", "href": "verksamhet.html", "text": "Ritningar, protokoll och åtgärdslistor samlade på ett ställe som hela styrelsen når."},
+    {"titel": "Släckare i allmänna ytor", "ikon": "eld", "href": "verksamhet.html", "text": "Kontroll, byte och märkning av släckare och brandfiltar i föreningens utrymmen."},
+    {"titel": "Brandvarnare i lägenheter", "ikon": "hem", "href": "verksamhet.html", "text": "Föreningsvis byte av brandvarnare vart tionde år, med avprickning per lägenhet."},
+    {"titel": "Styrelseutbildning", "ikon": "skola", "href": "verksamhet.html", "text": "Två timmar om ansvar, tillsyn och rutiner – på en vardagskväll i er föreningslokal."},
+    {"titel": "Brandcellsgränser", "ikon": "las", "href": "verksamhet.html", "text": "Vi kontrollerar lägenhetsdörrar, dörrstängare och genomföringar i schakt."},
+    {"titel": "Priser per lägenhet", "ikon": "portfolj", "href": "priser.html", "text": "Tre nivåer med fast årspris – inga timdebiteringar."},
+    {"titel": "Boka en genomgång", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Första ronden och ett skriftligt utlåtande ingår när ni tecknar avtal."}
+  ],
+  "affarsomraden": [
+    {"titel": "Systematiskt brandskyddsarbete", "text": "Enligt lagen om skydd mot olyckor ska föreningen kunna visa hur brandskyddet fungerar. Vi skriver organisationen, rutinerna och kontrollplanen och sköter uppföljningen åt er.", "text2": "När styrelsen byts ut får de nya ledamöterna en genomgång på 45 minuter med oss.", "tagg": "brand"},
+    {"titel": "Ronder i allmänna utrymmen", "text": "Två gånger om året går en tekniker igenom varje trapphus, källargång och cykelrum. Lösa föremål fotograferas, och föreningen får ett färdigt utskick till de boende.", "text2": "Det är just trapphusen räddningstjänsten tittar mest på vid tillsyn.", "tagg": "bostad"},
+    {"titel": "Utrustning och brandvarnare", "text": "Vi kontrollerar släckare, brandfiltar och skyltar och byter brandvarnare i alla lägenheter samma dag, trapphus för trapphus. De boende får en lapp i brevlådan en vecka innan.", "text2": "Den som inte är hemma får en ny tid eller kan hämta brandvarnaren hos oss på Kålgårdsgatan.", "tagg": "hem"},
+    {"titel": "Brandceller och dörrar", "text": "En lägenhetsdörr utan fungerande dörrstängare eller med borttagna tätningslister håller inte röken ute. Vi inventerar dörrar och genomföringar och tar fram en åtgärdsplan med kostnad.", "text2": "Åtgärderna kan läggas in i föreningens underhållsplan över flera år.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Kundansvariga", "segment": "En kontakt per förening", "rubrik": "Ni ringer alltid samma person", "text": "Tre kundansvariga delar på föreningarna geografiskt – Öster och Huskvarna, Väster och Råslätt, samt Habo och Bankeryd.", "tagg": "people"},
+    {"namn": "Tekniker", "segment": "Ronder och utrustning", "rubrik": "Fyra tekniker med egna bilar", "text": "Teknikerna går ronderna, servar släckarna och byter cirka 2 400 brandvarnare om året.", "tagg": "brand"},
+    {"namn": "Styrelsestöd", "segment": "SBA och utbildning", "rubrik": "Vi svarar på det stadgarna inte säger", "text": "Josefin Aho och en kollega skriver dokumentationen, håller i styrelseutbildningarna och följer med vid räddningstjänstens tillsyn.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Tillsyn utan anmärkning på Strandängen", "text": "Räddningstjänsten granskade föreningens brandskydd i oktober och hittade inga brister.", "tagg": "bostad"},
+    {"rubrik": "Brandvarnarbyte i 640 lägenheter", "text": "Fyra tekniker bytte alla brandvarnare i en förening på Råslätt på tre dagar.", "tagg": "hem"},
+    {"rubrik": "Ny mall för nyinflyttade", "text": "Ett informationsblad på svenska, engelska, arabiska och somaliska om vad som får stå i trapphuset.", "tagg": "brand"}
+  ],
+  "nyckeltal": [
+    {"varde": "210", "enhet": "föreningar", "etikett": "Med avtal hos oss"},
+    {"varde": "9 800", "enhet": "lägenheter", "etikett": "Under vårt brandskydd"},
+    {"varde": "fr. 26", "enhet": "kr/mån", "etikett": "Per lägenhet i Grundavtalet"},
+    {"varde": "9", "enhet": "anställda", "etikett": "Bara för föreningar"}
+  ],
+  "projekt": [
+    {"namn": "Brf Strandängen", "ort": "Jönköping", "typ": "SBA och tillsyn", "ar": "2026", "text": "Ny dokumentation och förberedelse inför tillsyn i en förening med 112 lägenheter vid Munksjön.", "tagg": "bostad"},
+    {"namn": "Brf Råslätt Södra", "ort": "Jönköping", "typ": "Brandvarnarbyte", "ar": "2026", "text": "640 brandvarnare med tioårsbatteri bytta på tre dagar, med informationslappar på fyra språk.", "tagg": "hem"},
+    {"namn": "Brf Huskvarna Brunn", "ort": "Huskvarna", "typ": "Dörrinventering", "ar": "2025", "text": "Genomgång av 86 lägenhetsdörrar från 1960-talet och en åtgärdsplan över fem år.", "tagg": "bygg"},
+    {"namn": "Brf Habo Kyrkbacke", "ort": "Habo", "typ": "Kompletta avtalet", "ar": "2025", "text": "Ronder, släckare, garage och styrelseutbildning för en nybyggd förening med 48 radhus.", "tagg": "bostad"},
+    {"namn": "Samfälligheten Bankeryds Ängar", "ort": "Bankeryd", "typ": "Garage och förråd", "ar": "2025", "text": "Släckare och brandfiltar i fyra garagelängor och regler för laddning av elcyklar.", "tagg": "brand"},
+    {"namn": "Brf Västra Torget", "ort": "Jönköping", "typ": "Övertagande av avtal", "ar": "2024", "text": "En förening med 230 lägenheter som tidigare hade tre olika leverantörer för brandskyddet.", "tagg": "stad"}
+  ],
+  "process": [
+    {"titel": "Gratis genomgång", "text": "En kundansvarig går runt i fastigheten med någon från styrelsen och skriver ett kort utlåtande.", "tagg": "bostad"},
+    {"titel": "Fast pris per lägenhet", "text": "Ni väljer nivå och får ett årspris som styrelsen kan ta med i budgeten direkt.", "tagg": "kontor"},
+    {"titel": "Första ronden", "text": "Vi fotograferar alla allmänna utrymmen, märker släckare och lägger upp den digitala pärmen.", "tagg": "brand"},
+    {"titel": "Rapport till styrelsen", "text": "Efter varje rond får styrelsen en sida med vad som är gjort och vad som behöver beslutas.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje förening ska klara en tillsyn i morgon",
+    "text": "Vårt mål är att ingen av våra föreningar ska få ett föreläggande från räddningstjänsten. Därför går vi ronder oftare än lagen kräver, och vi följer upp varje anmärkning tills den är åtgärdad.",
+    "mal": [["0", "förelägganden hos avtalskunder 2025"], ["2", "ronder per år i varje förening"], ["5 dagar", "till skriftlig rapport efter ronden"]]
+  },
+  "karriar": {
+    "rubrik": "Ett tryggt jobb i en liten firma med en tydlig kundgrupp",
+    "text": "Vi söker dig som tycker om att prata med människor lika mycket som att kontrollera en släckare. Du får dagtid, egen bil och kunder du lär känna över många år.",
+    "jobb": [["Tekniker brandskydd", "Jönköping"]]
+  },
+  "kultur": "Vi har aldrig jour och aldrig kvällsarbete – utom de kvällar vi håller styrelseutbildningar, och då bjuder föreningen på kaffe.",
+  "citat": {"text": "Ingen väljs in i en styrelse för att den kan brandskydd. Det är därför vi finns, och därför vi skriver allt så att en ny kassör förstår det.", "namn": "Mattias Öhman", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi var fem nya i styrelsen och visste ingenting om brandskydd. Efter Josefins genomgång hade vi en pärm, en plan och ett datum för nästa rond.", "namn": "Amina K.", "ort": "Jönköping"},
+    {"text": "Priset per lägenhet gjorde det lätt att få igenom på stämman. Ingen fakturerad timme har kommit sedan dess.", "namn": "Göran S.", "ort": "Huskvarna"},
+    {"text": "Brandvarnarbytet tog en förmiddag i vårt trapphus, och de som inte var hemma fick en ny tid veckan efter.", "namn": "Lisa M.", "ort": "Habo"}
+  ],
+  "faq": [
+    ["Vem ansvarar för brandskyddet i en bostadsrättsförening?", "Föreningen ansvarar för de allmänna utrymmena och för att det finns ett systematiskt brandskyddsarbete. Varje medlem ansvarar för brandvarnaren i sin egen lägenhet, men många föreningar väljer att byta dem samlat."],
+    ["Hur ofta kommer ni?", "Två ronder per år i Grund- och Tryggavtalet, fyra i det Kompletta. Däremellan når styrelsen sin kundansvarige på telefon."],
+    ["Vad händer om någon inte vill flytta sin barnvagn?", "Vi fotograferar, skriver en lapp och meddelar styrelsen. Styrelsen beslutar om åtgärder – vi hjälper gärna till med formuleringen."],
+    ["Ingår brandvarnarna i priset?", "Kontroll och information ingår i alla nivåer. Byte av brandvarnare ingår i Komplett och kostar annars 245 kronor per lägenhet inklusive brandvarnare."],
+    ["Kan vi säga upp avtalet?", "Avtalet löper ett år i taget med tre månaders uppsägning. All dokumentation tillhör föreningen och lämnas över om ni byter leverantör."],
+    ["Arbetar ni med samfälligheter och hyresrätter?", "Samfälligheter ja, med samma upplägg. Hyresfastigheter tar vi inte – vi har valt att fokusera på föreningar."],
+    ["Vilket område täcker ni?", "Jönköping, Huskvarna, Habo, Bankeryd, Tenhult och Mullsjö. Längre bort tar vi föreningar med minst 60 lägenheter."]
+  ],
+  "priser": [
+    {"namn": "Grund", "pris": "310 kr", "enhet": "per lägenhet och år", "text": "För mindre föreningar som vill ha ordning och dokumentation.", "punkter": ["Två brandskyddsronder per år", "Digital SBA-pärm", "Kontroll av släckare och filtar", "Rapport efter varje rond"]},
+    {"namn": "Trygg", "pris": "440 kr", "enhet": "per lägenhet och år", "text": "Det de flesta föreningar väljer.", "punkter": ["Allt i Grund", "Styrelseutbildning vartannat år", "Stöd vid räddningstjänstens tillsyn", "Informationsblad till nyinflyttade"], "utvald": true},
+    {"namn": "Komplett", "pris": "590 kr", "enhet": "per lägenhet och år", "text": "För föreningar som vill lämna över allt.", "punkter": ["Allt i Trygg", "Fyra ronder per år", "Brandvarnarbyte vart tionde år", "Årlig kontroll av dörrstängare"]}
+  ],
+  "prislista": [["Byte av brandvarnare, per lägenhet", "245 kr"], ["Ny pulversläckare 6 kg, monterad", "1 090 kr"], ["Brandfilt till soprum eller tvättstuga", "390 kr"], ["Styrelseutbildning utan avtal", "4 900 kr"], ["Inventering av lägenhetsdörrar, per dörr", "180 kr"], ["Utrymningsskylt med efterlysande färg", "260 kr"]],
+  "certifikat": [
+    {"titel": "Före detta brandinspektör", "text": "Josefin Aho har sju års erfarenhet av tillsyn enligt lagen om skydd mot olyckor.", "ikon": "skold"},
+    {"titel": "Servicetekniker släckare", "text": "Alla tekniker är certifierade för underhåll av handbrandsläckare enligt SS 3656.", "ikon": "eld"},
+    {"titel": "Brandskyddsföreningen", "text": "Medlemsföretag sedan 2018 och utbildade brandskyddsansvariga på hela kontoret.", "ikon": "lov"},
+    {"titel": "Ansvarsförsäkring", "text": "Försäkrade för konsult- och serviceuppdrag med 10 miljoner kronor per skada.", "ikon": "las"}
+  ],
+  "kunder": ["Brf Strandängen", "Brf Råslätt Södra", "Brf Huskvarna Brunn", "Brf Habo Kyrkbacke", "Bankeryds Ängar Samfällighet", "Brf Västra Torget", "Brf Tändsticksgården", "Brf Rosenlundsterrassen"],
+  "nyheter": [
+    ["2026-10-28", "Inga anmärkningar på Strandängen", "Räddningstjänstens tillsyn i oktober gick igenom utan en enda brist.", "bostad"],
+    ["2026-08-12", "Elcyklar i källarförråd", "Så skriver ni ordningsregler för laddning av batterier i föreningens utrymmen.", "brand"],
+    ["2026-04-02", "Nytt informationsblad på fyra språk", "Gratis för alla avtalskunder att dela ut till nyinflyttade.", "hem"]
+  ],
+  "kontakt": {"adress": "Kålgårdsgatan 9", "postnr": "553 24", "ort": "Jönköping", "telefon": "070-174 06 13", "epost": "styrelsen@trapphuset.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–16.30. Styrelseutbildningar kvällstid efter bokning",
+  "omrade": "Jönköping, Huskvarna, Habo, Bankeryd, Tenhult och Mullsjö",
+  "fot_cta": "Har ni fått ny styrelse i år? Boka en genomgång innan första mötet.",
+  "bild": {"panel": "bostad", "hb": "brand"},
+  "text": {
+    "ber_rubrik": "Senast i föreningarna",
+    "proj_rubrik": "Föreningar vi tagit hand om",
+    "process_rubrik": "Så tar vi över ert brandskydd",
+    "hb_etikett": "Vårt löfte",
+    "omdomen_rubrik": "Ordförande och kassörer berättar",
+    "faq_rubrik": "Det styrelser brukar fråga",
+    "priser_rubrik": "Ett pris per lägenhet",
+    "priser_utvald": "Vanligast",
+    "priser_not": "Priserna gäller exklusive moms och för föreningar med minst 20 lägenheter.",
+    "boka_rubrik": "Boka en kostnadsfri genomgång",
+    "boka_falt": ["Namn", "Telefon", "Föreningens namn", "Antal lägenheter och trapphus"],
+    "logos_rubrik": "Några av våra 210 föreningar",
+    "certifikat_rubrik": "Erfarenhet från båda sidor av tillsynen",
+    "bolag_rubrik": "Nio personer, tre roller",
+    "medarbetare": "Vi på Trapphuset"
+  }
+}

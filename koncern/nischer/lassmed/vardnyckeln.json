@@ -1,0 +1,123 @@
+{
+  "profil": "nisch",
+  "nisch": "lassmed",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vårdnyckeln i Dalarna AB",
+  "kortnamn": "Vårdnyckeln",
+  "slug": "vardnyckeln",
+  "typ": "Lås för vård och omsorg i Dalarna",
+  "tagline": "Låsteknik för omsorgen",
+  "slogan": "Digitala lås för hemtjänsten, säkra utgångar på demensboenden och läkemedelsskåp som bara rätt person öppnar.",
+  "hero_rubrik": "Lås som låter vården komma in",
+  "hero_text": "Vi ersätter nyckelknippor i hemtjänsten med digitala lås och bygger trygga dörrmiljöer på särskilda boenden. 22 anställda, uppdrag i nio dalakommuner.",
+  "intro_rubrik": "Från undersköterska till låssmed",
+  "om": [
+    "Maria Hedlund arbetade fjorton år i hemtjänsten i Falun och bar som mest 47 nycklar i fickan under ett kvällspass. 2011 utbildade hon sig till låssmed och startade Vårdnyckeln tillsammans med Jonas Hedlund, som var servicetekniker på ett larmföretag.",
+    "I dag sitter våra digitala lås hos omkring 6 400 brukare i Dalarna, och vi har byggt om dörrmiljöerna på 31 särskilda boenden. Alla 22 anställda har gått vår egen kurs i bemötande av personer med demenssjukdom innan de får arbeta i någons hem."
+  ],
+  "vagval_rubrik": "Vilken verksamhet gäller det?",
+  "tjanster": [
+    {"titel": "Nyckelfri hemtjänst", "ikon": "telefon", "href": "verksamhet.html", "text": "Digitala lås på brukarens dörr som personalen öppnar med mobilen."},
+    {"titel": "Demensboenden", "ikon": "hjarta", "href": "verksamhet.html", "text": "Kodlås och larmade utgångar som skyddar utan att låsa in."},
+    {"titel": "Läkemedelsskåp", "ikon": "kors", "href": "verksamhet.html", "text": "Låsta skåp i lägenheten och läkemedelsrum med loggning."},
+    {"titel": "LSS och gruppbostäder", "ikon": "hem", "href": "verksamhet.html", "text": "Lås som ger de boende egen nyckel och personalen behörighet."},
+    {"titel": "Dörrautomatik", "ikon": "kugge", "href": "verksamhet.html", "text": "Automatiska dörröppnare för rullator, rullstol och säng."},
+    {"titel": "Nyckelskåp för personal", "ikon": "nyckel", "href": "verksamhet.html", "text": "Elektroniska skåp som loggar uttag av bilnycklar och reservnycklar."},
+    {"titel": "Montering hos brukare", "ikon": "vard", "href": "verksamhet.html", "text": "Vi monterar när brukaren är hemma och förklarar i lugn takt."},
+    {"titel": "Kontakta oss", "ikon": "folk", "href": "om-oss.html#kontakt", "text": "En kontaktperson per kommun och utförare."}
+  ],
+  "affarsomraden": [
+    {"titel": "Digitala lås i hemtjänsten", "text": "Personalen öppnar brukarens ytterdörr med en app och varje besök loggas. Borttappade nyckelknippor och nyckelgömmor under dörrmattan försvinner.", "text2": "Låset monteras på insidan av dörren, så brukaren använder sin vanliga nyckel som förut.", "tagg": "hem"},
+    {"titel": "Särskilda boenden och demensvård", "text": "En dörr ska kunna öppnas av den som är frisk och samtidigt inte locka ut den som är förvirrad. Vi kombinerar kodlås, rörelselarm och dörrar som målas i väggens färg, i samråd med verksamhetens arbetsterapeut.", "text2": "Alla lösningar gås igenom mot brandskyddet och mot reglerna om skyddsåtgärder.", "tagg": "las"},
+    {"titel": "Läkemedel och journalrum", "text": "Läkemedelsskåp i brukarens lägenhet, läkemedelsrum med kortläsare och skåp för narkotikaklassade preparat. Loggen visar vem som öppnade och när.", "text2": "Vi följer Socialstyrelsens krav på förvaring och anpassar efter regionens rutiner.", "tagg": "interior"},
+    {"titel": "Tillgänglighet", "text": "Dörrautomatik, tröskelfria lösningar och låsvred som går att vrida med nedsatt handkraft. Ofta handlar det om bostadsanpassning beslutad av kommunen.", "text2": "Vi har ramavtal för bostadsanpassning av dörrar i fyra kommuner.", "tagg": "hem"}
+  ],
+  "bolag": [
+    {"namn": "Hemtjänstteamet", "segment": "Åtta montörer", "rubrik": "6 400 dörrar i länet", "text": "Monterar, servar och byter batterier i digitala lås hos brukare, och flyttar låset när någon får nytt boende.", "tagg": "hem"},
+    {"namn": "Boendeprojekt", "segment": "Projektledare och arbetsterapeut", "rubrik": "Dörrmiljöer för demensvård", "text": "Planerar ombyggnader av särskilda boenden tillsammans med personal, anhörigråd och brandkonsult.", "tagg": "las"},
+    {"namn": "Support och system", "segment": "Falun, vardagar 7–19", "rubrik": "Behörigheter och loggar", "text": "Tre systemadministratörer som lägger upp personal, svarar på frågor från utförare och tar fram loggar vid utredningar.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Mora går över till nyckelfritt", "text": "Under vintern får 780 brukare i Mora kommun digitala lås, ett hemtjänstområde i taget.", "tagg": "hem"},
+    {"rubrik": "Ombyggnad i Borlänge", "text": "Ett demensboende med 32 lägenheter har fått nya utgångar där dörrarna smälter in i väggarna.", "tagg": "las"},
+    {"rubrik": "Bemötandekurs för alla", "text": "Två nya montörer har gått vår tvådagarskurs om demenssjukdom innan första hembesöket.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "6 400", "enhet": "brukare", "etikett": "Med digitalt lås"},
+    {"varde": "31", "enhet": "boenden", "etikett": "Ombyggda dörrmiljöer"},
+    {"varde": "9", "enhet": "kommuner", "etikett": "I Dalarna"},
+    {"varde": "22", "enhet": "anställda", "etikett": "Alla bemötandeutbildade"}
+  ],
+  "projekt": [
+    {"namn": "Hemtjänsten i Mora", "ort": "Mora", "typ": "Digitala lås, 780 brukare", "ar": "2026", "text": "Införande område för område, med utbildning av 140 medarbetare.", "tagg": "hem"},
+    {"namn": "Demensboende i Borlänge", "ort": "Borlänge", "typ": "Dörrmiljö, 32 lgh", "ar": "2026", "text": "Kamouflerade utgångar, rörelselarm och kodlås på två avdelningar.", "tagg": "las", "status": "Utfört"},
+    {"namn": "Läkemedelsrum, vårdcentral", "ort": "Falun", "typ": "Kortläsare och skåp", "ar": "2025", "text": "Loggade skåp för narkotikaklassade läkemedel och journalarkiv.", "tagg": "interior"},
+    {"namn": "Gruppbostad i Leksand", "ort": "Leksand", "typ": "LSS, sex lägenheter", "ar": "2025", "text": "Egna nycklar för de boende och mobil behörighet för personalen.", "tagg": "hem"},
+    {"namn": "Bostadsanpassning, Ludvika", "ort": "Ludvika", "typ": "Dörrautomatik", "ar": "2024", "text": "Automatik och tröskelramper i 46 bostäder under ett år.", "tagg": "bostad"},
+    {"namn": "Särskilt boende i Hedemora", "ort": "Hedemora", "typ": "Nyckelskåp och passer", "ar": "2024", "text": "Elektroniska nyckelskåp och kortläsare för tre avdelningar.", "tagg": "las"}
+  ],
+  "process": [
+    {"titel": "Möte med verksamheten", "text": "Vi träffar enhetschef, sjuksköterska och gärna en undersköterska som arbetar natt.", "tagg": "people"},
+    {"titel": "Riskgenomgång", "text": "Varje dörr bedöms utifrån brand, utrymning och de boendes behov innan vi föreslår något.", "tagg": "las"},
+    {"titel": "Montering i lugnt tempo", "text": "Hos brukare monterar vi när någon anhörig eller personal kan vara med. På boenden tar vi en avdelning i taget.", "tagg": "hem"},
+    {"titel": "Utbildning och logg", "text": "Personalen får utbildning i appen och verksamheten får tillgång till loggarna.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Respekt för den som bor bakom dörren",
+    "text": "Ett lås i ett särskilt boende påverkar någons frihet. Därför dokumenterar vi syftet med varje lösning, följer upp den efter tre månader och tar bort det som inte längre behövs. Lås som tas ner hos brukare renoveras och används igen.",
+    "mal": [["3 mån", "till uppföljning efter varje ombyggnad"], ["100 %", "av montörerna bemötandeutbildade"], ["8 av 10", "digitala lås återanvänds efter flytt"]]
+  },
+  "karriar": {
+    "rubrik": "Låssmed med hjärta för omsorgen",
+    "text": "Vi söker montörer som är lika bekväma i en 92-årings hall som på en byggarbetsplats. Erfarenhet från vården är en merit, och vi utbildar dig i låstekniken.",
+    "jobb": [["Montör digitala lås", "Falun"], ["Montör digitala lås", "Mora"], ["Systemadministratör", "Falun"]]
+  },
+  "kultur": "En gång om året arbetar alla på kontoret ett pass i hemtjänsten, så att vi inte glömmer hur det är att stå utanför dörren.",
+  "citat": {"text": "Jag vet hur det känns att stå i snön med fel nyckel medan någon väntar på sin insulin. Det var därför jag bytte yrke.", "namn": "Maria Hedlund", "roll": "Grundare och vd", "tagg": "hem"},
+  "omdomen": [
+    {"text": "Vi hade 1 200 nycklar i omlopp i ett enda hemtjänstområde. Nu har vi noll och vet exakt när varje besök gjordes.", "namn": "Karin S.", "ort": "Enhetschef, Mora"},
+    {"text": "Montören tog sig tid att förklara för pappa vad som skulle hända med dörren. Han var lugn hela tiden.", "namn": "Peter A.", "ort": "Anhörig, Falun"},
+    {"text": "De boende går inte längre och drar i utgångsdörren hela kvällen. Det har gjort hela avdelningen lugnare.", "namn": "Lena W.", "ort": "Sjuksköterska, Borlänge"}
+  ],
+  "faq": [
+    ["Måste brukaren byta sitt lås?", "Nej. Det digitala låset monteras på insidan av dörren över det befintliga vredet, och brukaren och anhöriga använder sina vanliga nycklar."],
+    ["Vad händer om mobilen eller låset slutar fungera?", "Varje lås har en reservlösning som verksamheten bestämmer, oftast en nyckel i ett låst nyckelskåp på hemtjänstkontoret. Batteriet varnar i appen flera veckor innan det tar slut."],
+    ["Får man låsa dörrarna på ett demensboende?", "Det finns tydliga regler om skydds- och begränsningsåtgärder. Vi bygger lösningar som verksamheten kan motivera och dokumentera, och tar alltid med brandskyddet i bedömningen."],
+    ["Vem ser loggarna?", "Bara de personer som verksamheten utser. Vi har biträdesavtal med varje kommun och utförare och tar inte del av loggarna utan uppdrag."],
+    ["Arbetar ni åt privata utförare?", "Ja, vi har avtal med både kommuner och privata hemtjänstföretag och omsorgsbolag i Dalarna."],
+    ["Hur lång tid tar ett införande av nyckelfri hemtjänst?", "Ett område med 200 brukare tar normalt fyra till sex veckor, inklusive utbildning av personalen."],
+    ["Kan anhöriga få behörighet?", "Ja, om brukaren eller företrädaren vill det och verksamheten godkänner. Behörigheten kan begränsas till vissa tider."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001 och ISO 14001", "text": "Kvalitets- och miljöledning certifierad sedan 2018.", "ikon": "lov"},
+    {"titel": "Personuppgiftsbiträde", "text": "Biträdesavtal enligt GDPR med alla kommuner och utförare, loggar lagrade i Sverige.", "ikon": "dokument"},
+    {"titel": "Utdrag ur belastningsregistret", "text": "Kontrolleras för alla anställda som arbetar i brukares hem, och förnyas vartannat år.", "ikon": "folk"},
+    {"titel": "Gesäll- och mästarbrev", "text": "Sveriges Låssmeders Riksförbund – Maria och Jonas Hedlund har mästarbrev, montörerna gesällbrev.", "ikon": "stjarna"}
+  ],
+  "kunder": ["Falu kommun, vård och omsorg", "Mora kommun, hemtjänsten", "Borlänge Äldreboenden", "Omsorgshuset Siljan AB", "Ludvika Bostadsanpassning", "Leksands Gruppbostäder", "Hedemora Särskilda boenden", "Vårdcentralen Kopparvallen"],
+  "nyheter": [
+    ["2026-10-26", "Mora blir nyckelfritt", "780 brukare får digitala lås under vintern.", "hem"],
+    ["2026-06-09", "Nya utgångar i Borlänge", "Så byggde vi om ett demensboende utan att låsa in någon.", "las"],
+    ["2026-02-12", "Kursen om demens", "Varför våra montörer går två dagars utbildning före första besöket.", "people"]
+  ],
+  "kontakt": {"adress": "Slaggatan 7", "postnr": "791 71", "ort": "Falun", "telefon": "070-174 06 13", "epost": "kontakt@vardnyckeln.se", "orgnr": ""},
+  "oppettider": "Support mån–fre 7–19 · helger för avtalskunder",
+  "omrade": "Dalarna: Falun, Borlänge, Mora, Leksand, Rättvik, Ludvika, Säter, Hedemora och Gagnef",
+  "fot_cta": "Planerar ni nyckelfri hemtjänst? Vi visar hur ett område byts på fyra veckor.",
+  "bild": {"panel": "people", "hb": "hem"},
+  "text": {
+    "hero_knapp": "Lösningar för omsorgen",
+    "hero_lank": "Kommuner vi arbetat åt",
+    "ber_rubrik": "Ute i kommunerna",
+    "proj_rubrik": "Hemtjänst, boenden och vårdcentraler",
+    "process_rubrik": "Varje dörr bedöms för sig",
+    "hb_etikett": "Etik och integritet",
+    "omdomen_rubrik": "Chefer, anhöriga och sjuksköterskor",
+    "faq_rubrik": "Frågor från vård och omsorg",
+    "boka_rubrik": "Berätta om er verksamhet",
+    "logos_rubrik": "Utförare vi arbetar med",
+    "certifikat_rubrik": "Granskade för att gå in hos andra",
+    "bolag_rubrik": "Tre team för omsorgen",
+    "ny_rubrik": "Från Slaggatan"
+  }
+}

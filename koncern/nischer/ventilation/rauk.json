@@ -1,0 +1,130 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Rauk Ventilation AB",
+  "kortnamn": "Rauk",
+  "slug": "rauk",
+  "typ": "Ventilation på Gotland och Fårö",
+  "tagline": "Öns egna ventilationsfolk",
+  "slogan": "Rauk installerar och servar ventilation på hela Gotland – med ett reservdelslager som gör att ingen behöver vänta på färjan.",
+  "hero_rubrik": "Reservdelen ligger redan på ön",
+  "hero_text": "2 200 artiklar på hyllan i Visby, elva tekniker och bilar i Slite, Hemse och Visby. Vi lagar samma dag i stället för efter nästa båt.",
+  "intro_rubrik": "En ö, ett lager, korta vägar",
+  "om": [
+    "Bertil Hägg kom till Gotland som plåtslagare på cementfabriken i Slite och startade Rauk 1987, när ön saknade ett eget ventilationsföretag och varje fläktmotor fick beställas från fastlandet. Han byggde upp ett lager i ladan bakom villan i Gråbo innan första lokalen ens fanns.",
+    "Sedan 2019 leds företaget av hans dotter Emma Hägg och servicechefen Rasmus Ödin. Vi är elva anställda på Stenhuggarvägen i Visby och arbetar i allt från hotell innanför ringmuren till sommarhus på Fårö, skolor i Klintehamn och gårdsbutiker på östra Gotland."
+  ],
+  "vagval_rubrik": "Var på ön står huset?",
+  "tjanster": [
+    {"titel": "Hotell och restauranger", "ikon": "kontor", "href": "verksamhet.html", "text": "Service före säsongsstart i maj och genomgång efter Almedalsveckan."},
+    {"titel": "Sommarhus i vinterläge", "ikon": "hem", "href": "verksamhet.html", "text": "Grundventilation och fuktvakt för hus som står tomma oktober–maj."},
+    {"titel": "Hus i kalksten", "ikon": "sten", "href": "verksamhet.html", "text": "Kanaldragning i tjocka murar utan att förstöra puts och valv."},
+    {"titel": "Saltsäkra takhuvar", "ikon": "vind", "href": "verksamhet.html", "text": "Huvar och fläktar i syrafast stål för hus nära stranden."},
+    {"titel": "OVK på hela ön", "ikon": "dokument", "href": "verksamhet.html", "text": "Besiktning med behörighet N och K, från Burgsvik till Fårösund."},
+    {"titel": "Reservdelslagret", "ikon": "lada", "href": "verksamhet.html", "text": "Motorer, remmar, filter och styrkort till de vanligaste aggregaten."},
+    {"titel": "Nytt aggregat", "ikon": "kugge", "href": "verksamhet.html", "text": "Byte i villor, skolor och affärer med montage samma vecka."},
+    {"titel": "Ring Visbykontoret", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Samma telefonnummer sedan 1987, svar från en tekniker."}
+  ],
+  "affarsomraden": [
+    {"titel": "Besöksnäringen", "text": "Ett hotell i Visby har fullt i tio veckor och nästan tomt resten av året. Vi servar aggregaten i april, finns i beredskap under sommaren och gör den stora genomgången i oktober.", "text2": "Tjugotre hotell och vandrarhem har säsongsavtal hos oss.", "tagg": "ventilation"},
+    {"titel": "Fritidshus", "text": "Ett stängt sommarhus i ett fuktigt kustklimat behöver luftväxling även när ingen är där. Vi ställer in grundflöde, monterar fuktgivare och skickar sms om något avviker.", "text2": "Vinterläge med fuktvakt kostar 3 950 kr per säsong inklusive besök i maj.", "tagg": "hem"},
+    {"titel": "Kalkstenshus och kulturmiljö", "text": "Murar på en halv meter och valv från 1300-talet går inte att borra som en träregelvägg. Vi lägger kanaler i befintliga rökkanaler och schakt i samråd med Länsstyrelsen.", "text2": "Vi har arbetat i 41 hus inom världsarvet Visby.", "tagg": "sten"},
+    {"titel": "Skolor, vård och handel", "text": "Region Gotland och de privata fastighetsägarna på ön har samma behov som på fastlandet – men färre företag att välja mellan. Vi tar OVK, service och ombyggnad i ett avtal.", "text2": "Fasta servicedagar varannan vecka i Hemse, Slite och Klintehamn.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Visbybilarna", "segment": "5 tekniker", "rubrik": "Innerstaden och norra ön", "text": "Utgår från Stenhuggarvägen och sköter hotell, butiker och bostadsrätter i Visby med omnejd.", "tagg": "ventilation"},
+    {"namn": "Södra Gotland", "segment": "3 tekniker, bas i Hemse", "rubrik": "Från Klintehamn till Hoburgen", "text": "Skolor, vårdcentraler, gårdar och sommarhus på den södra halvan av ön.", "tagg": "natur"},
+    {"namn": "Lager och kontor", "segment": "3 personer", "rubrik": "Hyllan som ersätter färjan", "text": "Beställer, packar och har koll på vilka delar som tar slut före sommaren.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Almedalen utan stopp", "text": "Under politikerveckan hade vi en tekniker stationerad i innerstaden – fyra larm, fyra lagningar inom en timme.", "tagg": "stad"},
+    {"rubrik": "Nytt lager i Slite", "text": "Ett satellitlager med 300 artiklar gör att bilarna på norra ön inte behöver åka in till Visby.", "tagg": "ventilation"},
+    {"rubrik": "Fårös sommarhus inför vintern", "text": "62 hus fick vinterläge och fuktvakt under oktober.", "tagg": "hem"}
+  ],
+  "nyckeltal": [
+    {"varde": "2 200", "enhet": "artiklar", "etikett": "Reservdelar på hyllan i Visby"},
+    {"varde": "1987", "enhet": "", "etikett": "Öns ventilationsföretag sedan dess"},
+    {"varde": "23", "enhet": "hotell", "etikett": "Med säsongsavtal"},
+    {"varde": "41", "enhet": "hus", "etikett": "Inom världsarvet Visby"}
+  ],
+  "projekt": [
+    {"namn":"Hotell vid Stora torget", "ort": "Visby", "typ": "Nytt FTX i 1700-talshus", "ar": "2025", "text": "Kanalerna drogs i två igenmurade rökgångar och aggregatet placerades på vinden.", "tagg": "ventilation"},
+    {"namn": "Sommarhus vid Ekeviken", "ort": "Fårö", "typ": "Vinterläge och fuktvakt", "ar": "2025", "text": "Relativ fuktighet under 65 procent hela vintern – för första gången sedan huset köptes.", "tagg": "hem"},
+    {"namn": "Klinteskolan", "ort": "Klintehamn", "typ": "Aggregatbyte", "ar": "2025", "text": "Två aggregat från 1989 byttes under sommarlovet, levererade med båt i juni.", "tagg": "bygg"},
+    {"namn": "Gårdsmejeriet i Gothem", "ort": "Gothem", "typ": "Processventilation", "ar": "2024", "text": "Ventilation i ostlager med styrd fukt och temperatur året runt.", "tagg": "industri"},
+    {"namn": "Brf Strandgärdet", "ort": "Visby", "typ": "OVK, 64 lägenheter", "ar": "2024", "text": "Besiktning klar på tre dagar, inga anmärkningar på frånluften.", "tagg": "bostad"},
+    {"namn": "Vandrarhemmet i Ljugarn", "ort": "Ljugarn", "typ": "Saltsäkra takhuvar", "ar": "2026", "text": "Galvaniserade huvar ersätts med syrafast stål före sommaren.", "tagg": "tak", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Du ringer Visby", "text": "En tekniker svarar och frågar efter aggregatets märke och typskylt.", "tagg": "people"},
+    {"titel": "Vi kollar hyllan", "text": "Finns delen på lagret, och det gör den i nio fall av tio, packas den direkt.", "tagg": "kontor"},
+    {"titel": "Bilen åker ut", "text": "Inom ön når vi alla adresser på under en och en halv timme.", "tagg": "ventilation"},
+    {"titel": "Delen fylls på", "text": "Det som togs från hyllan beställs samma dag, så att den finns till nästa gång.", "tagg": "industri"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje fraktad del har ett avtryck",
+    "text": "Gotland har ett känsligt grundvatten, korta somrar och långa transporter. Därför samordnar vi leveranser från fastlandet till en båt i veckan, reparerar motorer i stället för att byta och återvinner filter via Region Gotlands anläggning i Slite.",
+    "mal": [["1", "samlad leverans med färjan per vecka"], ["38 %", "av motorerna lagas i stället för att bytas"], ["0", "kemiska rengöringsmedel i kanalerna"]]
+  },
+  "karriar": {
+    "rubrik": "Bo på ön, jobba med hela ön",
+    "text": "Vi söker folk som vill bo på Gotland året om. Du får servicebil, egna kunder och betald körtid – och fria sommarveckor i turordning vartannat år.",
+    "jobb": [["Servicetekniker ventilation", "Visby"], ["Montör med plåtbakgrund", "Hemse"]]
+  },
+  "kultur": "Vi äter lunch tillsammans på kontoret varje fredag, och den som har varit längst ute på ön under veckan väljer mat.",
+  "citat": {"text": "Pappa sa att man inte kan driva ett ventilationsföretag på en ö om man inte äger sina egna reservdelar. Det stämmer fortfarande.", "namn": "Emma Hägg", "roll": "Vd, andra generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Fläkten i köket gav upp mitt under Medeltidsveckan. Rauk hade motorn på hyllan och vi kunde öppna igen till middagen.", "namn": "Johanna W.", "ort": "Visby innerstad"},
+    {"text": "Vi kommer från Stockholm i juni och huset luktar inte längre källare. Fuktvakten skickar ett sms om något händer.", "namn": "Per-Olof S.", "ort": "Fårö"},
+    {"text": "De vet hur man borrar i en kalkstensmur. Vår antikvarie från Länsstyrelsen var nöjd med varje hål.", "namn": "Birgitta L.", "ort": "Visby"}
+  ],
+  "faq": [
+    ["Har ni delar till mitt aggregat?", "Vi har reservdelar till de vanligaste märkena på hyllan i Visby. Saknas något beställer vi samma dag och har det normalt på ön inom två arbetsdagar."],
+    ["Vad är vinterläge för sommarhus?", "Vi ställer in ett lågt grundflöde, monterar en fuktgivare som skickar sms och gör ett besök i maj innan ni kommer. Det kostar 3 950 kr per säsong."],
+    ["Får man dra ventilation i ett hus inom ringmuren?", "Ofta ja, men det krävs bygglov och ibland tillstånd från Länsstyrelsen. Vi hjälper till med ritningar och har gjort det i 41 hus."],
+    ["Åker ni till Fårö och Gotska Sandön?", "Fårö ingår i vårt vanliga område. Gotska Sandön har vi gjort ett uppdrag på, efter särskild överenskommelse."],
+    ["Har ni beredskap på sommaren?", "Ja, hotell och restauranger med säsongsavtal har en jourtelefon mellan midsommar och mitten av augusti."],
+    ["Kostar det mer att köra till södra Gotland?", "Nej, framkörning kostar 450 kr oavsett var på ön ni bor."],
+    ["Gör ni OVK?", "Ja, Rasmus Ödin och Emma Hägg är certifierade funktionskontrollanter och besiktar skolor, föreningar och lokaler på hela ön."]
+  ],
+  "certifikat": [
+    {"titel": "Behörighet N och K", "text": "Två certifierade funktionskontrollanter för OVK i alla typer av byggnader.", "ikon": "dokument"},
+    {"titel": "Plåt- och ventilationsavtal", "text": "Alla montörer är anställda med kollektivavtal och pension.", "ikon": "folk"},
+    {"titel": "Arbete i kulturmiljö", "text": "Erfarenhet av ombyggnad i kulturhistoriskt värdefulla hus i samråd med antikvarie.", "ikon": "sten"},
+    {"titel": "Brandfarliga arbeten", "text": "Samtliga montörer har giltigt certifikat för brandfarliga arbeten på tak och i vind.", "ikon": "eld"}
+  ],
+  "kunder": ["Hotell Stora Torget Visby", "Fårö Stugförening", "Klinteskolans fastigheter", "Brf Strandgärdet", "Gothems Gårdsmejeri", "Slite Hamnfastigheter", "Hemse Vårdhus AB", "Ljugarns Vandrarhem"],
+  "nyheter": [
+    ["2026-10-20", "Vinterlägen bokade till sista oktober", "Ring före den 31 oktober så hinner vi till alla sommarhus före stormarna.", "hem"],
+    ["2026-06-12", "Satellitlager öppnat i Slite", "300 vanliga reservdelar finns nu på norra ön.", "ventilation"],
+    ["2025-09-30", "Rasmus Ödin klar med behörighet K", "Nu kan vi besikta även de största anläggningarna på ön själva.", "people"]
+  ],
+  "kontakt": {"adress": "Stenhuggarvägen 6", "postnr": "621 53", "ort": "Visby", "telefon": "070-174 06 09", "epost": "lagret@raukventilation.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, sommarjour för avtalskunder",
+  "omrade": "Hela Gotland och Fårö",
+  "fot_cta": "Står ditt sommarhus tomt i vinter? Boka vinterläge före sista oktober.",
+  "bild": {"panel": "natur", "hb": "sten"},
+  "text": {
+    "kontakt_knapp": "Ring Visby",
+    "hero_knapp": "Det här gör vi på ön",
+    "ber_etikett": "Från ön",
+    "ber_rubrik": "Senast mellan Fårö och Hoburgen",
+    "proj_rubrik": "Hus från medeltid till nybygge",
+    "proj_rubrik_lista": "Uppdrag runt hela Gotland",
+    "sida_projekt_titel": "På ön",
+    "process_etikett": "När något går sönder",
+    "process_rubrik": "Ingen väntan på nästa båt",
+    "hb_etikett": "Ö-miljö",
+    "omdomen_rubrik": "Gotlänningar och sommargäster",
+    "faq_rubrik": "Om färjor, kalksten och sommarhus",
+    "boka_rubrik": "Skriv var på ön du finns",
+    "boka_text": "Ange socken eller adress och vilket aggregat det gäller, så hör en tekniker av sig samma arbetsdag.",
+    "boka_falt": ["Namn", "Telefon", "Socken eller adress", "Aggregat och vad som hänt"],
+    "logos_rubrik": "Från hotell till gårdsmejeri",
+    "certifikat_rubrik": "Behöriga på hela ön",
+    "bolag_rubrik": "Två bilflottor och ett lager",
+    "siffror_etikett": "Rauk på Gotland",
+    "medarbetare": "Öns tekniker"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "vvs",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ringmurens VVS AB",
+  "kortnamn": "Ringmurens VVS",
+  "slug": "ringmurens-vvs",
+  "typ": "Rörfirma i Visby och på Gotland",
+  "tagline": "Rör i medeltida hus",
+  "slogan": "Elva rörmokare på en ö med hårt vatten, torra somrar och hus som var gamla redan när Linné kom hit.",
+  "hero_rubrik": "Vi drar nya rör genom 1300-talets kalksten",
+  "hero_text": "VVS för kulturhus innanför ringmuren, gästhem inför säsongen och villor över hela Gotland. Med kalkfilter, regnvattentankar och respekt för varje valv.",
+  "intro_rubrik": "En ö, ett hårt vatten, elva rörmokare",
+  "om": [
+    "Bertil Stenhammar öppnade firman 1979 i en källare på Hästgatan, mitt i innerstaden, och lärde sig snabbt att man inte borrar i en medeltida mur utan att fråga länsstyrelsen först. 2016 sålde han rörelsen till Ellinor Gahnström, som hade varit hans lärling sedan hon gick ut gymnasiet i Visby.",
+    "Vi är elva anställda, alla bosatta på ön. Hälften av uppdragen ligger innanför ringmuren, där vi samarbetar med byggnadsantikvarier om varje håltagning. Resten är villor, gårdar och sommarhus från Fårö till Burgsvik – ofta med frågor om vatten som är för hårt, för salt eller för lite."
+  ],
+  "vagval_rubrik": "Vad behöver ditt hus på ön?",
+  "tjanster": [
+    {"titel": "Hus innanför muren", "ikon": "hus", "href": "verksamhet.html", "text": "Rör och avlopp i medeltida källare och 1700-talshus, i samråd med antikvarie."},
+    {"titel": "Avhärdning", "ikon": "vatten", "href": "verksamhet.html", "text": "Avhärdare och kalkfilter för öns hårda vatten, som annars sliter ut beredare."},
+    {"titel": "Regnvattentankar", "ikon": "glob", "href": "verksamhet.html", "text": "Takvatten till trädgård och toalett när bevattningsförbudet gäller."},
+    {"titel": "Snålspolande armaturer", "ikon": "graf", "href": "verksamhet.html", "text": "Blandare och toaletter som halverar förbrukningen i hus med egen brunn."},
+    {"titel": "Gästhem och hotell", "ikon": "nyckel", "href": "verksamhet.html", "text": "Genomgång före säsongen och utökad beredskap under Almedalsveckan."},
+    {"titel": "Brunnar vid kusten", "ikon": "sok", "href": "verksamhet.html", "text": "Provtagning och kloridmätning i brunnar där havsvatten kan tränga in."},
+    {"titel": "Värme i stenhus", "ikon": "eld", "href": "verksamhet.html", "text": "Golvvärme och luft/vatten-pumpar anpassade för tjocka kalkstensväggar."},
+    {"titel": "Boka över vintern", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "April till juni är fullt – planera gärna i november."}
+  ],
+  "affarsomraden": [
+    {"titel": "Kulturhistoriska hus", "text": "Innanför ringmuren är husen byggnadsminnen eller ligger i ett världsarv, och varje ny rördragning kräver eftertanke. Vi föreslår vägar genom befintliga schakt, gamla skorstenspipor och bjälklag i stället för nya håltagningar i murverket.", "text2": "Vi tar fram underlag till bygglov och samrådet med länsstyrelsen tillsammans med husägarens antikvarie.", "tagg": "sten"},
+    {"titel": "Hårt vatten och kalk", "text": "Grundvattnet på Gotland har ofta en hårdhet över 20 tyska grader. Kalken sätter igen blandare, perlatorer och värmeväxlare, och en vanlig varmvattenberedare håller ibland bara hälften så länge som på fastlandet.", "text2": "En avhärdare för villa kostar runt 16 500 kronor installerad.", "tagg": "vvs"},
+    {"titel": "Vatten när det är torrt", "text": "Nästan varje sommar inför regionen bevattningsförbud. Vi installerar regnvattentankar på 3 000–10 000 liter, kopplar takvatten till toalettspolning och mäter brunnens kapacitet innan du bygger ut huset.", "text2": "En tank på 5 000 liter fylls av ungefär 40 millimeter regn på ett tak på 120 kvadratmeter.", "tagg": "natur"},
+    {"titel": "Gästhem, hotell och restauranger", "text": "Öns besöksnäring har nio månader på sig att förbereda tre. Vi går igenom varmvatten, legionellarisk och avlopp i maj och har en extra bil i beredskap i innerstaden under Almedalsveckan.", "text2": "Vi servar i dag 34 gästhem och pensionat på ön.", "tagg": "vvs"}
+  ],
+  "bolag": [
+    {"namn": "Innerstaden", "segment": "4 rörmokare", "rubrik": "Valv, murar och smala gränder", "text": "Utgår från verkstaden på Hästgatan och kör en eldriven skåpbil som ryms i gränderna.", "tagg": "sten"},
+    {"namn": "Landsbygden", "segment": "5 rörmokare", "rubrik": "Från Fårö till Hoburgen", "text": "Villor, gårdar och sommarhus, med brunnar, avhärdare och regnvattentankar som specialitet.", "tagg": "hem"},
+    {"namn": "Kontor och lager", "segment": "Ellinor och Maja", "rubrik": "Allt måste finnas på ön", "text": "Vi har ett större lager än en firma i vår storlek brukar, eftersom en reservdel annars tar färjan och två dagar.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Gästhemmet på Strandgatan har fått nya stammar", "text": "Arbetet gjordes mellan oktober och mars, genom en igenmurad skorsten från 1600-talet.", "tagg": "sten"},
+    {"rubrik": "Regnvatten till 62 hus i Slite", "text": "En samfällighet köpte tankar gemensamt efter tre somrar med bevattningsförbud.", "tagg": "natur"},
+    {"rubrik": "Ny elbil för gränderna", "text": "Den smala skåpbilen tar sig in på Fiskargränd utan att någon behöver flytta sin cykel.", "tagg": "vvs"}
+  ],
+  "nyckeltal": [
+    {"varde": "1979", "enhet": "", "etikett": "Öppnade på Hästgatan"},
+    {"varde": "11", "enhet": "anställda", "etikett": "Alla bor på Gotland"},
+    {"varde": "34", "enhet": "gästhem", "etikett": "Servas inför varje säsong"},
+    {"varde": "22 °dH", "enhet": "", "etikett": "Vanlig hårdhet i brunnsvattnet"}
+  ],
+  "projekt": [
+    {"namn": "Gästhemmet Strandgatan", "ort": "Visby", "typ": "Nya stammar", "ar": "2026", "text": "Avlopp och tappvatten dragna genom en gammal skorstenspipa i stället för genom murverket.", "tagg": "sten", "status": "Utfört"},
+    {"namn": "Samfälligheten Slite Strand", "ort": "Slite", "typ": "Regnvattentankar, 62 hus", "ar": "2025", "text": "Gemensam upphandling av tankar på 5 000 liter med koppling till toalettspolning.", "tagg": "natur"},
+    {"namn": "Kalkstensgård i Lärbro", "ort": "Lärbro", "typ": "Värme och avhärdning", "ar": "2025", "text": "Luft/vatten-pump, golvvärme i kalkstensgolvet och avhärdare för en gård från 1820-talet.", "tagg": "hem"},
+    {"namn": "Pensionatet i Ljugarn", "ort": "Ljugarn", "typ": "Varmvatten och legionella", "ar": "2024", "text": "Ny ackumulatortank och cirkulation som håller 60 grader i alla 18 rum.", "tagg": "vvs"},
+    {"namn": "Sommarhus på Fårö", "ort": "Fårö", "typ": "Brunn och kloridfilter", "ar": "2024", "text": "Brunnen hade börjat ta in havsvatten – ny pumpnivå och omvänd osmos till dricksvattnet.", "tagg": "natur"},
+    {"namn": "Köpmanshus vid Stora torget", "ort": "Visby", "typ": "Badrum i valvkällare", "ar": "2025", "text": "Badrum med pumpat avlopp i en källare där golvet ligger under gatans ledningar.", "tagg": "interior"}
+  ],
+  "process": [
+    {"titel": "Platsbesök", "text": "Ellinor eller en av rörmokarna tittar på huset och frågar efter ritningar, antikvarie och brunnsprotokoll.", "tagg": "people"},
+    {"titel": "Tillstånd", "text": "I innerstaden tar vi fram underlag till bygglov och samråd innan någon borrar ett enda hål.", "tagg": "kontor"},
+    {"titel": "Material på ön", "text": "Allt beställs i god tid och lagras hos oss, så att jobbet inte står still och väntar på färjan.", "tagg": "vvs"},
+    {"titel": "Utfört och dokumenterat", "text": "Du får foton på dolda rör och en ritning över dragningen till husets arkiv.", "tagg": "sten"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje liter räknas på en ö",
+    "text": "Gotland har begränsat med grundvatten och Region Gotland bygger avsaltningsverk för att klara somrarna. Vi föreslår alltid snålspolande armaturer, mäter läckage i husets ledningar och visar hur mycket regnvatten taket kan samla. Rivet kopparrör samlas och skickas med färjan till återvinning en gång i månaden.",
+    "mal": [["–45 %", "vatten i snitt efter våra byten"], ["410", "regnvattentankar sedan 2019"], ["100 %", "av kopparn till återvinning"]]
+  },
+  "karriar": {
+    "rubrik": "Rörmokare som vill bo på ön",
+    "text": "Vi söker en rörmokare som vill flytta till Gotland eller redan bor här. Vi hjälper till med boende första året, och du lär dig hantverket i hus som är äldre än de flesta städer.",
+    "jobb": [["Rörmokare", "Visby"]]
+  },
+  "kultur": "Under Medeltidsveckan har verkstaden stängt en eftermiddag, och den som vill går på tornerspelen.",
+  "citat": {"text": "Huset har stått här i sjuhundra år. Mitt jobb är att se till att det klarar sjuhundra till, även med en diskmaskin i köket.", "namn": "Ellinor Gahnström", "roll": "Ägare och rörmokare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Antikvarien var skeptisk tills Ellinor visade hur hon tänkt dra avloppet genom den gamla skorstenen. Då sa han ja direkt.", "namn": "Henrik och Sofie B.", "ort": "Visby"},
+    {"text": "Vi bytte varmvattenberedare vartannat år innan avhärdaren kom på plats. Nu är det tre år sedan.", "namn": "Gunnel A.", "ort": "Hemse"},
+    {"text": "Pensionatet har inte haft ett enda kallt duschrum sedan de byggde om cirkulationen.", "namn": "Johan L., Pensionatet i Ljugarn", "ort": "Ljugarn"}
+  ],
+  "faq": [
+    ["Behöver jag bygglov för nya rör i innerstaden?", "Ofta ja, eller i varje fall samråd med länsstyrelsen. Vi tar fram underlaget och vet vilka ingrepp som brukar godkännas."],
+    ["Hur vet jag om mitt vatten är för hårt?", "Om blandarna kalkar igen och vattenkokaren får vita beläggningar är det troligt. Vi mäter hårdheten på plats och förklarar vad som behövs."],
+    ["Får jag använda regnvatten till toaletten?", "Ja, så länge systemet är helt skilt från dricksvattnet. Vi monterar backventiler och märker alla ledningar."],
+    ["Kommer ni ut till Fårö?", "Ja. Fårö och de norra socknarna har vi på tisdagar och torsdagar, då färjeresan ingår i priset."],
+    ["Kan ni ta jobb under sommaren?", "Akuta ärenden alltid. Planerade jobb i juni–augusti bokas helst före februari."],
+    ["Gör ni rotavdrag?", "Ja, direkt på fakturan, även för sommarhus du äger."]
+  ],
+  "certifikat": [
+    {"titel": "Säker Vatten", "text": "Auktoriserat företag – även i hus där vi måste ta ovanliga vägar med rören.", "ikon": "vatten"},
+    {"titel": "Byggnadsvård", "text": "Tre av oss har gått Hantverkslaboratoriets kurs i installationer i kulturhistoriska byggnader.", "ikon": "sten"},
+    {"titel": "Installatörsföretagen", "text": "Medlemmar sedan 1984 och följer konsumentbestämmelserna för installationsarbete.", "ikon": "portfolj"},
+    {"titel": "Legionellakontroll", "text": "Utbildade i riskbedömning av tappvarmvatten i gästhem och hotell.", "ikon": "sok"}
+  ],
+  "kunder": ["Gästhemmet Strandgatan", "Samfälligheten Slite Strand", "Pensionatet i Ljugarn", "Föreningen Gamla Visby Hus", "Fårö Kursgård", "Hemse Lantbruksgrupp", "Klintehamns Hamnkrog"],
+  "nyheter": [
+    ["2026-10-08", "Boka vårens jobb redan nu", "April till juni är fullt varje år – vi planerar gärna med dig under vintern.", "kontor"],
+    ["2026-07-15", "Bevattningsförbudet är här igen", "Så mycket vatten kan ditt tak samla till nästa sommar.", "natur"],
+    ["2026-03-19", "Nya stammar genom en skorsten", "Så löste vi avloppet på Strandgatan utan att röra murverket.", "sten"]
+  ],
+  "kontakt": {"adress": "Hästgatan 21", "postnr": "621 56", "ort": "Visby", "telefon": "070-174 06 13", "epost": "verkstan@ringmurensvvs.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, sommartid även lördagar 9–12",
+  "omrade": "Hela Gotland och Fårö",
+  "fot_cta": "Bor du i ett gammalt hus på ön? Börja med ett platsbesök.",
+  "bild": {"panel": "sten", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Boka platsbesök",
+    "hero_knapp": "Vad vi gör på ön",
+    "vagval_etikett": "Ditt hus",
+    "ber_rubrik": "Nytt från Hästgatan",
+    "proj_rubrik": "Hus på ön vi har arbetat i",
+    "process_rubrik": "Så går ett jobb till på Gotland",
+    "hb_etikett": "Vatten på en ö",
+    "omdomen_rubrik": "Gotlänningar om oss",
+    "faq_rubrik": "Frågor om vatten och gamla hus",
+    "boka_rubrik": "Boka ett platsbesök",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Adress, socken och vad det gäller"],
+    "logos_rubrik": "Gästhem och föreningar på Gotland",
+    "certifikat_rubrik": "Behörigheter för ovanliga hus",
+    "bolag_rubrik": "Innanför och utanför muren",
+    "bolag_kol": ["Grupp", "Vilka", "Vad de gör"],
+    "medarbetare": "Rörmokarna på ön"
+  }
+}

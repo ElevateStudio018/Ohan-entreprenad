@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "solel",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Storsjöljus AB",
+  "kortnamn": "Storsjöljus",
+  "slug": "storsjoljus",
+  "typ": "Solel för besöksnäringen i Jämtland",
+  "tagline": "Hotell, camping, fjällby",
+  "slogan": "Vi bygger solceller, batterier och husbilsladdning för hotell, campingar och stugbyar – så att sommarsäsongen bär en större del av elräkningen.",
+  "hero_rubrik": "Sommargästerna kan betala vinterns el",
+  "hero_text": "Juli är fullbokat och solen står uppe till elva på kvällen. Vi dimensionerar anläggningar efter beläggningen – inte efter en villakalkyl.",
+  "intro_rubrik": "Från en receptionsdisk i Åre till sexton anställda",
+  "om": [
+    "Emma Sundqvist var driftchef på ett hotell i Åre i nio år och såg elräkningen växa varje säsong. 2017 startade hon Storsjöljus tillsammans med elektrikern Petter Olofsson från Brunflo, med en enda tanke: besöksnäringen förbrukar mest el när det är fullt, och i Jämtland är det fullt både i juli och i februari.",
+    "I dag är vi sexton anställda med kontor på Frösön och lager i Lugnvik. Vi har byggt 140 anläggningar åt hotell, campingar, liftbolag och stugbyar mellan Storlien och Funäsdalen, de flesta mellan 30 och 400 kW."
+  ],
+  "vagval_rubrik": "Vilken sorts anläggning driver du?",
+  "tjanster": [
+    {"titel": "Hotell och konferens", "ikon": "kontor", "href": "verksamhet.html", "text": "Solceller som täcker kök, tvätteri och ventilation under högsäsong."},
+    {"titel": "Camping och husbil", "ikon": "bil", "href": "verksamhet.html", "text": "Laddstolpar och elstolpar för husbilar, matade av campingens eget tak."},
+    {"titel": "Stugbyar i fjällen", "ikon": "hus", "href": "verksamhet.html", "text": "Gemensam anläggning för 20–80 stugor med debitering per stuga."},
+    {"titel": "Liftar och cykelpark", "ikon": "upp", "href": "verksamhet.html", "text": "Sommarlifter för downhill drar el när solen står som högst."},
+    {"titel": "Batteri för effektavgift", "ikon": "laddning", "href": "verksamhet.html", "text": "Kapar topparna när alla bastur värms samtidigt en lördag i februari."},
+    {"titel": "Snölast och fjällvind", "ikon": "vind", "href": "verksamhet.html", "text": "Ställ och infästningar beräknade för snözon 5 och vindutsatta lägen."},
+    {"titel": "Gästskärm i lobbyn", "ikon": "graf", "href": "verksamhet.html", "text": "Visa gästerna dagens produktion – det märks i recensionerna."},
+    {"titel": "Ring Emma", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Hon har stått i receptionen och vet hur säsongen ser ut."}
+  ],
+  "affarsomraden": [
+    {"titel": "Hotell och konferensgårdar", "text": "Ett hotell med 120 bäddar drar som mest el mellan klockan sju och elva på förmiddagen, när frukost, tvätt och städning pågår samtidigt. Vi lägger panelerna så att de producerar just då – ofta öst-väst på platta tak.", "text2": "Typisk anläggning: 150–300 kW med 12–20 procents täckning av årsförbrukningen.", "tagg": "solel"},
+    {"titel": "Campingar och husbilsplatser", "text": "Husbilsgäster vill ladda, och campingen vill inte höja huvudsäkringen. Vi bygger solceller på servicehus och carportar och styr laddningen efter vad taket ger.", "text2": "Elstolparna debiteras per natt eller per kWh via campingens bokningssystem.", "tagg": "el"},
+    {"titel": "Stugbyar och fjällhotell", "text": "I stugbyar med 40 stugor och en gemensam servis bygger vi en anläggning på en gemensam byggnad och fördelar elen med undermätare. Det fungerar både för hyresstugor och för ägda stugor i en samfällighet.", "text2": "Vi har byggt i Bydalen, Vemdalen, Hallen och Storlien.", "tagg": "hem"},
+    {"titel": "Batterier mot vintertoppen", "text": "Lördagen under sportlovet är årets dyraste timme för många fjällanläggningar. Ett batteri på 200 kWh som laddas på natten kan sänka effektavgiften med en tredjedel.", "text2": "Batteriet räknas hem på effektavgiften – solen gör resten under sommaren.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Projekt besöksnäring", "segment": "Hotell, camping, stugbyar", "rubrik": "Vi pratar beläggning, inte bara kilowatt", "text": "Tre projektledare som går igenom bokningsstatistik och mätardata innan de ritar en enda panel.", "tagg": "kontor"},
+    {"namn": "Montage fjäll", "segment": "Bygg och el", "rubrik": "Två lag som jobbar mellan säsongerna", "text": "Åtta montörer och elektriker som bygger i maj–juni och september–oktober, när anläggningarna står tomma.", "tagg": "solel"},
+    {"namn": "Drift & gästskärm", "segment": "Övervakning", "rubrik": "Produktionen syns i receptionen", "text": "Övervakning, larm och skärmar för lobbyn. Vi ringer driftchefen innan gästerna märker något.", "tagg": "el"}
+  ],
+  "berattelser": [
+    {"rubrik": "Bydalens stugby delar på 180 kW", "text": "Sextiofyra stugor och ett servicehus fick en gemensam anläggning i september – byggd på tre veckor mellan säsongerna.", "tagg": "solel"},
+    {"rubrik": "Elstolpar för 90 husbilar på Frösön", "text": "Campingen höll huvudsäkringen på 250 A trots att alla platser fick laddning.", "tagg": "el"},
+    {"rubrik": "Sportlovsveckan utan effekttopp", "text": "Ett batteri på 240 kWh i Vemdalen tog bort den högsta timmen för andra vintern i rad.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "140", "enhet": "", "etikett": "Anläggningar inom besöksnäringen"},
+    {"varde": "19", "enhet": "h", "etikett": "Soltimmar en klar midsommardag"},
+    {"varde": "16", "enhet": "anställda", "etikett": "På Frösön och i Lugnvik"},
+    {"varde": "31 %", "enhet": "", "etikett": "Lägre effektavgift med batteri"}
+  ],
+  "projekt": [
+    {"namn": "Bydalens Fjällby", "ort": "Bydalen", "typ": "Stugby, 180 kW", "ar": "2025", "text": "Gemensam anläggning på servicehuset och undermätning för 64 stugor.", "tagg": "solel"},
+    {"namn": "Frösö Strandcamping", "ort": "Östersund", "typ": "Camping med laddning", "ar": "2025", "text": "Solcarport över receptionen och 90 elstolpar med lastbalansering.", "tagg": "el"},
+    {"namn": "Vemdalsskalets Fjällhotell", "ort": "Vemdalen", "typ": "Batteri 240 kWh", "ar": "2024", "text": "Batteriet laddas nattetid och tar topparna under sportloven.", "tagg": "industri"},
+    {"namn": "Hotell Storsjöstrand", "ort": "Östersund", "typ": "Hotelltak, 260 kW", "ar": "2024", "text": "Öst-västlagda paneler som producerar under frukost och städning.", "tagg": "stad"},
+    {"namn": "Hallens Gårdspensionat", "ort": "Hallen", "typ": "Pensionat och ladugård", "ar": "2023", "text": "Ladugårdstaket försörjer både rummen och gårdens eget mejeri.", "tagg": "anlaggning"},
+    {"namn": "Storliens Cykelpark", "ort": "Storlien", "typ": "Sommarlift, 320 kW", "ar": "2026", "text": "Markanläggning vid dalstationen som ska driva liften för downhillcyklister.", "tagg": "solel", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Beläggning och mätardata", "text": "Vi går igenom bokningsstatistik och timvärden för tre säsonger innan vi föreslår något.", "tagg": "kontor"},
+    {"titel": "Förslag med säsongskurva", "text": "Du får en kalkyl som visar månad för månad hur mycket solen och batteriet täcker.", "tagg": "solel"},
+    {"titel": "Bygge mellan säsongerna", "text": "Montaget läggs i maj–juni eller september–oktober, så att inga gäster störs.", "tagg": "bygg"},
+    {"titel": "Skärm i receptionen", "text": "Vi kopplar in övervakningen och sätter upp en gästskärm som visar dagens produktion.", "tagg": "el"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fjällen är skälet till att gästerna kommer",
+    "text": "Allt fler researrangörer frågar efter hotellens energimix innan de bokar grupper. Vi tar fram ett underlag för hållbarhetscertifiering och bygger så att markanläggningar kan tas bort utan spår i fjällhedarna.",
+    "mal": [["0", "betongfundament i fjällmiljö – vi borrar markskruv"], ["5,4 kPa", "snölast som alla ställ klarar"], ["2 v", "från platsbesök till säsongskalkyl"]]
+  },
+  "karriar": {"rubrik": "Bygg på våren och hösten, åk skidor på vintern", "text": "Våra montörer arbetar intensivt två perioder om året och har längre ledighet under högsäsong i fjällen. Vi söker folk som gillar det upplägget.", "jobb": [["Elektriker", "Östersund"], ["Solcellsmontör, säsong", "Östersund"], ["Projektledare besöksnäring", "Åre"]]},
+  "kultur": "Under sportlovet är montaget stängt – då arbetar hälften av oss extra som skidlärare eller liftvärdar.",
+  "citat": {"text": "Jag har stått i receptionen när elräkningen kom. Ingen i besöksnäringen vill ha en solcellsföreläsning. De vill veta vad det betyder för juli och februari.", "namn": "Emma Sundqvist", "roll": "Vd och grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Kalkylen visade exakt hur mycket vi skulle spara i juli jämfört med november. Efter första sommaren låg vi fyra procent över.", "namn": "Johan R.", "ort": "Bydalen"},
+    {"text": "Montaget gjordes veckan efter att sista husbilen åkt i september. Ingen gäst såg en enda byggnadsställning.", "namn": "Annika H.", "ort": "Östersund"},
+    {"text": "Skärmen i lobbyn har blivit ett samtalsämne. Gästerna fotograferar den och skriver om den i omdömena.", "namn": "Karl-Erik B.", "ort": "Vemdalen"}
+  ],
+  "faq": [
+    ["Lönar det sig när vintersäsongen är mörk?", "Ja, om sommarsäsongen är stark. En anläggning i Jämtland producerar ungefär 70 procent av årets el mellan april och augusti – precis när campingar, cykelparker och sommarhotell har fullt."],
+    ["Klarar panelerna snön i fjällen?", "Vi räknar alla ställ för snözon 5 och använder paneler godkända för 5 400 Pa. På tak med risk för ras sätter vi snöräcken nedanför panelerna."],
+    ["Kan stugägare i en samfällighet dela på en anläggning?", "Ja. Anläggningen ägs av samfälligheten eller en ekonomisk förening och elen fördelas med undermätare. Vi hjälper till med avtal och fördelningsnyckel."],
+    ["Behöver vi höja huvudsäkringen för husbilsladdning?", "Oftast inte. Med lastbalansering styr vi laddningen efter vad servisen klarar och vad solcellerna producerar just då."],
+    ["När bygger ni?", "Helst i maj–juni och september–oktober, när anläggningarna har lägst beläggning. Bokar du före mars hinner vi bygga före midsommar."],
+    ["Hjälper ni till med hållbarhetscertifiering?", "Vi tar fram energidata och underlag som krävs för de vanliga certifieringarna inom hotell och camping, men själva ansökan gör ni."],
+    ["Bygger ni utanför Jämtland?", "Ja, i hela Jämtland och Härjedalen och i Ångermanlands fjällnära delar. Längre bort åker vi för anläggningar över 100 kW."]
+  ],
+  "certifikat": [
+    {"titel": "Allmän elbehörighet (AB)", "text": "Företaget är registrerat hos Elsäkerhetsverket och har ett eget egenkontrollprogram för solcellsinstallationer.", "ikon": "blixt"},
+    {"titel": "Certifierad solcellsmontör", "text": "Två av våra montörer har personcertifiering för projektering och installation av solceller.", "ikon": "sol"},
+    {"titel": "Säkert arbete på hög höjd", "text": "Alla montörer har fallskyddsutbildning och arbetar med skylift eller ställning på tak över två våningar.", "ikon": "hjalm"},
+    {"titel": "Laddinfrastruktur", "text": "Utbildade installatörer för publik laddning och lastbalansering enligt gällande standard.", "ikon": "laddning"}
+  ],
+  "kunder": ["Bydalens Fjällby AB", "Frösö Strandcamping", "Vemdalsskalets Fjällhotell", "Hotell Storsjöstrand", "Hallens Gårdspensionat", "Storliens Cykelpark AB", "Funäsdalens Stugförmedling", "Edsåsdalens Fjällstugeförening"],
+  "nyheter": [
+    ["2026-10-06", "Höstbyggena är klara", "Elva anläggningar byggdes mellan sista husbilen och första snön.", "solel"],
+    ["2026-07-15", "Rekordmånad på Frösön", "Campingens tak producerade 41 000 kWh i juni – mer än campingen förbrukade.", "el"],
+    ["2026-03-02", "Boka nu för bygge före midsommar", "Vi har sju platser kvar i vårens montageschema.", "bygg"],
+    ["2025-11-20", "Effektavgift i fjällen", "Så räknar du ut vad sportlovets toppar kostar din anläggning.", "industri"]
+  ],
+  "kontakt": {"adress": "Frösö Park, Arenavägen 7", "postnr": "832 51", "ort": "Frösön", "telefon": "070-174 06 14", "epost": "hej@storsjoljus.se", "orgnr": ""},
+  "oppettider": "Mån–fre 08–16.30, sportlovsveckor 09–12",
+  "omrade": "Jämtland och Härjedalen, från Storlien till Funäsdalen",
+  "fot_cta": "Driver du hotell, camping eller stugby? Skicka tre års timvärden så får du en säsongskalkyl.",
+  "bild": {"panel": "natur", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Säsongskalkyl",
+    "hero_knapp": "Anläggningar vi byggt",
+    "hero_lank": "Läs om stugbyar",
+    "vagval_etikett": "Verksamhet",
+    "ber_rubrik": "Senaste från fjällen",
+    "proj_rubrik": "Från Storlien till Vemdalen",
+    "process_rubrik": "Från bokningsstatistik till gästskärm",
+    "hb_etikett": "Fjällmiljö",
+    "hb_lank": "Så bygger vi i känslig natur",
+    "omdomen_rubrik": "Driftchefer och campingvärdar",
+    "faq_rubrik": "Det besöksnäringen frågar oss",
+    "boka_rubrik": "Beställ en säsongskalkyl",
+    "boka_text": "Berätta vad du driver och hur många bäddar eller platser du har. Emma eller en projektledare hör av sig inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "Anläggningens namn och ort", "Bäddar, stugor eller platser"],
+    "logos_rubrik": "Hotell, campingar och stugbyar",
+    "certifikat_rubrik": "Behöriga för fjäll, tak och laddning",
+    "bolag_rubrik": "Projekt, montage och drift",
+    "ny_rubrik": "Nytt från Frösön",
+    "medarbetare": "Storsjöljus-laget"
+  }
+}

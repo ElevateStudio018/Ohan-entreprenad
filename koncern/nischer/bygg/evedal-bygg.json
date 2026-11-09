@@ -1,0 +1,132 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Evedal Bygg & Energi AB",
+  "kortnamn": "Evedal",
+  "slug": "evedal-bygg",
+  "typ": "Energirenovering av villor och hyreshus, Växjö",
+  "tagline": "Halva energin, samma hus",
+  "slogan": "Vi tilläggsisolerar, byter fönster och installerar FTX och solceller – och mäter förbrukningen före och efter.",
+  "hero_rubrik": "Mätt före, mätt efter. Halva notan kvar.",
+  "hero_text": "Energirenovering av 60- och 70-talshus i Kronobergs län, med termografering, beräknad besparing och uppföljning efter ett år. 45 anställda.",
+  "intro_rubrik": "Varje renovering följs upp med elmätaren",
+  "om": [
+    "Evedal Bygg & Energi grundades 2009 av energiingenjören Johanna Bexell och snickaren Mikael Sandin i en lada vid Evedals brunn norr om Växjö. De ville bygga om hus utifrån mätningar i stället för antaganden, och började med att termografera grannarnas villor gratis.",
+    "I dag är vi 45 anställda och renoverar cirka 140 villor och 600 lägenheter om året. Varje uppdrag börjar med en energiberäkning och slutar med att vi jämför årsförbrukningen med vad vi lovade."
+  ],
+  "vagval_rubrik": "Var läcker huset mest?",
+  "tjanster": [
+    {"titel": "Termografering", "ikon": "kamera", "href": "verksamhet.html", "text": "Värmekamera och tryckprovning visar var värmen försvinner."},
+    {"titel": "Tilläggsisolering", "ikon": "hus", "href": "verksamhet.html", "text": "Vind, fasad och grund – med träfiber eller lösull."},
+    {"titel": "Fönsterbyte", "ikon": "sol", "href": "verksamhet.html", "text": "Treglasfönster med U-värde 0,8, monterade med tätad drevning."},
+    {"titel": "FTX-ventilation", "ikon": "vind", "href": "verksamhet.html", "text": "Värmeåtervinning på upp till 85 procent i villor och hyreshus."},
+    {"titel": "Solceller", "ikon": "laddning", "href": "verksamhet.html", "text": "Tak- och fasadmonterade paneler med batteri som tillval."},
+    {"titel": "Bergvärme & luft-vatten", "ikon": "blixt", "href": "verksamhet.html", "text": "Byte från direktverkande el eller olja, i samarbete med VVS-partner."},
+    {"titel": "Energideklaration", "ikon": "graf", "href": "verksamhet.html", "text": "Certifierad energiexpert före och efter renoveringen."},
+    {"titel": "Boka energibesök", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "En timme i huset med värmekamera – 2 900 kronor, avräknas vid uppdrag."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villa", "text": "Ett typiskt 70-talshus i Växjö drar 22 000 kilowattimmar om året. Med tilläggsisolerad vind, nya fönster och FTX brukar vi landa under 11 000.", "text2": "ROT-avdrag gäller för arbetet och grönt avdrag för solceller och batteri.", "tagg": "hem"},
+    {"titel": "Flerbostadshus", "text": "Hyreshus från miljonprogrammet får ny fasad med 200 millimeter isolering, nya fönster och FTX per trapphus. Hyresgästerna bor kvar och varje lägenhet är påverkad i högst tre veckor.", "text2": "Vi redovisar energiprestanda före och efter i kilowattimmar per kvadratmeter Atemp.", "tagg": "bostad"},
+    {"titel": "Energiberäkning", "text": "Innan vi lämnar offert räknar vår energiexpert fram husets förbrukning och vilka åtgärder som ger mest per investerad krona. Rapporten visar återbetalningstid för varje åtgärd.", "text2": "Du väljer själv – och kan göra åtgärderna i etapper.", "tagg": "kontor"},
+    {"titel": "Solel och lagring", "text": "Paneler på tak och söderfasad, kopplade till batteri och laddbox. Våra elektriker är behöriga och anmäler anläggningen till nätbolaget.", "text2": "En villa med 10 kilowatt producerar runt 9 500 kilowattimmar om året i Kronoberg.", "tagg": "solel"}
+  ],
+  "bolag": [
+    {"namn": "Evedal Villa", "segment": "Småhus", "rubrik": "140 villor om året", "text": "Snickare och isolerare som renoverar klimatskal och installerar FTX i villor och radhus.", "tagg": "hem"},
+    {"namn": "Evedal Fastighet", "segment": "Hyreshus och brf", "rubrik": "Fasad, fönster och ventilation per trapphus", "text": "Energirenoverar flerbostadshus åt kommunala bolag, privata fastighetsägare och föreningar.", "tagg": "bostad"},
+    {"namn": "Evedal Energi", "segment": "Beräkning och mätning", "rubrik": "Fyra energiexperter och två värmekameror", "text": "Termograferar, tryckprovar och gör energiberäkningar och energideklarationer.", "tagg": "kontor"},
+    {"namn": "Evedal Solel", "segment": "Solceller och el", "rubrik": "Paneler, batteri och laddbox", "text": "Behöriga elektriker som installerar och underhåller solcellsanläggningar.", "tagg": "solel"}
+  ],
+  "berattelser": [
+    {"rubrik": "Kv. Lärkträdet halverade förbrukningen", "text": "Ett år efter renoveringen drar de 96 lägenheterna på Araby 48 procent mindre energi.", "tagg": "bostad"},
+    {"rubrik": "Villa i Öjaby från olja till solel", "text": "Familjen Ek gick från 3 400 liter olja till ett plusenergihus på två säsonger.", "tagg": "hem"},
+    {"rubrik": "Värmekameran ute igen", "text": "Kalla nätter betyder säsong för termografering – vi har öppnat bokningen för vintern.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "−46 %", "enhet": "kWh", "etikett": "Snittbesparing efter ett år"},
+    {"varde": "1 900", "enhet": "", "etikett": "Villor renoverade sedan 2009"},
+    {"varde": "45", "enhet": "", "etikett": "Anställda i Kronoberg"},
+    {"varde": "12 mån", "enhet": "", "etikett": "Uppföljning med mätdata"}
+  ],
+  "projekt": [
+    {"namn": "Kv. Lärkträdet", "ort": "Araby, Växjö", "typ": "Energirenovering hyreshus", "ar": "2025", "text": "96 lägenheter med ny fasad, treglasfönster och FTX – 48 procent lägre förbrukning.", "tagg": "bostad"},
+    {"namn": "Villa Ek", "ort": "Öjaby", "typ": "Villa", "ar": "2025", "text": "Oljepanna ersatt med bergvärme, 14 kilowatt solceller och tilläggsisolerad vind.", "tagg": "hem"},
+    {"namn": "Brf Teleborgshöjden", "ort": "Teleborg, Växjö", "typ": "Fönster och FTX", "ar": "2026", "text": "Fönsterbyte och FTX i 72 lägenheter, ett trapphus i taget.", "tagg": "bostad"},
+    {"namn": "Radhusen på Hovshaga", "ort": "Hovshaga, Växjö", "typ": "Klimatskal", "ar": "2024", "text": "24 radhus från 1972 med ny träfiberisolering och träfasad.", "tagg": "tra"},
+    {"namn": "Alvesta Bostäder, Hagagatan", "ort": "Alvesta", "typ": "Solel och FTX", "ar": "2024", "text": "Solcellsanläggning på 120 kilowatt och värmeåtervinning i tre huskroppar.", "tagg": "solel"},
+    {"namn": "Lammhults parhus", "ort": "Lammhult", "typ": "Villa", "ar": "2026", "text": "Parhus från 1964 med fasadisolering, nya fönster och luft-vattenvärmepump.", "tagg": "hem", "status": "Klart"}
+  ],
+  "process": [
+    {"titel": "Värmekamera och tryckprov", "text": "Vi termograferar en kall dag och mäter husets lufttäthet med en blower door.", "tagg": "hem"},
+    {"titel": "Beräkning med prislapp", "text": "Du får en rapport med varje åtgärd, dess kostnad och hur många kilowattimmar den sparar.", "tagg": "kontor"},
+    {"titel": "Renovering i etapper", "text": "Vi börjar med det som ger mest: oftast vinden, sedan fönster och ventilation.", "tagg": "bygg"},
+    {"titel": "Mätning efter ett år", "text": "Vi hämtar ut årsförbrukningen och jämför med beräkningen. Avviker den mer än tio procent letar vi felet.", "tagg": "solel"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi lovar en siffra – och kontrollerar den",
+    "text": "Efter tolv månader jämför vi den uppmätta förbrukningen med beräkningen och skickar resultatet till kunden. Isoleringen är träfiber eller lösull av returpapper, och utbytta fönster går till glasåtervinning i Älmhult.",
+    "mal": [["46 %", "genomsnittlig energibesparing 2025"], ["±10 %", "största tillåtna avvikelse från beräkningen"], ["90 %", "av isoleringen är biobaserad"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg om Sverige, ett hus i taget",
+    "text": "Hos oss lär sig snickare att läsa en termografibild och energiexperter att hålla i en spikpistol. Alla får utbildning i lufttätt byggande och chans att certifiera sig.",
+    "jobb": [["Snickare, energirenovering", "Växjö"], ["Certifierad energiexpert", "Växjö"], ["Elektriker, solceller", "Växjö"], ["Projektledare, flerbostadshus", "Alvesta"]]
+  },
+  "kultur": "Varje anställd får en termografering av sitt eget hem det första året.",
+  "citat": {"text": "Folk tror att energirenovering handlar om teknik. Det handlar om att täta skarvar. En spricka på en millimeter kostar mer än man tror.", "namn": "Johanna Bexell", "roll": "Medgrundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Beräkningen sa 52 procent mindre. Efter ett år hade vi sparat 49. Evedal skickade siffrorna utan att vi bad om dem.", "namn": "Lars E.", "ort": "Öjaby"},
+    {"text": "Hyresgästerna märkte mest att det slutade dra från fönstren. Vi märkte det på fjärrvärmefakturan.", "namn": "Pernilla G.", "ort": "Kv. Lärkträdet, Araby"},
+    {"text": "Värmekamerabilderna visade att halva vinden saknade isolering. Det hade ingen besiktningsman sett.", "namn": "Ahmad R.", "ort": "Hovshaga"}
+  ],
+  "faq": [
+    ["Vad kostar en energirenovering av en villa?", "Vind, fönster och FTX i en villa på 140 kvadratmeter kostar ofta 350 000–550 000 kronor före ROT-avdrag. Energibesöket visar vad just ditt hus behöver."],
+    ["Hur lång är återbetalningstiden?", "Vindsisolering betalar sig ofta på fem till åtta år. Fönster och FTX tar längre tid men höjer också komforten och husets värde."],
+    ["Kan jag få ROT eller grönt avdrag?", "ROT-avdrag gäller för arbetskostnaden vid isolering och fönsterbyte. Solceller och batteri ger grönt avdrag direkt på fakturan."],
+    ["Måste hyresgästerna flytta ut?", "Nej. Fasadarbeten görs från ställning och fönsterbyte tar en dag per lägenhet. FTX-montaget tar två till tre dagar."],
+    ["Vad händer om besparingen blir mindre än lovat?", "Om förbrukningen avviker mer än tio procent från beräkningen felsöker vi utan kostnad och åtgärdar det som är fel."],
+    ["Arbetar ni utanför Växjö?", "Ja, i hela Kronobergs län och i norra Skåne och västra Blekinge."]
+  ],
+  "certifikat": [
+    {"titel": "Certifierad energiexpert", "text": "Fyra energiexperter med behörighet att utfärda energideklarationer.", "ikon": "graf"},
+    {"titel": "Elinstallatör", "text": "Registrerade hos Elsäkerhetsverket med behöriga elinstallatörer för solcellsanläggningar.", "ikon": "blixt"},
+    {"titel": "BF9K", "text": "Certifierat kvalitets- och miljöledningssystem sedan 2015.", "ikon": "dokument"},
+    {"titel": "ID06", "text": "Personalliggare och legitimation på alla arbetsplatser, även villor.", "ikon": "las"}
+  ],
+  "certifikat_rubrik": "Behöriga att räkna, bygga och koppla in",
+  "kunder": ["Växjö Hyresfastigheter", "Alvesta Bostäder", "Brf Teleborgshöjden", "Hovshaga Samfällighet", "Lessebo kommun", "Brf Evedalsgården", "Älmhults Bostads AB", "Tingsryds Fastigheter"],
+  "kunder_rubrik": "Fastighetsägare som mäter resultatet",
+  "nyheter": [
+    ["2026-10-30", "Termograferingssäsongen har börjat", "Så fort nätterna är under fem grader bokar vi energibesök.", "hem"],
+    ["2026-08-14", "Ett år efter: 48 procent mindre", "Uppföljningen från Kv. Lärkträdet på Araby är klar.", "bostad"],
+    ["2026-04-08", "Nytt kontor i Alvesta", "Fem nyanställda och en egen lagerlokal för isolering.", "kontor"]
+  ],
+  "kontakt": {"adress": "Hejaregatan 18", "postnr": "352 46", "ort": "Växjö", "telefon": "070-174 06 12", "epost": "energi@evedalbygg.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, energibesök även lördagar okt–mars",
+  "omrade": "Kronobergs län, norra Skåne och västra Blekinge",
+  "fot_cta": "Vill du veta vad ditt hus läcker? Boka ett energibesök med värmekamera i vinter.",
+  "bild": {"hb": "solel", "sida_hb": "solel"},
+  "text": {
+    "topp_hem": "Evedal Bygg & Energi",
+    "kontakt_knapp": "Boka energibesök",
+    "hero_knapp": "Åtgärder vi gör",
+    "hero_lank": "Uppmätta resultat",
+    "ber_rubrik": "Siffror från årets uppföljningar",
+    "proj_etikett": "Energirenoveringar",
+    "proj_rubrik": "Hus som drar hälften så mycket",
+    "proj_rubrik_lista": "Villor, radhus och hyreshus vi har energirenoverat",
+    "process_etikett": "Metoden",
+    "process_rubrik": "Mät, räkna, bygg, mät igen",
+    "hb_etikett": "Uppföljning",
+    "hb_lank": "Så följer vi upp besparingen",
+    "omdomen_etikett": "Husägarna",
+    "omdomen_rubrik": "Ett år senare, med fakturan i handen",
+    "faq_rubrik": "Frågor om energi, ROT och återbetalning",
+    "boka_rubrik": "Boka värmekameran",
+    "boka_text": "Skriv adress, byggår och hur du värmer huset i dag, så föreslår en energiexpert en tid för besök.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Adress, byggår och uppvärmning"],
+    "ny_rubrik": "Nytt från Evedal",
+    "bolag_rubrik": "Villa, fastighet, energi och solel",
+    "medarbetare": "Energilaget"
+  }
+}

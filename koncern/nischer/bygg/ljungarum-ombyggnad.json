@@ -1,0 +1,133 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ljungarum Ombyggnad AB",
+  "kortnamn": "Ljungarum",
+  "slug": "ljungarum-ombyggnad",
+  "typ": "Konvertering av fabriker och kontor till bostäder",
+  "tagline": "Gamla hus, nya hem",
+  "slogan": "Vi förvandlar tomma kontor, fabriker och skolor till lägenheter – med stommen kvar och klimatskulden betald.",
+  "hero_rubrik": "Fabriken blev 48 hem. Stommen fick stå.",
+  "hero_text": "Ljungarum bygger om kontorshus, industrilokaler och nedlagda skolor till bostäder i Jönköping, Huskvarna och längs Vättern. 60 anställda, egen projektering.",
+  "intro_rubrik": "Nio hundra lägenheter i hus som redan fanns",
+  "om": [
+    "Ljungarum Ombyggnad startades 2008 av byggnadsingenjören Henrik Sjöstrand och arkitekten Leila Nordin, som tröttnat på att se fungerande betongstommar rivas. Vårt första projekt var ett tomt tryckeri på Öster som blev 22 hyresrätter.",
+    "I dag är vi 60 anställda och har konverterat drygt 900 lägenheter, de flesta i Jönköpings län. Vi gör hela kedjan själva: inventering, bygglov, håltagning i stommen, installationer och inredning."
+  ],
+  "vagval_rubrik": "Vilket hus står tomt?",
+  "tjanster": [
+    {"titel": "Kontor till bostad", "ikon": "kontor", "href": "verksamhet.html", "text": "Djupa kontorsplan delas upp med ljusgårdar och nya trapphus."},
+    {"titel": "Fabrik till loft", "ikon": "fabrik", "href": "verksamhet.html", "text": "Höga takhöjder och stora fönster blir lägenheter med entresol."},
+    {"titel": "Skola till boende", "ikon": "skola", "href": "verksamhet.html", "text": "Klassrum blir tvåor, gymnastiksalen blir gemensamhetslokal."},
+    {"titel": "Inventering", "ikon": "sok", "href": "verksamhet.html", "text": "Vi provborrar, mäter och kartlägger miljöfarligt material."},
+    {"titel": "Bygglov & detaljplan", "ikon": "dokument", "href": "verksamhet.html", "text": "Ändrad användning kräver bygglov – vi tar fram allt underlag."},
+    {"titel": "Håltagning i stomme", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vajersågning och kärnborrning för nya schakt och fönster."},
+    {"titel": "Ljud & brand", "ikon": "skold", "href": "verksamhet.html", "text": "Nya bjälklagsmattor och brandceller som klarar bostadskraven."},
+    {"titel": "Visa oss huset", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi gör en första bedömning av huset utan kostnad."}
+  ],
+  "affarsomraden": [
+    {"titel": "Kontorshus", "text": "Kontor från 1960–1990 har ofta bra stommar men för djupa plan för bostäder. Vi skär upp ljusgårdar, flyttar trapphus och delar varje plan i lägenheter med fönster åt två håll.", "text2": "Ett kontorshus på 4 000 kvadratmeter ger normalt 55–65 lägenheter.", "tagg": "kontor"},
+    {"titel": "Industribyggnader", "text": "Tegelfabriker och verkstäder med pelardäck och stora fönster blir lägenheter med takhöjder på upp till fem meter. Vi sanerar mark och stomme innan första väggen byggs.", "text2": "Fönsterpartierna renoveras eller kopieras i stål med energiglas.", "tagg": "industri"},
+    {"titel": "Skolor och offentliga hus", "text": "Nedlagda skolor, vårdhem och tingshus säljs ofta av kommunen. Vi bygger om dem till hyresrätter, trygghetsboenden eller bostadsrätter med kvar de detaljer som gör huset speciellt.", "text2": "Korridorerna blir förråd och aulan blir gemensam matsal.", "tagg": "bostad"},
+    {"titel": "Förstudie och ekonomi", "text": "Innan något köps tar vi fram en förstudie med antal lägenheter, ombyggnadskostnad och klimatberäkning. Fastighetsägaren vet då om projektet håller innan bygglovet söks.", "text2": "En förstudie tar fyra till sex veckor och kostar från 85 000 kronor.", "tagg": "people"}
+  ],
+  "bolag": [
+    {"namn": "Förstudie & projektering", "segment": "Arkitekter och konstruktörer", "rubrik": "Varje hus börjar med en provborrning", "text": "Åtta arkitekter och ingenjörer som inventerar, ritar och söker bygglov för ändrad användning.", "tagg": "kontor"},
+    {"namn": "Stomme & sanering", "segment": "Rivning och håltagning", "rubrik": "Vi tar bort så lite som möjligt", "text": "Ett lag som sanerar asbest och PCB, sågar nya öppningar och förstärker bjälklag med kolfiber.", "tagg": "industri"},
+    {"namn": "Ombyggnad", "segment": "Bostäder", "rubrik": "Från kontorslandskap till tvåa med balkong", "text": "Snickare, plattsättare och installationsledare som bygger lägenheterna färdiga.", "tagg": "interior"},
+    {"namn": "Ljungarum Snickeri", "segment": "Kök och inredning", "rubrik": "Material från huset blir möbler", "text": "Vår verkstad i Ljungarum tar tillvara parkett, dörrar och bänkskivor från huset och gör kök och garderober av dem.", "tagg": "tra"}
+  ],
+  "berattelser": [
+    {"rubrik": "Loft i det gamla tändsticksmagasinet", "text": "Tegelbyggnaden vid Vättern rymmer nu 48 lägenheter med takhöjd på 4,8 meter.", "tagg": "industri"},
+    {"rubrik": "Kontorshuset på Kaserngatan sålt slut", "text": "Alla 61 bostadsrätter i det tidigare försäkringskontoret var sålda före inflyttning.", "tagg": "bostad"},
+    {"rubrik": "Bankeryd skola får nytt liv", "text": "Byggstart för 26 trygghetslägenheter i en skola från 1952.", "tagg": "bygg"}
+  ],
+  "nyckeltal": [
+    {"varde": "900+", "enhet": "lgh", "etikett": "Konverterade sedan 2008"},
+    {"varde": "−62 %", "enhet": "CO₂", "etikett": "Mot rivning och nybygge"},
+    {"varde": "60", "enhet": "", "etikett": "Anställda i Jönköping"},
+    {"varde": "17", "enhet": "hus", "etikett": "Räddade från rivning"}
+  ],
+  "projekt": [
+    {"namn": "Magasinet vid Vättern", "ort": "Jönköping", "typ": "Industri till loft", "ar": "2026", "text": "48 lägenheter i ett tegelmagasin från 1902 med bevarade gjutjärnspelare.", "tagg": "industri", "status": "Inflyttat"},
+    {"namn": "Kaserngatan 9", "ort": "Jönköping", "typ": "Kontor till bostad", "ar": "2025", "text": "Ett försäkringskontor från 1974 blev 61 bostadsrätter runt en ny ljusgård.", "tagg": "bostad"},
+    {"namn": "Bankeryds gamla skola", "ort": "Bankeryd", "typ": "Skola till trygghetsboende", "ar": "2027", "text": "26 lägenheter och gemensam matsal i den tidigare aulan.", "tagg": "bygg"},
+    {"namn": "Huskvarna verkstäder", "ort": "Huskvarna", "typ": "Industri till hyresrätt", "ar": "2024", "text": "34 hyresrätter i en verkstadsbyggnad längs Huskvarnaån.", "tagg": "industri"},
+    {"namn": "Gamla tingshuset", "ort": "Gränna", "typ": "Offentligt hus till bostad", "ar": "2024", "text": "Åtta lägenheter med den gamla rättssalen kvar som gemensam lokal.", "tagg": "stad"},
+    {"namn": "Rosenlunds kontorspark", "ort": "Jönköping", "typ": "Förstudie", "ar": "2026", "text": "Förstudie för 120 lägenheter i tre kontorshus från 1980-talet.", "tagg": "kontor", "status": "Förstudie"}
+  ],
+  "process": [
+    {"titel": "Provborrning och inventering", "text": "Vi tar ut kärnor ur stommen, mäter fukt och kartlägger asbest, PCB och bly innan vi räknar.", "tagg": "industri"},
+    {"titel": "Förstudie med kalkyl", "text": "Fastighetsägaren får antal lägenheter, ombyggnadskostnad per kvadratmeter och en klimatberäkning.", "tagg": "kontor"},
+    {"titel": "Bygglov för ändrad användning", "text": "Vi tar fram ritningar, brandskydds- och ljudutredning och för dialogen med stadsbyggnadskontoret.", "tagg": "people"},
+    {"titel": "Ombyggnad och inflyttning", "text": "Sanering, håltagning, installationer och inredning – i den ordningen. Visningslägenheten är klar först.", "tagg": "interior"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Den grönaste stommen är den som redan står",
+    "text": "Stommen står för ungefär hälften av ett nytt flerbostadshus klimatpåverkan. När vi behåller den sparar vi i snitt 62 procent koldioxid jämfört med att riva och bygga nytt. Vi gör en klimatdeklaration för varje projekt, även när lagen inte kräver det.",
+    "mal": [["62 %", "lägre klimatpåverkan än rivning och nybygge"], ["35 %", "av inredningsmaterialet återbrukat från huset"], ["17", "byggnader som annars hade rivits"]]
+  },
+  "karriar": {
+    "rubrik": "Varje hus är ett nytt pussel",
+    "text": "Hos oss är ingen ritning den andra lik. Du arbetar i hus med historia, löser problem som ingen standardlösning täcker och ser det tomma huset fyllas av folk.",
+    "jobb": [["Projektledare, konvertering", "Jönköping"], ["Snickare", "Jönköping"], ["Saneringstekniker", "Jönköping"], ["Konstruktör, befintliga stommar", "Jönköping"]]
+  },
+  "kultur": "Innan rivningen börjar går hela laget en guidad tur i huset med någon som arbetade där.",
+  "citat": {"text": "Att riva en betongstomme från 1970 för att bygga en ny är som att elda upp en bokhylla för att köpa en ny. Vi skruvar om i stället.", "namn": "Leila Nordin", "roll": "Medgrundare och arkitekt", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi hade ett kontorshus som stått tomt i fyra år. Förstudien visade att det rymde 61 lägenheter, och projektet blev lönsamt redan vid försäljningen.", "namn": "Christer A.", "ort": "Fastighetsägare, Jönköping"},
+    {"text": "Jag bor där min farfar packade tändstickor. Pelarna står kvar mitt i vardagsrummet och takhöjden är nästan fem meter.", "namn": "Moa J.", "ort": "Magasinet vid Vättern"},
+    {"text": "Ljungarum hittade PCB i fogarna redan vid provborrningen, så det kom ingen överraskning mitt i bygget.", "namn": "Ulf T.", "ort": "Huskvarna"}
+  ],
+  "faq": [
+    ["Går alla hus att bygga om till bostäder?", "Nej. Djupa hus utan möjlighet till ljusgård, låga bjälklag eller hus nära bullriga leder kan vara svåra. Förstudien visar tidigt om det fungerar."],
+    ["Är det billigare än att bygga nytt?", "Ofta 15–30 procent billigare per kvadratmeter, men sanering och håltagning kan ändra kalkylen. Därför börjar vi alltid med provborrning."],
+    ["Behövs ny detaljplan?", "Ibland. Om detaljplanen bara tillåter kontor eller industri krävs en planändring, vilket kan ta 12–24 månader. Vi hjälper till med dialogen med kommunen."],
+    ["Hur klarar ni ljudkraven mellan lägenheterna?", "Med flytande golv, nya undertak och dubbla väggar. Vi mäter ljudet i visningslägenheten innan resten byggs."],
+    ["Kan vi behålla hyresgäster i delar av huset?", "Ja, vi har byggt om plan för plan med kontorshyresgäster kvar i bottenvåningen."],
+    ["Vem äger projektet?", "Vanligen fastighetsägaren eller en byggherre. Vi arbetar som totalentreprenör med fast pris efter förstudien, eller i samverkan med öppen kalkyl."],
+    ["Tar ni uppdrag utanför Jönköpings län?", "Ja, i Östergötland, Västergötland och norra Småland."]
+  ],
+  "certifikat": [
+    {"titel": "BF9K", "text": "Kvalitets- och miljöledningssystem för byggföretag, reviderat årligen.", "ikon": "dokument"},
+    {"titel": "Asbestsanering", "text": "Arbetsmiljöverkets tillstånd för rivning av asbest och utbildad personal enligt AFS.", "ikon": "skold"},
+    {"titel": "PCB-sanering", "text": "Inventering och sanering av PCB-fogar enligt Naturvårdsverkets vägledning.", "ikon": "lov"},
+    {"titel": "ID06", "text": "Alla som arbetar i våra hus är registrerade och identifierade varje dag.", "ikon": "las"}
+  ],
+  "certifikat_rubrik": "Tillstånd för det som gömmer sig i gamla hus",
+  "kunder": ["Vätterhem Invest", "Jönköpings kommun", "Brf Kaserngården", "Fastighets AB Rosenlund", "Huskvarna Bostäder", "Brf Magasinet", "Bankeryds Trygghetsboende", "Grännastaden Fastigheter"],
+  "kunder_rubrik": "Fastighetsägare som valde att bygga om",
+  "nyheter": [
+    ["2026-09-30", "Inflyttning i Magasinet", "De första 48 hushållen har flyttat in i tegelmagasinet vid Vättern.", "industri"],
+    ["2026-06-17", "Vår klimatberäkning, öppet redovisad", "Varför Kaserngatan 9 sparade 2 900 ton koldioxid.", "natur"],
+    ["2026-01-22", "Fem tecken på att ett kontorshus kan bli bostäder", "Stomdjup, takhöjd och fyra saker till att titta på.", "kontor"]
+  ],
+  "kontakt": {"adress": "Herkulesvägen 31", "postnr": "553 03", "ort": "Jönköping", "telefon": "070-174 06 10", "epost": "hej@ljungarumombyggnad.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16.30",
+  "omrade": "Jönköpings län, Östergötland och Västergötland",
+  "fot_cta": "Står ditt hus tomt? Skicka adressen så gör vi en första bedömning inom två veckor.",
+  "bild": {"hb": "industri", "sida_om": "industri", "sida_faq": "interior"},
+  "text": {
+    "topp_hem": "Ljungarum Ombyggnad",
+    "kontakt_knapp": "Visa oss huset",
+    "hero_knapp": "Hus vi bygger om",
+    "hero_lank": "Före och efter",
+    "ber_rubrik": "Senast ombyggt",
+    "proj_etikett": "Konverteringar",
+    "proj_rubrik": "Kontor, fabriker och skolor som blev hem",
+    "proj_rubrik_lista": "Konverterade och pågående hus",
+    "process_etikett": "Ombyggnadsgången",
+    "process_rubrik": "Först provborrning, sedan visningslägenhet",
+    "hb_etikett": "Behållen stomme",
+    "hb_lank": "Läs klimatberäkningarna",
+    "omdomen_etikett": "Ägare och boende",
+    "omdomen_rubrik": "Från tomma hus till fulla trapphus",
+    "faq_rubrik": "Frågor om att bygga om till bostäder",
+    "boka_rubrik": "Berätta om det tomma huset",
+    "boka_text": "Ange adress, ungefärlig yta och byggår, så hör en av våra arkitekter av sig inom fem arbetsdagar.",
+    "boka_falt": ["Namn och bolag", "Telefon", "E-post", "Adress, yta och byggår"],
+    "ny_rubrik": "Nytt från Ljungarum",
+    "bolag_rubrik": "Från provborrning till köksluckor",
+    "medarbetare": "Ombyggarna"
+  }
+}

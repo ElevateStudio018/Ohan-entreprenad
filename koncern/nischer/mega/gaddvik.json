@@ -1,0 +1,149 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Gäddvik Datahallar AB (publ)",
+  "kortnamn": "Gäddvik",
+  "slug": "gaddvik",
+  "typ": "Datacenterkoncern från Luleå",
+  "tagline": "Datahallar i kylan",
+  "slogan": "Gäddvik bygger, äger och driver datahallar i Norden – kylda av uteluften, drivna av vattenkraft och kopplade till städernas fjärrvärme.",
+  "hero_rubrik": "Kylan i Norrbotten gör servrarna billigare",
+  "hero_text": "Uteluften i Luleå är under 15 grader 8 400 timmar om året. Därför behöver våra hallar inga kylmaskiner under största delen av året – och spillvärmen värmer 31 000 lägenheter.",
+  "intro_rubrik": "Den yngsta koncernen på Large Cap",
+  "om": [
+    "Gäddvik grundades 2009 av tre elingenjörer från Luleå tekniska universitet som hyrde en nedlagd verkstadshall i Gäddvik och fyllde den med servrar åt ett finskt spelföretag. Kylan kom gratis genom fönstren och elen från Luleälven var billig – en affärsidé som visade sig skala.",
+    "Noteringen kom 2018. I dag har Gäddvik 5 200 medarbetare, 1 240 MW i drift och omsätter 18,6 miljarder kronor. Vi bygger hallarna med egna projektledare och installatörer, äger fastigheterna och sköter driften dygnet runt åt molnbolag, banker och forskningsinstitut."
+  ],
+  "vagval_rubrik": "Vilken kapacitet behöver ni?",
+  "tjanster": [
+    {"titel": "Hela hallar", "ikon": "fabrik", "href": "verksamhet.html", "text": "Egna byggnader på 20–150 MW, byggda efter kundens specifikation och uthyrda på 15 år."},
+    {"titel": "Colocation", "ikon": "lada", "href": "verksamhet.html", "text": "Rack och burar från ett skåp till tusen, med el och kyla som tjänst."},
+    {"titel": "AI och högdensitet", "ikon": "robot", "href": "verksamhet.html", "text": "Vätskekylda rader för upp till 140 kW per rack till grafikprocessorer."},
+    {"titel": "Spillvärme", "ikon": "eld", "href": "verksamhet.html", "text": "Värme från servrarna levereras till stadens fjärrvärmenät året runt."},
+    {"titel": "El och reservkraft", "ikon": "blixt", "href": "verksamhet.html", "text": "Dubbla matningar, batterier och reservkraft på HVO för 48 timmars drift."},
+    {"titel": "Fiber och nätverk", "ikon": "glob", "href": "verksamhet.html", "text": "Egna fiberstråk mellan hallarna och direktanslutning till Stockholm och Helsingfors."},
+    {"titel": "Drifttekniker sökes", "ikon": "folk", "href": "karriar.html", "text": "Skiftarbete i hallarna i Luleå, Boden, Kajana och Mo i Rana."},
+    {"titel": "Aktien GADD", "ikon": "graf", "href": "investerare.html", "text": "Rapporter, beläggning och kursutveckling."}
+  ],
+  "affarsomraden": [
+    {"titel": "Hyperscale", "text": "Hela hallbyggnader för de stora molnbolagen, där vi står för mark, el, byggnad och kyla och kunden installerar sina egna servrar. Avtalen löper i regel 12–15 år med indexerad hyra.", "text2": "Hyperscale står för 62 procent av omsättningen och hade 99 procent beläggning 2025.", "tagg": "industri"},
+    {"titel": "Colocation och moln", "text": "Delade hallar där banker, myndigheter och forskningscentra hyr rack med el, kyla och fysisk säkerhet. Vi erbjuder även kryptering och nätverk som tjänst.", "text2": "1 800 kunder hyr kapacitet i våra delade hallar, från ett halvt rack och uppåt.", "tagg": "kontor"},
+    {"titel": "Bygg och installation", "text": "Gäddvik Bygg projekterar och uppför alla nya hallar och sköter el- och kylinstallationerna med egna montörer. Det gör att en ny hall på 60 MW kan stå klar på 14 månader.", "text2": "Under 2025 färdigställdes fem hallar med sammanlagt 280 MW.", "tagg": "bygg"},
+    {"titel": "Energi och värme", "text": "Vi köper el direkt från vattenkraft- och vindkraftverk och säljer spillvärmen till kommunala fjärrvärmebolag. Värmen tas ut med värmepumpar som höjer temperaturen till 80 grader.", "text2": "2025 levererade vi 940 GWh värme, motsvarande uppvärmningen av 31 000 lägenheter.", "tagg": "el"}
+  ],
+  "bolag": [
+    {"namn": "Gäddvik Hyperscale AB", "segment": "Hela hallar", "rubrik": "Byggt för en enda hyresgäst", "text": "Äger och driver hallar på 20–150 MW åt globala molnbolag i Sverige, Finland och Norge.", "tagg": "industri"},
+    {"namn": "Gäddvik Colo AB", "segment": "Delad kapacitet", "rubrik": "Från ett rack till en hel våning", "text": "Colocation och molntjänster åt 1 800 kunder i nio hallar.", "tagg": "kontor"},
+    {"namn": "Gäddvik Bygg & Installation AB", "segment": "Bygg", "rubrik": "Hallen klar på 14 månader", "text": "Projekterar, bygger och installerar alla koncernens nya datahallar med 1 400 egna medarbetare.", "tagg": "bygg"},
+    {"namn": "Gäddvik Energi AB", "segment": "El och värme", "rubrik": "Varmvatten ur serverhallen", "text": "Köper el, levererar spillvärme och driver koncernens värmepumpar och reservkraft.", "tagg": "el"}
+  ],
+  "lokala_bolag": ["Gäddvik Luleå", "Gäddvik Boden", "Gäddvik Piteå", "Gäddvik Falun", "Gäddvik Stockholm", "Gäddvik Kajaani Oy", "Gäddvik Oulu Oy", "Gäddvik Rana AS", "Gäddvik Bygg & Installation", "Gäddvik Energi", "Gäddvik Fiber AB", "Porsöns Kylteknik AB"],
+  "vagg_text": "Varje campus har en egen platschef och egna drifttekniker dygnet runt. Byggbolaget och energibolaget arbetar för alla campus från Luleå.",
+  "berattelser": [
+    {"rubrik": "AI-hallen i Boden i drift", "text": "Den första vätskekylda hallen på 96 MW togs i drift i september, med 140 kW per rack.", "tagg": "industri"},
+    {"rubrik": "Spillvärme till hela Kajana", "text": "Från oktober värms Kajanas fjärrvärmenät till 70 procent av vår hall i stadens industriområde.", "tagg": "el"},
+    {"rubrik": "Datatekniker på gymnasiet", "text": "Ett nytt gymnasieprogram i Luleå utbildar 64 drifttekniker om året, med praktik i våra hallar.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "1 240", "enhet": "MW", "etikett": "Kapacitet i drift", "trend": [180, 260, 380, 540, 760, 980, 1240], "trend_text": "Installerad IT-kapacitet 2019–2025, MW"},
+    {"varde": "18,6", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [2.9, 4.1, 5.8, 8.3, 11.4, 14.9, 18.6], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "1,09", "enhet": "PUE", "etikett": "Energieffektivitet", "trend": [1.18, 1.16, 1.14, 1.12, 1.11, 1.10, 1.09], "trend_text": "Total energi delad med IT-energi, årsmedel"},
+    {"varde": "940", "enhet": "GWh", "etikett": "Spillvärme levererad", "trend": [110, 190, 300, 450, 610, 780, 940], "trend_text": "Värme till fjärrvärmenät per år, GWh"}
+  ],
+  "projekt": [
+    {"namn": "Campus Boden, hall 4", "ort": "Boden", "typ": "AI-hall", "ar": "2026", "text": "96 MW med vätskekylning direkt till chip och spillvärme till Bodens fjärrvärme.", "tagg": "industri"},
+    {"namn": "Campus Kajana", "ort": "Kajana", "typ": "Hyperscale", "ar": "2025", "text": "Två hallar på 60 MW i en gammal pappersbruksfastighet vid Kajanaälven.", "tagg": "industri"},
+    {"namn": "Rana Fjellhall", "ort": "Mo i Rana", "typ": "Hyperscale", "ar": "2027", "text": "Hall på 120 MW med kylvatten från fjorden och el från lokal vattenkraft.", "tagg": "natur"},
+    {"namn": "Gäddvik Colo Kista", "ort": "Stockholm", "typ": "Colocation", "ar": "2025", "text": "Sex våningar colocation för banker och myndigheter, 24 MW.", "tagg": "kontor"},
+    {"namn": "Värmepumpstation Luleå", "ort": "Luleå", "typ": "Spillvärme", "ar": "2024", "text": "Värmepumpar på 48 MW som lyfter spillvärme till fjärrvärmenätets temperatur.", "tagg": "el"},
+    {"namn": "Fiberstråket Luleå–Uleåborg", "ort": "Haparanda", "typ": "Fiber", "ar": "2026", "text": "Egen redundant fiber på 340 kilometer runt Bottenviken.", "tagg": "infra"}
+  ],
+  "process": [
+    {"titel": "Mark med effekt", "text": "Vi köper bara mark där det finns minst 100 MW anslutning inom tre år. Elen är den knappa resursen, inte tomten.", "tagg": "el"},
+    {"titel": "En typhall, många platser", "text": "Alla hallar byggs efter samma standardritning i moduler om 12 MW, vilket halverar projekteringstiden.", "tagg": "bygg"},
+    {"titel": "Provning med lastbank", "text": "Innan kunden flyttar in körs hallen på full last i 72 timmar med elektriska värmeaggregat i stället för servrar.", "tagg": "industri"},
+    {"titel": "Drift dygnet runt", "text": "Driftcentralen i Luleå övervakar 2,1 miljoner mätpunkter. Ett larm besvaras av en tekniker på plats inom tio minuter.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Servrarna värmer en stad",
+    "text": "Datahallar använder mycket el, och det tar vi på allvar. All el är förnybar och köps genom långa avtal med verk i samma elområde, och frikylan gör att vi använder 9 procent energi utöver servrarnas egen förbrukning. Det som blir över som värme säljer vi till fjärrvärmen, så att kommunerna kan stänga sina sista pannor.",
+    "mal": [["1,07", "PUE i genomsnitt för alla hallar 2028"], ["80 %", "spillvärme som återanvänds i fjärrvärmenät 2030"], ["0 l", "vatten till kylning i hallar byggda efter 2024"]]
+  },
+  "karriar": {
+    "rubrik": "Tekniska jobb som stannar i norr",
+    "text": "Var tredje medarbetare kommer från Norrbotten, och vi vill att fler ska kunna bo kvar. Drifttekniker arbetar i femskiftsschema med elva lediga dagar i rad varje femveckorsperiod.",
+    "jobb": [["Drifttekniker datahall", "Luleå"], ["Elinstallatör högspänning", "Boden"], ["Projektledare nybyggnation", "Kajana"], ["Energiingenjör spillvärme", "Mo i Rana"]]
+  },
+  "kultur": "Alla nyanställda, även ekonomer och säljare, går en vecka i skift med driftteknikerna innan de börjar på sin egen avdelning.",
+  "citat": {"text": "Vi öppnade fönstren i en gammal verkstad och insåg att Norrbottens vinter var värd mer än någon kylmaskin. Det är fortfarande hela affärsidén.", "namn": "Viktor Lantto", "roll": "Medgrundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Hallen i Boden lämnades över tre veckor före kontraktsdatum, provkörd på full last. Vi kunde börja installera grafikkort direkt.", "namn": "Daniel W.", "ort": "Boden"},
+    {"text": "Fjärrvärmen i Kajana har inte eldat olja sedan i oktober. Spillvärmen täcker hela basbehovet.", "namn": "Heikki J.", "ort": "Kajana"},
+    {"text": "Vi hyr tolv rack i Kista och har haft 100 procents tillgänglighet i fyra år. När vi ringer svarar en tekniker som står i hallen.", "namn": "Maria O.", "ort": "Stockholm"}
+  ],
+  "faq": [
+    ["Varför ligger hallarna i norr?", "Kall luft, förnybar el till lågt pris och ett stabilt elnät. En hall i Luleå använder omkring 30 procent mindre energi än motsvarande hall i Centraleuropa."],
+    ["Vad är PUE?", "Power Usage Effectiveness – den totala energin delad med den energi servrarna använder. 1,0 vore perfekt. Vårt snitt för 2025 var 1,09."],
+    ["Vem är era kunder?", "Globala molnbolag, nordiska banker, myndigheter, forskningsinstitut och spelföretag. Ingen enskild kund står för mer än 28 procent av hyresintäkterna."],
+    ["Hur långa är avtalen?", "Hela hallar hyrs ut på 12–15 år. Colocation tecknas på 3–5 år med möjlighet att utöka kapaciteten i samma hall."],
+    ["Vad händer om strömmen går?", "Varje hall har två oberoende matningar, batterier för 10 minuter och reservkraftverk på HVO som klarar 48 timmar utan påfyllning."],
+    ["Vem äger Gäddvik?", "Grundarna äger tillsammans 14 procent av kapitalet. Största ägare är en nordisk infrastrukturfond med 21 procent."],
+    ["Lämnar ni utdelning?", "Inte ännu. Allt kassaflöde återinvesteras i nya hallar enligt styrelsens tillväxtplan fram till 2028."]
+  ],
+  "nyheter": [
+    ["2026-10-30", "Delårsrapport januari–september 2026", "Kapaciteten i drift ökade med 260 MW och beläggningen var 97 procent.", "kontor"],
+    ["2026-09-08", "AI-hallen i Boden invigd", "96 MW vätskekyld kapacitet för en amerikansk molnkund.", "industri"],
+    ["2026-05-14", "Gäddvik köper mark i Mo i Rana", "Tomten på 42 hektar har anslutning för 240 MW.", "natur"]
+  ],
+  "investerare": {
+    "aktie": "GADD",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "524,80",
+    "forandring": "+3,2 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-30"], ["Delårsrapport januari–juni 2026", "2026-07-23"], ["Delårsrapport januari–mars 2026", "2026-05-06"], ["Årsredovisning 2025", "2026-04-02"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-18"], ["Årsstämma i Luleå", "2027-05-11"], ["Kapitalmarknadsdag i Boden", "2027-09-15"]]
+  },
+  "kontor_rubrik": "Sju campus runt Bottenviken",
+  "kontor_text": "Vi bygger där elen och kylan finns. Huvudkontoret ligger kvar i Luleå, tre kilometer från verkstadshallen där allt började.",
+  "kontor_lista": [
+    ["Luleå – huvudkontor", "Aurorum 12. Koncernledning, driftcentral och campus med 280 MW."],
+    ["Boden", "Koncernens största campus med 420 MW och den första AI-hallen."],
+    ["Piteå", "Hyperscale-hallar på 160 MW vid Haraholmens industriområde."],
+    ["Stockholm", "Colocation i Kista och säljkontor för Mälardalen."],
+    ["Falun", "Hall på 80 MW med spillvärme till Faluns fjärrvärmenät."],
+    ["Kajana", "Två hallar i ett gammalt pappersbruk med 120 MW."],
+    ["Uleåborg", "Colocation och fiberknutpunkt för norra Finland."],
+    ["Mo i Rana", "Gäddvik Rana AS, campus under uppbyggnad med 240 MW."]
+  ],
+  "tidslinje_rubrik": "Sjutton år från verkstad till börs",
+  "tidslinje_text": "En hyrd verkstadshall, tre ingenjörer och en vinter som visade sig vara en affärsidé.",
+  "tidslinje": [
+    ["2009", "Tre ingenjörer hyr en verkstadshall i Gäddvik och startar med 2 MW."],
+    ["2013", "Första hyperscale-avtalet, en hall på 30 MW i Luleå."],
+    ["2016", "Spillvärmen kopplas till Luleås fjärrvärmenät."],
+    ["2018", "Notering på Nasdaq Stockholm."],
+    ["2021", "Campus Kajana – första etableringen utanför Sverige."],
+    ["2024", "Kapaciteten passerar 1 000 MW."],
+    ["2026", "Första vätskekylda AI-hallen tas i drift i Boden."]
+  ],
+  "kontakt": {"adress": "Aurorum 12", "postnr": "977 75", "ort": "Luleå", "telefon": "070-174 06 12", "epost": "info@gaddvik.se", "orgnr": ""},
+  "oppettider": "Växel vardagar 8–17, driftcentral dygnet runt",
+  "omrade": "Sverige, Finland och Norge",
+  "fot_cta": "Behöver ni 2 eller 200 MW? Vi visar vilken hall som kan vara klar först.",
+  "bild": {"panel": "people", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Nytt från hallarna",
+    "proj_rubrik": "Campus och hallar",
+    "process_rubrik": "Från effektbesked till inflyttning",
+    "process_etikett": "Så bygger vi en hall",
+    "hb_etikett": "Energi och värme",
+    "omdomen_rubrik": "Hyresgäster och kommuner",
+    "faq_rubrik": "Frågor om datahallar",
+    "bolag_rubrik": "Hall, colo, bygg och energi",
+    "vagg_rubrik": "{n} bolag kring Bottenviken",
+    "panel_etikett": "Jobba i hallarna",
+    "hero_knapp": "Se kapaciteten",
+    "siffror_etikett": "Gäddvik i siffror",
+    "ny_rubrik": "Nyheter från Luleå"
+  }
+}

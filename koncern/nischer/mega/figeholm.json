@@ -1,0 +1,148 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Figeholm Teknik AB (publ)",
+  "kortnamn": "Figeholm",
+  "slug": "figeholm",
+  "typ": "Kraftverksservice från Oskarshamn",
+  "tagline": "Revision, rivning, nybygge",
+  "slogan": "Figeholm servar, moderniserar och avvecklar kärnkraftverk och vattenkraftverk – och projekterar nästa generations reaktorer.",
+  "hero_rubrik": "Vi stänger reaktorn – och öppnar den igen",
+  "hero_text": "En revision på ett kärnkraftverk tar 30 dygn och engagerar 2 000 personer. Varje dygn som blir över kostar ägaren 25 miljoner kronor i utebliven el. Vi har hållit tidplanen i 47 revisioner i rad.",
+  "intro_rubrik": "Där en minut stillestånd har ett pris",
+  "om": [
+    "Figeholm grundades 1969 av sju svetsare och rörmontörer som hade byggt det första aggregatet vid kusten norr om Oskarshamn och ville stanna kvar i bygden. De blev kvar för att serva verket, och sedan för att serva alla andra verk i Norden.",
+    "Bolaget är i dag Nordens största specialist på service av kraftverk, med 5 600 medarbetare och 12,8 miljarder kronor i omsättning. Ungefär hälften är revisioner och underhåll, en fjärdedel avveckling av stängda reaktorer och resten modernisering av vattenkraft och projektering av små modulära reaktorer."
+  ],
+  "vagval_rubrik": "Vilket kraftverk gäller det?",
+  "tjanster": [
+    {"titel": "Revisioner", "ikon": "kalender", "href": "verksamhet.html", "text": "Planering och genomförande av årliga revisioner med upp till 1 400 egna tekniker på plats."},
+    {"titel": "Mekaniskt underhåll", "ikon": "verktyg", "href": "verksamhet.html", "text": "Pumpar, ventiler, turbiner och värmeväxlare – med egna verkstäder i Oskarshamn och Olkiluoto."},
+    {"titel": "Svets och provning", "ikon": "eld", "href": "verksamhet.html", "text": "Kvalificerad svetsning och oförstörande provning enligt kärnteknisk standard."},
+    {"titel": "Avveckling", "ikon": "hamare", "href": "verksamhet.html", "text": "Segmentering, dekontaminering och rivning av stängda reaktorer."},
+    {"titel": "Vattenkraft", "ikon": "vatten", "href": "verksamhet.html", "text": "Renovering av turbiner, generatorer och dammluckor i drift sedan 1950-talet."},
+    {"titel": "Nya reaktorer", "ikon": "ritning", "href": "verksamhet.html", "text": "Platsutredning, säkerhetsanalys och projektering av små modulära reaktorer."},
+    {"titel": "Tekniker sökes", "ikon": "folk", "href": "karriar.html", "text": "Svetsare, mekaniker och strålskyddstekniker med kärnteknisk utbildning i egen regi."},
+    {"titel": "För aktieägare", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för FIGE B."}
+  ],
+  "affarsomraden": [
+    {"titel": "Revision och underhåll", "text": "Vi planerar och leder revisioner på tio reaktorer i Sverige och Finland och utför löpande underhåll mellan dem. En revision förbereds i fjorton månader, ned till vilken skruv som ska bytas vilken timme.", "text2": "47 revisioner i rad har avslutats inom planerad tid, den senaste vid Forsmark i juni.", "tagg": "industri"},
+    {"titel": "Avveckling och rivning", "text": "Stängda reaktorer ska demonteras, mätas och sorteras så att bara det radioaktiva hamnar i slutförvar. Reaktortankar sågas i bitar under vatten av fjärrstyrda maskiner vi själva konstruerat.", "text2": "Vi river i dag fyra reaktorer i Sverige och Tyskland, med ett sammanlagt kontraktsvärde på 21 miljarder kronor.", "tagg": "rivning"},
+    {"titel": "Vattenkraftsrenovering", "text": "Hälften av Nordens vattenkraftverk är äldre än 60 år. Vi byter turbiner, lindar om generatorer och renoverar dammluckor medan resten av stationen producerar.", "text2": "Under 2025 renoverade vi 34 aggregat, vilket gav 210 GWh mer el per år från samma vatten.", "tagg": "natur"},
+    {"titel": "Ny kärnkraft", "text": "Vi hjälper kraftbolag och industrier att utreda platser, ta fram säkerhetsredovisningar och projektera små modulära reaktorer. Arbetet bygger på femtio års erfarenhet av hur verken faktiskt ser ut inuti.", "text2": "Tre platsutredningar pågår, i Sverige, Finland och Estland.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Figeholm Service AB", "segment": "Revision och underhåll", "rubrik": "Tio reaktorer, en planering", "text": "Revisioner, mekaniskt underhåll och svetsning vid kärnkraftverken i Sverige och Finland.", "tagg": "industri"},
+    {"namn": "Figeholm Decom AB", "segment": "Avveckling", "rubrik": "Sågar under vatten", "text": "Avvecklar stängda reaktorer i Sverige och Tyskland med fjärrstyrd segmentering.", "tagg": "rivning"},
+    {"namn": "Figeholm Hydro AB", "segment": "Vattenkraft", "rubrik": "Sextio år gamla turbiner, nya igen", "text": "Renoverar vattenkraftstationer längs norrlandsälvarna och i Norge med egen generatorverkstad i Sollefteå.", "tagg": "natur"},
+    {"namn": "Figeholm Nuclear Engineering", "segment": "Projektering", "rubrik": "Nästa generation ritas här", "text": "Säkerhetsanalys, platsutredning och konstruktion för nya reaktorer, med 620 ingenjörer i Oskarshamn och Helsingfors.", "tagg": "kontor"}
+  ],
+  "lokala_bolag": ["Figeholm Service Oskarshamn", "Figeholm Service Forsmark", "Figeholm Service Ringhals", "Figeholm Huolto Oy", "Figeholm Decom", "Figeholm Rückbau GmbH", "Figeholm Hydro", "Figeholm Hydro Norge AS", "Figeholm Nuclear Engineering", "Simpevarps Svets & Provning AB", "Sollefteå Generatorverkstad AB"],
+  "vagg_text": "Varje kraftverk har en egen platsorganisation som känner anläggningen. Svetsare, provare och strålskydd flyttar mellan verken när revisionerna avlöser varandra.",
+  "berattelser": [
+    {"rubrik": "Revision nummer 47 i tid", "text": "Juniarbetet på Forsmark 2 avslutades sex timmar före plan, med 1 380 av våra tekniker på plats under 28 dygn.", "tagg": "industri"},
+    {"rubrik": "Reaktortanken i Würgassen kapad", "text": "Den sista av 214 segment lyftes ur bassängen i augusti och mäts nu inför transport till slutförvar.", "tagg": "rivning"},
+    {"rubrik": "Ny turbin i Bergeforsen", "text": "Aggregat 3 producerar åter, med en ny Kaplanturbin som ger 6 procent mer el ur samma vattenföring.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "12,8", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [8.1, 8.6, 9.2, 10.0, 10.9, 11.7, 12.8], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "47", "enhet": "i rad", "etikett": "Revisioner inom tidplan", "trend": [17, 22, 28, 33, 38, 43, 47], "trend_text": "Revisioner i följd utan förlängning"},
+    {"varde": "1,4", "enhet": "mSv", "etikett": "Snittdos per tekniker och år", "trend": [2.6, 2.4, 2.1, 1.9, 1.7, 1.5, 1.4], "trend_text": "Genomsnittlig stråldos per år, millisievert"},
+    {"varde": "5 600", "enhet": "", "etikett": "Medarbetare", "trend": [3900, 4100, 4400, 4700, 5000, 5300, 5600], "trend_text": "Medarbetare vid årets slut"}
+  ],
+  "projekt": [
+    {"namn": "Revision Forsmark 2", "ort": "Östhammar", "typ": "Revision", "ar": "2026", "text": "28 dygn med 1 380 tekniker, byte av två huvudcirkulationspumpar och 4 100 provningar.", "tagg": "industri"},
+    {"namn": "Avveckling Würgassen", "ort": "Beverungen", "typ": "Avveckling", "ar": "2027", "text": "Segmentering av reaktortank och biologisk skärm i ett kontrakt på 6,2 miljarder kronor.", "tagg": "rivning"},
+    {"namn": "Bergeforsen aggregat 3", "ort": "Timrå", "typ": "Vattenkraft", "ar": "2026", "text": "Ny Kaplanturbin, omlindad generator och nytt kontrollsystem.", "tagg": "natur"},
+    {"namn": "Turbinbyte Olkiluoto 1", "ort": "Eurajoki", "typ": "Modernisering", "ar": "2025", "text": "Ny lågtrycksturbin som höjer effekten med 28 MW.", "tagg": "industri"},
+    {"namn": "Platsutredning Paldiski", "ort": "Paldiski", "typ": "Ny kärnkraft", "ar": "2027", "text": "Geologi, kylvatten och säkerhetsanalys inför Estlands första kärnkraftverk.", "tagg": "kontor"},
+    {"namn": "Rivning Barsebäck 2", "ort": "Kävlinge", "typ": "Avveckling", "ar": "2024", "text": "Konventionell rivning av turbinbyggnaden efter att all aktivitet friklassats.", "tagg": "rivning"}
+  ],
+  "process": [
+    {"titel": "Fjorton månaders planering", "text": "Varje arbetsorder i en revision planeras med tid, verktyg, dos och vem som utför den – i regel 18 000 order per revision.", "tagg": "kontor"},
+    {"titel": "Övning i fullskala", "text": "Svåra moment övas i vår fullskalemodell av ett reaktorhus i Oskarshamn, så att teknikerna redan vet var varje bult sitter.", "tagg": "people"},
+    {"titel": "Dygnet-runt-skift", "text": "Under revisionen arbetar tre skift med överlämning vid samma tavla. Varje morgon klockan sex redovisas avvikelser mot tidplanen.", "tagg": "industri"},
+    {"titel": "Erfarenheter tillbaka", "text": "Inom två veckor efter avslutad revision samlas alla lagbasar för att skriva in vad som tog längre tid än planerat.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fossilfri el kräver underhåll",
+    "text": "Kärnkraft och vattenkraft står för två tredjedelar av Sveriges elproduktion. Ju längre verken håller och ju fler timmar de går, desto mindre fossil reservkraft behövs. Vid rivning sorterar vi så noggrant att över 95 procent av materialet friklassas och kan återvinnas som vanlig metall och betong.",
+    "mal": [["1,0 mSv", "snittdos per tekniker och år 2030"], ["97 %", "friklassat och återvunnet material vid rivning"], ["0", "allvarliga olyckor under revisioner"]]
+  },
+  "karriar": {
+    "rubrik": "Den mest noggranna verkstaden i landet",
+    "text": "Hos oss lär du dig svetsa, prova och arbeta med strålskydd enligt de strängaste kraven som finns. Vi utbildar själva i Oskarshamn och betalar lön under hela utbildningen.",
+    "jobb": [["Kärnkraftssvetsare", "Oskarshamn"], ["Strålskyddstekniker", "Östhammar"], ["Säkerhetsanalytiker SMR", "Helsingfors"], ["Generatorlindare", "Sollefteå"]]
+  },
+  "kultur": "Varje tekniker får stoppa ett arbete han eller hon tycker är osäkert, och ingen chef får ifrågasätta det förrän saken är utredd.",
+  "citat": {"text": "Min pappa var en av de sju som startade bolaget. Han sa att en revision är som ett hjärtstopp med publik – alla vet exakt när den ska vara klar.", "namn": "Lena Hjortsberg", "roll": "Vd och koncernchef", "tagg": "people"},
+  "omdomen": [
+    {"text": "Revisionen blev klar sex timmar före plan. Med ett elpris på vintern hade varje dygn över kostat oss mer än hela pumpbytet.", "namn": "Mats E.", "ort": "Östhammar"},
+    {"text": "Fullskalemodellen gjorde skillnad. Teknikerna hade övat pumpbytet fyra gånger innan de gick in i reaktorhuset.", "namn": "Riikka H.", "ort": "Eurajoki"},
+    {"text": "Vi fick 6 procent mer el ur ett aggregat från 1955. Figeholm höll vattenvägen öppen under hela bygget, så fisktrappan fungerade som vanligt.", "namn": "Elin K.", "ort": "Timrå"}
+  ],
+  "faq": [
+    ["Vad är en revision?", "Varje år stängs en reaktor under tre till fem veckor för bränslebyte, provning och underhåll. Det är då de flesta av våra uppdrag genomförs."],
+    ["Hur skyddas teknikerna mot strålning?", "Varje person bär elektronisk dosimeter och arbetet planeras för lägsta möjliga dos. Vår snittdos är 1,4 millisievert per år, långt under gränsvärdet på 20."],
+    ["Vart tar det rivna materialet vägen?", "Allt mäts. Det som är fritt från radioaktivitet återvinns som vanligt skrot och betong. Resten packas och skickas till godkända mellanlager och slutförvar."],
+    ["Bygger ni nya kärnkraftverk?", "Vi projekterar och utreder, men själva bygget görs av reaktorleverantörer och byggföretag. Vår roll är säkerhetsanalys, platsfrågor och driftsättning."],
+    ["Vem äger Figeholm?", "Grundarfamiljerna kontrollerar 31 procent av rösterna genom Figeholms Intressenter AB. B-aktien är noterad på Nasdaq Stockholm Large Cap sedan 2012."],
+    ["Behöver jag kärnteknisk utbildning för att söka?", "Nej. Har du yrkesbevis som svetsare, mekaniker eller elektriker utbildar vi dig i kärnteknik, strålskydd och kvalitetskrav under sex månader."],
+    ["Hur påverkas ni om reaktorer stängs?", "Avveckling tar 10–15 år per reaktor och är ett av våra växande områden. Stängda verk ger alltså också uppdrag."]
+  ],
+  "nyheter": [
+    ["2026-10-21", "Delårsrapport januari–september 2026", "Omsättningen ökade med 11 procent och orderstocken för avveckling nådde 21 miljarder kronor.", "kontor"],
+    ["2026-07-02", "Revision nummer 47 avslutad", "Forsmark 2 åter i drift sex timmar före plan.", "industri"],
+    ["2026-03-17", "Figeholm valt för platsutredning i Estland", "Uppdraget gäller geologi och kylvatten för en planerad liten modulär reaktor vid Paldiski.", "kontor"]
+  ],
+  "investerare": {
+    "aktie": "FIGE B",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "412,50",
+    "forandring": "+2,1 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-21"], ["Halvårsrapport 2026", "2026-07-14"], ["Delårsrapport januari–mars 2026", "2026-04-21"], ["Årsredovisning 2025", "2026-03-12"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-04"], ["Årsstämma i Oskarshamn", "2027-04-15"], ["Delårsrapport januari–mars 2027", "2027-04-20"]]
+  },
+  "kontor_rubrik": "Vid verken, inte i storstan",
+  "kontor_text": "Vi har kontor där kraftverken ligger. Teknikerna bor i bygden och är på plats inom en timme när något händer.",
+  "kontor_lista": [
+    ["Oskarshamn – huvudkontor", "Kraftverksvägen 3. Koncernledning, fullskalemodellen och 1 600 medarbetare."],
+    ["Östhammar", "Platsorganisation vid Forsmark med 720 tekniker året runt."],
+    ["Varberg", "Platsorganisation vid Ringhals och svetsskola för västkusten."],
+    ["Kävlinge", "Avvecklingen av Barsebäck och koncernens mätlaboratorium för friklassning."],
+    ["Sollefteå", "Generatorverkstad och Figeholm Hydro med uppdrag längs Ångermanälven och Indalsälven."],
+    ["Eurajoki", "Figeholm Huolto Oy vid Olkiluoto med 540 medarbetare."],
+    ["Helsingfors", "Projektering av nya reaktorer och säkerhetsanalys."],
+    ["Essen", "Figeholm Rückbau GmbH, avveckling av tyska reaktorer."]
+  ],
+  "tidslinje_rubrik": "Sju svetsare och ett halvsekel",
+  "tidslinje_text": "Från ett servicelag vid kusten till Nordens största kraftverksspecialist.",
+  "tidslinje": [
+    ["1969", "Sju svetsare och rörmontörer bildar Figeholm Svets & Rör."],
+    ["1980", "Första helhetsansvaret för en revision på ett svenskt kärnkraftverk."],
+    ["1994", "Kontor öppnas i Eurajoki – Figeholms första verksamhet utanför Sverige."],
+    ["2005", "Avvecklingsenheten bildas när Barsebäck stängs."],
+    ["2012", "Notering på Nasdaq Stockholm."],
+    ["2018", "Förvärv av en generatorverkstad i Sollefteå – starten för Figeholm Hydro."],
+    ["2023", "Kontrakt på rivning i Tyskland och etablering i Essen."]
+  ],
+  "kontakt": {"adress": "Kraftverksvägen 3", "postnr": "572 34", "ort": "Oskarshamn", "telefon": "070-174 06 09", "epost": "info@figeholm.se", "orgnr": ""},
+  "oppettider": "Växel vardagar 7–16",
+  "omrade": "Sverige, Finland, Norge, Tyskland och Estland",
+  "fot_cta": "Står ni inför en revision, en rivning eller ett beslut om ny kärnkraft? Kontakta vår planeringsavdelning.",
+  "bild": {"panel": "industri", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Från kraftverken",
+    "proj_rubrik": "Revisioner, rivningar och turbiner",
+    "process_rubrik": "En revision på 30 dygn",
+    "process_etikett": "Planering",
+    "hb_etikett": "Strålskydd och klimat",
+    "omdomen_rubrik": "Kraftbolagen om Figeholm",
+    "faq_rubrik": "Frågor om kraftverksservice",
+    "bolag_rubrik": "Service, avveckling, vattenkraft och projektering",
+    "vagg_rubrik": "{n} bolag vid Nordens kraftverk",
+    "panel_etikett": "Bli kärnkraftstekniker",
+    "siffror_etikett": "Figeholm i siffror",
+    "ny_rubrik": "Pressmeddelanden från Oskarshamn"
+  }
+}

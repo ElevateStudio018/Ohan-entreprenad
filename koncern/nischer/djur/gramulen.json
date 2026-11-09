@@ -1,0 +1,126 @@
+{
+  "profil": "djur",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Gråmulen Seniorhundsvård AB",
+  "kortnamn": "Gråmulen",
+  "slug": "gramulen",
+  "typ": "Pälsvård för äldre hundar i Östersund",
+  "tagline": "För hundar över åtta",
+  "slogan": "En salong för stela leder, grå nosar och hundar som inte längre orkar stå en hel klippning.",
+  "hero_rubrik": "Grå nos förtjänar mjuka händer",
+  "hero_text": "Liggande trim på madrass, varmvattenpool och korta pass med vila. Vi är specialiserade på hundar med artros, dålig syn eller hörsel.",
+  "intro_rubrik": "Byggt för hundens sista goda år",
+  "om": [
+    "Gråmulen startades 2021 av legitimerade djursjukskötaren Ulrika Bäckström, som arbetat tolv år på smådjurskliniken i Östersund. Hon märkte att många äldre hundar slutade gå till frisör eftersom de inte orkade stå på ett bord i två timmar – och att pälsen då blev tovig, smutsig och öm.",
+    "Salongen ligger i en före detta tandläkarmottagning på Frösön, i markplan och utan trappsteg. Här finns ett sänkbart bord med ortopedisk madrass, en uppvärmd pool på 3 × 4 meter för rörelseträning och ett vilrum med golvvärme. Vi tar högst fyra hundar per dag."
+  ],
+  "vagval_rubrik": "Hur mycket orkar din hund idag?",
+  "tjanster": [
+    {"titel": "Liggande trim", "ikon": "sax", "href": "verksamhet.html", "text": "Hunden får ligga på sidan på en madrass medan vi klipper."},
+    {"titel": "Varmvattenpool", "ikon": "vatten", "href": "verksamhet.html", "text": "Simpass i 30-gradigt vatten för stela leder och svag muskulatur."},
+    {"titel": "Bad utan kar", "ikon": "hjarta", "href": "verksamhet.html", "text": "Vi badar på golvet med handdusch, så att hunden slipper lyftas."},
+    {"titel": "Kloklipp och tassvård", "ikon": "tass", "href": "verksamhet.html", "text": "Korta klor ger bättre fotfäste – viktigt för hundar som halkar."},
+    {"titel": "Massage", "ikon": "lov", "href": "verksamhet.html", "text": "Tjugo minuter efter badet för att lösa upp spända muskler."},
+    {"titel": "Hembesök i livets slut", "ikon": "hus", "href": "verksamhet.html", "text": "Vi kommer hem och gör hunden ren och fin när den inte längre kan resa."},
+    {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Pris per tid, aldrig per ras."},
+    {"titel": "Prata med Ulrika", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi börjar alltid med ett samtal om hundens hälsa."}
+  ],
+  "affarsomraden": [
+    {"titel": "Trim för äldre hundar", "text": "Hunden ligger ned under större delen av klippningen och vi vänder den försiktigt. Pass om tjugo minuter följs av vila i vilrummet.", "text2": "En klippning tar ofta en hel förmiddag, men hunden står bara några minuter i taget.", "tagg": "trimning"},
+    {"titel": "Rörelse i varm pool", "text": "Simning avlastar lederna och bygger muskler som håller hunden uppe. Vi arbetar efter ett program som hundens veterinär eller fysioterapeut har godkänt.", "text2": "Flytväst och ramp ingår, och vattnet håller 30 grader.", "tagg": "hund"},
+    {"titel": "Hundar med nedsatta sinnen", "text": "Blinda och döva hundar blir lätt skrämda av beröring de inte förväntar sig. Vi använder vibrationssignaler och samma ordning på allt, varje gång.", "text2": "Ägaren får gärna vara med under hela besöket.", "tagg": "hund"},
+    {"titel": "Hembesök", "text": "När hunden är för sjuk eller svag för att åka bil kommer vi hem med bord, handdusch och fön. Många väljer det de sista månaderna.", "text2": "Hembesök görs inom fem mil från Östersund.", "tagg": "trimning"}
+  ],
+  "bolag": [
+    {"namn": "Ulrika Bäckström", "segment": "Grundare, legitimerad djursjukskötare", "rubrik": "Tolv år på klinik", "text": "Ulrika bedömer varje ny hund och ansvarar för poolträningen. Hon har en tretton år gammal flatcoated retriever som heter Gösta.", "tagg": "hund"},
+    {"namn": "Matilda Jonsson", "segment": "Hundfrisör", "rubrik": "Klipper liggande hundar sedan 2019", "text": "Matilda har gått kurs i lågstresshantering och klipper de flesta hundarna. Hon är van vid att arbeta på knä.", "tagg": "trimning"},
+    {"namn": "Per Strömberg", "segment": "Hundmassör och hembesök", "rubrik": "Händer för stela muskler", "text": "Per är certifierad hundmassör och kör hembesöken i servicebilen. Han tog tidigare hand om draghundar i Åre.", "tagg": "hund"}
+  ],
+  "berattelser": [
+    {"rubrik": "Gösta fyllde tretton", "text": "Vår egen salongshund firade med ett extra långt simpass och en tårta på leverpastej.", "tagg": "hund"},
+    {"rubrik": "Ny madrass med minnesskum", "text": "Det sänkbara bordet har fått en tjockare madrass som formar sig efter hundens kropp.", "tagg": "trimning"},
+    {"rubrik": "Samarbete med Frösö Djurklinik", "text": "Hundar med artrosdiagnos får nu remiss direkt till poolträning hos oss.", "tagg": "hund"}
+  ],
+  "nyckeltal": [
+    {"varde": "11,4", "enhet": "år", "etikett": "Snittålder på våra hundar"},
+    {"varde": "30", "enhet": "°C", "etikett": "I poolen"},
+    {"varde": "20", "enhet": "min", "etikett": "Längsta passet utan vila"},
+    {"varde": "4", "enhet": "hundar", "etikett": "Högst per dag"}
+  ],
+  "projekt": [
+    {"namn": "Gösta", "ort": "Flatcoated retriever, 13 år", "typ": "Pool och liggande trim", "ar": "2026", "text": "Simmar varje tisdag och går fortfarande sina promenader till Frösöns kyrka.", "tagg": "hund", "status": "Stamkund"},
+    {"namn": "Lisa", "ort": "Cocker spaniel, blind", "typ": "Klippning med vibrationssignaler", "ar": "2026", "text": "Första klippningen på två år utan att hon försökte bitas.", "tagg": "trimning"},
+    {"namn": "Arvid", "ort": "Berner sennen, 9 år", "typ": "Bad utan kar", "ar": "2025", "text": "För stel för att lyftas – badad på golvet och torkad liggande.", "tagg": "hund"},
+    {"namn": "Tussan", "ort": "Västgötaspets, 15 år", "typ": "Kloklipp och tassvård", "ar": "2025", "text": "Halkade inte längre i köket efter att klorna kortats i tre omgångar.", "tagg": "hund", "status": "Stamkund"},
+    {"namn": "Fido", "ort": "Shetland sheepdog, döv", "typ": "Liggande trim", "ar": "2026", "text": "Tovor bakom öronen borta och en hund som somnade på madrassen.", "tagg": "trimning"},
+    {"namn": "Kajsa", "ort": "Golden retriever, 14 år", "typ": "Hembesök", "ar": "2025", "text": "Badad och borstad hemma i vardagsrummet två veckor före sitt sista veterinärbesök.", "tagg": "hund"}
+  ],
+  "process": [
+    {"titel": "Hälsosamtal", "text": "Vi går igenom diagnoser, mediciner och vad hunden klarar av – gärna med journalen framför oss.", "tagg": "hund"},
+    {"titel": "Vila före start", "text": "Hunden får komma in, dricka och lägga sig i vilrummet innan vi börjar.", "tagg": "hund"},
+    {"titel": "Korta pass", "text": "Tjugo minuter i taget med vila emellan. Vi avbryter om hunden visar smärta.", "tagg": "trimning"},
+    {"titel": "Anteckning hem", "text": "Du får en skriftlig rapport om hud, klor, knölar eller sår som vi har sett.", "tagg": "hund"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Smärta går alltid före frisyr",
+    "text": "En äldre hund kan inte säga att höften värker. Vi lär oss läsa små tecken – flämtning, slickande, ett skifte i blicken – och slutar hellre med halva hunden klippt än tvingar den att stå kvar. Allt vi upptäcker under besöket skriver vi ner till dig och veterinären.",
+    "mal": [["100 %", "av hundarna får en hälsonotering"], ["20 min", "längsta passet"], ["0", "hundar lyfts utan ramp eller sänkbart bord"]]
+  },
+  "karriar": {"rubrik": "Innan den äldre hunden kommer hit", "text": "Ring eller mejla och berätta om hundens hälsa. Ge gärna hunden smärtlindring enligt veterinärens ordination ett par timmar före besöket, och ta med en filt som luktar hemma.", "jobb": []},
+  "kultur": "Ägaren får alltid vara med under besöket, och det finns en fåtölj bredvid bordet.",
+  "citat": {"text": "En gammal hund som har ont i höften står inte stilla för att den är lydig. Den står stilla för att den inte orkar protestera. Det vill jag aldrig se på mitt bord.", "namn": "Ulrika Bäckström", "roll": "Grundare", "tagg": "hund"},
+  "omdomen": [
+    {"text": "Lisa är blind och har bitit två frisörer. Hos Matilda låg hon still och vi fick tillbaka en ren, mjuk hund.", "namn": "Göran W.", "ort": "Östersund"},
+    {"text": "Poolen gav vår berner ett år till med promenader. Det trodde inte veterinären.", "namn": "Sara-Lena O.", "ort": "Brunflo"},
+    {"text": "Per kom hem till oss när Kajsa inte längre kunde resa sig. Det betydde mer än jag kan skriva här.", "namn": "Cecilie A.", "ort": "Krokom"}
+  ],
+  "faq": [
+    ["Från vilken ålder räknas hunden som senior?", "Det beror på rasen. Stora raser från sju år, små från tio. Har din hund artros eller annan sjukdom tar vi emot den oavsett ålder."],
+    ["Behöver jag remiss för poolen?", "Nej, men vi vill att veterinären har undersökt hunden det senaste halvåret. Har hunden hjärtsjukdom krävs ett intyg."],
+    ["Varför tar ni betalt per tid?", "För att en äldre hund ibland behöver dubbelt så lång tid. Då ska det inte vara frisören som stressar."],
+    ["Kan ni klippa en hund som inte kan stå alls?", "Ja. Den liggande metoden fungerar även för hundar som är förlamade i bakbenen."],
+    ["Får jag vara med?", "Ja, och vi rekommenderar det första gången. Många hundar ligger lugnare med husse eller matte vid huvudet."],
+    ["Hur långt åker ni på hembesök?", "Inom fem mil från Östersund, till exempel Krokom, Brunflo och Hallen. Längre bort efter överenskommelse."],
+    ["Vad kostar en avbokning?", "Ingenting om hunden är sjuk. Annars ber vi om besked ett dygn innan."]
+  ],
+  "priser": [
+    {"namn": "Poolpass", "pris": "395 kr", "enhet": "30 minuter", "text": "Rörelseträning i varmt vatten.", "punkter": ["Simning med flytväst", "Ramp i och ur poolen", "Dusch och torkning", "Anteckning om rörelse och ork"]},
+    {"namn": "Seniortrim", "pris": "fr. 890 kr", "enhet": "första timmen, därefter 390 kr/tim", "text": "Bad, liggande klippning och vila.", "punkter": ["Hälsosamtal före start", "Bad på golvet med handdusch", "Klippning på ortopedisk madrass", "Skriftlig hälsonotering"], "utvald": true},
+    {"namn": "Hembesök", "pris": "fr. 1 290 kr", "enhet": "inkl. resa inom 2 mil", "text": "När hunden inte kan resa.", "punkter": ["Bord och handdusch med oss", "Bad, borstning och kloklipp", "Massage om hunden orkar", "Ingen stress med bilresor"]}
+  ],
+  "prislista": [["Seniortrim, första timmen", "890 kr"], ["Varje påbörjad halvtimme därefter", "195 kr"], ["Poolpass, 30 min", "395 kr"], ["Poolkort, 10 pass", "3 500 kr"], ["Massage, 20 min", "350 kr"], ["Kloklipp och tassvård", "250 kr"], ["Hembesök, resa 2–5 mil", "+ 300 kr"], ["Hälsosamtal, första gången", "0 kr"]],
+  "galleri_taggar": ["hund", "trimning"],
+  "nyheter": [
+    ["2026-10-20", "Halkfria golv för stela hundar", "Matta, tassvax och kortare klor – så minskar du risken för fall hemma.", "hund"],
+    ["2026-06-03", "Därför simmar äldre hundar", "Vattnet bär upp kroppen och musklerna jobbar utan att lederna belastas.", "hund"],
+    ["2026-01-15", "Tecken på smärta hos äldre hundar", "Sex saker att titta efter som många ägare tror är vanligt åldrande.", "hund"]
+  ],
+  "kontakt": {"adress": "Vallsundsvägen 9", "postnr": "832 41", "ort": "Frösön", "telefon": "070-174 06 52", "epost": "ulrika@gramulen.se", "orgnr": ""},
+  "oppettider": "Mån–tors 8–15, fredagar hembesök",
+  "omrade": "Östersund, Frösön, Krokom, Brunflo och Hallen",
+  "fot_cta": "Har din hund blivit för stel för vanlig klippning? Ring Ulrika.",
+  "bild": {"panel": "hund", "sida_faq": "hund"},
+  "text": {
+    "hero_knapp": "Så tar vi hand om seniorer",
+    "ber_etikett": "På Frösön",
+    "ber_rubrik": "Nytt från vilrummet",
+    "ber_utvalt": "Veckans gråmule",
+    "proj_rubrik": "Äldre hundar som fått det lättare",
+    "proj_kol": ["Hund", "Ras och ålder", "Behandling", "Status", "År"],
+    "process_rubrik": "Ett lugnt besök i fyra delar",
+    "hb_etikett": "Hälsa först",
+    "hb_lank": "Så läser vi av smärta",
+    "omdomen_rubrik": "Ägare till gamla hundar",
+    "faq_rubrik": "Frågor om äldre hundar",
+    "priser_rubrik": "Betalt för tiden hunden behöver",
+    "priser_not": "Seniortrim debiteras per påbörjad halvtimme efter första timmen. Avbryter vi för hundens skull betalar du bara för den tid vi använt.",
+    "galleri_rubrik": "Grå nosar, rena pälsar",
+    "boka_rubrik": "Berätta om din äldre hund",
+    "boka_text": "Skriv ålder, ras och vilka diagnoser eller besvär hunden har, så ringer Ulrika upp inom två vardagar.",
+    "boka_falt": ["Ditt namn", "Telefon", "Hundens ras och ålder", "Diagnoser och besvär"],
+    "boka_knapp": "Be om samtal",
+    "ny_rubrik": "Om att åldras med hund",
+    "panel_etikett": "Före första besöket",
+    "sida_bolag_ingress": "Vi är {n} personer med bakgrund på klinik, i salong och bland draghundar."
+  }
+}

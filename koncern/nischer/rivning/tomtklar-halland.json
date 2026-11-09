@@ -1,0 +1,138 @@
+{
+  "profil": "nisch",
+  "nisch": "rivning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Tomtklar Halland AB",
+  "kortnamn": "Tomtklar",
+  "slug": "tomtklar-halland",
+  "typ": "Villarivning till fast pris i Halland",
+  "tagline": "Riv, sortera, planera",
+  "slogan": "Har du köpt en tomt med ett gammalt hus på? Vi river det till fast pris och lämnar tomten redo för husfabrikens grundläggare.",
+  "hero_rubrik": "Huset bort, tomten klar på fem dagar",
+  "hero_text": "Villor, sommarhus och garage i Halmstad, Laholm, Falkenberg och Varberg. Ett pris som gäller från första samtalet till planerad tomt – utan tillägg för containrar eller deponi.",
+  "intro_rubrik": "Fast pris har varit vår idé sedan dag ett",
+  "om": [
+    "Jesper Nordin var kalkylator på en husfabrik och såg samma problem gång på gång: kunderna hade köpt en tomt med ett hus från 1950-talet, men ingen kunde säga vad rivningen skulle kosta. 2015 startade han Tomtklar med en enkel regel – priset står fast, oavsett vad vi hittar.",
+    "Vi är elva personer och river runt 90 villor och fritidshus om året längs Hallandskusten. Varje hus inventeras före offerten, så att asbest, oljetankar och källare redan finns med i priset när du skriver på."
+  ],
+  "vagval_rubrik": "Vad står på tomten du har köpt?",
+  "tjanster": [
+    {"titel": "Villa till planerad tomt", "ikon": "hus", "href": "verksamhet.html", "text": "Hela huset, grunden och källaren bort – tomten avjämnad och packad."},
+    {"titel": "Sommarhus vid kusten", "ikon": "sol", "href": "verksamhet.html", "text": "Fritidshus i Tylösand, Haverdal och Mellbystrand med trånga tillfarter."},
+    {"titel": "Garage och förråd", "ikon": "nyckel", "href": "verksamhet.html", "text": "Fristående garage, carportar och uthus till fast styckpris."},
+    {"titel": "Oljetank och pool", "ikon": "vatten", "href": "verksamhet.html", "text": "Nedgrävda oljetankar, gamla pooler och stenmurar grävs ur."},
+    {"titel": "Inventering före pris", "ikon": "sok", "href": "verksamhet.html", "text": "Asbest och farligt avfall kartläggs innan du får offerten."},
+    {"titel": "Rivningsanmälan", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi skriver anmälan och rivningsplan och skickar dem till kommunen."},
+    {"titel": "Paketpriser", "ikon": "portfolj", "href": "priser.html", "text": "Tre fasta paket för de vanligaste husen."},
+    {"titel": "Få pris på huset", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Skicka adressen så kommer Jesper ut inom en vecka."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villarivning för nybygge", "text": "Det vanligaste uppdraget är en villa från 1940–70-talet på en tomt som köpts för att bygga nytt. Vi river huset, bryter upp grunden, fyller källaren med krossat material och packar tomten lager för lager.", "text2": "Tomten lämnas med packningsprotokoll som husleverantörens grundläggare kan räkna på direkt.", "tagg": "rivning"},
+    {"titel": "Sommarhus längs kusten", "text": "Fritidshus i sanddynerna har ofta smala grusvägar och grannar några meter bort. Vi använder en 14-tons grävare med sax och kör ut materialet i mindre lass.", "text2": "Under juni, juli och augusti river vi inte i sommarhusområden – av hänsyn till grannarna.", "tagg": "hem"},
+    {"titel": "Det som gömmer sig i marken", "text": "Nedgrävda oljetankar, gamla stenkistor, betongpooler och dräneringsrör kommer ofta fram först när huset är borta. Hos oss ingår de i priset om de fanns med i inventeringen.", "text2": "Oljetanken töms, rengörs och lämnas till skrot med intyg.", "tagg": "mark"},
+    {"titel": "Inventering och papper", "text": "Kommunen kräver en rivningsanmälan med materialinventering och kontrollplan. Vi tar prover på misstänkt asbest, skriver planen och skickar in allt åt dig.", "text2": "I Halmstad och Laholm brukar startbeskedet komma inom tre till fyra veckor.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Rivning", "segment": "6 maskinförare och rivare", "rubrik": "Två lag, två grävare", "text": "Ett lag på 22-tonnare för villor med källare och ett på 14-tonnare för sommarhusområden.", "tagg": "rivning"},
+    {"namn": "Sanering", "segment": "2 sanerare", "rubrik": "Eternit och mattor först", "text": "Tar bort asbest och PCB dagarna innan maskinerna kommer.", "tagg": "bygg"},
+    {"namn": "Kalkyl & Kontakt", "segment": "Jesper och en kalkylator", "rubrik": "Ett pris som håller", "text": "Inventerar husen, räknar fasta priser och sköter anmälan till kommunen.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Villan på Furet", "text": "Ett hus från 1952 med källare och oljetank bort på fem arbetsdagar – grundläggarna kom på måndagen.", "tagg": "rivning"},
+    {"rubrik": "Höstens sommarhus", "text": "Fjorton fritidshus i Haverdal och Mellbystrand är bokade mellan september och november.", "tagg": "hem"},
+    {"rubrik": "Packningsprotokoll i alla uppdrag", "text": "Nu får alla kunder ett protokoll från plattbelastning som husfabriken kan använda direkt.", "tagg": "mark"}
+  ],
+  "nyckeltal": [
+    {"varde": "5", "enhet": "dagar", "etikett": "Normal tid för en villa"},
+    {"varde": "0", "enhet": "kr", "etikett": "Tillägg efter signerad offert"},
+    {"varde": "90", "enhet": "per år", "etikett": "Villor och sommarhus"},
+    {"varde": "11", "enhet": "", "etikett": "Anställda i Halmstad"}
+  ],
+  "projekt": [
+    {"namn": "Villan på Furet", "ort": "Halmstad", "typ": "Villa med källare", "ar": "2026", "text": "Källaren fylldes med krossat tegel från huset och tomten packades i fyra lager.", "tagg": "rivning"},
+    {"namn": "Sommarhuset i Haverdal", "ort": "Haverdal", "typ": "Fritidshus", "ar": "2025", "text": "Ett trähus från 1961 i sanddynerna, rivet med liten grävare via en tre meter bred väg.", "tagg": "hem"},
+    {"namn": "Tvåplansvillan i Laholm", "ort": "Laholm", "typ": "Villa med eternitfasad", "ar": "2025", "text": "Fasaden sanerades först, sedan revs huset och oljetanken grävdes upp.", "tagg": "bostad"},
+    {"namn": "Tre garage på Söndrum", "ort": "Halmstad", "typ": "Garage och förråd", "ar": "2025", "text": "Tre fristående garage rivna på en dag åt en samfällighet.", "tagg": "rivning"},
+    {"namn": "Strandvillan i Skrea", "ort": "Falkenberg", "typ": "Villa och pool", "ar": "2024", "text": "Villa och betongpool bort inför ett nytt arkitektritat hus.", "tagg": "mark"},
+    {"namn": "Radhuslängan i Varberg", "ort": "Varberg", "typ": "Rivning för förtätning", "ar": "2026", "text": "Fyra radhus från 1958 rivs åt en byggherre som ska bygga tolv lägenheter.", "tagg": "bostad", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Hembesök", "text": "Jesper går igenom huset, tar asbestprov och letar efter oljetank och källare.", "tagg": "bygg"},
+    {"titel": "Fast pris", "text": "Du får ett pris som inte ändras – inventeringen är redan gjord och inräknad.", "tagg": "kontor"},
+    {"titel": "Anmälan och rivning", "text": "Vi skickar anmälan, väntar in startbeskedet och river på fem till sju arbetsdagar.", "tagg": "rivning"},
+    {"titel": "Packad tomt", "text": "Grund och källare fylls och packas. Du får packningsprotokoll och vägningskvitton.", "tagg": "mark"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Källaren fylls med det gamla huset",
+    "text": "Tegel och betong från huset krossas på tomten och blir fyllning i källaren, så att vi slipper köra in ny grus och köra ut gamla massor. Trä, metall och gips sorteras i separata containrar och körs till återvinningscentralen i Halmstad.",
+    "mal": [["70 %", "av husets vikt stannar på tomten som fyllning"], ["7", "fraktioner på varje rivning"], ["0 kr", "i tilläggsdebitering sedan 2015"]]
+  },
+  "karriar": {"rubrik": "Ett hus i veckan, hemma varje kväll", "text": "Vi arbetar inom fem mil från Halmstad, så du sover hemma varje natt. Just nu söker vi en maskinförare med erfarenhet av sax och packning.", "jobb": [["Maskinförare grävmaskin", "Halmstad"]]},
+  "kultur": "När ett hus är borta åker hela laget och köper glass på Strandvägen – även i november.",
+  "citat": {"text": "Folk som köper en tomt har redan en budget som är spänd. Det sista de behöver är ett rivningspris som växer.", "namn": "Jesper Nordin", "roll": "Grundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Offerten var 168 000 kronor och fakturan var 168 000 kronor. Oljetanken de hittade fanns redan med.", "namn": "Daniel K.", "ort": "Halmstad"},
+    {"text": "Husfabriken sa att det var den bäst packade tomten de fått på länge. Vi kunde gjuta plattan veckan efter.", "namn": "Maria L.", "ort": "Laholm"},
+    {"text": "Vår väg till sommarhuset är smal som en cykelbana. De kom med en mindre grävare och inte en buske skadades.", "namn": "Peter och Åsa J.", "ort": "Haverdal"}
+  ],
+  "faq": [
+    ["Vad händer om ni hittar något oväntat?", "Om det inte fanns med i inventeringen och inte gick att upptäcka vid besöket står vi för merkostnaden ändå. Det har hänt elva gånger sedan 2015."],
+    ["Får jag ROT-avdrag för rivningen?", "Nej. ROT-avdrag gäller inte när hela byggnaden rivs för att ersättas med en ny. Det gäller däremot för rivning av till exempel ett kök i ett hus som står kvar."],
+    ["Behöver jag rivningslov?", "Inom detaljplan krävs oftast rivningslov eller anmälan. Vi skriver handlingarna och skickar in dem, och väntar med att riva tills startbeskedet kommit."],
+    ["Vem stänger av el och vatten?", "Du säger upp elabonnemanget hos nätägaren. Vi beställer avstängning av vatten och avlopp vid tomtgränsen och pluggar ledningarna."],
+    ["Kan ni lämna tomten redo för husfabriken?", "Ja, det är hela poängen. Vi packar fyllningen i lager och gör en plattbelastning som visar bärigheten."],
+    ["Hur långt bort tar ni uppdrag?", "Från Båstad i söder till Varberg i norr. Längre bort tillkommer en fast framkörningsavgift som står i offerten."]
+  ],
+  "priser": [
+    {"namn": "Sommarhus", "pris": "fr. 94 500 kr", "enhet": "upp till 80 kvm, utan källare", "text": "Fritidshus i trä på plintar eller platta.", "punkter": ["Inventering och asbestprov", "Rivningsanmälan till kommunen", "Sortering i sju fraktioner", "Avjämnad tomt"]},
+    {"namn": "Villa utan källare", "pris": "fr. 148 000 kr", "enhet": "upp till 140 kvm", "text": "Enplansvilla på platta eller torpargrund.", "punkter": ["Allt i Sommarhus", "Grund bruten och bortkörd", "Packad fyllning i lager", "Packningsprotokoll"], "utvald": true},
+    {"namn": "Villa med källare", "pris": "fr. 196 000 kr", "enhet": "upp till 180 kvm", "text": "Ett- eller tvåplansvilla med hel eller halv källare.", "punkter": ["Allt i Villa utan källare", "Källaren fylls med krossat husmaterial", "Oljetank tömd och skrotad", "Plattbelastning för grundläggaren"]}
+  ],
+  "prislista": [["Fristående garage upp till 40 kvm", "28 500 kr"], ["Carport", "12 900 kr"], ["Betongpool, rivning och fyllning", "fr. 36 000 kr"], ["Nedgrävd oljetank", "fr. 9 800 kr"], ["Eternitfasad, sanering", "fr. 410 kr/kvm"], ["Stenmur, per löpmeter", "fr. 650 kr"], ["Framkörning norr om Varberg", "4 500 kr"]],
+  "prislista_rubrik": "Tillägg och styckpriser",
+  "priser_rubrik": "Tre paket för de vanligaste husen",
+  "priser_not": "Alla priser inklusive moms. Priset fastställs efter hembesök och ändras inte efter att du skrivit på.",
+  "sidor": [["verksamhet", "Det vi river", "verksamhet"], ["priser", "Paketpriser", "priser"], ["projekt", "Rivna hus", "projekt"], ["bolag", "Vi på Tomtklar", "bolag"], ["hallbarhet", "Sortering", "hallbarhet"], ["faq", "Frågor & svar", "faq"], ["karriar", "Jobba hos oss", "karriar"], ["om-oss", "Om oss", "om-oss"]],
+  "certifikat": [
+    {"titel": "Asbesttillstånd", "text": "Arbetsmiljöverkets tillstånd för rivning av eternit, mattor och annat asbesthaltigt material.", "ikon": "skold"},
+    {"titel": "Certifierad kontrollansvarig", "text": "Jesper Nordin är certifierad kontrollansvarig enligt plan- och bygglagen, behörighet N.", "ikon": "dokument"},
+    {"titel": "Maskinförarintyg och ID06", "text": "Alla förare har intyg för grävmaskin och är registrerade i personalliggaren.", "ikon": "hjalm"},
+    {"titel": "Allriskförsäkring 10 Mkr", "text": "Försäkringen täcker skador på grannfastigheter, staket och planteringar.", "ikon": "las"}
+  ],
+  "kunder": ["Halländska Villahus", "Brf Söndrums Gårdar", "Skrea Strandtomter", "Haverdals Stugägareförening", "Laholms Byggherrar", "Varbergs Radhusbolag", "Tylösands Fritidsbyar"],
+  "kunder_rubrik": "Husfabriker, byggherrar och tomtägare",
+  "nyheter": [
+    ["2026-10-19", "Fjorton sommarhus före vintern", "Höstsäsongen i Haverdal och Mellbystrand är fullbokad till och med november.", "hem"],
+    ["2026-05-26", "Packningsprotokoll ingår alltid", "Nu gör vi plattbelastning på alla tomter, utan extra kostnad.", "mark"],
+    ["2025-12-02", "Därför gäller inte ROT när huset rivs", "Vad Skatteverket säger om rivning, och när avdraget faktiskt fungerar.", "kontor"]
+  ],
+  "kontakt": {"adress": "Kristinebergsvägen 33", "postnr": "302 41", "ort": "Halmstad", "telefon": "070-174 06 38", "epost": "jesper@tomtklar.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–17",
+  "omrade": "Halmstad, Laholm, Båstad, Falkenberg och Varberg",
+  "fot_cta": "Har du köpt en tomt med ett hus som ska bort? Skicka adressen – du får ett fast pris.",
+  "bild": {"hb": "mark"},
+  "text": {
+    "hero_knapp": "Det ingår i priset",
+    "hero_lank": "Se paketpriserna",
+    "vagval_etikett": "På tomten",
+    "ber_etikett": "Från Hallandskusten",
+    "ber_rubrik": "Nyss rivet och bokat",
+    "proj_rubrik": "Hus vi har gjort till tomter",
+    "process_etikett": "Hembesök till packad tomt",
+    "process_rubrik": "Priset sätts före första skopan",
+    "hb_etikett": "Massor och sortering",
+    "omdomen_rubrik": "Tomtägare som byggt nytt",
+    "faq_rubrik": "Innan du skriver på",
+    "priser_etikett": "Fasta paket",
+    "priser_utvald": "Flest väljer",
+    "priser_knapp": "Få fast pris",
+    "sida_priser_ingress": "Paketen gäller de vanligaste husen. Efter hembesöket får du ett pris som inte ändras.",
+    "certifikat_rubrik": "Behörigheter och försäkring",
+    "logos_etikett": "Kunder",
+    "boka_rubrik": "Vilken adress gäller det?",
+    "boka_text": "Skriv adressen och när du vill att tomten ska vara klar, så bokar Jesper ett hembesök inom en vecka.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Tomtens adress och önskat datum"],
+    "panel_etikett": "Vi söker förare",
+    "medarbetare": "Laget i Halmstad"
+  }
+}

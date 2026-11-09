@@ -1,0 +1,336 @@
+/* ===== Varianter N: cta, boka, galleri, process, omdömen – bildkort, bento och karuseller.
+   Gemensamt: .nv ger lokala färger som följer sektionens bakgrund (pa-ton/pa-yta/pa-farg/pa-mork). ===== */
+.nv { --nv-kort: var(--c-yta); --nv-linje: var(--c-line); --nv-mut: var(--c-mut); --nv-farg: var(--c-p); --nv-farg-ink: var(--c-p-ink); --nv-ljus: var(--c-bg); min-width: 0; }
+.pa-ton .nv, .pa-yta .nv { --nv-kort: var(--c-bg); --nv-linje: color-mix(in srgb, var(--c-ink) 14%, transparent); }
+.pa-farg .nv, .pa-mork .nv { --nv-kort: color-mix(in srgb, currentColor 9%, transparent); --nv-linje: color-mix(in srgb, currentColor 24%, transparent); --nv-mut: color-mix(in srgb, currentColor 76%, transparent); }
+.pa-farg .nv { --nv-farg: var(--c-dark); --nv-farg-ink: var(--c-dark-ink); }
+.nv h3, .nv b { overflow-wrap: break-word; }
+.nco .figtext, .ncn .figtext, .nbf .figtext, .non .figtext { top: 8px; bottom: auto; }
+.nv blockquote { margin: 0; }
+.nv input, .nv textarea { font: inherit; color: inherit; }
+.pa-mork .nv .textlank, .pa-farg .nv .textlank { color: inherit; }
+
+/* ---------- Gemensamt formulär (nbf, nbb) ---------- */
+.nbf-f, .nbb-f { display: grid; gap: 7px; min-width: 0; }
+.nbf-f span, .nbb-f span { font: 600 12px/1.3 var(--font-t); letter-spacing: .1em; text-transform: uppercase; color: var(--c-mut); }
+.nbf-f input, .nbf-f textarea, .nbb-f input, .nbb-f textarea { width: 100%; min-width: 0; padding: 13px 15px; border: 1.5px solid var(--c-line); border-radius: min(var(--r-card), 10px); background: var(--c-bg); color: var(--c-ink); transition: border-color .2s, box-shadow .2s; }
+.nbf-f textarea, .nbb-f textarea { resize: vertical; min-height: 110px; }
+.nbf-f input:focus, .nbf-f textarea:focus, .nbb-f input:focus, .nbb-f textarea:focus { outline: none; border-color: var(--c-p); box-shadow: 0 0 0 3px color-mix(in srgb, var(--c-p) 22%, transparent); }
+.nbf-skicka, .nbb-skicka { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; margin-top: 6px; }
+.nbf-tack, .nbb-tack { display: none; font-size: 14.5px; color: var(--c-mut); }
+.nbf-tack:target, .nbb-tack:target { display: block; }
+
+/* =====================================================================================================================
+   cta/n-bildkort – rubrik till vänster, stående bildkort med kontaktvägen i en färgruta
+   ===================================================================================================================== */
+.ncb { position: relative; display: grid; gap: 36px; }
+.ncb-text h2 { max-width: 14em; overflow-wrap: anywhere; }
+.ncb-text .knappar { margin-top: 28px; }
+.ncb-rad { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(250px, 78%); gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 8px; scrollbar-width: thin; }
+.ncb-kort { scroll-snap-align: start; min-width: 0; }
+.ncb-kort a { position: relative; display: block; height: 100%; min-height: 420px; overflow: hidden; border-radius: var(--r-card); color: inherit; text-decoration: none; isolation: isolate; }
+.ncb-bild { position: absolute; inset: 0; }
+.ncb-bild img { width: 100%; height: 100%; object-fit: cover; transition: transform .7s ease; }
+.ncb-kort a:hover .ncb-bild img { transform: scale(1.05); }
+.ncb-ruta { position: absolute; left: 12px; right: 12px; bottom: 12px; display: grid; gap: 4px; padding: 20px 52px 20px 20px; border-radius: max(0px, calc(var(--r-card) - 6px)); background: var(--nv-farg); color: var(--nv-farg-ink); }
+.ncb-kort:first-child .ncb-ruta { background: var(--c-a); color: var(--c-a-ink); }
+.ncb-ik .ik { width: 28px; height: 28px; margin-bottom: 8px; }
+.ncb-ruta small { font: 600 11.5px/1.3 var(--font-t); letter-spacing: .12em; text-transform: uppercase; opacity: .8; }
+.ncb-ruta b { font: var(--w-r) clamp(18px, 1.35vw, 21px)/1.25 var(--font-r); letter-spacing: var(--tr-r); }
+.ncb-u { font-size: 13.5px; opacity: .82; line-height: 1.4; }
+.ncb-pil { position: absolute; right: 18px; bottom: 20px; }
+.ncb-kort a:hover .pil { transform: translateX(4px); }
+.ncb-not { justify-self: end; margin-top: -24px; font-size: 11px; color: var(--nv-mut); }
+@media (min-width: 760px) { .ncb-rad { grid-auto-flow: row; grid-auto-columns: auto; grid-template-columns: repeat(3, minmax(0, 1fr)); overflow: visible; padding-bottom: 0; }
+  .ncb-rad.n2 { grid-template-columns: repeat(2, minmax(0, 1fr)); } .ncb-rad.n1 { grid-template-columns: minmax(0, 1fr); } }
+@media (min-width: 1100px) {
+  .ncb { grid-template-columns: minmax(0, 4fr) minmax(0, 8fr); gap: 56px; align-items: center; }
+  .ncb-kort a { min-height: 500px; }
+  .ncb-kort:nth-child(2) { margin-top: 48px; }
+  .ncb-kort:nth-child(2) a { min-height: 452px; }
+  .ncb-not { grid-column: 2; }
+}
+
+/* =====================================================================================================================
+   cta/n-bento – stor bildruta med uppmaningen i färgruta, kontaktrutor och en andra bild
+   ===================================================================================================================== */
+.ncn { display: grid; gap: 12px; grid-template-columns: minmax(0, 1fr); }
+.ncn-stor { position: relative; overflow: hidden; display: flex; align-items: flex-end; min-height: 500px; padding: 14px; border-radius: var(--r-card); }
+.ncn-farg { position: relative; z-index: 1; max-width: 560px; padding: clamp(24px, 3vw, 40px); border-radius: max(0px, calc(var(--r-card) - 6px)); background: var(--nv-farg); color: var(--nv-farg-ink); }
+.ncn-farg .etikett { color: inherit; opacity: .8; }
+.ncn-farg h2 { color: inherit; font-size: calc(clamp(26px, 2.6vw, 40px) * var(--skala-r)); overflow-wrap: anywhere; }
+.ncn-farg .knapp { margin-top: 26px; }
+.ncn-ruta { position: relative; display: flex; flex-direction: column; justify-content: space-between; gap: 24px; min-height: 150px; padding: 26px; border-radius: var(--r-card); background: var(--nv-kort); color: inherit; text-decoration: none; transition: transform .25s; }
+.ncn-ruta:hover { transform: translateY(-3px); }
+.ncn-ruta > span:not(.rundpil) { display: grid; gap: 4px; }
+.ncn-ruta small { font: 600 11.5px/1.3 var(--font-t); letter-spacing: .12em; text-transform: uppercase; opacity: .75; }
+.ncn-ruta b { font: var(--w-r) clamp(19px, 1.6vw, 25px)/1.2 var(--font-r); letter-spacing: var(--tr-r); }
+.ncn-ruta em { font-style: normal; font-size: 14px; opacity: .8; }
+.ncn-ruta .ik { width: 32px; height: 32px; }
+.ncn-ruta .rundpil { position: absolute; top: 22px; right: 22px; }
+.ncn-tel { background: var(--c-a); color: var(--c-a-ink); }
+.ncn-bild2 { position: relative; overflow: hidden; min-height: 220px; border-radius: var(--r-card); }
+@media (min-width: 700px) {
+  .ncn { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .ncn-stor { grid-column: 1 / -1; }
+  .ncn.n2 .ncn-bild2, .ncn.n1 .ncn-bild2 { grid-column: 1 / -1; }
+}
+@media (min-width: 1100px) {
+  .ncn { grid-template-columns: repeat(4, minmax(0, 1fr)); grid-template-rows: repeat(2, minmax(250px, auto)); }
+  .ncn-stor { grid-column: 1 / 3; grid-row: 1 / 3; min-height: 560px; }
+  .ncn.n3 .ncn-bild2 { grid-column: 4; grid-row: 2; }
+  .ncn.n2 .ncn-bild2 { grid-column: 3 / 5; grid-row: 2; }
+  .ncn.n1 .ncn-tel { grid-column: 3 / 5; }
+  .ncn.n1 .ncn-bild2 { grid-column: 3 / 5; grid-row: 2; }
+}
+
+/* =====================================================================================================================
+   cta/n-overlap – bred bild och ett färgkort som överlappar nederkanten
+   ===================================================================================================================== */
+.nco { display: grid; }
+.nco-bild { position: relative; overflow: hidden; aspect-ratio: 4 / 3; border-radius: var(--r-img); }
+.nco-kort { position: relative; z-index: 1; display: grid; gap: 28px; width: calc(100% - 24px); margin: -64px 0 0 auto; padding: clamp(26px, 4vw, 56px); border-radius: var(--r-card); background: var(--nv-farg); color: var(--nv-farg-ink); box-shadow: 0 30px 60px rgba(0,0,0,.16); }
+.nco-kort .etikett { color: inherit; opacity: .8; }
+.nco-kort h2 { color: inherit; max-width: 16em; overflow-wrap: anywhere; }
+.nco-fot { display: flex; flex-wrap: wrap; align-items: center; gap: 22px 32px; padding-top: 26px; border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent); }
+.nco-vagar { display: flex; flex-wrap: wrap; gap: 18px 32px; min-width: 0; }
+.nco-vag { display: flex; align-items: center; gap: 12px; min-width: 0; color: inherit; text-decoration: none; }
+.nco-vag .ik { width: 24px; height: 24px; opacity: .85; }
+.nco-vag span { display: grid; min-width: 0; }
+.nco-vag small { font: 600 11px/1.3 var(--font-t); letter-spacing: .12em; text-transform: uppercase; opacity: .7; }
+.nco-vag b { font-size: 17px; line-height: 1.3; }
+.nco-vag:hover b { text-decoration: underline; text-underline-offset: 4px; }
+@media (min-width: 760px) { .nco-bild { aspect-ratio: 16 / 8; } .nco-kort { width: min(780px, 82%); margin-top: -180px; margin-right: clamp(0px, 3vw, 48px); } }
+@media (min-width: 1200px) { .nco-bild { aspect-ratio: auto; height: 600px; } .nco-kort { margin-top: -240px; } }
+
+/* =====================================================================================================================
+   boka/n-fotokort – rubrik, bildkort med kontaktruta och formulärkort som överlappar bilden
+   ===================================================================================================================== */
+.nbf { display: grid; gap: 0; }
+.nbf-huvud { margin-bottom: clamp(28px, 3.5vw, 48px); }
+.nbf-huvud h2 { overflow-wrap: anywhere; }
+.nbf-huvud .ingress { margin-top: 16px; max-width: 32em; }
+.nbf-bild { position: relative; overflow: hidden; display: flex; align-items: flex-end; min-height: 480px; padding: 12px 12px 64px; border-radius: var(--r-img); }
+.nbf-bild img { object-position: 50% 30%; }
+.nbf-info { position: relative; z-index: 1; display: grid; gap: 14px; width: min(100%, 360px); padding: 22px 24px; border-radius: max(0px, calc(var(--r-card) - 4px)); background: var(--nv-farg); color: var(--nv-farg-ink); }
+.nbf-info ul { display: grid; gap: 14px; }
+.nbf-info a { display: flex; align-items: center; gap: 14px; color: inherit; text-decoration: none; min-width: 0; }
+.nbf-info a span { display: grid; min-width: 0; }
+.nbf-info .ik { width: 26px; height: 26px; opacity: .85; }
+.nbf-info small, .nbf-tider small { display: block; font: 600 11px/1.3 var(--font-t); letter-spacing: .12em; text-transform: uppercase; opacity: .72; }
+.nbf-info b { font-size: 17px; line-height: 1.3; }
+.nbf-info a:hover b { text-decoration: underline; text-underline-offset: 4px; }
+.nbf-tider { padding-top: 14px; border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent); font-size: 15px; }
+.nbf-kort { position: relative; z-index: 2; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px 16px; margin: -40px 12px 0; padding: clamp(24px, 3vw, 44px); border-radius: var(--r-card); background: var(--c-bg); color: var(--c-ink); box-shadow: 0 34px 70px rgba(0,0,0,.16); }
+.nbf-kh { grid-column: 1 / -1; font: var(--w-r) clamp(21px, 1.8vw, 27px)/1.2 var(--font-r); letter-spacing: var(--tr-r); }
+.nbf-f2, .nbf-f3 { grid-column: 1 / -1; }
+@media (max-width: 479px) { .nbf-f { grid-column: 1 / -1; } }
+@media (min-width: 1000px) {
+  .nbf { grid-template-columns: minmax(0, 7fr) minmax(0, 5fr); }
+  .nbf-huvud { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px 48px; }
+  .nbf-huvud .etikett { flex-basis: 100%; margin-bottom: -4px; }
+  .nbf-huvud h2 { max-width: 15em; }
+  .nbf-huvud .ingress { margin-top: 0; max-width: 24em; }
+  .nbf-bild { grid-column: 1; grid-row: 2; min-height: 640px; padding: 20px; }
+  .nbf-kort { grid-column: 2; grid-row: 2; align-self: center; margin: 0 0 0 -140px; }
+}
+
+/* =====================================================================================================================
+   boka/n-bento – formuläret som största rutan, rubrikruta i färg, bildruta och kontaktrutor
+   ===================================================================================================================== */
+.nbb { display: grid; gap: 12px; grid-template-columns: repeat(12, minmax(0, 1fr)); }
+.nbb > * { grid-column: 1 / -1; min-width: 0; }
+.nbb-rubrik { display: flex; flex-direction: column; justify-content: flex-end; min-height: 260px; padding: clamp(26px, 3vw, 44px); border-radius: var(--r-card); background: var(--nv-farg); color: var(--nv-farg-ink); }
+.nbb-rubrik .etikett { color: inherit; opacity: .8; }
+.nbb-rubrik h2 { color: inherit; overflow-wrap: anywhere; }
+.nbb-rubrik p { margin-top: 14px; font-size: 17px; line-height: 1.55; opacity: .88; max-width: 30em; }
+.nbb-bild { position: relative; overflow: hidden; min-height: 240px; border-radius: var(--r-card); }
+.nbb-form { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); align-content: center; gap: 18px 16px; padding: clamp(24px, 3vw, 44px); border-radius: var(--r-card); background: var(--nv-kort); color: inherit; }
+.pa-farg .nbb-form, .pa-mork .nbb-form { background: var(--c-bg); color: var(--c-ink); }
+.nbb-f2, .nbb-f3 { grid-column: 1 / -1; }
+@media (max-width: 479px) { .nbb-f { grid-column: 1 / -1; } }
+.nbb-sma { display: flex; flex-direction: column; gap: 4px; min-height: 130px; padding: 22px 24px; border-radius: var(--r-card); background: var(--nv-kort); color: inherit; text-decoration: none; transition: transform .25s; }
+.nbb-sma .ik { width: 32px; height: 32px; margin-bottom: auto; padding-bottom: 6px; color: var(--c-p-text); }
+.pa-farg .nbb-sma .ik, .pa-mork .nbb-sma .ik { color: inherit; }
+.nbb-sma small { margin-top: 18px; font: 600 11.5px/1.3 var(--font-t); letter-spacing: .12em; text-transform: uppercase; opacity: .72; }
+.nbb-sma b { font: var(--w-r) clamp(18px, 1.5vw, 22px)/1.25 var(--font-r); letter-spacing: var(--tr-r); }
+a.nbb-sma:hover { transform: translateY(-3px); }
+.nbb-tel { background: var(--c-a); color: var(--c-a-ink); }
+.nbb-tel .ik { color: inherit; }
+@media (min-width: 700px) { .nbb.n3 .nbb-sma { grid-column: span 4; } .nbb.n2 .nbb-sma { grid-column: span 6; } }
+@media (min-width: 1000px) {
+  .nbb-rubrik { grid-column: 1 / 6; grid-row: 1; }
+  .nbb-bild { grid-column: 1 / 6; grid-row: 2; min-height: 300px; }
+  .nbb-form { grid-column: 6 / -1; grid-row: 1 / 3; }
+  .nbb-sma { grid-row: 3; }
+}
+
+/* =====================================================================================================================
+   galleri/n-bento – asymmetriskt bentorutnät med bildtext och färgruta
+   ===================================================================================================================== */
+.ngb { display: grid; gap: 10px; grid-template-columns: repeat(2, minmax(0, 1fr)); grid-auto-rows: 150px; grid-auto-flow: dense; }
+.ngb-b { position: relative; overflow: hidden; border-radius: var(--r-img); }
+.ngb-b img { width: 100%; height: 100%; object-fit: cover; transition: transform .8s ease; }
+.ngb-b:hover img { transform: scale(1.05); }
+.ngb-0 { grid-column: span 2; grid-row: span 2; }
+.ngb-4 { grid-column: span 2; }
+.ngb-txt { position: absolute; left: 10px; bottom: 10px; max-width: calc(100% - 20px); padding: 6px 11px; border-radius: max(0px, calc(var(--r-img) - 4px)); background: var(--c-bg); color: var(--c-ink); font-size: 12.5px; font-weight: 600; line-height: 1.3; overflow-wrap: anywhere; }
+.ngb-farg { grid-column: span 2; border-radius: var(--r-img); background: var(--nv-farg); color: var(--nv-farg-ink); }
+.ngb-farg a { display: flex; flex-direction: column; justify-content: space-between; gap: 14px; height: 100%; padding: 18px 20px; color: inherit; text-decoration: none; position: relative; }
+.ngb-antal { font: var(--w-r) 30px/1 var(--font-r); letter-spacing: var(--tr-r); opacity: .9; }
+.ngb-fl { display: grid; gap: 2px; padding-right: 54px; }
+.ngb-fl b { font: var(--w-r) 19px/1.2 var(--font-r); letter-spacing: var(--tr-r); }
+.ngb-fl small { font-size: 12px; opacity: .75; }
+.ngb-farg .rundpil { position: absolute; right: 18px; bottom: 18px; }
+.ngb-farg a:hover .rundpil { background: var(--c-a); border-color: var(--c-a); color: var(--c-a-ink); }
+@media (min-width: 760px) {
+  .ngb { grid-template-columns: repeat(4, minmax(0, 1fr)); grid-auto-rows: clamp(170px, 16vw, 250px); grid-auto-flow: row; }
+  .ngb-0 { grid-column: 1 / 3; grid-row: 1 / 3; }
+  .ngb-1 { grid-column: 3; grid-row: 1 / 3; }
+  .ngb-2 { grid-column: 4; grid-row: 1; }
+  .ngb-farg { grid-column: 4; grid-row: 2; }
+  .ngb-3 { grid-column: 1; grid-row: 3; }
+  .ngb-4 { grid-column: 2 / 4; grid-row: 3; }
+  .ngb-5 { grid-column: 4; grid-row: 3; }
+  .ngb-farg a { padding: clamp(18px, 2vw, 28px); }
+  .ngb-antal { font-size: clamp(34px, 3.4vw, 54px); }
+}
+
+/* =====================================================================================================================
+   galleri/n-karusell – färgad introruta först i raden, sedan stora stående bildkort
+   ===================================================================================================================== */
+.ngk-rad { display: flex; gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 14px; scrollbar-width: thin; scrollbar-color: var(--c-p) transparent; }
+.ngk-rad > li { flex: 0 0 80%; height: clamp(440px, 42vw, 600px); scroll-snap-align: start; min-width: 0; }
+.ngk-intro { display: flex; flex-direction: column; justify-content: space-between; gap: 40px; padding: clamp(24px, 2.6vw, 38px); border-radius: var(--r-card); background: var(--nv-farg); color: var(--nv-farg-ink); }
+.ngk-intro .etikett { color: inherit; opacity: .8; }
+.ngk-intro h2 { color: inherit; overflow-wrap: anywhere; }
+.ngk-ifot { display: grid; gap: 14px; justify-items: start; }
+.ngk-ifot .textlank { color: inherit; }
+.ngk-ifot small { font-size: 12px; opacity: .72; }
+.ngk-dra { display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; border-radius: 999px; background: color-mix(in srgb, currentColor 14%, transparent); font: 600 12px/1 var(--font-t); letter-spacing: .1em; text-transform: uppercase; }
+.ngk-kort figure { position: relative; height: 100%; }
+.ngk-bild { overflow: hidden; width: 100%; height: 100%; border-radius: var(--r-img); }
+.ngk-bild img { width: 100%; height: 100%; object-fit: cover; transition: transform .8s ease; }
+.ngk-kort:hover .ngk-bild img { transform: scale(1.04); }
+.ngk-kort figcaption { position: absolute; left: 14px; bottom: 14px; display: flex; align-items: center; gap: 12px; max-width: calc(100% - 28px); padding: 10px 16px 10px 10px; border-radius: max(0px, calc(var(--r-img) - 4px)); background: var(--c-bg); color: var(--c-ink); font-size: 14px; font-weight: 600; line-height: 1.3; overflow-wrap: anywhere; }
+.ngk-nr { display: grid; place-items: center; flex: none; min-width: 34px; height: 34px; padding: 0 6px; border-radius: max(0px, calc(var(--r-img) - 6px)); background: var(--c-a); color: var(--c-a-ink); font-size: 12.5px; letter-spacing: .04em; }
+@media (min-width: 760px) {
+  .ngk-rad { gap: 18px; }
+  .ngk-rad > li { flex-basis: 42%; }
+  .ngk-rad > .ngk-intro { flex-basis: 34%; }
+}
+@media (min-width: 1100px) {
+  .ngk-rad > li { flex-basis: 30%; }
+  .ngk-rad > .ngk-intro { flex-basis: 27%; }
+  .ngk-kort:nth-child(odd) figure { padding-top: 56px; }
+}
+
+/* =====================================================================================================================
+   process/n-bildkort – höga bildkort, stegmätare överst och texten i en vit ruta
+   ===================================================================================================================== */
+.npb { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(260px, 84%); gap: 14px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 10px; scrollbar-width: thin; }
+.npb-kort { position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between; min-height: 500px; padding: 14px; border-radius: var(--r-card); scroll-snap-align: start; isolation: isolate; }
+.npb-kort .bild-fyll { z-index: -1; }
+.npb-kort .bild-fyll img { transition: transform .8s ease; }
+.npb-kort:hover .bild-fyll img { transform: scale(1.05); }
+.npb-kort .bild-fyll::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(0,0,0,.55), rgba(0,0,0,0) 38%); }
+.npb-topp { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 6px 6px 0; }
+.npb-matare { display: flex; gap: 5px; }
+.npb-matare i { width: 22px; height: 4px; border-radius: 2px; background: rgba(255,255,255,.4); }
+.npb-matare i.on { background: #fff; }
+.npb-nr { display: grid; place-items: center; width: 52px; height: 52px; border-radius: max(0px, calc(var(--r-card) - 4px)); background: var(--c-a); color: var(--c-a-ink); font: var(--w-r) 19px/1 var(--font-r); }
+.npb-ruta { display: grid; gap: 8px; padding: 22px 22px 24px; border-radius: max(0px, calc(var(--r-card) - 6px)); background: var(--c-bg); color: var(--c-ink); }
+.npb-ruta small { font: 600 11.5px/1.3 var(--font-t); letter-spacing: .12em; text-transform: uppercase; color: var(--c-p-text); }
+.npb-ruta h3 { color: var(--c-rubrik); }
+.npb-ruta p { font-size: 15px; line-height: 1.55; color: var(--c-mut); }
+.npb-not { margin-top: 12px; font-size: 11px; color: var(--nv-mut); text-align: right; }
+@media (min-width: 700px) { .npb { grid-auto-flow: row; grid-auto-columns: auto; grid-template-columns: repeat(2, minmax(0, 1fr)); overflow: visible; padding-bottom: 0; } }
+@media (min-width: 1100px) {
+  .npb.n4, .npb.n8 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .npb.n3, .npb.n6, .npb.n5 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .npb-kort { min-height: 560px; }
+  .npb.n4 .npb-kort:nth-child(even) { margin-top: 40px; min-height: 520px; }
+}
+
+/* =====================================================================================================================
+   process/n-karusell – breda kort med bild och färgpanel, nästa steg sticker in från sidan
+   ===================================================================================================================== */
+.npk-flikar { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); gap: 6px; margin-bottom: 22px; }
+.npk-flikar a { display: grid; gap: 6px; min-width: 0; padding-top: 12px; border-top: 3px solid var(--nv-linje); color: inherit; text-decoration: none; transition: border-color .2s; }
+.npk-flikar a:first-child { border-top-color: var(--c-a); }
+.npk-flikar a:hover { border-top-color: var(--c-p); }
+.npk-flikar b { font: var(--w-r) 15px/1 var(--font-r); }
+.npk-flikar span { display: none; font-size: 14px; line-height: 1.3; color: var(--nv-mut); overflow-wrap: anywhere; }
+.npk-rad { display: flex; gap: 16px; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 14px; scrollbar-width: thin; scrollbar-color: var(--c-p) transparent; }
+.npk-kort { flex: 0 0 88%; display: grid; overflow: hidden; border-radius: var(--r-card); scroll-snap-align: start; scroll-margin-top: 140px; min-width: 0; }
+.npk-bild { position: relative; min-height: 240px; }
+.npk-stor { position: absolute; left: 18px; bottom: 12px; z-index: 1; font: var(--w-r) clamp(56px, 7vw, 108px)/1 var(--font-r); letter-spacing: -.02em; color: #fff; text-shadow: 0 4px 24px rgba(0,0,0,.35); }
+.npk-panel { display: flex; flex-direction: column; gap: 12px; padding: clamp(24px, 3.2vw, 48px); background: var(--nv-farg); color: var(--nv-farg-ink); }
+.npk-kort:nth-child(even) .npk-panel { background: var(--nv-kort); color: inherit; }
+.pa-ton .npk-kort:nth-child(even) .npk-panel, .pa-yta .npk-kort:nth-child(even) .npk-panel { background: var(--c-bg); }
+.npk-steg { font: 600 12px/1.3 var(--font-t); letter-spacing: .12em; text-transform: uppercase; opacity: .78; }
+.npk-panel h3 { color: inherit; font-size: clamp(23px, 2.2vw, 34px); }
+.npk-panel p { font-size: 16.5px; line-height: 1.6; opacity: .9; max-width: 32em; }
+.npk-nasta { display: grid; gap: 2px; margin-top: auto; padding-top: 22px; border-top: 1px solid color-mix(in srgb, currentColor 22%, transparent); font-weight: 600; }
+.npk-nasta small { font: 600 11px/1.3 var(--font-t); letter-spacing: .12em; text-transform: uppercase; opacity: .7; }
+.npk-sist .textlank { color: inherit; }
+@media (min-width: 760px) {
+  .npk-flikar span { display: block; }
+  .npk-kort { flex-basis: min(78%, 1000px); grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); min-height: 460px; }
+  .npk-bild { min-height: 100%; }
+  .npk-panel { padding-top: clamp(32px, 4vw, 56px); }
+}
+
+/* =====================================================================================================================
+   omdomen/n-bildkort – bild överst, rund initialbricka över bildkanten, citat och namn
+   ===================================================================================================================== */
+.nob { display: grid; gap: 18px; grid-template-columns: minmax(0, 1fr); }
+.nob-kort { position: relative; display: flex; flex-direction: column; overflow: hidden; border-radius: var(--r-card); background: var(--nv-kort); }
+.nob-bild { overflow: hidden; aspect-ratio: 16 / 10; }
+.nob-bild img { width: 100%; height: 100%; object-fit: cover; transition: transform .8s ease; }
+.nob-kort:hover .nob-bild img { transform: scale(1.05); }
+.nob-av { position: relative; z-index: 1; display: grid; place-items: center; width: 68px; height: 68px; margin: -34px 0 0 26px; border: 4px solid var(--c-bg); border-radius: 50%; background: var(--nv-farg); color: var(--nv-farg-ink); font: 700 18px/1 var(--font-t); letter-spacing: .04em; }
+.nob-kort:nth-child(3n+2) .nob-av { background: var(--c-a); color: var(--c-a-ink); }
+.pa-ton .nob-av, .pa-yta .nob-av { border-color: var(--c-bg); }
+.pa-farg .nob-av, .pa-mork .nob-av { border-color: currentColor; }
+.nob-kort figure { display: flex; flex-direction: column; flex: 1; gap: 22px; padding: 20px 26px 26px; }
+.nob-kort blockquote p { font: var(--w-r) clamp(18px, 1.45vw, 21px)/1.45 var(--font-r); letter-spacing: var(--tr-r); }
+.nob-kort figcaption { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px; margin-top: auto; padding-top: 18px; border-top: 1px solid var(--nv-linje); }
+.nob-vem { display: grid; line-height: 1.35; }
+.nob-vem span { font-size: 14px; color: var(--nv-mut); }
+.nob-stj .stj { width: 16px; height: 16px; }
+.nob-not { margin-top: 12px; font-size: 11px; color: var(--nv-mut); text-align: right; }
+@media (min-width: 700px) { .nob { grid-template-columns: repeat(2, minmax(0, 1fr)); } .nob.n1 { grid-template-columns: minmax(0, 1fr); } }
+@media (min-width: 1100px) { .nob.n3, .nob.n5, .nob.n6 { grid-template-columns: repeat(3, minmax(0, 1fr)); } .nob { gap: 22px; } }
+
+/* =====================================================================================================================
+   omdomen/n-bento – stor bildruta med rubrik, första omdömet i färg, övriga ljusa och en kontaktlist
+   ===================================================================================================================== */
+.non { display: grid; gap: 12px; grid-template-columns: minmax(0, 1fr); }
+.non-bild { position: relative; overflow: hidden; display: flex; align-items: flex-end; min-height: 420px; padding: 14px; border-radius: var(--r-card); }
+.non-rubrik { position: relative; z-index: 1; max-width: 480px; padding: clamp(22px, 2.6vw, 36px); border-radius: max(0px, calc(var(--r-card) - 6px)); background: var(--c-bg); color: var(--c-ink); }
+.non-rubrik h2 { color: var(--c-rubrik); overflow-wrap: anywhere; }
+.non-rubrik .etikett { color: var(--c-etikett); opacity: 1; }
+.non-c { display: flex; flex-direction: column; gap: 18px; padding: clamp(24px, 2.4vw, 34px); border-radius: var(--r-card); background: var(--nv-kort); }
+.non-c blockquote p { font: var(--w-r) clamp(18px, 1.4vw, 21px)/1.45 var(--font-r); letter-spacing: var(--tr-r); }
+.non-forst { background: var(--nv-farg); color: var(--nv-farg-ink); }
+.non-forst blockquote p { font-size: clamp(21px, 2vw, 30px); line-height: 1.3; }
+.non-c figcaption { display: flex; align-items: center; gap: 14px; margin-top: auto; }
+.non-av { display: grid; place-items: center; flex: none; width: 46px; height: 46px; border-radius: 50%; background: var(--nv-farg); color: var(--nv-farg-ink); font: 700 14px/1 var(--font-t); letter-spacing: .04em; }
+.non-forst .non-av { background: var(--c-a); color: var(--c-a-ink); }
+.non-vem { display: grid; line-height: 1.35; }
+.non-vem span { font-size: 14px; opacity: .72; }
+.non-stj .stj { width: 16px; height: 16px; }
+.non-kontakt { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 20px clamp(22px, 2.4vw, 34px); border-radius: var(--r-card); background: var(--c-a); color: var(--c-a-ink); text-decoration: none; font: var(--w-r) clamp(19px, 1.6vw, 24px)/1.2 var(--font-r); letter-spacing: var(--tr-r); }
+.non-kontakt:hover .rundpil { background: var(--c-a-ink); border-color: var(--c-a-ink); color: var(--c-a); }
+@media (min-width: 700px) {
+  .non { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .non-bild, .non-forst, .non-kontakt { grid-column: 1 / -1; }
+}
+@media (min-width: 1100px) {
+  .non { grid-template-columns: repeat(4, minmax(0, 1fr)); grid-template-rows: minmax(250px, auto) minmax(250px, auto); grid-auto-rows: auto; }
+  .non-bild { grid-column: 1 / 3; grid-row: 1 / 3; min-height: 560px; }
+  .non-forst { grid-column: 3 / 5; grid-row: 1; }
+  .non-kontakt { grid-column: 1 / -1; grid-row: auto; min-height: 0; }
+  .non.n2 .non-c:not(.non-forst) { grid-column: 3 / 5; }
+}

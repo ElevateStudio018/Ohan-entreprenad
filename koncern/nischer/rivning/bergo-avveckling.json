@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "rivning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Bergö Avveckling AB",
+  "kortnamn": "Bergö",
+  "slug": "bergo-avveckling",
+  "typ": "Rivning av strålbunkrar och laboratorier",
+  "tagline": "Avveckling med strålskydd",
+  "slogan": "Vi river strålbehandlingsbunkrar, isotoplaboratorier och industriella strålkällor – och mäter varje ton innan det får lämna byggnaden.",
+  "hero_rubrik": "Två meter betong, mätt bit för bit",
+  "hero_text": "Avveckling av lokaler där det har funnits strålning: sjukhus, universitet, industri och forskning. 48 medarbetare, eget mätlaboratorium i Nyköping och uppdrag i hela Sverige.",
+  "intro_rubrik": "Det som inte syns ska också bort",
+  "om": [
+    "Strålskyddsfysikern Gunilla Bergö och betongsågaren Anders Pålsson grundade företaget 1999, när de första linjäracceleratorerna från 1970-talet skulle bytas ut på landets sjukhus. I dag är vi 48 anställda – fysiker, mättekniker, betongsågare och rivare – med huvudkontor och mätlaboratorium i Nyköping.",
+    "Betongen i en strålbehandlingsbunker kan ha aktiverats av neutroner under trettio års drift. Vi kartlägger aktiviteten innan vi sågar, delar upp väggarna i block och mäter varje block. Det som ligger under Strålsäkerhetsmyndighetens gränser friklassas och krossas, resten emballeras för slutförvar."
+  ],
+  "vagval_rubrik": "Vilken sorts lokal ska avvecklas?",
+  "tjanster": [
+    {"titel": "Strålbunkrar", "ikon": "vard", "href": "verksamhet.html", "text": "Bunkrar för linjäracceleratorer rivs eller byggs om för ny utrustning."},
+    {"titel": "Isotoplaboratorier", "ikon": "sok", "href": "verksamhet.html", "text": "Dragskåp, avlopp och golv i lab där radioaktiva ämnen har hanterats."},
+    {"titel": "Industriella strålkällor", "ikon": "fabrik", "href": "verksamhet.html", "text": "Nivåmätare och densitetsmätare i bruk och processindustri."},
+    {"titel": "Friklassning", "ikon": "graf", "href": "verksamhet.html", "text": "Mätning och dokumentation så att material får lämna anläggningen."},
+    {"titel": "Wiresågning i block", "ikon": "kugge", "href": "verksamhet.html", "text": "Meterstjocka väggar sågas i mätbara block utan damm."},
+    {"titel": "Konventionell sanering", "ikon": "skold", "href": "verksamhet.html", "text": "Asbest, bly och PCB i samma lokaler, med eget tillstånd."},
+    {"titel": "Avslutade uppdrag", "ikon": "dokument", "href": "projekt.html", "text": "Sjukhus, universitet och bruk från Skåne till Norrbotten."},
+    {"titel": "Kontakta en fysiker", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Första samtalet är alltid med en strålskyddsexpert."}
+  ],
+  "affarsomraden": [
+    {"titel": "Strålbehandlingsbunkrar", "text": "När en region byter strålbehandlingsutrustning ska den gamla bunkern antingen rivas eller byggas om. Vi provborrar väggarna, kartlägger aktiveringen och sågar ut de delar som måste bort med wiresåg.", "text2": "Sedan 1999 har vi avvecklat 61 bunkrar, ofta med patientbehandling i rummet intill.", "tagg": "rivning"},
+    {"titel": "Laboratorier och forskning", "text": "I isotoplaboratorier kan radioaktiva ämnen sitta kvar i avloppsstammar, dragskåp och golvmattor långt efter att forskningen flyttat. Vi mäter, sanerar och friklassar lokalen så att den kan byggas om till något annat.", "text2": "Universitet får ett friklassningsprotokoll som kan lämnas direkt till Strålsäkerhetsmyndigheten.", "tagg": "kontor"},
+    {"titel": "Industri och processer", "text": "Pappersbruk, gruvor och stålverk har ofta nivåmätare med slutna strålkällor monterade i silor och rör. Vi demonterar källorna, skickar dem till godkänd mottagare och friklassar utrustningen runt omkring.", "text2": "Arbetet görs ofta under planerade driftstopp, med kundens strålskyddsansvarige på plats.", "tagg": "industri"},
+    {"titel": "Mätning och friklassning", "text": "Vårt laboratorium i Nyköping har gammaspektrometer, ytkontaminationsmätare och en friklassningsstation för hela storsäckar. Där mäts allt som ska lämna en avvecklad lokal.", "text2": "Mätningarna görs enligt ackrediterade metoder och dokumenteras per kolli.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Strålskydd & Fysik", "segment": "9 fysiker och mättekniker", "rubrik": "Kartläggning före ingrepp", "text": "Gör aktiveringsberäkningar, provborrning, mätprogram och all kontakt med Strålsäkerhetsmyndigheten.", "tagg": "kontor"},
+    {"namn": "Sågning & Rivning", "segment": "22 sågare och rivare", "rubrik": "Block som går att mäta", "text": "Wiresåg, väggsåg och rivningsrobotar för väggar upp till 2,4 meter tjocka.", "tagg": "rivning"},
+    {"namn": "Mätlaboratoriet", "segment": "7 laboratorieingenjörer", "rubrik": "Varje kolli registrerat", "text": "Friklassningsstation, gammaspektrometri och spårbarhet från rivningsplats till mottagare.", "tagg": "anlaggning"},
+    {"namn": "Projekt & Miljö", "segment": "10 projektledare och sanerare", "rubrik": "Asbest, bly och tidplaner", "text": "Leder projekten, sanerar konventionella miljögifter och samordnar med sjukhusens driftorganisation.", "tagg": "bygg"}
+  ],
+  "berattelser": [
+    {"rubrik": "Bunker 4 i Kalmar", "text": "En bunker från 1986 revs på elva veckor medan strålbehandlingen pågick i bunkern bredvid.", "tagg": "rivning"},
+    {"rubrik": "Nivåmätarna på bruket", "text": "Fjorton slutna strålkällor demonterades under ett fem dagar långt driftstopp i Dalarna.", "tagg": "industri"},
+    {"rubrik": "Ny friklassningsstation", "text": "Stationen mäter en hel storsäck på åtta minuter, och väntetiden på friklassning har halverats.", "tagg": "anlaggning"}
+  ],
+  "nyckeltal": [
+    {"varde": "61", "enhet": "bunkrar", "etikett": "Avvecklade sedan 1999"},
+    {"varde": "2,4", "enhet": "m", "etikett": "Tjockaste väggen vi sågat"},
+    {"varde": "97 %", "enhet": "", "etikett": "Av betongen friklassad 2025"},
+    {"varde": "48", "enhet": "", "etikett": "Fysiker, sågare och rivare"}
+  ],
+  "projekt": [
+    {"namn": "Länssjukhuset, bunker 4", "ort": "Kalmar", "typ": "Rivning av strålbunker", "ar": "2026", "text": "1 900 ton betong sågat i block, 1 840 ton friklassat och krossat.", "tagg": "rivning"},
+    {"namn": "Kemicentrum, plan 3", "ort": "Uppsala", "typ": "Isotoplaboratorium", "ar": "2025", "text": "Tolv laboratorier med dragskåp och avlopp friklassade inför ombyggnad till kontor.", "tagg": "kontor"},
+    {"namn": "Pappersbruket vid Dalälven", "ort": "Avesta", "typ": "Strålkällor i process", "ar": "2025", "text": "Fjorton nivåmätare demonterade under driftstopp och skickade till mottagare.", "tagg": "industri"},
+    {"namn": "Sjukhuset i Falun", "ort": "Falun", "typ": "Ombyggnad av bunker", "ar": "2025", "text": "Taket i en bunker sågades upp för att ge plats åt en större accelerator.", "tagg": "bygg"},
+    {"namn": "Forskningsreaktorns kringbyggnader", "ort": "Nyköping", "typ": "Rivning i kontrollerat område", "ar": "2024", "text": "Ventilationshus och verkstäder rivna som underentreprenör, med daglig dosplanering.", "tagg": "anlaggning"},
+    {"namn": "Universitetssjukhuset, bunker 1–2", "ort": "Växjö", "typ": "Rivning av strålbunkrar", "ar": "2026", "text": "Två bunkrar från 1992 rivs i etapper under 2026 och 2027.", "tagg": "rivning", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Kartläggning", "text": "Fysikerna går igenom driftshistorik, provborrar och beräknar var i betongen aktiviteten finns.", "tagg": "kontor"},
+    {"titel": "Mätprogram och tillstånd", "text": "Vi tar fram ett mätprogram och samråder med Strålsäkerhetsmyndigheten innan första snittet.", "tagg": "kontor"},
+    {"titel": "Sågning i block", "text": "Väggarna sågas i block på högst sex ton som lyfts ut och märks med ett unikt nummer.", "tagg": "rivning"},
+    {"titel": "Friklassning", "text": "Varje block och storsäck mäts. Beställaren får ett protokoll per kolli och ett slutintyg.", "tagg": "anlaggning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mer än nittio procent blir vanlig betong igen",
+    "text": "Nästan all betong i en bunker är fri från aktivitet, men utan mätning måste allt behandlas som radioaktivt avfall. Genom att såga i block och mäta varje block kan vi friklassa det mesta, krossa det och använda det som fyllning. Bara en liten del går till slutförvar.",
+    "mal": [["97 %", "av bunkerbetongen friklassad 2025"], ["0,3 mSv", "högsta årsdos för en medarbetare 2025"], ["100 %", "av kollin mätta och registrerade"]]
+  },
+  "karriar": {"rubrik": "Fysik och betong i samma lag", "text": "Vi söker både mättekniker med naturvetenskaplig bakgrund och betongsågare som vill lära sig strålskydd. Alla nyanställda går vår tre veckor långa strålskyddsutbildning innan första uppdraget.", "jobb": [["Strålskyddsexpert", "Nyköping"], ["Mättekniker friklassning", "Nyköping"], ["Wiresågare", "Nyköping"], ["Projektledare avveckling", "Göteborg"]]},
+  "kultur": "Varje måndag går fysikerna och sågarna igenom veckans dosplaner tillsammans – över kaffe i labbet.",
+  "citat": {"text": "Det farliga är inte strålningen vi har mätt. Det farliga är den som ingen har brytt sig om att leta efter.", "namn": "Gunilla Bergö", "roll": "Grundare och strålskyddsfysiker", "tagg": "people"},
+  "omdomen": [
+    {"text": "Bunkern revs med full drift i rummet intill. Varken vibrationer eller avbrott i patientbehandlingen.", "namn": "Eva-Marie D.", "ort": "Kalmar"},
+    {"text": "Friklassningsprotokollen var så tydliga att myndigheten inte hade en enda följdfråga.", "namn": "Jonas T.", "ort": "Uppsala"},
+    {"text": "Vi visste inte ens att nivåmätarna innehöll strålkällor. Bergö hittade dem vid inventeringen och löste allt under stoppet.", "namn": "Ronny H.", "ort": "Avesta"}
+  ],
+  "faq": [
+    ["Är det farligt att riva en strålbunker?", "Inte när aktiviteten är kartlagd. Vi planerar varje moment efter mätningarna, och alla medarbetare bär dosimeter. Ingen av oss har fått en dos i närheten av gränsvärdet."],
+    ["Vad betyder friklassning?", "Att material har mätts och visat sig ha så låg aktivitet att det får hanteras som vanligt avfall eller återvinnas, enligt Strålsäkerhetsmyndighetens föreskrifter."],
+    ["Kan ni arbeta när sjukhuset är i drift?", "Ja, det är snarare regel än undantag. Wiresågning ger nästan inga vibrationer, och vi samordnar med kliniken dag för dag."],
+    ["Hur lång tid tar en bunker?", "Rivning av en hel bunker tar normalt tio till fjorton veckor. Ombyggnad för ny utrustning går ofta på sex till åtta veckor."],
+    ["Vart tar det radioaktiva avfallet vägen?", "Det som inte kan friklassas emballeras och skickas till godkänd mottagare för behandling eller slutförvar, med fullständig dokumentation."],
+    ["Tar ni uppdrag utan strålning?", "Bara när de hänger ihop med en avveckling, som asbest och bly i samma lokaler. Vanliga rivningsuppdrag hänvisar vi till andra."],
+    ["Arbetar ni i hela landet?", "Ja. Sågare och mättekniker reser med en mobil mätcontainer, och proverna analyseras i Nyköping."]
+  ],
+  "certifikat": [
+    {"titel": "Tillstånd från SSM", "text": "Strålsäkerhetsmyndighetens tillstånd för hantering av radioaktivt material vid avveckling.", "ikon": "skold"},
+    {"titel": "Swedac-ackrediterad mätning", "text": "Laboratoriet i Nyköping är ackrediterat för gammaspektrometri och ytkontaminationsmätning.", "ikon": "graf"},
+    {"titel": "ISO 9001, 14001 och 45001", "text": "Ledningssystem för kvalitet, miljö och arbetsmiljö, reviderat varje år.", "ikon": "dokument"},
+    {"titel": "Asbesttillstånd", "text": "Arbetsmiljöverkets tillstånd för asbestsanering i samband med avveckling.", "ikon": "las"}
+  ],
+  "kunder": ["Region Sydosts Vårdfastigheter", "Uppsala Forskningsfastigheter", "Dalälvens Pappersbruk", "Falu Sjukhusfastigheter", "Nyköpings Kärnteknikcentrum", "Växjö Universitetsfastigheter", "Norrbottens Malmförädling"],
+  "kunder_rubrik": "Sjukhus, universitet och industri",
+  "nyheter": [
+    ["2026-10-22", "Bunker 4 i Kalmar är borta", "1 840 av 1 900 ton betong friklassades och har krossats till fyllnadsmaterial.", "rivning"],
+    ["2026-03-11", "Friklassningsstationen på plats", "En hel storsäck mäts nu på åtta minuter i vårt laboratorium.", "anlaggning"],
+    ["2025-10-07", "Strålkällor du inte vet om", "Nivåmätare i silor och rör innehåller ofta slutna strålkällor – så hittar du dem.", "industri"]
+  ],
+  "kontakt": {"adress": "Kungsladugårdsvägen 9", "postnr": "611 38", "ort": "Nyköping", "telefon": "070-174 06 29", "epost": "fysik@bergoavveckling.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7.30–16.30",
+  "omrade": "Hela Sverige, med mätlaboratorium i Nyköping",
+  "fot_cta": "Ska en lokal med strålning avvecklas? Börja med ett samtal med en av våra fysiker.",
+  "bild": {"hb": "anlaggning", "panel": "people"},
+  "text": {
+    "hero_knapp": "Lokaler vi avvecklar",
+    "hero_lank": "Avslutade uppdrag",
+    "vagval_etikett": "Lokaltyper",
+    "ber_etikett": "Senaste mätningarna",
+    "ber_rubrik": "Avvecklat och friklassat",
+    "proj_rubrik": "Bunkrar, lab och bruk vi har avvecklat",
+    "process_etikett": "Kartlägga, såga, mäta",
+    "process_rubrik": "Ingen sågning före mätprogrammet",
+    "hb_etikett": "Friklassning",
+    "omdomen_rubrik": "Sjukhus och forskare om oss",
+    "faq_rubrik": "Om strålning och avveckling",
+    "certifikat_rubrik": "Tillstånd för strålning och sanering",
+    "boka_rubrik": "Beskriv lokalen för en fysiker",
+    "boka_text": "Berätta vad lokalen har använts till och ungefär när. En strålskyddsexpert ringer upp inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "Organisation", "Lokal, användning och årtal"],
+    "panel_etikett": "Arbeta med strålskydd",
+    "bolag_rubrik": "Fyra kompetenser under ett tak",
+    "sida_bolag_ingress": "Bergö består av {n} grupper – från fysikerna som kartlägger till sågarna som tar ned betongen."
+  }
+}
