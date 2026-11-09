@@ -28,7 +28,7 @@
   ],
   "affarsomraden": [
     {"titel": "Tre paket för villor", "text": "Alla paket bygger på samma helsvarta panel på 440 W och samma växelriktare. Det gör att vi köper in i stora volymer och att varje montör kan installationen utan och innan.", "text2": "Passar tegel, betongpannor och plåt. Andra tak får ett pris efter granskning.", "tagg": "solel"},
-    {"titel": "Lagring och reservström", "text": "Batteripaketet ger 10 kWh lagring och en reservkraftsdel som håller kylskåp, värmepump och router igång vid strömavbrott. Batteriet ger 50 procents grönt avdrag.", "text2": "Batteriet kan läggas till i efterhand utan att växelriktaren byts.", "tagg": "el"},
+    {"titel": "Lagring och reservström", "text": "Batteripaketet ger 10 kWh lagring och en reservkraftsdel som håller kylskåp, värmepump och router igång vid strömavbrott. Halva batterikostnaden betalas via grönt avdrag.", "text2": "Batteriet kan läggas till i efterhand utan att växelriktaren byts.", "tagg": "el"},
     {"titel": "Offert utan hembesök", "text": "Vi ritar taket från flygfoto och lantmäteriets höjddata och skickar ett fast pris inom två arbetsdagar. Hembesök gör vi bara om taket är ovanligt eller om du vill.", "text2": "Över 90 procent av våra kunder har aldrig träffat en säljare.", "tagg": "hem"},
     {"titel": "Montage och garanti", "text": "Ett lag på tre personer bygger hela anläggningen på en dag, inklusive elanslutning och anmälan till nätbolaget. Sedan ansvarar vi för allt i fem år.", "text2": "Vid fel kommer en tekniker från Örebro, Karlskoga eller Hallsberg inom fem arbetsdagar.", "tagg": "bostad"}
   ],
@@ -79,11 +79,11 @@
   "faq": [
     ["Varför är ni billigare än andra?", "Vi har bara en panel och en växelriktare, köper in i stora volymer och har inga säljare med provision. Montaget är detsamma varje gång, vilket gör det snabbt."],
     ["Kan ni bygga på alla tak?", "Paketpriserna gäller tegel, betongpannor och plåt med en lutning mellan 15 och 45 grader. Eternit, papp och plana tak ger ett eget pris efter granskning."],
-    ["Är grönt avdrag redan draget i priset?", "Ja. Priserna på sidan är efter 15 procents grönt avdrag för solceller och 50 procent för batteri och laddbox. Vi gör ansökan åt dig."],
+    ["Är grönt avdrag redan draget i priset?", "Ja. Priserna på sidan är räknade efter avdraget – 15 procent på solcellerna, hälften på batteri och laddbox. Vi gör ansökan åt dig."],
     ["Behöver jag vara hemma under montaget?", "Bara på morgonen och när vi är klara, så att vi kan visa elcentralen och appen. Däremellan behöver vi tillgång till elcentralen."],
     ["Hur lång är väntetiden?", "Tre till sex veckor från beställning, beroende på säsong. Vintern är bästa tiden att beställa om du vill ha produktion från första vårsolen."],
     ["Vad händer om något går sönder?", "Ring oss. Under de fem garantiåren skickar vi en tekniker inom fem arbetsdagar och byter det som är fel utan kostnad."],
-    ["Kan jag välja andra paneler?", "Nej, och det är en del av priset. Vår helsvarta panel på 440 W har 25 års produkt- och effektgaranti."]
+    ["Kan jag välja andra paneler?", "Nej, och det är en del av priset. Vår helsvarta panel på 440 W har tillverkarens garanti på 25 år för både produkt och effekt."]
   ],
   "priser": [
     {"namn": "Paket Liten", "pris": "64 900 kr", "enhet": "6 kW, 14 paneler", "text": "För radhus och mindre villor.", "punkter": ["Helsvarta paneler på 440 W", "Växelriktare med mobilapp", "Montage på en dag", "Fem års helhetsgaranti"]},
@@ -94,7 +94,7 @@
   "certifikat": [
     {"titel": "Elinstallatörsföretag, AB", "text": "Registrerade hos Elsäkerhetsverket med egenkontrollprogram som följer vår checklista med 46 punkter.", "ikon": "blixt"},
     {"titel": "Solcellscertifierade montörer", "text": "Varje lag har minst en personcertifierad installatör för solceller.", "ikon": "sol"},
-    {"titel": "Medlem i Installatörsföretagen", "text": "Vi följer branschens allmänna bestämmelser för konsumenttjänster och reklamationer.", "ikon": "dokument"},
+    {"titel": "Medlem i Installatörsföretagen", "text": "Konsumentvillkor och reklamationer hanteras enligt branschens standardavtal.", "ikon": "dokument"},
     {"titel": "Utbildade i säkert takarbete", "text": "Varje montör har gått fallskyddskurs, och vi lägger aldrig en panel utan ställning eller skyddsräcke.", "ikon": "hjalm"}
   ],
   "kunder": ["Villaföreningen Askersund Norra", "Adolfsbergs Samfällighet", "Pålsboda Gård HB", "Brf Möckelnstrand", "Kumla Radhusförening", "Lindesbergs Egnahemsförening", "Nora Villaägare"],

@@ -1,0 +1,140 @@
+{
+  "profil": "nisch",
+  "nisch": "mark",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Skånings Täckdikning AB",
+  "kortnamn": "Skånings",
+  "slug": "skanings-tackdikning",
+  "typ": "Täckdikning på Västgötaslätten",
+  "tagline": "Lantbrukarägt sedan 1968",
+  "slogan": "Vi täckdikar åkermark mellan Lidköping och Falköping med GPS-styrda plogar – och sparar varje dikningsplan så att nästa generation hittar rören.",
+  "hero_rubrik": "Torr åker i maj ger skörd i augusti",
+  "hero_text": "Täckdikning, spolning av gamla ledningar och fosfordammar åt lantbruk i Skaraborg. Elva anställda, tre dikesplogar och ett arkiv med 4 200 dikningsplaner.",
+  "intro_rubrik": "Åkrarna vi dikade 1968 dikar vi om i dag",
+  "om": [
+    "Skånings startade 1968 som en dikningsförening där 23 gårdar runt Ardala gick ihop och köpte en dikesplog. 1999 blev föreningen aktiebolag, och i dag äger 140 lantbrukare på slätten aktierna – de flesta är också kunder.",
+    "Vi är elva anställda med tre dikesplogar, två grävmaskiner och en agronom som gör dikningsplanerna. Varje år täckdikar vi mellan 350 och 450 hektar, och alla planer sedan starten finns kvar i arkivet i Skara – de äldsta på kalkerpapper, de senaste i GIS."
+  ],
+  "vagval_rubrik": "Var står vattnet kvar på våren?",
+  "tjanster": [
+    {"titel": "Täckdikning", "ikon": "vatten", "href": "verksamhet.html", "text": "Nya täckdiken med GPS-styrd plog, 12–16 meters dikesavstånd och rätt fall till stamledningen."},
+    {"titel": "Dikningsplan", "ikon": "ritning", "href": "verksamhet.html", "text": "Agronomen kartlägger jordart, lutning och gamla ledningar innan plogen kommer ut."},
+    {"titel": "Kompletteringsdikning", "ikon": "kugge", "href": "verksamhet.html", "text": "Nya sugledningar mellan gamla diken där åkern fortfarande är blöt."},
+    {"titel": "Spolning av ledningar", "ikon": "ror", "href": "verksamhet.html", "text": "Högtrycksspolning av gamla tegel- och plaströr som har slammat igen."},
+    {"titel": "Dikesrensning", "ikon": "trad", "href": "verksamhet.html", "text": "Rensning av öppna diken och utlopp, med slänttagning där kanterna rasat."},
+    {"titel": "Brunnar och utlopp", "ikon": "sten", "href": "verksamhet.html", "text": "Nya slambrunnar, utloppsskydd i sten och lagning av raserade brunnar."},
+    {"titel": "Hektarpriser", "ikon": "portfolj", "href": "priser.html", "text": "Fasta priser per hektar för täckdikning och plan."},
+    {"titel": "Boka åkervandring", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi går fältet med dig i april eller efter skörd."}
+  ],
+  "affarsomraden": [
+    {"titel": "Täckdikning av åkermark", "text": "En åker med dålig dränering ger lägre skörd och går inte att köra på förrän långt in i maj. Vi plöjer ner perforerade plaströr på 0,9–1,1 meters djup med en GPS-styrd plog som håller fallet på en millimeter per meter.", "text2": "I lerjord lägger en plog 4–6 kilometer rör per dag utan att vända matjorden.", "tagg": "mark"},
+    {"titel": "Dikningsplaner och arkiv", "text": "Innan plogen kommer ut gör vår agronom en plan med jordprover, höjdkarta och gamla ledningar inritade. Planen sparas hos oss och kan hämtas av nästa ägare till gården.", "text2": "Arkivet rymmer 4 200 planer, den äldsta från maj 1968.", "tagg": "kontor"},
+    {"titel": "Underhåll av gamla system", "text": "Många åkrar på slätten dikades med tegelrör på 1930- och 50-talen. Vi letar upp ledningarna med spolkamera, spolar dem rena och kompletterar där rören har rasat.", "text2": "Att spola och komplettera ett gammalt system kostar ofta en tredjedel av ny täckdikning.", "tagg": "vvs"},
+    {"titel": "Diken och vattenvård", "text": "Öppna diken växer igen och utloppen kollapsar. Vi rensar diken och bygger tvåstegsdiken och fosfordammar som håller kvar näringen på gården.", "text2": "Dammarna kan ge miljöersättning via Länsstyrelsen, och vi tar fram underlaget till ansökan.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Plogarna", "segment": "Täckdikning", "rubrik": "Tre plogar, april till november", "text": "Sex förare som kör dikesplogarna och grävmaskinerna. Säsongen följer jorden – vi plöjer när den bär.", "tagg": "maskin"},
+    {"namn": "Planeringen", "segment": "Agronomi och GIS", "rubrik": "Varje dike ritas först", "text": "Agronomen Elsa Wahlgren gör alla dikningsplaner och jordprover och sköter arkivet.", "tagg": "kontor"},
+    {"namn": "Vattenvården", "segment": "Diken och dammar", "rubrik": "Näringen ska stanna på åkern", "text": "Två anläggare som bygger fosfordammar, tvåstegsdiken och utloppsskydd från juli till oktober.", "tagg": "natur"}
+  ],
+  "berattelser": [
+    {"rubrik": "38 hektar vid Hornborgasjön torrlagda", "text": "En gård som inte kunnat så två av fälten före juni sådde i april två år i rad.", "tagg": "mark"},
+    {"rubrik": "Arkivet blir digitalt", "text": "Alla 4 200 planerna skannas och läggs in i GIS – de första 1 800 är klara.", "tagg": "kontor"},
+    {"rubrik": "Första tvåstegsdiket i Valle", "text": "350 meter dike med breda terrasser som svämmar över vid högvatten i stället för åkern.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "4 200", "enhet": "planer", "etikett": "I arkivet sedan 1968"},
+    {"varde": "140", "enhet": "lantbrukare", "etikett": "Äger aktierna"},
+    {"varde": "400", "enhet": "hektar", "etikett": "Täckdikas ett normalt år"},
+    {"varde": "1", "enhet": "mm/m", "etikett": "Fall som plogen håller"}
+  ],
+  "projekt": [
+    {"namn": "Gården vid Hornborgasjön", "ort": "Falköping", "typ": "Täckdikning 38 ha", "ar": "2025", "text": "Nya diken med 14 meters avstånd på styv lera som stått blöt varje vår.", "tagg": "mark"},
+    {"namn": "Ardala prästgård", "ort": "Skara", "typ": "Spolning och komplettering", "ar": "2025", "text": "Tegelrör från 1952 spolade och kompletterade med tre kilometer nya sugledningar.", "tagg": "vvs"},
+    {"namn": "Valle tvåstegsdike", "ort": "Skara", "typ": "Vattenvård", "ar": "2024", "text": "350 meter tvåstegsdike med översvämningsterrass och utloppsskydd.", "tagg": "natur"},
+    {"namn": "Gård på Kålland", "ort": "Lidköping", "typ": "Täckdikning 22 ha", "ar": "2024", "text": "Systemdikning av två fält med ny stamledning och två slambrunnar.", "tagg": "mark"},
+    {"namn": "Fosfordamm vid Lidan", "ort": "Vara", "typ": "Fosfordamm", "ar": "2025", "text": "Damm på 0,4 hektar som fångar näring från 90 hektar åker.", "tagg": "natur"},
+    {"namn": "Mjölkgården vid Varnhem", "ort": "Skara", "typ": "Täckdikning 31 ha", "ar": "2026", "text": "Plöjs i augusti efter skörd – plan och jordprover är klara.", "tagg": "mark"}
+  ],
+  "process": [
+    {"titel": "Åkervandring", "text": "Vi går fältet med dig och markerar blöta partier, utlopp och gamla brunnar.", "tagg": "natur"},
+    {"titel": "Plan och hektarpris", "text": "Agronomen ritar planen, och du får fast pris per hektar inom två veckor.", "tagg": "kontor"},
+    {"titel": "Plöjning efter skörd", "text": "Plogen kommer när jorden bär, oftast i augusti–oktober.", "tagg": "maskin"},
+    {"titel": "Planen arkiveras", "text": "Du får planen i GIS och på papper – och vi sparar ett exemplar så länge bolaget finns.", "tagg": "mark"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fosforn ska stanna på slätten",
+    "text": "En väldränerad åker ger mindre ytavrinning och mindre fosfor som rinner ut i Vänern. Vi bygger fosfordammar och tvåstegsdiken och dimensionerar systemen så att de inte avleder mer vatten än åkern behöver. Plogarna går på HVO100 sedan 2022.",
+    "mal": [["12", "fosfordammar byggda sedan 2019"], ["HVO100", "i alla plogar sedan 2022"], ["100 %", "av planerna sparade sedan 1968"]]
+  },
+  "karriar": {
+    "rubrik": "Kör plog på landets bästa åkermark",
+    "text": "Säsongen går från april till november, och på vintern servar vi plogarna och ritar planer. Vi söker förare som gärna kommer från ett lantbruk och förstår varför jorden inte får köras sönder.",
+    "jobb": [["Förare dikesplog", "Skara"], ["Maskinförare grävmaskin", "Skara"]]
+  },
+  "kultur": "När sista åkern för säsongen är dikad äter personalen och styrelsen gåsamiddag tillsammans i Ardala bygdegård.",
+  "citat": {"text": "En täckdikning är ett trettioårsbeslut för en gård. Därför ska planen gå att hitta den dagen barnen tar över.", "namn": "Sofia Rydén", "roll": "Vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi har kunnat så i april två år i rad på fält som tidigare stod blöta till juni. Det syns i skörden.", "namn": "Gunnar A.", "ort": "Falköping"},
+    {"text": "De hittade min farfars dikningsplan från 1971 i arkivet. Då visste vi exakt var de gamla rören låg.", "namn": "Karin J.", "ort": "Ardala"},
+    {"text": "Fosfordammen fick ersättning från Länsstyrelsen, och Elsa skrev hela ansökan åt oss.", "namn": "Mats L.", "ort": "Vara"}
+  ],
+  "faq": [
+    ["Vad kostar täckdikning per hektar?", "Systemdikning kostar oftast 30 000–45 000 kronor per hektar beroende på dikesavstånd, jordart och avstånd till utlopp. Kompletteringsdikning blir betydligt billigare."],
+    ["Lönar det sig?", "En åker med dålig dränering kan ge 15–30 procent lägre skörd. Med dagens spannmålspriser brukar täckdikningen betala sig på 8–15 år."],
+    ["När på året plöjer ni?", "Helst efter skörd, från augusti fram till frosten. På vall och träda kan vi plöja redan i maj–juni."],
+    ["Måste jag äga aktier?", "Nej. Ungefär en tredjedel av kunderna äger inga aktier, och alla får samma priser."],
+    ["Krävs tillstånd för att dika?", "Täckdikning av befintlig åker kräver normalt inget tillstånd, men nya öppna diken och dammar kan behöva anmälas som vattenverksamhet. Vi stämmer av med Länsstyrelsen."],
+    ["Kan ni hitta mina gamla diken?", "Har gården dikats av oss sedan 1968 finns planen i arkivet. Annars letar vi med spolkamera och sökare."],
+    ["Hur stort område täcker ni?", "Hela Skaraborg, från Mariestad till Ulricehamn. Utanför det tar vi bara större uppdrag."]
+  ],
+  "priser": [
+    {"namn": "Kompletteringsdikning", "pris": "fr. 14 000 kr", "enhet": "per hektar", "text": "Nya sugledningar mellan gamla diken.", "punkter": ["Spolning av befintliga ledningar", "Plaströr 50 mm med filter", "Anslutning till befintlig stamledning", "Uppdaterad dikningsplan"]},
+    {"namn": "Systemdikning", "pris": "fr. 32 000 kr", "enhet": "per hektar", "text": "Helt nytt system med 12–16 meters dikesavstånd.", "punkter": ["Dikningsplan med jordprover", "GPS-styrd plöjning", "Ny stamledning och slambrunnar", "Planen i GIS och i arkivet"], "utvald": true},
+    {"namn": "Dikningsplan", "pris": "9 500 kr", "enhet": "per gård upp till 40 ha", "text": "För dig som vill planera nu och plöja senare.", "punkter": ["Åkervandring med agronom", "Höjdkarta och jordprover", "Kostnadsberäkning per fält", "Avräknas om du beställer dikningen"]}
+  ],
+  "sidor": [["verksamhet", "Tjänster", "verksamhet"], ["priser", "Hektarpriser", "priser"], ["projekt", "Gårdar", "projekt"], ["bolag", "Organisation", "bolag"], ["hallbarhet", "Vattenvård", "hallbarhet"], ["faq", "Frågor & svar", "faq"], ["karriar", "Jobba hos oss", "karriar"], ["om-oss", "Om oss", "om-oss"]],
+  "certifikat": [
+    {"titel": "AB 04 och ME:s praxis", "text": "Medlemmar i Maskinentreprenörerna. Större dikningar görs på avtal enligt AB 04.", "ikon": "kugge"},
+    {"titel": "Underlag för miljöersättning", "text": "Vi tar fram ritning och kostnadskalkyl till Länsstyrelsens stöd för fosfordammar och tvåstegsdiken.", "ikon": "dokument"},
+    {"titel": "Kurs i markavvattning", "text": "Agronom och arbetsledare har gått utbildning om anmälningsplikt och regler för markavvattning och dammar.", "ikon": "vatten"},
+    {"titel": "Ansvar för gröda och mark", "text": "Ansvarsförsäkring på 8 miljoner kronor som även täcker skador på växande gröda.", "ikon": "skold"}
+  ],
+  "kunder": ["Gården vid Hornborgasjön", "Ardala Prästgård", "Valle Lantbruksgrupp", "Kållands Spannmål", "Lidans Vattenråd", "Varnhems Mjölkgård", "Vara Fröodlare", "Skaraborgs Odlarring"],
+  "nyheter": [
+    ["2026-09-28", "Höstplöjningen pågår för fullt", "Tre plogar går på slätten, och vi har plats för ytterligare 40 hektar före frosten.", "mark"],
+    ["2026-03-12", "Stämman valde ny ordförande", "Lantbrukaren Anders Fogelberg från Vara leder nu styrelsen.", "people"],
+    ["2025-11-05", "Därför ska du spola dina tegelrör", "Elsa Wahlgren om när spolning räcker och när det behövs nya diken.", "vvs"]
+  ],
+  "kontakt": {"adress": "Ardalavägen 61", "postnr": "532 92", "ort": "Skara", "telefon": "070-174 06 27", "epost": "dikning@skanings.se", "orgnr": ""},
+  "oppettider": "Kontoret vardagar 7–16. Plogarna april–november",
+  "omrade": "Skaraborg: Skara, Vara, Lidköping, Götene och Falköping",
+  "fot_cta": "Står vattnet kvar på åkern i maj? Boka en åkervandring efter skörd.",
+  "bild": {"panel": "natur", "hb": "mark", "sida_priser": "mark"},
+  "text": {
+    "hero_knapp": "Så dikar vi",
+    "hero_lank": "Se hektarpriser",
+    "kontakt_knapp": "Boka åkervandring",
+    "ber_etikett": "Från slätten",
+    "ber_rubrik": "Plogar, planer och dammar",
+    "proj_etikett": "Gårdar",
+    "proj_rubrik": "Åkrar vi har dikat",
+    "proj_rubrik_lista": "Gårdar och fält",
+    "process_rubrik": "Från åkervandring till arkivet",
+    "hb_etikett": "Vattenvård",
+    "omdomen_rubrik": "Lantbrukarna om dikningen",
+    "faq_rubrik": "Frågor från gårdarna",
+    "priser_rubrik": "Fast pris per hektar",
+    "priser_utvald": "Vanligast på slätten",
+    "priser_knapp": "Boka åkervandring",
+    "priser_not": "Priserna är exklusive moms och gäller lerjord utan sten. Moränmark och långt avstånd till utlopp prissätts efter planen.",
+    "sida_priser_ingress": "Hektarpriser för täckdikning och dikningsplan, räknade på vanlig slättlera.",
+    "logos_rubrik": "Gårdar och vattenråd",
+    "certifikat_rubrik": "Stöd, avtal och försäkring",
+    "bolag_rubrik": "Plogar, plan och vattenvård",
+    "boka_rubrik": "Vilket fält gäller det?",
+    "boka_text": "Skriv gårdens namn, ungefärlig areal och vad du ser på fältet. Vi bokar en åkervandring när jorden bär.",
+    "boka_falt": ["Namn", "Telefon", "Gård och ort", "Areal och problem"],
+    "siffror_etikett": "Slätten i siffror"
+  }
+}

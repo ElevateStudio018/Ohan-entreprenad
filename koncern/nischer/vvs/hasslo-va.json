@@ -1,0 +1,138 @@
+{
+  "profil": "nisch",
+  "nisch": "vvs",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hasslö VA & Rör AB",
+  "kortnamn": "Hasslö VA",
+  "slug": "hasslo-va",
+  "typ": "VA-anslutning i Blekinges skärgård",
+  "tagline": "Från brunn till kommunalt",
+  "slogan": "När kommunen drar fram vatten och avlopp till ett fritidshusområde gör vi resten: servisledningen, pumpstationen och kopplingen i huset.",
+  "hero_rubrik": "Vi kopplar skärgården till kommunens VA",
+  "hero_text": "Servisledningar, LTA-pumpstationer och sjöledningar för fritidshus och permanentboende när VA byggs ut i Karlskronas skärgård. Med grävmaskin, PE-svets och rörmokare i samma lag.",
+  "intro_rubrik": "Ett lag från tomtgräns till toalett",
+  "om": [
+    "Bröderna Lennart och Rune Kärrman startade Hasslö VA & Rör 1981 med en grävmaskin och en båt med plattform, och tog uppdrag på öarna som andra firmor tyckte var för krångliga att nå. 2018 köpte platschefen Sanna Petersson bolaget när bröderna gick i pension. Hon är uppvuxen på Hasslö och kan de flesta öarnas berggrund utantill.",
+    "Vi är 21 anställda: maskinförare, rörläggare, rörmokare och en projektör. De senaste åren har Karlskrona kommun byggt ut kommunalt vatten och avlopp till flera omvandlingsområden i skärgården, och vi har anslutit över 1 400 fastigheter – från schaktet vid tomtgränsen till den nya toaletten i huset."
+  ],
+  "vagval_rubrik": "Vad behöver din fastighet?",
+  "tjanster": [
+    {"titel": "Servisledning på tomten", "ikon": "vag", "href": "verksamhet.html", "text": "Schakt, PE-rör och isolering från kommunens förbindelsepunkt till huset."},
+    {"titel": "LTA-pumpstation", "ikon": "kugge", "href": "verksamhet.html", "text": "Egen pumpstation för tryckavlopp, levererad och installerad med larm."},
+    {"titel": "Koppling i huset", "ikon": "ror", "href": "verksamhet.html", "text": "Nya ledningar från grunden till kök, badrum och tvätt."},
+    {"titel": "Sjöledningar", "ikon": "bat", "href": "verksamhet.html", "text": "Vatten och avlopp under vattnet till öar utan broförbindelse."},
+    {"titel": "Gamla avloppet ur", "ikon": "hamare", "href": "verksamhet.html", "text": "Slamavskiljare och sluten tank töms, fylls igen eller lyfts bort."},
+    {"titel": "Sprängning i berg", "ikon": "sten", "href": "verksamhet.html", "text": "När ledningen inte kan läggas i jord samarbetar vi med en sprängfirma i Lyckeby."},
+    {"titel": "Gemensam upphandling", "ikon": "folk", "href": "verksamhet.html", "text": "Lägre pris när grannarna ansluter samtidigt."},
+    {"titel": "Anslutningspaket", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Fasta priser för de vanligaste tomterna."}
+  ],
+  "affarsomraden": [
+    {"titel": "Anslutning vid VA-utbyggnad", "text": "När kommunen har dragit fram huvudledningen är det fastighetsägaren som ansvarar för ledningarna på den egna tomten. Vi gräver, lägger PE-rör med värmekabel där det behövs och ansluter till förbindelsepunkten enligt kommunens anvisningar.", "text2": "En normal servisledning på 25 meter i jord tar två arbetsdagar.", "tagg": "mark"},
+    {"titel": "Tryckavlopp med LTA", "text": "I skärgården är marken för kuperad och berget för grunt för självfall. Då installerar vi en LTA-pumpstation på tomten, som pumpar avloppet ut i kommunens tryckledning, och kopplar larm till din telefon.", "text2": "Pumpstationen grävs ned så att bara locket syns och klarar strömavbrott i upp till ett dygn.", "tagg": "anlaggning"},
+    {"titel": "Öar utan bro", "text": "Till öar som inte nås med bil lägger vi sjöledningar från vår egen arbetsbåt. Rören svetsas ihop på land, flyts ut och sänks med betongvikter enligt den sträckning kommunen och länsstyrelsen har godkänt.", "text2": "Vi har lagt 11 kilometer sjöledning i Blekinge sedan 2010.", "tagg": "natur"},
+    {"titel": "Från gammalt till nytt inne i huset", "text": "Många fritidshus har en toalett från 1970-talet och en sluten tank. När det kommunala VA:t kommer bygger våra rörmokare om ledningarna i huset och tar bort den gamla anläggningen på tomten.", "text2": "Hela kedjan från tomtgräns till ny toalett kan göras på en vecka.", "tagg": "vvs"}
+  ],
+  "bolag": [
+    {"namn": "Mark och schakt", "segment": "8 maskinförare och rörläggare", "rubrik": "Grävmaskiner som får plats", "text": "Har allt från en minigrävare på 1,5 ton för trånga tomter till en 14-tonnare för berg och sjöledningar.", "tagg": "mark"},
+    {"namn": "Rör och hus", "segment": "9 rörmokare", "rubrik": "Inne i fastigheten", "text": "Bygger om ledningar, installerar pumpstationer och kopplar nya badrum och kök.", "tagg": "vvs"},
+    {"namn": "Sjö och båt", "segment": "2 båtförare", "rubrik": "Arbetsbåten Kärran", "text": "En 12 meter lång arbetsbåt med kran som lägger sjöledningar och fraktar maskiner ut till öarna.", "tagg": "natur"},
+    {"namn": "Projektering", "segment": "Sanna och en projektör", "rubrik": "Kontakten med kommunen", "text": "Tar fram ritningar, ansöker om tillstånd och samordnar med kommunens VA-avdelning.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Tjurkö etapp 2: 186 fastigheter anslutna", "text": "Alla tomter i etappen fick sina servisledningar före kommunens slutdatum i september.", "tagg": "mark"},
+    {"rubrik": "Ny sjöledning till Ekön", "text": "Tolv fritidshus på en ö utan bro har nu kommunalt vatten och avlopp.", "tagg": "natur"},
+    {"rubrik": "Minigrävare för trånga tomter", "text": "Den nya maskinen på 1,5 ton tar sig in mellan stugor där inget annat ryms.", "tagg": "maskin"}
+  ],
+  "nyckeltal": [
+    {"varde": "1 400", "enhet": "fastigheter", "etikett": "Anslutna till kommunalt VA"},
+    {"varde": "11 km", "enhet": "", "etikett": "Sjöledning sedan 2010"},
+    {"varde": "1981", "enhet": "", "etikett": "Första grävjobbet på Hasslö"},
+    {"varde": "21", "enhet": "anställda", "etikett": "Mark, rör och båt"}
+  ],
+  "projekt": [
+    {"namn": "Tjurkö etapp 2", "ort": "Karlskrona", "typ": "Anslutningar, 186 fastigheter", "ar": "2026", "text": "Servisledningar och 140 LTA-stationer i ett område med fritidshus från 1960-talet.", "tagg": "mark", "status": "Utfört"},
+    {"namn": "Ekön", "ort": "Karlskrona", "typ": "Sjöledning", "ar": "2025", "text": "900 meter sjöledning från Sturkö till tolv fritidshus på en ö utan bro.", "tagg": "natur"},
+    {"namn": "Torhamns Samfällighet", "ort": "Karlskrona", "typ": "Gemensam upphandling, 64 hus", "ar": "2025", "text": "Grannarna anslöt samtidigt och sparade i snitt 11 000 kronor per fastighet.", "tagg": "anlaggning"},
+    {"namn": "Fritidshus på Hasslö", "ort": "Karlskrona", "typ": "Hela kedjan", "ar": "2025", "text": "Servisledning, pumpstation, nytt badrum och borttagen sluten tank på sex arbetsdagar.", "tagg": "vvs"},
+    {"namn": "Aspö Byalag", "ort": "Karlskrona", "typ": "Anslutningar, 48 hus", "ar": "2024", "text": "Maskiner och rör fraktades med färjan, och arbetet planerades efter turlistan.", "tagg": "mark"},
+    {"namn": "Nättraby Fritidsområde", "ort": "Karlskrona", "typ": "LTA-stationer, 52 hus", "ar": "2027", "text": "Projektering pågår inför kommunens utbyggnad som startar våren 2027.", "tagg": "anlaggning", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Tomtbesök", "text": "Vi tittar på var huset ligger, hur djupt berget går och var kommunens förbindelsepunkt hamnar.", "tagg": "mark"},
+    {"titel": "Fast pris", "text": "Du får ett fast pris för servisledning, pumpstation och arbetet i huset, var för sig eller tillsammans.", "tagg": "kontor"},
+    {"titel": "Grävning och rör", "text": "Maskinlaget gräver och lägger rören, rörmokarna kopplar i huset. Tomten återställs med matjord.", "tagg": "anlaggning"},
+    {"titel": "Anmälan till kommunen", "text": "Vi skickar in färdiganmälan och relationsritning så att kommunen kan öppna förbindelsepunkten.", "tagg": "vvs"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Slut på avlopp som läcker ut i Östersjön",
+    "text": "Gamla slamavskiljare och infiltrationer i skärgården släpper ut kväve och fosfor nära stranden. Varje fastighet vi ansluter till kommunens reningsverk minskar övergödningen i Blekinges vikar. Vi tar hand om de gamla tankarna och lämnar betong och plast till återvinning i Karlskrona.",
+    "mal": [["1 400", "enskilda avlopp ersatta"], ["90 %", "av gamla tankar återvunna"], ["0", "oljeutsläpp från arbetsbåten"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba med havet som arbetsplats",
+    "text": "Hos oss åker du båt till jobbet flera gånger i månaden. Vi söker en maskinförare och en rörmokare som trivs ute och tycker om att varje tomt är ett nytt pussel.",
+    "jobb": [["Maskinförare med ledningsvana", "Karlskrona"], ["Rörmokare", "Karlskrona"]]
+  },
+  "kultur": "Varje år i augusti åker hela firman med arbetsbåten till Utklippan och grillar på klipporna.",
+  "citat": {"text": "I stan är en servisledning ett dike. Här ute kan det vara berg, sankmark och femtio meter vatten på samma tomt. Det är därför vi tycker att det är roligt.", "namn": "Sanna Petersson", "roll": "Ägare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "De tog hand om allt från kommunens brunn till den nya toaletten. Och tomten såg bättre ut efteråt än före.", "namn": "Göran och Lis H.", "ort": "Tjurkö"},
+    {"text": "Vi var tolv hushåll på en ö utan bro. Hasslö VA var de enda som ville lämna anbud på sjöledningen.", "namn": "Ulrika S., Ekön", "ort": "Karlskrona"},
+    {"text": "Samfälligheten upphandlade gemensamt och vi sparade elva tusen per hus. Sanna höll i alla kontakter med kommunen.", "namn": "Bengt-Åke N., ordförande", "ort": "Torhamn"}
+  ],
+  "faq": [
+    ["Måste jag ansluta när kommunen bygger ut VA?", "Om fastigheten ligger inom kommunens verksamhetsområde ska du betala anläggningsavgift, och de flesta väljer att ansluta direkt. Ledningen på tomten bekostar du själv."],
+    ["Vad kostar en servisledning?", "En vanlig servisledning på 20–30 meter i jord kostar 38 000–55 000 kronor. Berg, sankmark och långa avstånd kan göra det dyrare."],
+    ["Vad är en LTA-pumpstation?", "En liten pump som pumpar avloppet från huset ut i kommunens tryckledning. Den behövs där marken är för kuperad för självfall."],
+    ["Vem äger pumpstationen?", "Det varierar mellan kommuner. I Karlskrona äger fastighetsägaren oftast stationen, men kommunen kan ha egna regler i vissa områden."],
+    ["Kan grannarna göra det ihop?", "Ja, och det lönar sig. Vid gemensam upphandling flyttar vi maskinerna färre gånger, och priset sjunker för alla."],
+    ["Får jag rotavdrag?", "Ja, för arbetskostnaden på tomten och i huset, även för fritidshus du äger."]
+  ],
+  "priser": [
+    {"namn": "Servisledning", "pris": "fr. 38 000 kr", "enhet": "upp till 25 m i jord", "text": "Från förbindelsepunkten till husets grund.", "punkter": ["Schakt och återfyllning", "PE-rör för vatten och avlopp", "Isolering eller värmekabel vid behov", "Relationsritning till kommunen"]},
+    {"namn": "Komplett anslutning", "pris": "fr. 94 000 kr", "enhet": "per fastighet", "text": "Servisledning, LTA-station och koppling i huset.", "punkter": ["Servisledning upp till 25 m", "LTA-pumpstation med larm", "Nya ledningar inne i huset", "Gammal tank tömd och borttagen"], "utvald": true},
+    {"namn": "Gemensam upphandling", "pris": "–10 %", "enhet": "från tio fastigheter", "text": "Rabatt när grannarna ansluter samtidigt.", "punkter": ["Ett gemensamt anbud", "Färre maskinflyttar", "Sanna sköter kontakten med kommunen", "Fast pris per fastighet"]}
+  ],
+  "certifikat": [
+    {"titel": "PE-svetscertifikat", "text": "Våra rörläggare är certifierade för stumsvetsning och elektromuffsvetsning av PE-rör.", "ikon": "eld"},
+    {"titel": "Arbete på väg", "text": "Alla som arbetar i gatumark har utbildning i Arbete på väg nivå 2.", "ikon": "vag"},
+    {"titel": "Säker Vatten", "text": "Rörmokarna installerar enligt branschreglerna när huset kopplas till kommunens vatten.", "ikon": "vatten"},
+    {"titel": "Maskinförarbevis", "text": "Maskinförarna har förarbevis för grävmaskin och utbildning för arbete nära ledningar i drift.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Torhamns Samfällighet", "Aspö Byalag", "Tjurkö Fritidshusförening", "Eköns Vattenförening", "Nättraby Fritidsområde", "Jämjö Villaförening", "Sturkö Vägsamfällighet"],
+  "nyheter": [
+    ["2026-09-29", "Tjurkö etapp 2 är klar", "186 fastigheter anslutna före kommunens slutdatum.", "mark"],
+    ["2026-06-17", "Kommunalt VA till Ekön", "900 meter sjöledning lagd från arbetsbåten Kärran.", "natur"],
+    ["2026-02-26", "Ska ditt område få kommunalt VA?", "Så går en anslutning till – och vad du betalar själv.", "anlaggning"]
+  ],
+  "kontakt": {"adress": "Hasslövägen 52", "postnr": "373 01", "ort": "Hasslö", "telefon": "070-174 06 94", "epost": "sanna@hasslova.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–16",
+  "omrade": "Karlskrona kommun och Blekinges skärgård",
+  "fot_cta": "Får ditt område kommunalt VA? Boka ett tomtbesök innan grävsäsongen fylls.",
+  "bild": {"panel": "mark", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Boka tomtbesök",
+    "hero_knapp": "Så går anslutningen till",
+    "hero_lank": "Anslutningspaket",
+    "vagval_etikett": "Fastighet",
+    "ber_rubrik": "Från skärgården",
+    "proj_etikett": "Områden",
+    "proj_rubrik": "Öar och områden vi har anslutit",
+    "proj_rubrik_lista": "Anslutna områden",
+    "process_rubrik": "Från tomtbesök till öppnad förbindelsepunkt",
+    "hb_etikett": "Renare vikar",
+    "omdomen_rubrik": "Fastighetsägare i skärgården",
+    "faq_rubrik": "Frågor om kommunalt VA",
+    "priser_etikett": "Anslutningspaket",
+    "priser_rubrik": "Vad anslutningen kostar dig",
+    "priser_not": "Priser inklusive moms, före rotavdrag. Berg och sjöledning offereras separat.",
+    "priser_utvald": "Vanligast i skärgården",
+    "priser_knapp": "Boka tomtbesök",
+    "boka_rubrik": "Boka ett tomtbesök",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Fastighetsbeteckning eller adress"],
+    "logos_rubrik": "Samfälligheter och byalag",
+    "certifikat_rubrik": "Behöriga på land och i vatten",
+    "bolag_rubrik": "Mark, rör, båt och ritning",
+    "medarbetare": "Laget på Hasslö"
+  }
+}
