@@ -22,7 +22,7 @@
     {"titel": "Delning med veterinär", "ikon": "vard", "href": "verksamhet.html", "text": "Veterinären ser kurvor över tid och kan lägga in röntgenbilder bredvid skanningen."},
     {"titel": "Fräsade specialskor", "ikon": "robot", "href": "verksamhet.html", "text": "Skor i aluminium som fräses efter skanningen när standardskor inte räcker."},
     {"titel": "Balansanalys", "ikon": "graf", "href": "verksamhet.html", "text": "Tryckmatta och video som visar hur hästen belastar hovarna i skritt och trav."},
-    {"titel": "Avtal för stall", "ikon": "portfolj", "href": "verksamhet.html", "text": "Stallvy i appen där stallchefen ser alla hästars nästa tid och historik."},
+    {"titel": "Stallvy för ridskolor", "ikon": "portfolj", "href": "verksamhet.html", "text": "Stallvy i appen där stallchefen ser alla hästars nästa tid och historik."},
     {"titel": "Priser och abonnemang", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Skanning ingår alltid i priset."},
     {"titel": "Boka i appen", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Välj tid inom din hovslagares rutt."}
   ],
@@ -46,7 +46,7 @@
     {"varde": "40 000", "enhet": "hovar", "etikett": "Skannade sedan 2021"},
     {"varde": "0,3°", "enhet": "", "etikett": "Noggrannhet på tåvinkeln"},
     {"varde": "2 300", "enhet": "hästägare", "etikett": "Använder appen"},
-    {"varde": "18", "enhet": "personer", "etikett": "Varav elva hovslagare"}
+    {"varde": "18", "enhet": "personer", "etikett": "Elva av dem står vid städet"}
   ],
   "projekt": [
     {"namn": "Strängnäs Ridklubb", "ort": "Strängnäs", "typ": "Stallavtal", "ar": "2025", "text": "Trettio skolhästar i stallvyn, där ridskolechefen ser varje hästs nästa tid och historik.", "tagg": "hast"},
@@ -73,7 +73,7 @@
     "jobb": [["Gesäll, Katrineholm och Flen", "Eskilstuna"], ["Mjukvaruutvecklare, mobil", "Eskilstuna"]]
   },
   "kultur": "En gång i månaden går alla hovslagare igenom sina egna mätvärden tillsammans och jämför vem som träffar målet bäst.",
-  "citat": {"text": "Jag trodde att jag skodde symmetriskt. Första månaden med skannern visade att jag inte gjorde det.", "namn": "Sebastian Nordin", "roll": "Medgrundare och hovslagare", "tagg": "hast"},
+  "citat": {"text": "Jag trodde att jag skodde symmetriskt. Första månaden med skannern visade att jag inte gjorde det.", "namn": "Sebastian Nordin", "roll": "Medgrundare, ansvarig för hovslagarna", "tagg": "hast"},
   "omdomen": [
     {"text": "Min veterinär öppnade appen och såg på två minuter hur tåvinkeln hade ändrats under tre skoningar. Det har aldrig gått förut.", "namn": "Camilla T.", "ort": "Katrineholm"},
     {"text": "Som ridskolechef ser jag alla trettio hästar på en skärm. Ingen häst glöms bort längre.", "namn": "Fredrik Å.", "ort": "Strängnäs"},
@@ -85,7 +85,7 @@
     ["Vem äger mätvärdena?", "Du. Du kan exportera all historik som pdf och dela den med vem du vill, även om du byter hovslagare."],
     ["Kan veterinären se allt?", "Bara om du delar hästen med veterinären i appen. Du kan ta bort delningen när som helst."],
     ["Ersätter skanningen röntgen?", "Nej. Skanningen visar hovens yta, röntgen visar benen inuti. Tillsammans ger de en bättre bild."],
-    ["Kör ni utanför Sörmland?", "Vi har kunder i Västmanland och norra Östergötland, men samlar besöken på två fasta dagar i månaden där."],
+    ["Har ni kunder i grannlänen?", "Vi har kunder i Västmanland och norra Östergötland, men samlar besöken på två fasta dagar i månaden där."],
     ["Hur långt i förväg bokar man?", "Ordinarie besök bokas direkt efter förra skoningen. Nya kunder får normalt tid inom två veckor."]
   ],
   "priser": [

@@ -21,7 +21,7 @@
     {"titel": "Skoning hemma i stallet", "ikon": "bil", "href": "verksamhet.html", "text": "Gesäller och mästare kör ut till stall i Kalmar län och på Öland."},
     {"titel": "Hovkunskap för ägare", "ikon": "dokument", "href": "verksamhet.html", "text": "Kvällskurs på tre tillfällen om hovens anatomi, verkning och när man ska ringa hovslagaren."},
     {"titel": "Fortbildning", "ikon": "upp", "href": "verksamhet.html", "text": "Endagskurser för yrkesverksamma hovslagare i limskor, ortopedi och smide."},
-    {"titel": "Lärlingsplatser", "ikon": "folk", "href": "karriar.html", "text": "Vi tar in tre nya lärlingar varje augusti och betalar lön från första dagen."},
+    {"titel": "Bli lärling", "ikon": "folk", "href": "karriar.html", "text": "Vi tar in tre nya lärlingar varje augusti och betalar lön från första dagen."},
     {"titel": "Mästarbedömning", "ikon": "sok", "href": "verksamhet.html", "text": "En andra bedömning av en mästare när hästen inte går som den ska efter skoning."},
     {"titel": "Klinikpriser", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Upp till en tredjedel billigare än skoning hemma."},
     {"titel": "Boka klinikplats", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Tisdagar till fredagar, inlämning klockan 7.30."}
@@ -30,7 +30,7 @@
     {"titel": "Lärlingskliniken", "text": "I verkstaden arbetar lärlingarna i par vid varsin häst, med en mästare som går mellan uppställningsplatserna. Skoningen tar längre tid än hemma, men varje steg kontrolleras – från verkning till sista sömmen.", "text2": "Du lämnar hästen 7.30 och hämtar den efter lunch. Priset är lägre eftersom en del av tiden är utbildning.", "tagg": "hast"},
     {"titel": "Skoning ute i länet", "text": "Fem bilar med gesäller och mästare kör ut till privata stall, ridskolor och travtränare från Nybro till Västervik och över bron till Öland.", "text2": "Lärlingar i andra året följer ofta med som andreperson. Det säger vi alltid i förväg.", "tagg": "hast"},
     {"titel": "Kurser för hästägare", "text": "Många hästägare vet för lite om vad som händer under hoven. Våra kvällskurser går igenom anatomi, hovens tillväxt, verkningsintervall och tecken på bölder och fång.", "text2": "Kurserna hålls i verkstaden med preparerade hovar som man får hålla i.", "tagg": "people"},
-    {"titel": "Fortbildning för hovslagare", "text": "Yrkesverksamma hovslagare från hela Sydsverige kommer hit för endagskurser. Lärarna är våra egna mästare och ibland gästande veterinärer.", "text2": "Kurserna ger intyg som räknas som fortbildning hos Sveriges Hovslagareförbund.", "tagg": "svets"}
+    {"titel": "Kurser för yrkesverksamma", "text": "Yrkesverksamma hovslagare från hela Sydsverige kommer hit för endagskurser. Lärarna är våra egna mästare och ibland gästande veterinärer.", "text2": "Kurserna ger intyg som räknas som fortbildning hos Sveriges Hovslagareförbund.", "tagg": "svets"}
   ],
   "bolag": [
     {"namn": "Kliniken på Norra vägen", "segment": "Sex uppställningsplatser", "rubrik": "Sextio hästar i veckan under samma tak", "text": "Uppvärmd verkstad med gummigolv, tre ässjor och en hårdgjord gång där hästarna visas före och efter skoning.", "tagg": "hast"},
@@ -59,7 +59,7 @@
   "process": [
     {"titel": "Välj klinik eller stall", "text": "I kliniken är priset lägre och du lämnar hästen en förmiddag. Hemma i stallet kommer en gesäll eller mästare.", "tagg": "hast"},
     {"titel": "Inlämning 7.30", "text": "Hästen visas på den hårda gången och mästaren skriver en plan som lärlingen får följa.", "tagg": "people"},
-    {"titel": "Skoning med kontroll", "text": "Lärlingen verkar och skor. Mästaren godkänner verkningen innan skon läggs och kontrollerar igen när den sitter.", "tagg": "svets"},
+    {"titel": "Mästaren godkänner", "text": "Lärlingen verkar och skor. Mästaren godkänner verkningen innan skon läggs och kontrollerar igen när den sitter.", "tagg": "svets"},
     {"titel": "Hämtning efter lunch", "text": "Du får se hästen gå och får ett kort med vad som gjordes och när nästa tid är.", "tagg": "hast"}
   ],
   "hallbarhet": {
@@ -90,7 +90,7 @@
   ],
   "priser": [
     {"namn": "Verkning i kliniken", "pris": "520 kr", "enhet": "per häst", "text": "Barfotahästar och ponnyer.", "punkter": ["Verkning av lärling", "Kontroll av mästare", "Visning på hård gång", "Kort med nästa tid"]},
-    {"namn": "Skoning i kliniken", "pris": "1 350 kr", "enhet": "fyra skor", "text": "Varmskoning med stålsko.", "punkter": ["Lärling i par med mästare", "Inlämning 7.30, hämtning efter lunch", "Hage efter skoningen", "Gruppris från fyra hästar"], "utvald": true},
+    {"namn": "Skoning i kliniken", "pris": "1 350 kr", "enhet": "fyra skor", "text": "Lärlingen lägger, mästaren godkänner.", "punkter": ["Lärling i par med mästare", "Inlämning 7.30, hämtning efter lunch", "Hage efter skoningen", "Gruppris från fyra hästar"], "utvald": true},
     {"namn": "Skoning hemma", "pris": "1 950 kr", "enhet": "fyra skor", "text": "En gesäll eller mästare kommer till stallet.", "punkter": ["Samma hovslagare varje gång", "Resa inom Kalmar kommun ingår", "Öland och länet efter rutt", "Journal efter varje besök"]}
   ],
   "certifikat": [
