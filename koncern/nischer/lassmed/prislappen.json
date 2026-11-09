@@ -17,100 +17,434 @@
   ],
   "vagval_rubrik": "Vilket jobb vill du boka?",
   "tjanster": [
-    {"titel": "Cylinderbyte", "ikon": "las", "href": "priser.html", "text": "Ny cylinder och tre nycklar – 1 595 kr monterat."},
-    {"titel": "Säkerhetslås i villa", "ikon": "hus", "href": "priser.html", "text": "SSF-godkänt lås klass 3 med intyg – 3 295 kr."},
-    {"titel": "Låsöppning dagtid", "ikon": "nyckel", "href": "priser.html", "text": "Utelåst vardagar 7–18 – 1 295 kr inom Gävle tätort."},
-    {"titel": "Kodlås till förrådet", "ikon": "kugge", "href": "priser.html", "text": "Mekaniskt kodlås utan batterier – 2 450 kr monterat."},
-    {"titel": "Brevlådelås", "ikon": "lada", "href": "priser.html", "text": "Nytt lås i brevlådan eller fastighetsboxen – 495 kr."},
-    {"titel": "Extra nycklar", "ikon": "verktyg", "href": "priser.html", "text": "Kopior till ditt system, hämtas på Brynäs eller skickas hem."},
-    {"titel": "Skydd för fönster och dörr", "ikon": "skold", "href": "priser.html", "text": "Paketpris per dörr eller fönster, inklusive montering."},
-    {"titel": "Boka en tid", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Lediga tvåtimmarsfönster syns direkt i kalendern."}
+    {
+      "titel": "Cylinderbyte",
+      "ikon": "las",
+      "href": "priser.html",
+      "text": "Ny cylinder och tre nycklar – 1 595 kr monterat."
+    },
+    {
+      "titel": "Säkerhetslås i villa",
+      "ikon": "hus",
+      "href": "priser.html",
+      "text": "SSF-godkänt lås klass 3 med intyg – 3 295 kr."
+    },
+    {
+      "titel": "Låsöppning dagtid",
+      "ikon": "nyckel",
+      "href": "priser.html",
+      "text": "Utelåst vardagar 7–18 – 1 295 kr inom Gävle tätort."
+    },
+    {
+      "titel": "Kodlås till förrådet",
+      "ikon": "kugge",
+      "href": "priser.html",
+      "text": "Mekaniskt kodlås utan batterier – 2 450 kr monterat."
+    },
+    {
+      "titel": "Brevlådelås",
+      "ikon": "lada",
+      "href": "priser.html",
+      "text": "Nytt lås i brevlådan eller fastighetsboxen – 495 kr."
+    },
+    {
+      "titel": "Extra nycklar",
+      "ikon": "verktyg",
+      "href": "priser.html",
+      "text": "Kopior till ditt system, hämtas på Brynäs eller skickas hem."
+    },
+    {
+      "titel": "Skydd för fönster och dörr",
+      "ikon": "skold",
+      "href": "priser.html",
+      "text": "Paketpris per dörr eller fönster, inklusive montering."
+    },
+    {
+      "titel": "Boka en tid",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "Lediga tvåtimmarsfönster syns direkt i kalendern."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Bostäder och villor", "text": "Har du köpt hus eller lägenhet byter vi cylindrar eller hela lås till fast pris. Allt material, resa inom Gävle tätort och tre nycklar ingår.", "text2": "Ett vanligt cylinderbyte tar 20 minuter på plats.", "tagg": "las"},
-    {"titel": "Utelåst dagtid", "text": "Vi har ingen nattjour, och därför kan vi hålla dagpriset lågt. Ring före 17 så kommer en bil samma dag, oftast inom två timmar.", "text2": "Nattetid hänvisar vi till en jourlåssmed – med deras pris angivet på vår sida.", "tagg": "hem"},
-    {"titel": "Små företag och föreningar", "text": "Kodlås till personalrum, nya cylindrar när en anställd slutar och lås till föreningslokaler. Samma fasta priser som för privatpersoner, med faktura på 30 dagar.", "text2": "Föreningar och småföretag får tio procent rabatt från femte dörren.", "tagg": "kontor"},
-    {"titel": "Försäkringsklara dörrar", "text": "Vi går igenom ytterdörrar och fönster mot försäkringsbolagets krav och lämnar en lista med pris per åtgärd. Du väljer vad du vill göra.", "text2": "Genomgången kostar 495 kr och dras av om du bokar en åtgärd.", "tagg": "las"}
+    {
+      "titel": "Bostäder och villor",
+      "text": "Har du köpt hus eller lägenhet byter vi cylindrar eller hela lås till fast pris. Allt material, resa inom Gävle tätort och tre nycklar ingår.",
+      "text2": "Ett vanligt cylinderbyte tar 20 minuter på plats.",
+      "tagg": "las"
+    },
+    {
+      "titel": "Utelåst dagtid",
+      "text": "Vi har ingen nattjour, och därför kan vi hålla dagpriset lågt. Ring före 17 så kommer en bil samma dag, oftast inom två timmar.",
+      "text2": "Nattetid hänvisar vi till en jourlåssmed – med deras pris angivet på vår sida.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Små företag och föreningar",
+      "text": "Kodlås till personalrum, nya cylindrar när en anställd slutar och lås till föreningslokaler. Samma fasta priser som för privatpersoner, med faktura på 30 dagar.",
+      "text2": "Föreningar och småföretag får tio procent rabatt från femte dörren.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Försäkringsklara dörrar",
+      "text": "Vi går igenom ytterdörrar och fönster mot försäkringsbolagets krav och lämnar en lista med pris per åtgärd. Du väljer vad du vill göra.",
+      "text2": "Genomgången kostar 495 kr och dras av om du bokar en åtgärd.",
+      "tagg": "las"
+    }
   ],
   "bolag": [
-    {"namn": "Bokning och planering", "segment": "Ida Berglund", "rubrik": "En kalender, fyra bilar", "text": "Planerar rutterna så att bilarna kör så lite som möjligt mellan jobben, och svarar i telefon vardagar.", "tagg": "kontor"},
-    {"namn": "Bilarna", "segment": "Fem montörer", "rubrik": "Allt material i bilen", "text": "Varje bil har de 40 vanligaste cylindrarna och låsen, så att jobbet blir klart vid första besöket.", "tagg": "las"},
-    {"namn": "Lagret på Brynäs", "segment": "Utlämning och nycklar", "rubrik": "Hämta på väg hem", "text": "Här kopierar vi nycklar, lämnar ut beställningar och tar emot lås som ska lagas.", "tagg": "las"}
+    {
+      "namn": "Bokning och planering",
+      "segment": "Ida Berglund",
+      "rubrik": "En kalender, fyra bilar",
+      "text": "Planerar rutterna så att bilarna kör så lite som möjligt mellan jobben, och svarar i telefon vardagar.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Bilarna",
+      "segment": "Fem montörer",
+      "rubrik": "Allt material i bilen",
+      "text": "Varje bil har de 40 vanligaste cylindrarna och låsen, så att jobbet blir klart vid första besöket.",
+      "tagg": "las"
+    },
+    {
+      "namn": "Lagret på Brynäs",
+      "segment": "Utlämning och nycklar",
+      "rubrik": "Hämta på väg hem",
+      "text": "Här kopierar vi nycklar, lämnar ut beställningar och tar emot lås som ska lagas.",
+      "tagg": "las"
+    }
   ],
   "berattelser": [
-    {"rubrik": "4 100 bokningar 2025", "text": "Bara 37 gånger blev jobbet dyrare än bokat. Alla 37 fick mellanskillnaden dubbelt tillbaka.", "tagg": "las"},
-    {"rubrik": "Nu även i Valbo och Skutskär", "text": "Sedan i augusti gäller tätortspriset även i Valbo, Forsbacka och Skutskär.", "tagg": "hem"},
-    {"rubrik": "Fjärde bilen i trafik", "text": "Med en bil till har väntetiden för cylinderbyte gått ner till 1,4 dagar.", "tagg": "las"}
+    {
+      "rubrik": "4 100 bokningar 2025",
+      "text": "Bara 37 gånger blev jobbet dyrare än bokat. Alla 37 fick mellanskillnaden dubbelt tillbaka.",
+      "tagg": "las"
+    },
+    {
+      "rubrik": "Nu även i Valbo och Skutskär",
+      "text": "Sedan i augusti gäller tätortspriset även i Valbo, Forsbacka och Skutskär.",
+      "tagg": "hem"
+    },
+    {
+      "rubrik": "Fjärde bilen i trafik",
+      "text": "Med en bil till har väntetiden för cylinderbyte gått ner till 1,4 dagar.",
+      "tagg": "las"
+    }
   ],
   "nyckeltal": [
-    {"varde": "1 595 kr", "enhet": "", "etikett": "Cylinderbyte, allt ingår"},
-    {"varde": "80 %", "enhet": "", "etikett": "Bokas på nätet"},
-    {"varde": "2", "enhet": "tim", "etikett": "Tidsfönster för ankomst"},
-    {"varde": "37", "enhet": "av 4 100", "etikett": "Jobb som blev dyrare"}
+    {
+      "varde": "1 595 kr",
+      "enhet": "",
+      "etikett": "Cylinderbyte, allt ingår"
+    },
+    {
+      "varde": "80 %",
+      "enhet": "",
+      "etikett": "Bokas på nätet"
+    },
+    {
+      "varde": "2",
+      "enhet": "tim",
+      "etikett": "Tidsfönster för ankomst"
+    },
+    {
+      "varde": "37",
+      "enhet": "av 4 100",
+      "etikett": "Jobb som blev dyrare"
+    }
   ],
   "projekt": [
-    {"namn": "Radhusområde på Sätra", "ort": "Gävle", "typ": "Cylinderbyte, 48 hus", "ar": "2026", "text": "Samfälligheten bokade samma dag för alla och fick föreningsrabatt.", "tagg": "bostad", "status": "Utfört"},
-    {"namn": "Frisörsalong i centrum", "ort": "Gävle", "typ": "Kodlås och cylinder", "ar": "2026", "text": "Kodlås på personalingången och ny cylinder när en anställd slutade.", "tagg": "kontor"},
-    {"namn": "Villa i Valbo", "ort": "Valbo", "typ": "Försäkringsklara dörrar", "ar": "2025", "text": "Genomgång, två säkerhetslås och regelskydd efter ett inbrottsförsök.", "tagg": "hem"},
-    {"namn": "Idrottsförening på Strömvallen", "ort": "Gävle", "typ": "Förrådslås, 12 dörrar", "ar": "2025", "text": "Kodlås på materialförråd så att tränarna slipper lämna nycklar vidare.", "tagg": "las"},
-    {"namn": "Fastighetsboxar i Sandviken", "ort": "Sandviken", "typ": "Brevlådelås, 64 st", "ar": "2024", "text": "Nya lås i alla boxar i ett hyreshus, på en förmiddag.", "tagg": "bostad"},
-    {"namn": "Sommarstugor i Skutskär", "ort": "Skutskär", "typ": "Lås och fönsterlås", "ar": "2024", "text": "Sex stugor säkrade inför vintern till paketpris.", "tagg": "hem"}
+    {
+      "namn": "Radhusområde på Sätra",
+      "ort": "Gävle",
+      "typ": "Cylinderbyte, 48 hus",
+      "ar": "2026",
+      "text": "Samfälligheten bokade samma dag för alla och fick föreningsrabatt.",
+      "tagg": "bostad",
+      "status": "Utfört"
+    },
+    {
+      "namn": "Frisörsalong i centrum",
+      "ort": "Gävle",
+      "typ": "Kodlås och cylinder",
+      "ar": "2026",
+      "text": "Kodlås på personalingången och ny cylinder när en anställd slutade.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Villa i Valbo",
+      "ort": "Valbo",
+      "typ": "Försäkringsklara dörrar",
+      "ar": "2025",
+      "text": "Genomgång, två säkerhetslås och regelskydd efter ett inbrottsförsök.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Idrottsförening på Strömvallen",
+      "ort": "Gävle",
+      "typ": "Förrådslås, 12 dörrar",
+      "ar": "2025",
+      "text": "Kodlås på materialförråd så att tränarna slipper lämna nycklar vidare.",
+      "tagg": "las"
+    },
+    {
+      "namn": "Fastighetsboxar i Sandviken",
+      "ort": "Sandviken",
+      "typ": "Brevlådelås, 64 st",
+      "ar": "2024",
+      "text": "Nya lås i alla boxar i ett hyreshus, på en förmiddag.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Sommarstugor i Skutskär",
+      "ort": "Skutskär",
+      "typ": "Lås och fönsterlås",
+      "ar": "2024",
+      "text": "Sex stugor säkrade inför vintern till paketpris.",
+      "tagg": "hem"
+    }
   ],
   "process": [
-    {"titel": "Välj jobb och tid", "text": "Du väljer jobb och ett tvåtimmarsfönster i kalendern. Priset står bredvid.", "tagg": "kontor"},
-    {"titel": "Bekräftelse och sms", "text": "Du får bekräftelse direkt och ett sms när montören är på väg.", "tagg": "las"},
-    {"titel": "Montören gör jobbet", "text": "Om något på plats skiljer sig från bokningen får du veta det och priset innan montören fortsätter.", "tagg": "las"},
-    {"titel": "Betala när det är klart", "text": "Swish, kort eller faktura. Kvittot med låsintyg kommer på mejl.", "tagg": "hem"}
+    {
+      "titel": "Välj jobb och tid",
+      "text": "Du väljer jobb och ett tvåtimmarsfönster i kalendern. Priset står bredvid.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Bekräftelse och sms",
+      "text": "Du får bekräftelse direkt och ett sms när montören är på väg.",
+      "tagg": "las"
+    },
+    {
+      "titel": "Montören gör jobbet",
+      "text": "Om något på plats skiljer sig från bokningen får du veta det och priset innan montören fortsätter.",
+      "tagg": "las"
+    },
+    {
+      "titel": "Betala när det är klart",
+      "text": "Swish, kort eller faktura. Kvittot med låsintyg kommer på mejl.",
+      "tagg": "hem"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Ärlighet går att räkna på",
     "text": "Vi publicerar varje år hur många jobb som blev dyrare än bokat och varför. Ruttplaneringen gör att bilarna kör i snitt 6,2 kilometer mellan uppdragen, och alla gamla cylindrar lämnas till mässingsåtervinning.",
-    "mal": [["< 1 %", "av jobben dyrare än bokat"], ["6,2 km", "snittavstånd mellan uppdrag"], ["2 tim", "längsta ankomstfönster"]]
+    "mal": [
+      [
+        "< 1 %",
+        "av jobben dyrare än bokat"
+      ],
+      [
+        "6,2 km",
+        "snittavstånd mellan uppdrag"
+      ],
+      [
+        "2 tim",
+        "längsta ankomstfönster"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Montör som slipper räkna timmar",
     "text": "Hos oss behöver du aldrig förhandla om priset med kunden. Du får fast månadslön, en egen bil med fullt lager och arbetar vardagar 7–17 utan jour.",
-    "jobb": [["Låsmontör", "Gävle"]]
+    "jobb": [
+      [
+        "Låsmontör",
+        "Gävle"
+      ]
+    ]
   },
   "kultur": "Varje fredag tittar vi på veckans jobb som tog längre tid än beräknat och justerar tidsåtgången i bokningen.",
-  "citat": {"text": "En kund ska inte behöva vara orolig när låssmeden börjar skruva. Priset bestäms innan vi kommer, inte medan vi står där.", "namn": "Ida Berglund", "roll": "Medgrundare och planeringsansvarig", "tagg": "people"},
+  "citat": {
+    "text": "En kund ska inte behöva vara orolig när låssmeden börjar skruva. Priset bestäms innan vi kommer, inte medan vi står där.",
+    "namn": "Ida Berglund",
+    "roll": "Medgrundare och planeringsansvarig",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Bokade på söndagskvällen, fick tid på tisdagen mellan 10 och 12. Montören kom kvart över tio och kvittot var på kronan.", "namn": "Frida N.", "ort": "Gävle"},
-    {"text": "Vår samfällighet fick nya cylindrar i 48 hus på en dag. Ingen behövde ringa och förhandla.", "namn": "Göran E.", "ort": "Sätra"},
-    {"text": "Låset var en annan modell än jag trodde. Montören visade det, sa priset och frågade om han fick fortsätta. Så ska det gå till.", "namn": "Ahmed J.", "ort": "Sandviken"}
+    {
+      "text": "Bokade på söndagskvällen, fick tid på tisdagen mellan 10 och 12. Montören kom kvart över tio och kvittot var på kronan.",
+      "namn": "Frida N.",
+      "ort": "Gävle"
+    },
+    {
+      "text": "Vår samfällighet fick nya cylindrar i 48 hus på en dag. Ingen behövde ringa och förhandla.",
+      "namn": "Göran E.",
+      "ort": "Sätra"
+    },
+    {
+      "text": "Låset var en annan modell än jag trodde. Montören visade det, sa priset och frågade om han fick fortsätta. Så ska det gå till.",
+      "namn": "Ahmed J.",
+      "ort": "Sandviken"
+    }
   ],
   "faq": [
-    ["Vad ingår i det fasta priset?", "Material, montering, resa inom Gävle tätort, Valbo, Forsbacka och Skutskär samt tre nycklar. Utanför området tillkommer ett fast resetillägg som visas i bokningen."],
-    ["Vad händer om jobbet blir större än jag bokat?", "Montören visar vad som skiljer sig och säger nya priset innan arbetet fortsätter. Du kan alltid tacka nej och bara betala framkörningen på 395 kr."],
-    ["Vad betyder dubbla mellanskillnaden?", "Om vi tar mer betalt än det bokade priset utan att du godkänt det i förväg betalar vi tillbaka skillnaden två gånger."],
-    ["Har ni jour på natten?", "Nej. Vi arbetar vardagar 7–18 och lördagar 9–14. På vår sida står vilken jourlåssmed vi rekommenderar och vad de tar."],
-    ["Är låsen godkända av försäkringsbolagen?", "Säkerhetslåsen vi monterar är godkända enligt SSF 3522 i klass 3 och du får ett intyg på mejl."],
-    ["Kan jag boka åt min förälder?", "Ja. Ange adressen och den som kommer att vara hemma, så skickar vi sms till båda."]
+    [
+      "Vad ingår i det fasta priset?",
+      "Material, montering, resa inom Gävle tätort, Valbo, Forsbacka och Skutskär samt tre nycklar. Utanför området tillkommer ett fast resetillägg som visas i bokningen."
+    ],
+    [
+      "Vad händer om jobbet blir större än jag bokat?",
+      "Montören visar vad som skiljer sig och säger nya priset innan arbetet fortsätter. Du kan alltid tacka nej och bara betala framkörningen på 395 kr."
+    ],
+    [
+      "Vad betyder dubbla mellanskillnaden?",
+      "Om vi tar mer betalt än det bokade priset utan att du godkänt det i förväg betalar vi tillbaka skillnaden två gånger."
+    ],
+    [
+      "Har ni jour på natten?",
+      "Nej. Vi arbetar vardagar 7–18 och lördagar 9–14. På vår sida står vilken jourlåssmed vi rekommenderar och vad de tar."
+    ],
+    [
+      "Är låsen godkända av försäkringsbolagen?",
+      "Säkerhetslåsen vi monterar är godkända enligt SSF 3522 i klass 3 och du får ett intyg på mejl."
+    ],
+    [
+      "Kan jag boka åt min förälder?",
+      "Ja. Ange adressen och den som kommer att vara hemma, så skickar vi sms till båda."
+    ]
   ],
   "priser": [
-    {"namn": "Cylinderbyte", "pris": "1 595 kr", "enhet": "per cylinder", "text": "När du flyttar in eller tappat en nyckel.", "punkter": ["Ny cylinder klass 3", "Tre nycklar", "Resa i tätort ingår", "Gamla cylindern till återvinning"], "utvald": true},
-    {"namn": "Säkerhetslås villa", "pris": "3 295 kr", "enhet": "per dörr", "text": "Komplett lås för försäkringsbolagets krav.", "punkter": ["Lås godkänt i SSF-klass 3", "Låsintyg på mejl", "Tre nycklar", "Montering på under en timme"]},
-    {"namn": "Låsöppning dagtid", "pris": "1 295 kr", "enhet": "vardagar 7–18", "text": "Utelåst från lägenhet eller villa.", "punkter": ["Bil samma dag", "Vi kontrollerar legitimation", "Öppning utan skador i de flesta fall", "Swish eller kort"]}
+    {
+      "namn": "Cylinderbyte",
+      "pris": "1 595 kr",
+      "enhet": "per cylinder",
+      "text": "När du flyttar in eller tappat en nyckel.",
+      "punkter": [
+        "Ny cylinder klass 3",
+        "Tre nycklar",
+        "Resa i tätort ingår",
+        "Gamla cylindern till återvinning"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Säkerhetslås villa",
+      "pris": "3 295 kr",
+      "enhet": "per dörr",
+      "text": "Komplett lås för försäkringsbolagets krav.",
+      "punkter": [
+        "Lås godkänt i SSF-klass 3",
+        "Låsintyg på mejl",
+        "Tre nycklar",
+        "Montering på under en timme"
+      ]
+    },
+    {
+      "namn": "Låsöppning dagtid",
+      "pris": "1 295 kr",
+      "enhet": "vardagar 7–18",
+      "text": "Utelåst från lägenhet eller villa.",
+      "punkter": [
+        "Bil samma dag",
+        "Vi kontrollerar legitimation",
+        "Öppning utan skador i de flesta fall",
+        "Swish eller kort"
+      ]
+    }
   ],
-  "prislista": [["Brevlådelås", "495 kr"], ["Mekaniskt kodlås, monterat", "2 450 kr"], ["Regelskydd per dörr", "895 kr"], ["Fönsterlås per fönster", "650 kr"], ["Extra nyckel, vanlig", "150 kr"], ["Genomgång av dörrar och fönster", "495 kr"], ["Framkörning om du tackar nej", "395 kr"], ["Resetillägg utanför tätort", "295 kr"]],
+  "prislista": [
+    [
+      "Brevlådelås",
+      "495 kr"
+    ],
+    [
+      "Mekaniskt kodlås, monterat",
+      "2 450 kr"
+    ],
+    [
+      "Regelskydd per dörr",
+      "895 kr"
+    ],
+    [
+      "Fönsterlås per fönster",
+      "650 kr"
+    ],
+    [
+      "Extra nyckel, vanlig",
+      "150 kr"
+    ],
+    [
+      "Genomgång av dörrar och fönster",
+      "495 kr"
+    ],
+    [
+      "Framkörning om du tackar nej",
+      "395 kr"
+    ],
+    [
+      "Resetillägg utanför tätort",
+      "295 kr"
+    ]
+  ],
   "prislista_rubrik": "Fler fasta priser",
   "certifikat": [
-    {"titel": "Gesäller och en mästare", "text": "Sveriges Låssmeders Riksförbund – båda grundarna har gesällbrev, Samir även mästarbrev.", "ikon": "skold"},
-    {"titel": "Intyg enligt SSF 3522", "text": "Låsintyg som försäkringsbolagen godtar, skickat på mejl efter varje montering.", "ikon": "dokument"},
-    {"titel": "Prisgaranti i avtalet", "text": "Dubbla mellanskillnaden tillbaka står i våra villkor, inte bara på hemsidan.", "ikon": "lov"},
-    {"titel": "Ansvarsförsäkring 5 Mkr", "text": "Alla uppdrag är försäkrade, även när vi arbetar i ditt hem när du inte är där.", "ikon": "las"}
+    {
+      "titel": "Gesäller och en mästare",
+      "text": "Sveriges Låssmeders Riksförbund – båda grundarna har gesällbrev, Samir även mästarbrev.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Intyg enligt SSF 3522",
+      "text": "Låsintyg som försäkringsbolagen godtar, skickat på mejl efter varje montering.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "Prisgaranti i avtalet",
+      "text": "Dubbla mellanskillnaden tillbaka står i våra villkor, inte bara på hemsidan.",
+      "ikon": "lov"
+    },
+    {
+      "titel": "Ansvarsförsäkring 5 Mkr",
+      "text": "Alla uppdrag är försäkrade, även när vi arbetar i ditt hem när du inte är där.",
+      "ikon": "las"
+    }
   ],
-  "kunder": ["Sätra Radhussamfällighet", "Strömvallens IF", "Salong Klippet på Drottninggatan", "Brf Stigslund", "Sandvikens Hyreshus", "Skutskärs Stugägareförening", "Valbo Företagarförening"],
+  "kunder": [
+    "Sätra Radhussamfällighet",
+    "Strömvallens IF",
+    "Salong Klippet på Drottninggatan",
+    "Brf Stigslund",
+    "Sandvikens Hyreshus",
+    "Skutskärs Stugägareförening",
+    "Valbo Företagarförening"
+  ],
   "nyheter": [
-    ["2026-10-12", "Så gick 2025", "4 100 bokningar och 37 jobb som blev dyrare än bokat.", "las"],
-    ["2026-08-04", "Tätortspris i Valbo och Skutskär", "Inget resetillägg längre i tre nya orter.", "hem"],
-    ["2026-03-16", "Bil nummer fyra", "Kortare väntetid på cylinderbyten i hela Gävle.", "las"]
+    [
+      "2026-10-12",
+      "Så gick 2025",
+      "4 100 bokningar och 37 jobb som blev dyrare än bokat.",
+      "las"
+    ],
+    [
+      "2026-08-04",
+      "Tätortspris i Valbo och Skutskär",
+      "Inget resetillägg längre i tre nya orter.",
+      "hem"
+    ],
+    [
+      "2026-03-16",
+      "Bil nummer fyra",
+      "Kortare väntetid på cylinderbyten i hela Gävle.",
+      "las"
+    ]
   ],
-  "kontakt": {"adress": "Atlasgatan 3", "postnr": "803 21", "ort": "Gävle", "telefon": "070-174 06 16", "epost": "boka@prislappen.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Atlasgatan 3",
+    "postnr": "803 21",
+    "ort": "Gävle",
+    "telefon": "070-174 06 16",
+    "epost": "boka@prislappen.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 7–18, lör 9–14 · bokning på nätet dygnet runt",
   "omrade": "Gävle, Valbo, Forsbacka, Skutskär och Sandviken",
   "fot_cta": "Se priset, välj en tid och boka – det tar en minut.",
-  "bild": {"panel": "people", "hb": "las"},
+  "bild": {
+    "panel": "people",
+    "hb": "las"
+  },
   "text": {
     "hero_knapp": "Se alla priser",
     "hero_lank": "Jobb vi har gjort",
@@ -126,5 +460,6 @@
     "certifikat_rubrik": "Garantier i skrift",
     "bolag_rubrik": "Åtta personer, fyra bilar",
     "ny_rubrik": "Nytt från Brynäs"
-  }
+  },
+  "hero_lank_href": "projekt.html"
 }

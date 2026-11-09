@@ -33,8 +33,8 @@
     {"titel": "Service och omprovning", "text": "Gassläcksystem ska kontrolleras regelbundet och flaskorna omprovas med jämna mellanrum. Vi väger flaskorna, kontrollerar ventiler och gör om täthetsprovet när rummet har byggts om.", "text2": "Vi servar även system som andra har installerat, efter en första genomgång.", "tagg": "maskin"}
   ],
   "bolag": [
-    {"namn": "Projektering", "segment": "Beräkning och design", "rubrik": "Fem ingenjörer räknar på varje rum", "text": "Projekteringen gör flödesberäkningar, väljer gas och placerar munstycken och tryckavlastning.", "tagg": "kontor"},
-    {"namn": "Installation", "segment": "Hela landet", "rubrik": "Tio montörer på resande fot", "text": "Montörerna arbetar i lag om två till fyra och är på resande fot i genomsnitt tre dagar i veckan.", "tagg": "industri"},
+    {"namn": "Beräkningsgruppen", "segment": "Beräkning och design", "rubrik": "Fem ingenjörer räknar på varje rum", "text": "Projekteringen gör flödesberäkningar, väljer gas och placerar munstycken och tryckavlastning.", "tagg": "kontor"},
+    {"namn": "Montagelagen", "segment": "Hela landet", "rubrik": "Tio montörer på resande fot", "text": "Montörerna arbetar i lag om två till fyra och är på resande fot i genomsnitt tre dagar i veckan.", "tagg": "industri"},
     {"namn": "Service och prov", "segment": "Täthetsprov och flaskor", "rubrik": "740 rum under avtal", "text": "Sex tekniker gör årlig service, täthetsprov och flaskbyten och har ett eget flasklager i Borlänge.", "tagg": "maskin"}
   ],
   "berattelser": [
@@ -43,7 +43,7 @@
     {"rubrik": "Sista halonsystemet i Dalarna borta", "text": "Ett ställverk från 1978 bytte sitt halonsystem mot argon i september.", "tagg": "industri"}
   ],
   "nyckeltal": [
-    {"varde": "740", "enhet": "rum", "etikett": "Under serviceavtal"},
+    {"varde": "740", "enhet": "rum", "etikett": "Rum med årlig service"},
     {"varde": "1993", "enhet": "", "etikett": "Grundat i Borlänge"},
     {"varde": "24", "enhet": "anställda", "etikett": "Bara gassläckning"},
     {"varde": "15 %", "enhet": "syre", "etikett": "I våra syrereducerade arkiv"}
@@ -54,7 +54,7 @@
     {"namn": "Ställverk Kvarnsveden", "ort": "Borlänge", "typ": "Byte från halon", "ar": "2025", "text": "Ett halonsystem från 1978 ersattes med argon och aspirerande detektering.", "tagg": "industri"},
     {"namn": "Regionens serverhall", "ort": "Västerdalarna", "typ": "Kemisk släckgas", "ar": "2025", "text": "Kompakt system i en serverhall utan plats för ett separat flaskrum.", "tagg": "el"},
     {"namn": "Konstmagasinet", "ort": "Avesta", "typ": "Inertgas och detektering", "ar": "2024", "text": "Argon och tidig detektering i ett magasin för 3 000 konstverk.", "tagg": "interior"},
-    {"namn": "Telestation Idre", "ort": "Idre", "typ": "Serviceavtal", "ar": "2024", "text": "Fjärrövervakat släcksystem i en obemannad station på 800 meters höjd.", "tagg": "anlaggning"}
+    {"namn": "Telestation Idre", "ort": "Idre", "typ": "Fjärrövervakad service", "ar": "2024", "text": "Fjärrövervakat släcksystem i en obemannad station på 800 meters höjd.", "tagg": "anlaggning"}
   ],
   "process": [
     {"titel": "Rummet mäts upp", "text": "Vi besöker platsen, mäter volymen och tittar på dörrar, kanaler och genomföringar.", "tagg": "industri"},
@@ -92,7 +92,7 @@
     {"titel": "Anläggarfirma gassläcksystem", "text": "Certifierade för projektering och installation av gassläcksystem enligt SBF 500.", "ikon": "skold"},
     {"titel": "Projektering enligt SS-EN 15004", "text": "Beräkningar och täthetsprov utförs enligt den europeiska standarden för gassläcksystem.", "ikon": "ritning"},
     {"titel": "Tryckbärande anordningar", "text": "Hantering och omprovning av flaskor enligt AFS om tryckbärande anordningar.", "ikon": "verktyg"},
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat kvalitets- och miljöledningssystem med spårbarhet för varje flaska.", "ikon": "lov"}
+    {"titel": "Kvalitet och miljö, ISO", "text": "Certifierat kvalitets- och miljöledningssystem med spårbarhet för varje flaska.", "ikon": "lov"}
   ],
   "kunder": ["Grängesbergs Datacenter", "Dalarnas Länsarkiv", "Kvarnsvedens Kraft", "Avesta Konstmagasin", "Idre Telenät", "Dalälvens Vattenkraft", "Region Västerdalarna IT", "Borlänge Energinät"],
   "nyheter": [

@@ -30,12 +30,12 @@
     {"titel": "Bygglov och projektering", "text": "Vi tar fram brandskyddsbeskrivningen i tidigt skede och sitter med på projekteringsmötena tills bygghandlingarna är klara. Arkitekt, konstruktör och installatörer får brandkrav som de kan rita efter.", "text2": "För flerbostadshus i trä tar vi fram särskilda lösningar för fasad, bjälklag och brandcellsgränser.", "tagg": "kontor"},
     {"titel": "Simulering och analys", "text": "När en byggnad har långa gångavstånd, stora öppna ytor eller ett ovanligt atrium räknar vi fram brandförloppet i CFD och simulerar hur människor rör sig ut.", "text2": "Analysen redovisas så att byggnadsnämnden och räddningstjänsten kan följa varje antagande.", "tagg": "brand"},
     {"titel": "Kontroll under bygget", "text": "Våra certifierade sakkunniga besöker bygget vid bestämda kontrollpunkter och kontrollerar dörrar, tätningar, brandklassade fönster och larm innan väggarna sluts.", "text2": "Ni får ett utlåtande till slutsamrådet som visar att brandskyddet är utfört enligt handlingarna.", "tagg": "bygg"},
-    {"titel": "Befintliga fastigheter", "text": "Många äldre hus saknar brandskyddsdokumentation helt. Vi inventerar på plats, ritar upp brandceller och utrymningsvägar och skriver en dokumentation som går att arbeta efter i förvaltningen.", "text2": "Dokumentationen blir grunden för fastighetsägarens systematiska brandskyddsarbete.", "tagg": "stad"}
+    {"titel": "Hus utan handlingar", "text": "Många äldre hus saknar brandskyddsdokumentation helt. Vi inventerar på plats, ritar upp brandceller och utrymningsvägar och skriver en dokumentation som går att arbeta efter i förvaltningen.", "text2": "Dokumentationen blir grunden för fastighetsägarens systematiska brandskyddsarbete.", "tagg": "stad"}
   ],
   "bolag": [
     {"namn": "Projekteringsgruppen", "segment": "Nybyggnad", "rubrik": "Nio ingenjörer i tidiga skeden", "text": "Gruppen skriver brandskyddsbeskrivningar för bostäder, skolor, handel och industri och tar de flesta bygglovsärendena.", "tagg": "kontor"},
     {"namn": "Analysgruppen", "segment": "Simulering och risk", "rubrik": "Där regelboken tar slut", "text": "Fyra ingenjörer med inriktning på CFD-simulering, utrymningsanalys och riskutredningar längs väg och järnväg.", "tagg": "brand"},
-    {"namn": "Sakkunniga", "segment": "Kontroll och besiktning", "rubrik": "Ute på byggena varje vecka", "text": "Sex certifierade sakkunniga brand som kontrollerar utförandet och följer projekten fram till slutsamråd.", "tagg": "bygg"}
+    {"namn": "Sakkunniga", "segment": "Kontroll på bygget", "rubrik": "Ute på byggena varje vecka", "text": "Sex certifierade sakkunniga brand som kontrollerar utförandet och följer projekten fram till slutsamråd.", "tagg": "bygg"}
   ],
   "berattelser": [
     {"rubrik": "Sex våningar i massivträ vid Nissan", "text": "Analytisk dimensionering av ett bostadshus i KL-trä med synliga trätak i alla lägenheter.", "tagg": "bostad"},
@@ -51,7 +51,7 @@
   "projekt": [
     {"namn": "Kv. Gjutaren", "ort": "Halmstad", "typ": "Bostadshus i massivträ", "ar": "2026", "text": "Analytisk dimensionering av fasad och bjälklag i ett sexvåningshus med 74 lägenheter.", "tagg": "bostad", "status": "Pågående"},
     {"namn": "Padelhallen Ätran", "ort": "Falkenberg", "typ": "Ändrad användning", "ar": "2025", "text": "Ett gammalt lager blev padelhall med ny utrymning, nödbelysning och brandlarm.", "tagg": "brand"},
-    {"namn": "Logistikcenter Kistinge", "ort": "Halmstad", "typ": "Brandskyddsbeskrivning", "ar": "2025", "text": "En hall på 42 000 kvadratmeter med sprinkler, brandgasventilation och två brandväggar.", "tagg": "industri"},
+    {"namn": "Logistikcenter Kistinge", "ort": "Halmstad", "typ": "Bygglovshandling", "ar": "2025", "text": "En hall på 42 000 kvadratmeter med sprinkler, brandgasventilation och två brandväggar.", "tagg": "industri"},
     {"namn": "Varbergs tunnelstation", "ort": "Varberg", "typ": "Riskutredning", "ar": "2025", "text": "Riskanalys för kontor och bostäder ovanpå den nya järnvägsdragningen.", "tagg": "infra"},
     {"namn": "Vårdboendet Lyckåsen", "ort": "Laholm", "typ": "Sakkunnig kontroll", "ar": "2024", "text": "Kontroll av brandcellsgränser och boendesprinkler i ett vårdboende med 60 platser.", "tagg": "bygg"},
     {"namn": "Rådhuskvarteret", "ort": "Kungsbacka", "typ": "Befintlig byggnad", "ar": "2024", "text": "Inventering och ny brandskyddsdokumentation för ett kontorshus från 1938 utan ritningar.", "tagg": "stad"}
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Nyexad brandingenjör? Börja med riktiga projekt",
     "text": "Nyanställda får en handledare och egna mindre uppdrag från första månaden. Vi betalar certifieringen till sakkunnig brand och fem fortbildningsdagar per år.",
-    "jobb": [["Brandingenjör", "Halmstad"], ["Brandingenjör med inriktning simulering", "Halmstad"], ["Sakkunnig brand", "Varberg"]]
+    "jobb": [["Brandingenjör, projektering", "Halmstad"], ["Brandingenjör med inriktning simulering", "Halmstad"], ["Sakkunnig brand", "Varberg"]]
   },
   "kultur": "Varje torsdag eftermiddag går vi igenom ett av veckans svåraste ärenden tillsammans – den som skrev det får frågorna först.",
   "citat": {"text": "Ett brandskydd som bara finns i en pärm är inget brandskydd. Därför åker vi ut och tittar på det som faktiskt byggts.", "namn": "Karolina Bengtsson", "roll": "Vd och brandingenjör", "tagg": "kontor"},
@@ -91,7 +91,7 @@
     {"titel": "Certifierade sakkunniga brand", "text": "Sex medarbetare är certifierade sakkunniga brandskydd (SAK3) enligt Boverkets regler.", "ikon": "skold"},
     {"titel": "Brandingenjörer från LTH", "text": "Samtliga konsulter har brandingenjörsexamen eller civilingenjörsexamen i riskhantering.", "ikon": "skola"},
     {"titel": "Kontrollansvarig enligt PBL", "text": "Två certifierade kontrollansvariga med behörighet K för komplicerade byggnader.", "ikon": "ritning"},
-    {"titel": "ISO 9001", "text": "Kvalitetsledningssystem med intern granskning av varje handling, certifierat sedan 2015.", "ikon": "lov"}
+    {"titel": "Granskad kvalitet, ISO 9001", "text": "Kvalitetsledningssystem med intern granskning av varje handling, certifierat sedan 2015.", "ikon": "lov"}
   ],
   "kunder": ["Halmstads Bostadsbyggare", "Kistinge Logistikfastigheter", "Ätrans Padel & Event", "Lyckåsens Omsorg", "Kungsbacka Rådhusfastigheter", "Varbergs Stationsbygg", "Tylö Arkitekter", "Hallandsåsens Trähus"],
   "nyheter": [
@@ -118,6 +118,6 @@
     "bolag_rubrik": "Tre grupper, 21 ingenjörer",
     "ny_rubrik": "Regler, seminarier och nyheter",
     "medarbetare": "Konsulterna",
-    "kontakt_knapp": "Begär offert"
+    "kontakt_knapp": "Skicka ritningar"
   }
 }

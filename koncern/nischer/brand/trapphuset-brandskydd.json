@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Kundansvariga", "segment": "En kontakt per förening", "rubrik": "Ni ringer alltid samma person", "text": "Tre kundansvariga delar på föreningarna geografiskt – Öster och Huskvarna, Väster och Råslätt, samt Habo och Bankeryd.", "tagg": "people"},
     {"namn": "Tekniker", "segment": "Ronder och utrustning", "rubrik": "Fyra tekniker med egna bilar", "text": "Teknikerna går ronderna, servar släckarna och byter cirka 2 400 brandvarnare om året.", "tagg": "brand"},
-    {"namn": "Styrelsestöd", "segment": "SBA och utbildning", "rubrik": "Vi svarar på det stadgarna inte säger", "text": "Josefin Aho och en kollega skriver dokumentationen, håller i styrelseutbildningarna och följer med vid räddningstjänstens tillsyn.", "tagg": "kontor"}
+    {"namn": "Styrelsestöd", "segment": "Dokumentation och kurser", "rubrik": "Vi svarar på det stadgarna inte säger", "text": "Josefin Aho och en kollega skriver dokumentationen, håller i styrelseutbildningarna och följer med vid räddningstjänstens tillsyn.", "tagg": "kontor"}
   ],
   "berattelser": [
     {"rubrik": "Tillsyn utan anmärkning på Strandängen", "text": "Räddningstjänsten granskade föreningens brandskydd i oktober och hittade inga brister.", "tagg": "bostad"},
@@ -73,7 +73,7 @@
     "jobb": [["Tekniker brandskydd", "Jönköping"]]
   },
   "kultur": "Vi har aldrig jour och aldrig kvällsarbete – utom de kvällar vi håller styrelseutbildningar, och då bjuder föreningen på kaffe.",
-  "citat": {"text": "Ingen väljs in i en styrelse för att den kan brandskydd. Det är därför vi finns, och därför vi skriver allt så att en ny kassör förstår det.", "namn": "Mattias Öhman", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Ingen väljs in i en styrelse för att den kan brandskydd. Det är därför vi finns, och därför vi skriver allt så att en ny kassör förstår det.", "namn": "Mattias Öhman", "roll": "Grundare, före detta styrelseledamot", "tagg": "people"},
   "omdomen": [
     {"text": "Vi var fem nya i styrelsen och visste ingenting om brandskydd. Efter Josefins genomgång hade vi en pärm, en plan och ett datum för nästa rond.", "namn": "Amina K.", "ort": "Jönköping"},
     {"text": "Priset per lägenhet gjorde det lätt att få igenom på stämman. Ingen fakturerad timme har kommit sedan dess.", "namn": "Göran S.", "ort": "Huskvarna"},
@@ -86,7 +86,7 @@
     ["Ingår brandvarnarna i priset?", "Kontroll och information ingår i alla nivåer. Byte av brandvarnare ingår i Komplett och kostar annars 245 kronor per lägenhet inklusive brandvarnare."],
     ["Kan vi säga upp avtalet?", "Avtalet löper ett år i taget med tre månaders uppsägning. All dokumentation tillhör föreningen och lämnas över om ni byter leverantör."],
     ["Arbetar ni med samfälligheter och hyresrätter?", "Samfälligheter ja, med samma upplägg. Hyresfastigheter tar vi inte – vi har valt att fokusera på föreningar."],
-    ["Vilket område täcker ni?", "Jönköping, Huskvarna, Habo, Bankeryd, Tenhult och Mullsjö. Längre bort tar vi föreningar med minst 60 lägenheter."]
+    ["Hur långt utanför Jönköping åker ni?", "Jönköping, Huskvarna, Habo, Bankeryd, Tenhult och Mullsjö. Längre bort tar vi föreningar med minst 60 lägenheter."]
   ],
   "priser": [
     {"namn": "Grund", "pris": "310 kr", "enhet": "per lägenhet och år", "text": "För mindre föreningar som vill ha ordning och dokumentation.", "punkter": ["Två brandskyddsronder per år", "Digital SBA-pärm", "Kontroll av släckare och filtar", "Rapport efter varje rond"]},
@@ -96,9 +96,9 @@
   "prislista": [["Byte av brandvarnare, per lägenhet", "245 kr"], ["Ny pulversläckare 6 kg, monterad", "1 090 kr"], ["Brandfilt till soprum eller tvättstuga", "390 kr"], ["Styrelseutbildning utan avtal", "4 900 kr"], ["Inventering av lägenhetsdörrar, per dörr", "180 kr"], ["Utrymningsskylt med efterlysande färg", "260 kr"]],
   "certifikat": [
     {"titel": "Före detta brandinspektör", "text": "Josefin Aho har sju års erfarenhet av tillsyn enligt lagen om skydd mot olyckor.", "ikon": "skold"},
-    {"titel": "Servicetekniker släckare", "text": "Alla tekniker är certifierade för underhåll av handbrandsläckare enligt SS 3656.", "ikon": "eld"},
+    {"titel": "Certifierade släckartekniker", "text": "Alla tekniker är certifierade för underhåll av handbrandsläckare enligt SS 3656.", "ikon": "eld"},
     {"titel": "Brandskyddsföreningen", "text": "Medlemsföretag sedan 2018 och utbildade brandskyddsansvariga på hela kontoret.", "ikon": "lov"},
-    {"titel": "Ansvarsförsäkring", "text": "Försäkrade för konsult- och serviceuppdrag med 10 miljoner kronor per skada.", "ikon": "las"}
+    {"titel": "Försäkrade för konsultansvar", "text": "Försäkrade för konsult- och serviceuppdrag med 10 miljoner kronor per skada.", "ikon": "las"}
   ],
   "kunder": ["Brf Strandängen", "Brf Råslätt Södra", "Brf Huskvarna Brunn", "Brf Habo Kyrkbacke", "Bankeryds Ängar Samfällighet", "Brf Västra Torget", "Brf Tändsticksgården", "Brf Rosenlundsterrassen"],
   "nyheter": [
@@ -114,7 +114,7 @@
   "text": {
     "ber_rubrik": "Senast i föreningarna",
     "proj_rubrik": "Föreningar vi tagit hand om",
-    "process_rubrik": "Så tar vi över ert brandskydd",
+    "process_rubrik": "Från första rond till rapport",
     "hb_etikett": "Tillsynsgaranti",
     "omdomen_rubrik": "Ordförande och kassörer berättar",
     "faq_rubrik": "Det styrelser brukar fråga",

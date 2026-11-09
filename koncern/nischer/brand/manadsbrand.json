@@ -33,7 +33,7 @@
     {"titel": "Säsongsföretag på Öland", "text": "Glasskiosker, campingar och gårdsbutiker har öppet tre månader om året. De kan pausa abonnemanget under vintern och få släckarna kontrollerade och uppsatta igen före midsommar.", "text2": "Under pausen betalar ni 29 kronor i månaden och vi förvarar utrustningen.", "tagg": "hem"}
   ],
   "bolag": [
-    {"namn": "Emil och Oscar", "segment": "Grundare", "rubrik": "En säljer, en kör", "text": "Emil svarar i telefon och tar fram abonnemangen. Oscar kör fortfarande servicebilen två dagar i veckan.", "tagg": "people"},
+    {"namn": "Emil och Oscar", "segment": "Bröderna bakom firman", "rubrik": "En säljer, en kör", "text": "Emil svarar i telefon och tar fram abonnemangen. Oscar kör fortfarande servicebilen två dagar i veckan.", "tagg": "people"},
     {"namn": "Servicetekniker", "segment": "Fyra bilar", "rubrik": "Ute hos 25 kunder om dagen", "text": "Fyra tekniker täcker Kalmar, Nybro, Mönsterås och Öland och planerar rutterna så att varje kund får besök samma vecka som året innan.", "tagg": "brand"},
     {"namn": "Lagret", "segment": "Renovering och återbruk", "rubrik": "Varje släckare får flera liv", "text": "Släckare som kommer tillbaka från avslutade abonnemang provtrycks, fylls och hyrs ut igen.", "tagg": "maskin"}
   ],
@@ -70,10 +70,10 @@
   "karriar": {
     "rubrik": "Kör egen rutt i Kalmar och på Öland",
     "text": "Hos oss planerar du dina egna dagar, träffar många olika kunder och slutar 15.30. Vi utbildar dig till certifierad servicetekniker under första året.",
-    "jobb": [["Servicetekniker", "Kalmar"], ["Säsongstekniker Öland, maj–augusti", "Borgholm"]]
+    "jobb": [["Servicetekniker med egen rutt", "Kalmar"], ["Säsongstekniker Öland, maj–augusti", "Borgholm"]]
   },
   "kultur": "Fredagar är det Oscar som bakar – och kunden med flest kvitton under året får en kanelbullelängd i december.",
-  "citat": {"text": "Ingen småföretagare vill bli brandskyddsexpert. De vill veta att det är ordnat och vad det kostar. Därför har vi bara tre priser.", "namn": "Emil Nordin", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Ingen småföretagare vill bli brandskyddsexpert. De vill veta att det är ordnat och vad det kostar. Därför har vi bara tre priser.", "namn": "Emil Nordin", "roll": "Vd och en av två bröder", "tagg": "people"},
   "omdomen": [
     {"text": "Hårtorken brann, jag släckte, ringde Emil och nästa morgon satt det en ny släckare på väggen. Ingen faktura kom.", "namn": "Jenny L.", "ort": "Nybro"},
     {"text": "149 kronor i månaden är mindre än vad vi lägger på kaffefilter. Och jag behöver aldrig komma ihåg kontrollen.", "namn": "Ali H.", "ort": "Kalmar"},
@@ -94,9 +94,9 @@
   ],
   "prislista": [["Extra släckare i abonnemanget", "39 kr/mån"], ["Säsongspaus, per månad", "29 kr"], ["Byte efter använd släckare", "0 kr"], ["Fettbrandsläckare för kök", "49 kr/mån"], ["Flytt till ny lokal", "0 kr"], ["Köpt pulversläckare 6 kg, utan abonnemang", "1 150 kr"]],
   "certifikat": [
-    {"titel": "Certifierade servicetekniker", "text": "Alla tekniker är certifierade för underhåll av handbrandsläckare enligt SS 3656.", "ikon": "eld"},
+    {"titel": "Certifikat för släckarservice", "text": "Varje tekniker har certifikat för underhåll av handbrandsläckare enligt SS 3656.", "ikon": "eld"},
     {"titel": "Fluorfria släckmedel", "text": "Skumsläckarna vi hyr ut är fria från PFAS och andra fluorerade ämnen.", "ikon": "lov"},
-    {"titel": "Heta arbeten", "text": "Oscar är certifierad för heta arbeten och kan granska rutiner i verkstäder.", "ikon": "skold"},
+    {"titel": "Certifikat för heta arbeten", "text": "Oscar är certifierad för heta arbeten och kan granska rutiner i verkstäder.", "ikon": "skold"},
     {"titel": "Ansvarsförsäkrade", "text": "Ansvars- och produktförsäkring för all utrustning vi hyr ut.", "ikon": "las"}
   ],
   "kunder": ["Kaféet på Larmgatan", "Salong Lugn", "Mönsterås Bil & Däck", "Gymmet på Berga", "Torsås Gårdsbutik", "Böda Strandkiosk", "Kvarnholmens Blommor", "Nybro Cykel & Sport"],
@@ -114,7 +114,7 @@
     "ber_rubrik": "Senast hos kunderna",
     "proj_rubrik": "Småföretag med abonnemang",
     "process_rubrik": "Fyra steg till färdigt brandskydd",
-    "hb_etikett": "Återbruk",
+    "hb_etikett": "Cirkulärt",
     "omdomen_rubrik": "Småföretagare om abonnemanget",
     "faq_rubrik": "Frågor om abonnemanget",
     "priser_rubrik": "Tre storlekar, inga tillägg",

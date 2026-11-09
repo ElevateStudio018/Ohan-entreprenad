@@ -34,8 +34,8 @@
   ],
   "bolag": [
     {"namn": "Riskanalys", "segment": "Brandingenjörer", "rubrik": "Fyra ingenjörer som räknar på celler", "text": "Analysgruppen skriver riskanalyser och brandskyddsbeskrivningar för batterilager, laddgarage och fabriker.", "tagg": "kontor"},
-    {"namn": "Installation", "segment": "El och brand", "rubrik": "Åtta tekniker med båda behörigheterna", "text": "Teknikerna är elektriker som också är utbildade i brandlarm och släcksystem, så att samma lag gör hela installationen.", "tagg": "el"},
-    {"namn": "Utbildning", "segment": "Kurser och övningar", "rubrik": "Vi har tänt fler celler än de flesta", "text": "Tre instruktörer håller kurser med riktiga battericeller på vår övningsplats utanför Kåge.", "tagg": "people"}
+    {"namn": "El- och brandmontage", "segment": "El och brand", "rubrik": "Åtta tekniker med båda behörigheterna", "text": "Teknikerna är elektriker som också är utbildade i brandlarm och släcksystem, så att samma lag gör hela installationen.", "tagg": "el"},
+    {"namn": "Kurser", "segment": "Kurser och övningar", "rubrik": "Vi har tänt fler celler än de flesta", "text": "Tre instruktörer håller kurser med riktiga battericeller på vår övningsplats utanför Kåge.", "tagg": "people"}
   ],
   "berattelser": [
     {"rubrik": "Energilager vid Skellefteälven", "text": "Ett lager på 20 megawattimmar i åtta containrar får gasdetektering och vattenbaserad släckning.", "tagg": "solel"},
@@ -88,9 +88,9 @@
     ["Vad kostar en riskanalys?", "En riskanalys för ett laddgarage eller en verksamhet med batterilager kostar oftast 25 000–60 000 kronor beroende på omfattning."]
   ],
   "certifikat": [
-    {"titel": "Auktoriserad elinstallatör", "text": "Auktorisation AL från Elsäkerhetsverket och egenkontrollprogram för alla installationer.", "ikon": "blixt"},
-    {"titel": "Anläggarfirma brandlarm", "text": "SBSC-certifierad anläggarfirma med egen certifierad ingenjör brandlarm.", "ikon": "skold"},
-    {"titel": "Brandingenjörer", "text": "Riskanalyserna skrivs av brandingenjörer med erfarenhet från räddningstjänst och industri.", "ikon": "skola"},
+    {"titel": "Auktorisation från Elsäkerhetsverket", "text": "Auktorisation AL från Elsäkerhetsverket och egenkontrollprogram för alla installationer.", "ikon": "blixt"},
+    {"titel": "Brandlarmsbehörighet", "text": "SBSC-certifierad anläggarfirma med egen certifierad ingenjör brandlarm.", "ikon": "skold"},
+    {"titel": "Riskanalys av brandingenjör", "text": "Riskanalyserna skrivs av brandingenjörer med erfarenhet från räddningstjänst och industri.", "ikon": "skola"},
     {"titel": "Heta arbeten och ESA", "text": "Alla tekniker har certifikat för heta arbeten och elsäkerhetsutbildning enligt ESA.", "ikon": "verktyg"}
   ],
   "kunder": ["Älvsbacka Energilager", "Skelleftebuss Depå", "Byske Åkeri", "Bolidens Lagerhotell", "Degerbyns Återvinning", "Brf Norrböle Park", "Kåge Solkraft"],

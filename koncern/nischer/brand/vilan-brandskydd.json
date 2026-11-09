@@ -6,7 +6,7 @@
   "kortnamn": "Vilan",
   "slug": "vilan-brandskydd",
   "typ": "Brandskydd för vård och omsorg i Skaraborg",
-  "tagline": "För dem som inte springer",
+  "tagline": "Brandskydd för vården",
   "slogan": "Vi bygger brandskydd för äldreboenden, LSS-bostäder och hemtjänstens brukare – människor som inte kan ta sig ut själva när det brinner.",
   "hero_rubrik": "De flesta som dör i bränder bor hemma",
   "hero_text": "Spisvakter, boendesprinkler, brandsäkra textilier och nattövningar för vårdpersonal. Vi arbetar med kommuner och privata vårdgivare i hela Skaraborg.",
@@ -34,8 +34,8 @@
   ],
   "bolag": [
     {"namn": "Hemmet", "segment": "Ordinärt boende", "rubrik": "Sex riskbedömare med vårdbakgrund", "text": "Riskbedömarna gör omkring 1 600 hembesök om året tillsammans med hemtjänsten i Skaraborgs kommuner.", "tagg": "hem"},
-    {"namn": "Installation", "segment": "Boenden och hem", "rubrik": "Elektriker som knackar försiktigt", "text": "Tio tekniker installerar spisvakter, sprinkler och brandlarm – ofta hos personer med demenssjukdom, och alltid i lugnt tempo.", "tagg": "brand"},
-    {"namn": "Utbildning", "segment": "Personal och anhöriga", "rubrik": "Övningar när det är som mörkast", "text": "Fyra instruktörer, varav två sjuksköterskor, håller nattövningar och kurser för vårdpersonal.", "tagg": "people"}
+    {"namn": "Teknikerna", "segment": "Boenden och hem", "rubrik": "Elektriker som knackar försiktigt", "text": "Tio tekniker installerar spisvakter, sprinkler och brandlarm – ofta hos personer med demenssjukdom, och alltid i lugnt tempo.", "tagg": "brand"},
+    {"namn": "Övning och kurs", "segment": "Personal och anhöriga", "rubrik": "Övningar när det är som mörkast", "text": "Fyra instruktörer, varav två sjuksköterskor, håller nattövningar och kurser för vårdpersonal.", "tagg": "people"}
   ],
   "berattelser": [
     {"rubrik": "Spisvakten som stoppade en brand i Tidaholm", "text": "En kastrull med olja lämnades på plattan. Spisvakten stängde av strömmen efter fyra minuter.", "tagg": "hem"},
@@ -53,8 +53,8 @@
     {"namn": "Äldreboendet Ekbacken", "ort": "Skövde", "typ": "Nattövning och rutiner", "ar": "2026", "text": "Två nattövningar per år och nya rutiner för en avdelning med 16 boende.", "tagg": "people"},
     {"namn": "Gruppbostaden Solgläntan", "ort": "Lidköping", "typ": "LSS-boende", "ar": "2025", "text": "Robust brandlarm, boendesprinkler och individuella utrymningsplaner för sex boende.", "tagg": "bostad"},
     {"namn": "Mobil sprinkler i Hjo", "ort": "Hjo", "typ": "Ordinärt boende", "ar": "2025", "text": "Tolv mobila sprinklerskåp hos brukare som röker i sängen eller fåtöljen.", "tagg": "brand"},
-    {"namn": "Vårdboendet Hertig Johan", "ort": "Falköping", "typ": "Boendesprinkler", "ar": "2025", "text": "Sprinkler i 48 lägenheter under pågående drift, en korridor i taget.", "tagg": "brand"},
-    {"namn": "Demensboendet Lugnås", "ort": "Mariestad", "typ": "Brandcellsgränser", "ar": "2024", "text": "Nya dörrstängare med magnethållare som släpper vid larm i alla 32 rum.", "tagg": "bygg"}
+    {"namn": "Vårdboendet Hertig Johan", "ort": "Falköping", "typ": "Sprinkler i lägenheterna", "ar": "2025", "text": "Sprinkler i 48 lägenheter under pågående drift, en korridor i taget.", "tagg": "brand"},
+    {"namn": "Demensboendet Lugnås", "ort": "Mariestad", "typ": "Dörrstängare och brandceller", "ar": "2024", "text": "Nya dörrstängare med magnethållare som släpper vid larm i alla 32 rum.", "tagg": "bygg"}
   ],
   "process": [
     {"titel": "Hembesök", "text": "En riskbedömare med vårdbakgrund besöker brukaren tillsammans med hemtjänsten.", "tagg": "hem"},
@@ -73,7 +73,7 @@
     "jobb": [["Riskbedömare brandskydd, vårdbakgrund", "Skövde"], ["Tekniker spisvakt och sprinkler", "Lidköping"], ["Instruktör nattövningar", "Skövde"]]
   },
   "kultur": "Varje ny medarbetare följer med hemtjänsten en hel dag innan första egna uppdraget – för att förstå vems hem man går in i.",
-  "citat": {"text": "Brandskydd handlar i grunden om hur många sekunder en människa har på sig. För en 92-åring med rullator är det inte många. Det är dem vi bygger för.", "namn": "Maria Gunnarsson", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Brandskydd handlar i grunden om hur många sekunder en människa har på sig. För en 92-åring med rullator är det inte många. Det är dem vi bygger för.", "namn": "Maria Gunnarsson", "roll": "Grundare, distriktssköterska", "tagg": "people"},
   "omdomen": [
     {"text": "Pappa glömmer plattan flera gånger i veckan. Sedan spisvakten kom sover jag på nätterna igen.", "namn": "Lena H.", "ort": "Tidaholm"},
     {"text": "Nattövningen var obehaglig på rätt sätt. Vi upptäckte att evakueringsmadrasserna stod inlåsta, och det har vi ändrat.", "namn": "Sara K.", "ort": "Skövde"},
@@ -88,10 +88,10 @@
     ["Vilka kommuner arbetar ni i?", "Alla kommuner i Skaraborg. Utbildningar och nattövningar håller vi även i resten av Västra Götaland."]
   ],
   "certifikat": [
-    {"titel": "Anläggarfirma brandlarm", "text": "Certifierade för projektering och installation av brandlarm i vårdbyggnader enligt SBF 110.", "ikon": "skold"},
+    {"titel": "Brandlarm i vårdmiljö", "text": "Certifierade för projektering och installation av brandlarm i vårdbyggnader enligt SBF 110.", "ikon": "skold"},
     {"titel": "Boendesprinkler SS 883001", "text": "Installation av boendesprinkler enligt svensk standard, både fast och mobil.", "ikon": "vatten"},
     {"titel": "Legitimerad vårdpersonal", "text": "Två legitimerade sjuksköterskor leder riskbedömningarna och nattövningarna.", "ikon": "vard"},
-    {"titel": "Auktoriserad elinstallatör", "text": "Spisvakter och fast utrustning installeras av elektriker med auktorisation från Elsäkerhetsverket.", "ikon": "blixt"}
+    {"titel": "Behörig elinstallation", "text": "Spisvakter och fast utrustning installeras av elektriker med auktorisation från Elsäkerhetsverket.", "ikon": "blixt"}
   ],
   "kunder": ["Skövde kommun, hemtjänsten", "Äldreboendet Ekbacken", "Gruppbostaden Solgläntan", "Hjo Omsorg", "Vårdboendet Hertig Johan", "Demensboendet Lugnås", "Tidaholms Trygghetslarm", "Mariestads Hemtjänst"],
   "nyheter": [

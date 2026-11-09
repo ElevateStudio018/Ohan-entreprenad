@@ -20,7 +20,7 @@
     {"titel": "Nödbelysning", "ikon": "lampa", "href": "verksamhet.html", "text": "Armaturer som tänds på en halv sekund och lyser i minst en timme vid strömavbrott."},
     {"titel": "Utrymningsskyltar", "ikon": "pil", "href": "verksamhet.html", "text": "Genomlysta och efterlysande skyltar placerade efter siktlinjer, inte efter vana."},
     {"titel": "Centralbatterisystem", "ikon": "laddning", "href": "verksamhet.html", "text": "Ett batteriskåp för hela byggnaden med automatisk test varje vecka."},
-    {"titel": "Utrymningslarm", "ikon": "megafon", "href": "verksamhet.html", "text": "Talat larm, ringklockor och blixtljus som når alla i lokalen."},
+    {"titel": "Talat utrymningslarm", "ikon": "megafon", "href": "verksamhet.html", "text": "Talat larm, ringklockor och blixtljus som når alla i lokalen."},
     {"titel": "Ledstråk i golv", "ikon": "vag", "href": "verksamhet.html", "text": "Lågt placerad markering som syns även när röken ligger under taket."},
     {"titel": "Orienteringsritningar", "ikon": "karta", "href": "verksamhet.html", "text": "Utrymningsplaner ritade av oss, med rätt vy från platsen där de sitter."},
     {"titel": "Årlig funktionstest", "ikon": "kalender", "href": "verksamhet.html", "text": "Fullängdstest av varje armatur och batteribyte innan kapaciteten tar slut."},
@@ -29,11 +29,11 @@
   "affarsomraden": [
     {"titel": "Nödbelysning och batterier", "text": "Vi väljer mellan armaturer med egna batterier och centralbatterisystem efter byggnadens storlek och hur testerna ska skötas. I större anläggningar sparar ett centralt system hundratals batteribyten.", "text2": "Alla system dimensioneras enligt SS-EN 1838 och provas enligt SS-EN 50172.", "tagg": "el"},
     {"titel": "Vägledande markering", "text": "En skylt som sitter bakom en reklampelare hjälper ingen. Vi går lokalen med ritningen i handen, sätter oss på huk där röken skulle ligga och placerar skyltar och ledstråk därefter.", "text2": "Efterlysande markeringar laddas av vanlig belysning och kräver ingen ström alls.", "tagg": "brand"},
-    {"titel": "Utrymningslarm", "text": "I en verkstad med hörselskydd hörs ingen ringklocka. Vi kombinerar talat meddelande, sirener och blixtljus så att signalen når fram oavsett buller eller hörselnedsättning.", "text2": "Larmet kopplas till befintligt brandlarm eller fungerar fristående med egna knappar.", "tagg": "industri"},
+    {"titel": "Larm som alla uppfattar", "text": "I en verkstad med hörselskydd hörs ingen ringklocka. Vi kombinerar talat meddelande, sirener och blixtljus så att signalen når fram oavsett buller eller hörselnedsättning.", "text2": "Larmet kopplas till befintligt brandlarm eller fungerar fristående med egna knappar.", "tagg": "industri"},
     {"titel": "Test, register och service", "text": "Nödljus som inte testas fungerar sällan den dag det behövs. Vi testar varje armatur en gång om året med full urladdning och för in resultatet i ert register.", "text2": "Batterier byts innan de tappar kapacitet, inte efter att de har gjort det.", "tagg": "brand"}
   ],
   "bolag": [
-    {"namn": "Installation", "segment": "Nybyggnad och ombyggnad", "rubrik": "Åtta elektriker med utrymning som yrke", "text": "Installationsavdelningen monterar runt 3 500 armaturer och skyltar om året, ofta som underentreprenör till elfirman.", "tagg": "el"},
+    {"namn": "Installationsavdelningen", "segment": "Nybyggnad och ombyggnad", "rubrik": "Åtta elektriker med utrymning som yrke", "text": "Installationsavdelningen monterar runt 3 500 armaturer och skyltar om året, ofta som underentreprenör till elfirman.", "tagg": "el"},
     {"namn": "Service och test", "segment": "Årliga funktionstester", "rubrik": "22 000 armaturer i registret", "text": "Fyra servicetekniker kör de årliga testerna, oftast kvällstid när lokalerna är tomma.", "tagg": "brand"},
     {"namn": "Ritkontoret", "segment": "Projektering och planer", "rubrik": "Hanna och två ritare", "text": "Här projekteras nödljuset och här ritas orienteringsritningarna, för hand i skiss och sedan i CAD.", "tagg": "kontor"}
   ],
@@ -51,7 +51,7 @@
   "projekt": [
     {"namn": "Motorverkstaden Stallbacka", "ort": "Trollhättan", "typ": "Centralbatterisystem", "ar": "2026", "text": "Nödbelysning i en verkstadshall på 18 000 kvadratmeter med två centralbatterier.", "tagg": "industri", "status": "Pågående"},
     {"namn": "Folkteatern vid Kanalen", "ort": "Trollhättan", "typ": "Ledstråk och skyltar", "ar": "2025", "text": "Efterlysande markering i salong och foajé utan att störa ljussättningen.", "tagg": "interior"},
-    {"namn": "Torpaskolan", "ort": "Vänersborg", "typ": "Utrymningslarm", "ar": "2025", "text": "Talat larm och blixtljus i alla klassrum, med meddelanden anpassade för elever med hörselnedsättning.", "tagg": "brand"},
+    {"namn": "Torpaskolan", "ort": "Vänersborg", "typ": "Larm med blixtljus", "ar": "2025", "text": "Talat larm och blixtljus i alla klassrum, med meddelanden anpassade för elever med hörselnedsättning.", "tagg": "brand"},
     {"namn": "Handelsplats Torp", "ort": "Uddevalla", "typ": "Nödbelysning i köpcentrum", "ar": "2025", "text": "Byte av 640 armaturer och nya skyltar efter att butikerna byggts om.", "tagg": "stad"},
     {"namn": "Åmåls Bryggeri", "ort": "Åmål", "typ": "Orienteringsritningar", "ar": "2024", "text": "Utrymningsplaner på svenska och engelska för 28 platser i produktionen.", "tagg": "kontor"},
     {"namn": "Brf Slussgränd", "ort": "Trollhättan", "typ": "Trapphusbelysning", "ar": "2024", "text": "Nödljus i sju trapphus och källargångar i ett hus från 1958.", "tagg": "bostad"}
@@ -59,7 +59,7 @@
   "process": [
     {"titel": "Kvällsvandring", "text": "Vi släcker all ordinarie belysning och går utrymningsvägarna med en luxmätare.", "tagg": "brand"},
     {"titel": "Ritning och förslag", "text": "Ni får en ritning med varje armatur och skylt utmärkt och ett fast pris per punkt.", "tagg": "kontor"},
-    {"titel": "Montage", "text": "Våra elektriker monterar, ofta på kvällar och helger för att inte störa verksamheten.", "tagg": "el"},
+    {"titel": "Montage kvällstid", "text": "Våra elektriker monterar, ofta på kvällar och helger för att inte störa verksamheten.", "tagg": "el"},
     {"titel": "Test och register", "text": "Varje armatur får ett nummer, testas med full urladdning och förs in i registret.", "tagg": "brand"}
   ],
   "hallbarhet": {
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Elektriker som vill göra något mer än att dra kabel",
     "text": "Hos oss lär du dig projektera och testa nödljus och utrymningslarm, och du får ett eget kundregister att ansvara för. Kvällsarbete ersätts med ledig tid.",
-    "jobb": [["Elektriker nödbelysning", "Trollhättan"], ["Servicetekniker", "Uddevalla"]]
+    "jobb": [["Elektriker nödbelysning", "Trollhättan"], ["Servicetekniker nödljus", "Uddevalla"]]
   },
   "kultur": "Sven-Olof är 79 år och kommer fortfarande in varje måndag för att gå igenom veckans ritningar.",
   "citat": {"text": "Pappa sa alltid att ingen tackar för en nödlampa. Men alla som någon gång stått i ett mörkt trapphus vet hur mycket den är värd.", "namn": "Hanna Karlsson Berg", "roll": "Vd, andra generationen", "tagg": "people"},
@@ -88,7 +88,7 @@
     ["Gör ni utrymningsplaner?", "Ja, vi ritar orienteringsritningar som visar rätt vy från där de sitter, med släckare, larmknappar och återsamlingsplats utmärkta."]
   ],
   "certifikat": [
-    {"titel": "Auktoriserad elinstallatör", "text": "Auktorisation AL från Elsäkerhetsverket och ett registrerat egenkontrollprogram.", "ikon": "blixt"},
+    {"titel": "Elinstallatör, auktorisation AL", "text": "Auktorisation AL från Elsäkerhetsverket och ett registrerat egenkontrollprogram.", "ikon": "blixt"},
     {"titel": "Anläggarfirma utrymningslarm", "text": "Certifierade för projektering och installation av brand- och utrymningslarm enligt SBF 110.", "ikon": "skold"},
     {"titel": "Nödbelysning enligt standard", "text": "Dimensionering enligt SS-EN 1838 och test enligt SS-EN 50172 med protokoll per armatur.", "ikon": "lampa"},
     {"titel": "ID06 och kollektivavtal", "text": "Alla montörer har ID06 och anställning enligt Installationsavtalet.", "ikon": "folk"}

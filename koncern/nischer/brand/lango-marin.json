@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Fartygsservice", "segment": "Ombord", "rubrik": "Fem tekniker med sjöerfarenhet", "text": "Teknikerna går ombord dygnet runt när fartygen ligger i hamn och har tillstånd att arbeta på alla kajer i Karlskrona och Karlshamn.", "tagg": "bat"},
-    {"namn": "Verkstaden", "segment": "Handelshamnen", "rubrik": "Flaskor, släckare och lager", "text": "Verkstaden väger och fyller släckare, provar flaskor och har ett lager med reservflaskor för fasta system.", "tagg": "maskin"},
+    {"namn": "Flaskverkstaden", "segment": "Handelshamnen", "rubrik": "Flaskor, släckare och lager", "text": "Verkstaden väger och fyller släckare, provar flaskor och har ett lager med reservflaskor för fasta system.", "tagg": "maskin"},
     {"namn": "Hamn och marina", "segment": "Land och brygga", "rubrik": "Bryggor, hallar och varv", "text": "Två tekniker sköter brandskyddet i marinor, båtklubbar och på varvet i Karlskrona.", "tagg": "brand"}
   ],
   "berattelser": [
@@ -44,14 +44,14 @@
   ],
   "nyckeltal": [
     {"varde": "1999", "enhet": "", "etikett": "Startade i ett båthus på Långö"},
-    {"varde": "64", "enhet": "fartyg", "etikett": "Under serviceavtal"},
+    {"varde": "64", "enhet": "fartyg", "etikett": "Med avtal hos oss"},
     {"varde": "11", "enhet": "hamnar", "etikett": "Marinor och båtklubbar"},
     {"varde": "24/7", "enhet": "", "etikett": "När fartyget ligger vid kaj"}
   ],
   "projekt": [
-    {"namn": "Färjan på Gdyniarutten", "ort": "Karlskrona", "typ": "Årlig service", "ar": "2026", "text": "Service av brandlarm, CO2-system och 260 släckare under nattliggen i Verkö hamn.", "tagg": "bat", "status": "Pågående"},
+    {"namn": "Färjan på Gdyniarutten", "ort": "Karlskrona", "typ": "Service under nattligge", "ar": "2026", "text": "Service av brandlarm, CO2-system och 260 släckare under nattliggen i Verkö hamn.", "tagg": "bat", "status": "Pågående"},
     {"namn": "Fiskebåten Hanö Bris", "ort": "Sölvesborg", "typ": "Nytt brandlarm", "ar": "2025", "text": "Brandlarmscentral, detektorer i maskinrum och lokal vattendimma över huvudmotorn.", "tagg": "bat"},
-    {"namn": "Skärgårdstrafiken", "ort": "Karlskrona", "typ": "Serviceavtal", "ar": "2025", "text": "Åtta skärgårdsbåtar med samlat avtal och service under vinteruppläggningen.", "tagg": "bat"},
+    {"namn": "Skärgårdstrafiken", "ort": "Karlskrona", "typ": "Avtal för hela flottan", "ar": "2025", "text": "Åtta skärgårdsbåtar med samlat avtal och service under vinteruppläggningen.", "tagg": "bat"},
     {"namn": "Vinterhall Ronneby Hamn", "ort": "Ronneby", "typ": "Brandskydd i båthall", "ar": "2025", "text": "Släckarstationer, laddregler och utrymning för 180 båtar.", "tagg": "brand"},
     {"namn": "Arbetsfartyg Stilleryd", "ort": "Karlshamn", "typ": "Byte av CO2-flaskor", "ar": "2024", "text": "Omprovning av 18 flaskor med tillfälliga ersättningsflaskor under tiden.", "tagg": "maskin"},
     {"namn": "Gästhamnen Kristianopel", "ort": "Kristianopel", "typ": "Bryggstationer", "ar": "2024", "text": "Sex släckarstationer på bryggorna och brandskydd i servicehuset.", "tagg": "brand"}
@@ -70,13 +70,13 @@
   "karriar": {
     "rubrik": "Har du jobbat till sjöss? Vi behöver dig i land",
     "text": "Erfarenhet från maskinrum eller däck är vår viktigaste merit. Vi lär dig brandskyddet, betalar certifieringar och planerar schemat efter fartygens tider.",
-    "jobb": [["Servicetekniker fartyg", "Karlskrona"], ["Verkstadstekniker släckare", "Karlskrona"]]
+    "jobb": [["Servicetekniker fartyg", "Karlskrona"], ["Tekniker, flask- och släckarverkstad", "Karlskrona"]]
   },
   "kultur": "Varje fredag äter vi lunch i båthuset på Långö där allt började – Björn står fortfarande för sillen i december.",
   "citat": {"text": "På land kommer brandbilen efter tio minuter. Ute på Östersjön är det besättningen och utrustningen ombord som gäller. Den utrustningen ska vi stå för.", "namn": "Björn Ahlgren", "roll": "Grundare, före detta maskinchef", "tagg": "bat"},
   "omdomen": [
     {"text": "Fartyget kom in 22.30 och gick 06.15. När vi kastade loss hade vi signerade protokoll för hela brandskyddet.", "namn": "Tomasz W.", "ort": "Karlskrona"},
-    {"text": "Björn förstod direkt vad vi behövde på en fiskebåt med tre man. Inget onödigt, men allt som behövs.", "namn": "Per-Olof N.", "ort": "Sölvesborg"},
+    {"text": "Björn förstod direkt vad vi behövde på en fiskebåt med tre man. Inget onödigt, men allt som behövs.", "namn": "Per-Olof J.", "ort": "Sölvesborg"},
     {"text": "Vinterhallen har aldrig varit så ordnad. Båtägarna fick en lapp med laddregler som alla faktiskt följer.", "namn": "Annika L.", "ort": "Ronneby"}
   ],
   "faq": [
@@ -90,7 +90,7 @@
   "certifikat": [
     {"titel": "Godkänd servicestation", "text": "Godkända av två klassificeringssällskap för service av fasta släcksystem ombord.", "ikon": "skold"},
     {"titel": "Marin utrustning", "text": "Vi installerar bara rattmärkt utrustning enligt direktivet om marin utrustning.", "ikon": "bat"},
-    {"titel": "Servicetekniker släckare", "text": "Certifierade för underhåll av handbrandsläckare enligt SS 3656, både för land och fartyg.", "ikon": "eld"},
+    {"titel": "Släckarcertifikat", "text": "Certifierade för underhåll av handbrandsläckare enligt SS 3656, både för land och fartyg.", "ikon": "eld"},
     {"titel": "Hamnskydd och säkerhet", "text": "Tekniker med säkerhetsprövning för arbete i hamnområden med hamnskyddskrav.", "ikon": "las"}
   ],
   "kunder": ["Östersjölinjen Färjor", "Blekinge Skärgårdstrafik", "Fiskeföretaget Hanö Bris", "Ronneby Hamn & Marina", "Stilleryds Arbetsfartyg", "Kristianopels Gästhamn", "Karlskrona Varvsservice", "Sölvesborgs Båtklubb"],
