@@ -17,12 +17,12 @@
   ],
   "vagval_rubrik": "Vad ska göras med taket?",
   "tjanster": [
-    {"titel": "Takbyte på villa", "ikon": "hus", "href": "verksamhet.html", "text": "Nytt underlag, läkt och pannor i betong eller lertegel på sju till tio arbetsdagar."},
-    {"titel": "Omläggning av tegel", "ikon": "sten", "href": "verksamhet.html", "text": "Vi lyfter av teglet, byter underlag och lägger tillbaka de pannor som är hela."},
+    {"titel": "Villatak på 7–10 dagar", "ikon": "hus", "href": "verksamhet.html", "text": "Nytt underlag, läkt och pannor i betong eller lertegel på sju till tio arbetsdagar."},
+    {"titel": "Tegelomläggning", "ikon": "sten", "href": "verksamhet.html", "text": "Vi lyfter av teglet, byter underlag och lägger tillbaka de pannor som är hela."},
     {"titel": "Plåttak", "ikon": "hamare", "href": "verksamhet.html", "text": "Falsad plåt och plåtpannor med egna plåtslagare, även på sjöbodar och uthus."},
     {"titel": "Radhus och brf", "ikon": "folk", "href": "verksamhet.html", "text": "Hela längor och föreningar med två lag och en gemensam projektplan."},
-    {"titel": "Takavvattning", "ikon": "vatten", "href": "verksamhet.html", "text": "Nya hängrännor och stuprör anpassade för kustens salta vindar."},
-    {"titel": "Takskydd", "ikon": "skold", "href": "verksamhet.html", "text": "Takstegar, glidskydd och snörasskydd enligt kraven för sotning."},
+    {"titel": "Rännor för kustklimat", "ikon": "vatten", "href": "verksamhet.html", "text": "Nya hängrännor och stuprör anpassade för kustens salta vindar."},
+    {"titel": "Stegar och snörasskydd", "ikon": "skold", "href": "verksamhet.html", "text": "Takstegar, glidskydd och snörasskydd enligt kraven för sotning."},
     {"titel": "Takskolan", "ikon": "skola", "href": "karriar.html", "text": "Tvåårig lärlingsutbildning med lön från första dagen."},
     {"titel": "Boka besiktning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Kostnadsfri besiktning och offert inom en vecka."}
   ],
@@ -46,7 +46,7 @@
   "nyckeltal": [
     {"varde": "46", "enhet": "lärlingar", "etikett": "Utbildade sedan 2017"},
     {"varde": "11 av 28", "enhet": "", "etikett": "Anställda är kvinnor"},
-    {"varde": "180", "enhet": "tak/år", "etikett": "Villor och radhus"},
+    {"varde": "180", "enhet": "tak/år", "etikett": "Lagda på villor och radhus"},
     {"varde": "10 år", "enhet": "", "etikett": "Garanti på arbetet"}
   ],
   "projekt": [
@@ -58,10 +58,10 @@
     {"namn": "Brf Pantarholmen", "ort": "Karlskrona", "typ": "Takbyte, 60 lägenheter", "ar": "2026", "text": "Två punkthus med nytt plåttak – start i april 2027.", "tagg": "bostad", "status": "Planerat"}
   ],
   "process": [
-    {"titel": "Besiktning", "text": "Lagledaren som ska lägga ditt tak kommer ut och besiktigar, inte en säljare.", "tagg": "hem"},
+    {"titel": "Besök av lagledaren", "text": "Lagledaren som ska lägga ditt tak kommer ut och besiktigar, inte en säljare.", "tagg": "hem"},
     {"titel": "Offert med tidplan", "text": "Inom en vecka får du pris, material och vilka veckor laget kan börja.", "tagg": "kontor"},
     {"titel": "Laget på taket", "text": "Ett lag på tre till fyra personer, ofta med en lärling som lär sig under handledning.", "tagg": "tak"},
-    {"titel": "Slutbesiktning", "text": "En annan lagledare än den som lade taket gör slutkontrollen, med foton i protokollet.", "tagg": "people"}
+    {"titel": "Kontroll av en kollega", "text": "En annan lagledare än den som lade taket gör slutkontrollen, med foton i protokollet.", "tagg": "people"}
   ],
   "hallbarhet": {
     "rubrik": "Branschen behöver fler takläggare än den utbildar",
@@ -74,7 +74,7 @@
     "jobb": [["Lärling i Takskolan", "Karlskrona"], ["Takläggare", "Ronneby"], ["Plåtslagare", "Karlskrona"]]
   },
   "kultur": "Varje lärling får en handledare och en egen tumstock med sitt namn – den gamla årskullens lärlingar delar ut dem.",
-  "citat": {"text": "Jag fick höra att tjejer inte lägger tak. Nu har vi utbildat fler takläggare än någon annan firma i länet, och fyra av tio som gått skolan är kvinnor.", "namn": "Emma Nilsson", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Jag fick höra att tjejer inte lägger tak. Nu har vi utbildat fler takläggare än någon annan firma i länet, och fyra av tio som gått skolan är kvinnor.", "namn": "Emma Nilsson", "roll": "Grundare, vd och lagledare", "tagg": "people"},
   "omdomen": [
     {"text": "Lagledaren som besiktigade var samma person som stod på taket en vecka senare. Hon visste precis vad vi pratat om.", "namn": "Kristina J.", "ort": "Nättraby"},
     {"text": "42 radhus på sex veckor, och vi fick sms dagen innan de började på varje länga. Inga klagomål från någon boende.", "namn": "Brf Hästö Park, styrelsen", "ort": "Karlskrona"},
@@ -85,13 +85,13 @@
     ["Hur lång tid tar ett takbyte på en villa?", "Sju till tio arbetsdagar för ett normalt villatak på 150–200 m², beroende på väder och material."],
     ["Vilka material rekommenderar ni nära havet?", "Lertegel eller betong klarar saltvinden bra. Väljer du plåt rekommenderar vi tjockare beläggning och rostfria infästningar."],
     ["Hur ansöker man till Takskolan?", "Ansökan öppnar i mars och utbildningen startar i augusti. Du skickar ett kort brev om dig själv och kommer på en provdag på taket."],
-    ["Gör ni ROT-avdrag?", "Ja, vi drar av ROT direkt på fakturan och sköter ansökan hos Skatteverket."],
+    ["Hur fungerar ROT hos er?", "Ja, vi drar av ROT direkt på fakturan och sköter ansökan hos Skatteverket."],
     ["Arbetar ni i hela Blekinge?", "Ja, från Sölvesborg i väster till Jämjö i öster, och ibland i norra Kalmar län om vi har lag i närheten."]
   ],
   "certifikat": [
     {"titel": "BYN-godkänd lärlingsplan", "text": "Takskolan följer Byggnadsindustrins Yrkesnämnds lärlingsplan för takläggare.", "ikon": "skola"},
-    {"titel": "Byggföretagen", "text": "Medlemmar sedan 2015 med kollektivavtal för alla anställda och lärlingar.", "ikon": "folk"},
-    {"titel": "Heta arbeten", "text": "Alla takläggare har giltigt certifikat från Brandskyddsföreningen.", "ikon": "eld"},
+    {"titel": "Kollektivavtal via Byggföretagen", "text": "Medlemmar sedan 2015 med kollektivavtal för alla anställda och lärlingar.", "ikon": "folk"},
+    {"titel": "Heta arbeten från dag ett", "text": "Kursen går före första dagen på ett papptak, och certifikatet förnyas vart femte år.", "ikon": "eld"},
     {"titel": "Fallskydd", "text": "Utbildning i fallskydd och räddning för alla innan de går upp på ett tak första gången.", "ikon": "hjalm"}
   ],
   "certifikat_rubrik": "En godkänd lärlingsplan och alla behörigheter",
@@ -104,7 +104,7 @@
     ["2026-03-02", "Ansökan till Takskolan öppnar", "Vi tar in sex lärlingar till hösten 2026 – inga förkunskaper krävs.", "people"]
   ],
   "kontakt": {"adress": "Vämö industriväg 4", "postnr": "371 47", "ort": "Karlskrona", "telefon": "070-174 06 77", "epost": "hej@trossotak.se", "orgnr": ""},
-  "oppettider": "Mån–fre 7–16",
+  "oppettider": "Mån–fre 7–16.30",
   "omrade": "Hela Blekinge, från Sölvesborg till Jämjö",
   "fot_cta": "Boka en besiktning – eller sök till nästa årskull i Takskolan.",
   "text": {
@@ -128,9 +128,9 @@
     "boka_knapp": "Skicka",
     "bolag_etikett": "Lag och skola",
     "bolag_rubrik": "Tre avdelningar och en skola",
-    "certifikat_etikett": "Behörigheter",
-    "logos_etikett": "Föreningar",
-    "medarbetare": "Lagen",
+    "certifikat_etikett": "Papper i ordning",
+    "logos_etikett": "Våra föreningar",
+    "medarbetare": "Takläggare och lärlingar",
     "ny_rubrik": "Nytt från Vämö",
     "panel_etikett": "Takskolan",
     "panel_knapp": "Om Takskolan",

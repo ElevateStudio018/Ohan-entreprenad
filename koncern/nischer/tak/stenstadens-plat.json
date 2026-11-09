@@ -19,7 +19,7 @@
   "tjanster": [
     {"titel": "Omläggning av plåttak", "ikon": "hamare", "href": "verksamhet.html", "text": "Dubbelfalsad plåt på stenhus, med ny råspont där den gamla har gett upp."},
     {"titel": "Tornhuvar och kupoler", "ikon": "stjarna", "href": "verksamhet.html", "text": "Uppmätning, mallar och handdrivna detaljer i koppar eller lackerad stålplåt."},
-    {"titel": "Takkupor", "ikon": "hus", "href": "verksamhet.html", "text": "Renovering av befintliga kupor och nya kupor vid vindsinredning."},
+    {"titel": "Kupor på stenhus", "ikon": "hus", "href": "verksamhet.html", "text": "Renovering av befintliga kupor och nya kupor vid vindsinredning."},
     {"titel": "Hängställningar", "ikon": "kran", "href": "verksamhet.html", "text": "Ställningar som hänger från taket när trottoaren måste vara öppen."},
     {"titel": "Bygglov och TA-planer", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi söker bygglov, ansöker om gatuavstängning och tar fram trafikanordningsplan."},
     {"titel": "Fönsterbleck och listverk", "ikon": "pensel", "href": "verksamhet.html", "text": "Plåtarbeten på fasaden, från gesimser till fönsterbleck på alla våningar."},
@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Taklaget", "segment": "Omläggning och takkupor", "rubrik": "Tjugo plåtslagare på hög höjd", "text": "Fyra lag om fem personer som turas om mellan Sundsvall och Härnösand. Varje lag har en delägare som arbetsledare.", "tagg": "tak"},
-    {"namn": "Verkstaden", "segment": "Handdrivning och ornament", "rubrik": "Där tornhuvarna lagas", "text": "Sex plåtslagare i verkstaden på Bankgatan, med maskiner för valsning, falsning och drivning av koppar.", "tagg": "svets"},
+    {"namn": "Drivverkstaden", "segment": "Handdrivning och ornament", "rubrik": "Där tornhuvarna lagas", "text": "Sex plåtslagare i verkstaden på Bankgatan, med maskiner för valsning, falsning och drivning av koppar.", "tagg": "svets"},
     {"namn": "Ställning och logistik", "segment": "Ställningar, kran och trafik", "rubrik": "Gatan ska fungera ändå", "text": "Fem montörer och en trafikplanerare som sköter ställningar, mobilkranar och avstängningar.", "tagg": "infra"},
     {"namn": "Kontoret", "segment": "Kalkyl, bygglov och ekonomi", "rubrik": "Pappren som ska vara klara", "text": "Fyra tjänstemän som räknar, söker lov och håller kontakten med förvaltare och styrelser.", "tagg": "kontor"}
   ],
@@ -61,7 +61,7 @@
     {"titel": "Takvandring", "text": "En delägare och förvaltaren går över taket och vinden. Inom två veckor får ni en åtgärdslista med kostnad.", "tagg": "tak"},
     {"titel": "Lov och trafik", "text": "Vi söker bygglov om kulören ändras och lämnar in TA-plan till kommunen åtta veckor före start.", "tagg": "kontor"},
     {"titel": "Etapper om 150 m²", "text": "Taket rivs och läggs i delar som hinner bli täta samma dag. De boende får veckoschema i trapphuset.", "tagg": "stad"},
-    {"titel": "Slutbesiktning", "text": "Fristående besiktningsman, fotobok över alla etapper och tio års garanti på arbetet.", "tagg": "people"}
+    {"titel": "Besiktning och garanti", "text": "Fristående besiktningsman, fotobok över alla etapper och tio års garanti på arbetet.", "tagg": "people"}
   ],
   "hallbarhet": {
     "rubrik": "Ett plåttak ska klara hundra år i stan",
@@ -74,7 +74,7 @@
     "jobb": [["Plåtslagare", "Sundsvall"], ["Ställningsmontör", "Sundsvall"], ["Plåtslagarlärling", "Härnösand"]]
   },
   "kultur": "Ägarmötet hålls varje år i verkstaden, och alla delägare har en röst – oavsett hur länge de varit med.",
-  "citat": {"text": "Vi äger firman tillsammans, så det är vår egen garanti vi skriver under. Ingen här vill komma tillbaka till ett tak som läcker.", "namn": "Lars Hellström", "roll": "Delägare och vd", "tagg": "people"},
+  "citat": {"text": "Vi äger firman tillsammans, så det är vår egen garanti vi skriver under. Ingen här vill komma tillbaka till ett tak som läcker.", "namn": "Lars Hellström", "roll": "Vd och en av tretton delägare", "tagg": "people"},
   "omdomen": [
     {"text": "Sex veckor med ställning över Storgatan och inte ett enda klagomål från butikerna. Trafikplanen var klar innan vi ens hunnit fråga.", "namn": "Annika B., förvaltare", "ort": "Sundsvall"},
     {"text": "De ritade av den gamla lanterninen bit för bit. Den ser ut som 1890, men läcker inte längre.", "namn": "Mattias O., fastighetschef", "ort": "Härnösand"},
@@ -86,13 +86,13 @@
     ["Vad kostar en hängställning jämfört med en vanlig?", "Ungefär 20–30 procent mer, men ni slipper avgift för upplåtelse av trottoar och butikerna behåller sina entréer."],
     ["Hur länge håller ett nytt plåttak?", "Med ommålning vart 20:e år räknar vi med minst 60 år för stål och över 100 år för koppar."],
     ["Lagar ni gamla tornhuvar eller gör ni nya?", "Vi lagar så mycket som går. Ofta kan stommen behållas och bara de skadade partierna drivas om."],
-    ["Arbetar ni på vintern?", "Takomläggningar gör vi april–oktober. På vintern lagar vi detaljer i verkstaden och tar hand om akuta skador."]
+    ["Lägger ni om tak under vintern?", "Takomläggningar gör vi april–oktober. På vintern lagar vi detaljer i verkstaden och tar hand om akuta skador."]
   ],
   "certifikat": [
-    {"titel": "Mästarbrev i plåtslageri", "text": "Fem av delägarna har mästarbrev från Plåt & Ventföretagen.", "ikon": "stjarna"},
+    {"titel": "Fem mästarbrev", "text": "Fem av delägarna har mästarbrev från Plåt & Ventföretagen.", "ikon": "stjarna"},
     {"titel": "Fallskydd och hängställning", "text": "Alla ställningsmontörer har utbildning för hängande och rullande ställningar.", "ikon": "hjalm"},
     {"titel": "Arbete på väg", "text": "Trafikplaneraren har utbildning för arbete på väg, nivå 2, och skriver våra TA-planer.", "ikon": "vag"},
-    {"titel": "Plåt- och ventilationsavtalet", "text": "Kollektivavtal för alla anställda, även för lärlingar.", "ikon": "folk"}
+    {"titel": "Kollektivavtal för plåt", "text": "Kollektivavtal för alla anställda, även för lärlingar.", "ikon": "folk"}
   ],
   "certifikat_rubrik": "Behörigheter för tak ovanför gatan",
   "kunder": ["Stenstadens Fastighets AB", "Brf Kyrkogatan 12", "Härnösands Rådhusfastigheter", "Timrå Hyresbostäder", "Brf Esplanaden Norra", "Selångers Församling", "Norrlandsgatans Affärshus"],
@@ -103,14 +103,14 @@
     ["2026-02-19", "Så söker ni bygglov för takbyte i Stenstaden", "Vad stadsbyggnadskontoret vill se och hur lång tid det brukar ta.", "kontor"]
   ],
   "kontakt": {"adress": "Bankgatan 21", "postnr": "852 31", "ort": "Sundsvall", "telefon": "070-174 06 15", "epost": "verkstaden@stenstadensplat.se", "orgnr": ""},
-  "oppettider": "Mån–fre 7–16",
+  "oppettider": "Verkstaden mån–fre 6.45–15.30",
   "omrade": "Sundsvall, Härnösand och Timrå",
   "fot_cta": "Boka en takvandring med en av delägarna – vi går upp tillsammans.",
   "text": {
     "hero_knapp": "Tak i stadsmiljö",
     "hero_lank": "Stenhus vi har lagt om",
     "kontakt_knapp": "Boka takvandring",
-    "vagval_etikett": "Plåtslageri",
+    "vagval_etikett": "Stadens plåtslageri",
     "ber_etikett": "Från Stenstaden",
     "ber_rubrik": "Uppe på taken i stan",
     "proj_etikett": "Hus",
@@ -119,7 +119,7 @@
     "process_etikett": "Från takvandring till besiktning",
     "process_rubrik": "En etapp i taget, tätt varje kväll",
     "hb_etikett": "Lång livslängd",
-    "omdomen_etikett": "Förvaltare och styrelser",
+    "omdomen_etikett": "Från förvaltningen",
     "omdomen_rubrik": "Butikerna höll öppet",
     "faq_rubrik": "Om takbyten i innerstan",
     "boka_rubrik": "Vilket hus gäller det?",
@@ -127,9 +127,9 @@
     "boka_knapp": "Skicka till kontoret",
     "bolag_etikett": "Firman",
     "bolag_rubrik": "Fyra lag, tretton ägare",
-    "certifikat_etikett": "Yrkesbevis",
-    "logos_etikett": "Uppdragsgivare",
-    "medarbetare": "Plåtslagarna",
+    "certifikat_etikett": "Mästare och montörer",
+    "logos_etikett": "Fastighetsägare",
+    "medarbetare": "Plåtslagare och delägare",
     "ny_rubrik": "Från verkstaden på Bankgatan",
     "panel_etikett": "Bli en av oss",
     "sida_bolag_ingress": "{kortnamn} är organiserat i {n} delar – och ägs av tretton av de anställda."

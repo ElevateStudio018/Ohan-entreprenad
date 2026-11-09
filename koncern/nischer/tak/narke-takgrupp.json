@@ -17,10 +17,10 @@
   ],
   "vagval_rubrik": "Var i länet bor du?",
   "tjanster": [
-    {"titel": "Takbyte på villa", "ikon": "hus", "href": "verksamhet.html", "text": "Betong, lertegel eller plåt – med det lokala laget som kunderna känt i årtionden."},
+    {"titel": "Nytt villatak", "ikon": "hus", "href": "verksamhet.html", "text": "Betong, lertegel eller plåt – med det lokala laget som kunderna känt i årtionden."},
     {"titel": "Brf-tak i hela länet", "ikon": "folk", "href": "verksamhet.html", "text": "Större föreningar får lag från flera bolag samtidigt, med en gemensam projektledare."},
-    {"titel": "Plåtslageri", "ikon": "hamare", "href": "verksamhet.html", "text": "Falsade tak, beslag och takavvattning från plåtverkstaden i Karlskoga."},
-    {"titel": "Papptak på industri", "ikon": "fabrik", "href": "verksamhet.html", "text": "Låglutande tak på verkstäder och lager längs E18 och E20."},
+    {"titel": "Plåt från Karlskoga", "ikon": "hamare", "href": "verksamhet.html", "text": "Falsade tak, beslag och takavvattning från plåtverkstaden i Karlskoga."},
+    {"titel": "Låglutande industritak", "ikon": "fabrik", "href": "verksamhet.html", "text": "Låglutande tak på verkstäder och lager längs E18 och E20."},
     {"titel": "Takfönster och kupor", "ikon": "sol", "href": "verksamhet.html", "text": "Montering och byte av takfönster i samband med omläggning."},
     {"titel": "Takservice", "ikon": "kalender", "href": "verksamhet.html", "text": "Rännrensning, besiktning och småreparationer på avtal eller per besök."},
     {"titel": "Sälj din takfirma", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Funderar du på att gå i pension? Vi tar ett förtroligt samtal utan förpliktelser."},
@@ -28,7 +28,7 @@
   ],
   "affarsomraden": [
     {"titel": "Villor och småhus", "text": "De flesta villaägare i Kumla, Lindesberg och Askersund ringer samma takfirma som deras föräldrar gjorde. Det vill vi fortsätta med, men med längre garantier och möjlighet att få pris via webben.", "text2": "Gruppens gemensamma inköp ger 8–12 procent lägre materialpriser än en enskild firma kan få.", "tagg": "hem"},
-    {"titel": "Föreningar och fastighetsbolag", "text": "Ett enskilt lag på fem personer kan inte ta en förening med 200 lägenheter. Tillsammans kan vi ställa tre lag på samma område och hålla en tidplan på åtta veckor.", "text2": "Kunden får ett kontrakt och en projektledare, oavsett hur många bolag som är inblandade.", "tagg": "bostad"},
+    {"titel": "Bostadsrätter och hyresvärdar", "text": "Ett enskilt lag på fem personer kan inte ta en förening med 200 lägenheter. Tillsammans kan vi ställa tre lag på samma område och hålla en tidplan på åtta veckor.", "text2": "Kunden får ett kontrakt och en projektledare, oavsett hur många bolag som är inblandade.", "tagg": "bostad"},
     {"titel": "Plåt och takavvattning", "text": "Karlskoga Plåtslageri tillverkar beslag och rännor åt hela gruppen. Det betyder att lagen i Lindesberg och Askersund slipper vänta på externa leverantörer.", "text2": "Verkstaden har två kantvikar och en egen leveransbil som kör länet runt varje dag.", "tagg": "svets"},
     {"titel": "Industri och kommunala lokaler", "text": "Verkstäder i Bergslagen och lager längs motorvägarna har låglutande tak med papp eller duk. Vi lägger nytt och sköter underhållet på avtal.", "text2": "Ramavtal med två av länets kommuner sedan 2022.", "tagg": "industri"}
   ],
@@ -71,10 +71,10 @@
   "karriar": {
     "rubrik": "Jobba i ett litet bolag med en stor grupp bakom",
     "text": "Du anställs i det lokala bolaget och jobbar med kollegorna på orten. Gruppen står för utbildning, friskvård, tjänstebilar och möjligheten att byta ort utan att byta arbetsgivare.",
-    "jobb": [["Takläggare", "Kumla"], ["Plåtslagare", "Karlskoga"], ["Lagledare", "Lindesberg"], ["Projektledare brf", "Örebro"]]
+    "jobb": [["Takläggare", "Kumla"], ["Plåtslagare", "Karlskoga"], ["Lagledare tak", "Lindesberg"], ["Projektledare brf", "Örebro"]]
   },
   "kultur": "En gång om året samlas alla 120 på Tysslingen för gemensam kickoff – och varje bolag tävlar i att lägga en takyta snabbast.",
-  "citat": {"text": "Sven-Olof sa att han hellre lade ner än sålde till någon som skulle byta namn på firman. Det blev hela vår affärsidé.", "namn": "Petra Lindqvist", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Sven-Olof sa att han hellre lade ner än sålde till någon som skulle byta namn på firman. Det blev hela vår affärsidé.", "namn": "Petra Lindqvist", "roll": "Medgrundare och vd", "tagg": "people"},
   "omdomen": [
     {"text": "Jag var orolig när Kumla Tak såldes, men det var samma Roger som kom och tittade på taket. Enda skillnaden var att offerten kom på mejl.", "namn": "Gunilla E.", "ort": "Kumla"},
     {"text": "Föreningen fick tre lag på samma gång och en projektledare. Det hade ingen enskild firma i länet klarat.", "namn": "Brf Rynningeviken, styrelsen", "ort": "Örebro"},
@@ -86,12 +86,12 @@
     ["Jag funderar på att sälja min takfirma – hur går det till?", "Vi börjar med ett förtroligt samtal och en värdering. Du bestämmer själv hur länge du vill vara kvar, och namnet behålls."],
     ["Kan ni ta stora uppdrag i hela länet?", "Ja. Med fyra bolag kan vi bemanna föreningar och fastighetsbolag med upp till fyra lag samtidigt."],
     ["Vilka orter täcker ni?", "Hela Örebro län, med lokala kontor i Kumla, Lindesberg, Karlskoga och Askersund och gemensamt kontor i Örebro."],
-    ["Gör ni ROT-avdrag?", "Ja, ROT-avdraget dras direkt på fakturan från det lokala bolaget."]
+    ["Drar ni av ROT på fakturan?", "Ja, ROT-avdraget dras direkt på fakturan från det lokala bolaget."]
   ],
   "certifikat": [
-    {"titel": "BF9K", "text": "Gemensamt ledningssystem för kvalitet och miljö i alla fyra bolagen.", "ikon": "dokument"},
-    {"titel": "Byggföretagen", "text": "Alla bolag är medlemmar och har kollektivavtal för samtliga anställda.", "ikon": "folk"},
-    {"titel": "Heta arbeten", "text": "Certifikat för alla som arbetar med papp och gasol, förnyas vart femte år.", "ikon": "eld"},
+    {"titel": "BF9K i alla bolag", "text": "Gemensamt ledningssystem för kvalitet och miljö i alla fyra bolagen.", "ikon": "dokument"},
+    {"titel": "Medlemmar i Byggföretagen", "text": "Alla bolag är medlemmar och har kollektivavtal för samtliga anställda.", "ikon": "folk"},
+    {"titel": "Heta arbeten i alla bolag", "text": "Certifikat för alla som arbetar med papp och gasol, förnyas vart femte år.", "ikon": "eld"},
     {"titel": "ID06 och personalliggare", "text": "Elektronisk närvaroregistrering och ID-kort för alla anställda på varje arbetsplats.", "ikon": "hjalm"}
   ],
   "certifikat_rubrik": "Gemensamma krav för fyra bolag",
@@ -105,7 +105,7 @@
     ["2026-01-27", "Gemensam lärlingsskola startar", "Fjorton lärlingar roterar mellan bolagen under två år.", "tak"]
   ],
   "kontakt": {"adress": "Bettorpsgatan 12", "postnr": "703 69", "ort": "Örebro", "telefon": "070-174 06 33", "epost": "kontakt@narketakgrupp.se", "orgnr": ""},
-  "oppettider": "Mån–fre 7–16",
+  "oppettider": "Gruppkontoret mån–fre 7–16",
   "omrade": "Örebro län",
   "fot_cta": "Ring oss så kopplar vi dig till laget på din ort.",
   "text": {
@@ -115,7 +115,7 @@
     "vagval_etikett": "Tjänster",
     "ber_etikett": "Från gruppen",
     "ber_rubrik": "Det senaste från bolagen",
-    "proj_etikett": "Uppdrag",
+    "proj_etikett": "Länets tak",
     "proj_rubrik": "Fyra lag, ett län",
     "proj_rubrik_lista": "Uppdrag från alla fyra bolagen",
     "process_etikett": "Lokalt och gemensamt",
@@ -130,7 +130,7 @@
     "bolag_etikett": "Bolagen",
     "bolag_rubrik": "Fyra namn som fick finnas kvar",
     "certifikat_etikett": "Gemensamma krav",
-    "logos_etikett": "Kunder",
+    "logos_etikett": "Kunder i länet",
     "kontor_etikett": "Orter",
     "medarbetare": "Medarbetare i gruppen",
     "ny_rubrik": "Nytt från Närke Takgrupp",

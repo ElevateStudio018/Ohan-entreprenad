@@ -19,10 +19,10 @@
   "tjanster": [
     {"titel": "Byte av takfönster", "ikon": "sol", "href": "verksamhet.html", "text": "Gamla läckande fönster byts mot nya med bättre isolering – oftast på en dag."},
     {"titel": "Nya takfönster", "ikon": "lampa", "href": "verksamhet.html", "text": "Håltagning, förstärkning av takstolar, plåtanslutning och invändig smyg."},
-    {"titel": "Takkupor", "ikon": "hus", "href": "verksamhet.html", "text": "Sadel-, pulpet- eller släpkupor ritade efter husets stil och kommunens krav."},
+    {"titel": "Kupor efter husets stil", "ikon": "hus", "href": "verksamhet.html", "text": "Sadel-, pulpet- eller släpkupor ritade efter husets stil och kommunens krav."},
     {"titel": "Vindsinredning för brf", "ikon": "nyckel", "href": "verksamhet.html", "text": "Takdelen av vindsprojektet: konstruktion, kupor, fönster, isolering och tätskikt."},
     {"titel": "Ljustunnlar", "ikon": "blixt", "href": "verksamhet.html", "text": "Dagsljus till badrum, hallar och trapphus där ett fönster inte får plats."},
-    {"titel": "Takterrasser", "ikon": "stjarna", "href": "verksamhet.html", "text": "Terrass nedsänkt i taket med tätskikt, räcke och dörr från vindsvåningen."},
+    {"titel": "Terrass i taket", "ikon": "stjarna", "href": "verksamhet.html", "text": "Terrass nedsänkt i taket med tätskikt, räcke och dörr från vindsvåningen."},
     {"titel": "Solskydd och mörkläggning", "ikon": "kugge", "href": "verksamhet.html", "text": "Markiser, rullgardiner och eldrivna fönster med fjärrkontroll."},
     {"titel": "Boka hembesök", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi mäter, kontrollerar takstolarna och skissar placering på plats."}
   ],
@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Fönsterlagen", "segment": "Byte och montage", "rubrik": "Ett fönster före lunch", "text": "Tre lag om två personer som gör 6–8 fönsterbyten i veckan på villor och radhus.", "tagg": "hem"},
     {"namn": "Kupor och vindar", "segment": "Konstruktion och bygg", "rubrik": "När taket ska öppnas", "text": "Tio snickare och takläggare som bygger kupor och vindsprojekt, med en egen plåtslagare för anslutningarna.", "tagg": "tak"},
-    {"namn": "Ritkontoret", "segment": "Form och konstruktion", "rubrik": "Ritat innan det sågas", "text": "Sofie Andrén och två konstruktörer som ritar kupor, räknar takstolar och tar fram bygglovshandlingar.", "tagg": "kontor"}
+    {"namn": "Ritbordet", "segment": "Form och konstruktion", "rubrik": "Ritat innan det sågas", "text": "Sofie Andrén och två konstruktörer som ritar kupor, räknar takstolar och tar fram bygglovshandlingar.", "tagg": "kontor"}
   ],
   "berattelser": [
     {"rubrik": "Tolv vindslägenheter på Djäkneberget", "text": "Brf Djäknen fick åtta nya kupor och ett omlagt tegeltak innan försäljningen startade.", "tagg": "bostad"},
@@ -59,7 +59,7 @@
   "process": [
     {"titel": "Hembesök", "text": "Vi mäter, kontrollerar takstolarna och visar fönsterstorlekar med mallar på plats.", "tagg": "hem"},
     {"titel": "Ritning och lov", "text": "För kupor och vindar tar vi fram 3D-bilder och bygglovshandlingar. Fönsterbyten kräver inget lov.", "tagg": "kontor"},
-    {"titel": "Montage", "text": "Taket öppnas bara när det är uppehåll, och hålet är tätt innan vi går för dagen.", "tagg": "tak"},
+    {"titel": "Taket öppnas", "text": "Taket öppnas bara när det är uppehåll, och hålet är tätt innan vi går för dagen.", "tagg": "tak"},
     {"titel": "Invändig finish", "text": "Smygar spacklas och målas, och du får en skötselinstruktion för fönster och beslag.", "tagg": "interior"}
   ],
   "hallbarhet": {
@@ -96,8 +96,8 @@
   "certifikat": [
     {"titel": "Behörig takfönstermontör", "text": "Alla montörer är utbildade och certifierade av fönstertillverkarna för garanterad täthet.", "ikon": "sol"},
     {"titel": "Tätskikt på takterrasser", "text": "Utbildade av duktillverkaren för svetsad takduk på nedsänkta terrasser.", "ikon": "vatten"},
-    {"titel": "Heta arbeten", "text": "Certifikat för arbete med papp och gasol vid tätning av kupor och terrasser.", "ikon": "eld"},
-    {"titel": "Byggföretagen", "text": "Medlemmar och kollektivavtal för alla anställda sedan 2016.", "ikon": "folk"}
+    {"titel": "Heta arbeten vid kupor", "text": "Certifikat för arbete med papp och gasol vid tätning av kupor och terrasser.", "ikon": "eld"},
+    {"titel": "Byggföretagen och kollektivavtal", "text": "Medlemmar och kollektivavtal för alla anställda sedan 2016.", "ikon": "folk"}
   ],
   "certifikat_rubrik": "Behöriga att öppna ditt tak",
   "kunder": ["Brf Djäknen", "Brf Fristaden", "Brf Lövudden", "Bäckby Radhusförening", "Sala Pastorat", "Mälarstadens Bostadsrätter", "Kungsörs Fastighets AB"],
@@ -132,9 +132,9 @@
     "boka_knapp": "Skicka förfrågan",
     "bolag_etikett": "Teamet",
     "bolag_rubrik": "Fönster, kupor och ritbord",
-    "certifikat_etikett": "Behörigheter",
-    "logos_etikett": "Föreningar",
-    "priser_etikett": "Fasta priser",
+    "certifikat_etikett": "Montörernas behörighet",
+    "logos_etikett": "Föreningskunder",
+    "priser_etikett": "Prisexempel",
     "medarbetare": "Snickarna",
     "ny_rubrik": "Om ljus och vindar",
     "panel_etikett": "Vi söker snickare",

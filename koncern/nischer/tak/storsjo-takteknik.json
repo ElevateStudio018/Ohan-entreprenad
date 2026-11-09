@@ -20,20 +20,20 @@
     {"titel": "Takbesiktning vid köp", "ikon": "sok", "href": "verksamhet.html", "text": "Fördjupad kontroll av tak, vind och takavvattning innan du köper huset."},
     {"titel": "Granskning av offert", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi läser offerten och säger om åtgärden, materialet och priset är rimliga."},
     {"titel": "Läck- och fuktutredning", "ikon": "vatten", "href": "verksamhet.html", "text": "Fuktmätning, spårgas och värmekamera för att hitta var vattnet egentligen kommer in."},
-    {"titel": "Försäkringsärenden", "ikon": "skold", "href": "verksamhet.html", "text": "Skadeutredning som försäkringsbolag och ägare kan lita på, med orsak och åtgärd."},
+    {"titel": "Underlag för försäkring", "ikon": "skold", "href": "verksamhet.html", "text": "Skadeutredning som försäkringsbolag och ägare kan lita på, med orsak och åtgärd."},
     {"titel": "Förfrågningsunderlag", "ikon": "ritning", "href": "verksamhet.html", "text": "Teknisk beskrivning enligt AMA Hus så att alla anbud går att jämföra."},
     {"titel": "Kontroll under takbytet", "ikon": "hjalm", "href": "verksamhet.html", "text": "Vi besöker bygget vid varje kritiskt skede och dokumenterar det som sedan döljs."},
     {"titel": "Sakkunnig i tvist", "ikon": "lov", "href": "verksamhet.html", "text": "Utlåtanden i reklamationer och tvister, för domstol eller Allmänna reklamationsnämnden."},
-    {"titel": "Fasta priser", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Besiktning och granskning till fast pris – du vet kostnaden innan vi kommer."}
+    {"titel": "Pris innan vi kommer", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Besiktning och granskning till fast pris – du vet kostnaden innan vi kommer."}
   ],
   "affarsomraden": [
     {"titel": "Villaägare och husköpare", "text": "En vanlig överlåtelsebesiktning tittar på taket från marken. Vi går upp, öppnar vinden och mäter fukt i råsponten, så att du vet om det väntar ett takbyte på 300 000 kr inom fem år.", "text2": "Rapporten kommer inom två arbetsdagar och är skriven för att förstås av den som inte är byggare.", "tagg": "hem"},
-    {"titel": "Bostadsrättsföreningar", "text": "Styrelsen ska fatta beslut om miljonbelopp utan att vara experter. Vi gör tillståndsbedömning, skriver förfrågningsunderlag, utvärderar anbuden och kontrollerar arbetet tills taket är slutbesiktat.", "text2": "Föreningen får en kontaktperson från första besöket till garantibesiktningen.", "tagg": "bostad"},
+    {"titel": "Styrelser i bostadsrätt", "text": "Styrelsen ska fatta beslut om miljonbelopp utan att vara experter. Vi gör tillståndsbedömning, skriver förfrågningsunderlag, utvärderar anbuden och kontrollerar arbetet tills taket är slutbesiktat.", "text2": "Föreningen får en kontaktperson från första besöket till garantibesiktningen.", "tagg": "bostad"},
     {"titel": "Försäkring och skadereglering", "text": "När ett tak läcker efter en snövinter vill försäkringsbolaget veta om det är en skada eller bristande underhåll. Vi utreder orsaken och skriver ett utlåtande som båda parter kan läsa.", "text2": "Vi har ramavtal med tre försäkringsbolag men arbetar lika ofta på uppdrag av fastighetsägare.", "tagg": "tak"},
     {"titel": "Fjällanläggningar", "text": "Hotell, stugbyar och liftanläggningar i Åre, Vemdalen och Funäsdalen har tak som utsätts för extrem snölast och isdämning. Vi gör årliga tillståndskontroller och prioriterar åtgärder i underhållsplanen.", "text2": "Besöken läggs i september, innan snön kommer och säsongen börjar.", "tagg": "natur"}
   ],
   "bolag": [
-    {"namn": "Besiktning", "segment": "Villor och husköp", "rubrik": "Uppe på taket, inte nedanför", "text": "Tre besiktningskonsulter som gör cirka 420 takbesiktningar om året, från Strömsund till Sveg.", "tagg": "hem"},
+    {"namn": "Köpbesiktning", "segment": "Villor och husköp", "rubrik": "Uppe på taket, inte nedanför", "text": "Tre besiktningskonsulter som gör cirka 420 takbesiktningar om året, från Strömsund till Sveg.", "tagg": "hem"},
     {"namn": "Skadeutredning", "segment": "Läckor, fukt och försäkring", "rubrik": "Vattnet ljuger inte", "text": "Två utredare med fuktmätare, spårgas och värmekamera. Helena Jonsson leder gruppen och skriver utlåtanden i tvister.", "tagg": "tak"},
     {"namn": "Projektstöd", "segment": "Underlag, upphandling och kontroll", "rubrik": "Föreningens förlängda arm", "text": "Två byggnadsingenjörer som skriver förfrågningsunderlag och är kontrollanter under takbyten för brf och kommuner.", "tagg": "kontor"}
   ],
@@ -54,12 +54,12 @@
     {"namn": "Stugbyn vid Bydalen", "ort": "Bydalen", "typ": "Tillståndskontroll, 46 stugor", "ar": "2025", "text": "Prioriterad åtgärdslista på tio år för alla tak i stugbyn.", "tagg": "natur"},
     {"namn": "Hotell i Åre by", "ort": "Åre", "typ": "Skadeutredning, isdämning", "ar": "2026", "text": "Orsaken till läckan visade sig vara en felmonterad värmekabel, inte taket.", "tagg": "tak"},
     {"namn": "Krokoms kommun", "ort": "Krokom", "typ": "Kontroll vid takbyte, skola", "ar": "2024", "text": "Tolv kontrollbesök och fotodokumentation av varje dolt skikt på 2 100 m².", "tagg": "bygg"},
-    {"namn": "Brf Frösö Strand", "ort": "Frösön", "typ": "Tillståndsbedömning", "ar": "2026", "text": "Tre radhuslängor bedöms inför föreningens underhållsplan – besök i april 2027.", "tagg": "bostad", "status": "Planerat"}
+    {"namn": "Brf Frösö Strand", "ort": "Frösön", "typ": "Bedömning av takens skick", "ar": "2026", "text": "Tre radhuslängor bedöms inför föreningens underhållsplan – besök i april 2027.", "tagg": "bostad", "status": "Planerat"}
   ],
   "process": [
     {"titel": "Fråga och fast pris", "text": "Du berättar vad du vill ha svar på. Vi bekräftar uppdraget och priset skriftligt samma dag.", "tagg": "kontor"},
     {"titel": "Besök på taket", "text": "Vi går upp på taket och in på vinden, mäter fukt och fotograferar allt vi ser.", "tagg": "tak"},
-    {"titel": "Rapport", "text": "Inom två arbetsdagar får du en rapport med foton, bedömning och åtgärder i prioriteringsordning.", "tagg": "kontor"},
+    {"titel": "Skriftlig rapport", "text": "Inom två arbetsdagar får du en rapport med foton, bedömning och åtgärder i prioriteringsordning.", "tagg": "kontor"},
     {"titel": "Genomgång", "text": "Vi går igenom rapporten med dig på telefon eller på plats och svarar på frågor i efterhand.", "tagg": "people"}
   ],
   "hallbarhet": {
@@ -90,13 +90,13 @@
   "priser": [
     {"namn": "Takbesiktning vid köp", "pris": "4 900 kr", "enhet": "villa, inom 5 mil från Östersund", "text": "Tak, vind och takavvattning med fuktmätning.", "punkter": ["Besök på taket och vinden", "Fuktmätning i råspont", "Rapport med foton inom två dagar", "Uppföljande samtal ingår"], "utvald": true},
     {"namn": "Granskning av offert", "pris": "2 400 kr", "enhet": "per offert", "text": "Vi läser offerten och jämför med takets skick.", "punkter": ["Genomgång av åtgärd och material", "Bedömning av priset", "Skriftligt svar inom tre dagar", "Tillägg med takbesök 3 000 kr"]},
-    {"namn": "Brf-paketet", "pris": "fr. 38 000 kr", "enhet": "per projekt", "text": "Från tillståndsbedömning till slutbesiktning.", "punkter": ["Tillståndsbedömning", "Förfrågningsunderlag enligt AMA Hus", "Utvärdering av anbud", "Fyra kontrollbesök under bytet"]}
+    {"namn": "Brf-paketet", "pris": "fr. 38 000 kr", "enhet": "per projekt", "text": "Från tillståndsbedömning till slutbesiktning.", "punkter": ["Bedömning av nuvarande skick", "Förfrågningsunderlag enligt AMA Hus", "Utvärdering av anbud", "Fyra kontrollbesök under bytet"]}
   ],
   "priser_rubrik": "Bedömning till fast pris",
   "certifikat": [
     {"titel": "Certifierad sakkunnig fukt", "text": "Två konsulter är certifierade fuktsakkunniga och utför mätningar enligt branschstandard.", "ikon": "vatten"},
     {"titel": "Kontrollansvarig enligt PBL", "text": "Helena Jonsson och Erik Svedin är certifierade kontrollansvariga med behörighet N.", "ikon": "dokument"},
-    {"titel": "Drönaroperatör", "text": "Registrerad hos Transportstyrelsen för inspektion av tak i snörika miljöer.", "ikon": "kamera"},
+    {"titel": "Drönare för snötak", "text": "Registrerad hos Transportstyrelsen för inspektion av tak i snörika miljöer.", "ikon": "kamera"},
     {"titel": "Konsultansvarsförsäkring", "text": "Ansvarsförsäkring på 5 Mkr och avtal enligt ABK 09.", "ikon": "skold"}
   ],
   "certifikat_rubrik": "Behörigheter för den som ska bedöma",
@@ -134,7 +134,7 @@
     "bolag_etikett": "Konsulterna",
     "bolag_rubrik": "Tre grupper, inga säljare",
     "certifikat_etikett": "Kompetens",
-    "logos_etikett": "Uppdragsgivare",
+    "logos_etikett": "Har anlitat oss",
     "priser_etikett": "Prislista",
     "medarbetare": "Konsulterna",
     "ny_rubrik": "Råd om tak i fjällklimat",

@@ -426,7 +426,7 @@ class Sajt:
             if h == "band":
                 return f'''<section class="hero hero-band" aria-label="Aktuellt"><div class="band-ram"><div class="band-bild bildspel" data-bildspel>{inner}{ctrl}<span class="foto-not">Illustrationsbild</span></div></div></section>'''
             return f'<section class="hero hero-{h}" aria-label="Aktuellt"><div class="bildspel" data-bildspel>{inner}{ctrl}<span class="foto-not">Illustrationsbild</span></div></section>'
-        btns = f'<div class="knappar">{self.knapp(self.T("hero_knapp"), "verksamhet.html")}{self.textlank(self.T("hero_lank"), self.b.get("hero_lank_href", "investerare.html" if "priser" in self.slugs else "projekt.html"))}</div>'
+        btns = f'<div class="knappar">{self.knapp(self.T("hero_knapp"), "verksamhet.html")}{self.textlank(self.T("hero_lank"), self.b.get("hero_lank_href", "priser.html" if self.b.get("profil") in ("foto", "arborist", "djur") and "priser" in self.slugs else "projekt.html"))}</div>'
         img = self.bilder.img(self.hero_bild, lazy=False)
         if h == "split":
             return f'''<section class="hero hero-split" aria-labelledby="h1"><div class="split-text"><span class="etikett" style="color:inherit;opacity:.8">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1><p class="ingress">{E(b["hero_text"])}</p>{btns}</div>
@@ -450,12 +450,12 @@ class Sajt:
   <dl>{"".join(f"<div><dt>{E(n['etikett'])}</dt><dd>{E(n['varde'])} {E(n['enhet'])}</dd></div>" for n in b["nyckeltal"][:3])}</dl><small>Fördröjd kurs. Exempeldata.</small></aside></div><span class="foto-not">Illustrationsbild</span></section>'''
         if h == "statement":
             return f'''<section class="hero hero-statement full" aria-labelledby="h1"><div class="bild-fyll">{img}</div><div class="wrap hero-txt"><span class="etikett">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
-  <div class="statement-rad"><p class="ingress">{E(b["hero_text"])}</p><div class="knappar">{self.knapp(self.T("hero_knapp"), "verksamhet.html", "ljus")}{self.textlank(self.T("hero_lank"), self.b.get("hero_lank_href", "investerare.html" if "priser" in self.slugs else "projekt.html"))}</div></div></div><span class="foto-not">Illustrationsbild</span></section>'''
+  <div class="statement-rad"><p class="ingress">{E(b["hero_text"])}</p><div class="knappar">{self.knapp(self.T("hero_knapp"), "verksamhet.html", "ljus")}{self.textlank(self.T("hero_lank"), self.b.get("hero_lank_href", "priser.html" if self.b.get("profil") in ("foto", "arborist", "djur") and "priser" in self.slugs else "projekt.html"))}</div></div></div><span class="foto-not">Illustrationsbild</span></section>'''
         if h == "mosaik":
             extra = [self.bilder.ta(t) for t in self.p.get("mosaik_taggar", ["people", "natur"])]
             bg = "".join(f'<div class="bild-fyll" style="position:relative">{self.bilder.img(x, "(min-width:700px) 50vw, 100vw", lazy=k > 0)}</div>' for k, x in enumerate([self.hero_bild] + extra))
             return f'''<section class="hero hero-mosaik full" aria-labelledby="h1"><div class="mosaik-bg">{bg}</div><div class="wrap hero-txt"><span class="etikett" style="color:#fff;opacity:.85">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
-  <p class="ingress">{E(b["hero_text"])}</p><div class="knappar">{self.knapp(self.T("hero_knapp"), "verksamhet.html", "ljus")}{self.textlank(self.T("hero_lank"), self.b.get("hero_lank_href", "investerare.html" if "priser" in self.slugs else "projekt.html"))}</div></div><span class="foto-not">Illustrationsbild</span></section>'''
+  <p class="ingress">{E(b["hero_text"])}</p><div class="knappar">{self.knapp(self.T("hero_knapp"), "verksamhet.html", "ljus")}{self.textlank(self.T("hero_lank"), self.b.get("hero_lank_href", "priser.html" if self.b.get("profil") in ("foto", "arborist", "djur") and "priser" in self.slugs else "projekt.html"))}</div></div><span class="foto-not">Illustrationsbild</span></section>'''
         raise ValueError(h)
 
     # --- Sektioner ------------------------------------------------------------------------------------------------

@@ -55,7 +55,7 @@
     {"namn": "Batterilogistik Hedensbyn", "ort": "Skellefteå", "typ": "Lagerhall, takduk", "ar": "2025", "text": "31 000 m² PVC-duk lagd i takt med stålstommen på 14 veckor.", "tagg": "industri"},
     {"namn": "Brf Ålidhems Port", "ort": "Umeå", "typ": "Flerbostadshus, plåttak", "ar": "2025", "text": "Svart falsad plåt och integrerade snörasskydd på två punkthus om tolv våningar.", "tagg": "stad"},
     {"namn": "Byske idrottshall", "ort": "Byske", "typ": "Sporthall, takelement", "ar": "2024", "text": "Limträbalkar och 38 färdiga takkassetter lyfta på två dagar.", "tagg": "bygg"},
-    {"namn": "Kvarteret Spinnrocken", "ort": "Umeå", "typ": "Stadskvarter, etapp 2", "ar": "2026", "text": "Takelement till 220 lägenheter, montage från mars 2027.", "tagg": "bostad", "status": "Planerat"}
+    {"namn": "Kvarteret Lärkträdet", "ort": "Umeå", "typ": "Stadskvarter, etapp 2", "ar": "2026", "text": "Takelement till 220 lägenheter, montage från mars 2027.", "tagg": "bostad", "status": "Planerat"}
   ],
   "process": [
     {"titel": "Granskning", "text": "Projekteringen läser bygghandlingarna och markerar takdetaljer som behöver lösas innan tillverkning.", "tagg": "kontor"},
@@ -74,7 +74,7 @@
     "jobb": [["Takmontör", "Skellefteå"], ["Plåtslagare", "Umeå"], ["Produktionstekniker, elementhallen", "Ersmark"], ["Anbudskalkylator", "Skellefteå"]]
   },
   "kultur": "Varje fredag klockan tre har elementhallen öppet för montörerna att se vad som lyfts nästa vecka.",
-  "citat": {"text": "Ett byggföretag köper inte papp av oss. De köper fem dagar som de annars hade förlorat i regnet.", "namn": "Malin Öhman", "roll": "Medgrundare och vd", "tagg": "people"},
+  "citat": {"text": "Ett byggföretag köper inte papp av oss. De köper fem dagar som de annars hade förlorat i regnet.", "namn": "Malin Öhman", "roll": "Medgrundare, vd sedan 2003", "tagg": "people"},
   "omdomen": [
     {"text": "Vi hade en stomme i KL-trä och en regnig oktober framför oss. Lejonström lyfte sista elementet en dag före tidplan och vi kunde starta invändigt direkt.", "namn": "Johan R., projektchef", "ort": "Skellefteå"},
     {"text": "Det bästa är att deras arbetsledare kommer till byggmötet med lösningar på anslutningarna, inte med frågor.", "namn": "Sara N., platschef", "ort": "Umeå"},
@@ -90,10 +90,10 @@
     ["Arbetar ni utanför Västerbotten?", "Vi har lagt tak i Piteå och Örnsköldsvik åt kunder vi redan har, men 95 procent av uppdragen ligger mellan Umeå och Byske."]
   ],
   "certifikat": [
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2014.", "ikon": "dokument"},
-    {"titel": "Heta arbeten", "text": "Alla montörer som arbetar med papp har giltigt certifikat från Brandskyddsföreningen.", "ikon": "eld"},
-    {"titel": "ID06 och BAS-U", "text": "Elektronisk personalliggare på alla arbetsplatser och utsedd BAS-U i varje projekt.", "ikon": "hjalm"},
-    {"titel": "Kollektivavtal", "text": "Plåt- och byggavtal för alla anställda, medlem i Byggföretagen.", "ikon": "folk"}
+    {"titel": "Miljö- och kvalitetscertifierat", "text": "Kvalitet och miljö granskas av extern revisor varje år sedan certifieringen 2014.", "ikon": "dokument"},
+    {"titel": "Certifikat heta arbeten", "text": "Alla montörer som arbetar med papp har giltigt certifikat från Brandskyddsföreningen.", "ikon": "eld"},
+    {"titel": "Personalliggare och BAS-U", "text": "Elektronisk personalliggare på alla arbetsplatser och utsedd BAS-U i varje projekt.", "ikon": "hjalm"},
+    {"titel": "Byggavtal och Plåtavtal", "text": "Plåt- och byggavtal för alla anställda, medlem i Byggföretagen.", "ikon": "folk"}
   ],
   "certifikat_rubrik": "Alla papper som en huvudentreprenör frågar efter",
   "kunder": ["Bureå Byggnads AB", "Norra Kvarkens Trähus", "Skellefteå Skolfastigheter", "Ålidhem Exploatering", "Kågeälvens Bygg & Montage", "Västerbottens Logistikfastigheter", "Burträsk Elementbyggare"],
@@ -114,7 +114,7 @@
     "hero_knapp": "Tak i nyproduktion",
     "hero_lank": "Byggen vi har tätat",
     "kontakt_knapp": "Begär anbud",
-    "vagval_etikett": "Entreprenad",
+    "vagval_etikett": "Underentreprenad",
     "ber_etikett": "Från byggena",
     "ber_rubrik": "Senaste lyften",
     "proj_etikett": "Byggprojekt",
@@ -132,7 +132,7 @@
     "bolag_etikett": "Organisation",
     "bolag_rubrik": "Montage, hall och projektering",
     "certifikat_etikett": "Krav och behörigheter",
-    "logos_etikett": "Beställare",
+    "logos_etikett": "Byggkunder",
     "kontor_etikett": "Adresser",
     "medarbetare": "Montörerna",
     "ny_rubrik": "Nytt från byggena",

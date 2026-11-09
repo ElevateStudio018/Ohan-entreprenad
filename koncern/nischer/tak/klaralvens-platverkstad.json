@@ -20,7 +20,7 @@
     {"titel": "Kantvikning till 8 meter", "ikon": "fabrik", "href": "verksamhet.html", "text": "Beslag, fotplåtar och attikor bockade efter mått eller ritning – oftast klart på tre dagar."},
     {"titel": "Rullfalsning på bygget", "ikon": "kugge", "href": "verksamhet.html", "text": "Vi rullar fram falsad bandtäckning på plats, i längder upp till 30 meter utan skarv."},
     {"titel": "Specialbeslag", "ikon": "ritning", "href": "verksamhet.html", "text": "Krångliga anslutningar ritas i 3D och provbockas innan serien körs."},
-    {"titel": "Takavvattning", "ikon": "vatten", "href": "verksamhet.html", "text": "Hängrännor och stuprör i stål, aluminium eller zink, även i måttbeställda dimensioner."},
+    {"titel": "Rännor i fyra metaller", "ikon": "vatten", "href": "verksamhet.html", "text": "Hängrännor och stuprör i stål, aluminium eller zink, även i måttbeställda dimensioner."},
     {"titel": "Plåttak med montage", "ikon": "hamare", "href": "verksamhet.html", "text": "Egna plåtlag som lägger falsade tak på villor, flerbostadshus och kyrkor."},
     {"titel": "Fasadkassetter", "ikon": "kontor", "href": "verksamhet.html", "text": "Kassetter och paneler för fasader, tillverkade i samma kulör som taket."},
     {"titel": "Lackering i egen kulör", "ikon": "pensel", "href": "verksamhet.html", "text": "Pulverlack i valfri RAL- eller NCS-kulör för mindre serier och renoveringar."},
@@ -34,9 +34,9 @@
   ],
   "bolag": [
     {"namn": "Verkstaden", "segment": "Tillverkning och lack", "rubrik": "Nio kantvikar i två skift", "text": "26 personer i verkstaden och lackhallen på Välsviken. Produktionsledaren Aida Mehmedović planerar orderna dag för dag.", "tagg": "industri"},
-    {"namn": "Montage", "segment": "Fyra plåtlag", "rubrik": "Ute på taken", "text": "20 plåtslagare i fyra lag, varav ett lag specialiserat på kyrkor och kulturhus.", "tagg": "tak"},
+    {"namn": "Montageavdelningen", "segment": "Fyra plåtlag", "rubrik": "Ute på taken", "text": "20 plåtslagare i fyra lag, varav ett lag specialiserat på kyrkor och kulturhus.", "tagg": "tak"},
     {"namn": "Grossist och logistik", "segment": "Försäljning till takfirmor", "rubrik": "Bilen går tisdag och torsdag", "text": "Säljare, lager och två egna leveransbilar som kör till takfirmor i hela Värmland och Dalsland.", "tagg": "kontor"},
-    {"namn": "Teknik", "segment": "Ritning och kalkyl", "rubrik": "Mått innan maskin", "text": "Fem beredare och konstruktörer som ritar beslag, räknar anbud och programmerar kantvikarna.", "tagg": "bygg"}
+    {"namn": "Beredning", "segment": "Ritning och kalkyl", "rubrik": "Mått innan maskin", "text": "Fem beredare och konstruktörer som ritar beslag, räknar anbud och programmerar kantvikarna.", "tagg": "bygg"}
   ],
   "berattelser": [
     {"rubrik": "Den nionde kantviken är på plats", "text": "En åttameters dubbelbockare halverade ledtiden för långa attikor i höstas.", "tagg": "industri"},
@@ -91,8 +91,8 @@
   ],
   "certifikat": [
     {"titel": "ISO 9001", "text": "Certifierat kvalitetssystem för tillverkning och montage sedan 2017.", "ikon": "dokument"},
-    {"titel": "Mästarbrev i plåtslageri", "text": "Tre av våra arbetsledare har mästarbrev, och alla lag leds av en gesäll.", "ikon": "stjarna"},
-    {"titel": "Plåt & Ventföretagen", "text": "Medlem i branschorganisationen och följer Plåtslageriernas riktlinjer.", "ikon": "folk"},
+    {"titel": "Mästare och gesäller", "text": "Tre av våra arbetsledare har mästarbrev, och alla lag leds av en gesäll.", "ikon": "stjarna"},
+    {"titel": "Medlem i Plåt & Ventföretagen", "text": "Medlem i branschorganisationen och följer Plåtslageriernas riktlinjer.", "ikon": "folk"},
     {"titel": "Fallskydd och skylift", "text": "Alla montörer har utbildning för fallskydd och liftar enligt Arbetsmiljöverkets krav.", "ikon": "hjalm"}
   ],
   "certifikat_rubrik": "Certifierat från maskin till montage",
@@ -111,7 +111,7 @@
     "hero_knapp": "Tillverkning och montage",
     "hero_lank": "Tak med vår plåt",
     "kontakt_knapp": "Skicka mått",
-    "vagval_etikett": "Verkstad",
+    "vagval_etikett": "Plåt på beställning",
     "ber_etikett": "Från Välsviken",
     "ber_rubrik": "Nytt i verkstaden och på taken",
     "proj_etikett": "Leveranser",
@@ -126,13 +126,13 @@
     "boka_rubrik": "Vad ska vi bocka?",
     "boka_text": "Skriv vad du behöver, bifoga mått eller ritning och ange om vi ska leverera eller montera.",
     "boka_knapp": "Skicka beställningen",
-    "bolag_etikett": "Avdelningar",
+    "bolag_etikett": "Verkstadens delar",
     "bolag_rubrik": "Verkstad, montage, grossist, teknik",
-    "certifikat_etikett": "Certifierat",
-    "logos_etikett": "Kunder",
+    "certifikat_etikett": "Kvalitetssystem",
+    "logos_etikett": "Köper av oss",
     "medarbetare": "Plåtfolket",
     "ny_rubrik": "Från verkstadsgolvet",
-    "panel_etikett": "Lediga tjänster",
+    "panel_etikett": "Jobba i verkstaden",
     "sida_bolag_ingress": "{kortnamn} har {n} avdelningar under samma tak på Välsviken."
   }
 }

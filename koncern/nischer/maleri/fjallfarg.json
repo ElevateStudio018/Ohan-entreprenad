@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "maleri",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Fjällfärg Jämtland AB",
+  "kortnamn": "Fjällfärg",
+  "slug": "fjallfarg",
+  "typ": "Målning av fjällstugor och fjällhotell i Jämtland",
+  "tagline": "Stugor ovan trädgränsen",
+  "slogan": "Vi målar fjällstugor, skidhotell och liftstationer i Jämtland – under de veckor när snön har gått och sommargästerna inte har kommit.",
+  "hero_rubrik": "Fjällets kortaste säsong är vår längsta",
+  "hero_text": "14 målare i Östersund som kör upp till Åre, Vemdalen och Funäsdalen. Stugägaren kan bo i Göteborg – vi har nyckeln, skickar bilderna och låser när vi går.",
+  "intro_rubrik": "Från Storsjön till kalfjället",
+  "om": [
+    "Fjällfärg grundades 2012 av Erik Jonsson och Lina Persson, två målare från Östersund som tröttnade på att de flesta stugjobb i Åre gick till firmor som körde 60 mil söderifrån. Det första året målade de 18 stugor i Duved och Tegefjäll, de flesta åt ägare som aldrig träffade dem.",
+    "I dag är vi 14 anställda och målar omkring 140 fritidshus och ett tiotal anläggningar om året. Utvändigt arbetar vi från slutet av maj till mitten av september, och på vintern målar vi invändigt i hotell och stugor mellan uthyrningsveckorna."
+  ],
+  "vagval_rubrik": "Var står er stuga?",
+  "tjanster": [
+    {"titel": "Stugfasader", "ikon": "hus", "href": "verksamhet.html", "text": "Timmer, stående panel och lockpanel med färg som klarar sol på 900 meters höjd."},
+    {"titel": "Laserat timmer", "ikon": "trad", "href": "verksamhet.html", "text": "Tvätt, slipning och ny lasyr på timmerstugor som har grånat."},
+    {"titel": "Hotell och lägenheter", "ikon": "nyckel", "href": "verksamhet.html", "text": "Korridorer och lägenheter i skidanläggningar mellan två bokningar."},
+    {"titel": "Liftstationer", "ikon": "kugge", "href": "verksamhet.html", "text": "Rostskydd och fasadfärg på stationshus och servicebyggnader i backen."},
+    {"titel": "Altaner och bastur", "ikon": "sol", "href": "verksamhet.html", "text": "Oljning av trall, räcken och vedbodar i samma besök som fasaden."},
+    {"titel": "Nyckelservice", "ikon": "las", "href": "verksamhet.html", "text": "Vi förvarar nyckeln, bevakar arbetet och skickar bilder varje dag."},
+    {"titel": "Säsongsbokning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Sommarens veckor fördelas i mars – först till kvarn."},
+    {"titel": "Mejla stugans adress", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Vi åker förbi och lämnar pris utan att du behöver vara där."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fritidshus på fjället", "text": "UV-ljuset på kalfjället bleker en sydvägg på fem år. Vi tvättar med mögeltvätt, borstar, byter rötskadade brädor och målar med pigmentrika färger som tål sol och snölast.", "text2": "Ägaren får ett bildgalleri från varje arbetsdag och en slutrapport med kulörkod.", "tagg": "maleri"},
+    {"titel": "Timmerstugor", "text": "Många stugor i Jämtland är byggda av rundtimmer eller handbilat timmer. Vi slipar bort gammal lasyr och lägger ny i två skikt, och tätar sprickor med elastisk timmerfog.", "text2": "Knutar och stockändar får extra skydd eftersom de suger mest vatten.", "tagg": "tra"},
+    {"titel": "Skidanläggningar", "text": "Hotell, lägenhetshotell och restauranger i backarna måste vara klara till första helgen i december. Vi tar korridorer, trapphus och lägenheter under oktober och november.", "text2": "Utvändigt målar vi liftstationer och servicehus under barmarksperioden.", "tagg": "interior"},
+    {"titel": "Bofasta i Östersund", "text": "Mellan fjällsäsongerna målar vi villor och lägenheter runt Storsjön. Det håller laget sysselsatt året runt och ger östersundarna en målare som inte är fullbokad i ett år.", "text2": "Frösön, Brunflo och Lit ingår utan resetillägg.", "tagg": "hem"}
+  ],
+  "bolag": [
+    {"namn": "Fjällaget", "segment": "8 målare, 3 bilar", "rubrik": "Åre, Duved och Vemdalen", "text": "Bor i egna lägenheter i Åre från maj till september och åker hem till Östersund på fredagarna.", "tagg": "maleri"},
+    {"namn": "Anläggningslaget", "segment": "4 målare", "rubrik": "Hotell och liftar", "text": "Arbetar mot skidanläggningarnas driftchefer och har lift- och fallskyddsutbildning för stationshus.", "tagg": "anlaggning"},
+    {"namn": "Kontoret på Prästgatan", "segment": "2 personer", "rubrik": "Nycklar, bilder och bokning", "text": "Lina Persson och Hanna Sjödin håller ordning på 140 nycklar och svarar stugägare från hela Sverige.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "34 stugor i Tegefjäll på en sommar", "text": "Stugföreningen lät måla alla hus i samma kulör, och vi var klara två veckor före augustis första snö.", "tagg": "maleri"},
+    {"rubrik": "Liftstationen i Bydalen fick ny fasad", "text": "Plåt och trä rostskyddat och målat på nio dagar under juni.", "tagg": "anlaggning"},
+    {"rubrik": "Bokningen för 2027 öppnar i mars", "text": "Förra året var sommarens alla veckor uppbokade den 2 april.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "140", "enhet": "stugor", "etikett": "Målade per år"},
+    {"varde": "16", "enhet": "veckor", "etikett": "Utvändig säsong på fjället"},
+    {"varde": "1 100", "enhet": "m ö.h.", "etikett": "Högst belägna stugan vi målat"},
+    {"varde": "7 av 10", "enhet": "", "etikett": "Ägare som aldrig var på plats"}
+  ],
+  "projekt": [
+    {"namn": "Stugföreningen Tegefjäll", "ort": "Tegefjäll", "typ": "34 fritidshus", "ar": "2026", "text": "Samordnad ommålning av hela området i en gemensam kulör.", "tagg": "maleri"},
+    {"namn": "Bydalens liftstation", "ort": "Bydalen", "typ": "Stationshus", "ar": "2026", "text": "Rostskydd på plåt och ny fasadfärg på trä under barmarksveckorna.", "tagg": "anlaggning"},
+    {"namn": "Timmerstuga i Ottsjö", "ort": "Ottsjö", "typ": "Laserat timmer", "ar": "2025", "text": "Slipning till rent trä, ny lasyr och fogning av 26 sprickor.", "tagg": "tra"},
+    {"namn": "Vemdalsskalets Lägenhetshotell", "ort": "Vemdalen", "typ": "Korridorer och lägenheter", "ar": "2025", "text": "62 lägenheter målade under oktober och november.", "tagg": "interior"},
+    {"namn": "Villa på Frösön", "ort": "Östersund", "typ": "Fasad och fönster", "ar": "2024", "text": "Panel, fönster och vindskivor på ett 1920-talshus vid Storsjön.", "tagg": "hem"},
+    {"namn": "Fjällgården Storlien", "ort": "Storlien", "typ": "Hotellfasad", "ar": "2027", "text": "Tre byggnader – ställning byggs i juni när vägen är torr.", "tagg": "maleri", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Vi åker förbi stugan", "text": "Du mejlar adressen. Vi tittar på fasaden när vi ändå är i området och skickar bilder och pris.", "tagg": "natur"},
+    {"titel": "Vecka i kalendern", "text": "Du får en bokad vecka och en plan för vad som händer om det regnar.", "tagg": "kontor"},
+    {"titel": "Målning med dagliga bilder", "text": "Laget skickar bilder varje kväll så att du kan följa jobbet från andra sidan landet.", "tagg": "maleri"},
+    {"titel": "Låst och klart", "text": "Vi låser, lämnar tillbaka nyckeln i kodskåpet och mejlar slutrapport med kulörkod.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Färg som klarar fjället – och lämnar det rent",
+    "text": "Vi tvättar fasader med biologiskt nedbrytbara medel och samlar upp tvättvattnet där stugan ligger nära bäckar och myrar. Rester och tomma burkar körs tillbaka till Östersund, eftersom många fjällbyar saknar mottagning för farligt avfall.",
+    "mal": [["100 %", "färgrester tillbaka till Östersund"], ["3 av 3", "lagbilar som går på biogas"], ["10 år", "riktvärde mellan ommålningar"]]
+  },
+  "karriar": {
+    "rubrik": "Måla på dagen, cykla i backen på kvällen",
+    "text": "Fjällaget bor i Åre under sommaren med boende betalt av oss. Vi söker målare som tycker om att arbeta långt från ett kontor.",
+    "jobb": [["Säsongsmålare fjäll", "Åre"], ["Målare året runt", "Östersund"]]
+  },
+  "kultur": "Sista arbetsdagen i september går hela firman upp på Åreskutan och äter middag på toppen innan stugorna stängs.",
+  "citat": {"text": "De flesta av våra kunder har aldrig sett oss. De har sett våra bilder – och det måste räcka för att de ska lita på oss.", "namn": "Lina Persson", "roll": "Delägare och kundansvarig", "tagg": "people"},
+  "omdomen": [
+    {"text": "Jag bor i Lund och var inte uppe en enda gång. Bilderna kom varje kväll och stugan såg ny ut när vi kom i jul.", "namn": "Kristina M.", "ort": "Ottsjö"},
+    {"text": "Alla 34 husen fick samma kulör och samma kvalitet. Föreningens styrelse slapp jaga 34 målare.", "namn": "Ordförande, Stugföreningen Tegefjäll", "ort": "Tegefjäll"},
+    {"text": "Lägenheterna var klara den 28 november, en vecka före premiären.", "namn": "Driftchef, Vemdalsskalets Lägenhetshotell", "ort": "Vemdalen"}
+  ],
+  "faq": [
+    ["Måste jag vara på plats?", "Nej, de flesta kunder är det inte. Vi hämtar nyckeln i ditt kodskåp eller hos en granne och skickar bilder varje kväll."],
+    ["Varför är säsongen så kort?", "Ovanför 600 meter är det sällan torrt nog att måla före slutet av maj, och efter mitten av september kan det frysa på nätterna. Därför bokas veckorna tidigt."],
+    ["Vad kostar det att måla en fjällstuga?", "En stuga på 60 kvadratmeter med loft brukar kosta 45 000–70 000 kronor före ROT-avdrag. Timmerstugor som måste slipas blir dyrare."],
+    ["Vilken färg håller bäst på fjället?", "Täckande färg håller längre än lasyr i starkt solljus. Vi rekommenderar alkydolja eller linoljefärg med mycket pigment på sydsidor."],
+    ["Har ni resetillägg?", "Inom Åre och Bergs kommun ingår resan. Till Härjedalen och Storlien lägger vi på en fast kostnad per vecka."],
+    ["Gör ni ROT-avdraget på fritidshus?", "Ja, ROT gäller även fritidshus som du äger. Vi drar avdraget direkt på fakturan."],
+    ["Kan ni måla när det är uthyrt?", "Utvändigt ja, om gästerna godkänner det. Invändigt arbetar vi bara mellan bokningarna."]
+  ],
+  "certifikat": [
+    {"titel": "Måleriavtalet", "text": "Kollektivavtal med boende och resor reglerade för säsongsarbetet.", "ikon": "dokument"},
+    {"titel": "Fallskydd och lift", "text": "Utbildning för arbete på tak, ställning och skylift i lutande terräng.", "ikon": "hjalm"},
+    {"titel": "Svensk Miljöbas", "text": "Miljöledningssystem anpassat för mindre företag.", "ikon": "trad"},
+    {"titel": "Ansvarsförsäkring", "text": "5 miljoner kronor, med nyckelförvaring inkluderad i försäkringen.", "ikon": "skold"}
+  ],
+  "kunder": ["Stugföreningen Tegefjäll", "Bydalens Fjällanläggning", "Vemdalsskalets Lägenhetshotell", "Fjällgården Storlien", "Duveds Samfällighet", "Brf Åre Torg", "Ottsjö Byalag"],
+  "nyheter": [
+    ["2026-09-22", "Säsongen 2026 avslutad", "138 stugor målade – och inte en enda arbetsdag förlorad till snö.", "maleri"],
+    ["2026-05-28", "Fjällaget har flyttat upp till Åre", "Åtta målare och tre bilar är på plats för sommaren.", "people"],
+    ["2026-01-14", "Därför bleks sydväggen först", "UV-strålningen är upp till 20 procent starkare på 900 meters höjd än vid Storsjön.", "natur"]
+  ],
+  "kontakt": {"adress": "Prästgatan 51", "postnr": "831 31", "ort": "Östersund", "telefon": "070-174 06 26", "epost": "stuga@fjallfarg.se", "orgnr": ""},
+  "oppettider": "Kontoret mån–fre 8–16, laget på fjället 7–17",
+  "omrade": "Åre, Vemdalen, Bydalen, Storlien och Östersund",
+  "fot_cta": "Mejla stugans adress före mars – då hinner vi ge dig en vecka i sommar.",
+  "bild": {"panel": "natur", "hb": "tra"},
+  "text": {
+    "ber_etikett": "Från fjället",
+    "ber_rubrik": "Senast målat ovanför trädgränsen",
+    "proj_rubrik": "Stugor och anläggningar i Jämtland",
+    "process_rubrik": "Från adress till låst dörr",
+    "hb_etikett": "Fjällmiljön",
+    "omdomen_rubrik": "Stugägare som aldrig behövde åka upp",
+    "faq_rubrik": "Frågor från stugägare",
+    "priser_rubrik": "Riktpriser för fjällstugor",
+    "boka_rubrik": "Mejla stugans adress",
+    "boka_text": "Skriv var stugan ligger och ungefär hur stor den är. Vi åker förbi och skickar pris med bilder.",
+    "boka_knapp": "Skicka adressen",
+    "logos_rubrik": "Stugföreningar och anläggningar",
+    "certifikat_rubrik": "Utbildade för höjd och lutning",
+    "bolag_rubrik": "Två lag och ett kontor",
+    "medarbetare": "Fjällmålarna"
+  }
+}

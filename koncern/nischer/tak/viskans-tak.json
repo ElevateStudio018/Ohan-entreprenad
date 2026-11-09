@@ -23,7 +23,7 @@
     {"titel": "Kommunala bostäder", "ikon": "hus", "href": "verksamhet.html", "text": "Takbyten på hyreshus med boende kvar och information i varje trapphus."},
     {"titel": "Akut på ramavtal", "ikon": "telefon", "href": "verksamhet.html", "text": "Läckor på avtalsfastigheter åtgärdas inom fyra timmar dygnet runt."},
     {"titel": "Underhållsplaner", "ikon": "ritning", "href": "verksamhet.html", "text": "Statusbesiktning av hela beståndet med prioriterad tioårsplan."},
-    {"titel": "Förberett för solceller", "ikon": "sol", "href": "verksamhet.html", "text": "Taket förberett och förstärkt innan kommunen monterar solceller."},
+    {"titel": "Tak redo för solceller", "ikon": "sol", "href": "verksamhet.html", "text": "Taket förberett och förstärkt innan kommunen monterar solceller."},
     {"titel": "Anbud och upphandling", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi svarar på förfrågningar enligt LOU och lämnar referenser på begäran."}
   ],
   "affarsomraden": [
@@ -33,10 +33,10 @@
     {"titel": "Ramavtal och förvaltning", "text": "På ramavtal har vi fasta timpriser och påslag, och beställaren avropar allt från en läcka till ett helt takbyte. Varje fastighet får en digital loggbok med foton, besök och åtgärder.", "text2": "Tio aktiva ramavtal med sammanlagt drygt 600 offentliga byggnader.", "tagg": "kontor"}
   ],
   "bolag": [
-    {"namn": "Entreprenad", "segment": "Takbyten och renoveringar", "rubrik": "Sommarens stora projekt", "text": "Sex lag med 38 takläggare och plåtslagare som tar större takbyten på skolor, hallar och vårdbyggnader.", "tagg": "tak"},
+    {"namn": "Projektlagen", "segment": "Takbyten och renoveringar", "rubrik": "Sommarens stora projekt", "text": "Sex lag med 38 takläggare och plåtslagare som tar större takbyten på skolor, hallar och vårdbyggnader.", "tagg": "tak"},
     {"namn": "Ramavtalsservice", "segment": "Underhåll och akuta läckor", "rubrik": "Avrop på fyra timmar", "text": "Tolv servicetekniker med egna servicebilar och jour dygnet runt för våra avtalsfastigheter.", "tagg": "bygg"},
     {"namn": "Projekt och KMA", "segment": "Projektledning, kalkyl, kvalitet", "rubrik": "Pappren som upphandlingen kräver", "text": "Elva tjänstemän som skriver anbud, projektleder och ansvarar för kvalitet, miljö och arbetsmiljö.", "tagg": "kontor"},
-    {"namn": "Plåtverkstaden", "segment": "Beslag och takavvattning", "rubrik": "Bockat i Borås", "text": "Fyra plåtslagare som tillverkar beslag och rännor till alla projekt i verkstaden på Getängen.", "tagg": "svets"}
+    {"namn": "Bockverkstaden", "segment": "Beslag och takavvattning", "rubrik": "Bockat i Borås", "text": "Fyra plåtslagare som tillverkar beslag och rännor till alla projekt i verkstaden på Getängen.", "tagg": "svets"}
   ],
   "berattelser": [
     {"rubrik": "Elva skoltak klara på nio veckor", "text": "Sommaren 2026 var vår största hittills – alla tak var klara fyra dagar före skolstart.", "tagg": "bygg"},
@@ -90,9 +90,9 @@
     ["Hur fort åtgärdar ni en akut läcka?", "Inom fyra timmar dygnet runt på avtalsfastigheter, oftast snabbare i Borås tätort."]
   ],
   "certifikat": [
-    {"titel": "ISO 9001, 14001 och 45001", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö.", "ikon": "dokument"},
-    {"titel": "Heta arbeten", "text": "Samtliga takläggare och servicetekniker har giltigt certifikat.", "ikon": "eld"},
-    {"titel": "BAS-P och BAS-U", "text": "Utbildade byggarbetsmiljösamordnare i alla större projekt.", "ikon": "hjalm"},
+    {"titel": "ISO 9001, 14001 och 45001", "text": "Tre standarder i ett ledningssystem, reviderat av tredje part varje höst.", "ikon": "dokument"},
+    {"titel": "Heta arbeten och brandvakt", "text": "Samtliga takläggare och servicetekniker har giltigt certifikat.", "ikon": "eld"},
+    {"titel": "Byggarbetsmiljösamordning", "text": "Utbildade byggarbetsmiljösamordnare i alla större projekt.", "ikon": "hjalm"},
     {"titel": "Säkerhetsprövad personal", "text": "Personal godkänd för arbete i skyddsobjekt och vårdmiljö.", "ikon": "las"}
   ],
   "certifikat_rubrik": "Allt som står i förfrågningsunderlaget",
@@ -132,7 +132,7 @@
     "logos_etikett": "Beställare",
     "medarbetare": "Medarbetare",
     "ny_rubrik": "Nytt från Getängen",
-    "panel_etikett": "Lediga tjänster",
+    "panel_etikett": "Tjänster att söka",
     "sida_bolag_ingress": "{kortnamn} har {n} avdelningar som tillsammans tar hand om tio ramavtal och sommarens stora projekt."
   }
 }

@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "mark",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Brastad Berg & Schakt AB",
+  "kortnamn": "Brastad Berg",
+  "slug": "brastad-berg",
+  "typ": "Bergschakt och sprängning i Bohuslän",
+  "tagline": "Granit är vardagen",
+  "slogan": "Vi borrar, spränger och spettar för hus, ledningar och bryggor på Bohusläns klippor – med vibrationsmätare hos grannen och gummimattor över varje salva.",
+  "hero_rubrik": "Här finns ingen jord. Bara granit.",
+  "hero_text": "Bergentreprenör i Brastad med 16 anställda. Vi spränger för husgrunder, VA-ledningar och sjötomter mellan Uddevalla, Lysekil och Orust – nära grannar, båtar och känsliga fönster.",
+  "intro_rubrik": "34 år i bohusgraniten",
+  "om": [
+    "Rolf Hermansson borrade åt vägbyggen i tjugo år innan han 1992 startade Brastad Berg med en borrvagn och en lastbil. När han gick i pension 2015 köpte bergingenjören Maja Strand bolaget, efter tio år med tunnelbyggen längs norska västkusten.",
+    "I dag är vi 16 anställda, varav sex med certifikat som bergsprängare. Vi har tre borrvagnar, två grävare med hydraulhammare och egen vibrationsmätning. Nästan allt vi gör sker nära bebyggelse – på tomter där grannens fönster sitter fem meter från salvan."
+  ],
+  "vagval_rubrik": "Var ligger berget i vägen?",
+  "tjanster": [
+    {"titel": "Sprängning", "ikon": "blixt", "href": "verksamhet.html", "text": "Borrning och sprängning för grunder, ledningar och vägar, med skyddsmattor och mätning."},
+    {"titel": "Bergschakt", "ikon": "hamare", "href": "verksamhet.html", "text": "Spettning med hydraulhammare där det inte går eller inte får smälla."},
+    {"titel": "Riskanalys", "ikon": "sok", "href": "verksamhet.html", "text": "Besiktning av grannhus och beräkning av tillåtna vibrationer före första salvan."},
+    {"titel": "Sjötomter", "ikon": "bat", "href": "verksamhet.html", "text": "Sprängning för bryggfästen, båtramper och ledningar ner mot vattnet."},
+    {"titel": "Ledningsrännor", "ikon": "ror", "href": "verksamhet.html", "text": "Sprängda rännor för VA, el och fiber genom berg."},
+    {"titel": "Krossning på plats", "ikon": "sten", "href": "verksamhet.html", "text": "Mobil kross som gör bärlager och ledningsbädd av ert eget berg."},
+    {"titel": "Bergförstärkning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Bultning och nät där en skärning lämnar lösa block."},
+    {"titel": "Skicka ritning", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi räknar på kubik och salvor inom en vecka."}
+  ],
+  "affarsomraden": [
+    {"titel": "Sprängning nära hus", "text": "De flesta tomter som bebyggs i Bohuslän i dag ligger där det förr var för brant eller för bergigt. Vi spränger i små salvor med elektroniska tändsystem, täcker med gummimattor och mäter vibrationerna i grannhusen vid varje salva.", "text2": "Gränsvärdena räknas fram enligt svensk standard för varje byggnad, och grannarna får sms före varje smäll.", "tagg": "mark"},
+    {"titel": "Besiktning och riskanalys", "text": "Före arbetet besiktigas alla hus inom 50–100 meter, sprickor fotograferas och mätare sätts upp. Skulle något hända finns ett protokoll att jämföra med.", "text2": "Besiktningen görs av en certifierad besiktningsman som inte är anställd hos oss.", "tagg": "hem"},
+    {"titel": "Ledningar genom berg", "text": "När kommunerna drar fram VA till skärgårdsområdena går det mesta genom berg. Vi spränger rännor med rätt bredd och fall och lägger tillbaka eget krossat material som ledningsbädd.", "text2": "Sedan 2010 har vi sprängt drygt 18 kilometer ledningsränna.", "tagg": "anlaggning"},
+    {"titel": "Kust och brygga", "text": "Bryggfästen, båtramper och sjöbodsgrunder kräver sprängning en meter från vattnet. Vi arbetar med siltgardin och planerar efter fiskens lekperioder.", "text2": "Arbete i vatten anmäls till Länsstyrelsen, och anmälan skriver vi.", "tagg": "bat"}
+  ],
+  "bolag": [
+    {"namn": "Borrlaget", "segment": "Borrning och sprängning", "rubrik": "Tre borrvagnar, sex sprängare", "text": "Borrar och laddar salvor från Uddevalla till Orust. Varje salva har en ansvarig sprängarbas.", "tagg": "mark"},
+    {"namn": "Hammarlaget", "segment": "Spettning och schakt", "rubrik": "När det inte får smälla", "text": "Två grävare med hydraulhammare som spettar berg intill hus där sprängning inte är tillåten.", "tagg": "maskin"},
+    {"namn": "Mätning och besiktning", "segment": "Vibrationer och protokoll", "rubrik": "Grannen ska kunna sova", "text": "Jonna Ek sköter vibrationsmätare, grannbesked och riskanalyser, och har kontakten med försäkringsbolagen.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Villagrund två meter från grannens altan", "text": "1 800 kubikmeter berg sprängdes på Skaftö utan att grannens mätare passerade gränsvärdet en enda gång.", "tagg": "mark"},
+    {"rubrik": "VA-rännan till Fiskebäckskil", "text": "2,4 kilometer ledningsränna genom berg sprängd åt kommunen på 14 veckor.", "tagg": "anlaggning"},
+    {"rubrik": "Elektronisk tändning i varje salva", "text": "Alla salvor tänds nu elektroniskt, vilket sänker vibrationerna med upp till 40 procent.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "16", "enhet": "anställda", "etikett": "Varav sex bergsprängare"},
+    {"varde": "18", "enhet": "km", "etikett": "Ledningsränna i berg sedan 2010"},
+    {"varde": "0", "enhet": "skadeärenden", "etikett": "Godkända mot oss sedan 2015"},
+    {"varde": "1992", "enhet": "", "etikett": "Första salvan i Brastad"}
+  ],
+  "projekt": [
+    {"namn": "Villa på Skaftö", "ort": "Lysekil", "typ": "Husgrund på berg", "ar": "2025", "text": "1 800 kubikmeter berg bort, två meter från grannens altan.", "tagg": "mark"},
+    {"namn": "VA Fiskebäckskil", "ort": "Lysekil", "typ": "Ledningsränna", "ar": "2025", "text": "2,4 kilometer sprängd ränna för kommunens VA-utbyggnad.", "tagg": "anlaggning"},
+    {"namn": "Bryggan i Grundsund", "ort": "Lysekil", "typ": "Bryggfästen", "ar": "2024", "text": "Tolv fästen och en båtramp sprängda innanför siltgardin.", "tagg": "bat"},
+    {"namn": "Radhusen på Herrestad", "ort": "Uddevalla", "typ": "Hammarschakt", "ar": "2024", "text": "Berg spettat för 18 radhus där sprängning inte tilläts.", "tagg": "bostad"},
+    {"namn": "Industritomt i Henån", "ort": "Orust", "typ": "Sprängning och krossning", "ar": "2025", "text": "6 000 kubikmeter berg krossat på plats till bärlager.", "tagg": "industri"},
+    {"namn": "Sjöbod i Mollösund", "ort": "Orust", "typ": "Grund och båtramp", "ar": "2026", "text": "Grund för sjöbod och ny ramp, start i mars när sommargästerna är borta.", "tagg": "bat"}
+  ],
+  "process": [
+    {"titel": "Besiktning av grannhus", "text": "Alla hus i riskzonen fotograferas och mätare sätts upp innan vi borrar.", "tagg": "hem"},
+    {"titel": "Salvplan", "text": "Sprängarbasen räknar laddning per hål utifrån avstånd och gränsvärde.", "tagg": "kontor"},
+    {"titel": "Salva för salva", "text": "Grannarna får sms tio minuter före varje smäll, och mattorna ligger på.", "tagg": "mark"},
+    {"titel": "Protokoll", "text": "Vibrationer, salvjournal och efterbesiktning samlas i en rapport till er och försäkringsbolaget.", "tagg": "anlaggning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Berget lämnar sällan tomten",
+    "text": "Det billigaste och renaste sättet att bli av med sprängsten är att använda den. Vi krossar berget på plats till bärlager och ledningsbädd, och i snitt stannar 80 procent på tomten. Vi laddar med emulsionssprängämne som lämnar mindre kväverester i vattnet än äldre sprängämnen.",
+    "mal": [["80 %", "av berget återanvänt på tomten"], ["10 min", "sms-varning före varje salva"], ["100 %", "av salvorna med vibrationsmätning"]]
+  },
+  "karriar": {
+    "rubrik": "Bli bergsprängare i Bohuslän",
+    "text": "Vi betalar utbildning till bergsprängare och sprängarbas för den som vill. Du börjar som borrare, och efter två år kan du ha ett eget certifikat.",
+    "jobb": [["Borrare och bergsprängare", "Brastad"], ["Maskinförare med hydraulhammare", "Brastad"]]
+  },
+  "kultur": "Torsdagar i juli slutar vi klockan tolv och tar båten ut till Stora Kornö.",
+  "citat": {"text": "Det svåra är inte att få berget att lossna. Det svåra är att grannen inte ska märka det.", "namn": "Maja Strand", "roll": "Vd och bergingenjör", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi var oroliga för vårt hundraåriga hus när grannen skulle spränga. Vi fick sms före varje salva och såg mätvärdena själva.", "namn": "Eva-Lena R.", "ort": "Skaftö"},
+    {"text": "Rännan genom berget höll exakt fall, och krosset räckte till hela ledningsbädden.", "namn": "Patrik M.", "ort": "Fiskebäckskil"},
+    {"text": "De sa nej till att spränga närmast huset och spettade i stället. Det tog längre tid, men inte en spricka.", "namn": "Anders H.", "ort": "Herrestad"}
+  ],
+  "faq": [
+    ["Vad kostar det att spränga bort berg?", "För husgrunder ligger det oftast mellan 450 och 900 kronor per kubikmeter fast berg, beroende på mängd, avstånd till hus och om berget kan krossas på plats."],
+    ["Kan sprängningen skada grannens hus?", "Laddningen räknas fram så att vibrationerna håller sig under gränsvärdet för varje byggnad, och vi mäter vid varje salva. Därför besiktar vi alla hus i närheten innan vi börjar."],
+    ["Vad händer om något går sönder?", "Vi har ansvarsförsäkring som omfattar sprängning, och besiktningsprotokollet visar hur huset såg ut innan. Skadeärenden hanteras via vårt försäkringsbolag."],
+    ["Vilka tillstånd krävs för att spränga?", "Sprängning kräver tillstånd från polisen och ibland en anmälan till kommunen. Vi söker tillstånden och sköter kontakten."],
+    ["Kan ni jobba på sommaren?", "Ja, men i fritidsområden undviker vi juli och anpassar tiderna efter grannarna. Flera kommuner har lokala regler om sprängning under semestern."],
+    ["Tar ni små jobb?", "Ja, även ett enstaka block eller en ränna för fiber. Minsta debitering är en halv dag."]
+  ],
+  "certifikat": [
+    {"titel": "Bergsprängarcertifikat", "text": "Sex anställda med certifikat som bergsprängare, varav tre med behörighet som sprängarbas.", "ikon": "blixt"},
+    {"titel": "Tillstånd för sprängämnen", "text": "Tillstånd för förvaring och användning av sprängämnen från MSB och polisen.", "ikon": "las"},
+    {"titel": "Kalibrerad vibrationsmätning", "text": "Mätarna kalibreras varje år, och mätningen följer svensk standard.", "ikon": "graf"},
+    {"titel": "Sprängskadeförsäkring", "text": "Ansvarsförsäkring som särskilt omfattar sprängning, med 20 miljoner kronors skydd.", "ikon": "skold"}
+  ],
+  "kunder": ["Lysekils kommun, VA-avdelningen", "Skaftö Fastighetsägareförening", "Grundsunds Båtklubb", "Herrestad Radhusbygg", "Orust Industritomter", "Mollösunds Hamnförening", "Bohusläns Villabyggare"],
+  "nyheter": [
+    ["2026-10-07", "Vintern är bästa tiden att spränga", "Färre grannar på plats och inga badgäster – nu bokar vi januari och februari.", "mark"],
+    ["2026-05-13", "Två nya bergsprängare", "Wilma och Oskar klarade certifikatet i april.", "people"],
+    ["2025-10-30", "Vad mäter en vibrationsmätare?", "Jonna Ek förklarar svängningshastighet och varför gränsvärdet skiljer sig mellan husen.", "hem"]
+  ],
+  "kontakt": {"adress": "Kärrvägen 5", "postnr": "454 30", "ort": "Brastad", "telefon": "070-174 06 35", "epost": "salva@brastadberg.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16. Sprängning vardagar 8–17",
+  "omrade": "Lysekil, Uddevalla, Orust, Sotenäs och Munkedal",
+  "fot_cta": "Ligger berget i vägen för ert bygge? Skicka en ritning eller en bild på tomten.",
+  "bild": {"panel": "sten", "hb": "natur"},
+  "text": {
+    "hero_knapp": "Så spränger vi",
+    "kontakt_knapp": "Skicka ritning",
+    "ber_etikett": "Från klipporna",
+    "ber_rubrik": "Salvor, rännor och bryggor",
+    "proj_rubrik": "Berg vi har flyttat",
+    "process_rubrik": "Fyra steg innan det smäller",
+    "hb_etikett": "Berg och hav",
+    "omdomen_rubrik": "Grannar och beställare",
+    "faq_rubrik": "Om sprängning, grannar och pris",
+    "logos_rubrik": "Kommuner och föreningar på kusten",
+    "certifikat_rubrik": "Certifikat för berg och sprängämnen",
+    "bolag_rubrik": "Borr, hammare och mätare",
+    "boka_rubrik": "Hur mycket berg är det?",
+    "boka_text": "Skicka gärna en bild på tomten och en ritning, och berätta hur nära närmaste hus ligger.",
+    "boka_falt": ["Namn", "Telefon", "Tomtens adress", "Avstånd till grannhus"],
+    "siffror_etikett": "Berget i siffror"
+  }
+}

@@ -22,9 +22,9 @@
     {"titel": "Plåttak på gårdar", "ikon": "hamare", "href": "verksamhet.html", "text": "Falsade tak på kalkstenshus, lador och magasin ute på landsbygden."},
     {"titel": "Sommarhus", "ikon": "sol", "href": "verksamhet.html", "text": "Takbyten under hösten och våren, medan huset står tomt."},
     {"titel": "Rännor och beslag", "ikon": "vatten", "href": "verksamhet.html", "text": "Takavvattning och beslag bockade i verkstaden i Stenkumla."},
-    {"titel": "Stormskador", "ikon": "vind", "href": "verksamhet.html", "text": "Höststormar river tegel på öns västkust – vi har material i lager för snabb lagning."},
+    {"titel": "Lagning efter storm", "ikon": "vind", "href": "verksamhet.html", "text": "Höststormar river tegel på öns västkust – vi har material i lager för snabb lagning."},
     {"titel": "Tillsyn av sommarhus", "ikon": "nyckel", "href": "verksamhet.html", "text": "Vi kontrollerar taket efter varje storm medan du är på fastlandet."},
-    {"titel": "Boka till nästa säsong", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Höst och vår fylls först – boka gärna ett år i förväg."}
+    {"titel": "Reservera höst eller vår", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Höst och vår fylls först – boka gärna ett år i förväg."}
   ],
   "affarsomraden": [
     {"titel": "Innanför ringmuren", "text": "Visby innerstad är världsarv och nästan varje takbyte kräver bygglov och samråd med antikvarie. Vi tar fram underlaget, föreslår material och följer det som står i områdesbestämmelserna.", "text2": "Under juni–augusti får inga tunga fordon köra i innerstaden, så vi lägger stadsuppdragen på våren och hösten.", "tagg": "stad"},
@@ -89,9 +89,9 @@
   ],
   "certifikat": [
     {"titel": "Gesällbrev i plåtslageri", "text": "Viktor Hansson och två av plåtslagarna har gesällbrev.", "ikon": "stjarna"},
-    {"titel": "Kulturhistoriska byggnader", "text": "Tre av takläggarna har gått Hantverkslaboratoriets kurs i tak på äldre byggnader.", "ikon": "hus"},
-    {"titel": "Heta arbeten", "text": "Certifikat för arbete med papp och gasol, förnyat 2025.", "ikon": "eld"},
-    {"titel": "Plåt & Ventföretagen", "text": "Medlemmar med kollektivavtal för alla anställda.", "ikon": "folk"}
+    {"titel": "Tak på äldre byggnader", "text": "Tre av takläggarna har gått Hantverkslaboratoriets kurs i tak på äldre byggnader.", "ikon": "hus"},
+    {"titel": "Heta arbeten, förnyat 2025", "text": "Certifikat för arbete med papp och gasol, förnyat 2025.", "ikon": "eld"},
+    {"titel": "Branschmedlemskap", "text": "Medlemmar med kollektivavtal för alla anställda.", "ikon": "folk"}
   ],
   "certifikat_rubrik": "Utbildade för världsarv och vardag",
   "kunder": ["Visby Innerstads Fastigheter", "Brf Österport", "Fårö Sommarhusförening", "Slite Hamnmagasin", "Gotlands Hembygdsgårdar", "Burgsviks Pensionat", "Hejde församling"],
@@ -107,7 +107,7 @@
   "fot_cta": "Boka nästa säsong redan nu – hösten på Gotland fylls först.",
   "text": {
     "hero_knapp": "Tak på hela ön",
-    "hero_lank": "Hus vi har täckt",
+    "hero_lank": "Gotländska tak vi lagt",
     "kontakt_knapp": "Boka säsong",
     "vagval_etikett": "På ön",
     "ber_etikett": "Från ön",
@@ -127,9 +127,9 @@
     "bolag_etikett": "Laget",
     "bolag_rubrik": "Stad, land och materialgård",
     "certifikat_etikett": "Kunskap",
-    "logos_etikett": "Uppdragsgivare",
-    "status_klart": "Lagt",
-    "medarbetare": "Takläggarna",
+    "logos_etikett": "Vi arbetar åt",
+    "status_klart": "Klart",
+    "medarbetare": "Laget på ön",
     "ny_rubrik": "Nytt från materialgården",
     "panel_etikett": "Flytta till ön",
     "sida_bolag_ingress": "Vi är elva personer i {n} grupper – en för staden, en för landet och en som ser till att materialet finns.",
