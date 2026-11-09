@@ -6,6 +6,8 @@ Klassprefix per variant (se varianter_b.css):
   hb:          citat .hcit-   tre .htre-     band .hban-
   panel:       kort .pkor-    delad .pdel-   kultur .pkul-
 """
+import re
+
 from varianter import variant, E, PIL
 
 
@@ -150,7 +152,7 @@ def projekt_tabell(s):
     rader = ""
     for x in pr:
         bild = s.bilder.ta(x.get("tagg"))
-        rader += (f'<tr><th scope="row"><a href="projekt.html"><span class="ptab-foto">{s.bilder.img(bild, "220px")}</span><span class="ptab-namn">{E(x["namn"])}</span></a></th>'
+        rader += (f'<tr><th scope="row"><a href="projekt.html"><span class="ptab-foto">{s.bilder.img(bild, "80px")}</span><span class="ptab-namn">{E(x["namn"])}</span><span class="ptab-hover" aria-hidden="true">{re.sub(r'alt="[^"]*"', 'alt=""', s.bilder.img(bild, "240px"))}</span></a></th>'
                   f'<td class="ptab-ort" data-k="{E(kol[1])}">{E(x["ort"])}</td><td class="ptab-typ" data-k="{E(kol[2])}">{E(x["typ"])}</td>'
                   f'<td class="ptab-ar" data-k="{E(kol[4])}">{E(x.get("ar", ""))}</td><td class="ptab-st">{_status_html(s, x, "ptab-status")}</td>'
                   f'<td class="ptab-pil" aria-hidden="true">{PIL}</td></tr>')

@@ -132,17 +132,17 @@
 @media (min-width: 600px) {
   .pmos { grid-template-columns: repeat(2, minmax(0, 1fr)); grid-auto-rows: 230px; }
   .pmos .pmos-1 { grid-column: span 2; grid-row: span 2; }
-  .pmos-n6 .pmos-6, .pmos-n4 .pmos-4, .pmos-n2 .pmos-2 { grid-column: span 2; }
+  .pmos-n6 .pmos-6, .pmos-n4 .pmos-4, .pmos-n2 .pmos-2, .pmos-n5 .pmos-5 { grid-column: span 2; }
 }
 @media (min-width: 1100px) {
   .pmos { grid-template-columns: repeat(4, minmax(0, 1fr)); grid-auto-rows: clamp(220px, 18vw, 280px); grid-auto-flow: dense; }
   .pmos .pmos-1 { grid-column: span 2; grid-row: span 2; }
   .pmos .pmos-2 { grid-column: span 2; }
-  .pmos-n6 .pmos-6, .pmos-n4 .pmos-4, .pmos-n2 .pmos-2 { grid-column: span 2; }
-  .pmos-n6 .pmos-5 { grid-column: span 2; }
-  .pmos-n6 .pmos-6 { grid-column: span 2; }
+  .pmos-n4 .pmos-4 { grid-column: span 1; }
+  .pmos-n2 .pmos-2 { grid-column: span 2; grid-row: span 2; }
+  .pmos-n3 .pmos-3 { grid-column: span 2; }
+  .pmos-n6 .pmos-5, .pmos-n6 .pmos-6, .pmos-n7 .pmos-5 { grid-column: span 2; }
   .pmos-n5 .pmos-5 { grid-column: span 4; }
-  .pmos-n7 .pmos-5 { grid-column: span 2; }
 }
 
 /* ---------- Projekt: zigzag (.pzig-) ---------- */
@@ -250,7 +250,7 @@
   .ptab thead th { font-size: 12px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; color: var(--c-mut); }
   .pa-mork .ptab thead th, .pa-farg .ptab thead th { color: inherit; opacity: .7; }
   .pa-mork .ptab thead tr, .pa-farg .ptab thead tr { border-color: rgba(255,255,255,.2); }
-  .ptab tbody tr { grid-template-columns: minmax(0, 2.4fr) minmax(0, 1fr) minmax(0, 1fr) 90px 140px 48px; gap: 24px; padding: clamp(20px, 1.8vw, 28px) 0; transition: background-color .2s, padding .25s; }
+  .ptab tbody tr { grid-template-columns: minmax(0, 2.4fr) minmax(0, 1fr) minmax(0, 1fr) 90px 140px 48px; gap: 24px; padding: clamp(20px, 1.8vw, 28px) 0; }
   .ptab-namn { grid-column: 1; grid-row: 1; font-size: clamp(20px, 1.7vw, 27px); }
   .ptab-ort { grid-column: 2; grid-row: 1; font-size: 16px; color: inherit; }
   .ptab-typ, .ptab-ar { display: block; color: var(--c-mut); font-size: 16px; }
@@ -260,13 +260,17 @@
   .ptab-pil { display: grid; place-items: end; grid-column: 6; }
   .ptab-pil .pil { width: 22px; height: 22px; }
   .ptab tbody tr:hover .ptab-pil .pil { transform: translateX(5px); }
-  /* bilden visas bara vid hover, flytande i raden */
-  .ptab-foto { position: absolute; z-index: 2; left: 38%; top: 50%; width: clamp(180px, 15vw, 240px); aspect-ratio: 4 / 3; opacity: 0; visibility: hidden; pointer-events: none;
-    transform: translate(-50%, -50%) scale(.9) rotate(-2deg); transition: opacity .25s ease, transform .35s ease, visibility 0s linear .35s; box-shadow: 0 20px 50px rgba(0,0,0,.22); }
-  .ptab tbody tr:hover .ptab-foto, .ptab tbody tr:focus-within .ptab-foto { opacity: 1; visibility: visible; transition-delay: 0s; transform: translate(-50%, -50%) scale(1) rotate(-2deg); }
+  .ptab-foto { display: none; }
 }
-@media (min-width: 900px) and (hover: none) { .ptab-foto { display: none; } }
-@media (prefers-reduced-motion: reduce) { .ptab-foto { transition: opacity .2s; transform: translate(-50%, -50%) !important; } }
+/* bilden visas bara vid hover, flytande i raden (eget element, så att inget blinkar när bredden ändras) */
+.ptab-hover { display: none; }
+@media (min-width: 900px) and (hover: hover) {
+  .ptab-hover { display: block; position: absolute; z-index: 2; left: 38%; top: 50%; width: clamp(180px, 15vw, 240px); aspect-ratio: 4 / 3; overflow: hidden; border-radius: var(--r-img);
+    opacity: 0; visibility: hidden; pointer-events: none; transform: translate(-50%, -50%) scale(.9) rotate(-2deg); box-shadow: 0 20px 50px rgba(0,0,0,.22); }
+  .ptab-hover img { width: 100%; height: 100%; object-fit: cover; }
+  .ptab tbody tr:hover .ptab-hover, .ptab tbody tr:focus-within .ptab-hover { opacity: 1; visibility: visible; transform: translate(-50%, -50%) scale(1) rotate(-2deg); transition: opacity .25s ease, transform .35s ease; }
+}
+@media (min-width: 900px) and (hover: hover) and (prefers-reduced-motion: reduce) { .ptab tbody tr:hover .ptab-hover { transition: opacity .2s; transform: translate(-50%, -50%) rotate(-2deg); } }
 
 /* ---------- Hållbarhet: citat (.hcit-) ---------- */
 .hcit-fig { position: relative; margin: 8px 0 0; }

@@ -103,8 +103,13 @@ def bilder(lista):
         for sek, v, fil in lista:
             for sida, namn, w in ((pg, f"{sek}-{v}.jpg", 1440), (mob, f"{sek}-{v}-mobil.jpg", 390)):
                 sida.goto(f"http://127.0.0.1:{port}/sektioner/{fil}", wait_until="networkidle")
-                sida.evaluate("document.querySelectorAll('.reveal').forEach(e=>e.classList.add('syns'));document.querySelector('.demo-rad')?.remove()")
-                sida.wait_for_timeout(500)
+                sida.evaluate("document.querySelectorAll('.reveal').forEach(e=>e.classList.add('syns'));document.querySelector('.demo-rad')?.remove();document.querySelectorAll('img').forEach(i=>{i.loading='eager'})")
+                h = sida.evaluate("document.body.scrollHeight")
+                for y in range(0, h, 600):
+                    sida.evaluate(f"window.scrollTo(0,{y})")
+                    sida.wait_for_timeout(60)
+                sida.evaluate("window.scrollTo(0,0)")
+                sida.wait_for_timeout(600)
                 el = sida.query_selector(".katalog-del")
                 bredd = sida.evaluate("document.documentElement.scrollWidth")
                 el.screenshot(path=str(UT / "bilder" / namn), type="jpeg", quality=72)

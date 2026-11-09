@@ -219,7 +219,7 @@ def siffror_kort(s):
     b = s.b
     nt = b["nyckeltal"]
     rubrik = b.get("intro_rubrik", b["slogan"])
-    kort = "".join(f'<li class="reveal"><span class="sko-nr">{i + 1:02d}</span>{_tal(n, "sko-tal")}<span class="sko-et">{E(n["etikett"])}</span></li>'
+    kort = "".join(f'<li><span class="sko-nr">{i + 1:02d}</span>{_tal(n, "sko-tal")}<span class="sko-et">{E(n["etikett"])}</span></li>'
                    for i, n in enumerate(nt))
     return (f'<section class="va sek {s.bg("siffror")}" aria-labelledby="si-h"><div class="wrap sko">'
             f'<div class="sko-huvud"><span class="etikett">{E(s.T("nyckeltal_etikett"))}</span><h2 id="si-h">{E(rubrik)}</h2>'
