@@ -1,0 +1,141 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Mätpunkt Skaraborg AB",
+  "kortnamn": "Mätpunkt",
+  "slug": "matpunkt",
+  "typ": "Injustering och mätning i Skaraborg",
+  "tagline": "Varje don, uppmätt",
+  "slogan": "Mätpunkt är fem injusterare i Skövde som mäter, justerar och felsöker ventilation åt installatörer och fastighetsägare – vi bygger ingenting själva.",
+  "hero_rubrik": "Ritningen säger 30 l/s. Vi mäter.",
+  "hero_text": "Injustering, täthetsprovning, ljudmätning och felsökning. Fem tekniker med kalibrerade instrument som anlitas när flödena måste bli rätt.",
+  "intro_rubrik": "Litet företag, exakta siffror",
+  "om": [
+    "Josefin Rydh injusterade ventilation i tolv år åt ett större installationsföretag och märkte att injusteringen alltid hamnade sist, när pengarna och tiden var slut. 2019 startade hon Mätpunkt för att injusteringen skulle få göras av någon som inte hade bråttom vidare till nästa bygge.",
+    "Vi är fem personer med kontor och instrumentrum på Hasslumsvägen i Skövde. Två tredjedelar av uppdragen kommer från installatörer som inte har egna injusterare, resten från fastighetsägare som har fått klagomål på drag, buller eller matos och vill veta varför."
+  ],
+  "vagval_rubrik": "Vad ska mätas?",
+  "tjanster": [
+    {"titel": "Injustering", "ikon": "kugge", "href": "verksamhet.html", "text": "Proportionell injustering av till- och frånluft, don för don."},
+    {"titel": "Täthetsprovning", "ikon": "sok", "href": "verksamhet.html", "text": "Provtryckning av kanalsystem enligt täthetsklass A till D."},
+    {"titel": "Ljudmätning", "ikon": "graf", "href": "verksamhet.html", "text": "Mätning av ljudnivå från ventilation i sovrum, klassrum och kontor."},
+    {"titel": "Felsökning", "ikon": "verktyg", "href": "verksamhet.html", "text": "När det drar, låter eller luktar – och ingen vet varför."},
+    {"titel": "Injustering åt installatör", "ikon": "hjalm", "href": "verksamhet.html", "text": "Vi går in som underentreprenör sist i ert projekt."},
+    {"titel": "Protokoll till OVK", "ikon": "dokument", "href": "verksamhet.html", "text": "Injusteringsprotokoll som funktionskontrollanten kan använda direkt."},
+    {"titel": "Priser per don", "ikon": "portfolj", "href": "priser.html", "text": "Fast pris per don eller per dag, alltid i förväg."},
+    {"titel": "Boka mätdag", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Lediga dagar visas på kontaktsidan varje måndag."}
+  ],
+  "affarsomraden": [
+    {"titel": "Injustering i nya anläggningar", "text": "En ny anläggning fungerar bara som det är tänkt om varje don får rätt flöde. Vi mäter, justerar spjäll och don och lämnar ett protokoll med uppmätta och projekterade värden.", "text2": "I snitt injusterar vi 70 don per dag och tekniker.", "tagg": "ventilation"},
+    {"titel": "Felsökning och klagomål", "text": "Drag i ett kontorslandskap, buller i ett sovrum eller matos i en trappuppgång har nästan alltid en mätbar orsak. Vi hittar den och skriver vad som behöver göras – men gör inte jobbet själva.", "text2": "Felsökning kostar 6 900 kr för en halv dag inklusive rapport.", "tagg": "interior"},
+    {"titel": "Täthet och ljud", "text": "Läckande kanaler kostar fläktenergi och ger fel flöden. Vi provtrycker enligt gällande AMA och mäter ljudnivåer när beställaren vill ha det svart på vitt.", "text2": "Instrumenten kalibreras varje år hos ackrediterat labb.", "tagg": "industri"},
+    {"titel": "Underentreprenad åt installatörer", "text": "Många ventilationsföretag i Skaraborg har montörer men inga injusterare. Vi kliver in sist i projektet, när montaget är klart, och tar ansvar för flödena.", "text2": "Elva installationsföretag anlitar oss regelbundet.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Josefin Rydh", "segment": "Grundare och injusterare", "rubrik": "Tolv års injustering", "text": "Tar de svåraste felsökningarna och alla ljudmätningar.", "tagg": "people"},
+    {"namn": "Injusteringslaget", "segment": "3 tekniker", "rubrik": "Ute på byggena", "text": "Injusterar nya och ombyggda anläggningar från Mariestad till Falköping.", "tagg": "ventilation"},
+    {"namn": "Instrumentrummet", "segment": "1 person, deltid kontor", "rubrik": "Kalibrering och protokoll", "text": "Sköter instrument, bokning och färdigställer protokollen.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Draget i landskapet löst", "text": "Ett don var monterat bak och fram. Felsökningen tog tre timmar, lösningen fem minuter.", "tagg": "interior"},
+    {"rubrik": "Ny ljudmätare", "text": "Med en klass 1-mätare kan vi nu också mäta lågfrekvent buller från aggregat.", "tagg": "kontor"},
+    {"rubrik": "Elfte installatören på avtal", "text": "Ett ventilationsföretag i Lidköping har lagt all injustering hos oss.", "tagg": "bygg"}
+  ],
+  "nyckeltal": [
+    {"varde": "5", "enhet": "personer", "etikett": "Alla mäter, ingen säljer"},
+    {"varde": "70", "enhet": "don/dag", "etikett": "Injusterade per tekniker"},
+    {"varde": "±5 %", "enhet": "", "etikett": "Vår tolerans mot projekterat flöde"},
+    {"varde": "11", "enhet": "", "etikett": "Installatörer som anlitar oss"}
+  ],
+  "projekt": [
+    {"namn": "Kontorslandskapet vid Kulturhuset", "ort": "Skövde", "typ": "Felsökning drag", "ar": "2025", "text": "Ett felmonterat don gav drag över tolv arbetsplatser.", "tagg": "interior"},
+    {"namn": "Lars-Göran P.", "ort": "Brf Ekedal, Skövde", "typ": "Injustering 84 lägenheter", "ar": "2025", "text": "Alla frånluftsdon injusterade efter OVK-anmärkning, protokoll på tre dagar.", "tagg": "bostad"},
+    {"namn": "Nya vårdcentralen", "ort": "Falköping", "typ": "Injustering som underentreprenör", "ar": "2025", "text": "412 don injusterade under de två sista veckorna före överlämning.", "tagg": "ventilation"},
+    {"namn": "Gymnasiet i Mariestad", "ort": "Mariestad", "typ": "Ljudmätning", "ar": "2024", "text": "Ljudnivån i sex klassrum mättes och två aggregat fick nya ljuddämpare.", "tagg": "kontor"},
+    {"namn": "Industrihall Lidköping", "ort": "Lidköping", "typ": "Täthetsprovning", "ar": "2024", "text": "1 800 meter kanal provtryckt till täthetsklass C.", "tagg": "industri"},
+    {"namn": "Kv. Boulevarden", "ort": "Skövde", "typ": "Injustering nybygge", "ar": "2026", "text": "Injustering i 120 nya lägenheter, planerad till december.", "tagg": "bygg", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Ritning och flödeslista", "text": "Vi får projekterade flöden och ritningar och räknar ut antal don och dagar.", "tagg": "kontor"},
+    {"titel": "Fast pris i förväg", "text": "Pris per don eller per dag – ni vet kostnaden innan vi kommer.", "tagg": "people"},
+    {"titel": "Mätning på plats", "text": "Varje don mäts, justeras och mäts igen tills flödet ligger inom fem procent.", "tagg": "ventilation"},
+    {"titel": "Protokoll inom tre dagar", "text": "Uppmätta och projekterade värden i ett protokoll som går direkt till OVK.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Rätt flöde är den billigaste åtgärden",
+    "text": "En anläggning som inte är injusterad ger ofta för mycket luft i vissa rum och för lite i andra – och fläktarna kompenseras upp. Efter en korrekt injustering kan fläkthastigheten ofta sänkas, och då sjunker elförbrukningen.",
+    "mal": [["±5 %", "mot projekterat flöde på varje don"], ["–20 %", "fläktel i snitt efter injustering av äldre system"], ["1 år", "mellan kalibreringar av alla instrument"]]
+  },
+  "karriar": {
+    "rubrik": "Vi letar efter en sjätte injusterare",
+    "text": "Har du jobbat som montör och vill göra det mer exakta arbetet? Vi lär dig injustering från grunden under ett halvår med Josefin som handledare.",
+    "jobb": [["Injusteringstekniker", "Skövde"]]
+  },
+  "kultur": "Varje fredag går vi igenom veckans konstigaste mätning tillsammans och lär oss av den.",
+  "citat": {"text": "Alla har en åsikt om varför det drar. Jag vill ha en siffra.", "namn": "Josefin Rydh", "roll": "Grundare och injusterare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi har inga egna injusterare och har lagt allt på Mätpunkt i tre år. Protokollen kommer i tid och funktionskontrollanten har aldrig haft en fråga.", "namn": "Robert K.", "ort": "Installatör, Lidköping"},
+    {"text": "Tre konsulter hade tittat på draget utan resultat. Josefin hittade felet på en förmiddag.", "namn": "Annika S.", "ort": "Fastighetsförvaltare, Skövde"},
+    {"text": "Fast pris per don, och fakturan blev exakt det som stod i offerten.", "namn": "Lars-Göran P.", "ort": "Brf Ekedal, Skövde"}
+  ],
+  "faq": [
+    ["Varför behöver ventilationen injusteras?", "För att varje rum ska få det flöde det är dimensionerat för. Utan injustering får rummen närmast aggregatet för mycket luft och de längst bort för lite."],
+    ["Bygger ni också om ventilationen?", "Nej. Vi mäter, justerar och skriver vad som behöver göras. Själva åtgärderna gör er installatör eller den ni väljer."],
+    ["Hur lång tid tar en injustering?", "En tekniker hinner i snitt 70 don per dag. En normal trappuppgång med 16 lägenheter tar en dag."],
+    ["Godtas ert protokoll vid OVK?", "Ja, våra protokoll följer branschens mall och används direkt av funktionskontrollanten."],
+    ["Vad kostar en felsökning?", "En halv dag med rapport kostar 6 900 kr exklusive moms. Hel dag 11 900 kr."],
+    ["Arbetar ni utanför Skaraborg?", "Ja, i hela Västra Götaland och Örebro län, med milersättning utanför Skaraborg."]
+  ],
+  "priser": [
+    {"namn": "Felsökning", "pris": "6 900 kr", "enhet": "halv dag inkl. rapport", "text": "När något drar, låter eller luktar.", "punkter": ["Mätning av flöden och tryck", "Ljudmätning vid behov", "Skriftlig rapport med orsak", "Förslag på åtgärd"]},
+    {"namn": "Injustering per don", "pris": "fr. 245 kr", "enhet": "per don", "text": "För nya och ombyggda anläggningar.", "punkter": ["Mätning och justering av varje don", "Inom ±5 % mot projekterat", "Protokoll klart för OVK", "Leverans inom tre dagar"], "utvald": true},
+    {"namn": "Mätdag", "pris": "11 900 kr", "enhet": "per tekniker och dag", "text": "Täthet, ljud eller injustering efter löpande behov.", "punkter": ["Kalibrerade instrument", "Fritt antal mätpunkter", "Protokoll eller rapport", "Resa inom Skaraborg ingår"]}
+  ],
+  "prislista": [["Täthetsprovning, per provsträcka", "fr. 3 900 kr"], ["Ljudmätning, per rum", "1 450 kr"], ["Injusteringsprotokoll i efterhand", "2 900 kr"], ["Milersättning utanför Skaraborg", "38 kr/mil"], ["Kvällsarbete, tillägg", "+ 30 %"], ["Lägenhet, frånluft, per lägenhet", "695 kr"]],
+  "prislista_rubrik": "Andra mättjänster",
+  "certifikat": [
+    {"titel": "Kalibrerat hos ackrediterat labb", "text": "Flödes-, tryck- och ljudinstrument kalibreras varje år.", "ikon": "graf"},
+    {"titel": "Injusteringsprotokoll enligt AMA", "text": "Protokoll enligt AMA VVS & Kyl och branschens OVK-mall.", "ikon": "dokument"},
+    {"titel": "Ljudmätare klass 1", "text": "Mätning enligt SS-EN ISO 16032 för installationsbuller.", "ikon": "sok"},
+    {"titel": "Ansvarsförsäkring 5 Mkr", "text": "Försäkring för ren konsult- och mätverksamhet.", "ikon": "skold"}
+  ],
+  "kunder": ["Lidköpings Ventilationsmontage", "Brf Ekedal", "Skövde Kontorsfastigheter", "Falköpings Vårdlokaler", "Mariestads gymnasium", "Kv. Boulevarden Bostäder", "Tibro Installation AB"],
+  "nyheter": [
+    ["2026-09-21", "Lediga mätdagar i december", "Vi har fyra lediga injusteringsdagar före jul – först till kvarn.", "ventilation"],
+    ["2026-04-07", "Ny ljudmätare klass 1", "Nu mäter vi även lågfrekvent buller från aggregat och fläktar.", "kontor"],
+    ["2025-10-27", "Därför drar det vid fönstret", "Fem vanliga orsaker till drag i kontor – och hur man mäter dem.", "interior"]
+  ],
+  "kontakt": {"adress": "Hasslumsvägen 9", "postnr": "541 45", "ort": "Skövde", "telefon": "070-174 06 59", "epost": "josefin@matpunkt.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Skaraborg, Västra Götaland och Örebro län",
+  "fot_cta": "Behöver ni få flödena rätt? Boka en mätdag – lediga dagar visas varje måndag.",
+  "bild": {"panel": "people", "hb": "ventilation"},
+  "text": {
+    "kontakt_knapp": "Boka mätdag",
+    "hero_knapp": "Det här mäter vi",
+    "hero_lank": "Mätningar vi har gjort",
+    "ber_etikett": "Ur mätprotokollen",
+    "ber_rubrik": "Siffror från senaste månaderna",
+    "proj_rubrik": "Mätningar och injusteringar",
+    "proj_rubrik_lista": "Uppdrag i Skaraborg",
+    "sida_projekt_titel": "Mätningar",
+    "process_etikett": "Mätgången",
+    "process_rubrik": "Mät, justera, mät igen",
+    "hb_etikett": "Energi",
+    "omdomen_rubrik": "Installatörer och förvaltare om oss",
+    "faq_rubrik": "Om injustering och mätning",
+    "priser_etikett": "Priser",
+    "priser_rubrik": "Pris per don, per halvdag eller per dag",
+    "priser_utvald": "Vanligast",
+    "priser_not": "Alla priser exklusive moms. Privatpersoner betalar inklusive moms.",
+    "boka_rubrik": "Boka en tekniker",
+    "boka_text": "Skicka flödeslista eller beskriv problemet, så får ni fast pris och ett datum inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "Företag eller förening", "Vad ska mätas?"],
+    "logos_rubrik": "Anlitar oss för mätning",
+    "certifikat_rubrik": "Instrument och protokoll",
+    "bolag_rubrik": "Fem personer, ett instrumentrum",
+    "siffror_etikett": "Mätpunkt i mätvärden",
+    "medarbetare": "Injusterarna"
+  }
+}

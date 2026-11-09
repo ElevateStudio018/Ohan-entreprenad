@@ -45,7 +45,7 @@
   .ltb-steg:nth-child(2n) .ltb-linje::before { right: calc(-1 * clamp(18px, 2vw, 28px)); }
   .ltb:not(.n3):not(.n6) .ltb-steg:nth-child(4n) .ltb-linje::before, .ltb.n3 .ltb-steg:nth-child(3n) .ltb-linje::before, .ltb.n6 .ltb-steg:nth-child(3n) .ltb-linje::before, .ltb .ltb-steg:last-child .ltb-linje::before { right: 0; }
   .ltb.n5 .ltb-steg:last-child, .ltb.n7 .ltb-steg:last-child { grid-column: span 2; }
-  .ltb.n5 .ltb-steg:last-child .ltb-foto, .ltb.n7 .ltb-steg:last-child .ltb-foto { aspect-ratio: 2.75 / 1; }
+  .ltb.n5 .ltb-steg:last-child .ltb-foto, .ltb.n7 .ltb-steg:last-child .ltb-foto { aspect-ratio: 2.8 / 1; }
 }
 
 /* ================= tidslinje/l-karusell: stora bildslides med år ================= */

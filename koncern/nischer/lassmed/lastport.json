@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "lassmed",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Lastport Säkerhet AB",
+  "kortnamn": "Lastport",
+  "slug": "lastport",
+  "typ": "Lås och passer för logistik och handel",
+  "tagline": "Säkra flöden dygnet runt",
+  "slogan": "Skalskydd, passersystem och nyckelfria leveranser för lager, terminaler och butikskedjor i Smålands logistikkorridor.",
+  "hero_rubrik": "Lås för lager som aldrig stänger",
+  "hero_text": "Lager som går i treskift, chaufförer som levererar klockan fyra och butiker som ska fyllas på innan personalen kommer. 64 anställda i Jönköping, Nässjö och Värnamo.",
+  "intro_rubrik": "Där E4 möter riksväg 40",
+  "om": [
+    "Företaget startades 1989 som en vanlig låssmedsfirma på Torpa i Jönköping. När de stora distributionscentralerna började byggas längs E4 i början av 2000-talet blev lagren snabbt de största kunderna, och 2014 bytte vi namn till Lastport för att visa vad vi faktiskt gör.",
+    "I dag är vi 64 anställda och omsätter 92 miljoner kronor. Vi har skalskydd och passersystem i 41 lager och terminaler, nyckelfria leveranser till omkring 600 butiker i hela Götaland och egna kontor i Nässjö och Värnamo."
+  ],
+  "vagval_rubrik": "Var i flödet sitter problemet?",
+  "tjanster": [
+    {"titel": "Skalskydd för lager", "ikon": "lada", "href": "verksamhet.html", "text": "Portar, nödutgångar och fönster som larmar och loggar."},
+    {"titel": "Passer för treskift", "ikon": "folk", "href": "verksamhet.html", "text": "Behörigheter som följer schemat och bemanningsföretagets listor."},
+    {"titel": "Nyckelfri leverans", "ikon": "bil", "href": "verksamhet.html", "text": "Chauffören öppnar butikens varumottagning med en engångskod."},
+    {"titel": "Chaufförsrum och sluss", "ikon": "las", "href": "verksamhet.html", "text": "Avgränsade utrymmen där förare väntar utan att komma in i lagret."},
+    {"titel": "Trailer- och containerlås", "ikon": "nyckel", "href": "verksamhet.html", "text": "Kopplingslås och containerlås mot stöld från uppställda ekipage."},
+    {"titel": "Butikskedjor", "ikon": "kontor", "href": "verksamhet.html", "text": "Ett nyckelsystem och ett register för hundratals butiker."},
+    {"titel": "Serviceavtal 24/7", "ikon": "telefon", "href": "verksamhet.html", "text": "Utryckning till en port som inte stänger, även klockan tre."},
+    {"titel": "Begär platsbesök", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "En projektledare går igenom ert flöde från grind till plock."}
+  ],
+  "affarsomraden": [
+    {"titel": "Lager och terminaler", "text": "Stora lager har hundratals dörrar, portar och nödutgångar och personal från flera bemanningsföretag. Vi bygger skalskydd och passersystem där varje öppning loggas och kopplas till larmcentralen.", "text2": "Vi har arbetat efter TAPA:s krav för godsterminaler sedan 2016.", "tagg": "industri"},
+    {"titel": "Nyckelfria leveranser till butik", "text": "Livsmedelsbutiker och apotek tar emot varor nattetid utan personal på plats. Chauffören får en kod som gäller en enda dörr under en timme, och butiken ser i loggen när leveransen kom.", "text2": "Omkring 600 butiker i Götaland tar emot nattleveranser med vårt system.", "tagg": "las"},
+    {"titel": "Butikskedjor och franchise", "text": "En kedja med butiker i trettio kommuner behöver ett nyckelregister som håller ordning på varje butikschef och varje vikarie. Vi förvaltar systemen centralt och skickar ut lokala montörer.", "text2": "Kedjans säkerhetsansvarige beställer i portalen och får ett ärendenummer för varje ändring.", "tagg": "kontor"},
+    {"titel": "Åkerier och uppställningsplatser", "text": "Lastbilar och trailers som står över natten lockar till stöld av både last och diesel. Vi säkrar grindar, uppställningsplatser och verkstäder och levererar kopplingslås till släpvagnar.", "text2": "Vi har lås i lager för de vanligaste kopplingarna och containertyperna.", "tagg": "maskin"}
+  ],
+  "bolag": [
+    {"namn": "Lastport Jönköping", "segment": "Huvudkontor, Torpa", "rubrik": "Projekt och driftcentral", "text": "38 medarbetare, projektledning för stora lager och den driftcentral som hanterar nyckelfria leveranser.", "tagg": "kontor"},
+    {"namn": "Lastport Nässjö", "segment": "Höglandet och järnvägsknuten", "rubrik": "Terminaler vid stambanan", "text": "14 medarbetare som arbetar med kombiterminaler, lager och åkerier på Höglandet.", "tagg": "industri"},
+    {"namn": "Lastport Värnamo", "segment": "Gnosjöregionen", "rubrik": "Industri och e-handel", "text": "12 medarbetare för e-handelslager och industriföretag längs riksväg 27.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Nytt e-handelslager vid E4", "text": "Ett lager på 48 000 kvadratmeter har fått 210 kortläsare och larmade portar, klart två veckor före första skiftet.", "tagg": "industri"},
+    {"rubrik": "600 butiker utan nattpersonal", "text": "En livsmedelskedja har anslutit sina sista 80 butiker till nyckelfria leveranser.", "tagg": "las"},
+    {"rubrik": "Dieselstölder i Nässjö", "text": "Ett åkeri som haft fyra stölder på ett år har inte haft någon sedan grind och tankar säkrades i våras.", "tagg": "maskin"}
+  ],
+  "nyckeltal": [
+    {"varde": "41", "enhet": "lager", "etikett": "Med vårt skalskydd"},
+    {"varde": "600", "enhet": "butiker", "etikett": "Med nyckelfri leverans"},
+    {"varde": "64", "enhet": "anställda", "etikett": "Tre kontor i Småland"},
+    {"varde": "92", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+  ],
+  "projekt": [
+    {"namn": "E-handelslager vid E4", "ort": "Jönköping", "typ": "Skalskydd och passer", "ar": "2026", "text": "210 kortläsare, 64 larmade portar och chaufförssluss för ett lager på 48 000 kvadratmeter.", "tagg": "industri", "status": "Utfört"},
+    {"namn": "Livsmedelskedja i Götaland", "ort": "Götaland", "typ": "Nyckelfri leverans, 600 butiker", "ar": "2026", "text": "Engångskoder till varumottagningar i butiker från Ystad till Strömstad.", "tagg": "las"},
+    {"namn": "Kombiterminal vid stambanan", "ort": "Nässjö", "typ": "Grindar och uppställning", "ar": "2025", "text": "Fordonsgrindar med registreringsskyltsläsning och stängsel med larm.", "tagg": "infra"},
+    {"namn": "Åkeri på Höglandet", "ort": "Nässjö", "typ": "Tank- och grindskydd", "ar": "2025", "text": "Lås på dieseltankar, grind med kod och kopplingslås till tolv släp.", "tagg": "maskin"},
+    {"namn": "Industrilager i Värnamo", "ort": "Värnamo", "typ": "Passer för treskift", "ar": "2024", "text": "Behörigheter kopplade till skiftschemat för 340 anställda och inhyrda.", "tagg": "industri"},
+    {"namn": "Apotekskedja", "ort": "Småland", "typ": "Nyckelsystem, 46 apotek", "ar": "2024", "text": "Gemensamt register och lokala montörer för kedjans apotek i fem län.", "tagg": "kontor"}
+  ],
+  "process": [
+    {"titel": "Gå flödet", "text": "Vi följer godset från grind till plock till utlastning och noterar varje dörr som öppnas.", "tagg": "industri"},
+    {"titel": "Riskkarta och förslag", "text": "Ni får en karta över svaga punkter och ett förslag med kostnad per zon.", "tagg": "kontor"},
+    {"titel": "Installation utan stopp", "text": "Vi arbetar i det skift där minst gods rör sig och lämnar alltid fungerande portar efter oss.", "tagg": "industri"},
+    {"titel": "Drift och uppföljning", "text": "Avtalskunder får en månadsrapport med larm, tvångsöppningar och dörrar som stått öppna.", "tagg": "las"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Färre körningar, mindre svinn",
+    "text": "Nyckelfria leveranser gör att butiker kan ta emot varor på natten, när lastbilarna slipper köer, och chaufförer behöver inte vänta på personal. Vi är certifierade enligt ISO 14001 och 28 av 46 servicebilar går på el.",
+    "mal": [["28 av 46", "servicebilar på el"], ["−22 %", "väntetid för chaufförer i anslutna butiker"], ["0", "allvarliga arbetsolyckor sedan 2018"]]
+  },
+  "karriar": {
+    "rubrik": "Låsteknik i Sveriges logistikhjärta",
+    "text": "Vi söker servicetekniker, låsmontörer och projektledare som vill arbeta med stora anläggningar. Hos oss kan du gå från montör till projektledare för lager som är större än tio fotbollsplaner.",
+    "jobb": [["Servicetekniker passersystem", "Jönköping"], ["Låsmontör", "Värnamo"], ["Projektledare logistikanläggningar", "Jönköping"], ["Operatör driftcentral", "Jönköping"]]
+  },
+  "kultur": "Nya medarbetare får gå ett nattpass med en chaufför och se hur en leverans till en låst butik går till.",
+  "citat": {"text": "Ett lager ska vara stängt för fel person och öppet för rätt person varje minut på dygnet. Det är inget lås som klarar det – det är ett system.", "namn": "Tobias Rask", "roll": "Vd", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Lastport var klara två veckor före vårt första skift, och inte en enda port har strulat sedan dess.", "namn": "Jenny O.", "ort": "Lagerchef, Jönköping"},
+    {"text": "Chaufförerna levererar halv fem och butiken är fylld när vi öppnar. Vi har inte haft en enda saknad pall sedan koderna kom.", "namn": "Hassan M.", "ort": "Butikschef, Borås"},
+    {"text": "Vi har 46 apotek och ett register. Jag ser vem som har vilken nyckel utan att ringa runt.", "namn": "Charlotte E.", "ort": "Säkerhetsansvarig, apotekskedja"}
+  ],
+  "faq": [
+    ["Hur fungerar nyckelfria leveranser?", "Chauffören får en engångskod som gäller en dörr under en bestämd tid. Låset loggar öppningen och butiken ser när leveransen kom och hur länge dörren stod öppen."],
+    ["Kan passersystemet kopplas till bemanningsföretagens listor?", "Ja. Behörigheter kan läsas in automatiskt från schema och bemanningslistor och upphör när passet eller uppdraget tar slut."],
+    ["Vad är TAPA?", "En branschstandard för säkerhet i godsterminaler och lager. Vi har arbetat efter dess krav på skalskydd och passer sedan 2016 och hjälper kunder inför revision."],
+    ["Arbetar ni i hela Sverige?", "Lager och terminaler tar vi framför allt i Götaland. Nyckelfria leveranser och kedjornas nyckelsystem förvaltar vi i hela landet med lokala montörer."],
+    ["Hur snabbt kommer ni om en port inte stänger?", "Avtalskunder i Jönköping, Nässjö och Värnamo har en tekniker på plats inom två timmar dygnet runt."],
+    ["Måste vi stänga lagret under installationen?", "Nej. Vi planerar arbetet efter era flöden och tar en zon i taget, oftast nattetid eller på helger."],
+    ["Säljer ni kopplingslås till privatpersoner?", "Ja, i vår butik på Torpa, för husvagnar och släp. Åkerier och företag får faktura."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001 och ISO 14001", "text": "Kvalitet och miljö certifierade sedan 2015, med årlig revision.", "ikon": "lov"},
+    {"titel": "SSF 1014 – SBSC", "text": "Certifierat larm- och passerföretag enligt Svenska Stöldskyddsföreningens regelverk.", "ikon": "skold"},
+    {"titel": "Utbildade i TAPA FSR", "text": "Projektledare med utbildning i kraven för säkerhet i godsterminaler.", "ikon": "lada"},
+    {"titel": "Medlemmar i SLR", "text": "Sveriges Låssmeders Riksförbund – 31 gesäller och sju mästare bland montörerna.", "ikon": "stjarna"}
+  ],
+  "kunder": ["Vätterns Distributionscenter", "Torsvik E-handelslager", "Höglandets Kombiterminal", "Gnosjö Industrilager AB", "Åkeri Bäckström & Söner", "Apoteksgruppen Syd", "Livs i Götaland", "Ryhov Logistikpark"],
+  "kontor_lista": [["Jönköping (huvudkontor)", "Torpavägen 22 · projekt, driftcentral och butik"], ["Nässjö", "Bangårdsgatan 9 · Höglandet och terminalerna"], ["Värnamo", "Margretelundsvägen 4 · Gnosjöregionen"]],
+  "kontor_rubrik": "Tre kontor i logistikkorridoren",
+  "kontor_text": "Montörerna utgår från det kontor som ligger närmast, och driftcentralen i Jönköping övervakar alla anläggningar.",
+  "nyheter": [
+    ["2026-10-07", "Lagret vid E4 i drift", "210 kortläsare och 64 portar klara före första skiftet.", "industri"],
+    ["2026-07-14", "600 butiker anslutna", "Livsmedelskedjans sista 80 butiker tar emot nattleveranser.", "las"],
+    ["2026-03-30", "92 miljoner i omsättning", "Lastport växte med elva procent under 2025.", "kontor"]
+  ],
+  "kontakt": {"adress": "Torpavägen 22", "postnr": "553 03", "ort": "Jönköping", "telefon": "070-174 06 44", "epost": "projekt@lastport.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16.30 · driftcentral dygnet runt",
+  "omrade": "Götaland, med kontor i Jönköping, Nässjö och Värnamo",
+  "fot_cta": "Bygger ni ett nytt lager? Ta in oss innan portarna är beställda.",
+  "bild": {"panel": "industri", "hb": "industri"},
+  "text": {
+    "hero_knapp": "Lösningar för flödet",
+    "hero_lank": "Lager och kedjor",
+    "ber_rubrik": "Senaste leveranserna",
+    "proj_rubrik": "Från grind till varumottagning",
+    "process_rubrik": "Vi börjar vid grinden",
+    "hb_etikett": "Flöde och miljö",
+    "omdomen_rubrik": "Lagerchefer och butikschefer",
+    "faq_rubrik": "Frågor om lager och leveranser",
+    "boka_rubrik": "Beskriv ert flöde",
+    "logos_rubrik": "Lager, terminaler och kedjor",
+    "certifikat_rubrik": "Certifierade för gods och passer",
+    "bolag_rubrik": "Tre bolag längs vägarna",
+    "ny_rubrik": "Från Torpa"
+  }
+}

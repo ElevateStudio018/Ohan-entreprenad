@@ -6177,6 +6177,8 @@ body[data-kursiv="1"] .sek-huvud h2 em, body[data-kursiv="1"] h1 em { font-style
   .mpn-jobb { min-height: 150px; }
   .mpn-jobb a { grid-template-columns: minmax(0, 1fr); grid-template-rows: auto 1fr auto; }
   .mpn-jobb .rundpil { width: 36px; height: 36px; }
+  .mpn-jobb a { padding: 18px 16px; }
+  .mpn-jobb b { font-size: 16.5px; hyphens: auto; }
   .mpn { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .mpn-rub, .mpn-bild, .mpn-kultur, .mpn-foto2, .mpn-cta { grid-column: 1 / -1; }
   .mpn-n3 .mpn-jobb:nth-child(5), .mpn-n1 .mpn-jobb:nth-child(3) { grid-column: 1 / -1; }
@@ -6212,8 +6214,8 @@ body[data-knapp="kontur"] .pa-farg .mpo-kort .knapp-primar { color: var(--c-p-te
 @media (min-width: 1000px) {
   .mpo { grid-template-columns: repeat(12, minmax(0, 1fr)); grid-template-rows: auto auto; }
   .mpo-bild { grid-column: 1 / 9; grid-row: 1; aspect-ratio: auto; min-height: 620px; }
-  .mpo-kort { grid-column: 7 / 13; grid-row: 1; align-self: center; margin: 48px 0; }
-  .mpo-list { grid-column: 2 / 12; grid-row: 2; margin-top: -72px; }
+  .mpo-kort { grid-column: 7 / 13; grid-row: 1; align-self: start; margin: 56px 0 128px; }
+  .mpo-list { grid-column: 2 / 12; grid-row: 2; margin-top: -84px; }
   .mpo-jobb { grid-template-columns: repeat(auto-fit, minmax(0, 1fr)); grid-auto-flow: column; }
   .mpo-jobb li + li { border-top: 0; border-left: 1px solid rgba(255,255,255,.18); }
   .mpo-jobb a { height: 100%; padding: 26px 28px; }

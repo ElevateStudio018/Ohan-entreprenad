@@ -1,0 +1,138 @@
+{
+  "profil": "nisch",
+  "nisch": "sotare",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Eldstadskollen Halland AB",
+  "kortnamn": "Eldstadskollen",
+  "slug": "eldstadskollen",
+  "typ": "Eldstadsbesiktning vid husköp, Halland",
+  "tagline": "Innan du skriver kontrakt",
+  "slogan": "Vi besiktar eldstäder och skorstenar i hus som ska säljas eller köpas i Halland – så att varken köpare eller säljare får en dyr överraskning efter tillträdet.",
+  "hero_rubrik": "Vet vad skorstenen kostar innan du köper",
+  "hero_text": "Opartisk besiktning av eldstad, rökkanal och murstock inför husköp. Rapport med bilder och kostnadsbedömning inom 48 timmar – i tid före budgivningen.",
+  "intro_rubrik": "En besiktning som bara handlar om elden",
+  "om": [
+    "Eldstadskollen startades 2016 av skorstensfejarteknikern Rebecka Åkesson efter att hennes bror köpt en 20-talsvilla i Oskarström. Den vanliga överlåtelsebesiktningen nämnde kakelugnen med en mening. Två månader senare underkände sotaren murstocken, och renoveringen kostade 87 000 kronor.",
+    "I dag är vi sju personer med kontor i Halmstad. Vi besiktar omkring 1 300 hus om året åt köpare, säljare och mäklare i Halland, från Laholm till Kungsbacka. Vi utför ingen sotning och inga renoveringar själva – det gör att vår bedömning är oberoende av vad som behöver åtgärdas."
+  ],
+  "vagval_rubrik": "Köper du, säljer du eller förmedlar du?",
+  "tjanster": [
+    {"titel": "Köparbesiktning", "ikon": "sok", "href": "verksamhet.html", "text": "Vi går igenom alla eldstäder och skorstenar i huset du vill köpa."},
+    {"titel": "Säljarbesiktning", "ikon": "hem", "href": "verksamhet.html", "text": "En rapport du lägger i säljunderlaget så att köparen vet vad den får."},
+    {"titel": "Kamera i rökkanalen", "ikon": "kamera", "href": "verksamhet.html", "text": "Kamerasonden visar sprickor och beckbeläggning som inte syns från luckan."},
+    {"titel": "Kostnadsbedömning", "ikon": "graf", "href": "verksamhet.html", "text": "Vi uppskattar vad eventuella åtgärder kostar, i kronor, med marginal."},
+    {"titel": "Snabbesiktning 24 h", "ikon": "blixt", "href": "verksamhet.html", "text": "När budgivningen redan har börjat kommer vi inom ett dygn."},
+    {"titel": "Mäklaravtal", "ikon": "portfolj", "href": "verksamhet.html", "text": "Fast pris och förtur för mäklarkontor som vill ha eldstaden klarlagd."},
+    {"titel": "Priser", "ikon": "dokument", "href": "verksamhet.html", "text": "Tre fasta priser, oavsett husets storlek."},
+    {"titel": "Boka besiktning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Skicka länk till annonsen så hör vi av oss inom två timmar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Besiktning för köpare", "text": "Köparen har undersökningsplikt, och en sprucken rökkanal räknas sällan som ett dolt fel. Vi besiktar eldstad, rökkanal, murstock, rökrör och taksäkerhet och filmar kanalen med kamerasond.", "text2": "Rapporten kommer inom 48 timmar och går att använda i diskussionen om priset.", "tagg": "skorsten"},
+    {"titel": "Besiktning för säljare", "text": "En säljare som visar en färsk besiktning minskar risken för krav efter tillträdet. Rapporten blir en del av objektsbeskrivningen.", "text2": "Om vi hittar brister får du dem i god tid, så att du kan åtgärda eller sänka utgångspriset.", "tagg": "hem"},
+    {"titel": "Kamerainspektion", "text": "En kamerasond med ljus förs genom hela kanalen. Vi ser sprickor, lösa tegel, beck och gamla avstängningar som ingen vet om.", "text2": "Filmen sparas i två år och kan skickas vidare till sotare eller murare.", "tagg": "brand"},
+    {"titel": "Samarbete med mäklare", "text": "Elva mäklarkontor i Halland lägger vår rapport i objektsbeskrivningen. De får förtur, fast pris och en kontaktperson.", "text2": "Vi presenterar gärna rapporten på visningen om säljaren vill det.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Besiktningsteknikerna", "segment": "Fältarbete", "rubrik": "Fyra tekniker med kamera i bilen", "text": "Skorstensfejartekniker som besiktar, filmar och mäter, med två besiktningar per dag var.", "tagg": "skorsten"},
+    {"namn": "Rapportskrivningen", "segment": "Analys och kostnader", "rubrik": "Varje fynd får en prislapp", "text": "En byggnadsingenjör som granskar filmerna och sätter kostnadsbedömningarna.", "tagg": "kontor"},
+    {"namn": "Mäklarservice", "segment": "Bokning och samarbeten", "rubrik": "Svar inom två timmar", "text": "Två personer som bokar besiktningar och sköter kontakten med mäklare och köpare.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Elva mäklarkontor är med", "text": "Från oktober lägger ytterligare tre kontor i Varberg vår rapport i varje objektsbeskrivning med eldstad.", "tagg": "kontor"},
+    {"rubrik": "Höstens vanligaste fynd", "text": "Beckbeläggning i rökkanaler till vedpannor står för en tredjedel av anmärkningarna i år.", "tagg": "skorsten"},
+    {"rubrik": "Besiktning på 24 timmar", "text": "Snabbesiktningen har blivit vår mest bokade tjänst under en het vår på bostadsmarknaden.", "tagg": "bostad"}
+  ],
+  "nyckeltal": [
+    {"varde": "1 300", "enhet": "hus", "etikett": "Besiktade per år"},
+    {"varde": "48 h", "enhet": "", "etikett": "Till färdig rapport"},
+    {"varde": "1 av 4", "enhet": "", "etikett": "Hus med anmärkning på kanalen"},
+    {"varde": "11", "enhet": "mäklarkontor", "etikett": "Som använder våra rapporter"}
+  ],
+  "projekt": [
+    {"namn": "Villa i Oskarström", "ort": "Oskarström", "typ": "Köparbesiktning", "ar": "2026", "text": "Spricka i rökkanalen hittades i tid – köparen fick 60 000 kr av priset.", "tagg": "skorsten"},
+    {"namn": "Sekelskiftesvilla i Varberg", "ort": "Varberg", "typ": "Säljarbesiktning", "ar": "2026", "text": "Tre kakelugnar och en öppen spis besiktade och godkända före visningen.", "tagg": "hem"},
+    {"namn": "Gård utanför Laholm", "ort": "Laholm", "typ": "Kamerainspektion", "ar": "2025", "text": "Vedpanna, bakugn och två kaminer i en gård som såldes till en familj från Malmö.", "tagg": "natur"},
+    {"namn": "Radhus i Getinge", "ort": "Getinge", "typ": "Snabbesiktning", "ar": "2025", "text": "Besiktning inom 20 timmar mitt i en budgivning med sju budgivare.", "tagg": "bostad"},
+    {"namn": "Sommarhus i Tylösand", "ort": "Halmstad", "typ": "Köparbesiktning", "ar": "2025", "text": "Saltskadad plåtskorsten upptäcktes, och säljaren bytte den före tillträdet.", "tagg": "tak"},
+    {"namn": "Mäklarsamarbete Kungsbacka", "ort": "Kungsbacka", "typ": "Mäklaravtal", "ar": "2026", "text": "Nytt avtal med två kontor i Kungsbacka – första besiktningarna är bokade.", "tagg": "kontor", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Skicka annonsen", "text": "Klistra in länken till bostadsannonsen. Vi ringer inom två timmar och bokar en tid.", "tagg": "kontor"},
+    {"titel": "Besiktningen", "text": "En tekniker besiktar och filmar i 60–90 minuter. Du får gärna vara med och ställa frågor.", "tagg": "skorsten"},
+    {"titel": "Rapport på 48 timmar", "text": "Bilder, film, bedömning och kostnadsuppskattning för varje anmärkning.", "tagg": "brand"},
+    {"titel": "Frågor efteråt", "text": "Du kan ringa teknikern med följdfrågor fram till tillträdet, utan extra kostnad.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Oberoende är hela affärsidén",
+    "text": "Vi sotar inte, murar inte och säljer inga insatsrör. Ingen tekniker får provision, och vi tar inte emot ersättning från hantverkare vi rekommenderar. Varje rapport granskas av en andra person innan den skickas.",
+    "mal": [["0 kr", "i provision från hantverkare"], ["2", "personer granskar varje rapport"], ["48 h", "längsta tid till rapport"]]
+  },
+  "karriar": {
+    "rubrik": "Besiktiga i stället för att sota",
+    "text": "Är du skorstensfejartekniker och vill arbeta dagtid med utredning och rapporter? Hos oss gör du två besiktningar per dag och har tid att skriva ordentligt.",
+    "jobb": [["Besiktningstekniker", "Halmstad"], ["Besiktningstekniker", "Varberg"]]
+  },
+  "kultur": "Varje måndag går hela teamet igenom veckans svåraste filmer tillsammans innan bilarna åker ut.",
+  "citat": {"text": "Ingen ska behöva lära sig vad en murstock kostar efter att de har flyttat in. Det ska de veta innan de lägger sista budet.", "namn": "Rebecka Åkesson", "roll": "Grundare och skorstensfejartekniker", "tagg": "skorsten"},
+  "omdomen": [
+    {"text": "Rapporten visade en sprucken kanal som skulle kosta 60 000 att åtgärda. Säljaren gick med på att sänka priset med lika mycket.", "namn": "Hampus och Elin G.", "ort": "Oskarström"},
+    {"text": "Vi har rapporten med i varje objekt med kakelugn nu. Köparna slutar oroa sig för eldstaden och fokuserar på huset.", "namn": "Linda M., fastighetsmäklare", "ort": "Varberg"},
+    {"text": "De kom dagen efter mitt samtal, mitt i budgivningen. Utan dem hade vi inte vågat lägga budet.", "namn": "Sofie A.", "ort": "Getinge"}
+  ],
+  "faq": [
+    ["Räcker inte överlåtelsebesiktningen?", "En vanlig överlåtelsebesiktning är en okulär kontroll av hela huset, och eldstaden får oftast bara en kort kommentar. Vi filmar kanalen och bedömer murstocken på samma sätt som en sotare vid brandskyddskontroll."],
+    ["Ersätter er besiktning kommunens brandskyddskontroll?", "Nej. Brandskyddskontrollen görs av kommunens sotningsentreprenör. Vi kan däremot be om det senaste protokollet och jämföra med vad vi ser."],
+    ["Behöver säljaren vara med?", "Säljaren eller mäklaren behöver öppna huset och godkänna att vi besiktar. Vi tar på skoskydd och lägger skydd under sotluckan."],
+    ["Vad händer om ni hittar fel?", "Varje anmärkning får en bedömning av allvar och en uppskattad kostnad. Hur du använder rapporten i affären bestämmer du själv."],
+    ["Hur snabbt kan ni komma?", "Normalt inom tre arbetsdagar. Med snabbesiktning kommer vi inom 24 timmar, även på lördagar."],
+    ["Besiktar ni utanför Halland?", "Vi tar uppdrag i Båstad, Ängelholm och Mark mot en reseersättning på 600 kr."]
+  ],
+  "priser": [
+    {"namn": "En eldstad", "pris": "3 900 kr", "enhet": "per besiktning", "text": "För hus med en kamin, kakelugn eller öppen spis.", "punkter": ["Besiktning av eldstad och murstock", "Kamera i rökkanalen", "Rapport med bilder på 48 timmar", "Telefonsupport till tillträdet"]},
+    {"namn": "Hela huset", "pris": "5 400 kr", "enhet": "per besiktning", "text": "Alla eldstäder, pannor och skorstenar i ett och samma hus.", "punkter": ["Obegränsat antal eldstäder", "Kamera i alla rökkanaler", "Kostnadsbedömning per anmärkning", "Granskning av senaste sotningsprotokoll"], "utvald": true},
+    {"namn": "Snabbesiktning", "pris": "6 900 kr", "enhet": "inom 24 timmar", "text": "När budgivningen redan har börjat.", "punkter": ["Besiktning inom ett dygn", "Muntlig genomgång direkt på plats", "Skriftlig rapport inom 24 timmar", "Även lördagar"]}
+  ],
+  "certifikat": [
+    {"titel": "Skorstensfejartekniker", "text": "Alla besiktningstekniker har yrkesexamen och erfarenhet av brandskyddskontroll.", "ikon": "skold"},
+    {"titel": "Konsultansvarsförsäkring", "text": "Försäkring på 5 Mkr som täcker fel i våra bedömningar.", "ikon": "las"},
+    {"titel": "Byggnadsingenjör granskar", "text": "Kostnadsbedömningarna granskas av en högskoleingenjör i byggteknik.", "ikon": "ritning"},
+    {"titel": "Oberoende part", "text": "Vi har inga ägarintressen i sotnings-, murnings- eller kaminföretag.", "ikon": "lov"}
+  ],
+  "kunder": ["Halmstad Mäklarhus", "Varbergs Bostadsförmedling", "Laholms Gårdsmäklare", "Kungsbacka Hem & Villa", "Falkenbergs Fastighetsbyrå", "Brf Tylösands Strand", "Hallands Dödsbo & Flytt"],
+  "nyheter": [
+    ["2026-10-06", "Köparens checklista för eldstaden", "Sju frågor att ställa till mäklaren innan du lägger första budet.", "hem"],
+    ["2026-07-15", "Tre nya mäklarkontor i Varberg", "Rapporten finns nu i objektsbeskrivningen hos elva kontor i Halland.", "kontor"],
+    ["2026-03-24", "Därför rostar plåtskorstenar vid kusten", "Salt och fukt förkortar livslängden – så ser du tecknen själv.", "tak"]
+  ],
+  "kontakt": {"adress": "Kristinebergsvägen 5", "postnr": "302 41", "ort": "Halmstad", "telefon": "070-174 06 66", "epost": "besiktning@eldstadskollen.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7.30–17, lördagar för snabbesiktning",
+  "omrade": "Hela Halland, från Laholm till Kungsbacka",
+  "fot_cta": "Ska du lägga bud på ett hus med eldstad? Skicka annonsen – vi ringer inom två timmar.",
+  "bild": {"panel": "hem", "hb": "skorsten"},
+  "text": {
+    "kontakt_knapp": "Skicka annonsen",
+    "hero_knapp": "Så går besiktningen till",
+    "hero_lank": "Hus vi har besiktat",
+    "vagval_etikett": "Husaffären",
+    "ber_etikett": "Från besiktningarna",
+    "ber_rubrik": "Vad vi hittar just nu",
+    "proj_rubrik": "Besiktningar som gjorde skillnad",
+    "proj_rubrik_lista": "Utvalda besiktningar",
+    "process_etikett": "Från annons till rapport",
+    "process_rubrik": "Fyra steg före budet",
+    "bolag_rubrik": "Tekniker, ingenjör och bokning",
+    "hb_etikett": "Opartiskhet",
+    "omdomen_rubrik": "Köpare, säljare och mäklare",
+    "faq_rubrik": "Frågor inför husköpet",
+    "priser_rubrik": "Fast pris, oavsett husets storlek",
+    "priser_utvald": "Mest bokad",
+    "priser_knapp": "Boka besiktning",
+    "priser_not": "Priser inklusive moms och resa inom Halland.",
+    "boka_rubrik": "Vilket hus gäller det?",
+    "boka_text": "Klistra in länken till annonsen och skriv när visningen eller budgivningen är. Vi ringer upp inom två timmar.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Länk till annonsen"],
+    "certifikat_rubrik": "Kompetens och försäkring",
+    "logos_rubrik": "Mäklare som använder våra rapporter",
+    "medarbetare": "Besiktningsteamet"
+  }
+}

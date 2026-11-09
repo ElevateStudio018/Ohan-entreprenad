@@ -40,7 +40,7 @@
   "berattelser": [
     {"rubrik": "Fyra vintrar i stenbrottet på Tjurkö", "text": "Provanläggningen har klarat is på 30 centimeter utan en enda skadad panel.", "tagg": "natur"},
     {"rubrik": "2,4 MW i ett grustag i Kallinge", "text": "Vår största anläggning är sjösatt och ansluten – markägaren får arrende i trettio år.", "tagg": "solel"},
-    {"rubrik": "Mindre avdunstning i Listerlandet", "text": "Mätningar visar att dammen under panelerna förlorade 29 procent mindre vatten i juli.", "tagg": "vatten"}
+    {"rubrik": "Mindre avdunstning i Listerlandet", "text": "Mätningar visar att dammen under panelerna förlorade 29 procent mindre vatten i juli.", "tagg": "natur"}
   ],
   "nyckeltal": [
     {"varde": "23", "enhet": "", "etikett": "Flytande anläggningar"},
@@ -50,7 +50,7 @@
   ],
   "projekt": [
     {"namn": "Kallinge Grustag", "ort": "Kallinge", "typ": "Täkt, 2,4 MW", "ar": "2025", "text": "Sjösatt i sektioner och förankrad för fyra meters nivåskillnad.", "tagg": "solel"},
-    {"namn": "Listerlandets Grönsaker", "ort": "Sölvesborg", "typ": "Bevattningsdamm, 320 kW", "ar": "2025", "text": "Elen driver bevattning och kylrum – dammen tappar mindre vatten.", "tagg": "vatten"},
+    {"namn": "Listerlandets Grönsaker", "ort": "Sölvesborg", "typ": "Bevattningsdamm, 320 kW", "ar": "2025", "text": "Elen driver bevattning och kylrum – dammen tappar mindre vatten.", "tagg": "anlaggning"},
     {"namn": "Nättraby reningsverk", "ort": "Nättraby", "typ": "VA, 180 kW", "ar": "2024", "text": "Flytande paneler på efterpoleringsdammen driver luftningen.", "tagg": "anlaggning"},
     {"namn": "Olofströms Pressverk", "ort": "Olofström", "typ": "Industridamm, 650 kW", "ar": "2024", "text": "Dagvattenmagasinet bredvid fabriken blev en del av elförsörjningen.", "tagg": "industri"},
     {"namn": "Fruktgården i Jämjö", "ort": "Jämjö", "typ": "Bevattningsdamm, 90 kW", "ar": "2023", "text": "En liten anläggning för pumpar och äppellagrets kylrum.", "tagg": "natur"},
@@ -60,7 +60,7 @@
     {"titel": "Flygbild och djupkarta", "text": "Vi bedömer vattnet från flygfoto och mäter djup och botten med ekolod från båten.", "tagg": "bat"},
     {"titel": "Tillstånd och samråd", "text": "Anmälan om vattenverksamhet, samråd och vid behov naturvärdesinventering.", "tagg": "kontor"},
     {"titel": "Bygge på stranden", "text": "Sektionerna monteras på land och sjösätts en i taget.", "tagg": "solel"},
-    {"titel": "Förankring och drift", "text": "Vi förankrar mot botten eller stranden och inspekterar från båt två gånger om året.", "tagg": "vatten"}
+    {"titel": "Förankring och drift", "text": "Vi förankrar mot botten eller stranden och inspekterar från båt två gånger om året.", "tagg": "bat"}
   ],
   "hallbarhet": {
     "rubrik": "Vattnet ska må lika bra som förut",
