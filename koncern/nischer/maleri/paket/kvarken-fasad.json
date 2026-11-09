@@ -5,23 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "95ccd1d7",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
+  "id": "hanken",
+  "kategori": "grotesk",
+  "rubrik": "Hanken Grotesk",
+  "text": "Hanken Grotesk",
+  "rubrik_vikt": 700,
   "spatiering": "-0.025em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_spatiering": "-0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-330",
  "farger": {
@@ -77,8 +79,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "statement",
- "header": "ljus",
+ "hero": "mosaik",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "register",
   "bolag": "kort",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "citat": "standard",
+  "certifikat": "standard",
+  "kontor": "standard",
+  "projekt": "karusell",
+  "process": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -141,5 +148,14 @@
   "bostad",
   "interior",
   "people"
- ]
+ ],
+ "herotext": "mitten",
+ "rubrikstil": "mitt",
+ "v7": {
+  "typ": "hanken",
+  "hero": "mosaik",
+  "herotext": "mitten",
+  "rubrik": "mitt",
+  "form": "piller-kantig"
+ }
 }

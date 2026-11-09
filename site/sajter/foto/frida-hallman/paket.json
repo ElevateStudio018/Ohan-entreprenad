@@ -5,23 +5,25 @@
  "arketyp": "koncernband",
  "fro": "4f6a5897",
  "typsnitt": {
-  "id": "fraunces-inter+pj",
+  "id": "lora",
   "kategori": "serif",
-  "rubrik": "Fraunces",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Lora",
+  "text": "Nunito Sans",
   "rubrik_vikt": 500,
-  "spatiering": "-0.02em",
+  "spatiering": "-0.015em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
-  "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_vikt": 500,
+  "logo_versaler": false,
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
+  "kursiv": true
  },
  "palett": "foto-30",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#f4a6b8"
  },
  "form": {
-  "namn": "piller-mjuk",
-  "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "mosaik",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -92,10 +94,16 @@
  "motiv": "inget",
  "block": {
   "vagval": "chips",
-  "bolag": "tabell",
-  "siffror": "rad",
+  "bolag": "lista",
+  "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "hb": "kort",
+  "faq": "standard",
+  "galleri": "standard",
+  "priser": "standard",
+  "projekt": "karusell",
+  "boka": "standard"
  },
  "ordning_lista": [
   "hb",
@@ -146,5 +154,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "band",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "lora",
+  "hero": "mosaik",
+  "herotext": "band",
+  "rubrik": "understruken",
+  "form": "rundad"
+ }
 }

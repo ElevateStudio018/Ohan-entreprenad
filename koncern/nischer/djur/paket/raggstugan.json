@@ -5,23 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "ed5dbafb",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "quicksand",
+  "kategori": "rund",
+  "rubrik": "Quicksand",
+  "text": "Nunito Sans",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.01em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700",
+  "kursiv": false
  },
  "palett": "djur-150",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#7fd6c2"
  },
  "form": {
-  "namn": "piller-rundad",
-  "knapp": 999,
-  "kort": 18,
-  "bild": 16,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "statement",
- "header": "ljus",
+ "hero": "split",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -88,11 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "lankar",
   "bolag": "kort",
   "siffror": "rad",
   "nyheter": "tidning",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "priser": "standard",
+  "faq": "standard",
+  "galleri": "standard",
+  "projekt": "karusell",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -143,5 +150,14 @@
   "valp",
   "katt",
   "hundtraning"
- ]
+ ],
+ "herotext": "standard",
+ "rubrikstil": "pill",
+ "v7": {
+  "typ": "quicksand",
+  "hero": "split",
+  "herotext": "standard",
+  "rubrik": "pill",
+  "form": "kantig"
+ }
 }

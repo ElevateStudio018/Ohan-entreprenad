@@ -1063,3 +1063,112 @@ body.har-hero[data-header="transparent"] .hero-split .split-text { padding-top: 
 }
 /* v6: skyddsnät – inget får ge sidled-scroll (clip bryter inte sticky header) */
 html, body { overflow-x: clip; }
+
+/* =====================================================================================================================
+   Version 7: heron i 13 typografiska layouter (data-herotext) och sektionsrubriker i 8 stilar (data-rubrik)
+   Gäller heroer med bild i hela ytan: helskärm, band, centrerad, statement och mosaik (.hero-txt)
+   ===================================================================================================================== */
+.hero-statement.full, .hero-mosaik.full, .hero-band .band-bild, .hero .bild-slide { position: relative; }
+body:not([data-herotext="standard"]) .hero .hero-txt {
+  position: absolute; z-index: 3; inset: auto 0 0 0; display: flex; flex-direction: column; align-items: flex-start; gap: 0;
+  padding: calc(var(--head-h) + 64px) max(20px, calc((100vw - var(--maxw)) / 2 + 40px)) clamp(56px, 10vh, 120px);
+  max-width: none; text-align: left; transform: none; margin: 0; grid-template-columns: none; place-items: initial;
+}
+body:not([data-herotext="standard"]) .hero .hero-txt > .wrap, body:not([data-herotext="standard"]) .hero .hero-txt > div:not(.knappar):not(.statement-rad) { display: contents; }
+body:not([data-herotext="standard"]) .hero .hero-txt .knappar { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 22px; }
+body:not([data-herotext="standard"]) .hero .hero-txt .knapp { width: auto; justify-self: start; }
+body:not([data-herotext="standard"]) .hero .hero-txt .statement-rad { display: block; margin-top: 22px; }
+body:not([data-herotext="standard"]) .hero .hero-txt h1, body:not([data-herotext="standard"]) .hero .hero-txt h2 { color: #fff; max-width: 13em; margin: 0; }
+body:not([data-herotext="standard"]) .hero .hero-txt .ingress { color: #fff; opacity: .92; max-width: 34em; margin: 20px 0 0; }
+body:not([data-herotext="standard"]) .hero .hero-txt .knappar { margin-top: 26px; }
+body:not([data-herotext="standard"]) .hero .hero-txt .etikett { color: #fff; opacity: .85; }
+body:not([data-herotext="standard"]) .hero-band .slide-text { left: 0; right: 0; bottom: 0; }
+body:not([data-herotext="standard"]) .hero .bild-fyll::after { background: linear-gradient(180deg, rgba(0,0,0,.35), rgba(0,0,0,.08) 35%, rgba(0,0,0,.66)); }
+
+/* 1 nere: stor rubrik nere till vänster */
+body[data-herotext="nere"] .hero .hero-txt h1, body[data-herotext="nere"] .hero .hero-txt h2 { font-size: calc(clamp(42px, 6.6vw, 108px) * var(--skala-r)); line-height: 1; }
+/* 2 mitten: allt centrerat */
+body[data-herotext="mitten"] .hero .hero-txt { inset: 0; justify-content: center; align-items: center; text-align: center; }
+body[data-herotext="mitten"] .hero .hero-txt h1, body[data-herotext="mitten"] .hero .hero-txt h2 { font-size: calc(clamp(40px, 6vw, 96px) * var(--skala-r)); margin-inline: auto; }
+body[data-herotext="mitten"] .hero .hero-txt .ingress { margin-inline: auto; }
+body[data-herotext="mitten"] .hero .hero-txt .knappar { justify-content: center; }
+body[data-herotext="mitten"] .hero .bild-fyll::after { background: rgba(0,0,0,.48); }
+/* 3 uppe: rubriken högt upp, under menyn */
+body[data-herotext="uppe"] .hero .hero-txt { inset: 0 0 auto 0; padding-top: calc(var(--head-h) + 12vh); }
+body[data-herotext="uppe"] .hero .hero-txt h1, body[data-herotext="uppe"] .hero .hero-txt h2 { font-size: calc(clamp(40px, 5.8vw, 92px) * var(--skala-r)); }
+body[data-herotext="uppe"] .hero .bild-fyll::after { background: linear-gradient(180deg, rgba(0,0,0,.66), rgba(0,0,0,.15) 60%, rgba(0,0,0,.05)); }
+/* 4 hoger: högerställd */
+body[data-herotext="hoger"] .hero .hero-txt { align-items: flex-end; text-align: right; }
+body[data-herotext="hoger"] .hero .hero-txt h1, body[data-herotext="hoger"] .hero .hero-txt h2 { font-size: calc(clamp(40px, 5.6vw, 92px) * var(--skala-r)); max-width: 11em; }
+body[data-herotext="hoger"] .hero .hero-txt .knappar { justify-content: flex-end; }
+body[data-herotext="hoger"] .hero .bild-fyll::after { background: linear-gradient(270deg, rgba(0,0,0,.7), rgba(0,0,0,.05) 70%); }
+/* 5 jatte: enorm rubrik i versaler över hela bredden */
+body[data-herotext="jatte"] .hero .hero-txt h1, body[data-herotext="jatte"] .hero .hero-txt h2 { font-size: calc(clamp(44px, 9.4vw, 172px) * var(--skala-r)); line-height: .9; letter-spacing: -.045em; text-transform: uppercase; max-width: none; overflow-wrap: anywhere; }
+body[data-herotext="jatte"] .hero .hero-txt .ingress { font-size: 17px; max-width: 30em; }
+/* 6 kort: texten i ett ljust kort */
+body[data-herotext="kort"] .hero .hero-txt { inset: auto auto clamp(32px, 7vh, 80px) max(20px, calc((100vw - var(--maxw)) / 2 + 40px)); max-width: min(640px, calc(100% - 40px)); padding: clamp(28px, 3vw, 48px); background: var(--c-bg); border-radius: var(--r-card); box-shadow: 0 20px 60px rgba(0,0,0,.25); }
+body[data-herotext="kort"] .hero .hero-txt h1, body[data-herotext="kort"] .hero .hero-txt h2 { color: var(--c-rubrik); font-size: calc(clamp(32px, 3.6vw, 58px) * var(--skala-r)); }
+body[data-herotext="kort"] .hero .hero-txt .ingress { color: var(--c-ink); }
+body[data-herotext="kort"] .hero .hero-txt .etikett { color: var(--c-etikett); opacity: 1; }
+body[data-herotext="kort"] .hero .hero-txt .knapp-ljus { background: var(--c-knapp); border-color: var(--c-knapp); color: var(--c-knapp-ink); }
+body[data-herotext="kort"] .hero .hero-txt .textlank { color: var(--c-p-text); }
+body[data-herotext="kort"] .hero .bild-fyll::after { background: rgba(0,0,0,.08); }
+/* 7 linje: lodrät accentlinje framför texten */
+body[data-herotext="linje"] .hero .hero-txt { border-left: 0; }
+body[data-herotext="linje"] .hero .hero-txt h1, body[data-herotext="linje"] .hero .hero-txt h2 { font-size: calc(clamp(38px, 5vw, 82px) * var(--skala-r)); border-left: 6px solid var(--c-a); padding-left: clamp(18px, 2vw, 32px); }
+body[data-herotext="linje"] .hero .hero-txt .ingress, body[data-herotext="linje"] .hero .hero-txt .knappar, body[data-herotext="linje"] .hero .hero-txt .etikett, body[data-herotext="linje"] .hero .hero-txt .statement-rad { margin-left: calc(6px + clamp(18px, 2vw, 32px)); }
+/* 8 versal: spärrade versaler, mindre storlek */
+body[data-herotext="versal"] .hero .hero-txt h1, body[data-herotext="versal"] .hero .hero-txt h2 { font-size: calc(clamp(30px, 4vw, 64px) * var(--skala-r)); text-transform: uppercase; letter-spacing: .06em; line-height: 1.12; font-weight: 700; }
+/* 9 kursiv */
+body[data-herotext="kursiv"] .hero .hero-txt h1, body[data-herotext="kursiv"] .hero .hero-txt h2 { font-style: italic; font-weight: 400; font-size: calc(clamp(44px, 7vw, 120px) * var(--skala-r)); line-height: .98; letter-spacing: -.02em; }
+/* 10 band: texten i ett helbrett färgband nertill */
+body[data-herotext="band"] .hero .hero-txt { padding-top: clamp(28px, 4vw, 56px); padding-bottom: clamp(28px, 4vw, 56px); background: var(--c-p); color: var(--c-p-ink); }
+body[data-herotext="band"] .hero .hero-txt h1, body[data-herotext="band"] .hero .hero-txt h2, body[data-herotext="band"] .hero .hero-txt .ingress, body[data-herotext="band"] .hero .hero-txt .etikett, body[data-herotext="band"] .hero .hero-txt .textlank { color: var(--c-p-ink); }
+body[data-herotext="band"] .hero .hero-txt h1, body[data-herotext="band"] .hero .hero-txt h2 { font-size: calc(clamp(32px, 4vw, 64px) * var(--skala-r)); max-width: 18em; }
+body[data-herotext="band"] .hero .hero-txt .knapp-ljus { background: var(--c-a); border-color: var(--c-a); color: var(--c-a-ink); }
+body[data-herotext="band"] .hero .bild-fyll::after { background: rgba(0,0,0,.1); }
+@media (min-width: 1000px) { body[data-herotext="band"] .hero .hero-txt { display: grid; grid-template-columns: 1.4fr 1fr; column-gap: 64px; align-items: end; } body[data-herotext="band"] .hero .hero-txt .etikett { grid-column: 1 / -1; } body[data-herotext="band"] .hero .hero-txt .ingress { margin-top: 0; } body[data-herotext="band"] .hero .hero-txt .knappar, body[data-herotext="band"] .hero .hero-txt .statement-rad { grid-column: 2; } }
+/* 11 stack: ett ord per rad */
+body[data-herotext="stack"] .hero .hero-txt h1, body[data-herotext="stack"] .hero .hero-txt h2 { font-size: calc(clamp(40px, 6.2vw, 104px) * var(--skala-r)); line-height: .94; word-spacing: 100vw; max-width: none; }
+body[data-herotext="stack"] .hero .bild-fyll::after { background: linear-gradient(90deg, rgba(0,0,0,.72), rgba(0,0,0,.1) 70%); }
+/* 12 kontur: konturerad rubrik */
+body[data-herotext="kontur"] .hero .hero-txt h1, body[data-herotext="kontur"] .hero .hero-txt h2 { font-size: calc(clamp(44px, 8vw, 148px) * var(--skala-r)); line-height: .95; text-transform: uppercase; color: transparent; -webkit-text-stroke: 2px #fff; letter-spacing: -.02em; max-width: none; }
+@supports not (-webkit-text-stroke: 1px #fff) { body[data-herotext="kontur"] .hero .hero-txt h1 { color: #fff; } }
+/* 13 delad: rubriken uppe till vänster, ingress och knappar nere till höger */
+body[data-herotext="delad"] .hero .hero-txt { inset: 0; justify-content: space-between; }
+body[data-herotext="delad"] .hero .hero-txt h1, body[data-herotext="delad"] .hero .hero-txt h2 { font-size: calc(clamp(42px, 6.4vw, 110px) * var(--skala-r)); order: -1; }
+body[data-herotext="delad"] .hero .hero-txt .etikett { order: -2; }
+body[data-herotext="delad"] .hero .hero-txt .ingress, body[data-herotext="delad"] .hero .hero-txt .knappar, body[data-herotext="delad"] .hero .hero-txt .statement-rad, body[data-herotext="delad"] .hero .hero-txt .textlank { align-self: flex-end; max-width: 30em; }
+body[data-herotext="delad"] .hero .hero-txt .ingress { margin-top: auto; }
+body[data-herotext="delad"] .hero .bild-fyll::after { background: linear-gradient(180deg, rgba(0,0,0,.6), rgba(0,0,0,.1) 45%, rgba(0,0,0,.6)); }
+/* Mobil: mindre rubriker överallt, kortet i full bredd */
+@media (max-width: 700px) {
+  body:not([data-herotext="standard"]) .hero .hero-txt { padding-inline: 20px; }
+  body:not([data-herotext="standard"]) .hero .hero-txt h1, body:not([data-herotext="standard"]) .hero .hero-txt h2 { font-size: clamp(34px, 10vw, 48px); }
+  body[data-herotext="jatte"] .hero .hero-txt h1, body[data-herotext="kontur"] .hero .hero-txt h1 { font-size: clamp(36px, 11.5vw, 56px); }
+  body[data-herotext="kort"] .hero .hero-txt { left: 12px; right: 12px; max-width: none; bottom: 16px; padding: 24px; }
+  body[data-herotext="kort"] .hero .hero-txt h1 { font-size: 30px; }
+  body[data-herotext="delad"] .hero .hero-txt .ingress, body[data-herotext="delad"] .hero .hero-txt .knappar { align-self: flex-start; }
+}
+/* Bildspelets prickar ska inte krocka med band/kort */
+body[data-herotext="band"] .hero .spel-kontroll, body[data-herotext="delad"] .hero .spel-kontroll { bottom: auto; top: calc(var(--head-h) + 50px); }
+
+/* --- Sektionsrubriker: 8 stilar ------------------------------------------------------------------------------------ */
+body[data-rubrik="linje"] .sek-huvud .etikett::before, body[data-rubrik="linje"] .vv-ex-rad .etikett::before, body[data-rubrik="linje"] .faq-grid .etikett::before { content: ""; display: inline-block; width: 42px; height: 2px; margin-right: 12px; vertical-align: middle; background: currentColor; }
+body[data-rubrik="nummer"] main { counter-reset: sek; }
+body[data-rubrik="nummer"] main .sek-huvud .etikett::before { counter-increment: sek; content: counter(sek, decimal-leading-zero) " — "; font-weight: 700; color: var(--c-a); }
+body[data-rubrik="pill"] .sek-huvud .etikett, body[data-rubrik="pill"] .vv-ex-rad .etikett, body[data-rubrik="pill"] .faq-grid .etikett { padding: 6px 14px; border-radius: 999px; background: var(--c-ton); color: var(--c-p-text); letter-spacing: .08em; }
+body[data-rubrik="pill"] .pa-mork .sek-huvud .etikett, body[data-rubrik="pill"] .pa-farg .sek-huvud .etikett { background: rgba(255,255,255,.14); color: inherit; }
+body[data-rubrik="stor"] .sek-huvud .etikett { display: none; }
+body[data-rubrik="stor"] .sek-huvud h2 { font-size: calc(clamp(34px, 4.6vw, 72px) * var(--skala-r)); max-width: 14em; line-height: 1.02; }
+body[data-rubrik="understruken"] .sek-huvud h2::after { content: ""; display: block; width: 72px; height: 5px; margin-top: 20px; background: var(--c-a); border-radius: 3px; }
+body[data-rubrik="understruken"] .sek-huvud.mitt h2::after { margin-inline: auto; }
+body[data-rubrik="versal"] .sek-huvud h2 { text-transform: uppercase; letter-spacing: .03em; font-size: calc(clamp(26px, 2.8vw, 42px) * var(--skala-r)); }
+body[data-rubrik="versal"] .sek-huvud .etikett { letter-spacing: .24em; }
+body[data-rubrik="mitt"] .sek-huvud { flex-direction: column; align-items: center; text-align: center; }
+body[data-rubrik="mitt"] .sek-huvud h2 { margin-inline: auto; }
+body[data-rubrik="kant"] .sek-huvud { border-top: 1.5px solid currentColor; padding-top: 18px; }
+body[data-rubrik="kant"] .sek-huvud .etikett { color: inherit; opacity: .7; }
+@media (min-width: 900px) { body[data-rubrik="kant"] .sek-huvud > div { display: grid; grid-template-columns: 220px 1fr; gap: 32px; align-items: baseline; } body[data-rubrik="kant"] .sek-huvud h2 { max-width: 20em; } }
+/* Kursiv rubrikstil när paret har kursiv (data-kursiv="1") */
+body[data-kursiv="1"] .sek-huvud h2 em, body[data-kursiv="1"] h1 em { font-style: italic; }

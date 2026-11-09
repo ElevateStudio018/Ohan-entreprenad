@@ -5,12 +5,12 @@
  "arketyp": "monument",
  "fro": "14557eba",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "sora",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Sora",
+  "text": "Inter",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -19,9 +19,11 @@
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-60",
  "farger": {
@@ -74,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -92,7 +94,11 @@
   "bolag": "rund",
   "siffror": "rad",
   "nyheter": "tidning",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "berattelser": "band",
+  "logos": "standard",
+  "citat": "standard",
+  "projekt": "lista"
  },
  "ordning_lista": [
   "berattelser",
@@ -140,5 +146,14 @@
   "bygg",
   "infra",
   "people"
- ]
+ ],
+ "herotext": "linje",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "sora",
+  "hero": "centrerad",
+  "herotext": "linje",
+  "rubrik": "kant",
+  "form": "piller-kantig"
+ }
 }

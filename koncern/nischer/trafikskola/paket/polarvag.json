@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "bebd482d",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "robotoslab",
+  "kategori": "slab",
+  "rubrik": "Roboto Slab",
+  "text": "Roboto",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "skala": 0.94,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-210",
  "farger": {
@@ -68,8 +70,8 @@
   "band2": "#dba28e"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
@@ -88,11 +90,14 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "tabell",
-  "siffror": "rad",
-  "nyheter": "lista",
-  "omdomen": "stor"
+  "vagval": "register",
+  "bolag": "kort",
+  "siffror": "jatte",
+  "nyheter": "tidning",
+  "omdomen": "stor",
+  "process": "standard",
+  "logos": "standard",
+  "projekt": "lista"
  },
  "ordning_lista": [
   "process",
@@ -138,5 +143,14 @@
   "stad",
   "people",
   "people"
- ]
+ ],
+ "herotext": "jatte",
+ "rubrikstil": "linje",
+ "v7": {
+  "typ": "robotoslab",
+  "hero": "helskarm",
+  "herotext": "jatte",
+  "rubrik": "linje",
+  "form": "kantig"
+ }
 }

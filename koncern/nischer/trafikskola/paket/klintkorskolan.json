@@ -5,23 +5,25 @@
  "arketyp": "finans",
  "fro": "3861a74f",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "fraunces",
+  "kategori": "serif",
+  "rubrik": "Fraunces",
+  "text": "Inter",
+  "rubrik_vikt": 500,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "siffra_vikt": 500,
+  "logo_vikt": 500,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
+  "kursiv": true
  },
  "palett": "nisch-210",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#e26c5c"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "rund",
+  "vagval": "rutor",
+  "bolag": "tabell",
   "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "faq": "standard",
+  "process": "standard",
+  "projekt": "lista",
+  "certifikat": "standard",
+  "berattelser": "rad",
+  "citat": "standard",
+  "boka": "standard"
  },
  "ordning_lista": [
   "faq",
@@ -144,5 +153,14 @@
   "stad",
   "people",
   "people"
- ]
+ ],
+ "herotext": "nere",
+ "rubrikstil": "versal",
+ "v7": {
+  "typ": "fraunces",
+  "hero": "centrerad",
+  "herotext": "nere",
+  "rubrik": "versal",
+  "form": "latt"
+ }
 }

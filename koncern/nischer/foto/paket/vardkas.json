@@ -5,23 +5,25 @@
  "arketyp": "koncernband",
  "fro": "e96825ca",
  "typsnitt": {
-  "id": "dmserif-dmsans+pj",
-  "kategori": "serif",
-  "rubrik": "DM Serif Display",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 400,
-  "spatiering": "-0.01em",
+  "id": "raleway",
+  "kategori": "geometrisk",
+  "rubrik": "Raleway",
+  "text": "Raleway",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400",
-  "siffra_vikt": 400,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_spatiering": "0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
+  "kursiv": true
  },
  "palett": "foto-150",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#7bb4d0"
  },
  "form": {
-  "namn": "piller-mjuk",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -92,10 +94,17 @@
  "motiv": "inget",
  "block": {
   "vagval": "rutor",
-  "bolag": "flikar",
+  "bolag": "tabell",
   "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "kort",
+  "galleri": "standard",
+  "hb": "helbild",
+  "priser": "standard",
+  "citat": "standard",
+  "projekt": "karusell",
+  "panel": "helbild",
+  "snabb": "band"
  },
  "ordning_lista": [
   "galleri",
@@ -148,5 +157,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "band",
+ "rubrikstil": "versal",
+ "v7": {
+  "typ": "raleway",
+  "hero": "helskarm",
+  "herotext": "band",
+  "rubrik": "versal",
+  "form": "mjuk"
+ }
 }

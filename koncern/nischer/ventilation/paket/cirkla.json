@@ -5,23 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "3fe85fba",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "playfair",
+  "kategori": "serif",
+  "rubrik": "Playfair Display",
+  "text": "Source Sans 3",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.015em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "skala": 1.06,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
-  "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_vikt": 600,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,600;0,700;1,400;1,600",
+  "kursiv": true
  },
  "palett": "nisch-150",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#f2b84b"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "mosaik",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
+  "vagval": "lankar",
   "bolag": "flikar",
-  "siffror": "dashboard",
+  "siffror": "jatte",
   "nyheter": "tidning",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "projekt": "feature",
+  "panel": "panel",
+  "faq": "standard",
+  "certifikat": "standard",
+  "logos": "standard",
+  "hb": "siffror",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -144,5 +153,14 @@
   "kontor",
   "bygg",
   "people"
- ]
+ ],
+ "herotext": "kursiv",
+ "rubrikstil": "standard",
+ "v7": {
+  "typ": "playfair",
+  "hero": "centrerad",
+  "herotext": "kursiv",
+  "rubrik": "standard",
+  "form": "rundad"
+ }
 }

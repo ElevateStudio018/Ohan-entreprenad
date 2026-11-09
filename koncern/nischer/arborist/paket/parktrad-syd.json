@@ -5,23 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "c2010372",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "robotoslab",
+  "kategori": "slab",
+  "rubrik": "Roboto Slab",
+  "text": "Roboto",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "skala": 0.94,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_versaler": false,
+  "logo_spatiering": "-0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "arborist-120",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "piller-latt",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 6,
-  "bild": 4,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "mosaik",
- "header": "ljus",
+ "hero": "split",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -88,11 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "cirklar",
   "bolag": "lista",
-  "siffror": "rad",
+  "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "process": "standard",
+  "citat": "standard",
+  "projekt": "lista",
+  "priser": "standard",
+  "galleri": "standard",
+  "panel": "panel",
+  "certifikat": "standard",
+  "faq": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -147,5 +157,14 @@
   "trad",
   "ved",
   "tradgard"
- ]
+ ],
+ "herotext": "standard",
+ "rubrikstil": "linje",
+ "v7": {
+  "typ": "robotoslab",
+  "hero": "split",
+  "herotext": "standard",
+  "rubrik": "linje",
+  "form": "mjuk"
+ }
 }

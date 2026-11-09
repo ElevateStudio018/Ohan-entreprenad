@@ -5,23 +5,25 @@
  "arketyp": "industriell",
  "fro": "4c07242d",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "rubik",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Rubik",
+  "text": "Rubik",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_versaler": false,
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "djur-90",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#d9c2a5"
  },
  "form": {
-  "namn": "piller-rundad",
-  "knapp": 999,
-  "kort": 18,
-  "bild": 16,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -88,11 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "register",
   "bolag": "kort",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "berattelser": "tre",
+  "process": "standard",
+  "priser": "standard",
+  "galleri": "standard",
+  "boka": "standard"
  },
  "ordning_lista": [
   "siffror",
@@ -143,5 +150,14 @@
   "valp",
   "katt",
   "hundtraning"
- ]
+ ],
+ "herotext": "kursiv",
+ "rubrikstil": "linje",
+ "v7": {
+  "typ": "rubik",
+  "hero": "band",
+  "herotext": "kursiv",
+  "rubrik": "linje",
+  "form": "rundad"
+ }
 }

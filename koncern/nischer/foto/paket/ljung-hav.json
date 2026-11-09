@@ -5,23 +5,25 @@
  "arketyp": "finans",
  "fro": "0b386c8e",
  "typsnitt": {
-  "id": "dmserif-dmsans+pj",
-  "kategori": "serif",
-  "rubrik": "DM Serif Display",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 400,
-  "spatiering": "-0.01em",
+  "id": "albert",
+  "kategori": "grotesk",
+  "rubrik": "Albert Sans",
+  "text": "Albert Sans",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.025em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "skala": 1.06,
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400",
-  "siffra_vikt": 400,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "foto-270",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#d9c2a5"
  },
  "form": {
-  "namn": "piller-mjuk",
-  "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -92,7 +94,15 @@
   "bolag": "tabell",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "process": "standard",
+  "projekt": "feature",
+  "galleri": "standard",
+  "priser": "standard",
+  "berattelser": "stor",
+  "citat": "standard",
+  "faq": "standard",
+  "boka": "standard"
  },
  "ordning_lista": [
   "process",
@@ -143,5 +153,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "kort",
+ "rubrikstil": "mitt",
+ "v7": {
+  "typ": "albert",
+  "hero": "helskarm",
+  "herotext": "kort",
+  "rubrik": "mitt",
+  "form": "kantig"
+ }
 }

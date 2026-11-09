@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "a1eccd4a",
  "typsnitt": {
-  "id": "fraunces-inter+pj",
-  "kategori": "serif",
-  "rubrik": "Fraunces",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 500,
-  "spatiering": "-0.02em",
+  "id": "figtree",
+  "kategori": "geometrisk",
+  "rubrik": "Figtree",
+  "text": "Figtree",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.025em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "skala": 1.06,
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 500,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "foto-90",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#b27eed"
  },
  "form": {
-  "namn": "piller-mjuk",
+  "namn": "piller-kantig",
   "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "split",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,9 +92,17 @@
  "block": {
   "vagval": "cirklar",
   "bolag": "rund",
-  "siffror": "band",
-  "nyheter": "lista",
-  "omdomen": "kort"
+  "siffror": "rad",
+  "nyheter": "rad",
+  "omdomen": "kort",
+  "galleri": "standard",
+  "citat": "standard",
+  "berattelser": "stor",
+  "priser": "standard",
+  "projekt": "karusell",
+  "process": "standard",
+  "hb": "split",
+  "snabb": "band"
  },
  "ordning_lista": [
   "omdomen",
@@ -146,5 +156,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "standard",
+ "rubrikstil": "standard",
+ "v7": {
+  "typ": "figtree",
+  "hero": "split",
+  "herotext": "standard",
+  "rubrik": "standard",
+  "form": "piller-kantig"
+ }
 }

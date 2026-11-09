@@ -5,23 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "3d38e344",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "syne",
+  "kategori": "display",
+  "rubrik": "Syne",
+  "text": "Inter",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700;800",
+  "kursiv": false
  },
  "palett": "mega-270",
  "farger": {
@@ -77,8 +79,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "statement",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -91,11 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "kort",
+  "vagval": "rader",
+  "bolag": "flikar",
   "siffror": "band",
-  "nyheter": "lista",
-  "omdomen": "kort"
+  "nyheter": "rad",
+  "omdomen": "kort",
+  "kontor": "standard",
+  "citat": "standard",
+  "hb": "helbild",
+  "process": "standard",
+  "ir": "kort",
+  "panel": "panel",
+  "projekt": "lista",
+  "snabb": "band"
  },
  "ordning_lista": [
   "kontor",
@@ -146,5 +156,14 @@
  },
  "profil": "mega",
  "min_avstand": 9.87,
- "hero_tagg": "industri"
+ "hero_tagg": "industri",
+ "herotext": "band",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "syne",
+  "hero": "helskarm",
+  "herotext": "band",
+  "rubrik": "kant",
+  "form": "piller-kantig"
+ }
 }

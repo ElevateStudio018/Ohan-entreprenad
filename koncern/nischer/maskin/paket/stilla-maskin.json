@@ -5,23 +5,25 @@
  "arketyp": "koncernband",
  "fro": "4690e99a",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "montserrat",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "rubrik": "Montserrat",
+  "text": "Montserrat",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-60",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#93d766"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "split",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "flikar",
+  "vagval": "lankar",
+  "bolag": "lista",
   "siffror": "rad",
-  "nyheter": "tidning",
-  "omdomen": "stor"
+  "nyheter": "lista",
+  "omdomen": "stor",
+  "citat": "standard",
+  "projekt": "lista",
+  "process": "standard",
+  "certifikat": "standard",
+  "snabb": "band"
  },
  "ordning_lista": [
   "bolag",
@@ -143,5 +150,14 @@
   "mark",
   "bygg",
   "people"
- ]
+ ],
+ "herotext": "standard",
+ "rubrikstil": "linje",
+ "v7": {
+  "typ": "montserrat",
+  "hero": "split",
+  "herotext": "standard",
+  "rubrik": "linje",
+  "form": "rundad"
+ }
 }

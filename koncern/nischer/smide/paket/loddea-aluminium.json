@@ -5,23 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "08ce2eee",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "syne",
+  "kategori": "display",
+  "rubrik": "Syne",
+  "text": "Inter",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_versaler": false,
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700;800",
+  "kursiv": false
  },
  "palett": "nisch-0",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "mosaik",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "expertis",
   "bolag": "lista",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "projekt": "feature",
+  "logos": "standard",
+  "faq": "standard",
+  "panel": "panel",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -138,5 +145,14 @@
   "industri",
   "bygg",
   "people"
- ]
+ ],
+ "herotext": "jatte",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "syne",
+  "hero": "helskarm",
+  "herotext": "jatte",
+  "rubrik": "kant",
+  "form": "kantig"
+ }
 }

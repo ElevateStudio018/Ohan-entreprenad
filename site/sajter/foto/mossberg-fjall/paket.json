@@ -5,23 +5,25 @@
  "arketyp": "teknisk",
  "fro": "95452c5a",
  "typsnitt": {
-  "id": "newsreader-inter+pj",
+  "id": "cormorant",
   "kategori": "serif",
-  "rubrik": "Newsreader",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Cormorant Garamond",
+  "text": "Montserrat",
   "rubrik_vikt": 500,
-  "spatiering": "-0.02em",
+  "spatiering": "-0.01em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "skala": 1.06,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
-  "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_vikt": 500,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
+  "kursiv": true
  },
  "palett": "foto-270",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#f4a6b8"
  },
  "form": {
-  "namn": "piller-mjuk",
-  "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "statement",
- "header": "ljus",
+ "hero": "band",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
-  "bolag": "lista",
+  "vagval": "lankar",
+  "bolag": "tabell",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "kort",
+  "faq": "standard",
+  "projekt": "lista",
+  "process": "standard",
+  "galleri": "standard",
+  "citat": "standard",
+  "hb": "siffror",
+  "panel": "helbild",
+  "priser": "standard",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -149,5 +160,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "stack",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "cormorant",
+  "hero": "band",
+  "herotext": "stack",
+  "rubrik": "understruken",
+  "form": "rundad"
+ }
 }

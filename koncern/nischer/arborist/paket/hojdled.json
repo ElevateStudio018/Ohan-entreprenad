@@ -5,23 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "64021266",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "mulish",
+  "kategori": "humanistisk",
+  "rubrik": "Mulish",
+  "text": "Mulish",
+  "rubrik_vikt": 800,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 800,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_versaler": false,
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,600;0,700;0,800;1,700",
+  "kursiv": true
  },
  "palett": "arborist-60",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#85dd81"
  },
  "form": {
-  "namn": "piller-latt",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 6,
-  "bild": 4,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "kort",
+  "vagval": "bildrutor",
+  "bolag": "tabell",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "berattelser": "tre",
+  "process": "standard",
+  "faq": "standard",
+  "projekt": "lista",
+  "certifikat": "standard",
+  "priser": "standard",
+  "snabb": "band"
  },
  "ordning_lista": [
   "berattelser",
@@ -143,5 +152,14 @@
   "trad",
   "ved",
   "tradgard"
- ]
+ ],
+ "herotext": "stack",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "mulish",
+  "hero": "helskarm",
+  "herotext": "stack",
+  "rubrik": "stor",
+  "form": "mjuk"
+ }
 }

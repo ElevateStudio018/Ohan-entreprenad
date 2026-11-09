@@ -5,23 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "af11409f",
  "typsnitt": {
-  "id": "playfair-source+pj",
-  "kategori": "serif",
-  "rubrik": "Playfair Display",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.015em",
+  "id": "quicksand",
+  "kategori": "rund",
+  "rubrik": "Quicksand",
+  "text": "Nunito Sans",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.01em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "skala": 0.94,
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700",
+  "kursiv": false
  },
  "palett": "foto-0",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "piller-mjuk",
-  "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
  "hero": "statement",
- "header": "ljus",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -94,8 +96,17 @@
   "vagval": "rader",
   "bolag": "rund",
   "siffror": "rad",
-  "nyheter": "lista",
-  "omdomen": "kort"
+  "nyheter": "tidning",
+  "omdomen": "kort",
+  "projekt": "feature",
+  "panel": "jobb",
+  "hb": "split",
+  "berattelser": "stor",
+  "priser": "standard",
+  "galleri": "standard",
+  "faq": "standard",
+  "citat": "standard",
+  "snabb": "rutor"
  },
  "ordning_lista": [
   "projekt",
@@ -154,5 +165,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "hoger",
+ "rubrikstil": "versal",
+ "v7": {
+  "typ": "quicksand",
+  "hero": "statement",
+  "herotext": "hoger",
+  "rubrik": "versal",
+  "form": "kantig"
+ }
 }

@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "21d23130",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "spacemono",
+  "kategori": "mono",
+  "rubrik": "Space Mono",
+  "text": "Space Grotesk",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "skala": 0.94,
+  "rubrik_fallback": "ui-monospace, monospace",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,700;1,400",
+  "kursiv": true
  },
  "palett": "nisch-150",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#d9c2a5"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,9 +92,15 @@
  "block": {
   "vagval": "rutor",
   "bolag": "flikar",
-  "siffror": "jatte",
+  "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "projekt": "lista",
+  "process": "standard",
+  "faq": "standard",
+  "hb": "siffror",
+  "logos": "standard",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -140,5 +148,14 @@
   "industri",
   "bygg",
   "people"
- ]
+ ],
+ "herotext": "mitten",
+ "rubrikstil": "linje",
+ "v7": {
+  "typ": "spacemono",
+  "hero": "statement",
+  "herotext": "mitten",
+  "rubrik": "linje",
+  "form": "piller-rund"
+ }
 }

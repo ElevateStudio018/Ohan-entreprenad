@@ -5,23 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "7e986fb4",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "bricolage",
+  "kategori": "display",
+  "rubrik": "Bricolage Grotesque",
+  "text": "Inter",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_versaler": false,
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700;800",
+  "kursiv": false
  },
  "palett": "bygg-30",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#829cf0"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "statement",
- "header": "ljus",
+ "hero": "mosaik",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "flikar",
-  "siffror": "dashboard",
-  "nyheter": "lista",
-  "omdomen": "stor"
+  "vagval": "cirklar",
+  "bolag": "kort",
+  "siffror": "rad",
+  "nyheter": "rad",
+  "omdomen": "kort",
+  "projekt": "lista",
+  "certifikat": "standard",
+  "hb": "helbild",
+  "citat": "standard",
+  "panel": "panel",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -145,5 +153,14 @@
  },
  "profil": "bygg",
  "min_avstand": 10.24,
- "hero_tagg": "kontor"
+ "hero_tagg": "kontor",
+ "herotext": "stack",
+ "rubrikstil": "linje",
+ "v7": {
+  "typ": "bricolage",
+  "hero": "mosaik",
+  "herotext": "stack",
+  "rubrik": "linje",
+  "form": "piller-rund"
+ }
 }

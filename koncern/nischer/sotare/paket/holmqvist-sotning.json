@@ -5,23 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "d19df689",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "josefin",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Josefin Sans",
+  "text": "Mulish",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.01em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,600;0,700;1,400",
+  "kursiv": true
  },
  "palett": "nisch-270",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "mosaik",
- "header": "ljus",
+ "hero": "band",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
+  "vagval": "rader",
   "bolag": "kort",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "panel": "panel",
+  "hb": "siffror",
+  "projekt": "lista",
+  "logos": "standard",
+  "snabb": "rutor"
  },
  "ordning_lista": [
   "omdomen",
@@ -140,5 +147,14 @@
   "hem",
   "tak",
   "people"
- ]
+ ],
+ "herotext": "versal",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "josefin",
+  "hero": "band",
+  "herotext": "versal",
+  "rubrik": "understruken",
+  "form": "piller-rund"
+ }
 }

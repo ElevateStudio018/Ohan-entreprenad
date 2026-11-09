@@ -5,23 +5,25 @@
  "arketyp": "industriell",
  "fro": "4d8e2575",
  "typsnitt": {
-  "id": "fraunces-inter+pj",
+  "id": "spectral",
   "kategori": "serif",
-  "rubrik": "Fraunces",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Spectral",
+  "text": "Karla",
   "rubrik_vikt": 500,
   "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "skala": 0.94,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
-  "logo_vikt": 800,
+  "logo_vikt": 500,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400",
+  "kursiv": true
  },
  "palett": "foto-300",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "piller-mjuk",
-  "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -91,8 +93,14 @@
   "vagval": "rutor",
   "bolag": "kort",
   "siffror": "rad",
-  "nyheter": "tidning",
-  "omdomen": "kort"
+  "nyheter": "rad",
+  "omdomen": "stor",
+  "panel": "jobb",
+  "priser": "standard",
+  "projekt": "feature",
+  "hb": "helbild",
+  "galleri": "standard",
+  "snabb": "rutor"
  },
  "ordning_lista": [
   "bolag",
@@ -145,5 +153,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "jatte",
+ "rubrikstil": "nummer",
+ "v7": {
+  "typ": "spectral",
+  "hero": "centrerad",
+  "herotext": "jatte",
+  "rubrik": "nummer",
+  "form": "latt"
+ }
 }

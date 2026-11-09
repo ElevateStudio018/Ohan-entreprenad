@@ -5,23 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "ac76212e",
  "typsnitt": {
-  "id": "newsreader-inter+pj",
+  "id": "newsreader",
   "kategori": "serif",
   "rubrik": "Newsreader",
-  "text": "Plus Jakarta Sans",
+  "text": "Inter",
   "rubrik_vikt": 500,
   "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "skala": 1.06,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
-  "logo_vikt": 800,
+  "logo_vikt": 500,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400",
+  "kursiv": true
  },
  "palett": "foto-30",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "piller-mjuk",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "mosaik",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "nummer",
   "bolag": "flikar",
-  "siffror": "jatte",
+  "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "projekt": "feature",
+  "galleri": "standard",
+  "process": "standard",
+  "faq": "standard",
+  "berattelser": "tre",
+  "priser": "standard",
+  "panel": "jobb",
+  "citat": "standard"
  },
  "ordning_lista": [
   "nyheter",
@@ -149,5 +159,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "linje",
+ "rubrikstil": "nummer",
+ "v7": {
+  "typ": "newsreader",
+  "hero": "helskarm",
+  "herotext": "linje",
+  "rubrik": "nummer",
+  "form": "mjuk"
+ }
 }

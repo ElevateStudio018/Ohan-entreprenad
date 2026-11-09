@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "dbf7d928",
  "typsnitt": {
-  "id": "newsreader-inter+pj",
+  "id": "fraunces",
   "kategori": "serif",
-  "rubrik": "Newsreader",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Fraunces",
+  "text": "Inter",
   "rubrik_vikt": 500,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
-  "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_vikt": 500,
+  "logo_versaler": false,
+  "logo_spatiering": "0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
+  "kursiv": true
  },
  "palett": "foto-330",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#7ee880"
  },
  "form": {
-  "namn": "piller-mjuk",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -89,10 +91,19 @@
  "motiv": "inget",
  "block": {
   "vagval": "rader",
-  "bolag": "lista",
+  "bolag": "rund",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "stor"
+  "omdomen": "kort",
+  "citat": "standard",
+  "projekt": "lista",
+  "priser": "standard",
+  "hb": "split",
+  "faq": "standard",
+  "process": "standard",
+  "galleri": "standard",
+  "berattelser": "tre",
+  "boka": "standard"
  },
  "ordning_lista": [
   "bolag",
@@ -149,5 +160,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "kursiv",
+ "rubrikstil": "mitt",
+ "v7": {
+  "typ": "fraunces",
+  "hero": "band",
+  "herotext": "kursiv",
+  "rubrik": "mitt",
+  "form": "piller-rund"
+ }
 }

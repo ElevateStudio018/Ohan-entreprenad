@@ -5,23 +5,25 @@
  "arketyp": "ramad",
  "fro": "10e92ec9",
  "typsnitt": {
-  "id": "playfair-source+pj",
+  "id": "garamond",
   "kategori": "serif",
-  "rubrik": "Playfair Display",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
+  "rubrik": "EB Garamond",
+  "text": "Work Sans",
+  "rubrik_vikt": 500,
   "spatiering": "-0.015em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "skala": 0.94,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "siffra_vikt": 500,
+  "logo_vikt": 500,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
+  "kursiv": true
  },
  "palett": "foto-180",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#f07584"
  },
  "form": {
-  "namn": "piller-mjuk",
-  "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -89,10 +91,19 @@
  "motiv": "inget",
  "block": {
   "vagval": "rutor",
-  "bolag": "tabell",
+  "bolag": "flikar",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "galleri": "standard",
+  "citat": "standard",
+  "berattelser": "rad",
+  "hb": "helbild",
+  "faq": "standard",
+  "priser": "standard",
+  "projekt": "lista",
+  "panel": "helbild",
+  "boka": "standard"
  },
  "ordning_lista": [
   "galleri",
@@ -149,5 +160,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "kontur",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "garamond",
+  "hero": "centrerad",
+  "herotext": "kontur",
+  "rubrik": "kant",
+  "form": "latt"
+ }
 }

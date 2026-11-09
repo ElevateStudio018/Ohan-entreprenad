@@ -5,23 +5,25 @@
  "arketyp": "koncernband",
  "fro": "c814be62",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "figtree",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
+  "rubrik": "Figtree",
+  "text": "Figtree",
+  "rubrik_vikt": 700,
   "spatiering": "-0.025em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "arborist-60",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#546feb"
  },
  "form": {
-  "namn": "piller-latt",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 6,
-  "bild": 4,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
  "hero": "band",
- "header": "ljus",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
+  "vagval": "register",
   "bolag": "rund",
   "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "berattelser": "rad",
+  "certifikat": "standard",
+  "citat": "standard",
+  "projekt": "karusell",
+  "galleri": "standard",
+  "priser": "standard",
+  "process": "standard",
+  "hb": "split",
+  "snabb": "rutor"
  },
  "ordning_lista": [
   "berattelser",
@@ -150,5 +161,14 @@
   "trad",
   "ved",
   "tradgard"
- ]
+ ],
+ "herotext": "hoger",
+ "rubrikstil": "nummer",
+ "v7": {
+  "typ": "figtree",
+  "hero": "band",
+  "herotext": "hoger",
+  "rubrik": "nummer",
+  "form": "piller-rund"
+ }
 }

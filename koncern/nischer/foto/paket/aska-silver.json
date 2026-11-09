@@ -5,23 +5,25 @@
  "arketyp": "finans",
  "fro": "c1c62a08",
  "typsnitt": {
-  "id": "newsreader-inter+pj",
-  "kategori": "serif",
-  "rubrik": "Newsreader",
-  "text": "Plus Jakarta Sans",
+  "id": "jost",
+  "kategori": "geometrisk",
+  "rubrik": "Jost",
+  "text": "Jost",
   "rubrik_vikt": 500,
   "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "skala": 1.06,
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 500,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400",
+  "kursiv": true
  },
  "palett": "foto-120",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#84ec76"
  },
  "form": {
-  "namn": "piller-mjuk",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "kort",
-  "siffror": "rad",
-  "nyheter": "lista",
-  "omdomen": "stor"
+  "vagval": "chips",
+  "bolag": "tabell",
+  "siffror": "band",
+  "nyheter": "tidning",
+  "omdomen": "stor",
+  "priser": "standard",
+  "projekt": "feature",
+  "citat": "standard",
+  "faq": "standard",
+  "galleri": "standard",
+  "panel": "panel",
+  "boka": "standard"
  },
  "ordning_lista": [
   "priser",
@@ -149,5 +158,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "mitten",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "jost",
+  "hero": "helskarm",
+  "herotext": "mitten",
+  "rubrik": "stor",
+  "form": "mjuk"
+ }
 }

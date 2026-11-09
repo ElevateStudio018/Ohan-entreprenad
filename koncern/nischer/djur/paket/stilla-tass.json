@@ -5,23 +5,25 @@
  "arketyp": "teknisk",
  "fro": "d406b820",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "fraunces",
+  "kategori": "serif",
+  "rubrik": "Fraunces",
+  "text": "Inter",
+  "rubrik_vikt": 500,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "skala": 1.06,
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "siffra_vikt": 500,
+  "logo_vikt": 500,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
+  "kursiv": true
  },
  "palett": "djur-240",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "piller-rundad",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 18,
-  "bild": 16,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "statement",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
-  "bolag": "tabell",
+  "vagval": "rader",
+  "bolag": "rund",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "process": "standard",
+  "priser": "standard",
+  "faq": "standard",
+  "hb": "split",
+  "berattelser": "band",
+  "projekt": "feature",
+  "snabb": "band"
  },
  "ordning_lista": [
   "bolag",
@@ -150,5 +159,14 @@
   "valp",
   "katt",
   "hundtraning"
- ]
+ ],
+ "herotext": "kontur",
+ "rubrikstil": "versal",
+ "v7": {
+  "typ": "fraunces",
+  "hero": "helskarm",
+  "herotext": "kontur",
+  "rubrik": "versal",
+  "form": "piller-rund"
+ }
 }

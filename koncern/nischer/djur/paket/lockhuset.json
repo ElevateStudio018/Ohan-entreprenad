@@ -5,23 +5,25 @@
  "arketyp": "finans",
  "fro": "ea194e6b",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "poppins",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Poppins",
+  "text": "Poppins",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_spatiering": "0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "djur-90",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#9d86d9"
  },
  "form": {
-  "namn": "piller-rundad",
-  "knapp": 999,
-  "kort": 18,
-  "bild": 16,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
  "panel": "mork",
@@ -91,11 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
+  "vagval": "rutor",
   "bolag": "flikar",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "hb": "kort",
+  "faq": "standard",
+  "process": "standard",
+  "projekt": "feature",
+  "panel": "helbild",
+  "priser": "standard",
+  "boka": "standard"
  },
  "ordning_lista": [
   "hb",
@@ -148,5 +157,14 @@
   "valp",
   "katt",
   "hundtraning"
- ]
+ ],
+ "herotext": "mitten",
+ "rubrikstil": "nummer",
+ "v7": {
+  "typ": "poppins",
+  "hero": "helskarm",
+  "herotext": "mitten",
+  "rubrik": "nummer",
+  "form": "latt"
+ }
 }

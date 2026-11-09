@@ -5,23 +5,25 @@
  "arketyp": "ramad",
  "fro": "f7f30f92",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "baskerville",
+  "kategori": "serif",
+  "rubrik": "Libre Baskerville",
+  "text": "Lato",
+  "rubrik_vikt": 400,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,700;1,400",
+  "kursiv": true
  },
  "palett": "nisch-150",
  "farger": {
@@ -74,8 +76,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "cirklar",
   "bolag": "flikar",
-  "siffror": "rad",
-  "nyheter": "lista",
-  "omdomen": "kort"
+  "siffror": "band",
+  "nyheter": "tidning",
+  "omdomen": "kort",
+  "process": "standard",
+  "citat": "standard",
+  "hb": "kort",
+  "priser": "standard",
+  "faq": "standard",
+  "projekt": "feature",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -144,5 +153,14 @@
   "kontor",
   "interior",
   "people"
- ]
+ ],
+ "herotext": "uppe",
+ "rubrikstil": "linje",
+ "v7": {
+  "typ": "baskerville",
+  "hero": "centrerad",
+  "herotext": "uppe",
+  "rubrik": "linje",
+  "form": "piller-kantig"
+ }
 }

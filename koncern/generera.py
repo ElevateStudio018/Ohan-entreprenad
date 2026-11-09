@@ -23,6 +23,8 @@ sys.path.insert(0, str(ROT / "mall"))
 sys.path.insert(0, str(ROT))
 from ikoner import ikon  # noqa: E402
 from profiler import KONCERN_T, hamta as hamta_profil  # noqa: E402
+import varianter  # noqa: E402
+varianter.ladda()
 import re  # noqa: E402
 
 BANK = ROT / "bildbank"
@@ -159,13 +161,23 @@ def tokens_css(p):
 
 def google_fonts(p):
     t = p["typsnitt"]
-    fams = []
-    for namn, vikter in ((t["rubrik"], t.get("rubrik_vikter", "400;500;600;700")), (t["text"], t.get("text_vikter", "400;500;600;700"))):
-        if t.get("google", True) and namn not in [x[0] for x in fams]:
-            fams.append((namn, vikter))
-    if not fams:
+    if not t.get("google", True):
         return ""
-    q = "&".join(f"family={n.replace(' ', '+')}:wght@{w}" for n, w in fams)
+    TEXT_SPEC = {"Lato": "wght@400;700"}
+    if t.get("rubrik_spec"):
+        vikter = sorted({400, 500, 600, 700, int(t.get("rubrik_vikt", 600))})
+        if t["rubrik"] == t["text"]:
+            spec = (("ital,wght@" + ";".join(f"0,{v}" for v in vikter) + ";1,400") if "ital" in t["rubrik_spec"] else "wght@" + ";".join(map(str, vikter)))
+            fams = [(t["rubrik"], spec)]
+        else:
+            fams = [(t["rubrik"], t["rubrik_spec"]), (t["text"], TEXT_SPEC.get(t["text"], "wght@400;500;600;700"))]
+        q = "&".join(f"family={n.replace(' ', '+')}:{w}" for n, w in fams)
+    else:
+        fams = []
+        for namn, vikter in ((t["rubrik"], t.get("rubrik_vikter", "400;500;600;700")), (t["text"], t.get("text_vikter", "400;500;600;700"))):
+            if namn not in [x[0] for x in fams]:
+                fams.append((namn, vikter))
+        q = "&".join(f"family={n.replace(' ', '+')}:wght@{w}" for n, w in fams)
     return (f'<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
             f'<link rel="stylesheet" href="https://fonts.googleapis.com/css2?{q}&display=swap">')
 
@@ -269,7 +281,8 @@ class Sajt:
         p = self.p
         attr = {"hero": p["hero"], "header": "transparent" if har_hero and p["hero"] != "split" else ("ljus" if p["header"] == "transparent" else p["header"]), "meny": p["meny"], "ruta": p.get("ruta", "solid"), "kort": p.get("kort", "overlay"),
                 "knapp": p.get("knappstil", "fylld"), "projekt": p.get("projekt", "karusell"), "nyheter": p.get("nyheter", "lista"),
-                "sidhero": p.get("sidhero", "bild"), "motiv": p.get("motiv", "inget")}
+                "sidhero": p.get("sidhero", "bild"), "motiv": p.get("motiv", "inget"),
+                "herotext": p.get("herotext", "standard"), "rubrik": p.get("rubrikstil", "standard"), "kursiv": "1" if p["typsnitt"].get("kursiv") else "0"}
         return ('class="har-hero" ' if har_hero else "") + " ".join(f'data-{k}="{v}"' for k, v in attr.items())
 
     def header(self, aktiv):
@@ -400,12 +413,12 @@ class Sajt:
             for i, s in enumerate(sl):
                 tag = "h1" if s["h1"] else "h2"
                 if h == "band":
-                    txt = f'<div class="slide-text"><{tag}>{E(s["rubrik"])}</{tag}>{self.textlank(s["lank"][0], s["lank"][1])}</div>'
+                    txt = f'<div class="slide-text hero-txt"><{tag}>{E(s["rubrik"])}</{tag}>{self.textlank(s["lank"][0], s["lank"][1])}</div>'
                 elif h == "helskarm":
-                    txt = (f'<div class="slide-text"><div class="wrap"><div><span class="etikett" style="color:#fff;opacity:.85">{E(b["typ"])}</span><{tag}>{E(s["rubrik"])}</{tag}></div>'
+                    txt = (f'<div class="slide-text hero-txt"><div class="wrap"><div><span class="etikett" style="color:#fff;opacity:.85">{E(b["typ"])}</span><{tag}>{E(s["rubrik"])}</{tag}></div>'
                            f'<div><p class="ingress">{E(s["text"])}</p><div class="knappar">{self.knapp(s["lank"][0], s["lank"][1], "ljus")}</div></div></div></div>')
                 else:
-                    txt = (f'<div class="slide-text"><div><{tag}>{E(s["rubrik"])}</{tag}><p class="ingress">{E(s["text"])}</p>'
+                    txt = (f'<div class="slide-text hero-txt"><div><{tag}>{E(s["rubrik"])}</{tag}><p class="ingress">{E(s["text"])}</p>'
                            f'<div class="knappar">{self.knapp(s["lank"][0], s["lank"][1], "ljus")}</div></div></div>')
                 skugga = " skugga-bild" if h == "helskarm" else ""
                 inner += f'<div class="bild-slide{" aktiv" if i == 0 else ""}"><div class="bild-fyll{skugga}">{self.bilder.img(s["bild"], lazy=i > 0)}</div>{txt}</div>'
@@ -436,12 +449,12 @@ class Sajt:
   <svg viewBox="0 0 300 80" preserveAspectRatio="none" aria-hidden="true"><path d="M0 64 L25 58 L50 62 L75 48 L100 52 L125 40 L150 44 L175 30 L200 34 L225 22 L250 26 L275 12 L300 16" fill="none" stroke="currentColor" stroke-width="2.5"/><path d="M0 64 L25 58 L50 62 L75 48 L100 52 L125 40 L150 44 L175 30 L200 34 L225 22 L250 26 L275 12 L300 16 V80 H0Z" fill="currentColor" opacity=".12"/></svg>
   <dl>{"".join(f"<div><dt>{E(n['etikett'])}</dt><dd>{E(n['varde'])} {E(n['enhet'])}</dd></div>" for n in b["nyckeltal"][:3])}</dl><small>Fördröjd kurs. Exempeldata.</small></aside></div><span class="foto-not">Illustrationsbild</span></section>'''
         if h == "statement":
-            return f'''<section class="hero hero-statement full" aria-labelledby="h1"><div class="bild-fyll">{img}</div><div class="wrap"><span class="etikett">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
+            return f'''<section class="hero hero-statement full" aria-labelledby="h1"><div class="bild-fyll">{img}</div><div class="wrap hero-txt"><span class="etikett">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
   <div class="statement-rad"><p class="ingress">{E(b["hero_text"])}</p><div class="knappar">{self.knapp(self.T("hero_knapp"), "verksamhet.html", "ljus")}{self.textlank(self.T("hero_lank"), self.b.get("hero_lank_href", "investerare.html" if "priser" in self.slugs else "projekt.html"))}</div></div></div><span class="foto-not">Illustrationsbild</span></section>'''
         if h == "mosaik":
             extra = [self.bilder.ta(t) for t in self.p.get("mosaik_taggar", ["people", "natur"])]
             bg = "".join(f'<div class="bild-fyll" style="position:relative">{self.bilder.img(x, "(min-width:700px) 50vw, 100vw", lazy=k > 0)}</div>' for k, x in enumerate([self.hero_bild] + extra))
-            return f'''<section class="hero hero-mosaik full" aria-labelledby="h1"><div class="mosaik-bg">{bg}</div><div class="wrap"><span class="etikett" style="color:#fff;opacity:.85">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
+            return f'''<section class="hero hero-mosaik full" aria-labelledby="h1"><div class="mosaik-bg">{bg}</div><div class="wrap hero-txt"><span class="etikett" style="color:#fff;opacity:.85">{E(b["typ"])}</span><h1 id="h1">{E(b["hero_rubrik"])}</h1>
   <p class="ingress">{E(b["hero_text"])}</p><div class="knappar">{self.knapp(self.T("hero_knapp"), "verksamhet.html", "ljus")}{self.textlank(self.T("hero_lank"), self.b.get("hero_lank_href", "investerare.html" if "priser" in self.slugs else "projekt.html"))}</div></div><span class="foto-not">Illustrationsbild</span></section>'''
         raise ValueError(h)
 
@@ -790,10 +803,35 @@ class Sajt:
                  "bolag": self.s_bolag, "siffror": self.s_siffror, "projekt": self.s_projekt, "hb": self.s_hb, "ir": self.s_ir,
                  "nyheter": self.s_nyheter, "snabb": self.s_snabb, "process": self.s_process, "citat": self.s_citat, "service": self.s_service, "tidslinje": self.s_tidslinje, "kontor": self.s_kontor,
                  "priser": self.s_priser, "omdomen": self.s_omdomen, "faq": self.s_faq, "galleri": self.s_galleri, "boka": self.s_boka, "certifikat": self.s_certifikat, "logos": self.s_logos}
+        self._delar = delar
         ordning = p.get("ordning_lista") or self.ORDNING[p.get("ordning", "a")]
-        main = self.hero() + "\n" + "\n".join(delar[d]() for d in ordning)
+        main = self.hero() + "\n" + "\n".join(self.sektion(d) for d in ordning)
         har = True
         self.sida("index.html", f'{self.b["namn"]} – {self.b["slogan"]}', self.b["hero_text"], main, har_hero=har)
+
+    def sektion(self, d, v=None):
+        """En sektion i rätt variant: registrerad variant (varianter_*.py) eller den inbyggda."""
+        v = v or self.blk(d, None)
+        fn = varianter.REG.get((d, v))
+        if fn is None and d not in self._delar:
+            fn = next((f for (sek, _), f in varianter.REG.items() if sek == d), None)
+        if fn:
+            return fn(self)
+        return self._delar[d]()
+
+    # Hjälpare för varianterna
+    def tjanster(self):
+        return tjanster(self.b)
+
+    def bolagslista(self):
+        return bolagslista(self.b)
+
+    def berattelser(self):
+        return berattelser(self.b)
+
+    def huvud(self, etikett, rubrik, id_, hoger="", mitt=False):
+        """Standardhuvud för en sektion (etikett + h2 + valfri länk/knapp till höger). Rubrikstilen styrs av paketet."""
+        return (f'<div class="sek-huvud{" mitt" if mitt else ""}"><div><span class="etikett">{E(etikett)}</span><h2 id="{id_}">{E(rubrik)}</h2></div>{hoger}</div>')
 
     # --- Nya block för små företag och nischer --------------------------------------------------------------------
     def s_priser(self, sida=False):
@@ -973,7 +1011,7 @@ class Sajt:
     def assets(self):
         a = self.ut / "assets"
         a.mkdir(parents=True, exist_ok=True)
-        shutil.copy(ROT / "mall/bas.css", a / "bas.css")
+        (a / "bas.css").write_text((ROT / "mall/bas.css").read_text(encoding="utf-8") + "\n" + varianter.css(), encoding="utf-8")
         shutil.copy(ROT / "mall/sajt.js", a / "sajt.js")
         (a / "tokens.css").write_text(tokens_css(self.p), encoding="utf-8")
         lg = self.p["logga"]

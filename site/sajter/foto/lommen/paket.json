@@ -5,23 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "8763dee9",
  "typsnitt": {
-  "id": "dmserif-dmsans+pj",
+  "id": "playfair",
   "kategori": "serif",
-  "rubrik": "DM Serif Display",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 400,
-  "spatiering": "-0.01em",
+  "rubrik": "Playfair Display",
+  "text": "Source Sans 3",
+  "rubrik_vikt": 600,
+  "spatiering": "-0.015em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400",
-  "siffra_vikt": 400,
-  "logo_vikt": 800,
+  "siffra_vikt": 600,
+  "logo_vikt": 600,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,600;0,700;1,400;1,600",
+  "kursiv": true
  },
  "palett": "foto-330",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#e98a5d"
  },
  "form": {
-  "namn": "piller-mjuk",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "mosaik",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -90,9 +92,17 @@
  "block": {
   "vagval": "rader",
   "bolag": "kort",
-  "siffror": "jatte",
+  "siffror": "band",
   "nyheter": "tidning",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "panel": "panel",
+  "projekt": "karusell",
+  "process": "standard",
+  "priser": "standard",
+  "berattelser": "band",
+  "faq": "standard",
+  "galleri": "standard",
+  "boka": "standard"
  },
  "ordning_lista": [
   "panel",
@@ -147,5 +157,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "uppe",
+ "rubrikstil": "standard",
+ "v7": {
+  "typ": "playfair",
+  "hero": "mosaik",
+  "herotext": "uppe",
+  "rubrik": "standard",
+  "form": "piller-rund"
+ }
 }

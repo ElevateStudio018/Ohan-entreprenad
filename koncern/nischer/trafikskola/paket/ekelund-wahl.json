@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "b6844f50",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "mulish",
+  "kategori": "humanistisk",
+  "rubrik": "Mulish",
+  "text": "Mulish",
+  "rubrik_vikt": 800,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 800,
   "logo_vikt": 800,
-  "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_versaler": false,
+  "logo_spatiering": "-0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,600;0,700;0,800;1,700",
+  "kursiv": true
  },
  "palett": "nisch-240",
  "farger": {
@@ -74,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "kort",
+  "vagval": "nummer",
+  "bolag": "rund",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "projekt": "feature",
+  "priser": "standard",
+  "logos": "standard",
+  "certifikat": "standard",
+  "berattelser": "stor",
+  "process": "standard",
+  "snabb": "band"
  },
  "ordning_lista": [
   "vagval",
@@ -144,5 +153,14 @@
   "stad",
   "people",
   "people"
- ]
+ ],
+ "herotext": "uppe",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "mulish",
+  "hero": "band",
+  "herotext": "uppe",
+  "rubrik": "stor",
+  "form": "piller-kantig"
+ }
 }

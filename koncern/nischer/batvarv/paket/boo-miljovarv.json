@@ -5,23 +5,25 @@
  "arketyp": "koncernband",
  "fro": "6365227f",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "rubik",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Rubik",
+  "text": "Rubik",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-210",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#ebc97c"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "kort",
-  "siffror": "jatte",
+  "vagval": "nummer",
+  "bolag": "rund",
+  "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "hb": "helbild",
+  "certifikat": "standard",
+  "citat": "standard",
+  "priser": "standard",
+  "projekt": "karusell",
+  "snabb": "rutor"
  },
  "ordning_lista": [
   "hb",
@@ -143,5 +151,14 @@
   "bat",
   "natur",
   "people"
- ]
+ ],
+ "herotext": "mitten",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "rubik",
+  "hero": "helskarm",
+  "herotext": "mitten",
+  "rubrik": "stor",
+  "form": "rundad"
+ }
 }

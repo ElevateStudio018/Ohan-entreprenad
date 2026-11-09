@@ -5,23 +5,25 @@
  "arketyp": "koncernband",
  "fro": "a6e4907c",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "jost",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "rubrik": "Jost",
+  "text": "Jost",
+  "rubrik_vikt": 500,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 500,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_spatiering": "0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400",
+  "kursiv": true
  },
  "palett": "nisch-90",
  "farger": {
@@ -77,8 +79,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "mosaik",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "tabell",
+  "vagval": "register",
+  "bolag": "rund",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "process": "standard",
+  "hb": "helbild",
+  "panel": "helbild",
+  "priser": "standard",
+  "faq": "standard",
+  "projekt": "karusell",
+  "boka": "standard"
  },
  "ordning_lista": [
   "process",
@@ -149,5 +158,14 @@
   "bygg",
   "infra",
   "people"
- ]
+ ],
+ "herotext": "mitten",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "jost",
+  "hero": "mosaik",
+  "herotext": "mitten",
+  "rubrik": "understruken",
+  "form": "piller-kantig"
+ }
 }

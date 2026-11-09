@@ -5,12 +5,12 @@
  "arketyp": "industriell",
  "fro": "17192bfc",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "sora",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Sora",
+  "text": "Inter",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -18,10 +18,12 @@
   "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "bygg-240",
  "farger": {
@@ -74,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -88,11 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "lista",
+  "vagval": "cirklar",
+  "bolag": "kort",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "faq": "standard",
+  "projekt": "feature",
+  "citat": "standard",
+  "berattelser": "stor",
+  "hb": "siffror",
+  "boka": "standard"
  },
  "ordning_lista": [
   "omdomen",
@@ -138,5 +146,14 @@
  },
  "profil": "bygg",
  "min_avstand": 10.43,
- "hero_tagg": "stad"
+ "hero_tagg": "stad",
+ "herotext": "band",
+ "rubrikstil": "linje",
+ "v7": {
+  "typ": "sora",
+  "hero": "mosaik",
+  "herotext": "band",
+  "rubrik": "linje",
+  "form": "piller-kantig"
+ }
 }

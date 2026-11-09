@@ -5,14 +5,14 @@
  "arketyp": "koncernband",
  "fro": "a9389036",
  "typsnitt": {
-  "id": "plusjakarta",
+  "id": "lexend",
   "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Lexend",
+  "text": "Lexend",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
@@ -21,7 +21,9 @@
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "mega-240",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#ff8f6b"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "centrerad",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "kort",
-  "siffror": "rad",
+  "vagval": "chips",
+  "bolag": "tabell",
+  "siffror": "jatte",
   "nyheter": "tidning",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "panel": "panel",
+  "ir": "tabell",
+  "projekt": "lista",
+  "process": "standard",
+  "berattelser": "tre",
+  "kontor": "standard",
+  "citat": "standard",
+  "hb": "helbild",
+  "snabb": "band"
  },
  "ordning_lista": [
   "vagval",
@@ -149,5 +160,14 @@
  },
  "profil": "mega",
  "min_avstand": 10.26,
- "hero_tagg": "bostad"
+ "hero_tagg": "bostad",
+ "herotext": "mitten",
+ "rubrikstil": "mitt",
+ "v7": {
+  "typ": "lexend",
+  "hero": "centrerad",
+  "herotext": "mitten",
+  "rubrik": "mitt",
+  "form": "piller-rund"
+ }
 }

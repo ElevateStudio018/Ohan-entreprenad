@@ -5,23 +5,25 @@
  "arketyp": "ramad",
  "fro": "a316e684",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "archivoblack",
+  "kategori": "tung",
+  "rubrik": "Archivo Black",
+  "text": "Archivo",
+  "rubrik_vikt": 400,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400",
+  "kursiv": false
  },
  "palett": "nisch-180",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#ff8f6b"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "split",
- "header": "ljus",
+ "hero": "helskarm",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -95,7 +97,14 @@
   "bolag": "lista",
   "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "kort"
+  "omdomen": "kort",
+  "projekt": "feature",
+  "panel": "panel",
+  "berattelser": "band",
+  "logos": "standard",
+  "citat": "standard",
+  "hb": "helbild",
+  "snabb": "band"
  },
  "ordning_lista": [
   "vagval",
@@ -147,5 +156,14 @@
   "kontor",
   "bygg",
   "people"
- ]
+ ],
+ "herotext": "band",
+ "rubrikstil": "stor",
+ "v7": {
+  "typ": "archivoblack",
+  "hero": "helskarm",
+  "herotext": "band",
+  "rubrik": "stor",
+  "form": "rundad"
+ }
 }

@@ -5,23 +5,25 @@
  "arketyp": "monument",
  "fro": "fdef1ea1",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "id": "publicsans",
+  "kategori": "grotesk",
+  "rubrik": "Public Sans",
+  "text": "Public Sans",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
-  "logo_versaler": true,
+  "logo_versaler": false,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "bygg-30",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#88bdd3"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "split",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
+  "vagval": "register",
   "bolag": "kort",
   "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "kort",
+  "projekt": "karusell",
+  "citat": "standard",
+  "panel": "jobb",
+  "process": "standard",
+  "berattelser": "band",
+  "hb": "split",
+  "boka": "standard"
  },
  "ordning_lista": [
   "projekt",
@@ -140,5 +149,14 @@
  },
  "profil": "bygg",
  "min_avstand": 11.81,
- "hero_tagg": "bygg"
+ "hero_tagg": "bygg",
+ "herotext": "standard",
+ "rubrikstil": "kant",
+ "v7": {
+  "typ": "publicsans",
+  "hero": "split",
+  "herotext": "standard",
+  "rubrik": "kant",
+  "form": "latt"
+ }
 }

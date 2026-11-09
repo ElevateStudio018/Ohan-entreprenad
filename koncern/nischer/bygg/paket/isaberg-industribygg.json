@@ -5,23 +5,25 @@
  "arketyp": "koncernband",
  "fro": "9d92f8ad",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "barlowcond",
+  "kategori": "smal",
+  "rubrik": "Barlow Condensed",
+  "text": "Barlow",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
-  "versaler": false,
-  "skala": 1.0,
+  "spatiering": "0",
+  "versaler": true,
+  "skala": 0.9,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "logo_vikt": 600,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
-  "knapp_versaler": false,
-  "logo_font": "text"
+  "knapp_versaler": true,
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@500;600;700",
+  "kursiv": false
  },
  "palett": "bygg-300",
  "farger": {
@@ -71,14 +73,14 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "band",
- "header": "ljus",
+ "hero": "statement",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -91,11 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
-  "bolag": "rund",
+  "vagval": "lankar",
+  "bolag": "flikar",
   "siffror": "band",
   "nyheter": "tidning",
-  "omdomen": "stor"
+  "omdomen": "kort",
+  "projekt": "lista",
+  "citat": "standard",
+  "berattelser": "rad",
+  "certifikat": "standard",
+  "panel": "jobb",
+  "process": "standard",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -144,5 +153,14 @@
  },
  "profil": "bygg",
  "min_avstand": 10.68,
- "hero_tagg": "industri"
+ "hero_tagg": "industri",
+ "herotext": "kort",
+ "rubrikstil": "mitt",
+ "v7": {
+  "typ": "barlowcond",
+  "hero": "statement",
+  "herotext": "kort",
+  "rubrik": "mitt",
+  "form": "mjuk"
+ }
 }

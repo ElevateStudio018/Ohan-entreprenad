@@ -5,23 +5,25 @@
  "arketyp": "urban",
  "fro": "e96527af",
  "typsnitt": {
-  "id": "dmserif-dmsans+pj",
+  "id": "instrument-serif",
   "kategori": "serif",
-  "rubrik": "DM Serif Display",
-  "text": "Plus Jakarta Sans",
+  "rubrik": "Instrument Serif",
+  "text": "Inter",
   "rubrik_vikt": 400,
-  "spatiering": "-0.01em",
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400",
   "siffra_vikt": 400,
-  "logo_vikt": 800,
+  "logo_vikt": 400,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
+  "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,400;1,400",
+  "kursiv": true
  },
  "palett": "foto-330",
  "farger": {
@@ -68,13 +70,13 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "piller-mjuk",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -88,11 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "cirklar",
   "bolag": "flikar",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "stor"
+  "omdomen": "stor",
+  "hb": "kort",
+  "galleri": "standard",
+  "berattelser": "tre",
+  "process": "standard",
+  "panel": "helbild",
+  "projekt": "karusell",
+  "priser": "standard",
+  "citat": "standard",
+  "boka": "standard"
  },
  "ordning_lista": [
   "hb",
@@ -147,5 +158,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "kort",
+ "rubrikstil": "pill",
+ "v7": {
+  "typ": "instrument-serif",
+  "hero": "mosaik",
+  "herotext": "kort",
+  "rubrik": "pill",
+  "form": "piller-rund"
+ }
 }

@@ -5,14 +5,14 @@
  "arketyp": "skandinavisk",
  "fro": "da865086",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "spacegrotesk",
+  "kategori": "grotesk",
+  "rubrik": "Space Grotesk",
+  "text": "Inter",
   "rubrik_vikt": 600,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.0,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
@@ -21,7 +21,9 @@
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-240",
  "farger": {
@@ -74,8 +76,8 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "mosaik",
- "header": "ljus",
+ "hero": "statement",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "chips",
   "bolag": "flikar",
-  "siffror": "jatte",
+  "siffror": "band",
   "nyheter": "tidning",
-  "omdomen": "kort"
+  "omdomen": "stor",
+  "projekt": "karusell",
+  "citat": "standard",
+  "faq": "standard",
+  "process": "standard",
+  "certifikat": "standard",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -142,5 +150,14 @@
   "kontor",
   "stad",
   "people"
- ]
+ ],
+ "herotext": "band",
+ "rubrikstil": "understruken",
+ "v7": {
+  "typ": "spacegrotesk",
+  "hero": "statement",
+  "herotext": "band",
+  "rubrik": "understruken",
+  "form": "piller-kantig"
+ }
 }

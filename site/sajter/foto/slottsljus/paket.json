@@ -5,23 +5,25 @@
  "arketyp": "teknisk",
  "fro": "343ed26f",
  "typsnitt": {
-  "id": "dmserif-dmsans+pj",
-  "kategori": "serif",
-  "rubrik": "DM Serif Display",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 400,
-  "spatiering": "-0.01em",
+  "id": "montserrat",
+  "kategori": "geometrisk",
+  "rubrik": "Montserrat",
+  "text": "Montserrat",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.03em",
   "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "Georgia, serif",
+  "skala": 0.94,
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400",
-  "siffra_vikt": 400,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.08em",
-  "nav_versaler": false,
+  "logo_spatiering": "0.02em",
+  "nav_versaler": true,
   "knapp_versaler": false,
-  "logo_font": "text"
+  "logo_font": "rubrik",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "foto-120",
  "farger": {
@@ -68,14 +70,14 @@
   "band2": "#e26db8"
  },
  "form": {
-  "namn": "piller-mjuk",
-  "knapp": 999,
-  "kort": 4,
-  "bild": 2,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "statement",
- "header": "ljus",
+ "hero": "band",
+ "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
  "panel": "mork",
@@ -88,11 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
+  "vagval": "bildrutor",
   "bolag": "flikar",
-  "siffror": "rad",
-  "nyheter": "lista",
-  "omdomen": "kort"
+  "siffror": "dashboard",
+  "nyheter": "tidning",
+  "omdomen": "kort",
+  "citat": "standard",
+  "panel": "panel",
+  "projekt": "lista",
+  "priser": "standard",
+  "galleri": "standard",
+  "berattelser": "band",
+  "snabb": "band"
  },
  "ordning_lista": [
   "citat",
@@ -147,5 +156,14 @@
   "brudpar",
   "detalj",
   "fest"
- ]
+ ],
+ "herotext": "uppe",
+ "rubrikstil": "linje",
+ "v7": {
+  "typ": "montserrat",
+  "hero": "band",
+  "herotext": "uppe",
+  "rubrik": "linje",
+  "form": "rundad"
+ }
 }
