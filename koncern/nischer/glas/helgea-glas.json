@@ -33,7 +33,7 @@
     {"titel": "Modulbyggare", "text": "Badrumsmoduler som byggs färdiga i fabrik får glaset monterat innan de lämnar hallen. Vi har fasta leveransdagar till tre modultillverkare.", "text2": "Glaset säkras med transportskydd som tas bort vid slutbesiktning.", "tagg": "industri"}
   ],
   "bolag": [
-    {"namn": "Fabriken", "segment": "Kristianstad", "rubrik": "Glas som anländer färdigt att montera", "text": "Kantslipning, borrning och förmontering av beslag i två skift. Varje glas märks med projekt, trapphus och lägenhet.", "tagg": "industri"},
+    {"namn": "Produktionen", "segment": "Kristianstad", "rubrik": "Glas som anländer färdigt att montera", "text": "Kantslipning, borrning och förmontering av beslag i två skift. Varje glas märks med projekt, trapphus och lägenhet.", "tagg": "industri"},
     {"namn": "Montage Syd", "segment": "Skåne och Blekinge", "rubrik": "Fyra lag med bas i Malmö", "text": "Lagen följer byggena från första till sista trapphus och har egen kontaktperson mot platsledningen.", "tagg": "bygg"},
     {"namn": "Montage Mälardalen", "segment": "Stockholm och Uppsala", "rubrik": "Två lag i Upplands Väsby", "text": "Startade 2023 när två stora kunder började bygga i Stockholmsregionen.", "tagg": "bostad"},
     {"namn": "Projektledning", "segment": "Sex projektledare", "rubrik": "En kontakt per bygge", "text": "Projektledaren håller tidplanen, tillvalen och avvikelserna i samma portal som byggledningen.", "tagg": "kontor"}
@@ -47,10 +47,10 @@
     {"varde": "9 000", "enhet": "badrum", "etikett": "Levererade 2025"},
     {"varde": "58", "enhet": "anställda", "etikett": "Fabrik och sex montagelag"},
     {"varde": "0,4", "enhet": "%", "etikett": "Reklamationer per levererat glas"},
-    {"varde": "124", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+    {"varde": "124", "enhet": "Mkr", "etikett": "Omsatt under 2025"}
   ],
   "projekt": [
-    {"namn": "Kvarteren i Hyllie", "ort": "Malmö", "typ": "Duschväggar och speglar", "ar": "2026", "text": "640 badrum i tre kvarter, monterade efter byggets tidplan.", "tagg": "bostad", "status": "Pågående"},
+    {"namn": "Kvarteren i Hyllie", "ort": "Malmö", "typ": "Dusch och spegel i 640 badrum", "ar": "2026", "text": "640 badrum i tre kvarter, monterade efter byggets tidplan.", "tagg": "bostad", "status": "Pågående"},
     {"namn": "Studentboendet vid Ekonomikum", "ort": "Uppsala", "typ": "Studentrum", "ar": "2026", "text": "412 rum med duschvägg och spegel på fem veckor.", "tagg": "interior"},
     {"namn": "Hotellet vid Stortorget", "ort": "Kristianstad", "typ": "Hotellbadrum", "ar": "2025", "text": "128 rum med ramlösa glas och bronsspeglar.", "tagg": "interior"},
     {"namn": "Äldreboendet Lindgården", "ort": "Hässleholm", "typ": "Tillgänglighetsanpassat", "ar": "2025", "text": "Sextio vikbara duschväggar med lyfthängsel.", "tagg": "bygg"},
@@ -83,16 +83,16 @@
   "faq": [
     ["Hur litet projekt tar ni?", "Från tio badrum med samma modell. För enstaka villor hänvisar vi till lokala glasmästerier."],
     ["Kan köparna välja tillval?", "Ja. Tillvalen hanteras i vår portal och levereras märkta till rätt lägenhet."],
-    ["Hur lång är leveranstiden?", "Fyra till sex veckor från godkänt provbadrum till första leverans, sedan efter byggets tidplan."],
+    ["När kan första leveransen komma?", "Fyra till sex veckor från godkänt provbadrum till första leverans, sedan efter byggets tidplan."],
     ["Vilka garantier lämnar ni?", "Fem år på glas och beslag, tio år på härdat glas mot spontana brott."],
-    ["Monterar ni i hela landet?", "Egna lag i Skåne, Blekinge, Stockholm och Uppsala. Övriga Sverige levererar vi till byggets egna montörer med instruktionsfilm."],
+    ["Har ni egna montörer överallt?", "Egna lag i Skåne, Blekinge, Stockholm och Uppsala. Övriga Sverige levererar vi till byggets egna montörer med instruktionsfilm."],
     ["Uppfyller ni BBR:s krav på säkerhetsglas?", "Ja, allt glas är härdat enligt SS-EN 12150 och märkt med CE och produktdeklaration."]
   ],
   "certifikat": [
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat lednings- och miljösystem för fabrik och montage.", "ikon": "skold"},
+    {"titel": "Certifierat enligt ISO 9001/14001", "text": "Certifierat lednings- och miljösystem för fabrik och montage.", "ikon": "skold"},
     {"titel": "CE-märkt enligt SS-EN 12150", "text": "Allt härdat glas har prestandadeklaration och spårbar märkning.", "ikon": "dokument"},
-    {"titel": "Byggvarubedömningen", "text": "Duschväggar, speglar och beslag är bedömda och loggade i BVB.", "ikon": "lov"},
-    {"titel": "ID06 och BAS-U", "text": "Alla montörer har ID06, och projektledarna är utbildade BAS-U.", "ikon": "hjalm"}
+    {"titel": "Loggat i BVB", "text": "Duschväggar, speglar och beslag är bedömda och loggade i BVB.", "ikon": "lov"},
+    {"titel": "ID06 på varje montör", "text": "Alla montörer har ID06, och projektledarna är utbildade BAS-U.", "ikon": "hjalm"}
   ],
   "kunder": ["Sydkustens Bostadsbyggen", "Hyllie Stadsbyggnad", "Campus Uppsala Bostäder", "Hotell Helgeå", "Hässleholms Omsorgsfastigheter", "Nordiska Badrumsmoduler", "Mälarstadens Hyresbostäder"],
   "nyheter": [

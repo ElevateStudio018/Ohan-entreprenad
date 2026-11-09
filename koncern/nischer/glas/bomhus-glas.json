@@ -22,14 +22,14 @@
     {"titel": "Akut skivning", "ikon": "telefon", "href": "verksamhet.html", "text": "Krossade entréer och fönster säkras inom fyra timmar, även nattetid."},
     {"titel": "Planerat underhåll", "ikon": "kalender", "href": "verksamhet.html", "text": "Fönsterinventering och underhållsplan för glas och beslag per fastighet."},
     {"titel": "Entréer och trapphus", "ikon": "nyckel", "href": "verksamhet.html", "text": "Entrépartier, trapphusfönster och brandklassade dörrglas."},
-    {"titel": "Balkongdörrar", "ikon": "hus", "href": "verksamhet.html", "text": "Byte av isolerglas och justering av beslag vid inflyttning och utflyttning."},
+    {"titel": "Balkong- och altandörrar", "ikon": "hus", "href": "verksamhet.html", "text": "Byte av isolerglas och justering av beslag vid inflyttning och utflyttning."},
     {"titel": "Lokaler och butiker", "ikon": "kontor", "href": "verksamhet.html", "text": "Skyltfönster och glaspartier i kommersiella lokaler som ni hyr ut."},
     {"titel": "Bli avtalskund", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Vi inventerar ert bestånd och ger ett avtalsförslag inom två veckor."}
   ],
   "affarsomraden": [
     {"titel": "Allmännyttan och kommuner", "text": "Kommunala bostadsbolag har ofta tusentals fönster i hus från 1960- och 70-talen. Vi har avtal med fem av dem i länet.", "text2": "Fasta priser gör att förvaltaren kan attestera direkt utan offert.", "tagg": "bostad"},
     {"titel": "Privata fastighetsägare", "text": "Allt från familjeägda bolag med tre hus till förvaltare med 2 000 lägenheter. Avtalet anpassas efter beståndets storlek.", "text2": "Mindre ägare får samma svarstider som de stora.", "tagg": "stad"},
-    {"titel": "Bostadsrättsföreningar", "text": "Styrelser som vill slippa jaga hantverkare får ett enklare avtal med trapphus, entréer och gemensamma utrymmen.", "text2": "Lägenhetsinnehavarna kan beställa egna byten till avtalspris.", "tagg": "hem"},
+    {"titel": "Föreningar med styrelse", "text": "Styrelser som vill slippa jaga hantverkare får ett enklare avtal med trapphus, entréer och gemensamma utrymmen.", "text2": "Lägenhetsinnehavarna kan beställa egna byten till avtalspris.", "tagg": "hem"},
     {"titel": "Skolor och offentliga lokaler", "text": "Skadegörelse på skolor sker oftast på helger. Våra jourbilar skivar på lördagen och glasar på måndagen.", "text2": "Varje ärende rapporteras med bild till kommunens säkerhetssamordnare.", "tagg": "kontor"}
   ],
   "bolag": [
@@ -54,7 +54,7 @@
     {"namn": "Entrébyte på Andersberg", "ort": "Gävle", "typ": "Entrépartier", "ar": "2026", "text": "26 entréer med nya partier i laminerat glas och automatisk dörröppning.", "tagg": "stad", "status": "Pågående"},
     {"namn": "Skolavtalet", "ort": "Sandviken", "typ": "Jour och skadegörelse", "ar": "2025", "text": "Fjorton skolor med helgjour och rapport till säkerhetssamordnaren.", "tagg": "kontor"},
     {"namn": "Brf Strömsbro Park", "ort": "Gävle", "typ": "Balkongdörrar", "ar": "2025", "text": "Isolerglas bytt i 144 balkongdörrar efter stämmobeslut.", "tagg": "hem"},
-    {"namn": "Centrumhuset", "ort": "Hudiksvall", "typ": "Skyltfönster", "ar": "2025", "text": "Butiksplanet fick nya skyltfönster inför en ny hyresgäst.", "tagg": "glas"},
+    {"namn": "Centrumhuset", "ort": "Hudiksvall", "typ": "Nya skyltfönster", "ar": "2025", "text": "Butiksplanet fick nya skyltfönster inför en ny hyresgäst.", "tagg": "glas"},
     {"namn": "Seniorboendet Älvbacken", "ort": "Bollnäs", "typ": "Fönsterbyte", "ar": "2024", "text": "Lättöppnade vädringsfönster i 60 lägenheter under pågående boende.", "tagg": "bostad"}
   ],
   "process": [
@@ -71,7 +71,7 @@
   "karriar": {
     "rubrik": "Bli delägare i ett glasmästeri",
     "text": "Efter två år kan alla anställda köpa aktier i bolaget. I dag är 19 av 46 delägare. Du får egen servicebil, fasta tider och sällan jour mer än en vecka av sex.",
-    "jobb": [["Servicetekniker glas", "Gävle"], ["Glasmästare", "Hudiksvall"], ["Kundservice ärendehantering", "Gävle"]]
+    "jobb": [["Servicetekniker glas", "Gävle"], ["Glasmästare fastighetsservice", "Hudiksvall"], ["Kundservice ärendehantering", "Gävle"]]
   },
   "kultur": "Bolagsstämman hålls i verkstaden, med smörgåstårta och omröstning om nästa års personalresa.",
   "citat": {"text": "Våra kunder vill inte tänka på glas. De vill att ärendet ska vara stängt när de kommer till jobbet på morgonen.", "namn": "Johanna Sundin", "roll": "Vd och delägare", "tagg": "people"},
@@ -91,14 +91,14 @@
   ],
   "priser_rubrik": "Tre nivåer för fastighetsägare",
   "priser": [
-    {"namn": "Bas", "pris": "fr. 1 200 kr", "enhet": "per månad", "text": "För föreningar och mindre bestånd.", "punkter": ["Fasta åtgärdspriser", "Webbportal för ärenden", "Säkring inom åtta timmar", "Samlad månadsfaktura"]},
+    {"namn": "Bas", "pris": "fr. 1 200 kr", "enhet": "per månad", "text": "För föreningar och mindre bestånd.", "punkter": ["Fasta åtgärdspriser", "Webbportal för ärenden", "Säkring inom åtta timmar", "En faktura per månad"]},
     {"namn": "Förvaltning", "pris": "fr. 4 900 kr", "enhet": "per månad", "text": "För bestånd från cirka 500 lägenheter.", "punkter": ["Koppling till ert felanmälningssystem", "Säkring inom fyra timmar", "Egen kontaktperson", "Årlig statusrapport per fastighet"], "utvald": true},
     {"namn": "Underhållsplan", "pris": "fr. 85 kr", "enhet": "per fönster, engångskostnad", "text": "Inventering och tioårsplan.", "punkter": ["Foto och mått på varje fönster", "Skick klassat i fyra nivåer", "Kostnadsberäkning per år", "Underlag för budget och upphandling"]}
   ],
   "certifikat": [
-    {"titel": "Glasbranschföreningen", "text": "Medlemmar sedan 1985.", "ikon": "skold"},
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat lednings- och miljösystem för alla fyra orter.", "ikon": "dokument"},
-    {"titel": "Kollektivavtal", "text": "Glasmästeriavtalet för alla montörer och lärlingar.", "ikon": "folk"},
+    {"titel": "Branschmedlemskap", "text": "Medlemmar sedan 1985.", "ikon": "skold"},
+    {"titel": "ISO-certifierade", "text": "Certifierat lednings- och miljösystem för alla fyra orter.", "ikon": "dokument"},
+    {"titel": "Avtal med Byggnads", "text": "Glasmästeriavtalet för alla montörer och lärlingar.", "ikon": "folk"},
     {"titel": "Heta arbeten och lift", "text": "Alla servicetekniker har behörighet för heta arbeten och mobila arbetsplattformar.", "ikon": "hjalm"}
   ],
   "kunder": ["Gästrike Hem", "Hyttbo Bostäder", "Bollnäs Hyresfastigheter", "Hälsingehus Fastigheter", "Brf Strömsbro Park", "Norrtull Förvaltning", "Sandvikens kommun"],

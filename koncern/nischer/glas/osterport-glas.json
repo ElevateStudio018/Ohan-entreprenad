@@ -17,11 +17,11 @@
   ],
   "vagval_rubrik": "Var på ön finns huset?",
   "tjanster": [
-    {"titel": "Glasbyte i bostad", "ikon": "hus", "href": "verksamhet.html", "text": "Vanliga rutor byts från lager, ofta samma vecka som du ringer."},
+    {"titel": "Ny ruta hemma", "ikon": "hus", "href": "verksamhet.html", "text": "Vanliga rutor byts från lager, ofta samma vecka som du ringer."},
     {"titel": "Sommarhustillsyn", "ikon": "kalender", "href": "verksamhet.html", "text": "Vi kollar fönstren före säsong och byter det som gått sönder under vintern."},
     {"titel": "Kalkstenshus", "ikon": "sten", "href": "verksamhet.html", "text": "Kittade bågar och munblåst glas i hus innanför ringmuren, enligt kommunens riktlinjer."},
     {"titel": "Butiker och krogar", "ikon": "kontor", "href": "verksamhet.html", "text": "Skyltfönster, entréer och glasräcken för restauranger i hamnen och på Stora torget."},
-    {"titel": "Duschväggar och speglar", "ikon": "vatten", "href": "verksamhet.html", "text": "Mäts upp på plats och levereras inom tre veckor."},
+    {"titel": "Badrumsglas", "ikon": "vatten", "href": "verksamhet.html", "text": "Mäts upp på plats och levereras inom tre veckor."},
     {"titel": "Stormskador", "ikon": "vind", "href": "verksamhet.html", "text": "Skivning och försäkringsärenden efter höst- och vinterstormar."},
     {"titel": "Glas till båtar", "ikon": "bat", "href": "verksamhet.html", "text": "Rutor till fiskebåtar och fritidsbåtar i hamnarna runt ön."},
     {"titel": "Ring Österport", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi svarar själva, året runt."}
@@ -33,8 +33,8 @@
     {"titel": "Handel och besöksnäring", "text": "Restauranger, hotell och butiker som har bråttom inför sommaren. Vi tar de flesta jobben i mars och april.", "text2": "Under Almedalsveckan har vi jour för krossade skyltfönster.", "tagg": "stad"}
   ],
   "bolag": [
-    {"namn": "Verkstaden", "segment": "Österväg, Visby", "rubrik": "900 rutor på hyllorna", "text": "Skärbord, slip och ett lager som räcker en hel vinter om båten skulle ställas in.", "tagg": "glas"},
-    {"namn": "Servicebilarna", "segment": "Norra och södra Gotland", "rubrik": "En bil åt varje håll", "text": "Jakob tar norra ön och Fårö, Simon tar södra ön ner till Hoburgen.", "tagg": "natur"},
+    {"namn": "Lagret och verkstaden", "segment": "Österväg, Visby", "rubrik": "900 rutor på hyllorna", "text": "Skärbord, slip och ett lager som räcker en hel vinter om båten skulle ställas in.", "tagg": "glas"},
+    {"namn": "Två bilar", "segment": "Norra och södra Gotland", "rubrik": "En bil åt varje håll", "text": "Jakob tar norra ön och Fårö, Simon tar södra ön ner till Hoburgen.", "tagg": "natur"},
     {"namn": "Sommarhustillsynen", "segment": "April och oktober", "rubrik": "Fönsterkoll innan du kommer", "text": "Elin planerar rundorna och skickar rapporter till 140 husägare.", "tagg": "hem"}
   ],
   "berattelser": [
@@ -52,15 +52,15 @@
     {"namn": "Köpmannahuset", "ort": "Visby", "typ": "Kulturhistoriska fönster", "ar": "2026", "text": "Munblåst glas i 22 bågar, kittat med linoljekitt.", "tagg": "sten"},
     {"namn": "Restaurangen vid hamnen", "ort": "Visby", "typ": "Glasräcke och entré", "ar": "2026", "text": "Glasräcke på uteserveringen och ny entré, klart före midsommar.", "tagg": "stad"},
     {"namn": "Sommarhus vid Sudersand", "ort": "Fårö", "typ": "Glasbyte efter storm", "ar": "2025", "text": "Sju rutor skivade dagen efter stormen och bytta veckan efter.", "tagg": "natur"},
-    {"namn": "Prästgården", "ort": "Hemse", "typ": "Fönsterrenovering", "ar": "2025", "text": "Trettio bågar renoverade under vintern i verkstaden.", "tagg": "hem"},
-    {"namn": "Fiskebåten Sandhamn", "ort": "Burgsvik", "typ": "Styrhyttsrutor", "ar": "2025", "text": "Fyra härdade rutor i styrhytten, bytta på kajen.", "tagg": "bat"},
-    {"namn": "Hotellet på Stora torget", "ort": "Visby", "typ": "Duschväggar", "ar": "2024", "text": "Arton duschväggar monterade i april, före säsongsstart.", "tagg": "interior"}
+    {"namn": "Prästgården", "ort": "Hemse", "typ": "Renovering av 30 bågar", "ar": "2025", "text": "Trettio bågar renoverade under vintern i verkstaden.", "tagg": "hem"},
+    {"namn": "Fiskebåten Sandhamn", "ort": "Burgsvik", "typ": "Rutor i styrhytten", "ar": "2025", "text": "Fyra härdade rutor i styrhytten, bytta på kajen.", "tagg": "bat"},
+    {"namn": "Hotellet på Stora torget", "ort": "Visby", "typ": "Arton duschhörnor", "ar": "2024", "text": "Arton duschväggar monterade i april, före säsongsstart.", "tagg": "interior"}
   ],
   "process": [
     {"titel": "Ring eller mejla", "text": "Berätta var huset ligger och skicka gärna en bild på rutan.", "tagg": "people"},
     {"titel": "Lager eller beställning", "text": "Finns måttet i lager kommer vi samma vecka. Annars beställer vi och glaset kommer med båten inom tio dagar.", "tagg": "glas"},
     {"titel": "Utkörning", "text": "Vi samlar jobben per del av ön så att du inte betalar för långa körningar.", "tagg": "natur"},
-    {"titel": "Byte och återvinning", "text": "Det gamla glaset tar vi med till återvinningen på Slite.", "tagg": "hem"}
+    {"titel": "Montering och bortforsling", "text": "Det gamla glaset tar vi med till återvinningen på Slite.", "tagg": "hem"}
   ],
   "hallbarhet": {
     "rubrik": "Varje båtresa ska räknas",
@@ -84,14 +84,14 @@
     ["Kostar det extra att bo långt från Visby?", "Visby, Slite och Hemse har inget tillägg. Övriga ön har ett fast tillägg på 450 kr, Fårö 650 kr."],
     ["Får man byta fönster innanför ringmuren?", "Det krävs ofta bygglov och samråd med kommunens byggnadsantikvarie. Vi hjälper till med underlaget."],
     ["Hur fungerar sommarhustillsynen?", "Vi besöker huset i april och skickar en rapport med bilder. Du godkänner åtgärderna per mejl innan vi gör något."],
-    ["Har ni jour?", "Inte dygnet runt, men vi skivar krossat glas vardagar till 20 och under Almedalsveckan hela dygnet."],
+    ["Kan ni komma på kvällen?", "Inte dygnet runt, men vi skivar krossat glas vardagar till 20 och under Almedalsveckan hela dygnet."],
     ["Tar ni ROT-avdrag?", "Ja, för arbetskostnaden både i permanentbostad och fritidshus."]
   ],
   "prislista_rubrik": "Fasta priser på ön",
   "prislista": [["Glasbyte tvåglasfönster, upp till 0,5 m²", "fr. 1 350 kr"], ["Isolerglas, byte per ruta", "fr. 2 900 kr"], ["Sommarhustillsyn, per hus", "690 kr"], ["Kittning och glasning per båge", "fr. 850 kr"], ["Duschvägg monterad", "fr. 9 400 kr"], ["Skivning vid krossat glas", "fr. 1 400 kr"], ["Tillägg utanför Visby, Slite och Hemse", "450 kr"], ["Tillägg Fårö", "650 kr"]],
   "certifikat": [
-    {"titel": "Glasbranschföreningen", "text": "Medlemmar och följer branschens riktlinjer för säkerhetsglas i bostäder.", "ikon": "skold"},
-    {"titel": "Gesällbrev", "text": "Jakob och Simon har gesällbrev, Elin är utbildad i byggnadsvård på Gotland.", "ikon": "stjarna"},
+    {"titel": "Medlem i GBF", "text": "Medlemmar och följer branschens riktlinjer för säkerhetsglas i bostäder.", "ikon": "skold"},
+    {"titel": "Gesäller i laget", "text": "Jakob och Simon har gesällbrev, Elin är utbildad i byggnadsvård på Gotland.", "ikon": "stjarna"},
     {"titel": "Byggnadsvård", "text": "Utbildade i traditionella fönstermetoder och kittning med linoljekitt.", "ikon": "pensel"},
     {"titel": "Försäkringsavtal", "text": "Avtal med tre försäkringsbolag för stormskador och krossat glas.", "ikon": "dokument"}
   ],

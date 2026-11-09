@@ -20,7 +20,7 @@
     {"titel": "Isolerruta", "ikon": "hus", "href": "verksamhet.html", "text": "Fast pris efter mått och typ – tvåglas, treglas eller energiglas."},
     {"titel": "Enkelglas i båge", "ikon": "verktyg", "href": "verksamhet.html", "text": "Planglas i äldre fönster, byte med list eller kitt."},
     {"titel": "Balkongdörr", "ikon": "nyckel", "href": "verksamhet.html", "text": "Nytt glas i balkong- och altandörrar, med säkerhetsglas där det krävs."},
-    {"titel": "Duschvägg", "ikon": "vatten", "href": "verksamhet.html", "text": "Fem standardmodeller med fast pris inklusive montering."},
+    {"titel": "Duschhörna", "ikon": "vatten", "href": "verksamhet.html", "text": "Fem standardmodeller med fast pris inklusive montering."},
     {"titel": "Spegel", "ikon": "stjarna", "href": "verksamhet.html", "text": "Speglar på mått med slipad kant, levererade och upphängda."},
     {"titel": "Mät själv-guiden", "ikon": "sok", "href": "verksamhet.html", "text": "En film på tre minuter visar hur du mäter rätt med en tumstock."},
     {"titel": "Boka tid direkt", "ikon": "kalender", "href": "verksamhet.html", "text": "Välj tvåtimmarsfönster och få sms när glasmästaren är på väg."},
@@ -29,11 +29,11 @@
   "affarsomraden": [
     {"titel": "Villor och radhus", "text": "Det vanligaste ärendet är en immig isolerruta i ett vardagsrumsfönster. Priset räknas fram ur mått, glastyp och våning.", "text2": "ROT-avdraget dras automatiskt när du anger ditt personnummer i bokningen.", "tagg": "hem"},
     {"titel": "Lägenheter", "text": "Hyresgäster och bostadsrättsägare kan boka själva. Vi tar hand om kontakten med föreningen om glaset sitter i ytterbågen.", "text2": "Hissfria hus över tredje våningen har ett fast tillägg som visas i priset.", "tagg": "bostad"},
-    {"titel": "Badrum", "text": "Fem duschväggsmodeller i 8 mm härdat glas, alla med fast pris. Vi mäter vid monteringen och kapar profilerna på plats.", "text2": "Specialmått och nischer räknas fram på samma sätt i vår kalkylator.", "tagg": "interior"},
+    {"titel": "Badrummet", "text": "Fem duschväggsmodeller i 8 mm härdat glas, alla med fast pris. Vi mäter vid monteringen och kapar profilerna på plats.", "text2": "Specialmått och nischer räknas fram på samma sätt i vår kalkylator.", "tagg": "interior"},
     {"titel": "Små företag", "text": "Frisörer, kaféer och kontor som behöver en ny ruta i dörren eller fönstret. Samma fasta priser, faktura med 30 dagar.", "text2": "Krossade skyltfönster hänvisar vi till en jourpartner i Halmstad.", "tagg": "stad"}
   ],
   "bolag": [
-    {"namn": "Bilarna", "segment": "Tolv glasmästare", "rubrik": "Varje bil har 40 vanliga mått ombord", "text": "Bilarna laddas varje morgon med dagens beställda rutor och ett lager av de vanligaste måtten.", "tagg": "glas"},
+    {"namn": "Bilarna", "segment": "Tolv bilar ute", "rubrik": "Varje bil har 40 vanliga mått ombord", "text": "Bilarna laddas varje morgon med dagens beställda rutor och ett lager av de vanligaste måtten.", "tagg": "glas"},
     {"namn": "Lager och skärning", "segment": "Fältvägen, Halmstad", "rubrik": "Glaset klart dagen före", "text": "Isolerrutor beställs från fabrik samma dag som du bokar och plockas per bil kvällen innan.", "tagg": "industri"},
     {"namn": "Kundservice och system", "segment": "Fem personer", "rubrik": "En människa bakom kalkylatorn", "text": "Kundservice ringer upp om något mått ser konstigt ut, och utvecklar kalkylatorn varje vecka.", "tagg": "people"}
   ],
@@ -50,8 +50,8 @@
   ],
   "projekt": [
     {"namn": "Villa på Söndrum", "ort": "Halmstad", "typ": "Isolerrutor, 9 st", "ar": "2026", "text": "Nio immiga rutor bytta till energiglas på en förmiddag.", "tagg": "hem"},
-    {"namn": "Brf Nissastranden", "ort": "Halmstad", "typ": "Balkongdörrar", "ar": "2026", "text": "Medlemmarna bokade själva – 47 dörrar på tre veckor.", "tagg": "bostad"},
-    {"namn": "Radhus i Skrea", "ort": "Falkenberg", "typ": "Duschvägg", "ar": "2026", "text": "Vikbar modell i 8 mm glas, monterad på två timmar.", "tagg": "interior"},
+    {"namn": "Brf Nissastranden", "ort": "Halmstad", "typ": "47 balkongdörrsglas", "ar": "2026", "text": "Medlemmarna bokade själva – 47 dörrar på tre veckor.", "tagg": "bostad"},
+    {"namn": "Radhus i Skrea", "ort": "Falkenberg", "typ": "Vikbar duschhörna", "ar": "2026", "text": "Vikbar modell i 8 mm glas, monterad på två timmar.", "tagg": "interior"},
     {"namn": "Sommarhus vid Mellbystrand", "ort": "Laholm", "typ": "Enkelglas i bågar", "ar": "2025", "text": "Fjorton bågar glasade med list och nytt glas inför sommaren.", "tagg": "natur"},
     {"namn": "Kafé på Storgatan", "ort": "Halmstad", "typ": "Dörrglas", "ar": "2025", "text": "Laminerat glas i entrédörren, bytt före öppning klockan sju.", "tagg": "stad"},
     {"namn": "Lägenhet på Tullkammarkajen", "ort": "Halmstad", "typ": "Spegel och duschvägg", "ar": "2025", "text": "Spegel med slipad kant och duschhörna i samma besök.", "tagg": "interior"}
@@ -65,15 +65,15 @@
   "hallbarhet": {
     "rubrik": "Färre körningar per ruta",
     "text": "När priset och måtten är klara innan vi åker behövs inget besök för att mäta. Det sparar ungefär en körning per uppdrag. Rutterna planeras per område och dag, och alla bilar körs på el sedan 2024.",
-    "mal": [["1", "körning per uppdrag i stället för två"], ["12 av 12", "bilar på el"], ["100 %", "av utbytt glas till återvinning"]]
+    "mal": [["1", "körning per uppdrag i stället för två"], ["12 av 12", "bilar på el"], ["100 %", "av gamla rutor återvinns"]]
   },
   "karriar": {
     "rubrik": "Glasmästare utan pappersarbete",
     "text": "Hos oss är jobben uppmätta och prissatta när du får dem. Du byter glas, systemet sköter resten. Fasta arbetstider 7–16 och ingen jour.",
-    "jobb": [["Glasmästare", "Halmstad"], ["Glasmästare", "Falkenberg"], ["Kundservice deltid", "Halmstad"]]
+    "jobb": [["Glasmästare servicebil", "Halmstad"], ["Glasmästare servicebil", "Falkenberg"], ["Kundservice deltid", "Halmstad"]]
   },
   "kultur": "Varje fredag tittar vi på veckans tre konstigaste mätningar och skrattar åt dem tillsammans.",
-  "citat": {"text": "De flesta som ringer en glasmästare vill veta två saker: vad det kostar och när ni kommer. Vi svarar på båda innan de har lagt på.", "namn": "Amanda Holm", "roll": "Medgrundare och vd", "tagg": "people"},
+  "citat": {"text": "De flesta som ringer en glasmästare vill veta två saker: vad det kostar och när ni kommer. Vi svarar på båda innan de har lagt på.", "namn": "Amanda Holm", "roll": "Vd och en av grundarna", "tagg": "people"},
   "omdomen": [
     {"text": "Priset stod på skärmen, glasmästaren kom på tisdagen och fakturan var exakt den summan.", "namn": "Kristina O.", "ort": "Halmstad"},
     {"text": "Jag hade mätt bågen i stället för glaset. De ringde och frågade innan de beställde, så det blev rätt ändå.", "namn": "Mohammed A.", "ort": "Falkenberg"},
@@ -82,7 +82,7 @@
   "faq": [
     ["Vad händer om jag mäter fel?", "Kundservice kontrollerar varje beställning. Om något ser ovanligt ut ringer vi innan glaset beställs. Har du mätt fel och glaset inte passar betalar du bara mellanskillnaden för nytt glas."],
     ["Kan priset bli högre än det jag fick?", "Nej, inte för det du har beställt. Upptäcker glasmästaren något annat, till exempel en rutten båge, får du ett nytt pris att ta ställning till."],
-    ["Får jag ROT-avdrag?", "Ja. Ange ditt personnummer i bokningen så räknas avdraget med i priset direkt."],
+    ["Hur fungerar ROT hos er?", "Ja. Ange ditt personnummer i bokningen så räknas avdraget med i priset direkt."],
     ["Vilka orter kör ni till?", "Halmstad, Laholm, Falkenberg, Båstad och orterna däremellan. Övriga Halland efter förfrågan."],
     ["Har ni jour för krossat glas?", "Nej, vi arbetar bara med bokade jobb. För akut skivning hänvisar vi till vår jourpartner i Halmstad."],
     ["Kan jag ringa i stället för att boka på nätet?", "Självklart. Kundservice tar bokningar per telefon vardagar 8–17 och räknar fram samma pris."]
@@ -91,12 +91,12 @@
   "priser": [
     {"namn": "Isolerruta", "pris": "fr. 1 890 kr", "enhet": "per ruta efter ROT", "text": "Tvåglas upp till 0,6 m².", "punkter": ["Glas, montering och körning", "Energiglas som tillval", "Gamla rutan till återvinning", "Fem års garanti på kantförseglingen"], "utvald": true},
     {"namn": "Enkelglas i båge", "pris": "fr. 790 kr", "enhet": "per ruta efter ROT", "text": "Planglas i äldre fönster.", "punkter": ["List eller linoljekitt", "Upp till 0,5 m²", "Flera rutor samma besök ger rabatt", "Körning ingår"]},
-    {"namn": "Duschvägg", "pris": "fr. 7 490 kr", "enhet": "monterad efter ROT", "text": "Fem standardmodeller i 8 mm glas.", "punkter": ["Kalkskydd på glaset", "Beslag i krom eller svart", "Montering på två timmar", "Fem års garanti"]}
+    {"namn": "Duschhörna", "pris": "fr. 7 490 kr", "enhet": "monterad efter ROT", "text": "Fem standardmodeller i 8 mm glas.", "punkter": ["Kalkskydd på glaset", "Svarta eller förkromade beslag", "Montering på två timmar", "Fem års garanti"]}
   ],
   "certifikat": [
-    {"titel": "Glasbranschföreningen", "text": "Medlemmar sedan 2022 och följer branschens krav på säkerhetsglas.", "ikon": "skold"},
-    {"titel": "Gesällbrev", "text": "Åtta av tolv glasmästare har gesällbrev, resten går lärlingsutbildning hos oss.", "ikon": "stjarna"},
-    {"titel": "Kollektivavtal", "text": "Glasmästeriavtalet med Byggnads för alla glasmästare.", "ikon": "dokument"},
+    {"titel": "Medlem i branschföreningen", "text": "Medlemmar sedan 2022 och följer branschens krav på säkerhetsglas.", "ikon": "skold"},
+    {"titel": "Gesäller och lärlingar", "text": "Åtta av tolv glasmästare har gesällbrev, resten går lärlingsutbildning hos oss.", "ikon": "stjarna"},
+    {"titel": "Kollektivavtal via Byggnads", "text": "Glasmästeriavtalet med Byggnads för alla glasmästare.", "ikon": "dokument"},
     {"titel": "Trygg e-handel", "text": "Betalning och personuppgifter hanteras enligt GDPR och med certifierad betalpartner.", "ikon": "las"}
   ],
   "kunder": ["Brf Nissastranden", "Brf Söndrumsgården", "Laholms Hyresbostäder", "Kafé Storgatan 22", "Falkenbergs Frisörkollektiv", "Mellbystrands Stugförening", "Hallandsåsens Redovisning"],

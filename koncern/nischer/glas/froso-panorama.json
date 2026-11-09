@@ -54,12 +54,12 @@
     {"namn": "Stugbyn vid Tännforsen", "ort": "Duved", "typ": "Fönsterbyte, 24 stugor", "ar": "2025", "text": "Immiga 90-talsrutor ersatta med treglas under två oktoberveckor.", "tagg": "natur"},
     {"namn": "Villa Söre", "ort": "Frösön", "typ": "Panoramafönster", "ar": "2025", "text": "Tre fasta partier mot Storsjön med solskyddsglas mot västerljuset.", "tagg": "hem"},
     {"namn": "Bastuflotten i Storlien", "ort": "Storlien", "typ": "Bastuglas", "ar": "2025", "text": "Härdad glasvägg mot fjällsjön, monterad från båt.", "tagg": "glas"},
-    {"namn": "Fjällhotellets spa", "ort": "Åre", "typ": "Glasväggar", "ar": "2024", "text": "Relaxavdelning med glas mellan pooler, bastu och vilorum.", "tagg": "interior"}
+    {"namn": "Fjällhotellets spa", "ort": "Åre", "typ": "Glas mellan pool och bastu", "ar": "2024", "text": "Relaxavdelning med glas mellan pooler, bastu och vilorum.", "tagg": "interior"}
   ],
   "process": [
     {"titel": "Ritning och vy", "text": "Skicka fasadritning och gärna en bild av utsikten. Vi återkommer med ett överslagspris inom en vecka.", "tagg": "glas"},
     {"titel": "Beräkning", "text": "Vi räknar snölast, vindlast och isolervärde och föreslår glastyp för varje parti.", "tagg": "bygg"},
-    {"titel": "Platsbesök", "text": "Vi åker upp och mäter med laser när stommen står, och planerar kranens väg till huset.", "tagg": "natur"},
+    {"titel": "Mätning på bygget", "text": "Vi åker upp och mäter med laser när stommen står, och planerar kranens väg till huset.", "tagg": "natur"},
     {"titel": "Lyft och tätning", "text": "Rutorna lyfts in, kilas och tätas med fjällanpassad fogmassa. Du får en drift- och skötselpärm.", "tagg": "glas"}
   ],
   "hallbarhet": {
@@ -73,7 +73,7 @@
     "jobb": [["Glasmästare montage", "Östersund"]]
   },
   "kultur": "Fredagsfika i verkstaden och ett gemensamt skidpass i Åre varje mars.",
-  "citat": {"text": "Folk bygger i fjällen för utsikten. Då är det glaset som avgör om huset blev rätt.", "namn": "Per Ingelsson", "roll": "Grundare", "tagg": "glas"},
+  "citat": {"text": "Folk bygger i fjällen för utsikten. Då är det glaset som avgör om huset blev rätt.", "namn": "Per Ingelsson", "roll": "Grundare och glasmästare", "tagg": "glas"},
   "omdomen": [
     {"text": "Vi var oroliga för snön mot den stora gaveln. Malin visade beräkningen rad för rad och två vintrar senare har inte en fog släppt.", "namn": "Henrik och Lotta Å.", "ort": "Bydalen"},
     {"text": "Kranen kom upp till tomten trots att vägen slutar 80 meter nedanför. Ingen annan vi frågade ville ens försöka.", "namn": "Ulf G.", "ort": "Ottsjö"},
@@ -88,10 +88,10 @@
     ["Får jag ROT-avdrag i fritidshuset?", "Ja, arbetskostnaden ger ROT även i fritidshus som du äger och använder själv."]
   ],
   "certifikat": [
-    {"titel": "Glasbranschföreningen", "text": "Medlemmar och dimensionerar enligt branschens riktlinjer Glas i byggnader.", "ikon": "skold"},
+    {"titel": "GBF-medlem", "text": "Medlemmar och dimensionerar enligt branschens riktlinjer Glas i byggnader.", "ikon": "skold"},
     {"titel": "Behörighet för lyftkran", "text": "Våra förare har utbildning för mobilkran och vakuumlyftdon.", "ikon": "kran"},
-    {"titel": "Gesällbrev", "text": "Fem av nio glasmästare har gesällbrev, två har mästarbrev.", "ikon": "stjarna"},
-    {"titel": "ID06 och BAS-U", "text": "ID06 för alla montörer och utbildad byggarbetsmiljösamordnare för utförande.", "ikon": "las"}
+    {"titel": "Gesäller och mästare", "text": "Fem av nio glasmästare har gesällbrev, två har mästarbrev.", "ikon": "stjarna"},
+    {"titel": "ID06 och byggarbetsmiljö", "text": "ID06 för alla montörer och utbildad byggarbetsmiljösamordnare för utförande.", "ikon": "las"}
   ],
   "kunder": ["Skalets Fjällkrog", "Tännforsens Stugby", "Ottsjö Gårdshotell", "Bydalens Fjällhus", "Storlien Fjällspa", "Frösö Hus & Snickeri", "Brunflo Villabygg"],
   "nyheter": [

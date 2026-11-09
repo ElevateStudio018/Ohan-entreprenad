@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Konstruktion", "segment": "Tre ingenjörer", "rubrik": "Varje millimeter räknad", "text": "Glastjocklek, laminatskikt och nedböjning beräknas efter vattendjup och säkerhetsfaktor tre.", "tagg": "kontor"},
     {"namn": "Verkstad och provbassäng", "segment": "Ingelsta, Norrköping", "rubrik": "Vatten på fogen innan leverans", "text": "Fogar och ramar provas i en bassäng med 3,5 meters djup innan de skickas.", "tagg": "industri"},
-    {"namn": "Montage", "segment": "Två specialistlag", "rubrik": "Lyft i trånga utrymmen", "text": "Laget lyfter rutor på upp till två ton in genom servicegångar och tak, ofta med djuren några meter bort.", "tagg": "glas"}
+    {"namn": "Specialmontage", "segment": "Två specialistlag", "rubrik": "Lyft i trånga utrymmen", "text": "Laget lyfter rutor på upp till två ton in genom servicegångar och tak, ofta med djuren några meter bort.", "tagg": "glas"}
   ],
   "berattelser": [
     {"rubrik": "Ny haj-tunnel i Danmark", "text": "Tolv meter akryl ersätts med laminerat glas i sex skikt – montage under vinteruppehållet.", "tagg": "glas"},
@@ -65,7 +65,7 @@
   "hallbarhet": {
     "rubrik": "Glas i stället för akryl",
     "text": "Många äldre akvarier är byggda i akryl som repas, gulnar och måste bytas efter 15–20 år. Laminerat glas håller i över 40 år och kan återvinnas. Vi hjälper anläggningar att byta när akrylen ändå är uttjänt.",
-    "mal": [["40+", "års livslängd på våra glasväggar"], ["0", "läckor i provade fogar sedan 2014"], ["100 %", "av utbytt glas till återvinning"]]
+    "mal": [["40+", "års livslängd på våra glasväggar"], ["0", "läckor i provade fogar sedan 2014"], ["100 %", "av uttjänt laminatglas till separering"]]
   },
   "karriar": {
     "rubrik": "Glasmästare som inte är rädda för vatten",
@@ -89,7 +89,7 @@
   ],
   "certifikat": [
     {"titel": "Laminerat glas enligt SS-EN 14449", "text": "Allt glas levereras med CE-märkning och prestandadeklaration.", "ikon": "dokument"},
-    {"titel": "Glasbranschföreningen", "text": "Medlemmar och deltar i branschens arbete med glas i våtmiljöer.", "ikon": "skold"},
+    {"titel": "Medlem i Glasbranschföreningen", "text": "Medlemmar och deltar i branschens arbete med glas i våtmiljöer.", "ikon": "skold"},
     {"titel": "ISO 9001", "text": "Certifierat ledningssystem för konstruktion, provning och montage.", "ikon": "kugge"},
     {"titel": "Arbete i bassäng och på höjd", "text": "Montörerna har utbildning i fallskydd, lyftredskap och arbete i slutna utrymmen.", "ikon": "hjalm"}
   ],

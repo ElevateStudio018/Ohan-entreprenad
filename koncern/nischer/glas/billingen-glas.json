@@ -84,17 +84,17 @@
     ["Varför trä och inte aluminium?", "Trä isolerar bättre, ser varmare ut och går att reparera. Med linoljefärg och kärnfuru håller stommen i generationer."],
     ["Vilket glas använder ni?", "Härdat säkerhetsglas som standard, isolerglas i uppvärmda orangerier och handdraget glas vid restaurering."],
     ["Vad kostar ett växthus?", "Ett klassiskt växthus på 10 kvadratmeter kostar från 129 000 kr inklusive grund och montage."],
-    ["Hur lång är leveranstiden?", "Tre till fem månader från beställning. Montage sker april–november."],
+    ["När kan glashuset stå klart?", "Tre till fem månader från beställning. Montage sker april–november."],
     ["Kan ni restaurera ett gammalt växthus?", "Ja. Vi gör en besiktning och föreslår vad som kan räddas av stommen innan vi ger pris."]
   ],
   "priser_rubrik": "Glashus från grund till glas",
   "priser": [
     {"namn": "Växthus", "pris": "fr. 129 000 kr", "enhet": "10 m², monterat", "text": "Klassiskt växthus i kärnfuru.", "punkter": ["Härdat glas i väggar och tak", "Två automatiska takluckor", "Grund och montage", "Linoljemålat i valfri kulör"], "utvald": true},
     {"namn": "Orangeri", "pris": "fr. 385 000 kr", "enhet": "18 m², monterat", "text": "Uppvärmt glashus för övervintring.", "punkter": ["Isolerglas och golvvärme", "Frostvakt med sms-larm", "Bygglovsritningar", "Skuggväv och ventilation"]},
-    {"namn": "Restaurering", "pris": "fr. 18 500 kr", "enhet": "besiktning och plan", "text": "För gamla växthus och orangerier.", "punkter": ["Besiktning av stomme och glas", "Åtgärdsplan med kostnader", "Underlag till länsstyrelsen", "Avdrag om du anlitar oss"]}
+    {"namn": "Restaurering", "pris": "fr. 16 900 kr", "enhet": "besiktning och plan", "text": "För gamla växthus och orangerier.", "punkter": ["Besiktning av stomme och glas", "Åtgärdsplan med kostnader", "Underlag till länsstyrelsen", "Avdrag om du anlitar oss"]}
   ],
   "certifikat": [
-    {"titel": "Glasbranschföreningen", "text": "Medlemmar och använder säkerhetsglas enligt branschens riktlinjer.", "ikon": "skold"},
+    {"titel": "Säkerhetsglas enligt GBF", "text": "Medlemmar och använder säkerhetsglas enligt branschens riktlinjer.", "ikon": "skold"},
     {"titel": "Gesällbrev i snickeri", "text": "Erik Thorsell och två medarbetare har gesällbrev som byggnadssnickare.", "ikon": "hamare"},
     {"titel": "Certifierad sakkunnig kulturvärden", "text": "Sofia Thorsell är certifierad sakkunnig kulturvärden enligt plan- och bygglagen.", "ikon": "stjarna"},
     {"titel": "PEFC-spårat virke", "text": "Allt virke kommer från PEFC-certifierat skogsbruk i Västergötland.", "ikon": "skog"}
@@ -125,6 +125,6 @@
     "certifikat_rubrik": "Hantverk och kulturvärden",
     "bolag_rubrik": "Rita, snickra, glasa",
     "ny_rubrik": "Nytt från Hasslum",
-    "meny_bolag": "Verkstaden"
+    "meny_bolag": "Vi på Hasslum"
   }
 }
