@@ -1,0 +1,128 @@
+{
+  "profil": "nisch",
+  "nisch": "mark",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ytterskär Sjöentreprenad AB",
+  "kortnamn": "Ytterskär",
+  "slug": "ytterskar",
+  "typ": "Sjöentreprenad i Blekinge skärgård",
+  "tagline": "Från pråm och land",
+  "slogan": "Vi bygger bryggor, kajer och sjöledningar i Blekinges skärgård – med egna pråmar, egen dykare och grävmaskiner som arbetar från vattnet.",
+  "hero_rubrik": "Vår grävmaskin står på en pråm",
+  "hero_text": "Muddring, pålning, erosionsskydd och sjöförlagda VA-ledningar i Karlskrona, Ronneby och Sölvesborg. 21 anställda, tre pråmar och en arbetsbåt med kran.",
+  "intro_rubrik": "Där landet tar slut börjar vi",
+  "om": [
+    "Ytterskär började 1996 när fiskaren Leif Nilsson köpte en uttjänt färjepråm och ställde en grävmaskin på den för att muddra hamnen på Dragsö. Snart ringde båtklubbar och samfälligheter från hela skärgården.",
+    "I dag är vi 21 anställda och ägs av Leifs svärson Daniel Ahmadi och projektledaren Cecilia Wendt. Vi har tre pråmar, en arbetsbåt med kran, en 22-tons grävmaskin med långbom och en egen yrkesdykare. Nästan allt vi gör kräver anmälan om vattenverksamhet, och den skriver vi själva."
+  ],
+  "vagval_rubrik": "Vad ska byggas vid vattnet?",
+  "tjanster": [
+    {"titel": "Bryggor", "ikon": "bat", "href": "verksamhet.html", "text": "Pålade och flytande bryggor för båtklubbar, samfälligheter och sjötomter."},
+    {"titel": "Muddring", "ikon": "vatten", "href": "verksamhet.html", "text": "Muddring av hamnar och farleder från pråm, med provtagning av sedimentet."},
+    {"titel": "Kajer och stenkistor", "ikon": "sten", "href": "verksamhet.html", "text": "Kajer i granit och stenkistor som står emot is och vågor."},
+    {"titel": "Erosionsskydd", "ikon": "skold", "href": "verksamhet.html", "text": "Stenskoning av stränder och slänter som havet äter av."},
+    {"titel": "Sjöledningar", "ikon": "ror", "href": "verksamhet.html", "text": "Sjöförlagda VA- och elledningar till öar utan fast förbindelse."},
+    {"titel": "Pålning", "ikon": "kran", "href": "verksamhet.html", "text": "Stål- och träpålar för bryggor, sjöbodar och båthus."},
+    {"titel": "Dykning och inspektion", "ikon": "sok", "href": "verksamhet.html", "text": "Besiktning under vatten av bryggor, kajer och ledningar, med film."},
+    {"titel": "Anmälan och tillstånd", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi skriver anmälan om vattenverksamhet till Länsstyrelsen."}
+  ],
+  "affarsomraden": [
+    {"titel": "Bryggor och båthamnar", "text": "Båtklubbarna i skärgården byter sina bryggor från 70-talet mot pålade bryggor med stålpålar som tål isen. Vi pålar från pråmen, monterar bärlinor och däck och skickar de gamla bryggorna till återvinning.", "text2": "Ett bryggbyte för 60 båtplatser görs mellan oktober och april, när båtarna står på land.", "tagg": "bat"},
+    {"titel": "Muddring och sediment", "text": "Hamnar och farleder slammar igen. Innan vi muddrar tar vi prover på sedimentet, eftersom gamla varvshamnar ofta har båtbottenfärg och metaller i botten.", "text2": "Rena massor kan läggas på land som fyllnad, förorenade körs till godkänd mottagare.", "tagg": "anlaggning"},
+    {"titel": "Sjöledningar till öarna", "text": "När kommunen drar fram vatten och avlopp till öarna läggs ledningarna på botten. Vi spolar ner dem i sedimentet, belastar med betongvikter och ansluter till land med borrning eller schakt.", "text2": "Dykaren kontrollerar varje skarv och filmar ledningen innan den tas i drift.", "tagg": "vvs"},
+    {"titel": "Stränder och kajer", "text": "Höststormar och isskjutning river i kajer och slänter. Vi bygger stenskoning av sprängsten och lagar gamla stenkistor med blekingegranit.", "text2": "Arbete i strandskyddat område stäms av med Länsstyrelsen redan innan vi lämnar offert.", "tagg": "sten"}
+  ],
+  "bolag": [
+    {"namn": "Pråmlaget", "segment": "Muddring och pålning", "rubrik": "Tre pråmar, sex man", "text": "Arbetar från vattnet med grävmaskin, pålkran och bogserbåt från Karlshamn i väster till Torhamn i öster.", "tagg": "bat"},
+    {"namn": "Landlaget", "segment": "Schakt och anslutning", "rubrik": "Där ledningen kommer upp", "text": "Fem anläggare som gör schakt, landfästen och stenskoning från land.", "tagg": "mark"},
+    {"namn": "Dykning och projektering", "segment": "Undervatten och tillstånd", "rubrik": "En dykare och en handläggare", "text": "Yrkesdykaren Johan Persson besiktar och filmar, och Cecilia Wendt skriver anmälningar och samråder med Länsstyrelsen.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "84 båtplatser på stålpålar på Möcklö", "text": "Båtklubbens bryggor från 1974 ersattes under vintern med pålade bryggor i varmförzinkat stål.", "tagg": "bat"},
+    {"rubrik": "Sjöledning till Utlängan", "text": "3,2 kilometer VA-ledning lades på botten – ön har nu kommunalt vatten året runt.", "tagg": "vvs"},
+    {"rubrik": "Muddring i Ronneby hamn", "text": "Sedimentet provtogs i 40 punkter innan 6 000 kubikmeter kunde tas upp.", "tagg": "anlaggning"}
+  ],
+  "nyckeltal": [
+    {"varde": "3", "enhet": "pråmar", "etikett": "Och en arbetsbåt med kran"},
+    {"varde": "41", "enhet": "km", "etikett": "Sjöledning sedan 1996"},
+    {"varde": "130", "enhet": "bryggor", "etikett": "Pålade i skärgården"},
+    {"varde": "21", "enhet": "anställda", "etikett": "På land och till sjöss"}
+  ],
+  "projekt": [
+    {"namn": "Möcklö båtklubb", "ort": "Karlskrona", "typ": "Bryggbyte", "ar": "2025", "text": "84 båtplatser på stålpålar, byggda mellan oktober och april.", "tagg": "bat"},
+    {"namn": "Sjöledning Utlängan", "ort": "Karlskrona", "typ": "VA-ledning", "ar": "2025", "text": "3,2 kilometer ledning på botten, med landanslutning genom borrning.", "tagg": "vvs"},
+    {"namn": "Ronneby hamn", "ort": "Ronneby", "typ": "Muddring", "ar": "2024", "text": "6 000 kubikmeter sediment muddrat efter provtagning i 40 punkter.", "tagg": "anlaggning"},
+    {"namn": "Sjötomt på Senoren", "ort": "Karlskrona", "typ": "Erosionsskydd och brygga", "ar": "2024", "text": "60 meter stenskoning och en pålad brygga för två båtar.", "tagg": "sten"},
+    {"namn": "Fiskekajen i Nogersund", "ort": "Sölvesborg", "typ": "Kajrenovering", "ar": "2025", "text": "Stenkistan lagad med granit och ny kajkant i ek.", "tagg": "bat"},
+    {"namn": "Sjöbodarna i Torhamn", "ort": "Karlskrona", "typ": "Pålning", "ar": "2026", "text": "Pålar för fyra sjöbodar – start när isen har gått.", "tagg": "bat"}
+  ],
+  "process": [
+    {"titel": "Besök från land och båt", "text": "Vi tittar från stranden och från båten, och dykaren kollar botten vid behov.", "tagg": "bat"},
+    {"titel": "Anmälan till Länsstyrelsen", "text": "Vi skriver anmälan om vattenverksamhet – handläggningen tar oftast åtta veckor.", "tagg": "kontor"},
+    {"titel": "Arbete från pråm", "text": "Vi bygger när båtarna står på land och fisken inte leker.", "tagg": "anlaggning"},
+    {"titel": "Film från botten", "text": "Dykaren filmar resultatet, och ni får filmen och ritningar med inmätta lägen.", "tagg": "vvs"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Botten minns allt vi gör",
+    "text": "En muddring kan grumla vattnet i veckor och virvla upp gamla miljögifter. Därför provtar vi alltid sedimentet, sätter siltgardiner runt arbetsområdet och arbetar inte i lekområden under fiskens lekperiod. Rivna bryggor sorteras och träet återvinns.",
+    "mal": [["100 %", "av muddringarna med provtagning"], ["Apr–jun", "inget arbete i lekområden"], ["92 %", "av rivna bryggor återvunna"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba på sjön året runt",
+    "text": "Vi söker folk som trivs på en pråm i november lika mycket som i juli. Båtvana är ett plus, och vi betalar utbildning till fartygsbefäl och kranförarbevis.",
+    "jobb": [["Maskinförare pråm", "Karlskrona"], ["Anläggare kust och strand", "Karlskrona"], ["Yrkesdykare, deltid", "Karlskrona"]]
+  },
+  "kultur": "Varje morgon klockan 6.45 samlas pråmlaget i hamnen på Dragsö och läser väderprognosen tillsammans innan någon kastar loss.",
+  "citat": {"text": "På land kan man gräva om. Under vattnet ska det bli rätt första gången.", "namn": "Cecilia Wendt", "roll": "Delägare och projektledare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Bryggorna byttes under vintern och var klara när vi sjösatte i april. Inte en båtplats försvann under säsongen.", "namn": "Bengt O.", "ort": "Möcklö"},
+    {"text": "Vattnet kom till ön efter sextio år med egna brunnar. Dykarens film visar varje meter av ledningen.", "namn": "Gunilla F.", "ort": "Utlängan"},
+    {"text": "Stranden slutade rasa ut i havet. Stenskoningen ser ut som om den legat där i hundra år.", "namn": "Thomas R.", "ort": "Senoren"}
+  ],
+  "faq": [
+    ["Behövs tillstånd för en brygga?", "En ny brygga kräver ofta både strandskyddsdispens och anmälan om vattenverksamhet. Vi tar fram ritningar och skriver anmälan till Länsstyrelsen."],
+    ["När på året bygger ni?", "Helst mellan september och april, när båtarna står på land och fisken inte leker. Is kan stoppa oss några veckor i februari."],
+    ["Vad kostar en pålad brygga?", "En pålad brygga för en sjötomt kostar oftast 3 500–6 000 kronor per kvadratmeter, beroende på djup och botten. Båtklubbar får pris per båtplats."],
+    ["Hur djupt kan ni muddra?", "Med långbom från pråm når vi ner till ungefär sex meter. Djupare muddring gör vi tillsammans med en partner."],
+    ["Varför måste sedimentet provtas?", "Gamla hamnar och varv har ofta båtbottenfärg och metaller i botten. Provtagningen avgör var massorna får läggas och vad det kostar."],
+    ["Åker ni till öar utan väg?", "Ja, det är det vi gör mest. Pråmen tar maskiner, material och folk dit vägarna inte går."]
+  ],
+  "certifikat": [
+    {"titel": "Egen yrkesdykare", "text": "Certifierad yrkesdykare, och allt dykarbete följer Arbetsmiljöverkets föreskrifter.", "ikon": "vatten"},
+    {"titel": "Fartygsbefäl och kranförare", "text": "Pråmförarna har behörighet som fartygsbefäl och kranförarbevis för arbete från flytande enhet.", "ikon": "bat"},
+    {"titel": "Miljöcertifierade till sjöss", "text": "Ledningssystem för miljö enligt ISO 14001, med egna rutiner för spill och grumling.", "ikon": "lov"},
+    {"titel": "Sjöförsäkring och ansvar", "text": "Pråmar och arbetsbåt är sjöförsäkrade, och ansvarsförsäkringen gäller även arbete under vatten.", "ikon": "skold"}
+  ],
+  "kunder": ["Möcklö Båtklubb", "Karlskrona kommun, VA-avdelningen", "Utlängans Fastighetsägareförening", "Ronneby Hamn & Logistik", "Nogersunds Fiskehamnsförening", "Senorens Strandsamfällighet", "Torhamns Sjöbodsförening"],
+  "nyheter": [
+    ["2026-10-05", "Bryggsäsongen har börjat", "Fyra båtklubbar får nya bryggor innan isen lägger sig.", "bat"],
+    ["2026-05-20", "Ny pråm med 40 tons bärighet", "Den tredje pråmen gör att vi kan lägga två sjöledningar samtidigt.", "maskin"],
+    ["2025-12-03", "Så skyddar du bryggan mot isen", "Daniel Ahmadi om isbrytare, pålar och varför flytbryggor ska tas upp.", "bat"]
+  ],
+  "kontakt": {"adress": "Dragsövägen 12", "postnr": "371 37", "ort": "Karlskrona", "telefon": "070-174 06 94", "epost": "pram@ytterskar.se", "orgnr": ""},
+  "oppettider": "Kontoret mån–fre 7–16. Pråmarna efter väder",
+  "omrade": "Blekinge skärgård från Sölvesborg till Torhamn",
+  "fot_cta": "Ska ni bygga vid vattnet? Hör av er före sommaren – anmälan till Länsstyrelsen tar tid.",
+  "bild": {"panel": "bat", "hb": "natur"},
+  "text": {
+    "hero_knapp": "Det vi bygger i vattnet",
+    "kontakt_knapp": "Ring pråmkontoret",
+    "ber_etikett": "Från skärgården",
+    "ber_rubrik": "Bryggor, ledningar och muddring",
+    "proj_etikett": "Skärgårdsuppdrag",
+    "proj_rubrik": "Från Sölvesborg till Torhamn",
+    "proj_rubrik_lista": "Uppdrag till sjöss",
+    "process_rubrik": "Från stranden till filmen från botten",
+    "hb_etikett": "Hav och botten",
+    "omdomen_rubrik": "Båtklubbar och öbor",
+    "faq_rubrik": "Frågor om att bygga i vatten",
+    "logos_rubrik": "Klubbar och samfälligheter i skärgården",
+    "certifikat_rubrik": "Behörigheter till sjöss",
+    "bolag_rubrik": "Pråm, land och dykare",
+    "meny_bolag": "Våra lag",
+    "boka_rubrik": "Var ligger stranden?",
+    "boka_text": "Berätta var det gäller, vad som ska byggas och om det finns väg fram. Vi hör av oss och bokar ett besök från båten.",
+    "boka_falt": ["Namn", "Telefon", "Plats eller fastighet", "Vad ska byggas?"],
+    "siffror_etikett": "Till sjöss i siffror"
+  }
+}

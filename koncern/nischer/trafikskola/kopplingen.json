@@ -27,13 +27,13 @@
     {"titel": "Våg på planen", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Kom förbi en lördag och väg ditt ekipage gratis."}
   ],
   "affarsomraden": [
-    {"titel": "Husvagn med B96 eller BE", "text": "De flesta husvagnar över 1 300 kilo kräver mer än vanligt B-körkort bakom en modern SUV. Vi räknar på ditt ekipage, väljer rätt behörighet och övar backning in på campingplatsen.", "text2": "B96 kräver ingen uppkörning med släp, bara utbildning och ett kontrollprov hos oss.", "tagg": "korskola"},
+    {"titel": "Husvagn med B96 eller BE", "text": "De flesta husvagnar över 1 300 kilo kräver mer än vanligt B-körkort bakom en modern SUV. Vi räknar på ditt ekipage, väljer rätt behörighet och övar backning in på campingplatsen.", "text2": "B96 kräver en obligatorisk utbildning hos trafikskola och ett körprov hos Trafikverket, men inget kunskapsprov.", "tagg": "korskola"},
     {"titel": "Båttrailer och sjösättning", "text": "Att backa en trailer rakt ner i vattnet med folk som tittar från bryggan är det många våra elever är räddast för. Vi övar på planen tills det sitter och avslutar med tre sjösättningar i Revsudden.", "text2": "Säsongen för rampen är april till oktober.", "tagg": "bat"},
     {"titel": "Husbil över 3,5 ton", "text": "Många nya husbilar väger över 3 500 kilo fullastade, och då räcker inte B-körkort. C1 tar vi på åtta till tolv lektioner i vår husbil på 4,2 ton.", "text2": "Läkarintyg och körkortstillstånd för C1 behövs innan första lektionen.", "tagg": "stad"},
     {"titel": "Hästtransport och arbetssläp", "text": "BE med hästtransport, maskinsläp eller timmerkärra. Vi väger alltid ekipaget innan första lektionen, eftersom var tredje elev kör för tungt utan att veta om det.", "text2": "Vägningen på planen kostar ingenting, även för den som inte går hos oss.", "tagg": "hast"}
   ],
   "bolag": [
-    {"namn": "Lars-Göran Nyberg", "segment": "Grundare och lärare", "rubrik": "Sålde husvagnar i tjugo år", "text": "Undervisar i husvagn och tar alla kontrollprov för B96.", "tagg": "people"},
+    {"namn": "Lars-Göran Nyberg", "segment": "Grundare och lärare", "rubrik": "Sålde husvagnar i tjugo år", "text": "Undervisar i husvagn och håller i den obligatoriska B96-utbildningen.", "tagg": "people"},
     {"namn": "Båtsidan", "segment": "Trailer och ramp", "rubrik": "Josefin vid vattnet", "text": "Seglar själv och vet hur en trailer beter sig när den börjar flyta.", "tagg": "bat"},
     {"namn": "Husbilssidan", "segment": "C1", "rubrik": "Ahmad och Torbjörn", "text": "Två lärare med C-behörighet som delar husbilen och dragbilarna.", "tagg": "korskola"}
   ],
@@ -53,7 +53,7 @@
     {"namn": "Revsuddens Båtklubb", "ort": "Revsudden", "typ": "Rampkurs", "ar": "2025", "text": "Sjösättningskurs för nya medlemmar, tre kvällar i april.", "tagg": "bat"},
     {"namn": "Ölands Turistcamping", "ort": "Färjestaden", "typ": "BE", "ar": "2025", "text": "Fyra campingvärdar fick behörighet att flytta uthyrningsvagnar.", "tagg": "korskola"},
     {"namn": "Smedby Ryttarförening", "ort": "Smedby", "typ": "BE-grupp", "ar": "2025", "text": "Åtta ryttare tog BE med föreningens egen hästtransport.", "tagg": "hast"},
-    {"namn": "Kalmar Kommun, park och gata", "ort": "Kalmar", "typ": "B96", "ar": "2024", "text": "Tolv parkarbetare som drar gräsklipparsläp fick B96.", "tagg": "stad"},
+    {"namn": "Kalmar kommun, park och gata", "ort": "Kalmar", "typ": "B96", "ar": "2024", "text": "Tolv parkarbetare som drar gräsklipparsläp fick B96.", "tagg": "stad"},
     {"namn": "Husbilsträffen i Borgholm", "ort": "Borgholm", "typ": "Vägning", "ar": "2024", "text": "Vi vägde 96 husbilar på två dagar – 38 var överlastade.", "tagg": "stad"}
   ],
   "process": [
@@ -80,7 +80,7 @@
     {"text": "Husbilen vi köpte vägde 3 900 kilo. C1 tog nio lektioner, och vi körde till Lofoten i juli.", "namn": "Gunnel och Bo T.", "ort": "Nybro"}
   ],
   "faq": [
-    ["Vad är skillnaden på B96 och BE?", "B96 gäller ekipage upp till 4 250 kilo och kräver bara utbildning och ett kontrollprov. BE gäller släp upp till 3 500 kilo och kräver körprov hos Trafikverket."],
+    ["Vad är skillnaden på B96 och BE?", "B96 gäller ekipage upp till 4 250 kilo totalt, BE släp upp till 3 500 kilo bakom bilen. Båda kräver körprov hos Trafikverket, och B96 dessutom en obligatorisk utbildning hos trafikskola."],
     ["Hur vet jag vad mitt ekipage väger?", "Titta på registreringsbevisen för bil och släp, eller kom till vår våg en lördag. Det tar tio minuter."],
     ["Kan jag använda min egen husvagn?", "Ja, det är ofta bäst. Den måste vara besiktigad och försäkrad, och vi kontrollerar den innan lektionen."],
     ["Måste jag ha C1 för husbilen?", "Om den får väga över 3 500 kilo totalt, ja. Det är totalvikten i registreringsbeviset som gäller, inte vad den väger i dag."],
@@ -88,13 +88,13 @@
     ["Hur lång tid tar BE?", "Fyra till åtta lektioner på 60 minuter, beroende på hur van du är. Snittet bland våra elever är sex."]
   ],
   "priser": [
-    {"namn": "B96", "pris": "4 200 kr", "enhet": "utbildning och kontrollprov", "text": "För husvagn och båttrailer upp till 4 250 kilo.", "punkter": ["Vägning av ekipaget", "Tre lektioner à 60 minuter", "Kontrollprov hos oss", "Intyg till Transportstyrelsen"], "utvald": true},
+    {"namn": "B96", "pris": "4 200 kr", "enhet": "obligatorisk utbildning och provbil", "text": "För husvagn och båttrailer upp till 4 250 kilo.", "punkter": ["Vägning av ekipaget", "Tre lektioner à 60 minuter", "Lån av ekipage till körprovet", "Intyg om genomförd utbildning"], "utvald": true},
     {"namn": "BE", "pris": "7 900 kr", "enhet": "sex lektioner och provbil", "text": "Tungt släp upp till 3 500 kilo.", "punkter": ["Sex lektioner à 60 minuter", "Koppling och kontroll", "Ölandsbron i sidvind", "Lån av ekipage till körprovet"]},
     {"namn": "Backningskurs", "pris": "1 950 kr", "enhet": "tre timmar, egen vagn", "text": "För dig som redan har behörighet men inte vågar backa.", "punkter": ["Din egen husvagn eller trailer", "Övningsplanen vid Tjärhovet", "Två sjösättningar i säsong", "Kaffe och vägning ingår"]}
   ],
   "certifikat": [
     {"titel": "Tillstånd för BE och C1", "text": "Trafikskoletillstånd från Transportstyrelsen för släp och medeltung lastbil sedan 2014.", "ikon": "dokument"},
-    {"titel": "B96-kontrollant", "text": "Godkända att utbilda och ta kontrollprov för utökad B-behörighet.", "ikon": "skold"},
+    {"titel": "Utbildare för B96", "text": "Godkända att hålla den obligatoriska utbildningen för utökad B-behörighet.", "ikon": "skold"},
     {"titel": "Kalibrerad fordonsvåg", "text": "Vågen på övningsplanen kontrolleras varje år av ett ackrediterat företag.", "ikon": "verktyg"},
     {"titel": "Avtal med båtklubben", "text": "Skriftligt avtal med Revsuddens Båtklubb om rampen på vardagar till 2031.", "ikon": "bat"}
   ],
