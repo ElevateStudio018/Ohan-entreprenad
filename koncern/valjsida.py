@@ -94,10 +94,10 @@ dialog textarea{width:100%;height:240px;font:13px/1.4 ui-monospace,monospace;bac
 <header class="ram"><h1>Sektionsväljaren</h1>
 <p>__ANTAL__ sektionsvarianter och __HEROER__ hero-layouter. Starta <b>helskärmsläget</b> och gå igenom dem en i taget: <kbd>Mellanslag</kbd> = Ja, <kbd>N</kbd> eller <kbd>→</kbd> = Nej, <kbd>←</kbd> = tillbaka, <kbd>M</kbd> = mobil/dator, <kbd>Esc</kbd> = stäng. Skrolla med mus, styrplatta eller <kbd>↑</kbd><kbd>↓</kbd>.</p>
 <p>Valen sparas i den här webbläsaren. När du är klar: tryck <b>Kopiera mina val</b> och klistra in dem till Claude.</p>
-<div class="knappar"><button class="huvud" id="start" type="button">Starta helskärm från början</button><button id="fortsatt" type="button">Fortsätt där jag slutade</button><button id="exportera" type="button">Kopiera mina val</button><button id="rensa" type="button">Börja om</button></div>
+<div class="knappar"><button class="huvud" id="startnya" type="button">Gå igenom bara de __NYA__ nya</button><button id="start" type="button">Starta helskärm från början</button><button id="fortsatt" type="button">Fortsätt där jag slutade</button><button id="exportera" type="button">Kopiera mina val</button><button id="rensa" type="button">Börja om</button></div>
 </header>
 <div class="verktyg"><div class="ram">
-<button type="button" data-f="alla" aria-pressed="true">Alla</button><button type="button" data-f="ja" aria-pressed="false">Ja</button><button type="button" data-f="nej" aria-pressed="false">Nej</button><button type="button" data-f="ej" aria-pressed="false">Inte bedömda</button>
+<button type="button" data-f="alla" aria-pressed="true">Alla</button><button type="button" data-f="ja" aria-pressed="false">Ja</button><button type="button" data-f="nej" aria-pressed="false">Nej</button><button type="button" data-f="ej" aria-pressed="false">Inte bedömda</button><button type="button" data-f="nya" aria-pressed="false">Nya varianter</button>
 <select id="sek" aria-label="Sektion"><option value="">Alla sektioner</option></select>
 <span class="stat" id="stat"></span></div></div>
 <main class="ram" id="lista"></main>
@@ -117,32 +117,34 @@ const spara=()=>{try{localStorage.setItem(NYCKEL,JSON.stringify(val))}catch(e){}
 const $=s=>document.querySelector(s);
 let filter="alla", idx=0, mobil=false;
 const sel=$("#sek");[...new Map(KORT.map(k=>[k.sek,k.namn]))].forEach(([k,n])=>{const o=document.createElement("option");o.value=k;o.textContent=n;sel.append(o)});
-function synliga(){return KORT.filter(k=>(!sel.value||k.sek===sel.value)&&(filter==="alla"||(filter==="ej"?!val[k.id]:val[k.id]===filter)))}
-function stat(){const ja=Object.values(val).filter(x=>x==="ja").length,nej=Object.values(val).filter(x=>x==="nej").length;$("#stat").innerHTML=`<b>${ja}</b> ja · <b>${nej}</b> nej · ${KORT.length-ja-nej} kvar`}
+const arNy=k=>/^[klmn]-/.test(k.v);
+let lista=KORT;
+function synliga(){return KORT.filter(k=>(!sel.value||k.sek===sel.value)&&(filter==="alla"||(filter==="nya"?arNy(k):filter==="ej"?!val[k.id]:val[k.id]===filter)))}
+function stat(){const ja=Object.values(val).filter(x=>x==="ja").length,nej=Object.values(val).filter(x=>x==="nej").length;$("#stat").innerHTML=`<b>${ja}</b> ja · <b>${nej}</b> nej · ${lista.length-ja-nej} kvar`}
 function rita(){
   const L=$("#lista");L.textContent="";let g=null,ul=null;
   synliga().forEach(k=>{
     if(k.namn!==g){g=k.namn;const h=document.createElement("h2");h.textContent=g;ul=document.createElement("ul");ul.className="rutnat";L.append(h,ul)}
     const li=document.createElement("li");li.className="kort"+(val[k.id]?" "+val[k.id]:"");
     const b=document.createElement("button");b.type="button";b.className="bild";const im=document.createElement("img");im.src=k.d;im.alt=k.namn+" – "+k.v;im.loading="lazy";b.append(im);
-    b.onclick=()=>oppna(KORT.indexOf(k));
+    b.onclick=()=>oppna(KORT.indexOf(k),KORT);
     const i=document.createElement("div");i.className="info";const t=document.createElement("div");t.innerHTML="<b></b><small></small>";t.querySelector("b").textContent=k.v;t.querySelector("small").textContent=(k.info||k.namn);
     i.append(t);if(val[k.id]){const s=document.createElement("span");s.className="tagg "+val[k.id];s.textContent=val[k.id]==="ja"?"Ja":"Nej";i.append(s)}
     li.append(b,i);ul.append(li)});
   stat();
 }
 function visa(){
-  const k=KORT[idx];$("#fs-titel").textContent=k.v;$("#fs-under").textContent=(k.info||k.namn);
+  const k=lista[idx];$("#fs-titel").textContent=k.v;$("#fs-under").textContent=(k.info||k.namn);
   const img=$("#fs-img");img.src=mobil&&k.m?k.m:k.d;img.alt=k.namn+" – "+k.v;
   $("#fs-yta").classList.toggle("mobil",mobil);$("#fs-yta").scrollTop=0;$("#fs-vy").textContent=mobil?"Dator (M)":"Mobil (M)";
   $("#fs-sida").href=k.sida;const st=$("#fs-status");if(val[k.id]){st.hidden=false;st.className="status "+val[k.id];st.textContent=val[k.id]==="ja"?"Ja":"Nej"}else st.hidden=true;
-  $("#fs-rakn").textContent=`${idx+1} / ${KORT.length}`;
-  [idx+1,idx+2].forEach(j=>{if(KORT[j]){const p=new Image();p.src=mobil?KORT[j].m:KORT[j].d}});
+  $("#fs-rakn").textContent=`${idx+1} / ${lista.length}`;
+  [idx+1,idx+2].forEach(j=>{if(lista[j]){const p=new Image();p.src=mobil?lista[j].m:lista[j].d}});
 }
-function oppna(i){idx=Math.max(0,Math.min(KORT.length-1,i));$("#fs").hidden=false;document.body.style.overflow="hidden";visa();$("#fs-yta").focus();const el=document.documentElement;if(el.requestFullscreen&&!document.fullscreenElement){el.requestFullscreen().catch(()=>{})}}
+function oppna(i,urval){lista=urval||KORT;idx=Math.max(0,Math.min(lista.length-1,i));$("#fs").hidden=false;document.body.style.overflow="hidden";visa();$("#fs-yta").focus();const el=document.documentElement;if(el.requestFullscreen&&!document.fullscreenElement){el.requestFullscreen().catch(()=>{})}}
 function stang(){$("#fs").hidden=true;document.body.style.overflow="";if(document.fullscreenElement&&document.exitFullscreen)document.exitFullscreen().catch(()=>{});rita()}
 function flash(t,f){const e=$("#flash");e.textContent=t;e.style.color=f;e.classList.add("visa");clearTimeout(flash.t);flash.t=setTimeout(()=>e.classList.remove("visa"),350)}
-function rosta(v){const k=KORT[idx];val[k.id]=v;spara();flash(v==="ja"?"JA":"NEJ",v==="ja"?"var(--ja)":"var(--nej)");if(idx<KORT.length-1){idx++;visa()}else{visa();stat()}}
+function rosta(v){const k=lista[idx];val[k.id]=v;spara();flash(v==="ja"?"JA":"NEJ",v==="ja"?"var(--ja)":"var(--nej)");if(idx<lista.length-1){idx++;visa()}else{visa();stat()}}
 $("#fs-ja").onclick=()=>rosta("ja");$("#fs-nej").onclick=()=>rosta("nej");$("#fs-bak").onclick=()=>{if(idx>0){idx--;visa()}};
 $("#fs-stang").onclick=stang;$("#fs-vy").onclick=()=>{mobil=!mobil;visa()};
 document.addEventListener("keydown",e=>{
@@ -155,8 +157,9 @@ document.addEventListener("keydown",e=>{
   else if(e.key==="ArrowDown"||e.key==="ArrowUp"||e.key==="PageDown"||e.key==="PageUp"){/* skrolla bilden */ $("#fs-yta").focus()}
 });
 document.addEventListener("fullscreenchange",()=>{if(!document.fullscreenElement&&!$("#fs").hidden){/* användaren lämnade helskärm med Esc – låt läget vara öppet */}});
-$("#start").onclick=()=>oppna(0);
-$("#fortsatt").onclick=()=>{const i=KORT.findIndex(k=>!val[k.id]);oppna(i<0?0:i)};
+$("#start").onclick=()=>oppna(0,KORT);
+$("#startnya").onclick=()=>oppna(0,KORT.filter(arNy));
+$("#fortsatt").onclick=()=>{const i=KORT.findIndex(k=>!val[k.id]);oppna(i<0?0:i,KORT)};
 $("#rensa").onclick=()=>{if($("#rensa").dataset.saker){val={};spara();rita();$("#rensa").textContent="Börja om";delete $("#rensa").dataset.saker}else{$("#rensa").dataset.saker=1;$("#rensa").textContent="Säker? Tryck igen";setTimeout(()=>{$("#rensa").textContent="Börja om";delete $("#rensa").dataset.saker},3000)}};
 $("#exportera").onclick=()=>{
   const ja=KORT.filter(k=>val[k.id]==="ja").map(k=>k.id),nej=KORT.filter(k=>val[k.id]==="nej").map(k=>k.id);
@@ -172,7 +175,7 @@ sel.onchange=rita;rita();
 def bygg():
     kort = kortlista()
     antal = sum(1 for k in kort if k["sek"] != "hero")
-    doc = SIDA.replace("__DATA__", json.dumps(kort, ensure_ascii=False)).replace("__ANTAL__", str(antal)).replace("__HEROER__", str(len(kort) - antal))
+    doc = SIDA.replace("__DATA__", json.dumps(kort, ensure_ascii=False)).replace("__ANTAL__", str(antal)).replace("__HEROER__", str(len(kort) - antal)).replace("__NYA__", str(sum(1 for k in kort if k["v"][:2] in ("k-", "l-", "m-", "n-"))))
     UT.write_text(doc, encoding="utf-8")
     print(UT, antal, "sektioner", len(kort) - antal, "heroer")
 

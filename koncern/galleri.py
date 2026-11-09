@@ -11,6 +11,9 @@ E = html.escape
 def bygg():
     import bygg_nischer as bn
     sektioner, antal, nav = [], 0, []
+    nyfil = bn.BRIEFS / "nya.json"
+    nya = set(json.loads(nyfil.read_text(encoding="utf-8"))) if nyfil.exists() else set()
+    nykort = []
     for g in bn.grupper_alla():
         filer = sorted((bn.BRIEFS / g).glob("*.json"))
         if not filer:
@@ -27,13 +30,20 @@ def bygg():
             tumme = f'{g}/{b["slug"]}/tumme.jpg'
             bild = (f'<img src="{tumme}" alt="" loading="lazy">' if (UT / tumme).exists()
                     else f'<span class="ph" style="background:{f["primar"]};color:{f["primar_ink"]}">{E(b["kortnamn"])}</span>')
-            kort.append(f'<li><a href="{g}/{b["slug"]}/index.html">{bild}<span class="m"><b>{E(b["namn"])}</b><span>{E(b["typ"])}</span>'
-                        f'<span class="f"><i style="background:{f["primar"]}"></i><i style="background:{f["accent"]}"></i><i style="background:{f["ton"]}"></i> {E(p["hero"])}</span></span></a></li>')
+            ny = f"{g}/{b['slug']}" in nya
+            html_kort = (f'<li><a href="{g}/{b["slug"]}/index.html">{bild}{"<span class=ny>Ny</span>" if ny else ""}<span class="m"><b>{E(b["namn"])}</b><span>{E(b["typ"])}</span>'
+                         f'<span class="f"><i style="background:{f["primar"]}"></i><i style="background:{f["accent"]}"></i><i style="background:{f["ton"]}"></i> {E(rubrik)}</span></span></a></li>')
+            kort.append(html_kort)
+            if ny:
+                nykort.append(html_kort)
         if not kort:
             continue
         antal += len(kort)
         nav.append(f'<a href="#{g}">{E(rubrik)} <small>{len(kort)}</small></a>')
         sektioner.append(f'<section id="{g}"><div class="sh"><h2>{E(rubrik)}</h2><p>{E(beskr)} · {len(kort)} sajter</p></div><ul class="g">{"".join(kort)}</ul></section>')
+    if nykort:
+        nav.insert(0, f'<a href="#nya" class="nyknapp">Nya sajter <small>{len(nykort)}</small></a>')
+        sektioner.insert(0, f'<section id="nya"><div class="sh"><h2>Nya sajter</h2><p>Omgång 2 – byggda med dina favoritsektioner · {len(nykort)} sajter</p></div><ul class="g">{"".join(nykort)}</ul></section>')
     doc = f'''<!doctype html><html lang="sv"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Sajtbiblioteket – Elevate Studio</title><meta name="robots" content="noindex">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap">
@@ -48,6 +58,7 @@ h2{{font-size:clamp(24px,2.6vw,34px);letter-spacing:-.02em}}.sh p{{color:var(--m
 .g{{list-style:none;display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}}.g a{{display:block;text-decoration:none;background:var(--kort);border:1px solid var(--linje);overflow:hidden;transition:transform .2s}}
 .g a:hover{{transform:translateY(-3px)}}.g img,.ph{{display:block;width:100%;aspect-ratio:16/10;object-fit:cover;object-position:top}}.ph{{display:grid;place-items:center;font-weight:800;letter-spacing:.08em;text-transform:uppercase}}
 .m{{display:grid;gap:3px;padding:14px 16px 16px}}.m b{{font-size:15.5px}}.m span{{font-size:13.5px;color:var(--mut)}}.f{{display:flex;align-items:center;gap:4px;margin-top:6px}}.f i{{width:14px;height:14px;border-radius:50%;border:1px solid rgba(0,0,0,.08)}}
+.g a{{position:relative}}.ny{{position:absolute;top:10px;left:10px;background:#1f7a4d;color:#fff;font-weight:800;font-size:12px;padding:4px 10px;border-radius:999px;letter-spacing:.04em}}nav a.nyknapp{{background:#1f7a4d;color:#fff}}nav a.nyknapp small{{color:#d6f0e0}}
 footer{{max-width:1360px;margin:auto;padding:56px 16px;color:var(--mut);font-size:14px}}
 </style></head><body>
 <header><h1>Sajtbiblioteket</h1><p>{antal} kompletta exempelsajter i koncernstil – samma grafiska grund, olika paket, sektioner och innehåll per företag och nisch.
