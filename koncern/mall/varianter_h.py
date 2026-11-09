@@ -259,7 +259,7 @@ def citat_markor(s):
     a, b = dela_citat(c["text"])
     rest = f' {nb(b)}' if b else ""
     return f'''<section class="sek {s.bg("citat")}" aria-label="Citat"><div class="wrap hv hcm">
-  <div class="hcm-sida" aria-hidden="true"><span class="hcm-lodrat">{E(c["namn"])} — {E(c["roll"])}</span></div>
+  <div class="hcm-sida" aria-hidden="true"><span class="hcm-lodrat">{E(c["namn"])}</span></div>
   <figure class="hcm-fig reveal"><span class="hcm-tecken" aria-hidden="true">”</span>
     <blockquote><p><mark>{nb(a)}</mark>{rest}</p></blockquote>
     <figcaption><span class="hcm-streck" aria-hidden="true"></span><b>{E(c["namn"])}</b><span>{E(c["roll"])}</span></figcaption></figure></div></section>'''

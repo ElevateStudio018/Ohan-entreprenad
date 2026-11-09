@@ -294,7 +294,7 @@ def berattelser_f_trappa(s):
 # PROJEKT
 # ===================================================================================================================
 # Positioner (x %, y %) på den stiliserade kartan, spridda så att nålarna inte krockar.
-KARTPLATS = [(22, 30), (64, 22), (44, 56), (80, 60), (16, 74), (58, 82), (34, 14), (84, 44)]
+KARTPLATS = [(20, 30), (52, 20), (40, 58), (78, 70), (14, 80), (58, 86), (31, 17), (80, 42)]
 
 
 @variant("projekt", "f-karta")
