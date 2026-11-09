@@ -17,55 +17,233 @@
   ],
   "vagval_rubrik": "Vad har du för hus?",
   "tjanster": [
-    {"titel": "Fäbod utan elnät", "ikon": "skog", "href": "verksamhet.html", "text": "Fristående anläggningar med batteri för fäbodar och jaktstugor."},
-    {"titel": "Timmerhus och gårdar", "ikon": "hus", "href": "verksamhet.html", "text": "Paneler på uthus, loge eller markställ så att mangårdsbyggnaden får vara ifred."},
-    {"titel": "Markställ i trä", "ikon": "trad", "href": "verksamhet.html", "text": "Ställ i kärnfuru från en såg i Orsa, i stället för galvat stål."},
-    {"titel": "Fritidshus vid Siljan", "ikon": "sol", "href": "verksamhet.html", "text": "Små anläggningar för sommarhus med eller utan batteri."},
-    {"titel": "Batteri och reservkraft", "ikon": "laddning", "href": "verksamhet.html", "text": "Reservkraft när vinterstormen tar elen i byn."},
-    {"titel": "Snickeri och tak", "ikon": "hamare", "href": "verksamhet.html", "text": "Vi lagar takstolar och lägger om plåt innan panelerna kommer upp."},
-    {"titel": "Priser", "ikon": "portfolj", "href": "verksamhet.html", "text": "Tre exempel på vad det brukar kosta."},
-    {"titel": "Ring Anders", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Det är han som svarar, oftast från ett tak."}
+    {
+      "titel": "Fäbod utan elnät",
+      "ikon": "skog",
+      "href": "verksamhet.html",
+      "text": "Fristående anläggningar med batteri för fäbodar och jaktstugor."
+    },
+    {
+      "titel": "Timmerhus och gårdar",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Paneler på uthus, loge eller markställ så att mangårdsbyggnaden får vara ifred."
+    },
+    {
+      "titel": "Markställ i trä",
+      "ikon": "trad",
+      "href": "verksamhet.html",
+      "text": "Ställ i kärnfuru från en såg i Orsa, i stället för galvat stål."
+    },
+    {
+      "titel": "Fritidshus vid Siljan",
+      "ikon": "sol",
+      "href": "verksamhet.html",
+      "text": "Små anläggningar för sommarhus med eller utan batteri."
+    },
+    {
+      "titel": "Batteri och reservkraft",
+      "ikon": "laddning",
+      "href": "verksamhet.html",
+      "text": "Reservkraft när vinterstormen tar elen i byn."
+    },
+    {
+      "titel": "Snickeri och tak",
+      "ikon": "hamare",
+      "href": "verksamhet.html",
+      "text": "Vi lagar takstolar och lägger om plåt innan panelerna kommer upp."
+    },
+    {
+      "titel": "Priser",
+      "ikon": "portfolj",
+      "href": "verksamhet.html",
+      "text": "Tre exempel på vad det brukar kosta."
+    },
+    {
+      "titel": "Ring Anders",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Det är han som svarar, oftast från ett tak."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Fristående anläggningar", "text": "Många fäbodar runt Siljan saknar el, och en ny nätanslutning kan kosta hundratusentals kronor. En anläggning på 2–4 kW med ett batteri på 10 kWh räcker för belysning, kylskåp, vattenpump och en dammsugare.", "text2": "Batteriet står i ett isolerat skåp som klarar minus 30 grader.", "tagg": "natur"},
-    {"titel": "Timmerhus och kulturmiljö", "text": "På gamla timmerhus lägger vi helst panelerna på uthuset, logen eller på ett markställ. Taket på mangårdsbyggnaden lämnar vi oftast i fred.", "text2": "I Rättviks kyrkby och i Gärdebyn finns områdesbestämmelser som vi känner väl.", "tagg": "hem"},
-    {"titel": "Markställ i kärnfuru", "text": "I stället för galvaniserat stål bygger vi markställ i kärnvirke från en såg i Orsa, med rostfria beslag. Det åldras som ett gärdsgårdsstaket och smälter in i landskapet.", "text2": "Ställen kan också bära ett vedförråd eller ett regnskydd under panelerna.", "tagg": "tra"},
-    {"titel": "Snickeri och elarbeten", "text": "Eftersom vi är både snickare och elektriker kan vi förstärka en takstol, lägga ny plåt och dra el i samma veva. Det blir en kontaktperson och en faktura.", "text2": "Vi tar också vanliga elarbeten i byarna runt Siljan när det finns tid.", "tagg": "tak"}
+    {
+      "titel": "Fristående anläggningar",
+      "text": "Många fäbodar runt Siljan saknar el, och en ny nätanslutning kan kosta hundratusentals kronor. En anläggning på 2–4 kW med ett batteri på 10 kWh räcker för belysning, kylskåp, vattenpump och en dammsugare.",
+      "text2": "Batteriet står i ett isolerat skåp som klarar minus 30 grader.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Timmerhus och kulturmiljö",
+      "text": "På gamla timmerhus lägger vi helst panelerna på uthuset, logen eller på ett markställ. Taket på mangårdsbyggnaden lämnar vi oftast i fred.",
+      "text2": "I Rättviks kyrkby och i Gärdebyn finns områdesbestämmelser som vi känner väl.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Markställ i kärnfuru",
+      "text": "I stället för galvaniserat stål bygger vi markställ i kärnvirke från en såg i Orsa, med rostfria beslag. Det åldras som ett gärdsgårdsstaket och smälter in i landskapet.",
+      "text2": "Ställen kan också bära ett vedförråd eller ett regnskydd under panelerna.",
+      "tagg": "tra"
+    },
+    {
+      "titel": "Snickeri och elarbeten",
+      "text": "Eftersom vi är både snickare och elektriker kan vi förstärka en takstol, lägga ny plåt och dra el i samma veva. Det blir en kontaktperson och en faktura.",
+      "text2": "Vi tar också vanliga elarbeten i byarna runt Siljan när det finns tid.",
+      "tagg": "tak"
+    }
   ],
   "bolag": [
-    {"namn": "Anders Hed", "segment": "Snickare och delägare", "rubrik": "Timmer, takstolar och ställ", "text": "Har renoverat timmerhus i Dalarna sedan 1999 och bygger alla våra träställ.", "tagg": "tra"},
-    {"namn": "Lisa Backlund", "segment": "Elektriker och delägare", "rubrik": "Batterier och fristående system", "text": "Auktoriserad elinstallatör som har byggt över 120 anläggningar utan elnät.", "tagg": "el"},
-    {"namn": "Erik Mattsson", "segment": "Lärling", "rubrik": "Andra året som elektrikerlärling", "text": "Från Furudal. Bär paneler uppför backar och lär sig allt från Lisa.", "tagg": "people"}
+    {
+      "namn": "Anders Hed",
+      "segment": "Snickare och delägare",
+      "rubrik": "Timmer, takstolar och ställ",
+      "text": "Har renoverat timmerhus i Dalarna sedan 1999 och bygger alla våra träställ.",
+      "tagg": "tra"
+    },
+    {
+      "namn": "Lisa Backlund",
+      "segment": "Elektriker och delägare",
+      "rubrik": "Batterier och fristående system",
+      "text": "Auktoriserad elinstallatör som har byggt över 120 anläggningar utan elnät.",
+      "tagg": "el"
+    },
+    {
+      "namn": "Erik Mattsson",
+      "segment": "Lärling",
+      "rubrik": "Andra året som elektrikerlärling",
+      "text": "Från Furudal. Bär paneler uppför backar och lär sig allt från Lisa.",
+      "tagg": "people"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Fäboden i Gärdebyn", "text": "Vår första anläggning från 2018 har gått i åtta vintrar utan ett enda fel.", "tagg": "natur"},
-    {"rubrik": "Ett ställ som bär vedboden", "text": "Ett markställ i Vikarbyn har vedförråd under panelerna – två års ved och 6 kW.", "tagg": "tra"},
-    {"rubrik": "Stormen i januari", "text": "Elva av våra kunder hade ström under de tre dygn då byarna runt Boda var utan.", "tagg": "el"}
+    {
+      "rubrik": "Fäboden i Gärdebyn",
+      "text": "Vår första anläggning från 2018 har gått i åtta vintrar utan ett enda fel.",
+      "tagg": "natur"
+    },
+    {
+      "rubrik": "Ett ställ som bär vedboden",
+      "text": "Ett markställ i Vikarbyn har vedförråd under panelerna – två års ved och 6 kW.",
+      "tagg": "tra"
+    },
+    {
+      "rubrik": "Stormen i januari",
+      "text": "Elva av våra kunder hade ström under de tre dygn då byarna runt Boda var utan.",
+      "tagg": "el"
+    }
   ],
   "nyckeltal": [
-    {"varde": "4", "enhet": "personer", "etikett": "Snickare, elektriker och lärling"},
-    {"varde": "380", "enhet": "", "etikett": "Anläggningar sedan 2019"},
-    {"varde": "120+", "enhet": "", "etikett": "Fäbodar och stugor utan elnät"},
-    {"varde": "−30°", "enhet": "", "etikett": "Batteriskåpen klarar"}
+    {
+      "varde": "4",
+      "enhet": "personer",
+      "etikett": "Snickare, elektriker och lärling"
+    },
+    {
+      "varde": "380",
+      "enhet": "",
+      "etikett": "Anläggningar sedan 2019"
+    },
+    {
+      "varde": "120+",
+      "enhet": "",
+      "etikett": "Fäbodar och stugor utan elnät"
+    },
+    {
+      "varde": "−30°",
+      "enhet": "",
+      "etikett": "Batteriskåpen klarar"
+    }
   ],
   "projekt": [
-    {"namn": "Fäboden i Gärdebyn", "ort": "Gärdebyn", "typ": "Fristående, 3 kW + 10 kWh", "ar": "2024", "text": "Ny anläggning efter sex år – den gamla flyttades till grannfäboden.", "tagg": "natur"},
-    {"namn": "Gården i Vikarbyn", "ort": "Vikarbyn", "typ": "Markställ i furu, 6 kW", "ar": "2025", "text": "Ställ med vedförråd under, byggt av virke från Orsa.", "tagg": "tra"},
-    {"namn": "Logen i Boda", "ort": "Boda", "typ": "Loge, 9 kW + batteri", "ar": "2025", "text": "Paneler på logens plåttak och reservkraft till mangården.", "tagg": "solel"},
-    {"namn": "Sommarhus i Sätra", "ort": "Rättvik", "typ": "Fritidshus, 4 kW", "ar": "2024", "text": "Svarta paneler på ett rödfärgat garage med utsikt över Siljan.", "tagg": "hem"},
-    {"namn": "Jaktstugan i Ore", "ort": "Furudal", "typ": "Fristående, 2 kW", "ar": "2026", "text": "Material inburet på fyrhjuling de sista 800 metrarna.", "tagg": "natur", "status": "Utfört"},
-    {"namn": "Hembygdsgården", "ort": "Leksand", "typ": "Kulturmiljö, 5 kW", "ar": "2026", "text": "Panelerna placeras på ett nybyggt redskapsskjul bakom gården.", "tagg": "tak"}
+    {
+      "namn": "Fäboden i Gärdebyn",
+      "ort": "Gärdebyn",
+      "typ": "Fristående, 3 kW + 10 kWh",
+      "ar": "2024",
+      "text": "Ny anläggning efter sex år – den gamla flyttades till grannfäboden.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Gården i Vikarbyn",
+      "ort": "Vikarbyn",
+      "typ": "Markställ i furu, 6 kW",
+      "ar": "2025",
+      "text": "Ställ med vedförråd under, byggt av virke från Orsa.",
+      "tagg": "tra"
+    },
+    {
+      "namn": "Logen i Boda",
+      "ort": "Boda",
+      "typ": "Loge, 9 kW + batteri",
+      "ar": "2025",
+      "text": "Paneler på logens plåttak och reservkraft till mangården.",
+      "tagg": "solel"
+    },
+    {
+      "namn": "Sommarhus i Sätra",
+      "ort": "Rättvik",
+      "typ": "Fritidshus, 4 kW",
+      "ar": "2024",
+      "text": "Svarta paneler på ett rödfärgat garage med utsikt över Siljan.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Jaktstugan i Ore",
+      "ort": "Furudal",
+      "typ": "Fristående, 2 kW",
+      "ar": "2026",
+      "text": "Material inburet på fyrhjuling de sista 800 metrarna.",
+      "tagg": "natur",
+      "status": "Utfört"
+    },
+    {
+      "namn": "Hembygdsgården",
+      "ort": "Leksand",
+      "typ": "Kulturmiljö, 5 kW",
+      "ar": "2026",
+      "text": "Panelerna placeras på ett nybyggt redskapsskjul bakom gården.",
+      "tagg": "tak"
+    }
   ],
   "process": [
-    {"titel": "Anders kommer ut", "text": "Vi tittar på huset, taket eller marken och frågar vad elen ska räcka till. Besöket är gratis inom fem mil från Rättvik.", "tagg": "people"},
-    {"titel": "Pris på en sida", "text": "Inom en vecka får du ett fast pris med material, arbete och grönt avdrag – på en A4.", "tagg": "kontor"},
-    {"titel": "Bygget", "text": "Snickeri och el görs av samma lag. En fäbod tar två till tre dagar, en gård upp till en vecka.", "tagg": "tra"},
-    {"titel": "Genomgång på plats", "text": "Lisa visar hur batteriet fungerar och vad du gör när det är mörkt i december.", "tagg": "el"}
+    {
+      "titel": "Anders kommer ut",
+      "text": "Vi tittar på huset, taket eller marken och frågar vad elen ska räcka till. Besöket är gratis inom fem mil från Rättvik.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Pris på en sida",
+      "text": "Inom en vecka får du ett fast pris med material, arbete och grönt avdrag – på en A4.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Bygget",
+      "text": "Snickeri och el görs av samma lag. En fäbod tar två till tre dagar, en gård upp till en vecka.",
+      "tagg": "tra"
+    },
+    {
+      "titel": "Genomgång på plats",
+      "text": "Lisa visar hur batteriet fungerar och vad du gör när det är mörkt i december.",
+      "tagg": "el"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Bygga så att det går att ta bort",
     "text": "Ett markställ i trä och rostfria skruvar kan monteras ner utan spår om trettio år. Vi borrar så lite som möjligt i gamla tak och använder kärnvirke från Dalarna i stället för stål från andra sidan jorden.",
-    "mal": [["100 %", "av träställen i virke från Dalarna"], ["5 mil", "längsta väg till virket"], ["8 vintrar", "utan fel på vår första fäbod"]]
+    "mal": [
+      [
+        "100 %",
+        "av träställen i virke från Dalarna"
+      ],
+      [
+        "5 mil",
+        "längsta väg till virket"
+      ],
+      [
+        "8 vintrar",
+        "utan fel på vår första fäbod"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Ingen ledig tjänst just nu",
@@ -73,42 +251,159 @@
     "jobb": []
   },
   "kultur": "Fikat tar vi alltid hos kunden – det brukar bli den bästa delen av dagen.",
-  "citat": {"text": "Huset har stått här i tvåhundra år. Det ska stå i tvåhundra till. Solcellerna ska bara vara gäster.", "namn": "Anders Hed", "roll": "Snickare och delägare", "tagg": "tra"},
+  "citat": {
+    "text": "Huset har stått här i tvåhundra år. Det ska stå i tvåhundra till. Solcellerna ska bara vara gäster.",
+    "namn": "Anders Hed",
+    "roll": "Snickare och delägare",
+    "tagg": "tra"
+  },
   "omdomen": [
-    {"text": "Vi har kylskåp, belysning och vattenpump på fäboden för första gången på hundra år. Ingen ledning, inget buller.", "namn": "Karin och Olle S.", "ort": "Gärdebyn"},
-    {"text": "Stället i furu är det finaste på gården. Grannen trodde det var en gammal hässja.", "namn": "Per M.", "ort": "Vikarbyn"},
-    {"text": "Under stormen var vi de enda i byn med ström. Grannarna fick ladda telefonerna hos oss.", "namn": "Ingrid B.", "ort": "Boda"}
+    {
+      "text": "Vi har kylskåp, belysning och vattenpump på fäboden för första gången på hundra år. Ingen ledning, inget buller.",
+      "namn": "Karin och Olle S.",
+      "ort": "Gärdebyn"
+    },
+    {
+      "text": "Stället i furu är det finaste på gården. Grannen trodde det var en gammal hässja.",
+      "namn": "Per M.",
+      "ort": "Vikarbyn"
+    },
+    {
+      "text": "Under stormen var vi de enda i byn med ström. Grannarna fick ladda telefonerna hos oss.",
+      "namn": "Ingrid B.",
+      "ort": "Boda"
+    }
   ],
   "faq": [
-    ["Kan man ha solceller på en fäbod utan elnät?", "Ja. En fristående anläggning med batteri räcker för belysning, kylskåp och pump från april till oktober. Vintertid behövs ofta ett komplement."],
-    ["Hur fungerar batteriet i kyla?", "Batteriet står i ett isolerat skåp med liten värmeslinga som drivs av panelerna. Det klarar minus 30 grader."],
-    ["Får jag sätta solceller på ett gammalt timmerhus?", "Ofta ja, men i kulturmiljöer föreslår vi uthus, loge eller markställ. Vi hjälper till med kontakten med kommunen om det behövs bygglov."],
-    ["Gäller grönt avdrag på fritidshus?", "Ja, om du äger huset och det finns en anslutning till elnätet. Fristående anläggningar utan nät ger inte grönt avdrag."],
-    ["Hur långt åker ni?", "Runt Siljan, i Leksand, Orsa, Mora och upp mot Furudal. Längre bort tar vi en milersättning."],
-    ["Är ni inte för få för att hinna?", "Vi bokar oftast 6–10 veckor framåt. Hör av dig på vintern om du vill ha anläggningen till sommaren."]
+    [
+      "Kan man ha solceller på en fäbod utan elnät?",
+      "Ja. En fristående anläggning med batteri räcker för belysning, kylskåp och pump från april till oktober. Vintertid behövs ofta ett komplement."
+    ],
+    [
+      "Hur fungerar batteriet i kyla?",
+      "Batteriet står i ett isolerat skåp med liten värmeslinga som drivs av panelerna. Det klarar minus 30 grader."
+    ],
+    [
+      "Får jag sätta solceller på ett gammalt timmerhus?",
+      "Ofta ja, men i kulturmiljöer föreslår vi uthus, loge eller markställ. Vi hjälper till med kontakten med kommunen om det behövs bygglov."
+    ],
+    [
+      "Gäller grönt avdrag på fritidshus?",
+      "Ja, om du äger huset och det finns en anslutning till elnätet. Fristående anläggningar utan nät ger inte grönt avdrag."
+    ],
+    [
+      "Hur långt åker ni?",
+      "Runt Siljan, i Leksand, Orsa, Mora och upp mot Furudal. Längre bort tar vi en milersättning."
+    ],
+    [
+      "Är ni inte för få för att hinna?",
+      "Vi bokar oftast 6–10 veckor framåt. Hör av dig på vintern om du vill ha anläggningen till sommaren."
+    ]
   ],
   "priser": [
-    {"namn": "Fäbodpaketet", "pris": "fr. 68 000 kr", "enhet": "fristående, montage ingår", "text": "För fäbodar och jaktstugor utan elnät.", "punkter": ["Paneler 3 kW", "Batteri 10 kWh i isolerat skåp", "Växelriktare 230 V", "Genomgång på plats"]},
-    {"namn": "Gårdsstället", "pris": "fr. 142 000 kr", "enhet": "efter grönt avdrag", "text": "Markställ i kärnfuru för gårdar och timmerhus.", "punkter": ["6 kW på träställ", "Kärnvirke från Orsa", "Rostfria beslag", "Nätanslutning och anmälan"], "utvald": true},
-    {"namn": "Sommarhuset", "pris": "fr. 79 000 kr", "enhet": "efter grönt avdrag", "text": "Paneler på garage, uthus eller fritidshus.", "punkter": ["4 kW svarta paneler", "Montage på befintligt tak", "App för produktionen", "Förberett för batteri"]}
+    {
+      "namn": "Fäbodpaketet",
+      "pris": "fr. 68 000 kr",
+      "enhet": "fristående, montage ingår",
+      "text": "För fäbodar och jaktstugor utan elnät.",
+      "punkter": [
+        "Paneler 3 kW",
+        "Batteri 10 kWh i isolerat skåp",
+        "Växelriktare 230 V",
+        "Genomgång på plats"
+      ]
+    },
+    {
+      "namn": "Gårdsstället",
+      "pris": "fr. 142 000 kr",
+      "enhet": "efter grönt avdrag",
+      "text": "Markställ i kärnfuru för gårdar och timmerhus.",
+      "punkter": [
+        "6 kW på träställ",
+        "Kärnvirke från Orsa",
+        "Rostfria beslag",
+        "Nätanslutning och anmälan"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Sommarhuset",
+      "pris": "fr. 79 000 kr",
+      "enhet": "efter grönt avdrag",
+      "text": "Paneler på garage, uthus eller fritidshus.",
+      "punkter": [
+        "4 kW svarta paneler",
+        "Montage på befintligt tak",
+        "App för produktionen",
+        "Plats reserverad för batteri"
+      ]
+    }
   ],
   "certifikat": [
-    {"titel": "Auktorisation B", "text": "Lisa Backlund är registrerad elinstallatör hos Elsäkerhetsverket.", "ikon": "blixt"},
-    {"titel": "Gesällbrev i timring", "text": "Anders Hed har gesällbrev i timring och knuttimring.", "ikon": "hamare"},
-    {"titel": "Fallskydd och säkert takarbete", "text": "Alla tre som går på taken har fallskyddsutbildning.", "ikon": "hjalm"},
-    {"titel": "Ansvarsförsäkring", "text": "Ansvars- och allriskförsäkring för arbeten på kulturhistoriska byggnader.", "ikon": "skold"}
+    {
+      "titel": "Elinstallatör B",
+      "text": "Lisa Backlund är registrerad elinstallatör hos Elsäkerhetsverket.",
+      "ikon": "blixt"
+    },
+    {
+      "titel": "Gesällbrev i timring",
+      "text": "Anders Hed har gesällbrev i timring och knuttimring.",
+      "ikon": "hamare"
+    },
+    {
+      "titel": "Fallskydd och säkert takarbete",
+      "text": "Alla tre som går på taken har fallskyddsutbildning.",
+      "ikon": "hjalm"
+    },
+    {
+      "titel": "Ansvarsförsäkring",
+      "text": "Ansvars- och allriskförsäkring för arbeten på kulturhistoriska byggnader.",
+      "ikon": "skold"
+    }
   ],
-  "kunder": ["Gärdebyns Fäbodlag", "Vikarbyns Byalag", "Leksands Hembygdsförening", "Ore Jaktlag", "Boda Bygdegårdsförening", "Siljansnäs Stugförening"],
+  "kunder": [
+    "Gärdebyns Fäbodlag",
+    "Vikarbyns Byalag",
+    "Leksands Hembygdsförening",
+    "Ore Jaktlag",
+    "Boda Bygdegårdsförening",
+    "Siljansnäs Stugförening"
+  ],
   "nyheter": [
-    ["2026-11-02", "Vi bokar fäbodar till nästa sommar", "Hör av dig i vinter så tittar vi på platsen när snön gått.", "natur"],
-    ["2026-01-29", "Tre dygn utan el i Boda", "Så klarade sig de som hade batteri under januaristormen.", "el"],
-    ["2025-08-21", "Varför vi bygger i trä", "Om kärnfuru, rostfria beslag och ställ som åldras vackert.", "tra"]
+    [
+      "2026-11-02",
+      "Vi bokar fäbodar till nästa sommar",
+      "Hör av dig i vinter så tittar vi på platsen när snön gått.",
+      "natur"
+    ],
+    [
+      "2026-01-29",
+      "Tre dygn utan el i Boda",
+      "Så klarade sig de som hade batteri under januaristormen.",
+      "el"
+    ],
+    [
+      "2025-08-21",
+      "Varför vi bygger i trä",
+      "Om kärnfuru, rostfria beslag och ställ som åldras vackert.",
+      "tra"
+    ]
   ],
-  "kontakt": {"adress": "Storgatan 19", "postnr": "795 30", "ort": "Rättvik", "telefon": "070-174 06 84", "epost": "anders@solhantverk.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Storgatan 19",
+    "postnr": "795 30",
+    "ort": "Rättvik",
+    "telefon": "070-174 06 84",
+    "epost": "anders@solhantverk.se",
+    "orgnr": ""
+  },
   "oppettider": "Vi svarar mån–fre 07–17, ibland från ett tak",
   "omrade": "Siljansbygden: Rättvik, Leksand, Mora, Orsa och Furudal",
   "fot_cta": "Har du en fäbod eller ett gammalt hus? Ring Anders så tar vi en titt.",
-  "bild": {"panel": "tra", "hb": "natur"},
+  "bild": {
+    "panel": "tra",
+    "hb": "natur"
+  },
   "text": {
     "kontakt_knapp": "Ring oss",
     "hero_knapp": "Det här bygger vi",
@@ -126,11 +421,15 @@
     "priser_not": "Exempelpriser inklusive moms. Fristående anläggningar utan elnät ger inte grönt avdrag.",
     "boka_rubrik": "Berätta om huset",
     "boka_text": "Skriv var huset ligger och vad elen ska räcka till. Anders ringer tillbaka, oftast samma kväll.",
-    "logos_rubrik": "Byalag och föreningar",
+    "logos_rubrik": "Fäbodlag och hembygdsföreningar",
     "certifikat_rubrik": "Elektriker, timmerman och försäkrade",
     "bolag_etikett": "Vi som bygger",
     "bolag_rubrik": "Tre på taket, en på kontoret",
-    "bolag_kol": ["Namn", "Roll", "Om"],
+    "bolag_kol": [
+      "Namn",
+      "Roll",
+      "Om"
+    ],
     "meny_bolag": "Vi som bygger",
     "sida_bolag_ingress": "Solhantverk är fyra personer – tre som bygger och Maja som håller ordning på allt annat.",
     "ny_rubrik": "Från verkstaden i Rättvik",

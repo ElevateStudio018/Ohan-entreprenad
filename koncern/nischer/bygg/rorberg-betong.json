@@ -20,16 +20,16 @@
     {"titel": "Grundläggning", "ikon": "sten", "href": "verksamhet.html", "text": "Plattor, plintar och källare – även på lera vid kusten."},
     {"titel": "Industrigolv", "ikon": "fabrik", "href": "verksamhet.html", "text": "Stålfiberarmerade och slipade golv upp till 5 000 m² per gjutning."},
     {"titel": "Parkeringshus", "ikon": "bil", "href": "verksamhet.html", "text": "Platsgjutna P-däck med tätskikt och dränering."},
-    {"titel": "Balkongrenovering", "ikon": "hus", "href": "verksamhet.html", "text": "Nya kantbalkar, tätskikt och räcken på husen från miljonprogrammet."},
+    {"titel": "Balkonger och loftgångar", "ikon": "hus", "href": "verksamhet.html", "text": "Nya kantbalkar, tätskikt och räcken på husen från miljonprogrammet."},
     {"titel": "Betongreparation", "ikon": "verktyg", "href": "verksamhet.html", "text": "Vattenbilning, katodiskt skydd och ny täckskiktsbetong."},
     {"titel": "Formlager och uthyrning", "ikon": "lada", "href": "bolag.html", "text": "Systemform och stämp att hyra med leverans i Gävleborg."},
     {"titel": "Begär kalkyl", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Skicka handlingarna så får du en kalkyl inom tio dagar."}
   ],
   "affarsomraden": [
     {"titel": "Stommar", "text": "Platsgjutet ger täta, tysta och brandsäkra hus som går att anpassa sent i projektet. Vi gjuter ett bjälklag i veckan i ett normalt flerbostadshus, med klätterform för trapphus och hisschakt.", "text2": "Sedan 2000 har vi gjutit stommar för drygt 3 100 lägenheter.", "tagg": "bygg"},
-    {"titel": "Grund och källare", "text": "Kustremsan mellan Skutskär och Söderhamn har lera, berg och högt grundvatten om vartannat. Vi gör grundförstärkning, vattentäta källare och plattor med isolering för passivhus.", "text2": "Vi samarbetar med pålningsfirmor och geotekniker sedan 1980-talet.", "tagg": "anlaggning"},
+    {"titel": "Grundläggning vid kusten", "text": "Kustremsan mellan Skutskär och Söderhamn har lera, berg och högt grundvatten om vartannat. Vi gör grundförstärkning, vattentäta källare och plattor med isolering för passivhus.", "text2": "Vi samarbetar med pålningsfirmor och geotekniker sedan 1980-talet.", "tagg": "anlaggning"},
     {"titel": "Golv", "text": "Golvlaget gjuter och slipar industrigolv för lager, verkstäder och livsmedelsindustri. Planheten mäts med laser och redovisas enligt Svensk Standard.", "text2": "Vi har två laserstyrda avdragare och fyra helikoptrar för glättning.", "tagg": "industri"},
-    {"titel": "Betongrenovering", "text": "Balkonger, loftgångar och parkeringsdäck från 1960- och 70-talen har ofta armering som rostar. Vi vattenbilar bort skadad betong, lagar och lägger tätskikt.", "text2": "Ofta kan de boende använda sina balkonger igen efter tre veckor.", "tagg": "bostad"}
+    {"titel": "Renovering av betong", "text": "Balkonger, loftgångar och parkeringsdäck från 1960- och 70-talen har ofta armering som rostar. Vi vattenbilar bort skadad betong, lagar och lägger tätskikt.", "text2": "Ofta kan de boende använda sina balkonger igen efter tre veckor.", "tagg": "bostad"}
   ],
   "bolag": [
     {"namn": "Rörberg Stomme", "segment": "Platsgjutna stommar", "rubrik": "Ett bjälklag i veckan", "text": "Formsnickare, armerare och betongarbetare i sex lag med egna tornkranar.", "tagg": "bygg"},
@@ -46,7 +46,7 @@
     {"varde": "3 100", "enhet": "lgh", "etikett": "Stommar gjutna sedan 2000"},
     {"varde": "140", "enhet": "", "etikett": "Medarbetare"},
     {"varde": "34", "enhet": "", "etikett": "Anställda delägare"},
-    {"varde": "338", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+    {"varde": "338", "enhet": "Mkr", "etikett": "Omsatt under 2025"}
   ],
   "projekt": [
     {"namn": "Kv. Tullbommen", "ort": "Gävle", "typ": "Stomme, 11 våningar", "ar": "2026", "text": "Platsgjuten stomme för 96 hyresrätter och förskola i bottenplan.", "tagg": "bygg"},
@@ -80,7 +80,7 @@
     {"text": "Balkongrenoveringen tog tre veckor per hus. Hyresgästerna fick lappar i förväg om varje bullrig dag.", "namn": "Kristina Å.", "ort": "Förvaltare, Sätra"}
   ],
   "faq": [
-    ["Arbetar ni som underentreprenör eller totalentreprenör?", "Båda. Stommar och golv gör vi oftast åt byggföretag, medan renoveringar och P-hus ofta handlas upp direkt av fastighetsägaren."],
+    ["Anlitas ni av byggföretag eller fastighetsägare?", "Båda. Stommar och golv gör vi oftast åt byggföretag, medan renoveringar och P-hus ofta handlas upp direkt av fastighetsägaren."],
     ["Kan ni gjuta på vintern?", "Ja. Vi gjuter året runt med värmeslingor, isolermattor och betongrecept för kyla, ned till cirka minus 15 grader."],
     ["Vad kostar ett industrigolv?", "Ett stålfiberarmerat och glättat golv på 150 millimeter kostar ungefär 750–1 100 kronor per kvadratmeter, beroende på yta och krav på planhet."],
     ["Hur vet man om balkongerna behöver renoveras?", "Rostfläckar, sprickor och lös betong i kanten är tecken. Vi gör en tillståndsbedömning med borrkärnor för 18 000–35 000 kronor per fastighet."],
@@ -123,6 +123,6 @@
     "logos_rubrik": "Beställare i Gävleborg",
     "bolag_rubrik": "Fyra specialistavdelningar",
     "ny_rubrik": "Senaste från Rörberg",
-    "medarbetare": "Betongarbetarna"
+    "medarbetare": "Gjutlagen"
   }
 }

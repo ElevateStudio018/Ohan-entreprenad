@@ -19,7 +19,7 @@
   "tjanster": [
     {"titel": "Fjällanläggningar", "ikon": "sten", "href": "verksamhet.html", "text": "Service och OVK i hotell och lägenheter före vintersäsongen."},
     {"titel": "Stallventilation", "ikon": "lada", "href": "verksamhet.html", "text": "Fläktar, styrning och luftintag i ladugårdar och lösdriftsstallar."},
-    {"titel": "OVK-besiktning", "ikon": "dokument", "href": "verksamhet.html", "text": "Certifierade funktionskontrollanter med turer i hela länet."},
+    {"titel": "OVK på turen", "ikon": "dokument", "href": "verksamhet.html", "text": "Certifierade funktionskontrollanter med turer i hela länet."},
     {"titel": "Skolor och boenden", "ikon": "skola", "href": "verksamhet.html", "text": "Treårsbesiktningar och service på kommunala fastigheter."},
     {"titel": "Villa-FTX", "ikon": "hem", "href": "verksamhet.html", "text": "Installation av FTX i villor och fritidshus, anpassad för minus 35."},
     {"titel": "Filterturer", "ikon": "bil", "href": "verksamhet.html", "text": "Filterbyte på fasta turer – dela framkörningen med grannarna."},
@@ -90,10 +90,10 @@
     ["Gör ni OVK i Härjedalen?", "Ja, varannan vecka kör vi tur till Vemdalen, Sveg och Funäsdalen."]
   ],
   "certifikat": [
-    {"titel": "Funktionskontrollanter", "text": "Två certifierade funktionskontrollanter, varav en med behörighet K.", "ikon": "dokument"},
-    {"titel": "Medlem i Svensk Ventilation", "text": "Vi följer branschens riktlinjer för installation och rengöring.", "ikon": "vind"},
-    {"titel": "F-gascertifikat", "text": "Tre tekniker certifierade för värmepumpar och kylaggregat.", "ikon": "laddning"},
-    {"titel": "Kollektivavtal", "text": "Kollektivavtal via Plåt & Ventföretagen för alla tekniker.", "ikon": "folk"}
+    {"titel": "OVK-behörighet N och K", "text": "Två certifierade funktionskontrollanter, varav en med behörighet K.", "ikon": "dokument"},
+    {"titel": "Svensk Ventilation", "text": "Vi följer branschens riktlinjer för installation och rengöring.", "ikon": "vind"},
+    {"titel": "F-gas för värmepumpar", "text": "Tre tekniker certifierade för värmepumpar och kylaggregat.", "ikon": "laddning"},
+    {"titel": "Plåt- och ventavtalet", "text": "Kollektivavtal via Plåt & Ventföretagen för alla tekniker.", "ikon": "folk"}
   ],
   "kunder": ["Fjällhotellet Tegeån", "Tegefjäll Lägenheter", "Rödö Mjölk HB", "Hammerdals byskola", "Svenstaviks äldreboende", "Vemdalens Stugby", "Bostads AB Storsjöstrand", "Frösö Hyreshus"],
   "nyheter": [
@@ -122,6 +122,6 @@
     "certifikat_rubrik": "Behörigheter",
     "bolag_rubrik": "Fyra lag i ett stort län",
     "siffror_etikett": "Storsjöluft i siffror",
-    "medarbetare": "Teknikerna"
+    "medarbetare": "Teknikerna i länet"
   }
 }

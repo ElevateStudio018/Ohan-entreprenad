@@ -17,96 +17,386 @@
   ],
   "vagval_rubrik": "Vad ska taket göra för gården?",
   "tjanster": [
-    {"titel": "Solceller på lantbruk", "ikon": "lada", "href": "verksamhet.html", "text": "Anläggningar på 30–400 kW för ladugårdar, maskinhallar och torkar."},
-    {"titel": "Villa och fritidshus", "ikon": "hus", "href": "verksamhet.html", "text": "Nyckelfärdiga anläggningar på 6–15 kW med grönt avdrag direkt på fakturan."},
-    {"titel": "Batteri för gården", "ikon": "laddning", "href": "verksamhet.html", "text": "Lager som jämnar ut effekttopparna när mjölkrobot och fläktar går samtidigt."},
-    {"titel": "Laddbox och laddstolpe", "ikon": "bil", "href": "verksamhet.html", "text": "Hemmaladdning och laddning för gårdens elfordon och lastmaskiner."},
-    {"titel": "Elentreprenad", "ikon": "blixt", "href": "verksamhet.html", "text": "Nyinstallation, nya serviser och elcentraler i stall och bostadshus."},
-    {"titel": "Service och felsökning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Egen servicebil i Skara, Lidköping och Falköping."},
-    {"titel": "Bidrag och lönsamhet", "ikon": "graf", "href": "faq.html", "text": "Vi räknar på gårdens förbrukning timme för timme innan ni bestämmer er."},
-    {"titel": "Boka gårdsbesök", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "En elektriker kommer ut, mäter taket och tittar i elcentralen."}
+    {
+      "titel": "Solceller på lantbruk",
+      "ikon": "lada",
+      "href": "verksamhet.html",
+      "text": "Anläggningar på 30–400 kW för ladugårdar, maskinhallar och torkar."
+    },
+    {
+      "titel": "Villa och fritidshus",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Nyckelfärdiga anläggningar på 6–15 kW med grönt avdrag direkt på fakturan."
+    },
+    {
+      "titel": "Batteri för gården",
+      "ikon": "laddning",
+      "href": "verksamhet.html",
+      "text": "Lager som jämnar ut effekttopparna när mjölkrobot och fläktar går samtidigt."
+    },
+    {
+      "titel": "Laddbox och laddstolpe",
+      "ikon": "bil",
+      "href": "verksamhet.html",
+      "text": "Hemmaladdning och laddning för gårdens elfordon och lastmaskiner."
+    },
+    {
+      "titel": "Elentreprenad",
+      "ikon": "blixt",
+      "href": "verksamhet.html",
+      "text": "Nyinstallation, nya serviser och elcentraler i stall och bostadshus."
+    },
+    {
+      "titel": "Service och felsökning",
+      "ikon": "verktyg",
+      "href": "verksamhet.html",
+      "text": "Egen servicebil i Skara, Lidköping och Falköping."
+    },
+    {
+      "titel": "Bidrag och lönsamhet",
+      "ikon": "graf",
+      "href": "faq.html",
+      "text": "Vi räknar på gårdens förbrukning timme för timme innan ni bestämmer er."
+    },
+    {
+      "titel": "Boka gårdsbesök",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "En elektriker kommer ut, mäter taket och tittar i elcentralen."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Lantbruk och större tak", "text": "En mjölkgård med 150 kor drar 250 000–350 000 kWh om året, mest dagtid. Det gör ladugårdstaket till den mest lönsamma ytan på gården.", "text2": "Vi kontrollerar takstolarnas bärighet, eternitens skick och serviskapaciteten innan vi lämnar pris.", "tagg": "solel"},
-    {"titel": "Villor i Skaraborg", "text": "Våra villaanläggningar ligger oftast på 8–12 kW och monteras på två dagar av våra egna elektriker. Grönt avdrag dras direkt på fakturan.", "text2": "Vi använder samma paneler och växelriktare som på gårdarna, med 25 års produktgaranti.", "tagg": "hem"},
-    {"titel": "Batterier och laddning", "text": "På gårdar med effekttaxa kan ett batteri på 60–100 kWh kapa de dyraste topparna. I villan lagrar det dagens överskott till kvällen.", "text2": "Batteri och laddbox ger 50 procents grönt avdrag på arbete och material.", "tagg": "el"},
-    {"titel": "El och service", "text": "Vi är fortfarande en vanlig elfirma: vi byter centraler, drar nya serviser och felsöker stallbelysning en tisdagskväll i januari.", "text2": "Gårdar med serviceavtal har förtur och fast timpris året runt.", "tagg": "people"}
+    {
+      "titel": "Lantbruk och större tak",
+      "text": "En mjölkgård med 150 kor drar 250 000–350 000 kWh om året, mest dagtid. Det gör ladugårdstaket till den mest lönsamma ytan på gården.",
+      "text2": "Vi kontrollerar takstolarnas bärighet, eternitens skick och serviskapaciteten innan vi lämnar pris.",
+      "tagg": "solel"
+    },
+    {
+      "titel": "Villor i Skaraborg",
+      "text": "Våra villaanläggningar ligger oftast på 8–12 kW och monteras på två dagar av våra egna elektriker. Grönt avdrag dras direkt på fakturan.",
+      "text2": "Vi använder samma paneler och växelriktare som på gårdarna, med 25 års produktgaranti.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Batterier och laddning",
+      "text": "På gårdar med effekttaxa kan ett batteri på 60–100 kWh kapa de dyraste topparna. I villan lagrar det dagens överskott till kvällen.",
+      "text2": "Batteri och laddbox ger 50 procents grönt avdrag på arbete och material.",
+      "tagg": "el"
+    },
+    {
+      "titel": "El och service",
+      "text": "Vi är fortfarande en vanlig elfirma: vi byter centraler, drar nya serviser och felsöker stallbelysning en tisdagskväll i januari.",
+      "text2": "Gårdar med serviceavtal har förtur och fast timpris året runt.",
+      "tagg": "people"
+    }
   ],
   "bolag": [
-    {"namn": "Lantbruk", "segment": "Gårdar och maskinhallar", "rubrik": "Sex elektriker som kan mjölkrobotar", "text": "Laget som projekterar och bygger anläggningar på 30–400 kW. Leds av Bengt Lindqvist, som fortfarande är med på de flesta gårdsbesök.", "tagg": "solel"},
-    {"namn": "Villa & laddning", "segment": "Privatkunder", "rubrik": "Två dagar från ställning till produktion", "text": "Fyra montagelag som bygger villaanläggningar, batterier och laddboxar i hela Skaraborg.", "tagg": "hem"},
-    {"namn": "Service", "segment": "Elservice och jour", "rubrik": "Tre servicebilar på vägarna", "text": "Felsökning, serviceavtal och vanliga elarbeten. Gårdar med avtal får svar inom fyra timmar.", "tagg": "el"},
-    {"namn": "Projektering", "segment": "Kalkyl och nätanmälan", "rubrik": "Siffrorna innan spaden", "text": "Två ingenjörer som gör förbrukningsanalys, ritningar och föranmälan till nätbolaget.", "tagg": "kontor"}
+    {
+      "namn": "Lantbruk",
+      "segment": "Gårdar och maskinhallar",
+      "rubrik": "Sex elektriker som kan mjölkrobotar",
+      "text": "Laget som projekterar och bygger anläggningar på 30–400 kW. Leds av Bengt Lindqvist, som fortfarande är med på de flesta gårdsbesök.",
+      "tagg": "solel"
+    },
+    {
+      "namn": "Villa & laddning",
+      "segment": "Privatkunder",
+      "rubrik": "Två dagar från ställning till produktion",
+      "text": "Fyra montagelag som bygger villaanläggningar, batterier och laddboxar i hela Skaraborg.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Service",
+      "segment": "Elservice och jour",
+      "rubrik": "Tre servicebilar på vägarna",
+      "text": "Felsökning, serviceavtal och vanliga elarbeten. Gårdar med avtal får svar inom fyra timmar.",
+      "tagg": "el"
+    },
+    {
+      "namn": "Projektering",
+      "segment": "Kalkyl och nätanmälan",
+      "rubrik": "Siffrorna innan spaden",
+      "text": "Två ingenjörer som gör förbrukningsanalys, ritningar och föranmälan till nätbolaget.",
+      "tagg": "kontor"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Ladugårdstaket i Ardala ger 310 000 kWh", "text": "Familjen Gustafsson på Ardala har nu 290 kW på tre tak och täcker 70 procent av gårdens årsförbrukning.", "tagg": "solel"},
-    {"rubrik": "Tredje generationen tar examen", "text": "Saras kusin Oskar har klarat sin auktorisation AB och leder från hösten villalaget i Lidköping.", "tagg": "people"},
-    {"rubrik": "Batteri mot effektavgiften", "text": "Ett 80 kWh-lager på en kycklinggård i Eggby har halverat den högsta månadstoppen.", "tagg": "el"}
+    {
+      "rubrik": "Ladugårdstaket i Ardala ger 310 000 kWh",
+      "text": "Familjen Gustafsson på Ardala har nu 290 kW på tre tak och täcker 70 procent av gårdens årsförbrukning.",
+      "tagg": "solel"
+    },
+    {
+      "rubrik": "Tredje generationen tar examen",
+      "text": "Saras kusin Oskar har klarat sin auktorisation AB och leder från hösten villalaget i Lidköping.",
+      "tagg": "people"
+    },
+    {
+      "rubrik": "Batteri mot effektavgiften",
+      "text": "Ett 80 kWh-lager på en kycklinggård i Eggby har halverat den högsta månadstoppen.",
+      "tagg": "el"
+    }
   ],
   "nyckeltal": [
-    {"varde": "1958", "enhet": "", "etikett": "Grundat i Skara"},
-    {"varde": "1 100+", "enhet": "", "etikett": "Solcellsanläggningar"},
-    {"varde": "380", "enhet": "gårdar", "etikett": "Lantbruk med våra solceller"},
-    {"varde": "28", "enhet": "anställda", "etikett": "Varav 19 elektriker"}
+    {
+      "varde": "1958",
+      "enhet": "",
+      "etikett": "Grundat i Skara"
+    },
+    {
+      "varde": "1 100+",
+      "enhet": "",
+      "etikett": "Solcellsanläggningar"
+    },
+    {
+      "varde": "380",
+      "enhet": "gårdar",
+      "etikett": "Lantbruk med våra solceller"
+    },
+    {
+      "varde": "28",
+      "enhet": "anställda",
+      "etikett": "Varav 19 elektriker"
+    }
   ],
   "projekt": [
-    {"namn": "Ardala Gård", "ort": "Ardala", "typ": "Mjölkgård, 290 kW", "ar": "2025", "text": "Tre ladugårdstak med totalt 680 paneler och ny 400 A-servis.", "tagg": "solel"},
-    {"namn": "Valle Nötkött", "ort": "Götene", "typ": "Maskinhall, 140 kW", "ar": "2025", "text": "Ny plåt på maskinhallen och solceller i samma etapp.", "tagg": "tak"},
-    {"namn": "Eggby Fjäderfä", "ort": "Eggby", "typ": "Batterilager 80 kWh", "ar": "2026", "text": "Lager och styrning som kapar topparna när ventilationen går för fullt.", "tagg": "el", "status": "Utfört"},
-    {"namn": "Brf Klostergården", "ort": "Skara", "typ": "Flerbostadshus, 64 kW", "ar": "2024", "text": "Solceller på två lamellhus och tolv laddplatser i garaget.", "tagg": "bostad"},
-    {"namn": "Götene Spannmålstork", "ort": "Götene", "typ": "Tork, 220 kW", "ar": "2026", "text": "Torkens största förbrukning sammanfaller med skördens soliga veckor.", "tagg": "industri"},
-    {"namn": "Villa i Varnhem", "ort": "Varnhem", "typ": "Villa, 11 kW + batteri", "ar": "2025", "text": "Svarta paneler på lertegel och ett batteri på 10 kWh i tvättstugan.", "tagg": "hem"}
+    {
+      "namn": "Ardala Gård",
+      "ort": "Ardala",
+      "typ": "Mjölkgård, 290 kW",
+      "ar": "2025",
+      "text": "Tre ladugårdstak med totalt 680 paneler och ny 400 A-servis.",
+      "tagg": "solel"
+    },
+    {
+      "namn": "Valle Nötkött",
+      "ort": "Götene",
+      "typ": "Maskinhall, 140 kW",
+      "ar": "2025",
+      "text": "Ny plåt på maskinhallen och solceller i samma etapp.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Eggby Fjäderfä",
+      "ort": "Eggby",
+      "typ": "Batterilager 80 kWh",
+      "ar": "2026",
+      "text": "Lager och styrning som kapar topparna när ventilationen går för fullt.",
+      "tagg": "el",
+      "status": "Utfört"
+    },
+    {
+      "namn": "Brf Klostergården",
+      "ort": "Skara",
+      "typ": "Flerbostadshus, 64 kW",
+      "ar": "2024",
+      "text": "Solceller på två lamellhus och tolv laddplatser i garaget.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Götene Spannmålstork",
+      "ort": "Götene",
+      "typ": "Tork, 220 kW",
+      "ar": "2026",
+      "text": "Torkens största förbrukning sammanfaller med skördens soliga veckor.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Villa i Varnhem",
+      "ort": "Varnhem",
+      "typ": "Villa, 11 kW + batteri",
+      "ar": "2025",
+      "text": "Svarta paneler på lertegel och ett batteri på 10 kWh i tvättstugan.",
+      "tagg": "hem"
+    }
   ],
   "process": [
-    {"titel": "Gårdsbesök", "text": "En elektriker går igenom tak, servis och elcentral. Vi tar med oss ert senaste års timvärden från nätbolaget.", "tagg": "people"},
-    {"titel": "Kalkyl och offert", "text": "Inom tio arbetsdagar får ni en kalkyl som visar egenanvändning, återbetalningstid och fast pris.", "tagg": "kontor"},
-    {"titel": "Montage", "text": "Våra egna elektriker bygger anläggningen. På en gård tar det oftast en till tre veckor, på en villa två dagar.", "tagg": "solel"},
-    {"titel": "Driftsättning och service", "text": "Vi sköter föranmälan och färdiganmälan till nätbolaget och följer produktionen i två år efteråt.", "tagg": "el"}
+    {
+      "titel": "Gårdsbesök",
+      "text": "En elektriker går igenom tak, servis och elcentral. Vi tar med oss ert senaste års timvärden från nätbolaget.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Kalkyl och offert",
+      "text": "Inom tio arbetsdagar får ni en kalkyl som visar egenanvändning, återbetalningstid och fast pris.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Montage",
+      "text": "Våra egna elektriker bygger anläggningen. På en gård tar det oftast en till tre veckor, på en villa två dagar.",
+      "tagg": "solel"
+    },
+    {
+      "titel": "Driftsättning och service",
+      "text": "Vi sköter föranmälan och färdiganmälan till nätbolaget och följer produktionen i två år efteråt.",
+      "tagg": "el"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Elsäkerhet på gårdar där djuren bor",
     "text": "En ladugård är en av de mest krävande miljöerna för elinstallationer: ammoniak, damm och fukt. Därför använder vi kapslingsklass IP65, rostfria fästen och brandskyddsbrytare på taken. Varje anläggning termograferas innan vi lämnar den.",
-    "mal": [["100 %", "av gårdsanläggningarna termograferas"], ["4 h", "svarstid för gårdar med serviceavtal"], ["0", "elolyckor sedan 2003"]]
+    "mal": [
+      [
+        "100 %",
+        "av gårdsanläggningarna termograferas"
+      ],
+      [
+        "4 h",
+        "svarstid för gårdar med serviceavtal"
+      ],
+      [
+        "0",
+        "elolyckor sedan 2003"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Elektriker med mark under fötterna",
     "text": "Vi anställer elektriker som gillar att jobba på landet och vill lära sig solceller, batterier och lantbruksautomation. Bilen står hemma hos dig och du utgår från närmaste gård.",
-    "jobb": [["Elektriker, lantbruk", "Skara"], ["Montör solceller", "Lidköping"], ["Projektingenjör", "Skara"]]
+    "jobb": [
+      [
+        "Elektriker, lantbruk",
+        "Skara"
+      ],
+      [
+        "Montör solceller",
+        "Lidköping"
+      ],
+      [
+        "Projektingenjör",
+        "Skara"
+      ]
+    ]
   },
   "kultur": "Fredagsfika i verkstaden på Mariedalsvägen är obligatoriskt, och Bengt bjuder på kanelbullar från Brunsbo.",
-  "citat": {"text": "Farfar drog den första ledningen till Ardala 1961. När vi lade solceller på samma ladugård förra året var det hans namn som stod i gårdens gamla elkartor.", "namn": "Sara Lindqvist", "roll": "Vd, tredje generationen", "tagg": "people"},
+  "citat": {
+    "text": "Farfar drog den första ledningen till Ardala 1961. När vi lade solceller på samma ladugård förra året var det hans namn som stod i gårdens gamla elkartor.",
+    "namn": "Sara Lindqvist",
+    "roll": "Vd, tredje generationen",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Bengt visste mer om vår mjölkrobot än säljaren som sålde den. Kalkylen höll – vi har sparat 214 000 kronor första året.", "namn": "Henrik G.", "ort": "Ardala"},
-    {"text": "De bytte plåten på maskinhallen och lade panelerna i samma veva. En ställning, en faktura.", "namn": "Annika V.", "ort": "Götene"},
-    {"text": "Villan i Varnhem var klar på två dagar och de städade bättre än vi gör själva.", "namn": "Mats och Lena K.", "ort": "Varnhem"}
+    {
+      "text": "Bengt visste mer om vår mjölkrobot än säljaren som sålde den. Kalkylen höll – vi har sparat 214 000 kronor första året.",
+      "namn": "Henrik G.",
+      "ort": "Ardala"
+    },
+    {
+      "text": "De bytte plåten på maskinhallen och lade panelerna i samma veva. En ställning, en faktura.",
+      "namn": "Annika V.",
+      "ort": "Götene"
+    },
+    {
+      "text": "Villan i Varnhem var klar på två dagar och de städade bättre än vi gör själva.",
+      "namn": "Mats och Lena K.",
+      "ort": "Varnhem"
+    }
   ],
   "faq": [
-    ["Håller ladugårdstaket för solceller?", "Det beror på takstolarna och takplåten. Vi gör alltid en bärighetskontroll och tar in en konstruktör vid behov, oftast räcker det med förstärkta fästen."],
-    ["Vad gör ni med eternittak?", "Asbestcement ska inte borras i. Vi samarbetar med en sanerare i Falköping och lägger ny plåt innan panelerna monteras."],
-    ["Hur stor anläggning behöver gården?", "Det styrs av när ni förbrukar elen. En mjölkgård med jämn dagförbrukning kan ofta bära 150–300 kW, en växtodlingsgård betydligt mindre."],
-    ["Får lantbruk grönt avdrag?", "Nej, grönt avdrag gäller privatpersoner. Gårdar kan i stället skriva av anläggningen och ibland söka investeringsstöd via länsstyrelsen."],
-    ["Måste vi byta servis?", "Ibland. Större anläggningar kräver ofta en kraftigare servis. Vi gör föranmälan till nätbolaget och tar hand om kontakten."],
-    ["Har ni jour?", "Gårdar med serviceavtal når oss dygnet runt. Övriga kunder hjälper vi vardagar 07–16."],
-    ["Hur länge håller panelerna?", "Våra paneler har 25 års produkt- och effektgaranti. Växelriktaren byts normalt en gång under anläggningens livstid."]
+    [
+      "Håller ladugårdstaket för solceller?",
+      "Det beror på takstolarna och takplåten. Vi gör alltid en bärighetskontroll och tar in en konstruktör vid behov, oftast räcker det med förstärkta fästen."
+    ],
+    [
+      "Vad gör ni med eternittak?",
+      "Asbestcement ska inte borras i. Vi samarbetar med en sanerare i Falköping och lägger ny plåt innan panelerna monteras."
+    ],
+    [
+      "Hur stor anläggning behöver gården?",
+      "Det styrs av när ni förbrukar elen. En mjölkgård med jämn dagförbrukning kan ofta bära 150–300 kW, en växtodlingsgård betydligt mindre."
+    ],
+    [
+      "Får lantbruk grönt avdrag?",
+      "Nej, grönt avdrag gäller privatpersoner. Gårdar kan i stället skriva av anläggningen och ibland söka investeringsstöd via länsstyrelsen."
+    ],
+    [
+      "Måste vi byta servis?",
+      "Ibland. Större anläggningar kräver ofta en kraftigare servis. Vi gör föranmälan till nätbolaget och tar hand om kontakten."
+    ],
+    [
+      "Har ni jour?",
+      "Gårdar med serviceavtal når oss dygnet runt. Övriga kunder hjälper vi vardagar 07–16."
+    ],
+    [
+      "Hur länge håller panelerna?",
+      "Våra paneler har 25 års produkt- och effektgaranti. Växelriktaren byts normalt en gång under anläggningens livstid."
+    ]
   ],
   "certifikat": [
-    {"titel": "Auktorisation AB", "text": "Registrerad elinstallatör hos Elsäkerhetsverket med auktorisation AB för alla elanläggningar.", "ikon": "blixt"},
-    {"titel": "Certifierad solcellsinstallatör", "text": "Två av våra elektriker är INCERT-certifierade för solcellsinstallationer.", "ikon": "sol"},
-    {"titel": "Medlem i Svensk Solenergi", "text": "Vi följer branschorganisationens riktlinjer för avtal, kalkyl och montage.", "ikon": "lov"},
-    {"titel": "Installatörsföretagen", "text": "Medlemsföretag med Trygghetsgaranti för privatkunder.", "ikon": "skold"}
+    {
+      "titel": "Auktorisation AB",
+      "text": "Registrerad elinstallatör hos Elsäkerhetsverket med auktorisation AB för alla elanläggningar.",
+      "ikon": "blixt"
+    },
+    {
+      "titel": "Certifierad solcellsinstallatör",
+      "text": "Två av våra elektriker är INCERT-certifierade för solcellsinstallationer.",
+      "ikon": "sol"
+    },
+    {
+      "titel": "Svensk Solenergi",
+      "text": "Medlemsföretag sedan 2013 – vi följer branschens avtalsmallar och kalkylriktlinjer.",
+      "ikon": "lov"
+    },
+    {
+      "titel": "Installatörsföretagen",
+      "text": "Medlemsföretag med Trygghetsgaranti för privatkunder.",
+      "ikon": "skold"
+    }
   ],
-  "kunder": ["Ardala Gård", "Valle Nötkött HB", "Eggby Fjäderfä AB", "Brf Klostergården Skara", "Götene Spannmålstork AB", "Varnhems Gårdsmejeri", "Skara Lantmän ek. för.", "Hornborga Potatis AB"],
+  "kunder": [
+    "Ardala Gård",
+    "Valle Nötkött HB",
+    "Eggby Fjäderfä AB",
+    "Brf Klostergården Skara",
+    "Götene Spannmålstork AB",
+    "Varnhems Gårdsmejeri",
+    "Skara Lantmän ek. för.",
+    "Hornborga Potatis AB"
+  ],
   "nyheter": [
-    ["2026-10-21", "Vinterns gårdsbesök bokas nu", "Taken är lättast att bedöma före snön – vi har lediga tider i november.", "solel"],
-    ["2026-06-03", "Oskar Lindqvist leder villalaget", "Tredje generationen har klarat auktorisationen och tar över i Lidköping.", "people"],
-    ["2026-03-12", "Så läser du gårdens timvärden", "En guide till nätbolagets kundportal – och vad siffrorna säger om solcellerna.", "kontor"],
-    ["2025-09-18", "Rekordår för lantbruk", "Vi byggde 41 gårdsanläggningar under säsongen, fler än någonsin.", "tak"]
+    [
+      "2026-10-21",
+      "Vinterns gårdsbesök bokas nu",
+      "Taken är lättast att bedöma före snön – vi har lediga tider i november.",
+      "solel"
+    ],
+    [
+      "2026-06-03",
+      "Oskar Lindqvist leder villalaget",
+      "Tredje generationen har klarat auktorisationen och tar över i Lidköping.",
+      "people"
+    ],
+    [
+      "2026-03-12",
+      "Så läser du gårdens timvärden",
+      "En guide till nätbolagets kundportal – och vad siffrorna säger om solcellerna.",
+      "kontor"
+    ],
+    [
+      "2025-09-18",
+      "Rekordår för lantbruk",
+      "Vi byggde 41 gårdsanläggningar under säsongen, fler än någonsin.",
+      "tak"
+    ]
   ],
-  "kontakt": {"adress": "Mariedalsvägen 14", "postnr": "532 37", "ort": "Skara", "telefon": "070-174 06 11", "epost": "kontor@lindqvistsel.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Mariedalsvägen 14",
+    "postnr": "532 37",
+    "ort": "Skara",
+    "telefon": "070-174 06 11",
+    "epost": "kontor@lindqvistsel.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 07–16, jour för serviceavtal",
   "omrade": "Skaraborg: Skara, Lidköping, Götene, Falköping och Vara",
   "fot_cta": "Fundera inte på taket hela vintern – boka ett gårdsbesök så räknar vi på det.",
-  "bild": {"hb": "el", "panel": "solel"},
+  "bild": {
+    "hb": "el",
+    "panel": "solel"
+  },
   "text": {
     "kontakt_knapp": "Boka gårdsbesök",
     "hero_knapp": "Solceller för lantbruk",

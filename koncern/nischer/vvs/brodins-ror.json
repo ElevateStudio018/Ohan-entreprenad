@@ -29,8 +29,8 @@
   "affarsomraden": [
     {"titel": "Badrum för villa och lägenhet", "text": "Vi har renoverat runt 1 900 badrum sedan 1990-talet, de flesta i Västerås. Våra plattsättare är anställda, inte inhyrda, och tätskiktet görs alltid enligt Byggkeramikrådets branschregler.", "text2": "Ett normalstort badrum på 5 kvadratmeter tar 4–5 veckor från rivning till färdigt.", "tagg": "vvs"},
     {"titel": "Stambyten för bostadsrättsföreningar", "text": "Stambytesavdelningen gör tre till fem stambyten per år i hus från 1950- och 60-talen. Vi håller boendemöten, bygger tillfälliga duschvagnar på gården och har en egen boendesamordnare.", "text2": "Varje trapphus brukar vara klart på 6–8 veckor.", "tagg": "bostad"},
-    {"titel": "Service och underhåll", "text": "Elva av våra servicebilar kör enbart småjobb: läckor, stopp, byten av blandare och varmvattenberedare. Bilarna är lagerförda med de vanligaste delarna så att det mesta blir klart vid första besöket.", "text2": "Timpris 695 kronor inklusive moms, före rotavdrag.", "tagg": "vvs"},
-    {"titel": "Värme och energi", "text": "Vi byter ut gamla oljepannor och direktverkande el mot bergvärme och luft/vatten-pumpar. Borrningen gör en lokal brunnsborrare i Surahammar som vi har samarbetat med i 20 år.", "text2": "Vi gör alltid en effektberäkning innan vi föreslår storlek på pumpen.", "tagg": "hem"}
+    {"titel": "Service och underhåll", "text": "Elva av våra servicebilar kör enbart småjobb: läckor, stopp, byten av blandare och varmvattenberedare. Bilarna är lagerförda med de vanligaste delarna så att nio av tio jobb avslutas samma dag.", "text2": "Timpriset är 695 kronor med moms, och rotavdraget drar vi direkt.", "tagg": "vvs"},
+    {"titel": "Värme och energi", "text": "Vi byter ut gamla oljepannor och direktverkande el mot bergvärme och luft/vatten-pumpar. Borrningen gör en lokal brunnsborrare i Surahammar som vi har samarbetat med i 20 år.", "text2": "Pumpstorleken bestäms efter husets uppmätta förbrukning de senaste tre åren.", "tagg": "hem"}
   ],
   "bolag": [
     {"namn": "Service", "segment": "11 rörmokare", "rubrik": "Småjobben som blir klara direkt", "text": "Servicegruppen leds av Mattias Brodin och tar uppdrag från privatpersoner och fastighetsägare i hela Västerås.", "tagg": "vvs"},
@@ -52,7 +52,7 @@
   "projekt": [
     {"namn": "Brf Vallbyhöjden", "ort": "Västerås", "typ": "Stambyte, 72 lgh", "ar": "2026", "text": "Nya tappvatten- och avloppsstammar, nya badrum och el i våtrum i två etapper.", "tagg": "bostad"},
     {"namn": "Villa på Djäkneberget", "ort": "Västerås", "typ": "Badrum och tvättstuga", "ar": "2025", "text": "Sekelskiftesvilla där vi bevarade det gamla golvbrunnsläget och gjorde nytt badrum i kalkputs och terrazzo.", "tagg": "interior"},
-    {"namn": "Brf Kopparlunden", "ort": "Västerås", "typ": "Relining", "ar": "2025", "text": "Strumpinfodring av 48 lägenheters spillvattenstammar på tre veckor, utan att riva ett enda badrum.", "tagg": "vvs"},
+    {"namn": "Brf Kopparlunden", "ort": "Västerås", "typ": "Relining", "ar": "2025", "text": "Nya liners i 48 lägenheters spillvattenstammar på tre veckor, medan kaklet fick sitta kvar.", "tagg": "vvs"},
     {"namn": "Gård utanför Kärrbo", "ort": "Västerås", "typ": "Bergvärme", "ar": "2024", "text": "Oljepannan ersattes med en 17 kW bergvärmepump och två borrhål på 180 meter.", "tagg": "hem"},
     {"namn": "Bostads AB Köpingshus", "ort": "Köping", "typ": "Ramavtal service", "ar": "2024", "text": "Löpande rörservice i 640 hyreslägenheter med fast svarstid på 48 timmar.", "tagg": "vvs"},
     {"namn": "Radhus i Hökåsen", "ort": "Västerås", "typ": "Vattenskada", "ar": "2025", "text": "Läcka i bjälklaget – rivning, uttorkning och nytt badrum klart på sju veckor.", "tagg": "vvs"}
@@ -89,8 +89,8 @@
     ["Behöver jag vara hemma när ni jobbar?", "Nej. Många lämnar en nyckel i vår kodlåda och får foton i sms efter varje arbetsdag."]
   ],
   "certifikat": [
-    {"titel": "Säker Vatten", "text": "Auktoriserat företag med certifierade montörer enligt branschreglerna Säker Vatteninstallation.", "ikon": "vatten"},
-    {"titel": "BKR våtrumsbehörighet", "text": "Behörighet från Byggkeramikrådet för tätskikt och plattsättning i badrum.", "ikon": "skold"},
+    {"titel": "Säker Vatten", "text": "Våra montörer har gått Säker Vattens utbildning och vi följer branschreglerna i varje kök och badrum.", "ikon": "vatten"},
+    {"titel": "BKR våtrumsbehörighet", "text": "Fyra av våra hantverkare har BKR-behörighet och kan utfärda våtrumsintyg.", "ikon": "skold"},
     {"titel": "Installatörsföretagen", "text": "Medlem sedan 1961 och bundna av branschens allmänna bestämmelser.", "ikon": "portfolj"},
     {"titel": "Kollektivavtal", "text": "Alla anställda omfattas av VVS-avtalet med Byggnads.", "ikon": "folk"}
   ],
@@ -118,6 +118,6 @@
     "kontakt_knapp": "Boka hembesök",
     "hero_knapp": "Det här gör vi",
     "bolag_rubrik": "Fyra lag under ett tak",
-    "medarbetare": "Rörmokarna"
+    "medarbetare": "Hantverkarna på Saltängen"
   }
 }

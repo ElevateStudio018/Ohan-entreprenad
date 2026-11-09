@@ -1,0 +1,131 @@
+{
+  "profil": "nisch",
+  "nisch": "ventilation",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Herrhagens Industriventilation AB",
+  "kortnamn": "Herrhagen",
+  "slug": "herrhagen",
+  "typ": "Processventilation för industrin i Värmland",
+  "tagline": "Industriluft sedan 1979",
+  "slogan": "Herrhagen bygger och servar processventilation, spånsug och svetsröksutsug åt bruk, sågverk och verkstäder i Värmland och Bergslagen.",
+  "hero_rubrik": "När luften är en del av processen",
+  "hero_text": "Spånsug för sågverk, utsug för svetsrök och lösningsmedel, ATEX-klassade fläktar och värmeåtervinning ur processluft. 60 anställda och egen verkstad i Karlstad.",
+  "intro_rubrik": "Tunga anläggningar, hela året",
+  "om": [
+    "Herrhagens Mekaniska startade 1979 som en verkstad som reparerade fläktar åt bruken längs Klarälven. Under 1990-talet började vi bygga hela utsugsanläggningar åt sågverk och verkstäder, och 2004 bytte vi namn till Herrhagens Industriventilation.",
+    "I dag är vi 60 anställda med kontor och en verkstad på 3 200 kvadratmeter i Våxnäs. Där tillverkar vi cykloner, kanaler i grov plåt upp till 1 600 millimeter och svetsade fläkthus. Sedan 2020 leds företaget av Sofia Malmberg, civilingenjör och tidigare underhållschef på ett kartongbruk."
+  ],
+  "vagval_rubrik": "Vad ska bort ur luften?",
+  "tjanster": [
+    {"titel": "Spånsug och cykloner", "ikon": "skog", "href": "verksamhet.html", "text": "Utsug, cykloner och filter för sågverk, snickerier och pelletsfabriker."},
+    {"titel": "Svetsröksutsug", "ikon": "eld", "href": "verksamhet.html", "text": "Punktutsug och centralfilter för svets- och slipverkstäder."},
+    {"titel": "Processventilation", "ikon": "fabrik", "href": "verksamhet.html", "text": "Ventilation för pappersmaskiner, torkar och processhallar."},
+    {"titel": "ATEX-anläggningar", "ikon": "skold", "href": "verksamhet.html", "text": "Explosionsskyddade fläktar och kanaler i dammiga och brännbara miljöer."},
+    {"titel": "Lackering & lösningsmedel", "ikon": "pensel", "href": "verksamhet.html", "text": "Sprutboxar, lackrum och utsug med rätt luftväxling."},
+    {"titel": "Värmeåtervinning", "ikon": "upp", "href": "verksamhet.html", "text": "Vi tar vara på värmen i processfrånluften och värmer hallen med den."},
+    {"titel": "Stopp och underhåll", "ikon": "kalender", "href": "verksamhet.html", "text": "Planerade underhållsstopp med upp till 30 man på plats."},
+    {"titel": "Vår verkstad", "ikon": "hamare", "href": "om-oss.html", "text": "Cykloner, fläkthus och grovplåtskanaler tillverkade i Våxnäs."}
+  ],
+  "affarsomraden": [
+    {"titel": "Trä och skog", "text": "Sågverk, hyvlerier och pelletsfabriker behöver utsug som klarar flis, spån och fint damm dygnet runt. Vi projekterar, tillverkar och monterar hela anläggningen, från maskinkåpa till cyklon och silo.", "text2": "Vi har byggt spånsug åt 34 sågverk och snickerier i Värmland, Dalarna och Dalsland.", "tagg": "industri"},
+    {"titel": "Verkstad och svets", "text": "Svetsrök är cancerframkallande, och Arbetsmiljöverkets gränsvärden skärps. Vi mäter exponeringen, bygger punktutsug vid varje svetsplats och centrala filteranläggningar med återluft.", "text2": "Med återluft och värmeåtervinning behöver hallen inte värmas upp på nytt varje gång luften byts.", "tagg": "svets"},
+    {"titel": "Massa och papper", "text": "Kring pappersmaskiner, torkpartier och kemikaliehantering är ventilationen en del av processen. Vi arbetar under planerade stopp och har ramavtal med tre bruk i regionen.", "text2": "Kanaler i rostfritt och syrafast stål tillverkas i egen verkstad.", "tagg": "ventilation"},
+    {"titel": "ATEX och brandskydd", "text": "Där trädamm, mjöl eller lösningsmedel kan explodera krävs ATEX-klassade fläktar, gnistdetektering och explosionsluckor. Vi gör riskbedömningen tillsammans med er och dokumenterar enligt regelverket.", "text2": "Gnistdetektering och släcksystem installeras i samarbete med en certifierad brandskyddsleverantör.", "tagg": "ventilation"}
+  ],
+  "bolag": [
+    {"namn": "Projekt och konstruktion", "segment": "9 ingenjörer", "rubrik": "Varje kubikmeter beräknad", "text": "Mätningar, flödesberäkningar, 3D-konstruktion och ATEX-dokumentation.", "tagg": "kontor"},
+    {"namn": "Verkstaden", "segment": "16 plåtslagare och svetsare", "rubrik": "Grov plåt, stora mått", "text": "Tillverkar cykloner, fläkthus och kanaler upp till 1 600 millimeter i diameter.", "tagg": "svets"},
+    {"namn": "Montage", "segment": "22 montörer", "rubrik": "På plats under stoppen", "text": "Monterar anläggningar i hela regionen, ofta under bruksstopp och helger.", "tagg": "ventilation"},
+    {"namn": "Service", "segment": "10 tekniker", "rubrik": "Fläktar som aldrig får stanna", "text": "Vibrationsmätning, balansering, filterbyten och jour för avtalskunder.", "tagg": "maskin"}
+  ],
+  "berattelser": [
+    {"rubrik": "Nytt spånsug i Molkom", "text": "Ett 85 000 kubikmeter-utsug med två cykloner och återluft värmer nu hela hyvleriet på vintern.", "tagg": "industri"},
+    {"rubrik": "Höststoppet på bruket", "text": "28 montörer bytte 140 meter syrafast kanal på 66 timmar – stoppet var planerat till 72.", "tagg": "ventilation"},
+    {"rubrik": "Svetsrök under gränsvärdet", "text": "Nya punktutsug i en verkstad i Kil sänkte exponeringen med 92 procent.", "tagg": "svets"}
+  ],
+  "nyckeltal": [
+    {"varde": "1979", "enhet": "", "etikett": "Grundat i Herrhagen, Karlstad"},
+    {"varde": "60", "enhet": "anställda", "etikett": "Ingenjörer, svetsare och montörer"},
+    {"varde": "3 200", "enhet": "m²", "etikett": "Egen verkstad i Våxnäs"},
+    {"varde": "1 600", "enhet": "mm", "etikett": "Största kanaldiametern vi tillverkar"}
+  ],
+  "projekt": [
+    {"namn": "Molkoms Trävaru", "ort": "Molkom", "typ": "Spånsug", "ar": "2025", "text": "85 000 m³/h, två cykloner, ATEX-fläktar och återluft till hyvleriet.", "tagg": "industri"},
+    {"namn": "Älvsbacka Kartong", "ort": "Älvsbacka", "typ": "Underhållsstopp", "ar": "2025", "text": "140 meter syrafast kanal vid torkpartiet bytt under ett stopp på 72 timmar.", "tagg": "industri"},
+    {"namn": "Kil Mekaniska", "ort": "Kil", "typ": "Svetsröksutsug", "ar": "2025", "text": "24 svetsplatser med punktutsug och centralt filter med återluft.", "tagg": "svets"},
+    {"namn": "Deje Pellets", "ort": "Deje", "typ": "ATEX-anläggning", "ar": "2026", "text": "Nytt utsug med gnistdetektering och explosionsluckor i pelletslinjen.", "tagg": "ventilation", "status": "Pågående"},
+    {"namn": "Säffle Lackcenter", "ort": "Säffle", "typ": "Lackering", "ar": "2024", "text": "Två sprutboxar med värmeåtervinning som halverade uppvärmningskostnaden.", "tagg": "industri"},
+    {"namn": "Hagfors Gjuteri", "ort": "Hagfors", "typ": "Processventilation", "ar": "2024", "text": "Takfläktar och tilluft som sänkte temperaturen vid ugnarna med åtta grader.", "tagg": "maskin"}
+  ],
+  "process": [
+    {"titel": "Mätning på plats", "text": "Vi mäter flöden, partiklar och exponering och går igenom processen med produktion och skyddsombud.", "tagg": "ventilation"},
+    {"titel": "Konstruktion", "text": "Ingenjörerna ritar anläggningen i 3D och gör ATEX-bedömning där det behövs.", "tagg": "kontor"},
+    {"titel": "Tillverkning", "text": "Cykloner, fläkthus och kanaler tillverkas i Våxnäs och provmonteras innan leverans.", "tagg": "svets"},
+    {"titel": "Montage under stopp", "text": "Vi monterar när det passar produktionen – helger, nätter eller planerade stopp.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Den varmaste luften ska inte ut",
+    "text": "En industrihall som ventileras utan återvinning släpper ut stora mängder värme varje timme. Med återluft genom filter och värmeväxlare ur processluften har våra kunder sparat över 14 GWh om året. Samtidigt sänker vi exponeringen för damm och rök för de som arbetar i hallen.",
+    "mal": [["14 GWh", "årlig värmebesparing hos kunderna"], ["–92 %", "svetsrök i Kil efter ombyggnad"], ["0", "allvarliga olyckor på våra montage sedan 2017"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg det som håller industrin igång",
+    "text": "Hos oss jobbar du med de största fläktarna och de grövsta kanalerna i regionen. Svetsare certifieras enligt EN ISO 9606 på vår bekostnad, och montörer får gå utbildning i ATEX.",
+    "jobb": [["Svetsare, rostfritt", "Karlstad"], ["Industrimontör", "Karlstad"], ["Konstruktör ventilation", "Karlstad"], ["Servicetekniker med jour", "Kristinehamn"]]
+  },
+  "kultur": "Efter varje bruksstopp äter hela montagelaget middag tillsammans – på företagets bekostnad och med familjerna inbjudna.",
+  "citat": {"text": "På ett bruk går det inte att säga att fläkten kommer på tisdag. Antingen är den klar när maskinen startar, eller så står produktionen still.", "namn": "Sofia Malmberg", "roll": "Vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi hade 72 timmar på stoppet. Herrhagen var klara efter 66, med alla kanaler provtryckta.", "namn": "Roger A.", "ort": "Underhållschef, Älvsbacka"},
+    {"text": "Hyvleriet var kallt varje vinter. Med återluften från spånsuget behöver vi knappt elda alls.", "namn": "Kenneth L.", "ort": "Molkom"},
+    {"text": "Skyddsombudet var med från första mätningen. När vi mätte efter ombyggnaden låg alla svetsare långt under gränsvärdet.", "namn": "Pia S.", "ort": "Kil"}
+  ],
+  "faq": [
+    ["Arbetar ni bara med industri?", "Ja, nästan uteslutande. Vi bygger ventilation där luften är en del av processen – inte i bostäder eller kontor."],
+    ["Kan ni arbeta under produktionsstopp?", "Ja, det är så vi gör de flesta jobb. Vi kan ha upp till 30 montörer på plats och arbetar dygnet runt under stoppet."],
+    ["Vad krävs för en ATEX-anläggning?", "En riskbedömning som klassar zonerna, utrustning som är godkänd för zonen och dokumentation. Vi gör hela kedjan tillsammans med er."],
+    ["Kan ni sänka svetsröken under gränsvärdet?", "I alla verkstäder vi hittills arbetat i, ja. Vi mäter först, bygger sedan och mäter igen efter ombyggnaden."],
+    ["Tillverkar ni allt själva?", "Cykloner, fläkthus, kanaler och specialdelar tillverkas i vår verkstad. Fläktmotorer och filterpatroner köper vi in."],
+    ["Har ni jour?", "Avtalskunder har jour dygnet runt med en tekniker på plats inom fyra timmar i Värmland."],
+    ["Var arbetar ni?", "I Värmland, Dalsland, Dalarna och västra Bergslagen. Större projekt tar vi i hela Sverige och Norge."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001, 14001 och 45001", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö.", "ikon": "skold"},
+    {"titel": "Svetscertifiering EN ISO 9606", "text": "Alla svetsare certifierade, verkstaden certifierad enligt EN ISO 3834-3.", "ikon": "eld"},
+    {"titel": "ATEX-kompetens", "text": "Ingenjörer och montörer utbildade i explosionsskydd enligt ATEX-direktiven.", "ikon": "blixt"},
+    {"titel": "Två kollektivavtal", "text": "Kollektivavtal via Plåt & Ventföretagen och Teknikföretagen.", "ikon": "folk"}
+  ],
+  "kunder": ["Molkoms Trävaru AB", "Älvsbacka Kartong", "Kil Mekaniska", "Deje Pellets AB", "Säffle Lackcenter", "Hagfors Gjuteri AB", "Arvika Plåtindustri", "Klarälvens Sågverk"],
+  "nyheter": [
+    ["2026-10-08", "Höststoppet klart på 66 timmar", "28 montörer och 140 meter syrafast kanal – sex timmar före plan.", "ventilation"],
+    ["2026-05-19", "Skärpta gränsvärden för svetsrök", "Vad de nya kraven betyder för verkstäder i Värmland – och hur man mäter.", "svets"],
+    ["2026-02-24", "Verkstaden får ny rullmaskin", "Nu valsar vi plåt upp till 10 millimeter för kanaler och cykloner.", "industri"],
+    ["2025-11-17", "Servicekontor i Kristinehamn", "Två tekniker stationeras österut för snabbare jour till Bergslagen.", "maskin"]
+  ],
+  "kontakt": {"adress": "Gjuterigatan 21", "postnr": "653 43", "ort": "Karlstad", "telefon": "070-174 06 86", "epost": "info@herrhagen-ventilation.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–16, jour för avtalskunder",
+  "omrade": "Värmland, Dalsland, Dalarna och västra Bergslagen",
+  "fot_cta": "Planerar ni ett stopp? Boka in oss innan kalendern är full.",
+  "bild": {"panel": "svets", "hb": "industri"},
+  "text": {
+    "hero_knapp": "Våra anläggningar",
+    "ber_etikett": "Från montagen",
+    "ber_rubrik": "Senast på bruk och verkstäder",
+    "proj_rubrik": "Anläggningar vi har byggt",
+    "proj_rubrik_lista": "Industriuppdrag i regionen",
+    "sida_projekt_titel": "Anläggningar",
+    "process_etikett": "Från mätning till montage",
+    "process_rubrik": "Byggt för att produktionen ska gå",
+    "hb_etikett": "Energi och arbetsmiljö",
+    "omdomen_rubrik": "Underhållschefer om oss",
+    "faq_rubrik": "Frågor om processventilation",
+    "boka_rubrik": "Beskriv er process",
+    "boka_text": "Berätta vad som ska ventileras och när ni har nästa stopp, så kontaktar en ingenjör er inom tre arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "Företag", "Process och planerat stopp"],
+    "logos_rubrik": "Industrier vi bygger åt",
+    "certifikat_rubrik": "Certifierade för tung industri",
+    "bolag_rubrik": "Fyra avdelningar, en verkstad",
+    "siffror_etikett": "Herrhagen i siffror",
+    "medarbetare": "Montörer och svetsare"
+  }
+}

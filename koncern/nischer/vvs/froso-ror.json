@@ -58,7 +58,7 @@
   ],
   "process": [
     {"titel": "Ring Olle eller Hanna", "text": "Ingen växel. Beskriv vad som hänt så avgör vi om vi kan hjälpa dig på telefon först.", "tagg": "people"},
-    {"titel": "Vi kör ut", "text": "Servicebilen har pump, tryckkärl och filter med sig. Det mesta blir klart vid första besöket.", "tagg": "vvs"},
+    {"titel": "Vi kör ut", "text": "Servicebilen har pump, tryckkärl och filter med sig. Sju av tio pumpstopp löser vi utan ett andra besök.", "tagg": "vvs"},
     {"titel": "Fast pris", "text": "Vanliga jobb gör vi till fast pris inklusive resa inom 10 mil från Östersund.", "tagg": "kontor"},
     {"titel": "Påminnelse", "text": "Vi skickar sms när det är dags för service, vattenprov eller stängning av stugan.", "tagg": "hem"}
   ],
@@ -94,10 +94,10 @@
   ],
   "prislista": [["Vattenprov, normal kontroll", "450 kr"], ["Järn- och manganfilter, installerat", "fr. 18 000 kr"], ["UV-filter, installerat", "fr. 9 800 kr"], ["Radonavskiljare, installerad", "fr. 32 000 kr"], ["Timpris", "720 kr"], ["Snöskoterkörning till stuga", "fr. 600 kr"]],
   "certifikat": [
-    {"titel": "Säker Vatten", "text": "Auktoriserat företag för tappvatten och avlopp enligt branschreglerna.", "ikon": "vatten"},
+    {"titel": "Säker Vatten", "text": "Vi följer branschreglerna för vatteninstallationer även i stugor som bara används på sportlovet.", "ikon": "vatten"},
     {"titel": "Installatörsföretagen", "text": "Medlem sedan 1995 och följer branschens allmänna bestämmelser för konsumenter.", "ikon": "portfolj"},
     {"titel": "Heta arbeten", "text": "Alla rörmokare har giltigt certifikat för heta arbeten.", "ikon": "eld"},
-    {"titel": "Ansvarsförsäkring", "text": "Försäkrade upp till fem miljoner kronor för skador vi orsakar.", "ikon": "skold"}
+    {"titel": "Ansvarsförsäkring", "text": "Om något går sönder på grund av vårt arbete täcker försäkringen upp till 5 Mkr.", "ikon": "skold"}
   ],
   "kunder": ["Samfälligheten Bydalen Övre", "Hallens Byaförening", "Mjölkgården i Oviken", "Edsåsdalens Stugägareförening", "Kalls Vattenförening", "Krokoms Lantbruksgrupp"],
   "nyheter": [
@@ -123,7 +123,7 @@
     "faq_rubrik": "Det här undrar stugägare",
     "priser_etikett": "Fasta priser",
     "priser_rubrik": "Vanliga jobb till fast pris",
-    "priser_not": "Priser inklusive moms, före rotavdrag. Resa inom 10 mil från Östersund ingår.",
+    "priser_not": "Moms ingår, rotavdraget är inte draget. Resa inom 10 mil från Östersund ingår.",
     "priser_utvald": "Mest bokat på hösten",
     "priser_knapp": "Boka",
     "boka_rubrik": "Boka service eller stängning",
@@ -134,6 +134,6 @@
     "bolag_kol": ["Namn", "Roll", "Om"],
     "sida_bolag_ingress": "Vi är sex rörmokare och ingenjörer med bas på Frösön och i Järpen.",
     "meny_bolag": "Vi som jobbar här",
-    "medarbetare": "Rörmokarna"
+    "medarbetare": "Vi på Frösön"
   }
 }

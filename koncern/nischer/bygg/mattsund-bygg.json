@@ -14,9 +14,9 @@
     "Tommy Lindbäck var plattsättare i Måttsund och började 1999 renovera badrum åt grannar på kvällstid. Efter fem år hade han tio anställda och en kö på ett halvår, och 2008 flyttade vi in i lokalen på Hertsövägen med visningsrum för kakel och porslin.",
     "I dag är vi 38 anställda och omsätter 62 miljoner kronor. Vi arbetar nästan bara åt privatpersoner och brf:er, och varje kund får en projektledare som har lagt kakel själv."
   ],
-  "vagval_rubrik": "Vad vill du renovera?",
+  "vagval_rubrik": "Vilket rum är på tur?",
   "tjanster": [
-    {"titel": "Badrumsrenovering", "ikon": "vatten", "href": "verksamhet.html", "text": "Rivning, tätskikt, kakel och porslin – klart på tre veckor."},
+    {"titel": "Nytt badrum", "ikon": "vatten", "href": "verksamhet.html", "text": "Rivning, tätskikt, kakel och porslin – klart på tre veckor."},
     {"titel": "Köksrenovering", "ikon": "hem", "href": "verksamhet.html", "text": "Montering av nytt kök med el, vatten och kakel."},
     {"titel": "Tillbyggnad", "ikon": "hamare", "href": "verksamhet.html", "text": "Nya rum, uterum och entréer på villor och radhus."},
     {"titel": "Fönster och dörrar", "ikon": "hus", "href": "verksamhet.html", "text": "Treglasfönster med U-värde 0,9 för norrbottniska vintrar."},
@@ -27,7 +27,7 @@
   ],
   "affarsomraden": [
     {"titel": "Badrum", "text": "Ett badrum på fem till sju kvadratmeter tar 15 arbetsdagar från rivning till slutstädning. Tätskiktet läggs av behöriga plattsättare och fotograferas innan kaklet sätts.", "text2": "Kakel och porslin väljer du i visningsrummet på Hertsövägen.", "tagg": "vvs"},
-    {"titel": "Kök och interiör", "text": "Vi monterar kök från de flesta leverantörer och tar hand om allt runt omkring: el, vatten, ventilation, kakel och golv. Gamla köket rivs och körs bort samma dag.", "text2": "Ett kök tar normalt 6–10 arbetsdagar att montera.", "tagg": "interior"},
+    {"titel": "Kök", "text": "Vi monterar kök från de flesta leverantörer och tar hand om allt runt omkring: el, vatten, ventilation, kakel och golv. Gamla köket rivs och körs bort samma dag.", "text2": "Ett kök tar normalt 6–10 arbetsdagar att montera.", "tagg": "interior"},
     {"titel": "Villa och tillbyggnad", "text": "Husen i Luleå och Boden från 1960- och 70-talen behöver ofta nya fönster, tilläggsisolering och större entréer. Vi bygger till och bygger om så att huset klarar 35 minusgrader bättre.", "text2": "Tillbyggnader upp till 25 m² kräver ofta bara en anmälan.", "tagg": "hem"},
     {"titel": "Vattenskador och service", "text": "När det har läckt kommer vår serviceavdelning ut inom ett dygn, river, torkar och återställer. Vi samarbetar med försäkringsbolagens skadehandläggare i hela Norrbotten.", "text2": "Brf:er kan teckna serviceavtal med fasta timpriser.", "tagg": "vvs"}
   ],
@@ -72,15 +72,15 @@
     "jobb": [["Plattsättare", "Luleå"], ["Snickare", "Boden"], ["Servicetekniker vattenskador", "Luleå"]]
   },
   "kultur": "Varje lag har egen servicebil och verktygsbudget, och på vintern går fredagslunchen till pimpelfiske på Hertsöfjärden.",
-  "citat": {"text": "Ett badrum är det rum där ett fel blir dyrast. Därför fotograferar vi tätskiktet innan någon sätter en enda platta.", "namn": "Tommy Lindbäck", "roll": "Grundare och VD", "tagg": "vvs"},
+  "citat": {"text": "Ett badrum är det rum där ett fel blir dyrast. Därför fotograferar vi tätskiktet innan någon sätter en enda platta.", "namn": "Tommy Lindbäck", "roll": "Grundare, plattsättare och VD", "tagg": "vvs"},
   "omdomen": [
-    {"text": "Priset i offerten var exakt det vi betalade. ROT-avdraget var redan dragit och vi behövde inte göra något själva.", "namn": "Linda K.", "ort": "Björkskatan"},
+    {"text": "Priset i offerten var exakt det vi betalade. ROT-avdraget var redan avräknat och vi behövde inte göra något själva.", "namn": "Linda K.", "ort": "Björkskatan"},
     {"text": "Tre veckor och ett perfekt badrum. Och de dammsög trappan varje kväll.", "namn": "Mats Ö.", "ort": "Boden"},
     {"text": "Efter vattenskadan ringde de försäkringsbolaget åt oss och var här med avfuktare dagen efter.", "namn": "Brf Norra Hamn", "ort": "Luleå"}
   ],
   "faq": [
-    ["Vad kostar ett nytt badrum?", "Ett badrum på 5–7 m² kostar normalt 210 000–290 000 kronor före ROT-avdrag, beroende på val av kakel, porslin och golvvärme."],
-    ["Hur fungerar ROT-avdraget?", "Du får 30 procent av arbetskostnaden i avdrag, upp till 50 000 kronor per person och år. Vi drar av det direkt på fakturan och ansöker hos Skatteverket."],
+    ["Vad får man räkna med för ett badrum?", "Ett badrum på 5–7 m² kostar normalt 210 000–290 000 kronor före ROT-avdrag, beroende på val av kakel, porslin och golvvärme."],
+    ["Hur räknas ROT-avdraget?", "Du får 30 procent av arbetskostnaden i avdrag, upp till 50 000 kronor per person och år. Avdraget syns redan på vår faktura, och ansökan till Skatteverket sköter vi."],
     ["Hur länge står vi utan badrum?", "Tre veckor för ett normalt badrum. Har ni bara ett badrum kan vi ställa en tillfällig toalett i hallen."],
     ["Vilken garanti får vi?", "Tio år på tätskiktet enligt Behörig Våtrum och två år på övrigt arbete enligt Hantverkarformuläret 17."],
     ["Hur långt i förväg måste vi boka?", "Just nu är väntetiden 10–14 veckor för badrum. Hembesöket gör vi inom en vecka."],
@@ -89,7 +89,7 @@
     ["Åker ni till Kalix eller Älvsbyn?", "Ibland, för större uppdrag som kök plus badrum. Annars håller vi oss inom Luleå, Boden och Piteå."]
   ],
   "certifikat": [
-    {"titel": "Behörig Våtrum (BKR)", "text": "Alla plattsättare har giltig behörighet och företaget är auktoriserat.", "ikon": "vatten"},
+    {"titel": "BKR-auktoriserat företag", "text": "Alla plattsättare har giltig behörighet och företaget är auktoriserat.", "ikon": "vatten"},
     {"titel": "Säker Vatten", "text": "Auktoriserat företag för installation av tappvatten och avlopp i bostäder.", "ikon": "ror"},
     {"titel": "Byggföretagen", "text": "Medlemmar, med ansvarsförsäkring och kollektivavtal.", "ikon": "dokument"},
     {"titel": "ID06", "text": "Alla som arbetar hos dig bär ID06-kort.", "ikon": "las"}
@@ -106,7 +106,7 @@
   "fot_cta": "Dags för nytt badrum eller kök? Boka ett hembesök så får du ett fast pris inom en vecka.",
   "bild": {"panel": "vvs", "hb": "interior", "om": "people", "sida_bolag": "interior", "sida_om": "hem", "sida_faq": "vvs"},
   "text": {
-    "kontakt_knapp": "Boka hembesök",
+    "kontakt_knapp": "Boka besök hemma",
     "meny_bolag": "Våra lag",
     "hero_knapp": "Vad vi renoverar",
     "hero_lank": "Se färdiga badrum",

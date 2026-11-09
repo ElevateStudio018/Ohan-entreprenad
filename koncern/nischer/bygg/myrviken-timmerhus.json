@@ -34,7 +34,7 @@
   "bolag": [
     {"namn": "Timmerplanen", "segment": "Timring i Myrviken", "rubrik": "Varje stock märkt", "text": "Tolv timmermän som timrar husen på planen vid Storsjön, med knutar efter jämtländsk tradition.", "tagg": "tra"},
     {"namn": "Fjällmontage", "segment": "Resning och komplettering", "rubrik": "Tio dagar till tak", "text": "Montagelaget reser stommen, lägger taket och kompletterar med fönster och golv på tomten.", "tagg": "bygg"},
-    {"namn": "Ritkontoret", "segment": "Ritning och bygglov", "rubrik": "Ritat för sättningar", "text": "Två ingenjörer som ritar husen och räknar in att timret sätter sig 4–6 centimeter per våning.", "tagg": "kontor"}
+    {"namn": "Ritkontoret", "segment": "Ritningar och lovansökan", "rubrik": "Ritat för sättningar", "text": "Två ingenjörer som ritar husen och räknar in att timret sätter sig 4–6 centimeter per våning.", "tagg": "kontor"}
   ],
   "berattelser": [
     {"rubrik": "Fjällgård i Bydalen med torvtak", "text": "Fyra byggnader runt en gårdsplan, timrade på planen i två månader och resta på tre veckor.", "tagg": "tra"},
@@ -72,7 +72,7 @@
     "jobb": [["Timmerman", "Myrviken"], ["Montör fjällstugor", "Åre"]]
   },
   "kultur": "Varje fredag eldar vi i bastun på planen, och alla som jobbar här har timrat sin egen vedbod första året.",
-  "citat": {"text": "En timmerstuga ska få sätta sig i sin egen takt. Den som stressar fram ett timmerhus får dörrar som kärvar i tio år.", "namn": "Olle Grahn", "roll": "Grundare och timmerman", "tagg": "tra"},
+  "citat": {"text": "En timmerstuga ska få sätta sig i sin egen takt. Den som stressar fram ett timmerhus får dörrar som kärvar i tio år.", "namn": "Olle Grahn", "roll": "Grundare, timrar fortfarande", "tagg": "tra"},
   "omdomen": [
     {"text": "Vi åkte till Myrviken tre gånger medan stugan timrades. Barnen fick skriva sina namn på en stock som nu sitter i sovloftet.", "namn": "Familjen B.", "ort": "Åre"},
     {"text": "Stommen stod på nio dagar trots att tomten bara gick att nå med bandvagn i april.", "namn": "Göran E.", "ort": "Bydalen"},
@@ -80,7 +80,7 @@
   ],
   "faq": [
     ["Vad kostar en timrad fjällstuga?", "En stuga på 60–80 m² kostar 2,3–3,1 miljoner kronor färdig att flytta in i, inklusive grund, VA och bastu. Endast stomme och tak från cirka 1,1 miljoner."],
-    ["Hur mycket sätter sig huset?", "Timret sätter sig 4–6 centimeter per våning de första två åren. Vi bygger in glipor över dörrar och fönster och justerar efter ett år."],
+    ["Hur stora sättningar blir det i timret?", "Timret sätter sig 4–6 centimeter per våning de första två åren. Vi bygger in glipor över dörrar och fönster och justerar efter ett år."],
     ["Är ett timmerhus energieffektivt?", "Ja, med 24–28 centimeters stock, isolerat tak och golv och en luft-vattenvärmepump klarar huset kraven för permanentboende."],
     ["Kan ni bygga på en tomt utan väg?", "Ja, vi har rest hus med helikopter och bandvagn. Det kostar mer, men de flesta fjälltomter går att nå på vintern."],
     ["Hur lång tid tar det från beställning till inflyttning?", "Räkna med 12–18 månader: bygglov, timring under vintern och montage och inredning under sommaren."],
@@ -125,6 +125,6 @@
     "logos_rubrik": "Vi har timrat åt",
     "bolag_rubrik": "Planen, montaget och ritbordet",
     "ny_rubrik": "Från timmerplanen",
-    "medarbetare": "Timmermännen"
+    "medarbetare": "Timrarna"
   }
 }

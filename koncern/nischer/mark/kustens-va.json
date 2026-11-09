@@ -1,0 +1,142 @@
+{
+  "profil": "nisch",
+  "nisch": "mark",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kustens VA & Mark AB",
+  "kortnamn": "Kustens VA",
+  "slug": "kustens-va",
+  "typ": "VA-anslutningar i Halland och södra Göteborg",
+  "tagline": "Från förbindelsepunkt till husvägg",
+  "slogan": "När kommunen drar fram vatten och avlopp till ditt område kopplar vi in huset – till fast pris, med ett lag och på två till tre dagar.",
+  "hero_rubrik": "Kommunalt VA till ditt hus, fast pris",
+  "hero_text": "Vi har anslutit över 1 300 fritids- och permanenthus till kommunalt VA i Kungsbacka, Varberg och Mölndal. Servisledning, pumpstation och återställd trädgård i samma pris.",
+  "intro_rubrik": "Specialister på omvandlingsområden",
+  "om": [
+    "Tobias Ek och Rami Haddad arbetade båda som rörläggare när Kungsbacka kommun började bygga ut VA på Onsalahalvön 2013. Villaägarna fick ett brev om att de måste ansluta inom ett år, men ingen kunde säga vad det skulle kosta. Året efter startade de Kustens VA med ett enda erbjudande: fast pris per hus.",
+    "I dag är vi tolv anställda med fyra lag som var och en har en minigrävare, en tippbil och en rörläggare. Ett vanligt jobb – från kommunens förbindelsepunkt till husväggen, med avstängning av den gamla brunnen och slamavskiljaren – tar två till tre dagar."
+  ],
+  "vagval_rubrik": "Har du fått brevet från kommunen?",
+  "tjanster": [
+    {"titel": "VA-anslutning", "ikon": "ror", "href": "verksamhet.html", "text": "Servisledningar för vatten och spillvatten från förbindelsepunkten till huset."},
+    {"titel": "LTA-pumpstation", "ikon": "kugge", "href": "verksamhet.html", "text": "Installation av kommunens tryckavloppspump när självfall inte fungerar."},
+    {"titel": "Gammalt avlopp bort", "ikon": "hamare", "href": "verksamhet.html", "text": "Slamavskiljare och brunnar töms, fylls igen eller lyfts upp."},
+    {"titel": "Dagvatten", "ikon": "vatten", "href": "verksamhet.html", "text": "Stuprör och dränering till kassett eller kommunens dagvattenledning."},
+    {"titel": "Samfälligheter", "ikon": "folk", "href": "verksamhet.html", "text": "Gemensam upphandling för hela vägen eller området, med rabatt från fem hus."},
+    {"titel": "Återställning", "ikon": "trad", "href": "verksamhet.html", "text": "Gräsmatta, plattor och grus läggs tillbaka som det var."},
+    {"titel": "Fasta priser", "ikon": "portfolj", "href": "priser.html", "text": "Tre paket som täcker nio av tio anslutningar."},
+    {"titel": "Gratis platsbesök", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi mäter avståndet och lämnar fast pris samma vecka."}
+  ],
+  "affarsomraden": [
+    {"titel": "Anslutning till kommunalt VA", "text": "Kommunen bygger fram till en förbindelsepunkt vid tomtgränsen. Därifrån ansvarar fastighetsägaren för ledningarna till huset – och det är där vi kommer in.", "text2": "Vi gräver, lägger isolerade servisledningar, kopplar in i huset och provtrycker innan vi fyller igen.", "tagg": "vvs"},
+    {"titel": "LTA-system och pumpar", "text": "I kuperade områden vid havet bygger kommunerna ofta tryckavlopp med en liten pumpstation på varje tomt. Vi gräver ner pumpstationen, drar el från elcentralen och kopplar in larmet.", "text2": "Vi är godkända installatörer av kommunens pumpar i Kungsbacka och Varberg.", "tagg": "anlaggning"},
+    {"titel": "Det gamla avloppet", "text": "När huset är anslutet ska den gamla slamavskiljaren och infiltrationen tas ur drift. Vi tömmer, river eller fyller igen och skickar intyg till miljöförvaltningen.", "text2": "Brunnar i bra skick kan ibland göras om till regnvattentunna för trädgården.", "tagg": "mark"},
+    {"titel": "Hela områden", "text": "När en hel samfällighet ansluter samtidigt planerar vi gatan i etapper och tar ett hus per dag. Grannarna får samma pris och samma lag.", "text2": "Från fem hus lämnar vi gemensam offert med rabatt på 8 till 12 procent.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Anslutningslagen", "segment": "Fyra lag", "rubrik": "Ett hus på två till tre dagar", "text": "Varje lag har minigrävare, tippbil och egen rörläggare med behörighet för både vatten och avlopp.", "tagg": "vvs"},
+    {"namn": "Platsbesök och kalkyl", "segment": "Offert", "rubrik": "Fast pris inom en vecka", "text": "Rami gör alla platsbesök, mäter avstånd och höjder och skriver offerten.", "tagg": "people"},
+    {"namn": "Samordning", "segment": "Kommun och samfälligheter", "rubrik": "Vi pratar med kommunen", "text": "Linnea håller kontakten med VA-huvudmannen, beställer pumpar och planerar etapper i samfälligheter.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "48 hus på Gottskär anslutna på tio veckor", "text": "Hela samfälligheten fick samma pris och samma två lag, ett hus om dagen.", "tagg": "bostad"},
+    {"rubrik": "Nytt omvandlingsområde i Frillesås", "text": "Kommunen bygger ut VA till 210 fastigheter under 2027. Vi har redan gjort 60 platsbesök.", "tagg": "vvs"},
+    {"rubrik": "Pumpstationer i Bua klara före vintern", "text": "Tjugotvå LTA-pumpar installerade och provkörda åt fastighetsägare i Varbergs kommun.", "tagg": "anlaggning"}
+  ],
+  "nyckeltal": [
+    {"varde": "1 300+", "enhet": "hus", "etikett": "Anslutna sedan 2014"},
+    {"varde": "2–3", "enhet": "dagar", "etikett": "För en vanlig anslutning"},
+    {"varde": "4", "enhet": "lag", "etikett": "Med egen rörläggare"},
+    {"varde": "0", "enhet": "kr", "etikett": "För platsbesök och offert"}
+  ],
+  "projekt": [
+    {"namn": "Gottskär samfällighet", "ort": "Onsala", "typ": "48 VA-anslutningar", "ar": "2025", "text": "Ett hus per dag i tio veckor, med gemensam offert och samma pris för alla.", "tagg": "bostad"},
+    {"namn": "Bua strandområde", "ort": "Varberg", "typ": "LTA-pumpstationer", "ar": "2025", "text": "22 pumpstationer med larm och elanslutning.", "tagg": "anlaggning"},
+    {"namn": "Vallda Sandö", "ort": "Kungsbacka", "typ": "Anslutning och dagvatten", "ar": "2024", "text": "31 fritidshus anslutna, med dagvattenkassetter på tomterna.", "tagg": "vvs"},
+    {"namn": "Sommarvillan på Särö", "ort": "Särö", "typ": "Anslutning på berg", "ar": "2024", "text": "42 meter servisledning lagd i sprängd ränna och isolerad mot tjäle.", "tagg": "mark"},
+    {"namn": "Frillesås kustområde", "ort": "Frillesås", "typ": "Omvandlingsområde", "ar": "2026", "text": "Platsbesök och offerter för 210 fastigheter inför kommunens utbyggnad.", "tagg": "bostad"},
+    {"namn": "Lindome by", "ort": "Mölndal", "typ": "VA-anslutning", "ar": "2025", "text": "Fjorton villor som tidigare haft egen brunn och trekammarbrunn.", "tagg": "hem"}
+  ],
+  "process": [
+    {"titel": "Platsbesök", "text": "Rami mäter avstånd, kollar höjder och visar var ledningen ska gå.", "tagg": "people"},
+    {"titel": "Fast pris och datum", "text": "Inom en vecka får du offert med fast pris och ett datum som passar kommunens tidplan.", "tagg": "kontor"},
+    {"titel": "Två till tre dagar", "text": "Laget gräver, lägger ledningar, kopplar in och provtrycker.", "tagg": "vvs"},
+    {"titel": "Intyg och återställning", "text": "Du får intyg till kommunen och en tomt som ser ut som innan.", "tagg": "mark"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen ska behöva gräva två gånger",
+    "text": "Vi lägger tomrör för fiber och el när diket ändå är öppet, och vi fotograferar varje ledning innan den täcks. Bilderna och en ritning med mått lämnas till dig, så att nästa person som gräver vet var ledningarna ligger.",
+    "mal": [["100 %", "fotograferade ledningar"], ["10 år", "garanti på servisledningar"], ["1 vecka", "från platsbesök till offert"]]
+  },
+  "karriar": {
+    "rubrik": "Rörläggare som vill vara ute",
+    "text": "Hos oss jobbar du i ett lag på två eller tre, avslutar ett jobb varannan dag och ser resultatet direkt. Vi betalar för Säker Vatten-behörighet och maskinförarutbildning.",
+    "jobb": [["Rörläggare VA", "Kungsbacka"], ["Maskinförare minigrävare", "Kungsbacka"]]
+  },
+  "kultur": "Laget som avslutar flest jobb utan reklamationer under ett år får välja årets resa.",
+  "citat": {"text": "Folk var rädda för en räkning de inte kunde förutse. Fast pris var hela idén, och det är fortfarande det vi säljer.", "namn": "Tobias Ek", "roll": "Medgrundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Kommunen skrev att vi måste ansluta inom ett år. Kustens VA gav fast pris samma vecka och var klara på två dagar. Gräsmattan är tillbaka.", "namn": "Eva och Lennart S.", "ort": "Onsala"},
+    {"text": "Vi var 48 hus i samfälligheten. Alla fick samma pris och samma lag, och det blev inga diskussioner grannar emellan.", "namn": "Per A.", "ort": "Gottskär"},
+    {"text": "Ledningen fick sprängas genom berget på tomten. De sa det redan vid platsbesöket, och det stod i offerten. Inga överraskningar.", "namn": "Johanna F.", "ort": "Särö"}
+  ],
+  "faq": [
+    ["Vad ansvarar jag för och vad gör kommunen?", "Kommunen bygger fram till förbindelsepunkten, oftast en halv meter innanför tomtgränsen. Ledningarna därifrån till huset är fastighetsägarens ansvar och kostnad, och det är det arbetet vi gör."],
+    ["Vad ingår i det fasta priset?", "Grävning, isolerade servisledningar för vatten och spillvatten, inkoppling i huset, provtryckning, igenfyllning och återställning av gräsmatta. Sten, plattor och berg står som tillägg i offerten."],
+    ["Får jag ROT-avdrag?", "Ja, arbetskostnaden ger ROT-avdrag på 30 procent. Anläggningsavgiften till kommunen ger inget avdrag."],
+    ["Hur lång tid tar det?", "Två till tre dagar för en vanlig villa. Med LTA-pump eller berg kan det bli fyra till fem dagar."],
+    ["Vad händer med min gamla brunn?", "Slamavskiljaren töms och fylls med sand eller lyfts upp. Vi skickar intyg till miljöförvaltningen om att den är tagen ur drift."],
+    ["Kan vi ansluta flera grannar samtidigt?", "Ja, från fem hus ger vi 8–12 procent rabatt och planerar ett hus per dag längs gatan."],
+    ["Hur långt i förväg ska vi höra av oss?", "Så snart du fått brevet från kommunen. I nya områden fylls våra datum ofta tre till fyra månader framåt."]
+  ],
+  "priser": [
+    {"namn": "Kort anslutning", "pris": "fr. 49 000 kr", "enhet": "upp till 10 meter, före ROT", "text": "När huset ligger nära gatan.", "punkter": ["Servisledningar för vatten och spillvatten", "Inkoppling och provtryckning", "Återställning av gräsmatta", "Intyg till kommunen"]},
+    {"namn": "Standardanslutning", "pris": "fr. 69 000 kr", "enhet": "upp till 25 meter, före ROT", "text": "Den vanligaste villatomten.", "punkter": ["Allt i Kort anslutning", "Gamla slamavskiljaren tas ur drift", "Tomrör för fiber och el", "Ritning och foton av ledningarna"], "utvald": true},
+    {"namn": "Anslutning med LTA", "pris": "fr. 89 000 kr", "enhet": "upp till 25 meter, före ROT", "text": "När kommunen kräver tryckavlopp.", "punkter": ["Allt i Standardanslutning", "Nedgrävning av LTA-pumpstation", "Elanslutning från husets central", "Larm och provkörning"]}
+  ],
+  "prislista": [["Extra meter servisledning", "1 450 kr"], ["Sprängning eller bilning av berg, per meter", "fr. 2 800 kr"], ["Borttagning och återläggning av plattor, per m²", "650 kr"], ["Dagvattenkassett med anslutning", "fr. 16 500 kr"], ["Omkoppling stuprör, per st", "2 400 kr"], ["Lyft och bortforsling av slamavskiljare", "8 900 kr"]],
+  "prislista_rubrik": "Vanliga tillägg",
+  "sidor": [["verksamhet", "Tjänster", "verksamhet"], ["priser", "Fasta priser", "priser"], ["projekt", "Områden", "projekt"], ["bolag", "Så jobbar vi", "bolag"], ["hallbarhet", "Kvalitet", "hallbarhet"], ["faq", "Frågor & svar", "faq"], ["karriar", "Jobba hos oss", "karriar"], ["om-oss", "Om oss", "om-oss"]],
+  "certifikat": [
+    {"titel": "Säker Vatten", "text": "Alla rörläggare har behörighet enligt Säker Vatten och vi är auktoriserat företag.", "ikon": "vatten"},
+    {"titel": "Godkänd LTA-installatör", "text": "Godkända av VA-huvudmännen i Kungsbacka och Varberg för installation av deras pumpstationer.", "ikon": "kugge"},
+    {"titel": "Maskinentreprenörerna", "text": "Medlemmar i ME. Avtal med privatpersoner enligt ABS 18.", "ikon": "skold"},
+    {"titel": "Tio års garanti", "text": "Garanti på servisledningar och inkoppling – utöver konsumenttjänstlagen.", "ikon": "dokument"}
+  ],
+  "kunder": ["Gottskär Samfällighetsförening", "Bua Strandägareförening", "Vallda Sandö Stugförening", "Kungsbacka kommun, VA-enheten", "Särö Villaägareförening", "Frillesås Kustsamfällighet", "Lindome Byalag"],
+  "nyheter": [
+    ["2026-10-19", "Frillesås: boka platsbesök nu", "Kommunens utbyggnad startar i mars och våra datum för våren börjar fyllas.", "vvs"],
+    ["2026-06-02", "Tomrör för fiber ingår i standardpaketet", "Från och med juni lägger vi alltid tomrör när diket är öppet.", "mark"],
+    ["2025-11-18", "Så läser du kommunens anslutningsbrev", "Tobias förklarar förbindelsepunkt, anläggningsavgift och tidsfrister.", "bostad"]
+  ],
+  "kontakt": {"adress": "Hantverksgatan 14", "postnr": "434 37", "ort": "Kungsbacka", "telefon": "070-174 06 88", "epost": "offert@kustensva.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Kungsbacka, Varberg, Mölndal och södra Göteborg",
+  "fot_cta": "Har du fått brevet från kommunen? Boka ett gratis platsbesök – fast pris inom en vecka.",
+  "bild": {"panel": "vvs", "hb": "bostad", "sida_priser": "mark"},
+  "text": {
+    "hero_knapp": "Så går en anslutning till",
+    "hero_lank": "Se fasta priser",
+    "kontakt_knapp": "Boka platsbesök",
+    "ber_etikett": "Från områdena",
+    "ber_rubrik": "Där vi ansluter just nu",
+    "proj_etikett": "Områden",
+    "proj_rubrik": "Områden vi har kopplat in",
+    "proj_rubrik_lista": "Anslutna områden",
+    "process_rubrik": "Fyra steg till kommunalt VA",
+    "hb_etikett": "Kvalitet",
+    "omdomen_rubrik": "Husägare som har anslutit",
+    "faq_rubrik": "Frågor om VA-anslutning",
+    "priser_rubrik": "Tre paket, fasta priser",
+    "priser_utvald": "Nio av tio väljer",
+    "priser_knapp": "Boka platsbesök",
+    "priser_not": "Priserna gäller inklusive moms, före ROT-avdrag. Kommunens anläggningsavgift tillkommer och betalas direkt till kommunen.",
+    "sida_priser_ingress": "Fast pris från förbindelsepunkten till husväggen, och vad det kostar när tomten bjuder på berg eller plattor.",
+    "logos_rubrik": "Samfälligheter vi har anslutit",
+    "certifikat_rubrik": "Behörigheter för vatten och avlopp",
+    "bolag_rubrik": "Fyra lag och en kalkylator",
+    "boka_rubrik": "Boka gratis platsbesök",
+    "boka_text": "Skriv adress och när kommunen vill att du ska vara ansluten, så ringer Rami och bokar en tid.",
+    "boka_falt": ["Namn", "Telefon", "Adress", "Kommunens tidsfrist"],
+    "siffror_etikett": "Kustens VA i siffror"
+  }
+}

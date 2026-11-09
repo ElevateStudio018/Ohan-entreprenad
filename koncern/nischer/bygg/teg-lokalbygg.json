@@ -16,7 +16,7 @@
   ],
   "vagval_rubrik": "Vilken lokal ska byggas om?",
   "tjanster": [
-    {"titel": "Kontorsanpassning", "ikon": "kontor", "href": "verksamhet.html", "text": "Nya väggar, mötesrum och kontorslandskap inför ny hyresgäst."},
+    {"titel": "Kontor inför inflytt", "ikon": "kontor", "href": "verksamhet.html", "text": "Nya väggar, mötesrum och kontorslandskap inför ny hyresgäst."},
     {"titel": "Butik och restaurang", "ikon": "nyckel", "href": "verksamhet.html", "text": "Ombyggnad till öppning, med kök, ventilation och skyltfönster."},
     {"titel": "Labb och vård", "ikon": "vard", "href": "verksamhet.html", "text": "Tandläkarmottagningar, labb och vårdcentraler med höga krav."},
     {"titel": "Kvällsarbete", "ikon": "kalender", "href": "verksamhet.html", "text": "Bullrande arbete efter 17 och på helger i hus med andra hyresgäster."},
@@ -27,12 +27,12 @@
   ],
   "affarsomraden": [
     {"titel": "Kontor", "text": "Vi gör om kontorsytor åt nya hyresgäster, från rivning av gamla cellkontor till aktivitetsbaserade landskap med telefonbås. En normal anpassning på 400 m² tar tre till fem veckor.", "text2": "Väggar, el, data, målning och golv samordnas av en och samma projektledare.", "tagg": "kontor"},
-    {"titel": "Handel och restaurang", "text": "Butiker och restauranger har ofta ett öppningsdatum som inte går att flytta. Vi arbetar i skift, och vår rekordtid för en restaurang från tom lokal till öppning är 23 dagar.", "text2": "Storköksventilation och fettavskiljare görs med fasta samarbetspartner.", "tagg": "interior"},
+    {"titel": "Butiker och krogar", "text": "Butiker och restauranger har ofta ett öppningsdatum som inte går att flytta. Vi arbetar i skift, och vår rekordtid för en restaurang från tom lokal till öppning är 23 dagar.", "text2": "Storköksventilation och fettavskiljare görs med fasta samarbetspartner.", "tagg": "interior"},
     {"titel": "Labb och vård", "text": "Vårdlokaler kräver tvättbara ytor, rätt tryckförhållanden och dokumenterad hygien. Vi bygger tandvårdskliniker, provtagningslabb och mottagningar enligt Byggenskap och Hygien.", "text2": "Arbetet sker med dammskydd och undertryck när lokalen ligger i en byggnad i drift.", "tagg": "el"},
     {"titel": "Inredningssnickeri", "text": "I snickeriet på Teg tillverkar vi receptionsdiskar, pentryn, garderober och fönsterbänkar efter arkitektens ritning. Det gör att vi slipper långa ledtider från fabrik.", "text2": "Snickeriet har en CNC-maskin och kantlimning för laminat och fanér.", "tagg": "tra"}
   ],
   "bolag": [
-    {"namn": "Teg Kontor", "segment": "Hyresgästanpassning", "rubrik": "Fem veckor till inflyttning", "text": "Projektledare och snickarlag som bygger om kontor åt fastighetsägare i Umeå.", "tagg": "kontor"},
+    {"namn": "Teg Kontor", "segment": "Kontorsombyggnad", "rubrik": "Fem veckor till inflyttning", "text": "Projektledare och snickarlag som bygger om kontor åt fastighetsägare i Umeå.", "tagg": "kontor"},
     {"namn": "Teg Handel", "segment": "Butik och restaurang", "rubrik": "Öppningsdatumet är heligt", "text": "Ett skiftlag som jobbar kvällar och nätter i köpcentrum och gallerior.", "tagg": "interior"},
     {"namn": "Teg Vård & Labb", "segment": "Vårdlokaler", "rubrik": "Tvättbart, tätt, dokumenterat", "text": "Särskilt utbildade hantverkare för labb, mottagningar och tandvård.", "tagg": "el"},
     {"namn": "Teg Snickeri", "segment": "Platsbyggd inredning", "rubrik": "Ritat i dag, monterat på fredag", "text": "Snickeri på 900 m² som tillverkar receptioner, pentryn och specialinredning.", "tagg": "tra"}
@@ -73,15 +73,15 @@
     "jobb": [["Snickare lokalanpassning", "Umeå"], ["Projektledare", "Skellefteå"], ["Möbelsnickare", "Umeå"]]
   },
   "kultur": "Varje projekt avslutas med en fika i den färdiga lokalen – tillsammans med hyresgästen som ska flytta in.",
-  "citat": {"text": "En hyresgäst som inte kan flytta in i tid kostar fastighetsägaren mer än hela vår faktura. Därför börjar vi alltid med att fråga om datumet.", "namn": "Amanda Nordin", "roll": "Grundare och VD", "tagg": "kontor"},
+  "citat": {"text": "En hyresgäst som inte kan flytta in i tid kostar fastighetsägaren mer än hela vår faktura. Därför börjar vi alltid med att fråga om datumet.", "namn": "Amanda Nordin", "roll": "VD och grundare", "tagg": "kontor"},
   "omdomen": [
     {"text": "Vi skickar en planritning på måndagen och har pris på fredagen. Det är därför Teg har vårt ramavtal.", "namn": "Jens O.", "ort": "Fastighetsförvaltare, Umeå"},
     {"text": "De byggde vårt nya kontor medan vi jobbade kvar i andra halvan av våningen. Jag hörde knappt en borrmaskin under arbetstid.", "namn": "Sofie M.", "ort": "Kontorschef, Kv. Kronan"},
     {"text": "Bardisken från deras snickeri är det första gästerna kommenterar.", "namn": "Ali K.", "ort": "Restaurang Kajutan"}
   ],
   "faq": [
-    ["Vad kostar en kontorsanpassning?", "En enklare anpassning med nya väggar, målning och golv kostar 1 500–3 500 kronor per kvadratmeter. Med nya mötesrum, pentry och akustik 4 000–7 000 kronor."],
-    ["Hur snabbt kan ni starta?", "Ofta inom två veckor från beställning. Akuta anpassningar inför en ny hyresgäst kan vi ibland ta samma vecka."],
+    ["Vilken kvadratmeterkostnad ska vi räkna med?", "En enklare anpassning med nya väggar, målning och golv kostar 1 500–3 500 kronor per kvadratmeter. Med nya mötesrum, pentry och akustik 4 000–7 000 kronor."],
+    ["Hur snart kan ni vara på plats?", "Ofta inom två veckor från beställning. Akuta anpassningar inför en ny hyresgäst kan vi ibland ta samma vecka."],
     ["Kan ni arbeta när andra hyresgäster är kvar?", "Ja. Bullrande arbete som rivning och bilning gör vi efter 17 eller på helger, och vi sätter upp dammväggar med undertryck."],
     ["Har ni ramavtal?", "Ja, med fasta timpriser, påslag och svarstider. Ramavtalen löper normalt på två år med möjlighet till förlängning."],
     ["Bygger ni restaurangkök?", "Vi bygger lokalen och samordnar storköksleverantören, ventilation och fettavskiljare med våra fasta partner."],
@@ -121,8 +121,8 @@
     "boka_falt": ["Namn", "Telefon", "E-post", "Adress, yta och inflyttningsdatum"],
     "certifikat_rubrik": "Godkända för vård, kontor och handel",
     "logos_rubrik": "Fastighetsägare vi bygger för",
-    "bolag_rubrik": "Fyra team för fyra sorters lokaler",
+    "bolag_rubrik": "Ett team per lokaltyp",
     "ny_rubrik": "Senaste från Teg",
-    "medarbetare": "Teamet"
+    "medarbetare": "Lagen på Teg"
   }
 }

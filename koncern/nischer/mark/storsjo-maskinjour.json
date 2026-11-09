@@ -41,7 +41,7 @@
   "berattelser": [
     {"rubrik": "Vattenläcka på Odenslund klockan 02.40", "text": "Grävaren var på plats 03.25 och vattnet tillbaka i 48 lägenheter före frukost.", "tagg": "anlaggning"},
     {"rubrik": "Snöstormen i januari", "text": "62 centimeter på ett dygn. Alla 340 gårdar var plogade inom 14 timmar.", "tagg": "mark"},
-    {"rubrik": "Ny bas i Duved", "text": "Vi har öppnat en station med två lastare för att kunna plogа fjällbyarna utan att köra över Mörsil.", "tagg": "natur"}
+    {"rubrik": "Ny bas i Duved", "text": "Vi har öppnat en station med två lastare för att kunna ploga fjällbyarna utan att köra över Mörsil.", "tagg": "natur"}
   ],
   "nyckeltal": [
     {"varde": "24/7", "enhet": "", "etikett": "Bemannad jourtelefon"},
@@ -50,12 +50,12 @@
     {"varde": "2 900", "enhet": "samtal", "etikett": "Till jouren vintern 2025/26"}
   ],
   "projekt": [
-    {"namn": "Brf Odenslund", "ort": "Östersund", "typ": "Akut ledningsbrott", "ar": "2026", "text": "Brusten huvudledning i 27 minusgrader, vatten åter efter fem timmar.", "tagg": "anlaggning"},
+    {"namn": "Brf Odenslund", "ort": "Östersund", "typ": "Akut ledningsbrott", "ar": "2026", "text": "Brusten huvudledning i 27 minusgrader, vatten åter efter fem timmar.", "status": "Åtgärdat", "tagg": "anlaggning"},
     {"namn": "Handelsområdet Lillänge", "ort": "Östersund", "typ": "Snöröjning", "ar": "2025", "text": "Plogning och bortforsling av snö från 1 400 parkeringsplatser.", "tagg": "mark"},
     {"namn": "Fjällbyn Tegefjäll", "ort": "Åre", "typ": "Vinterväghållning", "ar": "2025", "text": "Fyra kilometer stugväg och 90 parkeringsfickor plogade varje snöfall.", "tagg": "natur"},
-    {"namn": "Radhusområdet Lugnvik", "ort": "Östersund", "typ": "Tining", "ar": "2026", "text": "Elva frusna servisledningar tinade på ett dygn under köldknäppen i januari.", "tagg": "vvs"},
+    {"namn": "Radhusområdet Lugnvik", "ort": "Östersund", "typ": "Tining", "ar": "2026", "text": "Elva frusna servisledningar tinade på ett dygn under köldknäppen i januari.", "status": "Åtgärdat", "tagg": "vvs"},
     {"namn": "Krokoms skolor", "ort": "Krokom", "typ": "Halkbekämpning", "ar": "2025", "text": "Sandning av skolgårdar och gångvägar före klockan sju varje skoldag.", "tagg": "stad"},
-    {"namn": "Brunflo centrum", "ort": "Brunflo", "typ": "Vårstädning", "ar": "2026", "text": "Sopning av 22 000 kvadratmeter och rensning av 140 dagvattenbrunnar.", "tagg": "maskin"}
+    {"namn": "Brunflo centrum", "ort": "Brunflo", "typ": "Vårstädning", "ar": "2026", "text": "Sopning av 22 000 kvadratmeter och rensning av 140 dagvattenbrunnar.", "status": "Åtgärdat", "tagg": "maskin"}
   ],
   "process": [
     {"titel": "Du ringer", "text": "Jourledaren svarar, frågar vad som hänt och ger dig ett klockslag.", "tagg": "people"},
@@ -137,8 +137,6 @@
     "boka_rubrik": "Vill du ha avtal till nästa vinter?",
     "boka_text": "Skriv adress och ungefärlig yta, så skickar vi ett avtalsförslag. Är det akut – ring i stället.",
     "boka_knapp": "Skicka",
-    "siffror_etikett": "Vintern i siffror",
-    "status_pagaende": "Avtal löper",
-    "status_klart": "Åtgärdat"
+    "siffror_etikett": "Vintern i siffror"
   }
 }

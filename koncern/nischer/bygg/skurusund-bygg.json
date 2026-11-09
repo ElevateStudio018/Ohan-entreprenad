@@ -17,7 +17,7 @@
   "vagval_rubrik": "Vad ska föreningen ta tag i?",
   "tjanster": [
     {"titel": "Stambyte", "ikon": "ror", "href": "verksamhet.html", "text": "Nya avlopp, tappvatten och badrum – cirka åtta veckor per trapphus."},
-    {"titel": "Fasadrenovering", "ikon": "hus", "href": "verksamhet.html", "text": "Puts, tegel och tilläggsisolering med ställning och väderskydd."},
+    {"titel": "Puts och tegel", "ikon": "hus", "href": "verksamhet.html", "text": "Puts, tegel och tilläggsisolering med ställning och väderskydd."},
     {"titel": "Balkongbyte", "ikon": "kran", "href": "verksamhet.html", "text": "Prefabricerade balkongplattor lyfts på plats på en dag per uppgång."},
     {"titel": "Takomläggning", "ikon": "hem", "href": "verksamhet.html", "text": "Plåt, tegel eller papp – med nya takfönster och säkerhetsanordningar."},
     {"titel": "Vindsinredning", "ikon": "ritning", "href": "verksamhet.html", "text": "Nya lägenheter på vinden som föreningen kan sälja."},
@@ -57,15 +57,15 @@
     {"namn": "Brf Gustavsbergs Porslin", "ort": "Gustavsberg", "typ": "Fasad och fönster", "ar": "2023", "text": "Renovering av tegelfasad och 412 fönster i bruksmiljö.", "tagg": "bygg"}
   ],
   "process": [
-    {"titel": "Förstudie med styrelsen", "text": "Vi besiktar huset, filmar stammarna och presenterar tre alternativ med kostnad per lägenhet.", "tagg": "kontor"},
+    {"titel": "Styrelsemöte och förstudie", "text": "Vi besiktar huset, filmar stammarna och presenterar tre alternativ med kostnad per lägenhet.", "tagg": "kontor"},
     {"titel": "Informationsmöte", "text": "På stämman svarar projektledaren på medlemmarnas frågor innan beslut tas.", "tagg": "people"},
     {"titel": "Produktion trapphus för trapphus", "text": "Boendevärden lämnar tidplan i varje brevlåda och finns på plats varje vardag 7–16.", "tagg": "vvs"},
-    {"titel": "Slutbesiktning och garanti", "text": "Oberoende besiktning, och sedan fem års garanti med en namngiven servicekontakt.", "tagg": "bygg"}
+    {"titel": "Besiktning och fem års garanti", "text": "Oberoende besiktning, och sedan fem års garanti med en namngiven servicekontakt.", "tagg": "bygg"}
   ],
   "hallbarhet": {
     "rubrik": "Vi mäter störningen, inte bara kvaliteten",
     "text": "Efter varje trapphus skickar vi en enkät till de boende och redovisar resultatet för styrelsen. Rivningsmaterialet sorteras i elva fraktioner direkt på gården, och gamla gjutjärnsrör går till återvinning.",
-    "mal": [["8,6 av 10", "nöjda boende 2025"], ["91 %", "sorterat byggavfall"], ["1 natt", "längsta tid utan dusch"]]
+    "mal": [["8,6 av 10", "nöjda boende 2025"], ["91 %", "av rivningsmassorna sorterade"], ["1 natt", "längsta tid utan dusch"]]
   },
   "karriar": {
     "rubrik": "Bygg i Stockholm utan att pendla till Arlanda",

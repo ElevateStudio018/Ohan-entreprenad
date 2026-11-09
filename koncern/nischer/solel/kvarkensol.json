@@ -6,7 +6,7 @@
   "kortnamn": "Kvarkensol",
   "slug": "kvarkensol",
   "typ": "Solceller och batterier i Norrland",
-  "tagline": "Solel norr om Dalälven",
+  "tagline": "Solel för norra Norrland",
   "slogan": "Vi bygger solcellsanläggningar dimensionerade för snölast, låg vintersol och ljusa sommarnätter.",
   "hero_rubrik": "Solel som klarar snö och midnattssol",
   "hero_text": "Från Örnsköldsvik till Luleå: 64 medarbetare, fyra kontor och anläggningar räknade för norrländskt klimat – inte för Skåne.",
@@ -17,100 +17,441 @@
   ],
   "vagval_rubrik": "Vad vill du få ut av solen?",
   "tjanster": [
-    {"titel": "Solceller för villa", "ikon": "sol", "href": "verksamhet.html", "text": "Paket på 8–14 kW, monterade med snörasskydd och brantare lutning."},
-    {"titel": "Batterilager", "ikon": "laddning", "href": "verksamhet.html", "text": "Batterier som sänker effektavgiften hos nätbolagen i norr."},
-    {"titel": "Laddbox", "ikon": "bil", "href": "verksamhet.html", "text": "Laddbox med lastbalansering, installerad på en förmiddag."},
-    {"titel": "Bifaciala markställ", "ikon": "upp", "href": "verksamhet.html", "text": "Dubbelsidiga paneler som även fångar ljuset som reflekteras från snön."},
-    {"titel": "Företag och fastighet", "ikon": "kontor", "href": "verksamhet.html", "text": "Anläggningar för lagerhallar, butiker och bostadsrättsföreningar."},
-    {"titel": "Snötåliga tak", "ikon": "skold", "href": "verksamhet.html", "text": "Montagesystem testade för snözon 3 och 4."},
-    {"titel": "Paket och priser", "ikon": "dokument", "href": "verksamhet.html", "text": "Tre färdiga paket med pris efter grönt avdrag."},
-    {"titel": "Hitta närmaste kontor", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Umeå, Skellefteå, Örnsköldsvik och Luleå."}
+    {
+      "titel": "Solceller för villa",
+      "ikon": "sol",
+      "href": "verksamhet.html",
+      "text": "Paket på 8–14 kW, monterade med snörasskydd och brantare lutning."
+    },
+    {
+      "titel": "Batterilager",
+      "ikon": "laddning",
+      "href": "verksamhet.html",
+      "text": "Batterier som sänker effektavgiften hos nätbolagen i norr."
+    },
+    {
+      "titel": "Laddbox",
+      "ikon": "bil",
+      "href": "verksamhet.html",
+      "text": "Laddbox med lastbalansering, installerad på en förmiddag."
+    },
+    {
+      "titel": "Bifaciala markställ",
+      "ikon": "upp",
+      "href": "verksamhet.html",
+      "text": "Dubbelsidiga paneler som även fångar ljuset som reflekteras från snön."
+    },
+    {
+      "titel": "Företag och fastighet",
+      "ikon": "kontor",
+      "href": "verksamhet.html",
+      "text": "Anläggningar för lagerhallar, butiker och bostadsrättsföreningar."
+    },
+    {
+      "titel": "Snötåliga tak",
+      "ikon": "skold",
+      "href": "verksamhet.html",
+      "text": "Montagesystem testade för snözon 3 och 4."
+    },
+    {
+      "titel": "Tre färdiga paket",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "Tre färdiga paket med pris efter grönt avdrag."
+    },
+    {
+      "titel": "Hitta närmaste kontor",
+      "ikon": "karta",
+      "href": "om-oss.html#kontakt",
+      "text": "Umeå, Skellefteå, Örnsköldsvik och Luleå."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Villor i norr", "text": "En väl placerad anläggning i Umeå producerar 900–1 000 kWh per installerad kW – nästan lika mycket som i Mälardalen tack vare långa sommardagar. Vi lägger panelerna med 35–45 graders lutning så att snön glider av.", "text2": "Alla tak får snörasskydd vid takfoten.", "tagg": "solel"},
-    {"titel": "Batterier mot effekttaxan", "text": "Flera nätbolag i norr debiterar efter månadens högsta timeffekt. Ett batteri på 10–15 kWh tar udden av topparna när bastun, spisen och laddboxen går samtidigt.", "text2": "Batteriet styrs av en app som läser timpriset och nätbolagets tariff.", "tagg": "el"},
-    {"titel": "Markanläggningar", "text": "På gårdar och stora tomter bygger vi markställ med bifaciala paneler. Snön reflekterar upp till 80 procent av ljuset, och baksidan står för 10–20 procent av vårens produktion.", "text2": "Ställen pålas med 1,6 meter frigång över marken för att klara snödjupet.", "tagg": "natur"},
-    {"titel": "Fastigheter och företag", "text": "För bostadsrättsföreningar, butiker och industrihallar projekterar vi anläggningar på 50–800 kW med egen projektledare från start till färdiganmälan.", "text2": "Vi tar hand om bygglov där det krävs och samordnar med takentreprenören.", "tagg": "industri"}
+    {
+      "titel": "Villor i norr",
+      "text": "En väl placerad anläggning i Umeå producerar 900–1 000 kWh per installerad kW – nästan lika mycket som i Mälardalen tack vare långa sommardagar. Vi lägger panelerna med 35–45 graders lutning så att snön glider av.",
+      "text2": "Alla tak får snörasskydd vid takfoten.",
+      "tagg": "solel"
+    },
+    {
+      "titel": "Batterier mot effekttaxan",
+      "text": "Flera nätbolag i norr debiterar efter månadens högsta timeffekt. Ett batteri på 10–15 kWh tar udden av topparna när bastun, spisen och laddboxen går samtidigt.",
+      "text2": "Batteriet styrs av en app som läser timpriset och nätbolagets tariff.",
+      "tagg": "el"
+    },
+    {
+      "titel": "Markanläggningar",
+      "text": "På gårdar och stora tomter bygger vi markställ med bifaciala paneler. Snön reflekterar upp till 80 procent av ljuset, och baksidan står för 10–20 procent av vårens produktion.",
+      "text2": "Ställen pålas med 1,6 meter frigång över marken för att klara snödjupet.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Fastigheter och företag",
+      "text": "För bostadsrättsföreningar, butiker och industrihallar projekterar vi anläggningar på 50–800 kW med egen projektledare från start till färdiganmälan.",
+      "text2": "Vi tar hand om bygglov där det krävs och samordnar med takentreprenören.",
+      "tagg": "industri"
+    }
   ],
   "bolag": [
-    {"namn": "Kvarkensol Umeå", "segment": "Huvudkontor, 29 medarbetare", "rubrik": "Där allt började", "text": "Huvudkontor, projektering och lager på Västra Industrivägen. Härifrån täcker vi Umeå, Vännäs och Robertsfors.", "tagg": "kontor"},
-    {"namn": "Kvarkensol Skellefteå", "segment": "14 medarbetare", "rubrik": "Mitt i industrisatsningen", "text": "Kontoret växer med staden och bygger allt fler anläggningar åt nya företag och bostadsområden.", "tagg": "industri"},
-    {"namn": "Kvarkensol Örnsköldsvik", "segment": "9 medarbetare", "rubrik": "Höga kusten och Ådalen", "text": "Villor, fritidshus och gårdar längs kusten, från Nordingrå till Husum.", "tagg": "hem"},
-    {"namn": "Kvarkensol Luleå", "segment": "12 medarbetare", "rubrik": "Vårt nordligaste lag", "text": "Öppnade 2023 och bygger anläggningar ända upp till Kalix och Boden.", "tagg": "solel"}
+    {
+      "namn": "Kvarkensol Umeå",
+      "segment": "Huvudkontor, 29 medarbetare",
+      "rubrik": "Där allt började",
+      "text": "Huvudkontor, projektering och lager på Västra Industrivägen. Härifrån täcker vi Umeå, Vännäs och Robertsfors.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Kvarkensol Skellefteå",
+      "segment": "14 medarbetare",
+      "rubrik": "Mitt i industrisatsningen",
+      "text": "Kontoret växer med staden och bygger allt fler anläggningar åt nya företag och bostadsområden.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Kvarkensol Örnsköldsvik",
+      "segment": "9 medarbetare",
+      "rubrik": "Höga kusten och Ådalen",
+      "text": "Villor, fritidshus och gårdar längs kusten, från Nordingrå till Husum.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Kvarkensol Luleå",
+      "segment": "12 medarbetare",
+      "rubrik": "Vårt nordligaste lag",
+      "text": "Öppnade 2023 och bygger anläggningar ända upp till Kalix och Boden.",
+      "tagg": "solel"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Mätdata från fem vintrar", "text": "Våra 40 referensanläggningar visar hur mycket snötäckta paneler faktiskt förlorar – svaret är mindre än du tror.", "tagg": "solel"},
-    {"rubrik": "Skellefteå dubblar", "text": "Kontoret har gått från sju till fjorton medarbetare på ett år och flyttar till större lokaler i Anderstorp.", "tagg": "people"},
-    {"rubrik": "Bifacialt i Vindeln", "text": "En markanläggning på 48 kW på en gård i Vindeln producerade 18 procent mer i april tack vare snöreflexen.", "tagg": "natur"}
+    {
+      "rubrik": "Mätdata från fem vintrar",
+      "text": "Våra 40 referensanläggningar visar hur mycket snötäckta paneler faktiskt förlorar – svaret är mindre än du tror.",
+      "tagg": "solel"
+    },
+    {
+      "rubrik": "Skellefteå dubblar",
+      "text": "Kontoret har gått från sju till fjorton medarbetare på ett år och flyttar till större lokaler i Anderstorp.",
+      "tagg": "people"
+    },
+    {
+      "rubrik": "Bifacialt i Vindeln",
+      "text": "En markanläggning på 48 kW på en gård i Vindeln producerade 18 procent mer i april tack vare snöreflexen.",
+      "tagg": "natur"
+    }
   ],
   "nyckeltal": [
-    {"varde": "6 200", "enhet": "", "etikett": "Installerade anläggningar"},
-    {"varde": "64", "enhet": "anställda", "etikett": "På fyra kontor"},
-    {"varde": "212", "enhet": "Mkr", "etikett": "Omsättning 2025"},
-    {"varde": "950", "enhet": "kWh/kW", "etikett": "Snittproduktion per år"}
+    {
+      "varde": "6 200",
+      "enhet": "",
+      "etikett": "Installerade anläggningar"
+    },
+    {
+      "varde": "64",
+      "enhet": "anställda",
+      "etikett": "På fyra kontor"
+    },
+    {
+      "varde": "212",
+      "enhet": "Mkr",
+      "etikett": "Omsättning 2025"
+    },
+    {
+      "varde": "950",
+      "enhet": "kWh/kW",
+      "etikett": "Snittproduktion per år"
+    }
   ],
   "projekt": [
-    {"namn": "Brf Mariehemsgården", "ort": "Umeå", "typ": "Flerbostadshus, 120 kW", "ar": "2025", "text": "Fyra hus i Mariehem med solceller och 32 laddplatser.", "tagg": "bostad"},
-    {"namn": "Gården i Vindeln", "ort": "Vindeln", "typ": "Bifacialt markställ, 48 kW", "ar": "2025", "text": "Dubbelsidiga paneler med 1,6 meters frigång över snön.", "tagg": "natur"},
-    {"namn": "Norrbotniahallen", "ort": "Skellefteå", "typ": "Lagerhall, 640 kW", "ar": "2026", "text": "Takanläggning på en ny logistikhall vid Bergsbyvägen.", "tagg": "industri"},
-    {"namn": "Villa i Gammelstad", "ort": "Luleå", "typ": "Villa, 12 kW + batteri", "ar": "2026", "text": "Paneler i 42 graders lutning och ett batteri på 15 kWh.", "tagg": "hem", "status": "Utfört"},
-    {"namn": "Fritidshus på Ulvön", "ort": "Örnsköldsvik", "typ": "Fritidshus, 6 kW", "ar": "2024", "text": "Allt material fraktades med båt från Köpmanholmen.", "tagg": "solel"},
-    {"namn": "Vännäs Livs", "ort": "Vännäs", "typ": "Butik, 180 kW", "ar": "2025", "text": "Kyldiskarnas jämna förbrukning ger 92 procents egenanvändning.", "tagg": "kontor"}
+    {
+      "namn": "Brf Mariehemsgården",
+      "ort": "Umeå",
+      "typ": "Flerbostadshus, 120 kW",
+      "ar": "2025",
+      "text": "Fyra hus i Mariehem med solceller och 32 laddplatser.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Gården i Vindeln",
+      "ort": "Vindeln",
+      "typ": "Bifacialt markställ, 48 kW",
+      "ar": "2025",
+      "text": "Dubbelsidiga paneler med 1,6 meters frigång över snön.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Norrbotniahallen",
+      "ort": "Skellefteå",
+      "typ": "Lagerhall, 640 kW",
+      "ar": "2026",
+      "text": "Takanläggning på en ny logistikhall vid Bergsbyvägen.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Villa i Gammelstad",
+      "ort": "Luleå",
+      "typ": "Villa, 12 kW + batteri",
+      "ar": "2026",
+      "text": "Paneler i 42 graders lutning och ett batteri på 15 kWh.",
+      "tagg": "hem",
+      "status": "Utfört"
+    },
+    {
+      "namn": "Fritidshus på Ulvön",
+      "ort": "Örnsköldsvik",
+      "typ": "Fritidshus, 6 kW",
+      "ar": "2024",
+      "text": "Allt material fraktades med båt från Köpmanholmen.",
+      "tagg": "solel"
+    },
+    {
+      "namn": "Vännäs Livs",
+      "ort": "Vännäs",
+      "typ": "Butik, 180 kW",
+      "ar": "2025",
+      "text": "Kyldiskarnas jämna förbrukning ger 92 procents egenanvändning.",
+      "tagg": "kontor"
+    }
   ],
   "process": [
-    {"titel": "Satellit och skuggkarta", "text": "Vi börjar med flygfoto och en skuggsimulering för både december och juni, så att du ser hela årets produktion.", "tagg": "solel"},
-    {"titel": "Hembesök", "text": "En tekniker från närmaste kontor mäter taket, kontrollerar takstolarna och elcentralen.", "tagg": "people"},
-    {"titel": "Montage på två dagar", "text": "Ställning, paneler och snörasskydd första dagen, el och driftsättning den andra.", "tagg": "tak"},
-    {"titel": "Uppföljning i appen", "text": "Du ser produktionen timme för timme. Vi larmas automatiskt om något avviker.", "tagg": "el"}
+    {
+      "titel": "Satellit och skuggkarta",
+      "text": "Vi börjar med flygfoto och en skuggsimulering för både december och juni, så att du ser hela årets produktion.",
+      "tagg": "solel"
+    },
+    {
+      "titel": "Hembesök",
+      "text": "En tekniker från närmaste kontor mäter taket, kontrollerar takstolarna och elcentralen.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Montage på två dagar",
+      "text": "Ställning, paneler och snörasskydd första dagen, el och driftsättning den andra.",
+      "tagg": "tak"
+    },
+    {
+      "titel": "Uppföljning i appen",
+      "text": "Du ser produktionen timme för timme. Vi larmas automatiskt om något avviker.",
+      "tagg": "el"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Räknat för snözon 4",
     "text": "Norrländska tak bär upp till 3,5 kN snö per kvadratmeter. Vi dimensionerar fästen, skenor och paneler därefter och använder bara paneler testade för 5 400 Pa. Våra kalkyler bygger på uppmätt produktion från egna referensanläggningar, inte på schabloner.",
-    "mal": [["5 400 Pa", "lägsta godkända snölast för panelerna"], ["40", "referensanläggningar med mätdata"], ["±5 %", "avvikelse mot kalkylerad årsproduktion"]]
+    "mal": [
+      [
+        "5 400 Pa",
+        "lägsta godkända snölast för panelerna"
+      ],
+      [
+        "40",
+        "referensanläggningar med mätdata"
+      ],
+      [
+        "±5 %",
+        "avvikelse mot kalkylerad årsproduktion"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Bygg Norrlands energi med oss",
     "text": "Vi växer på alla fyra orter och anställer elektriker, montörer och projektledare. Nya medarbetare går vår egen montörsutbildning på tre veckor i Umeå.",
-    "jobb": [["Elektriker", "Luleå"], ["Solcellsmontör", "Skellefteå"], ["Projektledare företag", "Umeå"], ["Säljande tekniker", "Örnsköldsvik"]]
+    "jobb": [
+      [
+        "Elektriker",
+        "Luleå"
+      ],
+      [
+        "Solcellsmontör",
+        "Skellefteå"
+      ],
+      [
+        "Projektledare företag",
+        "Umeå"
+      ],
+      [
+        "Säljande tekniker",
+        "Örnsköldsvik"
+      ]
+    ]
   },
   "kultur": "Varje mars åker hela företaget till Kittelfjäll – det är vår enda vecka utan montage.",
-  "citat": {"text": "Folk sa att solceller i Norrland var ett skämt. Våra mätare säger något annat: en solig maj i Umeå slår en molnig maj i Malmö.", "namn": "Johanna Berglund", "roll": "Vd och medgrundare", "tagg": "people"},
+  "citat": {
+    "text": "Folk sa att solceller i Norrland var ett skämt. Våra mätare säger något annat: en solig maj i Umeå slår en molnig maj i Malmö.",
+    "namn": "Johanna Berglund",
+    "roll": "Vd och medgrundare",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Vi var oroliga för snön, men panelerna var rena redan dagen efter ovädret i februari. Snörasskyddet har sparat både rabatter och bil.", "namn": "Petra L.", "ort": "Luleå"},
-    {"text": "Kalkylen sa 11 200 kWh första året. Vi landade på 11 470.", "namn": "Jonas N.", "ort": "Umeå"},
-    {"text": "Föreningen fick en projektledare som svarade på allt, även styrelsens dummaste frågor.", "namn": "Brf Mariehemsgården", "ort": "Umeå"}
+    {
+      "text": "Vi var oroliga för snön, men panelerna var rena redan dagen efter ovädret i februari. Snörasskyddet har sparat både rabatter och bil.",
+      "namn": "Petra L.",
+      "ort": "Luleå"
+    },
+    {
+      "text": "Kalkylen sa 11 200 kWh första året. Vi landade på 11 470.",
+      "namn": "Jonas N.",
+      "ort": "Umeå"
+    },
+    {
+      "text": "Föreningen fick en projektledare som svarade på allt, även styrelsens dummaste frågor.",
+      "namn": "Brf Mariehemsgården",
+      "ort": "Umeå"
+    }
   ],
   "faq": [
-    ["Lönar sig solceller så här långt norrut?", "Ja. Långa sommardagar gör att en anläggning i Umeå producerar 900–1 000 kWh per kW och år. Det mesta kommer mellan april och augusti."],
-    ["Vad händer när det ligger snö på panelerna?", "Produktionen stannar tills snön glider av. Det kostar oftast bara 3–6 procent av årsproduktionen, eftersom vintersolen ändå är svag."],
-    ["Ska jag skotta panelerna?", "Nej. Branta tak och släta glasytor gör att snön släpper av sig själv. Att skotta riskerar både paneler och fallolyckor."],
-    ["Hur mycket är grönt avdrag?", "15 procent av arbete och material för solceller och 50 procent för batteri och laddbox, upp till 50 000 kronor per person och år."],
-    ["Behöver jag ett batteri?", "Om ditt nätbolag tar ut effektavgift eller du förbrukar mest på kvällen kan det löna sig. Vi räknar på båda alternativen i offerten."],
-    ["Hur lång är leveranstiden?", "Fyra till sex veckor från signerad offert. Vi monterar från april till november, och batterier året runt."],
-    ["Bygger ni utanför era orter?", "Ja, inom ungefär 15 mil från något av kontoren. Längre bort tar vi ett resetillägg."]
+    [
+      "Lönar sig solceller så här långt norrut?",
+      "Ja. Långa sommardagar gör att en anläggning i Umeå producerar 900–1 000 kWh per kW och år. Det mesta kommer mellan april och augusti."
+    ],
+    [
+      "Vad händer när det ligger snö på panelerna?",
+      "Produktionen stannar tills snön glider av. Det kostar oftast bara 3–6 procent av årsproduktionen, eftersom vintersolen ändå är svag."
+    ],
+    [
+      "Ska jag skotta panelerna?",
+      "Nej. Branta tak och släta glasytor gör att snön släpper av sig själv. Att skotta riskerar både paneler och fallolyckor."
+    ],
+    [
+      "Hur mycket är grönt avdrag?",
+      "15 procent av arbete och material för solceller och 50 procent för batteri och laddbox, upp till 50 000 kronor per person och år."
+    ],
+    [
+      "Behöver jag ett batteri?",
+      "Om ditt nätbolag tar ut effektavgift eller du förbrukar mest på kvällen kan det löna sig. Vi räknar på båda alternativen i offerten."
+    ],
+    [
+      "Hur lång är leveranstiden?",
+      "Fyra till sex veckor från signerad offert. Vi monterar från april till november, och batterier året runt."
+    ],
+    [
+      "Bygger ni utanför era orter?",
+      "Ja, inom ungefär 15 mil från något av kontoren. Längre bort tar vi ett resetillägg."
+    ]
   ],
   "priser": [
-    {"namn": "Kvarken 8", "pris": "fr. 112 000 kr", "enhet": "efter grönt avdrag", "text": "För mindre villor och fritidshus.", "punkter": ["8 kW, 18 paneler", "Snörasskydd ingår", "Växelriktare med app", "Montage på två dagar"]},
-    {"namn": "Kvarken 12", "pris": "fr. 148 000 kr", "enhet": "efter grönt avdrag", "text": "Vårt vanligaste paket för villor.", "punkter": ["12 kW, 27 paneler", "Snörasskydd ingår", "Förberett för batteri", "Produktionsgaranti år ett"], "utvald": true},
-    {"namn": "Kvarken 12 + batteri", "pris": "fr. 196 000 kr", "enhet": "efter grönt avdrag", "text": "För dig med effektavgift eller elbil.", "punkter": ["12 kW solceller", "Batteri 15 kWh", "Laddbox 11 kW", "Smart styrning mot timpris"]}
+    {
+      "namn": "Kvarken 8",
+      "pris": "fr. 112 000 kr",
+      "enhet": "efter grönt avdrag",
+      "text": "För mindre villor och fritidshus.",
+      "punkter": [
+        "8 kW, 18 paneler",
+        "Snörasskydd ingår",
+        "Växelriktare med app",
+        "Montage på två dagar"
+      ]
+    },
+    {
+      "namn": "Kvarken 12",
+      "pris": "fr. 148 000 kr",
+      "enhet": "efter grönt avdrag",
+      "text": "Vårt vanligaste paket för villor.",
+      "punkter": [
+        "12 kW, 27 paneler",
+        "Snörasskydd ingår",
+        "Förberett för batteri",
+        "Produktionsgaranti år ett"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Kvarken 12 + batteri",
+      "pris": "fr. 196 000 kr",
+      "enhet": "efter grönt avdrag",
+      "text": "För dig med effektavgift eller elbil.",
+      "punkter": [
+        "12 kW solceller",
+        "Batteri 15 kWh",
+        "Laddbox 11 kW",
+        "Smart styrning mot timpris"
+      ]
+    }
   ],
   "certifikat": [
-    {"titel": "Auktorisation AB", "text": "Elinstallatörsföretag registrerat hos Elsäkerhetsverket.", "ikon": "blixt"},
-    {"titel": "INCERT-certifierade", "text": "Elva av våra montörer har certifikat för solcellsinstallation.", "ikon": "sol"},
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2022.", "ikon": "dokument"},
-    {"titel": "Fallskydd och ID06", "text": "Alla montörer har fallskyddsutbildning och ID06-kort.", "ikon": "hjalm"}
+    {
+      "titel": "Auktorisation AB",
+      "text": "Elsäkerhetsverkets auktorisation gäller alla fyra kontor och samtliga elinstallationer vi utför.",
+      "ikon": "blixt"
+    },
+    {
+      "titel": "INCERT-certifierade",
+      "text": "Elva av våra montörer har certifikat för solcellsinstallation.",
+      "ikon": "sol"
+    },
+    {
+      "titel": "ISO 9001 och 14001",
+      "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2022.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "Fallskydd och ID06",
+      "text": "Alla montörer har fallskyddsutbildning och ID06-kort.",
+      "ikon": "hjalm"
+    }
   ],
-  "kunder": ["Brf Mariehemsgården", "Norrbotniahallen Fastighets AB", "Vännäs Livs AB", "Brf Kronoparken Skellefteå", "Ådalens Bostäder AB", "Gammelstads Bygdegårdsförening", "Robertsfors Lantbruk HB"],
-  "kontor_lista": [["Umeå", "Västra Industrivägen 22 – huvudkontor och lager"], ["Skellefteå", "Anderstorpsvägen 8 – 14 medarbetare"], ["Örnsköldsvik", "Bergsgatan 5 – Höga kusten och Ådalen"], ["Luleå", "Storheden, Lövskatan 3 – sedan 2023"]],
+  "kunder": [
+    "Brf Mariehemsgården",
+    "Norrbotniahallen Fastighets AB",
+    "Vännäs Livs AB",
+    "Brf Kronoparken Skellefteå",
+    "Ådalens Bostäder AB",
+    "Gammelstads Bygdegårdsförening",
+    "Robertsfors Lantbruk HB"
+  ],
+  "kontor_lista": [
+    [
+      "Umeå",
+      "Västra Industrivägen 22 – huvudkontor och lager"
+    ],
+    [
+      "Skellefteå",
+      "Anderstorpsvägen 8 – 14 medarbetare"
+    ],
+    [
+      "Örnsköldsvik",
+      "Bergsgatan 5 – Höga kusten och Ådalen"
+    ],
+    [
+      "Luleå",
+      "Storheden, Lövskatan 3 – sedan 2023"
+    ]
+  ],
   "kontor_rubrik": "Fyra kontor längs kusten",
   "kontor_text": "Varje kontor har egna montörer och lager, så att du alltid har en tekniker inom en timmes bilväg.",
   "nyheter": [
-    ["2026-10-30", "Vinterbokning med rabatt", "Signera före jul så monterar vi i april till förra årets pris.", "solel"],
-    ["2026-08-14", "Nytt kontor i Skellefteå", "Vi flyttar till Anderstorp och anställer sju nya montörer.", "people"],
-    ["2026-04-22", "Fem vintrar av mätdata", "Så mycket påverkar snön produktionen på våra 40 referensanläggningar.", "solel"],
-    ["2025-11-05", "Batterier mot effektavgift", "En guide till nätbolagens effekttariffer i Västerbotten och Norrbotten.", "el"]
+    [
+      "2026-10-30",
+      "Vinterbokning med rabatt",
+      "Signera före jul så monterar vi i april till förra årets pris.",
+      "solel"
+    ],
+    [
+      "2026-08-14",
+      "Nytt kontor i Skellefteå",
+      "Vi flyttar till Anderstorp och anställer sju nya montörer.",
+      "people"
+    ],
+    [
+      "2026-04-22",
+      "Fem vintrar av mätdata",
+      "Så mycket påverkar snön produktionen på våra 40 referensanläggningar.",
+      "solel"
+    ],
+    [
+      "2025-11-05",
+      "Batterier mot effektavgift",
+      "En guide till nätbolagens effekttariffer i Västerbotten och Norrbotten.",
+      "el"
+    ]
   ],
-  "kontakt": {"adress": "Västra Industrivägen 22", "postnr": "903 30", "ort": "Umeå", "telefon": "070-174 06 23", "epost": "hej@kvarkensol.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Västra Industrivägen 22",
+    "postnr": "903 30",
+    "ort": "Umeå",
+    "telefon": "070-174 06 23",
+    "epost": "hej@kvarkensol.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 08–17, kundtjänst till 19 april–augusti",
   "omrade": "Västerbotten, Norrbotten och norra Västernorrland",
   "fot_cta": "Skicka din adress så får du en skuggkarta för både juni och december.",

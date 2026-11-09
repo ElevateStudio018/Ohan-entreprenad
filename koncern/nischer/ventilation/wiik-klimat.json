@@ -36,11 +36,11 @@
     {"namn": "Projektering", "segment": "4 ingenjörer och 1 akustiker", "rubrik": "Varje kanal ritad i 3D", "text": "Laserskannar huset, ritar kanaler och beräknar ljud innan första hålet tas upp.", "tagg": "kontor"},
     {"namn": "Montage", "segment": "11 montörer", "rubrik": "Täckning, damm och tystnad", "text": "Arbetar med golvskydd, dammväggar och HEPA-filter i bebodda hus.", "tagg": "ventilation"},
     {"namn": "Snickeriet", "segment": "2 snickare", "rubrik": "Don som smälter in", "text": "Tillverkar galler, inklädnader och slitsdon i trä, mässing och gips på mått.", "tagg": "tra"},
-    {"namn": "Service", "segment": "3 tekniker", "rubrik": "Samma tekniker i tio år", "text": "Varje hus har en egen tekniker som sköter filter, service och garanti.", "tagg": "interior"}
+    {"namn": "Service", "segment": "3 tekniker", "rubrik": "Samma tekniker i tio år", "text": "Varje hus har en egen tekniker som sköter filter, service och garanti.", "tagg": "ventilation"}
   ],
   "berattelser": [
     {"rubrik": "Villa på Djursholm, 1911", "text": "FTX i tre våningar utan ett enda sänkt tak – kanalerna gick i gamla rökkanaler.", "tagg": "hem"},
-    {"rubrik": "22 dB(A) i sovrummet", "text": "Slutmätningen i en våning på Strandvägen blev tre decibel under garantin.", "tagg": "interior"},
+    {"rubrik": "22 dB(A) i sovrummet", "text": "Slutmätningen i en våning på Strandvägen blev tre decibel under garantin.", "tagg": "ventilation"},
     {"rubrik": "Ny akustiker i teamet", "text": "Elsa Rudberg kommer från en akustikkonsult och tar över ljudberäkningarna.", "tagg": "people"}
   ],
   "nyckeltal": [
@@ -61,7 +61,7 @@
     {"titel": "Platsbesök och skanning", "text": "Vi går igenom huset med er och laserskannar alla våningar för att hitta vägar för kanalerna.", "tagg": "hem"},
     {"titel": "Förslag med ljudberäkning", "text": "Ni får ritningar, en ljudberäkning per rum och ett fast pris inom tre veckor.", "tagg": "kontor"},
     {"titel": "Montage", "text": "Vi bygger med dammskydd och städning varje dag. De flesta familjer bor kvar under arbetet.", "tagg": "ventilation"},
-    {"titel": "Mätning och överlämning", "text": "Vi mäter ljud och flöden i varje rum och lämnar en pärm med allt som har byggts.", "tagg": "interior"}
+    {"titel": "Mätning och överlämning", "text": "Vi mäter ljud och flöden i varje rum och lämnar en pärm med allt som har byggts.", "tagg": "ventilation"}
   ],
   "hallbarhet": {
     "rubrik": "Byggt för att hålla en generation",
@@ -90,10 +90,10 @@
     ["Var arbetar ni?", "I Stockholm med omnejd och i skärgården från Norrtälje till Nynäshamn."]
   ],
   "certifikat": [
-    {"titel": "Funktionskontrollant behörighet K", "text": "Två av ingenjörerna är certifierade funktionskontrollanter med kvalificerad behörighet.", "ikon": "dokument"},
+    {"titel": "Behörighet K för OVK", "text": "Två av ingenjörerna är certifierade funktionskontrollanter med kvalificerad behörighet.", "ikon": "dokument"},
     {"titel": "Medlem i Svensk Ventilation", "text": "Vi följer branschens riktlinjer och är medlemmar sedan 2005.", "ikon": "vind"},
     {"titel": "Tio års garanti", "text": "Garantin gäller arbete och material och är försäkrad hos ett försäkringsbolag.", "ikon": "skold"},
-    {"titel": "Kollektivavtal", "text": "Alla montörer omfattas av kollektivavtal via Plåt & Ventföretagen.", "ikon": "folk"}
+    {"titel": "Montörer med kollektivavtal", "text": "Alla montörer omfattas av kollektivavtal via Plåt & Ventföretagen.", "ikon": "folk"}
   ],
   "kunder": ["Villa Ekudden, Djursholm", "Brf Strandvägen 7", "Vallentuna prästgård", "Brf Kungsklippan", "Villa Solbacka, Lidingö", "Saltsjöbadens Strandvillor", "Brf Lärkstaden 12"],
   "nyheter": [

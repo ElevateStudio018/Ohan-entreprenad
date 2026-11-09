@@ -100,7 +100,7 @@ def main():
     filer = []
     for a in sys.argv[1:]:
         p = pathlib.Path(a)
-        filer += sorted(p.rglob("*.json")) if p.is_dir() else [p]
+        filer += sorted(x for x in p.rglob("*.json") if "paket" not in x.parts and x.name != "register.json") if p.is_dir() else [p]
     ok = True
     slugs = {}
     for fil in filer:

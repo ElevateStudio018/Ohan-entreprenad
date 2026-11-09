@@ -54,7 +54,7 @@
     {"namn": "Öresundsterminalen", "ort": "Helsingborg", "typ": "Rullramper", "ar": "2024", "text": "Två rullramper för resande med bagage, med förstärkta steg för resväskor på hjul.", "tagg": "infra"},
     {"namn": "Kristianstad Handelshus", "ort": "Kristianstad", "typ": "Vibrationsanalys", "ar": "2024", "text": "Kvartalsvis mätning av sex rulltrappor som förutsåg två växellådshaverier.", "tagg": "el"},
     {"namn": "Västra Hamnens Parkeringshus", "ort": "Malmö", "typ": "Rulltrappor och hissar", "ar": "2026", "text": "Säkerhetsinventering och utbyte av kamplattor och borstlister på fyra trappor.", "tagg": "stad", "status": "Pågående"},
-    {"namn": "Lunds Universitetssjukhus Entré", "ort": "Lund", "typ": "Ny rulltrappa", "ar": "2026", "text": "Montage av en ny rulltrappa i entréhallen, som ska vara i drift före årsskiftet.", "tagg": "bygg", "status": "Pågående"}
+    {"namn": "Klostergårdens Vårdhus", "ort": "Lund", "typ": "Ny rulltrappa", "ar": "2026", "text": "Montage av en ny rulltrappa i entréhallen, som ska vara i drift före årsskiftet.", "tagg": "bygg", "status": "Pågående"}
   ],
   "process": [
     {"titel": "Inventering", "text": "Vi går igenom varje trappa mot SS-EN 115-1 och mäter slitaget på kedjor, steg och handledare.", "tagg": "hiss"},
@@ -94,7 +94,7 @@
     {"titel": "Arbete i spårmiljö", "text": "Samtliga tekniker har grundläggande säkerhetsutbildning för arbete i och nära spår.", "ikon": "vag"},
     {"titel": "Heta arbeten", "text": "Certifikat för heta arbeten, som krävs vid svetsning och slipning i stängda gallerior.", "ikon": "eld"}
   ],
-  "kunder": ["Hyllie Handelskvarter", "Skånes Stationsfastigheter", "Öresundsterminalen", "Kristianstad Handelshus", "Västra Hamnens Parkeringshus", "Lunds Universitetssjukhus Entré", "Landskrona Färjeläge", "Trelleborgs Hamnterminal"],
+  "kunder": ["Hyllie Handelskvarter", "Skånes Stationsfastigheter", "Öresundsterminalen", "Kristianstad Handelshus", "Västra Hamnens Parkeringshus", "Klostergårdens Vårdhus", "Landskrona Färjeläge", "Trelleborgs Hamnterminal"],
   "nyheter": [
     ["2026-10-08", "Ny rulltrappa i Lund", "Vi monterar vår första helt nya trappa sedan 2019, i en sjukhusentré.", "bygg"],
     ["2026-06-24", "Depå Helsingborg firar ett år", "Fem tekniker och en halverad inställelsetid i nordvästra Skåne.", "people"],

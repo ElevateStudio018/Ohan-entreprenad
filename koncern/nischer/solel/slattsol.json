@@ -17,99 +17,410 @@
   ],
   "vagval_rubrik": "Vilken mark eller vilket tak gäller det?",
   "tjanster": [
-    {"titel": "Solparker 1–30 MW", "ikon": "sol", "href": "verksamhet.html", "text": "Totalentreprenad från layout och tillstånd till nätanslutning."},
-    {"titel": "Agrivoltaik", "ikon": "lada", "href": "verksamhet.html", "text": "Vertikala panelrader med odling eller bete emellan."},
-    {"titel": "Lantbrukets tak", "ikon": "hus", "href": "verksamhet.html", "text": "Takanläggningar på 50–800 kW för gårdar och torkar."},
-    {"titel": "Markavtal", "ikon": "karta", "href": "verksamhet.html", "text": "Arrende för markägare som vill upplåta mark till en park."},
-    {"titel": "Tillstånd och samråd", "ikon": "dokument", "href": "verksamhet.html", "text": "Samråd, MKB och bygglov med egna miljökonsulter."},
-    {"titel": "Drift och underhåll", "ikon": "kugge", "href": "verksamhet.html", "text": "Övervakning, service och betesavtal för 186 MW."},
-    {"titel": "Batteriparker", "ikon": "laddning", "href": "verksamhet.html", "text": "Storskaliga batterier i anslutning till parkerna."},
-    {"titel": "Lediga jobb", "ikon": "folk", "href": "karriar.html", "text": "Vi anställer montörer, elkraftingenjörer och projektledare."}
+    {
+      "titel": "Solparker 1–30 MW",
+      "ikon": "sol",
+      "href": "verksamhet.html",
+      "text": "Totalentreprenad från layout och tillstånd till nätanslutning."
+    },
+    {
+      "titel": "Agrivoltaik",
+      "ikon": "lada",
+      "href": "verksamhet.html",
+      "text": "Vertikala panelrader med odling eller bete emellan."
+    },
+    {
+      "titel": "Lantbrukets tak",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Takanläggningar på 50–800 kW för gårdar och torkar."
+    },
+    {
+      "titel": "Markavtal",
+      "ikon": "karta",
+      "href": "verksamhet.html",
+      "text": "Arrende för markägare som vill upplåta mark till en park."
+    },
+    {
+      "titel": "Tillstånd och samråd",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "Samråd, MKB och bygglov med egna miljökonsulter."
+    },
+    {
+      "titel": "Drift och underhåll",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Övervakning, service och betesavtal för 186 MW."
+    },
+    {
+      "titel": "Batteriparker",
+      "ikon": "laddning",
+      "href": "verksamhet.html",
+      "text": "Storskaliga batterier i anslutning till parkerna."
+    },
+    {
+      "titel": "Lediga jobb",
+      "ikon": "folk",
+      "href": "karriar.html",
+      "text": "Vi anställer montörer, elkraftingenjörer och projektledare."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Solparker", "text": "Vi bygger markparker från 1 till 30 MW åt energibolag, kommuner och investerare. Egna pålmaskiner, egna montörer och egen högspänningsavdelning.", "text2": "En park på 10 MW kräver ungefär 14 hektar och producerar runt 10 GWh om året.", "tagg": "solel"},
-    {"titel": "Agrivoltaik", "text": "Vertikala, dubbelsidiga paneler i rader med tio meters mellanrum. Lantbrukaren fortsätter att odla vall eller låta djur beta mellan raderna.", "text2": "Produktionen toppar morgon och kväll, när elpriset ofta är som högst.", "tagg": "natur"},
-    {"titel": "Lantbruk och torkar", "text": "Gårdar har stora tak och hög dagförbrukning. Vi bygger anläggningar för spannmålstorkar, grisstallar och mjölkgårdar i hela Östergötland och Sörmland.", "text2": "Vi kontrollerar takets bärighet och servisens kapacitet innan offerten.", "tagg": "tak"},
-    {"titel": "Drift i trettio år", "text": "Slättsol Drift övervakar alla parker från en driftcentral i Linköping och har servicetekniker stationerade i Motala, Norrköping och Nyköping.", "text2": "Vi garanterar 99 procents tillgänglighet i våra driftavtal.", "tagg": "anlaggning"}
+    {
+      "titel": "Solparker",
+      "text": "Vi bygger markparker från 1 till 30 MW åt energibolag, kommuner och investerare. Egna pålmaskiner, egna montörer och egen högspänningsavdelning.",
+      "text2": "En park på 10 MW kräver ungefär 14 hektar och producerar runt 10 GWh om året.",
+      "tagg": "solel"
+    },
+    {
+      "titel": "Agrivoltaik",
+      "text": "Vertikala, dubbelsidiga paneler i rader med tio meters mellanrum. Lantbrukaren fortsätter att odla vall eller låta djur beta mellan raderna.",
+      "text2": "Produktionen toppar morgon och kväll, när elpriset ofta är som högst.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Lantbruk och torkar",
+      "text": "Gårdar har stora tak och hög dagförbrukning. Vi bygger anläggningar för spannmålstorkar, grisstallar och mjölkgårdar i hela Östergötland och Sörmland.",
+      "text2": "Vi kontrollerar takets bärighet och servisens kapacitet innan offerten.",
+      "tagg": "tak"
+    },
+    {
+      "titel": "Drift i trettio år",
+      "text": "Slättsol Drift övervakar alla parker från en driftcentral i Linköping och har servicetekniker stationerade i Motala, Norrköping och Nyköping.",
+      "text2": "Vi garanterar 99 procents tillgänglighet i våra driftavtal.",
+      "tagg": "anlaggning"
+    }
   ],
   "bolag": [
-    {"namn": "Slättsol Park AB", "segment": "Solparker, 52 anställda", "rubrik": "Totalentreprenad för megawatt", "text": "Projekterar och bygger solparker och batteriparker med egna pålmaskiner och egen högspänningsavdelning.", "tagg": "solel"},
-    {"namn": "Slättsol Gård AB", "segment": "Lantbruk, 31 anställda", "rubrik": "Tak och agrivoltaik på gårdarna", "text": "Bygger takanläggningar och vertikala rader för lantbruk i Östergötland och Sörmland.", "tagg": "natur"},
-    {"namn": "Slättsol Drift AB", "segment": "Drift och underhåll, 24 anställda", "rubrik": "186 MW under uppsikt", "text": "Driftcentral, servicetekniker och betesavtal med lokala fårföretagare.", "tagg": "anlaggning"},
-    {"namn": "Slättsol Mark & Tillstånd AB", "segment": "Projektutveckling, 8 anställda", "rubrik": "Från åker till nätavtal", "text": "Markavtal, samråd, miljökonsekvensbeskrivningar och nätanslutning.", "tagg": "kontor"}
+    {
+      "namn": "Slättsol Park AB",
+      "segment": "Solparker, 52 anställda",
+      "rubrik": "Totalentreprenad för megawatt",
+      "text": "Projekterar och bygger solparker och batteriparker med egna pålmaskiner och egen högspänningsavdelning.",
+      "tagg": "solel"
+    },
+    {
+      "namn": "Slättsol Gård AB",
+      "segment": "Lantbruk, 31 anställda",
+      "rubrik": "Tak och agrivoltaik på gårdarna",
+      "text": "Bygger takanläggningar och vertikala rader för lantbruk i Östergötland och Sörmland.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Slättsol Drift AB",
+      "segment": "Drift och underhåll, 24 anställda",
+      "rubrik": "186 MW under uppsikt",
+      "text": "Driftcentral, servicetekniker och betesavtal med lokala fårföretagare.",
+      "tagg": "anlaggning"
+    },
+    {
+      "namn": "Slättsol Mark & Tillstånd AB",
+      "segment": "Projektutveckling, 8 anställda",
+      "rubrik": "Från åker till nätavtal",
+      "text": "Markavtal, samråd, miljökonsekvensbeskrivningar och nätanslutning.",
+      "tagg": "kontor"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Boxholm 28 MW i drift", "text": "Vår största park hittills levererar el sedan augusti till drygt 5 000 hushålls årsförbrukning.", "tagg": "solel"},
-    {"rubrik": "Vall mellan raderna i Rystad", "text": "Första skörden mellan de vertikala panelerna gav 92 procent av en vanlig vallskörd.", "tagg": "natur"},
-    {"rubrik": "Ny driftcentral i Linköping", "text": "Slättsol Drift samlar övervakningen av alla parker på Mjärdevi.", "tagg": "kontor"}
+    {
+      "rubrik": "Boxholm 28 MW i drift",
+      "text": "Vår största park hittills levererar el sedan augusti till drygt 5 000 hushålls årsförbrukning.",
+      "tagg": "solel"
+    },
+    {
+      "rubrik": "Vall mellan raderna i Rystad",
+      "text": "Första skörden mellan de vertikala panelerna gav 92 procent av en vanlig vallskörd.",
+      "tagg": "natur"
+    },
+    {
+      "rubrik": "Ny driftcentral i Linköping",
+      "text": "Slättsol Drift samlar övervakningen av alla parker på Mjärdevi.",
+      "tagg": "kontor"
+    }
   ],
   "nyckeltal": [
-    {"varde": "186", "enhet": "MW", "etikett": "Solparker i drift"},
-    {"varde": "41", "enhet": "parker", "etikett": "Byggda sedan 2014"},
-    {"varde": "640", "enhet": "Mkr", "etikett": "Omsättning 2025"},
-    {"varde": "115", "enhet": "anställda", "etikett": "I fyra bolag"}
+    {
+      "varde": "186",
+      "enhet": "MW",
+      "etikett": "Solparker i drift"
+    },
+    {
+      "varde": "41",
+      "enhet": "parker",
+      "etikett": "Byggda sedan 2014"
+    },
+    {
+      "varde": "640",
+      "enhet": "Mkr",
+      "etikett": "Koncernens omsättning 2025"
+    },
+    {
+      "varde": "115",
+      "enhet": "anställda",
+      "etikett": "I fyra bolag"
+    }
   ],
   "projekt": [
-    {"namn": "Boxholm Solpark", "ort": "Boxholm", "typ": "Solpark, 28 MW", "ar": "2026", "text": "51 000 paneler på 38 hektar tidigare tallplantering.", "tagg": "solel", "status": "I drift"},
-    {"namn": "Rystads Agrivoltaik", "ort": "Rystad", "typ": "Vertikala rader, 4,2 MW", "ar": "2025", "text": "Vall och fårbete mellan rader med tio meters avstånd.", "tagg": "natur"},
-    {"namn": "Mjölby Södra", "ort": "Mjölby", "typ": "Solpark + batteri, 12 MW", "ar": "2025", "text": "Park med batterianläggning på 8 MWh för stödtjänster.", "tagg": "anlaggning"},
-    {"namn": "Vadstena Spannmål", "ort": "Vadstena", "typ": "Torkanläggning, 640 kW", "ar": "2024", "text": "Tre tak med solceller på en av Östgötaslättens största torkar.", "tagg": "tak"},
-    {"namn": "Kolmården Norra", "ort": "Norrköping", "typ": "Solpark, 18 MW", "ar": "2026", "text": "Byggs på en före detta grustäkt och tas i drift i december.", "tagg": "mark"},
-    {"namn": "Skänninge Grisgård", "ort": "Skänninge", "typ": "Stall, 380 kW", "ar": "2025", "text": "Ventilationen i stallarna går på egen solel mellan april och september.", "tagg": "solel"}
+    {
+      "namn": "Boxholm Solpark",
+      "ort": "Boxholm",
+      "typ": "Solpark, 28 MW",
+      "ar": "2026",
+      "text": "51 000 paneler på 38 hektar tidigare tallplantering.",
+      "tagg": "solel",
+      "status": "I drift"
+    },
+    {
+      "namn": "Rystads Agrivoltaik",
+      "ort": "Rystad",
+      "typ": "Vertikala rader, 4,2 MW",
+      "ar": "2025",
+      "text": "Vall och fårbete mellan rader med tio meters avstånd.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Mjölby Södra",
+      "ort": "Mjölby",
+      "typ": "Solpark + batteri, 12 MW",
+      "ar": "2025",
+      "text": "Park med batterianläggning på 8 MWh för stödtjänster.",
+      "tagg": "anlaggning"
+    },
+    {
+      "namn": "Vadstena Spannmål",
+      "ort": "Vadstena",
+      "typ": "Torkanläggning, 640 kW",
+      "ar": "2024",
+      "text": "Tre tak med solceller på en av Östgötaslättens största torkar.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Kolmården Norra",
+      "ort": "Norrköping",
+      "typ": "Solpark, 18 MW",
+      "ar": "2026",
+      "text": "Byggs på en före detta grustäkt och tas i drift i december.",
+      "tagg": "mark"
+    },
+    {
+      "namn": "Skänninge Grisgård",
+      "ort": "Skänninge",
+      "typ": "Stall, 380 kW",
+      "ar": "2025",
+      "text": "Ventilationen i stallarna går på egen solel mellan april och september.",
+      "tagg": "solel"
+    }
   ],
   "process": [
-    {"titel": "Markanalys", "text": "Vi bedömer mark, nätkapacitet och naturvärden. Svaret om platsen är möjlig kommer inom sex veckor.", "tagg": "mark"},
-    {"titel": "Tillstånd och nätavtal", "text": "Samråd, bygglov och anslutningsavtal tar normalt 12–24 månader. Markägaren får arrende från tillträdet.", "tagg": "kontor"},
-    {"titel": "Byggnation", "text": "En park på 10 MW byggs på fyra till sex månader med egna pålmaskiner och montagelag.", "tagg": "solel"},
-    {"titel": "Drift", "text": "Slättsol Drift tar över med övervakning, service, betesdrift och årliga rapporter till ägaren.", "tagg": "anlaggning"}
+    {
+      "titel": "Markanalys",
+      "text": "Vi bedömer mark, nätkapacitet och naturvärden. Svaret om platsen är möjlig kommer inom sex veckor.",
+      "tagg": "mark"
+    },
+    {
+      "titel": "Tillstånd och nätavtal",
+      "text": "Samråd, bygglov och anslutningsavtal tar normalt 12–24 månader. Markägaren får arrende från tillträdet.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Byggnation",
+      "text": "En park på 10 MW byggs på fyra till sex månader med egna pålmaskiner och montagelag.",
+      "tagg": "solel"
+    },
+    {
+      "titel": "Drift",
+      "text": "Slättsol Drift tar över med övervakning, service, betesdrift och årliga rapporter till ägaren.",
+      "tagg": "anlaggning"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Parker som lämnar marken rikare",
     "text": "Vi bygger inte på den bästa åkermarken utan på grustäkter, tallplanteringar och svagare mark. Mellan raderna sår vi ängsfröblandningar och fårföretagare betar parkerna. Efter 35 år kan anläggningen monteras ner och marken återgå till jordbruk.",
-    "mal": [["78 %", "av parkerna byggda på lågproduktiv mark"], ["2 400", "får betar i våra parker sommartid"], ["99 %", "garanterad tillgänglighet i drift"]]
+    "mal": [
+      [
+        "78 %",
+        "av parkerna byggda på lågproduktiv mark"
+      ],
+      [
+        "2 400",
+        "får betar i våra parker sommartid"
+      ],
+      [
+        "99 %",
+        "garanterad tillgänglighet i drift"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Bygg Östergötlands största kraftverk",
     "text": "Vi anställer ett trettiotal personer per år: montörer, elektriker med högspänningsbehörighet, maskinförare och projektledare. Hos oss jobbar du med parker i megawattklassen nära hemmet.",
-    "jobb": [["Elkraftingenjör", "Linköping"], ["Montör solpark", "Mjölby"], ["Servicetekniker drift", "Norrköping"], ["Projektledare agrivoltaik", "Linköping"]]
+    "jobb": [
+      [
+        "Elkraftingenjör",
+        "Linköping"
+      ],
+      [
+        "Montör solpark",
+        "Mjölby"
+      ],
+      [
+        "Servicetekniker drift",
+        "Norrköping"
+      ],
+      [
+        "Projektledare agrivoltaik",
+        "Linköping"
+      ]
+    ]
   },
   "kultur": "Varje ny medarbetare får en dag på en gård – för att förstå marken vi bygger på.",
-  "citat": {"text": "Jag har varit lantbrukare i fyrtio år. En solpark är bara en annan gröda, men den skördas varje soltimme i trettio år och jorden vilar under tiden.", "namn": "Per-Olof Granath", "roll": "Grundare och styrelseordförande", "tagg": "people"},
+  "citat": {
+    "text": "Jag har varit lantbrukare i fyrtio år. En solpark är bara en annan gröda, men den skördas varje soltimme i trettio år och jorden vilar under tiden.",
+    "namn": "Per-Olof Granath",
+    "roll": "Grundare och styrelseordförande",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Vi arrenderar ut 38 hektar tallplantering som aldrig gav något. Nu ger den ett arrende som är högre än hela gårdens spannmålsnetto.", "namn": "Markägare, Boxholm", "ort": "Boxholm"},
-    {"text": "Raderna står så att tröskan kommer fram. Vi skördade vall i juni och fåren går där nu.", "namn": "Anders R.", "ort": "Rystad"},
-    {"text": "Driftrapporterna kommer varje kvartal och tillgängligheten har legat över 99,4 procent sedan start.", "namn": "Kommunalt energibolag", "ort": "Mjölby"}
+    {
+      "text": "Vi arrenderar ut 38 hektar tallplantering som aldrig gav något. Nu ger den ett arrende som är högre än hela gårdens spannmålsnetto.",
+      "namn": "Markägare, Boxholm",
+      "ort": "Boxholm"
+    },
+    {
+      "text": "Raderna står så att tröskan kommer fram. Vi skördade vall i juni och fåren går där nu.",
+      "namn": "Anders R.",
+      "ort": "Rystad"
+    },
+    {
+      "text": "Driftrapporterna kommer varje kvartal och tillgängligheten har legat över 99,4 procent sedan start.",
+      "namn": "Kommunalt energibolag",
+      "ort": "Mjölby"
+    }
   ],
   "faq": [
-    ["Hur mycket mark behövs för en solpark?", "Ungefär 1,3–1,5 hektar per megawatt. En park på 10 MW kräver alltså runt 14 hektar."],
-    ["Vad får en markägare betalt?", "Arrendet beror på läge, nätkapacitet och markens storlek och skrivs på 30–40 år. Vi lämnar ett konkret förslag efter markanalysen."],
-    ["Bygger ni på åkermark?", "Helst inte. Vi prioriterar grustäkter, skogsplanteringar och svagare mark. På åker bygger vi agrivoltaik, där odlingen fortsätter."],
-    ["Hur lång tid tar det från idé till drift?", "Två till tre år för en park, varav själva bygget tar fyra till sex månader. Tillstånd och nätanslutning tar längst tid."],
-    ["Vad är agrivoltaik?", "Solceller och jordbruk på samma mark. Vi bygger vertikala, dubbelsidiga paneler i rader med tio meters mellanrum som maskinerna kan köra mellan."],
-    ["Vad händer när parken är uttjänt?", "Vi avsätter medel för nedmontering från start. Paneler och ställ återvinns och marken återställs."],
-    ["Bygger ni åt privatpersoner?", "Nej, vi arbetar med lantbruk, kommuner, energibolag och investerare."]
+    [
+      "Hur mycket mark behövs för en solpark?",
+      "Ungefär 1,3–1,5 hektar per megawatt. En park på 10 MW kräver alltså runt 14 hektar."
+    ],
+    [
+      "Vad får en markägare betalt?",
+      "Arrendet beror på läge, nätkapacitet och markens storlek och skrivs på 30–40 år. Vi lämnar ett konkret förslag efter markanalysen."
+    ],
+    [
+      "Bygger ni på åkermark?",
+      "Helst inte. Vi prioriterar grustäkter, skogsplanteringar och svagare mark. På åker bygger vi agrivoltaik, där odlingen fortsätter."
+    ],
+    [
+      "Hur lång tid tar det från idé till drift?",
+      "Två till tre år för en park, varav själva bygget tar fyra till sex månader. Tillstånd och nätanslutning tar längst tid."
+    ],
+    [
+      "Vad är agrivoltaik?",
+      "Solceller och jordbruk på samma mark. Vi bygger vertikala, dubbelsidiga paneler i rader med tio meters mellanrum som maskinerna kan köra mellan."
+    ],
+    [
+      "Vad händer när parken är uttjänt?",
+      "Vi avsätter medel för nedmontering från start. Paneler och ställ återvinns och marken återställs."
+    ],
+    [
+      "Bygger ni åt privatpersoner?",
+      "Nej, vi arbetar med lantbruk, kommuner, energibolag och investerare."
+    ]
   ],
   "certifikat": [
-    {"titel": "ISO 9001, 14001 och 45001", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö i alla fyra bolag.", "ikon": "dokument"},
-    {"titel": "Auktorisation A", "text": "Elsäkerhetsverkets auktorisation för arbete på högspänningsanläggningar.", "ikon": "blixt"},
-    {"titel": "BAS-P och BAS-U", "text": "Egna byggarbetsmiljösamordnare på varje park.", "ikon": "hjalm"},
-    {"titel": "Medlem i Svensk Solenergi", "text": "Aktiva i branschens arbetsgrupp för solparker och biologisk mångfald.", "ikon": "sol"}
+    {
+      "titel": "ISO 9001, 14001 och 45001",
+      "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö i alla fyra bolag.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "Auktorisation A",
+      "text": "Elsäkerhetsverkets auktorisation för arbete på högspänningsanläggningar.",
+      "ikon": "blixt"
+    },
+    {
+      "titel": "Byggarbetsmiljösamordning",
+      "text": "Egna BAS-P och BAS-U på varje park, med samordnade skyddsronder varje vecka.",
+      "ikon": "hjalm"
+    },
+    {
+      "titel": "Svensk Solenergi",
+      "text": "Aktiva i branschens arbetsgrupp för solparker och biologisk mångfald.",
+      "ikon": "sol"
+    }
   ],
-  "kunder": ["Östgöta Energiandelar ek. för.", "Mjölby kommun", "Boxholms Skogsfastigheter AB", "Vadstena Spannmål AB", "Linköpings Solinvest AB", "Skänninge Gris HB", "Norrköpings Hamnfastigheter", "Sörmlands Lantmän"],
-  "kontor_lista": [["Linköping", "Huvudkontor och driftcentral, Mjärdevi"], ["Mjölby", "Maskinpark och lager för parkbyggen"], ["Norrköping", "Servicetekniker och Slättsol Drift öst"], ["Nyköping", "Slättsol Gård, Sörmland"]],
+  "kunder": [
+    "Östgöta Energiandelar ek. för.",
+    "Mjölby kommun",
+    "Boxholms Skogsfastigheter AB",
+    "Vadstena Spannmål AB",
+    "Linköpings Solinvest AB",
+    "Skänninge Gris HB",
+    "Norrköpings Hamnfastigheter",
+    "Sörmlands Lantmän"
+  ],
+  "kontor_lista": [
+    [
+      "Linköping",
+      "Huvudkontor och driftcentral, Mjärdevi"
+    ],
+    [
+      "Mjölby",
+      "Maskinpark och lager för parkbyggen"
+    ],
+    [
+      "Norrköping",
+      "Servicetekniker och Slättsol Drift öst"
+    ],
+    [
+      "Nyköping",
+      "Slättsol Gård, Sörmland"
+    ]
+  ],
   "kontor_rubrik": "Fyra baser i Östergötland och Sörmland",
   "kontor_text": "Varje bas har egna tekniker, så att en park aldrig ligger mer än en timme från närmaste servicebil.",
   "nyheter": [
-    ["2026-10-27", "Kolmården Norra i drift före jul", "Parken på 18 MW på en före detta grustäkt är 90 procent färdigbyggd.", "mark"],
-    ["2026-08-18", "Boxholm Solpark invigd", "28 MW och 51 000 paneler – vår största park hittills.", "solel"],
-    ["2026-06-30", "Första vallskörden mellan panelerna", "Resultat från agrivoltaiken i Rystad efter ett års drift.", "natur"],
-    ["2025-12-09", "Vi söker mark i Sörmland", "Markägare med minst tio hektar och nätkapacitet i närheten kan få en kostnadsfri analys.", "kontor"]
+    [
+      "2026-10-27",
+      "Kolmården Norra i drift före jul",
+      "Parken på 18 MW på en före detta grustäkt är 90 procent färdigbyggd.",
+      "mark"
+    ],
+    [
+      "2026-08-18",
+      "Boxholm Solpark invigd",
+      "28 MW och 51 000 paneler – vår största park hittills.",
+      "solel"
+    ],
+    [
+      "2026-06-30",
+      "Första vallskörden mellan panelerna",
+      "Resultat från agrivoltaiken i Rystad efter ett års drift.",
+      "natur"
+    ],
+    [
+      "2025-12-09",
+      "Vi söker mark i Sörmland",
+      "Markägare med minst tio hektar och nätkapacitet i närheten kan få en kostnadsfri analys.",
+      "kontor"
+    ]
   ],
-  "kontakt": {"adress": "Teknikringen 7", "postnr": "583 30", "ort": "Linköping", "telefon": "070-174 06 63", "epost": "info@slattsol.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Teknikringen 7",
+    "postnr": "583 30",
+    "ort": "Linköping",
+    "telefon": "070-174 06 63",
+    "epost": "info@slattsol.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 08–16.30, driftcentralen dygnet runt",
   "omrade": "Östergötland, Sörmland och norra Småland",
   "fot_cta": "Har du mark eller tak över tio hektar eller 500 kW? Be om en kostnadsfri analys.",
-  "bild": {"panel": "natur", "hb": "anlaggning"},
+  "bild": {
+    "panel": "natur",
+    "hb": "anlaggning"
+  },
   "text": {
     "topp_hem": "Slättsol-koncernen",
     "meny_bolag": "Våra bolag",
@@ -123,12 +434,21 @@
     "faq_rubrik": "För markägare och investerare",
     "boka_rubrik": "Beställ en kostnadsfri markanalys",
     "boka_text": "Ange fastighetsbeteckning eller adress och ungefärlig areal, så återkommer Slättsol Mark & Tillstånd inom en vecka.",
-    "boka_falt": ["Namn", "Telefon", "Fastighet eller adress", "Areal eller takyta"],
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "Fastighet eller adress",
+      "Areal eller takyta"
+    ],
     "logos_rubrik": "Uppdragsgivare och markägare",
     "certifikat_rubrik": "Certifierade för högspänning och megawatt",
     "bolag_etikett": "Koncernen",
     "bolag_rubrik": "Fyra bolag, en kedja",
-    "bolag_kol": ["Bolag", "Segment", "Uppdrag"],
+    "bolag_kol": [
+      "Bolag",
+      "Segment",
+      "Uppdrag"
+    ],
     "ny_rubrik": "Pressmeddelanden och nyheter",
     "sida_bolag_ingress": "Slättsol är en koncern med {n} bolag som tillsammans täcker hela kedjan från mark till drift.",
     "medarbetare": "Medarbetare"

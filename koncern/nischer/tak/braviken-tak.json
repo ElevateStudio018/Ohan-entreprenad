@@ -52,8 +52,8 @@
   "projekt": [
     {"namn": "Brf Lindö Strand", "ort": "Norrköping", "typ": "Planerat takbyte", "ar": "2025", "text": "Taket byttes åtta år senare än första bedömningen tack vare löpande underhåll.", "tagg": "bostad"},
     {"namn": "Ryds skolfastigheter", "ort": "Linköping", "typ": "Värmekamerainspektion", "ar": "2025", "text": "Fuktskador hittade på tre skolor innan de syntes inifrån.", "tagg": "tak"},
-    {"namn": "Nyköpingshem", "ort": "Nyköping", "typ": "Takskydd, 212 byggnader", "ar": "2024", "text": "Inventering och montage av stegar, bryggor och snöräcken på hela beståndet.", "tagg": "hem"},
-    {"namn": "Kvarteret Holmen", "ort": "Norrköping", "typ": "Serviceavtal", "ar": "2025", "text": "Fyra industrihus från 1900-talets början med kopparrännor och sågtandstak.", "tagg": "industri"},
+    {"namn": "Sörmlandshus", "ort": "Nyköping", "typ": "Takskydd, 212 byggnader", "ar": "2024", "text": "Inventering och montage av stegar, bryggor och snöräcken på hela beståndet.", "tagg": "hem"},
+    {"namn": "Kvarteret Spinnrocken", "ort": "Norrköping", "typ": "Serviceavtal", "ar": "2025", "text": "Fyra industrihus från 1900-talets början med kopparrännor och sågtandstak.", "tagg": "industri"},
     {"namn": "Brf Ekholmen 3", "ort": "Linköping", "typ": "Underhållsplan", "ar": "2024", "text": "Tioårsplan för sju lamellhus, med takbyte planerat till 2031.", "tagg": "stad"},
     {"namn": "Söderköpings Vårdboende", "ort": "Söderköping", "typ": "Förankringar och livlinor", "ar": "2026", "text": "Fasta förankringspunkter på fyra vårdbyggnader, montage i december.", "tagg": "tak"}
   ],
@@ -78,7 +78,7 @@
   "omdomen": [
     {"text": "Underhållsplanen visade att vi kunde vänta med takbytet. Det gav föreningen tid att spara i stället för att låna.", "namn": "Brf Lindö Strand, kassör", "ort": "Norrköping"},
     {"text": "Rapporten från drönaren var bättre än något vi fått efter en traditionell besiktning, och ingen behövde gå upp.", "namn": "Anna-Karin T., förvaltare", "ort": "Linköping"},
-    {"text": "212 byggnader med takskydd som sotaren nu godkänner. Bråviken höll tidplanen på månaden.", "namn": "Fastighetschef, Nyköpingshem", "ort": "Nyköping"}
+    {"text": "212 byggnader med takskydd som sotaren nu godkänner. Bråviken höll tidplanen på månaden.", "namn": "Fastighetschef, Sörmlandshus", "ort": "Nyköping"}
   ],
   "faq": [
     ["Vad kostar en drönarinspektion?", "En villa kostar 3 900 kr och ett flerbostadshus upp till 1 500 kvadratmeter takyta 9 800 kr exklusive moms, inklusive rapport."],
@@ -102,7 +102,7 @@
     {"titel": "Termografering", "text": "Inspektörerna är certifierade termografer, nivå 1.", "ikon": "sok"}
   ],
   "certifikat_rubrik": "Certifierade för inspektion och takskydd",
-  "kunder": ["Brf Lindö Strand", "Nyköpingshem", "Ryds Skolfastigheter", "Brf Ekholmen 3", "Holmens Industrifastigheter", "Söderköpings Vårdfastigheter", "Östgöta Hyresbostäder", "Brf Navestad Park"],
+  "kunder": ["Brf Lindö Strand", "Sörmlandshus", "Ryds Skolfastigheter", "Brf Ekholmen 3", "Strömmens Industrifastigheter", "Söderköpings Vårdfastigheter", "Östgöta Hyresbostäder", "Brf Navestad Park"],
   "kunder_rubrik": "Fastighetsägare med serviceavtal",
   "kontor_lista": [["Norrköping", "Huvudkontor och inspektion, Butängen. 22 anställda."], ["Linköping", "Service och takskydd. 12 anställda."], ["Nyköping", "Sörmland. 6 anställda."]],
   "kontor_rubrik": "Tre kontor runt Bråviken",
@@ -111,7 +111,7 @@
     ["2026-08-27", "Underhållsplanen i årsredovisningen", "Från 2026 frågar fler bostadsköpare efter föreningens plan för taket.", "stad"],
     ["2026-04-09", "Ny värmekamera på drönarna", "Nu hittar vi fukt under papp även i mulet väder.", "tak"]
   ],
-  "kontakt": {"adress": "Butängsgatan 31", "postnr": "602 23", "ort": "Norrköping", "telefon": "070-174 06 84", "epost": "avtal@braviktak.se", "orgnr": ""},
+  "kontakt": {"adress": "Butängsgatan 31", "postnr": "602 23", "ort": "Norrköping", "telefon": "070-174 06 84", "epost": "avtal@bravikentak.se", "orgnr": ""},
   "oppettider": "Mån–fre 7–16",
   "omrade": "Östergötland och Sörmland",
   "fot_cta": "Vet ni hur många år ert tak har kvar? Beställ en drönarinspektion och få svaret på fem dagar.",

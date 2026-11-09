@@ -17,99 +17,408 @@
   ],
   "vagval_rubrik": "Vad ska styrelsen besluta om?",
   "tjanster": [
-    {"titel": "Nyckelsystem", "ikon": "nyckel", "href": "verksamhet.html", "text": "Patentskyddat system för lägenheter, förråd och allmänna utrymmen."},
-    {"titel": "Taggsystem i portar", "ikon": "kugge", "href": "verksamhet.html", "text": "Taggar till portar, tvättstuga och soprum – spärras på en minut."},
-    {"titel": "Digital porttelefon", "ikon": "telefon", "href": "verksamhet.html", "text": "Besökare ringer till mobilen, och namnlistan uppdateras på webben."},
-    {"titel": "Lägenhetsdörrar", "ikon": "skold", "href": "verksamhet.html", "text": "Säkerhetsdörrar i brandklass EI 30 för hela föreningen."},
-    {"titel": "Byte vid försäljning", "ikon": "las", "href": "verksamhet.html", "text": "Fast pris för cylinderbyte när en lägenhet säljs."},
-    {"titel": "Underlag till stämman", "ikon": "dokument", "href": "verksamhet.html", "text": "Kalkyl, alternativ och bilder som styrelsen kan lägga fram."},
-    {"titel": "Förråd och cykelrum", "ikon": "lada", "href": "verksamhet.html", "text": "Förrådslås och kodlås till cykel- och barnvagnsrum."},
-    {"titel": "Kontakta oss", "ikon": "folk", "href": "om-oss.html#kontakt", "text": "En kontaktperson per förening, med direktnummer."}
+    {
+      "titel": "Nyckelsystem",
+      "ikon": "nyckel",
+      "href": "verksamhet.html",
+      "text": "Patentskyddat system för lägenheter, förråd och allmänna utrymmen."
+    },
+    {
+      "titel": "Taggsystem i portar",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Taggar till portar, tvättstuga och soprum – spärras på en minut."
+    },
+    {
+      "titel": "Digital porttelefon",
+      "ikon": "telefon",
+      "href": "verksamhet.html",
+      "text": "Besökare ringer till mobilen, och namnlistan uppdateras på webben."
+    },
+    {
+      "titel": "Lägenhetsdörrar",
+      "ikon": "skold",
+      "href": "verksamhet.html",
+      "text": "Säkerhetsdörrar i brandklass EI 30 för hela föreningen."
+    },
+    {
+      "titel": "Byte vid försäljning",
+      "ikon": "las",
+      "href": "verksamhet.html",
+      "text": "Fast pris för cylinderbyte när en lägenhet säljs."
+    },
+    {
+      "titel": "Underlag till stämman",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "Kalkyl, alternativ och bilder som styrelsen kan lägga fram."
+    },
+    {
+      "titel": "Förråd och cykelrum",
+      "ikon": "lada",
+      "href": "verksamhet.html",
+      "text": "Förrådslås och kodlås till cykel- och barnvagnsrum."
+    },
+    {
+      "titel": "Kontakta oss",
+      "ikon": "folk",
+      "href": "om-oss.html#kontakt",
+      "text": "En kontaktperson per förening, med direktnummer."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Nyckel- och taggsystem", "text": "Vi går igenom föreningens alla dörrar och föreslår vilka som ska ha nyckel, tagg eller båda. Systemet registreras hos oss och bara styrelsen kan beställa nya nycklar.", "text2": "Ett nytt system för en förening med 80 lägenheter tar normalt åtta veckor från beslut.", "tagg": "las"},
-    {"titel": "Porttelefoni", "text": "Digitala porttelefoner där besökaren ringer till de boendes mobiler. Styrelsen eller förvaltaren uppdaterar namnlistan i en webbtjänst.", "text2": "Vi byter ut gamla porttelefoner med ledningar från 80-talet utan att riva i trapphuset.", "tagg": "bostad"},
-    {"titel": "Lägenhetsdörrar", "text": "När föreningen byter alla lägenhetsdörrar på en gång blir det billigare per dörr och trapphuset får ett enhetligt utseende. Dörrarna klarar säkerhetsklass 3 och brandklass EI 30.", "text2": "Vi byter upp till tolv dörrar om dagen, och varje lägenhet har låst dörr samma kväll.", "tagg": "interior"},
-    {"titel": "Löpande förvaltning", "text": "Cylinderbyten vid försäljning, extranycklar och spärr av borttappade taggar. Allt beställs i vår styrelseportal med BankID.", "text2": "Mäklare kan beställa cylinderbyte direkt, med styrelsens godkännande.", "tagg": "kontor"}
+    {
+      "titel": "Nyckel- och taggsystem",
+      "text": "Vi går igenom föreningens alla dörrar och föreslår vilka som ska ha nyckel, tagg eller båda. Systemet registreras hos oss och bara styrelsen kan beställa nya nycklar.",
+      "text2": "Ett nytt system för en förening med 80 lägenheter tar normalt åtta veckor från beslut.",
+      "tagg": "las"
+    },
+    {
+      "titel": "Porttelefoni",
+      "text": "Digitala porttelefoner där besökaren ringer till de boendes mobiler. Styrelsen eller förvaltaren uppdaterar namnlistan i en webbtjänst.",
+      "text2": "Vi byter ut gamla porttelefoner med ledningar från 80-talet utan att riva i trapphuset.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Lägenhetsdörrar",
+      "text": "När föreningen byter alla lägenhetsdörrar på en gång blir det billigare per dörr och trapphuset får ett enhetligt utseende. Dörrarna klarar säkerhetsklass 3 och brandklass EI 30.",
+      "text2": "Vi byter upp till tolv dörrar om dagen, och varje lägenhet har låst dörr samma kväll.",
+      "tagg": "interior"
+    },
+    {
+      "titel": "Löpande förvaltning",
+      "text": "Cylinderbyten vid försäljning, extranycklar och spärr av borttappade taggar. Allt beställs i vår styrelseportal med BankID.",
+      "text2": "Mäklare kan beställa cylinderbyte direkt, med styrelsens godkännande.",
+      "tagg": "kontor"
+    }
   ],
   "bolag": [
-    {"namn": "Styrelseservice", "segment": "Fyra kontaktpersoner", "rubrik": "En person som känner föreningen", "text": "Varje förening får en fast kontaktperson som håller i offerter, stämmounderlag och beställningar.", "tagg": "people"},
-    {"namn": "Montage", "segment": "Åtta montörer", "rubrik": "Lås, dörrar och läsare", "text": "Montörerna byter cylindrar, dörrar och installerar tagg- och porttelefonsystem.", "tagg": "las"},
-    {"namn": "Register och portal", "segment": "Nyckel- och taggregister", "rubrik": "Vem har vilken nyckel", "text": "Två administratörer som förvaltar registren, sköter styrelseportalen och följer GDPR.", "tagg": "kontor"}
+    {
+      "namn": "Styrelseservice",
+      "segment": "Fyra kontaktpersoner",
+      "rubrik": "En person som känner föreningen",
+      "text": "Varje förening får en fast kontaktperson som håller i offerter, stämmounderlag och beställningar.",
+      "tagg": "people"
+    },
+    {
+      "namn": "Montage",
+      "segment": "Åtta montörer",
+      "rubrik": "Lås, dörrar och läsare",
+      "text": "Montörerna byter cylindrar, dörrar och installerar tagg- och porttelefonsystem.",
+      "tagg": "las"
+    },
+    {
+      "namn": "Register och portal",
+      "segment": "Nyckel- och taggregister",
+      "rubrik": "Vem har vilken nyckel",
+      "text": "Två administratörer som förvaltar registren, sköter styrelseportalen och följer GDPR.",
+      "tagg": "kontor"
+    }
   ],
   "berattelser": [
-    {"rubrik": "300 nya dörrar i Gottsunda", "text": "Brf Valthornet byter alla lägenhetsdörrar under hösten, två trapphus i veckan.", "tagg": "interior"},
-    {"rubrik": "Styrelsekväll i november", "text": "Vi bjuder styrelseledamöter på en kväll om nyckelsystem, taggar och vad lagen säger om registren.", "tagg": "people"},
-    {"rubrik": "Tagg i tvättstugan", "text": "Brf Kronåsen ersatte bokningstavlan med tagg och bokning i mobilen – och slapp borttappade kolvar.", "tagg": "bostad"}
+    {
+      "rubrik": "300 nya dörrar i Gottsunda",
+      "text": "Brf Valthornet byter alla lägenhetsdörrar under hösten, två trapphus i veckan.",
+      "tagg": "interior"
+    },
+    {
+      "rubrik": "Styrelsekväll i november",
+      "text": "Vi bjuder styrelseledamöter på en kväll om nyckelsystem, taggar och vad lagen säger om registren.",
+      "tagg": "people"
+    },
+    {
+      "rubrik": "Tagg i tvättstugan",
+      "text": "Brf Kronåsen ersatte bokningstavlan med tagg och bokning i mobilen – och slapp borttappade kolvar.",
+      "tagg": "bostad"
+    }
   ],
   "nyckeltal": [
-    {"varde": "220", "enhet": "brf:er", "etikett": "Uppdragsgivare i Uppsalaregionen"},
-    {"varde": "1999", "enhet": "", "etikett": "Bara föreningar sedan dess"},
-    {"varde": "12", "enhet": "dörrar", "etikett": "Bytta per dag vid dörrbyte"},
-    {"varde": "1", "enhet": "minut", "etikett": "Att spärra en borttappad tagg"}
+    {
+      "varde": "220",
+      "enhet": "brf:er",
+      "etikett": "Uppdragsgivare i Uppsalaregionen"
+    },
+    {
+      "varde": "1999",
+      "enhet": "",
+      "etikett": "Bara föreningar sedan dess"
+    },
+    {
+      "varde": "12",
+      "enhet": "dörrar",
+      "etikett": "Bytta per dag vid dörrbyte"
+    },
+    {
+      "varde": "1",
+      "enhet": "minut",
+      "etikett": "Att spärra en borttappad tagg"
+    }
   ],
   "projekt": [
-    {"namn": "Brf Valthornet", "ort": "Uppsala", "typ": "Dörrbyte, 300 lgh", "ar": "2026", "text": "Säkerhetsdörrar i EI 30 i alla lägenheter, två trapphus i veckan.", "tagg": "interior"},
-    {"namn": "Brf Kronåsen", "ort": "Uppsala", "typ": "Taggsystem och tvättstuga", "ar": "2026", "text": "Taggar i portar och tvättstugor med bokning i mobilen.", "tagg": "bostad", "status": "Utfört"},
-    {"namn": "Brf Svartbäcksgården", "ort": "Uppsala", "typ": "Nyckelsystem, 64 lgh", "ar": "2025", "text": "Nytt patentskyddat system efter att föreningens huvudnyckel försvunnit.", "tagg": "las"},
-    {"namn": "Brf Ängsklockan", "ort": "Knivsta", "typ": "Digital porttelefon", "ar": "2025", "text": "Porttelefoner i åtta portar, med samtal direkt till de boendes mobiler.", "tagg": "bostad"},
-    {"namn": "Brf Rosendals Torn", "ort": "Uppsala", "typ": "Passersystem, nyproduktion", "ar": "2025", "text": "Taggsystem i nybyggt hus med 140 lägenheter och garage.", "tagg": "stad"},
-    {"namn": "Brf Västra Ån", "ort": "Enköping", "typ": "Förråd och cykelrum", "ar": "2024", "text": "Nya förrådslås och kodlås i cykelrum efter en serie förrådsinbrott.", "tagg": "las"}
+    {
+      "namn": "Brf Valthornet",
+      "ort": "Uppsala",
+      "typ": "Dörrbyte, 300 lgh",
+      "ar": "2026",
+      "text": "Säkerhetsdörrar i EI 30 i alla lägenheter, två trapphus i veckan.",
+      "tagg": "interior"
+    },
+    {
+      "namn": "Brf Kronåsen",
+      "ort": "Uppsala",
+      "typ": "Taggsystem och tvättstuga",
+      "ar": "2026",
+      "text": "Taggar i portar och tvättstugor med bokning i mobilen.",
+      "tagg": "bostad",
+      "status": "Utfört"
+    },
+    {
+      "namn": "Brf Svartbäcksgården",
+      "ort": "Uppsala",
+      "typ": "Nyckelsystem, 64 lgh",
+      "ar": "2025",
+      "text": "Nytt patentskyddat system efter att föreningens huvudnyckel försvunnit.",
+      "tagg": "las"
+    },
+    {
+      "namn": "Brf Ängsklockan",
+      "ort": "Knivsta",
+      "typ": "Digital porttelefon",
+      "ar": "2025",
+      "text": "Porttelefoner i åtta portar, med samtal direkt till de boendes mobiler.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Brf Rosendals Torn",
+      "ort": "Uppsala",
+      "typ": "Passersystem, nyproduktion",
+      "ar": "2025",
+      "text": "Taggsystem i nybyggt hus med 140 lägenheter och garage.",
+      "tagg": "stad"
+    },
+    {
+      "namn": "Brf Västra Ån",
+      "ort": "Enköping",
+      "typ": "Förråd och cykelrum",
+      "ar": "2024",
+      "text": "Nya förrådslås och kodlås i cykelrum efter en serie förrådsinbrott.",
+      "tagg": "las"
+    }
   ],
   "process": [
-    {"titel": "Styrelsemöte", "text": "Vi kommer till ert styrelsemöte, lyssnar på problemen och går runt i fastigheten.", "tagg": "people"},
-    {"titel": "Underlag till stämman", "text": "Ni får kalkyl med pris per lägenhet, två alternativ och en text som kan läggas i kallelsen.", "tagg": "kontor"},
-    {"titel": "Information till de boende", "text": "Vi skriver lappar, sätter upp tidplan i trapphusen och svarar på de boendes frågor.", "tagg": "bostad"},
-    {"titel": "Montage och överlämning", "text": "Montörerna arbetar trapphus för trapphus. Styrelsen får register och inloggning till portalen.", "tagg": "las"}
+    {
+      "titel": "Styrelsemöte",
+      "text": "Vi kommer till ert styrelsemöte, lyssnar på problemen och går runt i fastigheten.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Underlag till stämman",
+      "text": "Ni får kalkyl med pris per lägenhet, två alternativ och en text som kan läggas i kallelsen.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Information till de boende",
+      "text": "Vi skriver lappar, sätter upp tidplan i trapphusen och svarar på de boendes frågor.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Montage och överlämning",
+      "text": "Montörerna arbetar trapphus för trapphus. Styrelsen får register och inloggning till portalen.",
+      "tagg": "las"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Ordning på registren, inte bara på låsen",
     "text": "Nyckel- och taggregister innehåller personuppgifter, så vi tecknar personuppgiftsbiträdesavtal med varje förening. Registren lagras i Sverige och gallras när en boende flyttar.",
-    "mal": [["100 %", "av föreningarna med biträdesavtal"], ["24 h", "längsta tid att gallra en utflyttad boende"], ["8 v", "från stämmobeslut till färdigt system"]]
+    "mal": [
+      [
+        "100 %",
+        "av föreningarna med biträdesavtal"
+      ],
+      [
+        "24 h",
+        "längsta tid att gallra en utflyttad boende"
+      ],
+      [
+        "8 v",
+        "från stämmobeslut till färdigt system"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Jobba med föreningar, inte i växeln",
     "text": "Hos oss har du fasta föreningar och lär känna både styrelser och fastigheter. Vi söker montörer som är vana att prata med boende och en kontaktperson som gillar ordning.",
-    "jobb": [["Låsmontör", "Uppsala"], ["Kontaktperson styrelseservice", "Uppsala"]]
+    "jobb": [
+      [
+        "Låsmontör",
+        "Uppsala"
+      ],
+      [
+        "Kontaktperson styrelseservice",
+        "Uppsala"
+      ]
+    ]
   },
   "kultur": "Varje montör har sina egna föreningar, så de boende känner ofta igen den som kommer.",
-  "citat": {"text": "En styrelse består av frivilliga som har jobb och barn. Vårt jobb är att ge dem ett beslut som tar fem minuter att förstå.", "namn": "Tomas Wik", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {
+    "text": "En styrelse består av frivilliga som har jobb och barn. Vårt jobb är att ge dem ett beslut som tar fem minuter att förstå.",
+    "namn": "Tomas Wik",
+    "roll": "Grundare och vd",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Underlaget till stämman var så tydligt att förslaget gick igenom utan en enda fråga från golvet.", "namn": "Annika F.", "ort": "Brf Kronåsen"},
-    {"text": "300 dörrar på tio veckor och ingen grannes lägenhet stod olåst en enda natt.", "namn": "Mohammed S.", "ort": "Brf Valthornet"},
-    {"text": "När en tagg försvinner loggar jag in, spärrar den och beställer en ny. Det tar mindre tid än att ringa.", "namn": "Sven-Åke L.", "ort": "Brf Svartbäcksgården"}
+    {
+      "text": "Underlaget till stämman var så tydligt att förslaget gick igenom utan en enda fråga från golvet.",
+      "namn": "Annika F.",
+      "ort": "Brf Kronåsen"
+    },
+    {
+      "text": "300 dörrar på tio veckor och ingen grannes lägenhet stod olåst en enda natt.",
+      "namn": "Mohammed S.",
+      "ort": "Brf Valthornet"
+    },
+    {
+      "text": "När en tagg försvinner loggar jag in, spärrar den och beställer en ny. Det tar mindre tid än att ringa.",
+      "namn": "Sven-Åke L.",
+      "ort": "Brf Svartbäcksgården"
+    }
   ],
   "faq": [
-    ["Arbetar ni åt privatpersoner?", "Nej, bara åt bostadsrättsföreningar och deras medlemmar när det gäller föreningens system. För villalås hänvisar vi till kollegor i Uppsala."],
-    ["Vad kostar ett nytt nyckelsystem?", "Normalt 2 400–3 800 kr per lägenhet, inklusive cylindrar i lägenhetsdörr, förråd och allmänna utrymmen samt tre nycklar per lägenhet."],
-    ["Måste stämman besluta?", "Större investeringar och förändringar av lägenhetsdörrar brukar kräva stämmobeslut, beroende på stadgarna. Vi tar fram underlag som passar kallelsen."],
-    ["Vem äger lägenhetsdörren?", "Enligt de flesta stadgar äger föreningen dörren men medlemmen ansvarar för låset. Vid gemensamt dörrbyte brukar föreningen bekosta allt."],
-    ["Kan vi behålla vårt gamla nyckelsystem?", "Om systemet är patentskyddat och i gott skick tar vi över förvaltningen. Vi behöver nyckelkort eller fullmakt från den gamla leverantören."],
-    ["Hur fungerar en digital porttelefon?", "Besökaren söker på namn och ringer till den boendes mobil. Den boende öppnar porten med en knapptryckning, även på distans."],
-    ["Vad händer med registret om vi byter leverantör?", "Registret är föreningens. Vi lämnar över det i sin helhet och raderar vår kopia enligt biträdesavtalet."]
+    [
+      "Arbetar ni åt privatpersoner?",
+      "Nej, bara åt bostadsrättsföreningar och deras medlemmar när det gäller föreningens system. För villalås hänvisar vi till kollegor i Uppsala."
+    ],
+    [
+      "Vad kostar ett nytt nyckelsystem?",
+      "Normalt 2 400–3 800 kr per lägenhet, inklusive cylindrar i lägenhetsdörr, förråd och allmänna utrymmen samt tre nycklar per lägenhet."
+    ],
+    [
+      "Måste stämman besluta?",
+      "Större investeringar och förändringar av lägenhetsdörrar brukar kräva stämmobeslut, beroende på stadgarna. Vi tar fram underlag som passar kallelsen."
+    ],
+    [
+      "Vem äger lägenhetsdörren?",
+      "Enligt de flesta stadgar äger föreningen dörren men medlemmen ansvarar för låset. Vid gemensamt dörrbyte brukar föreningen bekosta allt."
+    ],
+    [
+      "Kan vi behålla vårt gamla nyckelsystem?",
+      "Om systemet är patentskyddat och i gott skick tar vi över förvaltningen. Vi behöver nyckelkort eller fullmakt från den gamla leverantören."
+    ],
+    [
+      "Hur fungerar en digital porttelefon?",
+      "Besökaren söker på namn och ringer till den boendes mobil. Den boende öppnar porten med en knapptryckning, även på distans."
+    ],
+    [
+      "Vad händer med registret om vi byter leverantör?",
+      "Registret är föreningens. Vi lämnar över det i sin helhet och raderar vår kopia enligt biträdesavtalet."
+    ]
   ],
   "priser": [
-    {"namn": "Cylinderbyte vid försäljning", "pris": "1 690 kr", "enhet": "per lägenhet", "text": "När en lägenhet byter ägare.", "punkter": ["Ny cylinder i systemet", "Tre nycklar", "Beställs av mäklare eller styrelse", "Registret uppdateras"]},
-    {"namn": "Nytt nyckelsystem", "pris": "fr. 2 400 kr", "enhet": "per lägenhet", "text": "Hela föreningen i ett patentskyddat system.", "punkter": ["Platsbesök och nyckelschema", "Underlag till stämman", "Montage i alla lägenheter", "Styrelseportal ingår"], "utvald": true},
-    {"namn": "Taggsystem", "pris": "fr. 18 500 kr", "enhet": "per port", "text": "Taggläsare i port, tvättstuga eller soprum.", "punkter": ["Läsare och elslutbleck", "Tio taggar per lägenhet", "Webbtjänst för styrelsen", "Spärr på en minut"]}
+    {
+      "namn": "Cylinderbyte vid försäljning",
+      "pris": "1 690 kr",
+      "enhet": "per lägenhet",
+      "text": "När en lägenhet byter ägare.",
+      "punkter": [
+        "Ny cylinder i systemet",
+        "Tre nycklar",
+        "Beställs av mäklare eller styrelse",
+        "Registret uppdateras"
+      ]
+    },
+    {
+      "namn": "Nytt nyckelsystem",
+      "pris": "fr. 2 400 kr",
+      "enhet": "per lägenhet",
+      "text": "Hela föreningen i ett patentskyddat system.",
+      "punkter": [
+        "Inventering av alla dörrar",
+        "Underlag till stämman",
+        "Montage i alla lägenheter",
+        "Styrelseportal ingår"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Taggsystem",
+      "pris": "fr. 18 500 kr",
+      "enhet": "per port",
+      "text": "Taggläsare i port, tvättstuga eller soprum.",
+      "punkter": [
+        "Läsare och elslutbleck",
+        "Tio taggar per lägenhet",
+        "Webbtjänst för styrelsen",
+        "Spärr på en minut"
+      ]
+    }
   ],
   "certifikat": [
-    {"titel": "Medlem i SLR", "text": "Sveriges Låssmeders Riksförbund – alla montörer har gesällbrev.", "ikon": "skold"},
-    {"titel": "Brandklassade dörrar EI 30", "text": "Utbildade montörer för lägenhetsdörrar som ska klara brandkraven i trapphus.", "ikon": "eld"},
-    {"titel": "Personuppgiftsbiträde", "text": "Biträdesavtal enligt GDPR med varje förening, register lagrade i Sverige.", "ikon": "dokument"},
-    {"titel": "SSF-godkända lås", "text": "Cylindrar och lås i lägenhetsdörrar uppfyller SSF 3522 klass 3.", "ikon": "las"}
+    {
+      "titel": "Gesällbrev på alla montörer",
+      "text": "Sveriges Låssmeders Riksförbund – alla montörer har gesällbrev.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Brandklassade dörrar EI 30",
+      "text": "Utbildade montörer för lägenhetsdörrar som ska klara brandkraven i trapphus.",
+      "ikon": "eld"
+    },
+    {
+      "titel": "Personuppgiftsbiträde",
+      "text": "Biträdesavtal enligt GDPR med varje förening, register lagrade i Sverige.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "Cylindrar i klass 3",
+      "text": "Cylindrar och lås i lägenhetsdörrar uppfyller SSF 3522 klass 3.",
+      "ikon": "las"
+    }
   ],
-  "kunder": ["Brf Valthornet", "Brf Kronåsen", "Brf Svartbäcksgården", "Brf Ängsklockan", "Brf Rosendals Torn", "Brf Västra Ån", "Brf Luthagsesplanaden", "Brf Fyrislund 4"],
+  "kunder": [
+    "Brf Valthornet",
+    "Brf Kronåsen",
+    "Brf Svartbäcksgården",
+    "Brf Ängsklockan",
+    "Brf Rosendals Torn",
+    "Brf Västra Ån",
+    "Brf Luthagsesplanaden",
+    "Brf Fyrislund 4"
+  ],
   "nyheter": [
-    ["2026-10-22", "Styrelsekväll 19 november", "Om nyckelsystem, taggar och GDPR – anmäl er senast 12 november.", "people"],
-    ["2026-09-03", "Dörrbytet i Gottsunda i gång", "Brf Valthornet får 300 nya säkerhetsdörrar under hösten.", "interior"],
-    ["2026-05-18", "Mäklare kan beställa direkt", "Cylinderbyten vid försäljning kan nu beställas av mäklaren i portalen.", "kontor"]
+    [
+      "2026-10-22",
+      "Styrelsekväll 19 november",
+      "Om nyckelsystem, taggar och GDPR – anmäl er senast 12 november.",
+      "people"
+    ],
+    [
+      "2026-09-03",
+      "Dörrbytet i Gottsunda i gång",
+      "Brf Valthornet får 300 nya säkerhetsdörrar under hösten.",
+      "interior"
+    ],
+    [
+      "2026-05-18",
+      "Mäklare kan beställa direkt",
+      "Cylinderbyten vid försäljning kan nu beställas av mäklaren i portalen.",
+      "kontor"
+    ]
   ],
-  "kontakt": {"adress": "Bolandsgatan 15", "postnr": "753 23", "ort": "Uppsala", "telefon": "070-174 06 58", "epost": "styrelse@uppsalaportlas.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Bolandsgatan 15",
+    "postnr": "753 23",
+    "ort": "Uppsala",
+    "telefon": "070-174 06 58",
+    "epost": "styrelse@uppsalaportlas.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 7–16 · styrelsemöten även kvällstid",
   "omrade": "Uppsala, Knivsta och Enköping",
   "fot_cta": "Sitter du i en styrelse? Vi kommer till ert nästa möte utan kostnad.",
-  "bild": {"panel": "people", "hb": "bostad"},
+  "bild": {
+    "panel": "people",
+    "hb": "bostad"
+  },
   "text": {
     "hero_knapp": "Det här gör vi",
     "hero_lank": "Föreningar vi arbetat åt",

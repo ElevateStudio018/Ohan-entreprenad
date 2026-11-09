@@ -29,18 +29,18 @@
   "affarsomraden": [
     {"titel": "Spillvattenstammar i flerbostadshus", "text": "Kärnan i verksamheten. Vi infodrar gjutjärnsstammar från 1950–1970-talen med en epoxistrumpa som vrängs in med tryckluft och härdar på två till fyra timmar.", "text2": "Boende kan använda toalett och dusch varje kväll under arbetet.", "tagg": "vvs"},
     {"titel": "Grenledningar och golvbrunnar", "text": "De klena rören från badkar och tvättställ är ofta i sämst skick. Vi sprutlinar dem med en roterande munstycksrobot, i tre lager, ända fram till golvbrunnen.", "text2": "Golvbrunnen får en ny insats med klämring om den gamla inte går att täta.", "tagg": "vvs"},
-    {"titel": "Mark- och dagvattenledningar", "text": "Under källargolv och på gården är det tjäle och rotinträngning som förstör. Där använder vi glasfiberliner som härdas med UV-ljus, vilket går fortare och tål högre belastning.", "text2": "Ledningar upp till 120 meter kan infodras i ett stycke.", "tagg": "anlaggning"},
+    {"titel": "Mark- och dagvattenledningar", "text": "Under källargolv och på gården är det tjäle och rotinträngning som förstör. Där använder vi glasfiberliner som härdas med UV-ljus, vilket går fortare och tål högre belastning.", "text2": "En enda liner kan vara 120 meter lång.", "tagg": "anlaggning"},
     {"titel": "Offentliga lokaler och industri", "text": "Skolor, vårdboenden och livsmedelsindustrier kan inte stänga i månader. Vi planerar arbetet till lov, helger och nätter och använder lukfria, lösningsmedelsfria epoxisystem.", "text2": "Vi har gjort relining i nio skolor åt kommuner i Västerbotten.", "tagg": "industri"}
   ],
   "bolag": [
-    {"namn": "Förstudie", "segment": "3 tekniker", "rubrik": "Filmar, mäter och klassar", "text": "Filmar alla rör, klassar skador enligt SS-EN 13508-2 och skriver underlaget som styrelsen fattar beslut på.", "tagg": "vvs"},
+    {"namn": "Förstudie", "segment": "3 tekniker", "rubrik": "Filmar, mäter och klassar", "text": "Filmar varje rör, bedömer skadorna efter europeisk standard och skriver underlaget som styrelsen fattar beslut på.", "tagg": "vvs"},
     {"namn": "Produktion Umeå", "segment": "9 montörer", "rubrik": "Tre lag i Västerbotten", "text": "Utgår från lagret på Formvägen och klarar ett trapphus på två till tre veckor.", "tagg": "bostad"},
     {"namn": "Produktion Luleå", "segment": "5 montörer", "rubrik": "Norrbotten sedan 2021", "text": "Ett lag med egen servicebil och härdningsutrustning, stationerat på Svartöstaden i Luleå.", "tagg": "vvs"},
     {"namn": "Projektledning", "segment": "Henrik och Anna", "rubrik": "En kontakt för styrelsen", "text": "Håller boendemöten, informationsblad och slutdokumentation med film före och efter.", "tagg": "kontor"}
   ],
   "berattelser": [
     {"rubrik": "Ålidhem: 210 lägenheter på 19 veckor", "text": "Vårt största enskilda uppdrag hittills, med tre lag i parallella trapphus.", "tagg": "bostad"},
-    {"rubrik": "Ny UV-utrustning för markledningar", "text": "Vi kan nu infodra ledningar upp till 300 millimeter och 120 meter långa i ett stycke.", "tagg": "anlaggning"},
+    {"rubrik": "Ny UV-utrustning för markledningar", "text": "Nu klarar vi dimensioner på 300 millimeter i markledningar under källargolv.", "tagg": "anlaggning"},
     {"rubrik": "Uppföljning efter tio år", "text": "Vi har filmat om 22 hus vi relinade 2014–2016. Inga sprickor och inga lossnade liners.", "tagg": "vvs"}
   ],
   "nyckeltal": [
@@ -90,13 +90,13 @@
     ["Kan vi få rotavdrag?", "Bostadsrättsföreningar kan inte få rot, men en privat villaägare kan få rotavdrag på arbetskostnaden."]
   ],
   "priser": [
-    {"namn": "Förstudie", "pris": "fr. 18 000 kr", "enhet": "per fastighet", "text": "Underlaget som styrelsen fattar beslut på.", "punkter": ["Filmning av alla stammar", "Skadeklassning enligt SS-EN 13508-2", "Rekommendation relining eller byte", "Dras av om ni beställer relining"]},
+    {"namn": "Förstudie", "pris": "fr. 18 000 kr", "enhet": "per fastighet", "text": "Underlaget som styrelsen fattar beslut på.", "punkter": ["Filmning av alla stammar", "Skadeklassning per meter rör", "Rekommendation relining eller byte", "Dras av om ni beställer relining"]},
     {"namn": "Spillvatten per lägenhet", "pris": "fr. 62 000 kr", "enhet": "per lägenhet, exkl. moms", "text": "Stam, grenrör och golvbrunn i badrum och kök.", "punkter": ["Strumpinfodring av stam", "Sprutlining av grenrör", "Ny golvbrunnsinsats vid behov", "Film före och efter, 10 års garanti"], "utvald": true},
     {"namn": "Markledning", "pris": "fr. 4 900 kr", "enhet": "per meter, exkl. moms", "text": "UV-härdad liner under källare och gård.", "punkter": ["Dimension 100–300 mm", "Upp till 120 meter i ett stycke", "Upplåsning av anslutningar med robot", "Utförs utan schaktning"]}
   ],
   "certifikat": [
     {"titel": "Typgodkända system", "text": "Alla liners vi använder är provade och certifierade av RISE för användning i svenska bostäder.", "ikon": "skold"},
-    {"titel": "Säker Vatten", "text": "Auktoriserat företag enligt branschreglerna för installation och infodring av avlopp.", "ikon": "vatten"},
+    {"titel": "AMA VVS & Kyl", "text": "Utförande och egenkontroller enligt AMA VVS & Kyl 22, dokumenterade trapphus för trapphus.", "ikon": "dokument"},
     {"titel": "Härdplastutbildning", "text": "Alla montörer har Arbetsmiljöverkets obligatoriska utbildning för arbete med epoxi och isocyanater.", "ikon": "hjalm"},
     {"titel": "ISO 14001", "text": "Certifierat miljöledningssystem sedan 2018, med årlig revision.", "ikon": "lov"}
   ],

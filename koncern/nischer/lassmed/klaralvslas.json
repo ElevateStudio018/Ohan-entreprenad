@@ -17,98 +17,400 @@
   ],
   "vagval_rubrik": "Vilken verksamhet gäller det?",
   "tjanster": [
-    {"titel": "Industrilås", "ikon": "fabrik", "href": "verksamhet.html", "text": "Låssystem för bruk, sågverk och verkstäder, med skyddsrutiner."},
-    {"titel": "Lockout-system", "ikon": "kugge", "href": "verksamhet.html", "text": "Personliga hänglås och låsstationer för säkert underhåll."},
-    {"titel": "Kommunala ramavtal", "ikon": "dokument", "href": "verksamhet.html", "text": "Skolor, förskolor och äldreboenden i fem kommuner."},
-    {"titel": "Passersystem", "ikon": "las", "href": "verksamhet.html", "text": "Kort och taggar till grindar, kontor och personalingångar."},
-    {"titel": "Gård och lantbruk", "ikon": "lada", "href": "verksamhet.html", "text": "Lås till maskinhallar, dieseltankar och verkstäder."},
-    {"titel": "Säkerhetsdörrar", "ikon": "skold", "href": "verksamhet.html", "text": "Dörrar till serverrum, kemförråd och vapenförråd."},
-    {"titel": "Nyckelskåp", "ikon": "nyckel", "href": "verksamhet.html", "text": "Elektroniska nyckelskåp som loggar vem som tog nyckeln."},
-    {"titel": "Begär offert", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Vi svarar inom två arbetsdagar, även på stora upphandlingar."}
+    {
+      "titel": "Industrilås",
+      "ikon": "fabrik",
+      "href": "verksamhet.html",
+      "text": "Låssystem för bruk, sågverk och verkstäder, med skyddsrutiner."
+    },
+    {
+      "titel": "Lockout-system",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Personliga hänglås och låsstationer för säkert underhåll."
+    },
+    {
+      "titel": "Kommunala ramavtal",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "Skolor, förskolor och äldreboenden i fem kommuner."
+    },
+    {
+      "titel": "Kort och taggar",
+      "ikon": "las",
+      "href": "verksamhet.html",
+      "text": "Kort och taggar till grindar, kontor och personalingångar."
+    },
+    {
+      "titel": "Gård och lantbruk",
+      "ikon": "lada",
+      "href": "verksamhet.html",
+      "text": "Lås till maskinhallar, dieseltankar och verkstäder."
+    },
+    {
+      "titel": "Dörrar till kemförråd",
+      "ikon": "skold",
+      "href": "verksamhet.html",
+      "text": "Dörrar till serverrum, kemförråd och vapenförråd."
+    },
+    {
+      "titel": "Nyckelskåp",
+      "ikon": "nyckel",
+      "href": "verksamhet.html",
+      "text": "Elektroniska nyckelskåp som loggar vem som tog nyckeln."
+    },
+    {
+      "titel": "Offert eller anbud",
+      "ikon": "portfolj",
+      "href": "om-oss.html#kontakt",
+      "text": "Vi svarar inom två arbetsdagar, även på stora upphandlingar."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Industri och anläggning", "text": "Huvudnyckelsystem, passersystem och lockout-system för pappersbruk, sågverk och verkstadsindustri. Alla montörer har SSG Entre och följer anläggningens arbetstillstånd.", "text2": "Vi har serviceavtal med ett tjugotal industrier mellan Grums och Hagfors.", "tagg": "industri"},
-    {"titel": "Offentlig sektor", "text": "Ramavtal för låsservice i Karlstad, Hammarö, Kil, Forshaga och Sunne – sammanlagt drygt 600 kommunala byggnader. Vi dokumenterar varje åtgärd i kommunens fastighetssystem.", "text2": "Felanmälningar på skolor åtgärdas inom fyra timmar dagtid.", "tagg": "kontor"},
-    {"titel": "Landsbygd och lantbruk", "text": "Stölder av diesel, verktyg och skogsmaskiner är vanliga på landsbygden. Vi säkrar maskinhallar, tankar och verkstäder med lås, larmintegration och kameror som lantbrukare har råd med.", "text2": "Vi samarbetar med lokala grannsamverkansgrupper i Fryksdalen och Klarälvdalen.", "tagg": "natur"},
-    {"titel": "Företag och fastighetsägare", "text": "Kontor, butiker och hyresfastigheter i hela länet. Nyckelsystem, passer och kodlås med service från närmaste servicepunkt.", "text2": "Från servicepunkten i Torsby når vi Sysslebäck på under en timme.", "tagg": "las"}
+    {
+      "titel": "Industri och anläggning",
+      "text": "Huvudnyckelsystem, passersystem och lockout-system för pappersbruk, sågverk och verkstadsindustri. Alla montörer har SSG Entre och följer anläggningens arbetstillstånd.",
+      "text2": "Vi har serviceavtal med ett tjugotal industrier mellan Grums och Hagfors.",
+      "tagg": "industri"
+    },
+    {
+      "titel": "Offentlig sektor",
+      "text": "Ramavtal för låsservice i Karlstad, Hammarö, Kil, Forshaga och Sunne – sammanlagt drygt 600 kommunala byggnader. Vi dokumenterar varje åtgärd i kommunens fastighetssystem.",
+      "text2": "Felanmälningar på skolor åtgärdas inom fyra timmar dagtid.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Landsbygd och lantbruk",
+      "text": "Stölder av diesel, verktyg och skogsmaskiner är vanliga på landsbygden. Vi säkrar maskinhallar, tankar och verkstäder med lås, larmintegration och kameror som lantbrukare har råd med.",
+      "text2": "Vi samarbetar med lokala grannsamverkansgrupper i Fryksdalen och Klarälvdalen.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Företag och fastighetsägare",
+      "text": "Kontor, butiker och hyresfastigheter i hela länet. Nyckelsystem, passer och kodlås med service från närmaste servicepunkt.",
+      "text2": "Från servicepunkten i Torsby når vi Sysslebäck på under en timme.",
+      "tagg": "las"
+    }
   ],
   "bolag": [
-    {"namn": "Industri", "segment": "Bruk, sågverk och verkstäder", "rubrik": "Låssmeder med skyddsutbildning", "text": "Elva montörer och två projektledare med SSG Entre, Heta arbeten och erfarenhet av arbetstillstånd.", "tagg": "industri"},
-    {"namn": "Kommun", "segment": "Ramavtal i fem kommuner", "rubrik": "600 byggnader i registret", "text": "Ett team som enbart arbetar mot kommuner och regionala fastighetsbolag, med egen kundtjänst.", "tagg": "kontor"},
-    {"namn": "Landsbygd", "segment": "Servicepunkter i Torsby och Arvika", "rubrik": "Långa avstånd är vardag", "text": "Fyra montörer som utgår från norra och västra Värmland och känner varje gårdsväg.", "tagg": "natur"},
-    {"namn": "Kundcenter", "segment": "Karlstad, Gjuterigatan", "rubrik": "Verkstad, lager och butik", "text": "Nyckelkopiering, lager med 4 000 artiklar och kundtjänst för alla avdelningar.", "tagg": "las"}
+    {
+      "namn": "Industri",
+      "segment": "Bruk, sågverk och verkstäder",
+      "rubrik": "Låssmeder med skyddsutbildning",
+      "text": "Elva montörer och två projektledare med SSG Entre, Heta arbeten och erfarenhet av arbetstillstånd.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Kommun",
+      "segment": "Ramavtal i fem kommuner",
+      "rubrik": "600 byggnader i registret",
+      "text": "Ett team som enbart arbetar mot kommuner och regionala fastighetsbolag, med egen kundtjänst.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Landsbygd",
+      "segment": "Servicepunkter i Torsby och Arvika",
+      "rubrik": "Långa avstånd är vardag",
+      "text": "Fyra montörer som utgår från norra och västra Värmland och känner varje gårdsväg.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Kundcenter",
+      "segment": "Karlstad, Gjuterigatan",
+      "rubrik": "Verkstad, lager och butik",
+      "text": "Nyckelkopiering, lager med 4 000 artiklar och kundtjänst för alla avdelningar.",
+      "tagg": "las"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Lockout på ett bruk i Grums", "text": "120 personliga hänglås och sex låsstationer har ersatt pappersrutinerna vid underhållsstopp.", "tagg": "industri"},
-    {"rubrik": "Förlängt avtal med Kil", "text": "Kils kommun förlänger ramavtalet för låsservice med två år, till och med 2028.", "tagg": "kontor"},
-    {"rubrik": "Dieselstölderna minskar", "text": "Gårdarna i Fryksdalen som säkrat tankarna med oss har inte haft en enda stöld sedan 2024.", "tagg": "natur"}
+    {
+      "rubrik": "Lockout på ett bruk i Grums",
+      "text": "120 personliga hänglås och sex låsstationer har ersatt pappersrutinerna vid underhållsstopp.",
+      "tagg": "industri"
+    },
+    {
+      "rubrik": "Förlängt avtal med Kil",
+      "text": "Kils kommun förlänger ramavtalet för låsservice med två år, till och med 2028.",
+      "tagg": "kontor"
+    },
+    {
+      "rubrik": "Dieselstölderna minskar",
+      "text": "Gårdarna i Fryksdalen som säkrat tankarna med oss har inte haft en enda stöld sedan 2024.",
+      "tagg": "natur"
+    }
   ],
   "nyckeltal": [
-    {"varde": "31", "enhet": "anställda", "etikett": "I fyra orter i Värmland"},
-    {"varde": "600", "enhet": "byggnader", "etikett": "Kommunala fastigheter i avtal"},
-    {"varde": "4", "enhet": "tim", "etikett": "Åtgärdstid på skolor dagtid"},
-    {"varde": "19", "enhet": "bilar", "etikett": "Från Säffle till Sysslebäck"}
+    {
+      "varde": "31",
+      "enhet": "anställda",
+      "etikett": "I fyra orter i Värmland"
+    },
+    {
+      "varde": "600",
+      "enhet": "byggnader",
+      "etikett": "Kommunala fastigheter i avtal"
+    },
+    {
+      "varde": "4",
+      "enhet": "tim",
+      "etikett": "Åtgärdstid på skolor dagtid"
+    },
+    {
+      "varde": "19",
+      "enhet": "bilar",
+      "etikett": "Från Säffle till Sysslebäck"
+    }
   ],
   "projekt": [
-    {"namn": "Pappersbruk i Grums", "ort": "Grums", "typ": "Lockout-system", "ar": "2026", "text": "Personliga hänglås, låsstationer och utbildning för 120 underhållstekniker.", "tagg": "industri", "status": "Utfört"},
-    {"namn": "Kils kommun", "ort": "Kil", "typ": "Ramavtal låsservice", "ar": "2026", "text": "Låsservice och nyckelhantering i kommunens skolor, förskolor och boenden.", "tagg": "kontor"},
-    {"namn": "Klarälvdalens Såg", "ort": "Ekshärad", "typ": "Passersystem och grindar", "ar": "2025", "text": "Kortläsare på grindar, kontor och verkstad för 85 anställda och åkare.", "tagg": "industri"},
-    {"namn": "Fryksdalens mjölkgårdar", "ort": "Sunne", "typ": "Tank- och maskinhallslås", "ar": "2025", "text": "Fjorton gårdar säkrade med lås på dieseltankar och maskinhallar.", "tagg": "natur"},
-    {"namn": "Arvika Gjuteri", "ort": "Arvika", "typ": "Huvudnyckelsystem", "ar": "2024", "text": "Nytt system för 210 dörrar och elektroniska nyckelskåp i verkstaden.", "tagg": "industri"},
-    {"namn": "Hammarö skolor", "ort": "Hammarö", "typ": "Passer och kodlås", "ar": "2024", "text": "Taggläsare på sju skolor så att borttappade nycklar inte längre kräver låsbyte.", "tagg": "kontor"}
+    {
+      "namn": "Pappersbruk i Grums",
+      "ort": "Grums",
+      "typ": "Lockout-system",
+      "ar": "2026",
+      "text": "Personliga hänglås, låsstationer och utbildning för 120 underhållstekniker.",
+      "tagg": "industri",
+      "status": "Utfört"
+    },
+    {
+      "namn": "Kils kommun",
+      "ort": "Kil",
+      "typ": "Ramavtal låsservice",
+      "ar": "2026",
+      "text": "Låsservice och nyckelhantering i kommunens skolor, förskolor och boenden.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Klarälvdalens Såg",
+      "ort": "Ekshärad",
+      "typ": "Passersystem och grindar",
+      "ar": "2025",
+      "text": "Kortläsare på grindar, kontor och verkstad för 85 anställda och åkare.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Fryksdalens mjölkgårdar",
+      "ort": "Sunne",
+      "typ": "Tank- och maskinhallslås",
+      "ar": "2025",
+      "text": "Fjorton gårdar säkrade med lås på dieseltankar och maskinhallar.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Arvika Gjuteri",
+      "ort": "Arvika",
+      "typ": "Huvudnyckelsystem",
+      "ar": "2024",
+      "text": "Nytt system för 210 dörrar och elektroniska nyckelskåp i verkstaden.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Hammarö skolor",
+      "ort": "Hammarö",
+      "typ": "Passer och kodlås",
+      "ar": "2024",
+      "text": "Taggläsare på sju skolor så att borttappade nycklar inte längre kräver låsbyte.",
+      "tagg": "kontor"
+    }
   ],
   "process": [
-    {"titel": "Platsbesök och riskbild", "text": "Vi går igenom anläggningen tillsammans med er skyddsorganisation och dokumenterar dörrar och risker.", "tagg": "industri"},
-    {"titel": "Förslag och kalkyl", "text": "Ni får ett förslag som går att lägga i investeringsbudget eller upphandling, med alternativ.", "tagg": "kontor"},
-    {"titel": "Arbetstillstånd och montage", "text": "Montaget planeras efter era produktionsstopp och görs med de tillstånd som anläggningen kräver.", "tagg": "las"},
-    {"titel": "Dokumentation", "text": "Alla lås, nycklar och behörigheter dokumenteras och lämnas i ert system eller i vår portal.", "tagg": "kontor"}
+    {
+      "titel": "Platsbesök och riskbild",
+      "text": "Vi går igenom anläggningen tillsammans med er skyddsorganisation och dokumenterar dörrar och risker.",
+      "tagg": "industri"
+    },
+    {
+      "titel": "Förslag och kalkyl",
+      "text": "Ni får ett förslag som går att lägga i investeringsbudget eller upphandling, med alternativ.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Arbetstillstånd och montage",
+      "text": "Montaget planeras efter era produktionsstopp och görs med de tillstånd som anläggningen kräver.",
+      "tagg": "las"
+    },
+    {
+      "titel": "Dokumentation",
+      "text": "Alla lås, nycklar och behörigheter dokumenteras och lämnas i ert system eller i vår portal.",
+      "tagg": "kontor"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Säker arbetsmiljö hos oss och hos kunden",
     "text": "Vi är certifierade enligt ISO 9001 och arbetar efter samma säkerhetsrutiner som industrierna vi besöker. Ruttplaneringen samlar uppdrag i samma del av länet till samma dag, och sedan 2024 har tolv av bilarna bytts till el- eller biogasbilar.",
-    "mal": [["0", "arbetsolyckor med frånvaro sedan 2017"], ["12 av 19", "bilar på el eller biogas"], ["100 %", "montörer med SSG Entre"]]
+    "mal": [
+      [
+        "0",
+        "arbetsolyckor med frånvaro sedan 2017"
+      ],
+      [
+        "12 av 19",
+        "bilar på el eller biogas"
+      ],
+      [
+        "100 %",
+        "montörer med SSG Entre"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Låssmed i hela Värmland",
     "text": "Hos oss jobbar du på bruk ena dagen och på en skola nästa. Vi betalar SSG Entre, Heta arbeten och gesällbrev, och du kan utgå från den servicepunkt som ligger närmast hemmet.",
-    "jobb": [["Låsmontör industri", "Karlstad"], ["Låsmontör", "Torsby"], ["Projektledare passersystem", "Karlstad"]]
+    "jobb": [
+      [
+        "Låsmontör industri",
+        "Karlstad"
+      ],
+      [
+        "Låsmontör",
+        "Torsby"
+      ],
+      [
+        "Projektledare passersystem",
+        "Karlstad"
+      ]
+    ]
   },
   "kultur": "Alla som jobbar hos oss åker med till höstens kundbesök på något av bruken – även de på kontoret.",
-  "citat": {"text": "På ett bruk kan ett fel lås kosta ett liv. Det har präglat hur vi arbetar även på en förskola i Kil.", "namn": "Maria Sandahl", "roll": "Vd sedan 2018", "tagg": "industri"},
+  "citat": {
+    "text": "På ett bruk kan ett fel lås kosta ett liv. Det har präglat hur vi arbetar även på en förskola i Kil.",
+    "namn": "Maria Sandahl",
+    "roll": "Vd sedan 2018",
+    "tagg": "industri"
+  },
   "omdomen": [
-    {"text": "Klarälvslås hade alla tillstånd klara före stoppet och var färdiga en dag tidigare än planerat.", "namn": "Roger N.", "ort": "Underhållschef, Grums"},
-    {"text": "Felanmälan från en förskola klockan nio, och vid lunch var dörren lagad och dokumenterad i vårt system.", "namn": "Eva-Lena J.", "ort": "Fastighetsförvaltare, Kil"},
-    {"text": "Montören från Torsby kom samma dag när någon försökt bryta upp dieseltanken. Nu sitter det ett lås där ingen kommer åt.", "namn": "Gunnar O.", "ort": "Lantbrukare, Sunne"}
+    {
+      "text": "Klarälvslås hade alla tillstånd klara före stoppet och var färdiga en dag tidigare än planerat.",
+      "namn": "Roger N.",
+      "ort": "Underhållschef, Grums"
+    },
+    {
+      "text": "Felanmälan från en förskola klockan nio, och vid lunch var dörren lagad och dokumenterad i vårt system.",
+      "namn": "Eva-Lena J.",
+      "ort": "Fastighetsförvaltare, Kil"
+    },
+    {
+      "text": "Montören från Torsby kom samma dag när någon försökt bryta upp dieseltanken. Nu sitter det ett lås där ingen kommer åt.",
+      "namn": "Gunnar O.",
+      "ort": "Lantbrukare, Sunne"
+    }
   ],
   "faq": [
-    ["Arbetar ni i hela Värmland?", "Ja, alla 16 kommuner. Från servicepunkterna i Arvika, Torsby och Kristinehamn når vi de flesta orter inom en timme."],
-    ["Har era montörer SSG Entre?", "Ja, alla montörer har SSG Entre och de som arbetar inom industrin även Heta arbeten. Utbildningsintyg skickas med anbudet."],
-    ["Vad är ett lockout-system?", "Personliga hänglås och låsstationer som gör att en maskin inte kan startas när någon arbetar i den. Vi installerar, märker och utbildar personalen."],
-    ["Lämnar ni anbud i offentliga upphandlingar?", "Ja. Vi har ramavtal med fem kommuner och lämnar anbud på låsservice, passersystem och säkerhetsdörrar."],
-    ["Vad kostar ett besök på landsbygden?", "Timpriset är 790 kr exklusive moms och resan debiteras med 9 kr per kilometer från närmaste servicepunkt, aldrig från Karlstad."],
-    ["Har ni jour?", "Avtalskunder inom industri och kommun har jour dygnet runt. Privatpersoner hänvisar vi till vår jourpartner utanför kontorstid."],
-    ["Kan ni integrera lås med vårt larm?", "Ja, våra passersystem kan kopplas till de vanligaste larmcentralerna så att larmet kopplas av när en behörig person går in."]
+    [
+      "Arbetar ni i hela Värmland?",
+      "Ja, alla 16 kommuner. Från servicepunkterna i Arvika, Torsby och Kristinehamn når vi de flesta orter inom en timme."
+    ],
+    [
+      "Har era montörer SSG Entre?",
+      "Ja, alla montörer har SSG Entre och de som arbetar inom industrin även Heta arbeten. Utbildningsintyg skickas med anbudet."
+    ],
+    [
+      "Vad är ett lockout-system?",
+      "Personliga hänglås och låsstationer som gör att en maskin inte kan startas när någon arbetar i den. Vi installerar, märker och utbildar personalen."
+    ],
+    [
+      "Lämnar ni anbud i offentliga upphandlingar?",
+      "Ja. Vi har ramavtal med fem kommuner och lämnar anbud på låsservice, passersystem och säkerhetsdörrar."
+    ],
+    [
+      "Vad kostar ett besök på landsbygden?",
+      "Timpriset är 790 kr exklusive moms och resan debiteras med 9 kr per kilometer från närmaste servicepunkt, aldrig från Karlstad."
+    ],
+    [
+      "Har ni jour?",
+      "Avtalskunder inom industri och kommun har jour dygnet runt. Privatpersoner hänvisar vi till vår jourpartner utanför kontorstid."
+    ],
+    [
+      "Kan ni integrera lås med vårt larm?",
+      "Ja, våra passersystem kan kopplas till de vanligaste larmcentralerna så att larmet kopplas av när en behörig person går in."
+    ]
   ],
   "certifikat": [
-    {"titel": "SSG Entre", "text": "Säkerhetsutbildning för arbete inom skogs- och processindustrin – alla montörer.", "ikon": "hjalm"},
-    {"titel": "Heta arbeten", "text": "Certifikat från Brandskyddsföreningen för montörer som arbetar inom industrin.", "ikon": "eld"},
-    {"titel": "ISO 9001", "text": "Kvalitetsledningssystem certifierat sedan 2012 med årlig revision.", "ikon": "lov"},
-    {"titel": "Medlem i SLR", "text": "Sveriges Låssmeders Riksförbund – 22 montörer med gesällbrev, fem med mästarbrev.", "ikon": "skold"}
+    {
+      "titel": "SSG Entre",
+      "text": "Säkerhetsutbildning för arbete inom skogs- och processindustrin – alla montörer.",
+      "ikon": "hjalm"
+    },
+    {
+      "titel": "Heta arbeten",
+      "text": "Certifikat från Brandskyddsföreningen för montörer som arbetar inom industrin.",
+      "ikon": "eld"
+    },
+    {
+      "titel": "ISO 9001",
+      "text": "Kvalitetsledningssystem certifierat sedan 2012 med årlig revision.",
+      "ikon": "lov"
+    },
+    {
+      "titel": "22 gesäller, 5 mästare",
+      "text": "Sveriges Låssmeders Riksförbund – 22 montörer med gesällbrev, fem med mästarbrev.",
+      "ikon": "skold"
+    }
   ],
-  "kunder": ["Kils kommun", "Hammarö kommun", "Klarälvdalens Såg AB", "Arvika Gjuteri AB", "Fryksdalens Lantmän", "Grums Pappersbruk", "Sunne Fastighets AB", "Torsby Industricentrum"],
-  "kontor_lista": [["Karlstad", "Gjuterigatan 8 · huvudkontor, kundcenter och lager"], ["Arvika", "Servicepunkt, Haget · västra Värmland och Glaskogen"], ["Torsby", "Servicepunkt, Industrivägen · norra Klarälvdalen"], ["Kristinehamn", "Servicepunkt, Hamnen · östra Värmland och Bergslagen"]],
+  "kunder": [
+    "Kils kommun",
+    "Hammarö kommun",
+    "Klarälvdalens Såg AB",
+    "Arvika Gjuteri AB",
+    "Fryksdalens Lantmän",
+    "Grums Pappersbruk",
+    "Sunne Fastighets AB",
+    "Torsby Industricentrum"
+  ],
+  "kontor_lista": [
+    [
+      "Karlstad",
+      "Gjuterigatan 8 · huvudkontor, kundcenter och lager"
+    ],
+    [
+      "Arvika",
+      "Servicepunkt, Haget · västra Värmland och Glaskogen"
+    ],
+    [
+      "Torsby",
+      "Servicepunkt, Industrivägen · norra Klarälvdalen"
+    ],
+    [
+      "Kristinehamn",
+      "Servicepunkt, Hamnen · östra Värmland och Bergslagen"
+    ]
+  ],
   "kontor_rubrik": "Nära även när det är långt",
   "kontor_text": "Resan räknas alltid från närmaste servicepunkt, inte från Karlstad.",
   "nyheter": [
-    ["2026-10-09", "Två år till med Kil", "Ramavtalet för låsservice förlängs till och med 2028.", "kontor"],
-    ["2026-06-17", "Lockout-systemet i drift", "Sommarens underhållsstopp i Grums blev det första med personliga hänglås.", "industri"],
-    ["2026-01-26", "Ny servicepunkt i Kristinehamn", "Kortare resor till östra Värmland och Storfors.", "las"]
+    [
+      "2026-10-09",
+      "Två år till med Kil",
+      "Ramavtalet för låsservice förlängs till och med 2028.",
+      "kontor"
+    ],
+    [
+      "2026-06-17",
+      "Lockout-systemet i drift",
+      "Sommarens underhållsstopp i Grums blev det första med personliga hänglås.",
+      "industri"
+    ],
+    [
+      "2026-01-26",
+      "Ny servicepunkt i Kristinehamn",
+      "Kortare resor till östra Värmland och Storfors.",
+      "las"
+    ]
   ],
-  "kontakt": {"adress": "Gjuterigatan 8", "postnr": "652 21", "ort": "Karlstad", "telefon": "070-174 06 64", "epost": "order@klaralvslas.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Gjuterigatan 8",
+    "postnr": "652 21",
+    "ort": "Karlstad",
+    "telefon": "070-174 06 64",
+    "epost": "order@klaralvslas.se",
+    "orgnr": ""
+  },
   "oppettider": "Kundcenter mån–fre 7–16 · jour för avtalskunder",
   "omrade": "Värmlands 16 kommuner",
   "fot_cta": "Planerar ni ett underhållsstopp eller en upphandling? Ring oss i god tid.",
-  "bild": {"panel": "industri", "hb": "industri"},
+  "bild": {
+    "panel": "industri",
+    "hb": "industri"
+  },
   "text": {
     "hero_knapp": "Våra områden",
     "ber_rubrik": "På gång i länet",

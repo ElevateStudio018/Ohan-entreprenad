@@ -89,14 +89,14 @@
   ],
   "priser": [
     {"namn": "Husköp", "pris": "4 900 kr", "enhet": "per villa", "text": "Avloppet filmat och bedömt före kontraktet.", "punkter": ["Spolning och filmning", "Rapport inom 48 timmar", "Filmen i portalen i tio år", "Resa inom kommunen ingår"], "utvald": true},
-    {"namn": "Statusbedömning brf", "pris": "fr. 1 150 kr", "enhet": "per lägenhet, exkl. moms", "text": "Underlaget inför beslut om relining eller stambyte.", "punkter": ["Alla stammar och grenrör filmade", "Skadeklassning enligt SS-EN 13508-2", "Rapport anpassad för anbud", "Presentation för styrelsen"]},
+    {"namn": "Statusbedömning brf", "pris": "fr. 1 150 kr", "enhet": "per lägenhet, exkl. moms", "text": "Underlaget inför beslut om relining eller stambyte.", "punkter": ["Alla stammar och grenrör filmade", "Varje skada klassad och fotograferad", "Rapport anpassad för anbud", "Presentation för styrelsen"]},
     {"namn": "Kontroll efter relining", "pris": "fr. 14 000 kr", "enhet": "per trapphus, exkl. moms", "text": "Oberoende granskning innan ni godkänner arbetet.", "punkter": ["Filmning av alla relinade rör", "Kontroll av upplåsningar och skarvar", "Lista över fel för entreprenören", "Uppföljande film efter åtgärd"]}
   ],
   "certifikat": [
     {"titel": "Klassning SS-EN 13508-2", "text": "Våra ingenjörer är utbildade i den svenska standarden för bedömning av avloppsledningar.", "ikon": "dokument"},
     {"titel": "ID06", "text": "Alla tekniker har ID06-kort och registreras i personalliggaren på varje byggarbetsplats.", "ikon": "folk"},
     {"titel": "Arbete på väg", "text": "Alla tekniker har utbildning för arbete vid väg när vi filmar i kommunala brunnar.", "ikon": "vag"},
-    {"titel": "Konsultansvarsförsäkring", "text": "Försäkrade för fel i våra bedömningar upp till fem miljoner kronor.", "ikon": "skold"}
+    {"titel": "Konsultansvarsförsäkring", "text": "Om vi bedömer fel står försäkringen för följdkostnaden, upp till 5 Mkr per uppdrag.", "ikon": "skold"}
   ],
   "kunder": ["Brf Rosenlund", "Växjö kommun skolfastigheter", "Värnamo Hyresgårdar", "Kvarteret Gjuteriet", "Huskvarna Bostadsrättsförening Ådalen", "Smålands Mäklarhus", "Torsviks Industrifastigheter"],
   "nyheter": [
@@ -121,7 +121,7 @@
     "hb_etikett": "Oberoende",
     "omdomen_rubrik": "Beslut som blev bättre",
     "faq_rubrik": "Frågor om oberoende filmning",
-    "priser_etikett": "Fasta priser",
+    "priser_etikett": "Prislista",
     "priser_rubrik": "Vad det kostar att se rören",
     "priser_not": "Husköpspris inklusive moms. Övriga priser exklusive moms.",
     "priser_utvald": "Flest beställningar",

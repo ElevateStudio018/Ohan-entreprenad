@@ -19,7 +19,7 @@
     {"titel": "Produktionshallar", "ikon": "fabrik", "href": "verksamhet.html", "text": "Stålhallar upp till 12 000 m² med traverser och portar."},
     {"titel": "Lager och logistik", "ikon": "lada", "href": "verksamhet.html", "text": "Höglager, kylrum och lastkajer med dockningsportar."},
     {"titel": "Maskinfundament", "ikon": "sten", "href": "verksamhet.html", "text": "Vibrationsisolerade fundament för pressar och CNC-maskiner."},
-    {"titel": "Ombyggnad i drift", "ikon": "kugge", "href": "verksamhet.html", "text": "Arbete i stopp, helger och semesterveckor – enligt kundens LOTO-rutiner."},
+    {"titel": "Bygg i pågående drift", "ikon": "kugge", "href": "verksamhet.html", "text": "Arbete i stopp, helger och semesterveckor – enligt kundens LOTO-rutiner."},
     {"titel": "Industrigolv", "ikon": "verktyg", "href": "verksamhet.html", "text": "Slipade betonggolv och epoxi för truckar och ESD-miljöer."},
     {"titel": "Stålverkstad", "ikon": "hamare", "href": "bolag.html", "text": "Pelare, balkar, plattformar och trappor från egen verkstad."},
     {"titel": "Kontor i hallen", "ikon": "kontor", "href": "verksamhet.html", "text": "Mesaniner med kontor, personalrum och omklädning."},
@@ -32,8 +32,8 @@
     {"titel": "Stål och plattformar", "text": "Stålverkstaden i Kolbäck tillverkar allt från gångbryggor och trappor till hela stommar. Svetsare och montörer är certifierade enligt EN 1090.", "text2": "Varmförzinkning sker hos underleverantör i Hallstahammar.", "tagg": "svets"}
   ],
   "bolag": [
-    {"namn": "Tidö Hallbygg", "segment": "Nya hallar och lager", "rubrik": "Från grund till traverskran", "text": "Projektledare och lag som bygger nya industribyggnader som totalentreprenad.", "tagg": "industri"},
-    {"namn": "Tidö Industriservice", "segment": "Ombyggnad i drift", "rubrik": "Planerat efter kundens stopp", "text": "Ett servicelag på 16 personer med säkerhetsutbildning för process- och verkstadsindustri.", "tagg": "maskin"},
+    {"namn": "Tidö Hallbygg", "segment": "Nybyggnad av hallar", "rubrik": "Från grund till traverskran", "text": "Projektledare och lag som bygger nya industribyggnader som totalentreprenad.", "tagg": "industri"},
+    {"namn": "Tidö Industriservice", "segment": "Ombyggnad under produktion", "rubrik": "Planerat efter kundens stopp", "text": "Ett servicelag på 16 personer med säkerhetsutbildning för process- och verkstadsindustri.", "tagg": "maskin"},
     {"namn": "Tidö Stål", "segment": "Stålverkstad i Kolbäck", "rubrik": "Svetsat och kapat på egen hand", "text": "2 400 kvadratmeter verkstad med CNC-borrlinje, kapsåg och EN 1090-certifiering.", "tagg": "svets"},
     {"namn": "Tidö Grund & Golv", "segment": "Fundament och industrigolv", "rubrik": "Tiondelar som håller", "text": "Gjuter maskinfundament och lägger slipade golv för tunga truckar och robotceller.", "tagg": "anlaggning"}
   ],
@@ -49,8 +49,8 @@
     {"varde": "0", "enhet": "", "etikett": "Olyckor med frånvaro 2025"}
   ],
   "projekt": [
-    {"namn": "Presshall 7", "ort": "Köping", "typ": "Ny produktionshall", "ar": "2026", "text": "4 200 m² med traverser och fundament för 800 tons press.", "tagg": "industri"},
-    {"namn": "Målerilinje, flytt", "ort": "Västerås", "typ": "Ombyggnad i drift", "ar": "2025", "text": "Hel linje flyttad under tre veckors semesterstopp.", "tagg": "maskin"},
+    {"namn": "Presshall 7", "ort": "Köping", "typ": "Nybyggd presshall", "ar": "2026", "text": "4 200 m² med traverser och fundament för 800 tons press.", "tagg": "industri"},
+    {"namn": "Målerilinje, flytt", "ort": "Västerås", "typ": "Linjeflytt i drift", "ar": "2025", "text": "Hel linje flyttad under tre veckors semesterstopp.", "tagg": "maskin"},
     {"namn": "Logistikcenter Hacksta", "ort": "Västerås", "typ": "Lagerbyggnad", "ar": "2025", "text": "9 800 m² höglager med tolv lastportar och kylrum.", "tagg": "industri"},
     {"namn": "Robotcell och ESD-golv", "ort": "Hallstahammar", "typ": "Golv och fundament", "ar": "2024", "text": "Epoxigolv med ledande skikt för elektronikmontering.", "tagg": "anlaggning"},
     {"namn": "Gjuteriet i Surahammar", "ort": "Surahammar", "typ": "Tillbyggnad", "ar": "2024", "text": "1 600 m² ny hall i anslutning till ugnarna, byggd i drift.", "tagg": "industri"},
@@ -81,7 +81,7 @@
   ],
   "faq": [
     ["Kan ni arbeta när vår produktion är igång?", "Ja, det är hälften av det vi gör. Vi skärmar av med damm- och bullerväggar och planerar störande moment till era stopp."],
-    ["Vad kostar en ny industrihall?", "En enkel stålhall med isolerade väggar och betonggolv ligger på 9 000–13 000 kronor per kvadratmeter. Traverser, kontor och specialgolv tillkommer."],
+    ["Vad kostar en stålhall per kvadratmeter?", "En enkel stålhall med isolerade väggar och betonggolv ligger på 9 000–13 000 kronor per kvadratmeter. Traverser, kontor och specialgolv tillkommer."],
     ["Hur lång tid tar en ny hall?", "Räkna med 3–4 månader för bygglov och projektering, och 20–30 veckor byggtid beroende på storlek."],
     ["Tillverkar ni stålet själva?", "Ja, pelare, balkar, takstolar och plattformar tillverkas i vår verkstad i Kolbäck. Profilerad plåt köper vi från svenska valsverk."],
     ["Kan ni hjälpa till med bygglov?", "Ja, vi tar fram bygglovshandlingar och har kontakten med kommunen. Vi känner de flesta handläggare i Västmanland."],
@@ -101,7 +101,7 @@
     ["2026-03-19", "Anna Tidblad ny VD", "Tredje generationen tar över efter Lennart Tidblad, som blir kvar i styrelsen.", "people"]
   ],
   "kontakt": {"adress": "Tunbytorpsgatan 8", "postnr": "721 37", "ort": "Västerås", "telefon": "070-174 06 81", "epost": "projekt@tidoindustri.se", "orgnr": ""},
-  "oppettider": "Mån–fre 6.30–15.30, jour dygnet runt för avtalskunder",
+  "oppettider": "Kontoret vardagar 6.30–15.30, beredskap för serviceavtal",
   "omrade": "Västmanland och västra Mälardalen",
   "fot_cta": "Planerar ni en ny hall eller ett stopp nästa sommar? Vi kommer ut och tittar inom tre dagar.",
   "bild": {"panel": "svets", "hb": "industri", "sida_bolag": "industri", "sida_om": "industri", "sida_faq": "industri"},
@@ -114,13 +114,13 @@
     "hb_etikett": "Säkerhet & miljö",
     "hb_lank": "Så arbetar vi säkert",
     "omdomen_rubrik": "Produktionschefer om Tidö",
-    "faq_rubrik": "Frågor från industrin",
+    "faq_rubrik": "Det industrin brukar fråga",
     "boka_rubrik": "Boka ett platsbesök i anläggningen",
     "boka_falt": ["Namn", "Telefon", "E-post", "Anläggning och vad som ska göras"],
     "certifikat_rubrik": "Certifierade för tung industri",
     "logos_rubrik": "Industrier vi bygger åt",
     "bolag_rubrik": "Fyra enheter, en verkstad",
     "ny_rubrik": "Nytt från Tidö",
-    "medarbetare": "Montörerna"
+    "medarbetare": "Verkstaden och lagen"
   }
 }

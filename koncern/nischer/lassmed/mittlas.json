@@ -1,0 +1,428 @@
+{
+  "profil": "nisch",
+  "nisch": "lassmed",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Mittlås Integration AB",
+  "kortnamn": "Mittlås",
+  "slug": "mittlas",
+  "typ": "Passersystem och elektroniska lås i Mittnorrland",
+  "tagline": "Elektroniska lås, norrländskt härdade",
+  "slogan": "Vi bygger passersystem som fungerar i 40 minusgrader, på 200 kilometers avstånd och utan att någon behöver åka ut.",
+  "hero_rubrik": "Passersystem som håller norrländsk vinter",
+  "hero_text": "Från kontor i Sundsvall till vindkraftparker i Jämtland och serverhallar vid Höga Kusten. 46 tekniker, egen driftcentral och läsare som klarar −40 °C.",
+  "intro_rubrik": "Tjugo år med lås på distans",
+  "om": [
+    "Mittlås grundades 2006 av Ali Rezaei och Kristoffer Holm, två teletekniker som byggt basstationer i fjällen och visste hur elektronik beter sig i kyla. Deras första kund var ett kraftbolag som ville kunna öppna ställverk utan att skicka ut någon med nyckel.",
+    "I dag är vi 46 anställda med kontor i Sundsvall, Östersund och Örnsköldsvik. Vi har 2 300 dörrar uppkopplade mot vår driftcentral och arbetar nästan bara åt företag, fastighetsägare och offentliga verksamheter som har många dörrar långt ifrån varandra."
+  ],
+  "vagval_rubrik": "Vilken anläggning ska skyddas?",
+  "tjanster": [
+    {
+      "titel": "Molnbaserat passer",
+      "ikon": "glob",
+      "href": "verksamhet.html",
+      "text": "Behörigheter som styrs från webben, oavsett var dörren sitter."
+    },
+    {
+      "titel": "Vindkraft och energi",
+      "ikon": "vind",
+      "href": "verksamhet.html",
+      "text": "Lås för turbiner, ställverk och nätstationer i fjällmiljö."
+    },
+    {
+      "titel": "Serverhallar",
+      "ikon": "blixt",
+      "href": "verksamhet.html",
+      "text": "Flerstegsautentisering och loggning för datacenter."
+    },
+    {
+      "titel": "Byggarbetsplatser",
+      "ikon": "hjalm",
+      "href": "verksamhet.html",
+      "text": "ID06-läsare och elektronisk personalliggare på grindarna."
+    },
+    {
+      "titel": "Elektroniska cylindrar",
+      "ikon": "nyckel",
+      "href": "verksamhet.html",
+      "text": "Nycklar med behörigheter som uppdateras och kan spärras."
+    },
+    {
+      "titel": "Integration med larm",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Passer, inbrottslarm och kameror i samma gränssnitt."
+    },
+    {
+      "titel": "Driftcentral 24/7",
+      "ikon": "telefon",
+      "href": "verksamhet.html",
+      "text": "Vi övervakar dörrar och öppnar på distans dygnet runt."
+    },
+    {
+      "titel": "Boka genomgång",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "En tekniker går igenom era dörrar och befintliga system."
+    }
+  ],
+  "affarsomraden": [
+    {
+      "titel": "Energi och infrastruktur",
+      "text": "Vindkraftparker, ställverk, pumpstationer och teleplatser där närmaste människa kan vara tio mil bort. Vi installerar läsare och elektroniska cylindrar som klarar kyla, isbildning och strömavbrott.",
+      "text2": "Batteribackup i minst 72 timmar på alla uppkopplade dörrar.",
+      "tagg": "el"
+    },
+    {
+      "titel": "Datacenter och industri",
+      "text": "Serverhallar längs Norrlandskusten kräver kort, kod och ibland biometri, med fullständig loggning. Vi bygger zonindelade system och lämnar loggar som klarar kundernas revisioner.",
+      "text2": "Vi arbetar enligt ISO 27001 för all hantering av behörighetsdata.",
+      "tagg": "industri"
+    },
+    {
+      "titel": "Fastigheter och offentlig sektor",
+      "text": "Kontor, skolor och vårdlokaler med hundratals dörrar och tusentals användare. Behörigheter kopplas till kundens personalregister så att en avslutad anställning stänger alla dörrar samma dag.",
+      "text2": "Över 14 000 aktiva användare i våra system.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Byggarbetsplatser",
+      "text": "Tillfälliga passersystem med ID06-läsare på grindar och bodar, kopplade till elektronisk personalliggare enligt Skatteverkets krav. Vi flyttar systemet med bygget.",
+      "text2": "Hyrs per månad, med installation på två dagar.",
+      "tagg": "bygg"
+    }
+  ],
+  "bolag": [
+    {
+      "namn": "Mittlås Sundsvall",
+      "segment": "Huvudkontor, Kolvägen",
+      "rubrik": "Medelpad och Hälsingland",
+      "text": "22 tekniker och projektledare som täcker Sundsvall, Timrå, Härnösand och Hudiksvall.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Mittlås Jämtland",
+      "segment": "Östersund",
+      "rubrik": "Fjäll, vind och kraft",
+      "text": "Elva tekniker med vinterutrustning och snöskoter för anläggningar från Åre till Strömsund.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Mittlås Höga Kusten",
+      "segment": "Örnsköldsvik",
+      "rubrik": "Industri och datacenter",
+      "text": "Åtta tekniker med inriktning på processindustri och serverhallar längs kusten.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Driftcentralen",
+      "segment": "Sundsvall, dygnet runt",
+      "rubrik": "2 300 dörrar på en skärm",
+      "text": "Fem operatörer som övervakar larm, öppnar på distans och hjälper användare som inte kommer in.",
+      "tagg": "people"
+    }
+  ],
+  "berattelser": [
+    {
+      "rubrik": "Vindpark med 38 turbiner",
+      "text": "Alla turbiner och ställverket i en park väster om Östersund öppnas nu med mobil behörighet i stället för nyckelskåp.",
+      "tagg": "el"
+    },
+    {
+      "rubrik": "Ny serverhall i Örnsköldsvik",
+      "text": "Vi installerar zonindelat passer med biometri i tre säkerhetsnivåer, klart före årsskiftet.",
+      "tagg": "industri"
+    },
+    {
+      "rubrik": "Läsarna klarade januari",
+      "text": "Under köldknäppen med −41 °C i Strömsund fungerade samtliga uppkopplade dörrar utan avbrott.",
+      "tagg": "natur"
+    }
+  ],
+  "nyckeltal": [
+    {
+      "varde": "2 300",
+      "enhet": "dörrar",
+      "etikett": "Uppkopplade mot driftcentralen"
+    },
+    {
+      "varde": "−40 °C",
+      "enhet": "",
+      "etikett": "Lägsta drifttemperatur"
+    },
+    {
+      "varde": "46",
+      "enhet": "anställda",
+      "etikett": "I tre län"
+    },
+    {
+      "varde": "72",
+      "enhet": "tim",
+      "etikett": "Batteribackup per dörr"
+    }
+  ],
+  "projekt": [
+    {
+      "namn": "Vindpark Västra Oviken",
+      "ort": "Berg",
+      "typ": "Passer för 38 turbiner",
+      "ar": "2026",
+      "text": "Mobil behörighet till turbiner och ställverk, styrd från driftcentralen.",
+      "tagg": "el",
+      "status": "Utfört"
+    },
+    {
+      "namn": "Serverhall Gullänget",
+      "ort": "Örnsköldsvik",
+      "typ": "Zonindelat passer",
+      "ar": "2026",
+      "text": "Kort, kod och biometri i tre säkerhetsnivåer med loggning.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Sundsvall Logistikpark",
+      "ort": "Sundsvall",
+      "typ": "Passer och grindar",
+      "ar": "2025",
+      "text": "Kortläsare och fordonsgrindar för 14 hyresgäster och 600 användare.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Östersunds skolor",
+      "ort": "Östersund",
+      "typ": "Elektroniska cylindrar",
+      "ar": "2025",
+      "text": "Elektroniska nycklar på nio skolor, kopplade till kommunens personalregister.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Nybygge vid Norra Kajen",
+      "ort": "Sundsvall",
+      "typ": "ID06 och personalliggare",
+      "ar": "2025",
+      "text": "Tillfälligt passersystem för 140 hantverkare under två års byggtid.",
+      "tagg": "bygg"
+    },
+    {
+      "namn": "Nätstationer i Härjedalen",
+      "ort": "Sveg",
+      "typ": "Elektroniska cylindrar",
+      "ar": "2024",
+      "text": "210 nätstationer bytta från mekaniska nycklar till spärrbara elektroniska.",
+      "tagg": "el"
+    }
+  ],
+  "process": [
+    {
+      "titel": "Dörr- och nätinventering",
+      "text": "En tekniker inventerar dörrar, befintliga system och nätverk – på plats eller via ritningar för avlägsna anläggningar.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Systemdesign",
+      "text": "Vi ritar zoner, behörighetsnivåer och integrationer och visar hur systemet beter sig vid strömavbrott.",
+      "tagg": "el"
+    },
+    {
+      "titel": "Installation och test",
+      "text": "Installation i etapper och provning av varje dörr, inklusive köldtest för utomhusläsare.",
+      "tagg": "las"
+    },
+    {
+      "titel": "Drift",
+      "text": "Dörrarna kopplas till driftcentralen och ni får utbildning i behörighetsverktyget.",
+      "tagg": "people"
+    }
+  ],
+  "hallbarhet": {
+    "rubrik": "Färre mil i bil, fler dörrar på distans",
+    "text": "Varje dörr vi kan öppna på distans är en resa som inte behöver göras. Under 2025 öppnade driftcentralen 11 800 dörrar på distans, vilket motsvarar omkring 260 000 sparade bilkilometer för våra kunder.",
+    "mal": [
+      [
+        "11 800",
+        "distansöppningar 2025"
+      ],
+      [
+        "260 000 km",
+        "sparade bilresor för kunderna"
+      ],
+      [
+        "99,9 %",
+        "tillgänglighet i driftcentralen"
+      ]
+    ]
+  },
+  "karriar": {
+    "rubrik": "Teknik, fjäll och kust",
+    "text": "Vi söker tekniker inom passer, nätverk och elektroniska lås. Hos oss kan en arbetsvecka innehålla en serverhall i Örnsköldsvik och en skotertur till en turbin i Jämtland.",
+    "jobb": [
+      [
+        "Passertekniker, fältservice",
+        "Östersund"
+      ],
+      [
+        "Systemtekniker integration",
+        "Sundsvall"
+      ],
+      [
+        "Operatör driftcentral",
+        "Sundsvall"
+      ],
+      [
+        "Projektledare datacenter",
+        "Örnsköldsvik"
+      ]
+    ]
+  },
+  "kultur": "Varje vinter samlas alla tre kontoren en helg i Funäsdalen – med utbildning på förmiddagen och skidor på eftermiddagen.",
+  "citat": {
+    "text": "Vi vill att ingen ska behöva köra tio mil för att låsa upp en dörr. Det är egentligen hela affärsidén.",
+    "namn": "Kristoffer Holm",
+    "roll": "Medgrundare och teknisk chef",
+    "tagg": "el"
+  },
+  "omdomen": [
+    {
+      "text": "Tidigare åkte en tekniker två timmar för att lämna en nyckel till turbinservicen. Nu skickar vi behörigheten till mobilen.",
+      "namn": "Jenny Å.",
+      "ort": "Driftchef, Jämtland"
+    },
+    {
+      "text": "Revisorerna fick loggarna exporterade på en kvart. Det har vi aldrig varit med om tidigare.",
+      "namn": "Daniel P.",
+      "ort": "Säkerhetschef, Örnsköldsvik"
+    },
+    {
+      "text": "När en anställd slutar stänger HR-systemet alla dörrar samma dag. Vi har inte samlat in en nyckel sedan 2024.",
+      "namn": "Camilla H.",
+      "ort": "Fastighetsansvarig, Östersund"
+    }
+  ],
+  "faq": [
+    [
+      "Klarar läsarna verkligen −40 °C?",
+      "Ja. Utomhusläsarna har värmeelement och provas i köldkammare innan leverans. Vi har haft system i drift i över 15 vintrar i fjällen."
+    ],
+    [
+      "Vad händer vid strömavbrott?",
+      "Varje uppkopplad dörr har batteribackup i minst 72 timmar. Elektroniska cylindrar drivs av batteriet i nyckeln och påverkas inte."
+    ],
+    [
+      "Måste vi byta alla lås på en gång?",
+      "Nej. De flesta kunder börjar med ytterdörrar och känsliga utrymmen och bygger ut systemet över flera år."
+    ],
+    [
+      "Kan systemet kopplas till vårt personalregister?",
+      "Ja, vi har färdiga kopplingar till de vanligaste HR- och katalogtjänsterna så att behörigheter följer anställningen."
+    ],
+    [
+      "Hur fungerar driftcentralen?",
+      "Operatörerna ser larm och dörrstatus, öppnar på distans efter identifiering och hjälper användare som inte kommer in. Bemannad dygnet runt."
+    ],
+    [
+      "Vad kostar ett passersystem?",
+      "En uppkopplad dörr kostar normalt 14 000–22 000 kr installerad, beroende på dörr och läsare. Drift och licens från 95 kr per dörr och månad."
+    ],
+    [
+      "Tar ni uppdrag åt villaägare?",
+      "Nej, vi arbetar med företag, fastighetsägare och offentliga verksamheter. För villalås rekommenderar vi en lokal låssmed."
+    ]
+  ],
+  "certifikat": [
+    {
+      "titel": "ISO 27001",
+      "text": "Certifierad informationssäkerhet för all hantering av behörigheter och loggar.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Auktoriserat elinstallationsföretag",
+      "text": "Registrerade hos Elsäkerhetsverket för installation av elslutbleck och läsare.",
+      "ikon": "blixt"
+    },
+    {
+      "titel": "ID06-ansluten leverantör",
+      "text": "Läsare och personalliggare godkända för ID06-kort på byggarbetsplatser.",
+      "ikon": "hjalm"
+    },
+    {
+      "titel": "Låsteknik enligt SLR",
+      "text": "Sveriges Låssmeders Riksförbund – mekanisk och elektronisk låsteknik.",
+      "ikon": "las"
+    }
+  ],
+  "kunder": [
+    "Vindpark Västra Oviken",
+    "Gullängets Datahall AB",
+    "Sundsvall Logistikpark",
+    "Östersunds Skolfastigheter",
+    "Härjedalens Elnät",
+    "Brf Norra Kajen",
+    "Örnsköldsviks Hamnterminal",
+    "Timrå Sportcenter"
+  ],
+  "kontor_lista": [
+    [
+      "Sundsvall",
+      "Kolvägen 14 · huvudkontor och driftcentral"
+    ],
+    [
+      "Östersund",
+      "Chaufförvägen 6 · Jämtland och Härjedalen"
+    ],
+    [
+      "Örnsköldsvik",
+      "Hörneborgsvägen 11 · Höga Kusten och Västerbottens kust"
+    ]
+  ],
+  "kontor_rubrik": "Tre kontor, tre län",
+  "kontor_text": "Teknikerna utgår från närmaste kontor, och driftcentralen i Sundsvall når alla anläggningar.",
+  "nyheter": [
+    [
+      "2026-10-27",
+      "Serverhallen i Gullänget",
+      "Zonindelat passer med biometri installeras under november och december.",
+      "industri"
+    ],
+    [
+      "2026-08-11",
+      "38 turbiner med mobil behörighet",
+      "Vindparken väster om Östersund har slutat med nyckelskåp.",
+      "el"
+    ],
+    [
+      "2026-02-04",
+      "Godkänt köldprov",
+      "Alla uppkopplade dörrar fungerade under januaris −41 °C i Strömsund.",
+      "natur"
+    ]
+  ],
+  "kontakt": {
+    "adress": "Kolvägen 14",
+    "postnr": "856 50",
+    "ort": "Sundsvall",
+    "telefon": "070-174 06 71",
+    "epost": "kontakt@mittlas.se",
+    "orgnr": ""
+  },
+  "oppettider": "Kontor mån–fre 7.30–16.30 · driftcentral dygnet runt",
+  "omrade": "Västernorrland, Jämtland och Hälsingland",
+  "fot_cta": "Har ni dörrar som ligger långt bort? Vi visar hur de kan skötas från en skärm.",
+  "bild": {
+    "panel": "people",
+    "hb": "el"
+  },
+  "text": {
+    "hero_knapp": "Våra lösningar",
+    "ber_rubrik": "Ute på anläggningarna",
+    "proj_rubrik": "Turbiner, hallar och skolor",
+    "process_rubrik": "Från ritning till driftcentral",
+    "hb_etikett": "Resurser",
+    "omdomen_rubrik": "Driftchefer och säkerhetschefer",
+    "faq_rubrik": "Tekniska frågor vi ofta får",
+    "boka_rubrik": "Boka en teknisk genomgång",
+    "logos_rubrik": "Anläggningar i vår driftcentral",
+    "certifikat_rubrik": "Säkerhet i både lås och data",
+    "bolag_rubrik": "Tre kontor och en driftcentral",
+    "ny_rubrik": "Nytt från Mittlås"
+  }
+}

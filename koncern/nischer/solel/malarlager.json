@@ -17,99 +17,412 @@
   ],
   "vagval_rubrik": "Vad vill du styra?",
   "tjanster": [
-    {"titel": "Hembatteri", "ikon": "laddning", "href": "verksamhet.html", "text": "10–20 kWh för villor med eller utan solceller."},
-    {"titel": "Effekttoppar", "ikon": "graf", "href": "verksamhet.html", "text": "Batteri och styrning som sänker effektavgiften."},
-    {"titel": "Stödtjänster", "ikon": "blixt", "href": "verksamhet.html", "text": "Batteriet tjänar pengar på frekvensreglering när du inte använder det."},
-    {"titel": "Laddbox för villa", "ikon": "bil", "href": "verksamhet.html", "text": "Laddbox som laddar när elen är billigast och solen lyser."},
-    {"titel": "Laddning för brf", "ikon": "hus", "href": "verksamhet.html", "text": "Laddplatser med lastbalansering och debitering per medlem."},
-    {"titel": "Batteri för industri", "ikon": "fabrik", "href": "verksamhet.html", "text": "Lager på 100–1 000 kWh för verkstäder och lager."},
-    {"titel": "Solceller", "ikon": "sol", "href": "verksamhet.html", "text": "Vi bygger solceller som del av en helhet med batteri."},
-    {"titel": "Besök demolagret", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Se fem batterisystem i drift på Mälarporten."}
+    {
+      "titel": "Hembatteri",
+      "ikon": "laddning",
+      "href": "verksamhet.html",
+      "text": "10–20 kWh för villor med eller utan solceller."
+    },
+    {
+      "titel": "Effekttoppar",
+      "ikon": "graf",
+      "href": "verksamhet.html",
+      "text": "Batteri och styrning som sänker effektavgiften."
+    },
+    {
+      "titel": "Stödtjänster",
+      "ikon": "blixt",
+      "href": "verksamhet.html",
+      "text": "Batteriet tjänar pengar på frekvensreglering när du inte använder det."
+    },
+    {
+      "titel": "Laddbox för villa",
+      "ikon": "bil",
+      "href": "verksamhet.html",
+      "text": "Laddbox som laddar när elen är billigast och solen lyser."
+    },
+    {
+      "titel": "Laddning för brf",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Laddplatser med lastbalansering och debitering per medlem."
+    },
+    {
+      "titel": "Batteri för industri",
+      "ikon": "fabrik",
+      "href": "verksamhet.html",
+      "text": "Lager på 100–1 000 kWh för verkstäder och lager."
+    },
+    {
+      "titel": "Solceller",
+      "ikon": "sol",
+      "href": "verksamhet.html",
+      "text": "Vi bygger solceller som del av en helhet med batteri."
+    },
+    {
+      "titel": "Besök demolagret",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "Se fem batterisystem i drift på Mälarporten."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Batterier för villa", "text": "Elnätets effekttariff i Västerås gör att den dyraste timmen styr en stor del av elnätsräkningen. Ett batteri på 13 kWh kan kapa topparna och lagra dagens solel till kvällsmaten.", "text2": "Batterier ger 50 procents grönt avdrag på arbete och material.", "tagg": "el"},
-    {"titel": "Styrning och stödtjänster", "text": "Lagra läser timpris, väderprognos och din förbrukning och bestämmer när batteriet ska laddas och laddas ur. När batteriet inte behövs hyrs det ut till frekvensreglering via en godkänd aggregator.", "text2": "Kunder med stödtjänster har fått 2 400–4 800 kronor per år i ersättning.", "tagg": "kontor"},
-    {"titel": "Laddning för föreningar", "text": "Vi bygger laddplatser för bostadsrättsföreningar och samfälligheter med lastbalansering mot fastighetens huvudsäkring. Medlemmarna betalar via appen.", "text2": "Vi lämnar fast pris per laddplats och drar kablage för fler platser redan från början.", "tagg": "bostad"},
-    {"titel": "Industri och verkstäder", "text": "En verkstad med svetsar, kompressorer och laddande truckar kan ha effekttoppar på 300 kW några minuter om dagen. Ett industribatteri jämnar ut dem och undviker en dyr säkringshöjning.", "text2": "Vi gör en mätning på fyra veckor innan vi dimensionerar.", "tagg": "industri"}
+    {
+      "titel": "Batterier för villa",
+      "text": "Elnätets effekttariff i Västerås gör att den dyraste timmen styr en stor del av elnätsräkningen. Ett batteri på 13 kWh kan kapa topparna och lagra dagens solel till kvällsmaten.",
+      "text2": "Batterier ger 50 procents grönt avdrag på arbete och material.",
+      "tagg": "el"
+    },
+    {
+      "titel": "Styrning och stödtjänster",
+      "text": "Lagra läser timpris, väderprognos och din förbrukning och bestämmer när batteriet ska laddas och laddas ur. När batteriet inte behövs hyrs det ut till frekvensreglering via en godkänd aggregator.",
+      "text2": "Kunder med stödtjänster har fått 2 400–4 800 kronor per år i ersättning.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Laddning för föreningar",
+      "text": "Vi bygger laddplatser för bostadsrättsföreningar och samfälligheter med lastbalansering mot fastighetens huvudsäkring. Medlemmarna betalar via appen.",
+      "text2": "Vi lämnar fast pris per laddplats och drar kablage för fler platser redan från början.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Industri och verkstäder",
+      "text": "En verkstad med svetsar, kompressorer och laddande truckar kan ha effekttoppar på 300 kW några minuter om dagen. Ett industribatteri jämnar ut dem och undviker en dyr säkringshöjning.",
+      "text2": "Vi gör en mätning på fyra veckor innan vi dimensionerar.",
+      "tagg": "industri"
+    }
   ],
   "bolag": [
-    {"namn": "Installation", "segment": "Villa och brf", "rubrik": "Batteri och laddbox på en dag", "text": "Tolv elektriker som installerar batterier, laddboxar och solceller i Västmanland, Sörmland och Uppland.", "tagg": "el"},
-    {"namn": "Lagra", "segment": "Mjukvara och styrning", "rubrik": "Fem utvecklare, en algoritm", "text": "Teamet som utvecklar styrningen och sköter anslutningen till stödtjänstmarknaden.", "tagg": "kontor"},
-    {"namn": "Industri", "segment": "Effekt och lagring", "rubrik": "Mätning före dimensionering", "text": "Ingenjörer som mäter, projekterar och bygger lager för verkstäder och lager.", "tagg": "industri"}
+    {
+      "namn": "Installation",
+      "segment": "Villa och brf",
+      "rubrik": "Batteri och laddbox på en dag",
+      "text": "Tolv elektriker som installerar batterier, laddboxar och solceller i Västmanland, Sörmland och Uppland.",
+      "tagg": "el"
+    },
+    {
+      "namn": "Lagra",
+      "segment": "Mjukvara och styrning",
+      "rubrik": "Fem utvecklare, en algoritm",
+      "text": "Teamet som utvecklar styrningen och sköter anslutningen till stödtjänstmarknaden.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Industri",
+      "segment": "Effekt och lagring",
+      "rubrik": "Mätning före dimensionering",
+      "text": "Ingenjörer som mäter, projekterar och bygger lager för verkstäder och lager.",
+      "tagg": "industri"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Verkstaden som slapp höja säkringen", "text": "Ett batteri på 400 kWh gjorde att en verkstad i Köping kunde ladda tio eltruckar utan ny servis.", "tagg": "industri"},
-    {"rubrik": "9,4 MWh under styrning", "text": "Lagra styr nu batterier hos 720 kunder och deltar i frekvensreglering varje dygn.", "tagg": "el"},
-    {"rubrik": "Brf med 80 laddplatser", "text": "Brf Mälarstrand i Västerås har laddning för hela garaget utan att höja huvudsäkringen.", "tagg": "bostad"}
+    {
+      "rubrik": "Verkstaden som slapp höja säkringen",
+      "text": "Ett batteri på 400 kWh gjorde att en verkstad i Köping kunde ladda tio eltruckar utan ny servis.",
+      "tagg": "industri"
+    },
+    {
+      "rubrik": "9,4 MWh under styrning",
+      "text": "Lagra styr nu batterier hos 720 kunder och deltar i frekvensreglering varje dygn.",
+      "tagg": "el"
+    },
+    {
+      "rubrik": "Brf med 80 laddplatser",
+      "text": "Brf Mälarstrand i Västerås har laddning för hela garaget utan att höja huvudsäkringen.",
+      "tagg": "bostad"
+    }
   ],
   "nyckeltal": [
-    {"varde": "1 800", "enhet": "batterier", "etikett": "Installerade sedan 2019"},
-    {"varde": "9,4", "enhet": "MWh", "etikett": "Styrs av Lagra"},
-    {"varde": "4 200", "enhet": "", "etikett": "Laddpunkter"},
-    {"varde": "38 %", "enhet": "", "etikett": "Lägre effektavgift i snitt"}
+    {
+      "varde": "1 800",
+      "enhet": "batterier",
+      "etikett": "Installerade sedan 2019"
+    },
+    {
+      "varde": "9,4",
+      "enhet": "MWh",
+      "etikett": "Styrs av Lagra"
+    },
+    {
+      "varde": "4 200",
+      "enhet": "",
+      "etikett": "Laddpunkter"
+    },
+    {
+      "varde": "38 %",
+      "enhet": "",
+      "etikett": "Lägre effektavgift i snitt"
+    }
   ],
   "projekt": [
-    {"namn": "Köpings Mekaniska", "ort": "Köping", "typ": "Industribatteri, 400 kWh", "ar": "2025", "text": "Laddning för tio eltruckar utan säkringshöjning.", "tagg": "industri"},
-    {"namn": "Brf Mälarstrand", "ort": "Västerås", "typ": "80 laddplatser", "ar": "2025", "text": "Lastbalansering mot huvudsäkringen och debitering via app.", "tagg": "bostad"},
-    {"namn": "Villa i Önsta-Gryta", "ort": "Västerås", "typ": "Batteri 13 kWh", "ar": "2026", "text": "Effektavgiften sjönk med 44 procent första halvåret.", "tagg": "hem", "status": "Utfört"},
-    {"namn": "Eskilstuna Logistikpark", "ort": "Eskilstuna", "typ": "Sol + batteri, 250 kW", "ar": "2026", "text": "Solceller på taket och ett lager på 500 kWh för kylrummen.", "tagg": "el"},
-    {"namn": "Enköpings Ryttarförening", "ort": "Enköping", "typ": "Sol + batteri, 60 kW", "ar": "2024", "text": "Ridhusets belysning går på solel som lagrats under dagen.", "tagg": "solel"},
-    {"namn": "Samfälligheten Hacksta", "ort": "Västerås", "typ": "42 laddplatser", "ar": "2024", "text": "Gemensam laddning på parkeringen för ett radhusområde.", "tagg": "bostad"}
+    {
+      "namn": "Köpings Mekaniska",
+      "ort": "Köping",
+      "typ": "Industribatteri, 400 kWh",
+      "ar": "2025",
+      "text": "Laddning för tio eltruckar utan säkringshöjning.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Brf Mälarstrand",
+      "ort": "Västerås",
+      "typ": "80 laddplatser",
+      "ar": "2025",
+      "text": "Lastbalansering mot huvudsäkringen och debitering via app.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Villa i Önsta-Gryta",
+      "ort": "Västerås",
+      "typ": "Batteri 13 kWh",
+      "ar": "2026",
+      "text": "Effektavgiften sjönk med 44 procent första halvåret.",
+      "tagg": "hem",
+      "status": "Utfört"
+    },
+    {
+      "namn": "Eskilstuna Logistikpark",
+      "ort": "Eskilstuna",
+      "typ": "Sol + batteri, 250 kW",
+      "ar": "2026",
+      "text": "Solceller på taket och ett lager på 500 kWh för kylrummen.",
+      "tagg": "el"
+    },
+    {
+      "namn": "Enköpings Ryttarförening",
+      "ort": "Enköping",
+      "typ": "Sol + batteri, 60 kW",
+      "ar": "2024",
+      "text": "Ridhusets belysning går på solel som lagrats under dagen.",
+      "tagg": "solel"
+    },
+    {
+      "namn": "Samfälligheten Hacksta",
+      "ort": "Västerås",
+      "typ": "42 laddplatser",
+      "ar": "2024",
+      "text": "Gemensam laddning på parkeringen för ett radhusområde.",
+      "tagg": "bostad"
+    }
   ],
   "process": [
-    {"titel": "Läs av förbrukningen", "text": "Med din fullmakt hämtar vi timvärden från nätbolaget och ser exakt när topparna uppstår.", "tagg": "kontor"},
-    {"titel": "Simulering", "text": "Lagra simulerar ett helt år med ditt batteri, ditt elavtal och din tariff. Du ser besparingen innan du köper.", "tagg": "el"},
-    {"titel": "Installation", "text": "Ett hembatteri installeras på en dag, ett industrilager på två till fyra veckor.", "tagg": "people"},
-    {"titel": "Styrning från dag ett", "text": "Batteriet kopplas till Lagra och börjar optimera direkt. Du följer allt i appen.", "tagg": "solel"}
+    {
+      "titel": "Läs av förbrukningen",
+      "text": "Med din fullmakt hämtar vi timvärden från nätbolaget och ser exakt när topparna uppstår.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Simulering",
+      "text": "Lagra simulerar ett helt år med ditt batteri, ditt elavtal och din tariff. Du ser besparingen innan du köper.",
+      "tagg": "el"
+    },
+    {
+      "titel": "Installation",
+      "text": "Ett hembatteri installeras på en dag, ett industrilager på två till fyra veckor.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Styrning från dag ett",
+      "text": "Batteriet kopplas till Lagra och börjar optimera direkt. Du följer allt i appen.",
+      "tagg": "solel"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Batterier med spårbart ursprung",
     "text": "Vi använder litiumjärnfosfatbatterier utan kobolt, med dokumenterad leverantörskedja och minst 6 000 laddcykler. Batteriernas hälsa följs i Lagra, och vid slutet av livslängden tar tillverkaren tillbaka cellerna för återvinning.",
-    "mal": [["0", "kobolt i våra batterier"], ["6 000", "laddcykler som minimikrav"], ["10 år", "garanti på batterikapaciteten"]]
+    "mal": [
+      [
+        "0",
+        "kobolt i våra batterier"
+      ],
+      [
+        "6 000",
+        "laddcykler som minimikrav"
+      ],
+      [
+        "10 år",
+        "garanti på batterikapaciteten"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Elektriker eller utvecklare? Vi behöver båda",
     "text": "Hos oss arbetar elektriker och mjukvaruutvecklare i samma lokal. Du får se hur det du installerar eller kodar faktiskt påverkar elnätet i Mälardalen.",
-    "jobb": [["Elektriker batteri och laddning", "Västerås"], ["Backendutvecklare, Lagra", "Västerås"], ["Projektingenjör industri", "Eskilstuna"]]
+    "jobb": [
+      [
+        "Elektriker batteri och laddning",
+        "Västerås"
+      ],
+      [
+        "Backendutvecklare, Lagra",
+        "Västerås"
+      ],
+      [
+        "Projektingenjör industri",
+        "Eskilstuna"
+      ]
+    ]
   },
   "kultur": "Varje fredag visar Lagra-teamet veckans graf: hur mycket våra kunders batterier sänkte effekttopparna.",
-  "citat": {"text": "Solceller gör el när solen vill. Batterier och styrning gör att elen kommer när du vill. Det är där pengarna och nyttan för elnätet finns.", "namn": "Sofia Engström", "roll": "Vd och medgrundare", "tagg": "people"},
+  "citat": {
+    "text": "Solceller gör el när solen vill. Batterier och styrning gör att elen kommer när du vill. Det är där pengarna och nyttan för elnätet finns.",
+    "namn": "Sofia Engström",
+    "roll": "Vd, grundade Mälarlager 2019",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Simuleringen sa att effektavgiften skulle sjunka med 40 procent. Det blev 44.", "namn": "Henrik T.", "ort": "Västerås"},
-    {"text": "Vi trodde att vi behövde en ny servis för tre miljoner. Batteriet kostade en tredjedel och var på plats på tre veckor.", "namn": "Lotta K.", "ort": "Köping"},
-    {"text": "Laddningen i garaget har fungerat från första dagen och styrelsen behöver inte räkna kilowattimmar.", "namn": "Brf Mälarstrand", "ort": "Västerås"}
+    {
+      "text": "Simuleringen sa att effektavgiften skulle sjunka med 40 procent. Det blev 44.",
+      "namn": "Henrik T.",
+      "ort": "Västerås"
+    },
+    {
+      "text": "Vi trodde att vi behövde en ny servis för tre miljoner. Batteriet kostade en tredjedel och var på plats på tre veckor.",
+      "namn": "Lotta K.",
+      "ort": "Köping"
+    },
+    {
+      "text": "Laddningen i garaget har fungerat från första dagen och styrelsen behöver inte räkna kilowattimmar.",
+      "namn": "Brf Mälarstrand",
+      "ort": "Västerås"
+    }
   ],
   "faq": [
-    ["Behöver jag solceller för att ha ett batteri?", "Nej. Ett batteri kan laddas när elen är billig och användas när den är dyr, och sänka effektavgiften även utan solceller."],
-    ["Vad är frekvensreglering?", "Svenska kraftnät köper snabb effekt för att hålla nätfrekvensen stabil. Ditt batteri kan delta via en aggregator och få betalt."],
-    ["Hur mycket grönt avdrag får jag?", "50 procent av arbete och material för batteri och laddbox, upp till 50 000 kronor per person och år."],
-    ["Hur länge håller batteriet?", "Våra batterier är godkända för minst 6 000 cykler och har 10 års garanti på minst 70 procent kapacitet."],
-    ["Kan jag använda batteriet vid strömavbrott?", "Ja, med en reservkraftsfunktion kan batteriet driva utvalda kretsar. Det kostar från 6 500 kr extra."],
-    ["Fungerar Lagra med andra batterier?", "Lagra stöder fem vanliga batterimärken. Vi kan ofta koppla upp batterier som andra har installerat."],
-    ["Måste jag ha timprisavtal?", "Det ger störst nytta, men styrningen fungerar även med fast pris om din nätägare har effekttariff."]
+    [
+      "Behöver jag solceller för att ha ett batteri?",
+      "Nej. Ett batteri kan laddas när elen är billig och användas när den är dyr, och sänka effektavgiften även utan solceller."
+    ],
+    [
+      "Vad är frekvensreglering?",
+      "Svenska kraftnät köper snabb effekt för att hålla nätfrekvensen stabil. Ditt batteri kan delta via en aggregator och få betalt."
+    ],
+    [
+      "Hur mycket grönt avdrag får jag?",
+      "50 procent av arbete och material för batteri och laddbox, upp till 50 000 kronor per person och år."
+    ],
+    [
+      "Hur länge håller batteriet?",
+      "Våra batterier är godkända för minst 6 000 cykler och har 10 års garanti på minst 70 procent kapacitet."
+    ],
+    [
+      "Kan jag använda batteriet vid strömavbrott?",
+      "Ja, med en reservkraftsfunktion kan batteriet driva utvalda kretsar. Det kostar från 6 500 kr extra."
+    ],
+    [
+      "Fungerar Lagra med andra batterier?",
+      "Lagra stöder fem vanliga batterimärken. Vi kan ofta koppla upp batterier som andra har installerat."
+    ],
+    [
+      "Måste jag ha timprisavtal?",
+      "Det ger störst nytta, men styrningen fungerar även med fast pris om din nätägare har effekttariff."
+    ]
   ],
   "priser": [
-    {"namn": "Lagra Hem 10", "pris": "fr. 49 900 kr", "enhet": "efter grönt avdrag", "text": "För villor med solceller eller effekttariff.", "punkter": ["Batteri 10 kWh", "Lagra-styrning i ett år", "Installation på en dag", "10 års kapacitetsgaranti"]},
-    {"namn": "Lagra Hem 15", "pris": "fr. 64 900 kr", "enhet": "efter grönt avdrag", "text": "Vårt vanligaste paket, med stödtjänster.", "punkter": ["Batteri 15 kWh", "Stödtjänster aktiverade", "Lagra-styrning i tre år", "Reservkraft förberett"], "utvald": true},
-    {"namn": "Lagra Hem + laddbox", "pris": "fr. 72 400 kr", "enhet": "efter grönt avdrag", "text": "Batteri och laddbox som styrs tillsammans.", "punkter": ["Batteri 13 kWh", "Laddbox 11 kW", "Solstyrd laddning", "Lagra-styrning i tre år"]}
+    {
+      "namn": "Lagra Hem 10",
+      "pris": "fr. 49 900 kr",
+      "enhet": "efter grönt avdrag",
+      "text": "För villor med solceller eller effekttariff.",
+      "punkter": [
+        "Batteri 10 kWh",
+        "Lagra-styrning i ett år",
+        "Installation på en dag",
+        "10 års kapacitetsgaranti"
+      ]
+    },
+    {
+      "namn": "Lagra Hem 15",
+      "pris": "fr. 64 900 kr",
+      "enhet": "efter grönt avdrag",
+      "text": "Vårt vanligaste paket, med stödtjänster.",
+      "punkter": [
+        "15 kWh litiumjärnfosfat",
+        "Stödtjänster aktiverade",
+        "Lagra-styrning i tre år",
+        "Reservkraft förberett"
+      ],
+      "utvald": true
+    },
+    {
+      "namn": "Lagra Hem + laddbox",
+      "pris": "fr. 72 400 kr",
+      "enhet": "efter grönt avdrag",
+      "text": "Batteri och laddbox som styrs tillsammans.",
+      "punkter": [
+        "Batteri 13 kWh",
+        "Laddbox 11 kW",
+        "Solstyrd laddning",
+        "Lagra-styrning i tre år"
+      ]
+    }
   ],
   "certifikat": [
-    {"titel": "Auktorisation AB", "text": "Registrerat elinstallatörsföretag hos Elsäkerhetsverket.", "ikon": "blixt"},
-    {"titel": "Godkänd för stödtjänster", "text": "Vår styrning är förkvalificerad för FCR-D via en aggregator med avtal hos Svenska kraftnät.", "ikon": "graf"},
-    {"titel": "Laddinstallatör", "text": "Certifierade installatörer för fyra laddboxmärken, med typgodkänd lastbalansering.", "ikon": "bil"},
-    {"titel": "ISO 9001", "text": "Certifierat kvalitetsledningssystem sedan 2023.", "ikon": "dokument"}
+    {
+      "titel": "Elsäkerhetsverket AB",
+      "text": "Auktorisation som omfattar batterier, laddinfrastruktur och anslutning till fastighetens servis.",
+      "ikon": "blixt"
+    },
+    {
+      "titel": "Godkänd för stödtjänster",
+      "text": "Vår styrning är förkvalificerad för FCR-D via en aggregator med avtal hos Svenska kraftnät.",
+      "ikon": "graf"
+    },
+    {
+      "titel": "Laddinstallatör",
+      "text": "Certifierade installatörer för fyra laddboxmärken, med typgodkänd lastbalansering.",
+      "ikon": "bil"
+    },
+    {
+      "titel": "ISO 9001",
+      "text": "Certifierat kvalitetsledningssystem sedan 2023.",
+      "ikon": "dokument"
+    }
   ],
-  "kunder": ["Köpings Mekaniska AB", "Brf Mälarstrand", "Eskilstuna Logistikpark AB", "Enköpings Ryttarförening", "Samfälligheten Hacksta", "Västerås Hyresbostäder Väst", "Arboga Plåt & Svets AB", "Brf Kungsängen Strängnäs"],
+  "kunder": [
+    "Köpings Mekaniska AB",
+    "Brf Mälarstrand",
+    "Eskilstuna Logistikpark AB",
+    "Enköpings Ryttarförening",
+    "Samfälligheten Hacksta",
+    "Västerås Hyresbostäder Väst",
+    "Arboga Plåt & Svets AB",
+    "Brf Kungsängen Strängnäs"
+  ],
   "nyheter": [
-    ["2026-10-15", "Vintern är högsäsong för effekttoppar", "Så förbereder Lagra ditt batteri för de kallaste timmarna.", "el"],
-    ["2026-07-08", "720 kunder i stödtjänster", "Batterierna har tillsammans tjänat 2,9 miljoner kronor första halvåret.", "kontor"],
-    ["2026-03-26", "Nytt demolager på Mälarporten", "Fem batterisystem i drift – boka ett besök och se hur de styrs.", "people"]
+    [
+      "2026-10-15",
+      "Vintern är högsäsong för effekttoppar",
+      "Så förbereder Lagra ditt batteri för de kallaste timmarna.",
+      "el"
+    ],
+    [
+      "2026-07-08",
+      "720 kunder i stödtjänster",
+      "Batterierna har tillsammans tjänat 2,9 miljoner kronor första halvåret.",
+      "kontor"
+    ],
+    [
+      "2026-03-26",
+      "Nytt demolager på Mälarporten",
+      "Fem batterisystem i drift – boka ett besök och se hur de styrs.",
+      "people"
+    ]
   ],
-  "kontakt": {"adress": "Mälarporten, Kopparlundsvägen 9", "postnr": "721 30", "ort": "Västerås", "telefon": "070-174 06 71", "epost": "hej@malarlager.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Mälarporten, Kopparlundsvägen 9",
+    "postnr": "721 30",
+    "ort": "Västerås",
+    "telefon": "070-174 06 71",
+    "epost": "hej@malarlager.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 08–17, demolagret även lör 10–14",
   "omrade": "Västmanland, Sörmland och västra Uppland",
   "fot_cta": "Skicka en fullmakt så simulerar vi ett år med batteri – kostnadsfritt.",
-  "bild": {"panel": "el", "hb": "industri"},
+  "bild": {
+    "panel": "el",
+    "hb": "industri"
+  },
   "text": {
     "kontakt_knapp": "Få en simulering",
     "hero_knapp": "Batteripaketen",

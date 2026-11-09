@@ -17,93 +17,359 @@
   ],
   "vagval_rubrik": "Var ska solen skördas?",
   "tjanster": [
-    {"titel": "Solceller på villan", "ikon": "hus", "href": "verksamhet.html", "text": "Paneler med EPD och låg klimatpåverkan, monterade av egna elektriker."},
-    {"titel": "Gårdens markanläggning", "ikon": "lada", "href": "verksamhet.html", "text": "Markställ där fåren betar under panelerna."},
-    {"titel": "Batteri mot nätgränsen", "ikon": "laddning", "href": "verksamhet.html", "text": "Lagrar överskott när nätet på ön inte tar emot mer."},
-    {"titel": "Sommarhus och stugor", "ikon": "sol", "href": "verksamhet.html", "text": "Små anläggningar för fritidshus på Fårö och i Sudret."},
-    {"titel": "Energigemenskaper", "ikon": "folk", "href": "verksamhet.html", "text": "Hjälp för byalag och föreningar som vill äga en anläggning tillsammans."},
-    {"titel": "Laddbox", "ikon": "bil", "href": "verksamhet.html", "text": "Laddning som styrs av när solen lyser och nätet orkar."},
-    {"titel": "Klimatbokslut", "ikon": "lov", "href": "hallbarhet.html", "text": "Läs vår redovisning av utsläpp per installerad kW."},
-    {"titel": "Prata med Hanna", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi svarar själva i telefon, inte en växel."}
+    {
+      "titel": "Solceller på villan",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Paneler med EPD och låg klimatpåverkan, monterade av egna elektriker."
+    },
+    {
+      "titel": "Gårdens markanläggning",
+      "ikon": "lada",
+      "href": "verksamhet.html",
+      "text": "Markställ där fåren betar under panelerna."
+    },
+    {
+      "titel": "Batteri mot nätgränsen",
+      "ikon": "laddning",
+      "href": "verksamhet.html",
+      "text": "Lagrar överskott när nätet på ön inte tar emot mer."
+    },
+    {
+      "titel": "Sommarhus och stugor",
+      "ikon": "sol",
+      "href": "verksamhet.html",
+      "text": "Små anläggningar för fritidshus på Fårö och i Sudret."
+    },
+    {
+      "titel": "Energigemenskaper",
+      "ikon": "folk",
+      "href": "verksamhet.html",
+      "text": "Hjälp för byalag och föreningar som vill äga en anläggning tillsammans."
+    },
+    {
+      "titel": "Laddbox",
+      "ikon": "bil",
+      "href": "verksamhet.html",
+      "text": "Laddning som styrs av när solen lyser och nätet orkar."
+    },
+    {
+      "titel": "Klimatbokslut",
+      "ikon": "lov",
+      "href": "hallbarhet.html",
+      "text": "Läs vår redovisning av utsläpp per installerad kW."
+    },
+    {
+      "titel": "Prata med Hanna",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Vi svarar själva i telefon, inte en växel."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Villor och gårdshus", "text": "Vi använder paneler tillverkade med förnybar el och redovisad klimatpåverkan under 400 kg koldioxid per kW. Fästen i återvunnet aluminium och skruv i rostfritt för havsluften.", "text2": "En villa på Gotland producerar ofta 1 050 kWh per kW och år – mer än nästan någon annanstans i landet.", "tagg": "solel"},
-    {"titel": "Bete under panelerna", "text": "På markanläggningar bygger vi ställen 1,1 meter höga så att gutefår kan beta under. Gräset hålls kort utan gräsklippare och marken behåller sin artrikedom.", "text2": "Vi har tre anläggningar med bete, från 40 till 600 kW.", "tagg": "natur"},
-    {"titel": "Batteri och nätkapacitet", "text": "Elnätet till fastlandet har begränsad kapacitet och nätbolaget kan begränsa inmatningen sommartid. Ett batteri gör att överskottet används på kvällen i stället för att spillas.", "text2": "Batterier och laddboxar ger 50 procents grönt avdrag.", "tagg": "el"},
-    {"titel": "Energigemenskaper", "text": "Flera byalag på ön vill äga sin el gemensamt. Vi hjälper till med föreningsbildning, avtal med markägare och en anläggning som täcker byns behov.", "text2": "Det första exemplet, Fleringe Solförening, har 34 medlemmar och 180 kW.", "tagg": "anlaggning"}
+    {
+      "titel": "Villor och gårdshus",
+      "text": "Vi använder paneler tillverkade med förnybar el och redovisad klimatpåverkan under 400 kg koldioxid per kW. Fästen i återvunnet aluminium och skruv i rostfritt för havsluften.",
+      "text2": "En villa på Gotland producerar ofta 1 050 kWh per kW och år – mer än nästan någon annanstans i landet.",
+      "tagg": "solel"
+    },
+    {
+      "titel": "Bete under panelerna",
+      "text": "På markanläggningar bygger vi ställen 1,1 meter höga så att gutefår kan beta under. Gräset hålls kort utan gräsklippare och marken behåller sin artrikedom.",
+      "text2": "Vi har tre anläggningar med bete, från 40 till 600 kW.",
+      "tagg": "natur"
+    },
+    {
+      "titel": "Batteri och nätkapacitet",
+      "text": "Elnätet till fastlandet har begränsad kapacitet och nätbolaget kan begränsa inmatningen sommartid. Ett batteri gör att överskottet används på kvällen i stället för att spillas.",
+      "text2": "Batterier och laddboxar ger 50 procents grönt avdrag.",
+      "tagg": "el"
+    },
+    {
+      "titel": "Energigemenskaper",
+      "text": "Flera byalag på ön vill äga sin el gemensamt. Vi hjälper till med föreningsbildning, avtal med markägare och en anläggning som täcker byns behov.",
+      "text2": "Det första exemplet, Fleringe Solförening, har 34 medlemmar och 180 kW.",
+      "tagg": "anlaggning"
+    }
   ],
   "bolag": [
-    {"namn": "Installation", "segment": "Villor och gårdar", "rubrik": "Fem elektriker från ön", "text": "Montagelaget bygger allt från tre paneler på en stuga till markanläggningar med bete.", "tagg": "solel"},
-    {"namn": "Gemenskaper", "segment": "Byalag och föreningar", "rubrik": "Solel som ägs av grannarna", "text": "Hanna och en jurist på deltid hjälper föreningar med stadgar, avtal och kalkyler.", "tagg": "people"},
-    {"namn": "Lager och logistik", "segment": "Roma", "rubrik": "Två färjelaster om året", "text": "Alla paneler kommer i samlade leveranser och lagras torrt i en gammal sockerbruksbyggnad i Roma.", "tagg": "industri"}
+    {
+      "namn": "Installation",
+      "segment": "Villor och gårdar",
+      "rubrik": "Fem elektriker från ön",
+      "text": "Montagelaget bygger allt från tre paneler på en stuga till markanläggningar med bete.",
+      "tagg": "solel"
+    },
+    {
+      "namn": "Gemenskaper",
+      "segment": "Byalag och föreningar",
+      "rubrik": "Solel som ägs av grannarna",
+      "text": "Hanna och en jurist på deltid hjälper föreningar med stadgar, avtal och kalkyler.",
+      "tagg": "people"
+    },
+    {
+      "namn": "Lager och logistik",
+      "segment": "Roma",
+      "rubrik": "Två färjelaster om året",
+      "text": "Alla paneler kommer i samlade leveranser och lagras torrt i en gammal sockerbruksbyggnad i Roma.",
+      "tagg": "industri"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Fåren flyttar in i Hemse", "text": "Tolv tackor betar nu under den nya anläggningen på 600 kW söder om Hemse.", "tagg": "natur"},
-    {"rubrik": "Klimatbokslutet 2025", "text": "Våra utsläpp landade på 312 kg koldioxid per installerad kW, en minskning med 18 procent mot året innan.", "tagg": "solel"},
-    {"rubrik": "Fleringe äger sin egen el", "text": "34 hushåll på norra Gotland har gått ihop i en solförening med egen markanläggning.", "tagg": "people"}
+    {
+      "rubrik": "Fåren flyttar in i Hemse",
+      "text": "Tolv tackor betar nu under den nya anläggningen på 600 kW söder om Hemse.",
+      "tagg": "natur"
+    },
+    {
+      "rubrik": "Klimatbokslutet 2025",
+      "text": "Våra utsläpp landade på 312 kg koldioxid per installerad kW, en minskning med 18 procent mot året innan.",
+      "tagg": "solel"
+    },
+    {
+      "rubrik": "Fleringe äger sin egen el",
+      "text": "34 hushåll på norra Gotland har gått ihop i en solförening med egen markanläggning.",
+      "tagg": "people"
+    }
   ],
   "nyckeltal": [
-    {"varde": "1 050", "enhet": "kWh/kW", "etikett": "Snittproduktion på ön"},
-    {"varde": "312", "enhet": "kg CO₂e", "etikett": "Per installerad kW 2025"},
-    {"varde": "640", "enhet": "", "etikett": "Anläggningar sedan 2016"},
-    {"varde": "9", "enhet": "anställda", "etikett": "Alla bosatta på Gotland"}
+    {
+      "varde": "1 050",
+      "enhet": "kWh/kW",
+      "etikett": "Snittproduktion på ön"
+    },
+    {
+      "varde": "312",
+      "enhet": "kg CO₂e",
+      "etikett": "Per installerad kW 2025"
+    },
+    {
+      "varde": "640",
+      "enhet": "",
+      "etikett": "Anläggningar sedan 2016"
+    },
+    {
+      "varde": "9",
+      "enhet": "anställda",
+      "etikett": "Alla bosatta på Gotland"
+    }
   ],
   "projekt": [
-    {"namn": "Hemse Solbete", "ort": "Hemse", "typ": "Markanläggning, 600 kW", "ar": "2026", "text": "Ställ i 1,1 meters höjd och tolv gutefår som betar.", "tagg": "natur"},
-    {"namn": "Fleringe Solförening", "ort": "Fleringe", "typ": "Energigemenskap, 180 kW", "ar": "2025", "text": "Byns gemensamma anläggning på en arrenderad hagmark.", "tagg": "anlaggning"},
-    {"namn": "Kalkstensgården", "ort": "Västergarn", "typ": "Kalkstenshus, 9 kW", "ar": "2025", "text": "Paneler på uthusets tak så att bostadshusets kalkstensfasad lämnas orörd.", "tagg": "hem"},
-    {"namn": "Stuga på Fårö", "ort": "Fårö", "typ": "Fritidshus, 4 kW + batteri", "ar": "2024", "text": "Liten anläggning med batteri som täcker sommarens behov.", "tagg": "solel"},
-    {"namn": "Roma Lammgård", "ort": "Roma", "typ": "Ladugård, 85 kW", "ar": "2025", "text": "Takanläggning och batteri på 40 kWh för kylrum och slakteri.", "tagg": "tak"},
-    {"namn": "Visby Ringmurshus", "ort": "Visby", "typ": "Världsarv, 6 kW", "ar": "2024", "text": "Dold anläggning på gårdssidan, godkänd inom världsarvets bestämmelser.", "tagg": "stad"}
+    {
+      "namn": "Hemse Solbete",
+      "ort": "Hemse",
+      "typ": "Markanläggning, 600 kW",
+      "ar": "2026",
+      "text": "Ställ i 1,1 meters höjd och tolv gutefår som betar.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Fleringe Solförening",
+      "ort": "Fleringe",
+      "typ": "Energigemenskap, 180 kW",
+      "ar": "2025",
+      "text": "Byns gemensamma anläggning på en arrenderad hagmark.",
+      "tagg": "anlaggning"
+    },
+    {
+      "namn": "Kalkstensgården",
+      "ort": "Västergarn",
+      "typ": "Kalkstenshus, 9 kW",
+      "ar": "2025",
+      "text": "Paneler på uthusets tak så att bostadshusets kalkstensfasad lämnas orörd.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Stuga på Fårö",
+      "ort": "Fårö",
+      "typ": "Fritidshus, 4 kW + batteri",
+      "ar": "2024",
+      "text": "Liten anläggning med batteri som täcker sommarens behov.",
+      "tagg": "solel"
+    },
+    {
+      "namn": "Roma Lammgård",
+      "ort": "Roma",
+      "typ": "Ladugård, 85 kW",
+      "ar": "2025",
+      "text": "Takanläggning och batteri på 40 kWh för kylrum och slakteri.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Visby Ringmurshus",
+      "ort": "Visby",
+      "typ": "Världsarv, 6 kW",
+      "ar": "2024",
+      "text": "Dold anläggning på gårdssidan, godkänd inom världsarvets bestämmelser.",
+      "tagg": "stad"
+    }
   ],
   "process": [
-    {"titel": "Samtal och platsbesök", "text": "Vi kommer ut, tittar på taket eller marken och frågar hur ni använder huset året runt.", "tagg": "people"},
-    {"titel": "Klimat- och kostnadskalkyl", "text": "Offerten visar både pris och anläggningens klimatavtryck – och när den har tjänat in båda.", "tagg": "kontor"},
-    {"titel": "Montage med färjeleverans", "text": "Material beställs till vår- eller höstlasten. Montaget tar två till fyra dagar för en villa.", "tagg": "solel"},
-    {"titel": "Tio år av uppföljning", "text": "Vi följer produktionen och tar hand om panelerna när de en dag ska återvinnas.", "tagg": "el"}
+    {
+      "titel": "Samtal och platsbesök",
+      "text": "Vi kommer ut, tittar på taket eller marken och frågar hur ni använder huset året runt.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Klimat- och kostnadskalkyl",
+      "text": "Offerten visar både pris och anläggningens klimatavtryck – och när den har tjänat in båda.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Montage med färjeleverans",
+      "text": "Material beställs till vår- eller höstlasten. Montaget tar två till fyra dagar för en villa.",
+      "tagg": "solel"
+    },
+    {
+      "titel": "Tio år av uppföljning",
+      "text": "Vi följer produktionen och tar hand om panelerna när de en dag ska återvinnas.",
+      "tagg": "el"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Ett klimatbokslut varje år",
     "text": "Vi redovisar utsläppen från panelernas tillverkning, frakten över Östersjön, våra bilar och vår verkstad. Målet är att en Gutesol-anläggning ska ha betalat tillbaka sin klimatskuld på under två år. Uttjänta paneler tar vi tillbaka och lämnar till El-Kretsen.",
-    "mal": [["< 2 år", "klimatåterbetalning per anläggning"], ["2", "samlade färjeleveranser per år"], ["100 %", "elbilar i servicen från 2027"]]
+    "mal": [
+      [
+        "< 2 år",
+        "klimatåterbetalning per anläggning"
+      ],
+      [
+        "2",
+        "samlade färjeleveranser per år"
+      ],
+      [
+        "100 %",
+        "elbilar i servicen från 2027"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Jobba med solel där solen är som starkast",
     "text": "Vi växer långsamt och anställer en person i taget. Vi söker en elektriker som vill bo på Gotland året runt och bygga anläggningar som håller i havsluft.",
-    "jobb": [["Elektriker", "Visby"]]
+    "jobb": [
+      [
+        "Elektriker",
+        "Visby"
+      ]
+    ]
   },
   "kultur": "Under augusti har vi fyradagarsvecka – solen jobbar ändå.",
-  "citat": {"text": "En solpanel från andra sidan jorden har redan ett klimatavtryck när den kommer i land i Visby. Vår uppgift är att den ska tjäna in det så fort som möjligt – och sedan sitta kvar i trettio år.", "namn": "Hanna Rosvall", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {
+    "text": "En solpanel från andra sidan jorden har redan ett klimatavtryck när den kommer i land i Visby. Vår uppgift är att den ska tjäna in det så fort som möjligt – och sedan sitta kvar i trettio år.",
+    "namn": "Hanna Rosvall",
+    "roll": "Grundare och vd",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Vi fick både pris och klimatkalkyl i samma offert. Ingen annan kunde ens svara på var panelerna var tillverkade.", "namn": "Kristina O.", "ort": "Västergarn"},
-    {"text": "Fåren går under panelerna som om de alltid stått där. Vi slipper slå hagen och får el på köpet.", "namn": "Gustav L.", "ort": "Hemse"},
-    {"text": "Hanna satt med på fyra bystämmor innan föreningen bildades. Nu äger vi vår egen el.", "namn": "Margareta J.", "ort": "Fleringe"}
+    {
+      "text": "Vi fick både pris och klimatkalkyl i samma offert. Ingen annan kunde ens svara på var panelerna var tillverkade.",
+      "namn": "Kristina O.",
+      "ort": "Västergarn"
+    },
+    {
+      "text": "Fåren går under panelerna som om de alltid stått där. Vi slipper slå hagen och får el på köpet.",
+      "namn": "Gustav L.",
+      "ort": "Hemse"
+    },
+    {
+      "text": "Hanna satt med på fyra bystämmor innan föreningen bildades. Nu äger vi vår egen el.",
+      "namn": "Margareta J.",
+      "ort": "Fleringe"
+    }
   ],
   "faq": [
-    ["Varför tar det längre tid att få material?", "Vi samlar leveranserna till två färjelaster om året för att minska transporterna. Beställer du före mars monterar vi i maj, annars i september."],
-    ["Kan nätbolaget stoppa min inmatning?", "Gotlands nät har begränsad kapacitet mot fastlandet, och inmatningen kan behöva begränsas vissa sommardagar. Ett batteri gör att du ändå kan använda överskottet."],
-    ["Hur vet ni panelernas klimatavtryck?", "Vi köper bara paneler med en tredjepartsgranskad miljövarudeklaration, EPD, som redovisar utsläppen från tillverkningen."],
-    ["Får jag sätta solceller i Visby innerstad?", "Inom världsarvet krävs bygglov och anpassning. Vi har fått sex anläggningar godkända, alla placerade på gårdssidan."],
-    ["Vad är ett solbete?", "En markanläggning byggd så högt att får kan beta under. Det bevarar marken som betesmark och sparar arbete med klippning."],
-    ["Vilka avdrag finns?", "Privatpersoner får 15 procents grönt avdrag för solceller och 50 procent för batteri och laddbox, upp till 50 000 kronor per person och år."]
+    [
+      "Varför tar det längre tid att få material?",
+      "Vi samlar leveranserna till två färjelaster om året för att minska transporterna. Beställer du före mars monterar vi i maj, annars i september."
+    ],
+    [
+      "Kan nätbolaget stoppa min inmatning?",
+      "Gotlands nät har begränsad kapacitet mot fastlandet, och inmatningen kan behöva begränsas vissa sommardagar. Ett batteri gör att du ändå kan använda överskottet."
+    ],
+    [
+      "Hur vet ni panelernas klimatavtryck?",
+      "Vi köper bara paneler med en tredjepartsgranskad miljövarudeklaration, EPD, som redovisar utsläppen från tillverkningen."
+    ],
+    [
+      "Får jag sätta solceller i Visby innerstad?",
+      "Inom världsarvet krävs bygglov och anpassning. Vi har fått sex anläggningar godkända, alla placerade på gårdssidan."
+    ],
+    [
+      "Vad är ett solbete?",
+      "En markanläggning byggd så högt att får kan beta under. Det bevarar marken som betesmark och sparar arbete med klippning."
+    ],
+    [
+      "Vilka avdrag finns?",
+      "Privatpersoner får 15 procents grönt avdrag för solceller och 50 procent för batteri och laddbox, upp till 50 000 kronor per person och år."
+    ]
   ],
   "certifikat": [
-    {"titel": "Auktorisation B", "text": "Elinstallatörsföretag registrerat hos Elsäkerhetsverket.", "ikon": "blixt"},
-    {"titel": "INCERT-certifierad", "text": "Mattias Klintberg är certifierad solcellsinstallatör.", "ikon": "sol"},
-    {"titel": "Miljödiplomerade", "text": "Miljödiplomerade enligt Svensk Miljöbas sedan 2019.", "ikon": "lov"},
-    {"titel": "Ansluten till El-Kretsen", "text": "Vi tar ansvar för panelerna även när de är uttjänta.", "ikon": "trad"}
+    {
+      "titel": "Auktorisation B",
+      "text": "Gutesol är registrerat hos Elsäkerhetsverket och har eget egenkontrollprogram anpassat för havsnära miljö.",
+      "ikon": "blixt"
+    },
+    {
+      "titel": "INCERT-certifierad",
+      "text": "Mattias Klintberg är certifierad solcellsinstallatör.",
+      "ikon": "sol"
+    },
+    {
+      "titel": "Miljödiplomerade",
+      "text": "Miljödiplomerade enligt Svensk Miljöbas sedan 2019.",
+      "ikon": "lov"
+    },
+    {
+      "titel": "Ansluten till El-Kretsen",
+      "text": "Vi tar ansvar för panelerna även när de är uttjänta.",
+      "ikon": "trad"
+    }
   ],
-  "kunder": ["Fleringe Solförening ek. för.", "Roma Lammgård", "Hemse Betesförening", "Brf Strandgärdet Visby", "Slite Hamnmagasin AB", "Fårö Hembygdsförening", "Gotlands Folkhögskolestiftelse"],
+  "kunder": [
+    "Fleringe Solförening ek. för.",
+    "Roma Lammgård",
+    "Hemse Betesförening",
+    "Brf Strandgärdet Visby",
+    "Slite Hamnmagasin AB",
+    "Fårö Hembygdsförening",
+    "Gotlands Folkhögskolestiftelse"
+  ],
   "nyheter": [
-    ["2026-10-12", "Beställ till vårfärjan", "Sista dag för leverans i maj är den 28 februari.", "solel"],
-    ["2026-06-19", "Tolv tackor i Hemse", "Gotlands största solbete är i drift – och fåren trivs.", "natur"],
-    ["2026-03-04", "Klimatbokslut 2025", "312 kg koldioxid per installerad kW. Så räknade vi.", "kontor"]
+    [
+      "2026-10-12",
+      "Beställ till vårfärjan",
+      "Sista dag för leverans i maj är den 28 februari.",
+      "solel"
+    ],
+    [
+      "2026-06-19",
+      "Tolv tackor i Hemse",
+      "Gotlands största solbete är i drift – och fåren trivs.",
+      "natur"
+    ],
+    [
+      "2026-03-04",
+      "Klimatbokslut 2025",
+      "312 kg koldioxid per installerad kW. Så räknade vi.",
+      "kontor"
+    ]
   ],
-  "kontakt": {"adress": "Stenkumlaväg 21", "postnr": "621 41", "ort": "Visby", "telefon": "070-174 06 48", "epost": "hej@gutesol.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Stenkumlaväg 21",
+    "postnr": "621 41",
+    "ort": "Visby",
+    "telefon": "070-174 06 48",
+    "epost": "hej@gutesol.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–tors 07–16, fre 07–13",
   "omrade": "Hela Gotland och Fårö",
   "fot_cta": "Vill du hinna med vårfärjan? Hör av dig före februari.",
-  "bild": {"hb": "natur", "panel": "solel"},
+  "bild": {
+    "hb": "natur",
+    "panel": "solel"
+  },
   "text": {
     "kontakt_knapp": "Ring Gutesol",
     "hero_knapp": "Så bygger vi",

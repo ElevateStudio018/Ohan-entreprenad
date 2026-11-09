@@ -8,7 +8,7 @@
   "tagline": "Hus från fabrik",
   "slogan": "Vi bygger flerbostadshus, studentbostäder och LSS-boenden som färdiga volymer i vår fabrik i Bjästa – och monterar dem på plats på några dagar.",
   "hero_rubrik": "Byggt inomhus. Monterat på en vecka.",
-  "hero_text": "Örnfjärden tillverkar trähus i volymelement med kök, badrum och golv på plats redan i fabriken. 38 lägenheter i veckan lämnar Bjästa på lastbil.",
+  "hero_text": "Örnfjärden tillverkar trähus i volymelement med kök, badrum och golv på plats redan i fabriken. 16 lägenheter i veckan lämnar Bjästa på lastbil.",
   "intro_rubrik": "Ett bostadshus i veckan från Bjästa",
   "om": [
     "Örnfjärden Prefab startades 2001 i en nedlagd möbelfabrik i Bjästa av fyra snickare som byggt sommarhus åt Norgemarknaden. Den första beställningen var 24 studentlägenheter i Umeå, och i dag är fabriken 26 000 kvadratmeter stor.",
@@ -28,7 +28,7 @@
   "affarsomraden": [
     {"titel": "Flerbostadshus", "text": "Våra hus byggs i volymer på upp till 4,2 × 13 meter som ställs på varandra i upp till sex våningar. Byggtiden på plats blir hälften så lång som för ett platsbyggt hus.", "text2": "Fasad, tak och trapphus kompletteras på plats av vårt montagelag.", "tagg": "bostad"},
     {"titel": "Studentbostäder", "text": "Ettor på 22 m² med pentry och badrum är vår mest tillverkade produkt. Vi har levererat 3 400 studentlägenheter till universitetsorter från Luleå till Linköping.", "text2": "Samma volym kan byggas om till korridorboende eller seniorlägenhet.", "tagg": "stad"},
-    {"titel": "Vård och omsorg", "text": "LSS-boenden och särskilda boenden kräver bredare dörrar, takliftar och personalutrymmen. Vi har standardiserade planer som kommunens arbetsterapeuter har varit med och tagit fram.", "text2": "Ett gruppboende med sex lägenheter monteras på fyra dagar.", "tagg": "interior"},
+    {"titel": "Omsorgsboenden", "text": "LSS-boenden och särskilda boenden kräver bredare dörrar, takliftar och personalutrymmen. Vi har standardiserade planer som kommunens arbetsterapeuter har varit med och tagit fram.", "text2": "Ett gruppboende med sex lägenheter monteras på fyra dagar.", "tagg": "interior"},
     {"titel": "Fabriken", "text": "Produktionen följer ett takttidsschema där varje volym flyttas en station var tredje timme. Fukt och temperatur loggas, och alla våtrum provtrycks innan de lämnar huset.", "text2": "Fabriken värms med spån från vår egen kapning.", "tagg": "industri"}
   ],
   "bolag": [
@@ -43,10 +43,10 @@
     {"rubrik": "Hotell i Åre stod klart på elva dagar", "text": "56 rum lyftes på plats i oktober och hotellet öppnar till säsongsstarten.", "tagg": "bygg"}
   ],
   "nyckeltal": [
-    {"varde": "38", "enhet": "lgh/v", "etikett": "Fabrikens kapacitet"},
+    {"varde": "16", "enhet": "lgh/v", "etikett": "Fabrikens kapacitet"},
     {"varde": "11 200", "enhet": "", "etikett": "Lägenheter levererade sedan 2001"},
     {"varde": "210", "enhet": "", "etikett": "Medarbetare"},
-    {"varde": "468", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+    {"varde": "468", "enhet": "Mkr", "etikett": "Omsättning förra året"}
   ],
   "projekt": [
     {"namn": "Studentkvarteret Porsön", "ort": "Luleå", "typ": "Studentbostäder", "ar": "2026", "text": "144 ettor i fyra hus, monteras januari–februari.", "tagg": "stad"},
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Bygg hus utan regn och frost",
     "text": "I fabriken arbetar du i 20 grader året runt, med fasta tider och samma arbetsplats varje dag. Vi har treskift med skifttillägg och tar in 20 nya snickare om året.",
-    "jobb": [["Snickare, fabrik", "Bjästa"], ["Elektriker, fabrik", "Bjästa"], ["Montageledare", "Örnsköldsvik"], ["Produktionstekniker", "Bjästa"]]
+    "jobb": [["Fabrikssnickare", "Bjästa"], ["Installationselektriker", "Bjästa"], ["Montageledare", "Örnsköldsvik"], ["Produktionstekniker", "Bjästa"]]
   },
   "kultur": "Fabriken har egen matsal med lunch för 65 kronor och buss från Örnsköldsvik centrum till varje skift.",
   "citat": {"text": "Ett badrum som byggs i fabriken provtrycks innan det lämnar Bjästa. Ett badrum som byggs ute på sjunde våningen i november gör det inte alltid.", "namn": "Johanna Sundqvist", "roll": "VD", "tagg": "industri"},
@@ -107,7 +107,7 @@
   "bild": {"panel": "industri", "hb": "tra", "sida_bolag": "industri", "sida_om": "bostad", "sida_faq": "interior"},
   "text": {
     "topp_hem": "{kortnamn} Prefab",
-    "hero_knapp": "Så bygger vi",
+    "hero_knapp": "Från fabrik till tomt",
     "hero_lank": "Levererade hus",
     "ber_rubrik": "Från linjen och montaget",
     "proj_rubrik": "Hus som har lämnat fabriken",
@@ -124,6 +124,6 @@
     "logos_rubrik": "Beställare från Luleå till Åre",
     "bolag_rubrik": "Fabrik, montage, projekt, service",
     "ny_rubrik": "Nytt från fabriken",
-    "medarbetare": "Fabriken"
+    "medarbetare": "Linjen"
   }
 }
