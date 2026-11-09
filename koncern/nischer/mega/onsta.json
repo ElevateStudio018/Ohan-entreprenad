@@ -23,7 +23,7 @@
     {"titel": "Service och drift", "ikon": "verktyg", "href": "verksamhet.html", "text": "1 800 egna servicetekniker för egna och andras parker."},
     {"titel": "Våra bolag", "ikon": "blixt", "href": "bolag.html", "text": "Fyra affärsområden från projektering till elhandel."},
     {"titel": "Investerare", "ikon": "graf", "href": "investerare.html", "text": "Aktien ONST, produktion per kvartal och rapporter."},
-    {"titel": "Jobba hos oss", "ikon": "hjalm", "href": "karriar.html", "text": "Vindkraftstekniker, elkraftsingenjörer och analytiker."}
+    {"titel": "Karriär", "ikon": "hjalm", "href": "karriar.html", "text": "Vindkraftstekniker, elkraftsingenjörer och analytiker."}
   ],
   "affarsomraden": [
     {"titel": "Önsta Wind", "text": "Affärsområdet äger och driver 62 vindparker med totalt 4,6 GW. Den största, Hälsingeskogen, har 118 verk och producerar 2,3 TWh per år.", "text2": "Varje park har ett lokalt bygdemedel på 0,5 procent av intäkterna.", "tagg": "natur"},
@@ -72,10 +72,10 @@
   "karriar": {
     "rubrik": "Jobb på 120 meters höjd",
     "text": "Våra tekniker arbetar i parker från Skåne till Västerbotten, och många bor i orterna där verken står. Vi betalar GWO-utbildning och har ett eget vindkraftsgymnasium i Härnösand tillsammans med kommunen.",
-    "jobb": [["Vindkraftstekniker", "Ljusdal"], ["Elkraftsingenjör, batterilager", "Västerås"], ["Elmarknadsanalytiker", "Västerås"]]
+    "jobb": [["Servicetekniker vindkraft", "Ljusdal"], ["Elkraftsingenjör, batterilager", "Västerås"], ["Elmarknadsanalytiker", "Västerås"]]
   },
   "kultur": "Alla på huvudkontoret – även ekonomer och jurister – klättrar upp i ett vindkraftverk under första månaden.",
-  "citat": {"text": "Industrin behöver inte billig el ibland. Den behöver el varje timme, till ett pris som går att räkna på i tjugo år. Det är det vi bygger.", "namn": "Maria Engström", "roll": "Vd och koncernchef", "tagg": "el"},
+  "citat": {"text": "Industrin behöver inte billig el ibland. Den behöver el varje timme, till ett pris som går att räkna på i tjugo år. Det är det vi bygger.", "namn": "Maria Engström", "roll": "Vd sedan 2019", "tagg": "el"},
   "omdomen": [
     {"text": "Önstas avtal gav oss fast pris och en leveransprofil som följer ugnarnas drift. Utan det hade vi inte kunnat fatta beslutet om elektrifiering.", "namn": "Henrik A.", "ort": "Borlänge"},
     {"text": "Samrådet tog två år, men parken byggdes som utlovat. Bygdemedlet har finansierat ett nytt badhus och fiber till 300 hushåll.", "namn": "Gunilla P.", "ort": "Ljusdal"},
@@ -121,7 +121,7 @@
     ["2004", "Fyra ingenjörer grundar Önsta Kraft i en lokal i Önsta-Gryta."],
     ["2006", "Det första vindkraftverket på Lerberget utanför Fagersta tas i drift."],
     ["2013", "Önsta passerar 1 GW och öppnar servicecentralen i Ljusdal."],
-    ["2017", "Notering på Nasdaq Stockholm."],
+    ["2017", "Önsta tar in 6 miljarder kronor i en börsnotering, då årets största i Stockholm."],
     ["2021", "Första batterilagret och första 20-årsavtalet med industrin."],
     ["2024", "Hälsingeskogen blir Sveriges största vindpark i drift."],
     ["2026", "Batterilagret i Kvicksund tas i drift."]
@@ -131,12 +131,12 @@
     "ber_rubrik": "Senaste megawatten",
     "proj_rubrik": "Parker och lager",
     "proj_rubrik_lista": "Vindparker, solparker och batterilager",
-    "process_etikett": "Från vindmätning till drift",
+    "process_etikett": "Mätmast, tillstånd, torn",
     "process_rubrik": "Tio år från mätmast till el",
     "hb_etikett": "Klimat och natur",
     "bolag_rubrik": "Produktion, lagring, handel och service",
     "kontor_rubrik": "Där verken står",
-    "ny_rubrik": "Pressmeddelanden",
+    "ny_rubrik": "Nytt från driftcentralen",
     "siffror_etikett": "Önsta i siffror",
     "panel_etikett": "Karriär i förnybar energi",
     "omdomen_rubrik": "Kunder och grannar om oss",

@@ -1,0 +1,143 @@
+{
+  "profil": "nisch",
+  "nisch": "rivning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Holmgren Industririvning AB",
+  "kortnamn": "Holmgren",
+  "slug": "holmgren-industririvning",
+  "typ": "Industririvning och sanering i Östergötland",
+  "tagline": "Industririvning sedan 1972",
+  "slogan": "En av landets större rivningskoncerner, med rötterna i Norrköpings textilindustri och egen återvinningsanläggning på Händelö.",
+  "hero_rubrik": "Vi tar ned det som byggdes för att stå",
+  "hero_text": "Pappersbruk, kraftvärmeverk, broar och fabriker i hela Mellansverige. 120 medarbetare i fyra bolag, högrivare med 42 meters räckvidd och 45 000 ton sorteringskapacitet om året.",
+  "intro_rubrik": "Femtiofyra år av tunga uppdrag",
+  "om": [
+    "Holmgren startades 1972 av Sven-Erik Holmgren, när textilindustrin i Norrköping lade ned och fabrikerna längs Motala ström skulle rivas eller byggas om. I dag är vi en koncern med fyra bolag, 120 medarbetare och en omsättning på 486 miljoner kronor 2025.",
+    "Vi tar uppdrag som kräver tunga maskiner, noggrann planering och full kontroll på avfallet: industrier i drift, kraftverk, broar och anläggningar med farliga ämnen. Allt material passerar vår egen sorteringsanläggning på Händelö, där 93 procent gick till återvinning förra året."
+  ],
+  "vagval_rubrik": "Vilken anläggning ska rivas?",
+  "tjanster": [
+    {"titel": "Industririvning", "ikon": "fabrik", "href": "verksamhet.html", "text": "Fabriker, bruk och lagerhallar – även med pågående drift intill."},
+    {"titel": "Högrivning", "ikon": "kran", "href": "verksamhet.html", "text": "Högrivare med 42 meters bom för skorstenar, silor och pannhus."},
+    {"titel": "Broar och anläggning", "ikon": "bro", "href": "verksamhet.html", "text": "Brorivning över väg, järnväg och vatten med trafikplanering."},
+    {"titel": "Energianläggningar", "ikon": "blixt", "href": "verksamhet.html", "text": "Pannor, turbiner och rökgasrening i kraftvärmeverk."},
+    {"titel": "Håltagning", "ikon": "kugge", "href": "verksamhet.html", "text": "Wiresågning och kärnborrning via Holmgren Håltagning."},
+    {"titel": "Sanering", "ikon": "skold", "href": "verksamhet.html", "text": "Asbest, PCB och processkemikalier via Holmgren Sanering."},
+    {"titel": "Återvinning Händelö", "ikon": "kugge", "href": "hallbarhet.html", "text": "Egen sorteringsanläggning med 45 000 tons kapacitet."},
+    {"titel": "Begär anbud", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Anbudsavdelningen svarar inom tio arbetsdagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Industri i drift", "text": "Vi river delar av pappersbruk, raffinaderier och verkstäder medan resten av anläggningen producerar. Arbetet planeras ihop med kundens driftorganisation, med egna skyddsombud och tillståndsrutiner på plats.", "text2": "Under 2025 utförde vi 1,1 miljoner arbetstimmar inom aktiva industriområden.", "tagg": "industri"},
+    {"titel": "Högrivning och skorstenar", "text": "Vår högrivare med 42 meters bom tar ned pannhus, silor och skorstenar bit för bit utan sprängning. Det betyder ingen avspärrning av grannfastigheter och ingen risk för vibrationsskador.", "text2": "Skorstenar högre än 42 meter rivs uppifrån med plattform och kran.", "tagg": "rivning"},
+    {"titel": "Broar och infrastruktur", "text": "Broar över väg, järnväg och vatten rivs ofta under en natt eller en helg med avstängd trafik. Vi har rivit 37 broar sedan 2010, de flesta åt Trafikverkets entreprenörer.", "text2": "Brobalkar lyfts ut med mobilkran och sågas på marken i stället för på bron.", "tagg": "infra"},
+    {"titel": "Energi och kraftvärme", "text": "Gamla oljepannor, turbiner och rökgasreningar i kraftvärmeverk innehåller asbest, tungmetaller och stora stålmängder. Sanering, demontering och skrotning görs av våra egna bolag.", "text2": "Stålet säljs till skrot och intäkten redovisas öppet mot kunden.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Holmgren Industririvning", "segment": "Moderbolag, 72 medarbetare", "rubrik": "Tunga maskiner och stora projekt", "text": "Projektledning, maskinpark och rivning av industri, energi och infrastruktur i hela Mellansverige.", "tagg": "rivning"},
+    {"namn": "Holmgren Håltagning Öst", "segment": "Dotterbolag, 18 medarbetare", "rubrik": "Wire, klinga och robot", "text": "Wiresågning, väggsågning, kärnborrning och robotrivning, både i egna projekt och åt andra byggare.", "tagg": "bygg"},
+    {"namn": "Holmgren Sanering", "segment": "Dotterbolag, 21 medarbetare", "rubrik": "Farliga ämnen först", "text": "Asbest, PCB, kvicksilver och processkemikalier saneras innan rivningen börjar.", "tagg": "industri"},
+    {"namn": "Holmgren Återvinning", "segment": "Dotterbolag, 9 medarbetare", "rubrik": "Sortering på Händelö", "text": "Sorteringsanläggning med kross, sikt och metallseparering för 45 000 ton byggavfall om året.", "tagg": "anlaggning"}
+  ],
+  "kontor_lista": [
+    ["Norrköping", "Huvudkontor och maskinverkstad, Händelövägen 30"],
+    ["Händelö", "Holmgren Återvinning – sorteringsanläggning vid hamnen"],
+    ["Linköping", "Holmgren Håltagning Öst, Tornby"],
+    ["Jönköping", "Projektkontor för Småland och Västra Götaland"],
+    ["Västerås", "Projektkontor för Mälardalen"],
+    ["Stockholm", "Anbud och projektledning, Rosersberg"]
+  ],
+  "kontor_rubrik": "Sex adresser i Mellansverige",
+  "kontor_text": "Maskinerna utgår från Norrköping. Projektkontoren gör att vi alltid har en platschef på mindre än två timmars avstånd.",
+  "berattelser": [
+    {"rubrik": "Pannhuset vid Motala ström", "text": "En 38 meter hög pannbyggnad från 1957 togs ned med högrivaren utan en enda avspärrning mot gatan.", "tagg": "rivning"},
+    {"rubrik": "Bron över E4 på en natt", "text": "Klockan 22 stängdes motorvägen, klockan 05 var bron borta och vägen sopad.", "tagg": "infra"},
+    {"rubrik": "Händelö når 45 000 ton", "text": "Den nya siktlinjen ökar kapaciteten och sorterar ut finfraktion som tidigare deponerades.", "tagg": "anlaggning"}
+  ],
+  "nyckeltal": [
+    {"varde": "120", "enhet": "", "etikett": "Medarbetare i fyra bolag"},
+    {"varde": "486", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "42", "enhet": "m", "etikett": "Räckvidd på största högrivaren"},
+    {"varde": "93 %", "enhet": "", "etikett": "Återvunnet via Händelö 2025"}
+  ],
+  "projekt": [
+    {"namn": "Pannhuset vid Motala ström", "ort": "Norrköping", "typ": "Högrivning", "ar": "2026", "text": "38 meter hög pannbyggnad riven bit för bit, 2 900 ton stål till skrot.", "tagg": "rivning"},
+    {"namn": "Bro över E4 vid Kimstad", "ort": "Norrköping", "typ": "Brorivning", "ar": "2025", "text": "En betongbro på 64 meter riven under en natt med avstängd motorväg.", "tagg": "infra"},
+    {"namn": "Kartongbruket, PM 2", "ort": "Skärblacka", "typ": "Industririvning i drift", "ar": "2025", "text": "En pappersmaskin och dess hall demonterade medan resten av bruket producerade.", "tagg": "industri"},
+    {"namn": "Kraftvärmeverket, block 1", "ort": "Västerås", "typ": "Energianläggning", "ar": "2025", "text": "Oljeeldad panna från 1969 sanerad, demonterad och skrotad – 6 400 ton stål.", "tagg": "anlaggning"},
+    {"namn": "Textilfabriken vid Strömmen", "ort": "Norrköping", "typ": "Selektiv rivning", "ar": "2024", "text": "Tillbyggnader från 60-talet rivna, den kulturmärkta tegelfabriken kvar orörd.", "tagg": "rivning"},
+    {"namn": "Gamla raffinaderiet, tankpark", "ort": "Nynäshamn", "typ": "Sanering och rivning", "ar": "2026", "text": "Fjorton cisterner rengörs, saneras och klipps ned under två år.", "tagg": "industri", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Anbud och riskanalys", "text": "Anbudsavdelningen räknar och tar fram riskanalys, rivningsmetod och tidsplan.", "tagg": "kontor"},
+    {"titel": "Sanering", "text": "Holmgren Sanering tar bort farliga ämnen och friklassar anläggningen för rivning.", "tagg": "industri"},
+    {"titel": "Rivning", "text": "Maskinlag, högrivare och håltagning arbetar efter en daglig plan med kundens driftorganisation.", "tagg": "rivning"},
+    {"titel": "Sortering på Händelö", "text": "Allt material vägs och sorteras. Kunden får en avfallsrapport per fraktion och ton.", "tagg": "anlaggning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje ton spårat från rivning till ny råvara",
+    "text": "Allt som lämnar våra arbetsplatser vägs och registreras, och det mesta passerar vår egen anläggning på Händelö. Krossad betong säljs som fyllnadsmaterial, metall går till svenska stålverk och brännbart till fjärrvärme i Norrköping.",
+    "mal": [["93 %", "materialåtervinning via Händelö 2025"], ["2,4", "olycksfall per miljon arbetstimmar"], ["HVO", "i alla maskiner sedan 2023"]]
+  },
+  "karriar": {"rubrik": "De tunga projekten finns här", "text": "Vi söker platschefer, maskinförare och sanerare som vill arbeta med Sveriges största rivningsprojekt. Vi har eget maskinförarprogram och betalar högrivarutbildning för den som vill.", "jobb": [["Platschef industririvning", "Norrköping"], ["Maskinförare högrivare", "Norrköping"], ["Projektledare sanering", "Västerås"], ["Wiresågare", "Linköping"]]},
+  "kultur": "Varje vår åker alla 120 till Händelö för en dag med säkerhetsövningar, maskinvisningar och kräftsoppa.",
+  "citat": {"text": "Min far rev textilfabriker för att Norrköping skulle kunna bli något nytt. Vi gör samma sak i dag, bara med större maskiner och full koll på vart varje ton tar vägen.", "namn": "Kristina Holmgren", "roll": "Vd och styrelseordförande", "tagg": "people"},
+  "omdomen": [
+    {"text": "Att riva en pappersmaskin med resten av bruket i drift kräver en partner som förstår produktion. Holmgren gjorde det utan ett enda oplanerat stopp.", "namn": "Ulf G.", "ort": "Skärblacka"},
+    {"text": "Bron var borta på sju timmar. Trafikplanen höll på minuten.", "namn": "Josefin K.", "ort": "Norrköping"},
+    {"text": "Avfallsrapporten per ton gjorde att vi kunde redovisa återvinningsgraden direkt i vår årsredovisning.", "namn": "Mattias Ö.", "ort": "Västerås"}
+  ],
+  "faq": [
+    ["Vilka projektstorlekar tar ni?", "Från runt 2 miljoner kronor och uppåt. Mindre uppdrag hänvisar vi gärna till lokala rivningsföretag."],
+    ["Kan ni riva utan sprängning?", "Ja, nästan alltid. Med högrivare, sax och wiresåg kan vi ta ned de flesta byggnader och konstruktioner utan sprängning och utan vibrationer."],
+    ["Hur hanteras arbete i anläggningar i drift?", "Vi arbetar i kundens tillståndssystem, med egna skyddsombud och en gemensam daglig plan med driftorganisationen."],
+    ["Vad händer med metallen?", "Metallen sorteras och säljs till svenska stålverk. Intäkten redovisas öppet och dras av från kontraktssumman."],
+    ["Har ni egen sanering?", "Ja, Holmgren Sanering har tillstånd för asbest och för transport av farligt avfall, och friklassar anläggningen innan rivningen börjar."],
+    ["Var tar ni uppdrag?", "Främst i Mellansverige mellan Stockholm, Göteborg och Gävle, men större projekt tar vi i hela landet."],
+    ["Tar Händelö emot avfall från andra?", "Ja, anläggningen tar emot sorterat och osorterat bygg- och rivningsavfall från andra entreprenörer, vardagar 6–18."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 9001, 14001, 45001", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö i alla fyra bolag.", "ikon": "dokument"},
+    {"titel": "Asbesttillstånd", "text": "Holmgren Sanering har Arbetsmiljöverkets tillstånd för asbestsanering.", "ikon": "skold"},
+    {"titel": "Miljötillstånd Händelö", "text": "Länsstyrelsens tillstånd att sortera och krossa 45 000 ton bygg- och rivningsavfall per år.", "ikon": "lov"},
+    {"titel": "Byggföretagen", "text": "Medlemmar sedan 1986, med Byggnads kollektivavtal för alla yrkesarbetare.", "ikon": "folk"}
+  ],
+  "kunder": ["Bråvikens Kraftvärme", "Skärblacka Kartong", "Östgöta Infra", "Norrköpings Hamnfastigheter", "Mälarenergi Värme", "Linköpings Industrifastigheter", "Nynäs Tankpark", "Strömmens Fastigheter"],
+  "kunder_rubrik": "Industrier och energibolag vi har rivit åt",
+  "nyheter": [
+    ["2026-10-27", "Pannhuset vid Motala ström är borta", "Fem månaders högrivning mitt i stan – och inte en enda avspärrning mot gatan.", "rivning"],
+    ["2026-06-11", "Ny siktlinje på Händelö", "Kapaciteten ökar till 45 000 ton och finfraktionen kan nu återvinnas.", "anlaggning"],
+    ["2026-02-19", "Rekordår 2025", "Omsättningen ökade till 486 miljoner kronor och vi anställde 14 personer.", "kontor"],
+    ["2025-09-30", "Tankparken i Nynäshamn", "Vi har tecknat avtal om sanering och rivning av fjorton cisterner under två år.", "industri"]
+  ],
+  "kontakt": {"adress": "Händelövägen 30", "postnr": "602 38", "ort": "Norrköping", "telefon": "070-174 06 91", "epost": "anbud@holmgrenrivning.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16 · Händelö vardagar 6–18",
+  "omrade": "Mellansverige – Stockholm, Göteborg och Gävle",
+  "fot_cta": "Ska en anläggning rivas? Anbudsavdelningen svarar inom tio arbetsdagar.",
+  "bild": {"hb": "industri"},
+  "text": {
+    "topp_hem": "Holmgren-koncernen",
+    "hero_knapp": "Vår verksamhet",
+    "vagval_etikett": "Affärsområden",
+    "ber_etikett": "Aktuellt från koncernen",
+    "ber_rubrik": "Stora rivningar just nu",
+    "proj_rubrik": "Anläggningar vi har tagit ned",
+    "process_etikett": "Från anbud till avfallsrapport",
+    "process_rubrik": "Hela kedjan inom koncernen",
+    "hb_etikett": "Återvinning",
+    "omdomen_rubrik": "Industrikunder om samarbetet",
+    "faq_rubrik": "Frågor från industri och energibolag",
+    "certifikat_rubrik": "Certifieringar och tillstånd",
+    "logos_rubrik": "Uppdragsgivare",
+    "kontor_etikett": "Kontor",
+    "meny_bolag": "Våra bolag",
+    "bolag_etikett": "Koncernen",
+    "bolag_rubrik": "Fyra bolag, en kedja",
+    "bolag_kol": ["Bolag", "Storlek", "Inriktning"],
+    "sida_bolag_ingress": "Holmgren består av {n} bolag som tillsammans täcker sanering, håltagning, rivning och återvinning.",
+    "boka_rubrik": "Begär anbud",
+    "boka_text": "Beskriv anläggningen, ungefärlig storlek och önskad tidplan. En anbudsingenjör hör av sig inom två arbetsdagar.",
+    "boka_knapp": "Skicka förfrågan",
+    "boka_falt": ["Namn", "Telefon", "Företag", "Anläggning och tidplan"],
+    "panel_etikett": "Karriär"
+  }
+}
