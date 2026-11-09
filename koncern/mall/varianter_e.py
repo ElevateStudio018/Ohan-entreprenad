@@ -75,11 +75,11 @@ def vagval_vitrin(s):
         bild = s.bilder.ta(x.get("tagg"))
         rad += (f'<li><a class="evi-rad" href="{_href(x)}"><span class="evi-nr">{i + 1:02d}</span><span class="evi-t">{E(x["titel"])}</span>'
                 f'<span class="evi-pil">{PIL}</span></a>'
-                f'<figure class="evi-scen" style="grid-row:1 / span {n}">{s.bilder.img(bild, "(min-width:1000px) 55vw, 100vw")}'
+                f'<figure class="evi-scen">{s.bilder.img(bild, "(min-width:1000px) 55vw, 100vw")}'
                 f'<figcaption>{_ik(x, "ik evi-ik")}<span class="evi-st">{E(x["titel"])}</span><span class="evi-text">{E(_ttext(s, x))}</span></figcaption></figure></li>')
     return (f'<section class="ev sek {s.bg("vagval")}" aria-labelledby="vv-h"><div class="wrap">'
             f'{s.huvud(s.T("vagval_etikett"), _fraga(s), "vv-h", s.textlank(s.T("fot_lank"), "verksamhet.html"))}'
-            f'<ul class="evi">{rad}</ul></div></section>')
+            f'<ul class="evi" style="--n:{n}">{rad}</ul></div></section>')
 
 
 @variant("vagval", "e-tidning")
@@ -97,11 +97,14 @@ def vagval_tidning(s):
             sp[-1] = 4 - k + 1
     else:
         lead_cls, sp = f"eti-lead eti-l{4 - r}1", [1] * r
+    bild = s.bilder.ta(lead.get("tagg"))
     celler = (f'<li class="{lead_cls}"><a href="{_href(lead)}"><span class="eti-kicker">{_ik(lead, "ik")}<span>01</span></span>'
               f'<h3>{E(lead["titel"])}</h3><p class="eti-ingress">{E(_ttext(s, lead))}</p>'
+              f'<span class="eti-foto">{s.bilder.img(bild, "(min-width:1100px) 45vw, 100vw")}</span>'
               f'<span class="textlank"><span>{E(s.T("las_mer"))}</span>{PIL}</span></a></li>')
     for i, (x, spn) in enumerate(zip(rest, sp)):
-        celler += (f'<li class="eti-cell" style="--sp:{spn}"><a href="{_href(x)}"><span class="eti-kicker">{_ik(x, "ik")}<span>{i + 2:02d}</span></span>'
+        start = " eti-r0" if r >= 4 and i >= 4 and (i - 4) % 4 == 0 else ""
+        celler += (f'<li class="eti-cell{start}" style="--sp:{spn}"><a href="{_href(x)}"><span class="eti-kicker">{_ik(x, "ik")}<span>{i + 2:02d}</span></span>'
                    f'<h3>{E(x["titel"])}</h3><p>{E(_ttext(s, x))}</p><span class="eti-pil">{PIL}</span></a></li>')
     return (f'<section class="ev sek {s.bg("vagval")}" aria-labelledby="vv-h"><div class="wrap">'
             f'<header class="eti-mast"><div class="eti-mast-rad"><span>{E(s.T("vagval_etikett"))}</span><span>{E(s.b.get("kortnamn", ""))} · {len(t):02d}</span></div>'
@@ -177,9 +180,9 @@ def bolag_stapel(s):
     for i, x in enumerate(bl):
         rubrik = x.get("rubrik") or ""
         kort += (f'<li style="--i:{i}"><article class="est-kort"><div class="est-bild">{_bild(s, x.get("tagg"), "(min-width:960px) 50vw, 100vw")}</div>'
-                 f'<div class="est-text"><div class="est-rad"><span class="est-seg">{E(x.get("segment", ""))}</span><span class="est-nr">{i + 1:02d} / {len(bl):02d}</span></div>'
+                 f'<div class="est-text"><div class="est-rad"><span class="est-seg">{E(x.get("segment", ""))}</span><span class="est-nr">/ {len(bl):02d}</span></div>'
                  f'<h3>{E(x["namn"])}</h3>{f"<p class=est-rubrik>{E(rubrik)}</p>" if rubrik else ""}<p>{E(x["text"])}</p>'
-                 f'{s.textlank(s.T("bolag_till", namn=x["namn"]), f"bolag.html#bolag-{i}")}</div></article></li>')
+                 f'<div class="est-fot">{s.textlank(s.T("bolag_till", namn=x["namn"]), f"bolag.html#bolag-{i}")}<span class="est-stor" aria-hidden="true">{i + 1:02d}</span></div></div></article></li>')
     return (f'<section class="ev sek {s.bg("bolag")}" aria-labelledby="bo-h"><div class="wrap">{_bolag_huvud(s)}'
             f'<ul class="est">{kort}</ul></div></section>')
 
@@ -257,7 +260,7 @@ def siffror_staplar(s):
         diagram = ""
         if len(trend) > 1:
             hi = max(trend) or 1
-            lo = min(0, min(trend))
+            lo = min(trend) - (hi - min(trend)) * 0.7 if hi != min(trend) else 0
             staplar = "".join(f'<i style="--h:{max(6, round(100 * (v - lo) / ((hi - lo) or 1)))}%"></i>' for v in trend)
             diagram = (f'<div class="esp-diagram" aria-hidden="true">{staplar}</div>'
                        f'<span class="esp-not">{E(n.get("trend_text", ""))}</span>')
@@ -290,7 +293,7 @@ def siffror_trappa(s):
     n = max(1, len(nt))
     steg = ""
     for i, x in enumerate(nt):
-        h = 46 + round(54 * i / max(1, n - 1)) if n > 1 else 100
+        h = 34 + round(66 * i / max(1, n - 1)) if n > 1 else 100
         steg += (f'<li style="--h:{h}%"><div class="etr-pelare"><span class="etr-nr">{i + 1:02d}</span>{_tal(x, "etr-tal")}'
                  f'<span class="etr-et">{E(x["etikett"])}</span></div></li>')
     return (f'<section class="ev sek etr-sek {s.bg("siffror")}" aria-labelledby="si-h"><div class="wrap etr">'

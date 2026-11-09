@@ -227,7 +227,7 @@ def projekt_index(s):
         st, pag = status_for(x)
         reg += f'<li><a href="#jpi-{i}"><span>{i + 1:02d}</span>{E(x["namn"])}</a></li>'
         bild = s.bilder.ta(x["tagg"])
-        kort += (f'<li class="jpi-kort reveal" id="jpi-{i}"><a href="projekt.html"><div class="jpi-foto">{s.bilder.img(bild, "(min-width:960px) 58vw, 100vw", lazy=i > 0)}'
+        kort += (f'<li class="jpi-kort reveal" id="jpi-{i}"><a href="projekt.html"><div class="jpi-foto">{s.bilder.img(bild, "(min-width:960px) 58vw, 100vw", lazy=i > 0).replace('decoding="async"', 'decoding="sync"')}'
                  f'<span class="status{" pagaende" if pag else ""}">{E(st)}</span><span class="jpi-stornr" aria-hidden="true">{i + 1:02d}</span></div>'
                  f'<div class="jpi-text"><h3>{E(x["namn"])}</h3><p>{E(x["text"])}</p><dl><div><dt>{E(s.T("proj_kol")[1])}</dt><dd>{E(x["ort"])}</dd></div>'
                  f'<div><dt>{E(s.T("proj_kol")[2])}</dt><dd>{E(x["typ"])}</dd></div><div><dt>{E(s.T("proj_kol")[4])}</dt><dd>{E(x["ar"])}</dd></div></dl></div></a></li>')

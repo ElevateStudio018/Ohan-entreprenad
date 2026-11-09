@@ -72,8 +72,8 @@ def snabb_bento(s):
     sn = genvagar(s)
     a = ""
     for i, (ik, t, h) in enumerate(sn):
-        a += (f'<a class="hsb-ruta" href="{s.u(h)}"><span class="hsb-topp">{ikon(ik, "ik hsb-ik")}<span class="hsb-nr">{i + 1:02d}</span></span>'
-              f'{ikon(ik, "hsb-bak") if i == 0 else ""}<span class="hsb-fot"><b>{E(t)}</b><span class="hsb-pil">{PIL}</span></span></a>')
+        a += (f'<a class="hsb-ruta" href="{s.u(h)}"><span class="hsb-topp">{ikon(ik, "ik hsb-ik")}<span class="hsb-pil">{PIL}</span></span>'
+              f'{ikon(ik, "hsb-bak") if i == 0 else ""}<span class="hsb-fot"><span class="hsb-nr">{i + 1:02d}</span><b>{E(t)}</b></span></a>')
     return f'''<section class="sek sek-tat {s.bg("snabb")}" aria-label="{E(s.T("genvagar_etikett"))}"><div class="wrap hv">
   <nav class="hsb n{len(sn)}" aria-label="{E(s.T("genvagar_etikett"))}">{a}</nav></div></section>'''
 
@@ -81,10 +81,8 @@ def snabb_bento(s):
 @variant("snabb", "h-ord")
 def snabb_ord(s):
     sn = genvagar(s)
-    delar = []
-    for i, (_, t, h) in enumerate(sn):
-        delar.append(f'<a href="{s.u(h)}"><sup>{i + 1:02d}</sup><span>{E(t)}</span>{PIL}</a>')
-    ord_ = '<span class="hso-sep" aria-hidden="true">/</span>'.join(delar)
+    sep = '<span class="hso-sep" aria-hidden="true">/</span>'
+    ord_ = " ".join(f'<a href="{s.u(h)}"><sup>{i + 1:02d}</sup><span>{E(t)}</span>{PIL}</a>{sep if i < len(sn) - 1 else ""}' for i, (_, t, h) in enumerate(sn))
     return f'''<section class="sek sek-tat {s.bg("snabb")}" aria-labelledby="hso-h"><div class="wrap hv hso">
   <div class="hso-topp"><span class="etikett" id="hso-h">{E(s.T("genvagar_etikett"))}</span><span class="hso-antal" aria-hidden="true">{len(sn):02d}</span></div>
   <nav class="hso-ord" aria-labelledby="hso-h">{ord_}</nav></div></section>'''

@@ -72,7 +72,7 @@ def tidslinje_ordbild(s):
     li = "".join(f'<li class="ito-post reveal"><b class="ito-ar">{E(a)}</b><p>{E(t)}</p></li>' for a, t in tl)
     return f'''<section class="sek {s.bg("tidslinje")}" aria-labelledby="ito-h"><div class="wrap iv ito">
   <div class="ito-topp"><div><span class="etikett">{E(et)}</span><h2 id="ito-h">{E(rub)}</h2></div>{_ingress(text, "ito-ingress")}</div>
-  <p class="ito-ord" aria-hidden="true" style="--l:{max(len(ord_), 4)}"><span class="ito-kontur">{E(forst)}</span>{f'<span class="ito-streck">–</span><span class="ito-fylld">{E(sist)}</span>' if forst != sist else ""}</p>
+  <p class="ito-ord" aria-hidden="true" style="--l:{max(len(ord_), 4)}"><span class="ito-kontur">{E(forst)}</span>{f'<span class="ito-streck"></span><span class="ito-fylld">{E(sist)}</span>' if forst != sist else ""}</p>
   <ol class="ito-spalter">{li}</ol></div></section>'''
 
 
@@ -99,7 +99,7 @@ def kontor_nav(s):
         v = -math.pi / 2 + 2 * math.pi * i / m
         x, y = 50 + 39 * math.cos(v), 50 + 39 * math.sin(v)
         linjer += f'<line x1="50" y1="50" x2="{x:.2f}" y2="{y:.2f}"/>'
-        sida = "h" if x > 56 else ("v" if x < 44 else "m")
+        sida = "h" if x > 56 else ("v" if x < 44 else ("o" if y < 50 else "u"))
         noder += (f'<li class="ikn-nod ikn-{sida}" style="left:{x:.2f}%;top:{y:.2f}%"><span class="ikn-punkt">{i + 2}</span>'
                   f'<span class="ikn-ort">{E(ort.split(",")[0])}</span></li>')
     karta = (f'<div class="ikn-karta" aria-hidden="true"><svg class="ikn-svg" viewBox="0 0 100 100" preserveAspectRatio="none">'
@@ -107,7 +107,7 @@ def kontor_nav(s):
              f'<div class="ikn-hq"><span class="ikn-hq-nr">1</span><b>{E(hq[0].split(",")[0])}</b><small>{E(hq[1] or "Huvudkontor")}</small></div>'
              f'<ul class="ikn-noder">{noder}</ul></div>')
     li = "".join(f'<li class="ikn-rad{" ikn-forsta" if i == 0 else ""}"><span class="ikn-nr">{i + 1}</span><div><h3>{E(ort)}{f"""<small>{E(roll)}</small>""" if roll else ""}</h3>'
-                 f'<p>{E(a)}</p></div></li>' for i, (ort, roll, a) in enumerate(rader))
+                 f'<p>{_nb(a)}</p></div></li>' for i, (ort, roll, a) in enumerate(rader))
     return f'''<section class="sek {s.bg("kontor")}" aria-labelledby="ikn-h"><div class="wrap iv ikn">
   {s.huvud(et, rub, "ikn-h", _ingress(text, "ikn-ingress"))}
   <div class="ikn-grid">{karta}<ol class="ikn-lista">{li}</ol></div></div></section>'''
@@ -119,10 +119,10 @@ def kontor_tavla(s):
     rader, et, rub, text = _ko(s)
     k = s.b["kontakt"]
     li = "".join(f'<li class="ikt-rad"><span class="ikt-plats">{i + 1:02d}</span><b class="ikt-ort">{E(ort)}</b>'
-                 f'<span class="ikt-roll">{E(roll) if roll else ""}</span><p class="ikt-text">{E(a)}</p></li>' for i, (ort, roll, a) in enumerate(rader))
+                 f'<span class="ikt-roll">{E(roll) if roll else ""}</span><p class="ikt-text">{_nb(a)}</p></li>' for i, (ort, roll, a) in enumerate(rader))
     return f'''<section class="sek {s.bg("kontor")}" aria-labelledby="ikt-h"><div class="wrap iv ikt">
   {s.huvud(et, rub, "ikt-h", _ingress(text, "ikt-ingress"))}
-  <div class="ikt-tavla reveal"><div class="ikt-topp"><span><i class="ikt-lampa" aria-hidden="true"></i>{len(rader)} orter</span><span class="ikt-kol" aria-hidden="true">Ort</span><span class="ikt-kol ikt-kol-text" aria-hidden="true">Verksamhet</span></div>
+  <div class="ikt-tavla reveal"><div class="ikt-topp"><span class="ikt-kol" aria-hidden="true">Nr</span><span class="ikt-kol" aria-hidden="true">Ort</span><span class="ikt-sista"><span class="ikt-kol" aria-hidden="true">Verksamhet</span><span class="ikt-antal"><i class="ikt-lampa" aria-hidden="true"></i>{len(rader)} orter</span></span></div>
   <ol class="ikt-lista">{li}</ol>
   <div class="ikt-fot"><a href="tel:{_tel(k["telefon"])}">{ikon("telefon")}<span>{E(k["telefon"])}</span></a>{s.textlank(s.T("kontakt_knapp"), "om-oss.html#kontakt")}</div></div></div></section>'''
 
@@ -131,8 +131,8 @@ def kontor_tavla(s):
 def kontor_ordvagg(s):
     """Orterna som en stor typografisk vägg med fotnotsnummer; beskrivningarna som fotnoter i spalter under."""
     rader, et, rub, text = _ko(s)
-    ord_ = "".join(f'<span class="iko-ord{" iko-hq" if i == 0 else ""}">{E(ort)}<sup>{i + 1}</sup></span>' for i, (ort, _, _) in enumerate(rader))
-    li = "".join(f'<li class="reveal"><span class="iko-nr">{i + 1}</span><div><b>{E(ort)}</b>{f"""<em>{E(roll)}</em>""" if roll else ""}<p>{E(a)}</p></div></li>'
+    ord_ = ' <span class="iko-sep" aria-hidden="true">/</span> '.join(f'<span class="iko-ord{" iko-hq" if i == 0 else ""}">{E(ort)}<sup>{i + 1}</sup></span>' for i, (ort, _, _) in enumerate(rader))
+    li = "".join(f'<li class="reveal"><span class="iko-nr">{i + 1}</span><div><b>{E(ort)}</b>{f"""<em>{E(roll)}</em>""" if roll else ""}<p>{_nb(a)}</p></div></li>'
                  for i, (ort, roll, a) in enumerate(rader))
     return f'''<section class="sek {s.bg("kontor")}" aria-labelledby="iko-h"><div class="wrap iv iko">
   <div class="iko-topp"><span class="etikett">{E(et)}</span><h2 id="iko-h">{E(rub)}</h2></div>
@@ -164,8 +164,8 @@ def priser_dragspel(s):
         pkt = "".join(f'<li>{BOCK.format(c="ipd-bock")}<span>{E(p)}</span></li>' for p in x.get("punkter", []))
         flagga = f'<span class="ipd-flagga">{E(s.T("priser_utvald"))}</span>' if utv else ""
         rad += (f'<details class="ipd-paket{" utv" if utv else ""}"{" open" if i == u else ""}><summary><span class="ipd-nr" aria-hidden="true">{i + 1:02d}</span>'
-                f'<span class="ipd-namn">{E(x["namn"])}{flagga}</span><span class="ipd-pris">{_nb(x["pris"])}</span><span class="ipd-tecken" aria-hidden="true"></span></summary>'
-                f'<div class="ipd-inne"><div class="ipd-info"><p class="ipd-text">{E(x.get("text", ""))}</p><p class="ipd-enhet">{E(x.get("enhet", ""))}</p></div>'
+                f'<span class="ipd-namn">{E(x["namn"])}{flagga}</span><span class="ipd-pris">{_nb(x["pris"])}<small>{E(x.get("enhet", ""))}</small></span><span class="ipd-tecken" aria-hidden="true"></span></summary>'
+                f'<div class="ipd-inne"><div class="ipd-info"><p class="ipd-text">{E(x.get("text", ""))}</p></div>'
                 f'<ul class="ipd-punkter">{pkt}</ul><div class="ipd-kop">{s.knapp(s.T("priser_knapp"), "om-oss.html#kontakt", "primar" if utv else "kontur")}</div></div></details>')
     return f'''<section class="sek {s.bg("priser")}" aria-labelledby="ipd-h"><div class="wrap iv ipd">
   <div class="ipd-huvud"><span class="etikett">{E(et)}</span><h2 id="ipd-h">{E(rub)}</h2><p class="ipd-not">{E(noten)}</p>
@@ -237,7 +237,7 @@ def priser_huvudpaket(s):
                 f'<a class="iph-rlank" href="om-oss.html#kontakt" aria-label="{E(s.T("priser_knapp"))}: {E(y["namn"])}"><span>{E(s.T("priser_knapp"))}</span>{PIL}</a></li>')
     return f'''<section class="sek {s.bg("priser")}" aria-labelledby="iph-h"><div class="wrap iv iph">
   {s.huvud(et, rub, "iph-h", s.textlank("Alla priser", "priser.html"))}
-  {stor}{f'<ul class="iph-ovr">{ovr}</ul>' if ovr else ""}<p class="iph-not">{E(noten)}</p></div></section>'''
+  {stor}{f'<p class="iph-etikett">Fler alternativ</p><ul class="iph-ovr">{ovr}</ul>' if ovr else ""}<p class="iph-not">{E(noten)}</p></div></section>'''
 
 
 # --- Frågor och svar ------------------------------------------------------------------------------------------------
@@ -269,8 +269,10 @@ def faq_fokus(s):
 def faq_bento(s):
     """Murverk av frågekort i olika ytor (färg, ton, mörk) med stora frågetecken; rubrikkortet ingår i murverket."""
     fq, et, rub, text = _fq(s)
-    toner = ["ifb-ljus", "ifb-farg", "ifb-ton", "ifb-ljus", "ifb-mork", "ifb-ton", "ifb-ljus", "ifb-farg"]
-    li = "".join(f'<li class="ifb-kort {toner[i % len(toner)]} reveal"><span class="ifb-tecken" aria-hidden="true">?</span><h3>{E(q)}</h3><p>{E(a)}</p></li>'
+    toner = ["ifb-farg", "ifb-ljus", "ifb-ton", "ifb-ljus", "ifb-mork", "ifb-ton", "ifb-ljus", "ifb-farg"]
+    rest = (len(fq) + 2) % 3
+    sist = {1: " ifb-s3", 2: " ifb-s2"}.get(rest, "")
+    li = "".join(f'<li class="ifb-kort {toner[i % len(toner)]}{sist if i == len(fq) - 1 else ""} reveal"><span class="ifb-tecken" aria-hidden="true">?</span><h3>{E(q)}</h3><p>{E(a)}</p></li>'
                  for i, (q, a) in enumerate(fq))
     forsta = (f'<li class="ifb-kort ifb-rubrik"><span class="etikett">{E(et)}</span><h2 id="ifb-h">{E(rub)}</h2><p class="ifb-hjalp">{E(text)}</p>'
               f'<div class="knappar">{s.knapp(s.T("kontakt_knapp"), "om-oss.html#kontakt")}{_faq_lank(s)}</div></li>')
@@ -281,7 +283,7 @@ def faq_bento(s):
 @variant("faq", "i-samtal")
 def faq_samtal(s):
     """Frågor och svar som ett samtal: besökarens fråga i en färgad bubbla till höger, företagets svar till vänster."""
-    fq, et, rub, text = _fq(s, 6)
+    fq, et, rub, text = _fq(s, 5)
     initial = E((s.b.get("kortnamn") or s.b["namn"])[:1].upper())
     k = s.b["kontakt"]
     rad = ""
@@ -309,7 +311,7 @@ def _ga(s):
 @variant("galleri", "i-kollage")
 def galleri_kollage(s):
     """Polaroidkollage: bilder i vita ramar med bildtext, lätt roterade och överlappande; rätas upp vid hover."""
-    bilder = _gb(s, 6)
+    bilder = _gb(s, 7)
     et, rub = _ga(s)
     li = "".join(f'<li class="igk-foto igk-{i} reveal"><figure><div class="igk-bild">{s.bilder.img(x, "(min-width:960px) 30vw, 46vw")}</div>'
                  f'<figcaption>{E(x["alt"])}</figcaption></figure></li>' for i, x in enumerate(bilder))

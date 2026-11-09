@@ -188,8 +188,7 @@ def nyheter_f_dragspel(s):
                   f'<div class="fnd-inne"><div class="fnd-foto">{s.bilder.img(bild, "(min-width:900px) 360px, 100vw")}</div>'
                   f'<div class="fnd-text">{f"<p>{_nb(ing)}</p>" if ing else ""}{s.textlank(s.T("las_mer"), "om-oss.html#press")}</div></div></details>')
     return f'''<section class="sek {s.bg("nyheter")}" aria-labelledby="fnd-h"><div class="wrap fv fnd">
-  <div class="fnd-huvud"><span class="etikett">{E(s.T("ny_etikett"))}</span><h2 id="fnd-h">{E(s.T("ny_rubrik"))}</h2>
-    <div class="knappar">{s.textlank(s.T("ny_lank"), "om-oss.html#press")}</div></div>
+  {_ny_huvud(s, "fnd-h", "ny_etikett", "ny_rubrik")}
   <div class="fnd-lista">{rader}</div></div></section>'''
 
 
@@ -295,7 +294,7 @@ def berattelser_f_trappa(s):
 # PROJEKT
 # ===================================================================================================================
 # Positioner (x %, y %) på den stiliserade kartan, spridda så att nålarna inte krockar.
-KARTPLATS = [(22, 30), (64, 22), (44, 56), (80, 60), (16, 74), (58, 82), (34, 14), (86, 34)]
+KARTPLATS = [(22, 30), (64, 22), (44, 56), (80, 60), (16, 74), (58, 82), (34, 14), (84, 44)]
 
 
 @variant("projekt", "f-karta")

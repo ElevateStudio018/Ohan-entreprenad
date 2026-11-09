@@ -105,11 +105,10 @@ def hb_tidning(s):
     fakta = "".join(f'<li><b>{E(a)}</b><span>{E(t)}</span></li>' for a, t in hb["mal"])
     return (f'<section class="sek {s.bg("hb")}" aria-labelledby="gtd-h"><div class="wrap">'
             f'<div class="gtd-list"><span>{E(s.T("hb_etikett"))}</span>{s.textlank(s.T("hb_lank"), "hallbarhet.html")}</div>'
-            f'<div class="gtd">'
-            f'<article class="gtd-huvud"><h2 id="gtd-h">{E(hb["rubrik"])}</h2><p class="gtd-spalt">{E(hb["text"])}</p></article>'
-            f'<aside class="gtd-sida"><figure class="gtd-fig"><div class="gtd-foto">{s.bilder.img(bild, "(min-width:960px) 30vw, 100vw")}</div>'
-            f'<figcaption>Illustrationsbild</figcaption></figure>'
-            f'<div class="gtd-fakta"><h3>Fakta</h3><ul>{fakta}</ul></div></aside></div></div></section>')
+            f'<h2 id="gtd-h" class="gtd-rubrik">{E(hb["rubrik"])}</h2>'
+            f'<div class="gtd"><p class="gtd-spalt">{E(hb["text"])}</p>'
+            f'<figure class="gtd-fig"><div class="gtd-foto">{s.bilder.img(bild, "(min-width:960px) 30vw, 100vw")}</div><figcaption>Illustrationsbild</figcaption></figure>'
+            f'<div class="gtd-fakta"><h3>Fakta</h3><ul>{fakta}</ul></div></div></div></section>')
 
 
 # =====================================================================================================================
@@ -215,13 +214,13 @@ def ir_omslag(s):
 # =====================================================================================================================
 @variant("panel", "g-kollage")
 def panel_kollage(s):
-    """Polaroidkollage: tre lutade fotoramar (med orterna som bildtext) bredvid texten och jobben som etiketter."""
+    """Polaroidkollage: tre lutade fotoramar (orterna som bildtext på den översta) bredvid texten och jobben som etiketter."""
     k = s.b["karriar"]
     jobb = _jobb(s)
     orter = list(dict.fromkeys(o for _, o in jobb if o))
     bilder = [s.bilder.ta(s.bt("panel")) for _ in range(3)]
     ramar = "".join(f'<figure class="gkl-ram gkl-r{i + 1}"><div class="gkl-foto">{s.bilder.img(b, "(min-width:960px) 24vw, 60vw")}</div>'
-                    f'<figcaption>{E(orter[i]) if i < len(orter) else "&nbsp;"}</figcaption></figure>' for i, b in enumerate(bilder))
+                    f'<figcaption>{E(" · ".join(orter[:3]) or s.b["kortnamn"]) if i == 2 else "&nbsp;"}</figcaption></figure>' for i, b in enumerate(bilder))
     etik = ""
     if jobb:
         etik = '<ul class="gkl-jobb">' + "".join(f'<li><a href="karriar.html"><b>{E(t)}</b><span>{E(o)}</span></a></li>' for t, o in jobb) + "</ul>"
