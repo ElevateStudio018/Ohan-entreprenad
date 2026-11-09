@@ -45,10 +45,10 @@
     {"rubrik": "Ny turbin i Bergeforsen", "text": "Aggregat 3 producerar åter, med en ny Kaplanturbin som ger 6 procent mer el ur samma vattenföring.", "tagg": "natur"}
   ],
   "nyckeltal": [
-    {"varde": "12,8", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [8.1, 8.6, 9.2, 10.0, 10.9, 11.7, 12.8], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "12,8", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [8.1, 8.6, 9.2, 10.0, 10.9, 11.7, 12.8], "trend_text": "Omsättning per år sedan 2019, miljarder kronor"},
     {"varde": "47", "enhet": "i rad", "etikett": "Revisioner inom tidplan", "trend": [17, 22, 28, 33, 38, 43, 47], "trend_text": "Revisioner i följd utan förlängning"},
     {"varde": "1,4", "enhet": "mSv", "etikett": "Snittdos per tekniker och år", "trend": [2.6, 2.4, 2.1, 1.9, 1.7, 1.5, 1.4], "trend_text": "Genomsnittlig stråldos per år, millisievert"},
-    {"varde": "5 600", "enhet": "", "etikett": "Medarbetare", "trend": [3900, 4100, 4400, 4700, 5000, 5300, 5600], "trend_text": "Medarbetare vid årets slut"}
+    {"varde": "5 600", "enhet": "", "etikett": "Medarbetare", "trend": [3900, 4100, 4400, 4700, 5000, 5300, 5600], "trend_text": "Tekniker och tjänstemän vid årets utgång"}
   ],
   "projekt": [
     {"namn": "Revision Forsmark 2", "ort": "Östhammar", "typ": "Revision", "ar": "2026", "text": "28 dygn med 1 380 tekniker, byte av två huvudcirkulationspumpar och 4 100 provningar.", "tagg": "industri"},
@@ -75,7 +75,7 @@
     "jobb": [["Kärnkraftssvetsare", "Oskarshamn"], ["Strålskyddstekniker", "Östhammar"], ["Säkerhetsanalytiker SMR", "Helsingfors"], ["Generatorlindare", "Sollefteå"]]
   },
   "kultur": "Varje tekniker får stoppa ett arbete han eller hon tycker är osäkert, och ingen chef får ifrågasätta det förrän saken är utredd.",
-  "citat": {"text": "Min pappa var en av de sju som startade bolaget. Han sa att en revision är som ett hjärtstopp med publik – alla vet exakt när den ska vara klar.", "namn": "Lena Hjortsberg", "roll": "Vd och koncernchef", "tagg": "people"},
+  "citat": {"text": "Min pappa var en av de sju som startade bolaget. Han sa att en revision är som ett hjärtstopp med publik – alla vet exakt när den ska vara klar.", "namn": "Lena Hjortsberg", "roll": "Vd, dotter till en av grundarna", "tagg": "people"},
   "omdomen": [
     {"text": "Revisionen blev klar sex timmar före plan. Med ett elpris på vintern hade varje dygn över kostat oss mer än hela pumpbytet.", "namn": "Mats E.", "ort": "Östhammar"},
     {"text": "Fullskalemodellen gjorde skillnad. Teknikerna hade övat pumpbytet fyra gånger innan de gick in i reaktorhuset.", "namn": "Riikka H.", "ort": "Eurajoki"},
@@ -100,7 +100,7 @@
     "lista": "Nasdaq Stockholm Large Cap",
     "kurs": "412,50",
     "forandring": "+2,1 %",
-    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-21"], ["Halvårsrapport 2026", "2026-07-14"], ["Delårsrapport januari–mars 2026", "2026-04-21"], ["Årsredovisning 2025", "2026-03-12"]],
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-21"], ["Delårsrapport januari–juni 2026", "2026-07-14"], ["Delårsrapport januari–mars 2026", "2026-04-21"], ["Årsredovisning 2025", "2026-03-12"]],
     "kalender": [["Bokslutskommuniké 2026", "2027-02-04"], ["Årsstämma i Oskarshamn", "2027-04-15"], ["Delårsrapport januari–mars 2027", "2027-04-20"]]
   },
   "kontor_rubrik": "Vid verken, inte i storstan",

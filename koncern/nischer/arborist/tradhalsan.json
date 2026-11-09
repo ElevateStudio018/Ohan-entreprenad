@@ -1,0 +1,139 @@
+{
+  "profil": "arborist",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Trädhälsan Blekinge AB",
+  "kortnamn": "Trädhälsan",
+  "slug": "tradhalsan",
+  "typ": "Trädhälsa och rotzonsvård i Blekinge",
+  "tagline": "Diagnos före motorsåg",
+  "slogan": "När en bok tappar löven i juli eller en ek får glesa toppar tar vi reda på varför – och behandlar marken innan vi rör sågen.",
+  "hero_rubrik": "Sjuka träd behöver diagnos, inte motorsåg",
+  "hero_text": "Fyra arborister i Ronneby med luftspade, markprovtagning och biokol. Vi undersöker och behandlar bokar, ekar och almar i Blekinges trädgårdar och parker.",
+  "intro_rubrik": "Det mesta som dödar ett träd sitter i marken",
+  "om": [
+    "Trädhälsan startades 2020 av Sofia Nilsson-Brandt och Ali Hassan. Sofia är jägmästare och arborist och skrev sitt examensarbete om rotröta hos bok. Ali arbetade tidigare med markanläggning i Karlskrona och vet hur grävmaskiner och packad jord tar livet av träd. Kontoret och lagret ligger på Kallingevägen i Ronneby.",
+    "Blekinge har några av Sveriges tätaste bokskogar och många ekar på gamla gårdstomter. När sådana träd blir sjuka beror det oftast på marken: kompakterad jord efter ett bygge, asfalt över rötterna eller svampangrepp som gynnas av torka. Vi blåser fram rötterna med luftspade utan att skada dem, luckrar jorden och blandar in biokol och kompost. Ett träd som räddas på det sättet kan stå i femtio år till."
+  ],
+  "vagval_rubrik": "Hur mår ditt träd?",
+  "tjanster": [
+    {"titel": "Trädhälsodiagnos", "ikon": "sok", "href": "verksamhet.html", "text": "Vi undersöker krona, stam och rötter och tar prover när det behövs."},
+    {"titel": "Luftspade", "ikon": "vind", "href": "verksamhet.html", "text": "Rötterna friläggs med tryckluft utan att finrötterna skadas."},
+    {"titel": "Biokol och kompost", "ikon": "lov", "href": "verksamhet.html", "text": "Jorden luckras och berikas med biokol, kompost och mykorrhiza."},
+    {"titel": "Svampangrepp", "ikon": "hjarta", "href": "verksamhet.html", "text": "Bedömning av honungsskivling, Phytophthora och andra rotsvampar."},
+    {"titel": "Askskottsjuka och almsjuka", "ikon": "trad", "href": "verksamhet.html", "text": "Vilka askar och almar kan räddas, och vilka bör fällas?"},
+    {"titel": "Trädskydd vid bygge", "ikon": "hjalm", "href": "verksamhet.html", "text": "Rotskydd, körplattor och tillsyn när det grävs nära ett träd."},
+    {"titel": "Behandling och pris", "ikon": "dokument", "href": "priser.html", "text": "Fasta paket för diagnos och behandling."},
+    {"titel": "Skicka bilder", "ikon": "kamera", "href": "om-oss.html#kontakt", "text": "Bilder på kronan och stambasen räcker för ett första svar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Diagnos", "text": "Glesa kronor, döda toppar eller svamp vid stambasen kan ha tio olika orsaker. Vi undersöker trädet, tar jord- och vävnadsprover och skickar dem vid behov till ett växtpatologiskt laboratorium.", "text2": "Du får ett skriftligt utlåtande med orsak, prognos och åtgärdsförslag.", "tagg": "trad"},
+    {"titel": "Rotzonsvård", "text": "Med luftspade blåser vi bort packad jord runt rötterna och fyller tillbaka med en blandning av biokol, kompost och sand. Rötterna får syre och vatten utan att en enda rot kapas.", "text2": "Ofta syns effekten i kronan redan andra sommaren.", "tagg": "mark"},
+    {"titel": "Askar och almar", "text": "Askskottsjukan och almsjukan har tagit många träd i Blekinge, men alla angripna askar dör inte. Vi bedömer vilka som har motståndskraft och kan sparas, och fäller dem som utgör en risk.", "text2": "Motståndskraftiga askar är viktiga för framtida återväxt och bör få stå kvar om de är säkra.", "tagg": "arborist"},
+    {"titel": "När det byggs nära träd", "text": "En grävmaskin som kör över rotzonen tre gånger kan döda en hundraårig ek på fem år. Vi sätter upp rotskydd, lägger körplattor och är på plats när det schaktas.", "text2": "Villaägare som ska bygga ut får en enkel trädskyddsplan före bygglovet.", "tagg": "tradgard"}
+  ],
+  "bolag": [
+    {"namn": "Sofia Nilsson-Brandt", "segment": "Grundare, jägmästare och ETW", "rubrik": "Skrev om bokens rötter", "text": "Sofia ställer diagnoserna och skriver utlåtandena.", "tagg": "trad"},
+    {"namn": "Ali Hassan", "segment": "Grundare, rotzonsspecialist", "rubrik": "Från markanläggning till markvård", "text": "Ali kör luftspaden och planerar varje rotzonsbehandling.", "tagg": "mark"},
+    {"namn": "Klara Ståhl", "segment": "Arborist", "rubrik": "Klättrar och beskär", "text": "Klara tar bort döda grenar och lättar kronan på träd som behandlas.", "tagg": "arborist"},
+    {"namn": "Jesper Nord", "segment": "Arborist, säsong", "rubrik": "Askar och almar", "text": "Jesper bedömer askskottsjuka under sommaren och fäller det som inte går att rädda.", "tagg": "tradgard"}
+  ],
+  "berattelser": [
+    {"rubrik": "Boken i Bräkne-Hoby fick nytt liv", "text": "Efter två säsonger med rotzonsvård har kronan gått från 40 till 75 procents bladmassa.", "tagg": "trad"},
+    {"rubrik": "Tolv askar sparade i Johannishus", "text": "Vid en inventering visade tolv av 60 askar inga tecken på angrepp.", "tagg": "arborist"},
+    {"rubrik": "Biokol från Blekinge", "text": "Vi köper nu biokol från en pyrolysanläggning i Karlshamn i stället för importerad.", "tagg": "mark"}
+  ],
+  "nyckeltal": [
+    {"varde": "70 %", "enhet": "", "etikett": "Behandlade träd som återhämtat sig"},
+    {"varde": "2020", "enhet": "", "etikett": "Första luftspaden i Ronneby"},
+    {"varde": "4", "enhet": "arborister", "etikett": "Diagnos och behandling"},
+    {"varde": "2", "enhet": "säsonger", "etikett": "Innan effekten syns"}
+  ],
+  "projekt": [
+    {"namn": "Bok på gårdstomt", "ort": "Bräkne-Hoby", "typ": "Rotzonsvård", "ar": "2026", "text": "Andra behandlingen av en 160 år gammal bok med packad jord efter ett garagebygge.", "tagg": "trad"},
+    {"namn": "Askarna vid godset", "ort": "Johannishus", "typ": "Askinventering", "ar": "2026", "text": "Sextio askar bedömda – tolv sparade och arton fällda.", "tagg": "arborist"},
+    {"namn": "Ek i villaträdgård", "ort": "Karlskrona", "typ": "Diagnos och behandling", "ar": "2025", "text": "Honungsskivling påvisad, rotzonen luckrad och kronan lättad.", "tagg": "mark"},
+    {"namn": "Parkens bokar", "ort": "Ronneby", "typ": "Trädskydd vid ombyggnad", "ar": "2025", "text": "Rotskydd och tillsyn för sex bokar när gångvägarna byggdes om.", "tagg": "tradgard"},
+    {"namn": "Almen vid prästgården", "ort": "Sölvesborg", "typ": "Almsjuka", "ar": "2025", "text": "Trädet gick inte att rädda och virket kördes till förbränning för att stoppa spridningen.", "tagg": "ved"},
+    {"namn": "Villa i Karlshamn", "ort": "Karlshamn", "typ": "Rotzonsvård", "ar": "2026", "text": "Behandling av två ekar planerad till november.", "tagg": "mark", "status": "Bokat"}
+  ],
+  "process": [
+    {"titel": "Bilder och historik", "text": "Skicka bilder och berätta vad som har hänt runt trädet de senaste tio åren – byggen, dränering, asfalt.", "tagg": "tradgard"},
+    {"titel": "Undersökning", "text": "Vi undersöker trädet på plats, gräver provgropar med luftspade och tar prover vid behov.", "tagg": "trad"},
+    {"titel": "Utlåtande och plan", "text": "Du får diagnos, prognos och en behandlingsplan med fast pris inom två veckor.", "tagg": "arborist"},
+    {"titel": "Behandling och uppföljning", "text": "Rotzonsvården görs vår eller höst. Vi återkommer varje sommar i två år och fotograferar kronan.", "tagg": "mark"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett räddat träd slår alltid ett nyplanterat",
+    "text": "Ett hundraårigt träd binder mer kol, ger mer skugga och hyser fler arter än tio nyplanterade. Därför försöker vi alltid behandla först, och vi använder bara biokol och kompost från svenska råvaror.",
+    "mal": [["70 %", "av behandlade träd har återhämtat sig"], ["100 %", "svensk biokol och kompost"], ["0", "kemiska bekämpningsmedel"]]
+  },
+  "karriar": {
+    "rubrik": "Intresserad av träd under jord?",
+    "text": "Vi söker en arborist som vill lära sig rotzonsvård och diagnos. Du arbetar med luftspade och provtagning, och vi betalar ISA-certifieringen.",
+    "jobb": [["Arborist, diagnos och rotzonsvård", "Ronneby"]]
+  },
+  "kultur": "Varje diagnos diskuteras av minst två av oss innan utlåtandet skickas.",
+  "citat": {"text": "De flesta vill fälla ett träd som ser sjukt ut. Men ofta är det marken som är sjuk, och den går att laga.", "namn": "Sofia Nilsson-Brandt", "roll": "Grundare", "tagg": "trad"},
+  "omdomen": [
+    {"text": "Boken tappade löven i juli varje år efter garagebygget. Två säsonger senare är kronan tät igen.", "namn": "Ingemar P.", "ort": "Bräkne-Hoby"},
+    {"text": "Utlåtandet förklarade exakt varför eken mådde dåligt. Ingen annan hade ens tittat på marken.", "namn": "Helena R.", "ort": "Karlskrona"},
+    {"text": "Vi trodde att alla askar på godset var förlorade. Tolv av dem står kvar och är friska.", "namn": "Carl-Johan A., godsförvaltare", "ort": "Johannishus"}
+  ],
+  "faq": [
+    ["Hur vet man att ett träd är sjukt?", "Glesa kronor, små blad, döda toppar, svamp vid stambasen eller sav som rinner från barken är vanliga tecken. Skicka bilder så gör vi en första bedömning."],
+    ["Vad är en luftspade?", "Ett verktyg som blåser bort jord med tryckluft i mycket hög hastighet. Jorden flyttas men rötterna skadas inte, eftersom de är för sega för luftstrålen."],
+    ["Hjälper biokol verkligen?", "Biokol håller vatten och näring och ger plats åt markens mikroliv. Tillsammans med kompost och luckring ger det mätbart bättre rottillväxt."],
+    ["Kan alla träd räddas?", "Nej. Ett träd med långt gången rotröta eller almsjuka går inte att rädda. Då säger vi det direkt och föreslår fällning."],
+    ["Vilka delar av behandlingen ger RUT?", "Arbetet i din trädgård ger RUT, men inte diagnosen, provtagningen eller materialet."],
+    ["När är rätt tid för behandling?", "Vår och höst, när marken är fuktig men inte frusen. Diagnos kan göras under hela växtsäsongen."],
+    ["Är askskottsjuka farlig för människor?", "Nej, men angripna askar blir spröda och kan tappa grenar. De som står nära hus och vägar bör bedömas."]
+  ],
+  "priser": [
+    {"namn": "Trädhälsodiagnos", "pris": "3 900 kr", "enhet": "första trädet", "text": "Undersökning på plats med skriftligt utlåtande.", "punkter": ["Provgropar med luftspade", "Jord- och vävnadsprov vid behov", "Utlåtande inom två veckor", "Avräknas vid behandling"]},
+    {"namn": "Rotzonsvård", "pris": "fr. 11 500 kr", "enhet": "per träd, före RUT", "text": "Luckring och jordförbättring runt ett stort träd.", "punkter": ["Luftspade i hela rotzonen", "Biokol, kompost och mykorrhiza", "Lättare beskärning av kronan", "Uppföljning två somrar"], "utvald": true},
+    {"namn": "Askbedömning", "pris": "fr. 4 800 kr", "enhet": "upp till 20 askar", "text": "Vilka askar kan sparas och vilka bör fällas?", "punkter": ["Bedömning av varje träd", "Märkning med färgband", "Karta och lista", "Förslag på fällning eller sparande"]}
+  ],
+  "prislista": [
+    ["Arborist, per påbörjad timme", "740 kr/tim"],
+    ["Luftspade med operatör", "1 350 kr/tim"],
+    ["Laboratorieanalys, per prov", "fr. 1 600 kr"],
+    ["Biokol, per 100 liter", "690 kr"],
+    ["Trädskyddsplan vid bygge", "fr. 5 500 kr"],
+    ["Tillsyn vid schaktning", "850 kr/tim"],
+    ["Fällning av sjukt träd upp till 15 m", "fr. 6 400 kr"]
+  ],
+  "certifikat": [
+    {"titel": "Jägmästare och ETW", "text": "Sofia är jägmästarutbildad vid SLU och certifierad European Tree Worker.", "ikon": "skola"},
+    {"titel": "ISA-certifierad sedan 2022", "text": "Ali är ISA Certified Arborist med inriktning på trädskydd vid byggen.", "ikon": "stjarna"},
+    {"titel": "Utbildade i luftspade", "text": "Alla har tillverkarens utbildning i säker hantering av luftspade och kompressor.", "ikon": "vind"},
+    {"titel": "Rådgivning och utförande försäkrat", "text": "Konsult- och ansvarsförsäkring på 10 Mkr.", "ikon": "las"}
+  ],
+  "galleri_taggar": ["trad", "mark", "arborist", "tradgard"],
+  "nyheter": [
+    ["2026-10-05", "Därför tappar bokarna löven tidigt", "Torra somrar och packad jord – och vad du kan göra redan i höst.", "trad"],
+    ["2026-07-28", "Askar som klarar sig", "Så känner du igen en ask som kan vara motståndskraftig mot askskottsjuka.", "arborist"],
+    ["2026-04-21", "Bygga nära ett gammalt träd?", "Fem saker att göra innan grävmaskinen kommer.", "mark"]
+  ],
+  "kontakt": {"adress": "Kallingevägen 27", "postnr": "372 38", "ort": "Ronneby", "telefon": "070-174 06 61", "epost": "diagnos@tradhalsan.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–16",
+  "omrade": "Blekinge och sydöstra Småland",
+  "fot_cta": "Ser trädet sjukt ut? Skicka bilder på kronan och stambasen innan du bestämmer dig.",
+  "bild": {"panel": "mark", "hb": "trad"},
+  "text": {
+    "kontakt_knapp": "Skicka bilder",
+    "hero_knapp": "Så behandlar vi",
+    "ber_rubrik": "Träd på bättringsvägen",
+    "proj_rubrik": "Träd vi har undersökt och behandlat",
+    "process_rubrik": "Från symptom till behandling",
+    "hb_etikett": "Markvård",
+    "omdomen_rubrik": "Träd som fick en ny chans",
+    "faq_rubrik": "Frågor om sjuka träd",
+    "priser_rubrik": "Diagnos och behandling",
+    "galleri_rubrik": "Rötter, luftspade och kronor",
+    "boka_rubrik": "Berätta hur trädet mår",
+    "boka_text": "Beskriv vad du har sett, när det började och om något har byggts eller grävts nära trädet.",
+    "bolag_rubrik": "Arboristerna med spaden",
+    "certifikat_rubrik": "Utbildade i trädets biologi",
+    "sida_bolag_ingress": "Fyra arborister i Ronneby, varav en jägmästare."
+  }
+}

@@ -46,7 +46,7 @@
   ],
   "nyckeltal": [
     {"varde": "1 240", "enhet": "MW", "etikett": "Kapacitet i drift", "trend": [180, 260, 380, 540, 760, 980, 1240], "trend_text": "Installerad IT-kapacitet 2019–2025, MW"},
-    {"varde": "18,6", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [2.9, 4.1, 5.8, 8.3, 11.4, 14.9, 18.6], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "18,6", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [2.9, 4.1, 5.8, 8.3, 11.4, 14.9, 18.6], "trend_text": "Intäkter från hallarna per år, mdr kr"},
     {"varde": "1,09", "enhet": "PUE", "etikett": "Energieffektivitet", "trend": [1.18, 1.16, 1.14, 1.12, 1.11, 1.10, 1.09], "trend_text": "Total energi delad med IT-energi, årsmedel"},
     {"varde": "940", "enhet": "GWh", "etikett": "Spillvärme levererad", "trend": [110, 190, 300, 450, 610, 780, 940], "trend_text": "Värme till fjärrvärmenät per år, GWh"}
   ],
@@ -85,7 +85,7 @@
     ["Varför ligger hallarna i norr?", "Kall luft, förnybar el till lågt pris och ett stabilt elnät. En hall i Luleå använder omkring 30 procent mindre energi än motsvarande hall i Centraleuropa."],
     ["Vad är PUE?", "Power Usage Effectiveness – den totala energin delad med den energi servrarna använder. 1,0 vore perfekt. Vårt snitt för 2025 var 1,09."],
     ["Vem är era kunder?", "Globala molnbolag, nordiska banker, myndigheter, forskningsinstitut och spelföretag. Ingen enskild kund står för mer än 28 procent av hyresintäkterna."],
-    ["Hur långa är avtalen?", "Hela hallar hyrs ut på 12–15 år. Colocation tecknas på 3–5 år med möjlighet att utöka kapaciteten i samma hall."],
+    ["Hur länge binder sig kunderna?", "Hela hallar hyrs ut på 12–15 år. Colocation tecknas på 3–5 år med möjlighet att utöka kapaciteten i samma hall."],
     ["Vad händer om strömmen går?", "Varje hall har två oberoende matningar, batterier för 10 minuter och reservkraftverk på HVO som klarar 48 timmar utan påfyllning."],
     ["Vem äger Gäddvik?", "Grundarna äger tillsammans 14 procent av kapitalet. Största ägare är en nordisk infrastrukturfond med 21 procent."],
     ["Lämnar ni utdelning?", "Inte ännu. Allt kassaflöde återinvesteras i nya hallar enligt styrelsens tillväxtplan fram till 2028."]

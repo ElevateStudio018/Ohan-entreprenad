@@ -24,7 +24,7 @@ def _lank_span(s, text):
 
 def _status(s, x):
     ar = x.get("ar", "")
-    pag = any(w in ar.lower() for w in ("pågående", "nu", "säljstart")) or (ar[:4].isdigit() and int(ar[:4]) >= 2026)
+    pag = any(w in ar.lower() for w in ("pågående", "nu", "säljstart")) or (ar[:4].isdigit() and int(ar[:4]) >= 2027)
     st = x.get("status") or (s.T("status_pagaende") if pag else s.T("status_klart"))
     return st, st == s.T("status_pagaende")
 

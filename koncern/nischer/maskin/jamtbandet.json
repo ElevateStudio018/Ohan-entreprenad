@@ -1,0 +1,134 @@
+{
+  "profil": "nisch",
+  "nisch": "maskin",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Jämtbandet AB",
+  "kortnamn": "Jämtbandet",
+  "slug": "jamtbandet",
+  "typ": "Bandgående maskiner för fjäll och myr",
+  "tagline": "Där vägen tar slut",
+  "slogan": "Vi hyr ut maskiner med breda band och lågt marktryck till stugbyggen, liftsystem och kraftledningar där det inte finns någon väg – och kör dit dem själva.",
+  "hero_rubrik": "Grävaren som tar sig över myren",
+  "hero_text": "Bandgrävare, bandvagnar och bandtransportörer med marktryck under 0,3 kg/cm² för fjällstugor, skidanläggningar och ledningsgator i Jämtland och Härjedalen.",
+  "intro_rubrik": "Sjutton säsonger ovanför trädgränsen",
+  "om": [
+    "Malin Persson var terrängbilsmekaniker på regementet i Östersund tills det lades ned. 2009 köpte hon två bandvagnar på Försvarets utförsäljning, byggde om dem till materialtransportörer och hyrde ut dem till en stugbyggare i Storlien. Året efter kom den första bandgrävaren med myrplattor.",
+    "I dag är vi 16 anställda med 58 maskiner, och alla går på band. Huvuddepån ligger i Lugnvik i Östersund, och under barmarkssäsongen har vi baser i Duved och Funäsdalen. Hälften av uthyrningarna sker med egen förare, eftersom ett jobb på 900 meters höjd kräver någon som kan läsa både marken och vädret."
+  ],
+  "vagval_rubrik": "Hur långt är det till närmaste väg?",
+  "tjanster": [
+    {"titel": "Bandgrävare", "ikon": "hamare", "href": "verksamhet.html", "text": "Grävmaskiner 3–14 ton med extra breda band och myrplattor för blöt mark."},
+    {"titel": "Bandtransportörer", "ikon": "lada", "href": "verksamhet.html", "text": "Bandgående dumprar som bär 3–9 ton över sten, ris och sank terräng."},
+    {"titel": "Bandvagnar", "ikon": "bil", "href": "verksamhet.html", "text": "Ombyggda bandvagnar för personal, virke och borrutrustning året runt."},
+    {"titel": "Borr på band", "ikon": "sten", "href": "verksamhet.html", "text": "Lätta borraggregat för fundament till stugor, master och liftstolpar."},
+    {"titel": "Förare med fjällvana", "ikon": "folk", "href": "verksamhet.html", "text": "Förare som känner lederna, vädret och renarnas flyttvägar."},
+    {"titel": "Markåterställning", "ikon": "trad", "href": "verksamhet.html", "text": "Vi lägger tillbaka torven och sår in med fjällfrö när jobbet är klart."},
+    {"titel": "Transport till vägs ände", "ikon": "vag", "href": "verksamhet.html", "text": "Trailer till sista vändplanen och sedan vidare för egen maskin."},
+    {"titel": "Ring depån i Lugnvik", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Beskriv platsen och marken, så föreslår vi maskin samma dag."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fjällstugor och fritidshus", "text": "De flesta nya stugor i Åre, Vemdalen och Funäsdalen byggs på tomter dit lastbilar inte når. Vi gräver för plintar, drar fram vatten och avlopp och bär in byggmaterialet på band.", "text2": "Med myrplattor sjunker en åttatons bandgrävare inte mer än några centimeter i fjällhed.", "tagg": "mark"},
+    {"titel": "Skidanläggningar och liftar", "text": "Liftstolpar, snökanonledningar och nedfarter byggs under de korta barmarksveckorna mellan juli och september. Vi arbetar i branta lutningar med maskiner som är förankrade i vinsch.", "text2": "Två av våra grävare är specialbyggda för lutningar upp till 35 grader.", "tagg": "natur"},
+    {"titel": "Kraftledning och tele", "text": "Ledningsgator i skogslandet går rakt över myrar och bäckar. Våra bandtransportörer bär stolpar, kabeltrummor och betongfundament utan att det behövs en enda tillfällig väg.", "text2": "Vi har ramavtal med tre nätentreprenörer för röjning och stolpbyten i Jämtlands inland.", "tagg": "infra"},
+    {"titel": "Våtmark och naturvård", "text": "När diken ska läggas igen och myrar återvätas behövs maskiner som inte skadar det man vill rädda. Vi arbetar efter länsstyrelsens anvisningar och dokumenterar varje meter.", "text2": "Hydraulolja och smörjmedel är biologiskt nedbrytbara i alla maskiner.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Depå Lugnvik", "segment": "Östersund, året runt", "rubrik": "Verkstad, kontor och vinterförvaring", "text": "Här servas alla 58 maskiner mellan säsongerna, och här sitter de två som tar emot bokningarna.", "tagg": "maskin"},
+    {"namn": "Fjällbasen Duved", "segment": "Juni–oktober", "rubrik": "Närmast Storlien och Åreskutan", "text": "Sex maskiner och tre förare är stationerade här hela barmarkssäsongen för jobben i västra Jämtland.", "tagg": "natur"},
+    {"namn": "Fjällbasen Funäsdalen", "segment": "Juni–oktober", "rubrik": "Härjedalens fjällvärld", "text": "Basen vid Funäsdalens industriområde täcker Tännäs, Bruksvallarna och Vemdalen.", "tagg": "mark"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fyrtio plintar på Bydalsfjället", "text": "En stugby på tolv hus byggdes utan väg – allt material bars upp 1,4 kilometer på band.", "tagg": "mark"},
+    {"rubrik": "Ny bandgrävare för branta lutningar", "text": "Elva ton, vinschförankrad och med tiltrotator som klarar 35 graders lutning.", "tagg": "maskin"},
+    {"rubrik": "Återvätning i Ljungans dalgång", "text": "Två kilometer diken igenlagda åt länsstyrelsen på fyra veckor, utan synliga körspår.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "0,22", "enhet": "kg/cm²", "etikett": "Lägsta marktryck i parken"},
+    {"varde": "58", "enhet": "maskiner", "etikett": "Samtliga på band"},
+    {"varde": "1 140", "enhet": "m ö.h.", "etikett": "Högst belägna arbetsplatsen 2025"},
+    {"varde": "17", "enhet": "säsonger", "etikett": "Sedan de första bandvagnarna"}
+  ],
+  "projekt": [
+    {"namn": "Stugbyn på Bydalsfjället", "ort": "Bydalen", "typ": "Plintar och materialtransport", "ar": "2025", "text": "Tolv stugor grundlagda med bandgrävare och 380 lass byggmaterial på band.", "tagg": "mark"},
+    {"namn": "Liftstolpar i Vemdalsskalet", "ort": "Vemdalen", "typ": "Fundament i lutning", "ar": "2025", "text": "Nio stolpfundament grävda i 30 graders lutning med vinschförankrad grävare.", "tagg": "natur"},
+    {"namn": "Ledningsgata Hotagen", "ort": "Hotagen", "typ": "Stolpbyte på myr", "ar": "2024", "text": "64 stolpar utbytta över fyra myrar utan en enda tillfällig väg.", "tagg": "infra"},
+    {"namn": "Återvätning Ljungan", "ort": "Åsarna", "typ": "Naturvård", "ar": "2025", "text": "Igenläggning av diken med torv från platsen och dokumentation efter varje dag.", "tagg": "natur"},
+    {"namn": "Fjällstation Storulvån", "ort": "Storlien", "typ": "Avlopp och vatten", "ar": "2024", "text": "Ny avloppsanläggning grävd i fjällhed och återställd med sparad torv.", "tagg": "mark"},
+    {"namn": "Snöfabrik i Ramundberget", "ort": "Funäsdalen", "typ": "Ledningsdragning", "ar": "2026", "text": "Två kilometer snökanonledning läggs i nedfarterna under sensommaren.", "tagg": "maskin", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Karta och markbild", "text": "Skicka koordinater eller en kartbild. Vi kontrollerar markslag, lutning och om platsen ligger i renbetesområde.", "tagg": "natur"},
+    {"titel": "Rekognosering", "text": "Vid större jobb går en förare platsen till fots och väljer körväg innan maskinen kommer.", "tagg": "mark"},
+    {"titel": "Transport till vägs ände", "text": "Maskinen kommer på trailer till sista vändplanen och kör sista biten för egen maskin.", "tagg": "maskin"},
+    {"titel": "Återställning", "text": "Vi lägger tillbaka sparad torv, sår fjällfrö och fotograferar körvägen för beställaren.", "tagg": "natur"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Fjället ska se orört ut efteråt",
+    "text": "Ett körspår i fjällhed kan synas i trettio år. Därför sparar vi torven i sektioner, lägger tillbaka den samma dag när det går och väljer körväg tillsammans med samebyn när vi arbetar i renbetesland. Alla maskiner går på biologiskt nedbrytbar hydraulolja och HVO.",
+    "mal": [["100 %", "biologiskt nedbrytbar hydraulolja"], ["0,3", "kg/cm² högsta marktryck på fjällhed"], ["1", "fotodokumentation per körväg"]]
+  },
+  "karriar": {
+    "rubrik": "Förare som trivs utan väg",
+    "text": "Vi söker dig som har kört grävmaskin några år och vill arbeta där det är tyst. Under säsongen bor förarna i våra stugor i Duved och Funäsdalen, och vintern går åt till service och utbildning i Lugnvik.",
+    "jobb": [["Maskinförare bandgrävare", "Östersund"], ["Säsongsförare juni–oktober", "Funäsdalen"]]
+  },
+  "kultur": "Ingen kör ensam ovanför trädgränsen – förarna har satellittelefon och anmäler sin position varje kväll.",
+  "citat": {"text": "Jag lärde mig på regementet att det inte finns någon terräng man inte tar sig över. Frågan är bara hur den ser ut när man har åkt därifrån.", "namn": "Malin Persson", "roll": "Grundare och vd", "tagg": "natur"},
+  "omdomen": [
+    {"text": "Vi hade räknat med en helikopter för att få upp betongen. Jämtbandet bar upp allt på band på tre dagar och det kostade en femtedel.", "namn": "Per-Olof S.", "ort": "Bydalen"},
+    {"text": "Föraren hade varit på platsen två dagar före oss och visste exakt var marken bar. Inte ett enda spår syntes vid slutbesiktningen.", "namn": "Ingrid M.", "ort": "Åsarna"},
+    {"text": "Grävaren stod förankrad i en vinsch och grävde stolpfundament i en lutning där jag själv knappt kunde stå.", "namn": "Henrik L.", "ort": "Vemdalen"}
+  ],
+  "faq": [
+    ["Behövs tillstånd för att köra i terrängen?", "Ja, på barmark krävs i regel dispens från terrängkörningsförbudet. Vi ansöker hos länsstyrelsen åt dig och bifogar körväg och maskindata."],
+    ["Hur tidigt kan ni börja på våren?", "Det beror på tjälen. På fjällhed börjar vi sällan före mitten av juni, i skogslandet ofta i slutet av maj."],
+    ["Kan jag hyra utan förare?", "Bandgrävare upp till fem ton och bandtransportörer kan hyras utan förare om du har maskinförarbevis. Över trädgränsen skickar vi alltid med en av våra förare."],
+    ["Vad kostar det?", "En åttatons bandgrävare med förare kostar från 1 350 kronor i timmen. Transport till vägs ände debiteras från Lugnvik, Duved eller Funäsdalen beroende på vad som ligger närmast."],
+    ["Hur tar ni hänsyn till rennäringen?", "Vi kontaktar samebyn innan vi planerar körvägen och undviker kalvningsland och flyttleder under känsliga perioder."],
+    ["Vad händer om vädret slår om?", "Förarna har rätt att avbryta vid åska, dimma och kraftig nederbörd. Du betalar inte för timmar då maskinen står still av säkerhetsskäl."]
+  ],
+  "certifikat": [
+    {"titel": "Maskinförarbevis", "text": "Samtliga förare har maskinförarbevis enligt MYN och minst tre års erfarenhet av terrängarbete.", "ikon": "hjalm"},
+    {"titel": "Dispens för terrängkörning", "text": "Vi har vana att söka och följa länsstyrelsens dispenser enligt terrängkörningslagen.", "ikon": "dokument"},
+    {"titel": "Miljöanpassad hydraulolja", "text": "Alla maskiner går på hydraulolja som uppfyller SS 15 54 34 och är biologiskt nedbrytbar.", "ikon": "trad"},
+    {"titel": "ID06 och kollektivavtal", "text": "Personalen har ID06-kort och kollektivavtal genom Byggnads och Maskinentreprenörerna.", "ikon": "folk"}
+  ],
+  "kunder": ["Duveds Fjällstugor", "Vemdalens Liftsystem", "Härjedalens Ledningsbyggare", "Storliens Stugförening", "Bydalens Samfällighet", "Kallsjöns Turistanläggning", "Hotagens Nätentreprenad"],
+  "nyheter": [
+    ["2026-09-28", "Säsongen 2027 går att boka", "Barmarksveckorna i Åre och Funäsdalen fylls redan under vintern.", "natur"],
+    ["2026-06-12", "Elva ton i 35 graders lutning", "Vår nya vinschförankrade grävare är byggd för liftbackar.", "maskin"],
+    ["2025-10-03", "Så sparar du torven vid stugbygget", "Tre enkla steg som gör att tomten ser naturlig ut redan nästa sommar.", "mark"]
+  ],
+  "kontakt": {"adress": "Lugnviksvägen 31", "postnr": "831 52", "ort": "Östersund", "telefon": "070-174 06 07", "epost": "depa@jamtbandet.se", "orgnr": ""},
+  "oppettider": "Lugnvik mån–fre 7–16. Fjällbaserna juni–oktober",
+  "omrade": "Jämtland och Härjedalen, från Storlien till Hotagen",
+  "fot_cta": "Ska du bygga där vägen tar slut? Skicka en kartbild, så berättar vi hur vi tar oss dit.",
+  "bild": {"panel": "natur", "hb": "natur", "sida_om": "mark"},
+  "text": {
+    "hero_knapp": "Maskiner på band",
+    "hero_lank": "Jobb på fjället",
+    "kontakt_knapp": "Skicka kartbild",
+    "vagval_etikett": "Bandmaskiner",
+    "ber_etikett": "Från fjället",
+    "ber_rubrik": "Sommarens jobb ovanför skogen",
+    "proj_etikett": "Fjälljobb",
+    "proj_rubrik": "Platser utan väg dit",
+    "proj_rubrik_lista": "Utförda fjälljobb",
+    "process_etikett": "Arbetsgång",
+    "process_rubrik": "Från kartbild till återställd hed",
+    "hb_etikett": "Fjällmiljö",
+    "hb_lank": "Så återställer vi marken",
+    "omdomen_rubrik": "Stugbyggare och naturvårdare",
+    "faq_rubrik": "Om tjäle, tillstånd och renar",
+    "logos_rubrik": "Har kört på band åt",
+    "certifikat_rubrik": "Behöriga i känslig terräng",
+    "bolag_rubrik": "En depå och två fjällbaser",
+    "meny_bolag": "Baser",
+    "boka_rubrik": "Var ligger platsen?",
+    "boka_text": "Skriv koordinater eller närmaste by, vad som ska göras och när, så ringer en förare upp.",
+    "boka_falt": ["Namn", "Telefon", "Plats eller koordinater", "Jobbet och önskad vecka"],
+    "boka_knapp": "Skicka till depån",
+    "siffror_etikett": "Jämtbandet i siffror",
+    "medarbetare": "Förarna"
+  }
+}

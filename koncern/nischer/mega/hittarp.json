@@ -45,10 +45,10 @@
     {"rubrik": "Ny centralverkstad i Ängelholm", "text": "Verkstaden renoverar 18 000 maskiner om året och förlänger livslängden med i snitt fyra år.", "tagg": "maskin"}
   ],
   "nyckeltal": [
-    {"varde": "14,1", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [8.6, 9.1, 10.2, 11.4, 12.3, 13.2, 14.1], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "14,1", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [8.6, 9.1, 10.2, 11.4, 12.3, 13.2, 14.1], "trend_text": "Hyresintäkter och försäljning per år, mdr kr"},
     {"varde": "412", "enhet": "depåer", "etikett": "I sju länder", "trend": [298, 316, 341, 362, 381, 398, 412], "trend_text": "Antal depåer vid årets slut"},
     {"varde": "97", "enhet": "%", "etikett": "Leverans före kl. 07", "trend": [91, 92, 94, 95, 96, 96, 97], "trend_text": "Andel leveranser på plats före klockan sju"},
-    {"varde": "6 800", "enhet": "", "etikett": "Medarbetare", "trend": [4900, 5100, 5500, 5900, 6200, 6500, 6800], "trend_text": "Medarbetare vid årets slut"}
+    {"varde": "6 800", "enhet": "", "etikett": "Medarbetare", "trend": [4900, 5100, 5500, 5900, 6200, 6500, 6800], "trend_text": "Anställda vid depåer och kontor per år"}
   ],
   "projekt": [
     {"namn": "Kvarteret Varvsstaden", "ort": "Malmö", "typ": "Fossilfri byggarbetsplats", "ar": "2026", "text": "Eldrivna maskiner, batterilager på 4 MWh och väderskydd över tre huskroppar.", "tagg": "el"},
@@ -75,7 +75,7 @@
     "jobb": [["Servicetekniker maskiner", "Helsingborg"], ["Ställningsbyggare", "Oslo"], ["Depåchef", "Tammerfors"], ["Säljare moduler", "Gdańsk"]]
   },
   "kultur": "Depåerna får behålla en del av sitt eget överskott till gemensamma resor och utbildning – i fjol åkte tre depåer på skidresa för vinsten.",
-  "citat": {"text": "Farfar köpte en grävmaskin för att dika och upptäckte att grannarna behövde den mer än han. Vi har 410 000 maskiner nu, men det är samma idé: ingen ska behöva äga det man använder några veckor.", "namn": "Olof Hammar", "roll": "Styrelseordförande", "tagg": "people"},
+  "citat": {"text": "Farfar köpte en grävmaskin för att dika och upptäckte att grannarna behövde den mer än han. Vi har 410 000 maskiner nu, men det är samma idé: ingen ska behöva äga det man använder några veckor.", "namn": "Olof Hammar", "roll": "Ordförande i styrelsen, sonson till grundaren", "tagg": "people"},
   "omdomen": [
     {"text": "Vi beställde åtta saxliftar klockan två en tisdag. De stod på plats före sju dagen efter, laddade och servade.", "namn": "Niklas B.", "ort": "Göteborg"},
     {"text": "Modulskolan var klar på 19 dagar och eleverna har inte märkt skillnad mot en vanlig skola. Hittarp skötte till och med bygglovet.", "namn": "Tone H.", "ort": "Bodø"},
@@ -87,7 +87,7 @@
     ["Vad händer om maskinen går sönder?", "Ring depån. Vi byter maskin eller skickar en servicetekniker inom fyra timmar på vardagar i alla tätorter."],
     ["Behöver jag utbildning för att hyra liftar?", "För skylift krävs liftkort enligt arbetsmiljöföreskrifterna. Vi ordnar utbildningen på depån på en dag."],
     ["Vem äger Hittarp?", "Familjen Hammar äger 24 procent av rösterna. B-aktien handlas på Nasdaq Stockholm Large Cap sedan 2011."],
-    ["Hur mycket delar ni ut?", "Policyn är 40–50 procent av nettoresultatet. Utdelningen för 2025 var 3,90 kronor per aktie."],
+    ["Hur stor är utdelningen per aktie?", "Policyn är 40–50 procent av nettoresultatet. Utdelningen för 2025 var 3,90 kronor per aktie."],
     ["Säljer ni begagnade maskiner?", "Ja. Maskiner som lämnar uthyrningen säljs via vår egen auktionssajt, i regel efter sju till tio år."]
   ],
   "nyheter": [

@@ -1,0 +1,149 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Evedal Energi AB (publ)",
+  "kortnamn": "Evedal",
+  "slug": "evedal",
+  "typ": "Bioenergikoncern med bas i Växjö",
+  "tagline": "Värme, el, minusutsläpp",
+  "slogan": "Evedal eldar skogens restprodukter i kraftvärmeverk, värmer 46 städer och fångar koldioxiden ur röken innan den når atmosfären.",
+  "hero_rubrik": "Fjärrvärmen som tar koldioxid ur luften",
+  "hero_text": "I Växjö och Jönköping fångar vi koldioxiden från biobränslet och lagrar den under Nordsjön. Varje ton räknas som ett negativt utsläpp – 1,2 miljoner ton om året från 2028.",
+  "intro_rubrik": "Grenar, toppar och bark blir värme för 900 000 hem",
+  "om": [
+    "Evedal började 1974 som Växjös kommunala värmeverk vid Evedalsvägen, ett av de första i landet som bytte olja mot flis från sågverken i Kronoberg. Under 1990-talet slogs verket ihop med elva andra kommunala värmebolag i Småland och Halland, och 2009 noterades koncernen.",
+    "Evedal har i dag 5 900 medarbetare, 64 kraftvärmeverk och värmeverk och omsätter 26 miljarder kronor. Vi säljer fjärrvärme i 46 städer, el till nätet, biokol till jordbruket och – som första nordiska energibolag – negativa utsläpp till företag som vill kompensera det de inte kan undvika."
+  ],
+  "vagval_rubrik": "Vilken energi letar ni efter?",
+  "tjanster": [
+    {"titel": "Fjärrvärme", "ikon": "hem", "href": "verksamhet.html", "text": "Värme och varmvatten till 900 000 hem, med prisändringar aviserade ett år i förväg."},
+    {"titel": "Fjärrkyla", "ikon": "vind", "href": "verksamhet.html", "text": "Kyla till sjukhus, kontor och datahallar i tolv städer."},
+    {"titel": "Kraftvärme-el", "ikon": "blixt", "href": "verksamhet.html", "text": "5,4 TWh el om året, producerad när det är som kallast och elen behövs mest."},
+    {"titel": "Bio-CCS", "ikon": "upp", "href": "verksamhet.html", "text": "Avskiljning och lagring av biogen koldioxid – negativa utsläpp med certifikat."},
+    {"titel": "Biokol", "ikon": "skog", "href": "verksamhet.html", "text": "Biokol för jordförbättring, stadsträd och betongtillsats."},
+    {"titel": "Industriånga", "ikon": "fabrik", "href": "verksamhet.html", "text": "Ånga och processvärme till livsmedels-, pappers- och kemiindustri."},
+    {"titel": "Karriär på verken", "ikon": "folk", "href": "karriar.html", "text": "Drifttekniker, kemister och processingenjörer i Småland, Halland och Baltikum."},
+    {"titel": "Aktien EVED", "ikon": "graf", "href": "investerare.html", "text": "Rapporter, kalender och utdelning."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fjärrvärme och kyla", "text": "Vi äger fjärrvärmenäten i 46 städer i Sverige, Lettland och Litauen och sköter dem från fyra driftcentraler. Mer än hälften av värmen kommer från grenar, toppar och bark som annars blir kvar i skogen eller på sågverken.", "text2": "Kundnöjdheten i Fjärrvärmebarometern var 82 av 100 2025, högst bland de stora bolagen.", "tagg": "hem"},
+    {"titel": "Kraftvärme", "text": "Kraftvärmeverken producerar el och värme samtidigt och ger över 90 procent verkningsgrad. Elen produceras mest under vinterns kalla dygn, när vind och sol ger minst.", "text2": "Vi har 2 100 MW eleffekt som kan regleras upp på 15 minuter.", "tagg": "industri"},
+    {"titel": "Koldioxidavskiljning", "text": "Vid kraftvärmeverken i Växjö och Jönköping bygger vi anläggningar som fångar koldioxiden ur rökgaserna, kyler den till vätska och skickar den med tåg och fartyg för lagring under Nordsjön. Eftersom koldioxiden kommer från växande skog blir resultatet negativa utsläpp.", "text2": "Långa avtal om köp av negativa utsläpp har tecknats för 9,2 miljoner ton.", "tagg": "skorsten"},
+    {"titel": "Bränsle och biokol", "text": "Vi köper 11 TWh skogsbränsle om året från 4 000 skogsägare och sågverk inom 15 mils radie från verken. En del pyrolyseras till biokol som binder kol i jorden i hundratals år.", "text2": "Biokolsanläggningen i Alvesta producerar 24 000 ton om året.", "tagg": "ved"}
+  ],
+  "bolag": [
+    {"namn": "Evedal Värme AB", "segment": "Fjärrvärme och kyla", "rubrik": "46 städer, fyra driftcentraler", "text": "Äger och driver fjärrvärme- och fjärrkylenät i Småland, Halland, Blekinge och Östergötland.", "tagg": "hem"},
+    {"namn": "Evedal Kraft AB", "segment": "Kraftvärme", "rubrik": "El när det är som kallast", "text": "Driver 22 kraftvärmeverk med en sammanlagd eleffekt på 2 100 MW.", "tagg": "industri"},
+    {"namn": "Evedal Carbon AB", "segment": "Bio-CCS och biokol", "rubrik": "Utsläpp med minustecken", "text": "Bygger och driver avskiljning, biokolsanläggningar och säljer certifierade negativa utsläpp.", "tagg": "skorsten"},
+    {"namn": "Evedal Baltic", "segment": "Lettland och Litauen", "rubrik": "Från gas till flis", "text": "Bygger om fjärrvärmen i Kaunas, Šiauliai och Jelgava från rysk gas till biobränsle.", "tagg": "stad"}
+  ],
+  "lokala_bolag": ["Evedal Värme Växjö", "Evedal Värme Jönköping", "Evedal Värme Halmstad", "Evedal Värme Kalmar län", "Evedal Värme Blekinge", "Evedal Värme Östergötland", "Evedal Kraft", "Evedal Carbon", "Evedal Biokol Alvesta AB", "Evedal Šiluma UAB", "Evedal Siltums SIA", "Kronobergs Skogsbränsle AB", "Smålands Askåtervinning AB"],
+  "vagg_text": "Varje stad har sitt eget värmebolag med lokal kundtjänst och egna drifttekniker. Bränsleinköp, CCS och kraftvärme samordnas från Växjö.",
+  "berattelser": [
+    {"rubrik": "Avskiljningen i Växjö byggs", "text": "Absorptionstornet på 62 meter restes i september, och den första koldioxiden ska fångas våren 2028.", "tagg": "skorsten"},
+    {"rubrik": "Kaunas utan gas", "text": "Det sista gaseldade värmeverket i Kaunas stängdes i oktober och ersattes av flis från litauiska sågverk.", "tagg": "stad"},
+    {"rubrik": "Biokol i Malmös gatuträd", "text": "4 200 nya gatuträd planteras i biokol från Alvesta, som håller fukt och låter rötterna växa under asfalten.", "tagg": "trad"}
+  ],
+  "nyckeltal": [
+    {"varde": "26", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [17.2, 17.9, 19.4, 24.8, 25.6, 25.1, 26.0], "trend_text": "Omsättning per kalenderår, mdr kr"},
+    {"varde": "13,6", "enhet": "TWh", "etikett": "Värme levererad", "trend": [11.4, 11.9, 12.2, 12.5, 12.9, 13.3, 13.6], "trend_text": "Levererad fjärrvärme per år, TWh"},
+    {"varde": "1,2", "enhet": "Mton", "etikett": "Negativa utsläpp från 2028", "trend": [0, 0, 0, 0.02, 0.05, 0.1, 0.2], "trend_text": "Avskild koldioxid per år, miljoner ton (pilot och plan)"},
+    {"varde": "5 900", "enhet": "", "etikett": "Medarbetare", "trend": [4300, 4500, 4700, 5100, 5400, 5700, 5900], "trend_text": "Antal anställda vid årsskiftena"}
+  ],
+  "projekt": [
+    {"namn": "Bio-CCS Sandvik", "ort": "Växjö", "typ": "Koldioxidavskiljning", "ar": "2028", "text": "Avskiljning av 640 000 ton biogen koldioxid om året från kraftvärmeverket.", "tagg": "skorsten"},
+    {"namn": "Bio-CCS Torsvik", "ort": "Jönköping", "typ": "Koldioxidavskiljning", "ar": "2029", "text": "Andra avskiljningsanläggningen, med export via järnväg till Göteborgs hamn.", "tagg": "industri"},
+    {"namn": "Kraftvärmeverket Kaunas", "ort": "Kaunas", "typ": "Kraftvärme", "ar": "2026", "text": "Nytt flisbränt verk på 160 MW värme som ersätter fyra gaspannor.", "tagg": "stad"},
+    {"namn": "Biokolsverket Alvesta", "ort": "Alvesta", "typ": "Biokol", "ar": "2025", "text": "Pyrolysanläggning för 24 000 ton biokol med spillvärme till ortens fjärrvärme.", "tagg": "ved"},
+    {"namn": "Fjärrkyla Halmstad", "ort": "Halmstad", "typ": "Fjärrkyla", "ar": "2025", "text": "Kyla från havsvatten till lasarettet och 40 kontorsfastigheter.", "tagg": "vvs"},
+    {"namn": "Ackumulatortank Kalmar", "ort": "Kalmar", "typ": "Värmelager", "ar": "2024", "text": "Värmelager på 48 000 kubikmeter som jämnar ut toppar och laddas när elen är billig.", "tagg": "el"}
+  ],
+  "process": [
+    {"titel": "Bränsle inom 15 mil", "text": "Allt skogsbränsle köps nära verken och spåras till ursprung. Rundvirke av massakvalitet eldar vi aldrig.", "tagg": "ved"},
+    {"titel": "El och värme samtidigt", "text": "Ångan driver först en turbin för el och värmer sedan fjärrvärmevattnet – samma bränsle används två gånger.", "tagg": "industri"},
+    {"titel": "Koldioxiden fångas", "text": "Rökgaserna leds genom en aminlösning som binder koldioxiden, som sedan frigörs, renas och kyls till vätska.", "tagg": "skorsten"},
+    {"titel": "Askan tillbaka till skogen", "text": "Askan från verken sprids tillbaka i skogen för att återföra mineraler som träden tog upp.", "tagg": "natur"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mer än klimatneutral är målet",
+    "text": "Bioenergi är förnybar, men den är inte gratis för naturen. Vi köper bara restprodukter från certifierat skogsbruk och redovisar bränslets ursprung per verk. Med koldioxidavskiljning blir våra verk de första i Norden som tar bort mer koldioxid ur atmosfären än hela koncernen släpper ut.",
+    "mal": [["–1,2 Mton", "nettoutsläpp per år från 2029"], ["100 %", "spårbart skogsbränsle från certifierade källor"], ["0", "fossil olja i spetslast efter 2027"]]
+  },
+  "karriar": {
+    "rubrik": "Drifttekniker för en ny sorts kraftverk",
+    "text": "Ingen i Norden har drivit koldioxidavskiljning i den här skalan tidigare. Vi utbildar 180 nya drifttekniker och kemister till 2028 och erbjuder betald yrkeshögskola med anställning efteråt.",
+    "jobb": [["Drifttekniker kraftvärme", "Växjö"], ["Processkemist CCS", "Jönköping"], ["Bränsleinköpare", "Halmstad"], ["Projektingenjör fjärrvärme", "Kaunas"]]
+  },
+  "kultur": "Skiftlagen på verken arbetar i samma grupp i flera år, och varje skift börjar med fika i kontrollrummet innan överlämningen.",
+  "citat": {"text": "När Växjö bytte olja mot flis 1974 trodde många att det var en tillfällig nödlösning. Nu tar samma verk koldioxid ur luften. Det är inte en nödlösning längre.", "namn": "Petra Gunnarsson Lind", "roll": "Koncernchef", "tagg": "people"},
+  "omdomen": [
+    {"text": "Prisändringen för nästa år kom i oktober, tolv månader innan. Det gör att vi kan budgetera hyrorna utan överraskningar.", "namn": "Martin E.", "ort": "Växjö"},
+    {"text": "Fjärrkylan från havsvatten halverade elförbrukningen för kylningen på lasarettet.", "namn": "Lisa N.", "ort": "Halmstad"},
+    {"text": "Vi har sålt grot och bark till Evedal i trettio år. Betalt efter tio dagar och askan tillbaka till våra marker.", "namn": "Bengt A.", "ort": "Ljungby"}
+  ],
+  "faq": [
+    ["Är det verkligen bra för klimatet att elda trä?", "Vi eldar restprodukter som grenar, toppar, bark och spån, inte stamved. Koldioxiden binds åter när ny skog växer, och med avskiljning tar vi dessutom bort den från kretsloppet."],
+    ["Vad betyder negativa utsläpp?", "När koldioxid från biobränsle fångas och lagras permanent minskar mängden i atmosfären. Varje lagrat ton certifieras och kan säljas till företag som vill kompensera egna utsläpp."],
+    ["Hur sätts priset på fjärrvärme?", "Priset aviseras ett år i förväg och följer Prisdialogen, där kunder och bolag förhandlar lokalt. Ett normalt flerbostadshus betalar omkring 1 100 kronor per MWh."],
+    ["Vart tar koldioxiden vägen?", "Den transporteras som vätska med tåg till Göteborg och med fartyg till lagringsplatser 2 600 meter under Nordsjöns botten."],
+    ["Vem äger Evedal?", "Sju kommuner i Småland och Halland äger tillsammans 34 procent av rösterna. Resten av aktierna handlas på Nasdaq Stockholm Large Cap."],
+    ["Vad får aktieägarna i utdelning?", "Policyn är 40–60 procent av resultatet. För 2025 betalades 5,10 kronor per aktie, oförändrat mot året innan på grund av investeringarna i CCS."]
+  ],
+  "nyheter": [
+    ["2026-10-29", "Delårsrapport januari–september 2026", "Värmeleveranserna ökade med 3 procent och investeringarna i CCS uppgick till 2,9 miljarder kronor.", "kontor"],
+    ["2026-09-21", "Tornet i Växjö är rest", "Absorptionstornet för koldioxidavskiljning har lyfts på plats vid Sandviksverket.", "skorsten"],
+    ["2026-06-03", "Nytt avtal om negativa utsläpp", "Ett nordiskt flygbolag köper 2,1 miljoner ton negativa utsläpp under tio år.", "natur"],
+    ["2026-02-13", "Bokslutskommuniké 2025", "Omsättningen ökade till 26 miljarder kronor efter en kall vinter.", "kontor"]
+  ],
+  "investerare": {
+    "aktie": "EVED",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "203,60",
+    "forandring": "+0,2 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-29"], ["Delårsrapport januari–juni 2026", "2026-07-17"], ["Delårsrapport januari–mars 2026", "2026-04-29"], ["Årsredovisning 2025", "2026-03-20"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-16"], ["Årsstämma i Växjö", "2027-05-06"], ["Delårsrapport januari–mars 2027", "2027-04-28"]]
+  },
+  "kontor_rubrik": "Mitt i skogsbygden",
+  "kontor_text": "Verken ligger nära både städerna som behöver värme och skogarna som levererar bränslet. Inget verk ligger mer än 15 mil från sitt bränsle.",
+  "kontor_lista": [
+    ["Växjö – huvudkontor", "Evedalsvägen 2. Koncernledning, driftcentral Syd och Sandviksverket."],
+    ["Jönköping", "Torsviksverket och den andra CCS-anläggningen."],
+    ["Halmstad", "Fjärrvärme och fjärrkyla för Hallandskusten."],
+    ["Kalmar", "Värme till Kalmar län med koncernens största värmelager."],
+    ["Karlskrona", "Fjärrvärme i Blekinge och driftcentral Öst."],
+    ["Alvesta", "Biokolsverket och bränsleterminal vid stambanan."],
+    ["Kaunas", "Evedal Šiluma UAB, fjärrvärme i Kaunas och Šiauliai."],
+    ["Jelgava", "Evedal Siltums SIA, fjärrvärme i Lettland."]
+  ],
+  "tidslinje_rubrik": "Från oljepanna till minusutsläpp",
+  "tidslinje_text": "Ett halvsekel av att värma småländska städer med det skogen lämnar efter sig.",
+  "tidslinje": [
+    ["1974", "Växjös värmeverk byter olja mot flis från sågverken i Kronoberg."],
+    ["1983", "Sandviksverket blir kraftvärmeverk och börjar producera el."],
+    ["1997", "Tolv kommunala värmebolag i Småland och Halland går samman i Evedal."],
+    ["2009", "Notering på Nasdaq Stockholm."],
+    ["2015", "Första fjärrvärmenätet i Litauen köps."],
+    ["2022", "Pilotanläggning för koldioxidavskiljning i Växjö."],
+    ["2025", "Biokolsverket i Alvesta invigs."]
+  ],
+  "kontakt": {"adress": "Evedalsvägen 2", "postnr": "352 63", "ort": "Växjö", "telefon": "070-174 06 17", "epost": "info@evedal.se", "orgnr": ""},
+  "oppettider": "Kundservice vardagar 8–16.30, driftlarm dygnet runt",
+  "omrade": "Småland, Halland, Blekinge, Östergötland, Lettland och Litauen",
+  "fot_cta": "Vill ert företag köpa negativa utsläpp eller ansluta till fjärrvärmen? Prata med oss.",
+  "bild": {"panel": "industri", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Från verken i vinter",
+    "proj_rubrik": "Verk, nät och avskiljning",
+    "process_rubrik": "Från grot till lagrad koldioxid",
+    "process_etikett": "Bränslets väg",
+    "hb_etikett": "Skog och kol",
+    "omdomen_rubrik": "Kunder och skogsägare",
+    "faq_rubrik": "Frågor om bioenergi och CCS",
+    "bolag_rubrik": "Värme, kraft, kol och Baltikum",
+    "vagg_rubrik": "{n} bolag, ett bränsle",
+    "panel_etikett": "Jobba på kraftvärmeverken",
+    "hero_knapp": "Om våra verk",
+    "siffror_etikett": "Evedal i siffror",
+    "ny_rubrik": "Pressmeddelanden från Växjö"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "profil": "nisch",
+  "nisch": "batvarv",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Gäddviks Båtmotor AB",
+  "kortnamn": "Gäddvik Båtmotor",
+  "slug": "gaddviks-batmotor",
+  "typ": "Mobil motorservice i Luleå skärgård",
+  "tagline": "Verkstaden kommer till bryggan",
+  "slogan": "Tre servicebilar och en servicebåt som lagar utombordare och drev där båten ligger – från Gäddvik till Junkön.",
+  "hero_rubrik": "Vi skruvar på din brygga, inte vår",
+  "hero_text": "Impeller, tändstift, växelhusolja och vinterkonservering utan att båten lämnar sin plats. Sju mekaniker i Luleå med fullt delsortiment i bilen.",
+  "intro_rubrik": "Mekaniker på hjul och köl",
+  "om": [
+    "Robin Isaksson servade utombordare i ett garage i Gäddvik i fem år innan han insåg att halva arbetstiden gick åt till att vänta på kunder som skulle köra dit båten på trailer. 2017 byggde han om en skåpbil till rullande verkstad, och sedan dess kör vi ut till båtarna i stället.",
+    "I dag har vi tre servicebilar, en 7-meters servicebåt för öarna och en liten verkstad i Gäddvik för det som måste lyftas av. Vi är sju anställda och gör drygt 2 300 servicebesök per år mellan Råneå och Piteå."
+  ],
+  "vagval_rubrik": "Vad krånglar på motorn?",
+  "tjanster": [
+    {"titel": "Säsongsservice", "ikon": "kugge", "href": "verksamhet.html", "text": "Olja, filter, impeller och tändstift – utfört vid din brygga eller i din trädgård."},
+    {"titel": "Vinterkonservering", "ikon": "kalender", "href": "verksamhet.html", "text": "Glykol i kylsystemet, dimolja i cylindrarna och stabiliserat bränsle före frosten."},
+    {"titel": "Felsökning på plats", "ikon": "sok", "href": "verksamhet.html", "text": "Diagnosdator för de vanligaste utombordarna och inombordarna i bilen."},
+    {"titel": "Servicebåt till öarna", "ikon": "bat", "href": "verksamhet.html", "text": "Vi tar oss till stugbryggorna på Hindersön, Sandön och Junkön."},
+    {"titel": "Drev och propeller", "ikon": "verktyg", "href": "verksamhet.html", "text": "Bälgbyte, växelhusolja och propellerbyte – drevet lyfts med vår portabla kran."},
+    {"titel": "Motorbyte", "ikon": "hamare", "href": "verksamhet.html", "text": "Ny utombordare levererad, monterad och inkörd på plats."},
+    {"titel": "Servicekalendern", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi bokar in din båt automatiskt varje vår och höst."},
+    {"titel": "Beställ ett besök", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Besök inom fem arbetsdagar under säsong."}
+  ],
+  "affarsomraden": [
+    {"titel": "Service vid bryggan", "text": "Servicebilarna har hyllor med de 400 vanligaste reservdelarna, spillmattor och oljeuppsamling. Mekanikern gör hela servicen vid din båtplats och tar med sig spillolja och gamla filter.", "text2": "En normal utombordarservice tar 60–90 minuter på plats.", "tagg": "bat"},
+    {"titel": "Konservering inför vintern", "text": "En utombordare som inte konserveras rätt kan spräcka blocket vid minus 30 grader. Vi spolar kylsystemet med glykol, dimmar cylindrarna och fyller tanken med stabiliserat bränsle.", "text2": "Konserveringen görs på trailer, på land eller i sjön – sista besöket i år görs 30 oktober.", "tagg": "maskin"},
+    {"titel": "Skärgårdstjänst", "text": "Många stugägare i Luleå skärgård har båten vid en brygga utan väg. Servicebåten tar mekaniker, verktyg och delar ut till öarna två dagar i veckan från juni till september.", "text2": "Öarna delas in i rutter, så att flera grannar delar på resekostnaden.", "tagg": "natur"},
+    {"titel": "Verkstaden i Gäddvik", "text": "Det som inte går att laga på bryggan tar vi till verkstaden: motorrenoveringar, växelhus som har fått in vatten och elfel som kräver bänk. Verkstaden har en lyftplats och provtank.", "text2": "Hämtning och leverans av motorer ingår inom Luleå kommun.", "tagg": "people"}
+  ],
+  "bolag": [
+    {"namn": "Servicebil 1–3", "segment": "Fastlandet", "rubrik": "Varsin mekaniker, varsin rutt", "text": "En bil för Luleå och Gäddvik, en för Boden och Råneå, en för Piteåhållet.", "tagg": "maskin"},
+    {"namn": "Servicebåten", "segment": "Skärgården", "rubrik": "Tisdagar och torsdagar ute", "text": "7-meters aluminiumbåt med verkstadsbänk, kompressor och plats för två mekaniker.", "tagg": "bat"},
+    {"namn": "Verkstaden", "segment": "Renoveringar och delar", "rubrik": "Provtank och lyftplats", "text": "Två mekaniker som renoverar motorer och packar bilarnas delar varje morgon.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "2 300 besök på en säsong", "text": "Rekordår: varje mekaniker gjorde i snitt sex besök per dag under maj och september.", "tagg": "bat"},
+    {"rubrik": "Fjärde bilen rullar 2027", "text": "Efterfrågan i Piteå skärgård gör att vi tar in en fjärde servicebil till våren.", "tagg": "maskin"},
+    {"rubrik": "Skärgårdsrutt till Rödkallen", "text": "Servicebåten åkte i augusti för första gången ut till fyrplatsen och servade fyra båtar på en dag.", "tagg": "natur"}
+  ],
+  "nyckeltal": [
+    {"varde": "2 300", "enhet": "besök", "etikett": "Servicebesök under 2025"},
+    {"varde": "400", "enhet": "artiklar", "etikett": "Reservdelar i varje bil"},
+    {"varde": "5", "enhet": "dagar", "etikett": "Längsta väntan i högsäsong"},
+    {"varde": "7", "enhet": "mekaniker", "etikett": "Och ingen sitter på kontor"}
+  ],
+  "projekt": [
+    {"namn": "Luleå Båtsällskap, Lövskatan", "ort": "Luleå", "typ": "Klubbservice", "ar": "2025", "text": "112 båtar konserverades på bryggan under tre helger i oktober.", "tagg": "bat"},
+    {"namn": "Stugbryggorna på Hindersön", "ort": "Hindersön", "typ": "Skärgårdsrutt", "ar": "2025", "text": "Servicebåten besökte 38 stugägare på två dagar och gjorde vårservice på alla.", "tagg": "natur"},
+    {"namn": "Räddningsbåt Luleå hamn", "ort": "Luleå", "typ": "Serviceavtal", "ar": "2026", "text": "Två 300-hästars utombordare servas var 100:e timme utan att båten tas ur beredskap.", "tagg": "bat", "status": "Pågående"},
+    {"namn": "Motorbyte på en Buster", "ort": "Råneå", "typ": "Motorbyte", "ar": "2026", "text": "Ny 115-hästars utombordare monterad och provkörd vid ägarens brygga på en eftermiddag.", "tagg": "maskin", "status": "Utfört"},
+    {"namn": "Fiskecampen i Kallax", "ort": "Kallax", "typ": "Flottservice", "ar": "2024", "text": "Tolv hyrbåtar med 20-hästarsmotorer får service varje vecka under laxsäsongen.", "tagg": "bat"},
+    {"namn": "Isskadad drevenhet", "ort": "Piteå", "typ": "Verkstadsrenovering", "ar": "2025", "text": "Ett drev som frusit sönder renoverades i verkstaden och var tillbaka på tio dagar.", "tagg": "people"}
+  ],
+  "process": [
+    {"titel": "Skicka motorns modell", "text": "Märke, hästkrafter och årsmodell räcker för att vi ska packa rätt delar.", "tagg": "kontor"},
+    {"titel": "Vi bokar en rutt", "text": "Du får ett sms med dag och tvåtimmarsfönster när bilen eller båten passerar dig.", "tagg": "maskin"},
+    {"titel": "Service på plats", "text": "Du behöver inte vara hemma – bara lämna nyckeln där vi kommit överens om.", "tagg": "bat"},
+    {"titel": "Protokoll i mejlen", "text": "Vad som är gjort, vad som bör bytas nästa år och bilder på slitdelarna.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen olja i Bottenviken",
+    "text": "Varje servicebil har spillmattor, absorbent och tät oljetank, och vi tar med oss all spillolja, filter och glykol till godkänd mottagning i Luleå. Eftersom båten inte behöver köras till verkstaden sparar varje besök i snitt 24 kilometer trailerkörning.",
+    "mal": [["0", "liter spill i sjön under 2025"], ["100 %", "av spilloljan till godkänd mottagning"], ["24 km", "sparad trailerkörning per besök"]]
+  },
+  "karriar": {
+    "rubrik": "Egen bil, egen rutt",
+    "text": "Vi söker en båtmekaniker som vill planera sin egen dag. Du får en utrustad servicebil, telefon med ruttplanering och fast lön året runt – på vintern renoverar vi motorer i verkstaden.",
+    "jobb": [["Båtmekaniker, servicebil", "Luleå"], ["Mekaniker till servicebåten, sommar", "Luleå"]]
+  },
+  "kultur": "Bilen står hemma hos dig på natten, och fredagar efter klockan tolv är det verkstadsstädning och korv.",
+  "citat": {"text": "Ingen vill lägga en lördag på att dra båten till en verkstad för ett impellerbyte. Det är vårt jobb att komma dit båten redan är.", "namn": "Robin Isaksson", "roll": "Grundare och mekaniker", "tagg": "people"},
+  "omdomen": [
+    {"text": "Jag var på jobbet när de gjorde vårservicen. Protokollet låg i mejlen innan jag ens hade ätit lunch.", "namn": "Therese N.", "ort": "Gäddvik"},
+    {"text": "Servicebåten la till vid stugbryggan klockan nio och var klar halv elva. Vi slapp ta båten till stan för första gången på tjugo år.", "namn": "Kjell och Marianne Ö.", "ort": "Sandön"},
+    {"text": "Våra hyrbåtar går hela laxsäsongen utan stopp sedan vi började med veckoservice.", "namn": "Jonny L., fiskecamp", "ort": "Kallax"}
+  ],
+  "faq": [
+    ["Måste jag vara på plats?", "Nej. De flesta kunder lämnar nyckeln i en låda eller hos en granne. Vi skickar sms när vi kommer och när vi är klara."],
+    ["Vilka motorer servar ni?", "Utombordare från 2,5 till 350 hästkrafter och bensin- eller dieselinombordare med drev. Större dieselmotorer tar vi i verkstaden."],
+    ["Kostar det extra att ni kommer ut?", "Inom Luleå kommun ingår resan i servicepriset. Till Boden, Råneå och Piteå tar vi 395 kr per besök."],
+    ["Hur långt i förväg ska jag boka?", "Under maj och september cirka en vecka. Med servicekalendern bokar vi in dig automatiskt varje säsong."],
+    ["Kan ni serva båten när den står på trailer?", "Ja, på trailer, på bockar eller i sjön. Vi behöver bara kunna komma intill motorn med bilen eller båten."],
+    ["Vad kostar en utombordarservice?", "Från 1 890 kr för motorer upp till 30 hk och 3 450 kr upp till 150 hk, delar och spillhantering ingår."]
+  ],
+  "priser": [
+    {"namn": "Liten motor", "pris": "1 890 kr", "enhet": "upp till 30 hk", "text": "Säsongsservice på en mindre utombordare.", "punkter": ["Olja och växelhusolja", "Tändstift och bränslefilter", "Kontroll av impeller", "Resa inom Luleå kommun"]},
+    {"namn": "Mellanmotor", "pris": "3 450 kr", "enhet": "31–150 hk", "text": "Det vanligaste besöket under våren.", "punkter": ["Allt i Liten motor", "Impellerbyte", "Anoder och propellerkontroll", "Protokoll med bilder"], "utvald": true},
+    {"namn": "Höst och vår", "pris": "fr. 5 900 kr", "enhet": "per år", "text": "Konservering i oktober och service i maj.", "punkter": ["Vinterkonservering med glykol", "Vårservice med impeller", "Automatisk bokning i kalendern", "Förtur vid akuta fel"]}
+  ],
+  "certifikat": [
+    {"titel": "Auktoriserad serviceverkstad", "text": "Mekanikerna är utbildade hos tre tillverkare av utombordare och får utföra garantiservice.", "ikon": "kugge"},
+    {"titel": "Tillstånd för farligt avfall", "text": "Anmäld transportör av spillolja och glykol enligt avfallsförordningen hos Länsstyrelsen.", "ikon": "lov"},
+    {"titel": "Förarbevis för servicebåten", "text": "Alla som kör servicebåten har förarintyg och utbildning i sjösäkerhet.", "ikon": "ror"},
+    {"titel": "Ansvarsförsäkring 5 Mkr", "text": "Täcker arbete på kundens båt, brygga och tomt.", "ikon": "skold"}
+  ],
+  "kunder": ["Luleå Båtsällskap, Lövskatan", "Kallax Laxcamp", "Luleå hamn, räddningsberedskap", "Hindersöns Stugägareförening", "Råneå Båtklubb", "Brf Mjölkudden Strand", "Piteå Skärgårdsturer"],
+  "nyheter": [
+    ["2026-10-30", "Sista konserveringen för i år", "Alla 640 motorer i servicekalendern är nu klara för vintern.", "maskin"],
+    ["2026-06-02", "Skärgårdsrutterna är publicerade", "Servicebåten åker ut tisdagar och torsdagar – se vilken rutt din ö ligger på.", "natur"],
+    ["2026-03-19", "Servicekalendern öppnar", "Anmäl motorn nu så får du automatisk tid i maj och oktober.", "bat"]
+  ],
+  "kontakt": {"adress": "Gäddviksvägen 214", "postnr": "975 92", "ort": "Luleå", "telefon": "070-174 06 08", "epost": "service@gaddviksbatmotor.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–17 maj–oktober, mån–tors 7–16 november–april",
+  "omrade": "Luleå, Boden, Råneå, Piteå och Luleå skärgård",
+  "fot_cta": "Skriv motorns märke och hästkrafter – vi föreslår en dag när bilen passerar dig.",
+  "bild": {"panel": "maskin", "hb": "natur"},
+  "text": {
+    "kontakt_knapp": "Beställ besök",
+    "hero_knapp": "Så fungerar mobil service",
+    "hero_lank": "Senaste rutterna",
+    "vagval_etikett": "Ute på bryggorna",
+    "ber_etikett": "Från rutterna",
+    "ber_rubrik": "Mil på vägen, timmar vid motorn",
+    "proj_etikett": "Besök",
+    "proj_rubrik": "Bryggor, klubbar och öar",
+    "proj_rubrik_lista": "Serviceuppdrag runt Luleå",
+    "status_klart": "Klart",
+    "status_pagaende": "Löpande",
+    "process_etikett": "Ett servicebesök",
+    "process_rubrik": "Från sms till protokoll",
+    "bolag_etikett": "Fordon och båt",
+    "bolag_rubrik": "Tre bilar, en båt, en verkstad",
+    "bolag_kol": ["Enhet", "Täcker", "Så jobbar den"],
+    "meny_bolag": "Fordonen",
+    "hb_etikett": "Spill och avfall",
+    "hb_lank": "Hur vi hanterar spillolja",
+    "omdomen_rubrik": "Båtägare som slapp trailern",
+    "faq_rubrik": "Om besök, nycklar och priser",
+    "priser_etikett": "Servicepriser",
+    "priser_rubrik": "Pris efter motorns storlek",
+    "priser_knapp": "Boka service",
+    "priser_utvald": "Mest bokad",
+    "priser_not": "Priser inklusive moms och spillhantering. Delar utöver standardservice debiteras enligt lista.",
+    "boka_rubrik": "Var ligger båten?",
+    "boka_text": "Skriv adress eller brygga, motorns märke och hästkrafter, så hör vi av oss med en dag och ett tidsfönster.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Motor och var båten ligger"],
+    "logos_rubrik": "Klubbar, campingar och stugägare",
+    "certifikat_rubrik": "Auktoriserade och anmälda",
+    "ny_rubrik": "Ruttinfo och tips",
+    "medarbetare": "Mekanikerna"
+  }
+}

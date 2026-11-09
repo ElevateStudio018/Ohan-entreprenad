@@ -18,7 +18,7 @@
   "vagval_rubrik": "Vad ska läggas ovanpå?",
   "tjanster": [
     {"titel": "Pumpad avjämning", "ikon": "bil", "href": "verksamhet.html", "text": "Flytspackel från 3 till 50 millimeter, pumpat direkt från bilen."},
-    {"titel": "Ingjuten golvvärme", "ikon": "sol", "href": "verksamhet.html", "text": "Vattenburna slingor gjuts in i avjämningen på träbjälklag och betong."},
+    {"titel": "Golvvärme i spacklet", "ikon": "sol", "href": "verksamhet.html", "text": "Vattenburna slingor gjuts in i avjämningen på träbjälklag och betong."},
     {"titel": "Laserskanning", "ikon": "sok", "href": "verksamhet.html", "text": "Planhetskarta över hela bjälklaget före och efter avjämningen."},
     {"titel": "Fuktmätning", "ikon": "vatten", "href": "verksamhet.html", "text": "Mätning i borrhål enligt RBK med protokoll till golvläggaren."},
     {"titel": "Slipning och primning", "ikon": "verktyg", "href": "verksamhet.html", "text": "Betongen slipas och primas så att avjämningen fäster."},
@@ -73,7 +73,7 @@
     "jobb": [["Avjämnare", "Borås"], ["Fukttekniker", "Borås"], ["Lagledare pumplag", "Göteborg"]]
   },
   "kultur": "Varje fredag går lagledarna igenom veckans planhetskartor tillsammans – den bästa ytan får sitta på väggen.",
-  "citat": {"text": "Ingen ser vårt arbete när golvet väl är lagt. Det är precis så det ska vara – då har vi gjort rätt.", "namn": "Roger Kling", "roll": "Grundare och vd", "tagg": "bygg"},
+  "citat": {"text": "Ingen ser vårt arbete när golvet väl är lagt. Det är precis så det ska vara – då har vi gjort rätt.", "namn": "Roger Kling", "roll": "Grundare, fortfarande vd", "tagg": "bygg"},
   "omdomen": [
     {"text": "Vi lägger parkett på deras ytor utan att mäta om. Protokollet stämmer varje gång.", "namn": "Johan W.", "ort": "Golvläggare, Borås"},
     {"text": "Tolv fält på sex helger och lagret var i drift varje måndag.", "namn": "Ulrika P.", "ort": "Driftchef, Viared"},
@@ -83,18 +83,18 @@
     ["Hur tjock avjämning kan ni lägga?", "Från 3 millimeter upp till 50 millimeter i ett skikt. Större nivåskillnader fyller vi i två omgångar eller med lättfyllnad först."],
     ["Hur länge måste avjämningen torka?", "Den går att gå på efter ett dygn. Torktiden innan ytskiktet läggs beror på tjocklek och massa, oftast en till fyra veckor. Vi mäter alltid före."],
     ["Lägger ni golvet ovanpå också?", "Nej, vi lägger bara undergolvet. Våra kunder är golvfirmor och byggföretag som lägger ytskiktet själva."],
-    ["Tar ni små ytor?", "Ja, från ungefär 40 kvadratmeter med pumpbil. Mindre ytor blandar vi för hand i hink."],
+    ["Hur liten yta lönar sig med pumpbil?", "Ja, från ungefär 40 kvadratmeter med pumpbil. Mindre ytor blandar vi för hand i hink."],
     ["Vad kostar avjämning?", "En normal pumpad avjämning på 10 millimeter kostar 190–260 kronor per kvadratmeter exklusive moms inklusive primning, beroende på yta och tillgänglighet."],
-    ["Hur långt åker ni?", "Sjuhärad och Göteborgsregionen dagligen, Jönköping och Skaraborg för större ytor."],
+    ["Vilket område täcker pumpbilarna?", "Sjuhärad och Göteborgsregionen dagligen, Jönköping och Skaraborg för större ytor."],
     ["Kan ni arbeta på träbjälklag?", "Ja, med armering och massor som är avsedda för trä. Det är vanligt när vi gjuter in golvvärme i äldre villor och trähus."]
   ],
   "certifikat": [
     {"titel": "RBK-auktoriserade fuktmätare", "text": "Två tekniker mäter fukt i betong enligt Rådet för byggkompetens manual.", "ikon": "sok"},
     {"titel": "Utbildade av massleverantörerna", "text": "Alla avjämnare har tillverkarnas certifiering för de system vi pumpar, vilket ger systemgaranti.", "ikon": "skold"},
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2017.", "ikon": "dokument"},
+    {"titel": "Kvalitet och miljö enligt ISO", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2017.", "ikon": "dokument"},
     {"titel": "Arbete på byggarbetsplats", "text": "ID06, BAM-utbildning och Byggnads kollektivavtal för alla anställda.", "ikon": "hjalm"}
   ],
-  "kunder": ["Sjuhäradsbygg", "Borås Golvhus", "Viareds Logistikfastigheter", "Ulricehamns Bostadsbyggare", "Alingsås Skolfastigheter", "Golvfirman Kungsleden", "Marks Fordonsservice", "Sandareds Trähus"],
+  "kunder": ["Sjuhäradsbygg", "Borås Golvhus", "Viareds Logistikfastigheter", "Ulricehamns Bostadsbyggare", "Alingsås Lokalfastigheter", "Golvfirman Kungsleden", "Marks Fordonsservice", "Sandareds Trähus"],
   "nyheter": [
     ["2026-10-05", "Sista fältet i Viared gjutet", "18 000 kvadratmeter industriavjämning blev klar en helg före tidplanen.", "industri"],
     ["2026-06-11", "Därför bubblar mattan", "Roger förklarar hur fukt och dålig primning förstör ett golv underifrån.", "golv"],
@@ -114,7 +114,7 @@
     "faq_rubrik": "Om avjämning, torktid och tjocklek",
     "boka_rubrik": "Boka skanning eller pumpbil",
     "boka_text": "Skriv adress, ungefärlig yta och när ytskiktet ska läggas, så bekräftar vi en tid inom två arbetsdagar.",
-    "boka_falt": ["Namn och företag", "Telefon", "E-post", "Adress, yta och önskat datum"],
+    "boka_falt": ["Namn och firma", "Telefon", "E-post", "Adress, yta och önskat datum"],
     "logos_rubrik": "Byggare och golvfirmor som anlitar oss",
     "certifikat_rubrik": "Mätt, certifierat och systemgaranterat",
     "bolag_rubrik": "Pumplag, mätgrupp och förarbete",

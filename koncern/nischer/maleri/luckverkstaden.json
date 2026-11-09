@@ -1,0 +1,132 @@
+{
+  "profil": "nisch",
+  "nisch": "maleri",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Luckverkstaden i Huskvarna AB",
+  "kortnamn": "Luckverkstaden",
+  "slug": "luckverkstaden",
+  "typ": "Sprutlackering av kök och snickerier",
+  "tagline": "Nytt kök, samma stomme",
+  "slogan": "Vi hämtar köksluckor, dörrar och trappsteg, sprutlackerar dem i vår verkstad vid Huskvarnaån och monterar tillbaka – för en bråkdel av ett nytt kök.",
+  "hero_rubrik": "Ett nytt kök på tio dagar utan att riva",
+  "hero_text": "Nio lackerare och snickare i en verkstad med två sprutboxar. Vi lackerar köksluckor, innerdörrar, trappor och möbler för villaägare, snickerier och möbelfabriker i Jönköpingstrakten.",
+  "intro_rubrik": "En verkstad, två sprutboxar, 6 000 luckor om året",
+  "om": [
+    "Luckverkstaden startades 2011 av Jenny Åberg och Mikael Strand, som båda hade arbetat på en möbelfabrik i Huskvarna och lärt sig sprutlackera matsalsbord och skåp. När fabriken flyttade produktionen hyrde de en del av den gamla lokalen och började lackera köksluckor åt grannar och vänner.",
+    "I dag är vi nio anställda och lackerar omkring 6 000 luckor, 400 innerdörrar och ett femtiotal trappor om året. Ungefär hälften är privatkunder som vill byta färg på köket, resten är snickerier och möbeltillverkare i Småland som köper lackering av oss i stället för att ha en egen sprutbox."
+  ],
+  "vagval_rubrik": "Vad vill du ge ny yta?",
+  "tjanster": [
+    {"titel": "Köksluckor", "ikon": "hem", "href": "verksamhet.html", "text": "Hämtas en måndag, lämnas tillbaka sprutlackerade inom tio arbetsdagar."},
+    {"titel": "Innerdörrar", "ikon": "las", "href": "verksamhet.html", "text": "Släta och spegeldörrar lackeras liggande, utan penselstråk."},
+    {"titel": "Trappor", "ikon": "upp", "href": "verksamhet.html", "text": "Trappsteg och sättsteg slipas och lackeras på plats med halkskydd."},
+    {"titel": "Garderober och skåp", "ikon": "kontor", "href": "verksamhet.html", "text": "Platsbyggda garderober och badrumsskåp i valfri NCS-kulör."},
+    {"titel": "Möbler", "ikon": "stjarna", "href": "verksamhet.html", "text": "Byråer, matsalsstolar och bord i matt, halvmatt eller högblank lack."},
+    {"titel": "Lackering för industri", "ikon": "fabrik", "href": "verksamhet.html", "text": "Serielackering åt snickerier och möbeltillverkare."},
+    {"titel": "Priser per lucka", "ikon": "dokument", "href": "verksamhet.html", "text": "Fast pris per lucka och per dörr, inklusive hämtning."},
+    {"titel": "Boka hämtning", "ikon": "bil", "href": "om-oss.html#kontakt", "text": "Vi kommer med luckvagn och lämnar provluckan direkt."}
+  ],
+  "affarsomraden": [
+    {"titel": "Kök som byter färg", "text": "Korpus, bänkskiva och vitvaror sitter kvar, bara luckor och lådfronter åker till verkstaden. Vi slipar, grundar med spärrgrund och lägger två skikt vattenburen lack i den kulör du väljer.", "text2": "Under tiden har du skåpen öppna men fullt användbara.", "tagg": "interior"},
+    {"titel": "Dörrar och trappor", "text": "Innerdörrar lackeras liggande i sprutbox och blir helt släta. Trappor gör vi på plats med en lack som har inblandat halkskydd och tål 15 års daglig användning.", "text2": "Gångjärn och handtag tas av och sätts tillbaka – nya kan beställas.", "tagg": "hem"},
+    {"titel": "Möbler och inredning", "text": "Gamla furumöbler, Gustavianska stolar och platsbyggda skåp kan få en helt ny karaktär. Vi slipar bort gammal lack eller bets och lackerar i valfri glans.", "text2": "Antika möbler med originalyta lämnar vi hellre till en möbelkonservator.", "tagg": "tra"},
+    {"titel": "Underleverantör åt industrin", "text": "Snickerier och möbelfabriker i Jönköpings län skickar serier på 50 till 2 000 detaljer. Vi lackerar efter deras kulör- och glansstandard och levererar tillbaka med egen lastbil.", "text2": "Ledtid två till fyra veckor beroende på seriestorlek.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Sprutboxarna", "segment": "4 lackerare", "rubrik": "Två boxar, ett jämnt skikt", "text": "Vattenburna lacker, torkning i värmerum och kvalitetskontroll i dagsljuslampa innan något lämnar verkstaden.", "tagg": "industri"},
+    {"namn": "Slip och förarbete", "segment": "3 snickare", "rubrik": "Där resultatet avgörs", "text": "Slipar, spacklar, lagar kantlister och demonterar beslag. Leds av Mikael Strand.", "tagg": "tra"},
+    {"namn": "Montage och hämtning", "segment": "2 montörer, en lastbil", "rubrik": "Hem till dig och tillbaka", "text": "Hämtar och monterar luckor, justerar gångjärn och lackerar trappor på plats.", "tagg": "hem"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ett 90-talskök blev grågrönt", "text": "34 luckor i ek från 1994 lackerade i en dov grön kulör – familjen sparade 140 000 kronor mot ett nytt kök.", "tagg": "interior"},
+    {"rubrik": "Ny sprutbox i drift", "text": "Den andra boxen har kortat väntetiden för privatkunder från fem till två veckor.", "tagg": "industri"},
+    {"rubrik": "Serielackering åt Vätterns Snickeri", "text": "1 800 skåpsdörrar till ett nybyggt äldreboende i Jönköping.", "tagg": "tra"}
+  ],
+  "nyckeltal": [
+    {"varde": "6 000", "enhet": "luckor", "etikett": "Lackerade per år"},
+    {"varde": "10", "enhet": "dagar", "etikett": "Från hämtning till montage"},
+    {"varde": "2", "enhet": "sprutboxar", "etikett": "Med värmerum för torkning"},
+    {"varde": "25 %", "enhet": "", "etikett": "Av priset för ett nytt kök"}
+  ],
+  "projekt": [
+    {"namn": "Kök i Bankeryd", "ort": "Bankeryd", "typ": "34 köksluckor", "ar": "2026", "text": "Ekluckor från 1994 lackerade i dovt grågrönt med nya mässingshandtag.", "tagg": "interior"},
+    {"namn": "Vätterns Snickeri", "ort": "Jönköping", "typ": "Serielackering", "ar": "2026", "text": "1 800 skåpsdörrar till ett äldreboende, levererade i fyra omgångar.", "tagg": "industri"},
+    {"namn": "Villa på Öxnehaga", "ort": "Huskvarna", "typ": "Innerdörrar och trappa", "ar": "2025", "text": "Elva dörrar och en furutrappa i krittvitt med halkskydd.", "tagg": "hem"},
+    {"namn": "Lägenhet på Väster", "ort": "Jönköping", "typ": "Kök och garderober", "ar": "2025", "text": "Kök och fyra platsbyggda garderober i samma marinblå kulör.", "tagg": "interior"},
+    {"namn": "Gränna Stolfabrik", "ort": "Gränna", "typ": "Möbellackering", "ar": "2024", "text": "Tre serier pinnstolar i matt svart och mossgrönt.", "tagg": "tra"},
+    {"namn": "Radhus i Tenhult", "ort": "Tenhult", "typ": "Kök och trappa", "ar": "2027", "text": "Bokat för januari – luckorna hämtas efter trettondagen.", "tagg": "hem", "status": "Bokat"}
+  ],
+  "process": [
+    {"titel": "Provlucka", "text": "Vi tar med oss en lucka, lackerar den i din kulör och lämnar tillbaka den inom en vecka.", "tagg": "interior"},
+    {"titel": "Hämtning", "text": "Montörerna tar ner luckor och lådfronter, märker varje del och kör dem till verkstaden.", "tagg": "hem"},
+    {"titel": "Slip och lack", "text": "Slipning, spärrgrund och två skikt lack med torkning i värmerum mellan varje skikt.", "tagg": "industri"},
+    {"titel": "Montage", "text": "Luckorna monteras och justeras. Du får skötselråd och tre års garanti på ytan.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Det klimatsmartaste köket är det du redan har",
+    "text": "Ett nytt kök ger enligt branschens egna beräkningar över ett ton koldioxid i tillverkning och transport. Att lackera om luckorna ger en bråkdel. Vi använder bara vattenburna lacker och vår utsugsluft passerar filter som byts varje månad.",
+    "mal": [["100 %", "vattenburna lacker"], ["3 år", "garanti på lackerade ytor"], ["0", "kök till tippen i våra uppdrag"]]
+  },
+  "karriar": {
+    "rubrik": "Lär dig lackera på riktigt",
+    "text": "Vi lär upp snickare och målare i sprutlackering. Arbetet sker i verkstad med dagtid och friskvårdsbidrag.",
+    "jobb": [["Lackerare", "Huskvarna"], ["Montör med B-körkort", "Huskvarna"]]
+  },
+  "kultur": "Varje fredag eftermiddag får alla lackera något eget i boxen – i år har det blivit allt från cyklar till vaggor.",
+  "citat": {"text": "Folk river ut kök som det inte är något fel på, bara för att färgen känns gammal. Det är det vi är här för att ändra.", "namn": "Jenny Åberg", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Provluckan avgjorde. När den satt på plats ville vi aldrig ha ett nytt kök längre.", "namn": "Maria och Anders H.", "ort": "Bankeryd"},
+    {"text": "Ytan på dörrarna är jämnare än när de var nya. Inga penselstråk någonstans.", "namn": "Tobias L.", "ort": "Huskvarna"},
+    {"text": "1 800 dörrar i fyra leveranser, alla i rätt kulör och glans. Vi slipper ha egen sprutbox.", "namn": "Produktionschef, Vätterns Snickeri", "ort": "Jönköping"}
+  ],
+  "faq": [
+    ["Kan alla luckor lackeras?", "De flesta: massivt trä, MDF, fanér och folierade luckor. Folierade luckor där folien har börjat släppa måste vi först skala, vilket kostar extra."],
+    ["Hur länge står köket utan luckor?", "Tio arbetsdagar från hämtning till montage. Skåpen kan användas som vanligt under tiden."],
+    ["Hur tålig är ytan?", "Lacken klarar diskmedel och normal rengöring. Vi lämnar tre års garanti mot flagning och missfärgning."],
+    ["Kan jag välja vilken kulör som helst?", "Ja, alla NCS-kulörer och de flesta kulörer från färgtillverkarnas kartor. Vi lackerar i matt, halvmatt eller högblankt."],
+    ["Lackerar ni på plats hemma hos mig?", "Bara trappor. Luckor, dörrar och möbler lackerar vi alltid i verkstaden för att få en jämn yta utan damm."],
+    ["Hur fungerar ROT här?", "ROT gäller arbetskostnaden för montage och lackering av fast inredning i ditt hem. Vi drar avdraget direkt på fakturan, men möbler omfattas inte."]
+  ],
+  "priser": [
+    {"namn": "Köksluckor", "pris": "fr. 890 kr", "enhet": "per lucka eller lådfront", "text": "Släta luckor upp till 70 × 60 cm, två skikt lack.", "punkter": ["Hämtning och montage ingår", "Provlucka före start", "Valfri NCS-kulör", "Tre års garanti"], "utvald": true},
+    {"namn": "Innerdörrar", "pris": "fr. 2 400 kr", "enhet": "per dörr", "text": "Släta dörrar, spegeldörrar från 2 900 kr.", "punkter": ["Lackeras liggande i sprutbox", "Beslag av och på", "Karm lackeras på plats mot tillägg", "Klart inom två veckor"]},
+    {"namn": "Trappa", "pris": "fr. 14 500 kr", "enhet": "rak trappa, 14 steg", "text": "Slipning och lack på plats med halkskydd.", "punkter": ["Steg och sättsteg", "Lack med halkskydd", "Två arbetsdagar", "Gångbar efter ett dygn"]}
+  ],
+  "certifikat": [
+    {"titel": "Härdplastutbildning", "text": "Alla lackerare har utbildning för arbete med isocyanater och härdplaster.", "ikon": "hjalm"},
+    {"titel": "Miljötillstånd för lackering", "text": "Anmäld miljöfarlig verksamhet med årlig tillsyn av kommunen.", "ikon": "trad"},
+    {"titel": "Brandskydd i sprutbox", "text": "Explosionsskyddad ventilation och årlig kontroll av brandskyddet.", "ikon": "eld"},
+    {"titel": "F-skatt och ansvarsförsäkring", "text": "Ansvarsförsäkring på 5 miljoner kronor, även för luckor i transport.", "ikon": "skold"}
+  ],
+  "kunder": ["Vätterns Snickeri", "Gränna Stolfabrik", "Huskvarna Inredningssnickeri", "Brf Strandängen", "Tenhults Trähus", "Jönköpings Kök & Bad", "Habo Möbelverkstad"],
+  "nyheter": [
+    ["2026-09-30", "Kortare kö med ny sprutbox", "Väntetiden för köksluckor är nu två veckor i stället för fem.", "industri"],
+    ["2026-05-14", "Höstens mest valda kulörer", "Grågrönt, linnevitt och djup marinblå toppar listan för 2026.", "interior"],
+    ["2026-01-21", "Fem tecken på att luckorna går att rädda", "Så ser du om ditt kök passar för lackering innan du ringer oss.", "hem"]
+  ],
+  "kontakt": {"adress": "Fabriksgatan 22", "postnr": "561 31", "ort": "Huskvarna", "telefon": "070-174 06 48", "epost": "lucka@luckverkstaden.se", "orgnr": ""},
+  "oppettider": "Verkstaden mån–fre 7–16, utlämning tors 16–18",
+  "omrade": "Jönköping, Huskvarna, Habo, Gränna och Nässjö",
+  "fot_cta": "Skicka en bild på köket – vi föreslår kulör och tar med en provlucka.",
+  "bild": {"panel": "interior", "hb": "tra"},
+  "text": {
+    "ber_etikett": "Ur sprutboxen",
+    "ber_rubrik": "Senast lackerat",
+    "proj_rubrik": "Kök, dörrar och serier",
+    "process_rubrik": "Från provlucka till montage",
+    "hb_etikett": "Behåll stommen",
+    "omdomen_rubrik": "Villaägare och snickerier om ytan",
+    "faq_rubrik": "Frågor om lackering",
+    "priser_rubrik": "Fast pris per detalj",
+    "priser_not": "Priserna inkluderar moms, hämtning och montage inom 3 mil från Huskvarna. ROT-avdrag dras på arbetskostnaden.",
+    "priser_utvald": "Vanligast",
+    "priser_knapp": "Boka provlucka",
+    "boka_rubrik": "Boka en provlucka",
+    "boka_text": "Berätta hur många luckor du har och vilken kulör du funderar på. Vi hör av oss inom två arbetsdagar.",
+    "boka_knapp": "Skicka",
+    "logos_rubrik": "Snickerier och fabriker vi lackerar åt",
+    "certifikat_rubrik": "Tillstånd och utbildning för lackering",
+    "bolag_rubrik": "Tre steg i samma verkstad",
+    "medarbetare": "Lackerarna"
+  }
+}

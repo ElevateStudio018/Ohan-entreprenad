@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "hiss",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Skeppshiss Sydkust AB",
+  "kortnamn": "Skeppshiss",
+  "slug": "skeppshiss",
+  "typ": "Hissar ombord och i hamn, Ystad",
+  "tagline": "Hissar till sjöss",
+  "slogan": "Fjorton personer i Ystad som servar hissar på färjor, fraktfartyg och i hamnterminaler – vid kaj under liggtiden eller ombord under överfarten.",
+  "hero_rubrik": "Vi servar hissen medan färjan lastar",
+  "hero_text": "Två timmar vid kaj räcker för en servicerunda. Behövs mer tid följer vi med över till Bornholm eller Polen och arbetar ombord.",
+  "intro_rubrik": "Hissar som rullar med i sjögången",
+  "om": [
+    "Skeppshiss grundades 2004 av Lena Håkansson, tidigare maskinbefäl, och hissteknikern Daniel Nowak. De hade sett hur färjornas hissar fick vänta på stora reparationer till nästa varvsbesök, fast det mesta kunde ha gjorts under vanliga turer.",
+    "I dag är vi 14 anställda med verkstad i Ystads hamn. Vi servar 96 hissar på 23 fartyg och 40 hissar i terminaler och hamnbyggnader i Ystad, Simrishamn och Karlshamn."
+  ],
+  "vagval_rubrik": "Var står hissen?",
+  "tjanster": [
+    {"titel": "Service vid kaj", "ikon": "bat", "href": "verksamhet.html", "text": "Planerad service under liggtiden, oftast två till tre timmar."},
+    {"titel": "Ombordservice", "ikon": "glob", "href": "verksamhet.html", "text": "Teknikern följer med över och arbetar under överfarten."},
+    {"titel": "Varvsuppdrag", "ikon": "kran", "href": "verksamhet.html", "text": "Moderniseringar under varvsperioden, i Sverige eller utomlands."},
+    {"titel": "Godshissar ombord", "ikon": "lada", "href": "verksamhet.html", "text": "Proviant-, bagage- och godshissar mellan däcken."},
+    {"titel": "Terminalhissar", "ikon": "hiss", "href": "verksamhet.html", "text": "Hissar och plattformshissar i färjeterminaler och hamnkontor."},
+    {"titel": "Klassningsbesiktning", "ikon": "dokument", "href": "verksamhet.html", "text": "Förberedelse inför klassningssällskapets och myndighetens kontroller."},
+    {"titel": "Reservdelslådor", "ikon": "verktyg", "href": "verksamhet.html", "text": "Märkta delar per fartyg så att besättningen kan byta enklare komponenter."},
+    {"titel": "Beredskap i hamn", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Tekniker i beredskap när fartygen ligger i Ystad, Simrishamn och Karlshamn."}
+  ],
+  "affarsomraden": [
+    {"titel": "Hissar ombord", "text": "En hiss på ett fartyg rör sig med sjön, utsätts för salt luft och vibrationer från maskinen och ska fungera vid krängning. Vi servar passagerarhissar, proviant- och godshissar enligt ISO 8383.", "text2": "Varje fartyg har en egen serviceplan som följer rederiets turlista och klassningsintervall.", "tagg": "bat"},
+    {"titel": "Arbete under liggtid", "text": "Ett fartyg som ligger två timmar vid kaj ger oss tid för en servicerunda om allt är förberett. Vi går ombord när bilarna har kört av och är klara innan de nya kör på.", "text2": "Längre jobb gör vi under överfarten, en hiss i taget, så att passagerarna alltid har en i drift.", "tagg": "infra"},
+    {"titel": "Varvsperioder", "text": "Vart eller vartannat år ligger fartygen på varv. Då gör vi moderniseringar som kräver att hissen står still i flera dagar: nya styrsystem, dörrar och drivenheter.", "text2": "Vi har arbetat på varv i Gdańsk, Szczecin och Fredericia.", "tagg": "svets"},
+    {"titel": "Terminaler och hamn", "text": "När en färja kommer in används terminalens hissar av hundratals resenärer med bagage, barnvagnar och rullstolar på några minuter. Vi lägger servicen mellan avgångarna.", "text2": "Totalt sköter vi 40 hissar och plattformshissar i hamnområdena.", "tagg": "hiss"}
+  ],
+  "bolag": [
+    {"namn": "Fartygsteamet", "segment": "Ombord och vid kaj", "rubrik": "Nio tekniker med sjövana", "text": "Säkerhetsutbildade för arbete ombord – fyra av dem har tidigare arbetat som maskinbefäl eller motorman.", "tagg": "bat"},
+    {"namn": "Hamnteamet", "segment": "Terminaler och hamnbyggnader", "rubrik": "Mellan avgångarna", "text": "Tre tekniker som sköter landhissarna och har beredskap när fartygen ligger inne.", "tagg": "infra"},
+    {"namn": "Varv och projekt", "segment": "Moderniseringar", "rubrik": "Planerat för varvsfönstret", "text": "Två projektledare som förbereder och leder arbeten under varvsperioder i Polen och Danmark.", "tagg": "svets"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fyra hissar på sex dagar i Gdańsk", "text": "Under varvsperioden fick en färja nya styrsystem i alla fyra passagerarhissar.", "tagg": "svets"},
+    {"rubrik": "Fjorton överfarter till Rønne", "text": "I oktober servade vi sex hissar ombord utan att en enda tur i turlistan ändrades.", "tagg": "bat"},
+    {"rubrik": "Ny terminalhiss i Karlshamn", "text": "Hissen i färjeterminalen har plats för två rullstolar och en bagagevagn samtidigt.", "tagg": "infra"}
+  ],
+  "nyckeltal": [
+    {"varde": "23", "enhet": "fartyg", "etikett": "Med hissar i vår service"},
+    {"varde": "136", "enhet": "hissar", "etikett": "Ombord och i hamn"},
+    {"varde": "2 h", "enhet": "", "etikett": "Räcker för service vid kaj"},
+    {"varde": "3", "enhet": "länder", "etikett": "Där vi arbetat på varv"}
+  ],
+  "projekt": [
+    {"namn": "Rederi Hammerodde", "ort": "Ystad–Rønne", "typ": "Ombordservice", "ar": "2025", "text": "Sex hissar på två färjor, servade under fjorton överfarter.", "tagg": "bat"},
+    {"namn": "Baltrans Shipping", "ort": "Gdańsk", "typ": "Varvsuppdrag", "ar": "2025", "text": "Fyra passagerarhissar med nya styrsystem på sex dagar.", "tagg": "svets"},
+    {"namn": "Karlshamns Färjeterminal", "ort": "Karlshamn", "typ": "Ny terminalhiss", "ar": "2024", "text": "Hiss för två rullstolar och bagagevagn, monterad medan den gamla gick mellan avgångarna.", "tagg": "infra"},
+    {"namn": "Ystads Hamnkontor", "ort": "Ystad", "typ": "Serviceavtal", "ar": "2024", "text": "Fem hissar och två plattformshissar i hamnens kontors- och terminalbyggnader.", "tagg": "hiss"},
+    {"namn": "Simrishamns Fiskhamn", "ort": "Simrishamn", "typ": "Godshiss", "ar": "2026", "text": "Godshiss i en fiskhall, med rostfria komponenter för fukt och salt.", "tagg": "industri", "status": "Pågående"},
+    {"namn": "M/S Sandhammaren", "ort": "Świnoujście", "typ": "Klassningsförberedelse", "ar": "2026", "text": "Genomgång av tre hissar inför klassningssällskapets förnyelsebesiktning.", "tagg": "bat", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Turlistan först", "text": "Vi utgår från fartygets turlista och klassningsintervall och lägger servicen där liggtiden räcker.", "tagg": "kontor"},
+    {"titel": "Förberedd ombordstigning", "text": "Verktyg och delar packas per hiss dagen innan, så att inget arbete väntar på material.", "tagg": "industri"},
+    {"titel": "Vid kaj eller till sjöss", "text": "Teknikern arbetar under liggtiden eller följer med över, efter överenskommelse med befälet.", "tagg": "bat"},
+    {"titel": "Rapport till rederiet", "text": "Efter varje besök får rederiets tekniska avdelning en rapport som går att lägga in i fartygets underhållssystem.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ombord gäller fartygets regler",
+    "text": "Alla fartygstekniker har grundläggande sjösäkerhetsutbildning, följer befälets arbetstillstånd och anmäler varje arbete i maskinkontrollrummet innan det börjar. Vi följer upp varje avvikelse tillsammans med rederiet.",
+    "mal": [["100 %", "av fartygsteknikerna med grundläggande sjösäkerhet"], ["0", "förseningar i turlistan orsakade av oss 2025"], ["24 h", "till rapport i rederiets underhållssystem"]]
+  },
+  "karriar": {
+    "rubrik": "För dig med sjövana",
+    "text": "Har du arbetat ombord som motorman eller elektriker och vill sova hemma om nätterna? Vi lär dig hissarna, och din sjövana kommer till nytta på kortare resor.",
+    "jobb": [["Hisstekniker fartyg", "Ystad"], ["Hisstekniker hamn", "Karlshamn"]]
+  },
+  "kultur": "Den som följer med på en överfart äter i besättningsmässen – och hälsar alltid på bryggan först.",
+  "citat": {"text": "En hiss på land får stå still en eftermiddag. En hiss på en färja med 1 400 passagerare får det inte, så vi gör jobbet medan bilarna kör på.", "namn": "Lena Håkansson", "roll": "Grundare och vd", "tagg": "bat"},
+  "omdomen": [
+    {"text": "De förstår turlistan bättre än många av våra egna leverantörer. Servicen görs vid kaj, och vi har inte tappat en avgång.", "namn": "Mikkel J.", "ort": "Rønne"},
+    {"text": "Varvsperioden var sex dagar och hissarna var klara på fem. Det har aldrig hänt tidigare.", "namn": "Anna S.", "ort": "Ystad"},
+    {"text": "Tack vare reservdelslådan kan vår elektriker byta en dörrkontakt mitt ute på Östersjön.", "namn": "Tomasz W.", "ort": "Świnoujście"}
+  ],
+  "faq": [
+    ["Vilka regler gäller för hissar på fartyg?", "Hissar ombord följer klassningssällskapets regler och standarden ISO 8383, och för svenskflaggade fartyg även Transportstyrelsens föreskrifter. Vi förbereder hissarna inför deras kontroller."],
+    ["Kan ni arbeta när fartyget är till sjöss?", "Ja, efter överenskommelse med befälet. Vi tar en hiss i taget så att passagerarna alltid har en i drift."],
+    ["Arbetar ni på utländska varv?", "Ja, vi har haft uppdrag i Polen och Danmark och reser dit med verktyg och delar för hela perioden."],
+    ["Servar ni hissar i vanliga byggnader?", "Bara inom hamnområden: terminaler, hamnkontor, fiskhallar och lager. Bostadshissar tar vi inte."],
+    ["Hur snabbt kan ni komma vid ett fel ombord?", "Ligger fartyget i Ystad, Simrishamn eller Karlshamn är vi normalt ombord inom en timme. I andra hamnar hjälper vi besättningen per telefon och möter upp vid nästa anlöp."],
+    ["Vad är en reservdelslåda?", "En låda per fartyg med de delar som oftast går sönder – dörrkontakter, knappar, lampor och säkringar – märkta per hiss, så att besättningen kan byta med vår vägledning."]
+  ],
+  "certifikat": [
+    {"titel": "Grundläggande sjösäkerhet", "text": "Alla fartygstekniker har STCW-utbildning i grundläggande säkerhet ombord.", "ikon": "bat"},
+    {"titel": "ISO 8383", "text": "Arbete på hissar ombord enligt den internationella standarden för hissar på fartyg.", "ikon": "dokument"},
+    {"titel": "Hamnskydd", "text": "Godkända för tillträde till skyddade hamnområden enligt ISPS-koden.", "ikon": "las"},
+    {"titel": "Heta arbeten ombord", "text": "Certifikat för heta arbeten och rutiner för arbetstillstånd i fartygens maskinutrymmen.", "ikon": "eld"}
+  ],
+  "kunder": ["Rederi Hammerodde", "Baltrans Shipping", "Karlshamns Färjeterminal", "Ystads Hamnkontor", "Simrishamns Fiskhamn", "Sydkustens Ro-Ro Linje", "Österlens Hamnlager"],
+  "nyheter": [
+    ["2026-10-30", "Fjorton överfarter i oktober", "Så servade vi sex hissar utan att röra turlistan.", "bat"],
+    ["2026-06-18", "Terminalhissen i Karlshamn invigd", "Plats för två rullstolar och en bagagevagn.", "infra"],
+    ["2026-01-26", "Varvssäsongen planerad", "Tre fartyg och elva hissar under vinterns varvsperioder.", "svets"]
+  ],
+  "kontakt": {"adress": "Skeppsbron 9", "postnr": "271 39", "ort": "Ystad", "telefon": "070-174 06 94", "epost": "drift@skeppshiss.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16. Beredskap alla dagar när fartygen ligger i hamn.",
+  "omrade": "Ystad, Simrishamn, Karlshamn och fartyg på södra Östersjön",
+  "fot_cta": "Har ert fartyg en hiss som behöver service? Skicka turlistan så hittar vi tiden.",
+  "text": {
+    "ber_rubrik": "Från kaj och varv",
+    "proj_rubrik": "Fartyg och terminaler",
+    "process_rubrik": "Service efter turlistan",
+    "hb_etikett": "Säkerhet ombord",
+    "omdomen_rubrik": "Rederier och terminaler om oss",
+    "faq_rubrik": "Frågor om hissar till sjöss",
+    "boka_rubrik": "Skicka er turlista",
+    "boka_text": "Berätta vilket fartyg eller vilken terminal det gäller och hur många hissar det finns. Vi föreslår servicetider inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "Rederi eller hamn", "Fartyg, turlista och antal hissar"],
+    "logos_rubrik": "Rederier och hamnar",
+    "bolag_rubrik": "Fartyg, hamn och varv",
+    "certifikat_rubrik": "Behörigheter till sjöss och i hamn",
+    "hero_knapp": "Så arbetar vi ombord",
+    "medarbetare": "Teknikerna"
+  }
+}

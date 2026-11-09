@@ -676,7 +676,7 @@ class Sajt:
         v = self.blk("projekt", "")
         def status_for(x):
             ar = x.get("ar", "")
-            pag = any(w in ar.lower() for w in ("pågående", "nu", "säljstart")) or (ar[:4].isdigit() and int(ar[:4]) >= 2026)
+            pag = any(w in ar.lower() for w in ("pågående", "nu", "säljstart")) or (ar[:4].isdigit() and int(ar[:4]) >= 2027)
             return x.get("status") or (self.T("status_pagaende") if pag else self.T("status_klart"))
         if v == "lista":
             rad = ""
@@ -701,7 +701,7 @@ class Sajt:
         for i, x in enumerate(self.b["projekt"]):
             bild = self.bilder.ta(x["tagg"])
             ar = x.get("ar", "")
-            pagaende = any(w in ar.lower() for w in ("pågående", "nu", "säljstart")) or (ar[:4].isdigit() and int(ar[:4]) >= 2026)
+            pagaende = any(w in ar.lower() for w in ("pågående", "nu", "säljstart")) or (ar[:4].isdigit() and int(ar[:4]) >= 2027)
             status = x.get("status") or (self.T("status_pagaende") if pagaende else self.T("status_klart"))
             li += (f'<li class="kort"><a href="projekt.html"><div class="foto"><span class="status{" pagaende" if status == self.T("status_pagaende") else ""}">{E(status)}</span>{self.bilder.img(bild, "(min-width:1100px) 33vw, 80vw", lazy=i > 2)}</div>'
                    f'<div class="kort-text"><span class="meta">{E(x["ort"])} · {E(x["typ"])}</span><h3>{E(x["namn"])}</h3><p>{E(x["text"])}</p></div></a></li>')

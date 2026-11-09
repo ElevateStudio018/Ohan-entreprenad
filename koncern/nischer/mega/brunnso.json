@@ -34,7 +34,7 @@
   "bolag": [
     {"namn": "Brunnsö Anläggning AB", "segment": "Bygg av verk", "rubrik": "Verket byggs medan vattnet flödar", "text": "Projekterar och bygger vattenverk, reningsverk och avsaltningsverk i Norden och Baltikum.", "tagg": "vvs"},
     {"namn": "Brunnsö Ledning AB", "segment": "Ledningsnät", "rubrik": "Nya rör utan uppgrävda gator", "text": "Relining, rörspräckning och styrd borrning med 210 lag i Sverige, Finland och Danmark.", "tagg": "mark"},
-    {"namn": "Brunnsö Drift AB", "segment": "Drift och underhåll", "rubrik": "412 verk, en larmcentral", "text": "Driver kommunala och industriella anläggningar med egna drifttekniker och ackrediterade laboratorier.", "tagg": "people"},
+    {"namn": "Brunnsö Drift AB", "segment": "Driftavtal", "rubrik": "412 verk, en larmcentral", "text": "Driver kommunala och industriella anläggningar med egna drifttekniker och ackrediterade laboratorier.", "tagg": "people"},
     {"namn": "Brunnsö Baltic", "segment": "Polen, Litauen och Tyskland", "rubrik": "Södra Östersjökusten", "text": "Bygger och driver reningsverk längs den polska, litauiska och nordtyska kusten med kontor i Gdańsk och Rostock.", "tagg": "anlaggning"}
   ],
   "lokala_bolag": ["Brunnsö Anläggning", "Brunnsö Ledning", "Brunnsö Drift", "Brunnsö Avsaltning Gotland", "Brunnsö Vesi Oy", "Brunnsö Vand A/S", "Brunnsö Woda Sp. z o.o.", "Brunnsö Vanduo UAB", "Brunnsö Wasser GmbH", "Ölands Brunnsborrning AB", "Kalmarsunds Laboratorium AB"],
@@ -45,10 +45,10 @@
     {"rubrik": "PFAS bort ur Ronnebys vatten", "text": "Det nya kolfiltret i Kallinge håller halterna under hälften av gränsvärdet, mätt varje vecka av vårt laboratorium.", "tagg": "vvs"}
   ],
   "nyckeltal": [
-    {"varde": "22,4", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [14.2, 15.1, 16.4, 17.9, 19.6, 21.0, 22.4], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "22,4", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [14.2, 15.1, 16.4, 17.9, 19.6, 21.0, 22.4], "trend_text": "Försäljning per år 2019–2025, mdr kr"},
     {"varde": "412", "enhet": "verk", "etikett": "Anläggningar i drift", "trend": [288, 304, 327, 349, 371, 394, 412], "trend_text": "Vatten- och reningsverk vi driver"},
     {"varde": "600", "enhet": "km/år", "etikett": "Förnyad ledning", "trend": [340, 380, 420, 470, 510, 560, 600], "trend_text": "Kilometer förnyade ledningar per år"},
-    {"varde": "9 600", "enhet": "", "etikett": "Medarbetare", "trend": [6700, 7100, 7600, 8100, 8600, 9100, 9600], "trend_text": "Medarbetare vid årets slut"}
+    {"varde": "9 600", "enhet": "", "etikett": "Medarbetare", "trend": [6700, 7100, 7600, 8100, 8600, 9100, 9600], "trend_text": "Personal i hela koncernen vid årsskiftet"}
   ],
   "projekt": [
     {"namn": "Avsaltningsverket Visby", "ort": "Visby", "typ": "Avsaltning", "ar": "2025", "text": "Utbyggnad till 16 000 kubikmeter per dygn med el från en egen solpark på 18 MW.", "tagg": "vvs"},
@@ -75,7 +75,7 @@
     "jobb": [["Drifttekniker vattenverk", "Visby"], ["Processingenjör avsaltning", "Kalmar"], ["Reliningmontör", "Helsingfors"], ["Projektledare reningsverk", "Gdańsk"]]
   },
   "kultur": "Varje drifttekniker har jour en vecka av sex och får ersättning för hela beredskapsveckan, inte bara utryckningarna.",
-  "citat": {"text": "Min farfar letade vatten med slagborr på Öland. Vi har avsaltningsverk och laboratorier nu, men frågan är densamma: räcker vattnet till nästa sommar?", "namn": "Anneli Brunnsö Kask", "roll": "Vd, tredje generationen", "tagg": "people"},
+  "citat": {"text": "Min farfar letade vatten med slagborr på Öland. Vi har avsaltningsverk och laboratorier nu, men frågan är densamma: räcker vattnet till nästa sommar?", "namn": "Anneli Brunnsö Kask", "roll": "Verkställande direktör, barnbarn till grundaren", "tagg": "people"},
   "omdomen": [
     {"text": "Vi hade bevattningsförbud fyra somrar i rad. Sedan avsaltningsverket startade har vi inte behövt ett enda, och turistsäsongen har blivit två veckor längre.", "namn": "Gunnel B.", "ort": "Borgholm"},
     {"text": "Pilotanläggningen visade exakt hur mycket PFAS kolfiltret tog bort innan vi beslutade om 340 miljoner. Det gjorde beslutet i fullmäktige enkelt.", "namn": "Peter Å.", "ort": "Ronneby"},
@@ -86,7 +86,7 @@
     ["Äger ni kommunernas vattenverk?", "Nästan aldrig. Kommunen äger anläggningen och ansvarar för taxan, medan vi bygger eller driver på uppdrag."],
     ["Vad kostar ett avsaltningsverk?", "Ett verk för en mindre ort med 3 000 kubikmeter per dygn kostar omkring 180–250 miljoner kronor inklusive intagsledning och energiförsörjning."],
     ["Hur tar ni hand om saltet?", "Saltlaken späds ut med renat avloppsvatten och leds ut via diffusorer långt från stranden, enligt villkor i miljötillståndet."],
-    ["Vilka certifieringar har ni?", "Brunnsö Drift har ackrediterade laboratorier enligt ISO 17025 och hela koncernen är certifierad enligt ISO 9001, 14001 och 45001."],
+    ["Är verksamheten certifierad?", "Brunnsö Drift har ackrediterade laboratorier enligt ISO 17025 och hela koncernen är certifierad enligt ISO 9001, 14001 och 45001."],
     ["Vem äger Brunnsö?", "Familjen Brunnsö äger 18 procent av rösterna. Bland övriga storägare finns AP-fonderna och flera nordiska infrastrukturfonder."],
     ["Hur ofta lämnar ni utdelning?", "En gång om året efter årsstämman. För 2025 betalades 3,10 kronor per aktie, motsvarande 45 procent av resultatet."]
   ],
@@ -100,7 +100,7 @@
     "lista": "Nasdaq Stockholm Large Cap",
     "kurs": "248,70",
     "forandring": "−0,4 %",
-    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-27"], ["Delårsrapport januari–juni 2026", "2026-07-21"], ["Delårsrapport januari–mars 2026", "2026-04-23"], ["Års- och hållbarhetsredovisning 2025", "2026-03-26"]],
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-27"], ["Delårsrapport januari–juni 2026", "2026-07-21"], ["Delårsrapport januari–mars 2026", "2026-04-23"], ["Årsredovisning med hållbarhetsrapport 2025", "2026-03-26"]],
     "kalender": [["Bokslutskommuniké 2026", "2027-02-17"], ["Årsstämma i Kalmar", "2027-05-04"], ["Delårsrapport januari–mars 2027", "2027-04-22"]]
   },
   "kontor_rubrik": "Runt hela Östersjön",
@@ -123,7 +123,7 @@
     ["1967", "Firman bygger sitt första kommunala vattenverk, i Mörbylånga."],
     ["1978", "Första driftavtalet: reningsverket i Nybro."],
     ["1995", "Relining blir ett eget affärsområde efter ett förvärv i Västerås."],
-    ["2006", "Notering på Stockholmsbörsen."],
+    ["2006", "Brunnsö tas upp till handel på Stockholmsbörsen."],
     ["2011", "Första avsaltningsverket invigs i Byxelkrok."],
     ["2021", "Brunnsö Baltic bildas efter köpet av en polsk reningsverksentreprenör."]
   ],

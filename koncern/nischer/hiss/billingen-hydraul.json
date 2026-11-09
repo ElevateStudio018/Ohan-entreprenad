@@ -1,0 +1,120 @@
+{
+  "profil": "nisch",
+  "nisch": "hiss",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Billingens Hydraulhiss AB",
+  "kortnamn": "Billingen Hydraul",
+  "slug": "billingen-hydraul",
+  "typ": "Hydraulhissar i Skaraborg",
+  "tagline": "Bara hydraulhissar",
+  "slogan": "Tolv personer i Skövde som kan hydraulhissar på djupet: cylindrar, ventilblock, olja och de gamla hissarna som står i marken.",
+  "hero_rubrik": "Olja, cylinder, tryck – vi kan hydraulhissar",
+  "hero_text": "Hydraulhissen är vanlig i låga hus, varuhus och på industrier – och ofta den som andra servar minst gärna. Vi har gjort den till vår specialitet sedan 1991.",
+  "intro_rubrik": "Trettiofem år med tryck i ledningarna",
+  "om": [
+    "Billingens Hydraulhiss startades 1991 av Göran Aspelin, hydrauliker från fordonsindustrin i Skövde som började serva varuhissar på kvällstid. Hans kunskap om pumpar, ventiler och tätningar visade sig vara precis det som saknades hos hissföretagen.",
+    "Sedan 2018 leds företaget av dottern Sara Aspelin. Vi är tolv anställda och sköter 460 hydraulhissar och 70 linhissar i Skaraborg. I verkstaden vid Hasslum renoverar vi ventilblock och pumpar, och vi har två oljevagnar för byte och filtrering på plats."
+  ],
+  "vagval_rubrik": "Vad är det för hydraulhiss?",
+  "tjanster": [
+    {"titel": "Hydraulservice", "ikon": "kugge", "href": "verksamhet.html", "text": "Kontroll av tryck, temperatur, läckage och ventilinställning vid varje besök."},
+    {"titel": "Oljebyte och filtrering", "ikon": "vatten", "href": "verksamhet.html", "text": "Egen oljevagn för byte och rening utan spill i maskinrummet."},
+    {"titel": "Cylinder i mark", "ikon": "sok", "href": "verksamhet.html", "text": "Tryckprov och byte av gamla cylindrar som saknar skyddsrör."},
+    {"titel": "Ventilblock", "ikon": "verktyg", "href": "verksamhet.html", "text": "Renovering och byte av ventilblock och rörbrottsventiler."},
+    {"titel": "Biologisk olja", "ikon": "lov", "href": "verksamhet.html", "text": "Byte till lättnedbrytbar hydraulolja nära vattentäkter."},
+    {"titel": "Byte till linhiss", "ikon": "hiss", "href": "verksamhet.html", "text": "När hydrauliken är uttjänt bygger vi om till maskinrumslös linhiss."},
+    {"titel": "Hydrauliska varuhissar", "ikon": "lada", "href": "verksamhet.html", "text": "Godshissar och lastlyftar för handel, förråd och industri."},
+    {"titel": "Jour i Skaraborg", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Jour dygnet runt med tekniker i Skövde och Lidköping."}
+  ],
+  "affarsomraden": [
+    {"titel": "Hydraulisk service", "text": "En hydraulhiss slits annorlunda än en linhiss. Tätningar, slangar och ventiler åldras av tryck och värme, och små läckage växer i det tysta. Vi mäter tryck och oljetemperatur vid varje besök och loggar värdena.", "text2": "Avvikelser i trycket syns ofta månader innan en tätning ger upp.", "tagg": "hiss"},
+    {"titel": "Gamla cylindrar i marken", "text": "Många hydraulhissar från sextio- och sjuttiotalet har cylindern nedgrävd direkt i marken utan skyddsrör. Börjar den läcka går oljan rakt ut i jorden, och ingen märker något förrän nivån i tanken sjunker.", "text2": "Vi gör läckagekontroll med tryckprov och byter vid behov till cylinder i skyddsrör eller en lösning utan nedgrävd cylinder.", "tagg": "mark"},
+    {"titel": "Olja och miljö", "text": "Hydraulolja är ett av få miljöfarliga ämnen i en vanlig hiss. Vi byter och filtrerar olja med egen utrustning och föreslår lättnedbrytbar olja i hus nära vattentäkter.", "text2": "Använd olja går till regenerering och blir ny basolja.", "tagg": "industri"},
+    {"titel": "Ombyggnad till linhiss", "text": "När en hydraulhiss är uttjänt kan den ofta byggas om till en maskinrumslös linhiss i samma schakt. Det ger lägre elförbrukning och ingen olja alls.", "text2": "En ombyggnad tar normalt fem veckor, och det gamla maskinrummet blir ett förråd.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Service Skövde", "segment": "Skövde, Tidaholm och Hjo", "rubrik": "Hemmabas vid Hasslum", "text": "Sju tekniker som sköter östra Skaraborg och har jouren varannan vecka.", "tagg": "hiss"},
+    {"namn": "Service Lidköping", "segment": "Lidköping, Götene och Mariestad", "rubrik": "Tre tekniker vid Vänern", "text": "Sköter västra Skaraborg från en depå nära Lidköpings hamn.", "tagg": "stad"},
+    {"namn": "Hydraulverkstaden", "segment": "Ventiler, pumpar och olja", "rubrik": "Där ventilblocken öppnas", "text": "Två hydrauliker som renoverar ventilblock och pumpar och kör oljevagnarna.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Cylindern som läckt i decennier", "text": "Vid ett tryckprov i ett varuhus i Falköping hittade vi en cylinder i mark som troligen tappat olja sedan sjuttiotalet.", "tagg": "mark"},
+    {"rubrik": "Oljevagn nummer två", "text": "Den nya vagnen filtrerar 200 liter olja i timmen och gör att depån i Lidköping klarar oljebyten själv.", "tagg": "industri"},
+    {"rubrik": "Tre hissar blev linhissar", "text": "Brf Hjo Strand bytte tre uttjänta hydraulhissar mot maskinrumslösa linhissar under våren.", "tagg": "hiss"}
+  ],
+  "nyckeltal": [
+    {"varde": "460", "enhet": "hissar", "etikett": "Hydraulhissar under avtal"},
+    {"varde": "1991", "enhet": "", "etikett": "Första hydraulservicen"},
+    {"varde": "200", "enhet": "l/timme", "etikett": "Filtrering med oljevagnen"},
+    {"varde": "38", "enhet": "cylindrar", "etikett": "I mark utbytta sedan 2010"}
+  ],
+  "projekt": [
+    {"namn": "Falköpings Handelshus", "ort": "Falköping", "typ": "Cylinder i mark", "ar": "2025", "text": "Läckande cylinder från 1974 utbytt mot ny i skyddsrör, och marken sanerad.", "tagg": "mark"},
+    {"namn": "Brf Hjo Strand", "ort": "Hjo", "typ": "Byte till linhiss", "ar": "2025", "text": "Tre hydraulhissar ombyggda till maskinrumslösa linhissar, fem veckor per hiss.", "tagg": "hiss"},
+    {"namn": "Skövde Garnisonsfastigheter", "ort": "Skövde", "typ": "Varuhissar", "ar": "2024", "text": "Sex hydrauliska godshissar i förråd, med ny olja och renoverade ventilblock.", "tagg": "industri"},
+    {"namn": "Tidaholms Bruksfastigheter", "ort": "Tidaholm", "typ": "Hydraulservice", "ar": "2024", "text": "Fjorton hissar i bostäder och verkstadslokaler, med tryckloggning vid varje besök.", "tagg": "hiss"},
+    {"namn": "Brf Kålland", "ort": "Lidköping", "typ": "Biologisk olja", "ar": "2026", "text": "Byte till lättnedbrytbar olja i två hissar inom vattenskyddsområde.", "tagg": "natur", "status": "Pågående"},
+    {"namn": "Mariestads Simhall", "ort": "Mariestad", "typ": "Ventilblock", "ar": "2026", "text": "Nytt ventilblock och rörbrottsventil i simhallens personhiss, i fuktig miljö.", "tagg": "hiss", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Tryckprov", "text": "Vi mäter tryck, temperatur och oljenivå och kontrollerar om cylindern står i skyddsrör.", "tagg": "hiss"},
+    {"titel": "Åtgärdslista", "text": "Ni får en lista över tätningar, ventiler och olja som bör åtgärdas, med pris och prioritet.", "tagg": "kontor"},
+    {"titel": "Oljevagnen", "text": "Oljebyte och filtrering görs på plats på några timmar, utan att olja hamnar på golvet.", "tagg": "industri"},
+    {"titel": "Logg vid varje besök", "text": "Tryck och temperatur loggas så att vi ser förändringar över flera år, inte bara i dag.", "tagg": "hiss"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen olja i marken",
+    "text": "En läckande cylinder i mark kan släppa ut hundratals liter olja under ett par decennier. Alla avtalshissar med nedgrävd cylinder är tryckprovade, och till 2030 ska samtliga ha skyddsrör eller vara utbytta.",
+    "mal": [["100 %", "av cylindrarna i mark tryckprovade"], ["2030", "inga oskyddade cylindrar kvar i våra avtal"], ["100 %", "av använd olja till regenerering"]]
+  },
+  "karriar": {
+    "rubrik": "Hydrauliker? Bli hisstekniker.",
+    "text": "Flera av oss kommer från fordons- och verkstadsindustrin i Skaraborg. Kan du hydraulik lär vi dig hissarna – resten av jobbet kan du redan.",
+    "jobb": [["Hisstekniker hydraulik", "Skövde"], ["Hydrauliker verkstad", "Skövde"], ["Hisstekniker", "Lidköping"]]
+  },
+  "kultur": "Varje ny tekniker får plocka isär och sätta ihop ett ventilblock i verkstaden före första kundbesöket.",
+  "citat": {"text": "En hydraulhiss är ingen sämre hiss. Den är bara en hiss som kräver någon som förstår tryck.", "namn": "Göran Aspelin", "roll": "Grundare och styrelseordförande", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Två hissföretag ville byta hela hissen. Billingen bytte ventilblocket, och nu går den mjukare än på flera år.", "namn": "Roger F.", "ort": "Skövde"},
+    {"text": "Tryckprovet visade att cylindern läckte. Utan bytet hade vi stått med en markssanering för betydligt mer pengar.", "namn": "Camilla N.", "ort": "Falköping"},
+    {"text": "Oljebytet tog tre timmar, och maskinrummet var renare efteråt än före.", "namn": "Leif Å.", "ort": "Tidaholm"}
+  ],
+  "faq": [
+    ["Hur vet vi om vår hiss är hydraulisk?", "Har maskinrummet en tank, en pump och slangar men ingen linskiva är hissen hydraulisk. Maskinrummet ligger oftast längst ned, intill schaktet."],
+    ["Vad betyder cylinder i mark?", "Att hissens kolv går ned i ett borrhål under schaktet. I äldre hissar ligger cylindern direkt mot jorden utan skyddsrör, och då syns inte ett läckage."],
+    ["Hur ofta ska oljan bytas?", "Det beror på trafik och temperatur, ofta vart tionde till femtonde år. Vi tar oljeprov och byter när analysen visar att det behövs."],
+    ["Är hydraulhissar dyra i drift?", "De drar mer el per tur än moderna linhissar, men i låga hus med lite trafik är skillnaden liten. Med mycket trafik kan en ombyggnad till linhiss löna sig."],
+    ["Servar ni linhissar också?", "Ja, vi har 70 linhissar under avtal, oftast hos kunder som också har hydraulhissar. Rulltrappor tar vi inte."],
+    ["Vad kostar en ombyggnad till linhiss?", "För en bostadshiss med tre till fyra plan normalt 780 000–1 050 000 kronor exklusive moms, inklusive sanering av det gamla hydraulsystemet."]
+  ],
+  "certifikat": [
+    {"titel": "Utbildade hydrauliker", "text": "Två tekniker med yrkesutbildning i industrihydraulik och felsökning i hydraulsystem.", "ikon": "kugge"},
+    {"titel": "Miljöledning ISO 14001", "text": "Certifierat miljöledningssystem med rutiner för oljehantering och spill.", "ikon": "lov"},
+    {"titel": "Saneringsrutin", "text": "Avtal med certifierad saneringsfirma för förorenad mark vid cylinderbyte.", "ikon": "sten"},
+    {"titel": "Elbehörighet i alla team", "text": "Registrerat elinstallationsföretag, med elbehörig tekniker i varje serviceområde.", "ikon": "blixt"}
+  ],
+  "kunder": ["Falköpings Handelshus", "Brf Hjo Strand", "Skövde Garnisonsfastigheter", "Tidaholms Bruksfastigheter", "Brf Kålland", "Mariestads Simhall", "Götene Livsmedelslager"],
+  "nyheter": [
+    ["2026-09-29", "Alla cylindrar i mark tryckprovade", "Planen för att byta de sista är klar till 2030.", "mark"],
+    ["2026-05-25", "Ny oljevagn i Lidköping", "Västra Skaraborg får oljebyten utan att vänta på Skövde.", "industri"],
+    ["2026-01-13", "Fem tecken på läckage", "Det ni kan se själva i maskinrummet på en hydraulhiss.", "hiss"]
+  ],
+  "kontakt": {"adress": "Hasslumsvägen 12", "postnr": "541 39", "ort": "Skövde", "telefon": "070-174 06 66", "epost": "service@billingenhydraul.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16. Jour alla dagar.",
+  "omrade": "Skövde, Falköping, Tidaholm, Hjo, Lidköping och Mariestad",
+  "fot_cta": "Har ni en hydraulhiss som ingen riktigt vill ta i? Den vill vi.",
+  "text": {
+    "ber_rubrik": "Från maskinrummen",
+    "proj_rubrik": "Maskinrum vi har stått i",
+    "process_rubrik": "Från tryckprov till logg",
+    "hb_etikett": "Olja och mark",
+    "omdomen_rubrik": "Kunder med hydraulhissar",
+    "faq_rubrik": "Frågor om hydraulhissar",
+    "boka_rubrik": "Beställ ett tryckprov",
+    "boka_text": "Ange adress, antal hissar och om ni vet hur gamla de är. Vi bokar in en tekniker inom två veckor.",
+    "logos_rubrik": "Fastighetsägare i Skaraborg",
+    "bolag_rubrik": "Två depåer och en hydraulverkstad",
+    "certifikat_rubrik": "Kompetens för tryck och olja",
+    "hero_knapp": "Varför hydraulik"
+  }
+}

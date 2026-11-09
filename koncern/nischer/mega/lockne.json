@@ -21,7 +21,7 @@
     {"titel": "Vind och sol in i nätet", "ikon": "vind", "href": "verksamhet.html", "text": "Anslutning av parker med egna ställverk och transformatorer."},
     {"titel": "Kraftledningsbygge", "ikon": "blixt", "href": "verksamhet.html", "text": "Luftledningar och markkabel från 20 kV till 400 kV, med egna montörer."},
     {"titel": "Transformatorstationer", "ikon": "kugge", "href": "verksamhet.html", "text": "Kompletta stationer projekterade, byggda och provade i egen regi."},
-    {"titel": "Laddinfrastruktur", "ikon": "laddning", "href": "verksamhet.html", "text": "Effekt till depåer för elbussar och tunga lastbilar längs E4 och E14."},
+    {"titel": "Effekt till laddning", "ikon": "laddning", "href": "verksamhet.html", "text": "Effekt till depåer för elbussar och tunga lastbilar längs E4 och E14."},
     {"titel": "Elmontör hos oss", "ikon": "hjalm", "href": "karriar.html", "text": "Linjemontörer och stationstekniker i Norrland och Baltikum."},
     {"titel": "Aktieägare", "ikon": "graf", "href": "investerare.html", "text": "Rapporter, kalender och kursdata för LOCK B."}
   ],
@@ -48,14 +48,14 @@
     {"varde": "47", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [31, 33, 35, 38, 41, 44, 47], "trend_text": "Omsättning per år sedan 2019, mdr kr"},
     {"varde": "214 000", "enhet": "km", "etikett": "Ledning i eget nät", "trend": [188000, 193000, 197000, 202000, 206000, 210000, 214000], "trend_text": "Kilometer ledning 2019–2025"},
     {"varde": "41", "enhet": "min", "etikett": "Avbrottstid per kund", "trend": [92, 78, 71, 63, 55, 48, 41], "trend_text": "Genomsnittlig avbrottstid per kund och år, minuter"},
-    {"varde": "11 300", "enhet": "", "etikett": "Medarbetare i fyra länder", "trend": [8200, 8700, 9100, 9700, 10200, 10800, 11300], "trend_text": "Medarbetare vid årets slut"}
+    {"varde": "11 300", "enhet": "", "etikett": "Anställda i fyra länder", "trend": [8200, 8700, 9100, 9700, 10200, 10800, 11300], "trend_text": "Antal anställda per 31 december"}
   ],
   "projekt": [
     {"namn": "Station Svartön 400 kV", "ort": "Luleå", "typ": "Industrianslutning", "ar": "2026", "text": "Anslutning på 800 MW för ett vätgasbaserat stålverk, med två transformatorer på 500 MVA.", "tagg": "industri"},
     {"namn": "Ledning Midskog–Hallen", "ort": "Krokom", "typ": "Kraftledning", "ar": "2027", "text": "86 kilometer ny 130 kV-ledning för att föra ut vindkraft från västra Jämtland.", "tagg": "natur"},
     {"namn": "Jordkabel Tartu centrum", "ort": "Tartu", "typ": "Lokalnät", "ar": "2025", "text": "420 kilometer luftledning ersatt med markkabel i stadens gamla stadsdelar.", "tagg": "stad"},
     {"namn": "Vindanslutning Aapua", "ort": "Övertorneå", "typ": "Vindkraft", "ar": "2025", "text": "Station och 34 kilometer ledning för en vindpark på 360 MW.", "tagg": "el"},
-    {"namn": "Bussdepå Pärnu", "ort": "Pärnu", "typ": "Laddinfrastruktur", "ar": "2026", "text": "Effektanslutning på 14 MW för stadens 92 nya elbussar.", "tagg": "infra"},
+    {"namn": "Bussdepå Pärnu", "ort": "Pärnu", "typ": "Laddeffekt för bussar", "ar": "2026", "text": "Effektanslutning på 14 MW för stadens 92 nya elbussar.", "tagg": "infra"},
     {"namn": "Driftcentral Östersund", "ort": "Östersund", "typ": "Nätstyrning", "ar": "2024", "text": "Ny driftcentral som styr alla fyra ländernas nät från samma golv.", "tagg": "kontor"}
   ],
   "process": [
@@ -122,7 +122,7 @@
     ["1948", "Föreningen köper fjorton grannföreningar och når hela Storsjöbygden."],
     ["1973", "Första 130 kV-ledningen byggs i egen regi, mellan Östersund och Bräcke."],
     ["1989", "Andelsföreningen bildar aktiebolag men behåller röstmajoriteten."],
-    ["2003", "Notering på Stockholmsbörsen."],
+    ["2003", "Lockne B noteras på Stockholmsbörsen."],
     ["2011", "Förvärv av nät i Österbotten – Lockne Verkko bildas."],
     ["2017", "Lockne Baltic bildas genom köp av nät i Estland och Lettland."],
     ["2024", "Ny driftcentral i Östersund styr alla fyra länders nät."]

@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "stad",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Bergnäs Vårdstäd AB",
+  "kortnamn": "Bergnäs",
+  "slug": "bergnas-vardstad",
+  "typ": "Vårdnära städning i Norrbotten",
+  "tagline": "Städ med hygienkompetens",
+  "slogan": "Vi städar tandkliniker, vårdcentraler och operationsenheter i Norrbotten – med en hygiensjuksköterska som skriver våra rutiner.",
+  "hero_rubrik": "Där smittspridning inte är ett alternativ",
+  "hero_text": "48 lokalvårdare utbildade i basala hygienrutiner städar 63 vårdlokaler i Luleå, Boden, Piteå och Kalix varje dag.",
+  "intro_rubrik": "Vårdstäd är ett eget yrke",
+  "om": [
+    "Bergnäs Vårdstäd grundades 2008 av Tiina Rantakyrö, som hade arbetat som undersköterska på en kirurgavdelning i tolv år. Hon såg hur ofta städningen var den svaga länken i hygienarbetet, och började med två privata tandkliniker på Bergnäset i Luleå.",
+    "I dag har vi 48 anställda och en hygiensjuksköterska på halvtid, Anders Nyström, som skriver och reviderar våra rutiner för varje typ av lokal. Våra kunder är privata vårdgivare, tandvård, veterinärkliniker och företagshälsovård från Kalix till Piteå."
+  ],
+  "vagval_rubrik": "Vilken typ av vårdlokal har ni?",
+  "tjanster": [
+    {"titel": "Tandvård", "ikon": "kors", "href": "verksamhet.html", "text": "Behandlingsrum, sterilcentral och väntrum, med rengöring av unitstolar efter er rutin."},
+    {"titel": "Vårdcentraler", "ikon": "vard", "href": "verksamhet.html", "text": "Mottagningsrum, provtagning och akutrum städade efter Vårdhandbokens riktlinjer."},
+    {"titel": "Operation och dagkirurgi", "ikon": "skold", "href": "verksamhet.html", "text": "Mellanstädning och slutstädning av operationssalar på privata kliniker."},
+    {"titel": "Smittstädning", "ikon": "blixt", "href": "verksamhet.html", "text": "Desinfektion efter magsjuka, MRSA eller annan smitta, inom fyra timmar."},
+    {"titel": "Veterinärkliniker", "ikon": "tass", "href": "verksamhet.html", "text": "Operationsrum, stall och isoleringsboxar med desinfektion godkänd för djurvård."},
+    {"titel": "Företagshälsovård", "ikon": "folk", "href": "verksamhet.html", "text": "Mottagningar och testlabb, ofta i samma hus som kundens kontor."},
+    {"titel": "Hygienrevision", "ikon": "sok", "href": "verksamhet.html", "text": "Vår hygiensjuksköterska granskar era städrutiner och föreslår förbättringar."},
+    {"titel": "Boka genomgång", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Tiina eller Anders går igenom er lokal och era hygienkrav på plats."}
+  ],
+  "affarsomraden": [
+    {"titel": "Tandvård och mottagningar", "text": "Tandkliniker är vår största kundgrupp. Vi skiljer på rena och orena zoner, använder separata färgkodade dukar för varje rum och torkar kontaktytor med alkoholbaserat medel med tensid.", "text2": "Behandlingsrummen städas efter sista patient och kontrolleras med ATP-test en gång i månaden.", "tagg": "stadning"},
+    {"titel": "Operation och dagkirurgi", "text": "På två privata kliniker i Luleå gör vi mellanstädning mellan operationer på 12 minuter och slutstädning efter sista ingreppet. Personalen bär operationskläder och följer klinikens slussrutiner.", "text2": "Varje sal har en checklista som signeras av både lokalvårdaren och ansvarig sjuksköterska.", "tagg": "stadning"},
+    {"titel": "Smitta och utbrott", "text": "Vid magsjukeutbrott eller multiresistenta bakterier behöver en lokal desinfekteras snabbt och rätt. Vi har en smittgrupp i beredskap vardagar 7–19 som är på plats inom fyra timmar i Luleå.", "text2": "Efter varje smittstädning skickar vi en rapport med använda medel och verkningstider.", "tagg": "people"},
+    {"titel": "Revision och utbildning", "text": "Anders Nyström reviderar städrutiner även hos kunder som har egen lokalvård. Han går igenom flöden, medel och dokumentation och skriver en rapport med åtgärder.", "text2": "Vi håller också halvdagsutbildningar i städhygien för vårdpersonal.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Bergnäs Luleå", "segment": "29 lokalvårdare", "rubrik": "Huvudkontor på Bergnäset", "text": "Tandvård, två operationskliniker och smittgruppen, med förråd och tvätteri för moppar och dukar.", "tagg": "stadning"},
+    {"namn": "Bergnäs Boden", "segment": "8 lokalvårdare", "rubrik": "Mottagningar längs Lule älv", "text": "Vårdcentraler, företagshälsovård och en veterinärklinik i Boden och Harads.", "tagg": "people"},
+    {"namn": "Bergnäs Piteå och Kalix", "segment": "9 lokalvårdare", "rubrik": "Kusten norr och söder", "text": "Tandkliniker och privata mottagningar i båda kuststäderna, med varsin lokal arbetsledare.", "tagg": "stadning"},
+    {"namn": "Hygien och kvalitet", "segment": "2 personer", "rubrik": "Anders skriver rutinerna", "text": "Hygiensjuksköterska och kvalitetsansvarig som följer upp ATP-mätningar och avvikelser.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Magsjukeutbrott stoppat på två dygn", "text": "Smittgruppen desinfekterade en vårdcentral i Boden på kvällen och gjorde om det nästa dag. Inga nya fall rapporterades.", "tagg": "people"},
+    {"rubrik": "Ny operationsklinik på Porsön", "text": "Vi sköter all städning på den nya dagkirurgiska kliniken som öppnade i september, med fyra salar.", "tagg": "stadning"},
+    {"rubrik": "ATP-mätningar visar 18 procent förbättring", "text": "Efter nya dukrutiner har kontaktytorna i behandlingsrummen klart lägre värden än i fjol.", "tagg": "kontor"}
+  ],
+  "nyckeltal": [
+    {"varde": "63", "enhet": "lokaler", "etikett": "Vårdlokaler vi städar"},
+    {"varde": "4 h", "enhet": "", "etikett": "Till smittstädning i Luleå"},
+    {"varde": "12 min", "enhet": "", "etikett": "Mellanstädning av operationssal"},
+    {"varde": "100 %", "enhet": "", "etikett": "Utbildade i basala hygienrutiner"}
+  ],
+  "projekt": [
+    {"namn": "Dagkirurgisk klinik på Porsön", "ort": "Luleå, Porsön", "typ": "Operationsstäd", "ar": "2026", "text": "Fyra salar med mellanstädning och slutstädning, fem dagar i veckan.", "tagg": "stadning", "status": "Pågående"},
+    {"namn": "Tandklinik på Bergnäset", "ort": "Luleå", "typ": "Tandvård sedan 2008", "ar": "2026", "text": "Vår första kund, med sex behandlingsrum och egen sterilcentral.", "tagg": "stadning", "status": "Pågående"},
+    {"namn": "Vårdcentral i Boden", "ort": "Boden", "typ": "Smittstädning", "ar": "2025", "text": "Desinfektion av hela mottagningen två kvällar i rad vid magsjukeutbrott.", "tagg": "people"},
+    {"namn": "Djursjukhus i Piteå", "ort": "Piteå", "typ": "Veterinärstäd", "ar": "2025", "text": "Operation, isoleringsboxar och väntrum för hundar och katter.", "tagg": "stadning"},
+    {"namn": "Företagshälsa i Kalix", "ort": "Kalix", "typ": "Mottagning och labb", "ar": "2024", "text": "Hörsel- och lungfunktionstest för industrin, städat efter sista besökare.", "tagg": "kontor"},
+    {"namn": "Privat ögonklinik", "ort": "Luleå", "typ": "Hygienrevision", "ar": "2025", "text": "Genomgång av klinikens egen städning med tolv åtgärdspunkter.", "tagg": "kontor"}
+  ],
+  "process": [
+    {"titel": "Hygiengenomgång", "text": "Anders går igenom lokalen, flödena och era hygienkrav tillsammans med er.", "tagg": "kontor"},
+    {"titel": "Skriven städrutin", "text": "Ni får en rutin per rumstyp med medel, metod, frekvens och ansvarsfördelning.", "tagg": "stadning"},
+    {"titel": "Introduktion på plats", "text": "Lokalvårdaren går bredvid er personal i två dagar innan hen arbetar ensam.", "tagg": "people"},
+    {"titel": "Mätning varje månad", "text": "Vi tar ATP-prov på kontaktytor och redovisar resultaten i en kvartalsrapport.", "tagg": "stadning"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mätbar hygien, inte bara synligt rent",
+    "text": "En yta kan se ren ut och ändå bära bakterier. Därför mäter vi med ATP-test, för avvikelser i ett digitalt system och går igenom resultaten med varje kund en gång per kvartal.",
+    "mal": [["12", "ATP-mätningar per lokal och år"], ["4 h", "till smittstädning"], ["0", "underleverantörer i vårdmiljö"]]
+  },
+  "karriar": {
+    "rubrik": "Bli specialist på städhygien",
+    "text": "Har du arbetat i vården eller som lokalvårdare och vill lära dig mer? Hos oss får du utbildning i basala hygienrutiner, smittstädning och operationsstäd, betald av oss.",
+    "jobb": [["Lokalvårdare vård", "Luleå"], ["Lokalvårdare tandvård", "Piteå"], ["Arbetsledare", "Boden"]]
+  },
+  "kultur": "Två gånger om året stänger vi kontoret en eftermiddag och övar smittstädning tillsammans med Anders.",
+  "citat": {"text": "Jag lärde mig på kirurgen att handtag och tangentbord smittar mer än golv. Det är där vi börjar varje pass.", "namn": "Tiina Rantakyrö", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "De följer våra slussrutiner bättre än en del av våra egna vikarier. Mellanstädningen tar exakt den tid vi har planerat.", "namn": "Ulrika B.", "ort": "Porsön"},
+    {"text": "Klockan fem ringde vi om magsjuka. Klockan nio var smittgruppen klar och vi kunde öppna som vanligt nästa morgon.", "namn": "Henrik M.", "ort": "Boden"},
+    {"text": "Revisionen visade att vi använde fel medel på unitstolarna. Det hade ingen sagt på femton år.", "namn": "Lena Å.", "ort": "Kalix"}
+  ],
+  "faq": [
+    ["Vad är skillnaden mot vanlig kontorsstädning?", "Vi arbetar från rent till smutsigt, byter dukar mellan varje rum, desinfekterar kontaktytor och följer vårdens krav på klädsel och handhygien."],
+    ["Vilka desinfektionsmedel använder ni?", "Främst alkoholbaserat medel med tensid för ytor och klorbaserat medel vid sporbildande smitta som Clostridioides difficile, enligt Vårdhandbokens rekommendationer."],
+    ["Kan ni städa när vi har patienter?", "Väntrum och toaletter kan städas under öppettid. Behandlingsrum städas efter sista patient eller mellan bokningar om ni planerar luckor."],
+    ["Hur snabbt kommer smittgruppen?", "Inom fyra timmar i Luleå och inom sex timmar i Boden, Piteå och Kalix, vardagar 7–19. Helger enligt särskilt avtal."],
+    ["Har ni tystnadsplikt?", "Ja. Alla anställda skriver under sekretessförbindelse och får introduktion i vad patientsekretessen innebär för den som städar."],
+    ["Vad kostar vårdstäd?", "Timpriset är 520 kronor exklusive moms för vårdnära städning och 640 kronor för operationsstäd. Smittstädning debiteras med 1 900 kronor i utryckning plus tid."],
+    ["Kan vi bara köpa en hygienrevision?", "Ja. En revision av en klinik med upp till tio rum kostar 14 500 kronor inklusive skriftlig rapport."]
+  ],
+  "certifikat": [
+    {"titel": "Basala hygienrutiner för alla", "text": "Samtliga anställda har gått Socialstyrelsens webbutbildning och vår egen praktiska fördjupning.", "ikon": "kors"},
+    {"titel": "Hygiensjuksköterska anställd", "text": "Rutinerna skrivs och revideras av legitimerad sjuksköterska med specialistutbildning i vårdhygien.", "ikon": "vard"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2017.", "ikon": "dokument"},
+    {"titel": "Sekretessförbindelse", "text": "Alla anställda har skriftlig tystnadsplikt gentemot patienter och kunder.", "ikon": "las"}
+  ],
+  "kunder": ["Porsöns Dagkirurgi", "Bergnäsets Tandklinik", "Bodens Familjeläkare", "Piteå Djursjukhus", "Kalix Företagshälsa", "Luleå Ögonklinik", "Storgatans Tandläkare", "Harads Hälsocenter"],
+  "nyheter": [
+    ["2026-10-12", "Ny operationsklinik på Porsön", "Fyra salar och fem dagar i veckan – vi anställer sex nya lokalvårdare.", "stadning"],
+    ["2026-06-18", "Så minskade vi ATP-värdena med 18 procent", "Nya färgkoder för dukar och tätare byten i behandlingsrummen.", "kontor"],
+    ["2025-12-03", "Inför magsjukesäsongen", "Fem saker kliniken kan göra själv innan smittgruppen kommer.", "people"]
+  ],
+  "kontakt": {"adress": "Bergnäsvägen 34", "postnr": "975 92", "ort": "Luleå", "telefon": "070-174 06 48", "epost": "hygien@bergnasvardstad.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16, smittgrupp 7–19",
+  "omrade": "Luleå, Boden, Piteå och Kalix",
+  "fot_cta": "Osäker på om städningen håller vårdens krav? Boka en genomgång med vår hygiensjuksköterska.",
+  "bild": {"panel": "people", "hb": "stadning"},
+  "text": {
+    "hero_knapp": "Lokaler vi städar",
+    "kontakt_knapp": "Boka hygiengenomgång",
+    "hero_lank": "Kliniker och mottagningar",
+    "vagval_etikett": "Vårdmiljö",
+    "ber_rubrik": "Senast från klinikerna",
+    "proj_rubrik": "Vårdlokaler vi ansvarar för",
+    "process_rubrik": "Från genomgång till mätning",
+    "hb_etikett": "Hygien",
+    "omdomen_rubrik": "Vårdpersonalen om oss",
+    "faq_rubrik": "Frågor om städning i vården",
+    "boka_rubrik": "Boka en genomgång av er lokal",
+    "boka_text": "Berätta vilken verksamhet ni har och hur många rum lokalen har, så föreslår Anders en tid för genomgång.",
+    "boka_falt": ["Namn", "Telefon", "Klinik och ort", "Antal rum och typ av vård"],
+    "logos_rubrik": "Vårdgivare som litar på oss",
+    "certifikat_rubrik": "Hygienkompetens och ledningssystem",
+    "bolag_rubrik": "Fyra enheter i Norrbotten",
+    "ny_rubrik": "Om hygien och vårdstäd",
+    "medarbetare": "Lokalvårdarna"
+  }
+}

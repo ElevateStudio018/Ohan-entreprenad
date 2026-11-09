@@ -45,10 +45,10 @@
     {"rubrik": "200 nya lärlingar i verkstaden", "text": "Verkstaden i Kusmark öppnar en industriskola för svetsare och rörmontörer med start i januari.", "tagg": "svets"}
   ],
   "nyckeltal": [
-    {"varde": "64", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [29, 33, 38, 45, 52, 58, 64], "trend_text": "Omsättning 2019–2025, mdr kr"},
-    {"varde": "118", "enhet": "mdr kr", "etikett": "Orderstock 30 sep", "trend": [46, 58, 71, 86, 97, 109, 118], "trend_text": "Orderstock vid årets slut, mdr kr"},
+    {"varde": "64", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [29, 33, 38, 45, 52, 58, 64], "trend_text": "Årlig omsättning sedan 2019, mdr kr"},
+    {"varde": "118", "enhet": "mdr kr", "etikett": "Ordrar i bok 30/9", "trend": [46, 58, 71, 86, 97, 109, 118], "trend_text": "Ordervärde i bok per årsskifte, mdr kr"},
     {"varde": "26", "enhet": "mån", "etikett": "Snabbaste fabriksbygget", "trend": [41, 38, 36, 33, 30, 28, 26], "trend_text": "Kortaste tid från pålning till produktion, månader"},
-    {"varde": "18 500", "enhet": "", "etikett": "Medarbetare", "trend": [9800, 11200, 12600, 14300, 15800, 17200, 18500], "trend_text": "Medarbetare vid årets slut"}
+    {"varde": "18 500", "enhet": "", "etikett": "Medarbetare", "trend": [9800, 11200, 12600, 14300, 15800, 17200, 18500], "trend_text": "Anställda i koncernen per år"}
   ],
   "projekt": [
     {"namn": "Reduktionsverket Svartbyn", "ort": "Boden", "typ": "Fossilfritt stål", "ar": "2026", "text": "Direktreduktionsverk för 2,1 miljoner ton järnsvamp om året, byggt som totalentreprenad.", "tagg": "industri"},
@@ -75,7 +75,7 @@
     "jobb": [["Processingenjör vätgas", "Skellefteå"], ["Industrimontör rör", "Luleå"], ["Projektchef batterifabrik", "Heide"], ["Elkonstruktör högspänning", "Mo i Rana"]]
   },
   "kultur": "Alla nyanställda tillbringar sin första vecka i verkstaden i Kusmark, oavsett om de ska bli svetsare, projektchef eller ekonomichef.",
-  "citat": {"text": "Smeden i Kusmark lagade borriggar för att gruvan inte skulle stå still. Vi bygger fabriker för hundra miljarder nu, men uppdraget är detsamma: när kunden trycker på startknappen ska det fungera.", "namn": "Johan Nordlund Ek", "roll": "Vd och koncernchef", "tagg": "people"},
+  "citat": {"text": "Smeden i Kusmark lagade borriggar för att gruvan inte skulle stå still. Vi bygger fabriker för hundra miljarder nu, men uppdraget är detsamma: när kunden trycker på startknappen ska det fungera.", "namn": "Johan Nordlund Ek", "roll": "Koncernchef, barnbarns barn till grundaren", "tagg": "people"},
   "omdomen": [
     {"text": "Ett kontrakt och en projektchef för hela reduktionsverket. När det blev problem med en tysk kompressorleverantör var det Kusmarks problem, inte vårt.", "namn": "Andreas L.", "ort": "Luleå"},
     {"text": "Bruksstoppet var planerat till 18 dygn. Den nya sodapannan var tänd efter 16.", "namn": "Kristina M.", "ort": "Örnsköldsvik"},
@@ -86,7 +86,7 @@
     ["Hur stora projekt tar ni?", "Från ombyggnader för 200 miljoner kronor till kompletta fabriker för över 30 miljarder. Snittet i orderstocken ligger på 3,4 miljarder per projekt."],
     ["Bygger ni utanför Norden?", "Ja, i Tyskland och Kanada, men alltid för kunder vi redan arbetat med i Norden. Norden står för 81 procent av omsättningen."],
     ["Hur hanterar ni risken med fast pris?", "Vi binder priser på stål, rör och el med leverantörer innan anbud lämnas och delar ofta upp kontraktet i en öppen och en fast etapp."],
-    ["Vem är största ägare?", "Familjen Nordlund äger 19 procent av rösterna via Alriks Invest AB. Bland övriga ägare finns tre nordiska pensionsbolag."],
+    ["Vilka är de största ägarna?", "Familjen Nordlund äger 19 procent av rösterna via Alriks Invest AB. Bland övriga ägare finns tre nordiska pensionsbolag."],
     ["Hur skaffar ni folk till alla projekt?", "Genom egna industriskolor, lärlingsplatser i verkstäderna och ett boendeprogram för medarbetare som flyttar till Norrbotten och Västerbotten."],
     ["När lämnas utdelning?", "Utdelningen beslutas av årsstämman i april och betalas i två delar, i maj och november. För 2025 var den 5,80 kronor per aktie."]
   ],
@@ -123,7 +123,7 @@
     ["1938", "Smeden Alrik Nordlund startar mekanisk verkstad i Kusmark."],
     ["1946", "Det första anrikningsverket byggs åt en gruva i Skelleftefältet."],
     ["1972", "Kusmark levererar sitt första kompletta massabruk, i Piteå."],
-    ["1991", "Notering på Stockholmsbörsen."],
+    ["1991", "Kusmark-aktien noteras i Stockholm."],
     ["2009", "Rörverkstaden i Byske invigs."],
     ["2019", "Första battericellfabriken som totalentreprenad i Sverige."],
     ["2024", "Pålning startar för reduktionsverket i Svartbyn."]

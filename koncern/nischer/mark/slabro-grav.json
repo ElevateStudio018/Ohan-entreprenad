@@ -1,0 +1,143 @@
+{
+  "profil": "nisch",
+  "nisch": "mark",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Släbro Grävtjänst AB",
+  "kortnamn": "Släbro Gräv",
+  "slug": "slabro-grav",
+  "typ": "Minigrävare och småjobb i Nyköping",
+  "tagline": "Inget jobb för litet",
+  "slogan": "Tre personer och tre minigrävare som tar jobben de stora markföretagen tackar nej till – från ett stolphål till en fiberslang över tomten.",
+  "hero_rubrik": "Ett stolphål är också ett riktigt jobb",
+  "hero_text": "Släbro Gräv är Mats, Jennie och Oliver med tre minigrävare och ett tippsläp. Små grävjobb i Nyköping, Oxelösund och Trosa – 895 kronor i timmen, före ROT.",
+  "intro_rubrik": "Små jobb, tusentals gånger",
+  "om": [
+    "Mats Holmberg körde stora grävmaskiner åt vägbyggen i 22 år och tröttnade på att säga nej till grannar som bara behövde gräva ner en kabel. 2019 köpte han en minigrävare på 1,8 ton och började ta de jobben själv.",
+    "I dag är vi tre: Mats, kollegan Jennie Larsson som kör entonnaren genom grindar på 80 centimeter, och lärlingen Oliver Sjögren. Vi har inga säljare och ingen kö på månader – de flesta jobb gör vi inom två veckor från att du ringer."
+  ],
+  "vagval_rubrik": "Vad behöver du gräva?",
+  "tjanster": [
+    {"titel": "Plintar och stolphål", "ikon": "hamare", "href": "verksamhet.html", "text": "Hål för altan, staket, carport och friggebod – med plintar om du vill."},
+    {"titel": "Kabel och fiber", "ikon": "blixt", "href": "verksamhet.html", "text": "Schakt för el, fiber och laddbox från huset till garaget eller gatan."},
+    {"titel": "Stuprör och stenkista", "ikon": "vatten", "href": "verksamhet.html", "text": "Takvattnet leds till stenkista eller kassett i stället för mot grunden."},
+    {"titel": "Trädgårdsjobb", "ikon": "trad", "href": "verksamhet.html", "text": "Rabatter, stubbar, dammar och gräsytor som ska jämnas."},
+    {"titel": "Friggebodsgrunder", "ikon": "hus", "href": "verksamhet.html", "text": "Grus- och plintgrund för friggebod och attefallshus."},
+    {"titel": "Bortforsling", "ikon": "bil", "href": "verksamhet.html", "text": "Jord, sten och grus till och från tomten med tippsläp."},
+    {"titel": "Timpris och paket", "ikon": "portfolj", "href": "priser.html", "text": "895 kronor i timmen för maskin och förare, före ROT."},
+    {"titel": "Ring Mats", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Han svarar mellan jobben, annars ringer han upp samma dag."}
+  ],
+  "affarsomraden": [
+    {"titel": "Plintar och grunder för småhus", "text": "En altan eller friggebod står på plintar som måste nå tjälfritt djup eller stå på isolerad grund. Vi gräver, lägger makadam, ställer plintarna i lod och mäter in höjderna så att snickaren kan börja direkt.", "text2": "En vanlig altan på 25 kvadratmeter med tolv plintar tar en dag.", "tagg": "mark"},
+    {"titel": "Kabel, fiber och laddbox", "text": "Ska du dra el till garaget eller en laddbox till uppfarten behöver kabeln ligga på rätt djup med markeringsnät ovanpå. Vi gräver, lägger skyddsrör och fyller igen så att gräset kan sås samma dag.", "text2": "Elektrikern kopplar in – vi kan tipsa om tre i Nyköping som vi brukar jobba med.", "tagg": "el"},
+    {"titel": "Trädgård och regnvatten", "text": "Vatten som blir stående vid husgrunden, en stubbe mitt i gräsmattan eller en slänt som ska jämnas. Det är jobb som tar en dag med minigrävare och en vecka med spade.", "text2": "Vi tar med matjord och gräsfrö om du vill.", "tagg": "tradgard"},
+    {"titel": "Där stora maskiner inte kommer in", "text": "Vår minsta grävare är 78 centimeter bred och väger ett ton. Den kommer genom grindar och in på bakgårdar i Nyköpings innerstad där en vanlig grävare skulle förstöra hela gräsmattan.", "text2": "Vi lägger körplattor på gräset så att det inte blir spår.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Mats Holmberg", "segment": "Ägare och maskinförare", "rubrik": "22 år med stora maskiner", "text": "Tar de flesta jobben, svarar i telefon och gör alla prisförslag.", "tagg": "maskin"},
+    {"namn": "Jennie Larsson", "segment": "Maskinförare", "rubrik": "Den smala grävaren", "text": "Kör entonnaren genom trånga grindar och har gjort fler fiberschakt än någon annan vi känner.", "tagg": "mark"},
+    {"namn": "Oliver Sjögren", "segment": "Lärling", "rubrik": "Andra året av fyra", "text": "Kör tippsläpet, lär sig maskinerna och tar sitt förarbevis 2027.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fiber till 19 hus i Stigtomta", "text": "Byalaget grävde inte själva i år – vi tog alla 19 tomterna på fem dagar.", "tagg": "el"},
+    {"rubrik": "Ny grävare på ett ton", "text": "Den smala maskinen kommer in på tomter där det tidigare krävdes spade.", "tagg": "maskin"},
+    {"rubrik": "Vårkön är två veckor", "text": "April och maj är våra mest bokade månader, men det finns tider före midsommar.", "tagg": "tradgard"}
+  ],
+  "nyckeltal": [
+    {"varde": "3", "enhet": "personer", "etikett": "Och tre minigrävare"},
+    {"varde": "895", "enhet": "kr/tim", "etikett": "Maskin och förare"},
+    {"varde": "2", "enhet": "veckor", "etikett": "Normal väntetid"},
+    {"varde": "78", "enhet": "cm", "etikett": "Bredd på minsta grävaren"}
+  ],
+  "projekt": [
+    {"namn": "Altan på Ekensberg", "ort": "Nyköping", "typ": "Plintar", "ar": "2025", "text": "Fjorton plintar på tjälfritt djup för en altan på 30 kvadratmeter.", "tagg": "mark"},
+    {"namn": "Byalaget i Stigtomta", "ort": "Stigtomta", "typ": "Fiberschakt", "ar": "2025", "text": "19 tomter, skyddsrör och sådd gräsmatta på fem dagar.", "tagg": "el"},
+    {"namn": "Bakgård på Västra Storgatan", "ort": "Nyköping", "typ": "Stenkista", "ar": "2024", "text": "Stenkista grävd med entonnaren genom en grind på 80 centimeter.", "tagg": "stad"},
+    {"namn": "Stuga i Tystberga", "ort": "Tystberga", "typ": "Attefallsgrund", "ar": "2025", "text": "Plintgrund och makadam för ett attefallshus på 25 kvadratmeter.", "tagg": "hem"},
+    {"namn": "Villa i Oxelösund", "ort": "Oxelösund", "typ": "Laddbox och kabel", "ar": "2024", "text": "28 meter kabelschakt från elcentralen till uppfarten.", "tagg": "el"},
+    {"namn": "Trädgård i Trosa", "ort": "Trosa", "typ": "Trädgårdsplanering", "ar": "2026", "text": "Damm, rabatter och nya gångar – bokat till april.", "tagg": "tradgard"}
+  ],
+  "process": [
+    {"titel": "Skicka en bild", "text": "En bild på platsen räcker ofta för att Mats ska kunna ge ett ungefärligt pris.", "tagg": "people"},
+    {"titel": "Prisförslag", "text": "Du får timuppskattning och takpris i ett sms eller mejl samma dag.", "tagg": "kontor"},
+    {"titel": "Vi gräver", "text": "Maskinen kommer på släp, körplattor läggs ut och jobbet görs oftast på en dag.", "tagg": "mark"},
+    {"titel": "Städat efteråt", "text": "Vi krattar, sår om du vill och tar med det som ska bort.", "tagg": "tradgard"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Små maskiner, små spår",
+    "text": "En minigrävare drar runt två liter bränsle i timmen, mot femton för en stor grävare. Vi kör alla tre maskinerna på HVO100 och lägger körplattor på gräsmattan, så att tomten inte behöver lagas efter oss.",
+    "mal": [["HVO100", "i alla tre maskinerna"], ["2 l", "bränsle per timme i snitt"], ["0 kr", "extra för körplattor på gräset"]]
+  },
+  "karriar": {
+    "rubrik": "En lärling åt gången",
+    "text": "Vi anställer sällan, men Oliver är vår andra lärling sedan starten. Nästa plats blir ledig hösten 2028, och fram till dess tar vi gärna emot praktikanter från anläggningsprogrammet.",
+    "jobb": [["Praktik anläggning", "Nyköping"]]
+  },
+  "kultur": "Fredagar slutar vi klockan tre och äter räkmacka vid hamnen om vädret tillåter.",
+  "citat": {"text": "Det finns inget litet jobb för den som har väntat i tre månader på att någon ska komma.", "namn": "Mats Holmberg", "roll": "Ägare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Ringde på måndagen, plintarna stod på torsdagen. Snickaren sa att det var de rakaste han sett.", "namn": "Peter K.", "ort": "Ekensberg"},
+    {"text": "Grinden var 82 centimeter. Jennie körde in maskinen med två centimeter till godo, och gräsmattan såg orörd ut efteråt.", "namn": "Margareta L.", "ort": "Nyköping"},
+    {"text": "Hela byn fick fiber på fem dagar. De sådde till och med gräs efter sig.", "namn": "Roger A.", "ort": "Stigtomta"}
+  ],
+  "faq": [
+    ["Tar ni verkligen jobb på en timme?", "Ja, men minsta debitering är två timmar inklusive transport inom Nyköping."],
+    ["Vad kostar det?", "895 kronor i timmen för maskin och förare, före ROT. Transport och material tillkommer enligt prislistan."],
+    ["Hur fungerar ROT hos er?", "Arbetskostnaden är ungefär 70 procent av timpriset, och på den får du 30 procents avdrag. Vi drar det direkt på fakturan."],
+    ["Hur smal grind kommer ni in genom?", "Entonnaren är 78 centimeter bred. Med 80 centimeter fri öppning kommer vi in."],
+    ["Kollar ni ledningar i marken?", "Alltid. Vi beställer ledningsanvisning via Ledningskollen och söker med kabelsökare innan vi gräver."],
+    ["Gräver ni husgrunder och dräneringar?", "Nej, där hänvisar vi till större markföretag i Nyköping. Vi håller oss till det vi gör bäst."]
+  ],
+  "priser": [
+    {"namn": "Minigrävare", "pris": "895 kr", "enhet": "per timme, före ROT", "text": "Maskin och förare, minsta debitering två timmar.", "punkter": ["Grävare 1–2,5 ton", "Körplattor ingår", "Ledningsanvisning ingår", "ROT dras på fakturan"], "utvald": true},
+    {"namn": "Plintpaket", "pris": "fr. 6 900 kr", "enhet": "upp till 12 plintar, före ROT", "text": "För altan, carport eller friggebod.", "punkter": ["Grävning till tjälfritt djup", "Makadam och betongplintar", "Inmätning av höjder", "Bortforsling av jord"]},
+    {"namn": "Kabelschakt", "pris": "fr. 4 900 kr", "enhet": "upp till 25 meter, före ROT", "text": "För el, fiber eller laddbox.", "punkter": ["Schakt på 60 cm djup", "Skyddsrör och markeringsnät", "Återfyllning och krattning", "Gräsfrö ingår"]}
+  ],
+  "prislista": [["Transport inom Nyköping", "450 kr"], ["Transport till Trosa eller Oxelösund", "750 kr"], ["Tippsläp med förare, per timme", "695 kr"], ["Makadam 16–32, per ton", "420 kr"], ["Matjord, per kubikmeter", "590 kr"], ["Stubbfräsning, per stubbe", "fr. 900 kr"]],
+  "prislista_rubrik": "Transport och material",
+  "sidor": [["verksamhet", "Vad vi gräver", "verksamhet"], ["priser", "Priser", "priser"], ["projekt", "Jobb vi gjort", "projekt"], ["bolag", "Vi tre", "bolag"], ["hallbarhet", "Miljö", "hallbarhet"], ["faq", "Frågor & svar", "faq"], ["karriar", "Lärlingsplats", "karriar"], ["om-oss", "Kontakt", "om-oss"]],
+  "certifikat": [
+    {"titel": "Maskinförarbevis", "text": "Mats och Jennie har förarbevis för grävmaskin, och Oliver tar sitt 2027.", "ikon": "hjalm"},
+    {"titel": "Ledningsanvisning varje gång", "text": "Vi gräver aldrig utan anvisning från Ledningskollen, inte ens för ett stolphål.", "ikon": "karta"},
+    {"titel": "Försäkrade för grannens kabel", "text": "Ansvarsförsäkring som täcker skador på ledningar och egendom upp till 3 miljoner kronor.", "ikon": "skold"},
+    {"titel": "Takpris enligt konsumenttjänstlagen", "text": "Skriftligt prisförslag med takpris, och du betalar först när du är nöjd.", "ikon": "dokument"}
+  ],
+  "kunder": ["Stigtomta Byalag", "Ekensbergs Villaförening", "Tystberga Stugägare", "Trosa Trädgårdsanläggning", "Brf Västra Storgatan", "Oxelösunds Elinstallation"],
+  "nyheter": [
+    ["2026-10-22", "Vi gräver tills tjälen kommer", "Plintar och kabel går bra ända in i december om vintern är mild.", "mark"],
+    ["2026-03-30", "Entonnaren är här", "Vår nya minigrävare är 78 centimeter bred och tyst nog för innergårdar.", "maskin"],
+    ["2025-09-04", "Så djupt ska en plint stå", "Mats om tjälfritt djup i Sörmland och när du kan isolera i stället.", "hem"]
+  ],
+  "kontakt": {"adress": "Släbrovägen 31", "postnr": "611 45", "ort": "Nyköping", "telefon": "070-174 06 81", "epost": "mats@slabrograv.se", "orgnr": ""},
+  "oppettider": "Telefon vardagar 7–18",
+  "omrade": "Nyköping, Oxelösund, Trosa och Stigtomta",
+  "fot_cta": "Har du ett jobb som ingen annan vill ta? Skicka en bild till Mats.",
+  "bild": {"panel": "maskin", "hb": "tradgard", "sida_priser": "mark"},
+  "text": {
+    "hero_knapp": "Se våra småjobb",
+    "hero_lank": "Timpris och paket",
+    "kontakt_knapp": "Ring Mats",
+    "ber_etikett": "Från veckan",
+    "ber_rubrik": "Fiber, plintar och en ny grävare",
+    "proj_etikett": "Jobb",
+    "proj_rubrik": "Små jobb som gjorde skillnad",
+    "proj_rubrik_lista": "Jobb vi gjort",
+    "process_rubrik": "Från bild till krattad tomt",
+    "hb_etikett": "Små spår",
+    "omdomen_rubrik": "Grannar i Sörmland",
+    "faq_rubrik": "Innan du ringer Mats",
+    "priser_rubrik": "Timpris eller paket",
+    "priser_utvald": "Oftast bokat",
+    "priser_knapp": "Skicka bild",
+    "priser_not": "Priserna är inklusive moms och före ROT-avdrag. Transport tillkommer enligt prislistan.",
+    "sida_priser_ingress": "Timpriset gäller allt – paketen finns för de jobb vi gör varje vecka.",
+    "logos_rubrik": "Byalag och grannar vi grävt åt",
+    "certifikat_rubrik": "Bevis och försäkring",
+    "bolag_rubrik": "Vi är tre",
+    "meny_bolag": "Vi tre",
+    "boka_rubrik": "Vilket jobb har du?",
+    "boka_text": "Beskriv jobbet och bifoga gärna en bild på platsen och grinden. Mats svarar samma dag.",
+    "boka_falt": ["Namn", "Telefon", "Adress", "Jobbet och grindens bredd"],
+    "siffror_etikett": "Tre personer i siffror",
+    "medarbetare": "Vi tre"
+  }
+}

@@ -18,7 +18,7 @@
   "vagval_rubrik": "Vilket golv ser du framför dig?",
   "tjanster": [
     {"titel": "Gjuten terrazzo", "ikon": "sten", "href": "verksamhet.html", "text": "Cementbunden terrazzo i 15–20 millimeter, gjuten på plats, slipad och polerad."},
-    {"titel": "Polerad betong", "ikon": "stjarna", "href": "verksamhet.html", "text": "Ny eller befintlig betong slipad i upp till tio steg till matt eller blank yta."},
+    {"titel": "Slipad och polerad betong", "ikon": "stjarna", "href": "verksamhet.html", "text": "Ny eller befintlig betong slipad i upp till tio steg till matt eller blank yta."},
     {"titel": "Epoxiterrazzo", "ikon": "skold", "href": "verksamhet.html", "text": "Tunnare terrazzo på 9 millimeter för bjälklag som inte tål mer vikt."},
     {"titel": "Provplattor", "ikon": "pensel", "href": "verksamhet.html", "text": "Tre plattor i 30 × 30 centimeter med din sten och dina pigment."},
     {"titel": "Trappor i terrazzo", "ikon": "upp", "href": "verksamhet.html", "text": "Gjutna trappsteg och sättsteg som matchar golvet."},
@@ -28,7 +28,7 @@
   ],
   "affarsomraden": [
     {"titel": "Terrazzo på plats", "text": "Terrazzo gjuts i ett enda skikt utan fogar, med mässings- eller zinklister där mönstret byter färg. Efter härdningen slipas golvet i fem till sju steg och impregneras.", "text2": "Ett golv på 80 kvadratmeter tar tre till fyra veckor inklusive härdning.", "tagg": "sten"},
-    {"titel": "Polerad betong", "text": "I nyproduktion och vid renoveringar slipar vi fram betongen till det golv som ska ligga kvar. Ballasten kommer fram efter de första stegen, och ytan förtätas och poleras.", "text2": "Polerad betong kostar ungefär en tredjedel av terrazzo och passar i lofts, butiker och garage.", "tagg": "golv"},
+    {"titel": "Slipad och polerad betong", "text": "I nyproduktion och vid renoveringar slipar vi fram betongen till det golv som ska ligga kvar. Ballasten kommer fram efter de första stegen, och ytan förtätas och poleras.", "text2": "Polerad betong kostar ungefär en tredjedel av terrazzo och passar i lofts, butiker och garage.", "tagg": "golv"},
     {"titel": "Restauranger och butiker", "text": "Ett gjutet golv tål stolsben, klackar och daglig våttorkning i årtionden. Vi gjuter i etapper eller över helger så att verksamheten kan hålla öppet.", "text2": "Logotyper och mönster läggs in med lister och ballast i olika färger.", "tagg": "interior"},
     {"titel": "Stenen från länet", "text": "Ballasten kommer från spill vid stenbrotten i Blekinge, som annars skulle bli fyllnadsmassa. Vi krossar, siktar och tvättar stenen i fraktioner från 2 till 12 millimeter.", "text2": "Varje golv får en receptkod så att det går att laga eller bygga ut med exakt samma blandning.", "tagg": "sten"}
   ],
@@ -51,9 +51,9 @@
   "projekt": [
     {"namn": "Restaurang vid Fisktorget", "ort": "Karlskrona", "typ": "Terrazzo", "ar": "2026", "text": "180 kvadratmeter med svart diabas och mässingslister, gjuten under januari.", "tagg": "sten", "status": "Gjutet"},
     {"namn": "Villa på Trossö", "ort": "Karlskrona", "typ": "Terrazzo med golvvärme", "ar": "2025", "text": "Ljusgrå terrazzo med röd granit i kök och hall, 95 kvadratmeter.", "tagg": "hem"},
-    {"namn": "Kontorsentré", "ort": "Malmö", "typ": "Polerad betong", "ar": "2025", "text": "420 kvadratmeter befintlig betong slipad till halvblank yta.", "tagg": "interior"},
+    {"namn": "Kontorsentré", "ort": "Malmö", "typ": "Slipad och polerad betong", "ar": "2025", "text": "420 kvadratmeter befintlig betong slipad till halvblank yta.", "tagg": "interior"},
     {"namn": "Klädbutik på Storgatan", "ort": "Kalmar", "typ": "Terrazzo i etapper", "ar": "2024", "text": "Butiken höll öppet medan golvet gjöts i tre helgetapper.", "tagg": "interior"},
-    {"namn": "Loft i gammal fabrik", "ort": "Ronneby", "typ": "Polerad betong", "ar": "2025", "text": "Fabriksgolv slipat så att ballasten och spåren efter maskinerna syns.", "tagg": "industri"},
+    {"namn": "Loft i gammal fabrik", "ort": "Ronneby", "typ": "Slipad och polerad betong", "ar": "2025", "text": "Fabriksgolv slipat så att ballasten och spåren efter maskinerna syns.", "tagg": "industri"},
     {"namn": "Stadsbiblioteket", "ort": "Karlshamn", "typ": "Terrazzo med mönster", "ar": "2026", "text": "Entrégolv med en karta över skärgården i fyra stenfärger – gjutning i december.", "tagg": "stad", "status": "Pågående"}
   ],
   "process": [
@@ -117,7 +117,7 @@
     "logos_rubrik": "Kunder och arkitekter",
     "certifikat_rubrik": "Gjutet, fuktmätt och dammfritt",
     "vagval_etikett": "Ytor",
-    "kontakt_knapp": "Beställ prover",
+    "kontakt_knapp": "Beställ tre plattor",
     "hero_knapp": "Utforska stenarna",
     "status_klart": "Gjutet",
     "medarbetare": "Gjutarna"

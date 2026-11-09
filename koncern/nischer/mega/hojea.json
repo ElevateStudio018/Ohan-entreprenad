@@ -16,7 +16,7 @@
   ],
   "vagval_rubrik": "Vilken verksamhet ska få nya lokaler?",
   "tjanster": [
-    {"titel": "Sjukhus och vård", "ikon": "vard", "href": "verksamhet.html", "text": "Akutsjukhus, psykiatri och specialistvård planerade utifrån flöden för patienter, personal och gods."},
+    {"titel": "Sjukhus", "ikon": "vard", "href": "verksamhet.html", "text": "Akutsjukhus, psykiatri och specialistvård planerade utifrån flöden för patienter, personal och gods."},
     {"titel": "Laboratorier", "ikon": "sok", "href": "verksamhet.html", "text": "Forskningslaboratorier, biosäkerhetsnivå 2–4 och flexibla labbmoduler."},
     {"titel": "Läkemedelsfabriker", "ikon": "fabrik", "href": "verksamhet.html", "text": "Renrum och processanläggningar enligt GMP för biologiska läkemedel och vacciner."},
     {"titel": "Universitet", "ikon": "skola", "href": "verksamhet.html", "text": "Campusplaner, undervisningshus och forskningsinfrastruktur."},
@@ -45,8 +45,8 @@
     {"rubrik": "Labbmodul i trä", "text": "Vår första laboratoriemodul med stomme i korslimmat trä står klar vid Umeå universitet.", "tagg": "tra"}
   ],
   "nyckeltal": [
-    {"varde": "10,4", "enhet": "mdr kr", "etikett": "Nettoomsättning 2025", "trend": [5.9, 6.4, 7.1, 7.9, 8.8, 9.6, 10.4], "trend_text": "Nettoomsättning 2019–2025, mdr kr"},
-    {"varde": "7 900", "enhet": "", "etikett": "Medarbetare i elva länder", "trend": [4800, 5200, 5800, 6400, 6900, 7400, 7900], "trend_text": "Antal medarbetare vid årets slut"},
+    {"varde": "10,4", "enhet": "mdr kr", "etikett": "Nettoomsättning 2025", "trend": [5.9, 6.4, 7.1, 7.9, 8.8, 9.6, 10.4], "trend_text": "Arvoden och intäkter per år, mdr kr"},
+    {"varde": "7 900", "enhet": "", "etikett": "Medarbetare i elva länder", "trend": [4800, 5200, 5800, 6400, 6900, 7400, 7900], "trend_text": "Arkitekter, ingenjörer och övriga per år"},
     {"varde": "64", "enhet": "sjukhus", "etikett": "Ritade sedan 1958", "trend": [41, 45, 49, 53, 57, 61, 64], "trend_text": "Antal färdiga sjukhusprojekt, ackumulerat"},
     {"varde": "11,2", "enhet": "%", "etikett": "EBITA-marginal", "trend": [9.1, 9.4, 9.9, 10.3, 10.6, 10.9, 11.2], "trend_text": "EBITA-marginal 2019–2025"}
   ],
@@ -75,7 +75,7 @@
     "jobb": [["Sjukhusarkitekt", "Lund"], ["Labbplanerare", "Cambridge"], ["Renrumsingenjör", "Basel"], ["Installationssamordnare", "Stockholm"]]
   },
   "kultur": "Fredagar klockan tre visar ett projektteam vad de arbetar med för resten av kontoret, oavsett om det är ett sjukhus eller ett tävlingsförslag.",
-  "citat": {"text": "Ett laboratorium som ritas fel kan kosta en forskargrupp ett år. Därför börjar vi alltid med att fråga hur de arbetar en vanlig tisdag – inte hur huset ska se ut.", "namn": "Hanna Bengtsdotter-Lie", "roll": "Vd och koncernchef", "tagg": "people"},
+  "citat": {"text": "Ett laboratorium som ritas fel kan kosta en forskargrupp ett år. Därför börjar vi alltid med att fråga hur de arbetar en vanlig tisdag – inte hur huset ska se ut.", "namn": "Hanna Bengtsdotter-Lie", "roll": "Vd sedan 2019", "tagg": "people"},
   "omdomen": [
     {"text": "Vi testade operationssalen i full skala i deras verkstad och flyttade dörren 80 centimeter. Den detaljen hade vi aldrig sett på en ritning.", "namn": "Karin S.", "ort": "Lund"},
     {"text": "Labbplaneraren hade själv arbetat med kryoelektronmikroskopi. Det märktes i varje beslut om vibrationer och temperatur.", "namn": "James R.", "ort": "Cambridge"},
@@ -85,7 +85,7 @@
     ["Vad gör en labbplanerare?", "En labbplanerare översätter forskningens behov till rum, bänkar, dragskåp, gaser och avlopp. De flesta av våra 340 labbplanerare har själva arbetat som forskare eller laboratorieingenjörer."],
     ["Tar ni mindre uppdrag?", "Ja. Omkring 40 procent av våra uppdrag är under 5 miljoner kronor, till exempel ombyggnad av ett enskilt laboratorium eller en vårdavdelning."],
     ["Arbetar ni med offentlig upphandling?", "Ja, de flesta sjukhus- och universitetsuppdrag upphandlas enligt LOU. Vi har ramavtal med elva svenska regioner."],
-    ["Vilka certifieringar har ni?", "ISO 9001 och 14001 för hela koncernen. Våra renrumsingenjörer är utbildade enligt GMP och ISO 14644."],
+    ["Vilka standarder arbetar ni efter?", "ISO 9001 och 14001 för hela koncernen. Våra renrumsingenjörer är utbildade enligt GMP och ISO 14644."],
     ["Vem äger Höjeå?", "Medarbetarna äger 28 procent av kapitalet via Höjeå Partners. B-aktien har handlats på Nasdaq Stockholm sedan 2014."],
     ["Hur stor är utdelningen?", "Policyn är 50–70 procent av vinsten. För 2025 betalades 8,40 kronor per aktie."]
   ],
@@ -127,7 +127,7 @@
     ["2026", "Etablering i Boston."]
   ],
   "kontakt": {"adress": "Sankt Laurentiigatan 6", "postnr": "222 21", "ort": "Lund", "telefon": "070-174 06 13", "epost": "info@hojea.se", "orgnr": ""},
-  "oppettider": "Mån–fre 8–17",
+  "oppettider": "Kontoret öppet vardagar 8–17",
   "omrade": "Norden, Storbritannien, Nederländerna, Schweiz och USA",
   "fot_cta": "Ska er forskning eller vård få nya lokaler? Börja med en verksamhetsanalys tillsammans med oss.",
   "bild": {"panel": "people", "hb": "interior"},

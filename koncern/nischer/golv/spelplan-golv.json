@@ -18,7 +18,7 @@
   "vagval_rubrik": "Vad spelas det på golvet?",
   "tjanster": [
     {"titel": "Fjädrande trägolv", "ikon": "trad", "href": "verksamhet.html", "text": "Punkt- och ytelastiska sportgolv i bok, ek eller lönn på regelverk."},
-    {"titel": "Polyuretangolv", "ikon": "skold", "href": "verksamhet.html", "text": "Gjutna PU-golv för multihallar – sömlösa och lätta att städa."},
+    {"titel": "Gjutna PU-golv", "ikon": "skold", "href": "verksamhet.html", "text": "Gjutna PU-golv för multihallar – sömlösa och lätta att städa."},
     {"titel": "Slipning av hallgolv", "ikon": "verktyg", "href": "verksamhet.html", "text": "Sommarslipning med tre skikt lack och nya linjer på sju arbetsdagar."},
     {"titel": "Linjemålning", "ikon": "pensel", "href": "verksamhet.html", "text": "Linjer för innebandy, handboll, basket, volleyboll och futsal i förbundens mått."},
     {"titel": "Gym och styrka", "ikon": "sten", "href": "verksamhet.html", "text": "Gummigolv på 15–40 millimeter som tål tappade hantlar och skivstänger."},
@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Hallaget", "segment": "Nyläggning av sportgolv", "rubrik": "Regelverk, bokplank och lack", "text": "Sju golvläggare som bygger nya trägolv och gjuter PU-golv. Leds av Per Wiklund, som har lagt golv i 140 hallar.", "tagg": "golv"},
-    {"namn": "Sommarlaget", "segment": "Slipning och renovering", "rubrik": "Sextio hallar på åtta veckor", "text": "Fyra slipteam som från midsommar till mitten av augusti kör i två skift i Medelpad, Ångermanland, Jämtland och Hälsingland.", "tagg": "golv"},
+    {"namn": "Sommarlaget", "segment": "Omslipning och lackning", "rubrik": "Sextio hallar på åtta veckor", "text": "Fyra slipteam som från midsommar till mitten av augusti kör i två skift i Medelpad, Ångermanland, Jämtland och Hälsingland.", "tagg": "golv"},
     {"namn": "Linjeverkstaden", "segment": "Linjemålning och märkning", "rubrik": "Laser, tejp och stadig hand", "text": "Tre linjemålare som märker upp nya och slipade golv och skär schabloner för klubbmärken i mittcirkeln.", "tagg": "interior"}
   ],
   "berattelser": [
@@ -73,7 +73,7 @@
     "jobb": [["Golvläggare sportgolv", "Sundsvall"], ["Linjemålare", "Sundsvall"], ["Sommarslipare", "Härnösand"]]
   },
   "kultur": "Varje torsdagskväll spelar personalen innebandy i hallen i Birsta – på ett golv vi lade själva.",
-  "citat": {"text": "En hall som är stängd i augusti är ett lag som inte kan träna. Därför börjar vi planera sommaren redan i januari.", "namn": "Malin Sjöberg", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "En hall som är stängd i augusti är ett lag som inte kan träna. Därför börjar vi planera sommaren redan i januari.", "namn": "Malin Sjöberg", "roll": "Grundare och verkställande direktör", "tagg": "people"},
   "omdomen": [
     {"text": "Vi fick protokoll på friktion och studs innan hallen öppnade. Det har ingen annan leverantör gett oss.", "namn": "Anders N.", "ort": "Kramfors"},
     {"text": "Golvet i stora salen är lätt att snurra på, men ingen halkar. Eleverna märkte skillnaden redan första lektionen.", "namn": "Josefin K.", "ort": "Sundsvall"},
@@ -114,7 +114,7 @@
     "faq_rubrik": "Om slipning, linjer och sportgolv",
     "boka_rubrik": "Boka en vecka i sommarschemat",
     "boka_text": "Skriv vilken hall det gäller och när golvet slipades senast, så återkommer vi med lediga veckor.",
-    "boka_falt": ["Namn och organisation", "Telefon", "E-post", "Hall, yta och senaste slipning"],
+    "boka_falt": ["Namn och kommun eller förening", "Telefon", "E-post", "Hall, yta och senaste slipning"],
     "logos_rubrik": "Hallägare som bokar varje sommar",
     "certifikat_rubrik": "Provat, friktionsmätt och auktoriserat",
     "vagval_etikett": "Idrotter",

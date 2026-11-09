@@ -26,13 +26,13 @@
     {"titel": "Investerare", "ikon": "graf", "href": "investerare.html", "text": "Rapporter, kalender och kursutveckling för ORNS B."}
   ],
   "affarsomraden": [
-    {"titel": "Drift och underhåll", "text": "Vi ansvarar för 14 600 kilometer spår i Sverige, Norge och Danmark genom kontrakt som löper fem till tio år. Inspektion, slipning, snöröjning av växlar och felavhjälpning sköts av egna lag stationerade längs banan.", "text2": "Vintern 2025/26 hade vi 61 000 växlar under bevakning med värmekameror och fjärrövervakade växelvärmare.", "tagg": "infra"},
+    {"titel": "Underhåll av banan", "text": "Vi ansvarar för 14 600 kilometer spår i Sverige, Norge och Danmark genom kontrakt som löper fem till tio år. Inspektion, slipning, snöröjning av växlar och felavhjälpning sköts av egna lag stationerade längs banan.", "text2": "Vintern 2025/26 hade vi 61 000 växlar under bevakning med värmekameror och fjärrövervakade växelvärmare.", "tagg": "infra"},
     {"titel": "Spårbyggnad", "text": "Nya dubbelspår, bangårdar och mötesstationer, ofta byggda intill trafikerat spår. Vår maskinpark omfattar 240 spårgående maskiner, bland annat två kompletta spårbytesmaskiner.", "text2": "En spårbytesmaskin lägger nya slipers och räler i 400 meter i timmen.", "tagg": "anlaggning"},
     {"titel": "Signal och el", "text": "Ställverk, signalsystem, kontaktledning och banmatning. Vi har byggt ERTMS-anläggningar på 1 900 kilometer bana och utbildar egna signaltekniker i Borlänge.", "text2": "Affärsområdet växer snabbast och stod för 27 procent av omsättningen 2025.", "tagg": "el"},
     {"titel": "Stadstrafik", "text": "Spårvägar, tunnelbanespår och depåer för städer och regionala trafikhuvudmän. Arbetet görs mitt i stadsmiljö med buss- och biltrafik bredvid schaktet.", "text2": "Pågående spårvägsprojekt finns i fyra nordiska städer och i Tallinn.", "tagg": "stad"}
   ],
   "bolag": [
-    {"namn": "Ornäs Bana AB", "segment": "Drift och underhåll", "rubrik": "Jour på 41 stationeringsorter", "text": "Sköter underhållskontrakten i Sverige, från Malmbanan i norr till Kust till kust-banan i söder.", "tagg": "infra"},
+    {"namn": "Ornäs Bana AB", "segment": "Banunderhåll Sverige", "rubrik": "Jour på 41 stationeringsorter", "text": "Sköter underhållskontrakten i Sverige, från Malmbanan i norr till Kust till kust-banan i söder.", "tagg": "infra"},
     {"namn": "Ornäs Spårbygg AB", "segment": "Nybyggnad", "rubrik": "Dubbelspår intill full trafik", "text": "Bygger nya spår, bangårdar och broar och äger koncernens tunga spårmaskiner.", "tagg": "anlaggning"},
     {"namn": "Ornäs Signal & Kraft AB", "segment": "Signal och el", "rubrik": "Från reläställverk till ERTMS", "text": "Projekterar, installerar och provar signalanläggningar och kontaktledning i sex länder.", "tagg": "el"},
     {"namn": "Ornäs Jernbane AS", "segment": "Norge och Danmark", "rubrik": "Fjällbanor och kustbanor", "text": "Underhåller och bygger järnväg i Norge och Danmark med 2 800 medarbetare och huvudkontor i Hamar.", "tagg": "natur"}
@@ -45,17 +45,17 @@
     {"rubrik": "Spårskolan dubblar antalet platser", "text": "Hallsberg tar emot 480 elever om året från 2027, med ett nytt övningsspår på 2,4 kilometer.", "tagg": "people"}
   ],
   "nyckeltal": [
-    {"varde": "31,2", "enhet": "mdr kr", "etikett": "Nettoomsättning 2025", "trend": [22.4, 23.9, 25.1, 26.8, 28.3, 29.6, 31.2], "trend_text": "Nettoomsättning 2019–2025, mdr kr"},
+    {"varde": "31,2", "enhet": "mdr kr", "etikett": "Nettoomsättning 2025", "trend": [22.4, 23.9, 25.1, 26.8, 28.3, 29.6, 31.2], "trend_text": "Intäkter per år sedan 2019, mdr kr"},
     {"varde": "14 600", "enhet": "km", "etikett": "Spår i underhållskontrakt", "trend": [10900, 11400, 12100, 12800, 13500, 14100, 14600], "trend_text": "Kilometer spår under kontrakt per år"},
     {"varde": "98,6", "enhet": "%", "etikett": "Banarbeten klara i tid", "trend": [96.1, 96.8, 97.2, 97.5, 98.0, 98.3, 98.6], "trend_text": "Andel nattliga banarbeten avslutade enligt plan"},
-    {"varde": "15 400", "enhet": "", "etikett": "Medarbetare i sex länder", "trend": [11800, 12300, 12900, 13600, 14200, 14800, 15400], "trend_text": "Antal medarbetare vid årets slut"}
+    {"varde": "15 400", "enhet": "", "etikett": "Medarbetare i sex länder", "trend": [11800, 12300, 12900, 13600, 14200, 14800, 15400], "trend_text": "Anställda 31 december respektive år"}
   ],
   "projekt": [
     {"namn": "Dubbelspår Gävle–Kringlan", "ort": "Gävle", "typ": "Dubbelspår", "ar": "2027", "text": "Elva kilometer nytt dubbelspår med två nya broar, byggt bredvid trafikerad bana.", "tagg": "infra"},
     {"namn": "ERTMS Ådalsbanan", "ort": "Härnösand", "typ": "Signal", "ar": "2026", "text": "Nytt signalsystem på 180 kilometer bana mellan Sundsvall och Långsele.", "tagg": "el"},
     {"namn": "Spårväg Linje 3", "ort": "Tallinn", "typ": "Spårväg", "ar": "2026", "text": "Sju kilometer spårväg med gräsbädd och tolv hållplatser genom Kalamaja.", "tagg": "stad"},
     {"namn": "Dovrebanen, kontaktledning", "ort": "Dombås", "typ": "Kontaktledning", "ar": "2025", "text": "Ny kontaktledning på 64 kilometer fjällbana, byggd under sommarens trafikuppehåll.", "tagg": "natur"},
-    {"namn": "Underhållskontrakt Bergslagen", "ort": "Hallsberg", "typ": "Drift och underhåll", "ar": "2025", "text": "Åttaårigt kontrakt för 1 340 kilometer spår och 2 900 växlar i Mellansverige.", "tagg": "anlaggning"},
+    {"namn": "Underhållskontrakt Bergslagen", "ort": "Hallsberg", "typ": "Underhållskontrakt", "ar": "2025", "text": "Åttaårigt kontrakt för 1 340 kilometer spår och 2 900 växlar i Mellansverige.", "tagg": "anlaggning"},
     {"namn": "Brobyte Dalälven", "ort": "Avesta", "typ": "Järnvägsbro", "ar": "2024", "text": "En 96 meter lång stålbro ersattes på 52 timmar under en helgavstängning.", "tagg": "infra"}
   ],
   "process": [
@@ -75,7 +75,7 @@
     "jobb": [["Signaltekniker ERTMS", "Borlänge"], ["Tillsyningsman banarbete", "Luleå"], ["Projektchef spårväg", "Tallinn"], ["Banarbetare, nattlag", "Hallsberg"]]
   },
   "kultur": "Varje nattlag har samma lagbas i minst ett år, så att alla vet vem som står bredvid när det är mörkt och spåret är strömlöst.",
-  "citat": {"text": "Ingen resenär ska behöva veta att vi har varit där. Om morgontåget går som vanligt har vi gjort vårt jobb – och det är precis så det ska kännas.", "namn": "Tobias Envall", "roll": "Vd och koncernchef", "tagg": "people"},
+  "citat": {"text": "Ingen resenär ska behöva veta att vi har varit där. Om morgontåget går som vanligt har vi gjort vårt jobb – och det är precis så det ska kännas.", "namn": "Tobias Envall", "roll": "Koncernchef sedan 2021", "tagg": "people"},
   "omdomen": [
     {"text": "Brobytet över Dalälven var klart fyra timmar före planerad trafikstart. Ornäs hade övat hela inskjutningen på en provbädd i Hallsberg veckan innan.", "namn": "Jonas F.", "ort": "Avesta"},
     {"text": "Vi bytte till Ornäs på Bergslagskontraktet och fick ned antalet växelfel med en tredjedel första vintern, främst tack vare fjärrövervakningen.", "namn": "Ulrika M.", "ort": "Örebro"},
@@ -86,9 +86,9 @@
     ["Vilka beställer era uppdrag?", "Statliga infrastrukturförvaltare i Norden och Baltikum, kommuner och regioner som bygger spårväg samt industrier och hamnar med egna spår."],
     ["Bullrar banarbetena?", "Slipning och spårriktning hörs. Vi meddelar närboende via sms och brev minst fem dagar i förväg och erbjuder hotellnatt vid arbeten över 70 dBA inomhus."],
     ["Hur blir jag banarbetare?", "Du söker till spårskolan via karriärsidan. Utbildningen är tolv veckor med lön, och du behöver B-körkort och klara en hälsokontroll för säkerhetstjänst."],
-    ["Vem är största ägare?", "Stiftelsen Ornäs Banbyggare äger 22 procent av rösterna. Därefter kommer tre svenska pensionsfonder. B-aktien handlas på Nasdaq Stockholm Large Cap."],
+    ["Vem kontrollerar Ornäs?", "Stiftelsen Ornäs Banbyggare äger 22 procent av rösterna. Därefter kommer tre svenska pensionsfonder. B-aktien handlas på Nasdaq Stockholm Large Cap."],
     ["Hur stor är orderstocken?", "Den 30 september 2026 uppgick den till 78 miljarder kronor, varav 49 miljarder i underhållskontrakt med en återstående löptid på i snitt 5,4 år."],
-    ["Hur mycket delar ni ut?", "Policyn är 50 procent av resultatet efter skatt. För 2025 delades 4,60 kronor ut per aktie."]
+    ["Vilken utdelning får aktieägarna?", "Policyn är 50 procent av resultatet efter skatt. För 2025 delades 4,60 kronor ut per aktie."]
   ],
   "nyheter": [
     ["2026-10-22", "Delårsrapport januari–september 2026", "Omsättningen ökade 8 procent och signalaffären växte med 19 procent jämfört med samma period i fjol.", "kontor"],
@@ -123,7 +123,7 @@
     ["1947", "Banbyggarlaget Ornäs bildas och lägger industrispår till bruken kring Borlänge."],
     ["1956", "Första uppdraget med elektrifiering av stambanan genom Norrland."],
     ["1979", "Spårskolan i Hallsberg öppnar med elva elever."],
-    ["1997", "Notering på Stockholmsbörsen."],
+    ["1997", "B-aktien börjar handlas på Stockholmsbörsen."],
     ["2008", "Ornäs Jernbane AS bildas genom förvärv av en banentreprenör i Hamar."],
     ["2019", "Första ERTMS-sträckan i egen regi tas i drift."],
     ["2024", "Spårvägsbygget i Tallinn startar – koncernens första uppdrag i Baltikum."]

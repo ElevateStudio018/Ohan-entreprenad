@@ -1,0 +1,133 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Brunflo Taksmide AB",
+  "kortnamn": "Brunflo Taksmide",
+  "slug": "brunflo-taksmide",
+  "typ": "Taksäkerhet i stål i Jämtland",
+  "tagline": "Säkert uppe på taket",
+  "slogan": "Snörasskydd, takstegar och takbryggor som tillverkas för jämtländsk snölast och monteras av egna montörer med fallskydd.",
+  "hero_rubrik": "Snön ska ligga kvar där den hör hemma",
+  "hero_text": "Taksäkerhet i varmförzinkat och lackat stål till villor, flerbostadshus, ladugårdar och fjällhotell. Tillverkat i Brunflo, monterat mellan Åre och Sveg.",
+  "intro_rubrik": "Tjugonio vintrar med tak över huvudet",
+  "om": [
+    "Ove Strandberg var plåtslagare i Östersund och tröttnade på att beställa snörasskydd från södra Sverige som böjde sig redan första vintern i Storlien. 1997 började han svetsa egna fästen i ett garage i Brunflo, dimensionerade för den snö som faktiskt faller i fjällen.",
+    "I dag är vi 14 anställda och omsätter 19 miljoner kronor. Verkstaden på Tandsbyvägen kantpressar, stansar och svetsar alla produkter, och de levereras i samma kulör som taket – vi har 22 vanliga takfärger i lager."
+  ],
+  "vagval_rubrik": "Vilket tak gäller det?",
+  "tjanster": [
+    {"titel": "Snörasskydd", "ikon": "skold", "href": "verksamhet.html", "text": "Rör- och gallerskydd dimensionerade för snözon 3,5 till 5,5."},
+    {"titel": "Takstegar", "ikon": "upp", "href": "verksamhet.html", "text": "Fasta takstegar och väggstegar med ryggskydd där höjden kräver det."},
+    {"titel": "Takbryggor", "ikon": "vag", "href": "verksamhet.html", "text": "Gångbryggor fram till skorsten, ventilation och solceller."},
+    {"titel": "Glidskydd för plåttak", "ikon": "sten", "href": "verksamhet.html", "text": "Isbromsar som hindrar snöflak från att glida av på bandtäckt plåt."},
+    {"titel": "Förankringspunkter", "ikon": "las", "href": "verksamhet.html", "text": "Säkerhetskrokar och linsystem för sotare och servicepersonal."},
+    {"titel": "Priser per meter", "ikon": "dokument", "href": "priser.html", "text": "Tre paket för villatak med montage inräknat."},
+    {"titel": "Tak vi har säkrat", "ikon": "karta", "href": "projekt.html", "text": "Från stugbyar i Vemdalen till skolor i Östersund."},
+    {"titel": "Skicka takets mått", "ikon": "ritning", "href": "om-oss.html#kontakt", "text": "Taklängd, lutning och takmaterial räcker för en första offert."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villor och fritidshus", "text": "Ett snöras från ett villatak kan väga flera hundra kilo. Vi monterar snörasskydd över entréer och gångvägar och takstegar som sotaren kan använda året om.", "text2": "Ett vanligt villatak är klart på en arbetsdag, med ROT-avdrag på arbetet.", "tagg": "hem"},
+    {"titel": "Fjällanläggningar", "text": "Hotell, stugbyar och liftstationer har tak som får mer snö på en vinter än ett tak i Mälardalen får på tio. Därför räknar vi infästningarna för varje byggnad i stället för att välja ur en tabell.", "text2": "Montage ovanför trädgränsen planeras till juli–september.", "tagg": "tak"},
+    {"titel": "Bostadsbolag och skolor", "text": "Fastighetsägare har ansvar för att snö och is inte faller ner på allmänna gångytor. Vi inventerar takbeståndet, prioriterar de farligaste fasaderna och tar fram en åtgärdsplan över tre år.", "text2": "Inventeringen redovisas med foton och karta per fastighet.", "tagg": "bostad"},
+    {"titel": "Lantbruk och industri", "text": "Långa ladugårdstak och hallar med tunn plåt behöver glidskydd i flera rader. Vi tillverkar fästen för både trapetsplåt och falsade tak och kan leverera i längder upp till sju meter.", "text2": "Industrikunder får takbryggor med räcke enligt SS-EN 516.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Verkstaden i Brunflo", "segment": "Tillverkning", "rubrik": "Kantpress, stans och 22 takfärger", "text": "Fem svetsare och plåtslagare som tillverkar alla fästen, skydd och stegar i egen verkstad.", "tagg": "svets"},
+    {"namn": "Montageteamen", "segment": "Montage på tak", "rubrik": "Alltid två på taket, aldrig en", "text": "Sju montörer i tre bilar, alla med fallskyddsutbildning och liftkort.", "tagg": "tak"},
+    {"namn": "Fastighetstjänst", "segment": "Inventering och avtal", "rubrik": "Varje tak i registret", "text": "Inventerar och följer upp takskydd åt kommuner och bostadsbolag i Jämtland och Härjedalen.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "312 tak i Östersund inventerade", "text": "Kommunens bostadsbolag fick en åtgärdsplan där 41 fasader mot gångstråk prioriteras först.", "tagg": "bostad"},
+    {"rubrik": "Stugbyn i Vemdalsskalet", "text": "Arton stugor fick nya snörasskydd och takstegar under tre augustiveckor.", "tagg": "tak"},
+    {"rubrik": "Ny stansmaskin i verkstaden", "text": "Fästen till falsade tak stansas nu i egen maskin, vilket kortat leveranstiden till tio arbetsdagar.", "tagg": "svets"}
+  ],
+  "nyckeltal": [
+    {"varde": "5,5", "enhet": "kN/m²", "etikett": "Högsta snölast vi dimensionerar för"},
+    {"varde": "14", "enhet": "anställda", "etikett": "Svetsare, plåtslagare och montörer"},
+    {"varde": "22", "enhet": "kulörer", "etikett": "Takfärger i lager"},
+    {"varde": "10", "enhet": "dagar", "etikett": "Leveranstid för standardskydd"}
+  ],
+  "projekt": [
+    {"namn": "Takinventering bostadsbolaget", "ort": "Östersund", "typ": "Inventering och åtgärdsplan", "ar": "2026", "text": "312 tak fotograferade och klassade, 41 fasader åtgärdade första året.", "tagg": "bostad"},
+    {"namn": "Stugbyn vid skalet", "ort": "Vemdalen", "typ": "Snörasskydd och stegar", "ar": "2026", "text": "Arton stugor säkrade för snözon 5 med skydd i fyra rader.", "tagg": "tak"},
+    {"namn": "Liftstationen på Åreskutan", "ort": "Åre", "typ": "Takbryggor", "ar": "2025", "text": "Gångbryggor och förankringspunkter på 1 200 meters höjd.", "tagg": "tak"},
+    {"namn": "Mjölkgården i Lit", "ort": "Lit", "typ": "Glidskydd", "ar": "2025", "text": "Fyra rader glidskydd på ett 86 meter långt ladugårdstak.", "tagg": "industri"},
+    {"namn": "Frösö skola", "ort": "Frösön", "typ": "Snörasskydd", "ar": "2024", "text": "Snörasskydd över alla entréer och skolgårdens gångstråk.", "tagg": "bygg"},
+    {"namn": "Fjällhotellet i Funäsdalen", "ort": "Funäsdalen", "typ": "Helhetsåtagande", "ar": "2027", "text": "Beräkning klar, tillverkning i vinter och montage i juli.", "tagg": "tak", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Mått och foton", "text": "Du skickar taklängd, lutning och bilder. Vi frågar vad sotaren och servicefolket behöver nå.", "tagg": "tak"},
+    {"titel": "Snölast räknas", "text": "Vi tar fram snözon och räknar antal fästen per meter så att skyddet håller när snön är som tyngst.", "tagg": "kontor"},
+    {"titel": "Tillverkning i kulör", "text": "Allt kapas och lackas i takets färg i Brunflo inom tio arbetsdagar.", "tagg": "svets"},
+    {"titel": "Montage med fallskydd", "text": "Två montörer med lift eller förankrad lina. Du får egenkontroll och foton när de är klara.", "tagg": "tak"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen ska behöva gå under en takfot med oro",
+    "text": "Taksäkerhet handlar om två grupper: de som går under taket och de som måste upp på det. Vi följer Arbetsmiljöverkets regler för arbete på höjd och har inte haft ett enda fallolycksfall sedan starten. Varje skydd märks med årtal och belastningsklass.",
+    "mal": [["0", "fallolyckor under 29 år på tak"], ["100 %", "av skydden lastberäknade för sin snözon"], ["2", "montörer på varje tak, alltid"]]
+  },
+  "karriar": {
+    "rubrik": "Jobba ovanpå Jämtland",
+    "text": "Vi söker montörer som inte är höjdrädda och svetsare som gillar serieproduktion med variation. Du får fallskyddsutbildning, liftkort och kollektivavtal, och vintrarna tillbringas i den varma verkstaden.",
+    "jobb": [["Takmontör", "Brunflo"], ["Svetsare/plåtslagare", "Brunflo"]]
+  },
+  "kultur": "Från december till mars bygger montörerna i verkstaden, och i juni går hela företaget upp på Oviksfjällen tillsammans.",
+  "citat": {"text": "Ett snörasskydd är det enda på huset som man hoppas att ingen märker. Märks det har det antingen gått sönder eller precis räddat någon.", "namn": "Ove Strandberg", "roll": "Grundare", "tagg": "tak"},
+  "omdomen": [
+    {"text": "Vi har 312 tak och visste inte vilka som var farligast. Nu har vi en karta med röda, gula och gröna fasader och en plan som styrelsen förstår.", "namn": "Lena M., förvaltare", "ort": "Östersund"},
+    {"text": "Förra vintern kom 1,8 meter snö på stugtaken. Inget skydd rörde sig en millimeter.", "namn": "Jörgen T.", "ort": "Vemdalen"},
+    {"text": "Montörerna kom i lackerade skydd som exakt matchade vårt röda tak. Klart på sex timmar och de sopade upp varenda skruv.", "namn": "Annika och Mats B.", "ort": "Brunflo"}
+  ],
+  "faq": [
+    ["Måste jag ha snörasskydd?", "Enligt Boverkets byggregler ska tak som lutar mot gångvägar, entréer eller parkeringar ha snörasskydd. Fastighetsägaren ansvarar om någon skadas av snö som rasar."],
+    ["Hur vet ni vilken snölast taket har?", "Vi utgår från snözonskartan i Eurokod och justerar för höjd över havet och takets form. I fjällen räknar vi ofta på zon 5 eller mer."],
+    ["Passar skydden på tegeltak?", "Ja. Vi har fästen för betongpannor, lertegel, plåt och papp. Vid tegeltak byter vi ut pannorna vid fästena mot genomföringspannor."],
+    ["Kan ni montera på vintern?", "På villatak i dalgångarna monterar vi året om när taket är fritt från is. Fjällanläggningar och branta tak planerar vi till barmark."],
+    ["Får jag ROT-avdrag?", "Ja, på arbetskostnaden för montage på din bostad eller ditt fritidshus. Vi drar av det direkt på fakturan."],
+    ["Vad behöver sotaren?", "Sotaren ska kunna gå säkert från stege till skorsten. Det betyder ofta väggstege, takstege och en takbrygga fram till skorstenen – vi frågar gärna sotningsdistriktet."],
+    ["Hur länge håller produkterna?", "Varmförzinkat och lackat stål håller normalt i över 40 år. Vi lämnar tio års garanti på bärförmågan."]
+  ],
+  "priser": [
+    {"namn": "Entrépaket", "pris": "fr. 7 900 kr", "enhet": "inkl. montage", "text": "Snörasskydd över en entré, upp till fyra meter.", "punkter": ["Rörskydd i takets kulör", "Fästen räknade för snözon", "Montage av två montörer", "ROT-avdrag på arbetet"]},
+    {"namn": "Villapaket", "pris": "fr. 19 500 kr", "enhet": "inkl. montage", "text": "Hela takfoten mot gata och gång, plus sotarväg.", "punkter": ["Snörasskydd upp till 14 meter", "Takstege och väggstege", "Takbrygga till skorsten", "Egenkontroll med foton"], "utvald": true},
+    {"namn": "Fjällpaket", "pris": "fr. 34 000 kr", "enhet": "inkl. beräkning och montage", "text": "För fritidshus i snözon 4,5 och uppåt.", "punkter": ["Lastberäkning för just ditt tak", "Gallerskydd i två rader", "Glidskydd för plåttak", "Tio års garanti"]}
+  ],
+  "certifikat": [
+    {"titel": "SS-EN 516, 517 och 12951", "text": "Takbryggor, säkerhetskrokar och takstegar provade enligt de europeiska standarderna för taksäkerhet.", "ikon": "skold"},
+    {"titel": "EN 1090-1, EXC2", "text": "CE-märkt tillverkning av bärande stålkomponenter sedan 2015.", "ikon": "dokument"},
+    {"titel": "Fallskydd och lift", "text": "Samtliga montörer har utbildning i fallskydd och liftkort för skylift och saxlift.", "ikon": "hjalm"},
+    {"titel": "BF9K", "text": "Certifierat ledningssystem för kvalitet och arbetsmiljö anpassat för byggföretag.", "ikon": "kugge"}
+  ],
+  "kunder": ["Östersundshem", "Vemdalsskalets Stugby", "Åreskutans Liftbolag", "Lits Mjölkgård", "Frösö Skolfastigheter", "Funäsfjällens Hotell", "Brf Storsjöstrand"],
+  "nyheter": [
+    ["2026-10-28", "Hinner du före första snön?", "Villatak i dalgångarna monterar vi fram till att isen lägger sig – ring före november.", "tak"],
+    ["2026-08-29", "Arton stugor klara i Vemdalen", "Hela stugbyn har nya skydd för snözon 5 inför säsongen.", "tak"],
+    ["2026-04-14", "Inventeringen av 312 tak", "Så prioriterade vi vilka fasader som skulle åtgärdas först.", "bostad"],
+    ["2026-01-20", "Egen stans för falsfästen", "Leveranstiden för fästen till falsade tak är nu tio arbetsdagar.", "svets"]
+  ],
+  "kontakt": {"adress": "Tandsbyvägen 21", "postnr": "834 32", "ort": "Brunflo", "telefon": "070-174 06 08", "epost": "tak@brunflotaksmide.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16 · montage även lördagar under barmarkssäsongen",
+  "omrade": "Jämtland och Härjedalen, från Åre till Sveg",
+  "fot_cta": "Lutar taket mot en entré? Skicka måtten, så får du pris inom två dagar.",
+  "bild": {"panel": "tak", "hb": "svets"},
+  "text": {
+    "ber_rubrik": "Senaste taken",
+    "proj_rubrik": "Tak från fjäll till dalgång",
+    "process_rubrik": "Från takmått till monterat skydd",
+    "hb_etikett": "Arbete på höjd",
+    "omdomen_rubrik": "Förvaltare och husägare om oss",
+    "faq_rubrik": "Om snö, tak och regler",
+    "priser_rubrik": "Tre paket för villataket",
+    "priser_utvald": "Flest väljer",
+    "priser_not": "Priser inklusive moms före ROT-avdrag, inom åtta mil från Brunflo.",
+    "boka_rubrik": "Skicka takets mått",
+    "boka_falt": ["Namn", "Telefon", "Ort", "Taklängd, lutning och takmaterial"],
+    "logos_rubrik": "Tak vi ansvarar för",
+    "certifikat_rubrik": "Provat för snö och fallskydd",
+    "bolag_rubrik": "Verkstad, tak och förvaltning",
+    "ny_rubrik": "Från verkstaden i Brunflo",
+    "hero_knapp": "Se våra takprodukter",
+    "medarbetare": "Montörerna"
+  }
+}

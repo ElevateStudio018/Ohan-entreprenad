@@ -1,0 +1,123 @@
+{
+  "profil": "nisch",
+  "nisch": "hiss",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Roslagshiss AB",
+  "kortnamn": "Roslagshiss",
+  "slug": "roslagshiss",
+  "typ": "Hisservice och lärlingsskola i Norrtälje",
+  "tagline": "Vi utbildar hisstekniker",
+  "slogan": "Ett hissföretag i Roslagen som sköter 520 hissar och utbildar sina egna tekniker – åtta lärlingar i taget, varav hälften byter yrke.",
+  "hero_rubrik": "Hälften av våra tekniker var något annat",
+  "hero_text": "Kockar, lastbilschaufförer och en före detta präst. I vår lärlingsskola blir de hisstekniker på fyra år – och sköter samtidigt hissarna i Roslagen.",
+  "intro_rubrik": "Branschen saknar folk. Vi utbildar dem.",
+  "om": [
+    "Roslagshiss startades 2002 av Thomas Edenius som ett vanligt serviceföretag i Norrtälje. 2015 hade han tre tjänster som inte gick att tillsätta och bestämde sig för att utbilda egna tekniker i stället för att vänta på dem.",
+    "I dag är vi 27 personer, varav åtta lärlingar. Teorin läser lärlingarna hos vuxenutbildningen i Norrtälje, och i verkstaden i Lommarparken står två övningshissar. Varje lärling har en handledare och egna hissar från andra året."
+  ],
+  "vagval_rubrik": "Vad söker ni hos oss?",
+  "tjanster": [
+    {"titel": "Hisservice Roslagen", "ikon": "kugge", "href": "verksamhet.html", "text": "Service för bostadsrättsföreningar och fastighetsägare från Hallstavik till Åkersberga."},
+    {"titel": "Jour i Roslagen", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Jour dygnet runt från Norrtälje, Rimbo och Åkersberga."},
+    {"titel": "Före besiktningen", "ikon": "dokument", "href": "verksamhet.html", "text": "Genomgång enligt kontrollorganets punkter veckan före besiktning."},
+    {"titel": "Ombyggnad av äldre hissar", "ikon": "verktyg", "href": "verksamhet.html", "text": "Nya styrsystem, dörrar och maskiner i hissar från sextiotalet och framåt."},
+    {"titel": "Lärlingsskolan", "ikon": "skola", "href": "karriar.html", "text": "Fyra år med lön, handledare och yrkesprov i slutet."},
+    {"titel": "Övningshissarna", "ikon": "hiss", "href": "karriar.html", "text": "Två hissar i verkstaden där lärlingar får göra fel utan att någon fastnar."},
+    {"titel": "Byt yrke", "ikon": "pil", "href": "karriar.html", "text": "Vi tar in fyra yrkesbytare om året, oavsett bakgrund."},
+    {"titel": "Skärgårdshissar", "ikon": "bat", "href": "verksamhet.html", "text": "Hissar på hotell och konferensgårdar ute på öarna, servade med båt."}
+  ],
+  "affarsomraden": [
+    {"titel": "Service i Roslagen", "text": "Vi sköter 520 hissar mellan Hallstavik och Åkersberga, de flesta hos bostadsrättsföreningar och kommunala bostadsbolag. Varje hiss har en ansvarig tekniker, och lärlingarna följer med på besöken från första veckan.", "text2": "En lärling arbetar aldrig ensam i en hiss förrän handledaren skrivit under att hen är redo.", "tagg": "hiss"},
+    {"titel": "Lärlingsskolan", "text": "Lärlingstiden är fyra år. Första året varvas teori hos vuxenutbildningen med praktik på övningshissarna och i fält, och från andra året har lärlingen egna hissar under handledning.", "text2": "Efter fyra år gör lärlingen branschens yrkesprov, och alla 23 som gått klart hittills har blivit godkända.", "tagg": "el"},
+    {"titel": "Yrkesbytare", "text": "Hälften av lärlingarna kommer från andra yrken: kök, transport, vård och försvaret. Vi letar efter noggrannhet och tålamod snarare än tidigare elkunskap.", "text2": "Yrkesbytare får lärlingslön från första dagen och behåller den även under teoriveckorna.", "tagg": "people"},
+    {"titel": "Hissar i skärgården", "text": "Konferensgårdar, hotell och några föreningar ute i skärgården har hissar som bara nås med båt. Vi har avtal med en båttaxi i Grisslehamn och reservdelar packade i vattentäta lådor.", "text2": "Skärgårdsservicen görs i april och september, före och efter högsäsong.", "tagg": "bat"}
+  ],
+  "bolag": [
+    {"namn": "Service Norrtälje", "segment": "Norrtälje och norra Roslagen", "rubrik": "Hallstavik till Grisslehamn", "text": "Elva tekniker och fem lärlingar med bas i verkstaden i Lommarparken.", "tagg": "hiss"},
+    {"namn": "Service Södra Roslagen", "segment": "Åkersberga och Rimbo", "rubrik": "Där husen blir högre", "text": "Sju tekniker och tre lärlingar som sköter de större fastighetsbestånden i söder.", "tagg": "stad"},
+    {"namn": "Lärlingsskolan", "segment": "Handledning och övningshissar", "rubrik": "Där tekniker blir till", "text": "En utbildningsansvarig, två övningshissar och samarbetet med vuxenutbildningen.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Från kock till hisstekniker", "text": "Mira Sandell lagade mat i femton år. I maj klarade hon yrkesprovet med bäst resultat i sin kull.", "tagg": "people"},
+    {"rubrik": "En andra övningshiss", "text": "Bredvid den gamla från 1972 står nu en övningshiss med modernt styrsystem.", "tagg": "hiss"},
+    {"rubrik": "Höstrundan i skärgården", "text": "Tolv hissar på öar mellan Grisslehamn och Arholma servades med båt under två veckor i september.", "tagg": "bat"}
+  ],
+  "nyckeltal": [
+    {"varde": "23", "enhet": "tekniker", "etikett": "Utbildade i egen regi"},
+    {"varde": "8", "enhet": "lärlingar", "etikett": "Under utbildning just nu"},
+    {"varde": "520", "enhet": "hissar", "etikett": "Under avtal i Roslagen"},
+    {"varde": "50 %", "enhet": "", "etikett": "Av lärlingarna har bytt yrke"}
+  ],
+  "projekt": [
+    {"namn": "Brf Societetsparken", "ort": "Norrtälje", "typ": "Serviceavtal", "ar": "2025", "text": "Fyra hissar där två lärlingar haft ansvaret under handledning sedan 2024.", "tagg": "hiss"},
+    {"namn": "Åkersberga Centrumbostäder", "ort": "Åkersberga", "typ": "Ombyggnad", "ar": "2025", "text": "Sex hissar från 1974 med nya styrsystem, en i taget under ett år.", "tagg": "stad"},
+    {"namn": "Arholma Konferensgård", "ort": "Arholma", "typ": "Skärgårdsservice", "ar": "2024", "text": "Personhiss och varuhiss som servas med båt två gånger per år.", "tagg": "bat"},
+    {"namn": "Rimbo Trygghetsboende", "ort": "Rimbo", "typ": "Jouravtal", "ar": "2024", "text": "Två hissar med inställelse inom 45 minuter dygnet runt.", "tagg": "hiss"},
+    {"namn": "Hallstaviks Hyreshus", "ort": "Hallstavik", "typ": "Lärlingsprojekt", "ar": "2026", "text": "Nio hissar får ny korgbelysning och nya tryckknappar som examensprojekt för tre lärlingar.", "tagg": "el", "status": "Pågående"},
+    {"namn": "Grisslehamns Hotell", "ort": "Grisslehamn", "typ": "Dörrmaskin och ljusridå", "ar": "2026", "text": "Hotellhissen får ny dörrmaskin och ljusridå inför säsongen 2027.", "tagg": "hiss", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Ni hör av er", "text": "En tekniker och en lärling kommer ut och går igenom hissen tillsammans med er.", "tagg": "people"},
+    {"titel": "Ansvarig tekniker", "text": "Hissen får en ansvarig tekniker och ofta en lärling som lär sig den under handledning.", "tagg": "hiss"},
+    {"titel": "Signerat av handledaren", "text": "Allt en lärling har gjort kontrolleras och signeras av handledaren innan hissen tas i drift igen.", "tagg": "el"},
+    {"titel": "Årsrapport per hiss", "text": "Varje januari får ni en kort rapport per hiss med fel, åtgärder och vad som väntar.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "En bransch som behöver fler",
+    "text": "Hissbranschen har länge haft svårt att rekrytera, och många tekniker går i pension de närmaste tio åren. Vi tar vårt ansvar genom att alltid ha minst sex lärlingar och genom att anställa yrkesbytare som andra går förbi.",
+    "mal": [["8", "lärlingar på 19 tekniker"], ["100 %", "godkända på yrkesprovet hittills"], ["4", "yrkesbytare antas varje år"]]
+  },
+  "karriar": {
+    "rubrik": "Börja om som hisstekniker",
+    "text": "Du behöver inte kunna el eller hissar. Du behöver vara noggrann, vilja lära dig och klara höjder. Ansökan till lärlingsskolan är öppen varje vår, med start i augusti.",
+    "jobb": [["Lärling hissteknik, yrkesbytare", "Norrtälje"], ["Lärling hissteknik", "Åkersberga"], ["Handledare och hisstekniker", "Norrtälje"]]
+  },
+  "kultur": "Efter tre månader får varje lärling välja sin handledare – och handledaren får säga ja.",
+  "citat": {"text": "Jag frågar aldrig vad folk har jobbat med. Jag frågar om de har lagat något och varit stolta efteråt.", "namn": "Thomas Edenius", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Lärlingen som var med på servicen förklarade felet bättre än vår förra tekniker någonsin gjort.", "namn": "Kjell D.", "ort": "Norrtälje"},
+    {"text": "Vi var oroliga när en lärling fick ansvar för våra hissar. Två år senare vill vi inte ha någon annan.", "namn": "Susanne P.", "ort": "Åkersberga"},
+    {"text": "Båten kom i tid, teknikern hade alla delar med sig och hissen gick innan de första konferensgästerna klev i land.", "namn": "Henrik M.", "ort": "Arholma"}
+  ],
+  "faq": [
+    ["Är det säkert att låta lärlingar arbeta i hissar?", "Lärlingar arbetar alltid under handledning, och inget arbete i säkerhetskritiska delar lämnas utan att en erfaren tekniker har kontrollerat och signerat det."],
+    ["Kostar det mer att ha en lärling på servicen?", "Nej. Ni betalar samma pris per hiss, och lärlingens tid debiteras aldrig separat."],
+    ["Hur söker man till lärlingsskolan?", "Ansökan öppnar i mars och vi tar in fyra till sex lärlingar varje augusti. Alla sökande intervjuas och gör ett praktiskt prov i verkstaden."],
+    ["Måste jag ha gått elprogrammet?", "Nej. Ungefär hälften av lärlingarna har en annan bakgrund, och teorin läser du hos vuxenutbildningen under första året."],
+    ["Vilken lön har en lärling?", "Lön enligt kollektivavtalets lärlingstrappa, som höjs varje halvår. Yrkesbytare över 25 år får en högre ingångslön."],
+    ["Servar ni hissar ute på öarna?", "Ja, ett tjugotal hissar i skärgården servas med båt i april och september. Vid akuta fel åker vi så snart väder och båttaxi tillåter."],
+    ["Var har ni jour?", "I hela Norrtälje kommun, Österåker och Rimbo. Tre jourtekniker bor i varsin del av området."]
+  ],
+  "certifikat": [
+    {"titel": "Godkänd lärlingsutbildning", "text": "Utbildningen följer branschens lärlingsplan och avslutas med yrkesprov.", "ikon": "skola"},
+    {"titel": "Handledarutbildning", "text": "Alla handledare har gått utbildning för arbetsplatsförlagt lärande.", "ikon": "folk"},
+    {"titel": "Arbetsmiljöcertifiering", "text": "Certifierade enligt ISO 45001, med extra rutiner för nyanställda och lärlingar.", "ikon": "hjalm"},
+    {"titel": "Registrerat hos Elsäkerhetsverket", "text": "Elinstallationsföretag med elsäkerhetsansvarig och eget egenkontrollprogram.", "ikon": "blixt"}
+  ],
+  "kunder": ["Brf Societetsparken", "Åkersberga Centrumbostäder", "Arholma Konferensgård", "Rimbo Trygghetsboende", "Hallstaviks Hyreshus", "Grisslehamns Hotell", "Brf Tullportsgatan"],
+  "nyheter": [
+    ["2026-10-07", "Sex nya lärlingar i augusti", "Tre av dem kommer från andra yrken – en från försvaret.", "people"],
+    ["2026-05-30", "Mira klarade yrkesprovet", "Från restaurangkök till hisstekniker på fyra år.", "people"],
+    ["2026-03-04", "Lärlingsskolan tar emot ansökningar", "Sista dag att söka är den 15 april.", "hiss"]
+  ],
+  "kontakt": {"adress": "Lommarvägen 6", "postnr": "761 45", "ort": "Norrtälje", "telefon": "070-174 06 83", "epost": "hej@roslagshiss.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16. Jour dygnet runt i Roslagen.",
+  "omrade": "Norrtälje kommun, Österåker och Rimbo",
+  "fot_cta": "Behöver ni service – eller ett nytt yrke? Vi har båda.",
+  "text": {
+    "ber_rubrik": "Från verkstaden och skolan",
+    "proj_rubrik": "Hissar i Roslagen",
+    "process_rubrik": "Med lärling vid varje hiss",
+    "hb_etikett": "Kompetensförsörjning",
+    "omdomen_rubrik": "Kunder som träffat våra lärlingar",
+    "faq_rubrik": "Frågor om service och lärlingsskolan",
+    "boka_rubrik": "Hiss eller lärlingsplats?",
+    "boka_text": "Gäller det en hiss eller en ansökan till lärlingsskolan? Skriv några rader så hör vi av oss inom två arbetsdagar.",
+    "boka_falt": ["Namn", "Telefon", "E-post", "Hiss eller lärlingsplats?"],
+    "logos_rubrik": "Hissar vi sköter i Roslagen",
+    "bolag_rubrik": "Två serviceområden och en skola",
+    "certifikat_rubrik": "Utbildning med ordning",
+    "hero_knapp": "Om lärlingsskolan",
+    "medarbetare": "Tekniker och lärlingar"
+  }
+}

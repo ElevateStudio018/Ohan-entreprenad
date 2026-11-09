@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Skåre Grindteknik AB",
+  "kortnamn": "Skåre Grindteknik",
+  "slug": "skare-grindteknik",
+  "typ": "Skalskydd och industrigrindar i Värmland",
+  "tagline": "Stängsel som stoppar",
+  "slogan": "Vi bygger staket, grindar och bommar runt anläggningar som inte får stå öppna – och servar dem så att de fungerar i trettio minusgrader.",
+  "hero_rubrik": "Gränsen runt er anläggning, svetsad",
+  "hero_text": "Perimeterskydd, motordrivna skjutgrindar, vägbommar och passagesystem för industri, energi och logistik. Egen tillverkning i Skåre och servicebilar i fyra län.",
+  "intro_rubrik": "Elva mil stängsel och 640 grindar i drift",
+  "om": [
+    "Bröderna Henrik och Tobias Lövgren startade Skåre Grindteknik 2005. Henrik var elektriker och Tobias svetsare, och de märkte att fabrikerna runt Vänern köpte grindar från en firma och automatik från en annan – och att ingen tog ansvar när grinden frös fast i januari.",
+    "I dag är vi 35 anställda och omsätter 52 miljoner kronor. Vi svetsar grindblad upp till fjorton meter i verkstaden vid Skåre industriområde, installerar motorer och styrning med egna behöriga elektriker och har serviceavtal på 640 grindar."
+  ],
+  "vagval_rubrik": "Vad ska skyddas?",
+  "tjanster": [
+    {"titel": "Perimeterstängsel", "ikon": "skold", "href": "verksamhet.html", "text": "Panelstängsel och nätstängsel upp till 3,2 meter med överklätterskydd."},
+    {"titel": "Skjutgrindar", "ikon": "pil", "href": "verksamhet.html", "text": "Rälslösa och rälsgående skjutgrindar för lastbilsinfarter upp till 14 meter."},
+    {"titel": "Vägbommar", "ikon": "vag", "href": "verksamhet.html", "text": "Bommar med kortläsare, skyltigenkänning och slingdetektorer."},
+    {"titel": "Gångpassager", "ikon": "folk", "href": "verksamhet.html", "text": "Vändkors och passagegrindar kopplade till ert passersystem."},
+    {"titel": "Styrning och el", "ikon": "blixt", "href": "verksamhet.html", "text": "Motorer, säkerhetslister och styrskåp installerade av egna elektriker."},
+    {"titel": "Serviceavtal", "ikon": "kalender", "href": "verksamhet.html", "text": "Besiktning enligt Maskindirektivet en eller två gånger per år."},
+    {"titel": "Skyddade anläggningar", "ikon": "fabrik", "href": "projekt.html", "text": "Bruk, terminaler, ställverk och vattenverk."},
+    {"titel": "Felanmälan", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Avtalskunder får en tekniker inom fyra timmar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Industri och logistik", "text": "Terminaler och fabriker med hundratals fordonsrörelser om dygnet behöver grindar som öppnar på sju sekunder och tål att köras på av en truck. Vi dimensionerar grindbladen efter vindlast och trafik.", "text2": "Vanligast är rälslösa skjutgrindar på tio till tolv meter med fotocell och säkerhetslist.", "tagg": "industri"},
+    {"titel": "Energi och vatten", "text": "Ställverk, vattenverk och reningsverk är ofta skyddsobjekt med höga krav på inbrottsskydd. Vi monterar stängsel med nedgrävd bottenlist, taggtråd och detektorkabel.", "text2": "Montörerna som arbetar vid skyddsobjekt är säkerhetsprövade.", "tagg": "infra"},
+    {"titel": "Kommuner och skolor", "text": "Återvinningscentraler, bussdepåer och skolgårdar behöver grindar som stänger på tid och kan öppnas av räddningstjänsten. Vi kopplar styrningen till kommunens passersystem.", "text2": "Kommuner kan avropa via ramavtal med Karlstad, Hammarö och Kil.", "tagg": "stad"},
+    {"titel": "Service och besiktning", "text": "En motordriven grind är en maskin och ska kontrolleras regelbundet enligt Maskindirektivet. Vi mäter klämkrafter, provar säkerhetslister och byter slitdelar innan de går sönder.", "text2": "Varje besiktning dokumenteras i en digital loggbok per grind.", "tagg": "las"}
+  ],
+  "bolag": [
+    {"namn": "Grindverkstaden", "segment": "Svets och tillverkning", "rubrik": "Fjorton meter grind i ett stycke", "text": "Elva svetsare som bygger grindblad, stolpar och bomarmar i varmförzinkat stål och aluminium.", "tagg": "svets"},
+    {"namn": "Installation", "segment": "Montage och el", "rubrik": "Stängsel, gjutning och kablar", "text": "Fjorton montörer och fyra behöriga elektriker som gjuter, monterar och driftsätter.", "tagg": "infra"},
+    {"namn": "Service Väst", "segment": "Besiktning och jour", "rubrik": "640 grindar under bevakning", "text": "Sex servicetekniker i Karlstad, Kristinehamn och Arvika med egna bilar och reservdelslager.", "tagg": "las"},
+    {"namn": "Projektering", "segment": "Säkerhetsanalys och ritning", "rubrik": "Vi börjar vid tomtgränsen", "text": "Två projektörer som går runt anläggningen, ritar skyddet och tar fram förfrågningsunderlag.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Fyra kilometer stängsel runt hamnen", "text": "Terminalområdet i Karlstads hamn har nytt perimeterskydd med detektorkabel och sex grindar.", "tagg": "infra"},
+    {"rubrik": "Frostsäkrade grindar i Torsby", "text": "Värmekabel i rälsen och nya motorer gjorde att sågverkets grind gick hela vintern utan stopp.", "tagg": "industri"},
+    {"rubrik": "Servicekontor i Arvika", "text": "Två tekniker placeras i västra Värmland för kortare inställelsetid.", "tagg": "las"}
+  ],
+  "nyckeltal": [
+    {"varde": "640", "enhet": "grindar", "etikett": "Med serviceavtal"},
+    {"varde": "110", "enhet": "km", "etikett": "Stängsel monterat sedan 2005"},
+    {"varde": "4", "enhet": "timmar", "etikett": "Till tekniker på plats"},
+    {"varde": "52", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+  ],
+  "projekt": [
+    {"namn": "Terminalområdet i hamnen", "ort": "Karlstad", "typ": "Perimeterskydd", "ar": "2026", "text": "Fyra kilometer stängsel, sex skjutgrindar och detektorkabel längs hela gränsen.", "tagg": "infra"},
+    {"namn": "Sågverkets huvudinfart", "ort": "Torsby", "typ": "Skjutgrind", "ar": "2026", "text": "Tolv meter rälslös grind med värmekabel och skyltigenkänning.", "tagg": "industri"},
+    {"namn": "Vattenverket vid Gullspång", "ort": "Gullspång", "typ": "Skalskydd", "ar": "2025", "text": "Stängsel med nedgrävd bottenlist och passagegrind för skyddsobjekt.", "tagg": "infra"},
+    {"namn": "Bussdepån", "ort": "Kristinehamn", "typ": "Bommar och grindar", "ar": "2025", "text": "Två vägbommar och en skjutgrind som styrs av bussarnas transpondrar.", "tagg": "stad"},
+    {"namn": "Pappersbrukets lastgård", "ort": "Grums", "typ": "Grindar och vändkors", "ar": "2024", "text": "Fyra lastbilsgrindar och tre vändkors kopplade till brukets passersystem.", "tagg": "industri"},
+    {"namn": "Logistikcentret vid E18", "ort": "Kil", "typ": "Perimeterskydd", "ar": "2027", "text": "Projektering klar för 2,4 kilometer stängsel och åtta infarter.", "tagg": "las", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Gränsvandring", "text": "Vi går runt hela området med er säkerhetsansvarige och markerar svaga punkter, infarter och flöden.", "tagg": "kontor"},
+    {"titel": "Skyddsförslag", "text": "Ni får ritning, skyddsnivå per sträcka och en kalkyl som går att använda som förfrågningsunderlag.", "tagg": "kontor"},
+    {"titel": "Bygge och driftsättning", "text": "Vi gjuter, monterar och kopplar in. Grindarna CE-märks och provas innan överlämning.", "tagg": "infra"},
+    {"titel": "Service i drift", "text": "Besiktning, klämkraftsmätning och digital loggbok för varje grind under hela livslängden.", "tagg": "las"}
+  ],
+  "hallbarhet": {
+    "rubrik": "En grind som stänger måste också stanna",
+    "text": "Motordrivna grindar kan klämma både fordon och människor om de inte är rätt inställda. Vi mäter klämkraften på varje grind vid installation och vid varje besiktning, och byter säkerhetslister med fasta intervaller i stället för när de gått sönder.",
+    "mal": [["100 %", "av grindarna klämkraftsmätta vid besiktning"], ["0", "klämolyckor på våra grindar sedan 2005"], ["4 h", "inställelsetid för avtalskunder"]]
+  },
+  "karriar": {
+    "rubrik": "Svetsa, gjut och koppla in",
+    "text": "Vi söker svetsare, montörer och elektriker som vill se ett projekt från tomtgräns till driftsatt grind. Vi har kollektivavtal, egna servicebilar och betald utbildning i säkerhetsskydd.",
+    "jobb": [["Servicetekniker grindautomatik", "Karlstad"], ["Svetsare", "Skåre"], ["Elektriker", "Karlstad"], ["Stängselmontör", "Arvika"]]
+  },
+  "kultur": "Varje ny tekniker åker med en erfaren kollega på serviceturer i två månader innan första egna rutten.",
+  "citat": {"text": "Ett stängsel är aldrig starkare än grinden, och grinden är aldrig bättre än den senaste servicen.", "namn": "Henrik Lövgren", "roll": "Vd och medgrundare", "tagg": "las"},
+  "omdomen": [
+    {"text": "Vi hade två leverantörer som skyllde på varandra varje gång grinden stannade. Med Skåre har vi en kontakt och grinden har inte stått still sedan installationen.", "namn": "Jessica R., fastighetschef", "ort": "Grums"},
+    {"text": "Projekteringen blev underlaget för hela upphandlingen. Det var det mest genomarbetade skyddsförslag vi har fått.", "namn": "Lars-Erik N.", "ort": "Karlstad"},
+    {"text": "Grinden frös fast tre gånger förra vintern. Efter värmekabeln och de nya motorerna har den inte missat en enda morgon.", "namn": "Peter A.", "ort": "Torsby"}
+  ],
+  "faq": [
+    ["Måste en motordriven grind besiktas?", "Ja. En motordriven grind räknas som maskin och ska underhållas enligt tillverkarens instruktioner och Maskindirektivet. Vi rekommenderar besiktning minst en gång per år, två för grindar med tät trafik."],
+    ["Vilken höjd behöver stängslet ha?", "Det beror på skyddsnivån. Industriområden har oftast 2,4 meter, skyddsobjekt 2,8 till 3,2 meter med överklätterskydd. Vi går igenom kraven med er säkerhetsansvarige."],
+    ["Fungerar grindarna i sträng kyla?", "Ja, om de är byggda för det. Vi använder motorer för minus 35 grader, värmekabel i räls och styrskåp med termostatstyrd värme."],
+    ["Kan grinden kopplas till vårt passersystem?", "Ja. Vi har kopplat grindar och bommar till de flesta vanliga passersystem, liksom till skyltigenkänning och fjärröppning för räddningstjänsten."],
+    ["Arbetar ni vid skyddsobjekt?", "Ja. De montörer som arbetar vid skyddsobjekt är säkerhetsprövade, och vi tecknar säkerhetsskyddsavtal när uppdraget kräver det."],
+    ["Lagar ni grindar som andra har byggt?", "Ja. Vi servar grindar av de flesta fabrikat och kan bygga om äldre grindar med nya motorer och säkerhetsutrustning så att de uppfyller dagens krav."]
+  ],
+  "certifikat": [
+    {"titel": "SS-EN 13241 och CE", "text": "Våra motordrivna grindar CE-märks enligt produktstandarden för industriportar och grindar.", "ikon": "skold"},
+    {"titel": "Auktoriserad elinstallatör", "text": "Registrerade hos Elsäkerhetsverket med fyra egna behöriga elektriker.", "ikon": "blixt"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö med årlig revision.", "ikon": "dokument"},
+    {"titel": "Säkerhetsskyddsavtal", "text": "Säkerhetsprövad personal för arbete vid skyddsobjekt inom energi och vatten.", "ikon": "las"}
+  ],
+  "kunder": ["Karlstads Hamnterminal", "Torsby Sågverk", "Gullspångs Vattenverk", "Värmlandstrafikens Bussdepå", "Grums Pappersbruk", "Kils Logistikcenter", "Hammarö Återvinning", "Vänerenergi Ställverk"],
+  "nyheter": [
+    ["2026-10-09", "Hamnens perimeter klar", "Fyra kilometer stängsel och sex grindar driftsatta i Karlstads hamn.", "infra"],
+    ["2026-07-02", "Nytt servicekontor i Arvika", "Kortare väg till kunderna i västra Värmland och Dalsland.", "las"],
+    ["2026-03-17", "Så vinterförbereder du grinden", "Fem punkter att kontrollera innan första frostnatten.", "industri"]
+  ],
+  "kontakt": {"adress": "Skåre Industriväg 14", "postnr": "663 41", "ort": "Skåre", "telefon": "070-174 06 15", "epost": "grind@skaregrindteknik.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16 · felanmälan dygnet runt för avtalskunder",
+  "omrade": "Värmland, Dalsland, Örebro län och västra Dalarna",
+  "fot_cta": "Står er infart öppen för mycket? Boka en gränsvandring med våra projektörer.",
+  "bild": {"panel": "svets", "hb": "las"},
+  "text": {
+    "ber_rubrik": "Aktuellt vid grindarna",
+    "proj_rubrik": "Anläggningar vi har stängt in",
+    "proj_rubrik_lista": "Skalskydd och grindprojekt",
+    "process_rubrik": "Från tomtgräns till driftsatt grind",
+    "hb_etikett": "Grindsäkerhet",
+    "omdomen_rubrik": "Säkerhetsansvariga om oss",
+    "faq_rubrik": "Om grindar, stängsel och besiktning",
+    "boka_rubrik": "Boka en gränsvandring",
+    "boka_falt": ["Namn", "Telefon", "Anläggning och ort", "Vad behöver skyddas?"],
+    "logos_rubrik": "Anläggningar bakom våra grindar",
+    "certifikat_rubrik": "Behöriga för el, maskin och skyddsobjekt",
+    "bolag_rubrik": "Fyra enheter runt varje grind",
+    "ny_rubrik": "Nytt från Skåre",
+    "hero_knapp": "Så skyddar vi",
+    "kontakt_knapp": "Felanmälan och offert",
+    "medarbetare": "Teknikerna"
+  }
+}
