@@ -84,7 +84,7 @@
     ["Vad händer om inte alla boende är hemma?", "Vi gör ett andra besök utan kostnad. Är någon fortfarande inte hemma hjälper vi styrelsen att boka en tid via fastighetsnyckel."],
     ["Vad kostar tioårsplanen?", "Den ingår när ni tecknar avtal om OVK och åtgärder. Som fristående uppdrag kostar den från 9 500 kr exklusive moms."],
     ["Kan ni komma på vårt styrelsemöte?", "Ja, det ingår för föreningar med avtal. Vi kommer gärna på kvällstid och även till årsstämman."],
-    ["Måste vi låta er åtgärda bristerna?", "Nej, åtgärdslistan är skriven så att vilken installatör som helst kan räkna på den. De flesta föreningar väljer ändå oss för att slippa samordningen."],
+    ["Måste vi låta er åtgärda bristerna?", "Nej, ni får listan med pris per punkt och kan låta en annan firma lämna anbud. De flesta föreningar väljer ändå oss för att slippa samordningen."],
     ["Vilka kommuner arbetar ni i?", "Borås, Ulricehamn, Mark, Bollebygd, Tranemo och Svenljunga."],
     ["Vilka köksfläktar fungerar i vårt hus?", "Det beror på om huset har central frånluft eller egen fläkt per lägenhet. Vi tar fram en lista över godkända modeller för just er förening."]
   ],
@@ -94,9 +94,9 @@
     {"namn": "Fristående tioårsplan", "pris": "fr. 9 500 kr", "enhet": "per förening", "text": "För föreningar som redan har gjort OVK.", "punkter": ["Genomgång av senaste protokoll", "Plan med kostnader per år", "Presentation på styrelsemöte", "Underlag till underhållsplanen"]}
   ],
   "certifikat": [
-    {"titel": "Tre funktionskontrollanter", "text": "Certifierade med behörighet N och K för alla typer av bostadshus.", "ikon": "dokument"},
+    {"titel": "Tre funktionskontrollanter", "text": "Besiktar allt från radhusområden till höghus med 400 lägenheter.", "ikon": "dokument"},
     {"titel": "Avtal för brf-uppdrag", "text": "Uppdrag enligt ABT 06 med tydliga åtaganden och betalplan.", "ikon": "portfolj"},
-    {"titel": "Kollektivavtal för montörer", "text": "Alla montörer är anställda med kollektivavtal.", "ikon": "folk"},
+    {"titel": "Kollektivavtal för montörer", "text": "Åtgärdslaget följer Plåt- och ventilationsavtalet.", "ikon": "folk"},
     {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Täcker både besiktning och åtgärdsarbeten.", "ikon": "skold"}
   ],
   "kunder": ["Brf Hultahöjden", "Brf Norrbygärdet", "Brf Ryssby", "Radhusföreningen Kvarnbacken", "Brf Kinnaborg", "Brf Sjöbo Torg", "Brf Ramnaparken", "Brf Druvefors 2"],
@@ -106,7 +106,7 @@
     ["2025-11-24", "Så läser styrelsen en tioårsplan", "Fem rader att titta på först när planen kommer.", "kontor"]
   ],
   "kontakt": {"adress": "Åsboholmsgatan 3", "postnr": "504 51", "ort": "Borås", "telefon": "070-174 06 67", "epost": "styrelsen@ramnaventilation.se", "orgnr": ""},
-  "oppettider": "Mån–fre 8–16.30, styrelsemöten även kvällstid",
+  "oppettider": "Vardagar 8–17, styrelsemöten även kvällstid",
   "omrade": "Borås och Sjuhärad",
   "fot_cta": "Sitter du i en styrelse som ska göra OVK? Vi kommer gärna på nästa möte.",
   "bild": {"panel": "bostad", "hb": "bostad"},

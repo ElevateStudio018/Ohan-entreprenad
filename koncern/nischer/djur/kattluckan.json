@@ -53,7 +53,7 @@
     {"namn": "Kungen och Prinsen", "ort": "Brittiskt korthår", "typ": "Flerkattshushåll", "ar": "2025", "text": "Bröderna badades i tur och ordning medan den andra tittade på från hatthyllan.", "tagg": "katt"},
     {"namn": "Lakrits", "ort": "Långhårig huskatt", "typ": "Klor och tassar", "ar": "2025", "text": "Hade rivit sönder soffan – nu klipps klorna var femte vecka i samma soffa.", "tagg": "katt", "status": "Stamkund"},
     {"namn": "Kull F hos katteri Vinterek", "ort": "Ragdoll", "typ": "Utställningsbad", "ar": "2026", "text": "Fem kattungar och mamman fönade och klara inför utställningen i Uppsala.", "tagg": "katt"},
-    {"namn": "Gnistan", "ort": "Maine coon", "typ": "Avfällning", "ar": "2025", "text": "En halv kasse underull efter vårfällningen, borstad på köksgolvet.", "tagg": "katt"}
+    {"namn": "Gnistan", "ort": "Maine coon", "typ": "Vårfällning hemma", "ar": "2025", "text": "En halv kasse underull efter vårfällningen, borstad på köksgolvet.", "tagg": "katt"}
   ],
   "process": [
     {"titel": "Bokning och bild", "text": "Du skickar en bild på pälsen och berättar om kattens hälsa. Vi föreslår en tid och uppskattar hur lång tid det tar.", "tagg": "katt"},
@@ -68,7 +68,7 @@
   },
   "karriar": {"rubrik": "Förbered kattens första hembesök", "text": "Stäng dörrar till rum där katten kan gömma sig, till exempel under sängen. Låt bli att mata katten de sista två timmarna – en lagom hungrig katt tar gärna emot godis. Vi behöver ett eluttag och en yta på cirka en meter.", "jobb": []},
   "kultur": "Vi dammsuger upp efter oss och lämnar inga hårtussar i ditt badrum.",
-  "citat": {"text": "Den bästa kattsalongen i världen är ändå en främmande plats som luktar främmande djur. Kattens eget badrum slår den varje gång.", "namn": "Josefin Almgren", "roll": "Grundare", "tagg": "katt"},
+  "citat": {"text": "Den bästa kattsalongen i världen är ändå en främmande plats som luktar främmande djur. Kattens eget badrum slår den varje gång.", "namn": "Josefin Almgren", "roll": "Startade Kattluckan 2019", "tagg": "katt"},
   "omdomen": [
     {"text": "Morris har sövts två gånger för tovor. Nu kommer Josefin hem och han ligger kvar i badkaret.", "namn": "Annika F.", "ort": "Gävle"},
     {"text": "Vi har fyra katter och ingen bil. Att de kom hem till oss löste allt.", "namn": "Tomas och Leila", "ort": "Valbo"},
@@ -103,13 +103,13 @@
   "text": {
     "hero_knapp": "Så går hembesöket till",
     "kontakt_knapp": "Boka hembesök",
-    "vagval_etikett": "Hembesök",
+    "vagval_etikett": "Hemma hos katten",
     "ber_etikett": "Från bilarna",
     "ber_rubrik": "Senaste hembesöken",
     "ber_utvalt": "Veckans soffkatt",
     "proj_etikett": "Hemma hos",
     "proj_rubrik": "Katter vi har besökt",
-    "proj_kol": ["Katt", "Ras", "Behandling", "Status", "År"],
+    "proj_kol": ["Katt", "Ras", "Insats", "Status", "År"],
     "process_rubrik": "Från ringklocka till dammsugare",
     "hb_etikett": "Utan narkos",
     "hb_lank": "Därför behandlar vi hemma",

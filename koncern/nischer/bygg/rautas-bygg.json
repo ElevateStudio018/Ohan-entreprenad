@@ -26,7 +26,7 @@
     {"titel": "Skicka ritningen", "ikon": "ritning", "href": "om-oss.html#kontakt", "text": "Skicka ritning eller adress – kalkylen kommer inom tio arbetsdagar."}
   ],
   "affarsomraden": [
-    {"titel": "Bostäder i nya centrum", "text": "Vi har byggt fyra kvarter med flerbostadshus i den nya stadskärnan öster om Luossavaara. Husen har trästomme, triple-glasade fönster och vindfång vid varje entré.", "text2": "Varje stomme reses under ett tältskydd som tas ned först när taket är tätt.", "tagg": "bostad"},
+    {"titel": "Bostäder i nya centrum", "text": "Vi har byggt fyra kvarter med flerbostadshus i den nya stadskärnan öster om Luossavaara. Husen har trästomme, treglasfönster och vindfång vid varje entré.", "text2": "Varje stomme reses under ett tältskydd som tas ned först när taket är tätt.", "tagg": "bostad"},
     {"titel": "Flytt av hus", "text": "Trähus från 1900-talets början lyfts med domkrafter, spänns fast på specialtrailer och körs i gångfart till ny grund. Vi förbereder grunden, kopplar in vatten och el och lagar det som rört sig under resan.", "text2": "Sedan 2016 har vi flyttat 41 hus, det tyngsta på 212 ton.", "tagg": "tra"},
     {"titel": "Grund i tjälmark", "text": "I Malmfälten går tjälen ned till två och en halv meter. Vi gräver ur, dränerar och gjuter grunder med markisolering som håller huset stilla i femtio år.", "text2": "Egen maskinpark med tre grävare och en hjullastare som klarar minus 35 grader.", "tagg": "anlaggning"},
     {"titel": "Service och industri", "text": "Våra servicesnickare arbetar i verkstäder, personalbyggnader och förråd hos industrin i området. Ramavtalen omfattar allt från dörrbyten till nya omklädningsrum.", "text2": "Utryckning inom fyra timmar vid skador på klimatskalet vintertid.", "tagg": "industri"}
@@ -40,7 +40,7 @@
   "berattelser": [
     {"rubrik": "Kvarteret Ripan inflyttat", "text": "54 hyresrätter i trä vid nya stadshuset fick nycklarna den 1 oktober, två veckor före tidplan.", "tagg": "bostad"},
     {"rubrik": "Ingenjörsvillan har landat", "text": "Den gula villan från 1908 kördes 3,4 kilometer under en natt i augusti och står nu på sin nya grund.", "tagg": "tra"},
-    {"rubrik": "Tältet uppe över Fjällräven 2", "text": "Byggstart för 36 bostadsrätter – stommen reses under väderskydd hela vintern.", "tagg": "bygg"}
+    {"rubrik": "Tältet uppe över Järven 2", "text": "Byggstart för 36 bostadsrätter – stommen reses under väderskydd hela vintern.", "tagg": "bygg"}
   ],
   "nyckeltal": [
     {"varde": "41", "enhet": "hus", "etikett": "Flyttade sedan 2016"},
@@ -51,7 +51,7 @@
   "projekt": [
     {"namn": "Kvarteret Ripan", "ort": "Nya centrum, Kiruna", "typ": "Flerbostadshus", "ar": "2026", "text": "54 hyresrätter i fyra våningar med trästomme och gemensam bastu på taket.", "tagg": "bostad", "status": "Inflyttat"},
     {"namn": "Ingenjörsvillan", "ort": "Kiruna", "typ": "Husflytt", "ar": "2026", "text": "En kulturmärkt villa från 1908 flyttad 3,4 kilometer och placerad på ny källargrund.", "tagg": "tra", "status": "Flyttat"},
-    {"namn": "Brf Fjällräven 2", "ort": "Nya centrum, Kiruna", "typ": "Bostadsrätter", "ar": "2027", "text": "36 lägenheter i betongstomme med inglasade balkonger mot Kebnekaisemassivet.", "tagg": "stad"},
+    {"namn": "Brf Järven 2", "ort": "Nya centrum, Kiruna", "typ": "Bostadsrätter", "ar": "2027", "text": "36 lägenheter i betongstomme med inglasade balkonger mot fjällen i väster.", "tagg": "stad"},
     {"namn": "Vittangi skola, ny matsal", "ort": "Vittangi", "typ": "Tillbyggnad", "ar": "2025", "text": "Matsal och tillagningskök för 180 elever, byggt under ett sommarlov och en höst.", "tagg": "bygg"},
     {"namn": "Malmgårdens handelshus", "ort": "Kiruna", "typ": "Butikslokaler", "ar": "2024", "text": "Tre butiker och ett gym i bottenplan, med uppvärmda entréer och snösmältning i marken.", "tagg": "kontor"},
     {"namn": "Personalbyggnad Svappavaara", "ort": "Svappavaara", "typ": "Industribyggnad", "ar": "2024", "text": "Omklädning, torkrum och lunchrum för 120 skiftarbetare.", "tagg": "industri"}
@@ -69,7 +69,7 @@
   },
   "karriar": {
     "rubrik": "Jobba där andra semestrar",
-    "text": "Vi betalar flyttbidrag, hjälper till med bostad och ger alla snickare skoterkort och fjällskor. Arbetstiden är förlagd så att du får ledigt när ljuset kommer tillbaka.",
+    "text": "Vi betalar flyttbidrag, hjälper till med bostad och ger alla snickare förarbevis för snöskoter och ett par riktiga vinterkängor. Arbetstiden är förlagd så att du får ledigt när ljuset kommer tillbaka.",
     "jobb": [["Platschef, flerbostadshus", "Kiruna"], ["Snickare", "Kiruna"], ["Maskinförare, grävmaskin", "Kiruna"], ["Servicesnickare med jour", "Svappavaara"]]
   },
   "kultur": "Varje fredag i mörkertiden bjuder vi på frukost i lagret på Malmvägen.",
@@ -95,7 +95,7 @@
     {"titel": "Säker Vatten", "text": "Våra rörläggare installerar enligt branschreglerna – viktigt där ledningar kan frysa.", "ikon": "vatten"}
   ],
   "certifikat_rubrik": "Certifierade för arktiskt byggande",
-  "kunder": ["Luossa Fastigheter", "Kiruna kommun", "Brf Fjällräven 2", "Malmgården Handel AB", "Brf Tuolluvaara", "Gällivare kommun", "Torneälvens Bostäder", "Vittangi skola"],
+  "kunder": ["Luossa Fastigheter", "Kiruna kommun", "Brf Järven 2", "Malmgården Handel AB", "Brf Tuolluvaara", "Gällivare kommun", "Torneälvens Bostäder", "Vittangi skola"],
   "kunder_rubrik": "Vi bygger åt Malmfälten",
   "nyheter": [
     ["2026-10-01", "Nycklar till 54 nya hyresrätter", "Kvarteret Ripan i nya centrum är inflyttat, två veckor före tidplan.", "bostad"],

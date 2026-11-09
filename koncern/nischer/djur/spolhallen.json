@@ -18,23 +18,23 @@
   "tjanster": [
     {"titel": "Självtvätt 6–22", "ikon": "vatten", "href": "verksamhet.html", "text": "Varmvatten, schampo, balsam och kraftfön – du betalar per tio minuter."},
     {"titel": "Klor utan bokning", "ikon": "tass", "href": "verksamhet.html", "text": "Utan bokning, vardagar 15–19."},
-    {"titel": "Avfällning", "ikon": "vind", "href": "verksamhet.html", "text": "Emelie blåser ut underullen medan du tar en kaffe."},
+    {"titel": "Avfällning medan du fikar", "ikon": "vind", "href": "verksamhet.html", "text": "Emelie blåser ut underullen medan du tar en kaffe."},
     {"titel": "Snabbputs", "ikon": "sax", "href": "verksamhet.html", "text": "Tassar, öron och rumpa på tjugo minuter."},
     {"titel": "Klippkort", "ikon": "kalender", "href": "priser.html", "text": "Tio självtvättar till priset av åtta."},
     {"titel": "Jägarnas kväll", "ikon": "stjarna", "href": "verksamhet.html", "text": "Fästingkoll och tvätt efter jakten, torsdagar under säsongen."},
-    {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Fasta priser på väggen, inga överraskningar."},
-    {"titel": "Hitta hit", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Parkering för sex bilar och plats för släp."}
+    {"titel": "Prisväggen", "ikon": "dokument", "href": "priser.html", "text": "Fasta priser på väggen, inga överraskningar."},
+    {"titel": "Vägbeskrivning", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Parkering för sex bilar och plats för släp."}
   ],
   "affarsomraden": [
     {"titel": "Självtvätt", "text": "Varje plats har ett höj- och sänkbart kar, handdusch med termostat och en kraftfön som torkar en labrador på tio minuter. Schampo, balsam och handdukar ingår i priset.", "text2": "Du startar med kort eller Swish och ser tiden ticka på en skärm.", "tagg": "hund"},
     {"titel": "Drop in hos frisören", "text": "Vardagar mellan 15 och 19 sitter Emelie i salongen och tar kunder utan bokning. Kloklipp tar fem minuter, snabbputs tjugo.", "text2": "Längre trim bokas på förmiddagarna.", "tagg": "trimning"},
-    {"titel": "Avfällning", "text": "Fäller hunden så att du kan stoppa en kudde med pälsen? Vi blåser ut underullen med kraftfön i en sluten box, så att håret inte hamnar hemma i soffan.", "text2": "Populärt bland ägare till golden, schäfer och husky under vår och höst.", "tagg": "hund"},
+    {"titel": "Avfällning i sluten box", "text": "Fäller hunden så att du kan stoppa en kudde med pälsen? Vi blåser ut underullen med kraftfön i en sluten box, så att håret inte hamnar hemma i soffan.", "text2": "Populärt bland ägare till golden, schäfer och husky under vår och höst.", "tagg": "hund"},
     {"titel": "Jakt och skog", "text": "Under älgjakten har vi förlängt öppet på torsdagar för jaktlag. Tvätt, fästingkoll och ett varmt rum att torka hunden i innan den ska in i bilen.", "text2": "Jaktlag kan teckna ett gemensamt klippkort.", "tagg": "hund"}
   ],
   "bolag": [
     {"namn": "Henrik Gärdh", "segment": "Delägare, drift och teknik", "rubrik": "Han som fixar varmvattnet", "text": "Henrik är VVS-montör och byggde om biltvätten själv. Det är han som svarar när automaten krånglar.", "tagg": "hund"},
     {"namn": "Daniel Gärdh", "segment": "Delägare och kundansvar", "rubrik": "Idén föddes i duschen", "text": "Daniel jagar med sin vorsteh Brage och tar hand om jaktlagen och klippkorten.", "tagg": "hund"},
-    {"namn": "Emelie Sahlin", "segment": "Hundfrisör", "rubrik": "Saxen i det inglasade rummet", "text": "Emelie är utbildad hundfrisör från Vårgårda och tar drop in, avfällning och bokade trim.", "tagg": "trimning"}
+    {"namn": "Emelie Sahlin", "segment": "Hundfrisör, drop in och bokat", "rubrik": "Saxen i det inglasade rummet", "text": "Emelie är utbildad hundfrisör från Vårgårda och tar drop in, avfällning och bokade trim.", "tagg": "trimning"}
   ],
   "berattelser": [
     {"rubrik": "Tusen tvättar i oktober", "text": "Älgjakten och regnet gav vår mest besökta månad hittills – 1 040 starter på automaterna.", "tagg": "hund"},
@@ -49,9 +49,9 @@
   ],
   "projekt": [
     {"namn": "Brage", "ort": "Strävhårig vorsteh", "typ": "Självtvätt efter jakt", "ar": "2026", "text": "Från myrlera till ren hund på arton minuter och 120 kronor.", "tagg": "hund", "status": "Stamkund"},
-    {"namn": "Freja", "ort": "Golden retriever", "typ": "Avfällning", "ar": "2026", "text": "En full påse underull i boxen i stället för i hallmattan.", "tagg": "hund"},
+    {"namn": "Freja", "ort": "Golden retriever", "typ": "Avfällning i box", "ar": "2026", "text": "En full påse underull i boxen i stället för i hallmattan.", "tagg": "hund"},
     {"namn": "Atlas", "ort": "Leonberger", "typ": "Självtvätt, plats fyra", "ar": "2025", "text": "Första hunden över 60 kilo som gick upp på rampen utan hjälp.", "tagg": "hund"},
-    {"namn": "Plutten", "ort": "Chihuahua", "typ": "Drop in-kloklipp", "ar": "2025", "text": "Fem minuter, ett godis och en mycket nöjd matte.", "tagg": "trimning", "status": "Stamkund"},
+    {"namn": "Plutten", "ort": "Chihuahua", "typ": "Klor utan bokning", "ar": "2025", "text": "Fem minuter, ett godis och en mycket nöjd matte.", "tagg": "trimning", "status": "Stamkund"},
     {"namn": "Lajka", "ort": "Västsibirisk lajka", "typ": "Jägarnas kväll", "ar": "2025", "text": "Tvättad, fästingkollad och torr innan jaktlaget hann fika klart.", "tagg": "hund"},
     {"namn": "Sockerbit", "ort": "Bichon frisé", "typ": "Snabbputs", "ar": "2026", "text": "Tassar och öron mellan två riktiga klippningar på annan salong.", "tagg": "trimning"}
   ],
@@ -68,7 +68,7 @@
   },
   "karriar": {"rubrik": "Första gången i Spolhallen", "text": "Kom gärna en vardagseftermiddag när Emelie är på plats, så visar hon hur karet och fönen fungerar. Ta med koppel – vi har krokar vid varje plats – och en handduk till bilen om du vill.", "jobb": []},
   "kultur": "Varje tvättplats har en krok för kopplet, en hylla för godis och en spegel så att du ser hundens rygg.",
-  "citat": {"text": "Ingen ska behöva välja mellan en lerig hund i bilen och en dusch full av hår. Det var hela affärsidén.", "namn": "Daniel Gärdh", "roll": "Delägare", "tagg": "hund"},
+  "citat": {"text": "Ingen ska behöva välja mellan en lerig hund i bilen och en dusch full av hår. Det var hela affärsidén.", "namn": "Daniel Gärdh", "roll": "Delägare och jägare", "tagg": "hund"},
   "omdomen": [
     {"text": "Jag tvättar min setter här efter varje jaktdag. Tio minuter, 60 kronor och duschen hemma förblir ren.", "namn": "Roger B.", "ort": "Falun"},
     {"text": "Drop in för kloklipp på väg hem från jobbet. Varför har inte alla sånt här?", "namn": "Moa-Lisa T.", "ort": "Borlänge"},
@@ -101,10 +101,10 @@
   "fot_cta": "Ingen bokning behövs – kom förbi med den leriga hunden i kväll.",
   "text": {
     "hero_knapp": "Så fungerar självtvätten",
-    "hero_lank": "Priser",
-    "kontakt_knapp": "Hitta hit",
+    "hero_lank": "Vad det kostar",
+    "kontakt_knapp": "Hitta till oss",
     "vagval_etikett": "Tvätt och trim",
-    "ber_etikett": "Från hallen",
+    "ber_etikett": "Från tvätthallen",
     "ber_rubrik": "Siffror och nyheter från karen",
     "ber_utvalt": "Veckans leriga",
     "proj_rubrik": "Smutsiga in, rena ut",
@@ -119,7 +119,7 @@
     "galleri_rubrik": "Våta hundar i Slätta",
     "boka_rubrik": "Boka tid hos Emelie",
     "boka_text": "Självtvätten bokas inte. Vill du att Emelie tvättar eller avfäller hunden, skriv ras och storlek så föreslår vi en förmiddag.",
-    "boka_knapp": "Skicka",
+    "boka_knapp": "Skicka till Emelie",
     "ny_rubrik": "Tips från tvättplatserna",
     "panel_etikett": "Ny i hallen",
     "fot_adress": "Hallen",

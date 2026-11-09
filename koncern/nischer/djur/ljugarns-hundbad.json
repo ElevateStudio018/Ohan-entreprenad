@@ -22,7 +22,7 @@
     {"titel": "Klippning året runt", "ikon": "sax", "href": "verksamhet.html", "text": "Alla raser, med bad och fön, året runt."},
     {"titel": "Fästingkoll", "ikon": "sok", "href": "verksamhet.html", "text": "Vi letar igenom pälsen efter promenaden i rauk- och enbuskmarkerna."},
     {"titel": "Hämtning i Ljugarn", "ikon": "bil", "href": "verksamhet.html", "text": "Vi hämtar hunden vid stugan och lämnar tillbaka den ren."},
-    {"titel": "Prislista", "ikon": "dokument", "href": "priser.html", "text": "Samma priser för öbor och sommargäster."},
+    {"titel": "Sommar- och vinterpriser", "ikon": "dokument", "href": "priser.html", "text": "Samma priser för öbor och sommargäster."},
     {"titel": "Boka sommartid", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Juli bokas från 1 april."}
   ],
   "affarsomraden": [
@@ -33,7 +33,7 @@
   ],
   "bolag": [
     {"namn": "Malin Hejdenberg", "segment": "Ägare, frisör och morgonbadare", "rubrik": "Tillbaka på ön sedan 2016", "text": "Malin klipper året runt och tar alla helklippningar. Hon har två labradorer som badar i havet varje morgon, även i februari.", "tagg": "trimning"},
-    {"namn": "Alva Klintberg", "segment": "Hundfrisör", "rubrik": "Uppvuxen i Roma", "text": "Alva gick lärling hos Malin och arbetar heltid sedan 2020. Hon tar valpbaden och de flesta stamkunderna på vintern.", "tagg": "valp"},
+    {"namn": "Alva Klintberg", "segment": "Hundfrisör året runt", "rubrik": "Uppvuxen i Roma", "text": "Alva gick lärling hos Malin och arbetar heltid sedan 2020. Hon tar valpbaden och de flesta stamkunderna på vintern.", "tagg": "valp"},
     {"namn": "Felix Stenström", "segment": "Sommarfrisör och hämtning", "rubrik": "Bilen mellan stugorna", "text": "Felix pluggar till djursjukskötare i Skara och arbetar hos oss varje sommar sedan 2022. Han kör hämtningarna och tar drop in.", "tagg": "hund"}
   ],
   "berattelser": [
@@ -51,7 +51,7 @@
     {"namn": "Kobbe", "ort": "Labrador", "typ": "Havsbadssköljning", "ar": "2026", "text": "Badade varje dag i tre veckor och fick sköljning varannan dag.", "tagg": "hund"},
     {"namn": "Prinsessan", "ort": "Shih tzu", "typ": "Sommarklipp", "ar": "2026", "text": "Kortare kropp, luftig huvudpäls och inte ett sandkorn kvar mellan tårna.", "tagg": "trimning"},
     {"namn": "Gutten", "ort": "Gotlandsstövare", "typ": "Fästingkoll och bad", "ar": "2025", "text": "Sju fästingar hittade efter en dag i änget vid Lausbackar.", "tagg": "hund"},
-    {"namn": "Havsörn", "ort": "Portugisisk vattenhund", "typ": "Helklippning", "ar": "2025", "text": "Bofast i Roma och klippt i lejonklipp var sjätte vecka.", "tagg": "trimning", "status": "Stamkund"},
+    {"namn": "Havsörn", "ort": "Portugisisk vattenhund", "typ": "Klippning året runt", "ar": "2025", "text": "Bofast i Roma och klippt i lejonklipp var sjätte vecka.", "tagg": "trimning", "status": "Stamkund"},
     {"namn": "Lilla My", "ort": "Cavapoo, valp", "typ": "Första havsbadet", "ar": "2026", "text": "Första doppet vid Folhammar och första fönen i salongen samma morgon.", "tagg": "valp"},
     {"namn": "Morgan från Bromma", "ort": "Golden retriever", "typ": "Drop in i juli", "ar": "2026", "text": "Sandig, salt och tångluktande – hämtad ren av familjen efter lunch.", "tagg": "hund"}
   ],
@@ -68,7 +68,7 @@
   },
   "karriar": {"rubrik": "Ny kund på ön?", "text": "Ring eller skicka sms med hundens ras och var ni bor på ön. Är ni sommargäster, berätta vilka veckor ni är i Ljugarn så föreslår vi en tid tidigt i vistelsen.", "jobb": []},
   "kultur": "Vi har en vattenskål och en dusch utanför dörren som alla får använda, även om ni inte är kunder.",
-  "citat": {"text": "I januari känner jag varenda hund som kommer in genom dörren. I juli känner jag nästan ingen. Båda är lika roliga.", "namn": "Malin Hejdenberg", "roll": "Ägare", "tagg": "trimning"},
+  "citat": {"text": "I januari känner jag varenda hund som kommer in genom dörren. I juli känner jag nästan ingen. Båda är lika roliga.", "namn": "Malin Hejdenberg", "roll": "Grundare av salongen", "tagg": "trimning"},
   "omdomen": [
     {"text": "Vi har hyrt stuga i Ljugarn i sex somrar och bokar alltid en sköljning för Morgan första veckan. Han älskar Felix.", "namn": "Charlotte E.", "ort": "Bromma"},
     {"text": "Havsörn har gått hos Malin sedan han var valp. Bästa klippningen på hela ön.", "namn": "Gunnar R.", "ort": "Roma"},
@@ -86,7 +86,7 @@
   "priser": [
     {"namn": "Havsbadssköljning", "pris": "295 kr", "enhet": "per hund", "text": "Salt, sand och tång ut.", "punkter": ["Sköljning med ljummet sötvatten", "Milt schampo och balsam", "Kontroll av öron och tassar", "Handduks- eller fröntorkning"]},
     {"namn": "Sommarklipp", "pris": "fr. 795 kr", "enhet": "liten–mellan hund", "text": "Lättare päls utan rakning.", "punkter": ["Bad och sköljning", "Utborstning av underull", "Kortad buk, tassar och rumpa", "Fästingkoll"], "utvald": true},
-    {"namn": "Helklippning", "pris": "fr. 995 kr", "enhet": "alla raser, året runt", "text": "Bad, fön och klippning efter rasens behov.", "punkter": ["Bad och fön", "Klippning efter ras eller önskemål", "Klor, öron och tassar", "Fast tid för bofasta"]}
+    {"namn": "Helårsklipp", "pris": "fr. 995 kr", "enhet": "alla raser, året runt", "text": "Bad, fön och klippning efter rasens behov.", "punkter": ["Bad och fön", "Klippning efter ras eller önskemål", "Klor, öron och tassar", "Fast tid för bofasta"]}
   ],
   "prislista": [["Havsbadssköljning", "295 kr"], ["Tredje sköljningen samma vecka", "150 kr"], ["Sommarklipp, liten hund", "fr. 795 kr"], ["Sommarklipp, stor hund", "fr. 1 095 kr"], ["Helklippning, pudel och doodle", "fr. 1 095 kr"], ["Fästingkoll och bad", "350 kr"], ["Valpens första havsbad", "395 kr"], ["Kloklipp utan tidsbokning", "140 kr"], ["Hämtning i Ljugarn med omnejd", "150 kr"]],
   "galleri_taggar": ["hund", "trimning", "valp"],
@@ -107,7 +107,7 @@
     "ber_rubrik": "Säsongen i Ljugarn",
     "ber_utvalt": "Veckans strandhund",
     "proj_rubrik": "Sandiga före, mjuka efter",
-    "proj_kol": ["Hund", "Ras", "Behandling", "Status", "År"],
+    "proj_kol": ["Hund", "Ras", "Besök", "Status", "År"],
     "process_rubrik": "Från strand till glasskiosk",
     "hb_etikett": "Havet utanför dörren",
     "hb_lank": "Så skyddar vi Östersjön",
@@ -118,7 +118,7 @@
     "galleri_rubrik": "Hundar som varit i havet",
     "boka_rubrik": "Boka före semestern",
     "boka_text": "Skriv vilka veckor ni är på ön, hundens ras och om ni vill att vi hämtar vid stugan.",
-    "boka_falt": ["Ditt namn", "Telefon", "Hundens namn och ras", "Veckor på ön"],
+    "boka_falt": ["Ditt namn", "Telefon", "Hundens namn, ras och storlek", "Veckor på ön"],
     "ny_rubrik": "Hundråd från östkusten",
     "panel_etikett": "Ny på ön",
     "fot_adress": "Salongen vid stranden",

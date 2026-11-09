@@ -20,9 +20,9 @@
     {"titel": "Lärarklippning", "ikon": "stjarna", "href": "verksamhet.html", "text": "Agneta eller Tobias klipper själva, för hundar som behöver erfarna händer."},
     {"titel": "Hundfrisörutbildning", "ikon": "skola", "href": "verksamhet.html", "text": "Fyrtio veckor på heltid med start varje augusti."},
     {"titel": "Helgkurs för ägare", "ikon": "folk", "href": "verksamhet.html", "text": "Lär dig klippa din egen hund på två dagar."},
-    {"titel": "Bad och klor", "ikon": "vatten", "href": "verksamhet.html", "text": "Förstaårselevernas första uppgift – och billigaste tjänsten vi har."},
+    {"titel": "Elevbad och klor", "ikon": "vatten", "href": "verksamhet.html", "text": "Förstaårselevernas första uppgift – och billigaste tjänsten vi har."},
     {"titel": "Modellhundar sökes", "ikon": "megafon", "href": "verksamhet.html", "text": "Vi behöver hundar i alla raser till gesällproven i maj."},
-    {"titel": "Priser", "ikon": "dokument", "href": "priser.html", "text": "Elevpris, lärarpris och kursavgifter."},
+    {"titel": "Elev- och lärarpris", "ikon": "dokument", "href": "priser.html", "text": "Elevpris, lärarpris och kursavgifter."},
     {"titel": "Boka elevtid", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Tider tisdag till torsdag under terminerna."}
   ],
   "affarsomraden": [
@@ -51,7 +51,7 @@
     {"namn": "Vilgot", "ort": "Dvärgschnauzer", "typ": "Gesällprov", "ar": "2026", "text": "Klippt av eleven Hampus på provdagen – godkänd med beröm.", "tagg": "trimning"},
     {"namn": "Stina", "ort": "Cocker spaniel", "typ": "Elevklippning", "ar": "2026", "text": "Första helklippningen för en elev i termin två, med Tobias vid bordet.", "tagg": "trimning", "status": "Stamkund"},
     {"namn": "Bambi", "ort": "Mellanpudel", "typ": "Helgkurs för ägare", "ar": "2025", "text": "Matte klipper nu själv mellan besöken, efter två dagar på skolan.", "tagg": "hundtraning"},
-    {"namn": "Rex", "ort": "Schäfer", "typ": "Bad och kloklipp", "ar": "2025", "text": "Förstaårselevernas favorit – lugn, stor och tålmodig med nybörjare.", "tagg": "hund", "status": "Stamkund"},
+    {"namn": "Rex", "ort": "Schäfer", "typ": "Elevbad och klor", "ar": "2025", "text": "Förstaårselevernas favorit – lugn, stor och tålmodig med nybörjare.", "tagg": "hund", "status": "Stamkund"},
     {"namn": "Pärlan", "ort": "Bichon havanais", "typ": "Lärarklippning", "ar": "2026", "text": "Svår filt och en nervös hund – Agneta tog det själv.", "tagg": "trimning"},
     {"namn": "Gizmo", "ort": "Goldendoodle", "typ": "Elevklippning", "ar": "2025", "text": "Tre timmar, två elever och en lärare – och en jämn teddyklippning.", "tagg": "trimning"}
   ],
@@ -68,7 +68,7 @@
   },
   "karriar": {"rubrik": "Första gången i elevsalongen", "text": "Avsätt en halv dag, för elevklippning tar längre tid. Berätta om hunden har varit rädd eller svår hos frisör tidigare, så bokar vi lärartid i stället. Du får gärna vara kvar och titta i väntrummet bakom glasväggen.", "jobb": [["Hundfrisörutbildning, start augusti 2027", "Skövde"], ["Helgkurs för hundägare", "Skövde"]]},
   "kultur": "Varje elev skriver ett kort till dig om vad de gjorde med hunden – och vad de lärde sig av den.",
-  "citat": {"text": "Jag startade skolan för att jag inte kunde anställa någon. Nu ringer salonger från halva Västsverige i maj och frågar vilka elever som går ut.", "namn": "Agneta Rydén", "roll": "Grundare", "tagg": "trimning"},
+  "citat": {"text": "Jag startade skolan för att jag inte kunde anställa någon. Nu ringer salonger från halva Västsverige i maj och frågar vilka elever som går ut.", "namn": "Agneta Rydén", "roll": "Grundare och frisörmästare", "tagg": "trimning"},
   "omdomen": [
     {"text": "Det tog tre och en halv timme, men Stina har aldrig varit så jämnt klippt. Och det kostade hälften.", "namn": "Eva-Karin S.", "ort": "Skövde"},
     {"text": "Rex har varit modellhund för bad och kloklipp i tre år. Eleverna älskar honom och han älskar godiset.", "namn": "Hans R.", "ort": "Tibro"},
@@ -84,7 +84,7 @@
     ["Vad händer om jag inte är nöjd?", "Säg till vid hämtning så rättar en lärare till klippningen direkt, utan kostnad."]
   ],
   "priser": [
-    {"namn": "Bad och klor, elevtid", "pris": "195 kr", "enhet": "elevtid", "text": "Förstaårselevernas uppgift.", "punkter": ["Bad och fön", "Klor och öron", "Lärare i salongen", "Cirka 90 minuter"]},
+    {"namn": "Bad och klor, elevtid", "pris": "195 kr", "enhet": "elevtid", "text": "Förstaårselevernas uppgift.", "punkter": ["Bad och fön", "Klorna kortas, öronen tvättas", "Lärare i salongen", "Cirka 90 minuter"]},
     {"namn": "Elevklippning", "pris": "fr. 450 kr", "enhet": "elevtid, alla storlekar", "text": "Hel klippning under handledning.", "punkter": ["Genomgång med elev och lärare", "Bad, fön och klippning", "Lärarens godkännande", "Kort från eleven"], "utvald": true},
     {"namn": "Lärarklippning", "pris": "fr. 850 kr", "enhet": "lärartid", "text": "När hunden behöver erfarna händer.", "punkter": ["Agneta eller Tobias klipper", "Rädda, gamla eller toviga hundar", "Vanlig salongstid", "Bokas även på sommaren"]}
   ],

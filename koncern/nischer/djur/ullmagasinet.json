@@ -26,7 +26,7 @@
     {"titel": "Boka avfällning", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vår- och höstfällningen bokas fullt sex veckor i förväg."}
   ],
   "affarsomraden": [
-    {"titel": "Avfällning", "text": "Hunden badas med avfällningsbalsam som löser underullen, och sedan blåser vi ut den med kraftfön i en box med utsug. Det som sitter kvar kardas ut för hand.", "text2": "En samojed i full fällning kan släppa över ett kilo ull på ett besök.", "tagg": "hund"},
+    {"titel": "Utblåsning av underull", "text": "Hunden badas med avfällningsbalsam som löser underullen, och sedan blåser vi ut den med kraftfön i en box med utsug. Det som sitter kvar kardas ut för hand.", "text2": "En samojed i full fällning kan släppa över ett kilo ull på ett besök.", "tagg": "hund"},
     {"titel": "Pälsvård mellan fällningarna", "text": "Underull som inte borstas ut packas ihop till filt mot huden, där den håller fukt och skapar hudproblem. Med ett bad var åttonde vecka slipper hunden det.", "text2": "Stamkunder får en fast tid som följer hundens fällningsrytm.", "tagg": "trimning"},
     {"titel": "Efter rakning", "text": "En rakad dubbelpäls växer ofta tillbaka med mer underull och mindre täckhår. Vi följer pälsen i upp till två år och tar bort ullen i takt med att täckhåret kommer.", "text2": "Ungefär var femte ny kund kommer till oss efter att ha rakats någon annanstans.", "tagg": "trimning"},
     {"titel": "Garn av hundull", "text": "Ull från samojed, collie och berner går att spinna till ett mjukt garn som liknar angora. Vi sparar ullen i märkta påsar och skickar den när det finns minst 500 gram.", "text2": "Spinneriet tar 900 kronor per 100 gram färdigt garn.", "tagg": "hund"}
@@ -49,11 +49,11 @@
   ],
   "projekt": [
     {"namn": "Molly", "ort": "Samojed", "typ": "Säsongsavfällning och garn", "ar": "2026", "text": "1,2 kilo ull på ett besök – i dag tre mössor hos familjen i Bäckby.", "tagg": "hund", "status": "Stamkund"},
-    {"namn": "Diesel", "ort": "Schäfer", "typ": "Avfällning", "ar": "2026", "text": "Från tussar i varje hörn av huset till en slät och blank päls.", "tagg": "hund"},
+    {"namn": "Diesel", "ort": "Schäfer", "typ": "Säsongsavfällning", "ar": "2026", "text": "Från tussar i varje hörn av huset till en slät och blank päls.", "tagg": "hund"},
     {"namn": "Wille", "ort": "Golden retriever", "typ": "Rädda rakad päls", "ar": "2025", "text": "Rakad varje sommar i fem år – nu ett och ett halvt år in i planen och täckhåret är tillbaka.", "tagg": "trimning"},
     {"namn": "Lassie", "ort": "Långhårig collie", "typ": "Collie och sheltie", "ar": "2025", "text": "Kragen formad och byxorna putsade inför SKK:s utställning i Strängnäs.", "tagg": "trimning"},
     {"namn": "Björn", "ort": "Berner sennen", "typ": "Underhållsbad", "ar": "2026", "text": "Var åttonde vecka sedan valp, och aldrig en enda tova.", "tagg": "hund", "status": "Stamkund"},
-    {"namn": "Yrsa", "ort": "Alaskan malamute", "typ": "Avfällning", "ar": "2025", "text": "Tre timmar, två bad och en sopsäck full av ull.", "tagg": "hund"}
+    {"namn": "Yrsa", "ort": "Alaskan malamute", "typ": "Utblåsning i box", "ar": "2025", "text": "Tre timmar, två bad och en sopsäck full av ull.", "tagg": "hund"}
   ],
   "process": [
     {"titel": "Pälsbedömning", "text": "Vi känner efter hur mycket ull som har släppt och om det finns filt mot huden.", "tagg": "trimning"},
@@ -68,7 +68,7 @@
   },
   "karriar": {"rubrik": "Så förbereder du hunden", "text": "Borsta inte bort allt före besöket – vi vill se hur pälsen faktiskt ser ut. Ge hunden en promenad innan, för en avfällning tar två till fyra timmar. Vill du spara ullen säger du till vid bokningen.", "jobb": []},
   "kultur": "Vill du spara ullen får du den i en märkt påse med hundens namn och datum.",
-  "citat": {"text": "Folk rakar sina hundar för att de tror att de blir svalare. Det är som att ta av sig solhatten och tröjan mitt på dagen i Sevilla.", "namn": "Annelie Kjellberg", "roll": "Grundare", "tagg": "hund"},
+  "citat": {"text": "Folk rakar sina hundar för att de tror att de blir svalare. Det är som att ta av sig solhatten och tröjan mitt på dagen i Sevilla.", "namn": "Annelie Kjellberg", "roll": "Grundare och uppfödare", "tagg": "hund"},
   "omdomen": [
     {"text": "Vi dammsög varje dag under fällningen. Efter ett besök hos Ullmagasinet räckte det med en gång i veckan.", "namn": "Jenny K.", "ort": "Västerås"},
     {"text": "Wille rakades varje sommar hos en annan salong. Annelie förklarade varför pälsen blev konstig och nu är den som den ska.", "namn": "Martin L.", "ort": "Köping"},
@@ -100,7 +100,7 @@
   "omrade": "Västerås, Köping, Enköping, Sala och Surahammar",
   "fot_cta": "Fäller hunden redan? Boka avfällning innan ullen hinner tova.",
   "text": {
-    "vagval_etikett": "Pälsvård",
+    "vagval_etikett": "Underull och päls",
     "ber_etikett": "Från boxarna",
     "ber_rubrik": "Ull, garn och fällningar",
     "ber_utvalt": "Säsongens pälsbollar",

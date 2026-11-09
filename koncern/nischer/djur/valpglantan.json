@@ -20,7 +20,7 @@
     {"titel": "Valplek efter storlek", "ikon": "folk", "href": "verksamhet.html", "text": "Lekgrupper på max sex valpar, sorterade efter vikt."},
     {"titel": "Miljöträning", "ikon": "karta", "href": "verksamhet.html", "text": "Buss, torg och hiss i Växjö centrum – tillsammans med en instruktör."},
     {"titel": "Första badet", "ikon": "vatten", "href": "verksamhet.html", "text": "Ljummet vatten, valpschampo och mycket godis."},
-    {"titel": "Valpklipp", "ikon": "sax", "href": "verksamhet.html", "text": "Ögon, tassar och rumpa – i korta pass på det låga bordet."},
+    {"titel": "Första valpklippet", "ikon": "sax", "href": "verksamhet.html", "text": "Ögon, tassar och rumpa – i korta pass på det låga bordet."},
     {"titel": "Hemmabesök", "ikon": "hus", "href": "verksamhet.html", "text": "Vi kommer hem första veckan och hjälper till med rutiner och rumsrenhet."},
     {"titel": "Kursavgifter", "ikon": "dokument", "href": "priser.html", "text": "Kurser, lek och salong i en prislista."},
     {"titel": "Anmäl din valp", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Ny kursstart varannan måndag."}
@@ -48,11 +48,11 @@
     {"varde": "30", "enhet": "cm", "etikett": "Höjd på valpbordet"}
   ],
   "projekt": [
-    {"namn": "Moses", "ort": "Berner sennen, 10 veckor", "typ": "Valpkurs", "ar": "2026", "text": "Kom när han blev kallad på tredje träffen – även med fyra valpar som lekte bredvid.", "tagg": "hundtraning"},
+    {"namn": "Moses", "ort": "Berner sennen, 10 veckor", "typ": "Valpkurs 8–16 veckor", "ar": "2026", "text": "Kom när han blev kallad på tredje träffen – även med fyra valpar som lekte bredvid.", "tagg": "hundtraning"},
     {"namn": "Tuss", "ort": "Bichon havanais, 14 veckor", "typ": "Första badet och valpklipp", "ar": "2026", "text": "Tre besök på bordet innan saxen – och sov i famnen vid hämtningen.", "tagg": "trimning"},
     {"namn": "Kullen från Kennel Ljungmossen", "ort": "Labrador, sex valpar", "typ": "Valplek efter storlek", "ar": "2026", "text": "Sex syskon i samma grupp varje lördag sedan nio veckors ålder.", "tagg": "valp"},
     {"namn": "Mimmi", "ort": "Chihuahua, 12 veckor", "typ": "Miljöträning", "ar": "2025", "text": "Första bussresan till resecentrum utan att darra.", "tagg": "hundtraning"},
-    {"namn": "Valdemar", "ort": "Mellanpudel, 16 veckor", "typ": "Valpklipp", "ar": "2025", "text": "Första ansiktsklippet med sax på det låga bordet.", "tagg": "trimning"},
+    {"namn": "Valdemar", "ort": "Mellanpudel, 16 veckor", "typ": "Första valpklippet", "ar": "2025", "text": "Första ansiktsklippet med sax på det låga bordet.", "tagg": "trimning"},
     {"namn": "Alfons", "ort": "Australian kelpie, 9 veckor", "typ": "Hemmabesök", "ar": "2025", "text": "Rumsren på tolv dagar med schema från Frida.", "tagg": "valp"}
   ],
   "process": [
@@ -91,9 +91,9 @@
   "prislista": [["Valpkurs, 5 träffar", "2 200 kr"], ["Valpstart med salong", "2 650 kr"], ["Hemmabesök, 90 min", "1 100 kr"], ["Valplek, enstaka gång", "175 kr"], ["Miljöpromenad i stan", "395 kr"], ["Första badet", "295 kr"], ["Valpklipp, liten valp", "fr. 395 kr"], ["Valpklipp, pudel och doodle", "fr. 495 kr"], ["Salongsbesök för att vänja sig", "150 kr"]],
   "galleri_taggar": ["valp", "hundtraning", "trimning"],
   "nyheter": [
-    ["2026-10-12", "Valpens första vinter", "Snö, halka och mörker – så tränar du valpen på kvällspromenaderna.", "valp"],
+    ["2026-10-13", "Valpens första vinter", "Snö, halka och mörker – så tränar du valpen på kvällspromenaderna.", "valp"],
     ["2026-06-09", "Anmäl innan du hämtar valpen", "Därför fylls valpkurserna redan när kullen föds.", "hundtraning"],
-    ["2026-02-18", "Så vänjer du valpen vid kam och borste", "Fem minuter i soffan varje kväll gör första klippningen lättare.", "trimning"]
+    ["2026-02-17", "Så vänjer du valpen vid kam och borste", "Fem minuter i soffan varje kväll gör första klippningen lättare.", "trimning"]
   ],
   "kontakt": {"adress": "Evedals Gårdsväg 3", "postnr": "352 63", "ort": "Växjö", "telefon": "070-174 06 58", "epost": "hej@valpglantan.se", "orgnr": ""},
   "oppettider": "Kurser vardagskvällar och lördagar, salong mån–fre 9–15",
@@ -102,7 +102,7 @@
   "bild": {"panel": "valp", "hb": "valp", "om": "valp", "sida_hb": "hundtraning", "citat": "valp"},
   "text": {
     "hero_knapp": "Se valpkurserna",
-    "hero_lank": "Priser",
+    "hero_lank": "Se kursavgifter",
     "kontakt_knapp": "Anmäl valpen",
     "vagval_etikett": "Valpar",
     "ber_etikett": "Från gläntan",
