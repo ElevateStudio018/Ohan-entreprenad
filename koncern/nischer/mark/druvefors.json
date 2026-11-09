@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "mark",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Druvefors Marksanering AB",
+  "kortnamn": "Druvefors",
+  "slug": "druvefors",
+  "typ": "Sanering av förorenad mark i Sjuhärad",
+  "tagline": "Ren mark, dokumenterat",
+  "slogan": "Vi gräver ut förorenad jord från gamla färgerier, bensinstationer och verkstadstomter – och kan visa var varje ton tog vägen.",
+  "hero_rubrik": "Textilstadens jord har ett långt minne",
+  "hero_text": "Markundersökning, schaktsanering och klassning av massor åt fastighetsägare och kommuner i Borås, Ulricehamn och Mark. 24 anställda och ett eget fältlabb.",
+  "intro_rubrik": "290 tomter rena sedan 2008",
+  "om": [
+    "Borås har haft textilindustri i 200 år, och färgerier, tvätterier och verkstäder har lämnat lösningsmedel, metaller och olja i marken. Geologen Hampus Larsson och anläggaren Mirela Kovač startade Druvefors 2008, när kommunen började bygga bostäder på gamla industritomter längs Viskan.",
+    "I dag är vi 24 anställda: åtta miljökonsulter och provtagare, tolv maskinförare och anläggare med saneringsutbildning och fyra på kontor och i fältlabbet. Vi gör både undersökningen och schakten, så att den som tog proverna också står vid gropen och avgör vilken jord som ska till deponi."
+  ],
+  "vagval_rubrik": "Vad har tomten använts till?",
+  "tjanster": [
+    {"titel": "Markundersökning", "ikon": "sok", "href": "verksamhet.html", "text": "Provtagning med skruvborr och provgropar, analys och riskbedömning."},
+    {"titel": "Schaktsanering", "ikon": "hamare", "href": "verksamhet.html", "text": "Utgrävning av förorenad jord, där varje skopa klassas i fält."},
+    {"titel": "Bensinstationer", "ikon": "bil", "href": "verksamhet.html", "text": "Sanering efter cisterner, pumpöar och spillzoner när en station läggs ner."},
+    {"titel": "Klorerade lösningsmedel", "ikon": "vatten", "href": "verksamhet.html", "text": "Utredning och åtgärd där kemtvättar och färgerier har läckt till grundvattnet."},
+    {"titel": "Klassning av massor", "ikon": "sten", "href": "verksamhet.html", "text": "Sortering så att ren jord återanvänds och resten körs till rätt mottagare."},
+    {"titel": "Rivningstomter", "ikon": "fabrik", "href": "verksamhet.html", "text": "Sanering under golv och grunder när gamla industribyggnader rivs."},
+    {"titel": "Anmälan och tillsyn", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi skriver anmälan till miljöförvaltningen och slutrapporten efteråt."},
+    {"titel": "Fråga en geolog", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Beskriv tomten – den första bedömningen kostar ingenting."}
+  ],
+  "affarsomraden": [
+    {"titel": "Undersökning före köp och bygge", "text": "Innan någon köper eller bygger på en gammal industritomt behöver man veta vad som finns i marken. Vi går igenom historiska kartor och flygfoton, borrar och tar prover och lämnar en rapport med riskbedömning.", "text2": "Fältlabbets XRF-instrument ger metallhalter samma dag.", "tagg": "kontor"},
+    {"titel": "Schaktsanering med klassning i fält", "text": "Under saneringen står en provtagare vid grävmaskinen hela tiden. Varje skopa bedöms och läggs i rätt hög – ren, lätt förorenad eller farligt avfall – och bekräftas med analyser.", "text2": "Bara den jord som verkligen är förorenad körs till deponi, och kostnaden blir därefter.", "tagg": "mark"},
+    {"titel": "Nedlagda bensinstationer", "text": "Gamla stationer har ofta läckt bensin och diesel från cisterner och rör. Vi tar upp cisternerna, gräver ut jorden och tar kontrollprover i botten och väggar tills riktvärdena klaras.", "text2": "Vi har sanerat 46 stationer i Västra Götaland sedan 2010.", "tagg": "industri"},
+    {"titel": "Grundvatten och lösningsmedel", "text": "Klorerade lösningsmedel från kemtvättar sjunker genom marken och sprids i grundvattnet. Vi sätter grundvattenrör, följer halterna över tid och föreslår åtgärd när det behövs.", "text2": "Provtagningen sker två till fyra gånger per år, ofta under flera år.", "tagg": "vvs"}
+  ],
+  "bolag": [
+    {"namn": "Miljökonsult", "segment": "Undersökning och rapport", "rubrik": "Åtta geologer och provtagare", "text": "Gör markundersökningar, riskbedömningar och kontrollprogram, och står vid gropen under saneringen.", "tagg": "kontor"},
+    {"namn": "Saneringslaget", "segment": "Schakt och transport", "rubrik": "Maskiner med kolfilter i hytten", "text": "Tolv förare och anläggare med saneringsutbildning och maskiner med övertryckshytt.", "tagg": "mark"},
+    {"namn": "Fältlabbet", "segment": "Analys på plats", "rubrik": "Svar innan lastbilen går", "text": "XRF- och PID-instrument i en container på arbetsplatsen, med kontrollanalyser hos ackrediterat laboratorium.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Färgeritomten vid Viskan blir bostäder", "text": "11 000 ton jord sanerad, varav 62 procent kunde användas igen på plats.", "tagg": "mark"},
+    {"rubrik": "Stationen i Ulricehamn godkänd", "text": "Cisterner, pumpöar och 1 400 ton jord borta på sex veckor – kommunen godkände kontrollproverna.", "tagg": "industri"},
+    {"rubrik": "Fältlabb i container", "text": "Metaller och kolväten analyseras nu innan nästa lass lastas.", "tagg": "kontor"}
+  ],
+  "nyckeltal": [
+    {"varde": "290", "enhet": "tomter", "etikett": "Sanerade sedan 2008"},
+    {"varde": "62 %", "enhet": "", "etikett": "Av massorna återanvända 2025"},
+    {"varde": "46", "enhet": "stationer", "etikett": "Bensinstationer sanerade"},
+    {"varde": "1", "enhet": "dag", "etikett": "Till svar från fältlabbet"}
+  ],
+  "projekt": [
+    {"namn": "Färgeriet vid Viskan", "ort": "Borås", "typ": "Schaktsanering", "ar": "2025", "text": "11 000 ton jord sanerad inför 140 nya lägenheter.", "tagg": "mark"},
+    {"namn": "Bensinstation vid Åsunden", "ort": "Ulricehamn", "typ": "Sanering efter nedläggning", "ar": "2025", "text": "Cisterner upptagna och 1 400 ton jord bortgrävd.", "tagg": "industri"},
+    {"namn": "Kemtvätten på Norrby", "ort": "Borås", "typ": "Grundvattenutredning", "ar": "2024", "text": "Tolv grundvattenrör och provtagning fyra gånger per år.", "tagg": "vvs"},
+    {"namn": "Verkstadstomt i Kinna", "ort": "Mark", "typ": "Markundersökning", "ar": "2025", "text": "Undersökning före köp, med 42 provpunkter och riskbedömning.", "tagg": "kontor"},
+    {"namn": "Spinneriet i Fritsla", "ort": "Mark", "typ": "Sanering under grund", "ar": "2024", "text": "Förorenad jord under betongplattan grävdes ut efter rivningen.", "tagg": "rivning"},
+    {"namn": "Skjutbanan i Sandared", "ort": "Borås", "typ": "Blysanering", "ar": "2026", "text": "Sanering av kulfång och vall, planerad till våren.", "tagg": "natur"}
+  ],
+  "process": [
+    {"titel": "Historik", "text": "Vi läser gamla kartor, bygglov och flygfoton för att se vad tomten har använts till.", "tagg": "kontor"},
+    {"titel": "Provtagning", "text": "Skruvborr eller provgropar, analys och en rapport med risker och kostnad.", "tagg": "mark"},
+    {"titel": "Sanering", "text": "Provtagaren står vid maskinen och klassar jorden innan den lastas.", "tagg": "anlaggning"},
+    {"titel": "Slutrapport", "text": "Kontrollprover, vågsedlar och mottagningskvitton samlas i en rapport till tillsynsmyndigheten.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Bara det smutsiga ska till deponi",
+    "text": "Varje ton som körs till deponi i onödan kostar både pengar och diesel. Genom att klassa jorden i fält kunde vi 2025 återanvända 62 procent av de schaktade massorna på plats eller i andra projekt. Resten kan spåras från grop till mottagare med vågsedel och kvitto.",
+    "mal": [["62 %", "återanvända massor 2025"], ["100 %", "spårbara lass med vågsedel"], ["0", "underkända kontrollprover 2025"]]
+  },
+  "karriar": {
+    "rubrik": "Geolog eller grävare – ni står vid samma grop",
+    "text": "Vi söker både provtagare med naturvetenskaplig utbildning och maskinförare som vill lära sig sanering. Alla går vår interna utbildning i förorenad mark och arbetsmiljö de första veckorna.",
+    "jobb": [["Miljökonsult förorenad mark", "Borås"], ["Maskinförare sanering", "Borås"], ["Provtagare, sommarjobb", "Borås"]]
+  },
+  "kultur": "Varje projekt avslutas med att laget går igenom vad som gick bra och vad som ska göras annorlunda – med tårta om kontrollproverna klarades första gången.",
+  "citat": {"text": "Jord är inte smutsig bara för att den är gammal. Därför ska vi köra bort det som faktiskt är förorenat, och inget annat.", "namn": "Hampus Larsson", "roll": "Grundare och geolog", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi räknade med att köra all jord till deponi. Tack vare klassningen i fält kunde mer än hälften ligga kvar, och kalkylen höll.", "namn": "Johan R.", "ort": "Borås"},
+    {"text": "Kommunens tillsyn godkände slutrapporten utan en enda fråga om komplettering.", "namn": "Annika T.", "ort": "Ulricehamn"},
+    {"text": "Rapporten före köpet gjorde att vi kunde förhandla ner priset med saneringskostnaden.", "namn": "Mehmet Y.", "ort": "Kinna"}
+  ],
+  "faq": [
+    ["Hur vet jag om min tomt är förorenad?", "Länsstyrelsen har ett register över potentiellt förorenade områden. Har tomten varit verkstad, tvätteri, bensinstation eller industri är det klokt att undersöka innan du bygger."],
+    ["Vad kostar en markundersökning?", "En enklare undersökning med 8–10 provpunkter och rapport kostar oftast 45 000–85 000 kronor. Större tomter och grundvattenprovtagning kostar mer."],
+    ["Vem betalar saneringen?", "Grundregeln är att den som förorenat ansvarar, men ofta är verksamheten sedan länge nedlagd. Då kan fastighetsägaren bli ansvarig, särskilt om föroreningen var känd vid köpet."],
+    ["Måste saneringen anmälas?", "Ja, anmälan ska göras till kommunens miljöförvaltning minst sex veckor innan arbetet börjar. Vi skriver den."],
+    ["Vart tar den förorenade jorden vägen?", "Den körs till godkänd mottagare och sorteras efter halter. Du får vågsedlar och mottagningskvitton för varje lass."],
+    ["Kan man bygga medan grundvattnet övervakas?", "Oftast ja. Provtagningen kan fortsätta i rör som placeras utanför byggnaden."]
+  ],
+  "certifikat": [
+    {"titel": "Utbildning i förorenad mark", "text": "Alla förare och anläggare har gått utbildning om arbete i förorenad mark och om skyddsutrustning.", "ikon": "hjalm"},
+    {"titel": "Miljöledning enligt ISO 14001", "text": "Certifierat sedan 2013, med extern revision varje år.", "ikon": "lov"},
+    {"titel": "Ackrediterade analyser", "text": "Fältmätningar bekräftas alltid av ett ackrediterat laboratorium.", "ikon": "sok"},
+    {"titel": "Transport av farligt avfall", "text": "Tillstånd från Länsstyrelsen för transport av farligt avfall och ADR-utbildade förare.", "ikon": "skold"}
+  ],
+  "kunder": ["Borås kommun, mark och exploatering", "Viskastrandens Bostäder", "Ulricehamns Fastighetsutveckling", "Kinna Industrifastigheter", "Sjuhärads Bostadsbyggare", "Sandareds Skytteförening", "Fritsla Spinneriet Fastighets AB"],
+  "nyheter": [
+    ["2026-09-24", "Färgeritomten godkänd för bostäder", "Kommunen har godkänt slutrapporten, och husbygget startar i november.", "mark"],
+    ["2026-04-28", "Analyser direkt på arbetsplatsen", "Alla större saneringar har nu fältlabb i container.", "kontor"],
+    ["2025-10-14", "Fem frågor innan du köper en industritomt", "Hampus Larsson om vad historiken kan avslöja innan du borrar.", "industri"]
+  ],
+  "kontakt": {"adress": "Getängsvägen 25", "postnr": "504 68", "ort": "Borås", "telefon": "070-174 06 48", "epost": "prov@druvefors.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Borås, Ulricehamn, Mark, Bollebygd och Svenljunga",
+  "fot_cta": "Ska ni bygga på en gammal industritomt? Ring en geolog innan ni gräver.",
+  "bild": {"panel": "mark", "hb": "natur"},
+  "text": {
+    "hero_knapp": "Så sanerar vi",
+    "kontakt_knapp": "Fråga en geolog",
+    "ber_etikett": "Från fältlabbet",
+    "ber_rubrik": "Färgerier, stationer och prover",
+    "proj_rubrik": "Tomter vi har gjort rena",
+    "process_rubrik": "Från gamla kartor till slutrapport",
+    "hb_etikett": "Massor och spårbarhet",
+    "omdomen_rubrik": "Fastighetsägare och köpare",
+    "faq_rubrik": "Om förorenad mark",
+    "logos_rubrik": "Uppdragsgivare i Sjuhärad",
+    "certifikat_rubrik": "Utbildning, tillstånd och analys",
+    "bolag_rubrik": "Konsult, grävare och labb",
+    "boka_rubrik": "Vad har tomten varit?",
+    "boka_text": "Beskriv fastigheten och vad den har använts till, så gör en geolog en första bedömning.",
+    "boka_falt": ["Namn", "Telefon", "Fastighet och ort", "Tidigare verksamhet"],
+    "siffror_etikett": "Saneringarna i siffror"
+  }
+}
