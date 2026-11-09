@@ -435,17 +435,17 @@ def palett_for(rng, profil, nisch=None):
 
 # Sektioner per profil: (måste med, valfria). Endast sektioner som briefen har innehåll för tas med.
 PROFIL_SEK = {
-    "koncern": (["vagval", "bolag", "projekt", "siffror"], ["berattelser", "panel", "hb", "ir", "nyheter", "process", "citat"]),
-    "mega": (["vagval", "bolag", "siffror", "ir"], ["berattelser", "panel", "hb", "nyheter", "process", "citat", "kontor", "tidslinje", "projekt"]),
-    "bygg": (["vagval", "projekt", "bolag"], ["berattelser", "siffror", "panel", "hb", "nyheter", "process", "citat", "omdomen", "faq", "certifikat", "boka"]),
-    "foto": (["projekt", "priser", "omdomen", "galleri"], ["vagval", "process", "bolag", "citat", "faq", "hb", "berattelser", "siffror", "nyheter", "boka", "panel"]),
-    "arborist": (["vagval", "projekt", "priser"], ["process", "omdomen", "certifikat", "faq", "berattelser", "bolag", "siffror", "hb", "panel", "boka", "galleri", "citat"]),
-    "djur": (["vagval", "priser", "omdomen"], ["galleri", "projekt", "process", "faq", "bolag", "hb", "citat", "berattelser", "boka", "panel", "siffror"]),
-    "nisch": (["vagval", "projekt"], ["priser", "process", "bolag", "siffror", "omdomen", "citat", "certifikat", "faq", "logos", "hb", "panel", "kontor", "berattelser", "nyheter", "boka"]),
+    "koncern": (["vagval", "bolag", "projekt", "siffror"], ["cta", "berattelser", "panel", "hb", "ir", "nyheter", "process", "citat"]),
+    "mega": (["vagval", "bolag", "siffror", "ir"], ["cta", "berattelser", "panel", "hb", "nyheter", "process", "citat", "kontor", "tidslinje", "projekt"]),
+    "bygg": (["vagval", "projekt", "bolag"], ["cta", "berattelser", "siffror", "panel", "hb", "nyheter", "process", "citat", "omdomen", "faq", "certifikat", "boka"]),
+    "foto": (["projekt", "priser", "omdomen", "galleri"], ["cta", "vagval", "process", "bolag", "citat", "faq", "hb", "berattelser", "siffror", "nyheter", "boka", "panel"]),
+    "arborist": (["vagval", "projekt", "priser"], ["cta", "process", "omdomen", "certifikat", "faq", "berattelser", "bolag", "siffror", "hb", "panel", "boka", "galleri", "citat"]),
+    "djur": (["vagval", "priser", "omdomen"], ["cta", "galleri", "projekt", "process", "faq", "bolag", "hb", "citat", "berattelser", "boka", "panel", "siffror"]),
+    "nisch": (["vagval", "projekt"], ["cta", "priser", "process", "bolag", "siffror", "omdomen", "citat", "certifikat", "faq", "logos", "hb", "panel", "kontor", "berattelser", "nyheter", "boka"]),
 }
 KRAV = {"priser": "priser", "omdomen": "omdomen", "faq": "faq", "galleri": "galleri_taggar", "process": "process", "citat": "citat",
         "certifikat": "certifikat", "logos": "kunder", "kontor": "kontor_lista", "tidslinje": "tidslinje", "ir": "investerare", "nyheter": "nyheter",
-        "berattelser": "berattelser", "panel": "karriar", "boka": "kontakt", "bolag": "bolag"}
+        "berattelser": "berattelser", "panel": "karriar", "boka": "kontakt", "bolag": "bolag", "cta": "kontakt"}
 HELBILD = {"siffror": {"band"}, "hb": {"helbild"}, "berattelser": {"band"}, "panel": {"helbild"}}
 
 

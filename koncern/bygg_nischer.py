@@ -185,6 +185,11 @@ def differentiera(nya=False):
             fnamn = _minst(list(FORMER), rak["form"], glob["form"], rng)
             k, c, i = FORMER[fnamn]
             p["form"] = {"namn": fnamn, "knapp": k, "kort": c, "bild": i, "hero": 0}
+            # uppmaningssektion (cta) på ungefär hälften av sajterna, nära slutet
+            if "cta" not in p["ordning_lista"] and rng.random() < 0.5:
+                o = p["ordning_lista"]
+                slut = len(o) - (1 if o and o[-1] in ("snabb", "boka") else 0)
+                o.insert(max(1, slut - rng.choice([0, 1, 2])), "cta")
             # sektionsvarianter
             for sek in p["ordning_lista"]:
                 if sek in alla_var:
