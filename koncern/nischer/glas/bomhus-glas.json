@@ -1,0 +1,135 @@
+{
+  "profil": "nisch",
+  "nisch": "glas",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Bomhus Glasservice AB",
+  "kortnamn": "Bomhus Glas",
+  "slug": "bomhus-glas",
+  "typ": "Glasservice för fastighetsägare i Gävleborg",
+  "tagline": "Förvaltarens glasmästare",
+  "slogan": "Vi tar hand om allt glas i 41 000 lägenheter och lokaler i Gävleborg – felanmälan, akuta byten och planerat underhåll på samma avtal.",
+  "hero_rubrik": "En felanmälan in. En hel ruta ut.",
+  "hero_text": "Fastighetsägare i Gävle, Sandviken, Bollnäs och Hudiksvall låter oss sköta trapphusglas, balkongdörrar, entréer och källarfönster.",
+  "intro_rubrik": "Glas i 41 000 lägenheter och lokaler",
+  "om": [
+    "Bomhus Glasservice startades 1983 av glasmästarna Leif Sundin och Hans Östlund i ett garage i Bomhus. 2015 köptes företaget av fyra medarbetare, och vd sedan dess är Johanna Sundin – Leifs brorsdotter, som började som kundtjänstansvarig.",
+    "Vi är 46 anställda på fyra orter. Nio av tio uppdrag kommer från fastighetsägare med serviceavtal, och vi är kopplade direkt till deras felanmälningssystem så att ärendet landar i rätt servicebil utan att någon behöver ringa."
+  ],
+  "vagval_rubrik": "Vilken sorts fastigheter förvaltar du?",
+  "tjanster": [
+    {"titel": "Serviceavtal", "ikon": "dokument", "href": "verksamhet.html", "text": "Fast månadsavgift, fasta priser per åtgärd och en kontaktperson för alla era hus."},
+    {"titel": "Felanmälan via portal", "ikon": "laddning", "href": "verksamhet.html", "text": "Ärenden går direkt från ert system till våra servicebilar, med foto när jobbet är klart."},
+    {"titel": "Akut skivning", "ikon": "telefon", "href": "verksamhet.html", "text": "Krossade entréer och fönster säkras inom fyra timmar, även nattetid."},
+    {"titel": "Planerat underhåll", "ikon": "kalender", "href": "verksamhet.html", "text": "Fönsterinventering och underhållsplan för glas och beslag per fastighet."},
+    {"titel": "Entréer och trapphus", "ikon": "nyckel", "href": "verksamhet.html", "text": "Entrépartier, trapphusfönster och brandklassade dörrglas."},
+    {"titel": "Balkongdörrar", "ikon": "hus", "href": "verksamhet.html", "text": "Byte av isolerglas och justering av beslag vid inflyttning och utflyttning."},
+    {"titel": "Lokaler och butiker", "ikon": "kontor", "href": "verksamhet.html", "text": "Skyltfönster och glaspartier i kommersiella lokaler som ni hyr ut."},
+    {"titel": "Bli avtalskund", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Vi inventerar ert bestånd och ger ett avtalsförslag inom två veckor."}
+  ],
+  "affarsomraden": [
+    {"titel": "Allmännyttan och kommuner", "text": "Kommunala bostadsbolag har ofta tusentals fönster i hus från 1960- och 70-talen. Vi har avtal med fem av dem i länet.", "text2": "Fasta priser gör att förvaltaren kan attestera direkt utan offert.", "tagg": "bostad"},
+    {"titel": "Privata fastighetsägare", "text": "Allt från familjeägda bolag med tre hus till förvaltare med 2 000 lägenheter. Avtalet anpassas efter beståndets storlek.", "text2": "Mindre ägare får samma svarstider som de stora.", "tagg": "stad"},
+    {"titel": "Bostadsrättsföreningar", "text": "Styrelser som vill slippa jaga hantverkare får ett enklare avtal med trapphus, entréer och gemensamma utrymmen.", "text2": "Lägenhetsinnehavarna kan beställa egna byten till avtalspris.", "tagg": "hem"},
+    {"titel": "Skolor och offentliga lokaler", "text": "Skadegörelse på skolor sker oftast på helger. Våra jourbilar skivar på lördagen och glasar på måndagen.", "text2": "Varje ärende rapporteras med bild till kommunens säkerhetssamordnare.", "tagg": "kontor"}
+  ],
+  "bolag": [
+    {"namn": "Kundservice och planering", "segment": "Gävle", "rubrik": "Sex personer som fördelar 900 ärenden i månaden", "text": "Kundservice tar emot felanmälningar från portalen och fördelar dem på bilarna efter adress och glastyp.", "tagg": "people"},
+    {"namn": "Gävle och Sandviken", "segment": "18 servicebilar", "rubrik": "Den största delen av beståndet", "text": "Här finns huvudverkstaden med skärbord, isolerglaslager och tvättstation för skivmaterial.", "tagg": "glas"},
+    {"namn": "Hälsingland", "segment": "Bollnäs och Hudiksvall", "rubrik": "Lokala glasmästare i norr", "text": "Sju glasmästare med egna bilar och ett mindre lager i Hudiksvall.", "tagg": "bostad"},
+    {"namn": "Underhållsplanering", "segment": "Inventering och rapporter", "rubrik": "Varje fönster i en databas", "text": "Två fönstertekniker inventerar bestånd och tar fram tioåriga underhållsplaner.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Gästrike Hems trapphus inventerade", "text": "4 800 trapphusfönster fotograferade och klassade – underhållsplanen är klar till budgetarbetet.", "tagg": "bostad"},
+    {"rubrik": "Ny portalkoppling för Hyttbo Bostäder", "text": "Felanmälningar går nu direkt till servicebilen utan manuell hantering.", "tagg": "kontor"},
+    {"rubrik": "Utflyttningsveckan i oktober", "text": "312 balkongdörrar kontrollerade och justerade på fem dagar.", "tagg": "glas"}
+  ],
+  "nyckeltal": [
+    {"varde": "41 000", "enhet": "objekt", "etikett": "Lägenheter och lokaler på avtal"},
+    {"varde": "4", "enhet": "timmar", "etikett": "Längsta tid till säkrad ruta"},
+    {"varde": "10 800", "enhet": "ärenden", "etikett": "Avslutade under 2025"},
+    {"varde": "46", "enhet": "anställda", "etikett": "Delägda sedan 2015"}
+  ],
+  "projekt": [
+    {"namn": "Trapphusinventering", "ort": "Gävle", "typ": "Underhållsplan", "ar": "2026", "text": "4 800 fönster dokumenterade med foto, mått och skick.", "tagg": "bostad"},
+    {"namn": "Entrébyte på Andersberg", "ort": "Gävle", "typ": "Entrépartier", "ar": "2026", "text": "26 entréer med nya partier i laminerat glas och automatisk dörröppning.", "tagg": "stad", "status": "Pågående"},
+    {"namn": "Skolavtalet", "ort": "Sandviken", "typ": "Jour och skadegörelse", "ar": "2025", "text": "Fjorton skolor med helgjour och rapport till säkerhetssamordnaren.", "tagg": "kontor"},
+    {"namn": "Brf Strömsbro Park", "ort": "Gävle", "typ": "Balkongdörrar", "ar": "2025", "text": "Isolerglas bytt i 144 balkongdörrar efter stämmobeslut.", "tagg": "hem"},
+    {"namn": "Centrumhuset", "ort": "Hudiksvall", "typ": "Skyltfönster", "ar": "2025", "text": "Butiksplanet fick nya skyltfönster inför en ny hyresgäst.", "tagg": "glas"},
+    {"namn": "Seniorboendet Älvbacken", "ort": "Bollnäs", "typ": "Fönsterbyte", "ar": "2024", "text": "Lättöppnade vädringsfönster i 60 lägenheter under pågående boende.", "tagg": "bostad"}
+  ],
+  "process": [
+    {"titel": "Hyresgästen anmäler", "text": "Felanmälan görs i fastighetsägarens vanliga system och skickas till oss automatiskt.", "tagg": "people"},
+    {"titel": "Ärendet fördelas", "text": "Kundservice prioriterar efter brådska och lägger ärendet i rätt bil inom en timme.", "tagg": "kontor"},
+    {"titel": "Byte på plats", "text": "Glasmästaren byter eller säkrar och tar foto före och efter.", "tagg": "glas"},
+    {"titel": "Klart i systemet", "text": "Ärendet stängs med bild och fast pris. Ni får en samlad faktura per månad.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett justerat beslag är ett fönster som inte behöver bytas",
+    "text": "Många fönster byts i onödan för att de har blivit tröga eller drar kallt. Våra glasmästare justerar, tätar och byter gångjärn först och föreslår bara nytt glas när det verkligen behövs. Servicebilarna körs efter optimerade rutter per dag.",
+    "mal": [["22 %", "färre körda mil per ärende sedan 2022"], ["1 av 4", "anmälda fönster lagas med justering"], ["2028", "hela bilparken eldriven"]]
+  },
+  "karriar": {
+    "rubrik": "Bli delägare i ett glasmästeri",
+    "text": "Efter två år kan alla anställda köpa aktier i bolaget. I dag är 19 av 46 delägare. Du får egen servicebil, fasta tider och sällan jour mer än en vecka av sex.",
+    "jobb": [["Servicetekniker glas", "Gävle"], ["Glasmästare", "Hudiksvall"], ["Kundservice ärendehantering", "Gävle"]]
+  },
+  "kultur": "Bolagsstämman hålls i verkstaden, med smörgåstårta och omröstning om nästa års personalresa.",
+  "citat": {"text": "Våra kunder vill inte tänka på glas. De vill att ärendet ska vara stängt när de kommer till jobbet på morgonen.", "namn": "Johanna Sundin", "roll": "Vd och delägare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Sedan portalkopplingen ringer vi aldrig om glas längre. Ärendena stängs med bild, ofta samma dag.", "namn": "Peter S.", "ort": "Sandviken"},
+    {"text": "Underhållsplanen gjorde att vi kunde fördela fönsterbytena på tio år i stället för att ta allt på en gång.", "namn": "Ingrid M.", "ort": "Gävle"},
+    {"text": "Det var inbrott i skolan en lördag kväll. På söndagsmorgonen var allt skivat och städat.", "namn": "Robert H.", "ort": "Bollnäs"}
+  ],
+  "faq": [
+    ["Hur stort bestånd krävs för ett serviceavtal?", "Inget minimum. Vi har avtal med föreningar på 18 lägenheter och bolag med 9 000."],
+    ["Vilka system kan ni kopplas till?", "De vanligaste felanmälnings- och förvaltningssystemen. Finns ingen koppling skickar ni ärenden via vår webbportal."],
+    ["Vad ingår i månadsavgiften?", "Förtur, kontaktperson, portal och årlig statusrapport. Åtgärderna faktureras till fasta avtalspriser."],
+    ["Hur snabbt kommer ni vid krossat glas?", "Säkring inom fyra timmar dygnet runt för avtalskunder. Permanent glas oftast inom tre arbetsdagar."],
+    ["Kan hyresgäster beställa själva?", "Ja, om ni vill. Hyresgästen betalar då själv till avtalspris, till exempel för en sprucken ruta de orsakat."],
+    ["Gör ni hela fönsterbyten?", "Vi byter glas, beslag och bågar. Kompletta fönsterbyten i större skala gör vi tillsammans med en fönstertillverkare."],
+    ["Arbetar ni utanför Gävleborg?", "Vi tar uppdrag i Uppsala läns norra del och södra Dalarna när kunden redan har fastigheter hos oss."]
+  ],
+  "priser_rubrik": "Tre nivåer för fastighetsägare",
+  "priser": [
+    {"namn": "Bas", "pris": "fr. 1 200 kr", "enhet": "per månad", "text": "För föreningar och mindre bestånd.", "punkter": ["Fasta åtgärdspriser", "Webbportal för ärenden", "Säkring inom åtta timmar", "Samlad månadsfaktura"]},
+    {"namn": "Förvaltning", "pris": "fr. 4 900 kr", "enhet": "per månad", "text": "För bestånd från cirka 500 lägenheter.", "punkter": ["Koppling till ert felanmälningssystem", "Säkring inom fyra timmar", "Egen kontaktperson", "Årlig statusrapport per fastighet"], "utvald": true},
+    {"namn": "Underhållsplan", "pris": "fr. 85 kr", "enhet": "per fönster, engångskostnad", "text": "Inventering och tioårsplan.", "punkter": ["Foto och mått på varje fönster", "Skick klassat i fyra nivåer", "Kostnadsberäkning per år", "Underlag för budget och upphandling"]}
+  ],
+  "certifikat": [
+    {"titel": "Glasbranschföreningen", "text": "Medlemmar sedan 1985.", "ikon": "skold"},
+    {"titel": "ISO 9001 och 14001", "text": "Certifierat lednings- och miljösystem för alla fyra orter.", "ikon": "dokument"},
+    {"titel": "Kollektivavtal", "text": "Glasmästeriavtalet för alla montörer och lärlingar.", "ikon": "folk"},
+    {"titel": "Heta arbeten och lift", "text": "Alla servicetekniker har behörighet för heta arbeten och mobila arbetsplattformar.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Gästrike Hem", "Hyttbo Bostäder", "Bollnäs Hyresfastigheter", "Hälsingehus Fastigheter", "Brf Strömsbro Park", "Norrtull Förvaltning", "Sandvikens kommun"],
+  "nyheter": [
+    ["2026-10-27", "312 balkongdörrar på fem dagar", "Utflyttningsveckan i oktober klarades utan en enda försenad besiktning.", "glas"],
+    ["2026-06-03", "Portalkoppling för Hyttbo Bostäder", "Felanmälningar går nu direkt till rätt servicebil.", "kontor"],
+    ["2026-03-16", "Fyra nya delägare", "19 av 46 anställda äger nu en del av bolaget.", "people"]
+  ],
+  "kontor_rubrik": "Fyra orter i Gävleborg",
+  "kontor_text": "Servicebilarna utgår från den ort som ligger närmast beståndet, så att ingen bil kör tomt mellan städerna.",
+  "kontor_lista": [["Gävle", "Södra Kungsgatan 81 · kundservice, verkstad och 14 bilar"], ["Sandviken", "Hyttgatan 4 · fyra bilar"], ["Bollnäs", "Sävstaås · tre bilar"], ["Hudiksvall", "Håstaholmen · fyra bilar och lager"]],
+  "kontakt": {"adress": "Södra Kungsgatan 81", "postnr": "802 55", "ort": "Gävle", "telefon": "070-174 06 24", "epost": "service@bomhusglas.se", "orgnr": ""},
+  "oppettider": "Kundservice mån–fre 7–17, jour dygnet runt för avtalskunder",
+  "omrade": "Gävleborgs län",
+  "fot_cta": "Förvaltar du fastigheter i Gävleborg? Vi inventerar ert glas utan kostnad.",
+  "bild": {"panel": "people", "hb": "bostad"},
+  "text": {
+    "kontakt_knapp": "Bli avtalskund",
+    "hero_knapp": "Så fungerar avtalet",
+    "hero_lank": "Bestånd vi sköter",
+    "ber_rubrik": "Ärenden i fokus",
+    "proj_rubrik": "Trapphus, entréer och skolor",
+    "process_rubrik": "Från felanmälan till stängt ärende",
+    "hb_etikett": "Underhåll",
+    "omdomen_rubrik": "Förvaltare om samarbetet",
+    "faq_rubrik": "Frågor om serviceavtalet",
+    "boka_rubrik": "Hur stort är ert bestånd?",
+    "logos_rubrik": "Fastighetsägare med avtal",
+    "certifikat_rubrik": "Avtal och behörigheter",
+    "bolag_rubrik": "Planering, bilar och tekniker",
+    "ny_rubrik": "Nytt från Södra Kungsgatan",
+    "meny_bolag": "Orterna"
+  }
+}

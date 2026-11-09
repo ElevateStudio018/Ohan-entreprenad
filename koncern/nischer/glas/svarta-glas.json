@@ -1,0 +1,124 @@
+{
+  "profil": "nisch",
+  "nisch": "glas",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Svartå Glasmästeri AB",
+  "kortnamn": "Svartå Glas",
+  "slug": "svarta-glas",
+  "typ": "Medarbetarägt glasmästeri i Örebro",
+  "tagline": "Ägt av glasmästarna själva",
+  "slogan": "När grundaren gick i pension 2009 köpte personalen bolaget. I dag äger 34 glasmästare, säljare och montörer varsin lika stor del.",
+  "hero_rubrik": "Den som mäter ditt fönster äger firman",
+  "hero_text": "Fönster, duschväggar, glaspartier och entréer för hem, kontor och butiker i Örebro län – utfört av människor som har ett eget ansvar för resultatet.",
+  "intro_rubrik": "34 delägare, en röst var",
+  "om": [
+    "Sture Lind startade glasmästeriet vid Svartån 1961. När han ville sluta fanns inga barn som ville ta över, så han sålde bolaget till de anställda för samma summa som en extern köpare erbjöd – men med tio års avbetalning.",
+    "Sedan dess ägs Svartå Glas till lika delar av alla som har jobbat här i mer än ett år. Vd väljs av stämman på tre år, och sedan 2022 är det glasmästaren Nadia Fransson. Överskottet delas lika, efter att en fjärdedel har sparats för investeringar."
+  ],
+  "vagval_rubrik": "Vad ska vi göra åt dig?",
+  "tjanster": [
+    {"titel": "Fönster och glasbyten", "ikon": "hus", "href": "verksamhet.html", "text": "Planglas, isolerglas och energiglas i villor, lägenheter och föreningar."},
+    {"titel": "Duschväggar och speglar", "ikon": "vatten", "href": "verksamhet.html", "text": "Måttanpassat härdat glas med beslag i borstat stål, mässing eller svart."},
+    {"titel": "Glaspartier för kontor", "ikon": "kontor", "href": "verksamhet.html", "text": "Mellanväggar, mötesrum och dörrar i aluminiumprofiler eller ramlöst."},
+    {"titel": "Entréer och butiker", "ikon": "nyckel", "href": "verksamhet.html", "text": "Entrépartier, skjutdörrar och skyltfönster för handeln i city och på Marieberg."},
+    {"titel": "Glas i kök", "ikon": "lampa", "href": "verksamhet.html", "text": "Stänkskydd i lackerat glas och glashyllor efter mall."},
+    {"titel": "Krossat glas", "ikon": "telefon", "href": "verksamhet.html", "text": "Vi skivar vardagar till 21 och lördagar till 16."},
+    {"titel": "Inglasning av uterum", "ikon": "sol", "href": "verksamhet.html", "text": "Ramlösa skjutpartier till altaner och uteplatser."},
+    {"titel": "Besök oss vid ån", "ikon": "karta", "href": "om-oss.html#kontakt", "text": "Butik och utställning på Bettorpsgatan med parkering utanför."}
+  ],
+  "affarsomraden": [
+    {"titel": "Privatpersoner", "text": "Ungefär hälften av omsättningen kommer från villaägare och lägenhetsinnehavare. Vi ger fasta priser på de vanligaste jobben direkt i butiken.", "text2": "ROT-avdraget dras på fakturan.", "tagg": "hem"},
+    {"titel": "Kontor och verksamhetslokaler", "text": "Glasväggar och mötesrum åt företag på Universitetsområdet, i Örebro city och på Aspholmen. Vi arbetar både direkt mot hyresgäster och som underentreprenör.", "text2": "Ljudklassade partier upp till 44 dB finns i lager.", "tagg": "kontor"},
+    {"titel": "Handel och restauranger", "text": "Skyltfönster, entrédörrar och glasräcken i butiker och restauranger. Vi monterar gärna före öppningstid.", "text2": "Avtalskunder får säkring av krossat glas samma kväll.", "tagg": "stad"},
+    {"titel": "Föreningar och fastighetsägare", "text": "Löpande glasbyten i trapphus och lägenheter för föreningar i Örebro, Kumla, Hallsberg och Lindesberg.", "text2": "Ett fast pris per ärende och en kontaktperson.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Butik och offert", "segment": "Bettorpsgatan 12", "rubrik": "Disken som räknar rätt första gången", "text": "Fyra säljare tar fram pris och ritningar. Tre av dem har tidigare arbetat som montörer.", "tagg": "interior"},
+    {"namn": "Montage bostad", "segment": "Tolv glasmästare", "rubrik": "Hem, föreningar och badrum", "text": "Fönsterbyten, duschväggar och speglar i hela länet, med åtta servicebilar.", "tagg": "hem"},
+    {"namn": "Montage kontor och handel", "segment": "Tio glasmästare", "rubrik": "Partier, entréer och skyltfönster", "text": "Laget som bygger mötesrum och entréer, ofta på kvällar och helger.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Stämman röstade för en ny härdugn", "text": "Delägarna beslutade i maj att investera 3,8 miljoner i en egen härdugn, som tas i drift i januari.", "tagg": "glas"},
+    {"rubrik": "Universitetets nya studiehus", "text": "Sextio grupprum med glasväggar ska vara klara till vårterminen.", "tagg": "kontor"},
+    {"rubrik": "Tre nya delägare i höst", "text": "Lärlingarna Viktor, Selma och Ali har passerat sitt första år.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "34", "enhet": "delägare", "etikett": "Alla med lika stor andel"},
+    {"varde": "1961", "enhet": "", "etikett": "Sture Lind öppnar vid Svartån"},
+    {"varde": "52", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "14", "enhet": "år", "etikett": "Genomsnittlig anställningstid"}
+  ],
+  "projekt": [
+    {"namn": "Studiehuset på campus", "ort": "Örebro", "typ": "Glasväggar", "ar": "2026", "text": "Sextio grupprum med ljudklassade partier och dekorfilm.", "tagg": "kontor", "status": "Pågående"},
+    {"namn": "Brf Svampen Södra", "ort": "Örebro", "typ": "Energiglas", "ar": "2026", "text": "Innerglas i 210 lägenheter bytt till energiglas med U-värde 1,0.", "tagg": "bostad"},
+    {"namn": "Saluhallen", "ort": "Örebro", "typ": "Entré och skyltfönster", "ar": "2025", "text": "Ny entré i laminerat glas med automatiska skjutdörrar.", "tagg": "stad"},
+    {"namn": "Radhusen på Adolfsberg", "ort": "Örebro", "typ": "Duschväggar", "ar": "2025", "text": "Trettio duschväggar med mässingsbeslag i samma modell.", "tagg": "interior"},
+    {"namn": "Vårdcentralen i Kumla", "ort": "Kumla", "typ": "Glaspartier", "ar": "2025", "text": "Reception och väntrum fick insynsskyddade glasväggar.", "tagg": "kontor"},
+    {"namn": "Sommarhus vid Hjälmaren", "ort": "Hampetorp", "typ": "Inglasning", "ar": "2024", "text": "Tolv meter ramlös inglasning av verandan mot sjön.", "tagg": "hem"}
+  ],
+  "process": [
+    {"titel": "Prata med en säljare", "text": "Ring, mejla eller kom in. Vanliga jobb får fast pris direkt, större jobb efter platsbesök.", "tagg": "interior"},
+    {"titel": "Platsbesök", "text": "En montör mäter upp och föreslår lösning. Samma person monterar oftast sedan.", "tagg": "glas"},
+    {"titel": "Glaset tas fram", "text": "Planglas skär vi samma dag, härdat glas tar 5–8 arbetsdagar.", "tagg": "industri"},
+    {"titel": "Montage och kvittering", "text": "Montören visar resultatet och du kvitterar på plats. Fakturan kommer först när du är nöjd.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen ägare som vill sälja",
+    "text": "Ett medarbetarägt bolag har ingen exit att planera för. Vinsten stannar i Örebro, investeringarna görs för tjugo år framåt och ingen säljer firman till en kedja. Samma tänkande styr materialvalet: vi återvinner allt planglas och köper isolerglas från en tillverkare i Närke.",
+    "mal": [["25 %", "av vinsten sparas för investeringar"], ["100 %", "av spillglaset till återvinning"], ["8 av 8", "servicebilar på el 2027"]]
+  },
+  "karriar": {
+    "rubrik": "Efter ett år äger du en del av bolaget",
+    "text": "Alla som har varit anställda i tolv månader erbjuds att köpa in sig på samma villkor som de andra. Lönen följer Glasmästeriavtalet, och överskottet delas lika mellan alla delägare.",
+    "jobb": [["Glasmästare kontor och handel", "Örebro"], ["Lärling glasmästeri", "Örebro"]]
+  },
+  "kultur": "Stämman hålls varje maj i verkstaden, och alla får lika lång taletid – även de som har jobbat här i ett år.",
+  "citat": {"text": "Jag har ingen chef som ska bli rik på att vi jobbar snabbt. Därför kan jag lägga en kvart extra på att få en dusch rak.", "namn": "Nadia Fransson", "roll": "Vd, vald av stämman", "tagg": "people"},
+  "omdomen": [
+    {"text": "Montören som mätte var samma som kom och monterade, och han kom ihåg att vi ville ha handtaget på andra sidan.", "namn": "Linnea B.", "ort": "Örebro"},
+    {"text": "Sextio grupprum och inte en enda försenad etapp. Laget jobbade helger utan att vi behövde be om det.", "namn": "Göran W.", "ort": "Örebro universitet"},
+    {"text": "Föreningen har bytt glasmästare tre gånger. Svartå är de första som svarar i telefon varje gång.", "namn": "Kerstin A.", "ort": "Kumla"}
+  ],
+  "faq": [
+    ["Vad innebär det att ni är medarbetarägda?", "Alla anställda med mer än ett års anställning äger lika stora delar. Det finns ingen extern ägare eller riskkapitalbolag."],
+    ["Är ni dyrare än andra?", "Våra priser ligger i nivå med andra etablerade glasmästerier i Örebro. Vi har fasta priser på vanliga jobb så att du kan jämföra."],
+    ["Hur lång tid tar en duschvägg?", "Uppmätning inom en vecka, montering 7–10 arbetsdagar därefter. Med vår nya härdugn räknar vi med fem dagar från 2027."],
+    ["Får jag ROT-avdrag?", "Ja, på arbetskostnaden för fönster, duschväggar och inglasning i din bostad."],
+    ["Tar ni små jobb?", "Ja. En spegel eller en ruta i en ytterdörr är välkommen. Kom gärna förbi butiken med måtten."],
+    ["Kan ni hjälpa till om rutan krossas på kvällen?", "Vi skivar vardagar till 21 och lördagar till 16. Avtalskunder har jour dygnet runt."]
+  ],
+  "certifikat": [
+    {"titel": "Glasbranschföreningen", "text": "Medlemmar sedan 1964.", "ikon": "skold"},
+    {"titel": "Kollektivavtal", "text": "Glasmästeriavtalet med Byggnads för alla montörer, lärlingar och säljare.", "ikon": "dokument"},
+    {"titel": "Gesällbrev och mästarbrev", "text": "Nitton gesäller och fyra mästare bland delägarna.", "ikon": "stjarna"},
+    {"titel": "Byggföretagens arbetsmiljöutbildning", "text": "Alla montörer har gått BAM och har ID06.", "ikon": "hjalm"}
+  ],
+  "kunder": ["Örebro universitet", "Brf Svampen Södra", "Saluhallen Örebro", "Kumla Vårdfastigheter", "Närkes Kontorshus", "Brf Adolfsbergs Radhus", "Hallsbergs kommun"],
+  "nyheter": [
+    ["2026-09-08", "Tre nya delägare", "Lärlingarna från 2025 har köpt in sig i bolaget.", "people"],
+    ["2026-05-21", "Ny härdugn beslutad på stämman", "3,8 miljoner investeras i egen härdning från januari.", "glas"],
+    ["2026-02-14", "Energiglas till Svampen Södra", "210 lägenheter får varmare fönster utan nya bågar.", "bostad"]
+  ],
+  "kontakt": {"adress": "Bettorpsgatan 12", "postnr": "703 69", "ort": "Örebro", "telefon": "070-174 06 31", "epost": "butiken@svartaglas.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–17, lör 10–14",
+  "omrade": "Örebro län",
+  "fot_cta": "Kom förbi butiken vid ån eller skicka måtten till oss.",
+  "bild": {"panel": "people", "hb": "glas"},
+  "text": {
+    "kontakt_knapp": "Fråga om pris",
+    "hero_knapp": "Vad vi gör",
+    "hero_lank": "Senaste montagen",
+    "ber_rubrik": "Beslutat och påbörjat",
+    "proj_rubrik": "Från grupprum till veranda",
+    "process_rubrik": "Samma montör hela vägen",
+    "hb_etikett": "Ägande",
+    "omdomen_rubrik": "Kunderna i Närke",
+    "faq_rubrik": "Undrar du över något?",
+    "boka_rubrik": "Skicka måtten eller ring",
+    "logos_rubrik": "Några som anlitar oss",
+    "certifikat_rubrik": "Gesäller, mästare och avtal",
+    "bolag_rubrik": "Butik och två montagelag",
+    "ny_rubrik": "Från Bettorpsgatan",
+    "meny_bolag": "Lagen"
+  }
+}

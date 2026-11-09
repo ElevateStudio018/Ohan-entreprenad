@@ -73,7 +73,7 @@
     "jobb": [["Lackerare", "Huskvarna"], ["Montör med B-körkort", "Huskvarna"]]
   },
   "kultur": "Varje fredag eftermiddag får alla lackera något eget i boxen – i år har det blivit allt från cyklar till vaggor.",
-  "citat": {"text": "Folk river ut kök som det inte är något fel på, bara för att färgen känns gammal. Det är det vi är här för att ändra.", "namn": "Jenny Åberg", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Folk river ut kök som det inte är något fel på, bara för att färgen känns gammal. Det är det vi är här för att ändra.", "namn": "Jenny Åberg", "roll": "Grundare och lackerare", "tagg": "people"},
   "omdomen": [
     {"text": "Provluckan avgjorde. När den satt på plats ville vi aldrig ha ett nytt kök längre.", "namn": "Maria och Anders H.", "ort": "Bankeryd"},
     {"text": "Ytan på dörrarna är jämnare än när de var nya. Inga penselstråk någonstans.", "namn": "Tobias L.", "ort": "Huskvarna"},
@@ -88,12 +88,12 @@
     ["Hur fungerar ROT här?", "ROT gäller arbetskostnaden för montage och lackering av fast inredning i ditt hem. Vi drar avdraget direkt på fakturan, men möbler omfattas inte."]
   ],
   "priser": [
-    {"namn": "Köksluckor", "pris": "fr. 890 kr", "enhet": "per lucka eller lådfront", "text": "Släta luckor upp till 70 × 60 cm, två skikt lack.", "punkter": ["Hämtning och montage ingår", "Provlucka före start", "Valfri NCS-kulör", "Tre års garanti"], "utvald": true},
+    {"namn": "Köksluckor", "pris": "fr. 890 kr", "enhet": "per lucka eller lådfront", "text": "Släta luckor upp till 70 × 60 cm, två skikt lack.", "punkter": ["Hämtning och montage ingår", "Provlucka före start", "Valfri NCS-kulör", "Treårig ytgaranti"], "utvald": true},
     {"namn": "Innerdörrar", "pris": "fr. 2 400 kr", "enhet": "per dörr", "text": "Släta dörrar, spegeldörrar från 2 900 kr.", "punkter": ["Lackeras liggande i sprutbox", "Beslag av och på", "Karm lackeras på plats mot tillägg", "Klart inom två veckor"]},
-    {"namn": "Trappa", "pris": "fr. 14 500 kr", "enhet": "rak trappa, 14 steg", "text": "Slipning och lack på plats med halkskydd.", "punkter": ["Steg och sättsteg", "Lack med halkskydd", "Två arbetsdagar", "Gångbar efter ett dygn"]}
+    {"namn": "Trappa", "pris": "fr. 14 500 kr", "enhet": "rak trappa, 14 steg", "text": "Slipning och lack på plats med halkskydd.", "punkter": ["Steg och sättsteg", "Lack med halkskydd", "Klart på två dagar", "Gångbar efter ett dygn"]}
   ],
   "certifikat": [
-    {"titel": "Härdplastutbildning", "text": "Alla lackerare har utbildning för arbete med isocyanater och härdplaster.", "ikon": "hjalm"},
+    {"titel": "Utbildning för isocyanater", "text": "Alla lackerare har utbildning för arbete med isocyanater och härdplaster.", "ikon": "hjalm"},
     {"titel": "Miljötillstånd för lackering", "text": "Anmäld miljöfarlig verksamhet med årlig tillsyn av kommunen.", "ikon": "trad"},
     {"titel": "Brandskydd i sprutbox", "text": "Explosionsskyddad ventilation och årlig kontroll av brandskyddet.", "ikon": "eld"},
     {"titel": "F-skatt och ansvarsförsäkring", "text": "Ansvarsförsäkring på 5 miljoner kronor, även för luckor i transport.", "ikon": "skold"}
@@ -118,7 +118,7 @@
     "omdomen_rubrik": "Villaägare och snickerier om ytan",
     "faq_rubrik": "Frågor om lackering",
     "priser_rubrik": "Fast pris per detalj",
-    "priser_not": "Priserna inkluderar moms, hämtning och montage inom 3 mil från Huskvarna. ROT-avdrag dras på arbetskostnaden.",
+    "priser_not": "Priserna inkluderar moms, hämtning och montage inom 3 mil från Huskvarna. Avdraget för ROT görs på arbetsdelen.",
     "priser_utvald": "Vanligast",
     "priser_knapp": "Boka provlucka",
     "boka_rubrik": "Boka en provlucka",

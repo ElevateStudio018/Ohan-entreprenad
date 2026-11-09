@@ -1,0 +1,136 @@
+{
+  "profil": "nisch",
+  "nisch": "begravning",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Lotsens Begravningsbyrå AB",
+  "kortnamn": "Lotsen",
+  "slug": "lotsen",
+  "typ": "Begravningsbyrå i Karlskrona med egen båt",
+  "tagline": "Avsked i skärgården",
+  "slogan": "Begravningar i örlogsstaden och askspridning i Blekinge skärgård från vår egen båt, M/S Hoppet.",
+  "hero_rubrik": "Sista resan går ut genom skärgården",
+  "hero_text": "Vi har ordnat över 600 askspridningar till havs från vår ombyggda lotsbåt. Resten av året ordnar vi begravningar i Karlskrona, Ronneby och på öarna.",
+  "intro_rubrik": "Ombord sedan 1972",
+  "om": [
+    "Lotsens Begravningsbyrå startades 1972 av Bertil Ahlqvist, en pensionerad lots från Kungsholms fort som tyckte att sjöfolk förtjänade ett avsked på vattnet. 1998 köpte byrån en utrangerad lotsbåt från Sjöfartsverket och byggde om den till ceremonibåt.",
+    "I dag ägs byrån av Bertils barnbarn Camilla Ahlqvist och hennes man Henrik, som har sjökaptensbehörighet. Vi är elva medarbetare och ordnar runt 290 begravningar och 70 askspridningar om året."
+  ],
+  "vagval_rubrik": "På land eller till sjöss?",
+  "tjanster": [
+    {"titel": "Askspridning till havs", "ikon": "bat", "href": "verksamhet.html", "text": "Från M/S Hoppet med plats för 24 gäster, i Blekinge skärgård."},
+    {"titel": "Begravning i staden", "ikon": "kors", "href": "verksamhet.html", "text": "I Amiralitetskyrkan, Fredrikskyrkan och Karlskronas övriga kyrkor."},
+    {"titel": "Militär begravning", "ikon": "stjarna", "href": "verksamhet.html", "text": "Hedersvakt, flagga och fanfar i samarbete med Marinbasen."},
+    {"titel": "Öbegravning", "ikon": "karta", "href": "verksamhet.html", "text": "Ceremonier på Hasslö, Sturkö, Tjurkö och Aspö, med båt eller färja."},
+    {"titel": "Minnesstund ombord", "ikon": "hjarta", "href": "verksamhet.html", "text": "Kaffe och smörgåstårta i salongen efter spridningen."},
+    {"titel": "Sjömanspsalmer", "ikon": "megafon", "href": "verksamhet.html", "text": "Vi samarbetar med en manskör som sjunger sjömansvisor och psalmer."},
+    {"titel": "Minnessten vid kusten", "ikon": "sten", "href": "verksamhet.html", "text": "Namn på minnesplatsen vid Stumholmen för den som spridits till havs."},
+    {"titel": "Ring Lotsen", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi svarar dygnet runt, även när båten ligger ute."}
+  ],
+  "affarsomraden": [
+    {"titel": "Askspridning till havs", "text": "M/S Hoppet går ut från Fisktorget och stannar på en plats familjen väljer, ofta vid ett skär eller en fyr som betydde något. Askan sänks i en vattenlöslig urna eller sprids över vattenytan medan någon läser eller sjunger.", "text2": "Vi söker tillstånd hos länsstyrelsen i Blekinge, som brukar svara inom tre veckor.", "tagg": "bat"},
+    {"titel": "Begravningar på land", "text": "De flesta av våra uppdrag är vanliga kyrkliga och borgerliga begravningar i Karlskrona, Ronneby och Lyckeby. Amiralitetskyrkan i trä från 1685 är en av de platser familjer oftast väljer.", "text2": "Vi har arbetat med Karlskrona amiralitetsförsamling i över femtio år.", "tagg": "begravning"},
+    {"titel": "Militära ceremonier", "text": "För den som tjänstgjort i marinen, kustartilleriet eller flygvapnet kan vi ordna hedersvakt, flaggdrapering och trumpetare. Vi har fasta kontakter med Marinbasen och med Kustartilleriets kamratförening.", "text2": "Försvarsmakten avgör vilka som har rätt till militär hedersbetygelse.", "tagg": "begravning"},
+    {"titel": "Skärgårdens öar", "text": "På de bebodda öarna går det ofta inte att ta sig fram med begravningsbil. Vi kör med båt eller vägfärja och bär det sista biten med hjälp av grannar och vår egen personal.", "text2": "Minnesstunden hålls gärna i öns bygdegård eller hembygdsstuga.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Rådgivningen", "segment": "Ronnebygatan, Karlskrona", "rubrik": "Fem rådgivare med skärgårdskänsla", "text": "Rådgivarna ordnar begravningar på land och planerar spridningarna tillsammans med besättningen.", "tagg": "begravning"},
+    {"namn": "M/S Hoppet", "segment": "Två befälhavare, en matros", "rubrik": "Ceremonibåten", "text": "En ombyggd lotsbåt från 1964 med salong för 24 gäster, ramp för rullstol och toalett ombord.", "tagg": "bat"},
+    {"namn": "Jour och transport", "segment": "Två chaufförer", "rubrik": "Bil, båt och färja", "text": "Chaufförerna hämtar i hela Blekinge och följer med kistor ut till öarna.", "tagg": "natur"}
+  ],
+  "berattelser": [
+    {"rubrik": "M/S Hoppet har fått ny motor", "text": "Den gamla dieseln är ersatt av en motor som går på HVO och halverar bullret ombord.", "tagg": "bat"},
+    {"rubrik": "Sexhundrade spridningen", "text": "I augusti genomförde vi vår sexhundrade askspridning, vid Utklippans fyr.", "tagg": "natur"},
+    {"rubrik": "Minnesplats på Stumholmen", "text": "Kommunen har gett oss tillstånd att sätta upp en minnestavla med namn på dem som spridits till havs.", "tagg": "sten"}
+  ],
+  "nyckeltal": [
+    {"varde": "600+", "enhet": "", "etikett": "Askspridningar till havs"},
+    {"varde": "24", "enhet": "gäster", "etikett": "Får plats ombord"},
+    {"varde": "290", "enhet": "per år", "etikett": "Begravningar på land"},
+    {"varde": "1972", "enhet": "", "etikett": "Bertil Ahlqvist startar byrån"}
+  ],
+  "projekt": [
+    {"namn": "Spridning vid Utklippan", "ort": "Karlskrona skärgård", "typ": "Askspridning", "ar": "2025", "text": "En fyrvaktare fick sin sista resa till fyren där han tjänstgjort i tolv år.", "tagg": "bat"},
+    {"namn": "Jordfästning i Amiralitetskyrkan", "ort": "Karlskrona", "typ": "Militär begravning", "ar": "2025", "text": "En kommendörkapten med hedersvakt från Marinbasen och flaggdraperad kista.", "tagg": "begravning"},
+    {"namn": "Begravning på Hasslö", "ort": "Hasslö", "typ": "Öbegravning", "ar": "2025", "text": "Grannarna bar kistan från färjeläget till kyrkan, som de gjort i generationer.", "tagg": "natur"},
+    {"namn": "Sjömanspsalmer i Fredrikskyrkan", "ort": "Karlskrona", "typ": "Kyrklig begravning", "ar": "2024", "text": "En maskinist från Tjurkö fick avsked med manskören och Ankarets sång.", "tagg": "begravning"},
+    {"namn": "Spridning i Ronnebyfjärden", "ort": "Ronneby", "typ": "Askspridning", "ar": "2024", "text": "Tre generationer seglare spred askan från sin egen båt, eskorterade av M/S Hoppet.", "tagg": "bat"},
+    {"namn": "Minnestavlan på Stumholmen", "ort": "Karlskrona", "typ": "Minnesplats", "ar": "2026", "text": "De första 120 namnen graverades i brons och tavlan invigdes i maj.", "tagg": "sten", "status": "Invigd"}
+  ],
+  "process": [
+    {"titel": "Samtalet", "text": "Vi hör hur familjen vill ha det: kyrka eller hav, eller båda. Ceremonin på land kommer alltid först.", "tagg": "begravning"},
+    {"titel": "Tillstånd och plats", "text": "Vi söker tillstånd hos länsstyrelsen och föreslår platser som går att nå även vid sämre väder.", "tagg": "natur"},
+    {"titel": "Ut på vattnet", "text": "M/S Hoppet lägger ut från Fisktorget. Resan tar 30 till 90 minuter beroende på platsen.", "tagg": "bat"},
+    {"titel": "Positionen", "text": "Ni får ett minnesbrev med koordinaterna för spridningsplatsen och ett foto från dagen.", "tagg": "detalj"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Havet lämnas som vi fann det",
+    "text": "Urnorna vi sänker är gjorda av salt och sand och löses upp inom ett dygn. Blommor som kastas i vattnet är alltid lösa blad utan band eller ståltråd. Sedan 2025 går M/S Hoppet på förnybar diesel.",
+    "mal": [["100 %", "vattenlösliga urnor"], ["0", "band eller plast i vattnet"], ["HVO", "som bränsle ombord"]]
+  },
+  "karriar": {
+    "rubrik": "Sjövana och känsla för människor",
+    "text": "Vi söker ibland säsongsmatroser till M/S Hoppet och rådgivare som trivs både i kyrkan och i båten. Befälhavare ska ha minst fartygsbefäl klass VIII.",
+    "jobb": [["Matros, maj–september", "Karlskrona"], ["Begravningsrådgivare", "Karlskrona"]]
+  },
+  "kultur": "Varje vår sjösätter hela byrån M/S Hoppet tillsammans och äter sill på bryggan efteråt.",
+  "citat": {"text": "Farfar sa att havet inte frågar vem man var. Det tar emot alla på samma sätt. Det är därför så många väljer att resa ut med oss.", "namn": "Camilla Ahlqvist", "roll": "Ägare och vd", "tagg": "bat"},
+  "omdomen": [
+    {"text": "Pappa var lots i fyrtio år. Att få sprida hans aska vid Kungsholms fort från en gammal lotsbåt var mer än vi vågat hoppas på.", "namn": "Peter A.", "ort": "Karlskrona"},
+    {"text": "Henrik vände båten mot solnedgången och stängde av motorn. Vi stod helt tysta i två minuter.", "namn": "Anna-Karin L.", "ort": "Ronneby"},
+    {"text": "Hedersvakten och flaggan gjorde morfars begravning i Amiralitetskyrkan till något vi aldrig glömmer.", "namn": "Viktor S.", "ort": "Lyckeby"}
+  ],
+  "faq": [
+    ["Vad krävs för att sprida aska i havet?", "Tillstånd från länsstyrelsen. Vi skriver ansökan, och familjen behöver bara skriva under. Handläggningstiden i Blekinge är oftast två till tre veckor."],
+    ["Vad händer om det blåser för mycket?", "Befälhavaren avgör. Vid hårt väder flyttar vi till en skyddad vik eller till en annan dag, utan kostnad."],
+    ["Kan man ha både begravning i kyrkan och spridning till havs?", "Ja, det är vanligast. Ceremonin hålls med kistan i kyrkan, och spridningen sker några veckor efter kremeringen."],
+    ["Finns det en plats att besöka efteråt?", "Ni får koordinaterna för spridningsplatsen, och namnet kan graveras på minnestavlan på Stumholmen."],
+    ["Är M/S Hoppet tillgänglig för rullstol?", "Ja, det finns ramp, och salongen har plats för två rullstolar."],
+    ["Vem har rätt till militär hedersbetygelse?", "Det beslutar Försvarsmakten utifrån tjänstgöring och grad. Vi hjälper till med ansökan och tar kontakt med Marinbasen."]
+  ],
+  "priser": [
+    {"namn": "Askspridning", "pris": "fr. 9 800 kr", "enhet": "upp till 24 gäster", "text": "Spridning från M/S Hoppet efter kremering.", "punkter": ["Tillstånd från länsstyrelsen", "Vattenlöslig urna", "Befälhavare och matros", "Minnesbrev med koordinater"]},
+    {"namn": "Begravning och spridning", "pris": "fr. 34 500 kr", "enhet": "kyrka eller borgerligt + hav", "text": "Ceremoni på land och spridning till havs några veckor senare.", "punkter": ["Kista, svepning och transport", "Ceremonibukett och program", "Spridning från M/S Hoppet", "Kaffe ombord för gästerna"], "utvald": true},
+    {"namn": "Begravning på land", "pris": "fr. 25 800 kr", "enhet": "kyrklig eller borgerlig", "text": "En begravning i Karlskrona eller Ronneby utan båtresa.", "punkter": ["Kista och svepning", "Ceremonibukett", "Annons i lokaltidningen", "Rådgivare på plats"]}
+  ],
+  "certifikat": [
+    {"titel": "Auktoriserad av SBF", "text": "Medlem i Sveriges Begravningsbyråers Förbund sedan 1975.", "ikon": "skold"},
+    {"titel": "Transportstyrelsens tillsyn", "text": "M/S Hoppet är besiktigad som passagerarfartyg för 24 personer i inre fart.", "ikon": "bat"},
+    {"titel": "Behöriga befälhavare", "text": "Två befälhavare med fartygsbefälsbehörighet och årlig säkerhetsutbildning.", "ikon": "hjalm"},
+    {"titel": "Tillstånd för spridning", "text": "Fasta rutiner med länsstyrelsen i Blekinge för askspridning i skärgården.", "ikon": "dokument"}
+  ],
+  "kunder": ["Karlskrona amiralitetsförsamling", "Kustartilleriets Kamratförening", "Blekinge Lotsförening", "Hasslö Bygdegårdsförening", "Ronneby Segelsällskap", "Brf Stumholmen", "Marinens Veteraner Blekinge"],
+  "nyheter": [
+    ["2026-09-29", "Säsongens sista spridningar", "M/S Hoppet går till och med 15 november – därefter efter väder.", "bat"],
+    ["2026-05-21", "Minnestavlan på Stumholmen invigd", "120 namn på dem som rest ut med oss har graverats i brons.", "sten"],
+    ["2025-04-03", "Ny motor och förnybart bränsle", "M/S Hoppet går nu på HVO och är tystare än någonsin.", "bat"]
+  ],
+  "kontakt": {"adress": "Ronnebygatan 38", "postnr": "371 33", "ort": "Karlskrona", "telefon": "070-174 06 31", "epost": "kontakt@lotsensbyra.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–16.30, båten april–november, jour dygnet runt",
+  "omrade": "Karlskrona, Ronneby, Blekinge skärgård och östra Skåne",
+  "fot_cta": "Funderar ni på ett avsked till havs? Ring oss, så berättar vi hur det går till.",
+  "text": {
+    "hero_knapp": "Om askspridning till havs",
+    "hero_lank": "Se resor vi har gjort",
+    "kontakt_knapp": "Ring Lotsen",
+    "ber_etikett": "Från bryggan",
+    "ber_rubrik": "Senaste nytt från Fisktorget",
+    "proj_etikett": "Resor",
+    "proj_rubrik": "Ceremonier på land och till havs",
+    "status_klart": "Genomförd",
+    "process_etikett": "Ut på havet",
+    "process_rubrik": "Från kyrkbänk till fyrskär",
+    "hb_etikett": "Havsmiljö",
+    "bolag_rubrik": "Elva personer och en båt",
+    "omdomen_rubrik": "Familjer som följt med ut",
+    "faq_rubrik": "Frågor om havet och ceremonin",
+    "priser_rubrik": "Spridning, begravning eller båda",
+    "priser_not": "Priserna gäller inklusive moms. Vid inställd tur på grund av väder flyttar vi utan kostnad.",
+    "priser_knapp": "Fråga om datum",
+    "boka_rubrik": "Planera en resa ut med oss",
+    "boka_text": "Berätta om platsen ni tänker på, så ringer Camilla eller Henrik upp.",
+    "boka_falt": ["Namn", "Telefon", "Önskad plats i skärgården", "Antal gäster"],
+    "logos_rubrik": "Föreningar och församlingar vid kusten",
+    "certifikat_rubrik": "Besiktigade och auktoriserade",
+    "ny_rubrik": "Nytt från Lotsen"
+  }
+}

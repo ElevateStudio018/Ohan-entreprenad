@@ -17,8 +17,8 @@
   ],
   "vagval_rubrik": "Vad står på tur i ert bestånd?",
   "tjanster": [
-    {"titel": "Fasadrenovering", "ikon": "hus", "href": "verksamhet.html", "text": "Puts, tegel och betongelement – lagning, impregnering och målning."},
-    {"titel": "Balkongrenovering", "ikon": "bygg", "href": "verksamhet.html", "text": "Balkongplattor, räcken och fronter i samma etapp som fasaden."},
+    {"titel": "Fasader i betong och tegel", "ikon": "hus", "href": "verksamhet.html", "text": "Puts, tegel och betongelement – lagning, impregnering och målning."},
+    {"titel": "Balkongrenovering", "ikon": "kran", "href": "verksamhet.html", "text": "Balkongplattor, räcken och fronter i samma etapp som fasaden."},
     {"titel": "Trapphus", "ikon": "folk", "href": "verksamhet.html", "text": "Ett trapphus i veckan per lag, med information på sju språk."},
     {"titel": "Lägenhetsrenovering", "ikon": "nyckel", "href": "verksamhet.html", "text": "Stambyteslägenheter målade och tapetserade i takt med byggaren."},
     {"titel": "Hyresgästdialog", "ikon": "megafon", "href": "verksamhet.html", "text": "Boendevärdar som knackar dörr, svarar på frågor och tar emot klagomål."},
@@ -29,13 +29,13 @@
   "affarsomraden": [
     {"titel": "Fasader i miljonprogrammet", "text": "Betongelement, tegel och putsade lamellfasader från 1965–1975 kräver olika metoder. Vi lagar armeringsskador, rengör, impregnerar och målar med system som är provade på husen i Bäckby sedan 2005.", "text2": "Ett normalt lamellhus på tre våningar tar sex till åtta veckor med ställning.", "tagg": "bostad"},
     {"titel": "Balkonger och loftgångar", "text": "Balkongplattor bilas, lagas och tätskiktas, räcken blästras och pulverlackeras eller målas på plats. Vi samordnar med plåtslagare och glasmästare när fronterna byts.", "text2": "Varje hyresgäst får besked om exakt vilka dagar balkongen är avstängd.", "tagg": "bygg"},
-    {"titel": "Trapphus och entréer", "text": "Trapphus med kakel, terrazzo och betong målas med slitstarka system och klotterskydd i bottenplan. Vi arbetar i tre zoner så att det alltid finns en fri väg ut.", "text2": "Kulörval görs ofta tillsammans med hyresgästföreningen.", "tagg": "interior"},
+    {"titel": "Trapphus i hyreshus", "text": "Trapphus med kakel, terrazzo och betong målas med slitstarka system och klotterskydd i bottenplan. Vi arbetar i tre zoner så att det alltid finns en fri väg ut.", "text2": "Kulörval görs ofta tillsammans med hyresgästföreningen.", "tagg": "interior"},
     {"titel": "Social hänsyn i upphandling", "text": "Många bostadsbolag ställer krav på sysselsättning i upphandlingen. Vi redovisar hur många från området som har arbetat i projektet, hur många timmar och vad det ledde till efteråt.", "text2": "Bäckbyskolan har gett 63 ungdomar ett första jobb sedan 2016.", "tagg": "people"}
   ],
   "bolag": [
     {"namn": "Bäckby Måleri Västerås", "segment": "64 medarbetare", "rubrik": "Huvudkontor och största region", "text": "Kontoret på Bäckby centrum, sedan 2019 i en före detta bankfilial vid torget.", "tagg": "bostad"},
     {"namn": "Bäckby Måleri Eskilstuna", "segment": "28 medarbetare", "rubrik": "Skiftinge, Lagersberg och Fröslunda", "text": "Öppnade 2017 efter en upphandling av fasadrenovering i Skiftinge.", "tagg": "bygg"},
-    {"namn": "Bäckby Måleri Köping", "segment": "12 medarbetare", "rubrik": "Västra Mälardalen", "text": "Tar uppdrag i Köping, Arboga och Sala och samordnas från Västerås.", "tagg": "stad"},
+    {"namn": "Bäckby Måleri Köping", "segment": "12 målare och en arbetsledare", "rubrik": "Västra Mälardalen", "text": "Tar uppdrag i Köping, Arboga och Sala och samordnas från Västerås.", "tagg": "stad"},
     {"namn": "Bäckbyskolan", "segment": "2 instruktörer, 8 elever", "rubrik": "Måleri för den som aldrig fått chansen", "text": "Sextonveckorsutbildning med lön, i samarbete med Arbetsförmedlingen och Målareförbundet.", "tagg": "people"}
   ],
   "berattelser": [
@@ -47,10 +47,10 @@
     {"varde": "112", "enhet": "medarbetare", "etikett": "På tre orter"},
     {"varde": "34 %", "enhet": "", "etikett": "Bor i områden vi renoverar"},
     {"varde": "63", "enhet": "ungdomar", "etikett": "Fått jobb via Bäckbyskolan"},
-    {"varde": "138", "enhet": "Mkr", "etikett": "Omsättning 2025"}
+    {"varde": "138", "enhet": "Mkr", "etikett": "Omsatt under 2025"}
   ],
   "projekt": [
-    {"namn": "Råby etapp 3", "ort": "Västerås, Råby", "typ": "Fasad och balkonger", "ar": "2026", "text": "Sex lamellhus med lagade betongelement och nya räcken – boende kvar hela tiden.", "tagg": "bostad"},
+    {"namn": "Råby etapp 3", "ort": "Västerås, Råby", "typ": "Betongfasad och balkongräcken", "ar": "2026", "text": "Sex lamellhus med lagade betongelement och nya räcken – boende kvar hela tiden.", "tagg": "bostad"},
     {"namn": "Skiftinge trapphus", "ort": "Eskilstuna", "typ": "Trapphus, 42 st", "ar": "2026", "text": "Ett trapphus i veckan med kulörer valda av hyresgästföreningen.", "tagg": "interior"},
     {"namn": "Bäckby norra", "ort": "Västerås, Bäckby", "typ": "Fasadrenovering", "ar": "2025", "text": "Tolv hus i området där firman startade – 40 procent av målarna bodde i kvarteret.", "tagg": "bostad"},
     {"namn": "Lagersberg stambyten", "ort": "Eskilstuna", "typ": "Lägenhetsmåleri", "ar": "2025", "text": "320 lägenheter målade i takt med VVS-entreprenören, åtta om dagen.", "tagg": "interior"},
@@ -74,7 +74,7 @@
     "jobb": [["Fasadmålare", "Västerås"], ["Elev Bäckbyskolan", "Västerås"], ["Boendevärd", "Eskilstuna"], ["Projektledare", "Västerås"]]
   },
   "kultur": "På Bäckby torg grillar vi för hyresgästerna varje gång en etapp blir klar, och målarna står själva vid grillen.",
-  "citat": {"text": "När grabbarna från gården ser sin storebror på ställningen slutar de kasta sten på den. Det är vår bästa säkerhetsåtgärd.", "namn": "Dragan Petrović", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "När grabbarna från gården ser sin storebror på ställningen slutar de kasta sten på den. Det är vår bästa säkerhetsåtgärd.", "namn": "Dragan Petrović", "roll": "Grundare och vd sedan 2005", "tagg": "people"},
   "omdomen": [
     {"text": "Klagomålen från hyresgästerna halverades jämfört med förra fasadprojektet. Boendevärdarna gjorde enorm skillnad.", "namn": "Projektchef, Mälarbostäder", "ort": "Västerås"},
     {"text": "Veckobrevet kom på arabiska och somaliska också. Min mamma visste alltid när balkongen skulle vara stängd.", "namn": "Hodan A.", "ort": "Råby"},
@@ -91,7 +91,7 @@
   ],
   "certifikat": [
     {"titel": "ISO 9001, 14001 och 45001", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö.", "ikon": "skold"},
-    {"titel": "Måleriavtalet", "text": "Kollektivavtal för alla, även elever i Bäckbyskolan.", "ikon": "dokument"},
+    {"titel": "Kollektivavtal även för elever", "text": "Kollektivavtal för alla, även elever i Bäckbyskolan.", "ikon": "dokument"},
     {"titel": "BF9K", "text": "Kvalitetscertifiering för byggföretag, krav hos flera bostadsbolag.", "ikon": "lov"},
     {"titel": "ID06 och ställningsbehörighet", "text": "Egna ställningsbyggare med utbildning för ställningar över nio meter.", "ikon": "hjalm"}
   ],
@@ -117,7 +117,7 @@
     "faq_rubrik": "Frågor från hyresvärdar",
     "boka_rubrik": "Skicka underlag för kalkyl",
     "boka_text": "Beskriv beståndet och vad som ska göras. En kalkylator hör av sig inom en vecka.",
-    "boka_knapp": "Skicka underlag",
+    "boka_knapp": "Skicka beståndets underlag",
     "logos_rubrik": "Bostadsbolag i Västmanland och Sörmland",
     "certifikat_rubrik": "Certifieringar som bostadsbolagen kräver",
     "bolag_rubrik": "Tre kontor och en målarskola",

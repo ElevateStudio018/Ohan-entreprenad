@@ -20,7 +20,7 @@
     {"titel": "Villafasad", "ikon": "hus", "href": "verksamhet.html", "text": "En villa i taget, med skrapning, grund och två strykningar."},
     {"titel": "Lägenhet och rum", "ikon": "hem", "href": "verksamhet.html", "text": "Väggar, tak och snickerier – också bara ett enda rum."},
     {"titel": "Tapetsering", "ikon": "pensel", "href": "verksamhet.html", "text": "Anna har tapetserat sedan 2006 och klarar mönsterpassning i trånga hallar."},
-    {"titel": "Fönster och dörrar", "ikon": "las", "href": "verksamhet.html", "text": "Utvändig målning av bågar, karmar och ytterdörrar på plats."},
+    {"titel": "Bågar och ytterdörrar", "ikon": "las", "href": "verksamhet.html", "text": "Utvändig målning av bågar, karmar och ytterdörrar på plats."},
     {"titel": "Staket och altan", "ikon": "sol", "href": "verksamhet.html", "text": "Oljning och målning när fasaden ändå är på gång."},
     {"titel": "Färgråd", "ikon": "lampa", "href": "verksamhet.html", "text": "Vi tar med provburkar och målar provlappar på väggen."},
     {"titel": "Timpris", "ikon": "dokument", "href": "verksamhet.html", "text": "Öppna priser – både löpande och fast pris."},
@@ -50,8 +50,8 @@
   ],
   "projekt": [
     {"namn": "Radhusraden på Herrhagen", "ort": "Karlstad, Herrhagen", "typ": "Fyra radhusfasader", "ar": "2026", "text": "Samma kulör, samma vecka, och grannarna delade på ställningen.", "tagg": "bostad"},
-    {"namn": "1930-talsvilla i Haga", "ort": "Karlstad, Haga", "typ": "Fasad och fönster", "ar": "2026", "text": "Skrapning till trä på västsidan och linoljefärg i originalkulören.", "tagg": "maleri"},
-    {"namn": "Lägenhet på Älvgatan", "ort": "Karlstad", "typ": "Inför försäljning", "ar": "2025", "text": "Tre rum och kök målade på fyra dagar inför visning.", "tagg": "interior"},
+    {"namn": "1930-talsvilla i Haga", "ort": "Karlstad, Haga", "typ": "Västsida skrapad till trä", "ar": "2026", "text": "Skrapning till trä på västsidan och linoljefärg i originalkulören.", "tagg": "maleri"},
+    {"namn": "Lägenhet på Älvgatan", "ort": "Karlstad", "typ": "Visningsklar lägenhet", "ar": "2025", "text": "Tre rum och kök målade på fyra dagar inför visning.", "tagg": "interior"},
     {"namn": "Sommarhus i Skåre", "ort": "Skåre", "typ": "Fasad och altan", "ar": "2025", "text": "Röd slamfärg på panelen och oljad altan mot Vänern.", "tagg": "hem"},
     {"namn": "Hall och trapphus", "ort": "Hammarö", "typ": "Tapetsering", "ar": "2024", "text": "Mönsterpassad tapet i en hall med fem dörrar och en snedtrappa.", "tagg": "interior"},
     {"namn": "Villa i Kronoparken", "ort": "Karlstad", "typ": "Fasad", "ar": "2027", "text": "Bokad för maj – ställningen reses dagen efter Valborg.", "tagg": "maleri", "status": "Bokat"}
@@ -89,14 +89,14 @@
   ],
   "priser": [
     {"namn": "Löpande räkning", "pris": "590 kr", "enhet": "per timme och målare", "text": "När ytorna är svåra att bedöma i förväg.", "punkter": ["Takpris i offerten", "Veckovis tidrapport", "Färg utan påslag", "ROT dras direkt"]},
-    {"namn": "Fast pris", "pris": "efter besök", "enhet": "hela uppdraget", "text": "Vanligast för rum, lägenheter och villafasader.", "punkter": ["Pris inom en vecka", "Material ingår", "Tre års garanti", "Inga tillägg i efterhand"], "utvald": true},
+    {"namn": "Fast pris", "pris": "efter besök", "enhet": "hela uppdraget", "text": "Vanligast för rum, lägenheter och villafasader.", "punkter": ["Pris inom en vecka", "Material ingår", "Garanti i tre år", "Inga tillägg i efterhand"], "utvald": true},
     {"namn": "Lucka i kalendern", "pris": "4 200 kr", "enhet": "per målardag", "text": "En målare en hel dag för småjobb.", "punkter": ["Ytterdörr, fönster eller ett rum", "Bokas med kort varsel", "Material tillkommer", "ROT dras direkt"]}
   ],
   "certifikat": [
-    {"titel": "Gesällbrev i måleri", "text": "Anna tog gesällbrev 2008, Jesper 2016.", "ikon": "stjarna"},
-    {"titel": "Måleriavtalet", "text": "Kollektivavtal för båda anställda målare.", "ikon": "dokument"},
-    {"titel": "F-skatt och ROT", "text": "Godkänd för F-skatt och direktavdrag för ROT.", "ikon": "kontor"},
-    {"titel": "Ansvarsförsäkring", "text": "3 miljoner kronor, som täcker skador i ditt hem.", "ikon": "skold"}
+    {"titel": "Två gesällbrev", "text": "Anna tog gesällbrev 2008, Jesper 2016.", "ikon": "stjarna"},
+    {"titel": "Avtal för de anställda", "text": "Kollektivavtal för båda anställda målare.", "ikon": "dokument"},
+    {"titel": "F-skattsedel och direktavdrag", "text": "Godkänd för F-skatt och direktavdrag för ROT.", "ikon": "kontor"},
+    {"titel": "Försäkring på 3 Mkr", "text": "3 miljoner kronor, som täcker skador i ditt hem.", "ikon": "skold"}
   ],
   "kunder": ["Brf Älvgatan 6", "Herrhagens Radhusförening", "Hammarö Samfällighet", "Skåre Båtklubb", "Kils Hembygdsförening", "Tandvården på Drottninggatan"],
   "nyheter": [

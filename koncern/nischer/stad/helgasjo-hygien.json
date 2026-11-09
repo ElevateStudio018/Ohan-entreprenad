@@ -1,0 +1,129 @@
+{
+  "profil": "nisch",
+  "nisch": "stad",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Helgasjö Industrihygien AB",
+  "kortnamn": "Helgasjö",
+  "slug": "helgasjo-hygien",
+  "typ": "Nattrengöring av livsmedelsindustri i Småland",
+  "tagline": "Produktionsklart klockan fem",
+  "slogan": "Vi rengör bagerier, mejerier och charkuterier i Småland efter sista skiftet – och lämnar linjerna mikrobiologiskt godkända till morgonskiftet.",
+  "hero_rubrik": "Linjen stannar 22. Klockan 05 är den ren.",
+  "hero_text": "61 rengöringstekniker skummar, sköljer och desinfekterar 19 livsmedelsfabriker varje natt mellan Värnamo och Tingsryd.",
+  "intro_rubrik": "Sju timmar mellan två skift",
+  "om": [
+    "Helgasjö Industrihygien grundades 1999 av Per-Olof Gustavsson, som var produktionschef på ett mejeri utanför Växjö och tröttnade på att se sina operatörer rengöra linjerna i slutet av långa skift. Han startade med fyra anställda och ett avtal med ett bageri i Teleborg.",
+    "I dag har vi 61 anställda och arbetar nästan bara nattetid, i bagerier, mejerier, charkuterier, färdigmatsfabriker och ett äggpackeri. Vi följer kundernas HACCP-planer, tar egna ATP- och kontaktprov och står bredvid när revisorerna från BRC och IFS går igenom fabriken."
+  ],
+  "vagval_rubrik": "Vad produceras i er fabrik?",
+  "tjanster": [
+    {"titel": "Nattrengöring av linjer", "ikon": "fabrik", "href": "verksamhet.html", "text": "Demontering, förskölj, skum, efterskölj och desinfektion av hela produktionslinjen."},
+    {"titel": "Allergenrengöring", "ikon": "skold", "href": "verksamhet.html", "text": "Validerad rengöring mellan produkter med och utan nötter, gluten eller mjölk."},
+    {"titel": "ATP- och kontaktprov", "ikon": "sok", "href": "verksamhet.html", "text": "Egna prov efter varje natt och månadsrapport till er kvalitetsansvarige."},
+    {"titel": "Kylrum och lager", "ikon": "vind", "href": "verksamhet.html", "text": "Rengöring av kylar, frysrum och förvaringsytor med anpassade medel för minusgrader."},
+    {"titel": "Höghöjdsrengöring", "ikon": "hiss", "href": "verksamhet.html", "text": "Takbalkar, kabelstegar och ventilationskanaler med lift under produktionsstopp."},
+    {"titel": "Storrengöring vid stopp", "ikon": "kugge", "href": "verksamhet.html", "text": "Totalrengöring under sommarstopp och julstopp, då linjerna står i flera dagar."},
+    {"titel": "Personalutrymmen", "ikon": "folk", "href": "verksamhet.html", "text": "Omklädningsrum, hygienslussar och matsal städade under samma natt."},
+    {"titel": "Boka fabriksbesök", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Vi går igenom linjerna och er HACCP-plan innan vi lämnar pris."}
+  ],
+  "affarsomraden": [
+    {"titel": "Bagerier och kafferep", "text": "Mjöldamm, deg och socker sätter sig i varje skarv. Vi torrengör först med dammsugare och skrapor och använder vatten bara där maskinerna tål det, så att mjöl inte blir klister i transportbanden.", "text2": "Sex industribagerier i Kronoberg och Jönköpings län rengörs av oss varje natt.", "tagg": "industri"},
+    {"titel": "Mejeri och chark", "text": "I våta processer arbetar vi med lågtrycksskum och alkaliska och sura medel i växelvis ordning för att få bort både fett, protein och kalk. Efter sköljning desinfekterar vi med perättiksyra.", "text2": "Kontaktprov för listeria tas varje vecka på de punkter kunden har valt.", "tagg": "stadning"},
+    {"titel": "Allergener och produktbyten", "text": "När en linje går från nötbar till nötfri müsli måste rengöringen vara validerad. Vi följer kundens allergenprotokoll och tar ytprov med snabbtest innan produktionen får starta.", "text2": "Varje allergenrengöring signeras av både vår arbetsledare och kundens skiftledare.", "tagg": "industri"},
+    {"titel": "Produktionsstopp", "text": "Under sommar- och julstopp gör vi det som inte hinns med på en natt: takbalkar, kanaler, kylbatterier och golvbrunnar under maskinerna. Vi kan ha 25 personer på samma fabrik under ett stopp.", "text2": "Stoppen planeras ett halvår i förväg tillsammans med kundens underhållsavdelning.", "tagg": "maskin"}
+  ],
+  "bolag": [
+    {"namn": "Natt Växjö", "segment": "28 tekniker", "rubrik": "Bagerier och mejeri runt Helgasjön", "text": "Åtta fabriker i Växjö, Alvesta och Rottne, med tre arbetsledare per natt.", "tagg": "industri"},
+    {"namn": "Natt Värnamo och Ljungby", "segment": "21 tekniker", "rubrik": "Chark och färdigmat längs E4:an", "text": "Charkuterier, färdigmatsfabrik och ett äggpackeri i västra Kronoberg och Värnamo.", "tagg": "stadning"},
+    {"namn": "Stoppteamet", "segment": "8 tekniker", "rubrik": "Lift, kanaler och kylbatterier", "text": "Gör storrengöring vid produktionsstopp och höghöjdsarbeten i alla fabriker.", "tagg": "maskin"},
+    {"namn": "Kvalitet och lab", "segment": "4 medarbetare", "rubrik": "Proverna analyseras här", "text": "Livsmedelsingenjör och tekniker som tar ATP- och kontaktprov och skriver månadsrapporterna.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Mejeriet klarade BRC med högsta betyg", "text": "Revisorn hade inga anmärkningar på rengöringen för första gången. Vår arbetsledare var med under hela revisionen.", "tagg": "industri"},
+    {"rubrik": "25 tekniker på sommarstopp i Värnamo", "text": "Under tre dagar i juli rengjorde vi färdigmatsfabriken från tak till golvbrunnar.", "tagg": "maskin"},
+    {"rubrik": "Vatten minskat med 30 procent", "text": "Nya skumaggregat och torrengöring i bagerierna har sänkt vattenförbrukningen per natt.", "tagg": "stadning"}
+  ],
+  "nyckeltal": [
+    {"varde": "19", "enhet": "fabriker", "etikett": "Rengörs varje natt"},
+    {"varde": "22–05", "enhet": "", "etikett": "Vårt vanligaste arbetspass"},
+    {"varde": "99,2 %", "enhet": "", "etikett": "Godkända ATP-prov 2025"},
+    {"varde": "1999", "enhet": "", "etikett": "Första natten i Teleborg"}
+  ],
+  "projekt": [
+    {"namn": "Mejeri vid Rottne", "ort": "Rottne", "typ": "Nattrengöring", "ar": "2026", "text": "Tankar, fyllningslinje och ostavdelning rengörs sju nätter i veckan.", "tagg": "industri", "status": "Pågående"},
+    {"namn": "Industribageri i Teleborg", "ort": "Växjö, Teleborg", "typ": "Torrengöring och skum", "ar": "2026", "text": "Vår första kund sedan 1999, med tre linjer för bröd och kaffebröd.", "tagg": "industri", "status": "Pågående"},
+    {"namn": "Färdigmatsfabrik i Värnamo", "ort": "Värnamo", "typ": "Sommarstopp", "ar": "2025", "text": "25 tekniker i tre dagar med lift, kanaler och kylbatterier.", "tagg": "maskin"},
+    {"namn": "Charkuteri i Ljungby", "ort": "Ljungby", "typ": "Rengöring och listeriaprov", "ar": "2025", "text": "Korvlinjer och kylrum med kontaktprov varje vecka.", "tagg": "stadning"},
+    {"namn": "Müslifabrik i Alvesta", "ort": "Alvesta", "typ": "Allergenrengöring", "ar": "2025", "text": "Validerade produktbyten mellan nötfria och nöthaltiga produkter, fyra gånger i veckan.", "tagg": "industri"},
+    {"namn": "Äggpackeri vid Lammhult", "ort": "Lammhult", "typ": "Nattrengöring", "ar": "2024", "text": "Packlinjer, sorteringsmaskiner och lager rengjorda varje natt utom söndag.", "tagg": "maskin"}
+  ],
+  "process": [
+    {"titel": "Fabriksgenomgång", "text": "Vi går igenom linjerna, er HACCP-plan och de punkter revisorn brukar granska.", "tagg": "industri"},
+    {"titel": "Rengöringsinstruktion", "text": "Ni får en skriftlig instruktion per maskin med medel, koncentration, temperatur och verkningstid.", "tagg": "kontor"},
+    {"titel": "Nattskiftet startar", "text": "Teamet arbetar varje natt efter instruktionen och signerar varje moment.", "tagg": "stadning"},
+    {"titel": "Prov och rapport", "text": "ATP- och kontaktprov varje natt, och en månadsrapport till er kvalitetschef.", "tagg": "maskin"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mindre vatten, mindre kemi, samma resultat",
+    "text": "Livsmedelsrengöring förbrukar mycket vatten och kemikalier. Vi doserar automatiskt, torrengör där det går och redovisar förbrukning per fabrik och natt.",
+    "mal": [["−30 %", "vatten per natt sedan 2022"], ["100 %", "automatisk dosering"], ["99,2 %", "godkända ATP-prov"]]
+  },
+  "karriar": {
+    "rubrik": "Nattjobb med teknik och ansvar",
+    "text": "Som rengöringstekniker lär du dig maskiner, kemi och hygienregler, och du arbetar fyra nätter i veckan med ob-tillägg. Vi betalar truckkort och liftutbildning.",
+    "jobb": [["Rengöringstekniker natt", "Växjö"], ["Rengöringstekniker natt", "Värnamo"], ["Arbetsledare natt", "Ljungby"], ["Livsmedelstekniker", "Växjö"]]
+  },
+  "kultur": "När nattskiftet slutar fredag morgon bjuder arbetsledarna på frukost i fabrikens matsal.",
+  "citat": {"text": "En linje som ser ren ut kan ändå bära listeria. Därför tror vi bara på det proverna säger.", "namn": "Per-Olof Gustavsson", "roll": "Grundare och styrelseordförande", "tagg": "people"},
+  "omdomen": [
+    {"text": "BRC-revisorn hade inget att anmärka på rengöringen. Det har inte hänt sedan vi certifierades.", "namn": "Malin E.", "ort": "Rottne"},
+    {"text": "Allergenbytena är dokumenterade så att vi kan visa varje steg för en kund som frågar.", "namn": "Daniel F.", "ort": "Alvesta"},
+    {"text": "Morgonskiftet startar klockan fem och linjen är alltid klar. På sex år har vi inte förlorat en timme.", "namn": "Sven-Åke L.", "ort": "Ljungby"}
+  ],
+  "faq": [
+    ["Hur lång tid tar en nattrengöring?", "En normal bagerilinje tar två till tre timmar för två tekniker. En mejerilinje med tankar tar fyra till fem."],
+    ["Vilka medel använder ni?", "Alkaliska skummedel för fett och protein, sura medel för kalk och mjölksten och perättiksyra för desinfektion. Allt är godkänt för livsmedelsytor."],
+    ["Hur verifierar ni att det är rent?", "Med ATP-prov efter varje natt och kontaktprov för listeria och enterobakterier enligt er provplan. Resultaten finns i en portal ni når hela tiden."],
+    ["Kan ni vara med vid revisioner?", "Ja, vår arbetsledare eller livsmedelsingenjör deltar gärna när BRC, IFS eller kommunens livsmedelskontroll är på plats."],
+    ["Vad händer om ett prov inte godkänns?", "Ytan rengörs om innan produktionen startar och vi skriver en avvikelserapport med orsak och åtgärd."],
+    ["Hur prissätter ni?", "Fast pris per natt utifrån antal linjer och maskiner. Ett mellanstort bageri ligger på 3 800–5 500 kronor per natt."],
+    ["Tar ni uppdrag bara vid stopp?", "Ja, vi gör även enstaka storrengöringar vid sommar- och julstopp för fabriker som har egen rengöring resten av året."]
+  ],
+  "certifikat": [
+    {"titel": "HACCP-utbildad personal", "text": "Alla tekniker utbildas i livsmedelshygien och HACCP-principerna före första natten.", "ikon": "kors"},
+    {"titel": "Stöd vid BRC och IFS", "text": "Vi dokumenterar rengöring och prover enligt de krav som BRCGS och IFS Food ställer på leverantörer.", "ikon": "dokument"},
+    {"titel": "Kemikaliehantering", "text": "Arbetsledarna har utbildning i kemiska riskkällor och alla medel finns med säkerhetsdatablad på plats.", "ikon": "skold"},
+    {"titel": "Truck- och liftbehörighet", "text": "Stoppteamet har truckkort och utbildning för skylift och saxlift enligt AFS-föreskrifterna.", "ikon": "hiss"}
+  ],
+  "kunder": ["Rottne Mejeri", "Teleborgs Bageri", "Värnamo Färdigmat", "Ljungby Charkuteri", "Alvesta Spannmålskök", "Lammhults Äggpackeri", "Tingsryds Kafferosteri", "Kronobergs Kylcentral"],
+  "nyheter": [
+    ["2026-10-05", "Nytt skumaggregat i alla bilar", "Den nya utrustningen ger jämnare skum och mindre spill.", "stadning"],
+    ["2026-07-28", "Sommarstoppen avklarade", "Fem fabriker, 2 300 arbetstimmar och inga olyckor.", "maskin"],
+    ["2026-02-17", "Allergenrengöring som håller vid revision", "Så dokumenterar vi ett produktbyte steg för steg.", "industri"]
+  ],
+  "kontakt": {"adress": "Arabygatan 52", "postnr": "352 46", "ort": "Växjö", "telefon": "070-174 06 64", "epost": "natt@helgasjohygien.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 8–16, nattledning 22–05",
+  "omrade": "Kronoberg, Värnamo och västra Blekinge",
+  "fot_cta": "Ska ni förbereda en revision eller byta rengöringsleverantör? Vi kommer ut och går igenom fabriken.",
+  "bild": {"panel": "industri", "hb": "maskin"},
+  "text": {
+    "hero_knapp": "Fabriker vi rengör",
+    "kontakt_knapp": "Boka fabriksbesök",
+    "hero_lank": "Senaste uppdragen",
+    "vagval_etikett": "Produktion",
+    "ber_rubrik": "Från nattskiftet",
+    "proj_rubrik": "Fabriker vi lämnar produktionsklara",
+    "process_rubrik": "Från genomgång till godkänt prov",
+    "hb_etikett": "Resurser",
+    "omdomen_rubrik": "Kvalitetscheferna om oss",
+    "faq_rubrik": "Frågor från livsmedelsindustrin",
+    "boka_rubrik": "Låt oss gå igenom linjerna",
+    "boka_text": "Berätta vad ni producerar och hur många linjer ni har, så bokar vi en genomgång med vår livsmedelsingenjör.",
+    "boka_falt": ["Namn", "Telefon", "Fabrik och ort", "Produkter och antal linjer"],
+    "logos_rubrik": "Fabriker som startar rent",
+    "certifikat_rubrik": "Hygien, kemi och behörighet",
+    "bolag_rubrik": "Två nattlag, stopp och lab",
+    "ny_rubrik": "Om livsmedelshygien",
+    "medarbetare": "Teknikerna"
+  }
+}

@@ -53,7 +53,7 @@
     {"namn": "Bydalens liftstation", "ort": "Bydalen", "typ": "Stationshus", "ar": "2026", "text": "Rostskydd på plåt och ny fasadfärg på trä under barmarksveckorna.", "tagg": "anlaggning"},
     {"namn": "Timmerstuga i Ottsjö", "ort": "Ottsjö", "typ": "Laserat timmer", "ar": "2025", "text": "Slipning till rent trä, ny lasyr och fogning av 26 sprickor.", "tagg": "tra"},
     {"namn": "Vemdalsskalets Lägenhetshotell", "ort": "Vemdalen", "typ": "Korridorer och lägenheter", "ar": "2025", "text": "62 lägenheter målade under oktober och november.", "tagg": "interior"},
-    {"namn": "Villa på Frösön", "ort": "Östersund", "typ": "Fasad och fönster", "ar": "2024", "text": "Panel, fönster och vindskivor på ett 1920-talshus vid Storsjön.", "tagg": "hem"},
+    {"namn": "Villa på Frösön", "ort": "Östersund", "typ": "Panel, fönster och vindskivor", "ar": "2024", "text": "Panel, fönster och vindskivor på ett 1920-talshus vid Storsjön.", "tagg": "hem"},
     {"namn": "Fjällgården Storlien", "ort": "Storlien", "typ": "Hotellfasad", "ar": "2027", "text": "Tre byggnader – ställning byggs i juni när vägen är torr.", "tagg": "maleri", "status": "Pågående"}
   ],
   "process": [
@@ -89,14 +89,14 @@
     ["Kan ni måla när det är uthyrt?", "Utvändigt ja, om gästerna godkänner det. Invändigt arbetar vi bara mellan bokningarna."]
   ],
   "certifikat": [
-    {"titel": "Måleriavtalet", "text": "Kollektivavtal med boende och resor reglerade för säsongsarbetet.", "ikon": "dokument"},
+    {"titel": "Avtal för säsongsarbete", "text": "Kollektivavtal med boende och resor reglerade för säsongsarbetet.", "ikon": "dokument"},
     {"titel": "Fallskydd och lift", "text": "Utbildning för arbete på tak, ställning och skylift i lutande terräng.", "ikon": "hjalm"},
-    {"titel": "Svensk Miljöbas", "text": "Miljöledningssystem anpassat för mindre företag.", "ikon": "trad"},
-    {"titel": "Ansvarsförsäkring", "text": "5 miljoner kronor, med nyckelförvaring inkluderad i försäkringen.", "ikon": "skold"}
+    {"titel": "Miljöbas för småföretag", "text": "Miljöledningssystem anpassat för mindre företag.", "ikon": "trad"},
+    {"titel": "Försäkrad nyckelförvaring", "text": "5 miljoner kronor, med nyckelförvaring inkluderad i försäkringen.", "ikon": "skold"}
   ],
   "kunder": ["Stugföreningen Tegefjäll", "Bydalens Fjällanläggning", "Vemdalsskalets Lägenhetshotell", "Fjällgården Storlien", "Duveds Samfällighet", "Brf Åre Torg", "Ottsjö Byalag"],
   "nyheter": [
-    ["2026-09-22", "Säsongen 2026 avslutad", "138 stugor målade – och inte en enda arbetsdag förlorad till snö.", "maleri"],
+    ["2026-09-22", "Fjällsäsongen 2026 är slut", "138 stugor målade – och inte en enda arbetsdag förlorad till snö.", "maleri"],
     ["2026-05-28", "Fjällaget har flyttat upp till Åre", "Åtta målare och tre bilar är på plats för sommaren.", "people"],
     ["2026-01-14", "Därför bleks sydväggen först", "UV-strålningen är upp till 20 procent starkare på 900 meters höjd än vid Storsjön.", "natur"]
   ],

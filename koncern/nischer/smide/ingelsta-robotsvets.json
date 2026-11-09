@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "smide",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ingelsta Robotsvets AB",
+  "kortnamn": "Ingelsta",
+  "slug": "ingelsta-robotsvets",
+  "typ": "Legosvets i serie, Norrköping",
+  "tagline": "Svetsade komponenter i serie",
+  "slogan": "Vi robotsvetsar ramar, bommar och chassidelar åt tillverkare av fordon, skogsmaskiner och tåg – från tio exemplar till trettio tusen om året.",
+  "hero_rubrik": "22 robotceller, en enda ritning",
+  "hero_text": "Legotillverkning av svetsade komponenter i stål och aluminium: laserskärning, kantbockning, robotsvets och lack under samma tak. Leverans just in time till monteringslinan.",
+  "intro_rubrik": "Från manuell verkstad till robotfabrik",
+  "om": [
+    "Ingelsta grundades 1972 som en manuell svetsverkstad som tillverkade släpvagnsramar. När civilingenjörerna Farah Jama och Anders Kjellin köpte bolaget 2014 fanns två robotar och 30 anställda. De byggde om verkstaden kring en idé: att kunder som köper svetsade detaljer i serie ska få samma kvalitet på exemplar nummer tiotusen som på det första.",
+    "I dag är vi 85 anställda och omsätter 165 miljoner kronor. Fabriken på Ingelstagatan har 22 robotceller, två fiberlasrar, sex kantpressar och en pulverlackeringslinje. Tre av fyra kronor kommer från kunder inom fordon, skog och järnväg i Östergötland, Södermanland och Småland."
+  ],
+  "vagval_rubrik": "Vad ska vi tillverka åt er?",
+  "tjanster": [
+    {"titel": "Robotsvets i serie", "ikon": "robot", "href": "verksamhet.html", "text": "MIG- och MAG-svets i 22 celler med offlineprogrammering."},
+    {"titel": "Laserskärning", "ikon": "blixt", "href": "verksamhet.html", "text": "Två fiberlasrar för plåt upp till 25 millimeter och rör upp till 8 meter."},
+    {"titel": "Kantbockning", "ikon": "kugge", "href": "verksamhet.html", "text": "Sex kantpressar, varav två med robotmatning för långa serier."},
+    {"titel": "Pulverlack", "ikon": "pensel", "href": "verksamhet.html", "text": "Automatisk lackeringslinje med förbehandling och härdugn."},
+    {"titel": "Konstruktionsstöd", "ikon": "ritning", "href": "verksamhet.html", "text": "Vi ser över era ritningar för att göra detaljerna billigare att svetsa."},
+    {"titel": "Logistik och lager", "ikon": "lada", "href": "verksamhet.html", "text": "Kanbanlager och daglig leverans till er monteringslina."},
+    {"titel": "Leveranser i siffror", "ikon": "graf", "href": "projekt.html", "text": "Exempel från fordon, skog och järnväg."},
+    {"titel": "Skicka underlag", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "STEP-fil, volym och leveransplan ger offert inom tio dagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fordon och släp", "text": "Ramar, axelbalkar och påbyggnadsdetaljer till lastbilar, släp och specialfordon. Vi levererar i sekvens direkt till kundens lina två gånger per dag.", "text2": "Leveransprecisionen var 99,4 procent under 2025.", "tagg": "industri"},
+    {"titel": "Skogs- och entreprenadmaskiner", "text": "Kranbommar, hytteramar och motvikter i höghållfast stål där svetsfogarna utsätts för miljontals lastväxlingar. Varje svetsprocedur verifieras med utmattningsprovning hos kunden.", "text2": "Vi svetsar stål upp till 960 MPa sträckgräns med kontrollerad värmetillförsel.", "tagg": "maskin"},
+    {"titel": "Järnväg", "text": "Konsoler, boggidetaljer och inredningsramar till tågtillverkare och underhållsverkstäder. Arbetet följer EN 15085 med svetsansvarig ingenjör på plats.", "text2": "Certifieringen omfattar klass CL1, den högsta för säkerhetskritiska fogar.", "tagg": "infra"},
+    {"titel": "Prototyper och förserier", "text": "Nya produkter börjar ofta som tio handsvetsade exemplar. Vi bygger prototyperna manuellt och programmerar robotcellen parallellt, så att serieproduktionen kan starta utan omtag.", "text2": "Tiden från prototyp till serie har vi kortat till sex veckor i snitt.", "tagg": "svets"}
+  ],
+  "bolag": [
+    {"namn": "Plåtcentret", "segment": "Laser och bockning", "rubrik": "Från plåtstapel till kantad detalj", "text": "Fiberlasrar, rörlaser och kantpressar som går i treskift och matar robotcellerna.", "tagg": "industri"},
+    {"namn": "Robothallen", "segment": "Svets i serie", "rubrik": "22 celler, tre skift", "text": "Robotoperatörer och programmerare som kör allt från små konsoler till sex meter långa ramar.", "tagg": "svets"},
+    {"namn": "Ytbehandling", "segment": "Lack och förbehandling", "rubrik": "Korrosionsklass C4 på löpande band", "text": "Automatisk lackeringslinje med zinkfosfatering och skikttjockleksmätning på varje detalj.", "tagg": "maskin"},
+    {"namn": "Teknik och kvalitet", "segment": "Beredning och kontroll", "rubrik": "Varje fog har en logg", "text": "Svetsingenjörer, beredare och en 3D-mätarm som kontrollerar första och sista detaljen i varje serie.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ny cell för kranbommar", "text": "En robotcell med två robotar på åtta meters skena svetsar nu bommar till en skogsmaskinstillverkare.", "tagg": "svets"},
+    {"rubrik": "EN 15085 utökad till CL1", "text": "Vi får nu svetsa säkerhetskritiska fogar till spårfordon.", "tagg": "infra"},
+    {"rubrik": "Solpark på fabrikstaket", "text": "1 900 paneler täcker en femtedel av fabrikens elbehov.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "22", "enhet": "robotceller", "etikett": "I tre skift"},
+    {"varde": "99,4 %", "enhet": "", "etikett": "Leveransprecision 2025"},
+    {"varde": "165", "enhet": "Mkr", "etikett": "Omsättning 2025"},
+    {"varde": "85", "enhet": "anställda", "etikett": "Operatörer, svetsare och ingenjörer"}
+  ],
+  "projekt": [
+    {"namn": "Kranbommar till skogsmaskiner", "ort": "Norrköping", "typ": "Robotsvets i serie", "ar": "2026", "text": "1 800 bommar om året i höghållfast stål med verifierad utmattningslivslängd.", "tagg": "maskin"},
+    {"namn": "Axelbalkar för släpvagnar", "ort": "Linköping", "typ": "Sekvensleverans", "ar": "2026", "text": "Två leveranser om dagen direkt till kundens monteringslina.", "tagg": "industri"},
+    {"namn": "Inredningsramar regionaltåg", "ort": "Västerås", "typ": "Järnväg", "ar": "2025", "text": "4 200 ramar i aluminium enligt EN 15085.", "tagg": "infra"},
+    {"namn": "Hytteramar till hjullastare", "ort": "Eskilstuna", "typ": "Robotsvets och lack", "ar": "2025", "text": "Komplett ram svetsad, lackerad och mätt i 3D före leverans.", "tagg": "maskin"},
+    {"namn": "Prototypserie för eldriven truck", "ort": "Mjölby", "typ": "Prototyp till serie", "ar": "2024", "text": "Tolv handsvetsade chassin, i serie efter sex veckor.", "tagg": "svets"},
+    {"namn": "Boggikonsoler", "ort": "Norrköping", "typ": "Järnväg CL1", "ar": "2027", "text": "Förserie godkänd, serieleverans startar i februari.", "tagg": "infra", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Underlag och offert", "text": "Ni skickar 3D-modell, volym och leveransplan. Offert med styckpris och verktygskostnad inom tio arbetsdagar.", "tagg": "kontor"},
+    {"titel": "Tillverkningsanpassning", "text": "Vi föreslår ändringar som gör detaljen enklare att skära, bocka och svetsa – ofta 10–20 procent billigare.", "tagg": "kontor"},
+    {"titel": "Förserie och PPAP", "text": "Första serien mäts i 3D och dokumenteras innan ni godkänner för serieproduktion.", "tagg": "svets"},
+    {"titel": "Serie och leverans", "text": "Detaljerna tillverkas mot ert avrop och levereras till lager eller direkt till linan.", "tagg": "industri"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Samma fog, varje gång",
+    "text": "En robot svetsar med exakt samma hastighet, vinkel och värme på varje detalj, vilket ger färre omarbetningar och mindre spill. Vi loggar svetsdata för varje fog och kan spåra en detalj till skift, cell och trådparti. Solparken på taket och värmeåtervinning från lackugnen har minskat fabrikens energiköp med 27 procent.",
+    "mal": [["0,3 %", "kassation i robotsvetsade serier"], ["−27 %", "energiköp jämfört med 2020"], ["100 %", "spårbarhet per fog och trådparti"]]
+  },
+  "karriar": {
+    "rubrik": "Från svetsare till robotprogrammerare",
+    "text": "Många av våra robotprogrammerare började som manuella svetsare. Vi har en egen utbildningscell där du lär dig offlineprogrammering på betald arbetstid, och skiftformer som passar både familjeliv och nattugglor.",
+    "jobb": [["Robotoperatör", "Norrköping"], ["Svetsingenjör IWE", "Norrköping"], ["Laseroperatör", "Norrköping"], ["Beredare", "Norrköping"]]
+  },
+  "kultur": "Varje fredag visar ett skiftlag upp en förbättring som sparat tid eller material – bästa idén varje kvartal belönas med en resa.",
+  "citat": {"text": "Våra kunder ska aldrig behöva fundera på om detaljen från oss är bra. De ska kunna ta den från pallen och skruva fast den.", "namn": "Farah Jama", "roll": "Vd och delägare", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Vi har fått över 40 000 axelbalkar från Ingelsta och kan räkna reklamationerna på ena handens fingrar.", "namn": "Ulf G., inköpschef", "ort": "Linköping"},
+    {"text": "Deras ändringsförslag på bommen sparade 14 procent i styckpris utan att påverka hållfastheten.", "namn": "Sara N., konstruktör", "ort": "Umeå"},
+    {"text": "Från tolv prototyper till serie på sex veckor. Det hade vi inte trott var möjligt.", "namn": "Tomas W.", "ort": "Mjölby"}
+  ],
+  "faq": [
+    ["Vilka seriestorlekar tar ni?", "Från förserier på tio exemplar till serier på 30 000 detaljer om året. Robotsvets lönar sig oftast från ett par hundra exemplar."],
+    ["Svetsar ni aluminium?", "Ja, i två av cellerna med pulsad MIG. Vi har godkända procedurer för legeringarna i 5000- och 6000-serien."],
+    ["Kan ni ta fram robotprogram utan att stoppa produktionen?", "Ja. Vi programmerar offline i en digital kopia av cellen och kör bara in programmet när det ska provas."],
+    ["Hur hanteras ritningsändringar?", "Varje ändring får ett ändringsnummer, och vi spärrar gamla detaljer i lagret tills ni bestämt vad som ska hända med dem."],
+    ["Lagerhåller ni åt oss?", "Ja. Många kunder har kanbanlager hos oss och avropar dagligen. Vi garanterar en viss lagernivå enligt avtal."],
+    ["Vilken dokumentation får vi?", "Mätprotokoll, materialcertifikat, svetsloggar och PPAP-dokumentation enligt era krav."]
+  ],
+  "certifikat": [
+    {"titel": "ISO 3834-2", "text": "Fullständiga kvalitetskrav för smältsvetsning, med tre svetsansvariga ingenjörer.", "ikon": "eld"},
+    {"titel": "EN 15085-2, CL1", "text": "Certifierade för svetsning av spårfordon och komponenter i högsta klassen.", "ikon": "bro"},
+    {"titel": "IATF 16949", "text": "Kvalitetsledningssystem för fordonsindustrins leverantörer, reviderat årligen.", "ikon": "bil"},
+    {"titel": "ISO 14001 och 45001", "text": "Certifierade ledningssystem för miljö och arbetsmiljö.", "ikon": "dokument"}
+  ],
+  "kunder": ["Östgöta Släpvagnar", "Norrskog Maskin", "Mälardalens Spårfordon", "Eskilstuna Lastmaskiner", "Mjölby Truckteknik", "Bråviken Fordonsdelar", "Kolmårdens Hydraulik", "Motala Chassi"],
+  "nyheter": [
+    ["2026-10-20", "Bomcellen i drift", "Två robotar på åtta meters skena svetsar nu kranbommar i treskift.", "svets"],
+    ["2026-06-22", "Godkända för CL1", "Utökad järnvägscertifiering öppnar för säkerhetskritiska fogar.", "infra"],
+    ["2026-04-09", "Solparken levererar", "Första kvartalet täckte taket 21 procent av fabrikens el.", "industri"],
+    ["2026-01-15", "Utbildningscell för programmerare", "Sex svetsare utbildas till robotprogrammerare under året.", "people"]
+  ],
+  "kontakt": {"adress": "Ingelstagatan 22", "postnr": "603 61", "ort": "Norrköping", "telefon": "070-174 06 38", "epost": "offert@ingelstarobotsvets.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16 · produktion i treskift mån–fre",
+  "omrade": "Östergötland, Sörmland, Småland och Mälardalen",
+  "fot_cta": "Har ni en detalj som svetsas för hand i dag? Skicka ritningen, så räknar vi på robot.",
+  "bild": {"panel": "svets", "hb": "industri"},
+  "text": {
+    "ber_rubrik": "Senaste från robothallen",
+    "proj_rubrik": "Serier vi levererar",
+    "proj_kol": ["Detalj", "Kundort", "Typ", "Status", "År"],
+    "process_rubrik": "Från STEP-fil till sekvensleverans",
+    "hb_etikett": "Precision och energi",
+    "omdomen_rubrik": "Inköpare och konstruktörer om oss",
+    "faq_rubrik": "Om serier, svets och dokumentation",
+    "boka_rubrik": "Skicka ert underlag",
+    "boka_falt": ["Namn", "Företag", "Telefon", "Detalj, årsvolym och önskad start"],
+    "logos_rubrik": "Tillverkare som bygger med våra detaljer",
+    "certifikat_rubrik": "Godkända för fordon och spår",
+    "bolag_rubrik": "Fyra steg i samma fabrik",
+    "ny_rubrik": "Nytt från Ingelsta",
+    "hero_knapp": "Så tillverkar vi",
+    "medarbetare": "Operatörer och ingenjörer"
+  }
+}

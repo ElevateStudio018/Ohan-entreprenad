@@ -1,0 +1,133 @@
+{
+  "profil": "nisch",
+  "nisch": "maskin",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Skogsreserven i Kronoberg AB",
+  "kortnamn": "Skogsreserven",
+  "slug": "skogsreserven",
+  "typ": "Skogsmaskiner att hyra i Småland",
+  "tagline": "När skördaren står still",
+  "slogan": "Ett haveri på en skördare kostar en entreprenör 25 000 kronor om dagen – vi har en reservmaskin på trailern innan reservdelen ens är beställd.",
+  "hero_rubrik": "Reservskördare i trakten inom tolv timmar",
+  "hero_text": "Skördare, skotare och markberedare att hyra per dag eller vecka för skogsentreprenörer i Kronoberg, Kalmar län och Blekinge. Lastade på egen trailer, dygnet runt.",
+  "intro_rubrik": "Fjorton maskiner som väntar på ett haveri",
+  "om": [
+    "Henrik Sjövall körde skördare åt en virkesköpare i fjorton år och hade egen maskin de sista sex. När hans växellåda gick sönder i januari 2016 stod han still i tre veckor, och han ringde varenda hyrfirma i Småland utan att hitta en ersättare. Året efter köpte han en begagnad skotare och startade Skogsreserven.",
+    "I dag är vi nio anställda med fem skördare, sex skotare och tre grävare med markberedningsaggregat. Maskinerna står på depån i Räppe söder om Växjö, servade och tankade, med två trailerdragare i beredskap. De flesta hyror är korta: en maskin ut på kvällen efter ett haveri, tillbaka när kundens egen är lagad."
+  ],
+  "vagval_rubrik": "Vad har gått sönder?",
+  "tjanster": [
+    {"titel": "Reservskördare", "ikon": "trad", "href": "verksamhet.html", "text": "Åttahjuliga skördare för gallring och slutavverkning, med aggregat för klen och grov skog."},
+    {"titel": "Reservskotare", "ikon": "skog", "href": "verksamhet.html", "text": "Skotare för 12–16 ton med band och vågsystem som pratar med din apterare."},
+    {"titel": "Markberedning", "ikon": "sten", "href": "verksamhet.html", "text": "Grävare med högläggningsaggregat för föryngring efter avverkning."},
+    {"titel": "Trailertransport", "ikon": "vag", "href": "verksamhet.html", "text": "Egen trailer och dragbil, dygnet runt, till avlägget eller vändplanen."},
+    {"titel": "Hyra med förare", "ikon": "folk", "href": "verksamhet.html", "text": "Tre erfarna förare som kan ta ett skift när ditt eget lag är kort."},
+    {"titel": "Säsongsförstärkning", "ikon": "kalender", "href": "verksamhet.html", "text": "Extra maskin under tjälperioden när allt ska ut ur skogen samtidigt."},
+    {"titel": "Service i skogen", "ikon": "verktyg", "href": "verksamhet.html", "text": "Servicebil med slangar, filter och svetsaggregat ut till traktens avlägg."},
+    {"titel": "Haverilinjen", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ring dygnet runt – vi svarar och lastar trailern samma kväll."}
+  ],
+  "affarsomraden": [
+    {"titel": "Ersättare vid haveri", "text": "När din skördare eller skotare står still ringer du haverilinjen. Vi lastar en maskin med samma aggregattyp och är på trakten inom tolv timmar i hela Kronoberg.", "text2": "Prisfiler och apteringsinställningar förs över från din maskin, så att virket kapas efter rätt order från första stammen.", "tagg": "trad"},
+    {"titel": "Toppar i säsongen", "text": "Under tjälperioden i februari och mars vill alla virkesköpare ha ut virket samtidigt. Våra skotare hyrs då ut veckovis till entreprenörer som behöver dubbla kapaciteten några veckor.", "text2": "Säsongshyror bokas från oktober och har fast veckopris.", "tagg": "natur"},
+    {"titel": "Markberedning efter avverkning", "text": "Tre grävare med högläggningsaggregat gör planteringspunkter på hyggen där harv inte fungerar. Föraren lägger punkterna med det avstånd skogsägaren har beställt.", "text2": "Vi dokumenterar med GPS-spår så att skogsägaren kan se varje punkt på kartan.", "tagg": "mark"},
+    {"titel": "Begagnade maskiner provkörda", "text": "Efter fem år säljer vi våra maskiner till entreprenörer som har hyrt dem och vet hur de går. Hyran för de tre senaste månaderna räknas av från priset.", "text2": "Alla maskiner säljs med fullständig servicehistorik från vår egen verkstad.", "tagg": "maskin"}
+  ],
+  "bolag": [
+    {"namn": "Haverijouren", "segment": "Två trailerdragare", "rubrik": "Lastat och klart före midnatt", "text": "Chaufförerna turas om att ha beredskap och kör ut en maskin på kvällar, nätter och helger.", "tagg": "maskin"},
+    {"namn": "Förarlaget", "segment": "Tre skogsmaskinförare", "rubrik": "Ett skift när du saknar folk", "text": "Förarna kör både våra och kundernas maskiner när ett lag är kort på grund av sjukdom eller semester.", "tagg": "trad"},
+    {"namn": "Verkstaden i Räppe", "segment": "Två mekaniker", "rubrik": "Varje maskin redo att lasta", "text": "Efter varje hyra servas maskinen, aggregatet kalibreras och tanken fylls med HVO.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Natten till julafton i Lessebo", "text": "En skotare med bruten boggi ersattes klockan två – och virket låg vid vägen på juldagen.", "tagg": "trad"},
+    {"rubrik": "Ny gallringsskördare i parken", "text": "En lätt åttahjuling med smalt aggregat för förstagallring i tät granskog.", "tagg": "maskin"},
+    {"rubrik": "Markberedning med GPS-kvitto", "text": "Skogsägare får nu en karta med varje planteringspunkt när hygget är klart.", "tagg": "mark"}
+  ],
+  "nyckeltal": [
+    {"varde": "12", "enhet": "timmar", "etikett": "Längsta tid till maskin på trakten"},
+    {"varde": "14", "enhet": "maskiner", "etikett": "Skördare, skotare och markberedare"},
+    {"varde": "61", "enhet": "haverier", "etikett": "Ersatta under 2025"},
+    {"varde": "25 000", "enhet": "kr", "etikett": "Vad en stillastående dag kostar"}
+  ],
+  "projekt": [
+    {"namn": "Slutavverkning Lessebo", "ort": "Lessebo", "typ": "Ersättningsskotare", "ar": "2025", "text": "Skotare ute på fem timmar efter ett boggihaveri i juletid.", "tagg": "trad"},
+    {"namn": "Gallring Tingsryd", "ort": "Tingsryd", "typ": "Ersättningsskördare", "ar": "2025", "text": "Gallringsskördare i tre veckor medan kundens maskin fick ny motor.", "tagg": "natur"},
+    {"namn": "Tjälperioden i Älmhult", "ort": "Älmhult", "typ": "Säsongshyra", "ar": "2026", "text": "Två skotare veckohyrda under sju veckor i februari och mars.", "tagg": "maskin"},
+    {"namn": "Hygge vid Åsnen", "ort": "Urshult", "typ": "Markberedning", "ar": "2025", "text": "42 hektar högläggning med GPS-kvitto till skogsägaren.", "tagg": "mark"},
+    {"namn": "Stormfällt i Ronneby", "ort": "Ronneby", "typ": "Skördare med förare", "ar": "2024", "text": "Upparbetning av stormfällen gran med vår förare under tolv dagar.", "tagg": "trad"},
+    {"namn": "Gallring Alvesta", "ort": "Alvesta", "typ": "Säsongshyra", "ar": "2026", "text": "Lätt skördare bokad för förstagallringar under hösten.", "tagg": "natur", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Du ringer haverilinjen", "text": "Berätta vilken maskin som står, aggregatets typ och var trakten ligger.", "tagg": "trad"},
+    {"titel": "Prisfiler förs över", "text": "Vi hämtar apteringsinställningar från din virkesköpare så att kapningen stämmer direkt.", "tagg": "maskin"},
+    {"titel": "Trailern rullar", "text": "Maskinen lastas på depån i Räppe och lossas vid avlägget, oftast samma natt.", "tagg": "natur"},
+    {"titel": "Tillbaka när din är lagad", "text": "Du betalar per påbörjat dygn och ringer när den egna maskinen är tillbaka.", "tagg": "industri"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Maskiner som lämnar skogen hel",
+    "text": "Körskador på blöt mark och i bäckar är det skogsägare och myndigheter granskar först. Alla våra skotare har band och breda däck, förarna planerar basvägar med ris och vi tankar enbart HVO. Hydrauloljan är biologiskt nedbrytbar i samtliga maskiner.",
+    "mal": [["100 %", "HVO i maskiner och trailerdragare"], ["0", "anmälda körskador vid vatten 2025"], ["14", "av 14 maskiner med miljöanpassad hydraulolja"]]
+  },
+  "karriar": {
+    "rubrik": "Skogsmaskinförare med beredskapsvilja",
+    "text": "Vi söker dig som kan köra både skördare och skotare och inte har något emot en utryckning ibland. Beredskapen roterar mellan sex personer och ersätts enligt kollektivavtal.",
+    "jobb": [["Skogsmaskinförare", "Växjö"], ["Trailerchaufför med beredskap", "Växjö"]]
+  },
+  "kultur": "Henrik har själv stått still med en trasig maskin i tre veckor – därför svarar vi i telefon även på julafton.",
+  "citat": {"text": "En entreprenör med en trasig skördare har ingen tid att jämföra offerter. Han behöver höra att maskinen är på väg, och det är det enda vi säljer.", "namn": "Henrik Sjövall", "roll": "Grundare och vd", "tagg": "trad"},
+  "omdomen": [
+    {"text": "Motorn lade av en tisdag eftermiddag. Klockan fem på onsdagsmorgonen stod en skördare med samma aggregat vid avlägget, och prisfilerna var redan inlagda.", "namn": "Johan E.", "ort": "Tingsryd"},
+    {"text": "Vi hyr två skotare varje tjälperiod sedan 2020. Det är billigare än att äga en tredje maskin som står still i nio månader.", "namn": "Maria K.", "ort": "Älmhult"},
+    {"text": "Kartan med planteringspunkterna gjorde att jag kunde kontrollera hygget från köksbordet.", "namn": "Gösta H.", "ort": "Urshult"}
+  ],
+  "faq": [
+    ["Vad kostar en reservskördare?", "Från 8 900 kronor per dygn utan förare, eller 31 000 kronor per vecka. Trailertransport i Kronoberg kostar 4 500 kronor tur och retur."],
+    ["Måste jag ha ramavtal?", "Nej, men entreprenörer med ramavtal går före i kön och har fem procent lägre dygnspris."],
+    ["Fungerar maskinen med min virkesköpares system?", "Ja, våra skördare har standardiserat apteringssystem och vi laddar in prisfiler och sortiment innan leverans."],
+    ["Kan jag hyra en förare också?", "Ja, våra tre förare kan följa med maskinen. Förare kostar 650 kronor per timme."],
+    ["Vem betalar om maskinen går sönder under hyran?", "Normala slitagefel står vi för och ersätter med servicebil. Skador från vårdslöshet debiteras enligt hyresavtalet."],
+    ["Hyr ni ut i andra län?", "Ja, i Kalmar län och Blekinge också. Längre bort tar vi transporttillägg per mil."]
+  ],
+  "certifikat": [
+    {"titel": "PEFC- och FSC-certifierade", "text": "Vi är certifierade skogsentreprenörer och följer båda standardernas krav på hänsyn och dokumentation.", "ikon": "trad"},
+    {"titel": "Grönt kort i naturvård", "text": "Alla förare har gått utbildningen i naturvårdande skogsskötsel som virkesköparna kräver.", "ikon": "skog"},
+    {"titel": "Miljöanpassade oljor", "text": "Hydrauloljor enligt SS 15 54 34 i samtliga maskiner, kontrollerade vid varje service.", "ikon": "lov"},
+    {"titel": "Kollektivavtal med GS", "text": "Förare och chaufförer har kollektivavtal genom GS-facket, inklusive beredskapsersättning.", "ikon": "folk"}
+  ],
+  "kunder": ["Kronobergs Skogsentreprenad", "Lessebo Virkesdrivning", "Älmhults Gallringstjänst", "Tingsryds Avverkning", "Sjöviks Gods", "Alvesta Skogsvård", "Urshults Skogsägarlag"],
+  "nyheter": [
+    ["2026-10-12", "Boka tjälperioden nu", "Säsongshyror för februari och mars har fast veckopris om du bokar före december.", "natur"],
+    ["2026-04-22", "Ny lätt gallringsskördare", "Smal och snäll mot marken – byggd för förstagallringar i tät gran.", "maskin"],
+    ["2025-12-28", "61 haverier under ett år", "Så såg året ut på haverilinjen – och vilka fel som var vanligast.", "trad"]
+  ],
+  "kontakt": {"adress": "Räppevägen 47", "postnr": "352 59", "ort": "Växjö", "telefon": "070-174 06 23", "epost": "haveri@skogsreserven.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 7–16. Haverilinjen dygnet runt",
+  "omrade": "Kronoberg, Kalmar län och Blekinge",
+  "fot_cta": "Står din maskin still? Ring haverilinjen – vi lastar trailern i kväll.",
+  "bild": {"panel": "trad", "hb": "natur", "sida_om": "trad"},
+  "text": {
+    "hero_knapp": "Maskiner i reserv",
+    "hero_lank": "Ersatta haverier",
+    "kontakt_knapp": "Ring haverilinjen",
+    "vagval_etikett": "Reservparken",
+    "ber_etikett": "Från avverkningarna",
+    "ber_rubrik": "Haverier vi har täckt",
+    "proj_etikett": "Insatser",
+    "proj_rubrik": "Skogen stod aldrig still",
+    "proj_rubrik_lista": "Insatser och säsongshyror",
+    "status_klart": "Avslutat",
+    "process_rubrik": "Från haveri till avlägg på en natt",
+    "hb_etikett": "Hänsyn",
+    "hb_lank": "Så undviker vi körskador",
+    "omdomen_rubrik": "Entreprenörer som stod still",
+    "faq_rubrik": "Om dygnspris, prisfiler och förare",
+    "logos_rubrik": "Haverier ersatta åt",
+    "certifikat_rubrik": "Certifierade för skogsbruk",
+    "bolag_rubrik": "Jour, förare och verkstad",
+    "boka_rubrik": "Planera en säsongshyra",
+    "boka_text": "För haverier – ring direkt. För säsongshyror skriver du vecka, maskintyp och område här.",
+    "boka_falt": ["Namn", "Telefon", "Företag", "Maskin, veckor och område"],
+    "boka_knapp": "Skicka",
+    "siffror_etikett": "Reserven i siffror",
+    "medarbetare": "Förarna"
+  }
+}
