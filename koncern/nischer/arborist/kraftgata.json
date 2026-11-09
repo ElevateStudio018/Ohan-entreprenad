@@ -1,0 +1,139 @@
+{
+  "profil": "arborist",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kraftgata Trädservice AB",
+  "kortnamn": "Kraftgata",
+  "slug": "kraftgata",
+  "typ": "Ledningsnära trädvård i Kronoberg",
+  "tagline": "Träd nära ledningar",
+  "slogan": "Vi tar ned och beskär träd som hotar el- och teleledningar – åt nätbolag, vägföreningar och villaägare med servis över tomten.",
+  "hero_rubrik": "Säkra träd intill strömförande ledningar",
+  "hero_text": "Nitton anställda i Växjö med isolerad lift, terrängtruck och ESA-utbildade arborister. Vi röjer kraftledningsgator och tar ned träd över servisledningar i hela Småland.",
+  "intro_rubrik": "Där skogen möter elnätet",
+  "om": [
+    "Kraftgata grundades 2010 av Patrik Johansson, som arbetat tio år som linjemontör och sett hur många strömavbrott som började med en gran i ledningsgatan. Han anställde två arborister och köpte en isolerad lift, och i dag är vi nitton anställda med depå i Norremark norr om Växjö centrum.",
+    "Ungefär två tredjedelar av arbetet är ramavtal med regionala elnätsbolag och fiberföretag: vi röjer ledningsgator, fäller kantträd och beskär runt stolpar och nätstationer. Resten är villaägare och vägföreningar med träd över servisledningen eller en luftledning längs uppfarten. Innan någon klättrar har vi alltid en skriftlig frånkoppling från nätägaren."
+  ],
+  "vagval_rubrik": "Vilken ledning hänger trädet över?",
+  "tjanster": [
+    {"titel": "Servisledning på tomten", "ikon": "blixt", "href": "verksamhet.html", "text": "Träd som växer in i ledningen mellan stolpe och husvägg tas ned efter frånkoppling."},
+    {"titel": "Röjning av ledningsgator", "ikon": "skog", "href": "verksamhet.html", "text": "Röjning och breddning av kraftledningsgator enligt nätbolagets avtal."},
+    {"titel": "Kantträdsfällning", "ikon": "trad", "href": "verksamhet.html", "text": "Riskträd utanför gatan som kan nå linorna fälls riktat bort från ledningen."},
+    {"titel": "Isolerad lift", "ikon": "hiss", "href": "verksamhet.html", "text": "Lift med isolerad korg för beskärning nära lågspänning i tätort."},
+    {"titel": "Fiber och tele", "ikon": "glob", "href": "verksamhet.html", "text": "Röjning före ny luftburen fiber och längs gamla telestolpar."},
+    {"titel": "Stormberedskap", "ikon": "vind", "href": "verksamhet.html", "text": "Vi rycker ut åt nätbolagen när ledningar ligger nere efter storm."},
+    {"titel": "Pris för villaägare", "ikon": "dokument", "href": "priser.html", "text": "Fasta priser för servisärenden, kontakten med nätbolaget inräknad."},
+    {"titel": "Anmäl ett träd", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ring eller skicka en bild på trädet och stolpens nummer."}
+  ],
+  "affarsomraden": [
+    {"titel": "Elnät och ramavtal", "text": "Vi har ramavtal med tre regionala nätbolag och röjer omkring 240 kilometer ledningsgata per år. Varje sträcka dokumenteras med GPS-spår och foto så att nätbolaget kan planera nästa röjningscykel.", "text2": "En röjningscykel är normalt sex till åtta år beroende på skogstyp.", "tagg": "el"},
+    {"titel": "Villor med servis i luften", "text": "På landsbygden hänger servisledningen ofta i luften från stolpen till husväggen, och en björk som planterades för fyrtio år sedan når den i dag. Vi bokar frånkoppling hos ditt nätbolag, tar ned eller beskär trädet och ser till att strömmen är tillbaka samma dag.", "text2": "Du behöver inte själv ringa nätbolaget – vi har kontaktvägarna.", "tagg": "arborist"},
+    {"titel": "Vägföreningar och byar", "text": "Enskilda vägar har ofta luftledning längs dikeskanten och granar som lutar in över både väg och linor. Vi går igenom hela vägen och lämnar ett pris per kilometer.", "text2": "Virket läggs i travar vid vägkanten så att markägarna kan hämta det.", "tagg": "trad"},
+    {"titel": "När stormen har dragit förbi", "text": "Efter en storm över Småland kallar nätbolagen in oss för att röja fram till nedrivna ledningar. Montörerna kan inte börja förrän träden är borta.", "text2": "I december 2025 arbetade vi tre dygn i sträck med fyra lag i Uppvidinge och Tingsryd.", "tagg": "natur"}
+  ],
+  "bolag": [
+    {"namn": "Patrik Johansson", "segment": "Vd och grundare", "rubrik": "Tio år som linjemontör", "text": "Patrik kan både elnätet och träden och förhandlar ramavtalen med nätbolagen.", "tagg": "el"},
+    {"namn": "Sofie Karlsson", "segment": "Arbetsledare, ETW", "rubrik": "Leder tre röjningslag", "text": "Sofie planerar veckans sträckor och kontrollerar att varje lag har en giltig frånkopplingsorder innan arbetet börjar.", "tagg": "arborist"},
+    {"namn": "Ahmad Noori", "segment": "Liftförare", "rubrik": "Isolerad korg, 21 meter", "text": "Ahmad kör vår isolerade lift och beskär runt nätstationer och stolpar inne i Växjö.", "tagg": "trad"},
+    {"namn": "Gunnar Lövgren", "segment": "Villaärenden och offerter", "rubrik": "Har koll på varje servis", "text": "Gunnar tar emot villaärenden, mäter avståndet till ledningen och bokar tid med nätbolaget.", "tagg": "tradgard"}
+  ],
+  "berattelser": [
+    {"rubrik": "Ledningsgatan vid Åsnen", "text": "34 kilometer röjd före jul, med hänsyn till två kända örnbon längs sträckan.", "tagg": "el"},
+    {"rubrik": "Björken över servisen i Lammhult", "text": "Frånkopplat 08.10, fällt 09.40 och strömmen tillbaka före lunch.", "tagg": "arborist"},
+    {"rubrik": "Fjärde laget på plats", "text": "Vi har anställt tre arborister och kan nu ha fyra lag ute samtidigt.", "tagg": "trad"}
+  ],
+  "nyckeltal": [
+    {"varde": "240 km", "enhet": "", "etikett": "Ledningsgata röjd per år"},
+    {"varde": "19", "enhet": "anställda", "etikett": "Fyra röjningslag"},
+    {"varde": "0", "enhet": "", "etikett": "Jobb utan frånkopplingsorder"},
+    {"varde": "2010", "enhet": "", "etikett": "Från linjemontör till arborist"}
+  ],
+  "projekt": [
+    {"namn": "Ledningsgata vid Åsnen", "ort": "Urshult", "typ": "Röjning 34 km", "ar": "2026", "text": "Gatan breddad till 20 meter och 160 kantträd fällda.", "tagg": "el"},
+    {"namn": "Servis i Lammhult", "ort": "Lammhult", "typ": "Fällning nära servis", "ar": "2026", "text": "En björk mellan stolpe och husvägg, fälld under två timmars frånkoppling.", "tagg": "arborist"},
+    {"namn": "Vägföreningen Bråna", "ort": "Lessebo", "typ": "Kantträd längs väg", "ar": "2025", "text": "Åtta kilometer väg med luftledning genomgången och 47 granar fällda.", "tagg": "trad"},
+    {"namn": "Fiberutbyggnad i Ryd", "ort": "Ryd", "typ": "Röjning för fiber", "ar": "2025", "text": "Fyra kilometer röjt för luftburen fiber längs gamla telestolpar.", "tagg": "natur"},
+    {"namn": "Decemberstormen", "ort": "Tingsryd", "typ": "Stormröjning", "ar": "2025", "text": "Tre dygn med fyra lag för att röja fram till 26 ledningsbrott.", "tagg": "el"},
+    {"namn": "Gångväg på Teleborg", "ort": "Växjö", "typ": "Liftbeskärning", "ar": "2026", "text": "Lindar beskärs med isolerad lift längs en lågspänningsledning.", "tagg": "tradgard", "status": "Pågår"}
+  ],
+  "process": [
+    {"titel": "Bild och stolpnummer", "text": "Skicka en bild på trädet och numret på närmaste stolpe. Då vet vi vilket nätbolag som äger ledningen.", "tagg": "el"},
+    {"titel": "Besök och mätning", "text": "Vi mäter avståndet mellan krona och linor och bedömer om trädet kan beskäras eller måste fällas.", "tagg": "arborist"},
+    {"titel": "Frånkoppling bokas", "text": "Vi beställer frånkoppling hos nätbolaget och meddelar dig tiden. Oftast är strömmen borta i två till fyra timmar.", "tagg": "el"},
+    {"titel": "Fällt och inkopplat", "text": "Trädet tas ned med riktad fällning eller lift, ledningen kontrolleras och nätbolaget kopplar in igen.", "tagg": "trad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ingen arbetar vid en linje som kan vara spänningssatt",
+    "text": "Varje arbete nära ledning börjar med en skriftlig frånkopplingsorder och en jordning som lagledaren själv har kontrollerat. I ledningsgatorna sparar vi lågväxande buskar som rönn och en, eftersom de håller tillbaka granplantor och gynnar pollinerare.",
+    "mal": [["100 %", "av ledningsarbetena med skriftlig order"], ["0", "elolyckor sedan 2010"], ["30 %", "av gatorna med kvarlämnade buskar"]]
+  },
+  "karriar": {
+    "rubrik": "Från skogsarbetare till ledningsarborist",
+    "text": "Vi söker arborister och skogsarbetare som vill lära sig arbete nära elnät. Vi betalar ESA, motorsågskörkort och liftutbildning, och du får jourersättning under stormsäsongen.",
+    "jobb": [["Arborist, ledningsröjning", "Växjö"], ["Liftförare", "Växjö"], ["Röjare, ledningsgator", "Ljungby"]]
+  },
+  "kultur": "Ingen lyfter en motorsåg förrän lagledaren har läst upp frånkopplingsordern högt för hela laget.",
+  "citat": {"text": "En gran i ledningen kan släcka en hel by i timmar. Vi fäller den hellre en lugn tisdag i oktober än i snöstorm på julafton.", "namn": "Patrik Johansson", "roll": "Vd och grundare", "tagg": "el"},
+  "omdomen": [
+    {"text": "Björken stod rakt i servisen. Kraftgata ordnade allt med nätbolaget, och vi hade ström igen innan barnen kom hem från skolan.", "namn": "Jenny S.", "ort": "Lammhult"},
+    {"text": "Vägföreningen fick ett pris per kilometer och en karta med alla träd. Styrelsen kunde besluta på ett enda möte.", "namn": "Bo E., ordförande", "ort": "Lessebo"},
+    {"text": "När stormen drog in var deras lag på plats före montörerna, och linjen var framröjd på några timmar.", "namn": "Kerstin A., driftledare", "ort": "Tingsryd"}
+  ],
+  "faq": [
+    ["Får jag fälla ett träd nära ledningen själv?", "Nej, det avråder vi alltid från. Anlita en firma med ESA-utbildning som kan beställa frånkoppling – ett träd som slår i en ledning kan bli strömförande."],
+    ["Vem betalar för att trädet tas bort?", "Står trädet på din tomt och hotar servisen är det oftast fastighetsägaren som betalar. Hotar det nätbolagets linje kan nätbolaget stå för kostnaden. Vi hjälper dig reda ut vilket som gäller."],
+    ["Hur länge blir jag utan ström?", "Vanligtvis två till fyra timmar. Du får datum och tid från oss minst fem dagar innan."],
+    ["Ger servisjobbet RUT?", "Ja, arbetskostnaden på din villa- eller fritidshustomt ger RUT. Liften räknas som maskinkostnad och ingår inte i avdraget."],
+    ["Vad är ESA?", "Elsäkerhetsanvisningar, branschens regler för arbete nära elanläggningar. Alla i våra lag har gått ESA för röjning, och lagledarna dessutom ESA Fortsättning."],
+    ["Arbetar ni åt fiberföreningar?", "Ja. Före en luftburen fiberutbyggnad röjer vi längs stolpraden så att kabeln kan hängas utan att grenar skaver mot den."],
+    ["Rycker ni ut åt privatpersoner vid storm?", "Vid storm går nätbolagens ledningsbrott först. Ligger ett träd över din servis ringer du ditt nätbolag, som skickar oss eller en annan entreprenör."]
+  ],
+  "priser": [
+    {"namn": "Servisträd", "pris": "8 400 kr", "enhet": "träd upp till 15 m, före RUT", "text": "Fällning av ett träd nära servisledningen.", "punkter": ["Frånkopplingen bokas av oss", "Riktad fällning eller lift", "Flisning och bortforsling", "Kontroll av servisen efteråt"], "utvald": true},
+    {"namn": "Beskärning vid ledning", "pris": "fr. 4 900 kr", "enhet": "per träd före RUT", "text": "När trädet kan stå kvar men grenarna måste bort.", "punkter": ["Isolerad lift vid behov", "Minst två meters frigång", "Formbeskärning av kronan", "Riset flisat på plats"]},
+    {"namn": "Vägförening per kilometer", "pris": "fr. 14 500 kr", "enhet": "per km exkl. moms", "text": "Genomgång och fällning längs enskild väg med luftledning.", "punkter": ["Karta över alla åtgärdade träd", "Samordning med nätbolaget", "Virket travat vid vägkant", "Rapport till styrelsen"]}
+  ],
+  "prislista": [
+    ["Arborist med ESA, per timme", "780 kr/tim"],
+    ["Isolerad lift 21 m med förare", "1 900 kr/tim"],
+    ["Terrängtruck med kranarm", "1 600 kr/tim"],
+    ["Röjningslag om tre, per dag", "fr. 19 500 kr"],
+    ["Stubbfräsning vid stolpe", "1 200 kr"],
+    ["Bokning av frånkoppling", "ingår"],
+    ["Stormjour åt nätbolag", "enligt avtal"]
+  ],
+  "certifikat": [
+    {"titel": "ESA för röjning", "text": "Hela personalen har ESA-utbildning och förnyar den vart tredje år.", "ikon": "blixt"},
+    {"titel": "ETW-ledda röjningslag", "text": "Varje lag leds av en certifierad European Tree Worker.", "ikon": "skold"},
+    {"titel": "Liftkort och kranarm", "text": "Utbildning för mobila arbetsplattformar och fordonsmonterad kran enligt AFS.", "ikon": "hiss"},
+    {"titel": "Ansvarsförsäkring 25 Mkr", "text": "Dimensionerad för arbete intill nätbolagens anläggningar.", "ikon": "las"}
+  ],
+  "galleri_taggar": ["el", "trad", "arborist", "natur"],
+  "nyheter": [
+    ["2026-10-20", "Växer björken in i servisen?", "Så ser du om grenarna har kommit för nära – och vem du ska ringa.", "el"],
+    ["2026-06-09", "Ledningsgator som blommar", "Därför låter vi rönn, en och sälg stå kvar under linorna.", "natur"],
+    ["2025-12-29", "Tre dygn efter stormen", "Fyra lag, 26 ledningsbrott och en julhelg i Tingsryds skogar.", "trad"]
+  ],
+  "kontakt": {"adress": "Verkstadsgatan 11", "postnr": "352 46", "ort": "Växjö", "telefon": "070-174 06 14", "epost": "order@kraftgata.se", "orgnr": ""},
+  "oppettider": "Mån–fre 6.30–16 · Stormjour enligt avtal med nätbolagen",
+  "omrade": "Kronoberg, östra Småland och södra Jönköpings län",
+  "fot_cta": "Hänger ett träd över din servisledning? Skicka en bild och stolpnumret, så tar vi det därifrån.",
+  "bild": {"panel": "el", "hb": "arborist"},
+  "text": {
+    "kontakt_knapp": "Anmäl ett träd",
+    "ber_rubrik": "Senast längs linjerna",
+    "proj_rubrik": "Ledningar vi har frigjort",
+    "process_rubrik": "Frånkopplat, fällt, inkopplat",
+    "hb_etikett": "Elsäkerhet",
+    "omdomen_rubrik": "Nätbolag, föreningar och villaägare",
+    "faq_rubrik": "Frågor om träd och elledningar",
+    "priser_rubrik": "Fasta priser för servis och väg",
+    "priser_not": "Priser för privatpersoner inkl. moms före RUT. Vägföreningar faktureras exkl. moms.",
+    "galleri_rubrik": "Linor, liftar och ledningsgator",
+    "boka_rubrik": "Anmäl ett träd nära ledning",
+    "boka_text": "Skriv adressen, stolpens nummer om du ser det och hur nära grenarna går. En bild hjälper mycket.",
+    "bolag_rubrik": "Ledningsarboristerna",
+    "certifikat_rubrik": "Utbildade för arbete vid elnät",
+    "sida_bolag_ingress": "Nitton anställda i fyra röjningslag, med depå i Växjö."
+  }
+}

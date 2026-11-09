@@ -1,0 +1,125 @@
+{
+  "profil": "nisch",
+  "nisch": "solel",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Krok & Malm Energi AB",
+  "kortnamn": "Krok & Malm",
+  "slug": "krokmalm",
+  "typ": "Solel för butiker och handelsfastigheter",
+  "tagline": "Kyldiskar på solel",
+  "slogan": "Vi bygger solceller och styrning för matbutiker, bensinstationer och handelsplatser i Kalmar län – där kylan går som hårdast när solen står högst.",
+  "hero_rubrik": "Frysdisken drar mest när solen lyser",
+  "hero_text": "En matbutik förbrukar el till kyla och frys dygnet runt och mest mitt på sommardagen. Vi bygger anläggningar som täcker just de timmarna.",
+  "intro_rubrik": "En kyltekniker och en elektriker i handeln",
+  "om": [
+    "Gunilla Krok servade kylanläggningar i matbutiker längs Kalmarsund i femton år. Hon visste att butikerna hade stora platta tak, hög förbrukning dagtid och handlare som räknade på varje krona. 2015 startade hon Krok & Malm tillsammans med elektrikern Tobias Malm, som hade byggt solceller på lantbruk i Mönsterås.",
+    "Vi är tretton anställda med kontor och lager i Kalmar. Vi har byggt solceller på 118 butiker, bensinstationer och handelsfastigheter mellan Västervik och Torsås och på Öland, och vi kopplar ihop solcellerna med butikens kyla och värmeåtervinning."
+  ],
+  "vagval_rubrik": "Vilken sorts butik har du?",
+  "tjanster": [
+    {"titel": "Matbutiker", "ikon": "hus", "href": "verksamhet.html", "text": "Solceller dimensionerade efter kyla, frys och belysning."},
+    {"titel": "Bensin och biltvätt", "ikon": "bil", "href": "verksamhet.html", "text": "Tak över pumpöarna och tvätthallen som producerar hela dagen."},
+    {"titel": "Handelsplatser", "ikon": "kontor", "href": "verksamhet.html", "text": "Gemensamma anläggningar för flera butiker under samma tak."},
+    {"titel": "Styrning av kylan", "ikon": "kugge", "href": "verksamhet.html", "text": "Kylan förkyler när solen lyser och vilar i effekttopparna."},
+    {"titel": "Laddning på parkeringen", "ikon": "laddning", "href": "verksamhet.html", "text": "Laddstolpar för kunder som handlar i 20–40 minuter."},
+    {"titel": "Sommarbutiker på Öland", "ikon": "sol", "href": "verksamhet.html", "text": "Butiker med tre gånger högre omsättning i juli än i februari."},
+    {"titel": "Energirapport för kedjan", "ikon": "graf", "href": "verksamhet.html", "text": "Data som passar kedjans hållbarhetsrapportering."},
+    {"titel": "Ring Gunilla", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Hon har reparerat fler kyldiskar än de flesta handlare har sett."}
+  ],
+  "affarsomraden": [
+    {"titel": "Matbutiker och livsmedel", "text": "Kyla och frys står för hälften av en matbutiks elförbrukning, och den toppar på varma sommareftermiddagar. En anläggning på 80–150 kW på butikstaket kan täcka nästan all den extra kylan.", "text2": "Egenanvändningen blir ofta över 90 procent – nästan ingenting säljs till nätet.", "tagg": "solel"},
+    {"titel": "Drivmedel och biltvätt", "text": "Taket över pumpöarna står i full sol och tvätthallen förbrukar mycket el dagtid. Vi bygger solceller i taken och kopplar in laddstolpar för elbilar.", "text2": "Solcellstaken byggs i samarbete med stationens kedja och uppfyller deras designkrav.", "tagg": "el"},
+    {"titel": "Styrning av kyla och värme", "text": "Med en enkel styrning kan frysrummet kylas ner två extra grader när solen lyser och sedan vila när elen är dyr. Värmen från kylmaskinerna värmer butiken på vintern.", "text2": "Vi samarbetar med butikernas kylentreprenörer och rör inga livsmedelsgränser.", "tagg": "industri"},
+    {"titel": "Handelsplatser och köpcentrum", "text": "När flera butiker delar fastighet bygger vi en gemensam anläggning och fördelar elen med undermätare. Fastighetsägaren kan sälja solelen till hyresgästerna.", "text2": "Vi har byggt på tre handelsplatser i Kalmar och Nybro.", "tagg": "stad"}
+  ],
+  "bolag": [
+    {"namn": "Kyla & styrning", "segment": "Kyltekniker", "rubrik": "Gunillas avdelning", "text": "Två kyltekniker som kopplar ihop solcellerna med butikens kylanläggning och värmeåtervinning.", "tagg": "industri"},
+    {"namn": "Montage & el", "segment": "Elektriker", "rubrik": "Tobias lag på butikstaken", "text": "Sju elektriker och montörer som bygger på butikstak och pumptak, oftast nattetid nära entréerna.", "tagg": "solel"},
+    {"namn": "Kalkyl & kedjekontakt", "segment": "Försäljning och rapporter", "rubrik": "Siffror som handlaren förstår", "text": "Två projektledare som räknar på butikens timvärden och tar fram rapporter till kedjornas hållbarhetsavdelningar.", "tagg": "kontor"}
+  ],
+  "berattelser": [
+    {"rubrik": "Butiken i Lindsdal täcker 38 procent av kylan", "text": "En anläggning på 140 kW och ny styrning sänkte elräkningen med 214 000 kronor första året.", "tagg": "solel"},
+    {"rubrik": "Sommarbutiken i Byxelkrok", "text": "I juli förbrukar butiken tre gånger så mycket el som i februari – solcellerna följer kurvan.", "tagg": "natur"},
+    {"rubrik": "Bensinstation med solcellstak i Nybro", "text": "Taket över sex pumpar ger el till tvätthallen och fyra laddstolpar.", "tagg": "el"}
+  ],
+  "nyckeltal": [
+    {"varde": "118", "enhet": "butiker", "etikett": "Och stationer med våra solceller"},
+    {"varde": "93 %", "enhet": "", "etikett": "Egenanvändning i snitt"},
+    {"varde": "13", "enhet": "anställda", "etikett": "Kyltekniker och elektriker"},
+    {"varde": "2015", "enhet": "", "etikett": "Första butikstaket i Kalmar"}
+  ],
+  "projekt": [
+    {"namn": "Lindsdals Livs", "ort": "Kalmar", "typ": "Matbutik, 140 kW", "ar": "2025", "text": "Solceller och styrning av frysrum och kyldiskar.", "tagg": "solel"},
+    {"namn": "Byxelkroks Handelsbod", "ort": "Byxelkrok", "typ": "Sommarbutik, 60 kW", "ar": "2025", "text": "Anläggning dimensionerad efter sommarens turister.", "tagg": "natur"},
+    {"namn": "Nybro Tvätt & Tank", "ort": "Nybro", "typ": "Pumptak, 45 kW", "ar": "2025", "text": "Solceller i taket över pumparna och laddning för fyra bilar.", "tagg": "el"},
+    {"namn": "Färjestadens Matmarknad", "ort": "Färjestaden", "typ": "Matbutik, 110 kW", "ar": "2024", "text": "Byggd nattetid under tre veckor utan att butiken stängde.", "tagg": "stad"},
+    {"namn": "Emmaboda Handelsgård", "ort": "Emmaboda", "typ": "Handelsplats, 260 kW", "ar": "2024", "text": "Gemensam anläggning för fem butiker med undermätning.", "tagg": "industri"},
+    {"namn": "Mönsterås Torghall", "ort": "Mönsterås", "typ": "Matbutik + batteri", "ar": "2026", "text": "Batteri på 120 kWh ska ta effekttopparna när kylan startar om på morgonen.", "tagg": "solel", "status": "Pågående"}
+  ],
+  "process": [
+    {"titel": "Timvärden och kylschema", "text": "Vi läser ut butikens förbrukning timme för timme och går igenom kylanläggningen.", "tagg": "kontor"},
+    {"titel": "Kalkyl per butik", "text": "Handlaren får en kalkyl som visar besparing per månad och återbetalningstid.", "tagg": "solel"},
+    {"titel": "Montage utan stängning", "text": "Vi bygger tidigt på morgonen eller nattetid och spärrar aldrig av entrén.", "tagg": "bygg"},
+    {"titel": "Styrning och uppföljning", "text": "Kylan kopplas till solproduktionen och handlaren får en månadsrapport.", "tagg": "industri"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mindre spill i både kyla och el",
+    "text": "När kylan styrs efter solproduktionen minskar både elköpet och slitaget på kompressorerna. Vi följer upp varje butik i två år och redovisar produktion, egenanvändning och besparing.",
+    "mal": [["93 %", "av solelen används i butiken"], ["2 år", "uppföljning och justering av styrningen"], ["0", "timmar stängd butik under montage"]]
+  },
+  "karriar": {"rubrik": "Elektriker som gillar tidiga morgnar", "text": "Vi bygger ofta före öppning eller efter stängning. I gengäld är eftermiddagarna lediga och vi kör aldrig längre än till Västervik.", "jobb": [["Elektriker", "Kalmar"], ["Kyltekniker", "Kalmar"]]},
+  "kultur": "Varje ny butik vi byggt på bjuder vi på fika – handlarna brukar svara med bullar från bageridisken.",
+  "citat": {"text": "Jag har legat under kyldiskar i femton år. Varje handlare jag träffat har klagat på elräkningen i juli. Det var den dagen solen faktiskt kunde betala den.", "namn": "Gunilla Krok", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Gunilla förstod kylan bättre än vår egen kylfirma. Kalkylen höll på kronan efter första året.", "namn": "Magnus S.", "ort": "Kalmar"},
+    {"text": "De byggde på nätterna i tre veckor. Kunderna märkte ingenting förutom en ny skylt om solel vid kassan.", "namn": "Eva-Karin J.", "ort": "Färjestaden"},
+    {"text": "Vi har sommarbutik på norra Öland och trodde inte att det skulle löna sig. I juli täcker taket nästan hela kylan.", "namn": "Lars-Olof N.", "ort": "Byxelkrok"}
+  ],
+  "faq": [
+    ["Hur stor anläggning behöver en matbutik?", "En butik på 1 500 kvadratmeter har ofta nytta av 80–150 kW. Vi dimensionerar efter era timvärden så att nästan ingenting behöver säljas till nätet."],
+    ["Påverkar styrningen livsmedelssäkerheten?", "Nej. Styrningen arbetar bara inom de temperaturgränser som kylentreprenören har satt, och larmen fungerar som vanligt."],
+    ["Måste butiken stänga under montaget?", "Aldrig hittills. Vi bygger före öppning eller efter stängning och leder kablar så att inget syns i butiken."],
+    ["Vem äger anläggningen om vi hyr lokalen?", "Det avtalas mellan er och fastighetsägaren. Vi har byggt både åt handlare som hyr och åt fastighetsägare som säljer elen vidare."],
+    ["Godkänner kedjan solceller på taket?", "De flesta kedjor uppmuntrar det. Vi tar fram det underlag som kedjans fastighets- och hållbarhetsavdelning brukar efterfråga."],
+    ["Hur lång är återbetalningstiden?", "För matbutiker med hög egenanvändning brukar den ligga på sex till nio år, beroende på elpris och takets skick."],
+    ["Bygger ni utanför Kalmar län?", "Vi bygger i Kalmar län och på Öland, och för handelsfastigheter även i Kronoberg och Blekinge."]
+  ],
+  "certifikat": [
+    {"titel": "Elsäkerhetsverket, AB-behörighet", "text": "Registrerat elinstallationsföretag med egenkontrollprogram för kommersiella fastigheter.", "ikon": "blixt"},
+    {"titel": "Kylcertifikat för köldmedier", "text": "Våra kyltekniker har certifikat för arbete med köldmedier enligt F-gasförordningen.", "ikon": "kugge"},
+    {"titel": "Heta arbeten", "text": "Alla montörer har certifikat för heta arbeten – ett krav vid montage på papptak.", "ikon": "eld"},
+    {"titel": "Certifierade solcellsinstallatörer", "text": "Tre av våra elektriker är personcertifierade för projektering och installation av solceller.", "ikon": "sol"}
+  ],
+  "kunder": ["Lindsdals Livs AB", "Byxelkroks Handelsbod", "Nybro Tvätt & Tank", "Färjestadens Matmarknad", "Emmaboda Handelsgård AB", "Mönsterås Torghall", "Borgholms Köpmannaförening", "Kalmarsunds Handelsfastigheter"],
+  "nyheter": [
+    ["2026-10-09", "Lindsdal sparade 214 000 kronor", "Första årets siffror från vår största matbutik.", "solel"],
+    ["2026-06-26", "Midsommarveckan slog rekord", "Våra butiker på Öland hade högsta egenanvändningen någonsin.", "natur"],
+    ["2026-02-18", "Batterier för morgontoppen", "När kylan startar om efter natten blir effekten som högst – så tar ett batteri den.", "industri"]
+  ],
+  "kontakt": {"adress": "Påryds väg 8", "postnr": "393 56", "ort": "Kalmar", "telefon": "070-174 06 88", "epost": "butik@krokmalm.se", "orgnr": ""},
+  "oppettider": "Mån–fre 06.30–15.30",
+  "omrade": "Kalmar län och Öland, för handelsfastigheter även Kronoberg och Blekinge",
+  "fot_cta": "Driver du butik? Skicka ett års timvärden så räknar vi på kylan och taket.",
+  "bild": {"panel": "stad", "hb": "industri"},
+  "text": {
+    "kontakt_knapp": "Butikskalkyl",
+    "hero_knapp": "Butiker vi byggt på",
+    "hero_lank": "Om kylstyrning",
+    "vagval_etikett": "Butikstyp",
+    "ber_rubrik": "Från butikstaken",
+    "proj_rubrik": "Butiker och stationer i Kalmar län",
+    "process_rubrik": "Från kylschema till månadsrapport",
+    "hb_etikett": "Kyla & el",
+    "hb_lank": "Så följer vi upp",
+    "omdomen_rubrik": "Handlarna om resultatet",
+    "faq_rubrik": "Frågor från handlare och fastighetsägare",
+    "boka_rubrik": "Beställ en butikskalkyl",
+    "boka_text": "Skriv butikens namn och ort, så hör Gunilla eller Tobias av sig och hjälper dig att ta ut timvärdena.",
+    "boka_falt": ["Namn", "Butik och ort", "Telefon", "Ungefärlig årsförbrukning"],
+    "logos_rubrik": "Handlare och handelsplatser",
+    "certifikat_rubrik": "Behöriga för el, kyla och papptak",
+    "bolag_rubrik": "Kyla, montage och kalkyl",
+    "ny_rubrik": "Från handeln",
+    "medarbetare": "Krok & Malm-laget"
+  }
+}

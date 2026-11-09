@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "brand",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Batterivakten Norr AB",
+  "kortnamn": "Batterivakten",
+  "slug": "batterivakten",
+  "typ": "Brandskydd för batterier och solceller",
+  "tagline": "Litium, solceller, laddplatser",
+  "slogan": "Vi skyddar energilager, laddgarage och solcellstak mot bränder som inte beter sig som andra bränder – från Skellefteå, där batterierna byggs.",
+  "hero_rubrik": "En batteribrand släcks inte som en vanlig",
+  "hero_text": "Gasdetektering som larmar innan cellen tar eld, släcksystem för batterilager och brandskydd för solceller och laddplatser. 15 specialister med el och brand i samma team.",
+  "intro_rubrik": "Elingenjörer och brandingenjörer vid samma bord",
+  "om": [
+    "Hampus Lindgren byggde laddinfrastruktur och Noor Saleh skrev riskanalyser för räddningstjänsten när de 2019 insåg att ingen i Skellefteå riktigt kunde svara på hur man skyddar ett rum fullt av litiumjonbatterier. De startade Batterivakten samma höst, i en lokal på Mossgatan, med ett uppdrag åt ett åkeri som skulle bygga laddgarage för ellastbilar.",
+    "En battericell som börjar skena avger brännbar gas långt innan den tar eld, och när den väl brinner är den svår att släcka och kan tända igen dagar senare. Därför bygger vi brandskyddet i lager: tidig gasdetektering, avskiljning mellan moduler, kylning med stora vattenmängder och en plan för vad som ska hända med batteriet efteråt. I dag är vi 15 anställda."
+  ],
+  "vagval_rubrik": "Vilken energi ska skyddas?",
+  "tjanster": [
+    {"titel": "Batterilager och BESS", "ikon": "laddning", "href": "verksamhet.html", "text": "Detektering, avskiljning och släcksystem för energilager i container och byggnad."},
+    {"titel": "Avgasningsdetektering", "ikon": "sok", "href": "verksamhet.html", "text": "Givare som känner gas från en cell som börjar skena – minuter innan rök syns."},
+    {"titel": "Laddgarage", "ikon": "bil", "href": "verksamhet.html", "text": "Brandskydd för laddplatser i garage, från personbilar till ellastbilar och bussar."},
+    {"titel": "Solceller på tak", "ikon": "sol", "href": "verksamhet.html", "text": "Säkerhetsbrytare, märkning och avstånd så att räddningstjänsten kan arbeta säkert."},
+    {"titel": "Riskanalys", "ikon": "graf", "href": "verksamhet.html", "text": "Brandteknisk riskanalys för batterihantering, laddning och lagring."},
+    {"titel": "Karantän för batterier", "ikon": "lada", "href": "verksamhet.html", "text": "Containrar och rutiner för skadade batterier som kan tända igen."},
+    {"titel": "Utbildning", "ikon": "skola", "href": "verksamhet.html", "text": "Kurser om litiumjonbränder för personal, fastighetsskötare och räddningstjänst."},
+    {"titel": "Begär riskanalys", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Berätta vad ni lagrar eller laddar, så återkommer vi inom två dagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Energilager", "text": "Ett energilager i container kan rymma flera megawattimmar. Vi projekterar gasdetektering i varje modul, tryckavlastning och ett vattenbaserat släcksystem som kyler intilliggande moduler så att branden inte sprider sig.", "text2": "Lösningen tas fram tillsammans med batteritillverkaren och den lokala räddningstjänsten.", "tagg": "solel"},
+    {"titel": "Laddning av fordon", "text": "Ett laddgarage för tio ellastbilar har helt andra risker än ett vanligt garage. Vi placerar värmekameror över laddplatserna, planerar avskiljning och ser till att räddningstjänsten kan stänga av all laddning från en punkt.", "text2": "För bostadsgarage tar vi fram enklare lösningar med ordningsregler och brandsektionering.", "tagg": "el"},
+    {"titel": "Solcellsanläggningar", "text": "När solen lyser går det inte att stänga av spänningen i panelerna. Vi installerar säkerhetsbrytare, märker taket och ritar en insatsplan så att räddningstjänsten vet var det är strömförande.", "text2": "Vi granskar också befintliga anläggningar på lagertak och lantbruk.", "tagg": "solel"},
+    {"titel": "Batterier i verksamheter", "text": "Elcykelbutiker, verkstäder, återvinningscentraler och lager hanterar batterier varje dag. Vi gör en riskanalys, föreslår förvaring och laddplatser och tar fram rutiner för skadade batterier.", "text2": "Karantäncontainrar kan hyras eller köpas med installation och utbildning.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Riskanalys", "segment": "Brandingenjörer", "rubrik": "Fyra ingenjörer som räknar på celler", "text": "Analysgruppen skriver riskanalyser och brandskyddsbeskrivningar för batterilager, laddgarage och fabriker.", "tagg": "kontor"},
+    {"namn": "Installation", "segment": "El och brand", "rubrik": "Åtta tekniker med båda behörigheterna", "text": "Teknikerna är elektriker som också är utbildade i brandlarm och släcksystem, så att samma lag gör hela installationen.", "tagg": "el"},
+    {"namn": "Utbildning", "segment": "Kurser och övningar", "rubrik": "Vi har tänt fler celler än de flesta", "text": "Tre instruktörer håller kurser med riktiga battericeller på vår övningsplats utanför Kåge.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "Energilager vid Skellefteälven", "text": "Ett lager på 20 megawattimmar i åtta containrar får gasdetektering och vattenbaserad släckning.", "tagg": "solel"},
+    {"rubrik": "Bussdepån laddar säkert", "text": "Värmekameror över 32 laddplatser i en ny depå för elbussar.", "tagg": "el"},
+    {"rubrik": "Räddningstjänsten gick kursen", "text": "60 brandmän i länet övade på brinnande battericeller på vår övningsplats i Kåge.", "tagg": "brand"}
+  ],
+  "nyckeltal": [
+    {"varde": "2019", "enhet": "", "etikett": "Grundat i Skellefteå"},
+    {"varde": "15", "enhet": "specialister", "etikett": "El och brand i samma team"},
+    {"varde": "310", "enhet": "MWh", "etikett": "Energilager vi har skyddat"},
+    {"varde": "1 200", "enhet": "deltagare", "etikett": "På kurser om litiumbrand"}
+  ],
+  "projekt": [
+    {"namn": "Energilager Älvsbacka", "ort": "Skellefteå", "typ": "Batterilager", "ar": "2026", "text": "Åtta containrar med gasdetektering per modul och vattenbaserad släckning.", "tagg": "solel", "status": "Pågående"},
+    {"namn": "Elbussdepån Solbacken", "ort": "Skellefteå", "typ": "Laddgarage", "ar": "2025", "text": "Värmekameror, avskiljning och nödstopp för 32 laddplatser.", "tagg": "el"},
+    {"namn": "Åkeriet i Byske", "ort": "Byske", "typ": "Laddning av lastbilar", "ar": "2025", "text": "Laddhall för tolv ellastbilar med brandsektionering och insatsplan.", "tagg": "industri"},
+    {"namn": "Lagertaket i Boliden", "ort": "Boliden", "typ": "Solcellsanläggning", "ar": "2025", "text": "Säkerhetsbrytare och insatsplan för 4 800 paneler på ett lagertak.", "tagg": "solel"},
+    {"namn": "Återvinningscentralen Degerbyn", "ort": "Skellefteå", "typ": "Karantän för batterier", "ar": "2024", "text": "Två karantäncontainrar och rutiner för skadade batterier från hushållen.", "tagg": "brand"},
+    {"namn": "Brf Norrböle Park", "ort": "Skellefteå", "typ": "Bostadsgarage", "ar": "2024", "text": "Laddregler, brandsektionering och märkning för 64 laddplatser i ett garage.", "tagg": "bostad"}
+  ],
+  "process": [
+    {"titel": "Vad ni har och var", "text": "Vi går igenom batterityp, mängd, laddning och placering på ett första möte på plats.", "tagg": "industri"},
+    {"titel": "Riskanalys", "text": "En brandingenjör beräknar scenarier och föreslår åtgärder i en rapport på tio till tjugo sidor.", "tagg": "kontor"},
+    {"titel": "Installation", "text": "Samma lag drar elen, monterar givare och provar släcksystemet.", "tagg": "el"},
+    {"titel": "Insatsplan och övning", "text": "Räddningstjänsten får en insatsplan och personalen övar på vad som ska hända vid larm.", "tagg": "brand"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Elektrifieringen ska inte börja brinna",
+    "text": "Batterier och solceller är en del av omställningen, och vår uppgift är att de ska gå att använda tryggt. Vi delar våra erfarenheter med räddningstjänsten och med andra installatörer, och vi publicerar en årlig sammanställning av de tillbud vi har utrett.",
+    "mal": [["100 %", "av energilagren med insatsplan till räddningstjänsten"], ["1", "öppen tillbudsrapport per år"], ["48 h", "till svar på en förfrågan om riskanalys"]]
+  },
+  "karriar": {
+    "rubrik": "Elektriker med intresse för brand? Börja här",
+    "text": "Vi lär dig gasdetektering, släcksystem och batteriteknik och betalar utbildningen till certifierad brandlarmstekniker. Du arbetar med anläggningar som inte fanns för fem år sedan.",
+    "jobb": [["Elektriker brand och batteri", "Skellefteå"], ["Brandingenjör riskanalys", "Skellefteå"]]
+  },
+  "kultur": "En gång i månaden tänder vi en battericell på övningsplatsen i Kåge – alla anställda ska ha sett hur det går till.",
+  "citat": {"text": "En battericell som har börjat skena går inte att prata med. Det enda som fungerar är att upptäcka den tidigt och hålla grannarna kalla.", "namn": "Noor Saleh", "roll": "Medgrundare och brandingenjör", "tagg": "brand"},
+  "omdomen": [
+    {"text": "Ingen annan kunde svara på hur vi skulle släcka en brand i laddhallen. Noor kunde det, med siffror.", "namn": "Jens A.", "ort": "Byske"},
+    {"text": "Gasdetektorerna larmade en natt i februari. En modul hade börjat avge gas, men den hann kopplas bort innan något hände.", "namn": "Elin S.", "ort": "Skellefteå"},
+    {"text": "Våra brandmän hade aldrig sett en battericell brinna på riktigt. Efter kursen vet de vad de möter.", "namn": "Kristoffer B.", "ort": "Räddningstjänsten Skellefteå"}
+  ],
+  "faq": [
+    ["Varför är batteribränder svåra att släcka?", "En litiumjoncell som skenar producerar egen värme och brännbara gaser. Vanliga släckare räcker inte, utan det krävs stora mängder vatten för att kyla – och branden kan starta igen efter flera timmar."],
+    ["Behöver vi gasdetektering i ett batterilager?", "För större energilager rekommenderar vi det starkt. Gasen kommer ofta flera minuter före röken, vilket ger tid att koppla bort modulen och larma."],
+    ["Gäller det här även elbilar i bostadsgarage?", "Ja, men i mindre skala. För bostadsgarage räcker oftast ordningsregler, sektionering och att räddningstjänsten kan stänga av laddningen centralt."],
+    ["Måste solcellsanläggningar ha säkerhetsbrytare?", "Det finns inget generellt krav, men många räddningstjänster rekommenderar det på större tak. Vi gör en bedömning utifrån anläggningen och byggnaden."],
+    ["Arbetar ni utanför Skellefteå?", "Ja. Vi installerar i Västerbotten och Norrbotten, och riskanalyser och utbildningar gör vi i hela landet."],
+    ["Vad kostar en riskanalys?", "En riskanalys för ett laddgarage eller en verksamhet med batterilager kostar oftast 25 000–60 000 kronor beroende på omfattning."]
+  ],
+  "certifikat": [
+    {"titel": "Auktoriserad elinstallatör", "text": "Auktorisation AL från Elsäkerhetsverket och egenkontrollprogram för alla installationer.", "ikon": "blixt"},
+    {"titel": "Anläggarfirma brandlarm", "text": "SBSC-certifierad anläggarfirma med egen certifierad ingenjör brandlarm.", "ikon": "skold"},
+    {"titel": "Brandingenjörer", "text": "Riskanalyserna skrivs av brandingenjörer med erfarenhet från räddningstjänst och industri.", "ikon": "skola"},
+    {"titel": "Heta arbeten och ESA", "text": "Alla tekniker har certifikat för heta arbeten och elsäkerhetsutbildning enligt ESA.", "ikon": "verktyg"}
+  ],
+  "kunder": ["Älvsbacka Energilager", "Skelleftebuss Depå", "Byske Åkeri", "Bolidens Lagerhotell", "Degerbyns Återvinning", "Brf Norrböle Park", "Kåge Solkraft"],
+  "nyheter": [
+    ["2026-10-13", "Tillbudsrapporten för 2026", "Elva utredda tillbud med batterier – och vad vi lärde oss av dem.", "brand"],
+    ["2026-06-22", "Energilagret vid älven byggs ut", "Fyra nya containrar ger 20 megawattimmar och nya krav på detektering.", "solel"],
+    ["2026-02-11", "Kurs för räddningstjänsten", "60 brandmän övade på brinnande battericeller i Kåge.", "people"]
+  ],
+  "kontakt": {"adress": "Mossgatan 12", "postnr": "931 70", "ort": "Skellefteå", "telefon": "070-174 06 92", "epost": "hej@batterivakten.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7.30–16.30",
+  "omrade": "Västerbotten och Norrbotten, riskanalyser i hela landet",
+  "fot_cta": "Laddar, lagrar eller producerar ni el? Låt oss titta på brandskyddet innan det blir bråttom.",
+  "bild": {"panel": "solel", "hb": "el"},
+  "text": {
+    "ber_rubrik": "Senast från anläggningarna",
+    "proj_rubrik": "Batterier, tak och garage vi har skyddat",
+    "process_rubrik": "Från cell till insatsplan",
+    "hb_etikett": "Omställning",
+    "omdomen_rubrik": "Kunder och räddningstjänst om oss",
+    "faq_rubrik": "Frågor om batterier och solceller",
+    "boka_rubrik": "Berätta vad ni laddar och lagrar",
+    "boka_falt": ["Namn", "Telefon", "Företag", "Batterier, laddplatser eller solceller?"],
+    "logos_rubrik": "Anläggningar vi vaktar",
+    "certifikat_rubrik": "Behöriga för både el och brand",
+    "bolag_rubrik": "Analys, installation, utbildning",
+    "ny_rubrik": "Tillbud, kurser och nyheter",
+    "kontakt_knapp": "Begär riskanalys"
+  }
+}

@@ -34,7 +34,7 @@
   "bolag": [
     {"namn": "Plåtverkstaden", "segment": "Tak och beslag", "rubrik": "Elva plåtslagare och en kantvik från 1962", "text": "Takomläggningar, kupor, rännor och specialbeslag. Verkstaden i Selånger tillverkar allt utom själva plåten.", "tagg": "tak"},
     {"namn": "Murverket", "segment": "Puts och sten", "rubrik": "Kalkbruk i rätt blandning", "text": "Murare och stuckatörer som lagar fasader, drar lister och gjuter ornament i kalk och gips.", "tagg": "stad"},
-    {"namn": "Fönsterverkstaden", "segment": "Fönster och dörrar", "rubrik": "Tusen bågar om året", "text": "Fyra fönsterhantverkare som renoverar kopplade fönster, portar och entrépartier med traditionella material.", "tagg": "interior"},
+    {"namn": "Fönsterverkstaden", "segment": "Fönster och portar", "rubrik": "Tusen bågar om året", "text": "Fyra fönsterhantverkare som renoverar kopplade fönster, portar och entrépartier med traditionella material.", "tagg": "interior"},
     {"namn": "Ställning & lyft", "segment": "Logistik", "rubrik": "Egen ställning, egen kranbil", "text": "Två ställningsbyggare och en kranbil som gör att vi kan börja när vädret tillåter.", "tagg": "bygg"}
   ],
   "berattelser": [
@@ -73,7 +73,7 @@
     "jobb": [["Plåtslagare", "Sundsvall"], ["Lärling, byggnadsplåtslageri", "Sundsvall"], ["Murare med putsvana", "Sundsvall"]]
   },
   "kultur": "Sex av våra hantverkare har gesällbrev, och två har mästarbrev i plåtslageri.",
-  "citat": {"text": "Farfar sa att ett tak ska läggas så att man slipper se det igen på trettio år. Vi försöker överträffa honom med tio.", "namn": "Maria Edlund", "roll": "Vd, tredje generationen", "tagg": "tak"},
+  "citat": {"text": "Farfar sa att ett tak ska läggas så att man slipper se det igen på trettio år. Vi försöker överträffa honom med tio.", "namn": "Maria Edlund", "roll": "Vd och barnbarn till grundaren", "tagg": "tak"},
   "omdomen": [
     {"text": "Ställningen stod uppe i sju veckor och trottoaren var öppen hela tiden. Kupan över vår lägenhet ser exakt ut som den gamla, fast den inte läcker.", "namn": "Göran S.", "ort": "Brf Nybrogatan, Sundsvall"},
     {"text": "Vi trodde att fönstren måste bytas. Selånger visade att virket var friskt och räddade alla utom fyra.", "namn": "Annika L.", "ort": "Kyrkogatan, Sundsvall"},
@@ -102,16 +102,16 @@
     ["2026-03-02", "Två nya lärlingar i plåtverkstaden", "Ebba och Mohammed börjar sin väg mot gesällbrevet.", "people"]
   ],
   "kontakt": {"adress": "Selångersvägen 61", "postnr": "856 51", "ort": "Sundsvall", "telefon": "070-174 06 06", "epost": "tak@selangerfasad.se", "orgnr": ""},
-  "oppettider": "Mån–tors 7–16, fre 7–13",
+  "oppettider": "Mån–tors 6.45–16, fre 6.45–12.30",
   "omrade": "Sundsvall, Timrå, Härnösand och Hudiksvall",
   "fot_cta": "Droppar det från kupan eller släpper putsen? Boka en takbesiktning före vintern.",
   "bild": {"hb": "tak", "sida_om": "stad", "sida_bolag": "tak"},
   "text": {
     "topp_hem": "Selånger Fasad & Tak",
-    "kontakt_knapp": "Boka besiktning",
+    "kontakt_knapp": "Boka takbesiktning",
     "meny_bolag": "Verkstäderna",
     "hero_knapp": "Tak, fasad och fönster",
-    "hero_lank": "Hus vi har tagit hand om",
+    "hero_lank": "Tak vi har lagt om",
     "ber_rubrik": "På ställningarna i stenstaden",
     "proj_etikett": "Stenhus",
     "proj_rubrik": "Tak och fasader efter branden 1888",
@@ -129,7 +129,7 @@
     "ny_rubrik": "Från verkstaden i Selånger",
     "bolag_etikett": "Verkstäder",
     "bolag_rubrik": "Plåt, murverk, fönster och ställning",
-    "bolag_kol": ["Verkstad", "Inriktning", "Det här gör vi"],
+    "bolag_kol": ["Verkstad", "Hantverk", "Arbete"],
     "medarbetare": "Plåtslagare och murare"
   }
 }

@@ -14,7 +14,7 @@
     "Lillån Vårdbygg startades 2001 av byggingenjören Karin Wahlström och undersköterskan som blev projektledare, Reza Amini. Idén var enkel: om de som bygger vårdlokaler förstår hur vården fungerar blir det färre ändringar och bättre hus.",
     "I dag har vi 120 anställda med huvudkontor vid Lillån i norra Örebro och arbetsplatser i Örebro, Västmanlands och Värmlands län. Hälften av våra uppdrag är nybyggnation, hälften ombyggnad i lokaler där vården pågår dygnet runt."
   ],
-  "vagval_rubrik": "Vilken verksamhet ska få nya lokaler?",
+  "vagval_rubrik": "Vem ska bo eller vårdas i huset?",
   "tjanster": [
     {"titel": "Äldreboenden", "ikon": "hjarta", "href": "verksamhet.html", "text": "Särskilda boenden med 40–90 lägenheter, byggda för demensvård."},
     {"titel": "LSS-gruppbostäder", "ikon": "hem", "href": "verksamhet.html", "text": "Sex lägenheter och gemensamhetsdel – vår mest byggda planlösning."},
@@ -23,7 +23,7 @@
     {"titel": "Hjälpmedel & lyft", "ikon": "upp", "href": "verksamhet.html", "text": "Takliftskenor, förstärkta väggar och breda dörrar från början."},
     {"titel": "Larm & passage", "ikon": "las", "href": "verksamhet.html", "text": "Samordning av trygghetslarm, passagesystem och sjuksköterskeanrop."},
     {"titel": "Utemiljöer", "ikon": "trad", "href": "verksamhet.html", "text": "Sinnesträdgårdar och inhägnade gårdar för boende med demens."},
-    {"titel": "Boka förstudie", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi går igenom verksamhetens behov innan arkitekten ritar."}
+    {"titel": "Beställ förstudie", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi går igenom verksamhetens behov innan arkitekten ritar."}
   ],
   "affarsomraden": [
     {"titel": "Särskilda boenden", "text": "Våra äldreboenden byggs i enheter om tio lägenheter runt ett gemensamt kök, så att personalen ser alla boende från samma plats. Varje lägenhet har förberedelse för taklyft och badrum där två personal kan arbeta samtidigt.", "text2": "Vi har byggt 22 särskilda boenden i sju kommuner sedan starten.", "tagg": "bostad"},
@@ -103,14 +103,14 @@
     ["2025-11-12", "Miljöbyggnad Silver i alla nya boenden", "Från och med i år är Silver vår lägsta nivå.", "natur"]
   ],
   "kontakt": {"adress": "Lillåvägen 12", "postnr": "703 75", "ort": "Örebro", "telefon": "070-174 06 08", "epost": "info@lillanvardbygg.se", "orgnr": ""},
-  "oppettider": "Mån–fre 7–16",
+  "oppettider": "Mån–fre 7.30–16.30",
   "omrade": "Örebro, Västmanlands och Värmlands län",
   "fot_cta": "Planerar kommunen ett nytt boende? Bjud in oss redan när behovsanalysen skrivs.",
   "bild": {"panel": "people", "hb": "bostad"},
   "text": {
     "topp_hem": "Lillån Vårdbygg",
-    "kontakt_knapp": "Boka förstudie",
-    "hero_knapp": "Lokaler vi bygger",
+    "kontakt_knapp": "Beställ förstudie",
+    "hero_knapp": "Vårdlokaler vi bygger",
     "hero_lank": "Boenden i drift",
     "ber_rubrik": "Nyss överlämnat till vården",
     "proj_etikett": "Vårdlokaler",
@@ -125,7 +125,7 @@
     "faq_rubrik": "Frågor från kommuner och vårdgivare",
     "boka_rubrik": "Börja med verksamhetens behov",
     "boka_text": "Berätta vilken verksamhet som ska flytta in och när, så hör en projektchef av sig inom en vecka.",
-    "boka_falt": ["Namn och organisation", "Telefon", "E-post", "Verksamhet, antal platser och kommun"],
+    "boka_falt": ["Namn och kommun eller vårdgivare", "Telefon", "E-post", "Verksamhet, antal platser och kommun"],
     "ny_rubrik": "Nytt från Lillån",
     "bolag_rubrik": "Boenden, ombyggnad, teknik och service",
     "medarbetare": "Byggarna i vårdmiljö"
