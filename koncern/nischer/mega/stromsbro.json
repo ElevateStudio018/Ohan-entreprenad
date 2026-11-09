@@ -21,8 +21,8 @@
     {"titel": "Fönster och dörrar", "ikon": "hus", "href": "verksamhet.html", "text": "1,4 miljoner fönster per år, i trä, trä-aluminium och PVC."},
     {"titel": "Tak och fasad", "ikon": "kugge", "href": "verksamhet.html", "text": "Takplåt, sandwichpaneler och fasadkassetter i 140 kulörer."},
     {"titel": "Montage", "ikon": "kran", "href": "verksamhet.html", "text": "Egna montagelag reser stommen och tätar huset på plats."},
-    {"titel": "Fabriker och bolag", "ikon": "fabrik", "href": "bolag.html", "text": "Fyra affärsområden och 48 fabriker i sex länder."},
-    {"titel": "Aktieinformation", "ikon": "graf", "href": "investerare.html", "text": "STRB B, rapporter och finansiell kalender."},
+    {"titel": "Fabriksnätet", "ikon": "fabrik", "href": "bolag.html", "text": "Fyra affärsområden och 48 fabriker i sex länder."},
+    {"titel": "Aktien och rapporter", "ikon": "graf", "href": "investerare.html", "text": "STRB B, rapporter och finansiell kalender."},
     {"titel": "Jobb i produktionen", "ikon": "hjalm", "href": "karriar.html", "text": "Operatörer, svetsare, montörer och konstruktörer."}
   ],
   "affarsomraden": [
@@ -45,9 +45,9 @@
     {"rubrik": "Robotsvetsning i Hedemora", "text": "Tolv nya svetsrobotar har halverat ledtiden för en komplett stålstomme till en industrihall.", "tagg": "svets"}
   ],
   "nyckeltal": [
-    {"varde": "36,8", "enhet": "mdr kr", "etikett": "Nettoomsättning 2025", "trend": [24.6, 25.9, 31.2, 38.4, 34.1, 35.0, 36.8], "trend_text": "Nettoomsättning 2019–2025, mdr kr"},
+    {"varde": "36,8", "enhet": "mdr kr", "etikett": "Nettoomsättning 2025", "trend": [24.6, 25.9, 31.2, 38.4, 34.1, 35.0, 36.8], "trend_text": "Omsättning, mdr kr – toppen 2022 följde stålpriset"},
     {"varde": "48", "enhet": "fabriker", "etikett": "I sex länder", "trend": [37, 38, 41, 44, 45, 47, 48], "trend_text": "Antal fabriker"},
-    {"varde": "12 400", "enhet": "", "etikett": "Medarbetare", "trend": [9800, 10100, 11200, 12600, 11900, 12100, 12400], "trend_text": "Medarbetare vid årsskiftet"},
+    {"varde": "12 400", "enhet": "", "etikett": "Medarbetare", "trend": [9800, 10100, 11200, 12600, 11900, 12100, 12400], "trend_text": "Anställda i fabrik, montage och kontor"},
     {"varde": "97,8", "enhet": "%", "etikett": "Leveranser i rätt tid", "trend": [93.1, 94.0, 94.6, 95.8, 96.9, 97.4, 97.8], "trend_text": "Leveransprecision, procent"}
   ],
   "projekt": [
@@ -72,7 +72,7 @@
   "karriar": {
     "rubrik": "Bygga hus inomhus",
     "text": "I våra fabriker är det plus 18 grader året runt, och arbetstiderna är regelbundna. Vi utbildar operatörer och svetsare själva och har industriprogram med gymnasier i Gävle, Hedemora och Vetlanda.",
-    "jobb": [["Svetsare, robotcell", "Hedemora"], ["Produktionsledare betongelement", "Umeå"], ["Konstruktör BIM", "Gävle"], ["Montageledare", "Uppsala"]]
+    "jobb": [["Svetsare, robotcell", "Hedemora"], ["Produktionsledare betongelement", "Umeå"], ["Konstruktör BIM", "Gävle"], ["Arbetsledare montage", "Uppsala"]]
   },
   "kultur": "Bruksklockan från 1887 hänger fortfarande på huvudkontoret i Strömsbro och ringer när en ny fabrik startar.",
   "citat": {"text": "Ett hus som byggs i regn och minusgrader får fler fel än ett som byggs inomhus. Det är egentligen hela vår affärsidé.", "namn": "Peter Sandin", "roll": "Vd och koncernchef", "tagg": "industri"},
@@ -88,7 +88,7 @@
     ["Vilken garanti lämnar ni?", "Fem år på stommar och fasader, och upp till 30 år mot röta på träfönster."],
     ["Har ni miljövarudeklarationer?", "Ja, alla standardprodukter har verifierade EPD:er som går att hämta i BIM-format."],
     ["Var tillverkas produkterna?", "I 48 fabriker i Sverige, Norge, Finland, Estland, Lettland och Litauen."],
-    ["Hur ser utdelningspolicyn ut?", "Strömsbro delar ut 40–60 procent av resultatet efter skatt, med hänsyn till investeringsbehov."]
+    ["Vad delar Strömsbro ut till aktieägarna?", "Strömsbro delar ut 40–60 procent av resultatet efter skatt, med hänsyn till investeringsbehov."]
   ],
   "nyheter": [
     ["2026-10-28", "Delårsrapport januari–september 2026", "Orderingången ökade med 12 procent, främst för industri- och logistikbyggnader.", "industri"],
@@ -123,7 +123,7 @@
     ["1887", "Järnbruket vid Testeboån börjar smida spik och beslag."],
     ["1962", "Bruket gjuter sina första betongelement till miljonprogrammet i Gävle."],
     ["1978", "Fönsterfabriken i Vetlanda köps."],
-    ["1990", "Notering på Stockholmsbörsen."],
+    ["1990", "Strömsbro introduceras på börsen och familjen Ekholm säljer sin majoritet."],
     ["2005", "Expansion till Baltikum med stålverkstad i Kaunas."],
     ["2019", "Klimatskal blir eget affärsområde efter förvärv i Borlänge."],
     ["2024", "Klimatförbättrad betong blir standard i alla väggelement."]
@@ -133,12 +133,12 @@
     "ber_rubrik": "Nytt från fabrikerna",
     "proj_rubrik": "Stommar, fasader och fönster",
     "proj_rubrik_lista": "Leveranser och fabriksprojekt",
-    "process_etikett": "Industriellt byggande",
+    "process_etikett": "Fabriken först",
     "process_rubrik": "Ritat, gjutet, levererat, monterat",
     "hb_etikett": "Klimatförbättrade material",
     "bolag_rubrik": "Fyra affärsområden för klimatskal och stomme",
     "kontor_rubrik": "Fabriker i sex länder",
-    "ny_rubrik": "Pressmeddelanden",
+    "ny_rubrik": "Press och nyheter från bruket",
     "siffror_etikett": "Strömsbro i siffror",
     "panel_etikett": "Jobba i fabrik",
     "omdomen_rubrik": "Byggföretag om våra leveranser",

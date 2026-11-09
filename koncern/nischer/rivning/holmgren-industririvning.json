@@ -27,7 +27,7 @@
     {"titel": "Begär anbud", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Anbudsavdelningen svarar inom tio arbetsdagar."}
   ],
   "affarsomraden": [
-    {"titel": "Industri i drift", "text": "Vi river delar av pappersbruk, raffinaderier och verkstäder medan resten av anläggningen producerar. Arbetet planeras ihop med kundens driftorganisation, med egna skyddsombud och tillståndsrutiner på plats.", "text2": "Under 2025 utförde vi 1,1 miljoner arbetstimmar inom aktiva industriområden.", "tagg": "industri"},
+    {"titel": "Industri i drift", "text": "Vi river delar av pappersbruk, raffinaderier och verkstäder medan resten av anläggningen producerar. Arbetet planeras ihop med kundens driftorganisation, med egna skyddsombud och tillståndsrutiner på plats.", "text2": "Under 2025 arbetade vi 190 000 timmar inom aktiva industriområden.", "tagg": "industri"},
     {"titel": "Högrivning och skorstenar", "text": "Vår högrivare med 42 meters bom tar ned pannhus, silor och skorstenar bit för bit utan sprängning. Det betyder ingen avspärrning av grannfastigheter och ingen risk för vibrationsskador.", "text2": "Skorstenar högre än 42 meter rivs uppifrån med plattform och kran.", "tagg": "rivning"},
     {"titel": "Broar och infrastruktur", "text": "Broar över väg, järnväg och vatten rivs ofta under en natt eller en helg med avstängd trafik. Vi har rivit 37 broar sedan 2010, de flesta åt Trafikverkets entreprenörer.", "text2": "Brobalkar lyfts ut med mobilkran och sågas på marken i stället för på bron.", "tagg": "infra"},
     {"titel": "Energi och kraftvärme", "text": "Gamla oljepannor, turbiner och rökgasreningar i kraftvärmeverk innehåller asbest, tungmetaller och stora stålmängder. Sanering, demontering och skrotning görs av våra egna bolag.", "text2": "Stålet säljs till skrot och intäkten redovisas öppet mot kunden.", "tagg": "anlaggning"}
@@ -62,10 +62,10 @@
   "projekt": [
     {"namn": "Pannhuset vid Motala ström", "ort": "Norrköping", "typ": "Högrivning", "ar": "2026", "text": "38 meter hög pannbyggnad riven bit för bit, 2 900 ton stål till skrot.", "tagg": "rivning"},
     {"namn": "Bro över E4 vid Kimstad", "ort": "Norrköping", "typ": "Brorivning", "ar": "2025", "text": "En betongbro på 64 meter riven under en natt med avstängd motorväg.", "tagg": "infra"},
-    {"namn": "Kartongbruket, PM 2", "ort": "Skärblacka", "typ": "Industririvning i drift", "ar": "2025", "text": "En pappersmaskin och dess hall demonterade medan resten av bruket producerade.", "tagg": "industri"},
-    {"namn": "Kraftvärmeverket, block 1", "ort": "Västerås", "typ": "Energianläggning", "ar": "2025", "text": "Oljeeldad panna från 1969 sanerad, demonterad och skrotad – 6 400 ton stål.", "tagg": "anlaggning"},
+    {"namn": "Pappersbruket vid Glan, PM 2", "ort": "Finspång", "typ": "Industririvning i drift", "ar": "2025", "text": "En pappersmaskin och dess hall demonterade medan resten av bruket producerade.", "tagg": "industri"},
+    {"namn": "Värmeverket, panna 3", "ort": "Köping", "typ": "Energianläggning", "ar": "2025", "text": "Oljeeldad panna från 1969 sanerad, demonterad och skrotad – 6 400 ton stål.", "tagg": "anlaggning"},
     {"namn": "Textilfabriken vid Strömmen", "ort": "Norrköping", "typ": "Selektiv rivning", "ar": "2024", "text": "Tillbyggnader från 60-talet rivna, den kulturmärkta tegelfabriken kvar orörd.", "tagg": "rivning"},
-    {"namn": "Gamla raffinaderiet, tankpark", "ort": "Nynäshamn", "typ": "Sanering och rivning", "ar": "2026", "text": "Fjorton cisterner rengörs, saneras och klipps ned under två år.", "tagg": "industri", "status": "Pågående"}
+    {"namn": "Tankterminalen vid hamnen", "ort": "Oxelösund", "typ": "Sanering och rivning", "ar": "2026", "text": "Fjorton cisterner rengörs, saneras och klipps ned under två år.", "tagg": "industri", "status": "Pågående"}
   ],
   "process": [
     {"titel": "Anbud och riskanalys", "text": "Anbudsavdelningen räknar och tar fram riskanalys, rivningsmetod och tidsplan.", "tagg": "kontor"},
@@ -82,7 +82,7 @@
   "kultur": "Varje vår åker alla 120 till Händelö för en dag med säkerhetsövningar, maskinvisningar och kräftsoppa.",
   "citat": {"text": "Min far rev textilfabriker för att Norrköping skulle kunna bli något nytt. Vi gör samma sak i dag, bara med större maskiner och full koll på vart varje ton tar vägen.", "namn": "Kristina Holmgren", "roll": "Vd och styrelseordförande", "tagg": "people"},
   "omdomen": [
-    {"text": "Att riva en pappersmaskin med resten av bruket i drift kräver en partner som förstår produktion. Holmgren gjorde det utan ett enda oplanerat stopp.", "namn": "Ulf G.", "ort": "Skärblacka"},
+    {"text": "Att riva en pappersmaskin med resten av bruket i drift kräver en partner som förstår produktion. Holmgren gjorde det utan ett enda oplanerat stopp.", "namn": "Ulf G.", "ort": "Finspång"},
     {"text": "Bron var borta på sju timmar. Trafikplanen höll på minuten.", "namn": "Josefin K.", "ort": "Norrköping"},
     {"text": "Avfallsrapporten per ton gjorde att vi kunde redovisa återvinningsgraden direkt i vår årsredovisning.", "namn": "Mattias Ö.", "ort": "Västerås"}
   ],
@@ -99,15 +99,15 @@
     {"titel": "ISO 9001, 14001, 45001", "text": "Certifierat ledningssystem för kvalitet, miljö och arbetsmiljö i alla fyra bolag.", "ikon": "dokument"},
     {"titel": "Asbesttillstånd", "text": "Holmgren Sanering har Arbetsmiljöverkets tillstånd för asbestsanering.", "ikon": "skold"},
     {"titel": "Miljötillstånd Händelö", "text": "Länsstyrelsens tillstånd att sortera och krossa 45 000 ton bygg- och rivningsavfall per år.", "ikon": "lov"},
-    {"titel": "Byggföretagen", "text": "Medlemmar sedan 1986, med Byggnads kollektivavtal för alla yrkesarbetare.", "ikon": "folk"}
+    {"titel": "Byggföretagen", "text": "Medlemmar i Byggföretagen, med Byggnads kollektivavtal för alla yrkesarbetare.", "ikon": "folk"}
   ],
-  "kunder": ["Bråvikens Kraftvärme", "Skärblacka Kartong", "Östgöta Infra", "Norrköpings Hamnfastigheter", "Mälarenergi Värme", "Linköpings Industrifastigheter", "Nynäs Tankpark", "Strömmens Fastigheter"],
+  "kunder": ["Östra Kraftvärme", "Glanbrukets Papper", "Östgöta Infra", "Norrköpings Hamnfastigheter", "Västmanlands Värmeverk", "Linköpings Industrifastigheter", "Oxelö Tankterminal", "Strömmens Fastigheter"],
   "kunder_rubrik": "Industrier och energibolag vi har rivit åt",
   "nyheter": [
     ["2026-10-27", "Pannhuset vid Motala ström är borta", "Fem månaders högrivning mitt i stan – och inte en enda avspärrning mot gatan.", "rivning"],
     ["2026-06-11", "Ny siktlinje på Händelö", "Kapaciteten ökar till 45 000 ton och finfraktionen kan nu återvinnas.", "anlaggning"],
     ["2026-02-19", "Rekordår 2025", "Omsättningen ökade till 486 miljoner kronor och vi anställde 14 personer.", "kontor"],
-    ["2025-09-30", "Tankparken i Nynäshamn", "Vi har tecknat avtal om sanering och rivning av fjorton cisterner under två år.", "industri"]
+    ["2025-09-30", "Tankterminalen i Oxelösund", "Vi har tecknat avtal om sanering och rivning av fjorton cisterner under två år.", "industri"]
   ],
   "kontakt": {"adress": "Händelövägen 30", "postnr": "602 38", "ort": "Norrköping", "telefon": "070-174 06 91", "epost": "anbud@holmgrenrivning.se", "orgnr": ""},
   "oppettider": "Kontor mån–fre 7–16 · Händelö vardagar 6–18",

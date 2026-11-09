@@ -45,7 +45,7 @@
     {"rubrik": "Lokala krögare i bottenplan", "text": "38 nya restauranger öppnade i våra gatuplan under 2025. Alla drivs av lokala företagare.", "tagg": "interior"}
   ],
   "nyckeltal": [
-    {"varde": "112", "enhet": "mdr kr", "etikett": "Fastighetsvärde", "trend": [61, 72, 88, 97, 104, 108, 112], "trend_text": "Fastighetsvärde 2020–2026, mdr kr"},
+    {"varde": "112", "enhet": "mdr kr", "etikett": "Marknadsvärde", "trend": [61, 72, 88, 97, 104, 108, 112], "trend_text": "Marknadsvärde på beståndet, mdr kr"},
     {"varde": "14", "enhet": "städer", "etikett": "Mellanstäder med kvarter", "trend": [8, 9, 10, 11, 12, 13, 14], "trend_text": "Antal städer"},
     {"varde": "41", "enhet": "kvarter", "etikett": "Under utveckling", "trend": [22, 26, 29, 33, 36, 39, 41], "trend_text": "Projektportfölj, antal kvarter"},
     {"varde": "21,4", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [11.8, 13.0, 15.7, 17.9, 19.2, 20.5, 21.4], "trend_text": "Omsättning inklusive byggrörelse, mdr kr"}
@@ -72,10 +72,10 @@
   "karriar": {
     "rubrik": "Bygg staden du bor i",
     "text": "Våra 5 100 medarbetare jobbar i fjorton städer, och de flesta bor i staden där de arbetar. I Saltängen Bygg finns snickare, murare och projektchefer som specialiserat sig på gamla industribyggnader.",
-    "jobb": [["Projektchef ombyggnad", "Borås"], ["Fastighetstekniker", "Gävle"], ["Uthyrare kommersiella lokaler", "Linköping"], ["Byggnadsantikvarie", "Norrköping"]]
+    "jobb": [["Projektchef ombyggnad", "Borås"], ["Drifttekniker, kontorsfastigheter", "Gävle"], ["Uthyrare kommersiella lokaler", "Linköping"], ["Byggnadsantikvarie", "Norrköping"]]
   },
   "kultur": "Huvudkontoret ligger fortfarande i yllefabriken från 1986 – vi har bara byggt ut den två gånger.",
-  "citat": {"text": "Sverige växer inte bara i Stockholm. Det är i Gävle, Borås och Växjö som unga familjer köper sin första bostad och företag öppnar sitt nästa kontor.", "namn": "Helena Wiklander", "roll": "Vd och koncernchef", "tagg": "stad"},
+  "citat": {"text": "Sverige växer inte bara i Stockholm. Det är i Gävle, Borås och Växjö som unga familjer köper sin första bostad och företag öppnar sitt nästa kontor.", "namn": "Helena Wiklander", "roll": "Vd", "tagg": "stad"},
   "omdomen": [
     {"text": "Vi flyttade 160 anställda från ett kontor i utkanten till Mälarporten. Nu tar hälften tåget till jobbet och vi rekryterar från Stockholm.", "namn": "Robert E.", "ort": "Västerås"},
     {"text": "Tre års omsättningsbaserad hyra gjorde att vi vågade öppna vår restaurang mitt i stan. Nu har vi 22 anställda.", "namn": "Amira K.", "ort": "Norrköping"},
@@ -122,7 +122,7 @@
     ["1986", "Tre norrköpingsbor köper den nedlagda yllefabriken vid Motala ström."],
     ["1994", "Det första kvarteret utanför Norrköping: ett mejeri i Linköping blir kontor."],
     ["2002", "Saltängen Bygg grundas för att klara ombyggnaderna själva."],
-    ["2009", "Notering på Nasdaq Stockholm."],
+    ["2009", "Saltängen listas på Nasdaq Stockholm, mitt i finanskrisen."],
     ["2017", "Strategin om stationsnära lägen antas – innehav långt från tåget säljs."],
     ["2022", "Saltängen etablerar sig i Sundsvall och Kalmar."],
     ["2026", "Marken vid Ostlänkens nya stationer förvärvas."]

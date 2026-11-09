@@ -50,7 +50,7 @@
     {"varde": "48 h", "enhet": "", "etikett": "Till fast pris efter förfrågan"}
   ],
   "projekt": [
-    {"namn": "Villa Lindgren", "ort": "Bankeryd", "typ": "Takbyte, lertegel", "ar": "2026", "text": "Vårt tak nummer 4 800 – rött lertegel på en 1970-talsvilla.", "tagg": "tak", "status": "Utfört"},
+    {"namn": "Villa Lindgren", "ort": "Bankeryd", "typ": "Lertegel, jubileumstak", "ar": "2026", "text": "Vårt tak nummer 4 800 – rött lertegel på en 1970-talsvilla.", "tagg": "tak", "status": "Utfört"},
     {"namn": "Brf Trasten", "ort": "Växjö", "typ": "Radhuslängor", "ar": "2025", "text": "Fyra längor med 32 radhus fick betongtak på sju veckor.", "tagg": "bostad"},
     {"namn": "Sjötomten vid Bolmen", "ort": "Ljungby", "typ": "Plåttak, fritidshus", "ar": "2025", "text": "Material in med båt och svart falsad plåt på huvudhus och gäststuga.", "tagg": "natur"},
     {"namn": "Villa i Norrliden", "ort": "Kalmar", "typ": "Takbyte, betong", "ar": "2025", "text": "Byte och nya takfönster på en enplansvilla nära Kalmarsund.", "tagg": "hem"},
@@ -74,7 +74,7 @@
     "jobb": [["Takläggare", "Växjö"], ["Plåtslagare", "Värnamo"], ["Lagledare", "Kalmar"], ["Kundrådgivare", "Jönköping"]]
   },
   "kultur": "Varje lag har sin egen lastbil och sitt eget namn – Kalmar har ”Kalmarsundsflygarna”.",
-  "citat": {"text": "Ingen vill vänta tre månader på en offert. Därför mäter vi med drönare och räknar fast pris samma vecka.", "namn": "Daniel Ekholm", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Ingen vill vänta tre månader på en offert. Därför mäter vi med drönare och räknar fast pris samma vecka.", "namn": "Daniel Ekholm", "roll": "Medgrundare och vd", "tagg": "people"},
   "omdomen": [
     {"text": "Offerten kom på tisdagen, de började på måndagen veckan efter och var klara på fredag. Bilderna från varje dag fick vi i mobilen.", "namn": "Petra L.", "ort": "Bankeryd"},
     {"text": "Föreningen fick ett pris per radhus, och alla 32 tak blev likadana. Det var första gången styrelsen inte behövde jaga någon.", "namn": "Brf Trasten, styrelsen", "ort": "Växjö"},
@@ -85,7 +85,7 @@
     ["Vad händer om det regnar?", "Vi täcker över med presenning varje kväll och vid skurar. Vid kraftigt regn flyttar vi en dag och informerar dig på morgonen."],
     ["Måste vi vara hemma?", "Nej, men vi behöver tillgång till el utomhus och en plats för containern i tio dagar."],
     ["Hur stor är ROT-reduktionen?", "Ungefär en tredjedel av fakturan är arbete, och 30 procent av den delen dras av – oftast 25 000–40 000 kr på ett villatak."],
-    ["Vilken garanti lämnar ni?", "Tio år på arbetet och tillverkarens garanti på 30–40 år för pannor och plåt."],
+    ["Hur lång är garantin?", "Tio år på arbetet och tillverkarens garanti på 30–40 år för pannor och plåt."],
     ["Kan jag betala delvis?", "Ja. Vi fakturerar 30 procent vid start och resten när taket är slutbesiktat. Delbetalning via bank finns som tillval."],
     ["Arbetar ni utanför Småland?", "Vi tar uppdrag i angränsande kommuner i Östergötland, Halland och Blekinge om vi har ett lag i närheten."]
   ],
@@ -98,7 +98,7 @@
   "certifikat": [
     {"titel": "BF9K", "text": "Certifierat ledningssystem för kvalitet och miljö enligt Byggföretagens BF9K.", "ikon": "dokument"},
     {"titel": "Byggföretagen", "text": "Medlemmar sedan 2018, med kollektivavtal för alla anställda.", "ikon": "folk"},
-    {"titel": "Drönaroperatör", "text": "Registrerad operatör hos Transportstyrelsen med piloter i alla regioner.", "ikon": "kamera"},
+    {"titel": "Registrerade drönarpiloter", "text": "Registrerad operatör hos Transportstyrelsen med piloter i alla regioner.", "ikon": "kamera"},
     {"titel": "Heta arbeten", "text": "Alla lagledare har giltigt certifikat från Brandskyddsföreningen.", "ikon": "eld"}
   ],
   "certifikat_rubrik": "Snabbt, men med alla papper i ordning",
