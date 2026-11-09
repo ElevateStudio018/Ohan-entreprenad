@@ -20,7 +20,7 @@
     {"titel": "Hus och lador", "ikon": "hamare", "href": "verksamhet.html", "text": "Bostadshus, lador och maskinhallar rivs och sorteras på plats."},
     {"titel": "Kalksten till återbruk", "ikon": "sten", "href": "verksamhet.html", "text": "Huggen kalksten plockas ned för hand, rensas och säljs till nya murar."},
     {"titel": "Sommarhus och bodar", "ikon": "hus", "href": "verksamhet.html", "text": "Fritidshus, gäststugor och förrådsbodar längs kusten."},
-    {"titel": "Eternit och asbest", "ikon": "skold", "href": "verksamhet.html", "text": "Takplattor och fasadskivor saneras med eget tillstånd."},
+    {"titel": "Eternit på ön", "ikon": "skold", "href": "verksamhet.html", "text": "Takplattor och fasadskivor saneras med eget tillstånd."},
     {"titel": "Färjeplanering", "ikon": "bat", "href": "verksamhet.html", "text": "Vi bokar och packar det farliga avfallet för överfarten."},
     {"titel": "Sorteringen i Roma", "ikon": "kugge", "href": "hallbarhet.html", "text": "Tolv fraktioner, kross och vågbrygga på 9 000 kvadratmeter."},
     {"titel": "Gjorda uppdrag", "ikon": "karta", "href": "projekt.html", "text": "Från Fårösund i norr till Burgsvik i söder."},
@@ -33,7 +33,7 @@
     {"titel": "Massor som stannar på ön", "text": "Betong och tegel krossas i Roma och blir bärlager i gårdsplaner och skogsbilvägar. Rent trä blir flis till värmeverket i Visby.", "text2": "Krossmaterialet säljs styckevis till privatpersoner, minsta köp ett ton.", "tagg": "mark"}
   ],
   "bolag": [
-    {"namn": "Rivningslaget", "segment": "7 rivare och förare", "rubrik": "Två grävare och en lastväxlare", "text": "Kör en 22-tonnare med sax, en 8-tonnare för trånga tomter och lastväxlaren som pendlar till Roma.", "tagg": "rivning"},
+    {"namn": "Rivarna", "segment": "7 rivare och förare", "rubrik": "Två grävare och en lastväxlare", "text": "Kör en 22-tonnare med sax, en 8-tonnare för trånga tomter och lastväxlaren som pendlar till Roma.", "tagg": "rivning"},
     {"namn": "Sten & Återbruk", "segment": "3 stenarbetare", "rubrik": "Kalksten, tegel och plank", "text": "Plockar ned huggen sten för hand, rensar den från bruk och sköter försäljningen från gården i Roma.", "tagg": "sten"},
     {"namn": "Sanering & Färja", "segment": "2 sanerare och en logistiker", "rubrik": "Det som måste över vattnet", "text": "Sanerar asbest och PCB och planerar varje transport av farligt avfall till fastlandet.", "tagg": "bygg"},
     {"namn": "Ägarna", "segment": "Tove, Mattias, Jonas och Elsa", "rubrik": "Fyra som också jobbar ute", "text": "Ingen av ägarna sitter enbart på kontor. Tove räknar offerter, men kör grävaren när det behövs.", "tagg": "people"}
@@ -50,12 +50,12 @@
     {"varde": "12", "enhet": "", "etikett": "Fraktioner i Roma"}
   ],
   "projekt": [
-    {"namn": "Spannmålsmagasinet", "ort": "Klintehamn", "typ": "Selektiv rivning", "ar": "2026", "text": "Kalkstensväggarna plockades ned för hand och takstolarna såldes till en snickare i Hemse.", "tagg": "sten"},
+    {"namn": "Spannmålsmagasinet", "ort": "Klintehamn", "typ": "Varsam nedtagning", "ar": "2026", "text": "Kalkstensväggarna plockades ned för hand och takstolarna såldes till en snickare i Hemse.", "tagg": "sten"},
     {"namn": "Gården i Lärbro", "ort": "Lärbro", "typ": "Eternitsanering", "ar": "2025", "text": "1 900 kvadratmeter takplattor på tre lador, sanerade och skeppade på fyra avgångar.", "tagg": "bygg"},
-    {"namn": "Hyreshuset på Gråbo", "ort": "Visby", "typ": "Totalrivning", "ar": "2025", "text": "Ett trevåningshus från 1962 med PCB i fogarna, sanerat och rivet på tio veckor.", "tagg": "rivning"},
+    {"namn": "Hyreshuset på Gråbo", "ort": "Visby", "typ": "Rivning till platta", "ar": "2025", "text": "Ett trevåningshus från 1962 med PCB i fogarna, sanerat och rivet på tio veckor.", "tagg": "rivning"},
     {"namn": "Sommarhuset vid Ljugarn", "ort": "Ljugarn", "typ": "Rivning för nybygge", "ar": "2025", "text": "Ett fritidshus från 1950-talet bort på fem dagar, med lärkträpanelen sparad åt ägaren.", "tagg": "hem"},
-    {"namn": "Prästgårdens ekonomibyggnad", "ort": "Fårö", "typ": "Demontering", "ar": "2024", "text": "En raserad ladugård i kalksten och trä demonterad efter samråd med länsstyrelsen.", "tagg": "sten"},
-    {"namn": "Kvarteret Kalkugnen", "ort": "Visby", "typ": "Invändig rivning", "ar": "2026", "text": "Ett kontorshus utanför ringmuren rivs invändigt inför ombyggnad till lägenheter.", "tagg": "interior", "status": "Pågående"}
+    {"namn": "Prästgårdens ekonomibyggnad", "ort": "Fårö", "typ": "Demontering efter samråd", "ar": "2024", "text": "En raserad ladugård i kalksten och trä demonterad efter samråd med länsstyrelsen.", "tagg": "sten"},
+    {"namn": "Kvarteret Kalkugnen", "ort": "Visby", "typ": "Invändig strip-out", "ar": "2026", "text": "Ett kontorshus utanför ringmuren rivs invändigt inför ombyggnad till lägenheter.", "tagg": "interior", "status": "Pågående"}
   ],
   "process": [
     {"titel": "Besök på tomten", "text": "Tove eller Mattias tittar på byggnaden, letar efter eternit och bedömer om stenen går att rädda.", "tagg": "bygg"},
@@ -68,7 +68,7 @@
     "text": "Varje lastbil som går över till fastlandet kostar diesel, tid och färjeplats. Genom att krossa, flisa och sälja vidare på ön har vi minskat antalet överfarter med farligt avfall och rivningsmassor till en bråkdel av vad de var 2015.",
     "mal": [["89 %", "av massorna användes på Gotland 2025"], ["310 t", "kalksten tillbaka i nya murar"], ["41", "överfarter med farligt avfall 2025"]]
   },
-  "karriar": {"rubrik": "Bli delägare på sikt", "text": "Efter tre år hos oss erbjuds alla tillsvidareanställda att köpa aktier i bolaget. Vi söker en maskinförare och en sanerare som vill bo kvar på ön året runt.", "jobb": [["Maskinförare grävmaskin", "Visby"], ["Sanerare asbest och PCB", "Visby"]]},
+  "karriar": {"rubrik": "Bli delägare på sikt", "text": "Efter tre år hos oss erbjuds alla tillsvidareanställda att köpa aktier i bolaget. Vi söker en maskinförare och en sanerare som vill bo kvar på ön året runt.", "jobb": [["Grävmaskinist", "Visby"], ["Sanerare asbest och PCB", "Visby"]]},
   "kultur": "Bolagsstämman hålls varje april i fikarummet i Roma – och alla som äger en aktie får rösta.",
   "citat": {"text": "Rune frågade om vi ville ta över i stället för att han sålde till ett fastlandsbolag. Vi var fyra som sa ja samma kväll.", "namn": "Tove Ihre", "roll": "Delägare och vd", "tagg": "people"},
   "omdomen": [
@@ -115,7 +115,7 @@
     "omdomen_rubrik": "Gotlänningar om oss",
     "faq_rubrik": "Frågor om rivning på Gotland",
     "certifikat_rubrik": "Tillstånd på ön och över vattnet",
-    "logos_etikett": "Beställare",
+    "logos_etikett": "Öns beställare",
     "boka_rubrik": "Berätta vad som står på tomten",
     "boka_text": "Skriv var byggnaden står och ungefär hur stor den är, så ringer Tove eller Mattias upp inom två arbetsdagar.",
     "boka_falt": ["Namn", "Telefon", "Fastighetsbeteckning eller adress", "Vilken byggnad gäller det?"],

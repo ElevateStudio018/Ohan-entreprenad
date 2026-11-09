@@ -36,7 +36,7 @@
     {"namn": "Mark och schakt", "segment": "8 maskinförare och rörläggare", "rubrik": "Grävmaskiner som får plats", "text": "Har allt från en minigrävare på 1,5 ton för trånga tomter till en 14-tonnare för berg och sjöledningar.", "tagg": "mark"},
     {"namn": "Rör och hus", "segment": "9 rörmokare", "rubrik": "Inne i fastigheten", "text": "Bygger om ledningar, installerar pumpstationer och kopplar nya badrum och kök.", "tagg": "vvs"},
     {"namn": "Sjö och båt", "segment": "2 båtförare", "rubrik": "Arbetsbåten Kärran", "text": "En 12 meter lång arbetsbåt med kran som lägger sjöledningar och fraktar maskiner ut till öarna.", "tagg": "natur"},
-    {"namn": "Projektering", "segment": "Sanna och en projektör", "rubrik": "Kontakten med kommunen", "text": "Tar fram ritningar, ansöker om tillstånd och samordnar med kommunens VA-avdelning.", "tagg": "kontor"}
+    {"namn": "Ritning och tillstånd", "segment": "Sanna och en projektör", "rubrik": "Kontakten med kommunen", "text": "Tar fram ritningar, ansöker om tillstånd och samordnar med kommunens VA-avdelning.", "tagg": "kontor"}
   ],
   "berattelser": [
     {"rubrik": "Tjurkö etapp 2: 186 fastigheter anslutna", "text": "Alla tomter i etappen fick sina servisledningar före kommunens slutdatum i september.", "tagg": "mark"},
@@ -86,7 +86,7 @@
     ["Vad är en LTA-pumpstation?", "En liten pump som pumpar avloppet från huset ut i kommunens tryckledning. Den behövs där marken är för kuperad för självfall."],
     ["Vem äger pumpstationen?", "Det varierar mellan kommuner. I Karlskrona äger fastighetsägaren oftast stationen, men kommunen kan ha egna regler i vissa områden."],
     ["Kan grannarna göra det ihop?", "Ja, och det lönar sig. Vid gemensam upphandling flyttar vi maskinerna färre gånger, och priset sjunker för alla."],
-    ["Får jag rotavdrag?", "Ja, för arbetskostnaden på tomten och i huset, även för fritidshus du äger."]
+    ["Gäller rotavdraget även här?", "Ja, för arbetskostnaden på tomten och i huset, även för fritidshus du äger."]
   ],
   "priser": [
     {"namn": "Servisledning", "pris": "fr. 38 000 kr", "enhet": "upp till 25 m i jord", "text": "Från förbindelsepunkten till husets grund.", "punkter": ["Schakt och återfyllning", "PE-rör för vatten och avlopp", "Isolering eller värmekabel vid behov", "Relationsritning till kommunen"]},
@@ -125,7 +125,7 @@
     "faq_rubrik": "Frågor om kommunalt VA",
     "priser_etikett": "Anslutningspaket",
     "priser_rubrik": "Vad anslutningen kostar dig",
-    "priser_not": "Priser inklusive moms, före rotavdrag. Berg och sjöledning offereras separat.",
+    "priser_not": "Moms ingår, rotavdraget är inte draget. Berg och sjöledning prissätts separat.",
     "priser_utvald": "Vanligast i skärgården",
     "priser_knapp": "Boka tomtbesök",
     "boka_rubrik": "Boka ett tomtbesök",

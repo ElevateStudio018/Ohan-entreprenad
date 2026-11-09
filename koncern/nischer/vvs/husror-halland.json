@@ -19,7 +19,7 @@
   "tjanster": [
     {"titel": "Årlig huskontroll", "ikon": "sok", "href": "verksamhet.html", "text": "Kranar, ventiler, beredare och avlopp genomgångna med protokoll."},
     {"titel": "Förtur vid fel", "ikon": "upp", "href": "verksamhet.html", "text": "Abonnenter får tid före alla andra, oftast samma eller nästa dag."},
-    {"titel": "Fasta priser", "ikon": "dokument", "href": "verksamhet.html", "text": "Byte av blandare, toalett eller beredare till pris som står i avtalet."},
+    {"titel": "Priser i avtalet", "ikon": "dokument", "href": "verksamhet.html", "text": "Byte av blandare, toalett eller beredare till pris som står i avtalet."},
     {"titel": "Värmepumpsservice", "ikon": "sol", "href": "verksamhet.html", "text": "Filter, köldmedium och inställningar kontrollerade varje år."},
     {"titel": "Digital husjournal", "ikon": "hus", "href": "verksamhet.html", "text": "Alla protokoll, foton och kvitton på ett ställe – även vid husförsäljning."},
     {"titel": "Vattenfelsbrytare", "ikon": "las", "href": "verksamhet.html", "text": "Stänger vattnet automatiskt när ingen är hemma."},
@@ -29,7 +29,7 @@
   "affarsomraden": [
     {"titel": "Abonnemang för villa och radhus", "text": "Kärnan i Husrör. Du betalar varje månad och får en tekniker som kommer på ett bokat besök en gång om året, går igenom hela installationen och åtgärdar småfel på plats. Packningar, perlatorer och tätningar ingår.", "text2": "Ungefär vart femte årsbesök hittar en dold läcka eller en ventil som håller på att ge upp.", "tagg": "hem"},
     {"titel": "Förtur och fasta priser", "text": "När något går sönder ringer du det nummer som står på klistermärket under diskbänken. Abonnenter går före i kön och betalar priserna i avtalet, utan utryckningsavgift dagtid.", "text2": "Snittiden från samtal till besök var 19 timmar under 2025.", "tagg": "vvs"},
-    {"titel": "Värme och energi", "text": "Med abonnemanget Villa+ ingår årlig service av värmepump eller panna. Vi kontrollerar köldmedium, rengör filter och justerar värmekurvan så att huset inte värms mer än det behöver.", "text2": "Justerad värmekurva sparar i snitt 1 100 kWh per år i en halländsk villa.", "tagg": "hem"},
+    {"titel": "Värmepump och panna", "text": "Med abonnemanget Villa+ ingår årlig service av värmepump eller panna. Vi kontrollerar köldmedium, rengör filter och justerar värmekurvan så att huset inte värms mer än det behöver.", "text2": "Justerad värmekurva sparar i snitt 1 100 kWh per år i en halländsk villa.", "tagg": "hem"},
     {"titel": "Husjournal vid köp och försäljning", "text": "Protokollen från årsbesöken samlas i en digital husjournal med foton på installationer och datum för byten. Mäklare i Halmstad har börjat be om den vid visningar.", "text2": "Köparen kan ta över abonnemanget utan ny startavgift.", "tagg": "bostad"}
   ],
   "bolag": [
@@ -70,10 +70,10 @@
   "karriar": {
     "rubrik": "Planerade dagar, samma kunder varje år",
     "text": "Som tekniker hos Husrör har du ett eget område och lär känna husen och familjerna. Dagarna är bokade i förväg, och jour delas på åtta personer så att det blir högst en vecka per kvartal.",
-    "jobb": [["Servicetekniker VVS", "Halmstad"], ["Servicetekniker VVS", "Falkenberg"], ["Kundtjänst och bokning", "Halmstad"]]
+    "jobb": [["Serviceinstallatör med eget område", "Halmstad"], ["Serviceinstallatör med eget område", "Falkenberg"], ["Kundtjänst och bokning", "Halmstad"]]
   },
   "kultur": "Varje tekniker har sitt eget område och sina egna kunder, och många får julkort från familjerna.",
-  "citat": {"text": "Ingen förväntar sig att bilen ska gå i tio år utan service. Ändå gör vi så med rören i huset. Vi vill att den årliga kontrollen ska bli lika självklar som besiktningen.", "namn": "Emir Kovač", "roll": "Medgrundare och vd", "tagg": "people"},
+  "citat": {"text": "Ingen förväntar sig att bilen ska gå i tio år utan service. Ändå gör vi så med rören i huset. Vi vill att den årliga kontrollen ska bli lika självklar som besiktningen.", "namn": "Emir Kovač", "roll": "Vd och en av grundarna", "tagg": "people"},
   "omdomen": [
     {"text": "Teknikern hittade en läckande ventil bakom tvättmaskinen som vi aldrig hade sett. Det hade blivit en vattenskada inom ett år.", "namn": "Caroline J.", "ort": "Tylösand"},
     {"text": "Beredaren dog en tisdagskväll. Vi hade varmvatten igen på onsdag lunch och betalade exakt det pris som stod i avtalet.", "namn": "Fredrik och Elsa M.", "ort": "Getinge"},

@@ -23,7 +23,7 @@
     {"titel": "Torpargrunder", "ikon": "sten", "href": "verksamhet.html", "text": "Rötskadade syllar byts och grunden ventileras om."},
     {"titel": "Avfuktare med larm", "ikon": "laddning", "href": "verksamhet.html", "text": "Avfuktare som skickar värden och larm till telefonen."},
     {"titel": "Skärgårdshus", "ikon": "bat", "href": "verksamhet.html", "text": "Vi tar arbetsbåten ut till öar utan bilväg."},
-    {"titel": "Fasta priser", "ikon": "portfolj", "href": "priser.html", "text": "Besiktning, avfuktare och krypgrund till fast pris."},
+    {"titel": "Prislista", "ikon": "portfolj", "href": "priser.html", "text": "Besiktning, avfuktare och krypgrund till fast pris."},
     {"titel": "Boka Karin", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Besiktning inom två veckor, även på helger sommartid."}
   ],
   "affarsomraden": [
@@ -57,9 +57,9 @@
     {"namn": "Stugbyn på Händelöp", "ort": "Västervik", "typ": "Sex krypgrunder", "ar": "2026", "text": "Sex uthyrningsstugor får nya grunder och avfuktare före nästa säsong.", "tagg": "hem", "status": "Pågående"}
   ],
   "process": [
-    {"titel": "Besiktning", "text": "Karin mäter fuktkvot i virket, tar mögelprover och fotograferar grunden.", "tagg": "kontor"},
+    {"titel": "Mätning på plats", "text": "Karin mäter fuktkvot i virket, tar mögelprover och fotograferar grunden.", "tagg": "kontor"},
     {"titel": "Åtgärdsförslag", "text": "Du får ett protokoll med vad som måste rivas, vad som kan saneras och ett fast pris.", "tagg": "kontor"},
-    {"titel": "Rivning och sanering", "text": "Grundlaget river ut skadat material, sanerar och bygger upp det som behövs.", "tagg": "hem"},
+    {"titel": "Utrivning och sanering", "text": "Grundlaget river ut skadat material, sanerar och bygger upp det som behövs.", "tagg": "hem"},
     {"titel": "Avfuktare och övervakning", "text": "Avfuktaren installeras och skickar värden till dig och till oss året runt.", "tagg": "el"}
   ],
   "hallbarhet": {
@@ -92,12 +92,12 @@
   "prislista_rubrik": "Styckpriser och tillval",
   "priser_rubrik": "Besiktning, avfuktning och krypgrund",
   "priser_not": "Priserna gäller inklusive moms och före ROT-avdrag på arbetskostnaden.",
-  "sidor": [["verksamhet", "Under golvet", "verksamhet"], ["priser", "Priser", "priser"], ["projekt", "Torra hus", "projekt"], ["bolag", "Vi som kryper", "bolag"], ["hallbarhet", "Mätningar", "hallbarhet"], ["faq", "Frågor & svar", "faq"], ["karriar", "Jobba hos oss", "karriar"], ["om-oss", "Om oss", "om-oss"]],
+  "sidor": [["verksamhet", "Under golvet", "verksamhet"], ["priser", "Priser", "priser"], ["projekt", "Torra hus", "projekt"], ["bolag", "Vi som kryper", "bolag"], ["hallbarhet", "Mätningar", "hallbarhet"], ["faq", "Fuktfrågor", "faq"], ["karriar", "Lediga tjänster", "karriar"], ["om-oss", "Om företaget", "om-oss"]],
   "certifikat": [
     {"titel": "Diplomerad fuktsakkunnig", "text": "Karin Edholm och en kollega har RISE-diplom som fuktsakkunniga.", "ikon": "vatten"},
     {"titel": "Ackrediterad mögelanalys", "text": "Mögelprover analyseras av ett laboratorium ackrediterat av Swedac.", "ikon": "sok"},
     {"titel": "Behörig kyltekniker", "text": "Avfuktarna installeras av tekniker med certifikat för köldmediehantering.", "ikon": "kugge"},
-    {"titel": "Ansvarsförsäkring 5 Mkr", "text": "Försäkring som täcker skador på fastigheten vid lyft och syllbyten.", "ikon": "las"}
+    {"titel": "Försäkring 5 Mkr", "text": "Försäkring som täcker skador på fastigheten vid lyft och syllbyten.", "ikon": "las"}
   ],
   "kunder": ["Brf Slottsholmen", "Hasselö Stugägare", "Händelöps Stugby", "Gamleby Hembygdsgård", "Västerviks Fritidshusförening", "Loftahammars Mäkleri", "Tjust Villaförvaltning"],
   "kunder_rubrik": "Husägare och föreningar i Tjust",
@@ -113,7 +113,7 @@
   "bild": {"hb": "hem", "panel": "people"},
   "text": {
     "hero_knapp": "Det vi gör under golvet",
-    "hero_lank": "Se fasta priser",
+    "hero_lank": "Prislistan",
     "vagval_etikett": "Grundtyper",
     "ber_etikett": "Under golven i Tjust",
     "ber_rubrik": "Senaste grunderna vi torkat",
@@ -128,7 +128,7 @@
     "priser_knapp": "Boka",
     "sida_priser_ingress": "Fasta priser för besiktning och avfuktning. Större rivningar prissätts efter besiktningen.",
     "certifikat_rubrik": "Fuktsakkunniga och behöriga",
-    "logos_etikett": "Uppdragsgivare",
+    "logos_etikett": "Kunder i Tjust",
     "boka_rubrik": "Boka en fuktbesiktning",
     "boka_text": "Skriv var huset ligger, vilken sorts grund det har och vad du har märkt. Karin ringer upp inom två arbetsdagar.",
     "boka_falt": ["Namn", "Telefon", "Husets adress eller ö", "Grundtyp och vad du märkt"],

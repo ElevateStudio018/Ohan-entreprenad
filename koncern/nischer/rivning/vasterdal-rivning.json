@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Fjällaget", "segment": "6 rivare och förare", "rubrik": "Bandvagn och lätta maskiner", "text": "En 14-tons grävare som går att lyfta i delar, en terrängdumper och vår bandvagn med flak.", "tagg": "anlaggning"},
     {"namn": "Lift & Lyft", "segment": "3 montörer", "rubrik": "Linor, stolpar och vinschar", "text": "Före detta liftmontörer som vet hur en lift sitter ihop – och hur den tas isär säkert.", "tagg": "rivning"},
-    {"namn": "Dalgången", "segment": "4 rivare", "rubrik": "Vintersäsongens uppdrag", "text": "Tar villor, lador och industrilokaler i Malungsbygden från november till maj.", "tagg": "bostad"}
+    {"namn": "Dalgången", "segment": "4 rivare vintertid", "rubrik": "Vintersäsongens uppdrag", "text": "Tar villor, lador och industrilokaler i Malungsbygden från november till maj.", "tagg": "bostad"}
   ],
   "berattelser": [
     {"rubrik": "Sista släpliften på Östfjället", "text": "En lift från 1971 med 22 stolpar är nedplockad – drivstationen står nu i en backe i Jämtland.", "tagg": "anlaggning"},
@@ -51,9 +51,9 @@
   "projekt": [
     {"namn": "Släpliften på Östfjället", "ort": "Sälen", "typ": "Liftdemontering", "ar": "2026", "text": "22 stolpar och 1 900 meter lina nedtagna, fundamenten bilade och marken sådd.", "tagg": "anlaggning"},
     {"namn": "Stugbyn vid Limedsforsen", "ort": "Lima", "typ": "Rivning av stugby", "ar": "2026", "text": "Sexton uthyrningsstugor rivna, fem timmerstugor sålda som byggsatser.", "tagg": "tra"},
-    {"namn": "Fjällhotellet i Idre", "ort": "Idre", "typ": "Sanering och rivning", "ar": "2025", "text": "Ett hotell på 4 200 kvadratmeter med asbest i kanalerna, rivet på en sommar.", "tagg": "rivning"},
+    {"namn": "Fjällhotellet i Idre", "ort": "Idre", "typ": "Hotellrivning med sanering", "ar": "2025", "text": "Ett hotell på 4 200 kvadratmeter med asbest i kanalerna, rivet på en sommar.", "tagg": "rivning"},
     {"namn": "Toppstugan", "ort": "Transtrand", "typ": "Rivning utan väg", "ar": "2025", "text": "En restaurang på kalfjället, allt material fraktat med bandvagn på 61 turer.", "tagg": "natur"},
-    {"namn": "Snickerifabriken i Malung", "ort": "Malung", "typ": "Vinterrivning", "ar": "2025", "text": "En nedlagd snickerifabrik riven i januari, med tjältining under plattan.", "tagg": "industri"},
+    {"namn": "Snickerifabriken i Malung", "ort": "Malung", "typ": "Rivning vintertid", "ar": "2025", "text": "En nedlagd snickerifabrik riven i januari, med tjältining under plattan.", "tagg": "industri"},
     {"namn": "Stolliften i Stöten", "ort": "Sälen", "typ": "Liftdemontering", "ar": "2026", "text": "En fyrstolslift från 1988 demonteras för att säljas vidare till en anläggning i Norge.", "tagg": "anlaggning", "status": "Pågående"}
   ],
   "process": [
@@ -69,7 +69,7 @@
   },
   "karriar": {"rubrik": "Somrar på fjället, vintrar i dalen", "text": "Vi söker en maskinförare som trivs i terräng och en montör med erfarenhet av liftar eller höjdarbete. Året runt-anställning – arbetsplatsen flyttar med säsongen.", "jobb": [["Maskinförare terräng", "Malung"], ["Liftmontör, demontering", "Sälen"]]},
   "kultur": "Midsommarafton firar vi alltid på det fjäll där vi arbetar – med bandvagnen som långbord.",
-  "citat": {"text": "Den första liften jag tog ned hade jag själv kört upp folk med i femton år. Man lär sig var varje bult sitter.", "namn": "Lars Kalvholm", "roll": "Grundare", "tagg": "people"},
+  "citat": {"text": "Den första liften jag tog ned hade jag själv kört upp folk med i femton år. Man lär sig var varje bult sitter.", "namn": "Lars Kalvholm", "roll": "Grundare och liftmontör", "tagg": "people"},
   "omdomen": [
     {"text": "Liften var borta och marken sådd innan vi öppnade för säsongen. Nästa sommar syntes det knappt var den stått.", "namn": "Mikael J.", "ort": "Sälen"},
     {"text": "Fem av våra gamla stockstugor står nu på tomter runt Siljan. Det tyckte vi var bättre än att elda upp dem.", "namn": "Britt-Marie O.", "ort": "Lima"},
@@ -84,10 +84,10 @@
     ["Vilka områden tar ni uppdrag i?", "Malung-Sälen, Älvdalen och Vansbro kommuner. Liftdemontering tar vi i hela fjällkedjan."]
   ],
   "certifikat": [
-    {"titel": "Asbesttillstånd", "text": "Arbetsmiljöverkets tillstånd, så att vi kan sanera fjällhotell innan rivningen börjar.", "ikon": "skold"},
+    {"titel": "Tillstånd för asbestrivning", "text": "Arbetsmiljöverkets tillstånd, så att vi kan sanera fjällhotell innan rivningen börjar.", "ikon": "skold"},
     {"titel": "Utbildning i höjdarbete", "text": "Alla montörer har fallskyddsutbildning och intyg för arbete på stolpar och i linor.", "ikon": "hjalm"},
     {"titel": "Terrängkörning", "text": "Dispens från terrängkörningslagen för bandvagnen inom avtalade körleder.", "ikon": "bil"},
-    {"titel": "Maskinförarintyg", "text": "Förarintyg för grävmaskin och terrängdumper enligt branschens utbildningskrav.", "ikon": "dokument"}
+    {"titel": "Förarintyg för terrängmaskiner", "text": "Förarintyg för grävmaskin och terrängdumper enligt branschens utbildningskrav.", "ikon": "dokument"}
   ],
   "kunder": ["Östfjällets Skidanläggning", "Idre Fjällhem", "Lima Stugby", "Transtrands Fjällrestauranger", "Brf Högfjällsbyn", "Malungs Snickerifastigheter", "Stöten Liftbolag"],
   "kunder_rubrik": "Skidanläggningar och stugägare",
@@ -104,7 +104,7 @@
   "text": {
     "hero_knapp": "Det vi tar ned",
     "hero_lank": "Gjort på fjället",
-    "vagval_etikett": "Uppdrag",
+    "vagval_etikett": "Fjälluppdrag",
     "ber_etikett": "Från fjället",
     "ber_rubrik": "Sommarens nedtagningar",
     "proj_rubrik": "Liftar, stugbyar och hotell",

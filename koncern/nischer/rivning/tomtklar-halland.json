@@ -33,8 +33,8 @@
     {"titel": "Inventering och papper", "text": "Kommunen kräver en rivningsanmälan med materialinventering och kontrollplan. Vi tar prover på misstänkt asbest, skriver planen och skickar in allt åt dig.", "text2": "I Halmstad och Laholm brukar startbeskedet komma inom tre till fyra veckor.", "tagg": "kontor"}
   ],
   "bolag": [
-    {"namn": "Rivning", "segment": "6 maskinförare och rivare", "rubrik": "Två lag, två grävare", "text": "Ett lag på 22-tonnare för villor med källare och ett på 14-tonnare för sommarhusområden.", "tagg": "rivning"},
-    {"namn": "Sanering", "segment": "2 sanerare", "rubrik": "Eternit och mattor först", "text": "Tar bort asbest och PCB dagarna innan maskinerna kommer.", "tagg": "bygg"},
+    {"namn": "Rivarlagen", "segment": "6 maskinförare och rivare", "rubrik": "Två lag, två grävare", "text": "Ett lag på 22-tonnare för villor med källare och ett på 14-tonnare för sommarhusområden.", "tagg": "rivning"},
+    {"namn": "Saneringen", "segment": "2 sanerare med tillstånd", "rubrik": "Eternit och mattor först", "text": "Tar bort asbest och PCB dagarna innan maskinerna kommer.", "tagg": "bygg"},
     {"namn": "Kalkyl & Kontakt", "segment": "Jesper och en kalkylator", "rubrik": "Ett pris som håller", "text": "Inventerar husen, räknar fasta priser och sköter anmälan till kommunen.", "tagg": "kontor"}
   ],
   "berattelser": [
@@ -54,11 +54,11 @@
     {"namn": "Tvåplansvillan i Laholm", "ort": "Laholm", "typ": "Villa med eternitfasad", "ar": "2025", "text": "Fasaden sanerades först, sedan revs huset och oljetanken grävdes upp.", "tagg": "bostad"},
     {"namn": "Tre garage på Söndrum", "ort": "Halmstad", "typ": "Garage och förråd", "ar": "2025", "text": "Tre fristående garage rivna på en dag åt en samfällighet.", "tagg": "rivning"},
     {"namn": "Strandvillan i Skrea", "ort": "Falkenberg", "typ": "Villa och pool", "ar": "2024", "text": "Villa och betongpool bort inför ett nytt arkitektritat hus.", "tagg": "mark"},
-    {"namn": "Radhuslängan i Varberg", "ort": "Varberg", "typ": "Rivning för förtätning", "ar": "2026", "text": "Fyra radhus från 1958 rivs åt en byggherre som ska bygga tolv lägenheter.", "tagg": "bostad", "status": "Pågående"}
+    {"namn": "Radhuslängan i Varberg", "ort": "Varberg", "typ": "Radhus för förtätning", "ar": "2026", "text": "Fyra radhus från 1958 rivs åt en byggherre som ska bygga tolv lägenheter.", "tagg": "bostad", "status": "Pågående"}
   ],
   "process": [
     {"titel": "Hembesök", "text": "Jesper går igenom huset, tar asbestprov och letar efter oljetank och källare.", "tagg": "bygg"},
-    {"titel": "Fast pris", "text": "Du får ett pris som inte ändras – inventeringen är redan gjord och inräknad.", "tagg": "kontor"},
+    {"titel": "Pris som står fast", "text": "Du får ett pris som inte ändras – inventeringen är redan gjord och inräknad.", "tagg": "kontor"},
     {"titel": "Anmälan och rivning", "text": "Vi skickar anmälan, väntar in startbeskedet och river på fem till sju arbetsdagar.", "tagg": "rivning"},
     {"titel": "Packad tomt", "text": "Grund och källare fylls och packas. Du får packningsprotokoll och vägningskvitton.", "tagg": "mark"}
   ],
@@ -67,9 +67,9 @@
     "text": "Tegel och betong från huset krossas på tomten och blir fyllning i källaren, så att vi slipper köra in ny grus och köra ut gamla massor. Trä, metall och gips sorteras i separata containrar och körs till återvinningscentralen i Halmstad.",
     "mal": [["70 %", "av husets vikt stannar på tomten som fyllning"], ["7", "fraktioner på varje rivning"], ["0 kr", "i tilläggsdebitering sedan 2015"]]
   },
-  "karriar": {"rubrik": "Ett hus i veckan, hemma varje kväll", "text": "Vi arbetar inom fem mil från Halmstad, så du sover hemma varje natt. Just nu söker vi en maskinförare med erfarenhet av sax och packning.", "jobb": [["Maskinförare grävmaskin", "Halmstad"]]},
+  "karriar": {"rubrik": "Ett hus i veckan, hemma varje kväll", "text": "Vi arbetar inom fem mil från Halmstad, så du sover hemma varje natt. Just nu söker vi en maskinförare med erfarenhet av sax och packning.", "jobb": [["Maskinförare sax och packning", "Halmstad"]]},
   "kultur": "När ett hus är borta åker hela laget och köper glass på Strandvägen – även i november.",
-  "citat": {"text": "Folk som köper en tomt har redan en budget som är spänd. Det sista de behöver är ett rivningspris som växer.", "namn": "Jesper Nordin", "roll": "Grundare", "tagg": "people"},
+  "citat": {"text": "Folk som köper en tomt har redan en budget som är spänd. Det sista de behöver är ett rivningspris som växer.", "namn": "Jesper Nordin", "roll": "Grundare och kalkylator", "tagg": "people"},
   "omdomen": [
     {"text": "Offerten var 168 000 kronor och fakturan var 168 000 kronor. Oljetanken de hittade fanns redan med.", "namn": "Daniel K.", "ort": "Halmstad"},
     {"text": "Husfabriken sa att det var den bäst packade tomten de fått på länge. Vi kunde gjuta plattan veckan efter.", "namn": "Maria L.", "ort": "Laholm"},
@@ -91,10 +91,10 @@
   "prislista": [["Fristående garage upp till 40 kvm", "28 500 kr"], ["Carport", "12 900 kr"], ["Betongpool, rivning och fyllning", "fr. 36 000 kr"], ["Nedgrävd oljetank", "fr. 9 800 kr"], ["Eternitfasad, sanering", "fr. 410 kr/kvm"], ["Stenmur, per löpmeter", "fr. 650 kr"], ["Framkörning norr om Varberg", "4 500 kr"]],
   "prislista_rubrik": "Tillägg och styckpriser",
   "priser_rubrik": "Tre paket för de vanligaste husen",
-  "priser_not": "Alla priser inklusive moms. Priset fastställs efter hembesök och ändras inte efter att du skrivit på.",
-  "sidor": [["verksamhet", "Det vi river", "verksamhet"], ["priser", "Paketpriser", "priser"], ["projekt", "Rivna hus", "projekt"], ["bolag", "Vi på Tomtklar", "bolag"], ["hallbarhet", "Sortering", "hallbarhet"], ["faq", "Frågor & svar", "faq"], ["karriar", "Jobba hos oss", "karriar"], ["om-oss", "Om oss", "om-oss"]],
+  "priser_not": "Priserna inkluderar moms. Priset fastställs efter hembesök och ändras inte efter att du skrivit på.",
+  "sidor": [["verksamhet", "Hus vi river", "verksamhet"], ["priser", "Paketpriser", "priser"], ["projekt", "Rivna hus", "projekt"], ["bolag", "Vi på Tomtklar", "bolag"], ["hallbarhet", "Massor", "hallbarhet"], ["faq", "Vanliga undringar", "faq"], ["karriar", "Jobb", "karriar"], ["om-oss", "Om Tomtklar", "om-oss"]],
   "certifikat": [
-    {"titel": "Asbesttillstånd", "text": "Arbetsmiljöverkets tillstånd för rivning av eternit, mattor och annat asbesthaltigt material.", "ikon": "skold"},
+    {"titel": "Tillstånd för eternit", "text": "Arbetsmiljöverkets tillstånd för rivning av eternit, mattor och annat asbesthaltigt material.", "ikon": "skold"},
     {"titel": "Certifierad kontrollansvarig", "text": "Jesper Nordin är certifierad kontrollansvarig enligt plan- och bygglagen, behörighet N.", "ikon": "dokument"},
     {"titel": "Maskinförarintyg och ID06", "text": "Alla förare har intyg för grävmaskin och är registrerade i personalliggaren.", "ikon": "hjalm"},
     {"titel": "Allriskförsäkring 10 Mkr", "text": "Försäkringen täcker skador på grannfastigheter, staket och planteringar.", "ikon": "las"}

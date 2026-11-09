@@ -34,8 +34,8 @@
   ],
   "bolag": [
     {"namn": "Projekt", "segment": "3 projektledare", "rubrik": "Ombyggnader under lov", "text": "Planerar köksombyggnader tillsammans med köksprojektörer, kockar och kommunernas fastighetsavdelningar.", "tagg": "kontor"},
-    {"namn": "Installation", "segment": "13 rörmokare", "rubrik": "Rostfritt och avlopp", "text": "Bygger nya kök och byter rännor, brunnar och avskiljare när köket är stängt.", "tagg": "vvs"},
-    {"namn": "Service och jour", "segment": "9 tekniker", "rubrik": "Natt och helg", "text": "Servar avskiljare och diskmaskiner och tar restaurangernas akuta stopp på kvällar och helger.", "tagg": "vvs"},
+    {"namn": "Ombyggnad", "segment": "13 rörmokare", "rubrik": "Rostfritt och avlopp", "text": "Bygger nya kök och byter rännor, brunnar och avskiljare när köket är stängt.", "tagg": "vvs"},
+    {"namn": "Service och nattjour", "segment": "9 tekniker", "rubrik": "När köken är fulla", "text": "Servar avskiljare och diskmaskiner och tar restaurangernas akuta stopp på kvällar och helger.", "tagg": "vvs"},
     {"namn": "Spolbil", "segment": "3 förare", "rubrik": "Tömning och spolning", "text": "Tömmer fettavskiljare och spolar köksavlopp och servisledningar.", "tagg": "anlaggning"}
   ],
   "berattelser": [
@@ -74,7 +74,7 @@
     "jobb": [["Rörmokare storkök", "Eskilstuna"], ["Servicetekniker med jour", "Katrineholm"], ["Spolbilsförare", "Eskilstuna"]]
   },
   "kultur": "Fredagslunchen lagas av en av oss i verkstadens kök – Johan står vid spisen minst en gång i månaden.",
-  "citat": {"text": "En kock förlåter dig nästan allt utom att köket står still mitt i serveringen. Därför planerar vi efter deras klocka, inte vår.", "namn": "Johan Thörn", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "En kock förlåter dig nästan allt utom att köket står still mitt i serveringen. Därför planerar vi efter deras klocka, inte vår.", "namn": "Johan Thörn", "roll": "Grundare, före detta kock", "tagg": "people"},
   "omdomen": [
     {"text": "Avloppet stack en lördag med fullbokat. Grytan var här på en kvart och vi kunde servera andra sittningen som vanligt.", "namn": "Robin A., köksmästare", "ort": "Eskilstuna"},
     {"text": "Nio kök på ett sommarlov, och alla var klara när personalen kom tillbaka. Det har ingen klarat förut.", "namn": "Eva-Lena S., måltidschef", "ort": "Torshälla"},

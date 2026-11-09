@@ -36,7 +36,7 @@
     {"namn": "Robotlagen", "segment": "15 operatörer", "rubrik": "Sju robotar, tre skift", "text": "Operatörer som kör robotar för horisontella ytor, väggar och undersidor av bjälklag.", "tagg": "infra"},
     {"namn": "Pump & Vatten", "segment": "5 tekniker", "rubrik": "2 500 bar och renat vatten", "text": "Sköter högtryckspumpar, slangdragning och de tre mobila reningsanläggningarna.", "tagg": "anlaggning"},
     {"namn": "Betongteknik", "segment": "3 betongingenjörer", "rubrik": "Provborrning och djupkartor", "text": "Tar borrkärnor, mäter klorider och kartlägger hur djupt bilningen ska gå.", "tagg": "kontor"},
-    {"namn": "Arbetsledning", "segment": "Mats och 3 arbetsledare", "rubrik": "TMA, trafik och avställningar", "text": "Planerar trafikanordningar, avställningar och skiftschema tillsammans med beställaren.", "tagg": "kontor"}
+    {"namn": "Planering & Trafik", "segment": "Mats och 3 arbetsledare", "rubrik": "TMA, trafik och avställningar", "text": "Planerar trafikanordningar, avställningar och skiftschema tillsammans med beställaren.", "tagg": "kontor"}
   ],
   "berattelser": [
     {"rubrik": "Bron vid Lilla Edet", "text": "380 meter kantbalk bilades på sex nätter med ett körfält öppet hela tiden.", "tagg": "infra"},
@@ -70,7 +70,7 @@
   },
   "karriar": {"rubrik": "Styr en robot med 2 500 bar", "text": "Vi söker operatörer som vill arbeta i skift på broar, dammar och i garage. Du får intern utbildning på robotarna och utbildning för arbete på väg.", "jobb": [["Robotoperatör vattenbilning", "Trollhättan"], ["Pumptekniker", "Trollhättan"], ["Betongingenjör", "Trollhättan"]]},
   "kultur": "Efter varje nattskift på en bro bjuder arbetsledaren på frukost på första öppna mack.",
-  "citat": {"text": "Mejsel och hammare skakar sönder det som ska stå kvar. Vatten tar bara det som redan är dåligt.", "namn": "Mats Wennerholm", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "Mejsel och hammare skakar sönder det som ska stå kvar. Vatten tar bara det som redan är dåligt.", "namn": "Mats Wennerholm", "roll": "Grundare och teknisk chef", "tagg": "people"},
   "omdomen": [
     {"text": "Föreningen hade fått rådet att byta alla balkonger. Efter vattenbilningen kunde vi reparera dem för en tredjedel av priset.", "namn": "Kjell-Åke S.", "ort": "Trollhättan"},
     {"text": "Sex nätter, ett körfält öppet och inga trafikstörningar dagtid. Precis som planerat.", "namn": "Sofia M.", "ort": "Lilla Edet"},
@@ -81,13 +81,13 @@
     ["Hur djupt kan ni bila?", "Från några millimeter för ytbehandling till genomgående hål i bjälklag. Djupet styrs av tryck, flöde och robotens hastighet."],
     ["Blir det mycket vatten?", "En robot använder 150–250 liter per minut. Vattnet samlas upp, sedimenteras och pH-justeras i vår mobila reningsanläggning."],
     ["Bullrar det?", "Ja, vattenbilning är bullrigt, runt 100 dB nära roboten. Vi planerar arbetstider och bullerskärmar efter grannarna."],
-    ["Kan ni arbeta på vintern?", "Ja, så länge vi kan hålla slangar och pumpar frostfria. Under 0 grader använder vi uppvärmda pumpcontainrar."],
+    ["Går det att bila när det är minusgrader?", "Ja, så länge vi kan hålla slangar och pumpar frostfria. Under 0 grader använder vi uppvärmda pumpcontainrar."],
     ["Gjuter ni också?", "Nej, vi bilar och lämnar en ren yta. Gjutningen gör din betongentreprenör – vi samarbetar med flera i Västsverige."]
   ],
   "certifikat": [
     {"titel": "Arbete på väg, nivå 2", "text": "Alla operatörer och arbetsledare har Trafikverkets utbildning för arbete på väg.", "ikon": "vag"},
     {"titel": "Utsläppstillstånd", "text": "Miljöförvaltningens godkännande av våra mobila reningsanläggningar för processvatten.", "ikon": "vatten"},
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2012.", "ikon": "dokument"},
+    {"titel": "Kvalitet och miljö enligt ISO", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2012.", "ikon": "dokument"},
     {"titel": "Utbildning högtryck", "text": "Operatörerna har branschutbildning för högtrycksarbete över 500 bar.", "ikon": "skold"}
   ],
   "kunder": ["Göta Älvs Vattenkraft", "Brf Strömkarlen", "Uddevalla Parkeringsbolag", "Väst Broentreprenad", "Lidköpings Mejeriindustri", "Trollhätte Kanalfastigheter", "Vänersborgs Bostadsbolag"],
@@ -115,7 +115,7 @@
     "omdomen_rubrik": "Beställare om resultatet",
     "faq_rubrik": "Om vattenbilning",
     "certifikat_rubrik": "Behörigheter för väg, vatten och högtryck",
-    "logos_etikett": "Beställare",
+    "logos_etikett": "Beställarna",
     "boka_rubrik": "Vilken betong är skadad?",
     "boka_text": "Bifoga ritning eller foton och beskriv skadan. En betongingenjör svarar med metodförslag inom tre arbetsdagar.",
     "boka_falt": ["Namn", "Telefon", "Organisation", "Konstruktion, skada och plats"],

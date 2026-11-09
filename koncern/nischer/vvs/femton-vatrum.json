@@ -65,12 +65,12 @@
   "hallbarhet": {
     "rubrik": "Färre transporter, mindre spill",
     "text": "När allt material levereras på en pall försvinner de dagliga turerna till byggvaruhuset. Vi beräknar materialåtgången per badrum, så att spillet av kakel och klinker ligger under fem procent. Rivningsavfallet sorteras i en container per badrum och körs till Piteå återvinningscentral samma dag.",
-    "mal": [["1", "leverans per badrum"], ["< 5 %", "spill av kakel och klinker"], ["10 år", "garanti på tätskikt"]]
+    "mal": [["1", "leverans per badrum"], ["< 5 %", "spill av kakel och klinker"], ["10 år", "tätskiktsgaranti enligt BKR"]]
   },
   "karriar": {
     "rubrik": "Du vet var du jobbar om tre veckor",
     "text": "Femtondagarsschemat gör att du vet exakt var du ska vara varje dag. Inga sena kvällar för att hinna klart, inga väntedagar. Vi söker plattsättare och rörmokare till lagen i Piteå och Boden.",
-    "jobb": [["Plattsättare med BKR-behörighet", "Piteå"], ["Rörmokare badrum", "Piteå"], ["Plattsättare", "Boden"]]
+    "jobb": [["Plattsättare, våtrum", "Piteå"], ["Rörmokare badrum", "Piteå"], ["Plattsättare till Bodenlaget", "Boden"]]
   },
   "kultur": "När ett lag har klarat tio badrum i rad inom schemat bjuder vi på middag på Pite Havsbad.",
   "citat": {"text": "Folk är inte rädda för vad ett badrum kostar. De är rädda för att det aldrig ska bli klart. Därför lovar vi ett datum – och betalar när vi inte håller det.", "namn": "Johanna Sandberg", "roll": "Medgrundare och vd", "tagg": "people"},
@@ -85,11 +85,11 @@
     ["Måste jag vara hemma?", "Nej. Du lämnar en nyckel eller kod, och vi skickar foton varje eftermiddag."],
     ["Hur långt fram ligger startdatumen?", "Just nu cirka sex veckor. Lediga startveckor syns i planeraren."],
     ["Ingår el i priset?", "Ja, eluttag, belysning och anslutning av handdukstork ingår och görs av vår egen elektriker."],
-    ["Får jag rotavdrag?", "Ja. Paketpriserna visas före och efter rotavdrag, och vi drar det direkt på fakturan."]
+    ["Hur fungerar rotavdraget?", "Ja. Paketpriserna visas före och efter rotavdrag, och vi drar det direkt på fakturan."]
   ],
   "priser": [
-    {"namn": "Kompakt", "pris": "fr. 179 000 kr", "enhet": "upp till 4 kvm", "text": "För lägenheter och mindre radhus.", "punkter": ["Rivning och nytt tätskikt", "Duschhörna och vägghängd toalett", "Kommod och spegel ur paketet", "Femton arbetsdagar"]},
-    {"namn": "Standard", "pris": "fr. 219 000 kr", "enhet": "4–6 kvm", "text": "Det badrum de flesta väljer.", "punkter": ["Allt i Kompakt", "Golvvärme och handdukstork", "Fritt val inom 60 kakelsorter", "Förseningsgaranti 1 500 kr per dag"], "utvald": true},
+    {"namn": "Kompakt", "pris": "fr. 179 000 kr", "enhet": "upp till 4 kvm", "text": "Passar lägenheter och små radhus.", "punkter": ["Rivning och nytt tätskikt", "Duschhörna och vägghängd toalett", "Kommod och spegel ur paketet", "Femton arbetsdagar"]},
+    {"namn": "Standard", "pris": "fr. 219 000 kr", "enhet": "4–6 kvm", "text": "Det badrum de flesta väljer.", "punkter": ["Allt i Kompakt", "Elgolvvärme och handdukstork ingår", "Fritt val inom 60 kakelsorter", "Förseningsgaranti 1 500 kr per dag"], "utvald": true},
     {"namn": "Familj", "pris": "fr. 269 000 kr", "enhet": "6–8 kvm", "text": "Plats för badkar eller dubbla handfat.", "punkter": ["Allt i Standard", "Badkar eller dubbelkommod", "Tvättmaskinsanslutning i badrummet", "Femton dagar även för de stora"]}
   ],
   "certifikat": [
@@ -124,7 +124,7 @@
     "faq_rubrik": "Frågor om tid och pris",
     "priser_etikett": "Paket",
     "priser_rubrik": "Tre storlekar, ett schema",
-    "priser_not": "Priser inklusive moms, före rotavdrag. Gäller vid val inom paketets utbud.",
+    "priser_not": "Inklusive moms och före rotavdrag, så länge du väljer inom paketets utbud.",
     "priser_utvald": "Flest bokningar",
     "priser_knapp": "Boka startdatum",
     "boka_rubrik": "Boka mätbesök",

@@ -51,15 +51,15 @@
   ],
   "projekt": [
     {"namn": "Lagerhallen på Hedensbyn", "ort": "Skellefteå", "typ": "Rivning och krossning", "ar": "2026", "text": "14 000 ton betong krossat på plats och utlagt som bärlager i ny industrigata.", "tagg": "rivning"},
-    {"namn": "Hyreshusen på Morö Backe", "ort": "Skellefteå", "typ": "Rivning för förtätning", "ar": "2025", "text": "Två trevåningshus från 1966 rivna, källarna fyllda med egen kross.", "tagg": "bostad"},
+    {"namn": "Hyreshusen på Morö Backe", "ort": "Skellefteå", "typ": "Förtätningsrivning", "ar": "2025", "text": "Två trevåningshus från 1966 rivna, källarna fyllda med egen kross.", "tagg": "bostad"},
     {"namn": "Gamla mejeriet", "ort": "Byske", "typ": "Grund och platta", "ar": "2025", "text": "En platta på 3 600 kvadratmeter bruten och krossad till fyllning för nya villatomter.", "tagg": "mark"},
-    {"namn": "Verkstaden vid hamnen", "ort": "Kåge", "typ": "Totalrivning", "ar": "2025", "text": "En verkstad med kranbana riven, 190 ton stål till skrot.", "tagg": "industri"},
-    {"namn": "Skolan i Burträsk", "ort": "Burträsk", "typ": "Rivning och sanering", "ar": "2024", "text": "En skola från 1971 med asbestmattor sanerad av underentreprenör och riven på åtta veckor.", "tagg": "rivning"},
+    {"namn": "Verkstaden vid hamnen", "ort": "Kåge", "typ": "Verkstadsrivning", "ar": "2025", "text": "En verkstad med kranbana riven, 190 ton stål till skrot.", "tagg": "industri"},
+    {"namn": "Skolan i Burträsk", "ort": "Burträsk", "typ": "Skolrivning", "ar": "2024", "text": "En skola från 1971 med asbestmattor sanerad av underentreprenör och riven på åtta veckor.", "tagg": "rivning"},
     {"namn": "Kvarteret Lärkan", "ort": "Skellefteå", "typ": "Rivning för bostäder", "ar": "2026", "text": "Ett kontorshus och två garage rivs inför 140 nya lägenheter.", "tagg": "stad", "status": "Pågående"}
   ],
   "process": [
     {"titel": "Massberäkning", "text": "Vi räknar hur mycket betong som finns på tomten och hur mycket som kan stanna kvar.", "tagg": "kontor"},
-    {"titel": "Rivning och sortering", "text": "Byggnaden rivs, trä och plast sorteras bort och betongen läggs i en hög för krossen.", "tagg": "rivning"},
+    {"titel": "Riv, sortera, stapla", "text": "Byggnaden rivs, trä och plast sorteras bort och betongen läggs i en hög för krossen.", "tagg": "rivning"},
     {"titel": "Krossning och prov", "text": "Krossen och sikten ställs upp på tomten. Prover går till laboratoriet för varje parti.", "tagg": "mark"},
     {"titel": "Utlagd eller såld", "text": "Ballasten läggs ut som fyllning på tomten eller körs till upplaget i Kåge.", "tagg": "infra"}
   ],
@@ -70,7 +70,7 @@
   },
   "karriar": {"rubrik": "Skellefteå växer – det gör vi också", "text": "Vi har anställt sexton personer på åtta år och letar fortfarande. Vi söker krossoperatörer och maskinförare, och vi betalar körkort C och utbildning för den som saknar det.", "jobb": [["Krossoperatör", "Kåge"], ["Maskinförare rivning", "Skellefteå"], ["Kvalitetstekniker ballast", "Skellefteå"]]},
   "kultur": "Varje vår åker vi alla 22 till Byske havsbad för grillning och genomgång av sommarens tomter.",
-  "citat": {"text": "Det mest hållbara berget är det som redan är sprängt, krossat och gjutet en gång. Vi ger det bara ett jobb till.", "namn": "Johanna Marklund", "roll": "Medgrundare och vd", "tagg": "people"},
+  "citat": {"text": "Det mest hållbara berget är det som redan är sprängt, krossat och gjutet en gång. Vi ger det bara ett jobb till.", "namn": "Johanna Marklund", "roll": "Vd och delägare", "tagg": "people"},
   "omdomen": [
     {"text": "Hallen revs och betongen blev bärlager i gatan vi byggde på samma plats. Vi behövde inte köpa ett enda ton bergkross.", "namn": "Henrik L.", "ort": "Skellefteå"},
     {"text": "Prestandadeklarationen kom med varje leverans. Det gjorde godkännandet hos kommunen enkelt.", "namn": "Malin B.", "ort": "Skellefteå"},
@@ -88,7 +88,7 @@
     {"titel": "CE-märkning SS-EN 13242", "text": "Krossad betong deklareras enligt standarden för obundna material i väg- och anläggningsbyggande.", "ikon": "dokument"},
     {"titel": "Tillverkningskontroll", "text": "Fabriksproduktionskontroll med provning på ackrediterat laboratorium för varje parti.", "ikon": "sok"},
     {"titel": "Miljöanmälan krossning", "text": "Anmäld och godkänd verksamhet för krossning och upplag i Kåge.", "ikon": "lov"},
-    {"titel": "ISO 9001 och 14001", "text": "Ledningssystem för kvalitet och miljö, certifierat sedan 2022.", "ikon": "skold"}
+    {"titel": "ISO 9001 och 14001 sedan 2022", "text": "Ledningssystem för kvalitet och miljö, certifierat sedan 2022.", "ikon": "skold"}
   ],
   "kunder": ["Skellefteå Gatubyggen", "Hedensbyns Industripark", "Morö Backe Bostäder", "Byske Villatomter", "Kåge Hamnfastigheter", "Burträsks Kommunfastigheter", "Norrlands Vägbyggen AB", "Brf Sörböle Strand"],
   "kunder_rubrik": "De bygger med vår ballast",
@@ -115,7 +115,7 @@
     "omdomen_rubrik": "Byggare och villaägare om krossen",
     "faq_rubrik": "Om krossad betong",
     "certifikat_rubrik": "Deklarerat, provat och anmält",
-    "logos_etikett": "Kunder",
+    "logos_etikett": "Köpare och beställare",
     "boka_rubrik": "Hur stor är tomten?",
     "boka_text": "Beskriv byggnaden och ungefär hur mycket betong som finns. Johanna eller Viktor ringer upp inom två arbetsdagar.",
     "boka_falt": ["Namn", "Telefon", "E-post", "Byggnad, yta och adress"],

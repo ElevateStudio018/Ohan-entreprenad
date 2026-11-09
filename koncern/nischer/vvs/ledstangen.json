@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Arbetsterapi", "segment": "2 arbetsterapeuter", "rubrik": "Badrummet utgår från människan", "text": "Bedömer rörelseförmåga, mäter rullstol och rollator och skriver underlaget till bidragsansökan.", "tagg": "people"},
-    {"namn": "Badrumslaget", "segment": "9 hantverkare", "rubrik": "Rör, tätskikt och plattor", "text": "Rörmokare, plattsättare och en elektriker som bygger om i hem där någon ofta bor kvar under arbetet.", "tagg": "vvs"},
+    {"namn": "Badrumslaget", "segment": "Rör, platta och el – 9 personer", "rubrik": "Rör, tätskikt och plattor", "text": "Rörmokare, plattsättare och en elektriker som bygger om i hem där någon ofta bor kvar under arbetet.", "tagg": "vvs"},
     {"namn": "Snabbgruppen", "segment": "3 montörer", "rubrik": "Fem arbetsdagar", "text": "Monterar handtag, blandare och förhöjningar när en anpassning inte kan vänta.", "tagg": "vvs"},
     {"namn": "Kontoret i Kalmar", "segment": "2 personer", "rubrik": "Ansökningar och handläggare", "text": "Håller kontakten med kommunernas handläggare och påminner när ett beslut dröjer.", "tagg": "kontor"}
   ],
@@ -71,7 +71,7 @@
   "karriar": {
     "rubrik": "Hantverk som märks i någons vardag",
     "text": "Hos oss jobbar du i hem där människor ofta bor kvar, och tålamod är lika viktigt som tätskiktet. Vi söker en rörmokare och en plattsättare som vill se resultatet av sitt arbete i någons ansikte.",
-    "jobb": [["Rörmokare bostadsanpassning", "Kalmar"], ["Plattsättare med BKR-behörighet", "Kalmar"]]
+    "jobb": [["Rörmokare bostadsanpassning", "Kalmar"], ["Plattsättare, tillgängliga våtrum", "Kalmar"]]
   },
   "kultur": "Varje ny medarbetare får prova att duscha sittande och ta sig in i ett badrum med rullstol första veckan.",
   "citat": {"text": "Ett badrum kan se perfekt ut och ändå vara omöjligt att använda om man inte kan lyfta armarna. Därför börjar vi alltid med människan och slutar med kaklet.", "namn": "Mona Kjellberg", "roll": "Grundare och arbetsterapeut", "tagg": "people"},
@@ -106,7 +106,7 @@
   "fot_cta": "Fundera inte i onödan – boka ett hembesök med arbetsterapeut och rörmokare.",
   "bild": {"panel": "people", "hb": "interior"},
   "text": {
-    "kontakt_knapp": "Boka hembesök",
+    "kontakt_knapp": "Boka besök med terapeut",
     "hero_knapp": "Så anpassar vi",
     "vagval_etikett": "Behov",
     "ber_rubrik": "Senast från Ledstången",

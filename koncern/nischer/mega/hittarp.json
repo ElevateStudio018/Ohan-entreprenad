@@ -1,0 +1,150 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hittarp Rental Group AB (publ)",
+  "kortnamn": "Hittarp",
+  "slug": "hittarp",
+  "typ": "Uthyrningskoncern med säte i Helsingborg",
+  "tagline": "Hyr, bygg, lämna tillbaka",
+  "slogan": "Hittarp hyr ut maskiner, ställningar, moduler, byggel och väderskydd till byggen och industrier i sju länder – levererat innan första skiftet börjar.",
+  "hero_rubrik": "Allt bygget behöver – i morgon klockan sju",
+  "hero_text": "Beställ före klockan 15 så står maskinen, bodarna eller ställningen på plats nästa morgon. 412 depåer och 1 900 egna lastbilar gör att vi håller det löftet i 97 procent av fallen.",
+  "intro_rubrik": "Nordens största maskinpark, utan att någon behöver äga den",
+  "om": [
+    "Lantbrukaren Gösta Hammar i Hittarp köpte en grävmaskin 1964 för att dränera sina åkrar och hyrde ut den till grannarna när han inte själv behövde den. Tio år senare hade han tolv maskiner och slutade odla vete. Bolaget är fortfarande delvis ägt av familjen och har sitt huvudkontor tre kilometer från gården.",
+    "Hittarp har i dag 6 800 medarbetare, 410 000 maskiner och moduler i uthyrning och omsätter 14,1 miljarder kronor. Kunderna är byggföretag, industrier, kommuner och evenemangsarrangörer, och ingen enskild kund står för mer än tre procent av intäkterna."
+  ],
+  "vagval_rubrik": "Vad behöver ni hyra?",
+  "tjanster": [
+    {"titel": "Maskiner", "ikon": "kran", "href": "verksamhet.html", "text": "Grävmaskiner, hjullastare, lyftar och kompaktmaskiner – 64 procent eldrivna i stadskärnor."},
+    {"titel": "Ställning och väderskydd", "ikon": "hus", "href": "verksamhet.html", "text": "Fasadställningar och tak som gör att bygget kan pågå i regn och snö."},
+    {"titel": "Moduler och bodar", "ikon": "lada", "href": "verksamhet.html", "text": "Byggbodar, tillfälliga skolor och kontor med plats för upp till 800 personer."},
+    {"titel": "Byggel och värme", "ikon": "blixt", "href": "verksamhet.html", "text": "Elcentraler, batterier och torkaggregat för betong och fukt."},
+    {"titel": "Avstängning och trafik", "ikon": "vag", "href": "verksamhet.html", "text": "Trafikanordningsplaner, skyddsbarriärer och tillfälliga gångbroar."},
+    {"titel": "Montage och service", "ikon": "verktyg", "href": "verksamhet.html", "text": "Egna montörer som bygger ställningar, ansluter el och servar maskinerna på plats."},
+    {"titel": "Jobba på depån", "ikon": "folk", "href": "karriar.html", "text": "Servicetekniker, chaufförer och ställningsbyggare i 412 depåer."},
+    {"titel": "Investerare", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för HITT B."}
+  ],
+  "affarsomraden": [
+    {"titel": "Maskinuthyrning", "text": "Från borrmaskiner till 50-tons grävmaskiner, hyrda per dag, vecka eller hela projektet. Maskinerna har GPS och mätare som registrerar timmar, bränsle och laddning, så att kunden betalar för faktisk användning.", "text2": "Medelåldern i maskinparken är 3,8 år och varje maskin servas efter varje uthyrning.", "tagg": "maskin"},
+    {"titel": "Ställning och väderskydd", "text": "Vi projekterar, bygger och river ställningar med egna ställningsbyggare och hyr ut väderskydd som täcker hela byggen. En inbyggd stomme kan torka och gjutas året om.", "text2": "Under 2025 byggde vi 4,1 miljoner kvadratmeter fasadställning.", "tagg": "bygg"},
+    {"titel": "Moduler", "text": "Tillfälliga skolor, vårdlokaler, kontor och personalbodar som levereras färdiga och kopplas in på några dagar. Modulerna hyrs i snitt i 22 månader och används sedan på nästa plats.", "text2": "Hittarp äger 64 000 moduler och har 140 tillfälliga skolor i drift.", "tagg": "kontor"},
+    {"titel": "Energi på plats", "text": "Byggel, batterilager, laddning för maskiner och värme för uttorkning. Våra mobila batterier gör att ett bygge kan ersätta dieselaggregat även där elnätet inte räcker.", "text2": "Energiaffären växte med 31 procent 2025 och har 2 400 batterier i uthyrning.", "tagg": "el"}
+  ],
+  "bolag": [
+    {"namn": "Hittarp Maskin AB", "segment": "Maskiner", "rubrik": "410 000 artiklar på hyrlistan", "text": "Maskin- och verktygsuthyrning genom 412 depåer i Norden, Baltikum och Polen.", "tagg": "maskin"},
+    {"namn": "Hittarp Ställning AB", "segment": "Ställning och väderskydd", "rubrik": "Bygget pågår även i regn", "text": "Projekterar och bygger ställningar och väderskydd med 1 600 egna ställningsbyggare.", "tagg": "bygg"},
+    {"namn": "Hittarp Moduler AB", "segment": "Tillfälliga lokaler", "rubrik": "En skola på tre veckor", "text": "Hyr ut moduler för skolor, vård och kontor och sköter montage, el och avveckling.", "tagg": "kontor"},
+    {"namn": "Hittarp Energi AB", "segment": "Byggel och batterier", "rubrik": "Dieseln ut, batterierna in", "text": "Mobila batterier, laddstationer och byggel för fossilfria byggarbetsplatser.", "tagg": "el"}
+  ],
+  "lokala_bolag": ["Hittarp Maskin Sverige", "Hittarp Maskin Norge AS", "Hittarp Maskin Danmark A/S", "Hittarp Vuokraus Oy", "Hittarp Rent OÜ", "Hittarp Noma SIA", "Hittarp Wynajem Sp. z o.o.", "Hittarp Ställning", "Hittarp Moduler", "Hittarp Energi", "Kullabygdens Maskinservice AB", "Öresunds Väderskydd AB"],
+  "vagg_text": "Depåerna drivs av lokala depåchefer med egen budget. Inköp, verkstäder och logistik sköts gemensamt från Helsingborg.",
+  "berattelser": [
+    {"rubrik": "Fossilfritt bygge i Malmö", "text": "Kvarteret Varvsstaden byggs helt utan diesel – maskinerna laddas från våra batterilager som fylls på nattetid.", "tagg": "el"},
+    {"rubrik": "Skola på tre veckor i Bodø", "text": "När en skola brann i augusti stod en modulskola för 420 elever klar 19 dagar senare.", "tagg": "kontor"},
+    {"rubrik": "Ny centralverkstad i Ängelholm", "text": "Verkstaden renoverar 18 000 maskiner om året och förlänger livslängden med i snitt fyra år.", "tagg": "maskin"}
+  ],
+  "nyckeltal": [
+    {"varde": "14,1", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [8.6, 9.1, 10.2, 11.4, 12.3, 13.2, 14.1], "trend_text": "Omsättning 2019–2025, mdr kr"},
+    {"varde": "412", "enhet": "depåer", "etikett": "I sju länder", "trend": [298, 316, 341, 362, 381, 398, 412], "trend_text": "Antal depåer vid årets slut"},
+    {"varde": "97", "enhet": "%", "etikett": "Leverans före kl. 07", "trend": [91, 92, 94, 95, 96, 96, 97], "trend_text": "Andel leveranser på plats före klockan sju"},
+    {"varde": "6 800", "enhet": "", "etikett": "Medarbetare", "trend": [4900, 5100, 5500, 5900, 6200, 6500, 6800], "trend_text": "Medarbetare vid årets slut"}
+  ],
+  "projekt": [
+    {"namn": "Kvarteret Varvsstaden", "ort": "Malmö", "typ": "Fossilfri byggarbetsplats", "ar": "2026", "text": "Eldrivna maskiner, batterilager på 4 MWh och väderskydd över tre huskroppar.", "tagg": "el"},
+    {"namn": "Modulskolan Rønvik", "ort": "Bodø", "typ": "Tillfällig skola", "ar": "2026", "text": "Skola för 420 elever med matsal och idrottssal, monterad på 19 dagar.", "tagg": "kontor"},
+    {"namn": "Väderskydd Domkyrkan", "ort": "Uppsala", "typ": "Väderskydd", "ar": "2025", "text": "Fristående tak över tornen under en fasadrenovering på två år.", "tagg": "bygg"},
+    {"namn": "Revision pappersbruket", "ort": "Kotka", "typ": "Industristopp", "ar": "2025", "text": "1 200 maskiner och lyftar levererade på 36 timmar till ett tolvdagars underhållsstopp.", "tagg": "industri"},
+    {"namn": "Sommarfestivalen Roskilde", "ort": "Roskilde", "typ": "Evenemang", "ar": "2025", "text": "Scener, toaletter, el och 2 300 modulrum för artister och personal.", "tagg": "people"},
+    {"namn": "Ombyggnad E6 Helsingborg", "ort": "Helsingborg", "typ": "Trafikavstängning", "ar": "2024", "text": "Trafikanordning och skyddsbarriärer på 14 kilometer motorväg i tre år.", "tagg": "infra"}
+  ],
+  "process": [
+    {"titel": "Beställ före 15", "text": "Kunden beställer i appen, på depån eller via sin kontaktperson. Allt som beställs före klockan 15 lastas samma kväll.", "tagg": "kontor"},
+    {"titel": "Nattlogistik", "text": "Lastbilarna rullar mellan klockan fyra och sju, så att maskinen står på plats innan byggarbetsplatsen öppnar.", "tagg": "infra"},
+    {"titel": "Uppkopplad under hyran", "text": "Telematik visar kunden var maskinen står, hur mycket den gått och när service behövs. Larm går direkt till närmaste depå.", "tagg": "maskin"},
+    {"titel": "Tvätt, service, nästa kund", "text": "Varje maskin tvättas, kontrolleras enligt en 60-punktslista och laddas innan den lämnar depån igen.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Den maskin som delas byggs bara en gång",
+    "text": "En hyrd maskin används i snitt fem gånger så många timmar per år som en ägd. Det betyder färre maskiner att tillverka och mindre stål och batterier i omlopp. Vi byter dessutom snabbt till eldrift: alla nya kompaktmaskiner köps eldrivna sedan 2024, och våra batterilager ersätter dieselaggregat.",
+    "mal": [["80 %", "eldrivna maskiner i städernas depåer 2028"], ["15 år", "genomsnittlig livslängd för maskinerna genom renovering"], ["100 %", "HVO eller el i våra egna lastbilar 2027"]]
+  },
+  "karriar": {
+    "rubrik": "Mekaniker med egen depå",
+    "text": "Hos oss blir många servicetekniker depåchefer inom fem år. Vi betalar för truckkort, liftkort, ADR och maskinutbildningar, och verkstäderna har dagtid utan helgarbete.",
+    "jobb": [["Servicetekniker maskiner", "Helsingborg"], ["Ställningsbyggare", "Oslo"], ["Depåchef", "Tammerfors"], ["Säljare moduler", "Gdańsk"]]
+  },
+  "kultur": "Depåerna får behålla en del av sitt eget överskott till gemensamma resor och utbildning – i fjol åkte tre depåer på skidresa för vinsten.",
+  "citat": {"text": "Farfar köpte en grävmaskin för att dika och upptäckte att grannarna behövde den mer än han. Vi har 410 000 maskiner nu, men det är samma idé: ingen ska behöva äga det man använder några veckor.", "namn": "Olof Hammar", "roll": "Styrelseordförande", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi beställde åtta saxliftar klockan två en tisdag. De stod på plats före sju dagen efter, laddade och servade.", "namn": "Niklas B.", "ort": "Göteborg"},
+    {"text": "Modulskolan var klar på 19 dagar och eleverna har inte märkt skillnad mot en vanlig skola. Hittarp skötte till och med bygglovet.", "namn": "Tone H.", "ort": "Bodø"},
+    {"text": "Batterierna gjorde att vi kunde bygga utan diesel mitt i Malmö. Det var ett krav från staden, och Hittarp löste det utan att vi behövde göra något.", "namn": "Johanna K.", "ort": "Malmö"}
+  ],
+  "faq": [
+    ["Kan privatpersoner hyra?", "Ja, i alla svenska och norska depåer. Privatpersoner betalar med kort och visar körkort, och vi har en egen prislista för helger."],
+    ["Vad kostar en minigrävare?", "En 1,8-tons minigrävare kostar från 890 kronor per dag exklusive moms och transport. Långtidshyra över fyra veckor ger lägre dagspris."],
+    ["Vad händer om maskinen går sönder?", "Ring depån. Vi byter maskin eller skickar en servicetekniker inom fyra timmar på vardagar i alla tätorter."],
+    ["Behöver jag utbildning för att hyra liftar?", "För skylift krävs liftkort enligt arbetsmiljöföreskrifterna. Vi ordnar utbildningen på depån på en dag."],
+    ["Vem äger Hittarp?", "Familjen Hammar äger 24 procent av rösterna. B-aktien handlas på Nasdaq Stockholm Large Cap sedan 2011."],
+    ["Hur mycket delar ni ut?", "Policyn är 40–50 procent av nettoresultatet. Utdelningen för 2025 var 3,90 kronor per aktie."],
+    ["Säljer ni begagnade maskiner?", "Ja. Maskiner som lämnar uthyrningen säljs via vår egen auktionssajt, i regel efter sju till tio år."]
+  ],
+  "nyheter": [
+    ["2026-10-20", "Delårsrapport januari–september 2026", "Omsättningen ökade med 7 procent och energiaffären med 28 procent.", "kontor"],
+    ["2026-08-31", "Modulskola på 19 dagar i Bodø", "Efter branden i Rønvik skola kunde eleverna börja i nya lokaler redan efter höstlovet.", "kontor"],
+    ["2026-05-07", "Hittarp köper ställningsbolag i Polen", "Förvärvet ger 22 nya depåer och 600 ställningsbyggare.", "bygg"],
+    ["2026-02-06", "Bokslutskommuniké 2025", "Rekordomsättning på 14,1 miljarder kronor och fortsatt låg skuldsättning.", "kontor"]
+  ],
+  "investerare": {
+    "aktie": "HITT B",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "139,85",
+    "forandring": "−1,1 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-20"], ["Delårsrapport januari–juni 2026", "2026-07-13"], ["Delårsrapport januari–mars 2026", "2026-04-22"], ["Årsredovisning 2025", "2026-03-10"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-02"], ["Årsstämma i Helsingborg", "2027-04-21"], ["Delårsrapport januari–mars 2027", "2027-04-21"]]
+  },
+  "kontor_rubrik": "412 depåer, en lastbil bort",
+  "kontor_text": "Ingen byggarbetsplats i Norden ligger mer än 45 minuter från en Hittarp-depå. Verkstäder och lager ligger vid E6 och E4.",
+  "kontor_lista": [
+    ["Helsingborg – huvudkontor", "Hittarpsvägen 40. Koncernledning, inköp och logistikcentral."],
+    ["Ängelholm", "Centralverkstad där 18 000 maskiner renoveras varje år."],
+    ["Jönköping", "Lager för moduler och ställning till hela Mellansverige."],
+    ["Oslo", "Hittarp Maskin Norge AS med 74 depåer."],
+    ["Köpenhamn", "Hittarp Maskin Danmark A/S och evenemangsuthyrningen."],
+    ["Tammerfors", "Hittarp Vuokraus Oy med 61 depåer i Finland."],
+    ["Tallinn", "Depåer och modullager för Estland och Lettland."],
+    ["Gdańsk", "Hittarp Wynajem, ställning och maskiner i norra Polen."]
+  ],
+  "tidslinje_rubrik": "Från en grävmaskin på åkern",
+  "tidslinje_text": "Sextio år av att låna ut det andra inte vill äga.",
+  "tidslinje": [
+    ["1964", "Gösta Hammar köper en grävmaskin och hyr ut den till grannarna i Hittarp."],
+    ["1974", "Gården slutar odla och tolv maskiner hyrs ut från Helsingborg."],
+    ["1988", "Ställningsuthyrning blir ett eget bolag."],
+    ["2001", "Etablering i Norge och Danmark genom köp av två regionala hyrföretag."],
+    ["2011", "Notering på Nasdaq Stockholm."],
+    ["2018", "Modulverksamheten startar med 800 bodar."],
+    ["2024", "Hittarp Energi bildas för batterier och fossilfri byggel."]
+  ],
+  "kontakt": {"adress": "Hittarpsvägen 40", "postnr": "254 64", "ort": "Helsingborg", "telefon": "070-174 06 15", "epost": "info@hittarp.se", "orgnr": ""},
+  "oppettider": "Depåerna vardagar 6.30–17, jour dygnet runt",
+  "omrade": "Sverige, Norge, Danmark, Finland, Estland, Lettland och Polen",
+  "fot_cta": "Behöver bygget något i morgon bitti? Ring närmaste depå före klockan 15.",
+  "bild": {"panel": "maskin", "hb": "el"},
+  "text": {
+    "ber_rubrik": "Senaste från depåerna",
+    "proj_rubrik": "Där våra maskiner står",
+    "proj_rubrik_lista": "Uthyrningar och uppdrag",
+    "process_rubrik": "Från beställning till leverans",
+    "process_etikett": "Före klockan sju",
+    "hb_etikett": "Dela i stället för att äga",
+    "omdomen_rubrik": "Platschefer om Hittarp",
+    "faq_rubrik": "Frågor om att hyra",
+    "bolag_rubrik": "Maskin, ställning, modul och energi",
+    "vagg_rubrik": "{n} bolag under samma hyrlista",
+    "panel_etikett": "Jobba på depån",
+    "hero_knapp": "Hyr nu",
+    "ny_rubrik": "Pressmeddelanden från Helsingborg"
+  }
+}

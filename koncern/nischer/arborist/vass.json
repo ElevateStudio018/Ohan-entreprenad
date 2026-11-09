@@ -1,0 +1,141 @@
+{
+  "profil": "arborist",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vass Trädservice AB",
+  "kortnamn": "Vass",
+  "slug": "vass",
+  "typ": "Arborister med fasta priser i Örebro",
+  "tagline": "Pris på bild",
+  "slogan": "Skicka två bilder, få ett fast pris inom fyra timmar och en tid inom tre veckor. Det är hela idén.",
+  "hero_rubrik": "Fast pris på trädet innan lunch",
+  "hero_text": "Sexton anställda i fyra lag med samma utrustning och samma priser. Skicka bilder på trädet före klockan 10, så har du ett bindande pris samma dag.",
+  "intro_rubrik": "3 400 jobb om året kräver ordning",
+  "om": [
+    "Vass startades 2019 av Robin Sandell och Nora Ahlin, som drev en snöröjningsfirma ihop och såg att villaägare fick vänta i veckor på att en arborist skulle komma ut och lämna pris. De byggde en prismodell där trädets höjd, stamdiameter och avstånd till hus avgör kostnaden. I dag fotograferar kunderna själva och får svar på mejl.",
+    "Vi är sexton anställda med fyra likadant utrustade lag och en depå på Aspholmen i Örebro. Varje lag har klätterutrustning, flishugg, stubbfräs och en vedkärra, så att alla jobb upp till 20 meter kan göras utan att vi hyr in något. Det är så vi håller priserna nere och ändå har kollektivavtal."
+  ],
+  "vagval_rubrik": "Vad ska vi räkna på?",
+  "tjanster": [
+    {"titel": "Pris från två bilder", "ikon": "kamera", "href": "verksamhet.html", "text": "En bild på hela trädet och en på stammen med något att jämföra med."},
+    {"titel": "Trädfällning", "ikon": "trad", "href": "verksamhet.html", "text": "Fritt fall eller i sektioner – samma pris oavsett metod."},
+    {"titel": "Stubbfräsning", "ikon": "kugge", "href": "verksamhet.html", "text": "Fast pris per stubbe efter diameter, fräst 20 cm ned."},
+    {"titel": "Häckklippning", "ikon": "lov", "href": "verksamhet.html", "text": "Pris per löpmeter och höjd, klippet bortforslat."},
+    {"titel": "Beskärning", "ikon": "sax", "href": "verksamhet.html", "text": "Kronhöjning och gallring till fast pris per träd."},
+    {"titel": "Prisgaranti", "ikon": "skold", "href": "verksamhet.html", "text": "Ser trädet annorlunda ut på plats än på bilden står vi för skillnaden."},
+    {"titel": "Hela prislistan", "ikon": "dokument", "href": "priser.html", "text": "Alla priser publicerade, inga dolda tillägg."},
+    {"titel": "Ladda upp bilder", "ikon": "pil", "href": "om-oss.html#kontakt", "text": "Svar inom fyra timmar på vardagar."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villatomter i Närke", "text": "De flesta av våra jobb är ett eller två träd på en villatomt i Örebro, Kumla eller Hallsberg. Med samma arbetssätt i alla lag hinner ett lag oftast tre tomter per dag.", "text2": "När du har godkänt priset väljer du själv dag i bokningskalendern.", "tagg": "arborist"},
+    {"titel": "Prissättning efter mått", "text": "Priset bygger på höjd, stamdiameter, avstånd till byggnad och om trädet kan fällas fritt. Vi har räknat på över 9 000 träd och vet vad ett jobb tar.", "text2": "Avviker något på plats från bilderna gäller ändå priset – det är vår prisgaranti.", "tagg": "trad"},
+    {"titel": "Häckar och stubbar", "text": "Häckklippning och stubbfräsning går att boka helt utan besök. Mät häcken med tumstock, räkna stubbarna och få pris direkt.", "text2": "Klippet flisas och följer med oss samma dag.", "tagg": "tradgard"},
+    {"titel": "Ved från egna fällningar", "text": "Allt virke från jobben körs till depån, där det kapas, klyvs och torkas. Veden säljs i storsäck till kunder i hela Örebro län.", "text2": "Har du fällt hos oss det senaste året får du 15 procent på första storsäcken.", "tagg": "ved"}
+  ],
+  "bolag": [
+    {"namn": "Robin Sandell", "segment": "Vd och grundare", "rubrik": "Byggde prismodellen", "text": "Robin svarar på de knepigaste prisförfrågningarna och lägger lagens rutter varje morgon.", "tagg": "arborist"},
+    {"namn": "Nora Ahlin", "segment": "Grundare, kund och bokning", "rubrik": "Fyra timmar till svar", "text": "Nora leder kundtjänsten och ser till att varje bildförfrågan får pris samma dag.", "tagg": "tradgard"},
+    {"namn": "Dennis Ivarsson", "segment": "Lagledare, ETW", "rubrik": "Har lett lag ett sedan starten", "text": "Dennis lär upp nya arborister och ansvarar för att alla fyra lag arbetar på samma sätt.", "tagg": "trad"},
+    {"namn": "Elin Rosén", "segment": "Depå och ved", "rubrik": "Har koll på 900 storsäckar", "text": "Elin sköter vedförsäljningen och underhållet av maskinerna på Aspholmen.", "tagg": "ved"}
+  ],
+  "berattelser": [
+    {"rubrik": "Rekordvecka i oktober", "text": "Fyra lag hann 71 tomter på fem dagar utan en enda prisjustering.", "tagg": "arborist"},
+    {"rubrik": "Prisgarantin användes elva gånger", "text": "Under 2025 var trädet större än på bilden i elva fall. Vi tog skillnaden varje gång.", "tagg": "trad"},
+    {"rubrik": "Nytt lag i Kumla", "text": "Lag fyra utgår från Kumla och tar Hallsberg och Askersund.", "tagg": "tradgard"}
+  ],
+  "nyckeltal": [
+    {"varde": "3 400", "enhet": "jobb", "etikett": "Utförda under 2025"},
+    {"varde": "4 h", "enhet": "", "etikett": "Till pris på vardagar"},
+    {"varde": "16", "enhet": "anställda", "etikett": "Fyra likadana lag"},
+    {"varde": "0 kr", "enhet": "", "etikett": "Resekostnad inom fyra mil"}
+  ],
+  "projekt": [
+    {"namn": "Villa på Adolfsberg", "ort": "Örebro", "typ": "Fällning av två björkar", "ar": "2026", "text": "Pris via bild kl. 08.40, fällt nio dagar senare.", "tagg": "arborist"},
+    {"namn": "Radhusområde", "ort": "Kumla", "typ": "Stubbfräsning", "ar": "2026", "text": "Tjugofyra stubbar fräsade på en dag åt samfälligheten.", "tagg": "tradgard"},
+    {"namn": "Villa i Hallsberg", "ort": "Hallsberg", "typ": "Sektionsfällning", "ar": "2025", "text": "En tall nära garaget fälld i sju delar till fast pris.", "tagg": "trad"},
+    {"namn": "Häckarna på Lillån", "ort": "Örebro", "typ": "Häckklippning", "ar": "2025", "text": "180 meter liguster klippt åt fem grannar på samma gata.", "tagg": "tradgard"},
+    {"namn": "Fritidshus i Askersund", "ort": "Askersund", "typ": "Fällning och ved", "ar": "2025", "text": "Tre granar fällda och kapade till ved som staplades i boden.", "tagg": "ved"},
+    {"namn": "Villa på Rynninge", "ort": "Örebro", "typ": "Kronhöjning", "ar": "2026", "text": "Tre ekar höjs till fyra meter vecka 47.", "tagg": "trad", "status": "Bokat"}
+  ],
+  "process": [
+    {"titel": "Två bilder", "text": "Ladda upp en bild på hela trädet och en närbild på stammen med en människa eller cykel bredvid.", "tagg": "trad"},
+    {"titel": "Pris samma dag", "text": "Du får ett bindande pris med RUT uträknat inom fyra timmar på vardagar.", "tagg": "arborist"},
+    {"titel": "Välj dag själv", "text": "Godkänn priset och välj en ledig dag i kalendern. De flesta jobb görs inom tre veckor.", "tagg": "tradgard"},
+    {"titel": "Klart och städat", "text": "Laget fäller, flisar och krattar. Fakturan skickas först när du har godkänt jobbet via sms.", "tagg": "ved"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Låga priser får aldrig betyda genvägar",
+    "text": "Vi håller priserna nere genom planering, inte genom att spara på säkerheten. Alla lag har två klättrare, kollektivavtal och samma kontrollerade utrustning, och varje fällning har en riskbedömning som fotograferas innan första snittet.",
+    "mal": [["100 %", "av lagen med två certifierade klättrare"], ["0", "prishöjningar efter godkänd offert"], ["85 %", "av virket säljs som ved"]]
+  },
+  "karriar": {
+    "rubrik": "Fyra lag i dag, fem nästa år",
+    "text": "Vi söker arborister och lagledare som gillar ordning: fasta rutter, samma utrustning i varje bil och ledigt efter klockan 16. Kollektivavtal och ETW-utbildning ingår.",
+    "jobb": [["Arborist", "Örebro"], ["Lagledare, lag fem", "Örebro"], ["Kundtjänst, prissättning", "Örebro"]]
+  },
+  "kultur": "Varje lag avslutar dagen med att fotografera tomten, och bilderna når kunden innan bilen har lämnat gatan.",
+  "citat": {"text": "Folk vill inte ha tre besök och en vag offert. De vill veta vad det kostar och när vi kommer. Det har vi byggt hela firman kring.", "namn": "Nora Ahlin", "roll": "Grundare", "tagg": "tradgard"},
+  "omdomen": [
+    {"text": "Jag skickade bilderna på morgonen och hade priset före lunch. Två veckor senare var björkarna borta, och det kostade exakt det som stod.", "namn": "Lisa M.", "ort": "Adolfsberg"},
+    {"text": "Tallen var större än jag trott, och det sa de själva på plats – men priset ändrades inte.", "namn": "Kjell N.", "ort": "Hallsberg"},
+    {"text": "Fem grannar bokade häckklippning samtidigt och fick samma dag. Smidigt och billigt.", "namn": "Anders J.", "ort": "Lillån"}
+  ],
+  "faq": [
+    ["Hur kan ni sätta pris från en bild?", "Prismodellen bygger på mått och tidsåtgång från över 9 000 träd. Med en bild på hela trädet och en på stammen bedömer vi höjd och diameter tillräckligt säkert."],
+    ["Vad händer om priset blir fel?", "Då står vi för det. Har vi underskattat trädet gäller ändå det pris du har godkänt."],
+    ["När dras RUT av hos er?", "Direkt på fakturan. Du betalar halva arbetskostnaden och vi ansöker om resten hos Skatteverket."],
+    ["Kan ni komma ut och titta om jag vill?", "Ja, ett platsbesök kostar 495 kr och dras av om du beställer. De flesta väljer ändå bilderna."],
+    ["Vilka träd räknar ni inte på bild?", "Träd över 20 meter tätt intill hus och träd vid elledningar. Där bokar vi alltid ett platsbesök."],
+    ["Hur långt reser ni?", "Inom fyra mil från Örebro ingår resan. Längre bort tillkommer en fast avgift som står i prislistan."]
+  ],
+  "priser": [
+    {"namn": "Träd upp till 10 m", "pris": "3 900 kr", "enhet": "per träd före RUT", "text": "Mindre träd som kan fällas fritt eller i några delar.", "punkter": ["Pris från bilder", "Flisning och bortforsling", "Krattning efteråt", "Prisgaranti"]},
+    {"namn": "Träd 10–15 m", "pris": "5 900 kr", "enhet": "per träd före RUT", "text": "Vanligaste jobbet: björk, gran eller tall på villatomt.", "punkter": ["Sektionsfällning vid behov", "Stammen kapad i ved eller bortkörd", "Krattning och sopning", "Samma prisgaranti"], "utvald": true},
+    {"namn": "Stubbfräsning", "pris": "790 kr", "enhet": "första stubben före RUT", "text": "Fast pris per stubbe upp till 40 cm.", "punkter": ["Bokas utan besök", "Fräsning 20 cm ned", "Spånet kvar eller bortkört", "Fler stubbar 390 kr/st"]}
+  ],
+  "prislista": [
+    ["Träd 15–20 m", "fr. 8 900 kr"],
+    ["Kronhöjning per träd", "fr. 1 900 kr"],
+    ["Häckklippning upp till 2 m höjd", "38 kr/löpmeter"],
+    ["Stubbe 40–70 cm", "1 290 kr"],
+    ["Platsbesök, avräknas vid order", "495 kr"],
+    ["Resa över fyra mil", "fast 650 kr"],
+    ["Björkved i storsäck", "1 190 kr"],
+    ["Blandved i storsäck", "990 kr"]
+  ],
+  "certifikat": [
+    {"titel": "En ETW per lag", "text": "Alla fyra lagledare är certifierade European Tree Workers.", "ikon": "skold"},
+    {"titel": "Kollektivavtal", "text": "Alla anställda omfattas av kollektivavtal för trädgårdsbranschen.", "ikon": "folk"},
+    {"titel": "Motorsåg nivå C", "text": "Alla i fält har motorsågskörkort upp till nivå C för svåra fällningar.", "ikon": "verktyg"},
+    {"titel": "Försäkring på 15 Mkr", "text": "Ansvarsförsäkring som täcker byggnader, bilar och staket hos kund och granne.", "ikon": "las"}
+  ],
+  "galleri_taggar": ["arborist", "trad", "tradgard", "ved"],
+  "nyheter": [
+    ["2026-10-22", "Så tar du bilden som ger rätt pris", "Tre enkla regler för bilder som gör att vi aldrig behöver åka ut.", "trad"],
+    ["2026-09-15", "Lag fyra har börjat i Kumla", "Kortare väntetid för Hallsberg, Kumla och Askersund.", "arborist"],
+    ["2026-05-26", "Häcksäsongen har startat", "Boka samma dag som grannarna och dela på framkörningen.", "tradgard"]
+  ],
+  "kontakt": {"adress": "Aspholmsvägen 15", "postnr": "702 27", "ort": "Örebro", "telefon": "070-174 06 33", "epost": "pris@vasstrad.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16 · Prisförfrågningar besvaras inom fyra timmar",
+  "omrade": "Örebro, Kumla, Hallsberg, Askersund och Lindesberg",
+  "fot_cta": "Ta två bilder på trädet nu – priset kommer före lunch.",
+  "bild": {"panel": "arborist", "hb": "tradgard"},
+  "text": {
+    "kontakt_knapp": "Ladda upp bilder",
+    "hero_knapp": "Så funkar priset",
+    "hero_lank": "Alla priser",
+    "ber_rubrik": "Veckans siffror",
+    "proj_rubrik": "Tomter i Närke",
+    "process_rubrik": "Bild, pris, dag, klart",
+    "hb_etikett": "Ordning & säkerhet",
+    "omdomen_rubrik": "Det kostade det som stod",
+    "faq_rubrik": "Frågor om pris från bild",
+    "priser_rubrik": "Publicerade priser, inga överraskningar",
+    "priser_not": "Alla priser inklusive moms före RUT. Resa inom fyra mil ingår.",
+    "galleri_rubrik": "Fyra lag i arbete",
+    "boka_rubrik": "Skicka bilder för fast pris",
+    "boka_text": "En bild på hela trädet, en närbild på stammen och adressen. Svar inom fyra timmar på vardagar.",
+    "bolag_rubrik": "Vi som håller ordning",
+    "certifikat_rubrik": "Låga priser, full behörighet",
+    "sida_bolag_ingress": "Sexton anställda i fyra lag, med depå på Aspholmen i Örebro."
+  }
+}

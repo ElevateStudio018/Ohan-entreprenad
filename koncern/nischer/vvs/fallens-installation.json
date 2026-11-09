@@ -33,7 +33,7 @@
     {"titel": "Projektering i BIM", "text": "Alla installationer modelleras i 3D tillsammans med arkitekt, konstruktör, el och ventilation innan fabriken skär första röret. Kollisioner löses i modellen, inte på bygget.", "text2": "Modellen följer med till förvaltningen när huset är klart.", "tagg": "kontor"}
   ],
   "bolag": [
-    {"namn": "Projektering", "segment": "11 ingenjörer", "rubrik": "Modellen innan röret", "text": "Projekterar VVS i BIM, samordnar med andra discipliner och tar fram tillverkningsunderlag till fabriken.", "tagg": "kontor"},
+    {"namn": "BIM-projektering", "segment": "11 ingenjörer", "rubrik": "Modellen innan röret", "text": "Projekterar VVS i BIM, samordnar med andra discipliner och tar fram tillverkningsunderlag till fabriken.", "tagg": "kontor"},
     {"namn": "Modulfabriken", "segment": "32 montörer", "rubrik": "Stallbacka, 4 800 kvm", "text": "Bygger schaktmoduler, installationsväggar och undercentraler i två skift.", "tagg": "industri"},
     {"namn": "Montage", "segment": "34 montörer", "rubrik": "Ute på byggena", "text": "Lyfter in, kopplar och provtrycker på byggarbetsplatser från Strömstad till Skövde.", "tagg": "bygg"},
     {"namn": "Service och garanti", "segment": "8 tekniker", "rubrik": "De första fem åren", "text": "Tar garantiärenden, gör besiktningar och erbjuder serviceavtal till förvaltare efter garantitiden.", "tagg": "vvs"}
@@ -81,7 +81,7 @@
     "jobb": [["Rörmontör modulfabrik", "Trollhättan"], ["VVS-projektör BIM", "Trollhättan"], ["Montageledare", "Uddevalla"], ["Rörmontör", "Skövde"]]
   },
   "kultur": "Varje fredag lyfter vi en modul i fabriken för att visa nya medarbetare och besökande byggherrar hur det går till.",
-  "citat": {"text": "Ingen skulle bygga en bil ute i regnet. Jag förstod aldrig varför vi skulle bygga rörschakt så.", "namn": "Mikael Thunberg", "roll": "Vd, andra generationen", "tagg": "people"},
+  "citat": {"text": "Ingen skulle bygga en bil ute i regnet. Jag förstod aldrig varför vi skulle bygga rörschakt så.", "namn": "Mikael Thunberg", "roll": "Vd och son till grundarna", "tagg": "people"},
   "omdomen": [
     {"text": "Installationen låg för första gången före stommen. Vi kunde stänga huset tre veckor tidigare än planerat.", "namn": "Jonas E., projektchef", "ort": "Trollhättan"},
     {"text": "Varje installationsvägg hade sitt eget provtrycksprotokoll. Slutbesiktningen av våtrummen gick på en förmiddag.", "namn": "Helena B., byggledare", "ort": "Uddevalla"},
@@ -114,7 +114,7 @@
   "fot_cta": "Är ert projekt i systemhandlingsskedet? Då är det rätt tid att prata prefab.",
   "bild": {"panel": "industri", "hb": "bygg"},
   "text": {
-    "kontakt_knapp": "Kontakta projektering",
+    "kontakt_knapp": "Prata med projektörerna",
     "hero_knapp": "Så fungerar prefab",
     "vagval_etikett": "Byggnad",
     "ber_rubrik": "Senast från fabriken",
@@ -126,7 +126,7 @@
     "omdomen_rubrik": "Byggledare och förvaltare berättar",
     "faq_rubrik": "Frågor från byggherrar",
     "boka_rubrik": "Berätta om projektet",
-    "boka_falt": ["Namn och företag", "Telefon", "E-post", "Projekt, antal lägenheter och skede"],
+    "boka_falt": ["Namn och byggföretag", "Telefon", "E-post", "Projekt, antal lägenheter och skede"],
     "logos_rubrik": "Byggföretag och byggherrar",
     "certifikat_rubrik": "Dokumenterat från fabrik till bygge",
     "bolag_rubrik": "Fyra avdelningar, en leverans",
