@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Varvslaget", "segment": "10 montörer", "rubrik": "Skift när fartyget ligger inne", "text": "Arbetar i tre skift under varvsliggningar och med nybyggen.", "tagg": "bat"},
-    {"namn": "Konstruktion", "segment": "2 marinarkitekter, 1 ingenjör", "rubrik": "Ritat för klassningssällskapet", "text": "Tar fram kanalritningar, beräkningar och dokumentation för godkännande.", "tagg": "kontor"},
+    {"namn": "Marinkonstruktion", "segment": "2 marinarkitekter, 1 ingenjör", "rubrik": "Ritat för klassningssällskapet", "text": "Tar fram kanalritningar, beräkningar och dokumentation för godkännande.", "tagg": "kontor"},
     {"namn": "Service och akut", "segment": "6 tekniker", "rubrik": "Ombord mellan två turer", "text": "Reser till fartyget i hamn och lagar det som inte kan vänta till nästa varv.", "tagg": "ventilation"}
   ],
   "berattelser": [
@@ -52,7 +52,7 @@
     {"namn": "Färjan Östersjöbris", "ort": "Karlskrona varv", "typ": "Hyttventilation däck 6–7", "ar": "2025", "text": "214 hytter fick nya don och kanaler på 19 dygn i tre skift.", "tagg": "bat"},
     {"namn": "Forskningsfartyget Havsörn", "ort": "Karlskrona", "typ": "Labbventilation ombord", "ar": "2025", "text": "Dragskåp och undertryck i två laboratorier med provning till sjöss.", "tagg": "ventilation"},
     {"namn": "Bogserbåten Tärnö", "ort": "Karlshamn", "typ": "Maskinrum", "ar": "2024", "text": "Ny förbränningsluft och kylning efter byte av huvudmaskin.", "tagg": "industri"},
-    {"namn": "Varvshall 3", "ort": "Karlskrona", "typ": "Svetsröksutsug", "ar": "2024", "text": "24 punktutsug och tilluft som klarar hallens 22 meter i takhöjd.", "tagg": "svets"},
+    {"namn": "Varvshall 3", "ort": "Karlskrona", "typ": "Utsug vid svetsplatser", "ar": "2024", "text": "24 punktutsug och tilluft som klarar hallens 22 meter i takhöjd.", "tagg": "svets"},
     {"namn": "Lotsbåtar Södra Östersjön", "ort": "Ronneby", "typ": "Serviceavtal, 6 båtar", "ar": "2025", "text": "Årlig service på aggregat och brandspjäll inför klassningsbesiktning.", "tagg": "bat"},
     {"namn": "Bilfärja under ombyggnad", "ort": "Gdańsk", "typ": "Avgasventilation bildäck", "ar": "2026", "text": "Nya fläktar och gasdetektering monteras under vinterns varvsliggning.", "tagg": "bat", "status": "Pågående"}
   ],

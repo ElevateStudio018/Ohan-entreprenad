@@ -17,7 +17,7 @@
   ],
   "vagval_rubrik": "Vad ska mätas?",
   "tjanster": [
-    {"titel": "Injustering", "ikon": "kugge", "href": "verksamhet.html", "text": "Proportionell injustering av till- och frånluft, don för don."},
+    {"titel": "Injustering don för don", "ikon": "kugge", "href": "verksamhet.html", "text": "Proportionell injustering av till- och frånluft, don för don."},
     {"titel": "Täthetsprovning", "ikon": "sok", "href": "verksamhet.html", "text": "Provtryckning av kanalsystem enligt täthetsklass A till D."},
     {"titel": "Ljudmätning", "ikon": "graf", "href": "verksamhet.html", "text": "Mätning av ljudnivå från ventilation i sovrum, klassrum och kontor."},
     {"titel": "Felsökning", "ikon": "verktyg", "href": "verksamhet.html", "text": "När det drar, låter eller luktar – och ingen vet varför."},
@@ -59,7 +59,7 @@
   "process": [
     {"titel": "Ritning och flödeslista", "text": "Vi får projekterade flöden och ritningar och räknar ut antal don och dagar.", "tagg": "kontor"},
     {"titel": "Fast pris i förväg", "text": "Pris per don eller per dag – ni vet kostnaden innan vi kommer.", "tagg": "people"},
-    {"titel": "Mätning på plats", "text": "Varje don mäts, justeras och mäts igen tills flödet ligger inom fem procent.", "tagg": "ventilation"},
+    {"titel": "På plats med instrumenten", "text": "Varje don mäts, justeras och mäts igen tills flödet ligger inom fem procent.", "tagg": "ventilation"},
     {"titel": "Protokoll inom tre dagar", "text": "Uppmätta och projekterade värden i ett protokoll som går direkt till OVK.", "tagg": "kontor"}
   ],
   "hallbarhet": {
@@ -76,7 +76,7 @@
   "citat": {"text": "Alla har en åsikt om varför det drar. Jag vill ha en siffra.", "namn": "Josefin Rydh", "roll": "Grundare och injusterare", "tagg": "people"},
   "omdomen": [
     {"text": "Vi har inga egna injusterare och har lagt allt på Mätpunkt i tre år. Protokollen kommer i tid och funktionskontrollanten har aldrig haft en fråga.", "namn": "Robert K.", "ort": "Installatör, Lidköping"},
-    {"text": "Tre konsulter hade tittat på draget utan resultat. Josefin hittade felet på en förmiddag.", "namn": "Annika S.", "ort": "Fastighetsförvaltare, Skövde"},
+    {"text": "Tre konsulter hade tittat på draget utan resultat. Josefin hittade felet på en förmiddag.", "namn": "Annika V.", "ort": "Fastighetsförvaltare, Skövde"},
     {"text": "Fast pris per don, och fakturan blev exakt det som stod i offerten.", "namn": "Lars-Göran P.", "ort": "Brf Ekedal, Skövde"}
   ],
   "faq": [
@@ -90,7 +90,7 @@
   "priser": [
     {"namn": "Felsökning", "pris": "6 900 kr", "enhet": "halv dag inkl. rapport", "text": "När något drar, låter eller luktar.", "punkter": ["Mätning av flöden och tryck", "Ljudmätning vid behov", "Skriftlig rapport med orsak", "Förslag på åtgärd"]},
     {"namn": "Injustering per don", "pris": "fr. 245 kr", "enhet": "per don", "text": "För nya och ombyggda anläggningar.", "punkter": ["Mätning och justering av varje don", "Inom ±5 % mot projekterat", "Protokoll klart för OVK", "Leverans inom tre dagar"], "utvald": true},
-    {"namn": "Mätdag", "pris": "11 900 kr", "enhet": "per tekniker och dag", "text": "Täthet, ljud eller injustering efter löpande behov.", "punkter": ["Kalibrerade instrument", "Fritt antal mätpunkter", "Protokoll eller rapport", "Resa inom Skaraborg ingår"]}
+    {"namn": "Mätdag", "pris": "11 900 kr", "enhet": "per tekniker och dag", "text": "Täthet, ljud eller injustering efter löpande behov.", "punkter": ["Instrument kalibrerade årligen", "Fritt antal mätpunkter", "Protokoll eller rapport", "Resa inom Skaraborg ingår"]}
   ],
   "prislista": [["Täthetsprovning, per provsträcka", "fr. 3 900 kr"], ["Ljudmätning, per rum", "1 450 kr"], ["Injusteringsprotokoll i efterhand", "2 900 kr"], ["Milersättning utanför Skaraborg", "38 kr/mil"], ["Kvällsarbete, tillägg", "+ 30 %"], ["Lägenhet, frånluft, per lägenhet", "695 kr"]],
   "prislista_rubrik": "Andra mättjänster",
@@ -107,7 +107,7 @@
     ["2025-10-27", "Därför drar det vid fönstret", "Fem vanliga orsaker till drag i kontor – och hur man mäter dem.", "interior"]
   ],
   "kontakt": {"adress": "Hasslumsvägen 9", "postnr": "541 45", "ort": "Skövde", "telefon": "070-174 06 59", "epost": "josefin@matpunkt.se", "orgnr": ""},
-  "oppettider": "Mån–fre 7–16",
+  "oppettider": "Mån–tors 7–16, fre 7–15",
   "omrade": "Skaraborg, Västra Götaland och Örebro län",
   "fot_cta": "Behöver ni få flödena rätt? Boka en mätdag – lediga dagar visas varje måndag.",
   "bild": {"panel": "people", "hb": "ventilation"},
@@ -122,10 +122,10 @@
     "sida_projekt_titel": "Mätningar",
     "process_etikett": "Mätgången",
     "process_rubrik": "Mät, justera, mät igen",
-    "hb_etikett": "Energi",
+    "hb_etikett": "Fläktenergi",
     "omdomen_rubrik": "Installatörer och förvaltare om oss",
     "faq_rubrik": "Om injustering och mätning",
-    "priser_etikett": "Priser",
+    "priser_etikett": "Mätpriser",
     "priser_rubrik": "Pris per don, per halvdag eller per dag",
     "priser_utvald": "Vanligast",
     "priser_not": "Alla priser exklusive moms. Privatpersoner betalar inklusive moms.",

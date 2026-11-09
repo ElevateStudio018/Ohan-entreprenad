@@ -18,7 +18,7 @@
   "vagval_rubrik": "Vilken skolmiljö gäller det?",
   "tjanster": [
     {"titel": "Koldioxidmätning", "ikon": "graf", "href": "verksamhet.html", "text": "Loggning i två veckor under vanlig undervisning, med rapport per sal."},
-    {"titel": "Behovsstyrning", "ikon": "kugge", "href": "verksamhet.html", "text": "Flödet följer antalet elever i rummet, från tomt till fullt."},
+    {"titel": "Flöde efter närvaro", "ikon": "kugge", "href": "verksamhet.html", "text": "Flödet följer antalet elever i rummet, från tomt till fullt."},
     {"titel": "Sommarlovsbyggen", "ikon": "sol", "href": "verksamhet.html", "text": "Hela ombyggnaden mellan skolavslutning och upprop."},
     {"titel": "Förskolor", "ikon": "hjarta", "href": "verksamhet.html", "text": "Tysta don i sovrum och vilrum, utan drag vid golvet."},
     {"titel": "Ljud i klassrum", "ikon": "sok", "href": "verksamhet.html", "text": "Aggregat och don som håller under 30 dB(A) i undervisningsrum."},
@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Mätgruppen", "segment": "3 mättekniker", "rubrik": "Från sal 14 till hela kommunen", "text": "Loggar, analyserar och skriver rapporterna som beslut fattas på.", "tagg": "kontor"},
     {"namn": "Lovlaget", "segment": "10 montörer", "rubrik": "Klart före upprop", "text": "Bygger om under sommar-, sport- och höstlov, och servar resten av året.", "tagg": "ventilation"},
-    {"namn": "Projektering", "segment": "3 ingenjörer", "rubrik": "Ritat i oktober, byggt i juni", "text": "Dimensionerar, tar fram förfrågningsunderlag och samordnar med kommunens fastighetsavdelning.", "tagg": "bygg"}
+    {"namn": "Ritkontoret", "segment": "3 ingenjörer", "rubrik": "Ritat i oktober, byggt i juni", "text": "Dimensionerar, tar fram förfrågningsunderlag och samordnar med kommunens fastighetsavdelning.", "tagg": "bygg"}
   ],
   "berattelser": [
     {"rubrik": "Sju skolor på ett sommarlov", "text": "Vårt största lov hittills – alla sju klara till skolstarten den 18 augusti.", "tagg": "bygg"},
@@ -52,7 +52,7 @@
     {"namn": "Högstadieskolan i Alvesta", "ort": "Alvesta", "typ": "Behovsstyrning, 28 salar", "ar": "2025", "text": "Koldioxidhalten sänktes från 2 100 till 850 ppm under eftermiddagslektionerna.", "tagg": "ventilation"},
     {"namn": "Förskolan Humlan", "ort": "Växjö", "typ": "Ny ventilation", "ar": "2025", "text": "Tysta don i vilrummen och tilluft placerad högt för att undvika drag vid golvet.", "tagg": "interior"},
     {"namn": "Lessebo skola", "ort": "Lessebo", "typ": "Klimatlampor i 22 salar", "ar": "2025", "text": "Lärarna ser luftkvaliteten och vädrar när lampan slår om.", "tagg": "stad"},
-    {"namn": "Friskolan vid Teleborg", "ort": "Växjö", "typ": "Aggregatbyte", "ar": "2024", "text": "Två aggregat från 1974 ersattes under sommarlovet.", "tagg": "bygg"},
+    {"namn": "Friskolan vid Teleborg", "ort": "Växjö", "typ": "Byte av två aggregat", "ar": "2024", "text": "Två aggregat från 1974 ersattes under sommarlovet.", "tagg": "bygg"},
     {"namn": "Ljungby gymnasium", "ort": "Ljungby", "typ": "Mätning och åtgärdsplan", "ar": "2024", "text": "64 salar mättes och delades in i tre etapper efter behov.", "tagg": "kontor"},
     {"namn": "Nybro skolområde", "ort": "Nybro", "typ": "Etapp 1 av 3", "ar": "2026", "text": "Projektering pågår inför ombyggnad under sommarlovet 2027.", "tagg": "ventilation", "status": "Pågående"}
   ],
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Ledigt när barnen går i skolan",
     "text": "Vårt år följer läsåret. Det betyder intensiva somrar men lugnare höst och vår – och för många av oss ledigt i november och mars när andra jobbar som mest.",
-    "jobb": [["Ventilationsmontör", "Växjö"], ["Mättekniker inneklimat", "Växjö"]]
+    "jobb": [["Montör i lovlaget", "Växjö"], ["Mättekniker inneklimat", "Växjö"]]
   },
   "kultur": "Varje höst får alla anställda besöka en klass i en skola vi har byggt om och fråga eleverna hur det känns.",
   "citat": {"text": "Man kan inte lära sig bråk när luften är slut. Det visste varenda lärare – vi behövde bara mäta det.", "namn": "Per Ågren", "roll": "Medgrundare, före detta slöjdlärare", "tagg": "people"},
@@ -88,10 +88,10 @@
     ["Arbetar ni med andra byggnader än skolor?", "Ibland med idrottshallar och kulturhus i samma kommuner, men skolor och förskolor är 90 procent av vår verksamhet."]
   ],
   "certifikat": [
-    {"titel": "Funktionskontrollant N", "text": "Selma Karlsson och två mättekniker har behörighet för OVK.", "ikon": "dokument"},
+    {"titel": "Tre med OVK-behörighet", "text": "Selma Karlsson och två mättekniker har behörighet för OVK.", "ikon": "dokument"},
     {"titel": "Kalibrerade CO₂-givare", "text": "Våra mätgivare kalibreras årligen mot referensgas.", "ikon": "graf"},
     {"titel": "Säker vid skolbarn", "text": "Alla montörer har registerutdrag och utbildning i att arbeta i skolmiljö.", "ikon": "skola"},
-    {"titel": "Medlem i Svensk Ventilation", "text": "Branschmedlem sedan 2010 och delaktiga i arbetet med skolmiljöer.", "ikon": "folk"}
+    {"titel": "Branschmedlem sedan 2010", "text": "Branschmedlem sedan 2010 och delaktiga i arbetet med skolmiljöer.", "ikon": "folk"}
   ],
   "kunder": ["Växjö skolfastigheter", "Alvesta kommun", "Lessebo kommun", "Friskolan Teleborg", "Ljungby gymnasium", "Nybro skolområde", "Förskolan Humlan", "Tingsryds bildningsförvaltning"],
   "nyheter": [

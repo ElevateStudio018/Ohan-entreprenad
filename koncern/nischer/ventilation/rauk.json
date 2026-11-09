@@ -51,8 +51,8 @@
   "projekt": [
     {"namn":"Hotell vid Stora torget", "ort": "Visby", "typ": "Nytt FTX i 1700-talshus", "ar": "2025", "text": "Kanalerna drogs i två igenmurade rökgångar och aggregatet placerades på vinden.", "tagg": "ventilation"},
     {"namn": "Sommarhus vid Ekeviken", "ort": "Fårö", "typ": "Vinterläge och fuktvakt", "ar": "2025", "text": "Relativ fuktighet under 65 procent hela vintern – för första gången sedan huset köptes.", "tagg": "hem"},
-    {"namn": "Klinteskolan", "ort": "Klintehamn", "typ": "Aggregatbyte", "ar": "2025", "text": "Två aggregat från 1989 byttes under sommarlovet, levererade med båt i juni.", "tagg": "bygg"},
-    {"namn": "Gårdsmejeriet i Gothem", "ort": "Gothem", "typ": "Processventilation", "ar": "2024", "text": "Ventilation i ostlager med styrd fukt och temperatur året runt.", "tagg": "industri"},
+    {"namn": "Klinteskolan", "ort": "Klintehamn", "typ": "Aggregat levererat med båt", "ar": "2025", "text": "Två aggregat från 1989 byttes under sommarlovet, levererade med båt i juni.", "tagg": "bygg"},
+    {"namn": "Gårdsmejeriet i Gothem", "ort": "Gothem", "typ": "Klimat i ostlager", "ar": "2024", "text": "Ventilation i ostlager med styrd fukt och temperatur året runt.", "tagg": "industri"},
     {"namn": "Brf Strandgärdet", "ort": "Visby", "typ": "OVK, 64 lägenheter", "ar": "2024", "text": "Besiktning klar på tre dagar, inga anmärkningar på frånluften.", "tagg": "bostad"},
     {"namn": "Vandrarhemmet i Ljugarn", "ort": "Ljugarn", "typ": "Saltsäkra takhuvar", "ar": "2026", "text": "Galvaniserade huvar ersätts med syrafast stål före sommaren.", "tagg": "tak", "status": "Pågående"}
   ],
@@ -70,7 +70,7 @@
   "karriar": {
     "rubrik": "Bo på ön, jobba med hela ön",
     "text": "Vi söker folk som vill bo på Gotland året om. Du får servicebil, egna kunder och betald körtid – och fria sommarveckor i turordning vartannat år.",
-    "jobb": [["Servicetekniker ventilation", "Visby"], ["Montör med plåtbakgrund", "Hemse"]]
+    "jobb": [["Servicetekniker på ön", "Visby"], ["Montör med plåtbakgrund", "Hemse"]]
   },
   "kultur": "Vi äter lunch tillsammans på kontoret varje fredag, och den som har varit längst ute på ön under veckan väljer mat.",
   "citat": {"text": "Pappa sa att man inte kan driva ett ventilationsföretag på en ö om man inte äger sina egna reservdelar. Det stämmer fortfarande.", "namn": "Emma Hägg", "roll": "Vd, andra generationen", "tagg": "people"},

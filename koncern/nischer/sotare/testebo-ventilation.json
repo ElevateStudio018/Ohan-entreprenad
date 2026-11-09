@@ -17,94 +17,375 @@
   ],
   "vagval_rubrik": "Vilka lokaler gäller det?",
   "tjanster": [
-    {"titel": "Kanalrengöring med robot", "ikon": "robot", "href": "verksamhet.html", "text": "En borstrobot med kamera rengör kanaler från 100 mm och dokumenterar före och efter."},
-    {"titel": "OVK i skolor och vård", "ikon": "dokument", "href": "verksamhet.html", "text": "Obligatorisk ventilationskontroll med protokoll till byggnadsnämnden."},
-    {"titel": "Imkanaltvätt i storkök", "ikon": "eld", "href": "verksamhet.html", "text": "Rengöring av imkanaler och fläktar i skol- och sjukhuskök."},
-    {"titel": "Pannsotning", "ikon": "fabrik", "href": "verksamhet.html", "text": "Sotning och rökgasanalys av pellets- och flispannor i offentliga byggnader."},
-    {"titel": "Injustering av luftflöden", "ikon": "vind", "href": "verksamhet.html", "text": "Vi mäter och justerar flöden så att varje rum får den luft det är projekterat för."},
-    {"titel": "Filterbyte", "ikon": "kugge", "href": "verksamhet.html", "text": "Filterbyte enligt schema i aggregat i hela beståndet."},
-    {"titel": "Arbete på lov", "ikon": "kalender", "href": "verksamhet.html", "text": "Sommarlov, sportlov och helger – vi planerar efter verksamheten."},
-    {"titel": "Begär ramavtalspris", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Fast pris per kanalmeter och per aggregat för offentliga beställare."}
+    {
+      "titel": "Kanalrengöring med robot",
+      "ikon": "robot",
+      "href": "verksamhet.html",
+      "text": "En borstrobot med kamera rengör kanaler från 100 mm och dokumenterar före och efter."
+    },
+    {
+      "titel": "OVK i skolor och vård",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "Obligatorisk ventilationskontroll med protokoll till byggnadsnämnden."
+    },
+    {
+      "titel": "Imkanaltvätt i storkök",
+      "ikon": "eld",
+      "href": "verksamhet.html",
+      "text": "Rengöring av imkanaler och fläktar i skol- och sjukhuskök."
+    },
+    {
+      "titel": "Pannor i skolor",
+      "ikon": "fabrik",
+      "href": "verksamhet.html",
+      "text": "Sotning och rökgasanalys av pellets- och flispannor i offentliga byggnader."
+    },
+    {
+      "titel": "Injustering av luftflöden",
+      "ikon": "vind",
+      "href": "verksamhet.html",
+      "text": "Vi mäter och justerar flöden så att varje rum får den luft det är projekterat för."
+    },
+    {
+      "titel": "Filterbyte",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Filterbyte enligt schema i aggregat i hela beståndet."
+    },
+    {
+      "titel": "Arbete på lov",
+      "ikon": "kalender",
+      "href": "verksamhet.html",
+      "text": "Sommarlov, sportlov och helger – vi planerar efter verksamheten."
+    },
+    {
+      "titel": "Begär ramavtalspris",
+      "ikon": "portfolj",
+      "href": "om-oss.html#kontakt",
+      "text": "Fast pris per kanalmeter och per aggregat för offentliga beställare."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Kanalrengöring", "text": "Damm och smuts i ventilationskanaler sprider partiklar i lokalen och sänker luftflödet. Vi rengör med roterande borstar och en robot med kamera som filmar hela sträckan.", "text2": "Kunden får filmerna före och efter och en ritning där varje rengjord kanal är markerad.", "tagg": "ventilation"},
-    {"titel": "OVK och injustering", "text": "Skolor och förskolor ska ha OVK vart tredje år. Våra funktionskontrollanter gör besiktningen, och om flödena inte stämmer justerar vi dem i samma besök.", "text2": "Det betyder att en anmärkning ofta kan åtgärdas innan protokollet skickas.", "tagg": "kontor"},
-    {"titel": "Storkök och imkanaler", "text": "Ett skolkök som lagar 600 portioner om dagen samlar fett i imkanalen fortare än man tror. Vi tvättar kanaler och fläktar en eller två gånger per år.", "text2": "Arbetet görs efter sista disken, så att köket är klart till frukost.", "tagg": "brand"},
-    {"titel": "Pannor i offentliga byggnader", "text": "Många skolor på landsbygden värms fortfarande med egna pellets- eller flispannor. Vi sotar dem och gör rökgasanalys enligt kommunens frister.", "text2": "Sotningsprotokollen samlas i samma rapport som ventilationen.", "tagg": "skorsten"}
+    {
+      "titel": "Kanalrengöring",
+      "text": "Damm och smuts i ventilationskanaler sprider partiklar i lokalen och sänker luftflödet. Vi rengör med roterande borstar och en robot med kamera som filmar hela sträckan.",
+      "text2": "Kunden får filmerna före och efter och en ritning där varje rengjord kanal är markerad.",
+      "tagg": "ventilation"
+    },
+    {
+      "titel": "OVK och injustering",
+      "text": "Skolor och förskolor ska ha OVK vart tredje år. Våra funktionskontrollanter gör besiktningen, och om flödena inte stämmer justerar vi dem i samma besök.",
+      "text2": "Det betyder att en anmärkning ofta kan åtgärdas innan protokollet skickas.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Storkök och imkanaler",
+      "text": "Ett skolkök som lagar 600 portioner om dagen samlar fett i imkanalen fortare än man tror. Vi tvättar kanaler och fläktar en eller två gånger per år.",
+      "text2": "Arbetet görs efter sista disken, så att köket är klart till frukost.",
+      "tagg": "brand"
+    },
+    {
+      "titel": "Pannor i offentliga byggnader",
+      "text": "Många skolor på landsbygden värms fortfarande med egna pellets- eller flispannor. Vi sotar dem och gör rökgasanalys enligt kommunens frister.",
+      "text2": "Sotningsprotokollen samlas i samma rapport som ventilationen.",
+      "tagg": "skorsten"
+    }
   ],
   "bolag": [
-    {"namn": "Ventilationslaget", "segment": "Rengöring och robot", "rubrik": "Fjorton tekniker, sex robotar", "text": "Rengör kanaler och aggregat i skolor, förskolor och vårdlokaler, oftast på lov och kvällar.", "tagg": "ventilation"},
-    {"namn": "OVK och injustering", "segment": "Besiktning och mätning", "rubrik": "Fem funktionskontrollanter", "text": "Besiktar, mäter och justerar luftflöden och skriver protokoll till kommunen.", "tagg": "kontor"},
-    {"namn": "Kök och pannor", "segment": "Imkanaler och sotning", "rubrik": "Skorstensfejare i vårt lag", "text": "Tre skorstensfejare som tvättar imkanaler och sotar pannor i offentliga byggnader.", "tagg": "skorsten"},
-    {"namn": "Planering", "segment": "Avtal och lovplanering", "rubrik": "Varje lov planeras i maj", "text": "Två planerare som lägger schemat efter skolornas och vårdens kalendrar.", "tagg": "people"}
+    {
+      "namn": "Ventilationslaget",
+      "segment": "Rengöring och robot",
+      "rubrik": "Fjorton tekniker, sex robotar",
+      "text": "Rengör kanaler och aggregat i skolor, förskolor och vårdlokaler, oftast på lov och kvällar.",
+      "tagg": "ventilation"
+    },
+    {
+      "namn": "OVK och injustering",
+      "segment": "Besiktning och mätning",
+      "rubrik": "Fem funktionskontrollanter",
+      "text": "Besiktar, mäter och justerar luftflöden och skriver protokoll till kommunen.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Kök och pannor",
+      "segment": "Imkanaler och sotning",
+      "rubrik": "Skorstensfejare i vårt lag",
+      "text": "Tre skorstensfejare som tvättar imkanaler och sotar pannor i offentliga byggnader.",
+      "tagg": "skorsten"
+    },
+    {
+      "namn": "Planering",
+      "segment": "Avtal och lovplanering",
+      "rubrik": "Varje lov planeras i maj",
+      "text": "Två planerare som lägger schemat efter skolornas och vårdens kalendrar.",
+      "tagg": "people"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Sommarlovet: 31 skolor", "text": "Under åtta veckor rengjorde vi ventilationen i 31 skolor i Gävle och Sandviken – alla var klara till skolstart.", "tagg": "ventilation"},
-    {"rubrik": "Sjukhusets nya operationsflygel", "text": "Vi gjorde första rengöringen och injusteringen innan flygeln togs i bruk i september.", "tagg": "kontor"},
-    {"rubrik": "Sjätte roboten på plats", "text": "Den nya roboten klarar kanaler ner till 100 mm och kan köra 30 meter från lucka till lucka.", "tagg": "industri"}
+    {
+      "rubrik": "Sommarlovet: 31 skolor",
+      "text": "Under åtta veckor rengjorde vi ventilationen i 31 skolor i Gävle och Sandviken – alla var klara till skolstart.",
+      "tagg": "ventilation"
+    },
+    {
+      "rubrik": "Sjukhusets nya operationsflygel",
+      "text": "Vi gjorde första rengöringen och injusteringen innan flygeln togs i bruk i september.",
+      "tagg": "kontor"
+    },
+    {
+      "rubrik": "Sjätte roboten på plats",
+      "text": "Den nya roboten klarar kanaler ner till 100 mm och kan köra 30 meter från lucka till lucka.",
+      "tagg": "industri"
+    }
   ],
   "nyckeltal": [
-    {"varde": "210", "enhet": "skolor", "etikett": "Och förskolor med avtal"},
-    {"varde": "48 km", "enhet": "", "etikett": "Kanal rengjord under 2025"},
-    {"varde": "30", "enhet": "anställda", "etikett": "Vid Testeboån i Gävle"},
-    {"varde": "1996", "enhet": "", "etikett": "Första skolan i Strömsbro"}
+    {
+      "varde": "210",
+      "enhet": "skolor",
+      "etikett": "Och förskolor med avtal"
+    },
+    {
+      "varde": "48 km",
+      "enhet": "",
+      "etikett": "Kanal rengjord under 2025"
+    },
+    {
+      "varde": "30",
+      "enhet": "anställda",
+      "etikett": "Vid Testeboån i Gävle"
+    },
+    {
+      "varde": "1996",
+      "enhet": "",
+      "etikett": "Första skolan i Strömsbro"
+    }
   ],
   "projekt": [
-    {"namn": "Strömsbro skola", "ort": "Gävle", "typ": "Kanalrengöring", "ar": "2026", "text": "Samma skola som 1996 – nu med robot, kamera och fullständig OVK.", "tagg": "ventilation"},
-    {"namn": "Vårdcentrum Sätra, flygel C", "ort": "Gävle", "typ": "Injustering", "ar": "2026", "text": "Rengöring och injustering av ventilationen i en ny operationsflygel före driftstart.", "tagg": "kontor"},
-    {"namn": "Sandvikens förskolor", "ort": "Sandviken", "typ": "OVK", "ar": "2025", "text": "OVK i 22 förskolor under sommaren, med injustering i samma besök.", "tagg": "people"},
-    {"namn": "Hofors centralkök", "ort": "Hofors", "typ": "Imkanaltvätt", "ar": "2025", "text": "Imkanaler och fläktar i ett kök som lagar 1 800 portioner om dagen.", "tagg": "brand"},
-    {"namn": "Söderhamns vårdboenden", "ort": "Söderhamn", "typ": "Ramavtal", "ar": "2026", "text": "Fyra boenden med 260 lägenheter – rengöring av kanaler och filterbyte varje år.", "tagg": "bostad", "status": "Pågående"},
-    {"namn": "Österfärnebo skola", "ort": "Gävle", "typ": "Pannsotning", "ar": "2025", "text": "Sotning och rökgasanalys av skolans pelletspanna på 120 kW.", "tagg": "skorsten"}
+    {
+      "namn": "Strömsbro skola",
+      "ort": "Gävle",
+      "typ": "Kanalrengöring",
+      "ar": "2026",
+      "text": "Samma skola som 1996 – nu med robot, kamera och fullständig OVK.",
+      "tagg": "ventilation"
+    },
+    {
+      "namn": "Vårdcentrum Sätra, flygel C",
+      "ort": "Gävle",
+      "typ": "Injustering före driftstart",
+      "ar": "2026",
+      "text": "Rengöring och injustering av ventilationen i en ny operationsflygel före driftstart.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Sandvikens förskolor",
+      "ort": "Sandviken",
+      "typ": "OVK",
+      "ar": "2025",
+      "text": "OVK i 22 förskolor under sommaren, med injustering i samma besök.",
+      "tagg": "people"
+    },
+    {
+      "namn": "Hofors centralkök",
+      "ort": "Hofors",
+      "typ": "Imkanaltvätt",
+      "ar": "2025",
+      "text": "Imkanaler och fläktar i ett kök som lagar 1 800 portioner om dagen.",
+      "tagg": "brand"
+    },
+    {
+      "namn": "Söderhamns vårdboenden",
+      "ort": "Söderhamn",
+      "typ": "Ramavtal vårdboenden",
+      "ar": "2026",
+      "text": "Fyra boenden med 260 lägenheter – rengöring av kanaler och filterbyte varje år.",
+      "tagg": "bostad",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Österfärnebo skola",
+      "ort": "Gävle",
+      "typ": "Sotning av pelletspanna",
+      "ar": "2025",
+      "text": "Sotning och rökgasanalys av skolans pelletspanna på 120 kW.",
+      "tagg": "skorsten"
+    }
   ],
   "process": [
-    {"titel": "Inventering", "text": "Vi går igenom ritningar, aggregat och tidigare OVK-protokoll och ser vad som behöver göras.", "tagg": "kontor"},
-    {"titel": "Lovplan", "text": "Arbetet läggs på lov och kvällar efter verksamhetens kalender, och personalen får information i förväg.", "tagg": "people"},
-    {"titel": "Rengöring och mätning", "text": "Robot och borstar rengör kanalerna, och funktionskontrollanten mäter flödena efteråt.", "tagg": "ventilation"},
-    {"titel": "Rapport", "text": "Filmer, mätvärden och OVK-protokoll levereras samlat inom en vecka.", "tagg": "kontor"}
+    {
+      "titel": "Inventering",
+      "text": "Vi går igenom ritningar, aggregat och tidigare OVK-protokoll och ser vad som behöver göras.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Lovplan",
+      "text": "Arbetet läggs på lov och kvällar efter verksamhetens kalender, och personalen får information i förväg.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Rengöring och mätning",
+      "text": "Robot och borstar rengör kanalerna, och funktionskontrollanten mäter flödena efteråt.",
+      "tagg": "ventilation"
+    },
+    {
+      "titel": "Rapport",
+      "text": "Filmer, mätvärden och OVK-protokoll levereras samlat inom en vecka.",
+      "tagg": "kontor"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Bättre luft med mindre energi",
     "text": "Rena kanaler och rätt injusterade flöden gör att fläktarna kan gå långsammare. I de skolor vi har mätt före och efter har fläktarnas elförbrukning minskat med i snitt 14 procent. Dammet vi suger ut lämnas till förbränning, och borstarna lagas i vår egen verkstad.",
-    "mal": [["−14 %", "lägre fläktel efter rengöring och injustering"], ["100 %", "av uppdragen dokumenterade med film"], ["0", "skoldagar störda under 2025"]]
+    "mal": [
+      [
+        "−14 %",
+        "lägre fläktel efter rengöring och injustering"
+      ],
+      [
+        "100 %",
+        "av uppdragen dokumenterade med film"
+      ],
+      [
+        "0",
+        "skoldagar störda under 2025"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Ett jobb som märks i varje klassrum",
     "text": "Hos oss arbetar du mycket på sommaren och lov, och har längre ledigt på hösten och våren. Vi utbildar dig i robot, mätteknik och OVK, och betalar certifiering till funktionskontrollant efter två år.",
-    "jobb": [["Ventilationstekniker", "Gävle"], ["Funktionskontrollant", "Sandviken"], ["Skorstensfejare", "Gävle"]]
+    "jobb": [
+      [
+        "Ventilationstekniker",
+        "Gävle"
+      ],
+      [
+        "Funktionskontrollant",
+        "Sandviken"
+      ],
+      [
+        "Skorstensfejare för pannor och kök",
+        "Gävle"
+      ]
+    ]
   },
   "kultur": "Efter sommarlovet firar vi med grillfest vid Testeboån för alla som jobbat igenom juli.",
-  "citat": {"text": "Pappa började med en borste och en stege. Jag har sex robotar – men målet är detsamma: att ungarna ska andas ren luft.", "namn": "Lina Engström", "roll": "Vd", "tagg": "people"},
+  "citat": {
+    "text": "Pappa började med en borste och en stege. Jag har sex robotar – men målet är detsamma: att ungarna ska andas ren luft.",
+    "namn": "Lina Engström",
+    "roll": "Vd",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Alla 31 skolor var klara till skolstart. Vi fick filmerna samma vecka och kunde visa föräldrarådet exakt vad som gjorts.", "namn": "Peter N.", "ort": "Gävle"},
-    {"text": "OVK:n hade tidigare underkänts två gånger. Testebo justerade flödena på plats och vi blev godkända direkt.", "namn": "Camilla S.", "ort": "Sandviken"},
-    {"text": "Köket var rent och klart när vi kom 05.30. Inget fett, ingen lukt, inga problem.", "namn": "Ahmed K.", "ort": "Hofors"}
+    {
+      "text": "Alla 31 skolor var klara till skolstart. Vi fick filmerna samma vecka och kunde visa föräldrarådet exakt vad som gjorts.",
+      "namn": "Peter N.",
+      "ort": "Gävle"
+    },
+    {
+      "text": "OVK:n hade tidigare underkänts två gånger. Testebo justerade flödena på plats och vi blev godkända direkt.",
+      "namn": "Camilla S.",
+      "ort": "Sandviken"
+    },
+    {
+      "text": "Köket var rent och klart när vi kom 05.30. Inget fett, ingen lukt, inga problem.",
+      "namn": "Ahmed K.",
+      "ort": "Hofors"
+    }
   ],
   "faq": [
-    ["Hur ofta behöver ventilationen i en skola rengöras?", "Det beror på systemet och hur lokalen används. Många skolor behöver kanalrengöring vart femte till sjunde år, och filterbyte en till två gånger per år. OVK görs vart tredje år."],
-    ["Kan ni arbeta när verksamheten är igång?", "Vi undviker det i skolor och vård, men kan rengöra enskilda rum under dagen om det behövs. Robotarbete görs helst kvällstid."],
-    ["Vad händer om OVK:n inte blir godkänd?", "Om bristen gäller flöden kan vi ofta justera i samma besök. Andra brister skrivs in i protokollet med förslag på åtgärd och kostnad."],
-    ["Har ni ramavtal med kommuner?", "Ja, med flera kommuner och regionens fastighetsförvaltning i Gävleborg. Vi lämnar gärna anbud i nya upphandlingar."],
-    ["Sotar ni villor också?", "Nej, avtalssotningen för villor sköts av kommunens sotningsentreprenör. Vi sotar bara pannor och imkanaler i de offentliga byggnader vi har avtal med."],
-    ["Hur dokumenteras arbetet?", "Varje kanal filmas före och efter, och ni får en ritning med markerade sträckor, mätvärden och protokoll i en samlad rapport."]
+    [
+      "Hur ofta behöver ventilationen i en skola rengöras?",
+      "Det beror på systemet och hur lokalen används. Många skolor behöver kanalrengöring vart femte till sjunde år, och filterbyte en till två gånger per år. OVK görs vart tredje år."
+    ],
+    [
+      "Kan ni arbeta när verksamheten är igång?",
+      "Vi undviker det i skolor och vård, men kan rengöra enskilda rum under dagen om det behövs. Robotarbete görs helst kvällstid."
+    ],
+    [
+      "Vad händer om OVK:n inte blir godkänd?",
+      "Om bristen gäller flöden kan vi ofta justera i samma besök. Andra brister skrivs in i protokollet med förslag på åtgärd och kostnad."
+    ],
+    [
+      "Har ni ramavtal med kommuner?",
+      "Ja, med flera kommuner och regionens fastighetsförvaltning i Gävleborg. Vi lämnar gärna anbud i nya upphandlingar."
+    ],
+    [
+      "Sotar ni villor också?",
+      "Nej, avtalssotningen för villor sköts av kommunens sotningsentreprenör. Vi sotar bara pannor och imkanaler i de offentliga byggnader vi har avtal med."
+    ],
+    [
+      "Hur dokumenteras arbetet?",
+      "Varje kanal filmas före och efter, och ni får en ritning med markerade sträckor, mätvärden och protokoll i en samlad rapport."
+    ]
   ],
   "certifikat": [
-    {"titel": "Funktionskontrollanter K och N", "text": "Fem certifierade funktionskontrollanter, varav tre med behörighet K.", "ikon": "skold"},
-    {"titel": "Imkanalrengöring enligt SBF", "text": "Arbete och intyg enligt Brandskyddsföreningens regler för rengöring av imkanaler.", "ikon": "eld"},
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2015.", "ikon": "lov"},
-    {"titel": "Skorstensfejare", "text": "Tre yrkesutbildade skorstensfejare för pannor och imkanaler.", "ikon": "hjalm"}
+    {
+      "titel": "Funktionskontrollanter K och N",
+      "text": "Fem certifierade funktionskontrollanter, varav tre med behörighet K.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Imkanaler enligt SBF:s regler",
+      "text": "Arbete och intyg enligt Brandskyddsföreningens regler för rengöring av imkanaler.",
+      "ikon": "eld"
+    },
+    {
+      "titel": "ISO 9001 och 14001",
+      "text": "Certifierat ledningssystem för kvalitet och miljö sedan 2015.",
+      "ikon": "lov"
+    },
+    {
+      "titel": "Tre yrkesutbildade sotare",
+      "text": "Tre yrkesutbildade skorstensfejare för pannor och imkanaler.",
+      "ikon": "hjalm"
+    }
   ],
-  "kunder": ["Gävle kommun, lokalförsörjning", "Sandvikens Skolfastigheter", "Gävleborgs Vårdfastigheter", "Hofors kommun", "Söderhamns Omsorgsbostäder", "Österfärnebo skola", "Brf Villastaden Gävle"],
+  "kunder": [
+    "Gävle kommun, lokalförsörjning",
+    "Sandvikens Skolfastigheter",
+    "Gävleborgs Vårdfastigheter",
+    "Hofors kommun",
+    "Söderhamns Omsorgsbostäder",
+    "Österfärnebo skola",
+    "Brf Villastaden Gävle"
+  ],
   "nyheter": [
-    ["2026-09-29", "Därför är septemberluften sämst", "Efter sommaren startas aggregaten med smutsiga filter – så undviker ni det.", "ventilation"],
-    ["2026-06-05", "Klart för sommarlovet", "31 skolor och 18 förskolor står på schemat under juni, juli och augusti.", "people"],
-    ["2026-02-11", "Ny robot för smala kanaler", "Den sjätte roboten klarar kanaler från 100 mm och filmar i full upplösning.", "industri"]
+    [
+      "2026-09-29",
+      "Därför är septemberluften sämst",
+      "Efter sommaren startas aggregaten med smutsiga filter – så undviker ni det.",
+      "ventilation"
+    ],
+    [
+      "2026-06-05",
+      "Klart för sommarlovet",
+      "31 skolor och 18 förskolor står på schemat under juni, juli och augusti.",
+      "people"
+    ],
+    [
+      "2026-02-11",
+      "Ny robot för smala kanaler",
+      "Den sjätte roboten klarar kanaler från 100 mm och filmar i full upplösning.",
+      "industri"
+    ]
   ],
-  "kontakt": {"adress": "Brynäsgatan 47", "postnr": "802 83", "ort": "Gävle", "telefon": "070-174 06 48", "epost": "luft@testeboventilation.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Brynäsgatan 47",
+    "postnr": "802 83",
+    "ort": "Gävle",
+    "telefon": "070-174 06 48",
+    "epost": "luft@testeboventilation.se",
+    "orgnr": ""
+  },
   "oppettider": "Kontoret mån–fre 7–15.30, rengöring även kvällar och helger",
   "omrade": "Gävle, Sandviken, Hofors, Ockelbo och Söderhamn",
   "fot_cta": "Planerar ni nästa sommarlov? Lovplanen för 2027 läggs redan i maj.",
-  "bild": {"panel": "ventilation", "hb": "ventilation"},
+  "bild": {
+    "panel": "ventilation",
+    "hb": "ventilation"
+  },
   "text": {
     "kontakt_knapp": "Kontakta planeringen",
     "hero_knapp": "Vad vi rengör",
@@ -121,7 +402,12 @@
     "faq_rubrik": "Om ventilation i offentliga lokaler",
     "boka_rubrik": "Lägg in era lokaler i lovplanen",
     "boka_text": "Skriv vilka byggnader det gäller och när de står tomma. Vi återkommer med förslag och pris inom tre arbetsdagar.",
-    "boka_falt": ["Namn och verksamhet", "Telefon", "E-post", "Byggnader och lediga perioder"],
+    "boka_falt": [
+      "Namn och förvaltning",
+      "Telefon",
+      "E-post",
+      "Byggnader och lediga perioder"
+    ],
     "certifikat_rubrik": "Kontrollanter och regelverk",
     "logos_rubrik": "Offentliga beställare",
     "medarbetare": "Teknikerna"

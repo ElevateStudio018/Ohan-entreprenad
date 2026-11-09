@@ -1,0 +1,122 @@
+{
+  "profil": "nisch",
+  "nisch": "lassmed",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Tryggdörr i Sjuhärad AB",
+  "kortnamn": "Tryggdörr",
+  "slug": "tryggdorr",
+  "typ": "Skyddsåtgärder för hotade personer",
+  "tagline": "Hemma ska vara säkert",
+  "slogan": "Låssmeder som säkrar bostäder åt personer som utsatts för hot, våld eller förföljelse – på uppdrag av socialtjänst, arbetsgivare eller den drabbade själv.",
+  "hero_rubrik": "Säker hemma igen inom ett dygn",
+  "hero_text": "Nya cylindrar, brevinkastskydd och säkerhetsdörr när någon inte längre ska kunna ta sig in. Sex anställda i Borås, uppdrag i hela Västra Götaland.",
+  "intro_rubrik": "En polis och en låssmed",
+  "om": [
+    "Camilla Forsberg arbetade elva år som polis i Borås, de sista med brottsofferstöd, och såg gång på gång hur skyddsåtgärder dröjde i veckor medan den drabbade satt kvar i en lägenhet där förövaren hade nyckel. 2013 startade hon Tryggdörr tillsammans med låssmeden Rasmus Edlund.",
+    "Vi är i dag sex anställda och gör omkring 420 skyddsuppdrag om året, de flesta beställda av socialtjänster, kvinno- och tjejjourer och arbetsgivare med hotade medarbetare. Alla montörer har gått utbildning i bemötande av våldsutsatta och arbetar i civila bilar."
+  ],
+  "vagval_rubrik": "Vem beställer åtgärden?",
+  "tjanster": [
+    {"titel": "Snabbsäkring", "ikon": "blixt", "href": "verksamhet.html", "text": "Nya cylindrar och spärrade nycklar inom 24 timmar."},
+    {"titel": "Säkerhetsdörr", "ikon": "skold", "href": "verksamhet.html", "text": "Dörr i klass RC3 som monteras på en dag."},
+    {"titel": "Brevinkastskydd", "ikon": "eld", "href": "verksamhet.html", "text": "Skydd mot brandfarlig vätska och föremål genom brevinkastet."},
+    {"titel": "Fönster och balkong", "ikon": "las", "href": "verksamhet.html", "text": "Låsbara handtag och skydd på bottenvåning och balkong."},
+    {"titel": "Skyddade boenden", "ikon": "hem", "href": "verksamhet.html", "text": "Helhetsskydd för jourer och kommunala skyddade boenden."},
+    {"titel": "Hotade medarbetare", "ikon": "portfolj", "href": "verksamhet.html", "text": "Åtgärder i hemmet beställda av arbetsgivaren."},
+    {"titel": "Uppföljningsbesök", "ikon": "kalender", "href": "verksamhet.html", "text": "Vi kommer tillbaka efter en månad och ser att allt fungerar."},
+    {"titel": "Ring oss direkt", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Socialtjänst och jourer når oss på ett eget nummer dygnet runt."}
+  ],
+  "affarsomraden": [
+    {"titel": "Akut skydd i bostaden", "text": "När en tidigare partner har nyckel eller kod byter vi cylindrar, spärrar taggar och programmerar om kodlås samma dag eller natt. Vi samordnar med hyresvärden så att den drabbade inte behöver ringa runt.", "text2": "Snabbsäkring utförs inom 24 timmar i Sjuhärad, oftast samma dag.", "tagg": "las"},
+    {"titel": "Säkerhetsdörrar och brevinkast", "text": "En säkerhetsdörr i klass RC3 med brevinkastskydd stoppar både intrång och bränder som anläggs genom brevinkastet. Dörrarna har vi i lager i standardmått och kan montera med en dags varsel.", "text2": "Hyresvärden får ritning och intyg om dörrens brandklass.", "tagg": "hem"},
+    {"titel": "Skyddade boenden och jourer", "text": "Jourer och kommuner som driver skyddade boenden behöver lås som snabbt kan kodas om mellan boende, entréer som inte avslöjar adressen och rutiner för nycklar. Vi bygger skyddet och sköter det löpande.", "text2": "Vi har avtal med nio skyddade boenden i Västra Götaland.", "tagg": "bostad"},
+    {"titel": "Hotade förtroendevalda och anställda", "text": "Politiker, journalister, socialsekreterare och vårdpersonal som hotas i sitt arbete. Arbetsgivaren beställer en riskanpassad genomgång av hemmet, och vi åtgärdar det som behövs.", "text2": "Arbetsgivaren betalar, men det är den hotade som bestämmer vilka åtgärder som görs.", "tagg": "las"}
+  ],
+  "bolag": [
+    {"namn": "Akutgruppen", "segment": "Tre montörer med jour", "rubrik": "Låst innan natten", "text": "Turas om med jourtelefonen och tar snabbsäkringar i hela Sjuhärad dygnet runt.", "tagg": "las"},
+    {"namn": "Dörrar och boenden", "segment": "Två montörer", "rubrik": "Säkerhetsdörrar på en dag", "text": "Monterar säkerhetsdörrar, brevinkastskydd och helhetsskydd för skyddade boenden.", "tagg": "hem"},
+    {"namn": "Samordning", "segment": "Camilla Forsberg", "rubrik": "En kontakt för handläggaren", "text": "Tar emot uppdrag från socialtjänst och arbetsgivare, samordnar med hyresvärd och polis och bokar uppföljning.", "tagg": "people"}
+  ],
+  "berattelser": [
+    {"rubrik": "420 uppdrag förra året", "text": "Under 2025 utförde vi 420 skyddsuppdrag, varav 260 snabbsäkringar inom ett dygn.", "tagg": "las"},
+    {"rubrik": "Nytt avtal i Ulricehamn", "text": "Socialtjänsten i Ulricehamn har tecknat avtal om snabbsäkring för våldsutsatta från och med september.", "tagg": "people"},
+    {"rubrik": "Dörrar i lager", "text": "Vi har nu tolv säkerhetsdörrar i standardmått i lager, så att leveranstiden kan räknas i dagar.", "tagg": "hem"}
+  ],
+  "nyckeltal": [
+    {"varde": "24", "enhet": "tim", "etikett": "Längsta tid till snabbsäkring"},
+    {"varde": "420", "enhet": "uppdrag", "etikett": "Under 2025"},
+    {"varde": "9", "enhet": "boenden", "etikett": "Skyddade boenden i avtal"},
+    {"varde": "6", "enhet": "anställda", "etikett": "Alla bemötandeutbildade"}
+  ],
+  "projekt": [
+    {"namn": "Socialtjänsten i Ulricehamn", "ort": "Ulricehamn", "typ": "Avtal om snabbsäkring", "ar": "2026", "text": "Låsbyten och spärrar inom ett dygn för våldsutsatta som bor kvar.", "tagg": "las"},
+    {"namn": "Skyddat boende", "ort": "Västra Götaland", "typ": "Helhetsskydd", "ar": "2026", "text": "Kodlås som byts mellan boende, säkerhetsdörrar och anonym entré.", "tagg": "bostad", "status": "Utfört"},
+    {"namn": "Hotade förtroendevalda", "ort": "Borås", "typ": "Skydd i sju hem", "ar": "2025", "text": "Riskanpassade genomgångar och åtgärder beställda av kommunen.", "tagg": "hem"},
+    {"namn": "Allmännyttigt bostadsbolag", "ort": "Borås", "typ": "Ramavtal säkerhetsdörrar", "ar": "2025", "text": "Säkerhetsdörrar och brevinkastskydd med en dags varsel för utsatta hyresgäster.", "tagg": "bostad"},
+    {"namn": "Vårdcentral med hotad personal", "ort": "Mark", "typ": "Åtgärder i hemmen", "ar": "2024", "text": "Tre medarbetare fick säkerhetsdörr och fönsterskydd betalt av arbetsgivaren.", "tagg": "las"},
+    {"namn": "Tjejjour", "ort": "Sjuhärad", "typ": "Nyckelrutiner", "ar": "2024", "text": "Nytt nyckelsystem och rutiner för jourens lokaler och lägenheter.", "tagg": "las"}
+  ],
+  "process": [
+    {"titel": "Uppdraget kommer in", "text": "Handläggaren, arbetsgivaren eller du själv ringer. Vi frågar bara det vi behöver för att kunna säkra bostaden.", "tagg": "people"},
+    {"titel": "Snabbsäkring", "text": "Inom ett dygn byts cylindrar, nycklar och koder spärras och brevinkastet skyddas.", "tagg": "las"},
+    {"titel": "Bedömning av hemmet", "text": "Montören går igenom dörrar, fönster och balkong och föreslår vad mer som behövs.", "tagg": "hem"},
+    {"titel": "Uppföljning efter en månad", "text": "Vi kommer tillbaka, provar allt och frågar om något har hänt som kräver mer skydd.", "tagg": "las"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Arbetet tar inte slut när låset sitter",
+    "text": "Hot upphör sällan på en dag. Därför gör vi ett uppföljningsbesök efter en månad i varje uppdrag och står kvar som kontakt så länge den drabbade vill. Adresser och uppgifter om skyddade personer förvaras aldrig i vårt vanliga kundregister.",
+    "mal": [["100 %", "av uppdragen följs upp efter en månad"], ["24 tim", "till snabbsäkring i Sjuhärad"], ["0", "skyddade adresser i kundregistret"]]
+  },
+  "karriar": {
+    "rubrik": "Låssmed med ett annat uppdrag",
+    "text": "Vi söker en låssmed som vill använda sitt hantverk där det gör störst skillnad. Du får utbildning i bemötande av våldsutsatta och går jour en vecka av fyra.",
+    "jobb": [["Låssmed med jour", "Borås"]]
+  },
+  "kultur": "Efter varje tungt uppdrag finns tid att prata av sig med Camilla – det står inskrivet i arbetsscheman, inte bara i policyn.",
+  "citat": {"text": "Den som har blivit hotad ska inte behöva sova en enda natt till bakom en dörr som förövaren har nyckel till.", "namn": "Camilla Forsberg", "roll": "Grundare och vd", "tagg": "people"},
+  "omdomen": [
+    {"text": "Jag ringde klockan två och klockan sju var låsen bytta. De sa vad de gjorde i varje steg och gick inte förrän jag kände mig trygg.", "namn": "Kvinna, 34", "ort": "Borås"},
+    {"text": "Som handläggare kan jag beställa på morgonen och veta att det är gjort samma dag. Det har förändrat hur vi kan arbeta.", "namn": "Socialsekreterare", "ort": "Ulricehamn"},
+    {"text": "Brevinkastskyddet kom upp dagen efter att vi fått ett hotbrev. Det var första natten på länge vi sov.", "namn": "Förtroendevald", "ort": "Sjuhärad"}
+  ],
+  "faq": [
+    ["Vem betalar?", "Oftast socialtjänsten, arbetsgivaren eller hemförsäkringen. Du kan också beställa själv, och vi hjälper dig att söka ersättning i efterhand."],
+    ["Måste jag ha en polisanmälan?", "Nej, inte för att vi ska komma. Men för ersättning från försäkring eller kommun krävs det ofta, och vi kan förklara hur det går till."],
+    ["Vad gör ni om hyresvärden äger låset?", "Vi kontaktar hyresvärden och ordnar godkännandet. De flesta hyresvärdar i Sjuhärad har avtal med oss och godkänner snabbt."],
+    ["Syns det att ni kommer?", "Nej. Vi kommer i civila bilar utan logga och i kläder utan tryck."],
+    ["Vad är ett brevinkastskydd?", "En låda på insidan av dörren som fångar upp brandfarlig vätska och föremål som stoppas in genom brevinkastet. Den släcker en brand av sig själv."],
+    ["Arbetar ni utanför Sjuhärad?", "Ja, i hela Västra Götaland. Utanför Sjuhärad kan snabbsäkringen ta upp till 36 timmar."]
+  ],
+  "certifikat": [
+    {"titel": "Säkerhetsdörrar SS-EN 1627", "text": "Dörrar i motståndsklass RC3 provade av ackrediterat provningsorgan.", "ikon": "skold"},
+    {"titel": "Bemötandeutbildade", "text": "Alla anställda har gått utbildning i bemötande av våldsutsatta, med repetition varje år.", "ikon": "hjarta"},
+    {"titel": "Utdrag ur belastningsregistret", "text": "Kontrolleras vid anställning och därefter vartannat år.", "ikon": "folk"},
+    {"titel": "Gesällbrev, SLR", "text": "Sveriges Låssmeders Riksförbund – samtliga montörer har gesällbrev.", "ikon": "stjarna"}
+  ],
+  "kunder": ["Socialtjänsten i Ulricehamn", "Borås Hyresbostäder", "Kvinnojouren Sjuhärad", "Marks kommun, HR", "Tjejjouren Viskan", "Bostadsbolaget i Tranemo", "Svenljunga Socialförvaltning"],
+  "nyheter": [
+    ["2026-09-08", "Avtal med Ulricehamn", "Snabbsäkring för våldsutsatta från och med september.", "people"],
+    ["2026-05-26", "Dörrar i lager", "Tolv säkerhetsdörrar i standardmått för kortare leveranstid.", "hem"],
+    ["2026-02-10", "Så gick 2025", "420 uppdrag, varav 260 snabbsäkringar inom ett dygn.", "las"]
+  ],
+  "kontakt": {"adress": "Sandwalls plats 5", "postnr": "503 38", "ort": "Borås", "telefon": "070-174 06 85", "epost": "kontakt@tryggdorr.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 8–16 · jour för socialtjänst och jourer dygnet runt",
+  "omrade": "Sjuhärad och övriga Västra Götaland",
+  "fot_cta": "Har någon nyckel som inte borde ha det? Ring – vi är där inom ett dygn.",
+  "bild": {"panel": "people", "hb": "hem"},
+  "text": {
+    "hero_knapp": "Våra skyddsåtgärder",
+    "hero_lank": "Uppdrag i urval",
+    "ber_rubrik": "Det senaste halvåret",
+    "proj_rubrik": "Uppdrag utan namn och adress",
+    "process_rubrik": "Från samtal till uppföljning",
+    "hb_etikett": "Efter åtgärden",
+    "omdomen_rubrik": "Från dem vi har hjälpt",
+    "faq_rubrik": "Om skydd, kostnad och hyresvärd",
+    "boka_rubrik": "Beställ en snabbsäkring",
+    "logos_rubrik": "Beställare i Sjuhärad",
+    "certifikat_rubrik": "Utbildade för uppdraget",
+    "bolag_rubrik": "Akut, dörrar och samordning",
+    "ny_rubrik": "Nytt från Tryggdörr"
+  }
+}

@@ -17,94 +17,372 @@
   ],
   "vagval_rubrik": "Var står er förening?",
   "tjanster": [
-    {"titel": "Gjuten relining", "ikon": "ror", "href": "verksamhet.html", "text": "En formslang blåses upp i kanalen och omges av eldfast massa som härdar till en ny kanal."},
-    {"titel": "Kamerainspektion", "ikon": "sok", "href": "verksamhet.html", "text": "Vi filmar varje kanal och visar styrelsen exakt var sprickorna finns."},
-    {"titel": "Provtryckning", "ikon": "graf", "href": "verksamhet.html", "text": "Täthetsprovning med rök och tryck före och efter relining."},
-    {"titel": "Brf-projekt", "ikon": "folk", "href": "verksamhet.html", "text": "Information till medlemmarna, tidplan per trappuppgång och en projektledare."},
-    {"titel": "Kakelugnar i drift igen", "ikon": "eld", "href": "verksamhet.html", "text": "Avstängda kakelugnar och öppna spisar kan tas i bruk efter relining."},
-    {"titel": "Murstock för köksfläkt", "ikon": "vind", "href": "verksamhet.html", "text": "Gamla rökkanaler relinas så att de kan användas för frånluft."},
-    {"titel": "Garanti i 25 år", "ikon": "skold", "href": "verksamhet.html", "text": "Garantin gäller täthet och sotbrandsbeständighet för varje kanal."},
-    {"titel": "Begär kamerainspektion", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Vi filmar tre kanaler kostnadsfritt inför styrelsens beslut."}
+    {
+      "titel": "Gjuten relining",
+      "ikon": "ror",
+      "href": "verksamhet.html",
+      "text": "En formslang blåses upp i kanalen och omges av eldfast massa som härdar till en ny kanal."
+    },
+    {
+      "titel": "Filmning av kanaler",
+      "ikon": "sok",
+      "href": "verksamhet.html",
+      "text": "Vi filmar varje kanal och visar styrelsen exakt var sprickorna finns."
+    },
+    {
+      "titel": "Täthetsprovning",
+      "ikon": "graf",
+      "href": "verksamhet.html",
+      "text": "Täthetsprovning med rök och tryck före och efter relining."
+    },
+    {
+      "titel": "Brf-projekt",
+      "ikon": "folk",
+      "href": "verksamhet.html",
+      "text": "Information till medlemmarna, tidplan per trappuppgång och en projektledare."
+    },
+    {
+      "titel": "Kakelugnar i drift igen",
+      "ikon": "eld",
+      "href": "verksamhet.html",
+      "text": "Avstängda kakelugnar och öppna spisar kan tas i bruk efter relining."
+    },
+    {
+      "titel": "Murstock för köksfläkt",
+      "ikon": "vind",
+      "href": "verksamhet.html",
+      "text": "Gamla rökkanaler relinas så att de kan användas för frånluft."
+    },
+    {
+      "titel": "Garanti i 25 år",
+      "ikon": "skold",
+      "href": "verksamhet.html",
+      "text": "Garantin gäller täthet och sotbrandsbeständighet för varje kanal."
+    },
+    {
+      "titel": "Begär kamerainspektion",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "Vi filmar tre kanaler kostnadsfritt inför styrelsens beslut."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Gjuten relining", "text": "Vi för ner en formslang i kanalen, blåser upp den till rätt dimension och pumpar in eldfast lättbetong mellan slangen och murverket. Efter ett dygn dras slangen ut, och kvar finns en ny, slät och tät kanal.", "text2": "Metoden är CE-märkt och klassad T600 G, alltså sotbrandsbeständig.", "tagg": "skorsten"},
-    {"titel": "Inspektion och provning", "text": "Innan vi lämnar pris filmar vi kanalerna med kamera och provtrycker dem med rök. Det ger styrelsen ett underlag som går att visa på stämman.", "text2": "Efter relining provtrycks varje kanal igen och protokollet följer med slutdokumentationen.", "tagg": "brand"},
-    {"titel": "Hela föreningar", "text": "Ett typiskt projekt omfattar 30–120 rökkanaler i ett eller flera hus. Vi arbetar en trappuppgång i taget, och varje lägenhet berörs i normalt två dagar.", "text2": "Medlemmarna får information i brevlådan, på ett informationsmöte och via sms dagen före.", "tagg": "bostad"},
-    {"titel": "Eldstäder som får användas igen", "text": "Många kakelugnar och öppna spisar har varit avstängda sedan 1970-talet. Efter relining och kontroll av sotaren får de användas igen.", "text2": "Vi samarbetar med kakelugnsmakare som kan ta hand om själva eldstaden.", "tagg": "interior"}
+    {
+      "titel": "Gjuten relining",
+      "text": "Vi för ner en formslang i kanalen, blåser upp den till rätt dimension och pumpar in eldfast lättbetong mellan slangen och murverket. Efter ett dygn dras slangen ut, och kvar finns en ny, slät och tät kanal.",
+      "text2": "Metoden är CE-märkt och klassad T600 G, alltså sotbrandsbeständig.",
+      "tagg": "skorsten"
+    },
+    {
+      "titel": "Inspektion och provning",
+      "text": "Innan vi lämnar pris filmar vi kanalerna med kamera och provtrycker dem med rök. Det ger styrelsen ett underlag som går att visa på stämman.",
+      "text2": "Efter relining provtrycks varje kanal igen och protokollet följer med slutdokumentationen.",
+      "tagg": "brand"
+    },
+    {
+      "titel": "Hela föreningar",
+      "text": "Ett typiskt projekt omfattar 30–120 rökkanaler i ett eller flera hus. Vi arbetar en trappuppgång i taget, och varje lägenhet berörs i normalt två dagar.",
+      "text2": "Medlemmarna får information i brevlådan, på ett informationsmöte och via sms dagen före.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Eldstäder som får användas igen",
+      "text": "Många kakelugnar och öppna spisar har varit avstängda sedan 1970-talet. Efter relining och kontroll av sotaren får de användas igen.",
+      "text2": "Vi samarbetar med kakelugnsmakare som kan ta hand om själva eldstaden.",
+      "tagg": "interior"
+    }
   ],
   "bolag": [
-    {"namn": "Projektledning", "segment": "Föreningar och fastighetsägare", "rubrik": "En kontakt från stämma till slutbesiktning", "text": "Tre projektledare som informerar medlemmar, planerar tidplanen och sköter kontakten med sotaren.", "tagg": "kontor"},
-    {"namn": "Reliningslagen", "segment": "Utförande", "rubrik": "Fyra lag om fyra", "text": "Varje lag har egen pumputrustning, formslangar och en skorstensfejartekniker som arbetsledare.", "tagg": "skorsten"},
-    {"namn": "Inspektion och provning", "segment": "Kamera och täthet", "rubrik": "Mäter före och efter", "text": "Två tekniker som filmar, provtrycker och skriver protokoll till varje kanal.", "tagg": "brand"}
+    {
+      "namn": "Projektledning",
+      "segment": "Föreningar och fastighetsägare",
+      "rubrik": "En kontakt från stämma till slutbesiktning",
+      "text": "Tre projektledare som informerar medlemmar, planerar tidplanen och sköter kontakten med sotaren.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Reliningslagen",
+      "segment": "Gjutning på plats",
+      "rubrik": "Fyra lag om fyra",
+      "text": "Varje lag har egen pumputrustning, formslangar och en skorstensfejartekniker som arbetsledare.",
+      "tagg": "skorsten"
+    },
+    {
+      "namn": "Inspektion och provning",
+      "segment": "Kamera och täthet",
+      "rubrik": "Mäter före och efter",
+      "text": "Två tekniker som filmar, provtrycker och skriver protokoll till varje kanal.",
+      "tagg": "brand"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Kvarnholmens äldsta hus klart", "text": "36 kanaler i ett stenhus från 1889 är relinade, och föreningen tänder kakelugnarna lagom till advent.", "tagg": "skorsten"},
-    {"rubrik": "Vi har börjat i Karlskrona", "text": "Ett eget reliningslag utgår nu från Karlskrona och har sex föreningar på Trossö inbokade.", "tagg": "stad"},
-    {"rubrik": "Ny pump halverar torktiden", "text": "Med en ny pump och tunnare massa kan vi gjuta två våningar per dag i stället för en.", "tagg": "bygg"}
+    {
+      "rubrik": "Kvarnholmens äldsta hus klart",
+      "text": "36 kanaler i ett stenhus från 1889 är relinade, och föreningen tänder kakelugnarna lagom till advent.",
+      "tagg": "skorsten"
+    },
+    {
+      "rubrik": "Vi har börjat i Karlskrona",
+      "text": "Ett eget reliningslag utgår nu från Karlskrona och har sex föreningar på Trossö inbokade.",
+      "tagg": "stad"
+    },
+    {
+      "rubrik": "Ny pump halverar torktiden",
+      "text": "Med en ny pump och tunnare massa kan vi gjuta två våningar per dag i stället för en.",
+      "tagg": "bygg"
+    }
   ],
   "nyckeltal": [
-    {"varde": "4 800", "enhet": "kanaler", "etikett": "Relinade sedan 2008"},
-    {"varde": "25 år", "enhet": "garanti", "etikett": "På varje kanal"},
-    {"varde": "2", "enhet": "dagar", "etikett": "Per lägenhet i snitt"},
-    {"varde": "24", "enhet": "anställda", "etikett": "Bara relining"}
+    {
+      "varde": "4 800",
+      "enhet": "kanaler",
+      "etikett": "Relinade sedan 2008"
+    },
+    {
+      "varde": "25 år",
+      "enhet": "garanti",
+      "etikett": "På varje kanal"
+    },
+    {
+      "varde": "2",
+      "enhet": "dagar",
+      "etikett": "Per lägenhet i snitt"
+    },
+    {
+      "varde": "24",
+      "enhet": "anställda",
+      "etikett": "Bara relining"
+    }
   ],
   "projekt": [
-    {"namn": "Brf Kvarnholmen 7", "ort": "Kalmar", "typ": "Gjuten relining", "ar": "2026", "text": "36 kanaler i ett stenhus från 1889, med alla kakelugnar i drift igen.", "tagg": "skorsten"},
-    {"namn": "Hyresfastigheter Trossö", "ort": "Karlskrona", "typ": "Relining och inspektion", "ar": "2026", "text": "Sex hus från sekelskiftet med 140 kanaler – arbetet pågår till våren.", "tagg": "stad", "status": "Pågående"},
-    {"namn": "Brf Stensö Udde", "ort": "Kalmar", "typ": "Relining för frånluft", "ar": "2025", "text": "Gamla rökkanaler relinades så att köksfläktarna kunde anslutas.", "tagg": "ventilation"},
-    {"namn": "Borgholms gamla skola", "ort": "Borgholm", "typ": "Kulturbyggnad", "ar": "2025", "text": "Relining av åtta kanaler i en skolbyggnad från 1903 som blivit lägenheter.", "tagg": "bostad"},
-    {"namn": "Brf Ronneby Brunn", "ort": "Ronneby", "typ": "Provtryckning", "ar": "2025", "text": "Täthetsprovning av 64 kanaler, varav 22 relinades efter beslut på stämman.", "tagg": "brand"},
-    {"namn": "Västerviks Stadsgård", "ort": "Västervik", "typ": "Gjuten relining", "ar": "2024", "text": "Tre murstockar med totalt 18 kanaler i ett 1920-talshus vid hamnen.", "tagg": "skorsten"}
+    {
+      "namn": "Brf Kvarnholmen 7",
+      "ort": "Kalmar",
+      "typ": "Gjuten relining",
+      "ar": "2026",
+      "text": "36 kanaler i ett stenhus från 1889, med alla kakelugnar i drift igen.",
+      "tagg": "skorsten"
+    },
+    {
+      "namn": "Hyresfastigheter Trossö",
+      "ort": "Karlskrona",
+      "typ": "Relining och inspektion",
+      "ar": "2026",
+      "text": "Sex hus från sekelskiftet med 140 kanaler – arbetet pågår till våren.",
+      "tagg": "stad",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Brf Stensö Udde",
+      "ort": "Kalmar",
+      "typ": "Relining för frånluft",
+      "ar": "2025",
+      "text": "Gamla rökkanaler relinades så att köksfläktarna kunde anslutas.",
+      "tagg": "ventilation"
+    },
+    {
+      "namn": "Borgholms gamla skola",
+      "ort": "Borgholm",
+      "typ": "Kulturbyggnad",
+      "ar": "2025",
+      "text": "Relining av åtta kanaler i en skolbyggnad från 1903 som blivit lägenheter.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Brf Ronneby Brunn",
+      "ort": "Ronneby",
+      "typ": "Täthetsprovning",
+      "ar": "2025",
+      "text": "Täthetsprovning av 64 kanaler, varav 22 relinades efter beslut på stämman.",
+      "tagg": "brand"
+    },
+    {
+      "namn": "Västerviks Stadsgård",
+      "ort": "Västervik",
+      "typ": "Gjuten relining",
+      "ar": "2024",
+      "text": "Tre murstockar med totalt 18 kanaler i ett 1920-talshus vid hamnen.",
+      "tagg": "skorsten"
+    }
   ],
   "process": [
-    {"titel": "Kamera på tre kanaler", "text": "Vi filmar tre kanaler kostnadsfritt och visar resultatet för styrelsen.", "tagg": "brand"},
-    {"titel": "Underlag till stämman", "text": "Ni får offert, tidplan och en presentation som projektledaren gärna håller själv.", "tagg": "kontor"},
-    {"titel": "Trappuppgång för trappuppgång", "text": "Två dagar per lägenhet. Vi skyddar golv och möbler och dammsuger varje kväll.", "tagg": "bostad"},
-    {"titel": "Provning och intyg", "text": "Varje kanal provtrycks, och sotaren gör en slutkontroll innan eldstäderna får användas.", "tagg": "skorsten"}
+    {
+      "titel": "Kamera på tre kanaler",
+      "text": "Vi filmar tre kanaler kostnadsfritt och visar resultatet för styrelsen.",
+      "tagg": "brand"
+    },
+    {
+      "titel": "Underlag till stämman",
+      "text": "Ni får offert, tidplan och en presentation som projektledaren gärna håller själv.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Trappuppgång för trappuppgång",
+      "text": "Två dagar per lägenhet. Vi skyddar golv och möbler och dammsuger varje kväll.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Provning och intyg",
+      "text": "Varje kanal provtrycks, och sotaren gör en slutkontroll innan eldstäderna får användas.",
+      "tagg": "skorsten"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Bygga om inifrån i stället för att riva",
     "text": "En relinad murstock behöver inte rivas och muras upp igen, vilket sparar i snitt fyra ton tegel och bruk per murstock. Formslangarna återanvänds upp till 40 gånger, och spillmassan går till fyllnad hos en lokal entreprenör.",
-    "mal": [["4 ton", "material sparat per murstock"], ["40", "användningar per formslang"], ["0", "kanaler som underkänts vid slutkontroll 2025"]]
+    "mal": [
+      [
+        "4 ton",
+        "material sparat per murstock"
+      ],
+      [
+        "40",
+        "användningar per formslang"
+      ],
+      [
+        "0",
+        "kanaler som underkänts vid slutkontroll 2025"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Bygg kanaler som håller i 50 år",
     "text": "Vi söker reliningstekniker som gillar noggrannhet och vill arbeta i lag. Du lär dig metoden hos oss och får gå kurs för heta arbeten, fallskydd och ställningsbygge.",
-    "jobb": [["Reliningstekniker", "Kalmar"], ["Reliningstekniker", "Karlskrona"], ["Projektledare bostadsrättsföreningar", "Kalmar"]]
+    "jobb": [
+      [
+        "Reliningstekniker",
+        "Kalmar"
+      ],
+      [
+        "Reliningstekniker",
+        "Karlskrona"
+      ],
+      [
+        "Projektledare bostadsrättsföreningar",
+        "Kalmar"
+      ]
+    ]
   },
   "kultur": "När ett hus är klart tänder vi den första kakelugnen tillsammans med styrelsen – och tar bild.",
-  "citat": {"text": "Tegelstocken från 1890 är oftast bättre än man tror. Det är bara kanalen inuti som har gett upp – och den kan vi göra ny.", "namn": "Mattias Gustavsson", "roll": "Grundare och skorstensfejarmästare", "tagg": "skorsten"},
+  "citat": {
+    "text": "Tegelstocken från 1890 är oftast bättre än man tror. Det är bara kanalen inuti som har gett upp – och den kan vi göra ny.",
+    "namn": "Mattias Gustavsson",
+    "roll": "Grundare och mästare i skorstensfejaryrket",
+    "tagg": "skorsten"
+  },
   "omdomen": [
-    {"text": "Projektledaren höll informationsmötet åt oss, och stämman röstade ja med bara två nej. Arbetet blev klart en vecka före tidplanen.", "namn": "Maria L.", "ort": "Kvarnholmen"},
-    {"text": "Vår kakelugn hade varit avstängd i fyrtio år. Nu eldar vi i den varje söndag.", "namn": "Bertil och Ann J.", "ort": "Kalmar"},
-    {"text": "Ordning och reda i trappan och dammsugning varje kväll. Hyresgästerna klagade inte en enda gång.", "namn": "Thomas A.", "ort": "Karlskrona"}
+    {
+      "text": "Projektledaren höll informationsmötet åt oss, och stämman röstade ja med bara två nej. Arbetet blev klart en vecka före tidplanen.",
+      "namn": "Marie L.",
+      "ort": "Kvarnholmen"
+    },
+    {
+      "text": "Vår kakelugn hade varit avstängd i fyrtio år. Nu eldar vi i den varje söndag.",
+      "namn": "Bertil och Ann J.",
+      "ort": "Kalmar"
+    },
+    {
+      "text": "Ordning och reda i trappan och dammsugning varje kväll. Hyresgästerna klagade inte en enda gång.",
+      "namn": "Thomas A.",
+      "ort": "Karlskrona"
+    }
   ],
   "faq": [
-    ["Vad är skillnaden mellan relining och insatsrör?", "Ett insatsrör är ett stålrör som förs ner i kanalen. Vid gjuten relining bildas en ny kanal av eldfast massa som fyller ut alla ojämnheter och binder mot murverket, vilket passar bättre i gamla, krokiga kanaler."],
-    ["Måste medlemmarna flytta ut?", "Nej. Vi arbetar i en lägenhet i högst två dagar och behöver bara tillgång till eldstaden eller sotluckan."],
-    ["Hur lång tid tar ett projekt?", "En förening med 40 kanaler tar normalt fem till sju veckor från start till slutbesiktning."],
-    ["Vad kostar det?", "Priset beror på kanalens längd och skick. Ett riktvärde är 18 000–26 000 kr per kanal i ett fyravåningshus, inklusive provning och slutdokumentation."],
-    ["Får vi elda direkt efteråt?", "Massan behöver härda i ett dygn och sedan ska sotaren göra en kontroll. De flesta kan elda inom en vecka."],
-    ["Fungerar det i kulturhistoriska byggnader?", "Ja, eftersom murstocken behålls utan ingrepp i fasaden. Vi har relinat i flera byggnader som är skyddade i detaljplanen."],
-    ["Vad omfattar garantin?", "Vi lämnar 25 års garanti på täthet och sotbrandsbeständighet, under förutsättning att kanalen sotas enligt kommunens frister."]
+    [
+      "Vad är skillnaden mellan relining och insatsrör?",
+      "Ett insatsrör är ett stålrör som förs ner i kanalen. Vid gjuten relining bildas en ny kanal av eldfast massa som fyller ut alla ojämnheter och binder mot murverket, vilket passar bättre i gamla, krokiga kanaler."
+    ],
+    [
+      "Måste medlemmarna flytta ut?",
+      "Nej. Vi arbetar i en lägenhet i högst två dagar och behöver bara tillgång till eldstaden eller sotluckan."
+    ],
+    [
+      "Hur lång tid tar ett projekt?",
+      "En förening med 40 kanaler tar normalt fem till sju veckor från start till slutbesiktning."
+    ],
+    [
+      "Vad kostar relining per kanal?",
+      "Priset beror på kanalens längd och skick. Ett riktvärde är 18 000–26 000 kr per kanal i ett fyravåningshus, inklusive provning och slutdokumentation."
+    ],
+    [
+      "Får vi elda direkt efteråt?",
+      "Massan behöver härda i ett dygn och sedan ska sotaren göra en kontroll. De flesta kan elda inom en vecka."
+    ],
+    [
+      "Fungerar det i kulturhistoriska byggnader?",
+      "Ja, eftersom murstocken behålls utan ingrepp i fasaden. Vi har relinat i flera byggnader som är skyddade i detaljplanen."
+    ],
+    [
+      "Vad omfattar garantin?",
+      "Vi lämnar 25 års garanti på täthet och sotbrandsbeständighet, under förutsättning att kanalen sotas enligt kommunens frister."
+    ]
   ],
   "certifikat": [
-    {"titel": "CE-märkt reliningssystem", "text": "Systemet är klassat T600 G enligt europeisk standard för skorstenar.", "ikon": "skold"},
-    {"titel": "Skorstensfejarmästare", "text": "Grundaren har mästarbrev och fyra arbetsledare är skorstensfejartekniker.", "ikon": "stjarna"},
-    {"titel": "Heta arbeten och ställning", "text": "Alla tekniker har certifikat för heta arbeten och ställningsbygge upp till nio meter.", "ikon": "hjalm"},
-    {"titel": "Garanti genom försäkring", "text": "Garantin är försäkrad, så att den gäller även om vi skulle upphöra.", "ikon": "las"}
+    {
+      "titel": "CE-märkt reliningssystem",
+      "text": "Systemet är klassat T600 G enligt europeisk standard för skorstenar.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Mästarbrev och teknikerexamen",
+      "text": "Grundaren har mästarbrev och fyra arbetsledare är skorstensfejartekniker.",
+      "ikon": "stjarna"
+    },
+    {
+      "titel": "Heta arbeten och ställning",
+      "text": "Alla tekniker har certifikat för heta arbeten och ställningsbygge upp till nio meter.",
+      "ikon": "hjalm"
+    },
+    {
+      "titel": "Garanti genom försäkring",
+      "text": "Garantin är försäkrad, så att den gäller även om vi skulle upphöra.",
+      "ikon": "las"
+    }
   ],
-  "kunder": ["Brf Kvarnholmen 7", "Trossö Hyresfastigheter", "Brf Stensö Udde", "Borgholms Bostadsrätter", "Brf Ronneby Brunn", "Västerviks Stadsgård AB", "Kalmarsunds Fastighetsförvaltning"],
+  "kunder": [
+    "Brf Kvarnholmen 7",
+    "Trossö Hyresfastigheter",
+    "Brf Stensö Udde",
+    "Borgholms Bostadsrätter",
+    "Brf Ronneby Brunn",
+    "Västerviks Stadsgård AB",
+    "Kalmarsunds Fastighetsförvaltning"
+  ],
   "nyheter": [
-    ["2026-10-09", "Fem frågor styrelsen bör ställa", "Innan ni väljer metod för en otät rökkanal – och vad svaren betyder.", "skorsten"],
-    ["2026-06-18", "Karlskronalaget är på plats", "Fyra nya medarbetare och en egen pumpvagn utgår nu från Trossö.", "people"],
-    ["2026-01-22", "Därför spricker kanalerna i stenhus", "Fukt, frost och sur kondens från gamla oljepannor är de vanligaste orsakerna.", "brand"]
+    [
+      "2026-10-09",
+      "Fem frågor styrelsen bör ställa",
+      "Innan ni väljer metod för en otät rökkanal – och vad svaren betyder.",
+      "skorsten"
+    ],
+    [
+      "2026-06-18",
+      "Karlskronalaget är på plats",
+      "Fyra nya medarbetare och en egen pumpvagn utgår nu från Trossö.",
+      "people"
+    ],
+    [
+      "2026-01-22",
+      "Därför spricker kanalerna i stenhus",
+      "Fukt, frost och sur kondens från gamla oljepannor är de vanligaste orsakerna.",
+      "brand"
+    ]
   ],
-  "kontakt": {"adress": "Stensbergsvägen 11", "postnr": "393 65", "ort": "Kalmar", "telefon": "070-174 06 35", "epost": "projekt@sundrelining.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Stensbergsvägen 11",
+    "postnr": "393 65",
+    "ort": "Kalmar",
+    "telefon": "070-174 06 35",
+    "epost": "projekt@sundrelining.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–fre 7–16",
   "omrade": "Kalmar län, Öland och Blekinge",
   "fot_cta": "Har er förening avstängda eldstäder? Vi filmar tre kanaler utan kostnad.",
-  "bild": {"panel": "skorsten", "hb": "bygg"},
+  "bild": {
+    "panel": "skorsten",
+    "hb": "bygg"
+  },
   "text": {
     "kontakt_knapp": "Boka kamera",
     "hero_knapp": "Så fungerar relining",
@@ -123,9 +401,14 @@
     "faq_rubrik": "Frågor inför stämman",
     "boka_rubrik": "Berätta om er förening",
     "boka_text": "Skriv antal hus, ungefärligt byggår och hur många eldstäder som är avstängda. Vi bokar in en kostnadsfri kamerainspektion.",
-    "boka_falt": ["Namn och förening", "Telefon", "E-post", "Hus, byggår och eldstäder"],
+    "boka_falt": [
+      "Namn och förening",
+      "Telefon",
+      "E-post",
+      "Hus, byggår och eldstäder"
+    ],
     "certifikat_rubrik": "Metod, behörighet och garanti",
     "logos_rubrik": "Föreningar och fastighetsägare",
-    "medarbetare": "Medarbetare"
+    "medarbetare": "Reliningsteamet"
   }
 }

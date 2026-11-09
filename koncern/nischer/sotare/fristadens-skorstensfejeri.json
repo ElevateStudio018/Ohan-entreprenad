@@ -17,95 +17,380 @@
   ],
   "vagval_rubrik": "Vad vill du att vi tittar på?",
   "tjanster": [
-    {"titel": "Sotning enligt frist", "ikon": "eld", "href": "verksamhet.html", "text": "Rengöring av eldstäder och rökkanaler enligt kommunens föreskrifter."},
-    {"titel": "Kontroll enligt LSO", "ikon": "skold", "href": "verksamhet.html", "text": "Brandskyddskontroll med protokoll och uppföljning av anmärkningar."},
-    {"titel": "Trygghetsbesök 75+", "ikon": "hjarta", "href": "verksamhet.html", "text": "Test av brandvarnare, spiskontroll och genomgång av vägen ut."},
-    {"titel": "Brandvarnare på plats", "ikon": "lampa", "href": "verksamhet.html", "text": "Vi sätter upp nya brandvarnare med tioårsbatteri för 195 kr styck."},
-    {"titel": "Koloxidvarnare", "ikon": "vind", "href": "verksamhet.html", "text": "Rådgivning och montage av koloxidvarnare i hus med vedeldning."},
-    {"titel": "Flerspråkig service", "ikon": "glob", "href": "verksamhet.html", "text": "Avisering och information på nio språk, och tolk vid behov."},
-    {"titel": "Insatsrör och reparation", "ikon": "ror", "href": "verksamhet.html", "text": "När kontrollen visar att kanalen inte är tät åtgärdar vi med fast pris."},
-    {"titel": "Boka om din tid", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Ring, sms:a eller boka om på webben dygnet runt."}
+    {
+      "titel": "Sotning enligt frist",
+      "ikon": "eld",
+      "href": "verksamhet.html",
+      "text": "Rengöring av eldstäder och rökkanaler enligt kommunens föreskrifter."
+    },
+    {
+      "titel": "Kontroll enligt LSO",
+      "ikon": "skold",
+      "href": "verksamhet.html",
+      "text": "Brandskyddskontroll med protokoll och uppföljning av anmärkningar."
+    },
+    {
+      "titel": "Trygghetsbesök 75+",
+      "ikon": "hjarta",
+      "href": "verksamhet.html",
+      "text": "Test av brandvarnare, spiskontroll och genomgång av vägen ut."
+    },
+    {
+      "titel": "Brandvarnare på plats",
+      "ikon": "lampa",
+      "href": "verksamhet.html",
+      "text": "Vi sätter upp nya brandvarnare med tioårsbatteri för 195 kr styck."
+    },
+    {
+      "titel": "Koloxidvarnare",
+      "ikon": "vind",
+      "href": "verksamhet.html",
+      "text": "Rådgivning och montage av koloxidvarnare i hus med vedeldning."
+    },
+    {
+      "titel": "Flerspråkig service",
+      "ikon": "glob",
+      "href": "verksamhet.html",
+      "text": "Avisering och information på nio språk, och tolk vid behov."
+    },
+    {
+      "titel": "Insatsrör och reparation",
+      "ikon": "ror",
+      "href": "verksamhet.html",
+      "text": "När kontrollen visar att kanalen inte är tät åtgärdar vi med fast pris."
+    },
+    {
+      "titel": "Boka om din tid",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Ring, sms:a eller boka om på webben dygnet runt."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Sotning och kontroll", "text": "Vi sotar och kontrollerar omkring 17 000 eldstäder i Eskilstuna och Strängnäs enligt kommunernas frister. Aviseringen kommer med post och sms två veckor före besöket.", "text2": "Protokollet från brandskyddskontrollen lämnas på plats och finns digitalt samma kväll.", "tagg": "skorsten"},
-    {"titel": "Trygghetsbesök", "text": "Hos hushåll där någon är 75 år eller äldre erbjuder vi ett trygghetsbesök i samband med sotningen. Vi testar brandvarnare, tittar på spisen och elsladdarna och går igenom hur man tar sig ut.", "text2": "Besöket är kostnadsfritt och finansieras av kommunerna inom ramen för det förebyggande arbetet.", "tagg": "hem"},
-    {"titel": "Information på flera språk", "text": "I Eskilstuna talas fler än hundra språk, och en avisering som inte går att läsa leder till att ingen öppnar. Vi skickar information på nio språk och har sotare som talar arabiska, finska, kurdiska, persiska och turkiska.", "text2": "Vid brandskyddskontroll kan vi boka tolk utan kostnad för hushållet.", "tagg": "people"},
-    {"titel": "Åtgärder efter kontroll", "text": "När kontrollen visar brister i rökkanal eller eldstad får du ett fast pris för åtgärden inom en vecka. Vi monterar insatsrör, byter rökrör och lagar sotluckor.", "text2": "ROT-avdraget dras direkt på fakturan.", "tagg": "brand"}
+    {
+      "titel": "Avtalssotning i två kommuner",
+      "text": "Vi sotar och kontrollerar omkring 17 000 eldstäder i Eskilstuna och Strängnäs enligt kommunernas frister. Aviseringen kommer med post och sms två veckor före besöket.",
+      "text2": "Protokollet från brandskyddskontrollen lämnas på plats och finns digitalt samma kväll.",
+      "tagg": "skorsten"
+    },
+    {
+      "titel": "Trygghetsbesök",
+      "text": "Hos hushåll där någon är 75 år eller äldre erbjuder vi ett trygghetsbesök i samband med sotningen. Vi testar brandvarnare, tittar på spisen och elsladdarna och går igenom hur man tar sig ut.",
+      "text2": "Besöket är kostnadsfritt och finansieras av kommunerna inom ramen för det förebyggande arbetet.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Information på flera språk",
+      "text": "I Eskilstuna talas fler än hundra språk, och en avisering som inte går att läsa leder till att ingen öppnar. Vi skickar information på nio språk och har sotare som talar arabiska, finska, kurdiska, persiska och turkiska.",
+      "text2": "Vid brandskyddskontroll kan vi boka tolk utan kostnad för hushållet.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Åtgärder efter kontroll",
+      "text": "När kontrollen visar brister i rökkanal eller eldstad får du ett fast pris för åtgärden inom en vecka. Vi monterar insatsrör, byter rökrör och lagar sotluckor.",
+      "text2": "ROT-avdraget dras direkt på fakturan.",
+      "tagg": "brand"
+    }
   ],
   "bolag": [
-    {"namn": "Distrikt Eskilstuna", "segment": "Sotning och kontroll", "rubrik": "Tjugo sotare från Torshälla till Ärla", "text": "Sotar villor, flerbostadshus och gårdar i hela Eskilstuna kommun.", "tagg": "skorsten"},
-    {"namn": "Distrikt Strängnäs", "segment": "Sotning och kontroll", "rubrik": "Åtta sotare och en båt till öarna", "text": "Utgår från Mariefred och sotar Strängnäs kommun, inklusive öarna i Mälaren.", "tagg": "natur"},
-    {"namn": "Trygghetsteamet", "segment": "Förebyggande besök", "rubrik": "Utbildade av räddningstjänsten", "text": "Fyra skorstensfejare med särskild utbildning för hembesök hos äldre och personer med funktionsnedsättning.", "tagg": "hem"},
-    {"namn": "Kundservice", "segment": "Bokning på nio språk", "rubrik": "Svarar på fem språk i telefon", "text": "Tre personer som bokar om tider, ordnar tolk och skickar protokoll.", "tagg": "kontor"}
+    {
+      "namn": "Distrikt Eskilstuna",
+      "segment": "Sotning och kontroll",
+      "rubrik": "Tjugo sotare från Torshälla till Ärla",
+      "text": "Sotar villor, flerbostadshus och gårdar i hela Eskilstuna kommun.",
+      "tagg": "skorsten"
+    },
+    {
+      "namn": "Distrikt Strängnäs",
+      "segment": "Sotning och kontroll",
+      "rubrik": "Åtta sotare och en båt till öarna",
+      "text": "Utgår från Mariefred och sotar Strängnäs kommun, inklusive öarna i Mälaren.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Trygghetsteamet",
+      "segment": "Förebyggande besök",
+      "rubrik": "Utbildade av räddningstjänsten",
+      "text": "Fyra skorstensfejare med särskild utbildning för hembesök hos äldre och personer med funktionsnedsättning.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Kundservice",
+      "segment": "Bokning på nio språk",
+      "rubrik": "Svarar på fem språk i telefon",
+      "text": "Tre personer som bokar om tider, ordnar tolk och skickar protokoll.",
+      "tagg": "kontor"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Tusende trygghetsbesöket i år", "text": "I oktober gjorde vi årets tusende trygghetsbesök – hos en 94-åring i Torshälla som fick två nya brandvarnare.", "tagg": "hem"},
-    {"rubrik": "Aviseringen nu på somaliska", "text": "Vi har lagt till somaliska som nionde språk efter önskemål från bostadsbolaget i Lagersberg.", "tagg": "people"},
-    {"rubrik": "Mälaröarna sotade", "text": "Strängnäslagets båt har sotat fritidshusen på Tosterön och Aspön under september.", "tagg": "natur"}
+    {
+      "rubrik": "Tusende trygghetsbesöket i år",
+      "text": "I oktober gjorde vi årets tusende trygghetsbesök – hos en 94-åring i Torshälla som fick två nya brandvarnare.",
+      "tagg": "hem"
+    },
+    {
+      "rubrik": "Aviseringen nu på somaliska",
+      "text": "Vi har lagt till somaliska som nionde språk efter önskemål från bostadsbolaget i Lagersberg.",
+      "tagg": "people"
+    },
+    {
+      "rubrik": "Mälaröarna sotade",
+      "text": "Strängnäslagets båt har sotat fritidshusen på Tosterön och Aspön under september.",
+      "tagg": "natur"
+    }
   ],
   "nyckeltal": [
-    {"varde": "17 000", "enhet": "eldstäder", "etikett": "I Eskilstuna och Strängnäs"},
-    {"varde": "1 040", "enhet": "besök", "etikett": "Trygghetsbesök under 2025"},
-    {"varde": "9", "enhet": "språk", "etikett": "På aviseringen"},
-    {"varde": "1974", "enhet": "", "etikett": "Första sotningen vid Fristadstorget"}
+    {
+      "varde": "17 000",
+      "enhet": "eldstäder",
+      "etikett": "I Eskilstuna och Strängnäs"
+    },
+    {
+      "varde": "1 040",
+      "enhet": "besök",
+      "etikett": "Trygghetsbesök under 2025"
+    },
+    {
+      "varde": "9",
+      "enhet": "språk",
+      "etikett": "På aviseringen"
+    },
+    {
+      "varde": "1974",
+      "enhet": "",
+      "etikett": "Första sotningen vid Fristadstorget"
+    }
   ],
   "projekt": [
-    {"namn": "Lagersbergs bostadsområde", "ort": "Eskilstuna", "typ": "Flerspråkig avisering", "ar": "2026", "text": "Andelen hushåll som öppnade för kontrollen steg från 61 till 93 procent.", "tagg": "bostad"},
-    {"namn": "Torshälla trygghetsvecka", "ort": "Torshälla", "typ": "Trygghetsbesök", "ar": "2026", "text": "212 hushåll med äldre besöktes på en vecka tillsammans med räddningstjänsten.", "tagg": "hem"},
-    {"namn": "Tosterön och Aspön", "ort": "Strängnäs", "typ": "Sotning med båt", "ar": "2025", "text": "Fritidshus på Mälaröarna sotade från distriktets egen arbetsbåt.", "tagg": "bat"},
-    {"namn": "Gårdar runt Kjula", "ort": "Eskilstuna", "typ": "Vedpannor", "ar": "2025", "text": "Sotning och kontroll av 48 gårdar med vedpannor och ackumulatortankar.", "tagg": "natur"},
-    {"namn": "Brf Fristadstorget", "ort": "Eskilstuna", "typ": "Insatsrör", "ar": "2025", "text": "Insatsrör i sex kanaler i huset där firman en gång hade sitt första kontor.", "tagg": "skorsten"},
-    {"namn": "Mariefreds innerstad", "ort": "Mariefred", "typ": "Brandskyddskontroll", "ar": "2026", "text": "Kontroll av kakelugnar och spisar i 1700-talshusen kring torget – pågår.", "tagg": "stad", "status": "Pågående"}
+    {
+      "namn": "Lagersbergs bostadsområde",
+      "ort": "Eskilstuna",
+      "typ": "Flerspråkig avisering",
+      "ar": "2026",
+      "text": "Andelen hushåll som öppnade för kontrollen steg från 61 till 93 procent.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Torshälla trygghetsvecka",
+      "ort": "Torshälla",
+      "typ": "Trygghetsbesök",
+      "ar": "2026",
+      "text": "212 hushåll med äldre besöktes på en vecka tillsammans med räddningstjänsten.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Tosterön och Aspön",
+      "ort": "Strängnäs",
+      "typ": "Sotning med båt",
+      "ar": "2025",
+      "text": "Fritidshus på Mälaröarna sotade från distriktets egen arbetsbåt.",
+      "tagg": "bat"
+    },
+    {
+      "namn": "Gårdar runt Kjula",
+      "ort": "Eskilstuna",
+      "typ": "Vedpannor",
+      "ar": "2025",
+      "text": "Sotning och kontroll av 48 gårdar med vedpannor och ackumulatortankar.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Brf Fristadstorget",
+      "ort": "Eskilstuna",
+      "typ": "Insatsrör i sex kanaler",
+      "ar": "2025",
+      "text": "Insatsrör i sex kanaler i huset där firman en gång hade sitt första kontor.",
+      "tagg": "skorsten"
+    },
+    {
+      "namn": "Mariefreds innerstad",
+      "ort": "Mariefred",
+      "typ": "Kontroll i kulturhus",
+      "ar": "2026",
+      "text": "Kontroll av kakelugnar och spisar i 1700-talshusen kring torget – pågår.",
+      "tagg": "stad",
+      "status": "Pågående"
+    }
   ],
   "process": [
-    {"titel": "Avisering på ditt språk", "text": "Brev och sms två veckor före, på svenska och det språk du har valt.", "tagg": "kontor"},
-    {"titel": "Sotning eller kontroll", "text": "Sotaren rengör eller kontrollerar eldstaden och skorstenen och skyddar golvet framför luckan.", "tagg": "skorsten"},
-    {"titel": "Trygghetskollen", "text": "Om du vill testar vi brandvarnare och spis och går igenom vägen ut. Det tar tio minuter.", "tagg": "hem"},
-    {"titel": "Uppföljning", "text": "Anmärkningar följs upp inom fyra månader, och trygghetsbesöket rapporteras till kommunen om du godkänner det.", "tagg": "brand"}
+    {
+      "titel": "Avisering på ditt språk",
+      "text": "Brev och sms två veckor före, på svenska och det språk du har valt.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Sotning eller kontroll",
+      "text": "Sotaren rengör eller kontrollerar eldstaden och skorstenen och skyddar golvet framför luckan.",
+      "tagg": "skorsten"
+    },
+    {
+      "titel": "Trygghetskollen",
+      "text": "Om du vill testar vi brandvarnare och spis och går igenom vägen ut. Det tar tio minuter.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Efter besöket",
+      "text": "Anmärkningar följs upp inom fyra månader, och trygghetsbesöket rapporteras till kommunen om du godkänner det.",
+      "tagg": "brand"
+    }
   ],
   "hallbarhet": {
     "rubrik": "De flesta bränder börjar inte i skorstenen",
     "text": "Bostadsbränder med dödlig utgång drabbar oftast äldre som bor ensamma, och brandvarnaren saknas eller fungerar inte i många fall. Därför använder vi sotarbesöket till mer än sotning. Sedan 2017 har vi bytt eller satt upp över 4 000 brandvarnare.",
-    "mal": [["4 000+", "brandvarnare uppsatta sedan 2017"], ["93 %", "av hushållen öppnar för kontrollen"], ["9", "språk på all information"]]
+    "mal": [
+      [
+        "4 000+",
+        "brandvarnare uppsatta sedan 2017"
+      ],
+      [
+        "93 %",
+        "av hushållen öppnar för kontrollen"
+      ],
+      [
+        "9",
+        "språk på all information"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Sotare som möter människor",
     "text": "Hos oss är hembesöket lika viktigt som taket. Talar du flera språk är det en merit, och alla nyanställda går räddningstjänstens kurs i förebyggande hembesök under första året.",
-    "jobb": [["Skorstensfejare", "Eskilstuna"], ["Skorstensfejare", "Mariefred"], ["Kundtjänst med arabiska eller somaliska", "Eskilstuna"]]
+    "jobb": [
+      [
+        "Skorstensfejare med trygghetsuppdrag",
+        "Eskilstuna"
+      ],
+      [
+        "Skorstensfejare, distrikt Strängnäs",
+        "Mariefred"
+      ],
+      [
+        "Kundtjänst med arabiska eller somaliska",
+        "Eskilstuna"
+      ]
+    ]
   },
   "kultur": "Rune Lagerholm, 86 år, kommer fortfarande förbi på fredagsfikat och frågar hur det går på taken.",
-  "citat": {"text": "Jag lärde mig av Rune att en sotare är en av få som kommer in i alla hem. Det förpliktigar – därför tittar vi på brandvarnaren också.", "namn": "Aylin Demir", "roll": "Vd och skorstensfejarmästare", "tagg": "people"},
+  "citat": {
+    "text": "Jag lärde mig av Rune att en sotare är en av få som kommer in i alla hem. Det förpliktigar – därför tittar vi på brandvarnaren också.",
+    "namn": "Aylin Demir",
+    "roll": "Ägare, vd och mästare",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Sotaren märkte att mammas brandvarnare inte fungerade och satte upp en ny på stående fot. Jag bor i Göteborg och blev så lättad.", "namn": "Eva S.", "ort": "Torshälla"},
-    {"text": "Aviseringen kom på arabiska och sotaren förklarade allt för min pappa. Första gången vi förstod vad kontrollen var till för.", "namn": "Rami H.", "ort": "Lagersberg"},
-    {"text": "Vi har haft Fristaden sedan 1970-talet. Rune sotade hos mina föräldrar, och nu kommer Aylins sotare till oss.", "namn": "Göran L.", "ort": "Kjula"}
+    {
+      "text": "Sotaren märkte att mammas brandvarnare inte fungerade och satte upp en ny på stående fot. Jag bor i Göteborg och blev så lättad.",
+      "namn": "Eva S.",
+      "ort": "Torshälla"
+    },
+    {
+      "text": "Aviseringen kom på arabiska och sotaren förklarade allt för min pappa. Första gången vi förstod vad kontrollen var till för.",
+      "namn": "Rami H.",
+      "ort": "Lagersberg"
+    },
+    {
+      "text": "Vi har haft Fristaden sedan 1970-talet. Rune sotade hos mina föräldrar, och nu kommer Aylins sotare till oss.",
+      "namn": "Göran L.",
+      "ort": "Kjula"
+    }
   ],
   "faq": [
-    ["Vad kostar trygghetsbesöket?", "Ingenting. Det är finansierat av Eskilstuna och Strängnäs kommuner och erbjuds alla hushåll där någon är 75 år eller äldre."],
-    ["Måste jag tacka ja till trygghetsbesöket?", "Nej, det är frivilligt. Sotning och brandskyddskontroll görs ändå enligt kommunens frister."],
-    ["Vad händer om brandvarnaren inte fungerar?", "Vi byter batteri om det går, annars sätter vi upp en ny brandvarnare med tioårsbatteri för 195 kr. Trygghetsbesöket och arbetet är gratis."],
-    ["Kan jag få informationen på mitt språk?", "Ja, välj språk när du bokar eller ring kundservice. Vi har avisering på nio språk och kan boka tolk vid kontrollen."],
-    ["Hur ofta sotar ni?", "Det beror på eldstaden och hur mycket du eldar. En vedpanna kan behöva sotas flera gånger per år, en kamin som används lite vart tredje år."],
-    ["Vad kostar sotning?", "Sotning och kontroll följer kommunens taxa. En villa med en kamin kostar runt 600 kr för sotning och drygt 1 200 kr för brandskyddskontroll."],
-    ["Får jag sota själv?", "Du kan ansöka om medgivande för egensotning hos kommunen. Brandskyddskontrollen gör vi ändå."]
+    [
+      "Vad kostar trygghetsbesöket?",
+      "Ingenting. Det är finansierat av Eskilstuna och Strängnäs kommuner och erbjuds alla hushåll där någon är 75 år eller äldre."
+    ],
+    [
+      "Måste jag tacka ja till trygghetsbesöket?",
+      "Nej, det är frivilligt. Sotning och brandskyddskontroll görs ändå enligt kommunens frister."
+    ],
+    [
+      "Vad händer om brandvarnaren inte fungerar?",
+      "Vi byter batteri om det går, annars sätter vi upp en ny brandvarnare med tioårsbatteri för 195 kr. Trygghetsbesöket och arbetet är gratis."
+    ],
+    [
+      "Kan jag få informationen på mitt språk?",
+      "Ja, välj språk när du bokar eller ring kundservice. Vi har avisering på nio språk och kan boka tolk vid kontrollen."
+    ],
+    [
+      "Hur ofta sotar ni?",
+      "Det beror på eldstaden och hur mycket du eldar. En vedpanna kan behöva sotas flera gånger per år, en kamin som används lite vart tredje år."
+    ],
+    [
+      "Vad kostar sotning?",
+      "Sotning och kontroll följer kommunens taxa. En villa med en kamin kostar runt 600 kr för sotning och drygt 1 200 kr för brandskyddskontroll."
+    ],
+    [
+      "Kan jag ansöka om egensotning?",
+      "Du kan ansöka om medgivande för egensotning hos kommunen. Brandskyddskontrollen gör vi ändå."
+    ]
   ],
   "certifikat": [
-    {"titel": "Sotningsavtal i två kommuner", "text": "Avtal med Eskilstuna kommun sedan 1974 och Strängnäs kommun sedan 2012.", "ikon": "dokument"},
-    {"titel": "Skorstensfejarmästare", "text": "Aylin och två kollegor har mästarbrev, och tolv är skorstensfejartekniker.", "ikon": "stjarna"},
-    {"titel": "Förebyggande hembesök", "text": "Trygghetsteamet är utbildat av räddningstjänsten för hembesök hos äldre.", "ikon": "hjarta"},
-    {"titel": "ISO 9001", "text": "Certifierat kvalitetsledningssystem sedan 2016.", "ikon": "skold"}
+    {
+      "titel": "Sotningsavtal i två kommuner",
+      "text": "Avtal med Eskilstuna kommun sedan 1974 och Strängnäs kommun sedan 2012.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "Tre med mästarbrev",
+      "text": "Aylin och två kollegor har mästarbrev, och tolv är skorstensfejartekniker.",
+      "ikon": "stjarna"
+    },
+    {
+      "titel": "Förebyggande hembesök",
+      "text": "Trygghetsteamet är utbildat av räddningstjänsten för hembesök hos äldre.",
+      "ikon": "hjarta"
+    },
+    {
+      "titel": "ISO 9001",
+      "text": "Certifierat kvalitetsledningssystem sedan 2016.",
+      "ikon": "skold"
+    }
   ],
-  "kunder": ["Eskilstuna kommun", "Strängnäs kommun", "Räddningstjänsten Mälardalen Syd", "Lagersbergs Bostäder", "Brf Fristadstorget", "Kjula Gårdsförening", "Torshälla Seniorboende", "Mariefreds Hembygdsförening"],
+  "kunder": [
+    "Eskilstuna kommun",
+    "Strängnäs kommun",
+    "Räddningstjänsten Mälardalen Syd",
+    "Lagersbergs Bostäder",
+    "Brf Fristadstorget",
+    "Kjula Gårdsförening",
+    "Torshälla Seniorboende",
+    "Mariefreds Hembygdsförening"
+  ],
   "nyheter": [
-    ["2026-10-28", "Testa brandvarnaren den 1 december", "Varje år på Brandvarnarens dag påminner vi alla kunder med ett sms.", "hem"],
-    ["2026-08-20", "Somaliska blir nionde språket", "Aviseringen finns nu även på somaliska, efter önskemål från bostadsbolagen.", "people"],
-    ["2026-05-06", "Mälaröarna i höst", "Strängnäslagets båt sotar Tosterön, Aspön och Ringsö i september.", "bat"]
+    [
+      "2026-10-28",
+      "Testa brandvarnaren den 1 december",
+      "Varje år på Brandvarnarens dag påminner vi alla kunder med ett sms.",
+      "hem"
+    ],
+    [
+      "2026-08-20",
+      "Somaliska blir nionde språket",
+      "Aviseringen finns nu även på somaliska, efter önskemål från bostadsbolagen.",
+      "people"
+    ],
+    [
+      "2026-05-06",
+      "Mälaröarna i höst",
+      "Strängnäslagets båt sotar Tosterön, Aspön och Ringsö i september.",
+      "bat"
+    ]
   ],
-  "kontakt": {"adress": "Gredbyvägen 21", "postnr": "632 21", "ort": "Eskilstuna", "telefon": "070-174 06 89", "epost": "kundservice@fristadensfejeri.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Gredbyvägen 21",
+    "postnr": "632 21",
+    "ort": "Eskilstuna",
+    "telefon": "070-174 06 89",
+    "epost": "kundservice@fristadensfejeri.se",
+    "orgnr": ""
+  },
   "oppettider": "Kundservice mån–fre 7–16",
   "omrade": "Eskilstuna och Strängnäs kommuner, med Mariefred och Mälaröarna",
   "fot_cta": "Fyller någon i familjen 75 i år? Boka ett trygghetsbesök i samband med nästa sotning.",
-  "bild": {"panel": "people", "hb": "hem"},
+  "bild": {
+    "panel": "people",
+    "hb": "hem"
+  },
   "text": {
     "kontakt_knapp": "Kontakta kundservice",
     "hero_knapp": "Om trygghetsbesöket",
@@ -124,7 +409,12 @@
     "faq_rubrik": "Om trygghetsbesök och sotning",
     "boka_rubrik": "Boka trygghetsbesök eller ny tid",
     "boka_text": "Skriv adress och vilket språk du vill ha informationen på. Kundservice ringer upp inom en arbetsdag.",
-    "boka_falt": ["Namn", "Telefon", "E-post", "Adress och önskat språk"],
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "E-post",
+      "Adress och önskat språk"
+    ],
     "certifikat_rubrik": "Avtal, mästarbrev och utbildning",
     "logos_rubrik": "Kommuner, bostadsbolag och föreningar",
     "medarbetare": "Fejarna"

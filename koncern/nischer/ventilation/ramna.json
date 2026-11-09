@@ -34,7 +34,7 @@
   ],
   "bolag": [
     {"namn": "Kontaktpersonerna", "segment": "4 föreningsansvariga", "rubrik": "Samma namn i tio år", "text": "Varje förening har en fast kontaktperson som går på styrelsemöten och håller ihop planen.", "tagg": "people"},
-    {"namn": "Besiktning", "segment": "3 funktionskontrollanter", "rubrik": "Trapp för trapp", "text": "OVK och ombesiktning i flerbostadshus och radhusområden.", "tagg": "bostad"},
+    {"namn": "Besiktarna", "segment": "3 funktionskontrollanter", "rubrik": "Trapp för trapp", "text": "OVK och ombesiktning i flerbostadshus och radhusområden.", "tagg": "bostad"},
     {"namn": "Åtgärdslaget", "segment": "5 montörer", "rubrik": "Anmärkningarna blir åtgärdade", "text": "Rättar bristerna, byter fläktar och don och rengör kanaler.", "tagg": "ventilation"}
   ],
   "berattelser": [
@@ -70,10 +70,10 @@
   "karriar": {
     "rubrik": "Gillar du att förklara?",
     "text": "Hos oss är det lika viktigt att kunna förklara ett OVK-protokoll för en ny kassör som att kunna läsa det. Vi söker funktionskontrollanter och föreningsansvariga som tycker om människor.",
-    "jobb": [["Föreningsansvarig ventilation", "Borås"], ["Funktionskontrollant", "Borås"]]
+    "jobb": [["Föreningsansvarig ventilation", "Borås"], ["Funktionskontrollant bostäder", "Borås"]]
   },
   "kultur": "Kontaktpersonerna har max 40 föreningar var, så att de hinner till styrelsemötena.",
-  "citat": {"text": "En styrelse sitter i två år. En fläkt sitter i tjugo. Någon måste komma ihåg vad som var planerat.", "namn": "Malin Gustavsson", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "En styrelse sitter i två år. En fläkt sitter i tjugo. Någon måste komma ihåg vad som var planerat.", "namn": "Malin Gustavsson", "roll": "Grundare och ventilationsingenjör", "tagg": "people"},
   "omdomen": [
     {"text": "Vi bytte halva styrelsen i våras, men Ramnas plan låg kvar och nya kassören förstod den på första mötet.", "namn": "Eva-Karin L.", "ort": "Brf Hultahöjden, Borås"},
     {"text": "43 anmärkningar lät som en katastrof. Malin gick igenom dem på tjugo minuter och visade att de flesta var enkla.", "namn": "Göran S.", "ort": "Brf Norrbygärdet, Borås"},
@@ -89,14 +89,14 @@
     ["Vilka köksfläktar fungerar i vårt hus?", "Det beror på om huset har central frånluft eller egen fläkt per lägenhet. Vi tar fram en lista över godkända modeller för just er förening."]
   ],
   "priser": [
-    {"namn": "OVK", "pris": "fr. 490 kr", "enhet": "per lägenhet", "text": "Besiktning med avisering och protokoll.", "punkter": ["Avisering på fyra språk", "Två besök per lägenhet", "Protokoll till kommunen", "Genomgång med styrelsen"]},
+    {"namn": "Besiktning", "pris": "fr. 490 kr", "enhet": "per lägenhet", "text": "Besiktning med avisering och protokoll.", "punkter": ["Avisering på fyra språk", "Två besök per lägenhet", "Protokollet skickas till kommunen", "Genomgång med styrelsen"]},
     {"namn": "OVK med tioårsplan", "pris": "fr. 640 kr", "enhet": "per lägenhet", "text": "Besiktning, plan och fast kontaktperson.", "punkter": ["Allt i OVK", "Ventilationsplan på tio år", "Fast kontaktperson", "10 % rabatt på åtgärder"], "utvald": true},
     {"namn": "Fristående tioårsplan", "pris": "fr. 9 500 kr", "enhet": "per förening", "text": "För föreningar som redan har gjort OVK.", "punkter": ["Genomgång av senaste protokoll", "Plan med kostnader per år", "Presentation på styrelsemöte", "Underlag till underhållsplanen"]}
   ],
   "certifikat": [
     {"titel": "Tre funktionskontrollanter", "text": "Certifierade med behörighet N och K för alla typer av bostadshus.", "ikon": "dokument"},
     {"titel": "Avtal för brf-uppdrag", "text": "Uppdrag enligt ABT 06 med tydliga åtaganden och betalplan.", "ikon": "portfolj"},
-    {"titel": "Plåt- och ventavtalet", "text": "Alla montörer är anställda med kollektivavtal.", "ikon": "folk"},
+    {"titel": "Kollektivavtal för montörer", "text": "Alla montörer är anställda med kollektivavtal.", "ikon": "folk"},
     {"titel": "Ansvarsförsäkring 10 Mkr", "text": "Täcker både besiktning och åtgärdsarbeten.", "ikon": "skold"}
   ],
   "kunder": ["Brf Hultahöjden", "Brf Norrbygärdet", "Brf Ryssby", "Radhusföreningen Kvarnbacken", "Brf Kinnaborg", "Brf Sjöbo Torg", "Brf Ramnaparken", "Brf Druvefors 2"],

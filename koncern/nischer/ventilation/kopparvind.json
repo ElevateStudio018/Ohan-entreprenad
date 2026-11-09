@@ -17,14 +17,14 @@
   ],
   "vagval_rubrik": "Vad behöver fastigheten?",
   "tjanster": [
-    {"titel": "OVK-besiktning", "ikon": "dokument", "href": "verksamhet.html", "text": "Fyra funktionskontrollanter med behörighet N och K."},
-    {"titel": "Serviceavtal", "ikon": "kalender", "href": "verksamhet.html", "text": "Filterbyte, remmar och funktionskontroll två gånger om året."},
+    {"titel": "OVK i Dalarna", "ikon": "dokument", "href": "verksamhet.html", "text": "Fyra funktionskontrollanter med behörighet N och K."},
+    {"titel": "Fast servicetekniker", "ikon": "kalender", "href": "verksamhet.html", "text": "Filterbyte, remmar och funktionskontroll två gånger om året."},
     {"titel": "Ombyggnad till FTX", "ikon": "hus", "href": "verksamhet.html", "text": "Från självdrag eller frånluft till värmeåtervinning i flerbostadshus."},
-    {"titel": "Injustering", "ikon": "kugge", "href": "verksamhet.html", "text": "Flödesmätning och justering av varje don efter ombyggnad eller klagomål."},
-    {"titel": "Kanalrengöring", "ikon": "vind", "href": "verksamhet.html", "text": "Rengöring av kanaler och don i bostäder och lokaler."},
+    {"titel": "Flödesjustering", "ikon": "kugge", "href": "verksamhet.html", "text": "Flödesmätning och justering av varje don efter ombyggnad eller klagomål."},
+    {"titel": "Rengöring av kanaler", "ikon": "vind", "href": "verksamhet.html", "text": "Rengöring av kanaler och don i bostäder och lokaler."},
     {"titel": "Styr och övervakning", "ikon": "laddning", "href": "verksamhet.html", "text": "Fjärrövervakning av aggregat med larm direkt till serviceteknikern."},
     {"titel": "Öppna böcker", "ikon": "graf", "href": "om-oss.html", "text": "Läs vår årsredovisning och se hur vinsten fördelas."},
-    {"titel": "Begär offert", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Svar från en delägare inom fem arbetsdagar."}
+    {"titel": "Få en offert", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Svar från en delägare inom fem arbetsdagar."}
   ],
   "affarsomraden": [
     {"titel": "Bostadsrätter och hyreshus", "text": "Föreningar och allmännyttan i Falun och Borlänge är våra största kunder. Vi gör OVK, åtgärdar bristerna och tar serviceavtal, så att samma tekniker kommer tillbaka år efter år.", "text2": "Över 9 000 lägenheter i Dalarna har vi besiktat de senaste tre åren.", "tagg": "bostad"},
@@ -33,9 +33,9 @@
     {"titel": "Industri och handel", "text": "Verkstäder, butiker och lager i Borlänge och längs riksväg 70 behöver ventilation som klarar damm, avgaser och stora portar som öppnas.", "text2": "Servicebasen i Borlänge har egen verkstad för fläktrenovering.", "tagg": "industri"}
   ],
   "bolag": [
-    {"namn": "Besiktning", "segment": "4 funktionskontrollanter", "rubrik": "Protokoll och åtgärdslistor", "text": "OVK i bostäder, skolor och lokaler i södra Dalarna.", "tagg": "kontor"},
-    {"namn": "Service", "segment": "14 tekniker", "rubrik": "Samma ansikte varje gång", "text": "Fasta tekniker per kommun och kund, med servicebilar från Falun och Borlänge.", "tagg": "ventilation"},
-    {"namn": "Montage", "segment": "16 montörer och plåtslagare", "rubrik": "Ombyggnad med boende kvar", "text": "Bygger om till FTX, byter aggregat och drar nya kanaler.", "tagg": "bygg"},
+    {"namn": "OVK-gruppen", "segment": "4 funktionskontrollanter", "rubrik": "Protokoll och åtgärdslistor", "text": "OVK i bostäder, skolor och lokaler i södra Dalarna.", "tagg": "kontor"},
+    {"namn": "Servicelaget", "segment": "14 tekniker", "rubrik": "Samma ansikte varje gång", "text": "Fasta tekniker per kommun och kund, med servicebilar från Falun och Borlänge.", "tagg": "ventilation"},
+    {"namn": "Ombyggnadslaget", "segment": "16 montörer och plåtslagare", "rubrik": "Ombyggnad med boende kvar", "text": "Bygger om till FTX, byter aggregat och drar nya kanaler.", "tagg": "bygg"},
     {"namn": "Kontoret", "segment": "4 personer", "rubrik": "Ekonomi, inköp och planering", "text": "Sköter fakturor, inköp och den årliga vinstdelningen.", "tagg": "people"}
   ],
   "berattelser": [
@@ -52,7 +52,7 @@
   "projekt": [
     {"namn": "Tjärna ängar etapp 2", "ort": "Borlänge", "typ": "FTX i 96 lägenheter", "ar": "2026", "text": "Ombyggnad från frånluft till FTX med boende kvar, trappuppgång för trappuppgång.", "tagg": "bostad", "status": "Pågående"},
     {"namn": "Brf Gruvgården", "ort": "Falun", "typ": "OVK och åtgärder", "ar": "2025", "text": "112 lägenheter besiktade, alla anmärkningar åtgärdade inom sex veckor.", "tagg": "ventilation"},
-    {"namn": "Leksands äldreboende", "ort": "Leksand", "typ": "Aggregatbyte", "ar": "2025", "text": "Tre aggregat från 1986 byttes nattetid för att inte störa de boende.", "tagg": "interior"},
+    {"namn": "Leksands äldreboende", "ort": "Leksand", "typ": "Nattbyte av aggregat", "ar": "2025", "text": "Tre aggregat från 1986 byttes nattetid för att inte störa de boende.", "tagg": "interior"},
     {"namn": "Säters skolor", "ort": "Säter", "typ": "Ramavtal service", "ar": "2025", "text": "Fyra skolor och två förskolor sköts av samma två tekniker sedan 2019.", "tagg": "stad"},
     {"namn": "Verkstadshallen Kvarnsveden", "ort": "Borlänge", "typ": "Avgasutsug och värme", "ar": "2024", "text": "Utsug vid tolv arbetsplatser och luftridåer vid portarna.", "tagg": "industri"},
     {"namn": "Brf Vasagatan", "ort": "Falun", "typ": "Kanalrengöring och injustering", "ar": "2024", "text": "Kanaler från 1962 rengjorda och alla flöden injusterade efter klagomål på matos.", "tagg": "bostad"}
@@ -60,7 +60,7 @@
   "process": [
     {"titel": "En delägare kommer ut", "text": "Den som räknar på jobbet är samma person som ansvarar för det.", "tagg": "people"},
     {"titel": "Offert med namn", "text": "Offerten anger vilka tekniker och montörer som ska utföra arbetet.", "tagg": "kontor"},
-    {"titel": "Utförande", "text": "Arbetet görs av fast anställda delägare – vi hyr inte in underentreprenörer.", "tagg": "ventilation"},
+    {"titel": "Delägarna bygger", "text": "Arbetet görs av fast anställda delägare – vi hyr inte in underentreprenörer.", "tagg": "ventilation"},
     {"titel": "Uppföljning efter ett år", "text": "Vi ringer upp och kontrollerar att allt fungerar, utan att fakturera för samtalet.", "tagg": "bostad"}
   ],
   "hallbarhet": {
@@ -71,7 +71,7 @@
   "karriar": {
     "rubrik": "Efter två år äger du lika mycket som vd",
     "text": "Hos oss blir du delägare efter två års anställning, med samma andel som alla andra. Vinsten delas efter arbetade timmar, och du är med och väljer ledning på vårstämman.",
-    "jobb": [["Servicetekniker ventilation", "Falun"], ["Ventilationsmontör", "Borlänge"], ["Funktionskontrollant N", "Falun"]]
+    "jobb": [["Servicetekniker bostäder", "Falun"], ["Montör ombyggnad FTX", "Borlänge"], ["Funktionskontrollant N", "Falun"]]
   },
   "kultur": "Varje vår har vi stämma i Folkets hus i Falun, där alla har en röst – lärlingen som vd.",
   "citat": {"text": "Jag kunde ha sålt till en koncern och fått mer på en gång. Men då hade killarna och tjejerna som byggt företaget fått en ny chef i Stockholm.", "namn": "Anders Hedlund", "roll": "Grundare, sålde till personalen 2014", "tagg": "people"},
@@ -89,7 +89,7 @@
     ["Kan jag läsa er årsredovisning?", "Ja, den finns på sajten. Vi tycker att kunderna ska kunna se samma siffror som vi ägare ser."]
   ],
   "certifikat": [
-    {"titel": "OVK-behörighet N och K", "text": "Fyra certifierade funktionskontrollanter i egen personal.", "ikon": "dokument"},
+    {"titel": "Fyra egna kontrollanter", "text": "Fyra certifierade funktionskontrollanter i egen personal.", "ikon": "dokument"},
     {"titel": "Kollektivavtal med Byggnads", "text": "Plåt- och ventilationsavtalet gäller för alla montörer.", "ikon": "folk"},
     {"titel": "Arbetsmiljöledning ISO 45001", "text": "Certifierat sedan 2020, med skyddsombud i varje arbetslag.", "ikon": "hjalm"},
     {"titel": "Kooperativ bolagsordning", "text": "Andelar får bara ägas av anställda, enligt bolagsordningen.", "ikon": "lov"}
@@ -121,7 +121,7 @@
     "boka_rubrik": "Fråga en av oss",
     "boka_text": "Skriv vad det gäller så ringer en delägare med rätt kompetens upp inom fem arbetsdagar.",
     "logos_rubrik": "Föreningar och kommuner i Dalarna",
-    "certifikat_rubrik": "Behörigheter och avtal",
+    "certifikat_rubrik": "Det som står bakom delägarna",
     "bolag_rubrik": "Fyra lag, 38 ägare",
     "siffror_etikett": "Kopparvind i siffror",
     "medarbetare": "Delägarna"

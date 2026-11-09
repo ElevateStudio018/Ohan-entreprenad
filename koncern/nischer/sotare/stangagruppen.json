@@ -17,97 +17,386 @@
   ],
   "vagval_rubrik": "Vilken del av brandskyddet gäller det?",
   "tjanster": [
-    {"titel": "Systematiskt brandskydd", "ikon": "skold", "href": "verksamhet.html", "text": "Vi skriver er SBA-dokumentation och gör kontrollronderna åt er."},
-    {"titel": "Utbildning i brandskydd", "ikon": "skola", "href": "verksamhet.html", "text": "Heta arbeten, HLR och utrymningsövningar på plats hos er."},
-    {"titel": "Släckare och larm", "ikon": "eld", "href": "verksamhet.html", "text": "Service av handbrandsläckare, brandposter och nödbelysning."},
-    {"titel": "OVK och ventilation", "ikon": "vind", "href": "verksamhet.html", "text": "Obligatorisk ventilationskontroll och rengöring i hela länet."},
-    {"titel": "Avtalssotning", "ikon": "hus", "href": "verksamhet.html", "text": "Sotning och brandskyddskontroll i Linköpings och Motala kommuner."},
-    {"titel": "Utrymningsplaner", "ikon": "karta", "href": "verksamhet.html", "text": "Ritade planer enligt standard, uppsatta och uppdaterade."},
-    {"titel": "Industrins pannor", "ikon": "fabrik", "href": "verksamhet.html", "text": "Sotning och kontroll av processpannor, torkar och fliseldade anläggningar."},
-    {"titel": "Brandskyddsavtal", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Ett årsavtal med fast pris per byggnad och en kontaktperson."}
+    {
+      "titel": "Systematiskt brandskydd",
+      "ikon": "skold",
+      "href": "verksamhet.html",
+      "text": "Vi skriver er SBA-dokumentation och gör kontrollronderna åt er."
+    },
+    {
+      "titel": "Utbildning i brandskydd",
+      "ikon": "skola",
+      "href": "verksamhet.html",
+      "text": "Heta arbeten, HLR och utrymningsövningar på plats hos er."
+    },
+    {
+      "titel": "Släckare och larm",
+      "ikon": "eld",
+      "href": "verksamhet.html",
+      "text": "Service av handbrandsläckare, brandposter och nödbelysning."
+    },
+    {
+      "titel": "Ventilationskontroll",
+      "ikon": "vind",
+      "href": "verksamhet.html",
+      "text": "Obligatorisk ventilationskontroll och rengöring i hela länet."
+    },
+    {
+      "titel": "Avtalssotning",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Sotning och brandskyddskontroll i Linköpings och Motala kommuner."
+    },
+    {
+      "titel": "Utrymningsplaner",
+      "ikon": "karta",
+      "href": "verksamhet.html",
+      "text": "Ritade planer enligt standard, uppsatta och uppdaterade."
+    },
+    {
+      "titel": "Industrins pannor",
+      "ikon": "fabrik",
+      "href": "verksamhet.html",
+      "text": "Sotning och kontroll av processpannor, torkar och fliseldade anläggningar."
+    },
+    {
+      "titel": "Brandskyddsavtal",
+      "ikon": "portfolj",
+      "href": "om-oss.html#kontakt",
+      "text": "Ett årsavtal med fast pris per byggnad och en kontaktperson."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Systematiskt brandskyddsarbete", "text": "Lagen om skydd mot olyckor kräver att verksamheter har ett dokumenterat brandskydd. Vi skriver organisation, rutiner och kontrollpunkter och gör ronderna åt er varje kvartal.", "text2": "Avvikelser hamnar i vår kundportal, med påminnelse tills de är åtgärdade.", "tagg": "brand"},
-    {"titel": "Sotning och brandskyddskontroll", "text": "Stångå Sotning och Boren Sotning har avtalen i Linköping respektive Motala och sotar omkring 26 000 eldstäder per år. Företagskunderna får sina pannor och imkanaler i samma schema som resten av brandskyddet.", "text2": "Protokollen från sotaren läggs automatiskt in i kundens SBA-pärm.", "tagg": "skorsten"},
-    {"titel": "Ventilation och OVK", "text": "Stångå Ventilation gör obligatorisk ventilationskontroll, injustering och kanalrengöring. Vi har tio certifierade funktionskontrollanter, varav sex med behörighet K.", "text2": "Brandspjällen kontrolleras i samma besök, och resultatet hamnar i samma portal.", "tagg": "ventilation"},
-    {"titel": "Utbildning och övning", "text": "Personal som vet vad de ska göra är det bästa brandskyddet. Vi håller kurser i heta arbeten, grundläggande brandskydd och HLR, och leder utrymningsövningar med rökmaskin.", "text2": "Kurserna hålls i vår övningslokal i Tornby eller hos er.", "tagg": "people"}
+    {
+      "titel": "Systematiskt brandskyddsarbete",
+      "text": "Lagen om skydd mot olyckor kräver att verksamheter har ett dokumenterat brandskydd. Vi skriver organisation, rutiner och kontrollpunkter och gör ronderna åt er varje kvartal.",
+      "text2": "Avvikelser hamnar i vår kundportal, med påminnelse tills de är åtgärdade.",
+      "tagg": "brand"
+    },
+    {
+      "titel": "Sotning i tre kommuner",
+      "text": "Stångå Sotning och Boren Sotning har avtalen i Linköping respektive Motala och sotar omkring 26 000 eldstäder per år. Företagskunderna får sina pannor och imkanaler i samma schema som resten av brandskyddet.",
+      "text2": "Protokollen från sotaren läggs automatiskt in i kundens SBA-pärm.",
+      "tagg": "skorsten"
+    },
+    {
+      "titel": "Luftflöden och OVK",
+      "text": "Stångå Ventilation gör obligatorisk ventilationskontroll, injustering och kanalrengöring. Vi har tio certifierade funktionskontrollanter, varav sex med behörighet K.",
+      "text2": "Brandspjällen kontrolleras i samma besök, och resultatet hamnar i samma portal.",
+      "tagg": "ventilation"
+    },
+    {
+      "titel": "Utbildning och övning",
+      "text": "Personal som vet vad de ska göra är det bästa brandskyddet. Vi håller kurser i heta arbeten, grundläggande brandskydd och HLR, och leder utrymningsövningar med rökmaskin.",
+      "text2": "Kurserna hålls i vår övningslokal i Tornby eller hos er.",
+      "tagg": "people"
+    }
   ],
   "bolag": [
-    {"namn": "Stångå Sotning AB", "segment": "Avtalssotning, Linköping", "rubrik": "Sotare i Linköping sedan 1971", "text": "38 medarbetare som sotar och kontrollerar villor, flerbostadshus och företag i Linköpings kommun.", "tagg": "skorsten"},
-    {"namn": "Boren Sotning AB", "segment": "Avtalssotning, Motala och Vadstena", "rubrik": "Förvärvat 2014", "text": "17 skorstensfejare med kontor vid Borensberg och avtal med Motala och Vadstena.", "tagg": "natur"},
-    {"namn": "Stångå Ventilation AB", "segment": "OVK, injustering och rengöring", "rubrik": "Tio funktionskontrollanter", "text": "Utgår från Norrköping och tar ventilationsuppdrag i hela Östergötland.", "tagg": "ventilation"},
-    {"namn": "Stångå Brandskydd AB", "segment": "SBA, utbildning och utrustning", "rubrik": "Det nyaste bolaget i gruppen", "text": "Startat 2018 för att samla brandskyddsronder, kurser, släckare och utrymningsplaner.", "tagg": "brand"}
+    {
+      "namn": "Stångå Sotning AB",
+      "segment": "Avtalssotning, Linköping",
+      "rubrik": "Sotare i Linköping sedan 1971",
+      "text": "38 medarbetare som sotar och kontrollerar villor, flerbostadshus och företag i Linköpings kommun.",
+      "tagg": "skorsten"
+    },
+    {
+      "namn": "Boren Sotning AB",
+      "segment": "Avtalssotning, Motala och Vadstena",
+      "rubrik": "Förvärvat 2014",
+      "text": "17 skorstensfejare med kontor vid Borensberg och avtal med Motala och Vadstena.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Stångå Ventilation AB",
+      "segment": "OVK, injustering och rengöring",
+      "rubrik": "Tio funktionskontrollanter",
+      "text": "Utgår från Norrköping och tar ventilationsuppdrag i hela Östergötland.",
+      "tagg": "ventilation"
+    },
+    {
+      "namn": "Stångå Brandskydd AB",
+      "segment": "SBA, utbildning och utrustning",
+      "rubrik": "Det nyaste bolaget i gruppen",
+      "text": "Startat 2018 för att samla brandskyddsronder, kurser, släckare och utrymningsplaner.",
+      "tagg": "brand"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Logistikparken i Tornby samlad", "text": "Sju lagerbyggnader har nu ett gemensamt brandskyddsavtal med ronder, OVK och utbildning.", "tagg": "industri"},
-    {"rubrik": "Vadstena tillbaka i gruppen", "text": "Boren Sotning vann upphandlingen i Vadstena kommun och börjar sota där i januari.", "tagg": "skorsten"},
-    {"rubrik": "Ny övningslokal med rökmaskin", "text": "Utrymningsövningarna kan nu tränas i en riktig korridor med rök, larm och nödbelysning.", "tagg": "brand"}
+    {
+      "rubrik": "Logistikparken i Tornby samlad",
+      "text": "Sju lagerbyggnader har nu ett gemensamt brandskyddsavtal med ronder, OVK och utbildning.",
+      "tagg": "industri"
+    },
+    {
+      "rubrik": "Vadstena tillbaka i gruppen",
+      "text": "Boren Sotning vann upphandlingen i Vadstena kommun och börjar sota där i januari.",
+      "tagg": "skorsten"
+    },
+    {
+      "rubrik": "Ny övningslokal med rökmaskin",
+      "text": "Utrymningsövningarna kan nu tränas i en riktig korridor med rök, larm och nödbelysning.",
+      "tagg": "brand"
+    }
   ],
   "nyckeltal": [
-    {"varde": "115", "enhet": "anställda", "etikett": "I fyra bolag"},
-    {"varde": "1 400", "enhet": "företag", "etikett": "Med brandskyddsavtal"},
-    {"varde": "26 000", "enhet": "eldstäder", "etikett": "Sotas varje år"},
-    {"varde": "1971", "enhet": "", "etikett": "Då Ekholm tog över i Linköping"}
+    {
+      "varde": "115",
+      "enhet": "anställda",
+      "etikett": "I fyra bolag"
+    },
+    {
+      "varde": "1 400",
+      "enhet": "företag",
+      "etikett": "Med brandskyddsavtal"
+    },
+    {
+      "varde": "26 000",
+      "enhet": "eldstäder",
+      "etikett": "Sotas varje år"
+    },
+    {
+      "varde": "1971",
+      "enhet": "",
+      "etikett": "Då Ekholm tog över i Linköping"
+    }
   ],
   "projekt": [
-    {"namn": "Tornby logistikpark", "ort": "Linköping", "typ": "Brandskyddsavtal", "ar": "2026", "text": "Sju lagerbyggnader med 240 anställda under ett gemensamt SBA och kvartalsronder.", "tagg": "industri"},
-    {"namn": "Motala verkstadsområde", "ort": "Motala", "typ": "Processpannor", "ar": "2025", "text": "Sotning och rökgasanalys av två processpannor på 2 MW och en fliseldad tork.", "tagg": "industri"},
-    {"namn": "Linköpings gymnasieskolor", "ort": "Linköping", "typ": "OVK", "ar": "2025", "text": "OVK och brandspjällskontroll i fem skolor, utförd under sommarlovet.", "tagg": "ventilation"},
-    {"namn": "Norrköpings Hamnlager", "ort": "Norrköping", "typ": "Utrymningsövning", "ar": "2026", "text": "Fullskaleövning med rök för 120 personer i tre skift.", "tagg": "brand"},
-    {"namn": "Brf Ryd Centrum", "ort": "Linköping", "typ": "Sotning och OVK", "ar": "2025", "text": "Sotning, OVK och imkanalrengöring i samma vecka för 340 lägenheter.", "tagg": "bostad"},
-    {"namn": "Vadstena kommun", "ort": "Vadstena", "typ": "Avtalssotning", "ar": "2027", "text": "Nytt sotningsavtal med start i januari – planeringen pågår.", "tagg": "skorsten", "status": "Pågående"}
+    {
+      "namn": "Tornby logistikpark",
+      "ort": "Linköping",
+      "typ": "Brandskyddsavtal",
+      "ar": "2026",
+      "text": "Sju lagerbyggnader med 240 anställda under ett gemensamt SBA och kvartalsronder.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Motala verkstadsområde",
+      "ort": "Motala",
+      "typ": "Processpannor",
+      "ar": "2025",
+      "text": "Sotning och rökgasanalys av två processpannor på 2 MW och en fliseldad tork.",
+      "tagg": "industri"
+    },
+    {
+      "namn": "Linköpings gymnasieskolor",
+      "ort": "Linköping",
+      "typ": "OVK",
+      "ar": "2025",
+      "text": "OVK och brandspjällskontroll i fem skolor, utförd under sommarlovet.",
+      "tagg": "ventilation"
+    },
+    {
+      "namn": "Norrköpings Hamnlager",
+      "ort": "Norrköping",
+      "typ": "Utrymningsövning",
+      "ar": "2026",
+      "text": "Fullskaleövning med rök för 120 personer i tre skift.",
+      "tagg": "brand"
+    },
+    {
+      "namn": "Brf Ryd Centrum",
+      "ort": "Linköping",
+      "typ": "Sotning och OVK",
+      "ar": "2025",
+      "text": "Sotning, OVK och imkanalrengöring i samma vecka för 340 lägenheter.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Vadstena kommun",
+      "ort": "Vadstena",
+      "typ": "Avtalssotning",
+      "ar": "2027",
+      "text": "Nytt sotningsavtal med start i januari – planeringen pågår.",
+      "tagg": "skorsten",
+      "status": "Pågående"
+    }
   ],
   "process": [
-    {"titel": "Brandskyddsgenomgång", "text": "En brandskyddstekniker går igenom era lokaler och befintlig dokumentation på en halvdag.", "tagg": "brand"},
-    {"titel": "Ett samlat förslag", "text": "Ni får ett årsavtal med fast pris per byggnad för sotning, OVK, ronder och utrustning.", "tagg": "kontor"},
-    {"titel": "Schemaläggning", "text": "Alla besök läggs i en gemensam årsplan, så att verksamheten störs så lite som möjligt.", "tagg": "industri"},
-    {"titel": "Uppföljning i portalen", "text": "Protokoll och avvikelser samlas i kundportalen, och kontaktpersonen ringer vid allvarliga fel.", "tagg": "kontor"}
+    {
+      "titel": "Brandskyddsgenomgång",
+      "text": "En brandskyddstekniker går igenom era lokaler och befintlig dokumentation på en halvdag.",
+      "tagg": "brand"
+    },
+    {
+      "titel": "Ett samlat förslag",
+      "text": "Ni får ett årsavtal med fast pris per byggnad för sotning, OVK, ronder och utrustning.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Schemaläggning",
+      "text": "Alla besök läggs i en gemensam årsplan, så att verksamheten störs så lite som möjligt.",
+      "tagg": "industri"
+    },
+    {
+      "titel": "Uppföljning i portalen",
+      "text": "Protokoll och avvikelser samlas i kundportalen, och kontaktpersonen ringer vid allvarliga fel.",
+      "tagg": "kontor"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Ingen brand ska bero på en missad kontroll",
     "text": "Vi mäter hur snabbt våra kunder åtgärdar avvikelser, och följer upp allt som inte är stängt efter 60 dagar. Koncernen är certifierad enligt ISO 9001, 14001 och 45001, och 40 av 62 servicebilar är eldrivna.",
-    "mal": [["60 dagar", "längsta tid för öppen avvikelse utan uppföljning"], ["40/62", "eldrivna servicebilar"], ["3", "ISO-certifieringar för hela koncernen"]]
+    "mal": [
+      [
+        "60 dagar",
+        "längsta tid för öppen avvikelse utan uppföljning"
+      ],
+      [
+        "40/62",
+        "eldrivna servicebilar"
+      ],
+      [
+        "3",
+        "ISO-certifieringar för hela koncernen"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Fyra bolag, många vägar",
     "text": "Hos oss kan en sotarlärling bli funktionskontrollant eller brandskyddstekniker utan att byta arbetsgivare. Vi bekostar vidareutbildningen och du får behålla din tjänstebil under tiden.",
-    "jobb": [["Skorstensfejare", "Linköping"], ["Funktionskontrollant OVK", "Norrköping"], ["Brandskyddstekniker", "Linköping"], ["Kundansvarig företag", "Motala"]]
+    "jobb": [
+      [
+        "Skorstensfejare, Stångå Sotning",
+        "Linköping"
+      ],
+      [
+        "Funktionskontrollant, behörighet K",
+        "Norrköping"
+      ],
+      [
+        "Brandskyddstekniker",
+        "Linköping"
+      ],
+      [
+        "Kundansvarig företag",
+        "Motala"
+      ]
+    ]
   },
   "kultur": "Varje höst samlas alla fyra bolagen för en gemensam utbildningsdag på Vikingstad – med kräftor efteråt.",
-  "citat": {"text": "Mina föräldrar sotade skorstenar. Vi gör samma sak, fast vi har förstått att ventilation, släckare och utbildning hör ihop med samma fråga.", "namn": "Johan Ekholm", "roll": "Koncernchef", "tagg": "people"},
+  "citat": {
+    "text": "Mina föräldrar sotade skorstenar. Vi gör samma sak, fast vi har förstått att ventilation, släckare och utbildning hör ihop med samma fråga.",
+    "namn": "Johan Ekholm",
+    "roll": "Koncernchef",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Vi hade tre leverantörer och tre pärmar. Nu har vi en portal och en person som ringer när något behöver göras.", "namn": "Sanna K.", "ort": "Linköping"},
-    {"text": "Utrymningsövningen med rök var det första som fick personalen att ta brandskyddet på allvar.", "namn": "Michael R.", "ort": "Norrköping"},
-    {"text": "Pannorna sotades och OVK:n gjordes under samma stopp. Vi förlorade inte en enda produktionstimme.", "namn": "Ingrid L.", "ort": "Motala"}
+    {
+      "text": "Vi hade tre leverantörer och tre pärmar. Nu har vi en portal och en person som ringer när något behöver göras.",
+      "namn": "Sanna E.",
+      "ort": "Linköping"
+    },
+    {
+      "text": "Utrymningsövningen med rök var det första som fick personalen att ta brandskyddet på allvar.",
+      "namn": "Michael R.",
+      "ort": "Norrköping"
+    },
+    {
+      "text": "Pannorna sotades och OVK:n gjordes under samma stopp. Vi förlorade inte en enda produktionstimme.",
+      "namn": "Ingrid L.",
+      "ort": "Motala"
+    }
   ],
   "faq": [
-    ["Vad är systematiskt brandskyddsarbete?", "Det är verksamhetens skyldighet enligt lagen om skydd mot olyckor att planera, dokumentera och följa upp sitt brandskydd. Vi hjälper till med alla delar, men ansvaret ligger alltid kvar hos er."],
-    ["Måste vi köpa allt av er?", "Nej. Många kunder börjar med sotning eller OVK och lägger till ronder och utbildning senare. Årsavtalet byggs av de delar ni behöver."],
-    ["Hur ofta görs brandskyddsronder?", "Det beror på verksamheten. Kontor klarar sig ofta med kvartalsronder, medan industrier och lager kan behöva månadsronder."],
-    ["Sotar ni utanför Linköping och Motala?", "Avtalssotningen gäller Linköping, Motala och från 2027 Vadstena. Pannor och imkanaler hos företag sotar vi i hela Östergötland."],
-    ["Vad kostar ett brandskyddsavtal?", "Ett mindre kontor med en byggnad börjar på omkring 9 500 kr per år inklusive ronder och släckarservice. Industrier får offert efter genomgång."],
-    ["Vem äger dokumentationen?", "Ni. All dokumentation i portalen kan laddas ner när som helst, och den följer med om ni byter leverantör."],
-    ["Kan vi få utbildningen på engelska?", "Ja, grundläggande brandskydd och heta arbeten hålls även på engelska och arabiska."]
+    [
+      "Vad är systematiskt brandskyddsarbete?",
+      "Det är verksamhetens skyldighet enligt lagen om skydd mot olyckor att planera, dokumentera och följa upp sitt brandskydd. Vi hjälper till med alla delar, men ansvaret ligger alltid kvar hos er."
+    ],
+    [
+      "Måste vi köpa allt av er?",
+      "Nej. Många kunder börjar med sotning eller OVK och lägger till ronder och utbildning senare. Årsavtalet byggs av de delar ni behöver."
+    ],
+    [
+      "Hur ofta görs brandskyddsronder?",
+      "Det beror på verksamheten. Kontor klarar sig ofta med kvartalsronder, medan industrier och lager kan behöva månadsronder."
+    ],
+    [
+      "Sotar ni utanför Linköping och Motala?",
+      "Avtalssotningen gäller Linköping, Motala och från 2027 Vadstena. Pannor och imkanaler hos företag sotar vi i hela Östergötland."
+    ],
+    [
+      "Vad kostar ett brandskyddsavtal?",
+      "Ett mindre kontor med en byggnad börjar på omkring 9 500 kr per år inklusive ronder och släckarservice. Industrier får offert efter genomgång."
+    ],
+    [
+      "Vem äger dokumentationen?",
+      "Ni. All dokumentation i portalen kan laddas ner när som helst, och den följer med om ni byter leverantör."
+    ],
+    [
+      "Kan vi få utbildningen på engelska?",
+      "Ja, grundläggande brandskydd och heta arbeten hålls även på engelska och arabiska."
+    ]
   ],
   "certifikat": [
-    {"titel": "ISO 9001, 14001, 45001", "text": "Hela koncernen är certifierad för kvalitet, miljö och arbetsmiljö.", "ikon": "skold"},
-    {"titel": "Certifierade funktionskontrollanter", "text": "Tio kontrollanter, varav sex med behörighet K för alla typer av ventilationssystem.", "ikon": "vind"},
-    {"titel": "Auktoriserad utbildare heta arbeten", "text": "Godkända att utbilda och utfärda certifikat för heta arbeten.", "ikon": "eld"},
-    {"titel": "Sotningsavtal i tre kommuner", "text": "Linköping, Motala och från 2027 Vadstena.", "ikon": "dokument"}
+    {
+      "titel": "ISO 9001, 14001, 45001",
+      "text": "Hela koncernen är certifierad för kvalitet, miljö och arbetsmiljö.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Tio funktionskontrollanter",
+      "text": "Tio kontrollanter, varav sex med behörighet K för alla typer av ventilationssystem.",
+      "ikon": "vind"
+    },
+    {
+      "titel": "Auktoriserad utbildare heta arbeten",
+      "text": "Godkända att utbilda och utfärda certifikat för heta arbeten.",
+      "ikon": "eld"
+    },
+    {
+      "titel": "Sotningsavtal i tre kommuner",
+      "text": "Linköping, Motala och från 2027 Vadstena.",
+      "ikon": "dokument"
+    }
   ],
-  "kunder": ["Linköpings kommun", "Motala kommun", "Tornby Logistikfastigheter", "Norrköpings Hamnlager AB", "Brf Ryd Centrum", "Östgöta Gymnasiefastigheter", "Borensbergs Verkstäder", "Vadstena kommun"],
+  "kunder": [
+    "Linköpings kommun",
+    "Motala kommun",
+    "Tornby Logistikfastigheter",
+    "Norrköpings Hamnlager AB",
+    "Brf Ryd Centrum",
+    "Östgöta Gymnasiefastigheter",
+    "Borensbergs Verkstäder",
+    "Vadstena kommun"
+  ],
   "nyheter": [
-    ["2026-10-22", "Tre misstag i SBA-pärmen", "De vanligaste bristerna vi hittar när nya kunder visar sin dokumentation.", "brand"],
-    ["2026-09-03", "Boren Sotning vinner Vadstena", "Sotningen i Vadstena kommun utförs av gruppen från januari 2027.", "skorsten"],
-    ["2026-04-17", "Elbilar i alla sotarlag", "Varje sotarlag i Linköping har nu minst två eldrivna servicebilar med takstege.", "people"]
+    [
+      "2026-10-23",
+      "Tre misstag i SBA-pärmen",
+      "De vanligaste bristerna vi hittar när nya kunder visar sin dokumentation.",
+      "brand"
+    ],
+    [
+      "2026-09-03",
+      "Boren Sotning vinner Vadstena",
+      "Sotningen i Vadstena kommun utförs av gruppen från januari 2027.",
+      "skorsten"
+    ],
+    [
+      "2026-04-17",
+      "Elbilar i alla sotarlag",
+      "Varje sotarlag i Linköping har nu minst två eldrivna servicebilar med takstege.",
+      "people"
+    ]
   ],
-  "kontakt": {"adress": "Roxtorpsgatan 14", "postnr": "582 75", "ort": "Linköping", "telefon": "070-174 06 27", "epost": "kontakt@stangagruppen.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Roxtorpsgatan 14",
+    "postnr": "582 75",
+    "ort": "Linköping",
+    "telefon": "070-174 06 27",
+    "epost": "kontakt@stangagruppen.se",
+    "orgnr": ""
+  },
   "oppettider": "Kundcenter mån–fre 7–16",
   "omrade": "Östergötland – avtalssotning i Linköping, Motala och Vadstena",
   "fot_cta": "Har ni fler än en leverantör för brandskyddet? Låt oss räkna på ett samlat avtal.",
-  "bild": {"panel": "people", "hb": "brand"},
+  "bild": {
+    "panel": "people",
+    "hb": "brand"
+  },
   "text": {
-    "kontakt_knapp": "Begär genomgång",
+    "kontakt_knapp": "Boka brandskyddsgenomgång",
     "hero_knapp": "Våra bolag",
     "hero_lank": "Kunduppdrag",
     "vagval_etikett": "Brandskydd",
@@ -124,9 +413,14 @@
     "faq_rubrik": "Frågor från företag och skolor",
     "boka_rubrik": "Boka en brandskyddsgenomgång",
     "boka_text": "Berätta om verksamheten och hur många byggnader det gäller. En kundansvarig återkommer inom två arbetsdagar.",
-    "boka_falt": ["Namn och företag", "Telefon", "E-post", "Verksamhet och antal byggnader"],
+    "boka_falt": [
+      "Namn och företag",
+      "Telefon",
+      "E-post",
+      "Verksamhet och antal byggnader"
+    ],
     "certifikat_rubrik": "Certifieringar och avtal",
     "logos_rubrik": "Verksamheter med avtal hos gruppen",
-    "medarbetare": "Medarbetare"
+    "medarbetare": "Koncernens medarbetare"
   }
 }

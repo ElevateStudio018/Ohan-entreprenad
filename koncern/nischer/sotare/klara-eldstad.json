@@ -17,102 +17,390 @@
   ],
   "vagval_rubrik": "Sota själv eller låta oss göra det?",
   "tjanster": [
-    {"titel": "Egensotningskurs", "ikon": "skola", "href": "verksamhet.html", "text": "En kväll med teori och övning på riktiga murstockar i vår övningshall."},
-    {"titel": "Kurs på din gård", "ikon": "hus", "href": "verksamhet.html", "text": "Vi kommer hem till dig och går igenom just din panna och skorsten."},
-    {"titel": "Hyr sotningsverktyg", "ikon": "verktyg", "href": "verksamhet.html", "text": "Borstar, stänger, sotsug och takstege för helgen – från 350 kr."},
-    {"titel": "Kamerasond att låna", "ikon": "sok", "href": "verksamhet.html", "text": "Se själv hur kanalen ser ut efter sotningen, och skicka filmen till oss."},
-    {"titel": "Sotning på Hammarö", "ikon": "eld", "href": "verksamhet.html", "text": "Avtalssotning och brandskyddskontroll för alla hushåll på Hammarö."},
-    {"titel": "Hjälp med ansökan", "ikon": "dokument", "href": "verksamhet.html", "text": "Vi förklarar vad kommunen vill se när du söker medgivande för egensotning."},
-    {"titel": "Kurser och priser", "ikon": "portfolj", "href": "om-oss.html#kontakt", "text": "Kurser, hyra och kommunens taxa samlat på ett ställe."},
-    {"titel": "Anmäl dig till kurs", "ikon": "kalender", "href": "om-oss.html#kontakt", "text": "Nästa kurskväll är i Karlstad och har tolv platser."}
+    {
+      "titel": "Egensotningskurs",
+      "ikon": "skola",
+      "href": "verksamhet.html",
+      "text": "En kväll med teori och övning på riktiga murstockar i vår övningshall."
+    },
+    {
+      "titel": "Kurs på din gård",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Vi kommer hem till dig och går igenom just din panna och skorsten."
+    },
+    {
+      "titel": "Hyr sotningsverktyg",
+      "ikon": "verktyg",
+      "href": "verksamhet.html",
+      "text": "Borstar, stänger, sotsug och takstege för helgen – från 350 kr."
+    },
+    {
+      "titel": "Kamerasond att låna",
+      "ikon": "sok",
+      "href": "verksamhet.html",
+      "text": "Se själv hur kanalen ser ut efter sotningen, och skicka filmen till oss."
+    },
+    {
+      "titel": "Sotning på Hammarö",
+      "ikon": "eld",
+      "href": "verksamhet.html",
+      "text": "Avtalssotning och brandskyddskontroll för alla hushåll på Hammarö."
+    },
+    {
+      "titel": "Hjälp med ansökan",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "Vi förklarar vad kommunen vill se när du söker medgivande för egensotning."
+    },
+    {
+      "titel": "Kurser och priser",
+      "ikon": "portfolj",
+      "href": "om-oss.html#kontakt",
+      "text": "Kurser, hyra och kommunens taxa samlat på ett ställe."
+    },
+    {
+      "titel": "Anmäl dig till kurs",
+      "ikon": "kalender",
+      "href": "om-oss.html#kontakt",
+      "text": "Nästa kurskväll är i Karlstad och har tolv platser."
+    }
   ],
   "affarsomraden": [
-    {"titel": "Egensotningskurser", "text": "Kursen tar fyra timmar och handlar om varför man sotar, hur beck och sot bildas och hur man rengör eldstad, rökkanal och rökrör. Halva tiden står du själv vid en av de fyra övningsmurstockarna i hallen.", "text2": "Du får ett kursintyg som många kommuner i Värmland godtar som underlag för medgivande.", "tagg": "skorsten"},
-    {"titel": "Verktyg och kamerasond", "text": "Rätt borste i rätt storlek gör halva jobbet. Vi hyr ut kompletta sotningskit för helgen, med stålborste eller nylonborste beroende på kanalens material.", "text2": "Kamerasonden kan du låna i samband med hyran och skicka filmen till oss för en kostnadsfri bedömning.", "tagg": "hem"},
-    {"titel": "Sotning på Hammarö", "text": "På Hammarö sotar vi enligt avtalet med kommunen och de frister som gäller för varje eldstad. Hushållen får ett brev fyra veckor före och kan välja tid i vår bokningskalender.", "text2": "Brandskyddskontrollen gör vi också – den måste göras av oss även om du sotar själv.", "tagg": "brand"},
-    {"titel": "Rådgivning för gårdar", "text": "Vedpannor på gårdar sotas ofta flera gånger per år. Vi hjälper till att lägga upp ett schema och visar hur ackumulatortank och torr ved minskar sotningsbehovet.", "text2": "Många gårdskunder kombinerar kurs på plats med en årlig kontroll från oss.", "tagg": "natur"}
+    {
+      "titel": "Egensotningskurser",
+      "text": "Kursen tar fyra timmar och handlar om varför man sotar, hur beck och sot bildas och hur man rengör eldstad, rökkanal och rökrör. Halva tiden står du själv vid en av de fyra övningsmurstockarna i hallen.",
+      "text2": "Du får ett kursintyg som många kommuner i Värmland godtar som underlag för medgivande.",
+      "tagg": "skorsten"
+    },
+    {
+      "titel": "Verktyg och kamerasond",
+      "text": "Rätt borste i rätt storlek gör halva jobbet. Vi hyr ut kompletta sotningskit för helgen, med stålborste eller nylonborste beroende på kanalens material.",
+      "text2": "Kamerasonden kan du låna i samband med hyran och skicka filmen till oss för en kostnadsfri bedömning.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Sotning på Hammarö",
+      "text": "På Hammarö sotar vi enligt avtalet med kommunen och de frister som gäller för varje eldstad. Hushållen får ett brev fyra veckor före och kan välja tid i vår bokningskalender.",
+      "text2": "Brandskyddskontrollen gör vi också – den måste göras av oss även om du sotar själv.",
+      "tagg": "brand"
+    },
+    {
+      "titel": "Rådgivning för gårdar",
+      "text": "Vedpannor på gårdar sotas ofta flera gånger per år. Vi hjälper till att lägga upp ett schema och visar hur ackumulatortank och torr ved minskar sotningsbehovet.",
+      "text2": "Många gårdskunder kombinerar kurs på plats med en årlig kontroll från oss.",
+      "tagg": "natur"
+    }
   ],
   "bolag": [
-    {"namn": "Kurslokalen i Våxnäs", "segment": "Utbildning", "rubrik": "Fyra murstockar inomhus", "text": "En övningshall med tegel-, stål- och keramikkanaler där kursdeltagarna sotar på riktigt.", "tagg": "skorsten"},
-    {"namn": "Hammaröuppdraget", "segment": "Avtalssotning", "rubrik": "Varje hushåll på ön", "text": "Två skorstensfejare som sotar och kontrollerar omkring 2 600 eldstäder på Hammarö.", "tagg": "brand"},
-    {"namn": "Uthyrningen", "segment": "Verktyg och rådgivning", "rubrik": "Utlämning fredag, retur måndag", "text": "Sotningskit, takstegar och kamerasonder som hämtas och lämnas i Våxnäs.", "tagg": "hem"}
+    {
+      "namn": "Kurslokalen i Våxnäs",
+      "segment": "Utbildning",
+      "rubrik": "Fyra murstockar inomhus",
+      "text": "En övningshall med tegel-, stål- och keramikkanaler där kursdeltagarna sotar på riktigt.",
+      "tagg": "skorsten"
+    },
+    {
+      "namn": "Hammaröuppdraget",
+      "segment": "Avtalssotning",
+      "rubrik": "Varje hushåll på ön",
+      "text": "Två skorstensfejare som sotar och kontrollerar omkring 2 600 eldstäder på Hammarö.",
+      "tagg": "brand"
+    },
+    {
+      "namn": "Uthyrningen",
+      "segment": "Verktyg och rådgivning",
+      "rubrik": "Utlämning fredag, retur måndag",
+      "text": "Sotningskit, takstegar och kamerasonder som hämtas och lämnas i Våxnäs.",
+      "tagg": "hem"
+    }
   ],
   "berattelser": [
-    {"rubrik": "Kurs nummer 100", "text": "I oktober höll vi vår hundrade kurskväll – med elva gårdsägare från Sunne och en från Oslo.", "tagg": "people"},
-    {"rubrik": "Ny övningsmurstock i keramik", "text": "Hallen har fått en fjärde murstock med keramisk modulkanal, eftersom allt fler nya hus har den typen.", "tagg": "skorsten"},
-    {"rubrik": "Hela Skoghall på tre veckor", "text": "Höstens sotningsrunda på Hammarö gick fortare än någonsin tack vare att 70 procent bokade tid själva.", "tagg": "brand"}
+    {
+      "rubrik": "Kurs nummer 100",
+      "text": "I oktober höll vi vår hundrade kurskväll – med elva gårdsägare från Sunne och en från Oslo.",
+      "tagg": "people"
+    },
+    {
+      "rubrik": "Ny övningsmurstock i keramik",
+      "text": "Hallen har fått en fjärde murstock med keramisk modulkanal, eftersom allt fler nya hus har den typen.",
+      "tagg": "skorsten"
+    },
+    {
+      "rubrik": "Hela Skoghall på tre veckor",
+      "text": "Höstens sotningsrunda på Hammarö gick fortare än någonsin tack vare att 70 procent bokade tid själva.",
+      "tagg": "brand"
+    }
   ],
   "nyckeltal": [
-    {"varde": "1 140", "enhet": "elever", "etikett": "Har gått vår kurs"},
-    {"varde": "4", "enhet": "timmar", "etikett": "Från nybörjare till intyg"},
-    {"varde": "2 600", "enhet": "eldstäder", "etikett": "Sotar vi på Hammarö"},
-    {"varde": "5", "enhet": "personer", "etikett": "Hela företaget"}
+    {
+      "varde": "1 140",
+      "enhet": "elever",
+      "etikett": "Har gått vår kurs"
+    },
+    {
+      "varde": "4",
+      "enhet": "timmar",
+      "etikett": "Från nybörjare till intyg"
+    },
+    {
+      "varde": "2 600",
+      "enhet": "eldstäder",
+      "etikett": "Sotar vi på Hammarö"
+    },
+    {
+      "varde": "5",
+      "enhet": "personer",
+      "etikett": "Hela företaget"
+    }
   ],
   "projekt": [
-    {"namn": "Kurs för Fryksdalens lantbrukare", "ort": "Sunne", "typ": "Gårdskurs", "ar": "2026", "text": "Två kvällar för 24 lantbrukare med vedpannor mellan 40 och 120 kW.", "tagg": "natur"},
-    {"namn": "Skoghalls villaområden", "ort": "Hammarö", "typ": "Avtalssotning", "ar": "2026", "text": "Höstens sotningsrunda med självbokning – 1 800 eldstäder på tre veckor.", "tagg": "bostad"},
-    {"namn": "Hembygdsgården i Alster", "ort": "Karlstad", "typ": "Kurs på plats", "ar": "2025", "text": "Föreningens frivilliga lärde sig sota bakugnen och de två kakelugnarna.", "tagg": "tra"},
-    {"namn": "Stugföreningen Klarälvsdalen", "ort": "Ekshärad", "typ": "Verktygspaket", "ar": "2025", "text": "Gemensamt sotningskit och kurs för 30 stugägare som delar på utrustningen.", "tagg": "natur"},
-    {"namn": "Villa i Kronoparken", "ort": "Karlstad", "typ": "Filmgranskning", "ar": "2026", "text": "En elev filmade kanalen efter sotning, och vi upptäckte en spricka i tid.", "tagg": "hem"},
-    {"namn": "Grums Folkhögskola", "ort": "Grums", "typ": "Kursdag", "ar": "2026", "text": "Kurs för en klass i byggnadsvård, med sotning av skolans gamla vedspis.", "tagg": "people", "status": "Pågående"}
+    {
+      "namn": "Kurs för Fryksdalens lantbrukare",
+      "ort": "Sunne",
+      "typ": "Gårdskurs",
+      "ar": "2026",
+      "text": "Två kvällar för 24 lantbrukare med vedpannor mellan 40 och 120 kW.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Skoghalls villaområden",
+      "ort": "Hammarö",
+      "typ": "Avtalssotning",
+      "ar": "2026",
+      "text": "Höstens sotningsrunda med självbokning – 1 800 eldstäder på tre veckor.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Hembygdsgården i Alster",
+      "ort": "Karlstad",
+      "typ": "Kurs på plats",
+      "ar": "2025",
+      "text": "Föreningens frivilliga lärde sig sota bakugnen och de två kakelugnarna.",
+      "tagg": "tra"
+    },
+    {
+      "namn": "Stugföreningen Klarälvsdalen",
+      "ort": "Ekshärad",
+      "typ": "Verktygspaket",
+      "ar": "2025",
+      "text": "Gemensamt sotningskit och kurs för 30 stugägare som delar på utrustningen.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Villa i Kronoparken",
+      "ort": "Karlstad",
+      "typ": "Filmgranskning",
+      "ar": "2026",
+      "text": "En elev filmade kanalen efter sotning, och vi upptäckte en spricka i tid.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Grums Folkhögskola",
+      "ort": "Grums",
+      "typ": "Kursdag",
+      "ar": "2026",
+      "text": "Kurs för en klass i byggnadsvård, med sotning av skolans gamla vedspis.",
+      "tagg": "people",
+      "status": "Pågående"
+    }
   ],
   "process": [
-    {"titel": "Välj väg", "text": "Ring eller skriv och berätta om din eldstad. Vi hjälper dig avgöra om egensotning passar.", "tagg": "kontor"},
-    {"titel": "Kurskväll", "text": "Teori i en timme, övning i tre. Du sotar själv minst två olika kanaler.", "tagg": "skorsten"},
-    {"titel": "Medgivande", "text": "Du söker hos kommunen med kursintyget. Vi svarar gärna på frågor om blanketten.", "tagg": "brand"},
-    {"titel": "Första sotningen hemma", "text": "Hyr verktyg för helgen och skicka gärna en film från kamerasonden, så tittar vi.", "tagg": "hem"}
+    {
+      "titel": "Välj väg",
+      "text": "Ring eller skriv och berätta om din eldstad. Vi hjälper dig avgöra om egensotning passar.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Kurskväll",
+      "text": "Teori i en timme, övning i tre. Du sotar själv minst två olika kanaler.",
+      "tagg": "skorsten"
+    },
+    {
+      "titel": "Medgivande",
+      "text": "Du söker hos kommunen med kursintyget. Vi svarar gärna på frågor om blanketten.",
+      "tagg": "brand"
+    },
+    {
+      "titel": "Första sotningen hemma",
+      "text": "Hyr verktyg för helgen och skicka gärna en film från kamerasonden, så tittar vi.",
+      "tagg": "hem"
+    }
   ],
   "hallbarhet": {
     "rubrik": "Den som förstår sin eldstad eldar bättre",
     "text": "Den som har sotat själv ser vad blöt ved och strypt luft gör med kanalen. Därför ägnar vi en del av varje kurs åt eldning, och elever som återkommer med film efter ett år har i snitt hälften så mycket beck som vid första kontrollen. Hyrverktygen delas av hundratals hushåll i stället för att köpas av alla.",
-    "mal": [["−50 %", "beck i kanalen efter ett år hos våra elever"], ["400", "hyrtillfällen per år på samma verktyg"], ["0", "soteldar hos elever som vi känner till"]]
+    "mal": [
+      [
+        "−50 %",
+        "beck i kanalen efter ett år hos våra elever"
+      ],
+      [
+        "400",
+        "hyrtillfällen per år på samma verktyg"
+      ],
+      [
+        "0",
+        "soteldar hos elever som vi känner till"
+      ]
+    ]
   },
   "karriar": {
     "rubrik": "Sotare som gillar att förklara",
     "text": "Vi är ett litet lag och letar efter en skorstensfejare som trivs lika bra på ett tak som framför tolv kursdeltagare. Kvällskurser ingår, och tiden tas ut som ledighet.",
-    "jobb": [["Skorstensfejare och kursledare", "Karlstad"]]
+    "jobb": [
+      [
+        "Skorstensfejare och kursledare",
+        "Karlstad"
+      ]
+    ]
   },
   "kultur": "Efter varje kurskväll äter lärare och elever soppa tillsammans i hallen.",
-  "citat": {"text": "Egensotning är inte farligt. Det farliga är att göra det utan att någon har visat hur.", "namn": "Hanna Sjöö", "roll": "Medgrundare och skorstensfejartekniker", "tagg": "people"},
+  "citat": {
+    "text": "Egensotning är inte farligt. Det farliga är att göra det utan att någon har visat hur.",
+    "namn": "Hanna Sjöö",
+    "roll": "Medgrundare och skorstensfejartekniker",
+    "tagg": "people"
+  },
   "omdomen": [
-    {"text": "Jag har sotat vedpannan själv i tjugo år och trodde att jag kunde det. Efter kursen bytte jag borste och började elda annorlunda.", "namn": "Göran W.", "ort": "Sunne"},
-    {"text": "Bra kväll, bra soppa och ett intyg som kommunen godkände utan frågor.", "namn": "Mikaela T.", "ort": "Molkom"},
-    {"text": "Petra kom ut till gården och visade på vår egen panna. Mycket bättre än att läsa en broschyr.", "namn": "Lars och Eva H.", "ort": "Deje"}
+    {
+      "text": "Jag har sotat vedpannan själv i tjugo år och trodde att jag kunde det. Efter kursen bytte jag borste och började elda annorlunda.",
+      "namn": "Göran W.",
+      "ort": "Sunne"
+    },
+    {
+      "text": "Bra kväll, bra soppa och ett intyg som kommunen godkände utan frågor.",
+      "namn": "Mikaela T.",
+      "ort": "Molkom"
+    },
+    {
+      "text": "Petra kom ut till gården och visade på vår egen panna. Mycket bättre än att läsa en broschyr.",
+      "namn": "Lars och Eva H.",
+      "ort": "Deje"
+    }
   ],
   "faq": [
-    ["Får vem som helst sota själv?", "Du behöver ett medgivande från kommunen, som bedömer om du kan göra det på ett brandsäkert sätt. En kurs är ofta det bästa underlaget, men varje kommun avgör själv."],
-    ["Slipper jag brandskyddskontrollen om jag sotar själv?", "Nej. Brandskyddskontrollen enligt lagen om skydd mot olyckor ska alltid göras av kommunens sotningsentreprenör, med samma intervall som för alla andra."],
-    ["Gäller medgivandet för alla mina eldstäder?", "Medgivandet gäller den fastighet och de eldstäder du har sökt för. Har du en panna för fastbränsle och en kamin kan du söka för båda."],
-    ["Vad kostar kursen?", "En kurskväll i Karlstad kostar 1 450 kr inklusive material, soppa och intyg. Kurs på din gård kostar 3 900 kr för upp till fyra personer."],
-    ["Kan jag hyra verktyg utan att gå kursen?", "Ja, men vi ställer några frågor vid hämtningen för att vara säkra på att du får rätt borste och vet hur sotluckan ska stängas."],
-    ["Sotar ni utanför Hammarö?", "Vi har bara avtalssotning på Hammarö. I andra kommuner ansvarar respektive sotningsentreprenör, men kurser och verktyg erbjuder vi i hela Värmland."]
+    [
+      "Får vem som helst sota själv?",
+      "Du behöver ett medgivande från kommunen, som bedömer om du kan göra det på ett brandsäkert sätt. En kurs är ofta det bästa underlaget, men varje kommun avgör själv."
+    ],
+    [
+      "Slipper jag brandskyddskontrollen om jag sotar själv?",
+      "Nej. Brandskyddskontrollen enligt lagen om skydd mot olyckor ska alltid göras av kommunens sotningsentreprenör, med samma intervall som för alla andra."
+    ],
+    [
+      "Gäller medgivandet för alla mina eldstäder?",
+      "Medgivandet gäller den fastighet och de eldstäder du har sökt för. Har du en panna för fastbränsle och en kamin kan du söka för båda."
+    ],
+    [
+      "Vad kostar kursen?",
+      "En kurskväll i Karlstad kostar 1 450 kr inklusive material, soppa och intyg. Kurs på din gård kostar 3 900 kr för upp till fyra personer."
+    ],
+    [
+      "Kan jag hyra verktyg utan att gå kursen?",
+      "Ja, men vi ställer några frågor vid hämtningen för att vara säkra på att du får rätt borste och vet hur sotluckan ska stängas."
+    ],
+    [
+      "Sotar ni utanför Hammarö?",
+      "Vi har bara avtalssotning på Hammarö. I andra kommuner ansvarar respektive sotningsentreprenör, men kurser och verktyg erbjuder vi i hela Värmland."
+    ]
   ],
   "prislista": [
-    ["Egensotningskurs, kvällskurs i Karlstad", "1 450 kr"],
-    ["Kurs på din gård, upp till fyra personer", "3 900 kr"],
-    ["Sotningskit villa, fredag–måndag", "350 kr"],
-    ["Sotningskit gård med sotsug", "550 kr"],
-    ["Kamerasond, tillägg till hyra", "250 kr"],
-    ["Filmgranskning av din rökkanal", "0 kr"],
-    ["Avtalssotning Hammarö, lokaleldstad", "enligt kommunens taxa"]
+    [
+      "Egensotningskurs, kvällskurs i Karlstad",
+      "1 450 kr"
+    ],
+    [
+      "Kurs på din gård, upp till fyra personer",
+      "3 900 kr"
+    ],
+    [
+      "Sotningskit villa, fredag–måndag",
+      "350 kr"
+    ],
+    [
+      "Sotningskit gård med sotsug",
+      "550 kr"
+    ],
+    [
+      "Kamerasond, tillägg till hyra",
+      "250 kr"
+    ],
+    [
+      "Filmgranskning av din rökkanal",
+      "0 kr"
+    ],
+    [
+      "Avtalssotning Hammarö, lokaleldstad",
+      "enligt kommunens taxa"
+    ]
   ],
   "certifikat": [
-    {"titel": "Två skorstensfejartekniker", "text": "Båda grundarna har teknikerexamen och behörighet för brandskyddskontroll.", "ikon": "skold"},
-    {"titel": "Sotningsavtal Hammarö", "text": "Avtal om rengöring och brandskyddskontroll med Hammarö kommun sedan 2024.", "ikon": "dokument"},
-    {"titel": "Kursplan granskad av räddningstjänsten", "text": "Kursens innehåll är framtaget tillsammans med räddningstjänsten i regionen.", "ikon": "skola"},
-    {"titel": "Medlem i SSR", "text": "Medlemmar i Sveriges Skorstensfejaremästares Riksförbund.", "ikon": "folk"}
+    {
+      "titel": "Båda grundarna är tekniker",
+      "text": "Båda grundarna har teknikerexamen och behörighet för brandskyddskontroll.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Sotningsavtal Hammarö",
+      "text": "Avtal om rengöring och brandskyddskontroll med Hammarö kommun sedan 2024.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "Kursplan granskad av räddningstjänsten",
+      "text": "Kursens innehåll är framtaget tillsammans med räddningstjänsten i regionen.",
+      "ikon": "skola"
+    },
+    {
+      "titel": "Ansluten till SSR",
+      "text": "Medlemmar i Sveriges Skorstensfejaremästares Riksförbund.",
+      "ikon": "folk"
+    }
   ],
-  "kunder": ["Hammarö kommun", "Fryksdalens Lantbrukarförening", "Alsters Hembygdsförening", "Stugföreningen Klarälvsdalen", "Grums Folkhögskola", "Brf Skoghalls Strand", "Molkoms Byalag"],
+  "kunder": [
+    "Hammarö kommun",
+    "Fryksdalens Lantbrukarförening",
+    "Alsters Hembygdsförening",
+    "Stugföreningen Klarälvsdalen",
+    "Grums Folkhögskola",
+    "Brf Skoghalls Strand",
+    "Molkoms Byalag"
+  ],
   "nyheter": [
-    ["2026-10-16", "Vårens kurser öppnar för anmälan", "Sex kurskvällar i Karlstad och två i Arvika mellan januari och april.", "people"],
-    ["2026-08-25", "Så väljer du borste", "Stål för tegel, nylon för stål och keramik – och varför fel borste kan förstöra en kanal.", "skorsten"],
-    ["2026-05-13", "Nya sotningstider på Hammarö", "Från hösten kan alla hushåll på ön välja tid själva i bokningskalendern.", "brand"]
+    [
+      "2026-10-16",
+      "Vårens kurser öppnar för anmälan",
+      "Sex kurskvällar i Karlstad och två i Arvika mellan januari och april.",
+      "people"
+    ],
+    [
+      "2026-08-25",
+      "Så väljer du borste",
+      "Stål för tegel, nylon för stål och keramik – och varför fel borste kan förstöra en kanal.",
+      "skorsten"
+    ],
+    [
+      "2026-05-13",
+      "Nya sotningstider på Hammarö",
+      "Från hösten kan alla hushåll på ön välja tid själva i bokningskalendern.",
+      "brand"
+    ]
   ],
-  "kontakt": {"adress": "Sandbäcksgatan 9", "postnr": "653 40", "ort": "Karlstad", "telefon": "070-174 06 19", "epost": "kurs@klaraeldstad.se", "orgnr": ""},
+  "kontakt": {
+    "adress": "Sandbäcksgatan 9",
+    "postnr": "653 40",
+    "ort": "Karlstad",
+    "telefon": "070-174 06 19",
+    "epost": "kurs@klaraeldstad.se",
+    "orgnr": ""
+  },
   "oppettider": "Mån–tors 8–16, kurskvällar tis och tors 17–21",
   "omrade": "Avtalssotning på Hammarö – kurser och uthyrning i hela Värmland",
   "fot_cta": "Nästa kurskväll har tolv platser. Anmäl dig innan de är slut.",
-  "bild": {"panel": "people", "hb": "hem"},
+  "bild": {
+    "panel": "people",
+    "hb": "hem"
+  },
   "text": {
     "kontakt_knapp": "Anmäl till kurs",
     "hero_knapp": "Se kursdatum",
@@ -130,7 +418,12 @@
     "faq_rubrik": "Om medgivande och egensotning",
     "boka_rubrik": "Vilken kväll passar dig?",
     "boka_text": "Skriv vilken kurs eller vilket verktyg du är intresserad av, så bekräftar vi plats eller hyra inom ett dygn.",
-    "boka_falt": ["Namn", "Telefon", "E-post", "Kurs, hyra eller sotning?"],
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "E-post",
+      "Kurs, hyra eller sotning?"
+    ],
     "certifikat_rubrik": "Utbildade, behöriga och anlitade",
     "logos_rubrik": "Föreningar och kommuner som anlitat oss",
     "medarbetare": "Lärarna"

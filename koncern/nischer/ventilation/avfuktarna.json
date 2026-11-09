@@ -36,7 +36,7 @@
     {"namn": "Islaget", "segment": "8 tekniker", "rubrik": "Från isläggning till slutsignal", "text": "Installation och säsongsservice i ishallar, curlinghallar och bandyhallar.", "tagg": "anlaggning"},
     {"namn": "Badlaget", "segment": "9 tekniker", "rubrik": "Klor, värme och fukt", "text": "Ventilation och avfuktning i simhallar, badhus och spa.", "tagg": "ventilation"},
     {"namn": "Utredning och projektering", "segment": "4 ingenjörer", "rubrik": "Daggpunkter och kalkyler", "text": "Fuktutredningar, dimensionering och energiberäkningar.", "tagg": "kontor"},
-    {"namn": "Verkstaden", "segment": "3 plåtslagare", "rubrik": "Rostfritt och aluminium", "text": "Tillverkar kanaler och huvar i material som tål klor och kondens.", "tagg": "svets"}
+    {"namn": "Rostfria verkstaden", "segment": "3 plåtslagare", "rubrik": "Rostfritt och aluminium", "text": "Tillverkar kanaler och huvar i material som tål klor och kondens.", "tagg": "svets"}
   ],
   "berattelser": [
     {"rubrik": "Dimman borta i Bodens ishall", "text": "Efter ombyggnaden har isen hållit utan dimma även under derbymatcher med fullsatt läktare.", "tagg": "anlaggning"},
@@ -86,14 +86,14 @@
     ["Vilken luftfuktighet ska en simhall ha?", "Normalt 50–60 procent relativ fuktighet vid en lufttemperatur ett par grader över vattnets. För låg fukt ökar avdunstningen och energibehovet."],
     ["Kan ni bygga om under pågående säsong?", "Vi undviker det. Ishallar byggs om på sommaren och simhallar under planerade stängningsveckor."],
     ["Arbetar ni utanför Norrbotten?", "Ja, i hela Norrland och vid större projekt i resten av Sverige."],
-    ["Gör ni vanlig OVK?", "Ja, i de hallar och badhus vi redan servar. För kontor och bostäder hänvisar vi till andra företag."],
+    ["Besiktar ni även hallarna?", "Ja, i de hallar och badhus vi redan servar. För kontor och bostäder hänvisar vi till andra företag."],
     ["Hur ofta ska avfuktningen servas?", "I ishallar före isläggning och efter säsong. Simhallsaggregat bör servas två gånger per år på grund av kloret."]
   ],
   "certifikat": [
     {"titel": "Fuktsakkunnig i teamet", "text": "En av våra ingenjörer är diplomerad fuktsakkunnig enligt ByggaF.", "ikon": "vatten"},
     {"titel": "Köldmediecertifikat", "text": "Behörighet för installation och service av värmepumpar och kylaggregat.", "ikon": "laddning"},
-    {"titel": "Funktionskontrollant K", "text": "Certifierad för OVK i stora och komplexa byggnader.", "ikon": "dokument"},
-    {"titel": "ISO 9001 och 14001", "text": "Certifierat för kvalitet och miljö sedan 2016.", "ikon": "skold"}
+    {"titel": "OVK i stora hallar", "text": "Certifierad för OVK i stora och komplexa byggnader.", "ikon": "dokument"},
+    {"titel": "Kvalitet och miljö certifierat", "text": "Certifierat för kvalitet och miljö sedan 2016.", "ikon": "skold"}
   ],
   "kunder": ["Bodens Arenafastigheter", "Piteå Badhus AB", "Kalix Curlingklubb", "Skellefteå Simhallsfastigheter", "Hotell Norrskenet Luleå", "Gällivare Bandyhall", "Luleå Fritidsanläggningar", "Haparanda Sim- och Ishall"],
   "nyheter": [

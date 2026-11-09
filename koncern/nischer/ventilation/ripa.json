@@ -53,7 +53,7 @@
     {"namn": "Kv. Kaolinet", "ort": "Kiruna", "typ": "Flerbostadshus, 74 lgh", "ar": "2025", "text": "Lägenhetsaggregat med frysskydd och avfrostning anpassade för minus 40.", "tagg": "bostad"},
     {"namn": "Nya simhallens personaldel", "ort": "Kiruna", "typ": "Kontor och omklädning", "ar": "2024", "text": "Ventilation i omklädningsrum och personalytor, samordnad i en gemensam BIM-modell.", "tagg": "bygg"},
     {"namn": "Personalbyn Tuolluvaara", "ort": "Kiruna", "typ": "Moduler till 180 bostäder", "ar": "2024", "text": "Hela ventilationen levererad som prefabricerade enheter på sju veckor.", "tagg": "industri"},
-    {"namn": "Vårdcentralen i Gällivare", "ort": "Gällivare", "typ": "Nybyggnad", "ar": "2026", "text": "Behovsstyrd ventilation i väntrum och behandlingsrum, klar till öppning i augusti.", "tagg": "ventilation"},
+    {"namn": "Vårdcentralen i Gällivare", "ort": "Gällivare", "typ": "Ny vårdcentral", "ar": "2026", "text": "Behovsstyrd ventilation i väntrum och behandlingsrum, klar till öppning i augusti.", "tagg": "ventilation"},
     {"namn": "Kv. Malmen 3", "ort": "Kiruna", "typ": "Kontor och butiker", "ar": "2026", "text": "Sex våningar med schaktmoduler som lyfts in under november.", "tagg": "bygg", "status": "Pågående"}
   ],
   "process": [
@@ -70,12 +70,12 @@
   "karriar": {
     "rubrik": "Hemma varje kväll, i stället för veckopendling",
     "text": "Stadsflytten pågår till mitten av 2030-talet. Hos oss bygger du den i stället för att flyga in och ut – och får arbeta inomhus i hallen när det är som kallast.",
-    "jobb": [["Ventilationsmontör", "Kiruna"], ["BIM-projektör ventilation", "Kiruna"], ["Montör, arbetslag Gällivare", "Gällivare"]]
+    "jobb": [["Montör nyproduktion", "Kiruna"], ["BIM-projektör ventilation", "Kiruna"], ["Montör, arbetslag Gällivare", "Gällivare"]]
   },
   "kultur": "Vi stänger hallen tidigt den dag solen kommer tillbaka i januari och fikar ute, oavsett temperatur.",
-  "citat": {"text": "Vi flyttade inte hit för att bygga ett hus. Vi flyttade hit för att bygga en hel stad, och det kommer att ta resten av vårt yrkesliv.", "namn": "Lena Rantatalo", "roll": "Vd och medgrundare", "tagg": "people"},
+  "citat": {"text": "Vi flyttade inte hit för att bygga ett hus. Vi flyttade hit för att bygga en hel stad, och det kommer att ta resten av vårt yrkesliv.", "namn": "Lena Rantatalo", "roll": "Medgrundare och vd", "tagg": "people"},
   "omdomen": [
-    {"text": "Schaktmodulerna kom märkta och färdiga. Vi sparade fem veckor på hotellbygget och ingen behövde stå på ett tak i februari.", "namn": "Henrik B.", "ort": "Platschef, Kiruna"},
+    {"text": "Schaktmodulerna kom märkta och färdiga. Vi sparade fem veckor på hotellbygget och ingen behövde stå på ett tak i februari.", "namn": "Henrik Ö.", "ort": "Platschef, Kiruna"},
     {"text": "Ripa var den enda ventilationsentreprenören som hade folk som bodde här. Det märks när något behöver lösas en söndag.", "namn": "Sanna P.", "ort": "Fastighetsägare, Kiruna"},
     {"text": "Vi hade inga krockar mellan ventilation och sprinkler i modellen. Det har jag aldrig varit med om tidigare.", "namn": "Tomas E.", "ort": "Projektledare, Gällivare"}
   ],
@@ -125,6 +125,6 @@
     "certifikat_rubrik": "Behörigheter för nybyggnad",
     "bolag_rubrik": "Hall, bygge och modell",
     "siffror_etikett": "Ripa i Malmfälten",
-    "medarbetare": "Montörerna"
+    "medarbetare": "Kirunamontörerna"
   }
 }

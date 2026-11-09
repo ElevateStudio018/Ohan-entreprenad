@@ -27,7 +27,7 @@
     {"titel": "Ge oss ett datum", "ikon": "telefon", "href": "om-oss.html#kontakt", "text": "Säg när hyresgästen flyttar in, så säger vi om vi hinner."}
   ],
   "affarsomraden": [
-    {"titel": "Lager och logistik", "text": "Ett modernt logistiklager är stort, högt och har lastportar som står öppna halva dagen. Vi dimensionerar ventilationen efter verksamheten – plock, kylvaror eller truckladdning – och inte efter en standardsiffra per kvadratmeter.", "text2": "Över 1,1 miljoner kvadratmeter lager i Jönköpings län har ventilation från oss.", "tagg": "industri"},
+    {"titel": "Lager- och logistikhallar", "text": "Ett modernt logistiklager är stort, högt och har lastportar som står öppna halva dagen. Vi dimensionerar ventilationen efter verksamheten – plock, kylvaror eller truckladdning – och inte efter en standardsiffra per kvadratmeter.", "text2": "Över 1,1 miljoner kvadratmeter lager i Jönköpings län har ventilation från oss.", "tagg": "industri"},
     {"titel": "Hyresgästanpassning av kontor", "text": "När en hyresgäst flyttar ut och en ny ska in ändras planlösningen nästan alltid. Vi flyttar don, bygger om zoner, injusterar och gör OVK – ofta på sex veckor eller kortare.", "text2": "Vi har arbetsledare som enbart arbetar med hyresgästanpassningar.", "tagg": "kontor"},
     {"titel": "Kyl, frys och livsmedel", "text": "Kylda lager behöver ventilation som inte skapar kondens och is. Vi isolerar kanaler, placerar intag rätt och samordnar med kylentreprenören.", "text2": "Sju livsmedelslager mellan Jönköping och Nässjö sedan 2019.", "tagg": "ventilation"},
     {"titel": "Service för bestånd", "text": "Fastighetsägare med många hallar vill ha ett avtal och ett telefonnummer. Vi sköter service, filterbyte och OVK i hela beståndet med samma tekniker.", "text2": "340 aggregat på serviceavtal i Jönköpings län.", "tagg": "anlaggning"}
@@ -35,7 +35,7 @@
   "bolag": [
     {"namn": "Hallprojekt", "segment": "26 montörer", "rubrik": "Höga tak, stora volymer", "text": "Nybyggnad av lager-, logistik- och produktionshallar.", "tagg": "industri"},
     {"namn": "Snabba ombyggnader", "segment": "14 montörer och 3 arbetsledare", "rubrik": "Sex veckor mellan hyresgäster", "text": "Hyresgästanpassningar av kontor och butiker med fasta tidplaner.", "tagg": "kontor"},
-    {"namn": "Service", "segment": "8 tekniker", "rubrik": "Ett avtal för hela beståndet", "text": "Service, filter och OVK för fastighetsägare i hela länet.", "tagg": "ventilation"},
+    {"namn": "Beståndsservice", "segment": "8 tekniker", "rubrik": "Ett avtal för hela beståndet", "text": "Service, filter och OVK för fastighetsägare i hela länet.", "tagg": "ventilation"},
     {"namn": "Värnamo", "segment": "4 personer", "rubrik": "Filial i Gnosjöregionen", "text": "Industri- och lagerkunder i Värnamo, Gislaved och Gnosjö.", "tagg": "anlaggning"}
   ],
   "berattelser": [
@@ -71,10 +71,10 @@
   "karriar": {
     "rubrik": "Tempo, men ordning",
     "text": "Hos oss är tidplanerna korta men planeringen ordentlig. Du arbetar i ett fast lag, vet veckan före var du ska vara och får bonus när projektet blir klart i tid.",
-    "jobb": [["Ventilationsmontör hallprojekt", "Jönköping"], ["Arbetsledare hyresgästanpassning", "Jönköping"], ["Servicetekniker", "Värnamo"]]
+    "jobb": [["Ventilationsmontör hallprojekt", "Jönköping"], ["Arbetsledare hyresgästanpassning", "Jönköping"], ["Servicetekniker lagerhallar", "Värnamo"]]
   },
   "kultur": "När ett projekt blir klart före tidplan bjuder vi hela laget på middag vid Vättern.",
-  "citat": {"text": "En fastighetsägare kan förhandla om nästan allt utom inflyttningsdagen. Det är den vi säljer.", "namn": "Fredrik Wahlgren", "roll": "Grundare och vd", "tagg": "people"},
+  "citat": {"text": "En fastighetsägare kan förhandla om nästan allt utom inflyttningsdagen. Det är den vi säljer.", "namn": "Fredrik Wahlgren", "roll": "Grundare, vd sedan 2005", "tagg": "people"},
   "omdomen": [
     {"text": "31 dagar för fyra våningar. Hyresgästen flyttade in på utsatt dag och OVK-protokollet låg redan i pärmen.", "namn": "Johan L.", "ort": "Fastighetschef, Jönköping"},
     {"text": "Tredje hallen vi bygger med Vätterport. Vi frågar inte längre efter konkurrerande anbud.", "namn": "Maria Ö.", "ort": "Projektchef, Torsvik"},
@@ -127,6 +127,6 @@
     "certifikat_rubrik": "Certifierade för stora projekt",
     "bolag_rubrik": "Hallar, ombyggnad, service och Värnamo",
     "siffror_etikett": "Vätterport i siffror",
-    "medarbetare": "Montörerna"
+    "medarbetare": "Hallmontörerna"
   }
 }

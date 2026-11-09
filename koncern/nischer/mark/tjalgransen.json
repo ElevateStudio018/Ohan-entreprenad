@@ -1,0 +1,126 @@
+{
+  "profil": "nisch",
+  "nisch": "mark",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Tjälgränsen Mark & Berg AB",
+  "kortnamn": "Tjälgränsen",
+  "slug": "tjalgransen",
+  "typ": "Markentreprenör i Malmfälten",
+  "tagline": "Gräver i minus trettio",
+  "slogan": "Vi bygger grunder, ledningar och gator i Kiruna och Gällivare – där tjälen går tre meter ner och asfaltsäsongen är tio veckor lång.",
+  "hero_rubrik": "Mark som håller för tre meter tjäle",
+  "hero_text": "Schakt, frostskyddade VA-ledningar och grundläggning i Kiruna, Gällivare och Svappavaara. 38 anställda som arbetar året runt, även under polarnatten.",
+  "intro_rubrik": "Året runt ovanför polcirkeln",
+  "om": [
+    "Tjälgränsen startades 2004 av Aino Kangas och Lars-Erik Pirttimaa, två maskinförare som tröttnat på att entreprenörer söderifrån packade ihop maskinerna i oktober. Idén var enkel: ett markföretag som planerar för vintern i stället för att stänga för den.",
+    "I dag är vi 38 anställda med 27 maskiner, alla med motorvärmare, uppvärmda hytter och skopor med tjälrivare. När Kirunas centrum flyttas österut bygger vi gator, ledningar och grunder i den nya stadskärnan, och åt gruvindustrin gör vi planer och vägar i Svappavaara och Malmberget."
+  ],
+  "vagval_rubrik": "Vad ska byggas i Malmfälten?",
+  "tjanster": [
+    {"titel": "Grundläggning", "ikon": "hus", "href": "verksamhet.html", "text": "Frostfria grunder med markisolering och dränering dimensionerad för norrbottnisk tjäle."},
+    {"titel": "Frostskyddat VA", "ikon": "ror", "href": "verksamhet.html", "text": "Ledningar på närmare tre meters djup, eller isolerade med värmekabel där berget ligger högt."},
+    {"titel": "Tjälschakt", "ikon": "hamare", "href": "verksamhet.html", "text": "Schakt vintertid med tjälrivare, tältvärme och isolermattor över öppna gropar."},
+    {"titel": "Gator i nya Kiruna", "ikon": "vag", "href": "verksamhet.html", "text": "Gator, gång- och cykelvägar och torgytor i den nya stadskärnan."},
+    {"titel": "Industriplaner", "ikon": "fabrik", "href": "verksamhet.html", "text": "Planer, upplag och interna vägar åt gruv- och verkstadsindustrin."},
+    {"titel": "Snöupplag", "ikon": "lada", "href": "verksamhet.html", "text": "Anläggning och drift av snöupplag med diken och sedimentering för smältvattnet."},
+    {"titel": "Vinteruthyrning", "ikon": "kran", "href": "verksamhet.html", "text": "Grävare och lastare med förare, rustade för minus 35 grader."},
+    {"titel": "Räkna på ert jobb", "ikon": "dokument", "href": "om-oss.html#kontakt", "text": "Vi lämnar pris inom en vecka, även mitt i vintern."}
+  ],
+  "affarsomraden": [
+    {"titel": "Grunder för arktiskt klimat", "text": "En grund i Kiruna ska klara att tjälen tränger ner till tre meter i obebyggd mark. Vi isolerar marken runt huset med en vinge av cellplast och bygger ut dräneringen så att inget vatten finns kvar att frysa.", "text2": "Isoleringens läge fotograferas och mäts in före återfyllning, så att det går att visa i efterhand.", "tagg": "mark"},
+    {"titel": "Ledningar som inte fryser", "text": "Kommunala ledningar läggs normalt på 2,5–3 meters djup i Malmfälten. Där berget ligger för högt lägger vi ledningarna i en låda av cellplast med självreglerande värmekabel.", "text2": "Vi provtrycker ledningen och mäter värmekabelns resistans före överlämningen.", "tagg": "vvs"},
+    {"titel": "Stadsflytten", "text": "Kirunas nya centrum byggs kvarter för kvarter, och marken måste vara klar innan husbyggarna kommer. Vi har byggt gator, ledningar och torgytor i stadsdelen sedan 2016.", "text2": "Arbetet sker ofta bredvid öppna butiker och nyinflyttade hyresgäster, så trafikplaneringen är halva jobbet.", "tagg": "stad"},
+    {"titel": "Gruvnära industri", "text": "Gruvindustrin behöver upplagsytor, vägar och planer för verkstäder som tål tung trafik dygnet runt. Där det är godkänt bygger vi överbyggnaden av krossat gråberg från gruvorna.", "text2": "All personal har gått gruvans säkerhetsintroduktion och får arbeta inom industriområdet utan följeslagare.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Kirunalaget", "segment": "Stad och bostäder", "rubrik": "Gator och ledningar i nya centrum", "text": "Två platschefer och 14 förare och rörläggare som arbetar i den nya stadskärnan och i bostadsområdena vid Luossavaara.", "tagg": "stad"},
+    {"namn": "Gällivarelaget", "segment": "Industri och gruva", "rubrik": "Planer och vägar vid Malmberget", "text": "Tio anställda med bas i Gällivare som bygger åt gruv- och verkstadsföretag och följer samhällsomvandlingen i Malmberget.", "tagg": "industri"},
+    {"namn": "Vinterservice", "segment": "Snö och tining", "rubrik": "Från november till maj", "text": "Sex förare som sköter snöupplag, tjältining och vinterschakt, och som åker ut när en servisledning fryser i en villa.", "tagg": "maskin"},
+    {"namn": "Verkstaden", "segment": "Maskiner och värme", "rubrik": "Varmgarage för 27 maskiner", "text": "Två mekaniker håller maskinparken igång och byter till vinterolja och snökedjor varje oktober.", "tagg": "industri"}
+  ],
+  "berattelser": [
+    {"rubrik": "Kvarteren vid nya stadshuset fick sina gator", "text": "Fyra kvarter med ledningar, värmekabel i gångstråken och kantsten i granit blev klara före den första snön.", "tagg": "stad"},
+    {"rubrik": "Schakt i minus 32 grader", "text": "En brusten vattenledning i Tuollavaara grävdes fram på en natt med tjältining under ett uppvärmt tält.", "tagg": "mark"},
+    {"rubrik": "Ny verkstadsplan i Svappavaara", "text": "Tre hektar plan med gråberg som bärlager för en underhållsverkstad, klar på elva veckor.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "3,0", "enhet": "m", "etikett": "Tjäldjup vi dimensionerar för"},
+    {"varde": "38", "enhet": "anställda", "etikett": "I Kiruna och Gällivare"},
+    {"varde": "−35", "enhet": "°C", "etikett": "Kallaste dag vi har grävt"},
+    {"varde": "2016", "enhet": "", "etikett": "Första gatan i nya Kiruna"}
+  ],
+  "projekt": [
+    {"namn": "Nya centrum, kvarter 4–7", "ort": "Kiruna", "typ": "Gator och VA", "ar": "2025", "text": "Ledningar, gator och uppvärmda gångstråk runt det nya stadshuset.", "tagg": "stad"},
+    {"namn": "Verkstadsplan Svappavaara", "ort": "Svappavaara", "typ": "Industriplan", "ar": "2025", "text": "Tre hektar plan med gråberg som bärlager, klar på elva veckor.", "tagg": "industri"},
+    {"namn": "Radhusen i Tuollavaara", "ort": "Kiruna", "typ": "Grundläggning", "ar": "2024", "text": "Frostisolerade grunder för 22 radhus på tidigare skogsmark.", "tagg": "bostad"},
+    {"namn": "Malmbergets omläggning", "ort": "Gällivare", "typ": "Väg", "ar": "2024", "text": "Två kilometer väg flyttad när gruvområdet utvidgades.", "tagg": "infra"},
+    {"namn": "Snöupplag Kiruna östra", "ort": "Kiruna", "typ": "Snöupplag", "ar": "2025", "text": "Upplag för 180 000 kubikmeter snö med dike och sedimentering för smältvattnet.", "tagg": "anlaggning"},
+    {"namn": "F–6-skolan i Gällivare", "ort": "Gällivare", "typ": "Skolgård och ledningar", "ar": "2026", "text": "Ledningar och skolgård till en ny skola, klar till skolstarten i augusti.", "tagg": "mark"}
+  ],
+  "process": [
+    {"titel": "Tjälbesiktning", "text": "Vi borrar eller provgräver för att se var berget och tjälen ligger innan vi räknar.", "tagg": "mark"},
+    {"titel": "Vinterplan", "text": "Offerten visar vad som görs före och efter frosten, och vad det kostar att gräva i tjäle.", "tagg": "kontor"},
+    {"titel": "Schakt med täckning", "text": "Öppna schakter täcks med isolermattor varje kväll så att botten inte fryser.", "tagg": "anlaggning"},
+    {"titel": "Kontroll och foto", "text": "Isolering, värmekabel och ledningar fotograferas och mäts in innan vi fyller igen.", "tagg": "mark"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mindre tomgång i polarnatten",
+    "text": "En dieselmotor som står på tomgång för att hålla hytten varm släpper ut i onödan. Sedan 2021 har alla våra maskiner dieselvärmare och batteridriven hyttvärme, och tomgångstiden har nästan halverats. Krossat gråberg från gruvorna ersätter nytt berg där det är godkänt.",
+    "mal": [["−48 %", "tomgång jämfört med 2021"], ["31 000 ton", "gråberg återanvänt 2025"], ["100 %", "av maskinerna med motorvärmare"]]
+  },
+  "karriar": {
+    "rubrik": "Där vintern är arbetsmiljö, inte uppehåll",
+    "text": "Hos oss gäller åretruntanställning, inte säsong. Vi betalar kallgradstillägg under 25 minusgrader och har vinterkläder från topp till tå för alla.",
+    "jobb": [["Maskinförare grävmaskin", "Kiruna"], ["Rörläggare VA", "Kiruna"], ["Arbetsledare mark", "Gällivare"]]
+  },
+  "kultur": "Varje fredag i december bjuder vi på renskav och tunnbröd i verkstaden, när polarnatten är som mörkast.",
+  "citat": {"text": "Folk tror att man inte kan gräva här på vintern. Det kan man – men man måste planera för det redan i augusti.", "namn": "Aino Kangas", "roll": "Vd och medgrundare", "tagg": "people"},
+  "omdomen": [
+    {"text": "Gatorna runt vårt kvarter byggdes mitt i vintern och var klara när butikerna öppnade. Inte en dag försenat.", "namn": "Henrik P.", "ort": "Kiruna"},
+    {"text": "Vattnet frös i servisen en januarinatt. De tinade den och grävde om ledningen djupare samma vecka.", "namn": "Marja L.", "ort": "Tuollavaara"},
+    {"text": "Planen i Svappavaara stod klar efter elva veckor, trots att vi inte kom igång förrän i september.", "namn": "Stefan K.", "ort": "Svappavaara"}
+  ],
+  "faq": [
+    ["Går det att schakta mitt i vintern?", "Ja. Vi tinar tjälen med tältvärme eller bryter den med tjälrivare och täcker öppna schakter varje kväll. Det kostar mer per kubikmeter, men projektet behöver inte vänta till juni."],
+    ["Hur mycket dyrare är vinterschakt?", "Räkna med 20–40 procent högre kostnad för själva schakten mellan december och mars, beroende på tjäldjup. Vintertillägget står som en egen post i offerten."],
+    ["Hur djupt ska vattenledningen ligga i Kiruna?", "Riktvärdet för servisledningar är 2,5–3 meter. Där det inte går lägger vi isolerade ledningar med värmekabel."],
+    ["Tar ni villajobb också?", "Ja, grunder och servisledningar i Kiruna och Gällivare. Mindre jobb gör vi helst mellan juni och september."],
+    ["Har ni gruvans behörigheter?", "Alla förare har gått säkerhetsintroduktionen för gruvindustrins områden, och maskinerna har de varningsljus och signaler som krävs."],
+    ["Vilka orter täcker ni?", "Kiruna och Gällivare kommun, med Svappavaara och Vittangi. Till Pajala och Jokkmokk åker vi för större uppdrag."]
+  ],
+  "certifikat": [
+    {"titel": "Kvalitet och miljö enligt ISO", "text": "Ledningssystem certifierat enligt ISO 9001 och 14001 sedan 2017.", "ikon": "skold"},
+    {"titel": "Säkerhetsintroduktion gruva", "text": "Gruvindustrins säkerhetsutbildning för alla anställda, förnyad vartannat år.", "ikon": "hjalm"},
+    {"titel": "Trafikverkets vägarbetskurs", "text": "Arbetsledare och förare utbildade för arbete längs E10 och kommunala gator.", "ikon": "vag"},
+    {"titel": "Medlem i ME Norrbotten", "text": "Medlemmar i Maskinentreprenörerna och arbetar enligt AB 04 och ABT 06.", "ikon": "kugge"}
+  ],
+  "kunder": ["Kiruna kommun, samhällsomvandlingen", "Malmfältens Stadsbyggnad", "Gällivare kommun, VA-enheten", "Svappavaara Verkstadsservice", "Brf Luossabacken", "Norrbottens Fjällfastigheter", "Tuolla Radhusförening"],
+  "nyheter": [
+    ["2026-10-21", "Vinterberedskapen är igång", "Från 1 november har vi två förare i beredskap för frusna servisledningar varje natt.", "maskin"],
+    ["2026-06-09", "Fyra kvarter klara i nya centrum", "Gatorna runt stadshuset lämnades över till kommunen en vecka före tidsplanen.", "stad"],
+    ["2025-12-15", "Så skyddar du servisen mot tjälen", "Lars-Erik Pirttimaa förklarar varför snön på tomten är din bästa isolering.", "vvs"]
+  ],
+  "kontakt": {"adress": "Malmvägen 14", "postnr": "981 38", "ort": "Kiruna", "telefon": "070-174 06 14", "epost": "pris@tjalgransen.se", "orgnr": ""},
+  "oppettider": "Kontoret vardagar 7–15.30. Vinterberedskap dygnet runt nov–apr",
+  "omrade": "Kiruna, Gällivare, Svappavaara och Vittangi",
+  "fot_cta": "Ska ni bygga i Malmfälten? Ring före augusti, så hinner vi planera för vintern.",
+  "bild": {"panel": "maskin", "hb": "natur"},
+  "text": {
+    "hero_knapp": "Så bygger vi i kylan",
+    "kontakt_knapp": "Begär pris",
+    "ber_etikett": "Från Malmfälten",
+    "ber_rubrik": "Säsongen som aldrig tar slut",
+    "proj_rubrik": "Kvarter, planer och grunder i norr",
+    "process_rubrik": "Planerat för frost från dag ett",
+    "hb_etikett": "Kyla och klimat",
+    "omdomen_rubrik": "Beställare ovanför polcirkeln",
+    "faq_rubrik": "Frågor om att bygga i tjäle",
+    "logos_rubrik": "Beställare i Kiruna och Gällivare",
+    "certifikat_rubrik": "Behörigheter för stad och gruva",
+    "bolag_rubrik": "Två orter, fyra lag",
+    "boka_rubrik": "Vad ska byggas – och när?",
+    "boka_text": "Berätta var och vad ni ska bygga, och om arbetet måste ske vintertid. Vi återkommer med en plan och ett pris.",
+    "boka_falt": ["Namn", "Telefon", "Ort och fastighet", "Arbete och önskad tid"],
+    "siffror_etikett": "Tjälgränsen i kylan"
+  }
+}
