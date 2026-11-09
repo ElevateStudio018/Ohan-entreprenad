@@ -73,13 +73,13 @@
   "band2": "#9d86d9"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "piller-rund",
+  "knapp": 999,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -93,18 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
+  "vagval": "chips",
   "bolag": "flikar",
   "siffror": "band",
   "nyheter": "lista",
   "omdomen": "rad",
-  "hb": "tre",
+  "hb": "g-diagonal",
   "faq": "standard",
-  "process": "kort",
-  "projekt": "tabell",
-  "panel": "jobb",
-  "priser": "lista",
-  "boka": "standard"
+  "process": "h-pilar",
+  "projekt": "karusell",
+  "panel": "helbild",
+  "priser": "i-biljett",
+  "boka": "n-fotokort"
  },
  "ordning_lista": [
   "hb",
@@ -158,13 +158,13 @@
   "katt",
   "hundtraning"
  ],
- "herotext": "mitten",
- "rubrikstil": "nummer",
+ "herotext": "kort",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "poppins",
-  "hero": "helskarm",
-  "herotext": "mitten",
-  "rubrik": "nummer",
-  "form": "latt"
+  "hero": "statement",
+  "herotext": "kort",
+  "rubrik": "versal",
+  "form": "piller-rund"
  }
 }

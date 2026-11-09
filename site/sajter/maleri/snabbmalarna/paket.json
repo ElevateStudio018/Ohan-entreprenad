@@ -5,25 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "23ed2afb",
  "typsnitt": {
-  "id": "spacemono",
-  "kategori": "mono",
-  "rubrik": "Space Mono",
-  "text": "Space Grotesk",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.03em",
-  "versaler": false,
-  "skala": 1.0,
-  "rubrik_fallback": "ui-monospace, monospace",
+  "id": "anton",
+  "kategori": "smal",
+  "rubrik": "Anton",
+  "text": "Roboto",
+  "rubrik_vikt": 400,
+  "spatiering": "0",
+  "versaler": true,
+  "skala": 0.9,
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
-  "logo_vikt": 800,
-  "logo_versaler": false,
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
+  "logo_versaler": true,
   "logo_spatiering": "0.02em",
   "nav_versaler": false,
-  "knapp_versaler": false,
+  "knapp_versaler": true,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;0,700;1,400",
-  "kursiv": true
+  "rubrik_spec": "wght@400",
+  "kursiv": false
  },
  "palett": "nisch-330",
  "farger": {
@@ -73,13 +73,13 @@
   "band2": "#ff8f6b"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,19 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rullband",
-  "bolag": "mosaik",
+  "vagval": "chips",
+  "bolag": "zigzag",
   "siffror": "rad",
   "nyheter": "lista",
   "omdomen": "stor",
-  "panel": "jobb",
-  "priser": "lista",
-  "process": "standard",
-  "certifikat": "standard",
-  "berattelser": "lista",
+  "panel": "kort",
+  "priser": "i-biljett",
+  "process": "h-pilar",
+  "certifikat": "k-brickor",
+  "berattelser": "tre",
   "projekt": "feature",
-  "snabb": "band",
-  "cta": "band"
+  "snabb": "h-flyt",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "vagval",
@@ -158,12 +158,12 @@
   "people"
  ],
  "herotext": "hoger",
- "rubrikstil": "standard",
+ "rubrikstil": "mitt",
  "v7": {
-  "typ": "spacemono",
-  "hero": "mosaik",
+  "typ": "anton",
+  "hero": "helskarm",
   "herotext": "hoger",
-  "rubrik": "standard",
-  "form": "latt"
+  "rubrik": "mitt",
+  "form": "mjuk"
  }
 }

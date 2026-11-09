@@ -5,25 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "2abe4be3",
  "typsnitt": {
-  "id": "young-serif",
-  "kategori": "serif",
-  "rubrik": "Young Serif",
-  "text": "Inter",
-  "rubrik_vikt": 400,
-  "spatiering": "-0.02em",
+  "id": "albert",
+  "kategori": "grotesk",
+  "rubrik": "Albert Sans",
+  "text": "Albert Sans",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.025em",
   "versaler": false,
   "skala": 1.06,
-  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 400,
-  "logo_vikt": 400,
+  "siffra_vikt": 700,
+  "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-90",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#bfe666"
  },
  "form": {
-  "namn": "piller-rund",
+  "namn": "piller-kantig",
   "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "vagg",
+  "vagval": "chips",
+  "bolag": "karusell",
   "siffror": "band",
-  "nyheter": "tidning",
+  "nyheter": "f-rullband",
   "omdomen": "stor",
-  "citat": "stor",
-  "panel": "kort",
-  "projekt": "feature",
-  "priser": "lista",
-  "process": "kort",
-  "logos": "band",
-  "certifikat": "standard"
+  "citat": "h-markor",
+  "panel": "helbild",
+  "projekt": "karusell",
+  "priser": "i-biljett",
+  "process": "standard",
+  "logos": "k-kundkort",
+  "certifikat": "k-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -154,13 +154,13 @@
   "industri",
   "people"
  ],
- "herotext": "jatte",
- "rubrikstil": "versal",
+ "herotext": "nere",
+ "rubrikstil": "pill",
  "v7": {
-  "typ": "young-serif",
-  "hero": "helskarm",
-  "herotext": "jatte",
-  "rubrik": "versal",
-  "form": "piller-rund"
+  "typ": "albert",
+  "hero": "band",
+  "herotext": "nere",
+  "rubrik": "pill",
+  "form": "piller-kantig"
  }
 }

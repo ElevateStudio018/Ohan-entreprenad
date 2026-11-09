@@ -76,7 +76,7 @@
   "bild": 4,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -92,16 +92,17 @@
  "block": {
   "vagval": "cirklar",
   "bolag": "kort",
-  "siffror": "bild",
+  "siffror": "m-karusell",
   "nyheter": "lista",
-  "omdomen": "stor",
+  "omdomen": "n-bento",
   "priser": "standard",
-  "galleri": "rad",
-  "berattelser": "kolumner",
-  "citat": "bild",
-  "projekt": "karusell",
-  "hb": "siffror",
-  "boka": "centrerad"
+  "galleri": "n-karusell",
+  "berattelser": "overlap",
+  "citat": "l-overlap",
+  "projekt": "mosaik",
+  "hb": "m-bento",
+  "boka": "n-fotokort",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "priser",
@@ -111,6 +112,7 @@
   "projekt",
   "siffror",
   "omdomen",
+  "cta",
   "vagval",
   "hb",
   "boka"
@@ -155,13 +157,13 @@
   "detalj",
   "fest"
  ],
- "herotext": "versal",
- "rubrikstil": "stor",
+ "herotext": "linje",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "bodoni",
-  "hero": "centrerad",
-  "herotext": "versal",
-  "rubrik": "stor",
+  "hero": "statement",
+  "herotext": "linje",
+  "rubrik": "versal",
   "form": "latt"
  }
 }

@@ -70,13 +70,13 @@
   "band2": "#8d70d2"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
+  "namn": "piller-kantig",
+  "knapp": 999,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "split",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,14 +90,14 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "rutor",
   "bolag": "lista",
-  "siffror": "band",
-  "nyheter": "lista",
-  "omdomen": "stor",
-  "certifikat": "rad",
-  "process": "kort",
-  "projekt": "tabell"
+  "siffror": "vertikal",
+  "nyheter": "f-block",
+  "omdomen": "rad",
+  "certifikat": "k-brickor",
+  "process": "standard",
+  "projekt": "karusell"
  },
  "ordning_lista": [
   "vagval",
@@ -144,13 +144,13 @@
   "people",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "understruken",
+ "herotext": "kort",
+ "rubrikstil": "linje",
  "v7": {
   "typ": "unbounded",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "understruken",
-  "form": "kantig"
+  "hero": "band",
+  "herotext": "kort",
+  "rubrik": "linje",
+  "form": "piller-kantig"
  }
 }

@@ -5,25 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "2d666f88",
  "typsnitt": {
-  "id": "nunito",
-  "kategori": "rund",
-  "rubrik": "Nunito",
-  "text": "Nunito",
-  "rubrik_vikt": 800,
+  "id": "outfit",
+  "kategori": "geometrisk",
+  "rubrik": "Outfit",
+  "text": "DM Sans",
+  "rubrik_vikt": 600,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 800,
+  "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,600;0,700;0,800;1,700",
-  "kursiv": true
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-210",
  "farger": {
@@ -79,7 +79,7 @@
   "bild": 4,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,19 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
-  "bolag": "rund",
-  "siffror": "kort",
+  "vagval": "kort",
+  "bolag": "vagg",
+  "siffror": "vertikal",
   "nyheter": "lista",
   "omdomen": "stor",
-  "certifikat": "rad",
-  "projekt": "lista",
-  "panel": "kultur",
-  "hb": "kort",
-  "citat": "stor",
-  "logos": "band",
-  "process": "kort",
-  "cta": "band"
+  "certifikat": "k-bildsplit",
+  "projekt": "mosaik",
+  "panel": "m-bento",
+  "hb": "m-overlap",
+  "citat": "l-overlap",
+  "logos": "k-kundkort",
+  "process": "standard",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -157,13 +157,13 @@
   "natur",
   "people"
  ],
- "herotext": "linje",
- "rubrikstil": "mitt",
+ "herotext": "stack",
+ "rubrikstil": "kant",
  "v7": {
-  "typ": "nunito",
-  "hero": "statement",
-  "herotext": "linje",
-  "rubrik": "mitt",
+  "typ": "outfit",
+  "hero": "centrerad",
+  "herotext": "stack",
+  "rubrik": "kant",
   "form": "latt"
  }
 }

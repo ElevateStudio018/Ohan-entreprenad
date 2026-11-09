@@ -73,13 +73,13 @@
   "band2": "#f4a6b8"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "piller-rund",
+  "knapp": 999,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -94,16 +94,17 @@
  "motiv": "inget",
  "block": {
   "vagval": "chips",
-  "bolag": "tabell",
-  "siffror": "jatte",
+  "bolag": "kort",
+  "siffror": "vertikal",
   "nyheter": "tidning",
-  "omdomen": "rad",
-  "hb": "band",
-  "faq": "tva",
-  "galleri": "standard",
-  "priser": "tabell",
-  "projekt": "tabell",
-  "boka": "standard"
+  "omdomen": "n-bento",
+  "hb": "tre",
+  "faq": "l-bildkort",
+  "galleri": "rutnat",
+  "priser": "i-flikar",
+  "projekt": "mosaik",
+  "boka": "standard",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "hb",
@@ -114,6 +115,7 @@
   "priser",
   "bolag",
   "projekt",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,
@@ -155,13 +157,13 @@
   "detalj",
   "fest"
  ],
- "herotext": "band",
- "rubrikstil": "understruken",
+ "herotext": "uppe",
+ "rubrikstil": "nummer",
  "v7": {
   "typ": "lora",
-  "hero": "mosaik",
-  "herotext": "band",
-  "rubrik": "understruken",
-  "form": "rundad"
+  "hero": "centrerad",
+  "herotext": "uppe",
+  "rubrik": "nummer",
+  "form": "piller-rund"
  }
 }

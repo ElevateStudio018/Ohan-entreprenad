@@ -5,25 +5,25 @@
  "arketyp": "ramad",
  "fro": "cd14e393",
  "typsnitt": {
-  "id": "spacegrotesk",
-  "kategori": "grotesk",
-  "rubrik": "Space Grotesk",
-  "text": "Inter",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.03em",
+  "id": "figtree",
+  "kategori": "geometrisk",
+  "rubrik": "Figtree",
+  "text": "Figtree",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.025em",
   "versaler": false,
   "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400;500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-330",
  "farger": {
@@ -76,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "namnlista",
+  "vagval": "kort",
+  "bolag": "mosaik",
   "siffror": "band",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "projekt": "karusell",
-  "berattelser": "band",
-  "hb": "helbild",
-  "citat": "sida",
-  "boka": "centrerad",
-  "cta": "bild"
+  "projekt": "mosaik",
+  "berattelser": "f-trappa",
+  "hb": "m-overlap",
+  "citat": "h-markor",
+  "boka": "standard",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -148,13 +148,13 @@
   "tak",
   "people"
  ],
- "herotext": "stack",
- "rubrikstil": "nummer",
+ "herotext": "delad",
+ "rubrikstil": "standard",
  "v7": {
-  "typ": "spacegrotesk",
-  "hero": "mosaik",
-  "herotext": "stack",
-  "rubrik": "nummer",
+  "typ": "figtree",
+  "hero": "helskarm",
+  "herotext": "delad",
+  "rubrik": "standard",
   "form": "kantig"
  }
 }

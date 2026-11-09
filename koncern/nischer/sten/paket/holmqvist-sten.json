@@ -79,7 +79,7 @@
   "bild": 4,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,17 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
+  "vagval": "kort",
   "bolag": "kort",
   "siffror": "jatte",
-  "nyheter": "minimal",
+  "nyheter": "f-block",
   "omdomen": "kort",
-  "citat": "stor",
-  "hb": "tre",
-  "berattelser": "stor",
-  "projekt": "zigzag",
+  "citat": "h-markor",
+  "hb": "m-bildkort",
+  "berattelser": "f-paneler",
+  "projekt": "f-ar",
   "boka": "standard",
-  "cta": "band"
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -151,13 +151,13 @@
   "natur",
   "people"
  ],
- "herotext": "kursiv",
- "rubrikstil": "kant",
+ "herotext": "kort",
+ "rubrikstil": "nummer",
  "v7": {
   "typ": "albert",
-  "hero": "statement",
-  "herotext": "kursiv",
-  "rubrik": "kant",
+  "hero": "centrerad",
+  "herotext": "kort",
+  "rubrik": "nummer",
   "form": "latt"
  }
 }

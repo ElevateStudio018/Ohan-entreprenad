@@ -5,12 +5,12 @@
  "arketyp": "redaktionell",
  "fro": "e980d600",
  "typsnitt": {
-  "id": "urbanist",
-  "kategori": "geometrisk",
-  "rubrik": "Urbanist",
-  "text": "Urbanist",
+  "id": "sourcesans",
+  "kategori": "humanistisk",
+  "rubrik": "Source Sans 3",
+  "text": "Source Sans 3",
   "rubrik_vikt": 700,
-  "spatiering": "-0.02em",
+  "spatiering": "-0.01em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -70,10 +70,10 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
  "hero": "statement",
@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rullband",
-  "bolag": "kort",
+  "vagval": "bildrutor",
+  "bolag": "rund",
   "siffror": "band",
   "nyheter": "lista",
   "omdomen": "kort",
-  "hb": "siffror",
-  "certifikat": "rad",
-  "process": "linje",
-  "projekt": "stor",
-  "priser": "tabell",
-  "snabb": "band"
+  "hb": "m-bento",
+  "certifikat": "k-brickor",
+  "process": "standard",
+  "projekt": "mosaik",
+  "priser": "lista",
+  "snabb": "h-flyt",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -109,6 +110,7 @@
   "bolag",
   "process",
   "projekt",
+  "cta",
   "priser",
   "snabb"
  ],
@@ -147,13 +149,13 @@
   "natur",
   "people"
  ],
- "herotext": "mitten",
- "rubrikstil": "stor",
+ "herotext": "linje",
+ "rubrikstil": "nummer",
  "v7": {
-  "typ": "urbanist",
+  "typ": "sourcesans",
   "hero": "statement",
-  "herotext": "mitten",
-  "rubrik": "stor",
-  "form": "mjuk"
+  "herotext": "linje",
+  "rubrik": "nummer",
+  "form": "rundad"
  }
 }

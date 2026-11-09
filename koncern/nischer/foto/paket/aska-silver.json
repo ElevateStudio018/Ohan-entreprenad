@@ -90,19 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
-  "bolag": "lista",
-  "siffror": "bild",
-  "nyheter": "lista",
-  "omdomen": "rad",
-  "priser": "lista",
-  "projekt": "karusell",
-  "citat": "standard",
-  "faq": "tva",
-  "galleri": "standard",
-  "panel": "delad",
-  "boka": "centrerad",
-  "cta": "band"
+  "vagval": "rader",
+  "bolag": "vagg",
+  "siffror": "e-split",
+  "nyheter": "kort",
+  "omdomen": "h-flik",
+  "priser": "i-biljett",
+  "projekt": "f-ar",
+  "citat": "h-kort",
+  "faq": "standard",
+  "galleri": "n-karusell",
+  "panel": "kort",
+  "boka": "standard",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "priser",
@@ -161,13 +161,13 @@
   "detalj",
   "fest"
  ],
- "herotext": "mitten",
- "rubrikstil": "stor",
+ "herotext": "delad",
+ "rubrikstil": "kant",
  "v7": {
   "typ": "jost",
   "hero": "helskarm",
-  "herotext": "mitten",
-  "rubrik": "stor",
+  "herotext": "delad",
+  "rubrik": "kant",
   "form": "mjuk"
  }
 }

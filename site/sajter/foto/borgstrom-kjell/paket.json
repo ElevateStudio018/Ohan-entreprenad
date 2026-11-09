@@ -70,13 +70,13 @@
   "band2": "#b27eed"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "split",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -92,17 +92,17 @@
  "block": {
   "vagval": "cirklar",
   "bolag": "rund",
-  "siffror": "dashboard",
-  "nyheter": "sida",
-  "omdomen": "stor",
-  "galleri": "rad",
-  "citat": "bild",
+  "siffror": "m-bento",
+  "nyheter": "lista",
+  "omdomen": "n-bildkort",
+  "galleri": "n-bento",
+  "citat": "h-markor",
   "berattelser": "zigzag",
-  "priser": "tabell",
-  "projekt": "feature",
-  "process": "linje",
-  "hb": "split",
-  "snabb": "band"
+  "priser": "lista",
+  "projekt": "f-rulle",
+  "process": "standard",
+  "hb": "m-bildkort",
+  "snabb": "h-flyt"
  },
  "ordning_lista": [
   "omdomen",
@@ -157,13 +157,13 @@
   "detalj",
   "fest"
  ],
- "herotext": "standard",
- "rubrikstil": "standard",
+ "herotext": "linje",
+ "rubrikstil": "mitt",
  "v7": {
   "typ": "figtree",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "standard",
-  "form": "piller-kantig"
+  "hero": "mosaik",
+  "herotext": "linje",
+  "rubrik": "mitt",
+  "form": "kantig"
  }
 }

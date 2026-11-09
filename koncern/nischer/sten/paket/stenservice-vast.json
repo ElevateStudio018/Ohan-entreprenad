@@ -70,13 +70,13 @@
   "band2": "#63b3e3"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,20 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
+  "vagval": "rutor",
   "bolag": "flikar",
-  "siffror": "band",
+  "siffror": "vertikal",
   "nyheter": "lista",
   "omdomen": "stor",
-  "process": "standard",
-  "projekt": "mosaik",
-  "faq": "standard",
-  "logos": "standard",
-  "citat": "standard",
-  "certifikat": "standard",
-  "hb": "siffror",
-  "snabb": "band",
-  "cta": "bild"
+  "process": "n-bildkort",
+  "projekt": "f-remsor",
+  "faq": "l-bento",
+  "logos": "k-bento",
+  "citat": "h-kort",
+  "certifikat": "k-bento",
+  "hb": "m-overlap",
+  "snabb": "h-flyt",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -156,13 +156,13 @@
   "natur",
   "people"
  ],
- "herotext": "nere",
- "rubrikstil": "understruken",
+ "herotext": "linje",
+ "rubrikstil": "linje",
  "v7": {
   "typ": "chivo",
-  "hero": "mosaik",
-  "herotext": "nere",
-  "rubrik": "understruken",
-  "form": "piller-rund"
+  "hero": "statement",
+  "herotext": "linje",
+  "rubrik": "linje",
+  "form": "latt"
  }
 }

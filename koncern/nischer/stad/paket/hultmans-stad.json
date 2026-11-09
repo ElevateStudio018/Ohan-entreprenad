@@ -5,12 +5,12 @@
  "arketyp": "ramad",
  "fro": "774d65e0",
  "typsnitt": {
-  "id": "manrope",
-  "kategori": "geometrisk",
-  "rubrik": "Manrope",
-  "text": "Inter",
+  "id": "sourcesans",
+  "kategori": "humanistisk",
+  "rubrik": "Source Sans 3",
+  "text": "Source Sans 3",
   "rubrik_vikt": 700,
-  "spatiering": "-0.03em",
+  "spatiering": "-0.01em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -22,8 +22,8 @@
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@500;600;700;800",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-150",
  "farger": {
@@ -73,10 +73,10 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "piller-rund",
+  "knapp": 999,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
  "hero": "statement",
@@ -93,17 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "zigzag",
+  "vagval": "rader",
+  "bolag": "vagg",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "betyg",
-  "berattelser": "kolumner",
-  "faq": "centrerad",
-  "hb": "citat",
+  "omdomen": "n-bento",
+  "berattelser": "f-trappa",
+  "faq": "l-bildkort",
+  "hb": "m-overlap",
   "panel": "jobb",
-  "projekt": "zigzag",
-  "boka": "standard"
+  "projekt": "f-remsor",
+  "boka": "n-fotokort"
  },
  "ordning_lista": [
   "berattelser",
@@ -154,13 +154,13 @@
   "interior",
   "people"
  ],
- "herotext": "jatte",
- "rubrikstil": "pill",
+ "herotext": "kort",
+ "rubrikstil": "stor",
  "v7": {
-  "typ": "manrope",
+  "typ": "sourcesans",
   "hero": "statement",
-  "herotext": "jatte",
-  "rubrik": "pill",
-  "form": "latt"
+  "herotext": "kort",
+  "rubrik": "stor",
+  "form": "piller-rund"
  }
 }

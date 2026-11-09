@@ -5,15 +5,15 @@
  "arketyp": "teknisk",
  "fro": "ca50654a",
  "typsnitt": {
-  "id": "zilla",
-  "kategori": "slab",
-  "rubrik": "Zilla Slab",
-  "text": "Source Sans 3",
+  "id": "lexend",
+  "kategori": "geometrisk",
+  "rubrik": "Lexend",
+  "text": "Lexend",
   "rubrik_vikt": 600,
-  "spatiering": "-0.01em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.06,
-  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
@@ -22,8 +22,8 @@
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
-  "kursiv": true
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-180",
  "farger": {
@@ -70,10 +70,10 @@
   "band2": "#e48584"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
  "hero": "mosaik",
@@ -90,19 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
+  "vagval": "chips",
   "bolag": "kort",
-  "siffror": "cirklar",
+  "siffror": "m-bildkort",
   "nyheter": "lista",
-  "omdomen": "betyg",
-  "projekt": "mosaik",
-  "hb": "helbild",
-  "priser": "lista",
-  "faq": "tva",
-  "certifikat": "standard",
-  "berattelser": "rad",
+  "omdomen": "rad",
+  "projekt": "karusell",
+  "hb": "m-overlap",
+  "priser": "standard",
+  "faq": "l-bento",
+  "certifikat": "k-bildsplit",
+  "berattelser": "tre",
   "boka": "centrerad",
-  "cta": "delad"
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -155,13 +155,13 @@
   "hem",
   "people"
  ],
- "herotext": "linje",
- "rubrikstil": "stor",
+ "herotext": "hoger",
+ "rubrikstil": "kant",
  "v7": {
-  "typ": "zilla",
+  "typ": "lexend",
   "hero": "mosaik",
-  "herotext": "linje",
-  "rubrik": "stor",
-  "form": "piller-rund"
+  "herotext": "hoger",
+  "rubrik": "kant",
+  "form": "rundad"
  }
 }

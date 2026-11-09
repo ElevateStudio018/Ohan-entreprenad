@@ -5,12 +5,12 @@
  "arketyp": "redaktionell",
  "fro": "898d0c8d",
  "typsnitt": {
-  "id": "cormorant",
+  "id": "lora",
   "kategori": "serif",
-  "rubrik": "Cormorant Garamond",
-  "text": "Montserrat",
+  "rubrik": "Lora",
+  "text": "Nunito Sans",
   "rubrik_vikt": 500,
-  "spatiering": "-0.01em",
+  "spatiering": "-0.015em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "Georgia, 'Times New Roman', serif",
@@ -70,10 +70,10 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
  "hero": "helskarm",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "rutor",
   "bolag": "flikar",
   "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "betyg",
-  "process": "standard",
+  "omdomen": "n-bildkort",
+  "process": "n-karusell",
   "faq": "standard",
-  "logos": "standard",
-  "projekt": "zigzag",
-  "berattelser": "tre",
-  "snabb": "rutor",
-  "cta": "bild"
+  "logos": "k-bento",
+  "projekt": "feature",
+  "berattelser": "f-paneler",
+  "snabb": "h-bento",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -149,13 +149,13 @@
   "natur",
   "people"
  ],
- "herotext": "uppe",
- "rubrikstil": "kant",
+ "herotext": "stack",
+ "rubrikstil": "stor",
  "v7": {
-  "typ": "cormorant",
+  "typ": "lora",
   "hero": "helskarm",
-  "herotext": "uppe",
-  "rubrik": "kant",
-  "form": "latt"
+  "herotext": "stack",
+  "rubrik": "stor",
+  "form": "mjuk"
  }
 }

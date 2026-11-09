@@ -5,25 +5,25 @@
  "arketyp": "ramad",
  "fro": "63b3a5dd",
  "typsnitt": {
-  "id": "fraunces",
-  "kategori": "serif",
-  "rubrik": "Fraunces",
+  "id": "syne",
+  "kategori": "display",
+  "rubrik": "Syne",
   "text": "Inter",
-  "rubrik_vikt": 500,
+  "rubrik_vikt": 700,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.06,
-  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 500,
-  "logo_vikt": 500,
+  "siffra_vikt": 700,
+  "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
-  "kursiv": true
+  "rubrik_spec": "wght@500;600;700;800",
+  "kursiv": false
  },
  "palett": "nisch-90",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#eb7dd1"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "split",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "lista",
-  "siffror": "cirklar",
+  "vagval": "cirklar",
+  "bolag": "j-fack",
+  "siffror": "vertikal",
   "nyheter": "tidning",
   "omdomen": "kort",
-  "projekt": "karusell",
-  "citat": "bild",
-  "certifikat": "standard",
-  "faq": "centrerad",
-  "boka": "standard",
-  "cta": "bild"
+  "projekt": "feature",
+  "citat": "l-bildkort",
+  "certifikat": "k-brickor",
+  "faq": "l-bildkort",
+  "boka": "n-fotokort",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -150,13 +150,13 @@
   "industri",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "stor",
+ "herotext": "uppe",
+ "rubrikstil": "kant",
  "v7": {
-  "typ": "fraunces",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "stor",
-  "form": "latt"
+  "typ": "syne",
+  "hero": "statement",
+  "herotext": "uppe",
+  "rubrik": "kant",
+  "form": "mjuk"
  }
 }

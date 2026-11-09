@@ -70,13 +70,13 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "band",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "flikar",
+  "vagval": "e-lameller",
+  "bolag": "zigzag",
   "siffror": "band",
   "nyheter": "lista",
   "omdomen": "rad",
-  "process": "standard",
-  "certifikat": "standard",
-  "hb": "citat",
-  "berattelser": "kolumner",
-  "projekt": "karusell",
-  "boka": "standard",
-  "cta": "delad"
+  "process": "kort",
+  "certifikat": "k-bildsplit",
+  "hb": "g-diagonal",
+  "berattelser": "overlap",
+  "projekt": "f-rulle",
+  "boka": "n-bento",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -151,13 +151,13 @@
   "natur",
   "people"
  ],
- "herotext": "band",
- "rubrikstil": "versal",
+ "herotext": "kort",
+ "rubrikstil": "mitt",
  "v7": {
   "typ": "bebas",
-  "hero": "band",
-  "herotext": "band",
-  "rubrik": "versal",
-  "form": "mjuk"
+  "hero": "statement",
+  "herotext": "kort",
+  "rubrik": "mitt",
+  "form": "latt"
  }
 }

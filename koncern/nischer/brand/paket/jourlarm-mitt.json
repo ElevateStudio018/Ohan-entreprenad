@@ -5,10 +5,10 @@
  "arketyp": "skandinavisk",
  "fro": "2835d897",
  "typsnitt": {
-  "id": "urbanist",
-  "kategori": "geometrisk",
-  "rubrik": "Urbanist",
-  "text": "Urbanist",
+  "id": "librefranklin",
+  "kategori": "humanistisk",
+  "rubrik": "Libre Franklin",
+  "text": "Libre Franklin",
   "rubrik_vikt": 700,
   "spatiering": "-0.02em",
   "versaler": false,
@@ -70,13 +70,13 @@
   "band2": "#f4a6b8"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "vagg",
+  "vagval": "bildrutor",
+  "bolag": "j-fack",
   "siffror": "rad",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "certifikat": "standard",
-  "citat": "stor",
-  "logos": "standard",
-  "projekt": "karusell",
-  "boka": "centrerad"
+  "certifikat": "k-brickor",
+  "citat": "l-overlap",
+  "logos": "k-karusell",
+  "projekt": "feature",
+  "boka": "standard"
  },
  "ordning_lista": [
   "vagval",
@@ -146,13 +146,13 @@
   "people",
   "people"
  ],
- "herotext": "versal",
- "rubrikstil": "mitt",
+ "herotext": "kort",
+ "rubrikstil": "versal",
  "v7": {
-  "typ": "urbanist",
-  "hero": "centrerad",
-  "herotext": "versal",
-  "rubrik": "mitt",
-  "form": "piller-kantig"
+  "typ": "librefranklin",
+  "hero": "mosaik",
+  "herotext": "kort",
+  "rubrik": "versal",
+  "form": "kantig"
  }
 }

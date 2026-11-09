@@ -5,12 +5,12 @@
  "arketyp": "redaktionell",
  "fro": "6c43047f",
  "typsnitt": {
-  "id": "intertight",
+  "id": "plexsans",
   "kategori": "grotesk",
-  "rubrik": "Inter Tight",
-  "text": "Inter",
+  "rubrik": "IBM Plex Sans",
+  "text": "IBM Plex Sans",
   "rubrik_vikt": 600,
-  "spatiering": "-0.035em",
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
-  "bolag": "lista",
-  "siffror": "rad",
-  "nyheter": "minimal",
+  "vagval": "e-lameller",
+  "bolag": "karusell",
+  "siffror": "m-overlap",
+  "nyheter": "kort",
   "omdomen": "stor",
-  "panel": "panel",
-  "tidslinje": "horisontell",
-  "projekt": "karusell",
-  "ir": "tabell",
-  "berattelser": "tre",
-  "snabb": "band"
+  "panel": "m-bento",
+  "tidslinje": "l-epoker",
+  "projekt": "mosaik",
+  "ir": "l-rapporter",
+  "berattelser": "f-paneler",
+  "snabb": "h-bento",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -112,6 +113,7 @@
   "projekt",
   "ir",
   "berattelser",
+  "cta",
   "snabb"
  ],
  "panel_omvand": false,
@@ -149,13 +151,13 @@
  "profil": "mega",
  "min_avstand": 10.38,
  "hero_tagg": "infra",
- "herotext": "kursiv",
- "rubrikstil": "kant",
+ "herotext": "uppe",
+ "rubrikstil": "mitt",
  "v7": {
-  "typ": "intertight",
+  "typ": "plexsans",
   "hero": "statement",
-  "herotext": "kursiv",
-  "rubrik": "kant",
+  "herotext": "uppe",
+  "rubrik": "mitt",
   "form": "latt"
  }
 }

@@ -5,25 +5,25 @@
  "arketyp": "ramad",
  "fro": "77d87f5e",
  "typsnitt": {
-  "id": "garamond",
-  "kategori": "serif",
-  "rubrik": "EB Garamond",
-  "text": "Work Sans",
-  "rubrik_vikt": 500,
-  "spatiering": "-0.015em",
+  "id": "archivoblack",
+  "kategori": "tung",
+  "rubrik": "Archivo Black",
+  "text": "Archivo",
+  "rubrik_vikt": 400,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 500,
-  "logo_vikt": 500,
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
-  "kursiv": true
+  "rubrik_spec": "wght@400",
+  "kursiv": false
  },
  "palett": "nisch-240",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#d9b080"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rullband",
-  "bolag": "kort",
-  "siffror": "jatte",
-  "nyheter": "rad",
+  "vagval": "rutor",
+  "bolag": "vagg",
+  "siffror": "m-bildkort",
+  "nyheter": "lista",
   "omdomen": "kort",
-  "hb": "tre",
-  "panel": "kultur",
-  "process": "standard",
-  "certifikat": "standard",
-  "projekt": "mosaik",
+  "hb": "m-bildkort",
+  "panel": "m-overlap",
+  "process": "n-bildkort",
+  "certifikat": "k-bento",
+  "projekt": "f-rulle",
   "snabb": "rutor"
  },
  "ordning_lista": [
@@ -153,13 +153,13 @@
   "people",
   "people"
  ],
- "herotext": "stack",
- "rubrikstil": "mitt",
+ "herotext": "nere",
+ "rubrikstil": "kant",
  "v7": {
-  "typ": "garamond",
-  "hero": "statement",
-  "herotext": "stack",
-  "rubrik": "mitt",
-  "form": "mjuk"
+  "typ": "archivoblack",
+  "hero": "centrerad",
+  "herotext": "nere",
+  "rubrik": "kant",
+  "form": "latt"
  }
 }

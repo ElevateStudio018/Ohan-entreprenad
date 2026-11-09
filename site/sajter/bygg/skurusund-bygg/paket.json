@@ -70,13 +70,13 @@
   "band2": "#ff8f6b"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,16 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "flikar",
+  "vagval": "rutor",
+  "bolag": "e-forskjuten",
   "siffror": "jatte",
-  "nyheter": "sida",
-  "omdomen": "rad",
-  "process": "kort",
-  "projekt": "feature",
-  "faq": "centrerad",
-  "citat": "stor",
-  "cta": "band"
+  "nyheter": "f-block",
+  "omdomen": "n-bildkort",
+  "process": "n-karusell",
+  "projekt": "f-ar",
+  "faq": "standard",
+  "citat": "l-overlap",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -146,12 +146,12 @@
  "min_avstand": 11.3,
  "hero_tagg": "vvs",
  "herotext": "linje",
- "rubrikstil": "kant",
+ "rubrikstil": "understruken",
  "v7": {
   "typ": "outfit",
-  "hero": "mosaik",
+  "hero": "centrerad",
   "herotext": "linje",
-  "rubrik": "kant",
-  "form": "kantig"
+  "rubrik": "understruken",
+  "form": "mjuk"
  }
 }

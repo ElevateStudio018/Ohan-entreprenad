@@ -73,13 +73,13 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,17 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
+  "vagval": "bildrutor",
   "bolag": "lista",
-  "siffror": "bild",
-  "nyheter": "minimal",
-  "omdomen": "kort",
-  "faq": "centrerad",
-  "process": "vertikal",
-  "berattelser": "kolumner",
-  "hb": "tre",
-  "projekt": "karusell",
-  "boka": "centrerad"
+  "siffror": "m-bento",
+  "nyheter": "lista",
+  "omdomen": "h-trappa",
+  "faq": "standard",
+  "process": "h-pilar",
+  "berattelser": "overlap",
+  "hb": "g-bento",
+  "projekt": "feature",
+  "boka": "standard",
+  "cta": "delad"
  },
  "ordning_lista": [
   "omdomen",
@@ -113,6 +114,7 @@
   "siffror",
   "berattelser",
   "nyheter",
+  "cta",
   "hb",
   "projekt",
   "boka"
@@ -156,13 +158,13 @@
   "interior",
   "people"
  ],
- "herotext": "kontur",
- "rubrikstil": "pill",
+ "herotext": "uppe",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "bigshoulders",
-  "hero": "helskarm",
-  "herotext": "kontur",
-  "rubrik": "pill",
-  "form": "mjuk"
+  "hero": "statement",
+  "herotext": "uppe",
+  "rubrik": "versal",
+  "form": "kantig"
  }
 }

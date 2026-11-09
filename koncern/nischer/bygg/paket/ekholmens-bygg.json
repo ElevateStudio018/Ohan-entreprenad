@@ -73,10 +73,10 @@
   "band2": "#f2b84b"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
  "hero": "centrerad",
@@ -93,18 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "tabell",
+  "vagval": "bildrutor",
+  "bolag": "vagg",
   "siffror": "jatte",
-  "nyheter": "lista",
-  "omdomen": "rad",
-  "projekt": "tabell",
-  "panel": "jobb",
-  "faq": "centrerad",
-  "process": "vertikal",
-  "citat": "standard",
+  "nyheter": "sida",
+  "omdomen": "h-trappa",
+  "projekt": "feature",
+  "panel": "helbild",
+  "faq": "standard",
+  "process": "n-bildkort",
+  "citat": "h-kort",
   "hb": "tre",
-  "certifikat": "standard"
+  "certifikat": "k-bildsplit"
  },
  "ordning_lista": [
   "projekt",
@@ -155,13 +155,13 @@
  "profil": "bygg",
  "min_avstand": 10.66,
  "hero_tagg": "tra",
- "herotext": "uppe",
+ "herotext": "kort",
  "rubrikstil": "versal",
  "v7": {
   "typ": "baskerville",
   "hero": "centrerad",
-  "herotext": "uppe",
+  "herotext": "kort",
   "rubrik": "versal",
-  "form": "piller-rund"
+  "form": "rundad"
  }
 }

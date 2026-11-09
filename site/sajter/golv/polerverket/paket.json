@@ -5,25 +5,25 @@
  "arketyp": "teknisk",
  "fro": "c0071f01",
  "typsnitt": {
-  "id": "sourcesans",
-  "kategori": "humanistisk",
-  "rubrik": "Source Sans 3",
-  "text": "Source Sans 3",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.01em",
-  "versaler": false,
-  "skala": 0.94,
+  "id": "bebas",
+  "kategori": "smal",
+  "rubrik": "Bebas Neue",
+  "text": "Inter",
+  "rubrik_vikt": 400,
+  "spatiering": "0.01em",
+  "versaler": true,
+  "skala": 0.9,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
-  "logo_vikt": 800,
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
   "logo_versaler": true,
   "logo_spatiering": "-0.02em",
   "nav_versaler": false,
-  "knapp_versaler": false,
+  "knapp_versaler": true,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
-  "kursiv": true
+  "rubrik_spec": "wght@400",
+  "kursiv": false
  },
  "palett": "nisch-60",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#98d485"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "flikar",
-  "siffror": "rad",
-  "nyheter": "lista",
-  "omdomen": "stor",
-  "projekt": "lista",
-  "berattelser": "overlap",
-  "logos": "standard",
-  "panel": "panel",
-  "snabb": "band"
+  "vagval": "bildrutor",
+  "bolag": "j-fack",
+  "siffror": "m-bento",
+  "nyheter": "sida",
+  "omdomen": "h-flik",
+  "projekt": "karusell",
+  "berattelser": "f-paneler",
+  "logos": "k-kundkort",
+  "panel": "m-overlap",
+  "snabb": "h-bento",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "projekt",
@@ -110,6 +111,7 @@
   "logos",
   "bolag",
   "panel",
+  "cta",
   "nyheter",
   "snabb"
  ],
@@ -152,13 +154,13 @@
   "hem",
   "people"
  ],
- "herotext": "nere",
- "rubrikstil": "mitt",
+ "herotext": "stack",
+ "rubrikstil": "versal",
  "v7": {
-  "typ": "sourcesans",
-  "hero": "mosaik",
-  "herotext": "nere",
-  "rubrik": "mitt",
-  "form": "rundad"
+  "typ": "bebas",
+  "hero": "helskarm",
+  "herotext": "stack",
+  "rubrik": "versal",
+  "form": "latt"
  }
 }

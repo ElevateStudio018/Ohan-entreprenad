@@ -5,12 +5,12 @@
  "arketyp": "redaktionell",
  "fro": "85fbe507",
  "typsnitt": {
-  "id": "plexsans",
-  "kategori": "grotesk",
-  "rubrik": "IBM Plex Sans",
-  "text": "IBM Plex Sans",
+  "id": "lexend",
+  "kategori": "geometrisk",
+  "rubrik": "Lexend",
+  "text": "Lexend",
   "rubrik_vikt": 600,
-  "spatiering": "-0.02em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -22,8 +22,8 @@
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
-  "kursiv": true
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "mega-180",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#d9c2a5"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "split",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "typo",
-  "bolag": "karusell",
-  "siffror": "kort",
+  "vagval": "rutor",
+  "bolag": "rund",
+  "siffror": "vertikal",
   "nyheter": "lista",
   "omdomen": "kort",
-  "berattelser": "stor",
-  "hb": "split",
-  "tidslinje": "standard",
-  "kontor": "standard",
-  "process": "kort",
-  "ir": "kort",
+  "berattelser": "band",
+  "hb": "m-bento",
+  "tidslinje": "i-ordbild",
+  "kontor": "k-rulle",
+  "process": "n-karusell",
+  "ir": "g-kalender",
   "snabb": "rutor"
  },
  "ordning_lista": [
@@ -152,13 +152,13 @@
  "profil": "mega",
  "min_avstand": 10.35,
  "hero_tagg": "natur",
- "herotext": "standard",
- "rubrikstil": "nummer",
+ "herotext": "stack",
+ "rubrikstil": "linje",
  "v7": {
-  "typ": "plexsans",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "nummer",
-  "form": "mjuk"
+  "typ": "lexend",
+  "hero": "band",
+  "herotext": "stack",
+  "rubrik": "linje",
+  "form": "kantig"
  }
 }

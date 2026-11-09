@@ -73,13 +73,13 @@
   "band2": "#ff8f6b"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,16 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "cirklar",
   "bolag": "karusell",
-  "siffror": "kort",
+  "siffror": "m-bildkort",
   "nyheter": "lista",
   "omdomen": "kort",
-  "certifikat": "standard",
-  "hb": "helbild",
-  "projekt": "lista",
-  "panel": "kort",
-  "boka": "centrerad"
+  "certifikat": "k-brickor",
+  "hb": "m-bildkort",
+  "projekt": "mosaik",
+  "panel": "m-bildkort",
+  "boka": "standard",
+  "cta": "delad"
  },
  "ordning_lista": [
   "bolag",
@@ -111,6 +112,7 @@
   "hb",
   "projekt",
   "siffror",
+  "cta",
   "panel",
   "boka"
  ],
@@ -146,13 +148,13 @@
  "profil": "bygg",
  "min_avstand": 11.16,
  "hero_tagg": "kontor",
- "herotext": "linje",
- "rubrikstil": "understruken",
+ "herotext": "nere",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "chivo",
-  "hero": "mosaik",
-  "herotext": "linje",
-  "rubrik": "understruken",
-  "form": "piller-kantig"
+  "hero": "statement",
+  "herotext": "nere",
+  "rubrik": "stor",
+  "form": "piller-rund"
  }
 }

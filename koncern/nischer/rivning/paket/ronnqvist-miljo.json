@@ -5,25 +5,25 @@
  "arketyp": "ramad",
  "fro": "544ee815",
  "typsnitt": {
-  "id": "spacegrotesk",
-  "kategori": "grotesk",
-  "rubrik": "Space Grotesk",
-  "text": "Inter",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.03em",
+  "id": "mulish",
+  "kategori": "humanistisk",
+  "rubrik": "Mulish",
+  "text": "Mulish",
+  "rubrik_vikt": 800,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 800,
   "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400;500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,600;0,700;0,800;1,700",
+  "kursiv": true
  },
  "palett": "nisch-60",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#a6e3a1"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,15 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "chips",
   "bolag": "rund",
-  "siffror": "cirklar",
-  "nyheter": "rad",
-  "omdomen": "stor",
-  "projekt": "zigzag",
-  "faq": "tva",
-  "citat": "sida",
-  "snabb": "band"
+  "siffror": "m-bildkort",
+  "nyheter": "kort",
+  "omdomen": "n-bento",
+  "projekt": "mosaik",
+  "faq": "l-bento",
+  "citat": "h-markor",
+  "snabb": "h-flyt",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -107,6 +108,7 @@
   "omdomen",
   "faq",
   "citat",
+  "cta",
   "siffror",
   "snabb"
  ],
@@ -146,13 +148,13 @@
   "bygg",
   "people"
  ],
- "herotext": "hoger",
- "rubrikstil": "versal",
+ "herotext": "nere",
+ "rubrikstil": "standard",
  "v7": {
-  "typ": "spacegrotesk",
-  "hero": "statement",
-  "herotext": "hoger",
-  "rubrik": "versal",
-  "form": "rundad"
+  "typ": "mulish",
+  "hero": "mosaik",
+  "herotext": "nere",
+  "rubrik": "standard",
+  "form": "mjuk"
  }
 }

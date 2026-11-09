@@ -5,17 +5,17 @@
  "arketyp": "monument",
  "fro": "c9897fe3",
  "typsnitt": {
-  "id": "urbanist",
+  "id": "poppins",
   "kategori": "geometrisk",
-  "rubrik": "Urbanist",
-  "text": "Urbanist",
-  "rubrik_vikt": 700,
+  "rubrik": "Poppins",
+  "text": "Poppins",
+  "rubrik_vikt": 600,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
@@ -70,13 +70,13 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "band",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
+  "vagval": "kort",
   "bolag": "tabell",
   "siffror": "jatte",
-  "nyheter": "tidning",
+  "nyheter": "f-rullband",
   "omdomen": "stor",
-  "logos": "standard",
-  "berattelser": "lista",
-  "citat": "standard",
-  "panel": "kultur",
-  "projekt": "tabell"
+  "logos": "k-kundkort",
+  "berattelser": "f-paneler",
+  "citat": "l-bildkort",
+  "panel": "jobb",
+  "projekt": "f-remsor"
  },
  "ordning_lista": [
   "vagval",
@@ -146,13 +146,13 @@
   "bygg",
   "people"
  ],
- "herotext": "band",
- "rubrikstil": "stor",
+ "herotext": "hoger",
+ "rubrikstil": "pill",
  "v7": {
-  "typ": "urbanist",
-  "hero": "band",
-  "herotext": "band",
-  "rubrik": "stor",
-  "form": "kantig"
+  "typ": "poppins",
+  "hero": "centrerad",
+  "herotext": "hoger",
+  "rubrik": "pill",
+  "form": "latt"
  }
 }

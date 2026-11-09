@@ -5,10 +5,10 @@
  "arketyp": "koncernband",
  "fro": "e96825ca",
  "typsnitt": {
-  "id": "raleway",
+  "id": "urbanist",
   "kategori": "geometrisk",
-  "rubrik": "Raleway",
-  "text": "Raleway",
+  "rubrik": "Urbanist",
+  "text": "Urbanist",
   "rubrik_vikt": 700,
   "spatiering": "-0.02em",
   "versaler": false,
@@ -22,7 +22,7 @@
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
   "kursiv": true
  },
  "palett": "foto-150",
@@ -73,10 +73,10 @@
   "band2": "#7bb4d0"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
  "hero": "helskarm",
@@ -94,17 +94,18 @@
  "motiv": "inget",
  "block": {
   "vagval": "rutor",
-  "bolag": "flikar",
+  "bolag": "e-forskjuten",
   "siffror": "rad",
-  "nyheter": "minimal",
-  "omdomen": "kort",
-  "galleri": "rad",
-  "hb": "citat",
-  "priser": "standard",
-  "citat": "bild",
-  "projekt": "stor",
-  "panel": "delad",
-  "snabb": "band"
+  "nyheter": "f-block",
+  "omdomen": "rad",
+  "galleri": "rutnat",
+  "hb": "m-overlap",
+  "priser": "i-biljett",
+  "citat": "l-karusell",
+  "projekt": "f-rulle",
+  "panel": "kort",
+  "snabb": "h-flyt",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "galleri",
@@ -116,6 +117,7 @@
   "projekt",
   "omdomen",
   "panel",
+  "cta",
   "snabb"
  ],
  "panel_omvand": false,
@@ -158,13 +160,13 @@
   "detalj",
   "fest"
  ],
- "herotext": "band",
- "rubrikstil": "versal",
+ "herotext": "linje",
+ "rubrikstil": "linje",
  "v7": {
-  "typ": "raleway",
+  "typ": "urbanist",
   "hero": "helskarm",
-  "herotext": "band",
-  "rubrik": "versal",
-  "form": "mjuk"
+  "herotext": "linje",
+  "rubrik": "linje",
+  "form": "latt"
  }
 }

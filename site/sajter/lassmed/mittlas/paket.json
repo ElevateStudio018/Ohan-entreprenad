@@ -5,25 +5,25 @@
  "arketyp": "koncernband",
  "fro": "032b69a8",
  "typsnitt": {
-  "id": "raleway",
+  "id": "outfit",
   "kategori": "geometrisk",
-  "rubrik": "Raleway",
-  "text": "Raleway",
-  "rubrik_vikt": 700,
+  "rubrik": "Outfit",
+  "text": "DM Sans",
+  "rubrik_vikt": 600,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
-  "kursiv": true
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-330",
  "farger": {
@@ -93,18 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "vagg",
-  "siffror": "dashboard",
-  "nyheter": "rad",
+  "vagval": "e-panel",
+  "bolag": "zigzag",
+  "siffror": "bild",
+  "nyheter": "f-block",
   "omdomen": "stor",
   "faq": "standard",
-  "projekt": "feature",
-  "certifikat": "rad",
-  "citat": "standard",
-  "hb": "band",
-  "snabb": "rutor",
-  "cta": "bild"
+  "projekt": "mosaik",
+  "certifikat": "k-bildsplit",
+  "citat": "l-karusell",
+  "hb": "m-bildkort",
+  "snabb": "h-bento",
+  "cta": "delad"
  },
  "ordning_lista": [
   "nyheter",
@@ -158,13 +158,13 @@
   "hem",
   "people"
  ],
- "herotext": "versal",
- "rubrikstil": "pill",
+ "herotext": "delad",
+ "rubrikstil": "understruken",
  "v7": {
-  "typ": "raleway",
+  "typ": "outfit",
   "hero": "helskarm",
-  "herotext": "versal",
-  "rubrik": "pill",
+  "herotext": "delad",
+  "rubrik": "understruken",
   "form": "rundad"
  }
 }

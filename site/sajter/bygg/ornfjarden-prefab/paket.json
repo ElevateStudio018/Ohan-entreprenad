@@ -79,7 +79,7 @@
   "bild": 20,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,20 +93,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "namnlista",
+  "vagval": "cirklar",
+  "bolag": "karusell",
   "siffror": "dashboard",
-  "nyheter": "rad",
+  "nyheter": "f-rullband",
   "omdomen": "stor",
-  "faq": "standard",
-  "projekt": "stor",
-  "panel": "kultur",
-  "berattelser": "tre",
-  "citat": "sida",
-  "process": "vertikal",
-  "hb": "split",
-  "boka": "centrerad",
-  "cta": "delad"
+  "faq": "l-bildkort",
+  "projekt": "karusell",
+  "panel": "m-bildkort",
+  "berattelser": "f-trappa",
+  "citat": "h-markor",
+  "process": "h-pilar",
+  "hb": "m-overlap",
+  "boka": "n-fotokort",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "faq",
@@ -158,13 +158,13 @@
  "profil": "bygg",
  "min_avstand": 10.4,
  "hero_tagg": "bostad",
- "herotext": "nere",
- "rubrikstil": "standard",
+ "herotext": "hoger",
+ "rubrikstil": "mitt",
  "v7": {
   "typ": "manrope",
-  "hero": "statement",
-  "herotext": "nere",
-  "rubrik": "standard",
+  "hero": "mosaik",
+  "herotext": "hoger",
+  "rubrik": "mitt",
   "form": "mjuk"
  }
 }

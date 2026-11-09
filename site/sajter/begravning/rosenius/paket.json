@@ -70,13 +70,13 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,19 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
-  "bolag": "namnlista",
-  "siffror": "cirklar",
+  "vagval": "e-lameller",
+  "bolag": "zigzag",
+  "siffror": "m-bento",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "hb": "kort",
-  "citat": "stor",
-  "faq": "tva",
-  "certifikat": "standard",
-  "projekt": "lista",
-  "panel": "jobb",
-  "berattelser": "lista",
-  "snabb": "band"
+  "hb": "g-bento",
+  "citat": "l-bildkort",
+  "faq": "l-bento",
+  "certifikat": "k-bildsplit",
+  "projekt": "f-remsor",
+  "panel": "kort",
+  "berattelser": "band",
+  "snabb": "h-flyt",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "hb",
@@ -115,6 +116,7 @@
   "projekt",
   "panel",
   "berattelser",
+  "cta",
   "snabb"
  ],
  "panel_omvand": false,
@@ -155,13 +157,13 @@
   "natur",
   "people"
  ],
- "herotext": "delad",
- "rubrikstil": "linje",
+ "herotext": "nere",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "publicsans",
-  "hero": "centrerad",
-  "herotext": "delad",
-  "rubrik": "linje",
-  "form": "rundad"
+  "hero": "mosaik",
+  "herotext": "nere",
+  "rubrik": "stor",
+  "form": "mjuk"
  }
 }

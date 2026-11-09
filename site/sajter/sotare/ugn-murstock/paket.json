@@ -5,24 +5,24 @@
  "arketyp": "ramad",
  "fro": "d29714d6",
  "typsnitt": {
-  "id": "bebas",
-  "kategori": "smal",
-  "rubrik": "Bebas Neue",
+  "id": "syne",
+  "kategori": "display",
+  "rubrik": "Syne",
   "text": "Inter",
-  "rubrik_vikt": 400,
-  "spatiering": "0.01em",
-  "versaler": true,
-  "skala": 0.9,
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
+  "versaler": false,
+  "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 400,
-  "logo_vikt": 400,
-  "logo_versaler": true,
-  "logo_spatiering": "-0.02em",
-  "nav_versaler": false,
-  "knapp_versaler": true,
+  "siffra_vikt": 700,
+  "logo_vikt": 800,
+  "logo_versaler": false,
+  "logo_spatiering": "0.08em",
+  "nav_versaler": true,
+  "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400",
+  "rubrik_spec": "wght@500;600;700;800",
   "kursiv": false
  },
  "palett": "nisch-30",
@@ -70,13 +70,13 @@
   "band2": "#c8e07a"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "band",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -92,13 +92,14 @@
  "block": {
   "vagval": "cirklar",
   "bolag": "kort",
-  "siffror": "bild",
-  "nyheter": "lista",
-  "omdomen": "betyg",
-  "faq": "standard",
-  "projekt": "mosaik",
-  "citat": "sida",
-  "berattelser": "zigzag"
+  "siffror": "m-overlap",
+  "nyheter": "f-rullband",
+  "omdomen": "n-bento",
+  "faq": "l-bento",
+  "projekt": "karusell",
+  "citat": "l-bildkort",
+  "berattelser": "f-paneler",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "faq",
@@ -108,6 +109,7 @@
   "omdomen",
   "citat",
   "berattelser",
+  "cta",
   "nyheter"
  ],
  "panel_omvand": false,
@@ -147,13 +149,13 @@
   "tak",
   "people"
  ],
- "herotext": "band",
- "rubrikstil": "pill",
+ "herotext": "nere",
+ "rubrikstil": "linje",
  "v7": {
-  "typ": "bebas",
-  "hero": "band",
-  "herotext": "band",
-  "rubrik": "pill",
-  "form": "latt"
+  "typ": "syne",
+  "hero": "centrerad",
+  "herotext": "nere",
+  "rubrik": "linje",
+  "form": "rundad"
  }
 }

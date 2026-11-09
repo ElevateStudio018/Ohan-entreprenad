@@ -79,7 +79,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,19 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
-  "bolag": "lista",
+  "vagval": "kort",
+  "bolag": "kort",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "rad",
-  "process": "linje",
-  "hb": "band",
-  "panel": "helbild",
-  "priser": "tabell",
-  "faq": "tva",
-  "projekt": "feature",
+  "omdomen": "h-flik",
+  "process": "standard",
+  "hb": "g-diagonal",
+  "panel": "m-bento",
+  "priser": "standard",
+  "faq": "l-bento",
+  "projekt": "mosaik",
   "boka": "centrerad",
-  "cta": "delad"
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "process",
@@ -161,13 +161,13 @@
   "infra",
   "people"
  ],
- "herotext": "mitten",
- "rubrikstil": "understruken",
+ "herotext": "nere",
+ "rubrikstil": "linje",
  "v7": {
   "typ": "jost",
-  "hero": "mosaik",
-  "herotext": "mitten",
-  "rubrik": "understruken",
+  "hero": "statement",
+  "herotext": "nere",
+  "rubrik": "linje",
   "form": "piller-kantig"
  }
 }

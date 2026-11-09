@@ -5,12 +5,12 @@
  "arketyp": "ramad",
  "fro": "65b8e641",
  "typsnitt": {
-  "id": "bebas",
+  "id": "anton",
   "kategori": "smal",
-  "rubrik": "Bebas Neue",
-  "text": "Inter",
+  "rubrik": "Anton",
+  "text": "Roboto",
   "rubrik_vikt": 400,
-  "spatiering": "0.01em",
+  "spatiering": "0",
   "versaler": true,
   "skala": 0.9,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -70,13 +70,13 @@
   "band2": "#e08384"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
-  "bolag": "tabell",
+  "vagval": "bildrutor",
+  "bolag": "karusell",
   "siffror": "band",
   "nyheter": "lista",
   "omdomen": "kort",
-  "faq": "standard",
-  "projekt": "mosaik",
-  "logos": "band",
-  "process": "standard",
-  "boka": "centrerad"
+  "faq": "l-bildkort",
+  "projekt": "f-bento",
+  "logos": "k-bento",
+  "process": "n-bildkort",
+  "boka": "standard",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "faq",
@@ -108,6 +109,7 @@
   "bolag",
   "logos",
   "process",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,
@@ -146,13 +148,13 @@
   "people",
   "people"
  ],
- "herotext": "uppe",
- "rubrikstil": "versal",
+ "herotext": "nere",
+ "rubrikstil": "standard",
  "v7": {
-  "typ": "bebas",
-  "hero": "mosaik",
-  "herotext": "uppe",
-  "rubrik": "versal",
-  "form": "mjuk"
+  "typ": "anton",
+  "hero": "centrerad",
+  "herotext": "nere",
+  "rubrik": "standard",
+  "form": "rundad"
  }
 }

@@ -70,10 +70,10 @@
   "band2": "#dba28e"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
  "hero": "helskarm",
@@ -90,15 +90,15 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
-  "bolag": "karusell",
-  "siffror": "bild",
-  "nyheter": "tidning",
+  "vagval": "cirklar",
+  "bolag": "kort",
+  "siffror": "m-karusell",
+  "nyheter": "f-block",
   "omdomen": "stor",
-  "process": "linje",
-  "logos": "standard",
-  "projekt": "karusell",
-  "cta": "delad"
+  "process": "standard",
+  "logos": "k-bento",
+  "projekt": "feature",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "process",
@@ -146,13 +146,13 @@
   "people",
   "people"
  ],
- "herotext": "jatte",
- "rubrikstil": "linje",
+ "herotext": "linje",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "robotoslab",
   "hero": "helskarm",
-  "herotext": "jatte",
-  "rubrik": "linje",
-  "form": "kantig"
+  "herotext": "linje",
+  "rubrik": "stor",
+  "form": "mjuk"
  }
 }

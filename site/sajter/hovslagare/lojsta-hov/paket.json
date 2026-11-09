@@ -5,25 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "710da336",
  "typsnitt": {
-  "id": "redhat",
-  "kategori": "geometrisk",
-  "rubrik": "Red Hat Display",
-  "text": "Red Hat Text",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.02em",
+  "id": "unbounded",
+  "kategori": "display",
+  "rubrik": "Unbounded",
+  "text": "Inter",
+  "rubrik_vikt": 600,
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.02em",
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
-  "kursiv": true
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-120",
  "farger": {
@@ -79,7 +79,7 @@
   "bild": 10,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -93,17 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "kort",
+  "vagval": "e-snapp",
   "bolag": "lista",
   "siffror": "dashboard",
-  "nyheter": "tidning",
-  "omdomen": "rad",
-  "panel": "helbild",
-  "certifikat": "rad",
-  "projekt": "feature",
-  "berattelser": "tre",
-  "snabb": "band",
-  "cta": "delad"
+  "nyheter": "f-block",
+  "omdomen": "h-flik",
+  "panel": "m-bildkort",
+  "certifikat": "k-bildsplit",
+  "projekt": "f-rulle",
+  "berattelser": "stor",
+  "snabb": "h-flyt",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -151,13 +151,13 @@
   "natur",
   "people"
  ],
- "herotext": "band",
- "rubrikstil": "stor",
+ "herotext": "linje",
+ "rubrikstil": "mitt",
  "v7": {
-  "typ": "redhat",
-  "hero": "helskarm",
-  "herotext": "band",
-  "rubrik": "stor",
+  "typ": "unbounded",
+  "hero": "centrerad",
+  "herotext": "linje",
+  "rubrik": "mitt",
   "form": "piller-rund"
  }
 }

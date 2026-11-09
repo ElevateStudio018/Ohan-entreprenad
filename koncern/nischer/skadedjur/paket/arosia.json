@@ -5,24 +5,24 @@
  "arketyp": "varm-bostad",
  "fro": "a9509a38",
  "typsnitt": {
-  "id": "epilogue",
-  "kategori": "grotesk",
-  "rubrik": "Epilogue",
-  "text": "Epilogue",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.03em",
+  "id": "spectral",
+  "kategori": "serif",
+  "rubrik": "Spectral",
+  "text": "Karla",
+  "rubrik_vikt": 500,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.06,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
-  "logo_vikt": 800,
+  "siffra_vikt": 500,
+  "logo_vikt": 500,
   "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400",
   "kursiv": true
  },
  "palett": "nisch-60",
@@ -70,13 +70,13 @@
   "band2": "#f2b84b"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "band",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "namnlista",
-  "siffror": "rad",
+  "vagval": "kort",
+  "bolag": "mosaik",
+  "siffror": "m-bildkort",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "citat": "standard",
-  "logos": "band",
-  "projekt": "mosaik",
-  "boka": "centrerad",
-  "cta": "band"
+  "citat": "h-markor",
+  "logos": "k-bento",
+  "projekt": "f-remsor",
+  "boka": "n-bento",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "citat",
@@ -147,13 +147,13 @@
   "industri",
   "people"
  ],
- "herotext": "nere",
+ "herotext": "delad",
  "rubrikstil": "nummer",
  "v7": {
-  "typ": "epilogue",
-  "hero": "band",
-  "herotext": "nere",
+  "typ": "spectral",
+  "hero": "mosaik",
+  "herotext": "delad",
   "rubrik": "nummer",
-  "form": "piller-kantig"
+  "form": "rundad"
  }
 }

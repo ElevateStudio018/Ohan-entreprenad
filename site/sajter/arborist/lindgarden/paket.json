@@ -5,25 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "aa2b0e42",
  "typsnitt": {
-  "id": "lora",
+  "id": "young-serif",
   "kategori": "serif",
-  "rubrik": "Lora",
-  "text": "Nunito Sans",
-  "rubrik_vikt": 500,
-  "spatiering": "-0.015em",
+  "rubrik": "Young Serif",
+  "text": "Inter",
+  "rubrik_vikt": 400,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 500,
-  "logo_vikt": 500,
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
   "logo_versaler": false,
   "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
-  "kursiv": true
+  "rubrik_spec": "wght@400",
+  "kursiv": false
  },
  "palett": "arborist-60",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#9e6ce5"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,19 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
+  "vagval": "rutor",
   "bolag": "lista",
   "siffror": "band",
   "nyheter": "lista",
   "omdomen": "stor",
-  "priser": "standard",
-  "projekt": "karusell",
-  "hb": "kort",
-  "citat": "stor",
-  "certifikat": "standard",
-  "galleri": "standard",
-  "faq": "standard",
-  "snabb": "rutor"
+  "priser": "tabell",
+  "projekt": "f-bento",
+  "hb": "m-overlap",
+  "citat": "h-markor",
+  "certifikat": "k-bildsplit",
+  "galleri": "n-bento",
+  "faq": "l-bento",
+  "snabb": "h-flyt",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "vagval",
@@ -111,6 +112,7 @@
   "hb",
   "citat",
   "certifikat",
+  "cta",
   "galleri",
   "faq",
   "snabb"
@@ -154,13 +156,13 @@
   "ved",
   "tradgard"
  ],
- "herotext": "kort",
- "rubrikstil": "pill",
+ "herotext": "nere",
+ "rubrikstil": "understruken",
  "v7": {
-  "typ": "lora",
-  "hero": "mosaik",
-  "herotext": "kort",
-  "rubrik": "pill",
-  "form": "rundad"
+  "typ": "young-serif",
+  "hero": "helskarm",
+  "herotext": "nere",
+  "rubrik": "understruken",
+  "form": "mjuk"
  }
 }

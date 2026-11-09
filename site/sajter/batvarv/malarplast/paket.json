@@ -5,12 +5,12 @@
  "arketyp": "skandinavisk",
  "fro": "fe3ad03d",
  "typsnitt": {
-  "id": "redhat",
-  "kategori": "geometrisk",
-  "rubrik": "Red Hat Display",
-  "text": "Red Hat Text",
+  "id": "epilogue",
+  "kategori": "grotesk",
+  "rubrik": "Epilogue",
+  "text": "Epilogue",
   "rubrik_vikt": 700,
-  "spatiering": "-0.02em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -70,13 +70,13 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "piller-rund",
+  "knapp": 999,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "mosaik",
+  "vagval": "e-snapp",
+  "bolag": "e-kolumner",
   "siffror": "jatte",
   "nyheter": "kort",
   "omdomen": "kort",
-  "panel": "panel",
-  "projekt": "zigzag",
-  "citat": "sida",
-  "logos": "standard",
-  "snabb": "rutor",
-  "cta": "bild"
+  "panel": "m-overlap",
+  "projekt": "f-bento",
+  "citat": "l-overlap",
+  "logos": "k-kundkort",
+  "snabb": "h-flyt",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -148,13 +148,13 @@
   "natur",
   "people"
  ],
- "herotext": "kursiv",
- "rubrikstil": "kant",
+ "herotext": "uppe",
+ "rubrikstil": "stor",
  "v7": {
-  "typ": "redhat",
-  "hero": "statement",
-  "herotext": "kursiv",
-  "rubrik": "kant",
-  "form": "kantig"
+  "typ": "epilogue",
+  "hero": "helskarm",
+  "herotext": "uppe",
+  "rubrik": "stor",
+  "form": "piller-rund"
  }
 }

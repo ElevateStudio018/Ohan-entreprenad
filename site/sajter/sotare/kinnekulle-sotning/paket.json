@@ -70,13 +70,13 @@
   "band2": "#ffd27a"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "split",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "bildrutor",
   "bolag": "rund",
-  "siffror": "jatte",
+  "siffror": "m-karusell",
   "nyheter": "lista",
-  "omdomen": "betyg",
-  "certifikat": "standard",
-  "priser": "tabell",
-  "projekt": "zigzag",
-  "citat": "stor",
-  "process": "vertikal",
-  "cta": "delad"
+  "omdomen": "h-trappa",
+  "certifikat": "k-bildsplit",
+  "priser": "i-biljett",
+  "projekt": "mosaik",
+  "citat": "h-kort",
+  "process": "kort",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "certifikat",
@@ -150,13 +150,13 @@
   "tak",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "standard",
+ "herotext": "linje",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "anton",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "standard",
-  "form": "piller-kantig"
+  "hero": "statement",
+  "herotext": "linje",
+  "rubrik": "versal",
+  "form": "kantig"
  }
 }

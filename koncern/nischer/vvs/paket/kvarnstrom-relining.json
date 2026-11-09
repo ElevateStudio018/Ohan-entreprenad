@@ -5,25 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "8f344096",
  "typsnitt": {
-  "id": "bebas",
-  "kategori": "smal",
-  "rubrik": "Bebas Neue",
-  "text": "Inter",
-  "rubrik_vikt": 400,
-  "spatiering": "0.01em",
-  "versaler": true,
-  "skala": 0.9,
+  "id": "jost",
+  "kategori": "geometrisk",
+  "rubrik": "Jost",
+  "text": "Jost",
+  "rubrik_vikt": 500,
+  "spatiering": "-0.02em",
+  "versaler": false,
+  "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 400,
-  "logo_vikt": 400,
+  "siffra_vikt": 500,
+  "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.02em",
   "nav_versaler": false,
-  "knapp_versaler": true,
+  "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400",
+  "kursiv": true
  },
  "palett": "nisch-210",
  "farger": {
@@ -73,13 +73,13 @@
   "band2": "#f2b84b"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "split",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -93,18 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "rader",
   "bolag": "tabell",
   "siffror": "rad",
   "nyheter": "lista",
   "omdomen": "stor",
-  "certifikat": "rad",
-  "panel": "delad",
-  "priser": "standard",
-  "hb": "band",
-  "logos": "standard",
-  "projekt": "tabell",
-  "snabb": "band"
+  "certifikat": "k-bento",
+  "panel": "m-bento",
+  "priser": "i-huvudpaket",
+  "hb": "m-bildkort",
+  "logos": "k-karusell",
+  "projekt": "f-bento",
+  "snabb": "h-flyt",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -114,6 +115,7 @@
   "hb",
   "logos",
   "projekt",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,
@@ -153,13 +155,13 @@
   "hem",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "nummer",
+ "herotext": "kort",
+ "rubrikstil": "standard",
  "v7": {
-  "typ": "bebas",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "nummer",
-  "form": "latt"
+  "typ": "jost",
+  "hero": "centrerad",
+  "herotext": "kort",
+  "rubrik": "standard",
+  "form": "rundad"
  }
 }

@@ -70,13 +70,13 @@
   "band2": "#ffd27a"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
+  "namn": "piller-kantig",
+  "knapp": 999,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
+  "vagval": "chips",
   "bolag": "flikar",
-  "siffror": "band",
+  "siffror": "m-bento",
   "nyheter": "tidning",
-  "omdomen": "kort",
-  "faq": "centrerad",
-  "projekt": "mosaik",
-  "panel": "delad",
-  "process": "standard",
-  "hb": "helbild",
-  "berattelser": "rad",
-  "cta": "bild"
+  "omdomen": "h-trappa",
+  "faq": "l-bento",
+  "projekt": "f-remsor",
+  "panel": "jobb",
+  "process": "h-pilar",
+  "hb": "g-diagonal",
+  "berattelser": "overlap",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "faq",
@@ -153,13 +153,13 @@
   "interior",
   "people"
  ],
- "herotext": "versal",
- "rubrikstil": "standard",
+ "herotext": "uppe",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "lexend",
-  "hero": "mosaik",
-  "herotext": "versal",
-  "rubrik": "standard",
-  "form": "kantig"
+  "hero": "helskarm",
+  "herotext": "uppe",
+  "rubrik": "stor",
+  "form": "piller-kantig"
  }
 }

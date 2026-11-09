@@ -5,10 +5,10 @@
  "arketyp": "koncernband",
  "fro": "7bc630ec",
  "typsnitt": {
-  "id": "poppins",
+  "id": "rubik",
   "kategori": "geometrisk",
-  "rubrik": "Poppins",
-  "text": "Poppins",
+  "rubrik": "Rubik",
+  "text": "Rubik",
   "rubrik_vikt": 600,
   "spatiering": "-0.02em",
   "versaler": false,
@@ -73,10 +73,10 @@
   "band2": "#c8e07a"
  },
  "form": {
-  "namn": "piller-rund",
+  "namn": "piller-kantig",
   "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
  "hero": "statement",
@@ -93,16 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
+  "vagval": "chips",
   "bolag": "tabell",
-  "siffror": "cirklar",
+  "siffror": "m-bento",
   "nyheter": "tidning",
-  "omdomen": "betyg",
-  "logos": "standard",
-  "hb": "siffror",
-  "certifikat": "standard",
-  "projekt": "tabell",
-  "cta": "band"
+  "omdomen": "h-trappa",
+  "logos": "k-karusell",
+  "hb": "m-bildkort",
+  "certifikat": "k-brickor",
+  "projekt": "feature",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "logos",
@@ -150,13 +150,13 @@
   "people",
   "people"
  ],
- "herotext": "kontur",
- "rubrikstil": "linje",
+ "herotext": "uppe",
+ "rubrikstil": "versal",
  "v7": {
-  "typ": "poppins",
+  "typ": "rubik",
   "hero": "statement",
-  "herotext": "kontur",
-  "rubrik": "linje",
-  "form": "piller-rund"
+  "herotext": "uppe",
+  "rubrik": "versal",
+  "form": "piller-kantig"
  }
 }

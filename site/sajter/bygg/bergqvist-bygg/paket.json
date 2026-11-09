@@ -70,13 +70,13 @@
   "band2": "#eb9b7f"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
-  "bolag": "namnlista",
+  "vagval": "e-snapp",
+  "bolag": "e-kolumner",
   "siffror": "rad",
-  "nyheter": "tidning",
+  "nyheter": "kort",
   "omdomen": "kort",
-  "projekt": "stor",
-  "faq": "standard",
-  "hb": "band",
-  "process": "kort",
-  "citat": "stor",
-  "snabb": "rutor",
-  "cta": "bild"
+  "projekt": "f-bento",
+  "faq": "l-bento",
+  "hb": "m-overlap",
+  "process": "h-pilar",
+  "citat": "l-overlap",
+  "snabb": "h-bento",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "projekt",
@@ -149,13 +149,13 @@
  "profil": "bygg",
  "min_avstand": 10.72,
  "hero_tagg": "bostad",
- "herotext": "mitten",
- "rubrikstil": "pill",
+ "herotext": "uppe",
+ "rubrikstil": "linje",
  "v7": {
   "typ": "instrument-serif",
-  "hero": "statement",
-  "herotext": "mitten",
-  "rubrik": "pill",
-  "form": "kantig"
+  "hero": "band",
+  "herotext": "uppe",
+  "rubrik": "linje",
+  "form": "latt"
  }
 }

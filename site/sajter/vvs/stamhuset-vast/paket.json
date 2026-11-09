@@ -76,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "band",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "typo",
-  "bolag": "karusell",
+  "vagval": "kort",
+  "bolag": "kort",
   "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "rad",
-  "projekt": "karusell",
-  "process": "vertikal",
-  "faq": "centrerad",
-  "berattelser": "band",
-  "certifikat": "rad",
-  "boka": "standard"
+  "omdomen": "h-trappa",
+  "projekt": "f-ar",
+  "process": "standard",
+  "faq": "l-bildkort",
+  "berattelser": "f-trappa",
+  "certifikat": "k-brickor",
+  "boka": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -153,13 +153,13 @@
   "hem",
   "people"
  ],
- "herotext": "kontur",
- "rubrikstil": "versal",
+ "herotext": "kort",
+ "rubrikstil": "standard",
  "v7": {
   "typ": "newsreader",
-  "hero": "band",
-  "herotext": "kontur",
-  "rubrik": "versal",
+  "hero": "helskarm",
+  "herotext": "kort",
+  "rubrik": "standard",
   "form": "kantig"
  }
 }

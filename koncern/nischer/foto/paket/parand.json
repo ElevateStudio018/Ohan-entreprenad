@@ -5,25 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "af11409f",
  "typsnitt": {
-  "id": "quicksand",
-  "kategori": "rund",
-  "rubrik": "Quicksand",
-  "text": "Nunito Sans",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.01em",
+  "id": "jost",
+  "kategori": "geometrisk",
+  "rubrik": "Jost",
+  "text": "Jost",
+  "rubrik_vikt": 500,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 500,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400",
+  "kursiv": true
  },
  "palett": "foto-0",
  "farger": {
@@ -73,13 +73,13 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -94,20 +94,20 @@
  "motiv": "inget",
  "block": {
   "vagval": "rader",
-  "bolag": "namnlista",
-  "siffror": "jatte",
-  "nyheter": "sida",
-  "omdomen": "kort",
-  "projekt": "mosaik",
-  "panel": "helbild",
-  "hb": "band",
-  "berattelser": "overlap",
-  "priser": "standard",
+  "bolag": "zigzag",
+  "siffror": "vertikal",
+  "nyheter": "f-rullband",
+  "omdomen": "h-chatt",
+  "projekt": "karusell",
+  "panel": "m-overlap",
+  "hb": "m-overlap",
+  "berattelser": "zigzag",
+  "priser": "lista",
   "galleri": "rutnat",
-  "faq": "centrerad",
-  "citat": "standard",
-  "snabb": "band",
-  "cta": "band"
+  "faq": "l-bento",
+  "citat": "l-karusell",
+  "snabb": "h-flyt",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "projekt",
@@ -168,13 +168,13 @@
   "detalj",
   "fest"
  ],
- "herotext": "hoger",
- "rubrikstil": "versal",
+ "herotext": "kort",
+ "rubrikstil": "nummer",
  "v7": {
-  "typ": "quicksand",
-  "hero": "statement",
-  "herotext": "hoger",
-  "rubrik": "versal",
-  "form": "kantig"
+  "typ": "jost",
+  "hero": "centrerad",
+  "herotext": "kort",
+  "rubrik": "nummer",
+  "form": "rundad"
  }
 }

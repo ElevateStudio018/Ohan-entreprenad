@@ -76,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "e-panel",
   "bolag": "rund",
   "siffror": "vertikal",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "projekt": "tabell",
-  "berattelser": "tre",
-  "panel": "jobb",
-  "citat": "standard",
-  "snabb": "band"
+  "omdomen": "rad",
+  "projekt": "f-bento",
+  "berattelser": "band",
+  "panel": "m-bento",
+  "citat": "l-karusell",
+  "snabb": "rutor",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "vagval",
@@ -109,6 +110,7 @@
   "panel",
   "citat",
   "omdomen",
+  "cta",
   "siffror",
   "snabb"
  ],
@@ -151,12 +153,12 @@
   "people"
  ],
  "herotext": "nere",
- "rubrikstil": "understruken",
+ "rubrikstil": "pill",
  "v7": {
   "typ": "kanit",
-  "hero": "mosaik",
+  "hero": "statement",
   "herotext": "nere",
-  "rubrik": "understruken",
+  "rubrik": "pill",
   "form": "kantig"
  }
 }

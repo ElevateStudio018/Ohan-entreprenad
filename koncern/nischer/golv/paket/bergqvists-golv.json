@@ -70,10 +70,10 @@
   "band2": "#cdd071"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
  "hero": "band",
@@ -90,15 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
-  "bolag": "tabell",
-  "siffror": "band",
+  "vagval": "chips",
+  "bolag": "karusell",
+  "siffror": "m-overlap",
   "nyheter": "lista",
   "omdomen": "stor",
-  "projekt": "stor",
-  "logos": "band",
-  "faq": "centrerad",
-  "boka": "standard"
+  "projekt": "f-ar",
+  "logos": "k-karusell",
+  "faq": "l-bildkort",
+  "boka": "standard",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "siffror",
@@ -106,6 +107,7 @@
   "vagval",
   "logos",
   "faq",
+  "cta",
   "bolag",
   "boka"
  ],
@@ -145,13 +147,13 @@
   "hem",
   "people"
  ],
- "herotext": "delad",
- "rubrikstil": "understruken",
+ "herotext": "uppe",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "librefranklin",
   "hero": "band",
-  "herotext": "delad",
-  "rubrik": "understruken",
-  "form": "piller-kantig"
+  "herotext": "uppe",
+  "rubrik": "stor",
+  "form": "mjuk"
  }
 }

@@ -5,24 +5,24 @@
  "arketyp": "varm-bostad",
  "fro": "5e8beaa5",
  "typsnitt": {
-  "id": "nunito",
-  "kategori": "rund",
-  "rubrik": "Nunito",
-  "text": "Nunito",
-  "rubrik_vikt": 800,
+  "id": "librefranklin",
+  "kategori": "humanistisk",
+  "rubrik": "Libre Franklin",
+  "text": "Libre Franklin",
+  "rubrik_vikt": 700,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 800,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,600;0,700;0,800;1,700",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
   "kursiv": true
  },
  "palett": "nisch-120",
@@ -70,10 +70,10 @@
   "band2": "#ffd27a"
  },
  "form": {
-  "namn": "mjuk",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
  "hero": "statement",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "mosaik",
-  "siffror": "kort",
-  "nyheter": "minimal",
+  "vagval": "e-lameller",
+  "bolag": "e-kolumner",
+  "siffror": "m-karusell",
+  "nyheter": "lista",
   "omdomen": "kort",
-  "logos": "standard",
-  "priser": "tabell",
-  "hb": "helbild",
-  "process": "standard",
-  "projekt": "tabell",
-  "snabb": "band",
-  "cta": "delad"
+  "logos": "k-karusell",
+  "priser": "standard",
+  "hb": "m-bildkort",
+  "process": "n-bildkort",
+  "projekt": "f-rulle",
+  "snabb": "h-bento",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "bolag",
@@ -155,13 +155,13 @@
   "industri",
   "people"
  ],
- "herotext": "band",
- "rubrikstil": "kant",
+ "herotext": "delad",
+ "rubrikstil": "nummer",
  "v7": {
-  "typ": "nunito",
+  "typ": "librefranklin",
   "hero": "statement",
-  "herotext": "band",
-  "rubrik": "kant",
-  "form": "mjuk"
+  "herotext": "delad",
+  "rubrik": "nummer",
+  "form": "piller-rund"
  }
 }

@@ -73,13 +73,13 @@
   "band2": "#ffd27a"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,16 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
-  "bolag": "karusell",
+  "vagval": "cirklar",
+  "bolag": "e-forskjuten",
   "siffror": "rad",
-  "nyheter": "rad",
+  "nyheter": "f-block",
   "omdomen": "stor",
-  "projekt": "lista",
-  "logos": "band",
-  "faq": "centrerad",
-  "certifikat": "rad",
-  "cta": "band"
+  "projekt": "feature",
+  "logos": "k-bento",
+  "faq": "l-bildkort",
+  "certifikat": "k-brickor",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -150,13 +150,13 @@
   "stad",
   "people"
  ],
- "herotext": "uppe",
- "rubrikstil": "mitt",
+ "herotext": "nere",
+ "rubrikstil": "pill",
  "v7": {
   "typ": "anton",
-  "hero": "mosaik",
-  "herotext": "uppe",
-  "rubrik": "mitt",
-  "form": "mjuk"
+  "hero": "centrerad",
+  "herotext": "nere",
+  "rubrik": "pill",
+  "form": "rundad"
  }
 }

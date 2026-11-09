@@ -5,10 +5,10 @@
  "arketyp": "ramad",
  "fro": "301e05b4",
  "typsnitt": {
-  "id": "bricolage",
-  "kategori": "display",
-  "rubrik": "Bricolage Grotesque",
-  "text": "Inter",
+  "id": "epilogue",
+  "kategori": "grotesk",
+  "rubrik": "Epilogue",
+  "text": "Epilogue",
   "rubrik_vikt": 700,
   "spatiering": "-0.03em",
   "versaler": false,
@@ -22,8 +22,8 @@
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@500;600;700;800",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-150",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#f4a6b8"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "typo",
-  "bolag": "lista",
+  "vagval": "cirklar",
+  "bolag": "j-fack",
   "siffror": "band",
   "nyheter": "lista",
   "omdomen": "stor",
   "faq": "standard",
-  "projekt": "feature",
-  "panel": "kultur",
-  "certifikat": "rad",
-  "boka": "standard"
+  "projekt": "f-rulle",
+  "panel": "helbild",
+  "certifikat": "k-brickor",
+  "boka": "centrerad",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -108,6 +109,7 @@
   "projekt",
   "panel",
   "certifikat",
+  "cta",
   "boka"
  ],
  "panel_omvand": true,
@@ -146,13 +148,13 @@
   "interior",
   "people"
  ],
- "herotext": "nere",
- "rubrikstil": "linje",
+ "herotext": "delad",
+ "rubrikstil": "standard",
  "v7": {
-  "typ": "bricolage",
-  "hero": "helskarm",
-  "herotext": "nere",
-  "rubrik": "linje",
-  "form": "piller-rund"
+  "typ": "epilogue",
+  "hero": "band",
+  "herotext": "delad",
+  "rubrik": "standard",
+  "form": "kantig"
  }
 }

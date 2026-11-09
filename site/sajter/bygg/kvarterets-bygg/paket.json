@@ -70,13 +70,13 @@
   "band2": "#ffd27a"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "split",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -91,13 +91,13 @@
  "motiv": "inget",
  "block": {
   "vagval": "bildrutor",
-  "bolag": "mosaik",
-  "siffror": "bild",
-  "nyheter": "minimal",
+  "bolag": "karusell",
+  "siffror": "m-overlap",
+  "nyheter": "f-block",
   "omdomen": "kort",
-  "projekt": "zigzag",
-  "certifikat": "standard",
-  "berattelser": "tre",
+  "projekt": "mosaik",
+  "certifikat": "k-bento",
+  "berattelser": "zigzag",
   "boka": "centrerad"
  },
  "ordning_lista": [
@@ -142,13 +142,13 @@
  "profil": "bygg",
  "min_avstand": 11.18,
  "hero_tagg": "interior",
- "herotext": "standard",
- "rubrikstil": "standard",
+ "herotext": "delad",
+ "rubrikstil": "nummer",
  "v7": {
   "typ": "spacemono",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "standard",
-  "form": "kantig"
+  "hero": "helskarm",
+  "herotext": "delad",
+  "rubrik": "nummer",
+  "form": "rundad"
  }
 }

@@ -79,7 +79,7 @@
   "bild": 20,
   "hero": 0
  },
- "hero": "split",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,16 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "kakel",
+  "vagval": "kort",
   "bolag": "lista",
   "siffror": "jatte",
-  "nyheter": "kort",
-  "omdomen": "kort",
-  "berattelser": "lista",
-  "logos": "band",
-  "hb": "split",
-  "projekt": "zigzag",
-  "snabb": "rutor"
+  "nyheter": "sida",
+  "omdomen": "n-bildkort",
+  "berattelser": "zigzag",
+  "logos": "k-bento",
+  "hb": "m-bildkort",
+  "projekt": "f-bento",
+  "snabb": "h-bento",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "vagval",
@@ -111,6 +112,7 @@
   "logos",
   "nyheter",
   "hb",
+  "cta",
   "projekt",
   "snabb"
  ],
@@ -149,13 +151,13 @@
   "natur",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "kant",
+ "herotext": "kort",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "spectral",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "kant",
+  "hero": "helskarm",
+  "herotext": "kort",
+  "rubrik": "versal",
   "form": "mjuk"
  }
 }

@@ -70,10 +70,10 @@
   "band2": "#f4a6b8"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
  "hero": "statement",
@@ -90,15 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "flikar",
+  "vagval": "rutor",
+  "bolag": "e-forskjuten",
   "siffror": "jatte",
-  "nyheter": "kort",
-  "omdomen": "rad",
-  "berattelser": "rad",
-  "projekt": "lista",
-  "certifikat": "rad",
-  "faq": "tva"
+  "nyheter": "lista",
+  "omdomen": "h-flik",
+  "berattelser": "zigzag",
+  "projekt": "f-rulle",
+  "certifikat": "k-brickor",
+  "faq": "standard",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "vagval",
@@ -107,6 +108,7 @@
   "omdomen",
   "bolag",
   "projekt",
+  "cta",
   "certifikat",
   "faq"
  ],
@@ -147,13 +149,13 @@
   "tak",
   "people"
  ],
- "herotext": "linje",
- "rubrikstil": "mitt",
+ "herotext": "delad",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "spectral",
   "hero": "statement",
-  "herotext": "linje",
-  "rubrik": "mitt",
-  "form": "rundad"
+  "herotext": "delad",
+  "rubrik": "stor",
+  "form": "mjuk"
  }
 }

@@ -5,12 +5,12 @@
  "arketyp": "urban",
  "fro": "ab56da92",
  "typsnitt": {
-  "id": "dmserif",
+  "id": "young-serif",
   "kategori": "serif",
-  "rubrik": "DM Serif Display",
-  "text": "DM Sans",
+  "rubrik": "Young Serif",
+  "text": "Inter",
   "rubrik_vikt": 400,
-  "spatiering": "-0.01em",
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "Georgia, 'Times New Roman', serif",
@@ -22,8 +22,8 @@
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;1,400",
-  "kursiv": true
+  "rubrik_spec": "wght@400",
+  "kursiv": false
  },
  "palett": "foto-60",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#898ce6"
  },
  "form": {
-  "namn": "mjuk",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "split",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,19 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "flikar",
+  "vagval": "e-snapp",
+  "bolag": "vagg",
   "siffror": "rad",
-  "nyheter": "lista",
-  "omdomen": "betyg",
-  "priser": "standard",
-  "panel": "helbild",
-  "projekt": "mosaik",
-  "hb": "kort",
-  "galleri": "rad",
-  "faq": "tva",
-  "boka": "standard",
-  "cta": "band"
+  "nyheter": "f-block",
+  "omdomen": "h-chatt",
+  "priser": "i-flikar",
+  "panel": "m-bildkort",
+  "projekt": "f-ar",
+  "hb": "g-bento",
+  "galleri": "n-bento",
+  "faq": "l-bento",
+  "boka": "n-bento",
+  "cta": "delad"
  },
  "ordning_lista": [
   "priser",
@@ -159,13 +159,13 @@
   "detalj",
   "fest"
  ],
- "herotext": "standard",
- "rubrikstil": "pill",
+ "herotext": "kort",
+ "rubrikstil": "understruken",
  "v7": {
-  "typ": "dmserif",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "pill",
-  "form": "mjuk"
+  "typ": "young-serif",
+  "hero": "centrerad",
+  "herotext": "kort",
+  "rubrik": "understruken",
+  "form": "piller-rund"
  }
 }

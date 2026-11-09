@@ -5,12 +5,12 @@
  "arketyp": "koncernband",
  "fro": "c814be62",
  "typsnitt": {
-  "id": "figtree",
+  "id": "manrope",
   "kategori": "geometrisk",
-  "rubrik": "Figtree",
-  "text": "Figtree",
+  "rubrik": "Manrope",
+  "text": "Inter",
   "rubrik_vikt": 700,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -22,8 +22,8 @@
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
-  "kursiv": true
+  "rubrik_spec": "wght@500;600;700;800",
+  "kursiv": false
  },
  "palett": "arborist-60",
  "farger": {
@@ -73,10 +73,10 @@
   "band2": "#546feb"
  },
  "form": {
-  "namn": "piller-rund",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
  "hero": "band",
@@ -93,21 +93,21 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "rader",
   "bolag": "rund",
   "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "berattelser": "zigzag",
-  "certifikat": "standard",
-  "citat": "stor",
-  "projekt": "feature",
+  "omdomen": "h-chatt",
+  "berattelser": "f-trappa",
+  "certifikat": "k-bento",
+  "citat": "l-overlap",
+  "projekt": "f-remsor",
   "galleri": "rutnat",
-  "priser": "tabell",
-  "process": "vertikal",
-  "hb": "citat",
-  "snabb": "band",
-  "cta": "bild"
+  "priser": "standard",
+  "process": "n-bildkort",
+  "hb": "g-diagonal",
+  "snabb": "h-bento",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "berattelser",
@@ -167,10 +167,10 @@
  "herotext": "hoger",
  "rubrikstil": "nummer",
  "v7": {
-  "typ": "figtree",
+  "typ": "manrope",
   "hero": "band",
   "herotext": "hoger",
   "rubrik": "nummer",
-  "form": "piller-rund"
+  "form": "mjuk"
  }
 }

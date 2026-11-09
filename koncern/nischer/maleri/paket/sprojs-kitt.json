@@ -70,13 +70,13 @@
   "band2": "#c8e07a"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "rader",
   "bolag": "tabell",
   "siffror": "rad",
   "nyheter": "lista",
   "omdomen": "kort",
-  "process": "kort",
+  "process": "n-bildkort",
   "faq": "standard",
-  "priser": "standard",
-  "citat": "sida",
-  "logos": "band",
-  "projekt": "lista",
-  "snabb": "rutor"
+  "priser": "lista",
+  "citat": "h-kort",
+  "logos": "k-bento",
+  "projekt": "mosaik",
+  "snabb": "h-bento",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -110,6 +111,7 @@
   "priser",
   "citat",
   "logos",
+  "cta",
   "projekt",
   "snabb"
  ],
@@ -150,13 +152,13 @@
   "interior",
   "people"
  ],
- "herotext": "linje",
- "rubrikstil": "versal",
+ "herotext": "uppe",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "instrumentsans",
-  "hero": "statement",
-  "herotext": "linje",
-  "rubrik": "versal",
-  "form": "rundad"
+  "hero": "band",
+  "herotext": "uppe",
+  "rubrik": "stor",
+  "form": "kantig"
  }
 }

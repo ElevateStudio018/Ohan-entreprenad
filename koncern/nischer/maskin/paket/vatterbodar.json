@@ -73,13 +73,13 @@
   "band2": "#e98a5d"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,16 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "typo",
-  "bolag": "karusell",
-  "siffror": "kort",
+  "vagval": "e-lameller",
+  "bolag": "mosaik",
+  "siffror": "bild",
   "nyheter": "lista",
-  "omdomen": "stor",
-  "priser": "standard",
-  "projekt": "tabell",
-  "berattelser": "overlap",
-  "certifikat": "rad",
-  "boka": "centrerad"
+  "omdomen": "h-trappa",
+  "priser": "lista",
+  "projekt": "f-ar",
+  "berattelser": "tre",
+  "certifikat": "k-bildsplit",
+  "boka": "n-bento"
  },
  "ordning_lista": [
   "siffror",
@@ -153,13 +153,13 @@
   "bygg",
   "people"
  ],
- "herotext": "stack",
- "rubrikstil": "versal",
+ "herotext": "linje",
+ "rubrikstil": "standard",
  "v7": {
   "typ": "jost",
-  "hero": "mosaik",
-  "herotext": "stack",
-  "rubrik": "versal",
-  "form": "piller-rund"
+  "hero": "statement",
+  "herotext": "linje",
+  "rubrik": "standard",
+  "form": "rundad"
  }
 }

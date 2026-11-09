@@ -5,25 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "0d9b7fa9",
  "typsnitt": {
-  "id": "instrument-serif",
-  "kategori": "serif",
-  "rubrik": "Instrument Serif",
-  "text": "Inter",
-  "rubrik_vikt": 400,
-  "spatiering": "-0.02em",
-  "versaler": false,
-  "skala": 1.06,
-  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
+  "id": "barlowcond",
+  "kategori": "smal",
+  "rubrik": "Barlow Condensed",
+  "text": "Barlow",
+  "rubrik_vikt": 600,
+  "spatiering": "0",
+  "versaler": true,
+  "skala": 0.9,
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 400,
-  "logo_vikt": 400,
-  "logo_versaler": false,
-  "logo_spatiering": "-0.02em",
+  "siffra_vikt": 600,
+  "logo_vikt": 600,
+  "logo_versaler": true,
+  "logo_spatiering": "0.08em",
   "nav_versaler": false,
-  "knapp_versaler": false,
+  "knapp_versaler": true,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;1,400",
-  "kursiv": true
+  "rubrik_spec": "wght@500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-270",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#6867e0"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,15 +90,15 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "kort",
+  "vagval": "rader",
+  "bolag": "zigzag",
   "siffror": "rad",
-  "nyheter": "tidning",
+  "nyheter": "f-block",
   "omdomen": "stor",
-  "berattelser": "kolumner",
-  "projekt": "lista",
-  "citat": "stor",
-  "logos": "standard",
+  "berattelser": "tre",
+  "projekt": "mosaik",
+  "citat": "l-karusell",
+  "logos": "k-karusell",
   "boka": "centrerad"
  },
  "ordning_lista": [
@@ -148,13 +148,13 @@
   "hem",
   "people"
  ],
- "herotext": "kontur",
+ "herotext": "delad",
  "rubrikstil": "linje",
  "v7": {
-  "typ": "instrument-serif",
-  "hero": "centrerad",
-  "herotext": "kontur",
+  "typ": "barlowcond",
+  "hero": "statement",
+  "herotext": "delad",
   "rubrik": "linje",
-  "form": "piller-rund"
+  "form": "latt"
  }
 }

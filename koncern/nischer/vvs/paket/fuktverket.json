@@ -5,12 +5,12 @@
  "arketyp": "redaktionell",
  "fro": "89d7f7c4",
  "typsnitt": {
-  "id": "sourcesans",
+  "id": "librefranklin",
   "kategori": "humanistisk",
-  "rubrik": "Source Sans 3",
-  "text": "Source Sans 3",
+  "rubrik": "Libre Franklin",
+  "text": "Libre Franklin",
   "rubrik_vikt": 700,
-  "spatiering": "-0.01em",
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -70,13 +70,13 @@
   "band2": "#ee7bc9"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "vagg",
+  "vagval": "rutor",
+  "bolag": "zigzag",
   "siffror": "rad",
   "nyheter": "lista",
   "omdomen": "stor",
-  "process": "linje",
-  "berattelser": "kolumner",
-  "faq": "standard",
-  "projekt": "karusell",
-  "hb": "split",
-  "panel": "panel"
+  "process": "kort",
+  "berattelser": "stor",
+  "faq": "l-bento",
+  "projekt": "f-bento",
+  "hb": "g-diagonal",
+  "panel": "m-overlap",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "process",
@@ -110,7 +111,8 @@
   "bolag",
   "projekt",
   "hb",
-  "panel"
+  "panel",
+  "cta"
  ],
  "panel_omvand": false,
  "sidfot": "primar",
@@ -149,13 +151,13 @@
   "hem",
   "people"
  ],
- "herotext": "band",
- "rubrikstil": "kant",
+ "herotext": "uppe",
+ "rubrikstil": "versal",
  "v7": {
-  "typ": "sourcesans",
-  "hero": "centrerad",
-  "herotext": "band",
-  "rubrik": "kant",
-  "form": "piller-rund"
+  "typ": "librefranklin",
+  "hero": "statement",
+  "herotext": "uppe",
+  "rubrik": "versal",
+  "form": "latt"
  }
 }

@@ -5,25 +5,25 @@
  "arketyp": "monument",
  "fro": "21d23130",
  "typsnitt": {
-  "id": "spacemono",
-  "kategori": "mono",
-  "rubrik": "Space Mono",
-  "text": "Space Grotesk",
-  "rubrik_vikt": 700,
+  "id": "spacegrotesk",
+  "kategori": "grotesk",
+  "rubrik": "Space Grotesk",
+  "text": "Inter",
+  "rubrik_vikt": 600,
   "spatiering": "-0.03em",
   "versaler": false,
   "skala": 0.94,
-  "rubrik_fallback": "ui-monospace, monospace",
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;0,700;1,400",
-  "kursiv": true
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-150",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#d9c2a5"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rullband",
+  "vagval": "e-lameller",
   "bolag": "flikar",
-  "siffror": "dashboard",
+  "siffror": "vertikal",
   "nyheter": "lista",
   "omdomen": "stor",
-  "projekt": "feature",
-  "process": "linje",
-  "faq": "standard",
-  "hb": "siffror",
-  "logos": "standard",
-  "boka": "centrerad"
+  "projekt": "karusell",
+  "process": "kort",
+  "faq": "l-bildkort",
+  "hb": "m-bildkort",
+  "logos": "k-kundkort",
+  "boka": "n-fotokort"
  },
  "ordning_lista": [
   "vagval",
@@ -149,13 +149,13 @@
   "bygg",
   "people"
  ],
- "herotext": "mitten",
- "rubrikstil": "linje",
+ "herotext": "uppe",
+ "rubrikstil": "mitt",
  "v7": {
-  "typ": "spacemono",
-  "hero": "statement",
-  "herotext": "mitten",
-  "rubrik": "linje",
-  "form": "piller-rund"
+  "typ": "spacegrotesk",
+  "hero": "centrerad",
+  "herotext": "uppe",
+  "rubrik": "mitt",
+  "form": "latt"
  }
 }

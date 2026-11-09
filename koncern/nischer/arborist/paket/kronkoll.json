@@ -76,7 +76,7 @@
   "bild": 4,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
+  "vagval": "kort",
   "bolag": "tabell",
-  "siffror": "bild",
+  "siffror": "m-bento",
   "nyheter": "lista",
   "omdomen": "stor",
-  "certifikat": "rad",
-  "panel": "kort",
-  "galleri": "rad",
-  "citat": "bild",
-  "projekt": "feature",
-  "hb": "siffror",
-  "priser": "tabell",
+  "certifikat": "k-brickor",
+  "panel": "m-bildkort",
+  "galleri": "n-karusell",
+  "citat": "l-overlap",
+  "projekt": "f-ar",
+  "hb": "g-bento",
+  "priser": "standard",
   "boka": "centrerad"
  },
  "ordning_lista": [
@@ -156,13 +156,13 @@
   "ved",
   "tradgard"
  ],
- "herotext": "band",
- "rubrikstil": "standard",
+ "herotext": "linje",
+ "rubrikstil": "pill",
  "v7": {
   "typ": "archivo",
-  "hero": "statement",
-  "herotext": "band",
-  "rubrik": "standard",
+  "hero": "band",
+  "herotext": "linje",
+  "rubrik": "pill",
   "form": "latt"
  }
 }

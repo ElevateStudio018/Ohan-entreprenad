@@ -70,13 +70,13 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,16 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "kort",
+  "vagval": "rutor",
   "bolag": "kort",
   "siffror": "rad",
-  "nyheter": "kort",
-  "omdomen": "stor",
-  "process": "standard",
-  "projekt": "feature",
-  "berattelser": "zigzag",
+  "nyheter": "lista",
+  "omdomen": "n-bildkort",
+  "process": "h-pilar",
+  "projekt": "karusell",
+  "berattelser": "band",
   "boka": "standard",
-  "cta": "band"
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "omdomen",
@@ -147,13 +147,13 @@
   "hem",
   "people"
  ],
- "herotext": "versal",
- "rubrikstil": "pill",
+ "herotext": "nere",
+ "rubrikstil": "mitt",
  "v7": {
   "typ": "unbounded",
-  "hero": "helskarm",
-  "herotext": "versal",
-  "rubrik": "pill",
-  "form": "mjuk"
+  "hero": "band",
+  "herotext": "nere",
+  "rubrik": "mitt",
+  "form": "latt"
  }
 }

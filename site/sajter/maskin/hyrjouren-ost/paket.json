@@ -5,25 +5,25 @@
  "arketyp": "koncernband",
  "fro": "2329cf69",
  "typsnitt": {
-  "id": "hanken",
-  "kategori": "grotesk",
-  "rubrik": "Hanken Grotesk",
-  "text": "Hanken Grotesk",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.025em",
+  "id": "robotoslab",
+  "kategori": "slab",
+  "rubrik": "Roboto Slab",
+  "text": "Roboto",
+  "rubrik_vikt": 600,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 0.94,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
-  "kursiv": true
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-150",
  "farger": {
@@ -73,13 +73,13 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "mjuk",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "split",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,19 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "e-snapp",
   "bolag": "tabell",
   "siffror": "jatte",
-  "nyheter": "sida",
-  "omdomen": "kort",
-  "priser": "lista",
-  "certifikat": "rad",
-  "projekt": "lista",
-  "citat": "stor",
-  "faq": "tva",
-  "berattelser": "stor",
-  "snabb": "band",
-  "cta": "delad"
+  "nyheter": "f-block",
+  "omdomen": "h-chatt",
+  "priser": "i-huvudpaket",
+  "certifikat": "k-bildsplit",
+  "projekt": "f-ar",
+  "citat": "l-bildkort",
+  "faq": "standard",
+  "berattelser": "f-trappa",
+  "snabb": "rutor",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -159,13 +159,13 @@
   "bygg",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "nummer",
+ "herotext": "nere",
+ "rubrikstil": "pill",
  "v7": {
-  "typ": "hanken",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "nummer",
-  "form": "mjuk"
+  "typ": "robotoslab",
+  "hero": "helskarm",
+  "herotext": "nere",
+  "rubrik": "pill",
+  "form": "piller-rund"
  }
 }

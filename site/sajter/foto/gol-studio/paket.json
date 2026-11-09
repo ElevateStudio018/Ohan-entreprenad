@@ -5,12 +5,12 @@
  "arketyp": "monument",
  "fro": "dbf7d928",
  "typsnitt": {
-  "id": "fraunces",
+  "id": "cormorant",
   "kategori": "serif",
-  "rubrik": "Fraunces",
-  "text": "Inter",
+  "rubrik": "Cormorant Garamond",
+  "text": "Montserrat",
   "rubrik_vikt": 500,
-  "spatiering": "-0.02em",
+  "spatiering": "-0.01em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "Georgia, 'Times New Roman', serif",
@@ -70,13 +70,13 @@
   "band2": "#7ee880"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "band",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -91,20 +91,20 @@
  "motiv": "inget",
  "block": {
   "vagval": "rader",
-  "bolag": "mosaik",
-  "siffror": "rad",
+  "bolag": "e-kolumner",
+  "siffror": "m-bildkort",
   "nyheter": "tidning",
-  "omdomen": "betyg",
-  "citat": "stor",
-  "projekt": "zigzag",
-  "priser": "standard",
-  "hb": "siffror",
-  "faq": "centrerad",
-  "process": "vertikal",
-  "galleri": "rad",
-  "berattelser": "rad",
-  "boka": "standard",
-  "cta": "delad"
+  "omdomen": "h-chatt",
+  "citat": "h-markor",
+  "projekt": "karusell",
+  "priser": "tabell",
+  "hb": "g-bento",
+  "faq": "l-bento",
+  "process": "n-bildkort",
+  "galleri": "i-snitt",
+  "berattelser": "f-paneler",
+  "boka": "centrerad",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "bolag",
@@ -163,13 +163,13 @@
   "detalj",
   "fest"
  ],
- "herotext": "kursiv",
- "rubrikstil": "mitt",
+ "herotext": "delad",
+ "rubrikstil": "linje",
  "v7": {
-  "typ": "fraunces",
-  "hero": "band",
-  "herotext": "kursiv",
-  "rubrik": "mitt",
-  "form": "piller-rund"
+  "typ": "cormorant",
+  "hero": "helskarm",
+  "herotext": "delad",
+  "rubrik": "linje",
+  "form": "latt"
  }
 }

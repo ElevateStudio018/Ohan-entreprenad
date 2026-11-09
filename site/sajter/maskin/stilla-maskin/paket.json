@@ -5,18 +5,18 @@
  "arketyp": "koncernband",
  "fro": "4690e99a",
  "typsnitt": {
-  "id": "montserrat",
-  "kategori": "geometrisk",
-  "rubrik": "Montserrat",
-  "text": "Montserrat",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.03em",
+  "id": "kanit",
+  "kategori": "tung",
+  "rubrik": "Kanit",
+  "text": "Inter",
+  "rubrik_vikt": 600,
+  "spatiering": "-0.01em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
-  "logo_vikt": 800,
+  "siffra_vikt": 600,
+  "logo_vikt": 600,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
@@ -73,13 +73,13 @@
   "band2": "#93d766"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "split",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,17 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "rund",
+  "vagval": "cirklar",
+  "bolag": "zigzag",
   "siffror": "rad",
-  "nyheter": "tidning",
+  "nyheter": "sida",
   "omdomen": "stor",
-  "citat": "standard",
-  "projekt": "stor",
-  "process": "kort",
-  "certifikat": "standard",
-  "snabb": "band",
-  "cta": "bild"
+  "citat": "l-overlap",
+  "projekt": "f-rulle",
+  "process": "h-pilar",
+  "certifikat": "k-brickor",
+  "snabb": "h-flyt",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "bolag",
@@ -153,13 +153,13 @@
   "bygg",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "linje",
+ "herotext": "uppe",
+ "rubrikstil": "kant",
  "v7": {
-  "typ": "montserrat",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "linje",
-  "form": "rundad"
+  "typ": "kanit",
+  "hero": "centrerad",
+  "herotext": "uppe",
+  "rubrik": "kant",
+  "form": "mjuk"
  }
 }

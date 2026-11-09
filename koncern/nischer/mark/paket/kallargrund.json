@@ -73,13 +73,13 @@
   "band2": "#d78374"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,16 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rullband",
+  "vagval": "e-panel",
   "bolag": "tabell",
-  "siffror": "cirklar",
+  "siffror": "m-overlap",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "logos": "band",
-  "projekt": "tabell",
-  "panel": "delad",
+  "omdomen": "n-bento",
+  "logos": "k-karusell",
+  "projekt": "karusell",
+  "panel": "kort",
   "boka": "standard",
-  "cta": "bild"
+  "cta": "delad"
  },
  "ordning_lista": [
   "omdomen",
@@ -152,13 +152,13 @@
   "infra",
   "people"
  ],
- "herotext": "band",
- "rubrikstil": "nummer",
+ "herotext": "linje",
+ "rubrikstil": "pill",
  "v7": {
   "typ": "kanit",
-  "hero": "helskarm",
-  "herotext": "band",
-  "rubrik": "nummer",
-  "form": "latt"
+  "hero": "centrerad",
+  "herotext": "linje",
+  "rubrik": "pill",
+  "form": "rundad"
  }
 }

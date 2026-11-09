@@ -70,13 +70,13 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,19 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rullband",
-  "bolag": "kort",
-  "siffror": "dashboard",
-  "nyheter": "rad",
+  "vagval": "e-snapp",
+  "bolag": "zigzag",
+  "siffror": "e-split",
+  "nyheter": "kort",
   "omdomen": "stor",
-  "hb": "band",
-  "projekt": "lista",
-  "faq": "centrerad",
-  "berattelser": "rad",
-  "process": "linje",
-  "logos": "band",
-  "snabb": "band",
-  "cta": "delad"
+  "hb": "g-diagonal",
+  "projekt": "f-rulle",
+  "faq": "l-bento",
+  "berattelser": "stor",
+  "process": "kort",
+  "logos": "k-bento",
+  "snabb": "h-flyt",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -158,13 +158,13 @@
   "people",
   "people"
  ],
- "herotext": "jatte",
- "rubrikstil": "standard",
+ "herotext": "hoger",
+ "rubrikstil": "linje",
  "v7": {
   "typ": "zilla",
-  "hero": "helskarm",
-  "herotext": "jatte",
-  "rubrik": "standard",
-  "form": "kantig"
+  "hero": "mosaik",
+  "herotext": "hoger",
+  "rubrik": "linje",
+  "form": "latt"
  }
 }

@@ -73,13 +73,13 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
+  "namn": "kantig",
+  "knapp": 0,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -94,19 +94,19 @@
  "motiv": "inget",
  "block": {
   "vagval": "bildrutor",
-  "bolag": "zigzag",
-  "siffror": "band",
-  "nyheter": "tidning",
-  "omdomen": "kort",
-  "priser": "tabell",
-  "galleri": "standard",
+  "bolag": "rund",
+  "siffror": "m-overlap",
+  "nyheter": "sida",
+  "omdomen": "n-bento",
+  "priser": "i-biljett",
+  "galleri": "n-bento",
   "faq": "standard",
-  "projekt": "karusell",
-  "panel": "kort",
-  "process": "standard",
-  "berattelser": "band",
-  "boka": "centrerad",
-  "cta": "bild"
+  "projekt": "feature",
+  "panel": "jobb",
+  "process": "n-karusell",
+  "berattelser": "f-trappa",
+  "boka": "n-fotokort",
+  "cta": "delad"
  },
  "ordning_lista": [
   "nyheter",
@@ -166,12 +166,12 @@
   "fest"
  ],
  "herotext": "nere",
- "rubrikstil": "linje",
+ "rubrikstil": "kant",
  "v7": {
   "typ": "epilogue",
-  "hero": "statement",
+  "hero": "mosaik",
   "herotext": "nere",
-  "rubrik": "linje",
-  "form": "piller-kantig"
+  "rubrik": "kant",
+  "form": "kantig"
  }
 }

@@ -73,13 +73,13 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,19 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "kakel",
-  "bolag": "zigzag",
+  "vagval": "e-snapp",
+  "bolag": "e-kolumner",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "betyg",
-  "process": "linje",
-  "priser": "standard",
-  "faq": "standard",
-  "hb": "kort",
-  "berattelser": "lista",
-  "projekt": "mosaik",
-  "snabb": "band",
-  "cta": "band"
+  "omdomen": "h-trappa",
+  "process": "h-pilar",
+  "priser": "lista",
+  "faq": "l-bildkort",
+  "hb": "m-bento",
+  "berattelser": "f-trappa",
+  "projekt": "karusell",
+  "snabb": "h-bento",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "bolag",
@@ -162,13 +162,13 @@
   "katt",
   "hundtraning"
  ],
- "herotext": "kontur",
- "rubrikstil": "versal",
+ "herotext": "stack",
+ "rubrikstil": "linje",
  "v7": {
   "typ": "fraunces",
-  "hero": "helskarm",
-  "herotext": "kontur",
-  "rubrik": "versal",
-  "form": "piller-rund"
+  "hero": "centrerad",
+  "herotext": "stack",
+  "rubrik": "linje",
+  "form": "latt"
  }
 }

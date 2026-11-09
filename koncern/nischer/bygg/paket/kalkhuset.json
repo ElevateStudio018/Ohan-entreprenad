@@ -70,13 +70,13 @@
   "band2": "#e7d08a"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -91,17 +91,17 @@
  "motiv": "inget",
  "block": {
   "vagval": "rutor",
-  "bolag": "flikar",
+  "bolag": "kort",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "stor",
-  "faq": "standard",
-  "projekt": "karusell",
-  "citat": "stor",
-  "berattelser": "stor",
-  "hb": "siffror",
-  "boka": "standard",
-  "cta": "bild"
+  "omdomen": "h-chatt",
+  "faq": "l-bento",
+  "projekt": "f-remsor",
+  "citat": "l-karusell",
+  "berattelser": "tre",
+  "hb": "g-diagonal",
+  "boka": "n-bento",
+  "cta": "delad"
  },
  "ordning_lista": [
   "omdomen",
@@ -149,13 +149,13 @@
  "profil": "bygg",
  "min_avstand": 10.43,
  "hero_tagg": "stad",
- "herotext": "band",
- "rubrikstil": "linje",
+ "herotext": "linje",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "sora",
-  "hero": "mosaik",
-  "herotext": "band",
-  "rubrik": "linje",
-  "form": "piller-kantig"
+  "hero": "centrerad",
+  "herotext": "linje",
+  "rubrik": "stor",
+  "form": "piller-rund"
  }
 }

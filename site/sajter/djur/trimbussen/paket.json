@@ -5,25 +5,25 @@
  "arketyp": "koncernband",
  "fro": "b48c644e",
  "typsnitt": {
-  "id": "lexend",
-  "kategori": "geometrisk",
-  "rubrik": "Lexend",
-  "text": "Lexend",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.03em",
+  "id": "lora",
+  "kategori": "serif",
+  "rubrik": "Lora",
+  "text": "Nunito Sans",
+  "rubrik_vikt": 500,
+  "spatiering": "-0.015em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "siffra_vikt": 500,
+  "logo_vikt": 500,
   "logo_versaler": true,
   "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400;500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400;1,500",
+  "kursiv": true
  },
  "palett": "djur-180",
  "farger": {
@@ -73,13 +73,13 @@
   "band2": "#eaae81"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,18 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "typo",
+  "vagval": "e-panel",
   "bolag": "flikar",
-  "siffror": "rad",
+  "siffror": "m-bildkort",
   "nyheter": "lista",
-  "omdomen": "stor",
-  "panel": "panel",
-  "berattelser": "band",
-  "citat": "standard",
-  "faq": "tva",
+  "omdomen": "h-flik",
+  "panel": "helbild",
+  "berattelser": "tre",
+  "citat": "h-markor",
+  "faq": "l-bento",
   "priser": "tabell",
   "process": "kort",
-  "cta": "bild"
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -159,13 +159,13 @@
   "katt",
   "hundtraning"
  ],
- "herotext": "jatte",
- "rubrikstil": "kant",
+ "herotext": "hoger",
+ "rubrikstil": "nummer",
  "v7": {
-  "typ": "lexend",
-  "hero": "statement",
-  "herotext": "jatte",
-  "rubrik": "kant",
-  "form": "latt"
+  "typ": "lora",
+  "hero": "band",
+  "herotext": "hoger",
+  "rubrik": "nummer",
+  "form": "mjuk"
  }
 }

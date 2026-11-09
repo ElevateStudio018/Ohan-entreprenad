@@ -73,13 +73,13 @@
   "band2": "#d9c2a5"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "band",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,16 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
+  "vagval": "e-panel",
   "bolag": "kort",
-  "siffror": "vertikal",
-  "nyheter": "lista",
+  "siffror": "e-split",
+  "nyheter": "kort",
   "omdomen": "stor",
-  "logos": "band",
-  "process": "kort",
-  "projekt": "mosaik",
-  "kontor": "lista",
-  "certifikat": "rad",
+  "logos": "k-bento",
+  "process": "h-pilar",
+  "projekt": "karusell",
+  "kontor": "k-bento",
+  "certifikat": "k-bildsplit",
   "cta": "delad"
  },
  "ordning_lista": [
@@ -151,13 +151,13 @@
   "natur",
   "people"
  ],
- "herotext": "versal",
- "rubrikstil": "understruken",
+ "herotext": "stack",
+ "rubrikstil": "standard",
  "v7": {
   "typ": "young-serif",
-  "hero": "band",
-  "herotext": "versal",
-  "rubrik": "understruken",
-  "form": "piller-rund"
+  "hero": "helskarm",
+  "herotext": "stack",
+  "rubrik": "standard",
+  "form": "latt"
  }
 }

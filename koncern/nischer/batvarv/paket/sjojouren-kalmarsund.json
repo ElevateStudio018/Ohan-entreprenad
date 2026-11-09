@@ -5,12 +5,12 @@
  "arketyp": "industriell",
  "fro": "4508ca2c",
  "typsnitt": {
-  "id": "manrope",
+  "id": "plusjakarta",
   "kategori": "geometrisk",
-  "rubrik": "Manrope",
-  "text": "Inter",
+  "rubrik": "Plus Jakarta Sans",
+  "text": "Plus Jakarta Sans",
   "rubrik_vikt": 700,
-  "spatiering": "-0.03em",
+  "spatiering": "-0.025em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -22,8 +22,8 @@
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@500;600;700;800",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-90",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#ff8f6b"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "split",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "typo",
+  "vagval": "chips",
   "bolag": "tabell",
-  "siffror": "vertikal",
+  "siffror": "m-bento",
   "nyheter": "lista",
   "omdomen": "stor",
-  "citat": "standard",
+  "citat": "l-karusell",
   "panel": "helbild",
-  "projekt": "lista",
-  "certifikat": "rad",
-  "hb": "siffror",
-  "process": "kort",
-  "boka": "standard"
+  "projekt": "feature",
+  "certifikat": "k-brickor",
+  "hb": "tre",
+  "process": "n-bildkort",
+  "boka": "n-fotokort"
  },
  "ordning_lista": [
   "vagval",
@@ -150,13 +150,13 @@
   "natur",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "pill",
+ "herotext": "linje",
+ "rubrikstil": "versal",
  "v7": {
-  "typ": "manrope",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "pill",
-  "form": "piller-rund"
+  "typ": "plusjakarta",
+  "hero": "centrerad",
+  "herotext": "linje",
+  "rubrik": "versal",
+  "form": "latt"
  }
 }

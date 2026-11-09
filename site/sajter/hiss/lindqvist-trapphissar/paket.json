@@ -5,25 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "147ce498",
  "typsnitt": {
-  "id": "outfit",
+  "id": "raleway",
   "kategori": "geometrisk",
-  "rubrik": "Outfit",
-  "text": "DM Sans",
-  "rubrik_vikt": 600,
+  "rubrik": "Raleway",
+  "text": "Raleway",
+  "rubrik_vikt": 700,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400;500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
+  "kursiv": true
  },
  "palett": "nisch-60",
  "farger": {
@@ -73,10 +73,10 @@
   "band2": "#98ef7e"
  },
  "form": {
-  "namn": "piller-rund",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
  "hero": "band",
@@ -93,18 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
+  "vagval": "e-snapp",
   "bolag": "tabell",
   "siffror": "dashboard",
-  "nyheter": "tidning",
-  "omdomen": "kort",
-  "projekt": "zigzag",
-  "priser": "lista",
-  "certifikat": "rad",
-  "berattelser": "lista",
-  "faq": "tva",
-  "boka": "centrerad",
-  "cta": "delad"
+  "nyheter": "kort",
+  "omdomen": "rad",
+  "projekt": "feature",
+  "priser": "standard",
+  "certifikat": "k-brickor",
+  "berattelser": "stor",
+  "faq": "l-bildkort",
+  "boka": "n-fotokort",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "projekt",
@@ -156,13 +156,13 @@
   "stad",
   "people"
  ],
- "herotext": "linje",
- "rubrikstil": "stor",
+ "herotext": "uppe",
+ "rubrikstil": "mitt",
  "v7": {
-  "typ": "outfit",
+  "typ": "raleway",
   "hero": "band",
-  "herotext": "linje",
-  "rubrik": "stor",
-  "form": "piller-rund"
+  "herotext": "uppe",
+  "rubrik": "mitt",
+  "form": "mjuk"
  }
 }

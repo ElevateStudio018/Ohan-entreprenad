@@ -5,25 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "2d75bd6d",
  "typsnitt": {
-  "id": "raleway",
-  "kategori": "geometrisk",
-  "rubrik": "Raleway",
-  "text": "Raleway",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.02em",
-  "versaler": false,
-  "skala": 0.94,
+  "id": "barlowcond",
+  "kategori": "smal",
+  "rubrik": "Barlow Condensed",
+  "text": "Barlow",
+  "rubrik_vikt": 600,
+  "spatiering": "0",
+  "versaler": true,
+  "skala": 0.9,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
-  "logo_vikt": 800,
-  "logo_versaler": false,
-  "logo_spatiering": "0.02em",
-  "nav_versaler": false,
-  "knapp_versaler": false,
+  "siffra_vikt": 600,
+  "logo_vikt": 600,
+  "logo_versaler": true,
+  "logo_spatiering": "0.08em",
+  "nav_versaler": true,
+  "knapp_versaler": true,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
-  "kursiv": true
+  "rubrik_spec": "wght@500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-210",
  "farger": {
@@ -73,13 +73,13 @@
   "band2": "#d1ea8d"
  },
  "form": {
-  "namn": "piller-rund",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,18 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "kort",
+  "vagval": "bildrutor",
   "bolag": "kort",
-  "siffror": "bild",
+  "siffror": "e-split",
   "nyheter": "tidning",
-  "omdomen": "kort",
-  "priser": "standard",
-  "logos": "band",
+  "omdomen": "h-chatt",
+  "priser": "i-huvudpaket",
+  "logos": "k-bento",
   "projekt": "mosaik",
-  "citat": "stor",
-  "berattelser": "zigzag",
-  "snabb": "rutor",
-  "cta": "band"
+  "citat": "l-overlap",
+  "berattelser": "overlap",
+  "snabb": "h-flyt",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "priser",
@@ -157,12 +157,12 @@
   "people"
  ],
  "herotext": "kort",
- "rubrikstil": "kant",
+ "rubrikstil": "linje",
  "v7": {
-  "typ": "raleway",
-  "hero": "helskarm",
+  "typ": "barlowcond",
+  "hero": "band",
   "herotext": "kort",
-  "rubrik": "kant",
-  "form": "piller-rund"
+  "rubrik": "linje",
+  "form": "mjuk"
  }
 }

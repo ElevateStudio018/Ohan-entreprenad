@@ -70,13 +70,13 @@
   "band2": "#a6e3a1"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "lista",
+  "vagval": "kort",
+  "bolag": "e-forskjuten",
   "siffror": "band",
-  "nyheter": "tidning",
+  "nyheter": "kort",
   "omdomen": "stor",
-  "projekt": "mosaik",
-  "kontor": "standard",
-  "process": "kort",
-  "faq": "standard",
-  "certifikat": "rad",
-  "boka": "standard"
+  "projekt": "f-bento",
+  "kontor": "k-rulle",
+  "process": "n-bildkort",
+  "faq": "l-bildkort",
+  "certifikat": "k-brickor",
+  "boka": "standard",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "projekt",
@@ -110,6 +111,7 @@
   "bolag",
   "faq",
   "certifikat",
+  "cta",
   "nyheter",
   "boka"
  ],
@@ -151,13 +153,13 @@
   "interior",
   "people"
  ],
- "herotext": "jatte",
+ "herotext": "delad",
  "rubrikstil": "standard",
  "v7": {
   "typ": "librefranklin",
-  "hero": "helskarm",
-  "herotext": "jatte",
+  "hero": "centrerad",
+  "herotext": "delad",
   "rubrik": "standard",
-  "form": "mjuk"
+  "form": "kantig"
  }
 }

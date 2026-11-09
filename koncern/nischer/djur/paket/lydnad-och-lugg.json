@@ -5,25 +5,25 @@
  "arketyp": "ramad",
  "fro": "9288dacc",
  "typsnitt": {
-  "id": "josefin",
-  "kategori": "geometrisk",
-  "rubrik": "Josefin Sans",
-  "text": "Mulish",
-  "rubrik_vikt": 600,
+  "id": "quicksand",
+  "kategori": "rund",
+  "rubrik": "Quicksand",
+  "text": "Nunito Sans",
+  "rubrik_vikt": 700,
   "spatiering": "-0.01em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;0,600;0,700;1,400",
-  "kursiv": true
+  "rubrik_spec": "wght@500;600;700",
+  "kursiv": false
  },
  "palett": "djur-270",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#96cd73"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,20 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "e-snapp",
   "bolag": "rund",
-  "siffror": "dashboard",
+  "siffror": "m-karusell",
   "nyheter": "lista",
-  "omdomen": "stor",
-  "galleri": "standard",
-  "berattelser": "stor",
-  "projekt": "karusell",
-  "priser": "lista",
-  "panel": "helbild",
-  "citat": "bild",
-  "hb": "band",
-  "boka": "centrerad",
-  "cta": "delad"
+  "omdomen": "h-flik",
+  "galleri": "rutnat",
+  "berattelser": "zigzag",
+  "projekt": "f-rulle",
+  "priser": "i-huvudpaket",
+  "panel": "m-overlap",
+  "citat": "h-kort",
+  "hb": "m-bildkort",
+  "boka": "n-bento",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -162,13 +162,13 @@
   "katt",
   "hundtraning"
  ],
- "herotext": "linje",
- "rubrikstil": "understruken",
+ "herotext": "stack",
+ "rubrikstil": "nummer",
  "v7": {
-  "typ": "josefin",
-  "hero": "centrerad",
-  "herotext": "linje",
-  "rubrik": "understruken",
-  "form": "piller-rund"
+  "typ": "quicksand",
+  "hero": "mosaik",
+  "herotext": "stack",
+  "rubrik": "nummer",
+  "form": "kantig"
  }
 }

@@ -93,17 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "kort",
-  "siffror": "band",
-  "nyheter": "sida",
-  "omdomen": "betyg",
-  "berattelser": "zigzag",
-  "hb": "siffror",
-  "process": "vertikal",
-  "citat": "bild",
-  "projekt": "lista",
-  "snabb": "band"
+  "vagval": "rutor",
+  "bolag": "karusell",
+  "siffror": "e-split",
+  "nyheter": "f-rullband",
+  "omdomen": "h-flik",
+  "berattelser": "band",
+  "hb": "m-overlap",
+  "process": "n-bildkort",
+  "citat": "l-overlap",
+  "projekt": "mosaik",
+  "snabb": "h-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -157,13 +157,13 @@
   "interior",
   "people"
  ],
- "herotext": "kort",
- "rubrikstil": "understruken",
+ "herotext": "delad",
+ "rubrikstil": "kant",
  "v7": {
   "typ": "albert",
   "hero": "centrerad",
-  "herotext": "kort",
-  "rubrik": "understruken",
+  "herotext": "delad",
+  "rubrik": "kant",
   "form": "latt"
  }
 }

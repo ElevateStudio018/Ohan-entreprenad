@@ -76,7 +76,7 @@
   "bild": 20,
   "hero": 0
  },
- "hero": "split",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "rader",
   "bolag": "lista",
   "siffror": "band",
-  "nyheter": "kort",
-  "omdomen": "stor",
-  "certifikat": "standard",
-  "projekt": "karusell",
-  "faq": "standard",
-  "kontor": "lista",
-  "boka": "centrerad"
+  "nyheter": "f-rullband",
+  "omdomen": "rad",
+  "certifikat": "k-bento",
+  "projekt": "mosaik",
+  "faq": "l-bildkort",
+  "kontor": "k-overlapp",
+  "boka": "n-bento"
  },
  "ordning_lista": [
   "certifikat",
@@ -146,13 +146,13 @@
   "natur",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "pill",
+ "herotext": "uppe",
+ "rubrikstil": "linje",
  "v7": {
   "typ": "rubik",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "pill",
+  "hero": "helskarm",
+  "herotext": "uppe",
+  "rubrik": "linje",
   "form": "mjuk"
  }
 }

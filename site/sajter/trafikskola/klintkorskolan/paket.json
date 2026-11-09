@@ -70,13 +70,13 @@
   "band2": "#e26c5c"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "mosaik",
+  "vagval": "cirklar",
+  "bolag": "j-fack",
   "siffror": "jatte",
-  "nyheter": "sida",
+  "nyheter": "f-rullband",
   "omdomen": "kort",
-  "faq": "tva",
-  "process": "standard",
-  "projekt": "lista",
-  "certifikat": "rad",
-  "berattelser": "zigzag",
-  "citat": "bild",
-  "boka": "standard"
+  "faq": "l-bento",
+  "process": "n-karusell",
+  "projekt": "mosaik",
+  "certifikat": "k-bento",
+  "berattelser": "stor",
+  "citat": "l-overlap",
+  "boka": "centrerad",
+  "cta": "delad"
  },
  "ordning_lista": [
   "faq",
@@ -113,6 +114,7 @@
   "certifikat",
   "berattelser",
   "citat",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,
@@ -154,13 +156,13 @@
   "people",
   "people"
  ],
- "herotext": "nere",
+ "herotext": "uppe",
  "rubrikstil": "versal",
  "v7": {
   "typ": "fraunces",
-  "hero": "centrerad",
-  "herotext": "nere",
+  "hero": "helskarm",
+  "herotext": "uppe",
   "rubrik": "versal",
-  "form": "latt"
+  "form": "kantig"
  }
 }

@@ -5,17 +5,17 @@
  "arketyp": "industriell",
  "fro": "981bc2b7",
  "typsnitt": {
-  "id": "montserrat",
+  "id": "rubik",
   "kategori": "geometrisk",
-  "rubrik": "Montserrat",
-  "text": "Montserrat",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.03em",
+  "rubrik": "Rubik",
+  "text": "Rubik",
+  "rubrik_vikt": 600,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "-0.02em",
@@ -70,13 +70,13 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "split",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
+  "vagval": "chips",
   "bolag": "tabell",
   "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "priser": "standard",
-  "berattelser": "lista",
-  "process": "linje",
-  "projekt": "mosaik",
-  "boka": "standard",
-  "cta": "band"
+  "omdomen": "h-trappa",
+  "priser": "i-flikar",
+  "berattelser": "stor",
+  "process": "n-bildkort",
+  "projekt": "f-bento",
+  "boka": "n-fotokort",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "priser",
@@ -148,13 +148,13 @@
   "hem",
   "people"
  ],
- "herotext": "standard",
+ "herotext": "hoger",
  "rubrikstil": "pill",
  "v7": {
-  "typ": "montserrat",
-  "hero": "split",
-  "herotext": "standard",
+  "typ": "rubik",
+  "hero": "statement",
+  "herotext": "hoger",
   "rubrik": "pill",
-  "form": "latt"
+  "form": "rundad"
  }
 }

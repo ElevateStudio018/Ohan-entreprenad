@@ -70,13 +70,13 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "split",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,20 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "kort",
+  "vagval": "bildrutor",
   "bolag": "lista",
-  "siffror": "vertikal",
+  "siffror": "bild",
   "nyheter": "lista",
   "omdomen": "rad",
-  "process": "standard",
-  "citat": "standard",
-  "projekt": "lista",
-  "priser": "lista",
-  "galleri": "rad",
-  "panel": "panel",
-  "certifikat": "rad",
-  "faq": "tva",
-  "cta": "band"
+  "process": "kort",
+  "citat": "l-karusell",
+  "projekt": "karusell",
+  "priser": "i-flikar",
+  "galleri": "i-snitt",
+  "panel": "kort",
+  "certifikat": "k-bento",
+  "faq": "standard",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -160,13 +160,13 @@
   "ved",
   "tradgard"
  ],
- "herotext": "standard",
- "rubrikstil": "linje",
+ "herotext": "uppe",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "robotoslab",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "linje",
-  "form": "mjuk"
+  "hero": "mosaik",
+  "herotext": "uppe",
+  "rubrik": "stor",
+  "form": "rundad"
  }
 }

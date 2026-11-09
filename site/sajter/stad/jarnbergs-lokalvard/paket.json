@@ -93,17 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
-  "bolag": "kort",
-  "siffror": "bild",
+  "vagval": "e-panel",
+  "bolag": "e-forskjuten",
+  "siffror": "vertikal",
   "nyheter": "lista",
-  "omdomen": "rad",
-  "logos": "band",
+  "omdomen": "h-flik",
+  "logos": "k-kundkort",
   "projekt": "karusell",
-  "certifikat": "rad",
-  "hb": "band",
-  "faq": "tva",
-  "boka": "centrerad"
+  "certifikat": "k-bento",
+  "hb": "g-diagonal",
+  "faq": "standard",
+  "boka": "n-bento",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "logos",
@@ -114,6 +115,7 @@
   "projekt",
   "certifikat",
   "hb",
+  "cta",
   "faq",
   "boka"
  ],
@@ -156,13 +158,13 @@
   "interior",
   "people"
  ],
- "herotext": "kursiv",
- "rubrikstil": "kant",
+ "herotext": "uppe",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "chivo",
   "hero": "band",
-  "herotext": "kursiv",
-  "rubrik": "kant",
+  "herotext": "uppe",
+  "rubrik": "versal",
   "form": "rundad"
  }
 }

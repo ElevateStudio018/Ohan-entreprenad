@@ -76,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,19 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
+  "vagval": "bildrutor",
   "bolag": "rund",
   "siffror": "rad",
-  "nyheter": "lista",
+  "nyheter": "kort",
   "omdomen": "stor",
-  "panel": "delad",
-  "logos": "band",
-  "hb": "split",
-  "process": "vertikal",
-  "priser": "lista",
-  "citat": "sida",
+  "panel": "helbild",
+  "logos": "k-karusell",
+  "hb": "g-diagonal",
+  "process": "standard",
+  "priser": "standard",
+  "citat": "l-overlap",
   "projekt": "karusell",
-  "certifikat": "rad",
+  "certifikat": "k-bento",
   "snabb": "rutor"
  },
  "ordning_lista": [
@@ -158,13 +158,13 @@
   "natur",
   "people"
  ],
- "herotext": "uppe",
- "rubrikstil": "mitt",
+ "herotext": "delad",
+ "rubrikstil": "pill",
  "v7": {
   "typ": "newsreader",
-  "hero": "statement",
-  "herotext": "uppe",
-  "rubrik": "mitt",
+  "hero": "mosaik",
+  "herotext": "delad",
+  "rubrik": "pill",
   "form": "piller-kantig"
  }
 }

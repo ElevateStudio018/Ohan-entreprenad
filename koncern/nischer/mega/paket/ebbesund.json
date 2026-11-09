@@ -5,12 +5,12 @@
  "arketyp": "monument",
  "fro": "e917b4b1",
  "typsnitt": {
-  "id": "sourcesans",
-  "kategori": "humanistisk",
-  "rubrik": "Source Sans 3",
-  "text": "Source Sans 3",
+  "id": "redhat",
+  "kategori": "geometrisk",
+  "rubrik": "Red Hat Display",
+  "text": "Red Hat Text",
   "rubrik_vikt": 700,
-  "spatiering": "-0.01em",
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -70,13 +70,13 @@
   "band2": "#7aacda"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "piller-rund",
+  "knapp": 999,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "rund",
-  "siffror": "jatte",
-  "nyheter": "tidning",
+  "vagval": "kort",
+  "bolag": "e-kolumner",
+  "siffror": "m-bento",
+  "nyheter": "f-rullband",
   "omdomen": "kort",
-  "berattelser": "rad",
-  "ir": "kompakt",
-  "projekt": "stor",
-  "tidslinje": "horisontell",
-  "hb": "band",
-  "kontor": "lista",
-  "snabb": "band"
+  "berattelser": "overlap",
+  "ir": "l-kalender",
+  "projekt": "f-bento",
+  "tidslinje": "l-karusell",
+  "hb": "g-bento",
+  "kontor": "k-bildkort",
+  "snabb": "h-bento"
  },
  "ordning_lista": [
   "bolag",
@@ -152,13 +152,13 @@
  "profil": "mega",
  "min_avstand": 10.34,
  "hero_tagg": "anlaggning",
- "herotext": "kontur",
- "rubrikstil": "standard",
+ "herotext": "nere",
+ "rubrikstil": "kant",
  "v7": {
-  "typ": "sourcesans",
-  "hero": "helskarm",
-  "herotext": "kontur",
-  "rubrik": "standard",
-  "form": "rundad"
+  "typ": "redhat",
+  "hero": "mosaik",
+  "herotext": "nere",
+  "rubrik": "kant",
+  "form": "piller-rund"
  }
 }

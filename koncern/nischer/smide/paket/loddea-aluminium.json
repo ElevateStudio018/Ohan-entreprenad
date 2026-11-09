@@ -70,13 +70,13 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "typo",
+  "vagval": "e-lameller",
   "bolag": "lista",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "rad",
+  "omdomen": "h-trappa",
   "projekt": "karusell",
-  "logos": "band",
-  "faq": "tva",
-  "panel": "kultur",
+  "logos": "k-karusell",
+  "faq": "l-bildkort",
+  "panel": "jobb",
   "boka": "standard",
-  "cta": "band"
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -148,13 +148,13 @@
   "bygg",
   "people"
  ],
- "herotext": "jatte",
- "rubrikstil": "kant",
+ "herotext": "hoger",
+ "rubrikstil": "understruken",
  "v7": {
   "typ": "syne",
-  "hero": "helskarm",
-  "herotext": "jatte",
-  "rubrik": "kant",
-  "form": "kantig"
+  "hero": "statement",
+  "herotext": "hoger",
+  "rubrik": "understruken",
+  "form": "latt"
  }
 }

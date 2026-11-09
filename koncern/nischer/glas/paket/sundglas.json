@@ -5,24 +5,24 @@
  "arketyp": "varm-bostad",
  "fro": "1792a6bd",
  "typsnitt": {
-  "id": "spacemono",
-  "kategori": "mono",
-  "rubrik": "Space Mono",
-  "text": "Space Grotesk",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.03em",
+  "id": "jost",
+  "kategori": "geometrisk",
+  "rubrik": "Jost",
+  "text": "Jost",
+  "rubrik_vikt": 500,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.06,
-  "rubrik_fallback": "ui-monospace, monospace",
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 500,
   "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;0,700;1,400",
+  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400",
   "kursiv": true
  },
  "palett": "nisch-180",
@@ -70,10 +70,10 @@
   "band2": "#e7ad8d"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
  "hero": "helskarm",
@@ -90,15 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
-  "bolag": "rund",
+  "vagval": "rutor",
+  "bolag": "mosaik",
   "siffror": "rad",
   "nyheter": "tidning",
-  "omdomen": "stor",
-  "berattelser": "overlap",
-  "hb": "citat",
-  "faq": "centrerad",
-  "projekt": "tabell"
+  "omdomen": "n-bildkort",
+  "berattelser": "tre",
+  "hb": "g-bento",
+  "faq": "standard",
+  "projekt": "f-ar",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "berattelser",
@@ -107,6 +108,7 @@
   "bolag",
   "faq",
   "omdomen",
+  "cta",
   "projekt"
  ],
  "panel_omvand": false,
@@ -145,13 +147,13 @@
   "interior",
   "people"
  ],
- "herotext": "nere",
- "rubrikstil": "mitt",
+ "herotext": "delad",
+ "rubrikstil": "standard",
  "v7": {
-  "typ": "spacemono",
+  "typ": "jost",
   "hero": "helskarm",
-  "herotext": "nere",
-  "rubrik": "mitt",
-  "form": "latt"
+  "herotext": "delad",
+  "rubrik": "standard",
+  "form": "mjuk"
  }
 }

@@ -5,10 +5,10 @@
  "arketyp": "teknisk",
  "fro": "8e18298a",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
+  "id": "chivo",
+  "kategori": "grotesk",
+  "rubrik": "Chivo",
+  "text": "Chivo",
   "rubrik_vikt": 700,
   "spatiering": "-0.025em",
   "versaler": false,
@@ -22,7 +22,7 @@
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;0,800;1,600",
   "kursiv": true
  },
  "palett": "nisch-150",
@@ -73,13 +73,13 @@
   "band2": "#ff8f6b"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "split",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -95,16 +95,16 @@
  "block": {
   "vagval": "rutor",
   "bolag": "flikar",
-  "siffror": "dashboard",
+  "siffror": "m-bildkort",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "certifikat": "rad",
-  "logos": "band",
-  "projekt": "zigzag",
-  "panel": "helbild",
-  "hb": "helbild",
-  "snabb": "band",
-  "cta": "bild"
+  "omdomen": "n-bildkort",
+  "certifikat": "k-brickor",
+  "logos": "k-bento",
+  "projekt": "f-bento",
+  "panel": "jobb",
+  "hb": "g-diagonal",
+  "snabb": "h-bento",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -155,13 +155,13 @@
   "people",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "kant",
+ "herotext": "uppe",
+ "rubrikstil": "linje",
  "v7": {
-  "typ": "plusjakarta",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "kant",
-  "form": "latt"
+  "typ": "chivo",
+  "hero": "centrerad",
+  "herotext": "uppe",
+  "rubrik": "linje",
+  "form": "mjuk"
  }
 }

@@ -70,13 +70,13 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "e-snapp",
   "bolag": "kort",
   "siffror": "band",
-  "nyheter": "kort",
+  "nyheter": "sida",
   "omdomen": "stor",
-  "certifikat": "standard",
-  "projekt": "feature",
-  "hb": "split",
-  "logos": "band",
-  "citat": "stor",
-  "boka": "centrerad"
+  "certifikat": "k-bildsplit",
+  "projekt": "f-ar",
+  "hb": "g-diagonal",
+  "logos": "k-kundkort",
+  "citat": "h-kort",
+  "boka": "n-fotokort",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -110,6 +111,7 @@
   "hb",
   "logos",
   "citat",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,
@@ -149,13 +151,13 @@
   "people",
   "people"
  ],
- "herotext": "hoger",
- "rubrikstil": "pill",
+ "herotext": "delad",
+ "rubrikstil": "mitt",
  "v7": {
   "typ": "bigshoulders",
-  "hero": "mosaik",
-  "herotext": "hoger",
-  "rubrik": "pill",
-  "form": "mjuk"
+  "hero": "statement",
+  "herotext": "delad",
+  "rubrik": "mitt",
+  "form": "rundad"
  }
 }

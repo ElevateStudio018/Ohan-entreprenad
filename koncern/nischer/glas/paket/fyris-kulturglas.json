@@ -5,15 +5,15 @@
  "arketyp": "monument",
  "fro": "e7a3416e",
  "typsnitt": {
-  "id": "sora",
-  "kategori": "geometrisk",
-  "rubrik": "Sora",
-  "text": "Inter",
+  "id": "zilla",
+  "kategori": "slab",
+  "rubrik": "Zilla Slab",
+  "text": "Source Sans 3",
   "rubrik_vikt": 600,
-  "spatiering": "-0.03em",
+  "spatiering": "-0.01em",
   "versaler": false,
   "skala": 1.06,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
   "logo_vikt": 800,
@@ -22,8 +22,8 @@
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400;500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
+  "kursiv": true
  },
  "palett": "nisch-180",
  "farger": {
@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rullband",
-  "bolag": "karusell",
+  "vagval": "rutor",
+  "bolag": "kort",
   "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "stor",
-  "berattelser": "lista",
-  "hb": "split",
-  "faq": "centrerad",
-  "logos": "band",
-  "process": "standard",
-  "projekt": "karusell",
-  "snabb": "band"
+  "omdomen": "h-trappa",
+  "berattelser": "f-trappa",
+  "hb": "m-bildkort",
+  "faq": "l-bento",
+  "logos": "k-karusell",
+  "process": "h-pilar",
+  "projekt": "f-remsor",
+  "snabb": "h-bento",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -111,6 +112,7 @@
   "faq",
   "logos",
   "process",
+  "cta",
   "projekt",
   "omdomen",
   "snabb"
@@ -154,13 +156,13 @@
   "interior",
   "people"
  ],
- "herotext": "mitten",
- "rubrikstil": "versal",
+ "herotext": "stack",
+ "rubrikstil": "stor",
  "v7": {
-  "typ": "sora",
+  "typ": "zilla",
   "hero": "band",
-  "herotext": "mitten",
-  "rubrik": "versal",
+  "herotext": "stack",
+  "rubrik": "stor",
   "form": "piller-rund"
  }
 }

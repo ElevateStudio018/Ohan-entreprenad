@@ -70,13 +70,13 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rullband",
-  "bolag": "zigzag",
+  "vagval": "cirklar",
+  "bolag": "mosaik",
   "siffror": "jatte",
-  "nyheter": "minimal",
-  "omdomen": "rad",
-  "projekt": "lista",
+  "nyheter": "f-rullband",
+  "omdomen": "h-trappa",
+  "projekt": "karusell",
   "panel": "kort",
-  "logos": "band",
-  "faq": "centrerad",
-  "berattelser": "lista",
-  "cta": "bild"
+  "logos": "k-karusell",
+  "faq": "l-bildkort",
+  "berattelser": "zigzag",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -152,13 +152,13 @@
   "hem",
   "people"
  ],
- "herotext": "jatte",
- "rubrikstil": "standard",
+ "herotext": "nere",
+ "rubrikstil": "kant",
  "v7": {
   "typ": "publicsans",
-  "hero": "mosaik",
-  "herotext": "jatte",
-  "rubrik": "standard",
-  "form": "kantig"
+  "hero": "centrerad",
+  "herotext": "nere",
+  "rubrik": "kant",
+  "form": "latt"
  }
 }

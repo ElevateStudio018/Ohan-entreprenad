@@ -5,25 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "883eb76b",
  "typsnitt": {
-  "id": "plexsans",
-  "kategori": "grotesk",
-  "rubrik": "IBM Plex Sans",
-  "text": "IBM Plex Sans",
-  "rubrik_vikt": 600,
+  "id": "young-serif",
+  "kategori": "serif",
+  "rubrik": "Young Serif",
+  "text": "Inter",
+  "rubrik_vikt": 400,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "siffra_vikt": 400,
+  "logo_vikt": 400,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
-  "kursiv": true
+  "rubrik_spec": "wght@400",
+  "kursiv": false
  },
  "palett": "nisch-60",
  "farger": {
@@ -79,7 +79,7 @@
   "bild": 10,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,18 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "kort",
+  "vagval": "e-snapp",
+  "bolag": "zigzag",
   "siffror": "band",
   "nyheter": "tidning",
   "omdomen": "kort",
-  "projekt": "karusell",
-  "priser": "tabell",
-  "hb": "kort",
-  "faq": "centrerad",
-  "berattelser": "overlap",
-  "certifikat": "standard",
-  "boka": "centrerad"
+  "projekt": "f-bento",
+  "priser": "standard",
+  "hb": "m-bento",
+  "faq": "l-bildkort",
+  "berattelser": "tre",
+  "certifikat": "k-bento",
+  "boka": "standard"
  },
  "ordning_lista": [
   "projekt",
@@ -156,12 +156,12 @@
   "people"
  ],
  "herotext": "delad",
- "rubrikstil": "pill",
+ "rubrikstil": "understruken",
  "v7": {
-  "typ": "plexsans",
-  "hero": "centrerad",
+  "typ": "young-serif",
+  "hero": "statement",
   "herotext": "delad",
-  "rubrik": "pill",
+  "rubrik": "understruken",
   "form": "piller-rund"
  }
 }

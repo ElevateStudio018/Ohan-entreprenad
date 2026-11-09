@@ -5,12 +5,12 @@
  "arketyp": "teknisk",
  "fro": "a990fd7d",
  "typsnitt": {
-  "id": "outfit",
+  "id": "lexend",
   "kategori": "geometrisk",
-  "rubrik": "Outfit",
-  "text": "DM Sans",
+  "rubrik": "Lexend",
+  "text": "Lexend",
   "rubrik_vikt": 600,
-  "spatiering": "-0.02em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -76,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "mosaik",
+  "vagval": "cirklar",
+  "bolag": "karusell",
   "siffror": "jatte",
   "nyheter": "tidning",
-  "omdomen": "stor",
-  "berattelser": "kolumner",
-  "logos": "standard",
-  "priser": "standard",
-  "citat": "bild",
-  "projekt": "karusell",
-  "boka": "standard"
+  "omdomen": "n-bento",
+  "berattelser": "zigzag",
+  "logos": "k-kundkort",
+  "priser": "tabell",
+  "citat": "l-karusell",
+  "projekt": "f-ar",
+  "boka": "centrerad"
  },
  "ordning_lista": [
   "vagval",
@@ -149,13 +149,13 @@
   "natur",
   "people"
  ],
- "herotext": "nere",
- "rubrikstil": "nummer",
+ "herotext": "kort",
+ "rubrikstil": "linje",
  "v7": {
-  "typ": "outfit",
-  "hero": "mosaik",
-  "herotext": "nere",
-  "rubrik": "nummer",
+  "typ": "lexend",
+  "hero": "helskarm",
+  "herotext": "kort",
+  "rubrik": "linje",
   "form": "piller-kantig"
  }
 }

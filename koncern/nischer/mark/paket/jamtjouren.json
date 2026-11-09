@@ -70,13 +70,13 @@
   "band2": "#d9c2a5"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
+  "vagval": "cirklar",
   "bolag": "lista",
-  "siffror": "band",
+  "siffror": "bild",
   "nyheter": "lista",
-  "omdomen": "stor",
-  "panel": "kultur",
-  "hb": "split",
-  "citat": "sida",
-  "certifikat": "standard",
-  "priser": "lista",
-  "projekt": "mosaik",
-  "boka": "centrerad"
+  "omdomen": "h-trappa",
+  "panel": "jobb",
+  "hb": "m-bento",
+  "citat": "h-kort",
+  "certifikat": "k-bento",
+  "priser": "tabell",
+  "projekt": "f-ar",
+  "boka": "n-fotokort",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "panel",
@@ -111,6 +112,7 @@
   "siffror",
   "certifikat",
   "priser",
+  "cta",
   "projekt",
   "omdomen",
   "boka"
@@ -157,12 +159,12 @@
   "people"
  ],
  "herotext": "stack",
- "rubrikstil": "linje",
+ "rubrikstil": "understruken",
  "v7": {
   "typ": "librefranklin",
-  "hero": "statement",
+  "hero": "helskarm",
   "herotext": "stack",
-  "rubrik": "linje",
-  "form": "rundad"
+  "rubrik": "understruken",
+  "form": "mjuk"
  }
 }

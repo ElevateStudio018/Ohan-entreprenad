@@ -5,25 +5,25 @@
  "arketyp": "skandinavisk",
  "fro": "df207c91",
  "typsnitt": {
-  "id": "baskerville",
-  "kategori": "serif",
-  "rubrik": "Libre Baskerville",
-  "text": "Lato",
-  "rubrik_vikt": 400,
+  "id": "outfit",
+  "kategori": "geometrisk",
+  "rubrik": "Outfit",
+  "text": "DM Sans",
+  "rubrik_vikt": 600,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 400,
-  "logo_vikt": 400,
+  "siffra_vikt": 600,
+  "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;0,700;1,400",
-  "kursiv": true
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-0",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "piller-rund",
+  "knapp": 999,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "kort",
   "bolag": "rund",
   "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "betyg",
-  "projekt": "tabell",
-  "panel": "kultur",
-  "process": "standard",
-  "certifikat": "rad",
-  "faq": "standard",
-  "boka": "standard",
-  "cta": "bild"
+  "omdomen": "n-bildkort",
+  "projekt": "f-ar",
+  "panel": "m-overlap",
+  "process": "h-pilar",
+  "certifikat": "k-brickor",
+  "faq": "l-bento",
+  "boka": "n-bento",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "vagval",
@@ -151,13 +151,13 @@
   "hem",
   "people"
  ],
- "herotext": "jatte",
- "rubrikstil": "pill",
+ "herotext": "stack",
+ "rubrikstil": "linje",
  "v7": {
-  "typ": "baskerville",
-  "hero": "statement",
-  "herotext": "jatte",
-  "rubrik": "pill",
-  "form": "rundad"
+  "typ": "outfit",
+  "hero": "band",
+  "herotext": "stack",
+  "rubrik": "linje",
+  "form": "piller-rund"
  }
 }

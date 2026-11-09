@@ -70,13 +70,13 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "piller-kantig",
-  "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "split",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "kakel",
+  "vagval": "bildrutor",
   "bolag": "mosaik",
-  "siffror": "dashboard",
+  "siffror": "bild",
   "nyheter": "lista",
   "omdomen": "stor",
   "projekt": "mosaik",
-  "faq": "standard",
-  "citat": "sida",
-  "hb": "siffror",
-  "boka": "standard"
+  "faq": "l-bento",
+  "citat": "l-overlap",
+  "hb": "tre",
+  "boka": "centrerad",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "projekt",
@@ -109,6 +110,7 @@
   "citat",
   "siffror",
   "hb",
+  "cta",
   "boka"
  ],
  "panel_omvand": false,
@@ -144,13 +146,13 @@
  "profil": "bygg",
  "min_avstand": 10.92,
  "hero_tagg": "sten",
- "herotext": "standard",
- "rubrikstil": "mitt",
+ "herotext": "kort",
+ "rubrikstil": "pill",
  "v7": {
   "typ": "hanken",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "mitt",
-  "form": "piller-kantig"
+  "hero": "centrerad",
+  "herotext": "kort",
+  "rubrik": "pill",
+  "form": "rundad"
  }
 }

@@ -73,10 +73,10 @@
   "band2": "#e98a5d"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
  "hero": "statement",
@@ -93,18 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "typo",
+  "vagval": "e-lameller",
   "bolag": "kort",
   "siffror": "rad",
-  "nyheter": "minimal",
-  "omdomen": "betyg",
-  "projekt": "karusell",
-  "certifikat": "standard",
-  "priser": "lista",
-  "citat": "sida",
-  "berattelser": "band",
-  "hb": "siffror",
-  "boka": "centrerad"
+  "nyheter": "lista",
+  "omdomen": "h-trappa",
+  "projekt": "f-bento",
+  "certifikat": "k-brickor",
+  "priser": "i-huvudpaket",
+  "citat": "l-karusell",
+  "berattelser": "f-paneler",
+  "hb": "m-overlap",
+  "boka": "n-bento",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "vagval",
@@ -114,6 +115,7 @@
   "priser",
   "nyheter",
   "citat",
+  "cta",
   "berattelser",
   "hb",
   "boka"
@@ -157,13 +159,13 @@
   "people",
   "people"
  ],
- "herotext": "linje",
- "rubrikstil": "kant",
+ "herotext": "stack",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "librefranklin",
   "hero": "statement",
-  "herotext": "linje",
-  "rubrik": "kant",
-  "form": "piller-rund"
+  "herotext": "stack",
+  "rubrik": "stor",
+  "form": "rundad"
  }
 }

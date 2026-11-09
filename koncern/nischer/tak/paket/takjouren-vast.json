@@ -5,24 +5,24 @@
  "arketyp": "monument",
  "fro": "e974598e",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.025em",
+  "id": "playfair",
+  "kategori": "serif",
+  "rubrik": "Playfair Display",
+  "text": "Source Sans 3",
+  "rubrik_vikt": 600,
+  "spatiering": "-0.015em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
-  "logo_vikt": 800,
+  "siffra_vikt": 600,
+  "logo_vikt": 600,
   "logo_versaler": false,
   "logo_spatiering": "-0.02em",
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "rubrik_spec": "ital,wght@0,400;0,600;0,700;1,400;1,600",
   "kursiv": true
  },
  "palett": "nisch-210",
@@ -70,10 +70,10 @@
   "band2": "#f2b84b"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
  "hero": "centrerad",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
+  "vagval": "chips",
   "bolag": "rund",
-  "siffror": "rad",
+  "siffror": "vertikal",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "logos": "band",
-  "citat": "bild",
-  "hb": "helbild",
-  "projekt": "zigzag",
-  "faq": "centrerad",
-  "snabb": "rutor"
+  "omdomen": "n-bento",
+  "logos": "k-karusell",
+  "citat": "h-markor",
+  "hb": "g-bento",
+  "projekt": "f-bento",
+  "faq": "standard",
+  "snabb": "h-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -151,13 +151,13 @@
   "hem",
   "people"
  ],
- "herotext": "band",
- "rubrikstil": "versal",
+ "herotext": "linje",
+ "rubrikstil": "standard",
  "v7": {
-  "typ": "plusjakarta",
+  "typ": "playfair",
   "hero": "centrerad",
-  "herotext": "band",
-  "rubrik": "versal",
-  "form": "piller-rund"
+  "herotext": "linje",
+  "rubrik": "standard",
+  "form": "rundad"
  }
 }

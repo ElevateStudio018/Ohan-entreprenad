@@ -70,13 +70,13 @@
   "band2": "#d9c2a5"
  },
  "form": {
-  "namn": "mjuk",
+  "namn": "piller-kantig",
   "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "split",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,15 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "e-panel",
   "bolag": "zigzag",
-  "siffror": "kort",
+  "siffror": "m-bento",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "logos": "band",
-  "projekt": "feature",
-  "panel": "panel",
-  "faq": "centrerad"
+  "logos": "k-kundkort",
+  "projekt": "f-remsor",
+  "panel": "m-overlap",
+  "faq": "l-bento",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "siffror",
@@ -107,7 +108,8 @@
   "projekt",
   "bolag",
   "panel",
-  "faq"
+  "faq",
+  "cta"
  ],
  "panel_omvand": false,
  "sidfot": "primar",
@@ -144,13 +146,13 @@
   "bygg",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "pill",
+ "herotext": "linje",
+ "rubrikstil": "mitt",
  "v7": {
   "typ": "dmserif",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "pill",
-  "form": "mjuk"
+  "hero": "centrerad",
+  "herotext": "linje",
+  "rubrik": "mitt",
+  "form": "piller-kantig"
  }
 }

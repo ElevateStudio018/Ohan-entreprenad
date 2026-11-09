@@ -5,12 +5,12 @@
  "arketyp": "koncernband",
  "fro": "6365227f",
  "typsnitt": {
-  "id": "rubik",
-  "kategori": "geometrisk",
-  "rubrik": "Rubik",
-  "text": "Rubik",
+  "id": "spacegrotesk",
+  "kategori": "grotesk",
+  "rubrik": "Space Grotesk",
+  "text": "Inter",
   "rubrik_vikt": 600,
-  "spatiering": "-0.02em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
@@ -22,8 +22,8 @@
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
-  "kursiv": true
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-210",
  "farger": {
@@ -73,10 +73,10 @@
   "band2": "#ebc97c"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
  "hero": "helskarm",
@@ -93,18 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
-  "bolag": "tabell",
-  "siffror": "cirklar",
+  "vagval": "kort",
+  "bolag": "e-forskjuten",
+  "siffror": "e-split",
   "nyheter": "tidning",
   "omdomen": "kort",
-  "hb": "tre",
-  "certifikat": "standard",
-  "citat": "stor",
-  "priser": "standard",
-  "projekt": "mosaik",
+  "hb": "m-bento",
+  "certifikat": "k-bento",
+  "citat": "l-karusell",
+  "priser": "i-huvudpaket",
+  "projekt": "feature",
   "snabb": "rutor",
-  "cta": "band"
+  "cta": "delad"
  },
  "ordning_lista": [
   "hb",
@@ -154,13 +154,13 @@
   "natur",
   "people"
  ],
- "herotext": "mitten",
- "rubrikstil": "stor",
+ "herotext": "kort",
+ "rubrikstil": "kant",
  "v7": {
-  "typ": "rubik",
+  "typ": "spacegrotesk",
   "hero": "helskarm",
-  "herotext": "mitten",
-  "rubrik": "stor",
-  "form": "rundad"
+  "herotext": "kort",
+  "rubrik": "kant",
+  "form": "latt"
  }
 }

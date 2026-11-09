@@ -73,13 +73,13 @@
   "band2": "#d979ce"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "band",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,17 +93,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
-  "bolag": "kort",
-  "siffror": "band",
-  "nyheter": "tidning",
-  "omdomen": "kort",
-  "berattelser": "kolumner",
-  "projekt": "stor",
+  "vagval": "bildrutor",
+  "bolag": "karusell",
+  "siffror": "m-bento",
+  "nyheter": "f-rullband",
+  "omdomen": "h-flik",
+  "berattelser": "f-trappa",
+  "projekt": "feature",
   "process": "standard",
-  "hb": "kort",
-  "certifikat": "rad",
-  "boka": "standard"
+  "hb": "tre",
+  "certifikat": "k-bento",
+  "boka": "centrerad"
  },
  "ordning_lista": [
   "berattelser",
@@ -154,13 +154,13 @@
  "profil": "bygg",
  "min_avstand": 10.48,
  "hero_tagg": "industri",
- "herotext": "versal",
- "rubrikstil": "pill",
+ "herotext": "hoger",
+ "rubrikstil": "understruken",
  "v7": {
   "typ": "young-serif",
-  "hero": "band",
-  "herotext": "versal",
-  "rubrik": "pill",
-  "form": "rundad"
+  "hero": "helskarm",
+  "herotext": "hoger",
+  "rubrik": "understruken",
+  "form": "latt"
  }
 }

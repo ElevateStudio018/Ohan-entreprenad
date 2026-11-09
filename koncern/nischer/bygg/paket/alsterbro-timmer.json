@@ -73,13 +73,13 @@
   "band2": "#77c3ef"
  },
  "form": {
-  "namn": "mjuk",
+  "namn": "piller-kantig",
   "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "band",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -93,19 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "kort",
-  "bolag": "lista",
+  "vagval": "e-panel",
+  "bolag": "e-forskjuten",
   "siffror": "dashboard",
   "nyheter": "lista",
-  "omdomen": "stor",
-  "berattelser": "lista",
-  "projekt": "feature",
-  "hb": "citat",
-  "citat": "bild",
-  "process": "linje",
-  "certifikat": "rad",
-  "snabb": "band",
-  "cta": "band"
+  "omdomen": "rad",
+  "berattelser": "tre",
+  "projekt": "f-ar",
+  "hb": "g-diagonal",
+  "citat": "l-bildkort",
+  "process": "n-karusell",
+  "certifikat": "k-bento",
+  "snabb": "h-flyt",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -155,13 +155,13 @@
  "profil": "bygg",
  "min_avstand": 11.51,
  "hero_tagg": "tra",
- "herotext": "stack",
+ "herotext": "hoger",
  "rubrikstil": "nummer",
  "v7": {
   "typ": "spacegrotesk",
-  "hero": "band",
-  "herotext": "stack",
+  "hero": "helskarm",
+  "herotext": "hoger",
   "rubrik": "nummer",
-  "form": "mjuk"
+  "form": "piller-kantig"
  }
 }

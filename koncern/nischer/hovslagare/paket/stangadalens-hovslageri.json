@@ -5,15 +5,15 @@
  "arketyp": "redaktionell",
  "fro": "a9bbf31b",
  "typsnitt": {
-  "id": "figtree",
-  "kategori": "geometrisk",
-  "rubrik": "Figtree",
-  "text": "Figtree",
+  "id": "spacemono",
+  "kategori": "mono",
+  "rubrik": "Space Mono",
+  "text": "Space Grotesk",
   "rubrik_vikt": 700,
-  "spatiering": "-0.025em",
+  "spatiering": "-0.03em",
   "versaler": false,
   "skala": 0.94,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "ui-monospace, monospace",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 700,
   "logo_vikt": 800,
@@ -22,7 +22,7 @@
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "rubrik_spec": "ital,wght@0,400;0,700;1,400",
   "kursiv": true
  },
  "palett": "nisch-30",
@@ -70,13 +70,13 @@
   "band2": "#d9c2a5"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,15 +90,15 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
-  "bolag": "tabell",
-  "siffror": "bild",
+  "vagval": "kort",
+  "bolag": "mosaik",
+  "siffror": "m-bildkort",
   "nyheter": "tidning",
   "omdomen": "kort",
-  "faq": "tva",
-  "projekt": "feature",
-  "logos": "standard",
-  "panel": "kultur",
+  "faq": "l-bildkort",
+  "projekt": "f-rulle",
+  "logos": "k-kundkort",
+  "panel": "jobb",
   "boka": "centrerad"
  },
  "ordning_lista": [
@@ -145,13 +145,13 @@
   "natur",
   "people"
  ],
- "herotext": "nere",
- "rubrikstil": "stor",
+ "herotext": "stack",
+ "rubrikstil": "versal",
  "v7": {
-  "typ": "figtree",
-  "hero": "mosaik",
-  "herotext": "nere",
-  "rubrik": "stor",
-  "form": "rundad"
+  "typ": "spacemono",
+  "hero": "statement",
+  "herotext": "stack",
+  "rubrik": "versal",
+  "form": "mjuk"
  }
 }

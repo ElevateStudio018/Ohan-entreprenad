@@ -70,13 +70,13 @@
   "band2": "#6b89e6"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "rund",
+  "vagval": "e-panel",
+  "bolag": "mosaik",
   "siffror": "rad",
   "nyheter": "tidning",
-  "omdomen": "kort",
-  "galleri": "rutnat",
+  "omdomen": "h-trappa",
+  "galleri": "i-snitt",
   "priser": "standard",
-  "hb": "helbild",
-  "faq": "tva",
-  "berattelser": "kolumner"
+  "hb": "m-bento",
+  "faq": "l-bildkort",
+  "berattelser": "f-trappa"
  },
  "ordning_lista": [
   "vagval",
@@ -151,13 +151,13 @@
   "katt",
   "hundtraning"
  ],
- "herotext": "versal",
- "rubrikstil": "standard",
+ "herotext": "nere",
+ "rubrikstil": "linje",
  "v7": {
   "typ": "nunito",
-  "hero": "statement",
-  "herotext": "versal",
-  "rubrik": "standard",
-  "form": "mjuk"
+  "hero": "centrerad",
+  "herotext": "nere",
+  "rubrik": "linje",
+  "form": "rundad"
  }
 }

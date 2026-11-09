@@ -5,25 +5,25 @@
  "arketyp": "ramad",
  "fro": "8f712ece",
  "typsnitt": {
-  "id": "lexend",
-  "kategori": "geometrisk",
-  "rubrik": "Lexend",
-  "text": "Lexend",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.03em",
+  "id": "mulish",
+  "kategori": "humanistisk",
+  "rubrik": "Mulish",
+  "text": "Mulish",
+  "rubrik_vikt": 800,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 800,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "-0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400;500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,600;0,700;0,800;1,700",
+  "kursiv": true
  },
  "palett": "nisch-0",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#97d6df"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "piller-rund",
+  "knapp": 999,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
+  "vagval": "e-lameller",
   "bolag": "lista",
   "siffror": "rad",
   "nyheter": "lista",
   "omdomen": "kort",
-  "projekt": "stor",
-  "panel": "jobb",
-  "faq": "centrerad",
-  "certifikat": "rad",
-  "berattelser": "stor",
+  "projekt": "f-remsor",
+  "panel": "kort",
+  "faq": "standard",
+  "certifikat": "k-bildsplit",
+  "berattelser": "overlap",
   "boka": "standard",
-  "cta": "bild"
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "projekt",
@@ -147,13 +147,13 @@
   "natur",
   "people"
  ],
- "herotext": "delad",
- "rubrikstil": "mitt",
+ "herotext": "uppe",
+ "rubrikstil": "standard",
  "v7": {
-  "typ": "lexend",
-  "hero": "helskarm",
-  "herotext": "delad",
-  "rubrik": "mitt",
-  "form": "kantig"
+  "typ": "mulish",
+  "hero": "centrerad",
+  "herotext": "uppe",
+  "rubrik": "standard",
+  "form": "piller-rund"
  }
 }

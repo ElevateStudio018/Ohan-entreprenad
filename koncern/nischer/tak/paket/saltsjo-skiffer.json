@@ -5,10 +5,10 @@
  "arketyp": "varm-bostad",
  "fro": "4b6409ff",
  "typsnitt": {
-  "id": "figtree",
-  "kategori": "geometrisk",
-  "rubrik": "Figtree",
-  "text": "Figtree",
+  "id": "hanken",
+  "kategori": "grotesk",
+  "rubrik": "Hanken Grotesk",
+  "text": "Hanken Grotesk",
   "rubrik_vikt": 700,
   "spatiering": "-0.025em",
   "versaler": false,
@@ -70,13 +70,13 @@
   "band2": "#bc60e6"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
+  "namn": "piller-kantig",
+  "knapp": 999,
   "kort": 0,
   "bild": 0,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "cirklar",
   "bolag": "rund",
-  "siffror": "vertikal",
-  "nyheter": "sida",
-  "omdomen": "stor",
+  "siffror": "m-bento",
+  "nyheter": "f-block",
+  "omdomen": "rad",
   "panel": "kort",
-  "faq": "tva",
-  "projekt": "lista",
-  "certifikat": "rad",
-  "logos": "standard",
-  "boka": "centrerad",
-  "cta": "band"
+  "faq": "standard",
+  "projekt": "feature",
+  "certifikat": "k-brickor",
+  "logos": "k-kundkort",
+  "boka": "n-fotokort",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -155,13 +155,13 @@
   "hem",
   "people"
  ],
- "herotext": "kursiv",
- "rubrikstil": "mitt",
+ "herotext": "delad",
+ "rubrikstil": "kant",
  "v7": {
-  "typ": "figtree",
-  "hero": "centrerad",
-  "herotext": "kursiv",
-  "rubrik": "mitt",
-  "form": "kantig"
+  "typ": "hanken",
+  "hero": "statement",
+  "herotext": "delad",
+  "rubrik": "kant",
+  "form": "piller-kantig"
  }
 }

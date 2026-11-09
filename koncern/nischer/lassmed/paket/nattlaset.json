@@ -70,13 +70,13 @@
   "band2": "#e8d48a"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "typo",
-  "bolag": "namnlista",
+  "vagval": "rutor",
+  "bolag": "mosaik",
   "siffror": "dashboard",
-  "nyheter": "kort",
+  "nyheter": "lista",
   "omdomen": "stor",
-  "logos": "standard",
-  "projekt": "karusell",
-  "faq": "standard",
-  "priser": "standard",
-  "boka": "centrerad",
-  "cta": "delad"
+  "logos": "k-kundkort",
+  "projekt": "f-remsor",
+  "faq": "l-bento",
+  "priser": "i-huvudpaket",
+  "boka": "n-bento",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "vagval",
@@ -150,13 +150,13 @@
   "hem",
   "people"
  ],
- "herotext": "kursiv",
+ "herotext": "nere",
  "rubrikstil": "stor",
  "v7": {
   "typ": "newsreader",
-  "hero": "mosaik",
-  "herotext": "kursiv",
+  "hero": "band",
+  "herotext": "nere",
   "rubrik": "stor",
-  "form": "kantig"
+  "form": "latt"
  }
 }

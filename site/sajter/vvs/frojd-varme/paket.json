@@ -70,13 +70,13 @@
   "band2": "#8cb8eb"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,19 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "bildrutor",
+  "vagval": "e-panel",
   "bolag": "rund",
   "siffror": "rad",
-  "nyheter": "rad",
+  "nyheter": "f-block",
   "omdomen": "kort",
-  "hb": "citat",
-  "projekt": "zigzag",
-  "citat": "stor",
-  "certifikat": "rad",
-  "process": "vertikal",
-  "logos": "standard",
-  "berattelser": "stor",
-  "snabb": "rutor"
+  "hb": "m-bento",
+  "projekt": "f-remsor",
+  "citat": "h-kort",
+  "certifikat": "k-bento",
+  "process": "h-pilar",
+  "logos": "k-kundkort",
+  "berattelser": "f-trappa",
+  "snabb": "h-bento"
  },
  "ordning_lista": [
   "hb",
@@ -155,13 +155,13 @@
   "hem",
   "people"
  ],
- "herotext": "kursiv",
- "rubrikstil": "understruken",
+ "herotext": "kort",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "playfair",
-  "hero": "statement",
-  "herotext": "kursiv",
-  "rubrik": "understruken",
-  "form": "rundad"
+  "hero": "band",
+  "herotext": "kort",
+  "rubrik": "stor",
+  "form": "mjuk"
  }
 }

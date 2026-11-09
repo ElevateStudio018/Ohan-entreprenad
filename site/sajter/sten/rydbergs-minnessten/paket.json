@@ -70,13 +70,13 @@
   "band2": "#7fd6c2"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "kort",
-  "bolag": "vagg",
+  "vagval": "rader",
+  "bolag": "e-kolumner",
   "siffror": "band",
   "nyheter": "lista",
-  "omdomen": "stor",
-  "priser": "standard",
-  "faq": "tva",
-  "projekt": "lista",
-  "berattelser": "zigzag",
-  "panel": "kort",
-  "boka": "centrerad",
+  "omdomen": "h-chatt",
+  "priser": "tabell",
+  "faq": "l-bildkort",
+  "projekt": "f-bento",
+  "berattelser": "f-trappa",
+  "panel": "jobb",
+  "boka": "n-fotokort",
   "cta": "delad"
  },
  "ordning_lista": [
@@ -153,13 +153,13 @@
   "natur",
   "people"
  ],
- "herotext": "kort",
- "rubrikstil": "versal",
+ "herotext": "stack",
+ "rubrikstil": "stor",
  "v7": {
   "typ": "montserrat",
-  "hero": "centrerad",
-  "herotext": "kort",
-  "rubrik": "versal",
-  "form": "rundad"
+  "hero": "statement",
+  "herotext": "stack",
+  "rubrik": "stor",
+  "form": "mjuk"
  }
 }

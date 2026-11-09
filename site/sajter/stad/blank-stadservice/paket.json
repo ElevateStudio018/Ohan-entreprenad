@@ -5,17 +5,17 @@
  "arketyp": "teknisk",
  "fro": "af7cf65e",
  "typsnitt": {
-  "id": "poppins",
+  "id": "urbanist",
   "kategori": "geometrisk",
-  "rubrik": "Poppins",
-  "text": "Poppins",
-  "rubrik_vikt": 600,
+  "rubrik": "Urbanist",
+  "text": "Urbanist",
+  "rubrik_vikt": 700,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.02em",
@@ -70,13 +70,13 @@
   "band2": "#ffd27a"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "e-snapp",
   "bolag": "tabell",
-  "siffror": "vertikal",
+  "siffror": "bild",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "panel": "panel",
-  "priser": "standard",
-  "hb": "siffror",
-  "projekt": "feature",
-  "citat": "standard",
-  "logos": "standard",
-  "cta": "bild"
+  "panel": "kort",
+  "priser": "i-huvudpaket",
+  "hb": "tre",
+  "projekt": "karusell",
+  "citat": "l-overlap",
+  "logos": "k-bento",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -152,12 +152,12 @@
   "people"
  ],
  "herotext": "linje",
- "rubrikstil": "nummer",
+ "rubrikstil": "mitt",
  "v7": {
-  "typ": "poppins",
-  "hero": "mosaik",
+  "typ": "urbanist",
+  "hero": "band",
   "herotext": "linje",
-  "rubrik": "nummer",
-  "form": "mjuk"
+  "rubrik": "mitt",
+  "form": "latt"
  }
 }

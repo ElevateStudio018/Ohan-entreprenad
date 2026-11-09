@@ -5,10 +5,10 @@
  "arketyp": "varm-bostad",
  "fro": "05744a20",
  "typsnitt": {
-  "id": "instrument-serif",
+  "id": "baskerville",
   "kategori": "serif",
-  "rubrik": "Instrument Serif",
-  "text": "Inter",
+  "rubrik": "Libre Baskerville",
+  "text": "Lato",
   "rubrik_vikt": 400,
   "spatiering": "-0.02em",
   "versaler": false,
@@ -22,7 +22,7 @@
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;1,400",
+  "rubrik_spec": "ital,wght@0,400;0,700;1,400",
   "kursiv": true
  },
  "palett": "nisch-0",
@@ -70,10 +70,10 @@
   "band2": "#ffd27a"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "piller-kantig",
+  "knapp": 999,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
  "hero": "mosaik",
@@ -90,16 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "bildrutor",
   "bolag": "rund",
   "siffror": "bild",
   "nyheter": "sida",
-  "omdomen": "stor",
-  "projekt": "mosaik",
-  "logos": "standard",
-  "citat": "bild",
-  "certifikat": "standard",
-  "panel": "helbild",
+  "omdomen": "h-flik",
+  "projekt": "feature",
+  "logos": "k-bento",
+  "citat": "h-markor",
+  "certifikat": "k-brickor",
+  "panel": "kort",
   "boka": "centrerad"
  },
  "ordning_lista": [
@@ -153,13 +153,13 @@
   "bygg",
   "people"
  ],
- "herotext": "kontur",
- "rubrikstil": "stor",
+ "herotext": "nere",
+ "rubrikstil": "kant",
  "v7": {
-  "typ": "instrument-serif",
+  "typ": "baskerville",
   "hero": "mosaik",
-  "herotext": "kontur",
-  "rubrik": "stor",
-  "form": "rundad"
+  "herotext": "nere",
+  "rubrik": "kant",
+  "form": "piller-kantig"
  }
 }

@@ -70,13 +70,13 @@
   "band2": "#dec98e"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "split",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,19 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "nummer",
+  "vagval": "cirklar",
   "bolag": "kort",
-  "siffror": "rad",
+  "siffror": "m-overlap",
   "nyheter": "tidning",
   "omdomen": "stor",
-  "projekt": "lista",
-  "panel": "jobb",
-  "galleri": "standard",
-  "hb": "helbild",
-  "process": "kort",
+  "projekt": "feature",
+  "panel": "m-overlap",
+  "galleri": "i-snitt",
+  "hb": "g-diagonal",
+  "process": "h-pilar",
   "berattelser": "stor",
-  "priser": "tabell",
-  "snabb": "rutor"
+  "priser": "i-biljett",
+  "snabb": "rutor",
+  "cta": "delad"
  },
  "ordning_lista": [
   "siffror",
@@ -113,6 +114,7 @@
   "bolag",
   "hb",
   "process",
+  "cta",
   "berattelser",
   "priser",
   "snabb"
@@ -158,13 +160,13 @@
   "ved",
   "tradgard"
  ],
- "herotext": "standard",
- "rubrikstil": "nummer",
+ "herotext": "linje",
+ "rubrikstil": "kant",
  "v7": {
   "typ": "bebas",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "nummer",
-  "form": "latt"
+  "hero": "mosaik",
+  "herotext": "linje",
+  "rubrik": "kant",
+  "form": "kantig"
  }
 }

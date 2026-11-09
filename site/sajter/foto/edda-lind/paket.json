@@ -70,8 +70,8 @@
   "band2": "#c8e07a"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
+  "namn": "piller-kantig",
+  "knapp": 999,
   "kort": 0,
   "bild": 0,
   "hero": 0
@@ -91,19 +91,19 @@
  "motiv": "inget",
  "block": {
   "vagval": "rutor",
-  "bolag": "namnlista",
-  "siffror": "kort",
-  "nyheter": "rad",
-  "omdomen": "kort",
-  "faq": "centrerad",
-  "priser": "lista",
-  "galleri": "rutnat",
-  "hb": "helbild",
-  "process": "kort",
-  "panel": "jobb",
-  "projekt": "stor",
+  "bolag": "rund",
+  "siffror": "bild",
+  "nyheter": "f-rullband",
+  "omdomen": "h-trappa",
+  "faq": "standard",
+  "priser": "i-flikar",
+  "galleri": "i-snitt",
+  "hb": "m-bento",
+  "process": "n-karusell",
+  "panel": "m-bildkort",
+  "projekt": "f-remsor",
   "boka": "centrerad",
-  "cta": "bild"
+  "cta": "delad"
  },
  "ordning_lista": [
   "faq",
@@ -162,13 +162,13 @@
   "detalj",
   "fest"
  ],
- "herotext": "delad",
+ "herotext": "nere",
  "rubrikstil": "versal",
  "v7": {
   "typ": "josefin",
   "hero": "statement",
-  "herotext": "delad",
+  "herotext": "nere",
   "rubrik": "versal",
-  "form": "kantig"
+  "form": "piller-kantig"
  }
 }

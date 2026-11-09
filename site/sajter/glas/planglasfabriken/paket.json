@@ -70,10 +70,10 @@
   "band2": "#f1b487"
  },
  "form": {
-  "namn": "piller-rund",
+  "namn": "piller-kantig",
   "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
  "hero": "band",
@@ -90,20 +90,20 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "zigzag",
+  "vagval": "kort",
+  "bolag": "j-fack",
   "siffror": "dashboard",
-  "nyheter": "kort",
+  "nyheter": "f-block",
   "omdomen": "stor",
-  "citat": "stor",
-  "faq": "centrerad",
-  "projekt": "tabell",
-  "process": "standard",
-  "certifikat": "rad",
-  "panel": "kultur",
-  "hb": "tre",
-  "snabb": "band",
-  "cta": "band"
+  "citat": "l-bildkort",
+  "faq": "l-bildkort",
+  "projekt": "mosaik",
+  "process": "h-pilar",
+  "certifikat": "k-brickor",
+  "panel": "helbild",
+  "hb": "g-diagonal",
+  "snabb": "rutor",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -159,13 +159,13 @@
   "interior",
   "people"
  ],
- "herotext": "kort",
- "rubrikstil": "mitt",
+ "herotext": "linje",
+ "rubrikstil": "nummer",
  "v7": {
   "typ": "plexmono",
   "hero": "band",
-  "herotext": "kort",
-  "rubrik": "mitt",
-  "form": "piller-rund"
+  "herotext": "linje",
+  "rubrik": "nummer",
+  "form": "piller-kantig"
  }
 }

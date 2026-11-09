@@ -70,13 +70,13 @@
   "band2": "#f2b84b"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "mjuk",
+  "knapp": 999,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
+  "vagval": "chips",
   "bolag": "rund",
-  "siffror": "vertikal",
-  "nyheter": "sida",
+  "siffror": "e-split",
+  "nyheter": "kort",
   "omdomen": "stor",
-  "process": "linje",
-  "projekt": "lista",
-  "hb": "band",
-  "certifikat": "rad",
-  "berattelser": "band",
-  "boka": "centrerad",
-  "cta": "delad"
+  "process": "n-bildkort",
+  "projekt": "f-remsor",
+  "hb": "m-bildkort",
+  "certifikat": "k-brickor",
+  "berattelser": "f-paneler",
+  "boka": "n-bento",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -151,13 +151,13 @@
  "profil": "bygg",
  "min_avstand": 10.79,
  "hero_tagg": "vvs",
- "herotext": "versal",
- "rubrikstil": "linje",
+ "herotext": "linje",
+ "rubrikstil": "standard",
  "v7": {
   "typ": "montserrat",
-  "hero": "centrerad",
-  "herotext": "versal",
-  "rubrik": "linje",
-  "form": "rundad"
+  "hero": "statement",
+  "herotext": "linje",
+  "rubrik": "standard",
+  "form": "mjuk"
  }
 }

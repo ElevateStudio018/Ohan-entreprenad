@@ -5,24 +5,24 @@
  "arketyp": "redaktionell",
  "fro": "ed5dbafb",
  "typsnitt": {
-  "id": "quicksand",
-  "kategori": "rund",
-  "rubrik": "Quicksand",
-  "text": "Nunito Sans",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.01em",
+  "id": "outfit",
+  "kategori": "geometrisk",
+  "rubrik": "Outfit",
+  "text": "DM Sans",
+  "rubrik_vikt": 600,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.02em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@500;600;700",
+  "rubrik_spec": "wght@400;500;600;700",
   "kursiv": false
  },
  "palett": "djur-150",
@@ -70,13 +70,13 @@
   "band2": "#7fd6c2"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "split",
+ "hero": "statement",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
+  "vagval": "rader",
   "bolag": "kort",
-  "siffror": "vertikal",
+  "siffror": "m-bento",
   "nyheter": "tidning",
-  "omdomen": "rad",
-  "priser": "lista",
-  "faq": "centrerad",
-  "galleri": "rad",
-  "projekt": "zigzag",
-  "boka": "standard"
+  "omdomen": "n-bildkort",
+  "priser": "tabell",
+  "faq": "standard",
+  "galleri": "n-bento",
+  "projekt": "feature",
+  "boka": "n-fotokort",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -108,6 +109,7 @@
   "siffror",
   "galleri",
   "projekt",
+  "cta",
   "omdomen",
   "boka"
  ],
@@ -151,13 +153,13 @@
   "katt",
   "hundtraning"
  ],
- "herotext": "standard",
- "rubrikstil": "pill",
+ "herotext": "linje",
+ "rubrikstil": "stor",
  "v7": {
-  "typ": "quicksand",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "pill",
-  "form": "kantig"
+  "typ": "outfit",
+  "hero": "statement",
+  "herotext": "linje",
+  "rubrik": "stor",
+  "form": "latt"
  }
 }

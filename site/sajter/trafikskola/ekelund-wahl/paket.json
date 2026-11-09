@@ -70,13 +70,13 @@
   "band2": "#89a5d6"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "mjuk",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 22,
+  "bild": 20,
   "hero": 0
  },
- "hero": "band",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
-  "bolag": "flikar",
+  "vagval": "e-panel",
+  "bolag": "e-kolumner",
   "siffror": "dashboard",
   "nyheter": "tidning",
-  "omdomen": "rad",
-  "projekt": "zigzag",
+  "omdomen": "n-bildkort",
+  "projekt": "karusell",
   "priser": "tabell",
-  "logos": "standard",
-  "certifikat": "rad",
-  "berattelser": "rad",
-  "process": "linje",
-  "snabb": "rutor"
+  "logos": "k-bento",
+  "certifikat": "k-bildsplit",
+  "berattelser": "f-trappa",
+  "process": "n-bildkort",
+  "snabb": "rutor",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -112,6 +113,7 @@
   "certifikat",
   "berattelser",
   "process",
+  "cta",
   "omdomen",
   "snabb"
  ],
@@ -154,13 +156,13 @@
   "people",
   "people"
  ],
- "herotext": "uppe",
- "rubrikstil": "stor",
+ "herotext": "kort",
+ "rubrikstil": "kant",
  "v7": {
   "typ": "mulish",
-  "hero": "band",
-  "herotext": "uppe",
-  "rubrik": "stor",
-  "form": "piller-kantig"
+  "hero": "centrerad",
+  "herotext": "kort",
+  "rubrik": "kant",
+  "form": "mjuk"
  }
 }

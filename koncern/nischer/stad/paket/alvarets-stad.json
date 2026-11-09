@@ -5,25 +5,25 @@
  "arketyp": "varm-bostad",
  "fro": "ca169a50",
  "typsnitt": {
-  "id": "outfit",
-  "kategori": "geometrisk",
-  "rubrik": "Outfit",
-  "text": "DM Sans",
+  "id": "playfair",
+  "kategori": "serif",
+  "rubrik": "Playfair Display",
+  "text": "Source Sans 3",
   "rubrik_vikt": 600,
-  "spatiering": "-0.02em",
+  "spatiering": "-0.015em",
   "versaler": false,
   "skala": 1.0,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
   "rubrik_vikter": "400;500;600;700",
   "siffra_vikt": 600,
-  "logo_vikt": 800,
+  "logo_vikt": 600,
   "logo_versaler": false,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400;500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,400;0,600;0,700;1,400;1,600",
+  "kursiv": true
  },
  "palett": "nisch-150",
  "farger": {
@@ -76,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "karusell",
-  "siffror": "rad",
+  "vagval": "e-lameller",
+  "bolag": "e-kolumner",
+  "siffror": "m-bento",
   "nyheter": "lista",
   "omdomen": "stor",
-  "certifikat": "standard",
-  "faq": "tva",
-  "projekt": "mosaik",
-  "logos": "band",
-  "berattelser": "stor"
+  "certifikat": "k-bildsplit",
+  "faq": "standard",
+  "projekt": "f-remsor",
+  "logos": "k-kundkort",
+  "berattelser": "band",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -109,6 +110,7 @@
   "projekt",
   "logos",
   "berattelser",
+  "cta",
   "siffror"
  ],
  "panel_omvand": true,
@@ -149,12 +151,12 @@
   "people"
  ],
  "herotext": "delad",
- "rubrikstil": "mitt",
+ "rubrikstil": "understruken",
  "v7": {
-  "typ": "outfit",
-  "hero": "helskarm",
+  "typ": "playfair",
+  "hero": "centrerad",
   "herotext": "delad",
-  "rubrik": "mitt",
+  "rubrik": "understruken",
   "form": "piller-kantig"
  }
 }

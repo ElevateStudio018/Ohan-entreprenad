@@ -76,7 +76,7 @@
   "bild": 4,
   "hero": 0
  },
- "hero": "split",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,19 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
-  "bolag": "kort",
+  "vagval": "e-lameller",
+  "bolag": "mosaik",
   "siffror": "rad",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "projekt": "karusell",
-  "citat": "sida",
-  "panel": "helbild",
-  "process": "standard",
-  "berattelser": "rad",
-  "hb": "split",
-  "boka": "standard",
-  "cta": "band"
+  "omdomen": "n-bildkort",
+  "projekt": "f-ar",
+  "citat": "h-markor",
+  "panel": "kort",
+  "process": "kort",
+  "berattelser": "band",
+  "hb": "tre",
+  "boka": "centrerad",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "projekt",
@@ -152,12 +152,12 @@
  "profil": "bygg",
  "min_avstand": 11.81,
  "hero_tagg": "bygg",
- "herotext": "standard",
+ "herotext": "stack",
  "rubrikstil": "kant",
  "v7": {
   "typ": "publicsans",
-  "hero": "split",
-  "herotext": "standard",
+  "hero": "centrerad",
+  "herotext": "stack",
   "rubrik": "kant",
   "form": "latt"
  }

@@ -70,13 +70,13 @@
   "band2": "#a6e3a1"
  },
  "form": {
-  "namn": "kantig",
-  "knapp": 0,
-  "kort": 0,
-  "bild": 0,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "band",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,13 +93,13 @@
   "vagval": "chips",
   "bolag": "lista",
   "siffror": "vertikal",
-  "nyheter": "tidning",
-  "omdomen": "stor",
-  "panel": "kultur",
-  "berattelser": "tre",
-  "projekt": "zigzag",
-  "snabb": "band",
-  "cta": "delad"
+  "nyheter": "kort",
+  "omdomen": "rad",
+  "panel": "m-bildkort",
+  "berattelser": "band",
+  "projekt": "f-rulle",
+  "snabb": "h-bento",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "panel",
@@ -151,13 +151,13 @@
   "infra",
   "people"
  ],
- "herotext": "delad",
- "rubrikstil": "kant",
+ "herotext": "kort",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "robotoslab",
-  "hero": "band",
-  "herotext": "delad",
-  "rubrik": "kant",
-  "form": "kantig"
+  "hero": "helskarm",
+  "herotext": "kort",
+  "rubrik": "versal",
+  "form": "latt"
  }
 }

@@ -73,10 +73,10 @@
   "band2": "#e977bf"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
  "hero": "helskarm",
@@ -93,19 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rullband",
+  "vagval": "e-lameller",
   "bolag": "flikar",
-  "siffror": "vertikal",
+  "siffror": "e-split",
   "nyheter": "lista",
-  "omdomen": "rad",
-  "projekt": "feature",
-  "certifikat": "rad",
+  "omdomen": "h-flik",
+  "projekt": "mosaik",
+  "certifikat": "k-brickor",
   "berattelser": "band",
-  "hb": "helbild",
-  "panel": "helbild",
-  "faq": "centrerad",
-  "logos": "standard",
-  "cta": "bild"
+  "hb": "tre",
+  "panel": "m-bildkort",
+  "faq": "standard",
+  "logos": "k-bento",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -159,13 +159,13 @@
   "natur",
   "people"
  ],
- "herotext": "kontur",
- "rubrikstil": "stor",
+ "herotext": "uppe",
+ "rubrikstil": "standard",
  "v7": {
   "typ": "intertight",
   "hero": "helskarm",
-  "herotext": "kontur",
-  "rubrik": "stor",
-  "form": "piller-rund"
+  "herotext": "uppe",
+  "rubrik": "standard",
+  "form": "rundad"
  }
 }

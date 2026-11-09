@@ -70,13 +70,13 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "split",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
+  "vagval": "rutor",
   "bolag": "rund",
-  "siffror": "jatte",
-  "nyheter": "lista",
-  "omdomen": "stor",
-  "citat": "bild",
+  "siffror": "bild",
+  "nyheter": "f-block",
+  "omdomen": "h-flik",
+  "citat": "l-karusell",
   "projekt": "mosaik",
-  "priser": "lista",
-  "process": "kort",
+  "priser": "i-flikar",
+  "process": "standard",
   "boka": "centrerad",
-  "cta": "band"
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "nyheter",
@@ -152,13 +152,13 @@
   "tak",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "standard",
+ "herotext": "kort",
+ "rubrikstil": "mitt",
  "v7": {
   "typ": "plexsans",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "standard",
-  "form": "piller-rund"
+  "hero": "mosaik",
+  "herotext": "kort",
+  "rubrik": "mitt",
+  "form": "rundad"
  }
 }

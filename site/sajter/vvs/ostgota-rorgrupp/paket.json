@@ -73,10 +73,10 @@
   "band2": "#81d2a6"
  },
  "form": {
-  "namn": "mjuk",
+  "namn": "piller-kantig",
   "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
  "hero": "statement",
@@ -93,19 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "cirklar",
+  "vagval": "e-lameller",
   "bolag": "rund",
   "siffror": "jatte",
   "nyheter": "lista",
-  "omdomen": "kort",
-  "citat": "standard",
-  "panel": "kultur",
-  "projekt": "feature",
+  "omdomen": "h-chatt",
+  "citat": "l-bildkort",
+  "panel": "helbild",
+  "projekt": "mosaik",
   "process": "kort",
-  "logos": "band",
-  "kontor": "standard",
-  "certifikat": "standard",
-  "cta": "bild"
+  "logos": "k-kundkort",
+  "kontor": "k-rulle",
+  "certifikat": "k-brickor",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "citat",
@@ -157,13 +157,13 @@
   "hem",
   "people"
  ],
- "herotext": "delad",
- "rubrikstil": "linje",
+ "herotext": "stack",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "baskerville",
   "hero": "statement",
-  "herotext": "delad",
-  "rubrik": "linje",
-  "form": "mjuk"
+  "herotext": "stack",
+  "rubrik": "versal",
+  "form": "piller-kantig"
  }
 }

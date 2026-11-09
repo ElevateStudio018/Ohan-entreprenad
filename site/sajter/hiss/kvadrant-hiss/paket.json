@@ -5,25 +5,25 @@
  "arketyp": "teknisk",
  "fro": "b045082a",
  "typsnitt": {
-  "id": "unbounded",
-  "kategori": "display",
-  "rubrik": "Unbounded",
-  "text": "Inter",
-  "rubrik_vikt": 600,
+  "id": "epilogue",
+  "kategori": "grotesk",
+  "rubrik": "Epilogue",
+  "text": "Epilogue",
+  "rubrik_vikt": 700,
   "spatiering": "-0.03em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.08em",
   "nav_versaler": false,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400;500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "kursiv": true
  },
  "palett": "nisch-180",
  "farger": {
@@ -73,13 +73,13 @@
   "band2": "#ce728e"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "piller-rund",
+  "knapp": 999,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "centrerad",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,18 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "lankar",
-  "bolag": "rund",
+  "vagval": "e-panel",
+  "bolag": "mosaik",
   "siffror": "dashboard",
-  "nyheter": "sida",
+  "nyheter": "lista",
   "omdomen": "stor",
-  "projekt": "tabell",
-  "berattelser": "kolumner",
+  "projekt": "f-bento",
+  "berattelser": "zigzag",
   "faq": "standard",
-  "logos": "standard",
-  "certifikat": "rad",
+  "logos": "k-kundkort",
+  "certifikat": "k-bildsplit",
   "boka": "standard",
-  "cta": "bild"
+  "cta": "delad"
  },
  "ordning_lista": [
   "projekt",
@@ -156,13 +156,13 @@
   "stad",
   "people"
  ],
- "herotext": "mitten",
- "rubrikstil": "kant",
+ "herotext": "nere",
+ "rubrikstil": "linje",
  "v7": {
-  "typ": "unbounded",
-  "hero": "centrerad",
-  "herotext": "mitten",
-  "rubrik": "kant",
-  "form": "latt"
+  "typ": "epilogue",
+  "hero": "mosaik",
+  "herotext": "nere",
+  "rubrik": "linje",
+  "form": "piller-rund"
  }
 }

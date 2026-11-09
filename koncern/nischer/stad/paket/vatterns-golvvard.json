@@ -5,25 +5,25 @@
  "arketyp": "monument",
  "fro": "e0d5a22f",
  "typsnitt": {
-  "id": "epilogue",
-  "kategori": "grotesk",
-  "rubrik": "Epilogue",
-  "text": "Epilogue",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.03em",
-  "versaler": false,
-  "skala": 0.94,
+  "id": "barlowcond",
+  "kategori": "smal",
+  "rubrik": "Barlow Condensed",
+  "text": "Barlow",
+  "rubrik_vikt": 600,
+  "spatiering": "0",
+  "versaler": true,
+  "skala": 0.9,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
-  "logo_vikt": 800,
-  "logo_versaler": false,
+  "siffra_vikt": 600,
+  "logo_vikt": 600,
+  "logo_versaler": true,
   "logo_spatiering": "0.08em",
-  "nav_versaler": false,
-  "knapp_versaler": false,
+  "nav_versaler": true,
+  "knapp_versaler": true,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
-  "kursiv": true
+  "rubrik_spec": "wght@500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-90",
  "farger": {
@@ -73,13 +73,13 @@
   "band2": "#d483c2"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "latt",
+  "knapp": 6,
+  "kort": 6,
+  "bild": 4,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "centrerad",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,18 +93,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "chips",
+  "vagval": "rutor",
   "bolag": "rund",
   "siffror": "rad",
-  "nyheter": "tidning",
+  "nyheter": "lista",
   "omdomen": "stor",
-  "certifikat": "standard",
-  "berattelser": "overlap",
-  "process": "linje",
-  "projekt": "zigzag",
-  "faq": "standard",
-  "panel": "kort",
-  "cta": "delad"
+  "certifikat": "k-brickor",
+  "berattelser": "f-trappa",
+  "process": "h-pilar",
+  "projekt": "f-ar",
+  "faq": "l-bento",
+  "panel": "m-overlap",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -154,13 +154,13 @@
   "interior",
   "people"
  ],
- "herotext": "hoger",
- "rubrikstil": "pill",
+ "herotext": "kort",
+ "rubrikstil": "linje",
  "v7": {
-  "typ": "epilogue",
-  "hero": "statement",
-  "herotext": "hoger",
-  "rubrik": "pill",
-  "form": "mjuk"
+  "typ": "barlowcond",
+  "hero": "centrerad",
+  "herotext": "kort",
+  "rubrik": "linje",
+  "form": "latt"
  }
 }

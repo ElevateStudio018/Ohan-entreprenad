@@ -5,25 +5,25 @@
  "arketyp": "urban",
  "fro": "f2ef943e",
  "typsnitt": {
-  "id": "barlowcond",
-  "kategori": "smal",
-  "rubrik": "Barlow Condensed",
-  "text": "Barlow",
-  "rubrik_vikt": 600,
-  "spatiering": "0",
-  "versaler": true,
-  "skala": 0.9,
-  "rubrik_fallback": "system-ui, sans-serif",
+  "id": "spacemono",
+  "kategori": "mono",
+  "rubrik": "Space Mono",
+  "text": "Space Grotesk",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.03em",
+  "versaler": false,
+  "skala": 1.06,
+  "rubrik_fallback": "ui-monospace, monospace",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
-  "logo_vikt": 600,
+  "siffra_vikt": 700,
+  "logo_vikt": 800,
   "logo_versaler": true,
-  "logo_spatiering": "0.02em",
+  "logo_spatiering": "0.08em",
   "nav_versaler": false,
-  "knapp_versaler": true,
+  "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,400;0,700;1,400",
+  "kursiv": true
  },
  "palett": "nisch-90",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#e98a5d"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
- "hero": "helskarm",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
+  "vagval": "rader",
   "bolag": "kort",
   "siffror": "dashboard",
   "nyheter": "lista",
   "omdomen": "rad",
-  "projekt": "stor",
-  "faq": "tva",
-  "berattelser": "tre",
-  "process": "kort",
-  "boka": "standard",
-  "cta": "delad"
+  "projekt": "f-rulle",
+  "faq": "standard",
+  "berattelser": "zigzag",
+  "process": "standard",
+  "boka": "n-fotokort",
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "vagval",
@@ -148,13 +148,13 @@
   "bygg",
   "people"
  ],
- "herotext": "linje",
- "rubrikstil": "understruken",
+ "herotext": "nere",
+ "rubrikstil": "stor",
  "v7": {
-  "typ": "barlowcond",
-  "hero": "helskarm",
-  "herotext": "linje",
-  "rubrik": "understruken",
-  "form": "mjuk"
+  "typ": "spacemono",
+  "hero": "band",
+  "herotext": "nere",
+  "rubrik": "stor",
+  "form": "kantig"
  }
 }

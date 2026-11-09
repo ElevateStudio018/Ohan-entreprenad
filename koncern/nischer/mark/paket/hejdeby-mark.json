@@ -76,7 +76,7 @@
   "bild": 0,
   "hero": 0
  },
- "hero": "mosaik",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,16 +90,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "expertis",
+  "vagval": "rader",
   "bolag": "rund",
-  "siffror": "rad",
+  "siffror": "m-bento",
   "nyheter": "tidning",
-  "omdomen": "betyg",
-  "hb": "siffror",
-  "panel": "panel",
-  "projekt": "karusell",
-  "faq": "standard",
-  "boka": "standard"
+  "omdomen": "n-bildkort",
+  "hb": "m-bildkort",
+  "panel": "m-overlap",
+  "projekt": "f-rulle",
+  "faq": "l-bildkort",
+  "boka": "n-bento"
  },
  "ordning_lista": [
   "omdomen",
@@ -152,13 +152,13 @@
   "infra",
   "people"
  ],
- "herotext": "versal",
- "rubrikstil": "versal",
+ "herotext": "hoger",
+ "rubrikstil": "mitt",
  "v7": {
   "typ": "instrument-serif",
-  "hero": "mosaik",
-  "herotext": "versal",
-  "rubrik": "versal",
+  "hero": "band",
+  "herotext": "hoger",
+  "rubrik": "mitt",
   "form": "kantig"
  }
 }

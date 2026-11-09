@@ -5,24 +5,24 @@
  "arketyp": "koncernband",
  "fro": "be3e1616",
  "typsnitt": {
-  "id": "plusjakarta",
-  "kategori": "geometrisk",
-  "rubrik": "Plus Jakarta Sans",
-  "text": "Plus Jakarta Sans",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.025em",
+  "id": "intertight",
+  "kategori": "grotesk",
+  "rubrik": "Inter Tight",
+  "text": "Inter",
+  "rubrik_vikt": 600,
+  "spatiering": "-0.035em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "-0.02em",
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
   "kursiv": true
  },
  "palett": "nisch-180",
@@ -73,13 +73,13 @@
   "band2": "#daad90"
  },
  "form": {
-  "namn": "latt",
-  "knapp": 6,
-  "kort": 6,
-  "bild": 4,
+  "namn": "piller-rund",
+  "knapp": 999,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "band",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -93,16 +93,16 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rullband",
-  "bolag": "kort",
+  "vagval": "e-lameller",
+  "bolag": "karusell",
   "siffror": "band",
-  "nyheter": "kort",
+  "nyheter": "f-block",
   "omdomen": "kort",
-  "projekt": "tabell",
-  "certifikat": "standard",
-  "panel": "kort",
+  "projekt": "f-bento",
+  "certifikat": "k-brickor",
+  "panel": "m-bento",
   "boka": "centrerad",
-  "cta": "band"
+  "cta": "n-bildkort"
  },
  "ordning_lista": [
   "nyheter",
@@ -152,13 +152,13 @@
   "bygg",
   "people"
  ],
- "herotext": "kontur",
- "rubrikstil": "nummer",
+ "herotext": "linje",
+ "rubrikstil": "stor",
  "v7": {
-  "typ": "plusjakarta",
-  "hero": "statement",
-  "herotext": "kontur",
-  "rubrik": "nummer",
-  "form": "latt"
+  "typ": "intertight",
+  "hero": "band",
+  "herotext": "linje",
+  "rubrik": "stor",
+  "form": "piller-rund"
  }
 }

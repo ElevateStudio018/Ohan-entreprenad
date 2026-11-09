@@ -70,10 +70,10 @@
   "band2": "#a6e3a1"
  },
  "form": {
-  "namn": "piller-kantig",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 0,
-  "bild": 0,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
  "hero": "band",
@@ -92,14 +92,15 @@
  "block": {
   "vagval": "rutor",
   "bolag": "tabell",
-  "siffror": "cirklar",
+  "siffror": "m-bento",
   "nyheter": "lista",
   "omdomen": "stor",
-  "faq": "tva",
-  "certifikat": "rad",
-  "priser": "tabell",
-  "panel": "kort",
-  "projekt": "karusell"
+  "faq": "l-bildkort",
+  "certifikat": "k-bildsplit",
+  "priser": "standard",
+  "panel": "jobb",
+  "projekt": "f-bento",
+  "cta": "delad"
  },
  "ordning_lista": [
   "siffror",
@@ -108,6 +109,7 @@
   "certifikat",
   "priser",
   "panel",
+  "cta",
   "projekt"
  ],
  "panel_omvand": false,
@@ -145,13 +147,13 @@
   "bygg",
   "people"
  ],
- "herotext": "hoger",
- "rubrikstil": "understruken",
+ "herotext": "kort",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "josefin",
   "hero": "band",
-  "herotext": "hoger",
-  "rubrik": "understruken",
-  "form": "piller-kantig"
+  "herotext": "kort",
+  "rubrik": "versal",
+  "form": "piller-rund"
  }
 }

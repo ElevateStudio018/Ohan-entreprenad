@@ -70,10 +70,10 @@
   "band2": "#8cd07b"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "kantig",
+  "knapp": 0,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
  "hero": "band",
@@ -90,18 +90,18 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
+  "vagval": "cirklar",
   "bolag": "kort",
-  "siffror": "rad",
-  "nyheter": "rad",
-  "omdomen": "betyg",
-  "logos": "standard",
-  "projekt": "tabell",
-  "berattelser": "kolumner",
-  "citat": "standard",
-  "certifikat": "standard",
-  "snabb": "band",
-  "cta": "band"
+  "siffror": "m-bildkort",
+  "nyheter": "sida",
+  "omdomen": "h-trappa",
+  "logos": "k-kundkort",
+  "projekt": "f-rulle",
+  "berattelser": "stor",
+  "citat": "l-bildkort",
+  "certifikat": "k-bildsplit",
+  "snabb": "h-bento",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "vagval",
@@ -154,13 +154,13 @@
   "natur",
   "people"
  ],
- "herotext": "hoger",
- "rubrikstil": "standard",
+ "herotext": "linje",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "poppins",
   "hero": "band",
-  "herotext": "hoger",
-  "rubrik": "standard",
-  "form": "mjuk"
+  "herotext": "linje",
+  "rubrik": "versal",
+  "form": "kantig"
  }
 }

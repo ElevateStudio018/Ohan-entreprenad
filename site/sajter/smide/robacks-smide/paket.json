@@ -5,24 +5,24 @@
  "arketyp": "teknisk",
  "fro": "ce7665f1",
  "typsnitt": {
-  "id": "spectral",
-  "kategori": "serif",
-  "rubrik": "Spectral",
-  "text": "Karla",
-  "rubrik_vikt": 500,
-  "spatiering": "-0.02em",
+  "id": "instrumentsans",
+  "kategori": "grotesk",
+  "rubrik": "Instrument Sans",
+  "text": "Instrument Sans",
+  "rubrik_vikt": 600,
+  "spatiering": "-0.025em",
   "versaler": false,
   "skala": 0.94,
-  "rubrik_fallback": "Georgia, 'Times New Roman', serif",
+  "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 500,
-  "logo_vikt": 500,
+  "siffra_vikt": 600,
+  "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "-0.02em",
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,400;0,500;0,600;1,400",
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,500",
   "kursiv": true
  },
  "palett": "nisch-0",
@@ -70,13 +70,13 @@
   "band2": "#7ab5ee"
  },
  "form": {
-  "namn": "piller-rund",
-  "knapp": 999,
-  "kort": 10,
-  "bild": 10,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
- "hero": "band",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,15 +90,15 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
+  "vagval": "e-snapp",
   "bolag": "lista",
   "siffror": "dashboard",
-  "nyheter": "tidning",
-  "omdomen": "stor",
-  "projekt": "lista",
-  "citat": "stor",
-  "certifikat": "rad",
-  "boka": "standard"
+  "nyheter": "lista",
+  "omdomen": "n-bento",
+  "projekt": "f-rulle",
+  "citat": "l-karusell",
+  "certifikat": "k-bildsplit",
+  "boka": "centrerad"
  },
  "ordning_lista": [
   "vagval",
@@ -145,13 +145,13 @@
   "bygg",
   "people"
  ],
- "herotext": "kursiv",
- "rubrikstil": "understruken",
+ "herotext": "stack",
+ "rubrikstil": "versal",
  "v7": {
-  "typ": "spectral",
-  "hero": "band",
-  "herotext": "kursiv",
-  "rubrik": "understruken",
-  "form": "piller-rund"
+  "typ": "instrumentsans",
+  "hero": "helskarm",
+  "herotext": "stack",
+  "rubrik": "versal",
+  "form": "rundad"
  }
 }

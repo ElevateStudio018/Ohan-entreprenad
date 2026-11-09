@@ -5,17 +5,17 @@
  "arketyp": "industriell",
  "fro": "4c07242d",
  "typsnitt": {
-  "id": "rubik",
+  "id": "figtree",
   "kategori": "geometrisk",
-  "rubrik": "Rubik",
-  "text": "Rubik",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.02em",
+  "rubrik": "Figtree",
+  "text": "Figtree",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.025em",
   "versaler": false,
   "skala": 1.06,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "0.02em",
@@ -70,10 +70,10 @@
   "band2": "#d9c2a5"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "piller-kantig",
+  "knapp": 999,
+  "kort": 0,
+  "bild": 0,
   "hero": 0
  },
  "hero": "band",
@@ -90,17 +90,17 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rader",
+  "vagval": "cirklar",
   "bolag": "kort",
-  "siffror": "kort",
+  "siffror": "bild",
   "nyheter": "lista",
-  "omdomen": "betyg",
+  "omdomen": "h-chatt",
   "berattelser": "overlap",
   "process": "standard",
-  "priser": "tabell",
-  "galleri": "rutnat",
-  "boka": "centrerad",
-  "cta": "bild"
+  "priser": "i-flikar",
+  "galleri": "n-karusell",
+  "boka": "standard",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "siffror",
@@ -153,13 +153,13 @@
   "katt",
   "hundtraning"
  ],
- "herotext": "kursiv",
- "rubrikstil": "linje",
+ "herotext": "kort",
+ "rubrikstil": "standard",
  "v7": {
-  "typ": "rubik",
+  "typ": "figtree",
   "hero": "band",
-  "herotext": "kursiv",
-  "rubrik": "linje",
-  "form": "rundad"
+  "herotext": "kort",
+  "rubrik": "standard",
+  "form": "piller-kantig"
  }
 }

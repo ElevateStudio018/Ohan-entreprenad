@@ -5,17 +5,17 @@
  "arketyp": "finans",
  "fro": "8059d829",
  "typsnitt": {
-  "id": "publicsans",
-  "kategori": "grotesk",
-  "rubrik": "Public Sans",
-  "text": "Public Sans",
-  "rubrik_vikt": 700,
+  "id": "rubik",
+  "kategori": "geometrisk",
+  "rubrik": "Rubik",
+  "text": "Rubik",
+  "rubrik_vikt": 600,
   "spatiering": "-0.02em",
   "versaler": false,
   "skala": 0.94,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
+  "siffra_vikt": 600,
   "logo_vikt": 800,
   "logo_versaler": true,
   "logo_spatiering": "0.02em",
@@ -70,13 +70,13 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "mjuk",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "split",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,15 +90,15 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "rutor",
+  "vagval": "e-lameller",
   "bolag": "lista",
-  "siffror": "kort",
-  "nyheter": "lista",
+  "siffror": "e-split",
+  "nyheter": "kort",
   "omdomen": "rad",
-  "kontor": "standard",
-  "projekt": "lista",
-  "logos": "band",
-  "panel": "kort"
+  "kontor": "k-bento",
+  "projekt": "f-bento",
+  "logos": "k-bento",
+  "panel": "m-bento"
  },
  "ordning_lista": [
   "siffror",
@@ -149,13 +149,13 @@
   "infra",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "standard",
+ "herotext": "nere",
+ "rubrikstil": "kant",
  "v7": {
-  "typ": "publicsans",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "standard",
-  "form": "mjuk"
+  "typ": "rubik",
+  "hero": "mosaik",
+  "herotext": "nere",
+  "rubrik": "kant",
+  "form": "piller-rund"
  }
 }

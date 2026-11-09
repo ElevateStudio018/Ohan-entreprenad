@@ -70,13 +70,13 @@
   "band2": "#9ec5ff"
  },
  "form": {
-  "namn": "mjuk",
+  "namn": "piller-rund",
   "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "split",
+ "hero": "mosaik",
  "header": "transparent",
  "meny": "inline",
  "ruta": "vanster",
@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "register",
-  "bolag": "tabell",
+  "vagval": "e-lameller",
+  "bolag": "karusell",
   "siffror": "dashboard",
-  "nyheter": "rad",
+  "nyheter": "f-rullband",
   "omdomen": "kort",
-  "hb": "kort",
-  "certifikat": "rad",
+  "hb": "m-overlap",
+  "certifikat": "k-bildsplit",
   "panel": "helbild",
-  "process": "vertikal",
-  "citat": "bild",
-  "projekt": "stor",
-  "snabb": "rutor"
+  "process": "n-bildkort",
+  "citat": "h-markor",
+  "projekt": "f-bento",
+  "snabb": "h-flyt",
+  "cta": "delad"
  },
  "ordning_lista": [
   "hb",
@@ -113,6 +114,7 @@
   "bolag",
   "citat",
   "projekt",
+  "cta",
   "snabb"
  ],
  "panel_omvand": true,
@@ -156,13 +158,13 @@
   "infra",
   "people"
  ],
- "herotext": "standard",
- "rubrikstil": "mitt",
+ "herotext": "hoger",
+ "rubrikstil": "kant",
  "v7": {
   "typ": "urbanist",
-  "hero": "split",
-  "herotext": "standard",
-  "rubrik": "mitt",
-  "form": "mjuk"
+  "hero": "mosaik",
+  "herotext": "hoger",
+  "rubrik": "kant",
+  "form": "piller-rund"
  }
 }

@@ -5,25 +5,25 @@
  "arketyp": "ramad",
  "fro": "c80b5091",
  "typsnitt": {
-  "id": "redhat",
-  "kategori": "geometrisk",
-  "rubrik": "Red Hat Display",
-  "text": "Red Hat Text",
-  "rubrik_vikt": 700,
-  "spatiering": "-0.02em",
-  "versaler": false,
-  "skala": 1.06,
+  "id": "oswald",
+  "kategori": "smal",
+  "rubrik": "Oswald",
+  "text": "Inter",
+  "rubrik_vikt": 500,
+  "spatiering": "0.005em",
+  "versaler": true,
+  "skala": 0.9,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 700,
-  "logo_vikt": 800,
-  "logo_versaler": false,
-  "logo_spatiering": "0.08em",
+  "siffra_vikt": 500,
+  "logo_vikt": 500,
+  "logo_versaler": true,
+  "logo_spatiering": "0.02em",
   "nav_versaler": false,
-  "knapp_versaler": false,
+  "knapp_versaler": true,
   "logo_font": "rubrik",
-  "rubrik_spec": "ital,wght@0,500;0,600;0,700;1,600",
-  "kursiv": true
+  "rubrik_spec": "wght@400;500;600;700",
+  "kursiv": false
  },
  "palett": "nisch-300",
  "farger": {
@@ -70,10 +70,10 @@
   "band2": "#e98a5d"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
  "hero": "centrerad",
@@ -90,19 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "typo",
+  "vagval": "bildrutor",
   "bolag": "tabell",
-  "siffror": "jatte",
+  "siffror": "m-bildkort",
   "nyheter": "tidning",
   "omdomen": "kort",
-  "panel": "panel",
-  "certifikat": "rad",
-  "logos": "band",
-  "projekt": "feature",
-  "faq": "tva",
-  "berattelser": "tre",
-  "boka": "standard",
-  "cta": "band"
+  "panel": "kort",
+  "certifikat": "k-brickor",
+  "logos": "k-bento",
+  "projekt": "f-remsor",
+  "faq": "standard",
+  "berattelser": "zigzag",
+  "boka": "centrerad",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "vagval",
@@ -156,13 +156,13 @@
   "bygg",
   "people"
  ],
- "herotext": "versal",
- "rubrikstil": "pill",
+ "herotext": "hoger",
+ "rubrikstil": "versal",
  "v7": {
-  "typ": "redhat",
+  "typ": "oswald",
   "hero": "centrerad",
-  "herotext": "versal",
-  "rubrik": "pill",
-  "form": "mjuk"
+  "herotext": "hoger",
+  "rubrik": "versal",
+  "form": "rundad"
  }
 }

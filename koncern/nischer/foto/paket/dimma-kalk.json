@@ -91,19 +91,20 @@
  "motiv": "inget",
  "block": {
   "vagval": "rutor",
-  "bolag": "vagg",
+  "bolag": "j-fack",
   "siffror": "band",
-  "nyheter": "kort",
-  "omdomen": "betyg",
-  "galleri": "rutnat",
-  "citat": "sida",
-  "berattelser": "overlap",
-  "hb": "tre",
-  "faq": "standard",
-  "priser": "standard",
-  "projekt": "lista",
-  "panel": "panel",
-  "boka": "standard"
+  "nyheter": "sida",
+  "omdomen": "n-bento",
+  "galleri": "n-bento",
+  "citat": "l-karusell",
+  "berattelser": "stor",
+  "hb": "g-diagonal",
+  "faq": "l-bildkort",
+  "priser": "tabell",
+  "projekt": "karusell",
+  "panel": "jobb",
+  "boka": "n-bento",
+  "cta": "n-overlap"
  },
  "ordning_lista": [
   "galleri",
@@ -116,6 +117,7 @@
   "projekt",
   "panel",
   "nyheter",
+  "cta",
   "bolag",
   "boka"
  ],
@@ -161,13 +163,13 @@
   "detalj",
   "fest"
  ],
- "herotext": "kontur",
- "rubrikstil": "kant",
+ "herotext": "uppe",
+ "rubrikstil": "linje",
  "v7": {
   "typ": "garamond",
   "hero": "centrerad",
-  "herotext": "kontur",
-  "rubrik": "kant",
+  "herotext": "uppe",
+  "rubrik": "linje",
   "form": "latt"
  }
 }

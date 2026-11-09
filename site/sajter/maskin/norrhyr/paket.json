@@ -5,25 +5,25 @@
  "arketyp": "redaktionell",
  "fro": "c80e0a25",
  "typsnitt": {
-  "id": "sora",
-  "kategori": "geometrisk",
-  "rubrik": "Sora",
-  "text": "Inter",
-  "rubrik_vikt": 600,
-  "spatiering": "-0.03em",
+  "id": "archivo",
+  "kategori": "grotesk",
+  "rubrik": "Archivo",
+  "text": "Archivo",
+  "rubrik_vikt": 700,
+  "spatiering": "-0.02em",
   "versaler": false,
   "skala": 1.0,
   "rubrik_fallback": "system-ui, sans-serif",
   "rubrik_vikter": "400;500;600;700",
-  "siffra_vikt": 600,
+  "siffra_vikt": 700,
   "logo_vikt": 800,
   "logo_versaler": false,
   "logo_spatiering": "-0.02em",
   "nav_versaler": true,
   "knapp_versaler": false,
   "logo_font": "rubrik",
-  "rubrik_spec": "wght@400;500;600;700",
-  "kursiv": false
+  "rubrik_spec": "ital,wght@0,500;0,600;0,700;0,800;1,600",
+  "kursiv": true
  },
  "palett": "nisch-300",
  "farger": {
@@ -70,13 +70,13 @@
   "band2": "#b8a1e8"
  },
  "form": {
-  "namn": "rundad",
-  "knapp": 12,
-  "kort": 14,
-  "bild": 12,
+  "namn": "piller-rund",
+  "knapp": 999,
+  "kort": 10,
+  "bild": 10,
   "hero": 0
  },
- "hero": "statement",
+ "hero": "helskarm",
  "header": "transparent",
  "meny": "inline",
  "ruta": "mork",
@@ -90,18 +90,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "duo",
+  "vagval": "e-lameller",
   "bolag": "vagg",
-  "siffror": "vertikal",
+  "siffror": "m-overlap",
   "nyheter": "tidning",
   "omdomen": "kort",
-  "certifikat": "standard",
-  "citat": "bild",
-  "faq": "centrerad",
-  "panel": "helbild",
-  "logos": "standard",
-  "projekt": "mosaik",
-  "boka": "standard"
+  "certifikat": "k-bento",
+  "citat": "h-markor",
+  "faq": "l-bildkort",
+  "panel": "m-bento",
+  "logos": "k-bento",
+  "projekt": "f-rulle",
+  "boka": "centrerad",
+  "cta": "n-bento"
  },
  "ordning_lista": [
   "certifikat",
@@ -111,6 +112,7 @@
   "faq",
   "panel",
   "bolag",
+  "cta",
   "logos",
   "projekt",
   "boka"
@@ -154,13 +156,13 @@
   "bygg",
   "people"
  ],
- "herotext": "jatte",
+ "herotext": "uppe",
  "rubrikstil": "standard",
  "v7": {
-  "typ": "sora",
-  "hero": "statement",
-  "herotext": "jatte",
+  "typ": "archivo",
+  "hero": "helskarm",
+  "herotext": "uppe",
   "rubrik": "standard",
-  "form": "rundad"
+  "form": "piller-rund"
  }
 }

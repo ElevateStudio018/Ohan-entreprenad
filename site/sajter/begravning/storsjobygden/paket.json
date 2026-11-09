@@ -73,10 +73,10 @@
   "band2": "#ff8f6b"
  },
  "form": {
-  "namn": "mjuk",
-  "knapp": 999,
-  "kort": 22,
-  "bild": 20,
+  "namn": "rundad",
+  "knapp": 12,
+  "kort": 14,
+  "bild": 12,
   "hero": 0
  },
  "hero": "mosaik",
@@ -93,19 +93,19 @@
  "sidhero": "bild",
  "motiv": "inget",
  "block": {
-  "vagval": "kort",
+  "vagval": "rader",
   "bolag": "kort",
-  "siffror": "rad",
+  "siffror": "bild",
   "nyheter": "lista",
   "omdomen": "stor",
-  "process": "vertikal",
-  "citat": "sida",
-  "projekt": "lista",
-  "hb": "tre",
-  "certifikat": "standard",
-  "faq": "centrerad",
-  "boka": "standard",
-  "cta": "band"
+  "process": "n-karusell",
+  "citat": "l-overlap",
+  "projekt": "mosaik",
+  "hb": "g-diagonal",
+  "certifikat": "k-bento",
+  "faq": "l-bildkort",
+  "boka": "n-bento",
+  "cta": "delad"
  },
  "ordning_lista": [
   "vagval",
@@ -155,13 +155,13 @@
   "natur",
   "people"
  ],
- "herotext": "band",
- "rubrikstil": "standard",
+ "herotext": "linje",
+ "rubrikstil": "versal",
  "v7": {
   "typ": "plexsans",
   "hero": "mosaik",
-  "herotext": "band",
-  "rubrik": "standard",
-  "form": "mjuk"
+  "herotext": "linje",
+  "rubrik": "versal",
+  "form": "rundad"
  }
 }
