@@ -13,7 +13,9 @@ def bygg():
     sektioner, antal, nav = [], 0, []
     nyfil = bn.BRIEFS / "nya.json"
     nya = set(json.loads(nyfil.read_text(encoding="utf-8"))) if nyfil.exists() else set()
-    nykort = []
+    ny3fil = bn.BRIEFS / "nya3.json"
+    nya3 = set(json.loads(ny3fil.read_text(encoding="utf-8"))) if ny3fil.exists() else set()
+    nykort, ny3kort = [], []
     for g in bn.grupper_alla():
         filer = sorted((bn.BRIEFS / g).glob("*.json"))
         if not filer:
@@ -30,11 +32,14 @@ def bygg():
             tumme = f'{g}/{b["slug"]}/tumme.jpg'
             bild = (f'<img src="{tumme}" alt="" loading="lazy">' if (UT / tumme).exists()
                     else f'<span class="ph" style="background:{f["primar"]};color:{f["primar_ink"]}">{E(b["kortnamn"])}</span>')
-            ny = f"{g}/{b['slug']}" in nya
+            ny3 = f"{g}/{b['slug']}" in nya3
+            ny = ny3 or f"{g}/{b['slug']}" in nya
             html_kort = (f'<li><a href="{g}/{b["slug"]}/index.html">{bild}{"<span class=ny>Ny</span>" if ny else ""}<span class="m"><b>{E(b["namn"])}</b><span>{E(b["typ"])}</span>'
                          f'<span class="f"><i style="background:{f["primar"]}"></i><i style="background:{f["accent"]}"></i><i style="background:{f["ton"]}"></i> {E(rubrik)}</span></span></a></li>')
             kort.append(html_kort)
-            if ny:
+            if ny3:
+                ny3kort.append(html_kort)
+            elif ny:
                 nykort.append(html_kort)
         if not kort:
             continue
@@ -44,6 +49,9 @@ def bygg():
     if nykort:
         nav.insert(0, f'<a href="#nya" class="nyknapp">Nya sajter <small>{len(nykort)}</small></a>')
         sektioner.insert(0, f'<section id="nya"><div class="sh"><h2>Nya sajter</h2><p>Omgång 2 – byggda med dina favoritsektioner · {len(nykort)} sajter</p></div><ul class="g">{"".join(nykort)}</ul></section>')
+    if ny3kort:
+        nav.insert(0, f'<a href="#nyast" class="nyknapp">Nyast: bygg & mega <small>{len(ny3kort)}</small></a>')
+        sektioner.insert(0, f'<section id="nyast"><div class="sh"><h2>Nyast – 20 bygg och 20 megakoncerner</h2><p>Omgång 3 – bara sektioner och heroer du har sagt ja till · {len(ny3kort)} sajter</p></div><ul class="g">{"".join(ny3kort)}</ul></section>')
     doc = f'''<!doctype html><html lang="sv"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Sajtbiblioteket – Elevate Studio</title><meta name="robots" content="noindex">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap">

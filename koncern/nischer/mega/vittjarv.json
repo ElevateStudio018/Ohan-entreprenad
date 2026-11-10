@@ -1,0 +1,145 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vittjärv Försvarsbygg AB (publ)",
+  "kortnamn": "Vittjärv",
+  "slug": "vittjarv",
+  "typ": "Försvars- och säkerhetsbygg, Boden",
+  "tagline": "Byggt för det oväntade",
+  "slogan": "Vittjärv bygger och underhåller försvarsanläggningar, skyddsrum, hangarer och säkerhetsklassade byggnader i Norden – med säkerhetsprövad personal i varje led.",
+  "hero_rubrik": "Byggt för att stå kvar när det gäller",
+  "hero_text": "6 400 säkerhetsprövade medarbetare som bygger regementen, flygbaser, skyddsrum och ledningscentraler i Sverige, Norge och Finland.",
+  "intro_rubrik": "Nordens största byggare för totalförsvaret",
+  "om": [
+    "Vittjärv grundades 1949 som ett bergsprängningsföretag som byggde befästningar i Bodens fästning och förråd i Norrbottens berg. Under kalla kriget byggde vi en stor del av de skyddade anläggningarna i Övre Norrland.",
+    "Aktien är noterad sedan 2009. Efter att Sverige och Finland gick med i Nato har efterfrågan på försvarsbyggande mer än fördubblats, och vi bygger nu även flygbaser, ammunitionsförråd och befolkningsskydd åt kommuner och regioner."
+  ],
+  "vagval_rubrik": "Vad ska skyddas?",
+  "tjanster": [
+    {"titel": "Regementen och baser", "ikon": "skold", "href": "verksamhet.html", "text": "Kaserner, övningsfält och verkstäder för Försvarsmakten."},
+    {"titel": "Flygbaser och hangarer", "ikon": "glob", "href": "verksamhet.html", "text": "Hangarer, rullbanor och skyddade uppställningsplatser."},
+    {"titel": "Bergrum och skyddsrum", "ikon": "sten", "href": "verksamhet.html", "text": "Skyddade anläggningar i berg och befolkningsskydd."},
+    {"titel": "Ammunitionsförråd", "ikon": "lada", "href": "verksamhet.html", "text": "Förråd som uppfyller krav på säkerhetsavstånd och skydd."},
+    {"titel": "Säkerhetsklassade hus", "ikon": "las", "href": "verksamhet.html", "text": "Ledningscentraler, datacenter och myndighetslokaler."},
+    {"titel": "Drift och underhåll", "ikon": "verktyg", "href": "verksamhet.html", "text": "Underhåll av skyddade anläggningar med säkerhetsprövad personal."},
+    {"titel": "Jobba hos oss", "ikon": "hjalm", "href": "karriar.html", "text": "Bergarbetare, betongarbetare och projektledare."},
+    {"titel": "Aktien", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för VITT B."}
+  ],
+  "affarsomraden": [
+    {"titel": "Försvarsbyggnader", "text": "Kaserner, verkstäder, övningsanläggningar och logistikbaser för försvaren i Sverige, Norge och Finland. Uppdragen kommer ofta med korta tidplaner och höga skyddskrav.", "text2": "Försvarsbyggnader stod för 52 procent av orderingången 2025.", "tagg": "bygg"},
+    {"titel": "Berg och skydd", "text": "Bergrum, skyddsrum och skyddade anläggningar sprängs och byggs av egna bergarbetare. Kompetensen har vi haft sedan 1949.", "text2": "Vi driver 46 bergprojekt samtidigt i tre länder.", "tagg": "anlaggning"},
+    {"titel": "Säkerhetsklassade byggnader", "text": "Ledningscentraler, datacenter och myndighetslokaler med krav på skalskydd, avskärmning och spårbarhet. Hela leverantörskedjan säkerhetsprövas.", "text2": "Alla medarbetare i dessa projekt är säkerhetsprövade.", "tagg": "kontor"},
+    {"titel": "Drift och underhåll", "text": "Långa avtal för underhåll av skyddade anläggningar, ventilation, reservkraft och skalskydd. Anläggningarna ska fungera även efter decennier i beredskap.", "text2": "Vi underhåller 1 200 skyddade anläggningar.", "tagg": "ventilation"}
+  ],
+  "bolag": [
+    {"namn": "Vittjärv Bygg AB", "segment": "Försvarsbyggnader", "rubrik": "Regementen från Kiruna till Ystad", "text": "Bygger kaserner, verkstäder och baser för Försvarsmakten och Fortifikationsverket.", "tagg": "bygg"},
+    {"namn": "Vittjärv Berg AB", "segment": "Berg och skydd", "rubrik": "Egna bergarbetare sedan 1949", "text": "Sprängning, förstärkning och inredning av bergrum och skyddsrum.", "tagg": "anlaggning"},
+    {"namn": "Vittjärv Secure AB", "segment": "Säkerhetsklassade byggnader", "rubrik": "Skalskydd och avskärmning", "text": "Bygger och utrustar ledningscentraler, datacenter och myndighetslokaler.", "tagg": "kontor"},
+    {"namn": "Vittjärv Forsvarsbygg AS", "segment": "Norge och Finland", "rubrik": "Nordkalotten", "text": "Försvarsbyggande i Nordnorge och Lappland, med kontor i Bardufoss och Rovaniemi.", "tagg": "natur"}
+  ],
+  "lokala_bolag": ["Vittjärv Bygg Norr", "Vittjärv Bygg Mitt", "Vittjärv Bygg Syd", "Vittjärv Berg", "Vittjärv Secure", "Vittjärv Drift", "Vittjärv Forsvarsbygg AS", "Vittjärv Puolustusrakentaminen Oy", "Bodens Bergsprängning AB", "Norrbottens Skyddsrumsteknik AB"],
+  "berattelser": [
+    {"rubrik": "Ny hangar klar på fjorton månader", "text": "Hangaren för stridsflyg i Luleå byggdes med prefabricerade betongelement och stod klar fyra månader före plan.", "tagg": "bygg"},
+    {"rubrik": "Skyddsrum rustas i 40 kommuner", "text": "Ett ramavtal med kommuner och regioner omfattar inspektion och upprustning av 2 800 skyddsrum.", "tagg": "anlaggning"},
+    {"rubrik": "Bergarbetare utbildas i egen skola", "text": "Bergskolan i Boden tar in 80 elever per år, med lön från första dagen.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "34,8", "enhet": "mdr kr", "etikett": "Orderstock", "trend": [11.2, 12.4, 14.0, 19.6, 25.1, 30.3, 34.8], "trend_text": "Orderstock vid årets slut, mdr kr"},
+    {"varde": "6 400", "enhet": "", "etikett": "Medarbetare", "trend": [3900, 4100, 4300, 4900, 5500, 6000, 6400], "trend_text": "Anställda vid årets slut"},
+    {"varde": "19,7", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [9.1, 9.6, 10.4, 12.8, 15.3, 17.6, 19.7], "trend_text": "Nettoomsättning, mdr kr"},
+    {"varde": "100", "enhet": "%", "etikett": "Säkerhetsprövad personal i klassade projekt"}
+  ],
+  "projekt": [
+    {"namn": "Hangar Kallax", "ort": "Luleå", "typ": "Hangar", "ar": "2025", "text": "Skyddad hangar för stridsflyg byggd på fjorton månader.", "tagg": "bygg"},
+    {"namn": "Regementsområdet Sörbyn", "ort": "Boden", "typ": "Regemente", "ar": "2027", "text": "Kaserner för 1 200 värnpliktiga, matsal och verkstäder.", "tagg": "bygg"},
+    {"namn": "Bergförråd Norrbotten", "ort": "Norrbotten", "typ": "Bergrum", "ar": "2028", "text": "Skyddat förråd i berg med 40 000 kubikmeter utrymme.", "tagg": "anlaggning"},
+    {"namn": "Skyddsrumsprogrammet", "ort": "40 kommuner", "typ": "Befolkningsskydd", "ar": "2027", "text": "Inspektion och upprustning av 2 800 skyddsrum.", "tagg": "anlaggning"},
+    {"namn": "Leir Bardufoss", "ort": "Målselv", "typ": "Försvarsbas", "ar": "2026", "text": "Logistikbas och verkstäder för norska armén.", "tagg": "natur"},
+    {"namn": "Ledningscentral", "ort": "Stockholm", "typ": "Säkerhetsklassat", "ar": "2026", "text": "Avskärmad ledningscentral för en statlig myndighet.", "tagg": "kontor"}
+  ],
+  "process": [
+    {"titel": "Säkerhetsprövning", "text": "Alla som arbetar i klassade projekt säkerhetsprövas, även underentreprenörer och leverantörer.", "tagg": "people"},
+    {"titel": "Skyddad projektering", "text": "Ritningar och handlingar hanteras i separata nät och lokaler med behörighetskontroll.", "tagg": "kontor"},
+    {"titel": "Bygg med egna lag", "text": "Berg, betong och stomme byggs av egen personal för att minska antalet externa aktörer.", "tagg": "bygg"},
+    {"titel": "Drift i beredskap", "text": "Efter överlämning sköter vi underhåll och provdrift så att anläggningen fungerar när den behövs.", "tagg": "ventilation"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Robust och klimatsmart behöver inte vara motsatser",
+    "text": "Skyddade anläggningar byggs för att stå i hundra år, så materialval och energi spelar stor roll. Vi använder klimatförbättrad betong där skyddskraven tillåter och bygger reservkraft med batterier och biodiesel i stället för fossil diesel.",
+    "mal": [["–40 %", "klimatpåverkan per projekt 2030 mot 2020"], ["0", "allvarliga olyckor i berg och betong"], ["100 %", "fossilfri reservkraft i nya anläggningar 2028"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg det som skyddar landet",
+    "text": "Hos oss bygger du anläggningar som få får se. Alla anställda säkerhetsprövas, och vi utbildar bergarbetare och betongarbetare i egna skolor i Boden.",
+    "jobb": [["Bergarbetare", "Boden"], ["Betongarbetare", "Luleå"], ["Projektledare försvarsbygg", "Karlskrona"], ["Säkerhetsskyddschef", "Stockholm"]]
+  },
+  "kultur": "Det vi bygger syns sällan på bild – därför firas varje överlämning internt med de lag som byggt.",
+  "citat": {"text": "Vi byggde bergrummen under kalla kriget och trodde att det var historia. Nu bygger vi igen, snabbare än någonsin, och med samma krav på att det ska hålla.", "namn": "Anna-Karin Stenberg", "roll": "Vd och koncernchef", "tagg": "anlaggning"},
+  "omdomen": [
+    {"text": "Hangaren var klar fyra månader före plan. Vittjärv hanterade säkerhetsskyddet utan en enda avvikelse.", "namn": "Överstelöjtnant P. N.", "ort": "Luleå"},
+    {"text": "Skyddsrumsinspektionerna gav oss för första gången en samlad bild av alla skyddsrum i kommunen.", "namn": "Marie G.", "ort": "Skellefteå"},
+    {"text": "De norska och svenska lagen arbetade tillsammans på basen i Bardufoss. Tidplanen höll trots en lång vinter.", "namn": "Kjetil H.", "ort": "Målselv"}
+  ],
+  "faq": [
+    ["Vilka beställare arbetar ni för?", "Främst Fortifikationsverket, Försvarsmakten, motsvarigheter i Norge och Finland, samt kommuner, regioner och myndigheter."],
+    ["Kan ni visa bilder från projekten?", "Bara från de projekt där beställaren har godkänt det. Många anläggningar omfattas av säkerhetsskydd."],
+    ["Måste man säkerhetsprövas för att jobba hos er?", "Ja, i alla projekt som omfattas av säkerhetsskyddslagen. Prövningen görs efter anställningserbjudandet."],
+    ["Rustar ni skyddsrum åt fastighetsägare?", "Ja, vi inspekterar och rustar skyddsrum åt kommuner, bostadsbolag och privata fastighetsägare."],
+    ["Var är aktien noterad?", "VITT B handlas på Nasdaq Stockholm Large Cap sedan 2009."],
+    ["Arbetar ni utanför Norden?", "Nej, vi arbetar enbart i Sverige, Norge och Finland."]
+  ],
+  "nyheter": [
+    ["2026-10-23", "Delårsrapport januari–september 2026", "Orderstocken växte till 36 miljarder kronor och marginalen nådde 6,2 procent.", "kontor"],
+    ["2026-09-18", "Vittjärv bygger regementsområde i Boden", "Kontraktet omfattar 4,6 miljarder kronor och kaserner för 1 200 värnpliktiga.", "bygg"],
+    ["2026-05-26", "Ramavtal om skyddsrum med 40 kommuner", "2 800 skyddsrum ska inspekteras och rustas till 2027.", "anlaggning"]
+  ],
+  "investerare": {
+    "aktie": "VITT B",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "374,40",
+    "forandring": "+2,6 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-23"], ["Delårsrapport januari–juni 2026", "2026-07-17"], ["Delårsrapport januari–mars 2026", "2026-04-24"], ["Årsredovisning 2025", "2026-03-20"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-05"], ["Årsstämma, Boden", "2027-04-29"]]
+  },
+  "kontor_rubrik": "Där försvaret finns",
+  "kontor_text": "Kontoren ligger nära regementen, flygbaser och marinbaser.",
+  "kontor_lista": [
+    ["Boden – huvudkontor", "Garnisonsgatan 4. Koncernledning, Vittjärv Berg och bergskolan."],
+    ["Luleå", "Flygbaser och industribyggen i Norrbotten."],
+    ["Östersund", "Vittjärv Bygg Mitt."],
+    ["Karlskrona", "Marinbasen och Vittjärv Bygg Syd."],
+    ["Stockholm", "Vittjärv Secure och myndighetsprojekt."],
+    ["Bardufoss", "Vittjärv Forsvarsbygg AS."],
+    ["Rovaniemi", "Vittjärv Puolustusrakentaminen Oy."]
+  ],
+  "tidslinje_rubrik": "Från fästningen till Nato",
+  "tidslinje_text": "Bergsprängare i Bodens fästning blev Nordens största byggare för totalförsvaret.",
+  "tidslinje": [
+    ["1949", "Vittjärv startar som bergsprängningsföretag vid Bodens fästning."],
+    ["1966", "Första skyddade bergsanläggningen i Norrbotten."],
+    ["1995", "Efter försvarsnedskärningar ställer bolaget om till gruv- och anläggningsberg."],
+    ["2009", "Börsnotering på Nasdaq Stockholm."],
+    ["2018", "Vittjärv Secure bildas för säkerhetsklassade byggnader."],
+    ["2024", "Etablering i Norge och Finland."]
+  ],
+  "vagg_text": "Bolagen har egna säkerhetsskyddschefer. Bergskolan, säkerhetsprövningen och maskinparken är gemensam.",
+  "kontakt": {"adress": "Garnisonsgatan 4", "postnr": "961 35", "ort": "Boden", "telefon": "070-174 06 43", "epost": "info@vittjarv.se", "orgnr": ""},
+  "oppettider": "Växel mån–fre 7.30–16",
+  "omrade": "Sverige, Norge och Finland",
+  "fot_cta": "Ska ni bygga eller rusta en skyddad anläggning? Kontakta vår affärsutveckling.",
+  "bild": {"panel": "anlaggning", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Det vi kan berätta om",
+    "proj_rubrik": "Projekt vi får visa",
+    "process_rubrik": "Så bygger vi skyddat",
+    "process_etikett": "Säkerhetsskydd",
+    "hb_etikett": "Robust och hållbart",
+    "omdomen_rubrik": "Beställarna om Vittjärv",
+    "faq_rubrik": "Frågor om försvarsbygg",
+    "bolag_rubrik": "Bygg, berg, secure och Nordkalotten",
+    "vagg_rubrik": "{n} bolag för totalförsvaret",
+    "panel_etikett": "Bergskolan i Boden",
+    "hero_knapp": "Det här bygger vi",
+    "ny_rubrik": "Pressmeddelanden"
+  }
+}
