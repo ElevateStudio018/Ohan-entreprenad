@@ -1,0 +1,143 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Säbrå Nät AB (publ)",
+  "kortnamn": "Säbrå",
+  "slug": "sabra",
+  "typ": "Fiber- och mastkoncern, Härnösand",
+  "tagline": "Fiber till sista gården",
+  "slogan": "Säbrå bygger, äger och driver fibernät, mobilmaster och kanalisation – från stadskärnor till byar längs Norrlandskusten och i hela Norden.",
+  "hero_rubrik": "Fibern når fram där vägen tar slut",
+  "hero_text": "1,9 miljoner fiberanslutna hushåll, 6 800 master och 4 400 medarbetare. Vi gräver, blåser, skarvar och äger nätet själva.",
+  "intro_rubrik": "Nordens största oberoende fiber- och mastägare",
+  "om": [
+    "Säbrå började 1996 som en grävfirma i Härnösand som lade kabelskydd åt elbolaget. När kommunerna byggde stadsnät fick firman uppdrag i hela Västernorrland, och 2008 köpte den sitt första stadsnät.",
+    "Aktien är noterad sedan 2015. I dag äger vi fibernät i 162 kommuner och mobilmaster som hyrs ut till alla operatörer. Vi bygger fortfarande med egna grävlag – därför når vi byar som andra hoppar över."
+  ],
+  "vagval_rubrik": "Vad behöver ni koppla upp?",
+  "tjanster": [
+    {"titel": "Fiber till villan", "ikon": "hem", "href": "verksamhet.html", "text": "Anslutning med fast pris och val av tjänsteleverantör."},
+    {"titel": "Fiber till flerbostadshus", "ikon": "hus", "href": "verksamhet.html", "text": "Nät i fastigheten och avtal med bostadsrättsföreningar."},
+    {"titel": "Företag och datahallar", "ikon": "kontor", "href": "verksamhet.html", "text": "Svartfiber och kapacitet mellan orter och datahallar."},
+    {"titel": "Mobilmaster", "ikon": "telefon", "href": "verksamhet.html", "text": "Master och tak som hyrs ut till alla mobiloperatörer."},
+    {"titel": "Stadsnät", "ikon": "glob", "href": "verksamhet.html", "text": "Vi köper eller driver kommunala stadsnät."},
+    {"titel": "Byggnation", "ikon": "kran", "href": "verksamhet.html", "text": "Grävning, plöjning och blåsning åt nätägare och elbolag."},
+    {"titel": "Bli fibertekniker", "ikon": "hjalm", "href": "karriar.html", "text": "Fibertekniker, maskinförare och mastmontörer."},
+    {"titel": "Aktien", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för SABR."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fibernät", "text": "Öppna fibernät där hushållen väljer bland 40 tjänsteleverantörer. Vi äger nätet i 162 kommuner och tar betalt per anslutning och månad.", "text2": "1,9 miljoner anslutna hushåll och företag, varav 410 000 på landsbygden.", "tagg": "el"},
+    {"titel": "Master och torn", "text": "Master, torn och takplaceringar som hyrs ut till mobiloperatörer, blåljusnätet och IoT-nät. En mast har i snitt 2,1 hyresgäster.", "text2": "6 800 master i Sverige, Norge och Finland.", "tagg": "infra"},
+    {"titel": "Transport och datahallar", "text": "Långa fiberförbindelser mellan städer och till datahallar. Allt fler kunder är datahallsbolag som vill ha dubbla vägar.", "text2": "41 000 kilometer stamnät i Norden.", "tagg": "industri"},
+    {"titel": "Nätbygg", "text": "Egna grävlag, plöjare och fibertekniker som bygger både vårt eget nät och åt andra. Kompetensen gör att vi kan räkna rätt på varje by.", "text2": "1 900 egna montörer och maskinförare.", "tagg": "mark"}
+  ],
+  "bolag": [
+    {"namn": "Säbrå Fiber AB", "segment": "Fibernät", "rubrik": "162 kommuner, öppet nät", "text": "Äger och driver fibernät till hushåll och företag i Sverige.", "tagg": "el"},
+    {"namn": "Säbrå Towers AB", "segment": "Master och torn", "rubrik": "6 800 master, alla operatörer", "text": "Äger master och takplaceringar som hyrs ut till operatörer och myndigheter.", "tagg": "infra"},
+    {"namn": "Säbrå Carrier AB", "segment": "Transport", "rubrik": "Stamnät till datahallarna", "text": "Säljer svartfiber och kapacitet mellan orter, hamnar och datahallar.", "tagg": "industri"},
+    {"namn": "Säbrå Nätbygg AB", "segment": "Byggnation", "rubrik": "Egna grävlag sedan 1996", "text": "Bygger fiber, el och kanalisation med egen personal och maskinpark.", "tagg": "mark"}
+  ],
+  "lokala_bolag": ["Säbrå Fiber Norr", "Säbrå Fiber Mitt", "Säbrå Fiber Syd", "Säbrå Stadsnät Härnösand", "Säbrå Stadsnät Gävle", "Säbrå Towers", "Säbrå Towers Norge AS", "Säbrå Mastot Oy", "Säbrå Carrier", "Säbrå Nätbygg", "Ådalens Kabelplöjning AB", "Höga Kustens Mastservice AB"],
+  "berattelser": [
+    {"rubrik": "Sista byn i Ådalen ansluten", "text": "Med 14 hushåll i Näsåker är nu alla byar i kommunen med fler än tio hushåll anslutna.", "tagg": "natur"},
+    {"rubrik": "Dubbla vägar till datahallarna i Luleå", "text": "En ny fiberväg längs kusten ger datahallarna en andra förbindelse söderut.", "tagg": "industri"},
+    {"rubrik": "Master som klarar storm och strömavbrott", "text": "200 master i Norrland har fått batterier som håller sju dygn utan el.", "tagg": "infra"}
+  ],
+  "nyckeltal": [
+    {"varde": "1,9", "enhet": "milj.", "etikett": "Fiberanslutna hushåll", "trend": [0.9, 1.1, 1.3, 1.5, 1.6, 1.8, 1.9], "trend_text": "Anslutna hushåll och företag, miljoner"},
+    {"varde": "6 800", "enhet": "", "etikett": "Master", "trend": [3200, 3900, 4600, 5300, 5900, 6400, 6800], "trend_text": "Ägda master och torn"},
+    {"varde": "13,1", "enhet": "mdr kr", "etikett": "Omsättning 2025"},
+    {"varde": "4 400", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "Fiber Ådalen", "ort": "Kramfors", "typ": "Landsbygdsfiber", "ar": "2025", "text": "3 100 hushåll i 84 byar anslutna med plöjd fiber.", "tagg": "natur"},
+    {"namn": "Kustlänken", "ort": "Luleå–Sundsvall", "typ": "Stamnät", "ar": "2026", "text": "620 kilometer fiber längs kusten som andra väg för datahallarna.", "tagg": "industri"},
+    {"namn": "Gävle stadsnät", "ort": "Gävle", "typ": "Förvärv", "ar": "2024", "text": "Kommunens stadsnät med 58 000 anslutningar köptes och byggs ut.", "tagg": "stad"},
+    {"namn": "Mastprogram Finnmark", "ort": "Alta", "typ": "Master", "ar": "2026", "text": "120 nya master för mobiltäckning längs E6 och i fiskelägena.", "tagg": "infra"},
+    {"namn": "Brf Fyrtornet", "ort": "Göteborg", "typ": "Flerbostadshus", "ar": "2025", "text": "Fiber i 340 lägenheter installerad på två veckor.", "tagg": "bostad"},
+    {"namn": "Kanalisation E4 Sundsvall", "ort": "Sundsvall", "typ": "Byggnation", "ar": "2024", "text": "Kanalisation för fiber och el längs nya E4 åt Trafikverket.", "tagg": "anlaggning"}
+  ],
+  "process": [
+    {"titel": "Intresseanmälan", "text": "När 60 procent i ett område har anmält intresse tar vi beslut om att bygga.", "tagg": "people"},
+    {"titel": "Plöjning och grävning", "text": "Egna lag plöjer ner slang på landsbygden och gräver i tätort, ofta 1 500 meter om dagen.", "tagg": "mark"},
+    {"titel": "Blåsning och skarvning", "text": "Fibern blåses in i slangen och skarvas i noder och hos kunden.", "tagg": "el"},
+    {"titel": "Välj leverantör", "text": "När nätet tänds väljer varje hushåll bredband, tv och telefoni bland 40 leverantörer.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Uppkopplad är en fråga om att kunna bo kvar",
+    "text": "Utan fiber och mobiltäckning blir det svårt att arbeta, gå i skolan och driva företag på landsbygden. Därför bygger vi även där kalkylen är tunn, och delar masterna mellan alla operatörer så att färre master behövs.",
+    "mal": [["99 %", "av hushållen i våra kommuner med fiber 2030"], ["2,5", "operatörer per mast i snitt 2030"], ["100 %", "eldrivna servicebilar 2028"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg nätet hela vägen ut",
+    "text": "Fibertekniker och mastmontörer arbetar ofta i små lag långt ute på landsbygden. Vi betalar för utbildning i skarvning, höjdarbete och maskinkort.",
+    "jobb": [["Fibertekniker", "Härnösand"], ["Mastmontör", "Umeå"], ["Maskinförare kabelplog", "Östersund"], ["Projektledare fiber", "Gävle"]]
+  },
+  "kultur": "Varje grävlag har en lagbas som planerar sitt eget arbete tillsammans med markägarna.",
+  "citat": {"text": "Vi började med att gräva kabel i Ådalen. Om vi kan dra fiber till en by med fjorton hushåll kan vi dra den överallt.", "namn": "Tomas Lindgren", "roll": "Grundare och vd", "tagg": "mark"},
+  "omdomen": [
+    {"text": "Vi var fjorton hushåll i byn och trodde aldrig att fibern skulle komma. Säbrå plöjde in den på tre dagar.", "namn": "Rolf och Inger S.", "ort": "Näsåker"},
+    {"text": "Föreningen fick fiber i alla 340 lägenheter på två veckor, utan en enda klagan om damm.", "namn": "Maja T.", "ort": "Göteborg"},
+    {"text": "Säbrå gav oss en andra fiberväg till datahallen på 14 månader. Det var ett krav från våra kunder.", "namn": "Jonas F.", "ort": "Luleå"}
+  ],
+  "faq": [
+    ["Vad kostar fiber till min villa?", "Priset beror på område och antal anslutna, oftast 15 000–25 000 kronor. På landsbygden finns ibland bidrag."],
+    ["Kan jag välja bredbandsleverantör?", "Ja, våra nät är öppna och du väljer bland cirka 40 leverantörer."],
+    ["Hyr ni ut master till alla operatörer?", "Ja, alla master är öppna för samtliga mobiloperatörer, blåljusnätet och IoT-nät."],
+    ["Köper ni stadsnät?", "Ja, vi har köpt eller driver stadsnät åt 38 kommuner."],
+    ["Var är aktien noterad?", "SABR handlas på Nasdaq Stockholm Mid Cap sedan 2015."],
+    ["Bygger ni åt andra nätägare?", "Ja, Säbrå Nätbygg bygger fiber och kanalisation åt elbolag, kommuner och Trafikverket."]
+  ],
+  "nyheter": [
+    ["2026-10-27", "Delårsrapport januari–september 2026", "Anslutningarna ökade med 84 000 och masthyrorna med 11 procent.", "kontor"],
+    ["2026-08-12", "Kustlänken till datahallarna klar", "620 kilometer ny fiber mellan Luleå och Sundsvall.", "industri"],
+    ["2026-04-21", "Alla byar i Kramfors anslutna", "Sista byn med fler än tio hushåll fick fiber i april.", "natur"]
+  ],
+  "investerare": {
+    "aktie": "SABR",
+    "lista": "Nasdaq Stockholm Mid Cap",
+    "kurs": "102,85",
+    "forandring": "+0,9 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-27"], ["Delårsrapport januari–juni 2026", "2026-07-21"], ["Delårsrapport januari–mars 2026", "2026-04-28"], ["Årsredovisning 2025", "2026-03-26"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-10"], ["Årsstämma, Härnösand", "2027-05-06"]]
+  },
+  "kontor_text": "Grävlagen och fiberteknikerna finns på 72 orter. Här är de största kontoren.",
+  "kontor_lista": [
+    ["Härnösand – huvudkontor", "Nybrogatan 9. Koncernledning, nätdriftcentral och Säbrå Fiber Mitt."],
+    ["Umeå", "Säbrå Fiber Norr och Towers Norrland."],
+    ["Gävle", "Stadsnätet och Säbrå Fiber Syd."],
+    ["Stockholm", "Säbrå Carrier och försäljning till operatörer."],
+    ["Göteborg", "Fiber till flerbostadshus i Västsverige."],
+    ["Tromsø", "Säbrå Towers Norge AS."],
+    ["Uleåborg", "Säbrå Mastot Oy."]
+  ],
+  "tidslinje_rubrik": "Från grävfirma till nätägare",
+  "tidslinje": [
+    ["1996", "Säbrå startar som grävfirma i Härnösand."],
+    ["2008", "Första stadsnätet köps."],
+    ["2015", "Börsnotering på Nasdaq Stockholm."],
+    ["2017", "Säbrå Towers bildas och köper 1 400 master."],
+    ["2022", "En miljon anslutna hushåll."],
+    ["2026", "Kustlänken till datahallarna i norr tas i drift."]
+  ],
+  "vagg_text": "Fiber, master och stamnät ägs av egna bolag. Allt byggs och servas av Säbrå Nätbygg.",
+  "kontakt": {"adress": "Nybrogatan 9", "postnr": "871 31", "ort": "Härnösand", "telefon": "070-174 06 40", "epost": "info@sabra.se", "orgnr": ""},
+  "oppettider": "Kundservice mån–fre 8–17, nätdrift dygnet runt",
+  "omrade": "Sverige, Norge och Finland",
+  "fot_cta": "Saknar ert område fiber? Gör en intresseanmälan – vi bygger när 60 procent vill.",
+  "bild": {"panel": "mark", "hb": "natur"},
+  "text": {
+    "ber_rubrik": "Senast i nätet",
+    "proj_rubrik": "Nät vi bygger och äger",
+    "process_rubrik": "Från intresseanmälan till tänd fiber",
+    "process_etikett": "Så byggs ett fibernät",
+    "hb_etikett": "Hela landet uppkopplat",
+    "omdomen_rubrik": "Kunderna om Säbrå",
+    "faq_rubrik": "Frågor om fiber och master",
+    "bolag_rubrik": "Fiber, master, stamnät och bygg",
+    "vagg_rubrik": "{n} bolag i nätet",
+    "panel_etikett": "Fibertekniker sökes",
+    "hero_lank": "Kolla ditt område",
+    "ny_rubrik": "Pressmeddelanden"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Bodele Värme AB (publ)",
+  "kortnamn": "Bodele",
+  "slug": "bodele",
+  "typ": "Fjärrvärme och fjärrkyla, Uddevalla",
+  "tagline": "Restvärme blir fjärrvärme",
+  "slogan": "Bodele äger och driver fjärrvärme- och fjärrkylanät i 58 nordiska städer och värmer dem med restvärme från industrier, datahallar och reningsverk.",
+  "hero_rubrik": "Värmen i ditt element var industrins spill",
+  "hero_text": "58 fjärrvärmenät, 14 TWh levererad värme och 3 100 medarbetare. 71 procent av värmen kommer från restvärme och stora värmepumpar.",
+  "intro_rubrik": "Nordens största fjärrvärmebolag på restvärme",
+  "om": [
+    "Bodele startade 1964 när ett oljeraffinaderi utanför Uddevalla började leverera överskottsvärme till ett nytt bostadsområde. Modellen – att ta vara på värme som annars släpps ut i havet – har sedan dess använts i varje stad där vi tagit över nätet.",
+    "Aktien är noterad sedan 2011. Vi äger och driver fjärrvärmenät som tidigare tillhörde kommuner och industrier, och bygger fjärrkyla och säsongslager för att jämna ut säsongerna."
+  ],
+  "vagval_rubrik": "Vad vill ni värma eller kyla?",
+  "tjanster": [
+    {"titel": "Fjärrvärme", "ikon": "eld", "href": "verksamhet.html", "text": "Värme och varmvatten till villor, flerbostadshus och lokaler."},
+    {"titel": "Fjärrkyla", "ikon": "vatten", "href": "verksamhet.html", "text": "Kyla till kontor, sjukhus och datahallar från gemensamma nät."},
+    {"titel": "Sälj er restvärme", "ikon": "fabrik", "href": "verksamhet.html", "text": "Vi köper överskottsvärme från industrier och datahallar."},
+    {"titel": "Stora värmepumpar", "ikon": "kugge", "href": "verksamhet.html", "text": "Värmepumpar i reningsverk, hav och sjöar upp till 80 megawatt."},
+    {"titel": "Säsongslager", "ikon": "sten", "href": "verksamhet.html", "text": "Värmelager i bergrum som sparar sommarvärme till vintern."},
+    {"titel": "Kommunala nät", "ikon": "kontor", "href": "verksamhet.html", "text": "Vi köper, driver eller moderniserar kommunala fjärrvärmenät."},
+    {"titel": "Lediga jobb", "ikon": "hjalm", "href": "karriar.html", "text": "Drifttekniker, rörsvetsare och energiingenjörer."},
+    {"titel": "Aktien", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för BODL."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fjärrvärme", "text": "58 nät i Sverige, Norge, Danmark och Finland levererar värme till 410 000 byggnader. Priset är detsamma året runt och avtalas tre år i taget.", "text2": "14 TWh värme levererades 2025.", "tagg": "anlaggning"},
+    {"titel": "Restvärme", "text": "Vi köper överskottsvärme från raffinaderier, stålverk, datahallar och reningsverk och höjer temperaturen med värmepumpar. Industrin får betalt för värme den annars kyler bort.", "text2": "64 restvärmeleverantörer är anslutna till våra nät.", "tagg": "industri"},
+    {"titel": "Fjärrkyla", "text": "Kyla från hav, sjöar och värmepumpar till kontor, sjukhus och datahallar. Kyla och värme produceras ofta i samma maskin.", "text2": "Fjärrkylan har vuxit fyra gånger på tio år.", "tagg": "vvs"},
+    {"titel": "Lager och kraftvärme", "text": "Säsongslager i bergrum och några få kraftvärmeverk som eldar returträ. De används när restvärmen inte räcker de kallaste dagarna.", "text2": "Två bergrumslager rymmer 1,4 miljoner kubikmeter hett vatten.", "tagg": "skorsten"}
+  ],
+  "bolag": [
+    {"namn": "Bodele Fjärrvärme AB", "segment": "Fjärrvärme Sverige", "rubrik": "44 svenska städer", "text": "Äger och driver fjärrvärmenät från Luleå till Ystad.", "tagg": "anlaggning"},
+    {"namn": "Bodele Restvärme AB", "segment": "Restvärme", "rubrik": "Spill blir värme", "text": "Köper och förädlar överskottsvärme från industrier, datahallar och reningsverk.", "tagg": "industri"},
+    {"namn": "Bodele Kyla AB", "segment": "Fjärrkyla", "rubrik": "Kyla från havet", "text": "Fjärrkylanät i elva städer, med frikyla från hav och sjöar.", "tagg": "vvs"},
+    {"namn": "Bodele Nordic", "segment": "Norge, Danmark, Finland", "rubrik": "Fjernvarme og kaukolämpö", "text": "Fjärrvärme i Drammen, Fredericia, Esbjerg, Kotka och tio andra städer.", "tagg": "stad"}
+  ],
+  "lokala_bolag": ["Bodele Uddevalla", "Bodele Trollhättan", "Bodele Borås", "Bodele Karlstad", "Bodele Gävle", "Bodele Luleå", "Bodele Ystad", "Bodele Restvärme", "Bodele Kyla", "Bodele Fjernvarme AS", "Bodele Fjernvarme A/S", "Bodele Kaukolämpö Oy", "Byfjordens Värmeverk AB"],
+  "berattelser": [
+    {"rubrik": "Datahallen värmer 12 000 lägenheter", "text": "Restvärmen från en ny datahall i Borlänge höjs till 85 grader och täcker 40 procent av stadens behov.", "tagg": "industri"},
+    {"rubrik": "Bergrumslager i Uddevalla laddat", "text": "Det nya säsongslagret rymmer 600 000 kubikmeter vatten som värmts under sommaren.", "tagg": "anlaggning"},
+    {"rubrik": "Sista oljepannan avvecklad", "text": "Spetspannan i Karlstad var den sista oljeeldade anläggningen i koncernen.", "tagg": "skorsten"}
+  ],
+  "nyckeltal": [
+    {"varde": "71", "enhet": "%", "etikett": "Värme från restvärme och värmepumpar", "trend": [42, 47, 53, 58, 63, 67, 71], "trend_text": "Andel restvärme och värmepumpar"},
+    {"varde": "14", "enhet": "TWh", "etikett": "Levererad värme 2025", "trend": [10.4, 10.9, 11.8, 12.6, 13.0, 13.5, 14.0], "trend_text": "Levererad fjärrvärme, TWh"},
+    {"varde": "16,3", "enhet": "mdr kr", "etikett": "Omsättning 2025"},
+    {"varde": "3 100", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "Bergrumslager Kurödsvägen", "ort": "Uddevalla", "typ": "Säsongslager", "ar": "2025", "text": "600 000 kubikmeter vatten i bergrum laddas med sommarvärme.", "tagg": "anlaggning"},
+    {"namn": "Restvärme datahall", "ort": "Borlänge", "typ": "Värmepump", "ar": "2026", "text": "Värmepump på 60 megawatt höjer datahallens spillvärme till fjärrvärme.", "tagg": "industri"},
+    {"namn": "Fjärrkyla Lindholmen", "ort": "Göteborg", "typ": "Fjärrkyla", "ar": "2024", "text": "Frikyla från älven till 46 kontor och ett sjukhus.", "tagg": "vvs"},
+    {"namn": "Havsvärmepump", "ort": "Esbjerg", "typ": "Värmepump", "ar": "2025", "text": "70 megawatt värmepump som tar värme ur Nordsjön.", "tagg": "infra"},
+    {"namn": "Nytt nät Ystad", "ort": "Ystad", "typ": "Förvärv", "ar": "2026", "text": "Kommunens nät köptes och byggs ut till 3 000 nya villor.", "tagg": "stad"},
+    {"namn": "Reningsverket Älvmynningen", "ort": "Göteborg", "typ": "Värmepump", "ar": "2027", "text": "Värme ur renat avloppsvatten för 20 000 lägenheter.", "tagg": "vvs"}
+  ],
+  "process": [
+    {"titel": "Hitta restvärmen", "text": "Vi kartlägger industrier, datahallar och reningsverk som kyler bort värme nära våra nät.", "tagg": "industri"},
+    {"titel": "Höj temperaturen", "text": "Stora värmepumpar höjer 30-gradig spillvärme till 70–90 grader.", "tagg": "vvs"},
+    {"titel": "Lagra till vintern", "text": "Sommarens överskott pumpas in i bergrumslager och tas ut när det är kallt.", "tagg": "anlaggning"},
+    {"titel": "Leverera till kunden", "text": "Värmen når huset genom nätet och en fjärrvärmecentral som vi servar.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Den bästa värmen har någon redan producerat",
+    "text": "Restvärme från industrier och datahallar ersätter bränsle helt. Värmepumparna går på el när priset är lågt och lagren jämnar ut resten. De kraftvärmeverk vi har kvar eldar returträ och förbereds för koldioxidavskiljning.",
+    "mal": [["90 %", "restvärme och värmepumpar 2030"], ["0", "fossila bränslen sedan 2026"], ["2 TWh", "säsongslager 2032"]]
+  },
+  "karriar": {
+    "rubrik": "Driv värmen i en hel stad",
+    "text": "Våra drifttekniker ansvarar för att 58 städer har värme dygnet runt. Vi utbildar själva och har jour med bra ersättning.",
+    "jobb": [["Drifttekniker värmeverk", "Uddevalla"], ["Rörsvetsare fjärrvärme", "Gävle"], ["Energiingenjör restvärme", "Göteborg"], ["Projektledare värmepumpar", "Esbjerg"]]
+  },
+  "kultur": "Varje nät har en nätchef som bor i staden och svarar på kundernas frågor själv.",
+  "citat": {"text": "Varje gång en datahall kyler bort sin värme i luften slösar vi bort en stads uppvärmning. Det är vårt jobb att ta vara på den.", "namn": "Ingrid Wallén", "roll": "Vd och koncernchef", "tagg": "industri"},
+  "omdomen": [
+    {"text": "Vi får betalt för värme vi tidigare kylde bort med fläktar. Bodele byggde hela anslutningen på egen bekostnad.", "namn": "Sven-Erik A.", "ort": "Borlänge"},
+    {"text": "Fjärrkylan från älven halverade vår elkostnad för kyla. Och vi blev av med kylaggregaten på taket.", "namn": "Carina D.", "ort": "Göteborg"},
+    {"text": "Bodele lovade fast pris i tre år och höll det, även under energikrisen.", "namn": "Brf Lönnen, Mats P.", "ort": "Uddevalla"}
+  ],
+  "faq": [
+    ["Kan min villa få fjärrvärme?", "Om det finns nät i närheten, ja. Gör en intresseanmälan så räknar vi på anslutningen."],
+    ["Hur sätts priset?", "Vi avtalar pris tre år i taget och publicerar prismodellen öppet. Priset följer inte elpriset timme för timme."],
+    ["Köper ni vår restvärme?", "Ja, om den finns nära ett nät och är tillräckligt stor. Vi står för anslutning och värmepump."],
+    ["Vad är ett säsongslager?", "Ett bergrum fyllt med vatten som värms på sommaren och används på vintern."],
+    ["Var är aktien noterad?", "BODL handlas på Nasdaq Stockholm Mid Cap sedan 2011."],
+    ["Köper ni kommunala nät?", "Ja, och vi kan också driva nätet åt kommunen på avtal."]
+  ],
+  "nyheter": [
+    ["2026-10-28", "Delårsrapport januari–september 2026", "Andelen restvärme steg till 73 procent och sista oljepannan avvecklades.", "kontor"],
+    ["2026-09-01", "Bergrumslagret i Uddevalla i drift", "600 000 kubikmeter sommarvärme sparas till vintern.", "anlaggning"],
+    ["2026-05-14", "Bodele köper fjärrvärmenätet i Ystad", "Kommunens nät ska byggas ut till 3 000 villor.", "stad"]
+  ],
+  "investerare": {
+    "aktie": "BODL",
+    "lista": "Nasdaq Stockholm Mid Cap",
+    "kurs": "164,25",
+    "forandring": "+0,8 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-28"], ["Delårsrapport januari–juni 2026", "2026-07-22"], ["Delårsrapport januari–mars 2026", "2026-04-30"], ["Årsredovisning 2025", "2026-03-25"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-16"], ["Årsstämma, Uddevalla", "2027-05-05"]]
+  },
+  "kontor_rubrik": "58 städer i fyra länder",
+  "kontor_text": "Varje nät har lokal driftorganisation. Driftcentralen i Uddevalla övervakar alla.",
+  "kontor_lista": [
+    ["Uddevalla – huvudkontor", "Kurödsvägen 30. Koncernledning, driftcentral och bergrumslagret."],
+    ["Göteborg", "Bodele Kyla och restvärme från reningsverk."],
+    ["Borås och Trollhättan", "Fjärrvärme i Sjuhärad och Trestad."],
+    ["Karlstad", "Bodele Värmland."],
+    ["Gävle", "Fjärrvärme med restvärme från pappersindustrin."],
+    ["Luleå", "Restvärme från stålindustri och datahallar."],
+    ["Drammen, Esbjerg och Kotka", "Bodele Nordic."]
+  ],
+  "tidslinje_rubrik": "Sextio år av andras spillvärme",
+  "tidslinje": [
+    ["1964", "Raffinaderiet vid Byfjorden levererar restvärme till ett bostadsområde i Uddevalla."],
+    ["1982", "Första stora värmepumpen i ett reningsverk."],
+    ["2004", "Fjärrvärmenäten i Trollhättan och Borås köps."],
+    ["2011", "Börsnotering på Nasdaq Stockholm."],
+    ["2018", "Etablering i Danmark och Norge."],
+    ["2026", "Sista oljepannan avvecklas."]
+  ],
+  "vagg_text": "Lokala nätbolag med egna nätchefer. Restvärme, kyla och lager byggs av gemensamma bolag.",
+  "kontakt": {"adress": "Kurödsvägen 30", "postnr": "451 55", "ort": "Uddevalla", "telefon": "070-174 06 42", "epost": "info@bodele.se", "orgnr": ""},
+  "oppettider": "Kundservice mån–fre 8–16, driftjour dygnet runt",
+  "omrade": "Sverige, Norge, Danmark och Finland",
+  "fot_cta": "Har ni restvärme eller vill ansluta fastigheten? Prata med närmaste nätchef.",
+  "bild": {"panel": "industri", "hb": "anlaggning"},
+  "text": {
+    "ber_rubrik": "Senast i värmenäten",
+    "proj_rubrik": "Värmepumpar, lager och nya nät",
+    "process_rubrik": "Från spillvärme till element",
+    "process_etikett": "Restvärme",
+    "hb_etikett": "Fossilfri värme",
+    "omdomen_rubrik": "Kunder och leverantörer om Bodele",
+    "faq_rubrik": "Frågor om fjärrvärme",
+    "bolag_rubrik": "Värme, restvärme, kyla och Norden",
+    "vagg_rubrik": "{n} värmebolag",
+    "panel_etikett": "Drifttekniker sökes",
+    "siffror_etikett": "Bodele i siffror",
+    "ny_rubrik": "Pressmeddelanden"
+  }
+}

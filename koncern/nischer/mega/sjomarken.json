@@ -1,0 +1,144 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Sjömarken Lift Group AB (publ)",
+  "kortnamn": "Sjömarken",
+  "slug": "sjomarken",
+  "typ": "Hissar, portar och dörrar, Borås",
+  "tagline": "Allt som öppnas",
+  "slogan": "Sjömarken installerar och servar hissar, rulltrappor, industriportar och automatiska dörrar i 210 000 byggnader i Norden och Baltikum.",
+  "hero_rubrik": "Fyrtio miljoner hissresor om dagen",
+  "hero_text": "6 300 servicetekniker och montörer, 118 000 hissar och 240 000 portar och dörrar i serviceavtal. Jour dygnet runt.",
+  "intro_rubrik": "Nordens största oberoende hiss- och portföretag",
+  "om": [
+    "Sjömarken grundades 1958 av en mekaniker som byggde godshissar till väverierna i Borås. När textilindustrin flyttade utomlands ställde företaget om till personhissar och portar för de nya bostadsområdena.",
+    "Aktien är noterad sedan 2003. Vi tillverkar inga hissar själva utan installerar och servar alla fabrikat – det gör att fastighetsägare kan ha en leverantör för allt som öppnas och stängs i huset."
+  ],
+  "vagval_rubrik": "Vad behöver service?",
+  "tjanster": [
+    {"titel": "Hissar", "ikon": "hiss", "href": "verksamhet.html", "text": "Service, modernisering och nya hissar av alla fabrikat."},
+    {"titel": "Rulltrappor", "ikon": "upp", "href": "verksamhet.html", "text": "Rulltrappor och rullramper i köpcentrum, stationer och flygplatser."},
+    {"titel": "Industriportar", "ikon": "lada", "href": "verksamhet.html", "text": "Vik-, rull- och snabbportar samt lastbryggor."},
+    {"titel": "Automatiska dörrar", "ikon": "nyckel", "href": "verksamhet.html", "text": "Skjut-, sving- och karuselldörrar för butiker och vård."},
+    {"titel": "Hissbyte i Brf", "ikon": "hus", "href": "verksamhet.html", "text": "Hissbyte och nya hissar i befintliga trapphus."},
+    {"titel": "Besiktning och jour", "ikon": "telefon", "href": "verksamhet.html", "text": "Felanmälan och jour dygnet runt, alla dagar."},
+    {"titel": "Bli hissmontör", "ikon": "hjalm", "href": "karriar.html", "text": "Hissmontörer, porttekniker och servicetekniker."},
+    {"titel": "Aktien", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för SJOM."}
+  ],
+  "affarsomraden": [
+    {"titel": "Hiss och rulltrappa", "text": "Service, reparation och modernisering av hissar och rulltrappor av alla fabrikat. Varje servicetekniker har en egen rutt med fasta kunder.", "text2": "118 000 hissar och 3 400 rulltrappor i serviceavtal.", "tagg": "hiss"},
+    {"titel": "Modernisering", "text": "Vi byter styrsystem, maskiner och korgar i gamla hissar och bygger nya hissar i trapphus som saknar. Allt oftare ihop med stambyten.", "text2": "4 200 hissar moderniserades eller byggdes nya 2025.", "tagg": "bostad"},
+    {"titel": "Portar och lastbryggor", "text": "Industriportar, snabbportar och lastbryggor för lager, industri och logistik. Fel på en port kan stoppa ett helt lager, så jouren är dygnet runt.", "text2": "160 000 portar i serviceavtal.", "tagg": "industri"},
+    {"titel": "Automatiska dörrar", "text": "Entrédörrar för butiker, sjukhus, flygplatser och kontor, inklusive brand- och utrymningsfunktion. Vi kontrollerar dörrarna enligt standard varje år.", "text2": "80 000 dörrar i serviceavtal.", "tagg": "glas"}
+  ],
+  "bolag": [
+    {"namn": "Sjömarken Hiss AB", "segment": "Hiss och rulltrappa", "rubrik": "Alla fabrikat, egna rutter", "text": "Service, modernisering och nyinstallation av hissar och rulltrappor i Sverige.", "tagg": "hiss"},
+    {"namn": "Sjömarken Port & Dörr AB", "segment": "Portar och dörrar", "rubrik": "Allt som öppnas i entrén", "text": "Industriportar, lastbryggor och automatiska dörrar med jour dygnet runt.", "tagg": "industri"},
+    {"namn": "Sjömarken Nordic", "segment": "Norge, Danmark, Finland", "rubrik": "Grannländerna", "text": "Hiss- och portservice i Oslo, Köpenhamn, Helsingfors och 40 andra orter.", "tagg": "stad"},
+    {"namn": "Sjömarken Baltics", "segment": "Baltikum", "rubrik": "Tallinn, Riga, Vilnius", "text": "Service och modernisering av hissar i de baltiska huvudstäderna.", "tagg": "stad"}
+  ],
+  "lokala_bolag": ["Sjömarken Hiss Väst", "Sjömarken Hiss Öst", "Sjömarken Hiss Syd", "Sjömarken Hiss Norr", "Sjömarken Port & Dörr", "Sjömarken Heis AS", "Sjömarken Elevator A/S", "Sjömarken Hissit Oy", "Sjömarken Lift OÜ", "Sjömarken Lifti SIA", "Viskadalens Hissservice AB", "Borås Portautomatik AB"],
+  "berattelser": [
+    {"rubrik": "Ny hiss i 1930-talshus", "text": "I 64 trapphus i Göteborg har vi byggt hissar i trapphusets öga utan att ta en enda lägenhetsyta.", "tagg": "bostad"},
+    {"rubrik": "Fjärrövervakning av 70 000 hissar", "text": "Hissarna larmar själva innan de går sönder – andelen hissar som stannat oplanerat har halverats.", "tagg": "hiss"},
+    {"rubrik": "Snabbportar i kyllager", "text": "Nya snabbportar i ett kyllager i Jönköping har sänkt energiförbrukningen med 22 procent.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "118 000", "enhet": "", "etikett": "Hissar i serviceavtal", "trend": [92000, 96000, 100000, 104000, 109000, 114000, 118000], "trend_text": "Hissar i serviceavtal"},
+    {"varde": "6 300", "enhet": "", "etikett": "Servicetekniker och montörer"},
+    {"varde": "18,9", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [12.4, 13.0, 14.2, 15.6, 16.8, 17.9, 18.9], "trend_text": "Nettoomsättning, mdr kr"},
+    {"varde": "72", "enhet": "%", "etikett": "Intäkter från service", "trend": [66, 67, 68, 69, 70, 71, 72], "trend_text": "Serviceandel av omsättningen"}
+  ],
+  "projekt": [
+    {"namn": "Trapphushissar Linnéstaden", "ort": "Göteborg", "typ": "Nya hissar", "ar": "2025", "text": "64 hissar i trapphusöga i hus från 1930-talet.", "tagg": "bostad"},
+    {"namn": "Rulltrappor Odenplan", "ort": "Stockholm", "typ": "Modernisering", "ar": "2026", "text": "Åtta rulltrappor byts med pendeltågstrafiken igång.", "tagg": "stad"},
+    {"namn": "Kyllager Torsvik", "ort": "Jönköping", "typ": "Portar", "ar": "2024", "text": "46 snabbportar och 60 lastbryggor i nytt kyllager.", "tagg": "industri"},
+    {"namn": "Universitetssjukhuset", "ort": "Linköping", "typ": "Automatiska dörrar", "ar": "2025", "text": "1 200 dörrar i serviceavtal med kontroll av utrymningsfunktion.", "tagg": "glas"},
+    {"namn": "Kontorstornet Ülemiste", "ort": "Tallinn", "typ": "Nya hissar", "ar": "2026", "text": "Tolv snabbhissar i ett kontorstorn på 30 våningar.", "tagg": "kontor"},
+    {"namn": "Brf Solgläntan", "ort": "Borås", "typ": "Hissbyte", "ar": "2024", "text": "Sex hissar från 1968 byttes samtidigt med stambytet.", "tagg": "hiss"}
+  ],
+  "process": [
+    {"titel": "Inventering", "text": "Vi går igenom alla hissar, portar och dörrar och lägger in dem i ett serviceprogram.", "tagg": "kontor"},
+    {"titel": "Fast servicetekniker", "text": "Samma tekniker sköter samma hus, med service enligt tillverkarens intervall.", "tagg": "hiss"},
+    {"titel": "Fjärrövervakning", "text": "Hissar och portar skickar larm och driftdata till driftcentralen i Borås.", "tagg": "el"},
+    {"titel": "Modernisering i tid", "text": "Vi visar en tioårsplan för när komponenterna behöver bytas, så att budgeten inte överraskas.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Modernisera hissen – inte byt hela",
+    "text": "En modern styrning och maskin sänker energianvändningen i en gammal hiss med upp till 60 procent, och korg och schakt kan ofta vara kvar. Servicebilarna går på el, och reservdelar renoveras i vår verkstad i Borås.",
+    "mal": [["–60 %", "energi i moderniserade hissar"], ["100 %", "eldrivna servicebilar 2028"], ["25 %", "renoverade reservdelar 2030"]]
+  },
+  "karriar": {
+    "rubrik": "Egen rutt, egna kunder",
+    "text": "Som servicetekniker har du en egen rutt med 120–150 hissar eller portar och en elbil som tar dig hem. Hissmontörutbildningen tar två år med lön.",
+    "jobb": [["Hissmontör", "Stockholm"], ["Servicetekniker portar", "Borås"], ["Servicetekniker hiss", "Oslo"], ["Projektledare modernisering", "Göteborg"]]
+  },
+  "kultur": "Servicetekniker ansvarar för sin egen rutt och planerar veckan själv tillsammans med kunderna.",
+  "citat": {"text": "Folk tänker inte på hissen förrän den står still. Vårt jobb är att de aldrig ska behöva tänka på den.", "namn": "Åsa Gerdin", "roll": "Vd och koncernchef", "tagg": "hiss"},
+  "omdomen": [
+    {"text": "Vi fick hiss i ett hus från 1934 utan att någon lägenhet blev mindre. De äldre i föreningen kan bo kvar.", "namn": "Bertil O.", "ort": "Göteborg"},
+    {"text": "En port som går sönder stoppar hela lagret. Sjömarken var på plats på 40 minuter mitt i natten.", "namn": "Daniel K.", "ort": "Jönköping"},
+    {"text": "Samma tekniker har skött våra hissar i nio år. Han vet vad som låter fel innan vi gör det.", "namn": "Lisa H.", "ort": "Borås"}
+  ],
+  "faq": [
+    ["Servar ni alla hissfabrikat?", "Ja, vi servar och moderniserar hissar av alla större fabrikat, även äldre som inte tillverkas längre."],
+    ["Kan man bygga hiss i ett gammalt trapphus?", "Ofta ja – i trapphusets öga, på gården eller i en del av vinden. Vi gör en förstudie gratis."],
+    ["Hur snabbt kommer ni vid fel?", "Vid instängd person inom 45 minuter i tätort. Övriga fel inom avtalad tid, normalt samma dag."],
+    ["Måste hissar besiktas?", "Ja, enligt lag. Besiktningen görs av ett ackrediterat besiktningsorgan och vi åtgärdar anmärkningarna."],
+    ["Var är aktien noterad?", "SJOM handlas på Nasdaq Stockholm Large Cap sedan 2003."],
+    ["Säljer ni nya hissar?", "Ja, vi installerar nya hissar från flera tillverkare och väljer efter byggnadens behov."]
+  ],
+  "nyheter": [
+    ["2026-10-20", "Delårsrapport januari–september 2026", "Serviceintäkterna ökade med 8 procent och moderniseringarna med 12 procent.", "kontor"],
+    ["2026-08-28", "Sjömarken köper hissföretag i Litauen", "Förvärvet ger 4 200 hissar i serviceavtal i Vilnius och Kaunas.", "stad"],
+    ["2026-04-09", "Fjärrövervakning i 70 000 hissar", "Oplanerade stopp har halverats sedan 2022.", "hiss"]
+  ],
+  "investerare": {
+    "aktie": "SJOM",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "289,60",
+    "forandring": "+0,6 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-20"], ["Delårsrapport januari–juni 2026", "2026-07-15"], ["Delårsrapport januari–mars 2026", "2026-04-21"], ["Årsredovisning 2025", "2026-03-18"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-03"], ["Årsstämma, Borås", "2027-04-21"]]
+  },
+  "kontor_rubrik": "180 serviceorter i sju länder",
+  "kontor_text": "Serviceteknikerna utgår hemifrån. Här är de största kontoren.",
+  "kontor_lista": [
+    ["Borås – huvudkontor", "Sjömarksvägen 20. Koncernledning, driftcentral och reservdelsverkstad."],
+    ["Göteborg", "Sjömarken Hiss Väst, 640 medarbetare."],
+    ["Stockholm", "Sjömarken Hiss Öst, 1 300 medarbetare."],
+    ["Malmö", "Sjömarken Hiss Syd och Port & Dörr Syd."],
+    ["Umeå", "Sjömarken Hiss Norr."],
+    ["Oslo, Köpenhamn och Helsingfors", "Sjömarken Nordic."],
+    ["Tallinn, Riga och Vilnius", "Sjömarken Baltics."]
+  ],
+  "tidslinje_rubrik": "Från godshissar till 118 000 hissar",
+  "tidslinje_text": "Godshissar till Borås väverier blev Nordens största oberoende hissföretag.",
+  "tidslinje": [
+    ["1958", "Sjömarken bygger godshissar till väverierna i Borås."],
+    ["1972", "Första personhissarna i miljonprogrammet."],
+    ["1994", "Port & Dörr startar genom förvärv."],
+    ["2003", "Börsnotering på Stockholmsbörsen."],
+    ["2012", "Etablering i Norge, Danmark och Finland."],
+    ["2022", "Fjärrövervakning införs i alla nya avtal."]
+  ],
+  "kontakt": {"adress": "Sjömarksvägen 20", "postnr": "504 56", "ort": "Borås", "telefon": "070-174 06 41", "epost": "info@sjomarken.se", "orgnr": ""},
+  "oppettider": "Kundtjänst mån–fre 7–17, jour dygnet runt",
+  "omrade": "Sverige, Norge, Danmark, Finland och Baltikum",
+  "fot_cta": "Saknar ert hus hiss eller är den gammal? Boka en kostnadsfri förstudie.",
+  "bild": {"panel": "hiss", "hb": "hiss"},
+  "text": {
+    "ber_rubrik": "Senast från serviceteknikerna",
+    "proj_rubrik": "Hissar, portar och dörrar",
+    "process_rubrik": "Från inventering till tioårsplan",
+    "process_etikett": "Serviceavtal",
+    "hb_etikett": "Modernisera före byte",
+    "omdomen_rubrik": "Fastighetsägarna om Sjömarken",
+    "faq_rubrik": "Frågor om hissar och portar",
+    "bolag_rubrik": "Fyra bolag, alla fabrikat",
+    "vagg_rubrik": "{n} bolag i sju länder",
+    "panel_etikett": "Hissmontörer sökes",
+    "hero_knapp": "Felanmälan och service",
+    "ny_rubrik": "Pressmeddelanden"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Vankiva Rail Services AB (publ)",
+  "kortnamn": "Vankiva",
+  "slug": "vankiva",
+  "typ": "Tågunderhåll och depåer, Hässleholm",
+  "tagline": "Klart före första avgång",
+  "slogan": "Vankiva underhåller pendeltåg, regionaltåg, spårvagnar och lok i 34 depåer i Norden – och bygger och driver depåerna själva.",
+  "hero_rubrik": "Varje morgon rullar 2 100 tåg ut från oss",
+  "hero_text": "5 200 fordonstekniker, elektriker och lackerare i 34 depåer. Vi lagar tågen på natten så att de går i tid på dagen.",
+  "intro_rubrik": "Nordens största verkstad för spårfordon",
+  "om": [
+    "Vankiva grundades 1952 som en reparationsverkstad för rälsbussar vid Hässleholms bangård. När järnvägen avreglerades på 1990-talet tog bolaget över underhållet av regionaltågen i Skåne och växte sedan med varje ny trafikupphandling.",
+    "Aktien är noterad sedan 2008. I dag har vi underhållsavtal för 2 100 spårfordon åt 28 trafikhuvudmän och operatörer, och vi äger eller driver 34 depåer från Luleå till Köpenhamn."
+  ],
+  "vagval_rubrik": "Vilket fordon gäller det?",
+  "tjanster": [
+    {"titel": "Löpande underhåll", "ikon": "verktyg", "href": "verksamhet.html", "text": "Nattligt underhåll, felavhjälpning och städning i depå."},
+    {"titel": "Tunga revisioner", "ikon": "kugge", "href": "verksamhet.html", "text": "Boggier, hjulaxlar och livstidsrenovering av hela tåg."},
+    {"titel": "Spårvagnar", "ikon": "bil", "href": "verksamhet.html", "text": "Underhåll av spårvagnar och metro i sju städer."},
+    {"titel": "Depåer", "ikon": "fabrik", "href": "verksamhet.html", "text": "Vi projekterar, bygger, äger och driver depåer."},
+    {"titel": "Hjulsvarvning", "ikon": "robot", "href": "verksamhet.html", "text": "Undergolvsvarvar och hjulverkstäder i tolv depåer."},
+    {"titel": "Komponenter", "ikon": "lada", "href": "verksamhet.html", "text": "Renoverade dörrar, kopplen, bromsar och drivsystem."},
+    {"titel": "Bli fordonstekniker", "ikon": "hjalm", "href": "karriar.html", "text": "Fordonstekniker, elektriker och lackerare."},
+    {"titel": "Aktien", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för VANK."}
+  ],
+  "affarsomraden": [
+    {"titel": "Fordonsunderhåll", "text": "Långa underhållsavtal där vi ansvarar för att rätt antal tåg står klara varje morgon. Ersättningen är kopplad till tillgänglighet och punktlighet.", "text2": "Tillgängligheten var 98,7 procent i snitt för alla avtal 2025.", "tagg": "infra"},
+    {"titel": "Revision och renovering", "text": "Tunga revisioner och livstidsförlängning av tåg som är 20–30 år gamla. Ett renoverat tåg kostar en tredjedel av ett nytt.", "text2": "64 tåg livstidsrenoverades i Hässleholm och Örebro 2025.", "tagg": "industri"},
+    {"titel": "Depåer", "text": "Vi bygger och äger depåer som hyrs ut till trafikhuvudmännen på 20–30 år. Depån ritas efter fordonen och underhållet, inte tvärtom.", "text2": "Elva depåer ägs av Vankiva, 23 drivs åt andra ägare.", "tagg": "bygg"},
+    {"titel": "Komponenter", "text": "Egna verkstäder renoverar boggier, dörrar, kopplen och elektronik. Det kortar stilleståndet när ett tåg behöver byta en del.", "text2": "Komponentverkstaden i Hässleholm renoverar 38 000 komponenter om året.", "tagg": "maskin"}
+  ],
+  "bolag": [
+    {"namn": "Vankiva Underhåll AB", "segment": "Fordonsunderhåll", "rubrik": "34 depåer, 2 100 fordon", "text": "Löpande underhåll av pendeltåg, regionaltåg, spårvagnar och lok i Sverige.", "tagg": "infra"},
+    {"namn": "Vankiva Heavy Maintenance AB", "segment": "Revision och komponenter", "rubrik": "Tåg som blir nya igen", "text": "Tunga revisioner, livstidsrenovering och komponentverkstäder i Hässleholm och Örebro.", "tagg": "industri"},
+    {"namn": "Vankiva Depå AB", "segment": "Depåer", "rubrik": "Vi bygger, äger och driver", "text": "Utvecklar och äger depåer som hyrs ut på långa avtal.", "tagg": "bygg"},
+    {"namn": "Vankiva Nordic", "segment": "Norge, Danmark, Finland", "rubrik": "Depåer i tre grannländer", "text": "Underhåll av regionaltåg och metro i Oslo, Köpenhamn och Helsingfors.", "tagg": "stad"}
+  ],
+  "lokala_bolag": ["Vankiva Hässleholm", "Vankiva Malmö", "Vankiva Göteborg", "Vankiva Stockholm", "Vankiva Örebro", "Vankiva Umeå", "Vankiva Luleå", "Vankiva Depå", "Vankiva Togvedlikehold AS", "Vankiva Togværksted A/S", "Vankiva Junahuolto Oy", "Skånska Boggiverkstaden AB"],
+  "berattelser": [
+    {"rubrik": "Ny depå i Uppsala klar", "text": "Depån för 48 regionaltåg byggdes på 26 månader och togs i drift utan en enda inställd avgång.", "tagg": "bygg"},
+    {"rubrik": "Trettio år gamla tåg som nya", "text": "De första livstidsrenoverade regionaltågen i Västsverige har nya interiörer, ny el och tio år till i trafik.", "tagg": "industri"},
+    {"rubrik": "Sensorer förutser fel", "text": "Tågen skickar data om dörrar och bromsar till depån – reservdelen ligger framme innan tåget rullar in.", "tagg": "el"}
+  ],
+  "nyckeltal": [
+    {"varde": "2 100", "enhet": "", "etikett": "Spårfordon i underhåll", "trend": [1400, 1520, 1640, 1780, 1890, 2010, 2100], "trend_text": "Fordon under underhållsavtal"},
+    {"varde": "98,7", "enhet": "%", "etikett": "Fordonstillgänglighet", "trend": [97.4, 97.8, 98.0, 98.1, 98.4, 98.5, 98.7], "trend_text": "Tillgänglighet, alla avtal"},
+    {"varde": "14,6", "enhet": "mdr kr", "etikett": "Omsättning 2025"},
+    {"varde": "5 200", "enhet": "", "etikett": "Medarbetare", "trend": [3900, 4100, 4300, 4600, 4800, 5000, 5200], "trend_text": "Anställda vid årets slut"}
+  ],
+  "projekt": [
+    {"namn": "Depå Librobäck", "ort": "Uppsala", "typ": "Ny depå", "ar": "2026", "text": "Depå för 48 regionaltåg med tvätthall, hjulsvarv och tolv underhållsspår.", "tagg": "bygg"},
+    {"namn": "Livstidsrenovering regionaltåg", "ort": "Hässleholm", "typ": "Revision", "ar": "2025", "text": "36 tåg från 1995 fick ny interiör, ny el och tio år till i trafik.", "tagg": "industri"},
+    {"namn": "Spårvagnsdepå Rantahuvila", "ort": "Helsingfors", "typ": "Depå", "ar": "2027", "text": "Depå för 40 spårvagnar på den nya snabbspårvägen.", "tagg": "stad"},
+    {"namn": "Pendeltågsavtal Stockholm", "ort": "Stockholm", "typ": "Underhåll", "ar": "2034", "text": "Tioårigt avtal för 220 pendeltåg i tre depåer.", "tagg": "infra"},
+    {"namn": "Boggiverkstad", "ort": "Hässleholm", "typ": "Egen verkstad", "ar": "2024", "text": "Ny verkstad med robotsvetsning och mätning av boggiramar.", "tagg": "maskin"},
+    {"namn": "Depå Gimonäs", "ort": "Umeå", "typ": "Ombyggnad", "ar": "2025", "text": "Depån byggdes ut för längre tåg och vinterbehandling med avisning.", "tagg": "infra"}
+  ],
+  "process": [
+    {"titel": "Tåget rullar in", "text": "Efter sista turen rullar tåget in i depån, där data om fel redan har kommit fram.", "tagg": "infra"},
+    {"titel": "Nattskiftet", "text": "Fordonsteknikerna åtgärdar fel, byter slitdelar och kontrollerar bromsar under fyra till sex timmar.", "tagg": "maskin"},
+    {"titel": "Städning och tvätt", "text": "Invändig städning och yttre tvätt i samma natt, och sanering av klotter inom 24 timmar.", "tagg": "stadning"},
+    {"titel": "Klart vid fem", "text": "Trafikledningen får besked om vilka tåg som är klara innan första avgången.", "tagg": "kontor"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett renoverat tåg är det grönaste tåget",
+    "text": "Livstidsrenovering ger tio till femton år till i trafik för en tredjedel av kostnaden och en bråkdel av klimatpåverkan för ett nytt tåg. Depåerna värms med restvärme och tvätthallarna återanvänder 85 procent av vattnet.",
+    "mal": [["100 %", "fossilfri energi i alla depåer 2027"], ["85 %", "återanvänt tvättvatten"], ["50 %", "renoverade komponenter i stället för nya 2030"]]
+  },
+  "karriar": {
+    "rubrik": "Laga tåg medan stan sover",
+    "text": "Nattarbete ger tillägg och längre ledigheter. Vi utbildar fordonstekniker i egen tågteknikerskola i Hässleholm med lön under utbildningen.",
+    "jobb": [["Fordonstekniker spårvagn", "Göteborg"], ["Elektriker tåg", "Stockholm"], ["Depåchef", "Uppsala"], ["Lackerare", "Hässleholm"]]
+  },
+  "kultur": "Varje depå har en tavla där nattskiftet ser hur många tåg som rullade ut i tid – och det firas när veckan är felfri.",
+  "citat": {"text": "Resenären märker oss bara när vi misslyckas. Därför mäter vi oss på varje tåg som rullar ut i tid, varje morgon.", "namn": "Jesper Holmgren", "roll": "Vd och koncernchef", "tagg": "infra"},
+  "omdomen": [
+    {"text": "Tillgängligheten på våra regionaltåg har legat över 99 procent i tre år. Det är bästa siffran vi haft.", "namn": "Charlotte E.", "ort": "Malmö"},
+    {"text": "De renoverade tågen ser ut som nya och fick tio år till. Vi sparade nästan två miljarder.", "namn": "Anders W.", "ort": "Göteborg"},
+    {"text": "Depån byggdes medan trafiken gick. Vi märkte bara att den nya tvätthallen var snabbare.", "namn": "Sara M.", "ort": "Uppsala"}
+  ],
+  "faq": [
+    ["Vilka fordon underhåller ni?", "Pendeltåg, regionaltåg, fjärrtåg, spårvagnar, metro och lok från de flesta tillverkare."],
+    ["Bygger ni depåer åt andra?", "Ja, vi kan bygga och äga depån och hyra ut den, eller bygga åt en annan ägare och sedan driva den."],
+    ["Hur länge gäller ett underhållsavtal?", "Normalt åtta till tolv år, ofta samordnat med trafikavtalet."],
+    ["Vad är livstidsrenovering?", "En totalrenovering där tåget får ny el, interiör och ofta nya drivsystem för tio till femton år till i trafik."],
+    ["Var är aktien noterad?", "VANK handlas på Nasdaq Stockholm Mid Cap sedan 2008."],
+    ["Kan jag bli fordonstekniker utan erfarenhet?", "Ja, vi tar in 120 elever per år i vår tågteknikerskola. Krav är gymnasieexamen, gärna från el- eller fordonsprogrammet."]
+  ],
+  "nyheter": [
+    ["2026-10-26", "Delårsrapport januari–september 2026", "Tillgängligheten steg till 98,8 procent och tre nya avtal tecknades.", "kontor"],
+    ["2026-09-15", "Depån i Uppsala i drift", "48 regionaltåg underhålls i den nya depån i Librobäck.", "bygg"],
+    ["2026-05-28", "Tioårigt avtal för pendeltågen i Stockholm", "Avtalet omfattar 220 tåg och 640 medarbetare.", "infra"]
+  ],
+  "investerare": {
+    "aktie": "VANK",
+    "lista": "Nasdaq Stockholm Mid Cap",
+    "kurs": "198,40",
+    "forandring": "+0,7 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-26"], ["Delårsrapport januari–juni 2026", "2026-07-20"], ["Delårsrapport januari–mars 2026", "2026-04-26"], ["Årsredovisning 2025", "2026-03-28"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-08"], ["Årsstämma, Hässleholm", "2027-04-26"]]
+  },
+  "kontor_rubrik": "34 depåer längs spåren",
+  "kontor_text": "Fordonsteknikerna arbetar där tågen övernattar. Här är de största depåerna.",
+  "kontor_lista": [
+    ["Hässleholm – huvudkontor", "Bangårdsgatan 6. Koncernledning, tunga revisioner, boggiverkstad och tågteknikerskola."],
+    ["Malmö", "Depåer för regionaltåg och Öresundstrafik."],
+    ["Göteborg", "Pendeltåg och spårvagnar i två depåer."],
+    ["Stockholm", "Tre pendeltågsdepåer och tunnelbana."],
+    ["Örebro", "Revisionsverkstad och lokunderhåll."],
+    ["Uppsala", "Ny depå i Librobäck för 48 regionaltåg."],
+    ["Oslo, Köpenhamn och Helsingfors", "Vankiva Nordic med regionaltåg, metro och spårvagn."]
+  ],
+  "tidslinje_rubrik": "Sjuttio år vid bangården",
+  "tidslinje": [
+    ["1952", "Reparationsverkstad för rälsbussar startar vid Hässleholms bangård."],
+    ["1996", "Första underhållsavtalet för Skånes regionaltåg."],
+    ["2008", "Börsnotering på Nasdaq Stockholm."],
+    ["2014", "Första egenägda depån byggs i Malmö."],
+    ["2019", "Etablering i Norge, Danmark och Finland."],
+    ["2026", "Tioårigt pendeltågsavtal i Stockholm."]
+  ],
+  "vagg_text": "Varje depå har egen depåchef och egna nattlag. Revisioner, komponenter och utbildning delas av alla.",
+  "kontakt": {"adress": "Bangårdsgatan 6", "postnr": "281 31", "ort": "Hässleholm", "telefon": "070-174 06 36", "epost": "info@vankiva.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 8–16, depåerna dygnet runt",
+  "omrade": "Sverige, Norge, Danmark och Finland",
+  "fot_cta": "Ska ni upphandla underhåll eller bygga en ny depå? Kontakta vår affärsutveckling.",
+  "bild": {"panel": "infra", "hb": "industri"},
+  "text": {
+    "ber_rubrik": "Senast från depåerna",
+    "proj_rubrik": "Depåer, avtal och renoveringar",
+    "process_rubrik": "En natt i depån",
+    "process_etikett": "Nattskiftet",
+    "hb_etikett": "Renovera före nytt",
+    "omdomen_rubrik": "Trafikhuvudmännen om Vankiva",
+    "faq_rubrik": "Frågor om tågunderhåll",
+    "bolag_rubrik": "Underhåll, revision, depå och Norden",
+    "vagg_rubrik": "{n} bolag vid spåren",
+    "panel_etikett": "Tågteknikerskolan",
+    "siffror_etikett": "Vankiva i siffror",
+    "ny_rubrik": "Pressmeddelanden"
+  }
+}

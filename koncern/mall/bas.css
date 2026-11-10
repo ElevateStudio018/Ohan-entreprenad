@@ -1129,7 +1129,7 @@ body[data-herotext="band"] .hero .hero-txt .knapp-ljus { background: var(--c-a);
 body[data-herotext="band"] .hero .bild-fyll::after { background: rgba(0,0,0,.1); }
 @media (min-width: 1000px) { body[data-herotext="band"] .hero .hero-txt { display: grid; grid-template-columns: 1.4fr 1fr; column-gap: 64px; align-items: end; } body[data-herotext="band"] .hero .hero-txt .etikett { grid-column: 1 / -1; } body[data-herotext="band"] .hero .hero-txt .ingress { margin-top: 0; } body[data-herotext="band"] .hero .hero-txt .knappar, body[data-herotext="band"] .hero .hero-txt .statement-rad { grid-column: 2; } }
 /* 11 stack: ett ord per rad */
-body[data-herotext="stack"] .hero .hero-txt h1, body[data-herotext="stack"] .hero .hero-txt h2 { font-size: calc(clamp(40px, 6.2vw, 104px) * var(--skala-r)); line-height: .94; word-spacing: 100vw; max-width: none; }
+body[data-herotext="stack"] .hero .hero-txt h1, body[data-herotext="stack"] .hero .hero-txt h2 { font-size: calc(clamp(40px, 6.2vw, 104px) * var(--skala-r)); line-height: .94; max-width: 6.2em; text-wrap: balance; }
 body[data-herotext="stack"] .hero .bild-fyll::after { background: linear-gradient(90deg, rgba(0,0,0,.72), rgba(0,0,0,.1) 70%); }
 /* 12 kontur: konturerad rubrik */
 body[data-herotext="kontur"] .hero .hero-txt h1, body[data-herotext="kontur"] .hero .hero-txt h2 { font-size: calc(clamp(44px, 8vw, 148px) * var(--skala-r)); line-height: .95; text-transform: uppercase; color: transparent; -webkit-text-stroke: 2px #fff; letter-spacing: -.02em; max-width: none; }
