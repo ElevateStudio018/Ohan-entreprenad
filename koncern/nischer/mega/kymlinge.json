@@ -1,0 +1,145 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kymlinge Fastigheter AB (publ)",
+  "kortnamn": "Kymlinge",
+  "slug": "kymlinge",
+  "typ": "Kontor och campus, Sundbyberg",
+  "tagline": "Kontor nära spåren",
+  "slogan": "Kymlinge äger, utvecklar och förvaltar kontorskvarter och forskningscampus vid pendeltågs- och tunnelbanestationer i Stockholm, Göteborg och Köpenhamn.",
+  "hero_rubrik": "Arbetsplatser fem minuter från perrongen",
+  "hero_text": "2,9 miljoner kvadratmeter kontor och labb, 4 100 hyresgäster och 2 300 medarbetare. Varje fastighet ligger högst 400 meter från en station.",
+  "intro_rubrik": "Nordens största kontorsägare vid stationer",
+  "om": [
+    "Kymlinge bildades 1998 när tre pensionsstiftelser lade samman sina kontorsfastigheter i Sundbyberg, Solna och Kista. Bolaget börsnoterades 2005 och har sedan dess köpt och byggt kontor uteslutande i stationslägen.",
+    "I dag äger vi 184 fastigheter till ett värde av 148 miljarder kronor. Förvaltningen sköts av egna fastighetstekniker, och varje kvarter har en husvärd som hyresgästerna känner vid namn."
+  ],
+  "vagval_rubrik": "Vilken lokal letar ni efter?",
+  "tjanster": [
+    {"titel": "Kontor", "ikon": "kontor", "href": "verksamhet.html", "text": "Från 200 till 40 000 kvadratmeter, med flexibla kontrakt från tre år."},
+    {"titel": "Labb och life science", "ikon": "sok", "href": "verksamhet.html", "text": "Våtlabb, renrum och vivarium i två forskningscampus."},
+    {"titel": "Coworking", "ikon": "folk", "href": "verksamhet.html", "text": "Egna arbetsplatser per månad i 22 hus under varumärket Perrong."},
+    {"titel": "Hyresgästanpassning", "ikon": "ritning", "href": "verksamhet.html", "text": "Egna projektledare ritar och bygger om lokalen inom åtta veckor."},
+    {"titel": "Projektutveckling", "ikon": "kran", "href": "verksamhet.html", "text": "Nya kontorshus och om- och tillbyggnader i stationslägen."},
+    {"titel": "Konferens och mötesrum", "ikon": "kalender", "href": "verksamhet.html", "text": "Bokningsbara mötesrum för alla hyresgäster i samma kvarter."},
+    {"titel": "Felanmälan", "ikon": "verktyg", "href": "om-oss.html#kontakt", "text": "Dygnet runt via app eller telefon, med egna tekniker på plats."},
+    {"titel": "Investerare", "ikon": "graf", "href": "investerare.html", "text": "Aktiekurs, rapporter och kalender för KYML."}
+  ],
+  "affarsomraden": [
+    {"titel": "Kontorskvarter", "text": "Kvarter med flera hus, restauranger och gym runt en gemensam gård. Hyresgästen kan växa inom kvarteret utan att flytta adress.", "text2": "Kontor står för 78 procent av hyresvärdet, med en uthyrningsgrad på 92,4 procent.", "tagg": "kontor"},
+    {"titel": "Forskningscampus", "text": "Två campus i Solna och Lund med labb, renrum och delade instrument. Vi bygger labb på spekulation, eftersom efterfrågan överstiger utbudet.", "text2": "Campusen har 210 hyresgäster, från tvåpersonersbolag till läkemedelskoncerner.", "tagg": "interior"},
+    {"titel": "Projektutveckling", "text": "Vi bygger kontor på egna byggrätter vid stationer och river aldrig ett hus vi kan bygga om. Ombyggnad ger hälften av klimatavtrycket.", "text2": "Sju projekt på 186 000 kvadratmeter pågår, med 61 procent förhyrt.", "tagg": "bygg"},
+    {"titel": "Perrong Coworking", "text": "Flexibla kontor per skrivbord eller rum i 22 av våra hus. Många bolag börjar i Perrong och flyttar till eget kontor i samma kvarter.", "text2": "4 800 medlemmar och 86 procent beläggning under 2025.", "tagg": "people"}
+  ],
+  "bolag": [
+    {"namn": "Kymlinge Stockholm AB", "segment": "Kontor Stockholm", "rubrik": "Sundbyberg, Solna, Kista och city", "text": "Äger 118 fastigheter längs pendeltåg och tunnelbana i Stockholmsregionen.", "tagg": "stad"},
+    {"namn": "Kymlinge Göteborg AB", "segment": "Kontor Göteborg", "rubrik": "Runt Centralen och Lindholmen", "text": "41 fastigheter vid Göteborgs central, Gamlestaden och Lindholmen, med ny pendeltågsstation i Haga.", "tagg": "kontor"},
+    {"namn": "Kymlinge Science AB", "segment": "Labb och campus", "rubrik": "Två campus, 210 forskningsbolag", "text": "Utvecklar och förvaltar forskningscampus i Solna och Lund med egna labbtekniker.", "tagg": "interior"},
+    {"namn": "Kymlinge Danmark A/S", "segment": "Kontor Köpenhamn", "rubrik": "Vid metron i Ørestad", "text": "25 fastigheter vid metro- och S-togsstationer i Köpenhamn, förvärvade 2017.", "tagg": "stad"}
+  ],
+  "lokala_bolag": ["Kymlinge Sundbyberg", "Kymlinge Solna", "Kymlinge Kista", "Kymlinge City", "Kymlinge Göteborg", "Kymlinge Science Solna", "Kymlinge Science Lund", "Kymlinge Danmark A/S", "Perrong Coworking AB", "Kymlinge Projekt AB", "Kymlinge Förvaltning AB"],
+  "berattelser": [
+    {"rubrik": "Gamla tryckeriet blir labb", "text": "Ett tryckerihus från 1962 i Solna byggs om till 14 000 kvadratmeter labb – stommen står kvar och sparar 9 000 ton koldioxid.", "tagg": "bygg"},
+    {"rubrik": "Perrong öppnar i Ørestad", "text": "Den första coworkingytan utanför Sverige öppnade i september med 420 platser och var fullbokad efter sex veckor.", "tagg": "interior"},
+    {"rubrik": "Husvärdar i alla kvarter", "text": "Sedan i våras har alla 184 fastigheter en namngiven husvärd på plats minst tre dagar i veckan.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "148", "enhet": "mdr kr", "etikett": "Fastighetsvärde", "trend": [112, 124, 139, 146, 141, 144, 148], "trend_text": "Fastighetsvärde 31 december, mdr kr"},
+    {"varde": "92,4", "enhet": "%", "etikett": "Ekonomisk uthyrningsgrad", "trend": [94.1, 93.6, 92.0, 91.8, 92.1, 92.2, 92.4], "trend_text": "Uthyrningsgrad 2019–2025"},
+    {"varde": "400", "enhet": "m", "etikett": "Max avstånd till station"},
+    {"varde": "2,9", "enhet": "milj. kvm", "etikett": "Uthyrbar yta", "trend": [2.3, 2.4, 2.6, 2.7, 2.8, 2.8, 2.9], "trend_text": "Uthyrbar yta, miljoner kvm"}
+  ],
+  "projekt": [
+    {"namn": "Tryckeriet", "ort": "Solna", "typ": "Labb, ombyggnad", "ar": "2027", "text": "14 000 kvadratmeter labb och kontor i ett bevarat tryckerihus från 1962.", "tagg": "bygg"},
+    {"namn": "Kvarteret Signalen", "ort": "Sundbyberg", "typ": "Kontor", "ar": "2025", "text": "Tre kontorshus på 38 000 kvadratmeter direkt ovanpå pendeltågsstationen.", "tagg": "kontor"},
+    {"namn": "Haga Station Hus 2", "ort": "Göteborg", "typ": "Kontor", "ar": "2028", "text": "22 våningar med uppgång direkt från den nya pendeltågsstationen.", "tagg": "stad"},
+    {"namn": "Ørestad Metro Hus", "ort": "Köpenhamn", "typ": "Kontor och coworking", "ar": "2026", "text": "Ombyggnad av ett kontorshus från 2003 med 420 Perrong-platser i bottenplan.", "tagg": "interior"},
+    {"namn": "Medicon Lab West", "ort": "Lund", "typ": "Labb", "ar": "2026", "text": "Våtlabb och renrum för 30 forskningsbolag vid spårvägens hållplats.", "tagg": "interior"},
+    {"namn": "Kista Torn", "ort": "Stockholm", "typ": "Ombyggnad", "ar": "2024", "text": "Totalrenovering av ett kontorshus från 1989 med ny fasad och fossilfri värme.", "tagg": "kontor"}
+  ],
+  "process": [
+    {"titel": "Behovsanalys", "text": "Vi mäter hur ni använder lokalen i dag med sensorer i fyra veckor innan vi ritar något nytt.", "tagg": "kontor"},
+    {"titel": "Ritning på två veckor", "text": "Egna inredningsarkitekter tar fram planlösning och kalkyl med fast pris för anpassningen.", "tagg": "interior"},
+    {"titel": "Ombyggnad på åtta", "text": "Våra projektledare bygger om med ramavtalsentreprenörer, ofta på kvällar och helger.", "tagg": "bygg"},
+    {"titel": "Husvärd från dag ett", "text": "När ni flyttar in har ni en namngiven husvärd och tekniker i huset minst tre dagar i veckan.", "tagg": "people"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi river inte – vi bygger om",
+    "text": "Sedan 2021 har vi inte rivit ett enda hus. En ombyggnad där stommen sparas ger ungefär hälften av klimatavtrycket jämfört med nybyggnad. Alla fastigheter värms och kyls med förnybar energi och 96 procent har gröna hyresavtal.",
+    "mal": [["0", "rivna hus sedan 2021"], ["–60 %", "energianvändning per kvm 2030 mot 2015"], ["100 %", "fastigheter certifierade enligt BREEAM In-Use 2027"]]
+  },
+  "karriar": {
+    "rubrik": "Var den hyresgästerna frågar efter",
+    "text": "Hos oss har fastighetsteknikerna eget ansvar för sina hus och egen budget för förbättringar. Vi söker också förvaltare, uthyrare och projektledare med erfarenhet av labb.",
+    "jobb": [["Husvärd", "Sundbyberg"], ["Fastighetstekniker labb", "Lund"], ["Uthyrare kontor", "Göteborg"], ["Projektledare hyresgästanpassning", "Köpenhamn"]]
+  },
+  "kultur": "Varje fastighetstekniker har en förbättringsbudget på 150 000 kronor om året för sina hus, utan att behöva fråga först.",
+  "citat": {"text": "En kontorsfastighet som ligger långt från spåren tappar hyresgäster de år det går dåligt. Därför köper vi bara vid stationer, även när det är dyrare.", "namn": "Annika Wester", "roll": "Vd och koncernchef", "tagg": "kontor"},
+  "omdomen": [
+    {"text": "Vi växte från 40 till 300 anställda på fyra år utan att byta adress. Kymlinge flyttade oss tre gånger inom samma kvarter.", "namn": "Johan R.", "ort": "Sundbyberg"},
+    {"text": "Labbet i Solna var klart på sex månader. Husvärden kan mer om dragskåp än vår egen labbchef.", "namn": "Eva T.", "ort": "Solna"},
+    {"text": "Vi började med fyra platser i Perrong och har nu en egen våning. Samma kontrakt, bara större.", "namn": "Mikkel S.", "ort": "Köpenhamn"}
+  ],
+  "faq": [
+    ["Hur långa hyresavtal har ni?", "Normalt tre till tio år för kontor och fem till femton år för labb. I Perrong hyr ni per månad."],
+    ["Kan vi växa inom kvarteret?", "Ja. Vi reserverar ofta angränsande ytor för befintliga hyresgäster och flyttar er utan extra kostnad om ni behöver mer plats."],
+    ["Vad är ett grönt hyresavtal?", "En bilaga där vi och hyresgästen kommer överens om energimål, avfallssortering och delning av mätdata."],
+    ["Bygger ni labb åt mindre bolag?", "Ja, i båda campus finns labbmoduler från 60 kvadratmeter med delad utrustning."],
+    ["Var är aktien noterad?", "KYML handlas på Nasdaq Stockholm Large Cap. Tre pensionsstiftelser äger tillsammans 38 procent."],
+    ["Hur anmäler jag ett fel?", "Via appen Kymlinge Hus eller vår felanmälan som är öppen dygnet runt. Akuta fel åtgärdas inom fyra timmar."]
+  ],
+  "nyheter": [
+    ["2026-10-20", "Delårsrapport januari–september 2026", "Förvaltningsresultatet ökade med 7 procent och uthyrningsgraden steg till 92,6 procent.", "kontor"],
+    ["2026-09-02", "Perrong öppnar i Köpenhamn", "420 coworkingplatser i Ørestad var fullbokade efter sex veckor.", "interior"],
+    ["2026-06-11", "Kymlinge emitterar grön obligation på 2 miljarder", "Pengarna går till ombyggnaden av Tryckeriet och Haga Station Hus 2.", "stad"],
+    ["2026-03-12", "Årsredovisning och hållbarhetsrapport 2025", "Fastighetsvärdet steg till 148 miljarder kronor.", "kontor"]
+  ],
+  "investerare": {
+    "aktie": "KYML",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "94,85",
+    "forandring": "–0,6 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-20"], ["Delårsrapport januari–juni 2026", "2026-07-10"], ["Delårsrapport januari–mars 2026", "2026-04-22"], ["Årsredovisning 2025", "2026-03-12"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-03"], ["Årsstämma, Sundbyberg", "2027-04-15"], ["Delårsrapport januari–mars 2027", "2027-04-21"]]
+  },
+  "kontor_text": "Varje stad har eget förvaltningskontor i ett av våra hus, nära hyresgästerna.",
+  "kontor_lista": [
+    ["Sundbyberg – huvudkontor", "Järnvägsgatan 32, ovanpå pendeltågsstationen. Koncernledning och Kymlinge Stockholm."],
+    ["Solna", "Kymlinge Science och campuset vid Karolinska, 120 medarbetare."],
+    ["Kista", "Förvaltning av 26 kontorshus i Kista och Hjulsta."],
+    ["Stockholm city", "Uthyrning och Perrong Coworking."],
+    ["Göteborg", "Kymlinge Göteborg vid Centralen, 210 medarbetare."],
+    ["Lund", "Science Lund vid spårvägen mot Brunnshög."],
+    ["Köpenhamn", "Kymlinge Danmark A/S i Ørestad."]
+  ],
+  "tidslinje_rubrik": "Alltid vid stationen",
+  "tidslinje_text": "Från tre pensionsstiftelsers kontor till Nordens största ägare av kontor vid spåren.",
+  "tidslinje": [
+    ["1998", "Tre pensionsstiftelser bildar Kymlinge med 31 kontorshus i Sundbyberg, Solna och Kista."],
+    ["2005", "Börsnotering på Stockholmsbörsen."],
+    ["2011", "Första forskningscampuset öppnar i Solna."],
+    ["2017", "Förvärv av 25 kontorshus i Köpenhamn."],
+    ["2021", "Beslut att aldrig riva ett hus som kan byggas om."],
+    ["2023", "Perrong Coworking startar i Sundbyberg."]
+  ],
+  "kontakt": {"adress": "Järnvägsgatan 32", "postnr": "172 35", "ort": "Sundbyberg", "telefon": "070-174 06 20", "epost": "info@kymlinge.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 8–17, felanmälan dygnet runt",
+  "omrade": "Stockholm, Göteborg, Lund och Köpenhamn",
+  "fot_cta": "Letar ni kontor eller labb nära en station? Prata med våra uthyrare.",
+  "bild": {"panel": "kontor", "hb": "stad"},
+  "text": {
+    "ber_rubrik": "Senast från kvarteren",
+    "proj_rubrik": "Hus vi bygger om och bygger nytt",
+    "process_rubrik": "Från behovsanalys till inflyttning",
+    "process_etikett": "Hyresgästanpassning",
+    "hb_etikett": "Ombyggnad före rivning",
+    "omdomen_rubrik": "Hyresgästerna om Kymlinge",
+    "faq_rubrik": "Frågor från hyresgäster",
+    "bolag_rubrik": "Fyra bolag vid spåren",
+    "vagg_rubrik": "{n} bolag och varumärken",
+    "panel_etikett": "Jobba hos Kymlinge",
+    "siffror_etikett": "Kymlinge i siffror",
+    "hero_lank": "Lediga lokaler",
+    "ny_rubrik": "Nyheter och rapporter"
+  }
+}
