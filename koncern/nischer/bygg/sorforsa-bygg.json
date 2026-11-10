@@ -1,0 +1,403 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Sörforsa Bygg & Skadeservice AB",
+  "kortnamn": "Sörforsa",
+  "slug": "sorforsa-bygg",
+  "typ": "Skadeservice och återställning i Hälsingland",
+  "tagline": "När skadan har hänt",
+  "slogan": "Vi åtgärdar vatten-, brand- och stormskador i hus och lokaler i Hälsingland – från första torkfläkt till färdigt badrum.",
+  "hero_rubrik": "Vattenskada på natten? Vi är där i morgon.",
+  "hero_text": "Skadeutredning, sanering, torkning och återställning åt försäkringsbolag, fastighetsägare och villaägare i Hudiksvall, Bollnäs och Ljusdal. 75 anställda.",
+  "intro_rubrik": "2 800 skador återställda i Hälsingland varje år",
+  "om": [
+    "Sörforsa Bygg startade 1991 som en vanlig byggfirma i Sörforsa norr om Hudiksvall. När försäkringsbolagen började leta efter någon som kunde ta hand om vattenskador från början till slut blev det vår specialitet – och idag är skadeservice tre fjärdedelar av vår verksamhet.",
+    "Vi är 75 anställda med kontor och lager i Hudiksvall och servicestationer i Bollnäs och Ljusdal. Vi har egna fuktutredare, sanerare och torktekniker, och samma snickare som river återställer sedan huset."
+  ],
+  "vagval_rubrik": "Vad har hänt?",
+  "tjanster": [
+    {
+      "titel": "Vattenskador",
+      "ikon": "vatten",
+      "href": "verksamhet.html",
+      "text": "Läckor, översvämningar och frysskador."
+    },
+    {
+      "titel": "Brand och sot",
+      "ikon": "eld",
+      "href": "verksamhet.html",
+      "text": "Sanering och återställning efter brand."
+    },
+    {
+      "titel": "Storm och snötryck",
+      "ikon": "vind",
+      "href": "verksamhet.html",
+      "text": "Tak, fasader och fönster efter oväder."
+    },
+    {
+      "titel": "Fuktutredning",
+      "ikon": "sok",
+      "href": "verksamhet.html",
+      "text": "Mätning och orsaksutredning med rapport."
+    },
+    {
+      "titel": "Torkning",
+      "ikon": "blixt",
+      "href": "verksamhet.html",
+      "text": "Avfuktare och fläktar med fjärrövervakning."
+    },
+    {
+      "titel": "Återställning",
+      "ikon": "hamare",
+      "href": "verksamhet.html",
+      "text": "Nya badrum, kök och ytskikt."
+    },
+    {
+      "titel": "Mögelsanering",
+      "ikon": "skold",
+      "href": "verksamhet.html",
+      "text": "Sanering och luktbehandling."
+    },
+    {
+      "titel": "Jour dygnet runt",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Ring jouren, så kommer vi inom ett dygn."
+    }
+  ],
+  "affarsomraden": [
+    {
+      "titel": "Vattenskador",
+      "text": "Läckor från diskmaskiner, frusna rör och översvämmade källare. Vi stoppar skadan, river det som är blött och torkar med fjärrövervakade avfuktare.",
+      "text2": "En vanlig badrumsskada tar normalt sex till tio veckor från larm till färdigt badrum.",
+      "tagg": "vvs"
+    },
+    {
+      "titel": "Brand och sot",
+      "text": "Sanering av sot och lukt, rivning av brandskadat material och återuppbyggnad. Vi samarbetar med försäkringsbolagens skadereglerare från första dagen.",
+      "text2": "Ozonbehandling tar bort brandlukt i de flesta fall.",
+      "tagg": "bygg"
+    },
+    {
+      "titel": "Storm och snötryck",
+      "text": "Nedfallna träd, avblåsta tak och tak som gett vika under snön. Vi täcker, säkrar och reparerar.",
+      "text2": "Efter stormen i januari 2026 hade vi 340 ärenden på två veckor.",
+      "tagg": "tak"
+    },
+    {
+      "titel": "Återställning",
+      "text": "När huset är torrt och sanerat bygger vi tillbaka: nya badrum, kök, golv och väggar. Samma lag som rev bygger upp.",
+      "text2": "Kunden har en kontaktperson från första samtal till slutbesiktning.",
+      "tagg": "hem"
+    }
+  ],
+  "bolag": [
+    {
+      "namn": "Sörforsa Skadeservice",
+      "segment": "Akut och sanering",
+      "rubrik": "Första dygnet avgör",
+      "text": "Jour, fuktutredning, sanering och torkning.",
+      "tagg": "vvs"
+    },
+    {
+      "namn": "Sörforsa Bygg",
+      "segment": "Återställning",
+      "rubrik": "Samma lag river och bygger",
+      "text": "Snickare, plattsättare och målare som återställer efter skador.",
+      "tagg": "bygg"
+    },
+    {
+      "namn": "Hälsinge Torkteknik",
+      "segment": "Dotterbolag",
+      "rubrik": "320 avfuktare i drift",
+      "text": "Hyr ut och övervakar torkutrustning åt oss och andra.",
+      "tagg": "el"
+    }
+  ],
+  "berattelser": [
+    {
+      "rubrik": "Stormen i januari",
+      "text": "340 ärenden på två veckor – alla tak säkrade inom fem dagar.",
+      "tagg": "tak"
+    },
+    {
+      "rubrik": "Fjärrövervakad torkning",
+      "text": "Alla avfuktare rapporterar nu fuktnivåer direkt till fuktutredaren.",
+      "tagg": "el"
+    },
+    {
+      "rubrik": "Ny servicestation i Ljusdal",
+      "text": "Två bilar och fyra tekniker stationerade i Ljusdal.",
+      "tagg": "people"
+    }
+  ],
+  "nyckeltal": [
+    {
+      "varde": "2 800",
+      "enhet": "",
+      "etikett": "Skador per år"
+    },
+    {
+      "varde": "75",
+      "enhet": "",
+      "etikett": "Anställda"
+    },
+    {
+      "varde": "24 h",
+      "enhet": "",
+      "etikett": "Till första besök"
+    },
+    {
+      "varde": "140",
+      "enhet": "Mkr",
+      "etikett": "Omsättning 2025"
+    }
+  ],
+  "projekt": [
+    {
+      "namn": "Villan i Iggesund",
+      "ort": "Hudiksvall",
+      "typ": "Vattenskada",
+      "ar": "2026",
+      "text": "Läckande diskmaskin – nytt kök och golv på sju veckor.",
+      "tagg": "hem",
+      "status": "Färdigt"
+    },
+    {
+      "namn": "Hyreshuset i Bollnäs",
+      "ort": "Bollnäs",
+      "typ": "Vattenskada",
+      "ar": "2026",
+      "text": "Stamläcka i fem lägenheter, torkade och återställda.",
+      "tagg": "bostad",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Radhusbranden",
+      "ort": "Ljusdal",
+      "typ": "Brand",
+      "ar": "2025",
+      "text": "Brand i kök, sanering och återuppbyggnad av hela radhuset.",
+      "tagg": "bygg"
+    },
+    {
+      "namn": "Stormen 2026",
+      "ort": "Hälsingland",
+      "typ": "Storm",
+      "ar": "2026",
+      "text": "340 skador på tak och fasader efter januaristormen.",
+      "tagg": "tak"
+    },
+    {
+      "namn": "Skolkällaren",
+      "ort": "Delsbo",
+      "typ": "Översvämning",
+      "ar": "2025",
+      "text": "Översvämmad källare sanerad och torkad på tre veckor.",
+      "tagg": "vvs"
+    },
+    {
+      "namn": "Sommarhuset i Hornslandet",
+      "ort": "Hudiksvall",
+      "typ": "Frysskada",
+      "ar": "2025",
+      "text": "Frusna rör i sommarhus, nytt badrum och golv.",
+      "tagg": "hem"
+    }
+  ],
+  "process": [
+    {
+      "titel": "Larm",
+      "text": "Ring jouren eller ditt försäkringsbolag. Vi kommer inom ett dygn.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Utredning",
+      "text": "Fuktutredaren mäter, fotograferar och skriver rapport till försäkringsbolaget.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Sanering och torkning",
+      "text": "Vi river blött material och torkar med fjärrövervakade avfuktare.",
+      "tagg": "el"
+    },
+    {
+      "titel": "Återställning",
+      "text": "Samma lag bygger tillbaka – du har en kontaktperson hela vägen.",
+      "tagg": "hem"
+    }
+  ],
+  "hallbarhet": {
+    "rubrik": "Torka hellre än riva",
+    "text": "Allt som kan torkas behöver inte rivas. Med fjärrövervakad torkning sparar vi material, och vi sorterar rivningsavfall i tio fraktioner. Våra avfuktare drivs med el från vattenkraft i Hälsingland.",
+    "mal": [
+      [
+        "40 %",
+        "av golven torkas i stället för att rivas"
+      ],
+      [
+        "10",
+        "fraktioner vid rivning"
+      ],
+      [
+        "100 %",
+        "förnybar el i våra torkar"
+      ]
+    ]
+  },
+  "karriar": {
+    "rubrik": "Jobba där det behövs",
+    "text": "Hos oss hjälper du människor när de behöver det som mest. Du jobbar dagtid och har jour ungefär var femte vecka.",
+    "jobb": [
+      [
+        "Saneringstekniker",
+        "Hudiksvall"
+      ],
+      [
+        "Snickare, återställning",
+        "Bollnäs"
+      ],
+      [
+        "Fuktutredare",
+        "Hudiksvall"
+      ]
+    ]
+  },
+  "kultur": "Varje kund får ett samtal från oss tre månader efter att skadan är klar – för att höra att allt fungerar.",
+  "citat": {
+    "text": "Folk ringer oss den värsta dagen på året. Då ska vi vara lugna, snabba och tydliga.",
+    "namn": "Tobias Hedin",
+    "roll": "Vd",
+    "tagg": "people"
+  },
+  "omdomen": [
+    {
+      "text": "De kom morgonen efter att vi upptäckt läckan. Sju veckor senare hade vi ett nytt kök.",
+      "namn": "Camilla och Per S.",
+      "ort": "Iggesund"
+    },
+    {
+      "text": "Fuktrapporten var tydlig och försäkringsbolaget godkände den direkt.",
+      "namn": "Lars N., förvaltare",
+      "ort": "Bollnäs"
+    },
+    {
+      "text": "Efter branden trodde vi att huset var förlorat. Nu bor vi där igen.",
+      "namn": "Familjen Ek",
+      "ort": "Ljusdal"
+    }
+  ],
+  "faq": [
+    [
+      "Hur snabbt kommer ni?",
+      "Inom ett dygn, ofta samma dag i Hudiksvall, Bollnäs och Ljusdal."
+    ],
+    [
+      "Måste jag kontakta försäkringsbolaget först?",
+      "Ring gärna oss direkt vid akuta skador – vi kontaktar försäkringsbolaget åt dig."
+    ],
+    [
+      "Hur lång tid tar torkningen?",
+      "Normalt två till fyra veckor beroende på material och hur länge vattnet har läckt."
+    ],
+    [
+      "Jobbar ni med alla försäkringsbolag?",
+      "Ja, vi har avtal med de flesta försäkringsbolag och tar även uppdrag direkt från privatpersoner."
+    ],
+    [
+      "Gör ni mögelsanering?",
+      "Ja, vi sanerar mögel och behandlar lukt med ozon eller kemisk sanering."
+    ],
+    [
+      "Kan jag bo kvar under återställningen?",
+      "Ofta ja. Vid stora skador hjälper vi till att ordna tillfälligt boende via försäkringen."
+    ]
+  ],
+  "certifikat": [
+    {
+      "titel": "Behörig Våtrum",
+      "text": "Egna plattsättare och dokumenterade tätskikt.",
+      "ikon": "vatten"
+    },
+    {
+      "titel": "Fuktcertifierade",
+      "text": "Diplomerade fuktsakkunniga.",
+      "ikon": "sok"
+    },
+    {
+      "titel": "Säker Vatten",
+      "text": "Våtrum enligt branschreglerna.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "ID06",
+      "text": "Personalliggare på alla arbetsplatser.",
+      "ikon": "las"
+    }
+  ],
+  "kunder": [
+    "Hudiksvallsbostäder",
+    "Bollnäs Fastigheter",
+    "Ljusdalshem",
+    "Delsbo Skolfastigheter",
+    "Hälsinge Villaägareförening",
+    "Brf Strandgården"
+  ],
+  "nyheter": [
+    [
+      "2026-10-14",
+      "Så förebygger du frysskador",
+      "Fem saker att göra innan du stänger sommarhuset.",
+      "hem"
+    ],
+    [
+      "2026-05-20",
+      "Ny station i Ljusdal",
+      "Fyra tekniker och två bilar på plats.",
+      "people"
+    ],
+    [
+      "2026-02-02",
+      "340 skador efter stormen",
+      "Så hanterade vi januaristormen i Hälsingland.",
+      "tak"
+    ]
+  ],
+  "kontakt": {
+    "adress": "Håstavägen 21",
+    "postnr": "824 34",
+    "ort": "Hudiksvall",
+    "telefon": "070-174 06 40",
+    "epost": "jour@sorforsabygg.se",
+    "orgnr": ""
+  },
+  "oppettider": "Kontor mån–fre 7–16, jour dygnet runt",
+  "omrade": "Hälsingland – Hudiksvall, Bollnäs, Ljusdal, Delsbo och Söderhamn",
+  "fot_cta": "Har det hänt något? Ring jouren dygnet runt.",
+  "bild": {
+    "hb": "natur",
+    "panel": "vvs"
+  },
+  "text": {
+    "kontakt_knapp": "Ring jouren",
+    "hero_knapp": "Vad vi gör",
+    "hero_lank": "Skador vi åtgärdat",
+    "ber_rubrik": "Den senaste tiden",
+    "proj_rubrik": "Skador som blivit hem igen",
+    "process_rubrik": "Från larm till färdigt",
+    "hb_etikett": "Torka i stället för riva",
+    "hb_lank": "Om fjärrövervakad torkning",
+    "omdomen_rubrik": "Kunderna om oss",
+    "faq_rubrik": "Frågor om skador",
+    "boka_rubrik": "Anmäl en skada",
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "Adress",
+      "Vad har hänt"
+    ],
+    "ny_rubrik": "Nytt från Sörforsa",
+    "bolag_rubrik": "Skadeservice, bygg och tork",
+    "medarbetare": "Teknikerna"
+  }
+}

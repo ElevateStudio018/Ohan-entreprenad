@@ -1,0 +1,404 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Hossmo Byggnadshytta AB",
+  "kortnamn": "Hossmo Hytta",
+  "slug": "hossmo-byggnadshytta",
+  "typ": "Kyrkor och kulturbyggnader i Småland",
+  "tagline": "Kyrkor sedan 1979",
+  "slogan": "Vi restaurerar kyrkor, herrgårdar och kulturbyggnader i Kalmar län och Småland – med traditionella metoder och antikvarisk dokumentation.",
+  "hero_rubrik": "Medeltida murar, moderna villkor",
+  "hero_text": "Tak, murverk, fönster och interiörer i kyrkor och kulturbyggnader från Kalmar till Växjö. 60 hantverkare med egen spån- och snickeriverkstad.",
+  "intro_rubrik": "112 kyrkor restaurerade i sydöstra Sverige",
+  "om": [
+    "Hossmo Byggnadshytta grundades 1979 av byggnadsingenjören Ulf Bergman i samband med renoveringen av Hossmo kyrka söder om Kalmar. Namnet kommer från de medeltida byggnadshyttorna – lagen av hantverkare som följde en kyrka genom generationer.",
+    "Idag är vi 60 anställda: murare, snickare, plåtslagare och målare som alla kan traditionella material. Vi har kontor och verkstad i Kalmar och en spånverkstad i Nybro där vi klyver och tjärar takspån av fur och ek."
+  ],
+  "vagval_rubrik": "Vad behöver byggnaden?",
+  "tjanster": [
+    {
+      "titel": "Spåntak",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Nya och lagade spåntak, tjärade på plats."
+    },
+    {
+      "titel": "Murverk och kalk",
+      "ikon": "sten",
+      "href": "verksamhet.html",
+      "text": "Kalkbruk, kalkputs och lagning av gråsten."
+    },
+    {
+      "titel": "Kyrkfönster",
+      "ikon": "lampa",
+      "href": "verksamhet.html",
+      "text": "Renovering av blyinfattade och träfönster."
+    },
+    {
+      "titel": "Kopparplåt",
+      "ikon": "hamare",
+      "href": "verksamhet.html",
+      "text": "Torn och tak i koppar och svartplåt."
+    },
+    {
+      "titel": "Interiörer",
+      "ikon": "pensel",
+      "href": "verksamhet.html",
+      "text": "Bänkar, golv och dekormåleri med konservator."
+    },
+    {
+      "titel": "Tillgänglighet",
+      "ikon": "nyckel",
+      "href": "verksamhet.html",
+      "text": "Ramper, hissar och toaletter i kulturhus."
+    },
+    {
+      "titel": "Antikvarisk dokumentation",
+      "ikon": "dokument",
+      "href": "verksamhet.html",
+      "text": "Rapporter för länsstyrelsen och stiftet."
+    },
+    {
+      "titel": "Kontakta oss",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Boka en besiktning av er byggnad."
+    }
+  ],
+  "affarsomraden": [
+    {
+      "titel": "Kyrkor",
+      "text": "Tak, murverk, fönster och interiörer i medeltida kyrkor och 1800-talskyrkor. Vi arbetar med stiftets antikvarier och länsstyrelsen från första besiktning.",
+      "text2": "En takrenovering med nytt spån på en mindre kyrka tar normalt en säsong.",
+      "tagg": "sten"
+    },
+    {
+      "titel": "Herrgårdar och slott",
+      "text": "Fasader, tak och fönster på herrgårdar och slott i privat och offentlig ägo. Vi väljer material och metod efter husets tid.",
+      "text2": "Vi har arbetat på elva herrgårdar i Kalmar län sedan 2010.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Spån och takhantverk",
+      "text": "I verkstaden i Nybro klyver vi takspån av fur och ek och tjärar dem med dalbränd tjära. Spånen säljs också till andra byggnadsvårdare.",
+      "text2": "Ett tjärat spåntak håller 40–80 år med regelbunden tjärning.",
+      "tagg": "tra"
+    },
+    {
+      "titel": "Kulturhus i offentlig ägo",
+      "text": "Bibliotek, rådhus och skolor som är kulturmärkta. Vi kombinerar bevarande med tillgänglighet och moderna installationer.",
+      "text2": "Vi samarbetar med konservatorer och arkitekter för varje projekt.",
+      "tagg": "stad"
+    }
+  ],
+  "bolag": [
+    {
+      "namn": "Hossmo Byggnadshytta",
+      "segment": "Restaurering",
+      "rubrik": "Lagen som följer kyrkan",
+      "text": "Murare, snickare och målare som restaurerar kyrkor och kulturbyggnader.",
+      "tagg": "sten"
+    },
+    {
+      "namn": "Nybro Spånverkstad",
+      "segment": "Dotterbolag",
+      "rubrik": "Kluvet och tjärat",
+      "text": "Verkstad som klyver takspån och tillverkar tjära för traditionella tak.",
+      "tagg": "tra"
+    },
+    {
+      "namn": "Kalmar Kopparslageri",
+      "segment": "Dotterbolag",
+      "rubrik": "Torn och tak",
+      "text": "Plåtslagare som lägger koppar och svartplåt på tornhuvar och tak.",
+      "tagg": "tak"
+    }
+  ],
+  "berattelser": [
+    {
+      "rubrik": "Nytt spåntak i Dörby",
+      "text": "32 000 spån av fur lagda på den medeltida kyrkan.",
+      "tagg": "tra"
+    },
+    {
+      "rubrik": "Tornhuven i Ljungby",
+      "text": "Ny kopparhuv lyft på plats med en 80-meterskran.",
+      "tagg": "tak"
+    },
+    {
+      "rubrik": "Kyrkfönstren i Mörlunda",
+      "text": "Alla 18 blyinfattade fönster renoverade under vintern.",
+      "tagg": "sten"
+    }
+  ],
+  "nyckeltal": [
+    {
+      "varde": "112",
+      "enhet": "",
+      "etikett": "Kyrkor restaurerade"
+    },
+    {
+      "varde": "60",
+      "enhet": "",
+      "etikett": "Hantverkare"
+    },
+    {
+      "varde": "1979",
+      "enhet": "",
+      "etikett": "Första kyrkan i Hossmo"
+    },
+    {
+      "varde": "80 000",
+      "enhet": "spån",
+      "etikett": "Kluvna per år i Nybro"
+    }
+  ],
+  "projekt": [
+    {
+      "namn": "Dörby kyrka",
+      "ort": "Kalmar",
+      "typ": "Spåntak",
+      "ar": "2026",
+      "text": "Nytt spåntak av fur på den medeltida kyrkan.",
+      "tagg": "tra",
+      "status": "Färdigt"
+    },
+    {
+      "namn": "Ljungby kyrka tornhuv",
+      "ort": "Ljungbyholm",
+      "typ": "Kopparplåt",
+      "ar": "2026",
+      "text": "Ny tornhuv i koppar efter 1700-talsritningar.",
+      "tagg": "tak",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Mörlunda kyrka",
+      "ort": "Hultsfred",
+      "typ": "Fönsterrenovering",
+      "ar": "2025",
+      "text": "18 blyinfattade fönster renoverade i verkstaden.",
+      "tagg": "sten"
+    },
+    {
+      "namn": "Herrgården Kronobäck",
+      "ort": "Mönsterås",
+      "typ": "Fasad och tak",
+      "ar": "2025",
+      "text": "Kalkputs och nytt tegeltak på en 1700-talsherrgård.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Rådhuset",
+      "ort": "Borgholm",
+      "typ": "Kulturhus",
+      "ar": "2024",
+      "text": "Ny hiss och tillgänglig entré utan att fasaden ändrades.",
+      "tagg": "stad"
+    },
+    {
+      "namn": "Hossmo kyrka",
+      "ort": "Kalmar",
+      "typ": "Murverk",
+      "ar": "2024",
+      "text": "Kalkputs och lagning av gråstensmurar, 45 år efter första uppdraget.",
+      "tagg": "sten"
+    }
+  ],
+  "process": [
+    {
+      "titel": "Besiktning",
+      "text": "Vi besiktar byggnaden tillsammans med antikvarie och upprättar ett åtgärdsprogram.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Tillstånd",
+      "text": "Vi tar fram underlag för tillstånd enligt kulturmiljölagen.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Restaurering",
+      "text": "Traditionella material och metoder, utförda av egna hantverkare.",
+      "tagg": "sten"
+    },
+    {
+      "titel": "Antikvarisk rapport",
+      "text": "Fotodokumentation och slutrapport till stiftet och länsstyrelsen.",
+      "tagg": "kontor"
+    }
+  ],
+  "hallbarhet": {
+    "rubrik": "Byggnader som stått i 800 år",
+    "text": "Den mest hållbara byggnaden är den som redan står. Vi använder material som kan lagas och tas om hand igen: kalk, tjära, linolja och trä från Småland.",
+    "mal": [
+      [
+        "100 %",
+        "kalkbaserade bruk i medeltida murverk"
+      ],
+      [
+        "95 %",
+        "av spånvirket från skogar i Kalmar län"
+      ],
+      [
+        "0",
+        "plastbaserade färger på kulturbyggnader"
+      ]
+    ]
+  },
+  "karriar": {
+    "rubrik": "Bli en del av hyttan",
+    "text": "Hos oss lär du dig hantverk som annars håller på att försvinna. Alla nyanställda går en egen utbildning i kalk, tjära och traditionella fönster.",
+    "jobb": [
+      [
+        "Murare, byggnadsvård",
+        "Kalmar"
+      ],
+      [
+        "Spånklyvare",
+        "Nybro"
+      ],
+      [
+        "Plåtslagare",
+        "Kalmar"
+      ]
+    ]
+  },
+  "kultur": "Varje gång vi avslutar en kyrka lägger hantverkarna ett brev med sina namn i tornet – till nästa hytta.",
+  "citat": {
+    "text": "Medeltidens byggare lämnade inga ritningar. Vi lär oss av hur de byggde, en sten i taget.",
+    "namn": "Elin Bergman",
+    "roll": "Vd, dotter till grundaren",
+    "tagg": "people"
+  },
+  "omdomen": [
+    {
+      "text": "Spåntaket ser ut att ha legat där i hundra år, och det luktar tjära i hela kyrkbyn.",
+      "namn": "Gunnar A., kyrkvärd",
+      "ort": "Dörby"
+    },
+    {
+      "text": "Dokumentationen var den mest grundliga vi fått in från en entreprenör.",
+      "namn": "Maria L., länsantikvarie",
+      "ort": "Kalmar"
+    },
+    {
+      "text": "De hittade lösningen för hissen som ingen annan såg. Fasaden är orörd.",
+      "namn": "Peter N., fastighetschef",
+      "ort": "Borgholm"
+    }
+  ],
+  "faq": [
+    [
+      "Behövs tillstånd för att renovera en kyrka?",
+      "Ja, ändringar i kyrkobyggnader från före 1940 kräver tillstånd från länsstyrelsen. Vi hjälper till med ansökan."
+    ],
+    [
+      "Hur länge håller ett spåntak?",
+      "40–80 år, beroende på läge och hur ofta det tjäras om. Vi rekommenderar tjärning vart sjätte till åttonde år."
+    ],
+    [
+      "Kan ni installera moderna system i kulturhus?",
+      "Ja, vi drar el, värme och ventilation så att det syns så lite som möjligt och kan tas bort i framtiden."
+    ],
+    [
+      "Jobbar ni utanför Kalmar län?",
+      "Ja, i hela Småland, Öland och Blekinge."
+    ],
+    [
+      "Säljer ni spån till andra?",
+      "Ja, Nybro Spånverkstad säljer furu- och ekspån till byggnadsvårdare och privatpersoner."
+    ],
+    [
+      "Vad kostar en takrenovering?",
+      "Det varierar mycket. Ett nytt spåntak på en mindre kyrka kostar normalt 2–5 miljoner kronor."
+    ]
+  ],
+  "certifikat": [
+    {
+      "titel": "Certifierad byggnadsvårdare",
+      "text": "Tre hantverkare certifierade inom byggnadsvård.",
+      "ikon": "stjarna"
+    },
+    {
+      "titel": "Kulturmiljölagen",
+      "text": "Erfarenhet av tillståndsärenden sedan 1979.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "ID06",
+      "text": "Personalliggare på alla arbetsplatser.",
+      "ikon": "las"
+    },
+    {
+      "titel": "Säkra Lyft",
+      "text": "Lyftplanering för tornarbeten.",
+      "ikon": "hjalm"
+    }
+  ],
+  "certifikat_rubrik": "Kunnande som går att granska",
+  "kunder": [
+    "Växjö stift",
+    "Dörby församling",
+    "Kalmar domkyrkoförsamling",
+    "Borgholms kommun",
+    "Herrgården Kronobäck",
+    "Mörlunda-Tveta församling"
+  ],
+  "nyheter": [
+    [
+      "2026-09-24",
+      "Dörby kyrka har nytt spåntak",
+      "32 000 spån lagda och tjärade på plats.",
+      "tra"
+    ],
+    [
+      "2026-05-28",
+      "Tornhuven lyft på plats",
+      "Ny kopparhuv i Ljungbyholm efter gamla ritningar.",
+      "tak"
+    ],
+    [
+      "2026-02-17",
+      "Kurs i kalkbruk",
+      "Hyttan öppnar verkstaden för hantverkare i februari.",
+      "sten"
+    ]
+  ],
+  "kontakt": {
+    "adress": "Södra Långgatan 31",
+    "postnr": "392 32",
+    "ort": "Kalmar",
+    "telefon": "070-174 06 32",
+    "epost": "hyttan@hossmohytta.se",
+    "orgnr": ""
+  },
+  "oppettider": "Mån–fre 7–16",
+  "omrade": "Kalmar län, Öland, Kronoberg och Blekinge",
+  "fot_cta": "Behöver kyrkan eller herrgården ses över? Boka en besiktning med antikvarie.",
+  "bild": {
+    "hb": "sten",
+    "panel": "tra",
+    "sida_om": "sten"
+  },
+  "text": {
+    "hero_knapp": "Vårt hantverk",
+    "hero_lank": "Kyrkor vi restaurerat",
+    "ber_rubrik": "I hyttan just nu",
+    "proj_rubrik": "Kyrkor och kulturbyggnader",
+    "process_rubrik": "Från besiktning till rapport",
+    "hb_etikett": "Kalk och tjära",
+    "hb_lank": "Om traditionella material",
+    "omdomen_rubrik": "Församlingar och förvaltare",
+    "faq_rubrik": "Frågor om kulturbyggnader",
+    "boka_rubrik": "Boka besiktning",
+    "boka_falt": [
+      "Namn",
+      "Församling eller ägare",
+      "Telefon",
+      "Byggnad och behov"
+    ],
+    "ny_rubrik": "Nytt från hyttan",
+    "bolag_rubrik": "Hytta, spånverkstad och kopparslageri",
+    "medarbetare": "Hantverkarna"
+  }
+}

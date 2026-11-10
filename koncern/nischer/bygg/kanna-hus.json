@@ -1,0 +1,419 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Kånna Hus & Bygg AB",
+  "kortnamn": "Kånna Hus",
+  "slug": "kanna-hus",
+  "typ": "Radhus och parhus i egen regi, Småland",
+  "tagline": "Radhus för vanligt folk",
+  "slogan": "Vi bygger och säljer radhus och parhus i Småland – egna markområden, egna ritningar och priser som går att låna till.",
+  "hero_rubrik": "Eget hus för samma pengar som hyra",
+  "hero_text": "Radhus, parhus och kedjehus i Ljungby, Värnamo, Alvesta och Älmhult. 95 anställda som bygger, säljer och tar hand om garantin.",
+  "intro_rubrik": "1 300 familjer har flyttat in i ett Kånnahus",
+  "om": [
+    "Kånna Hus grundades 1988 av byggmästaren Kjell Svensson i Kånna utanför Ljungby. Idén var enkel: köpa mark, bygga radhus i serie och sälja dem till ett pris som en undersköterska och en lastbilschaufför kan låna till. Den idén gäller fortfarande.",
+    "Vi är 95 anställda med kontor och snickerifabrik i Ljungby. Vi köper mark, tar fram detaljplaner, ritar husen, bygger dem och säljer dem själva – och ger tio års garanti."
+  ],
+  "vagval_rubrik": "Var står du i husköpet?",
+  "tjanster": [
+    {
+      "titel": "Radhus",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Radhus med tre till fyra sovrum."
+    },
+    {
+      "titel": "Parhus",
+      "ikon": "hem",
+      "href": "verksamhet.html",
+      "text": "Parhus med egen tomt och carport."
+    },
+    {
+      "titel": "Kedjehus",
+      "ikon": "nyckel",
+      "href": "verksamhet.html",
+      "text": "Kedjehus med förråd och trädgård."
+    },
+    {
+      "titel": "Seniorboende",
+      "ikon": "folk",
+      "href": "verksamhet.html",
+      "text": "Enplanshus med tillgänglighet i alla delar."
+    },
+    {
+      "titel": "Egen mark",
+      "ikon": "karta",
+      "href": "verksamhet.html",
+      "text": "Vi köper mark och tar fram detaljplaner."
+    },
+    {
+      "titel": "Väggfabriken",
+      "ikon": "fabrik",
+      "href": "verksamhet.html",
+      "text": "Väggar och tak byggs inomhus i Ljungby."
+    },
+    {
+      "titel": "Tioårsgaranti",
+      "ikon": "skold",
+      "href": "verksamhet.html",
+      "text": "Tio års garanti på konstruktion och tätskikt."
+    },
+    {
+      "titel": "Anmäl intresse",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Få besked när nästa område släpps."
+    }
+  ],
+  "affarsomraden": [
+    {
+      "titel": "Radhus och kedjehus",
+      "text": "Hus på 100–130 kvm med tre eller fyra sovrum, egen tomt och förråd. Vi bygger 10–30 hus per område och säljer dem som äganderätt.",
+      "text2": "Ett radhus på 115 kvm kostar från 2,9 miljoner kronor inklusive tomt.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Parhus",
+      "text": "Parhus med egen tomt, carport och trädgård, i ett eller två plan. Populärt bland barnfamiljer som vill ha villa utan villans pris.",
+      "text2": "Ett parhus på 125 kvm kostar från 3,4 miljoner kronor inklusive tomt.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Seniorboende",
+      "text": "Enplanshus på 70–90 kvm med tillgänglighet, gemensamhetslokal och trädgårdsskötsel. För den som vill flytta från villan men bo kvar i orten.",
+      "text2": "Vi har byggt sju seniorområden sedan 2012.",
+      "tagg": "hem"
+    },
+    {
+      "titel": "Mark och detaljplan",
+      "text": "Vi köper mark och tar fram detaljplaner tillsammans med kommunerna. Det tar tid, men gör att vi kan hålla priserna nere.",
+      "text2": "Vi har mark för cirka 400 hus i Kronobergs och Jönköpings län.",
+      "tagg": "natur"
+    }
+  ],
+  "bolag": [
+    {
+      "namn": "Kånna Hus",
+      "segment": "Bygg och försäljning",
+      "rubrik": "Från mark till nyckel",
+      "text": "Bygger och säljer radhus och parhus i egen regi.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Kånna Väggfabrik",
+      "segment": "Dotterbolag",
+      "rubrik": "Väggar byggda inomhus",
+      "text": "Fabrik i Ljungby som tillverkar väggar och takstolar till våra hus.",
+      "tagg": "tra"
+    },
+    {
+      "namn": "Kånna Mark",
+      "segment": "Markutveckling",
+      "rubrik": "Mark för 400 hus",
+      "text": "Köper mark och tar fram detaljplaner med kommunerna.",
+      "tagg": "natur"
+    },
+    {
+      "namn": "Kånna Garanti",
+      "segment": "Service",
+      "rubrik": "Tio år med samma telefonnummer",
+      "text": "Garantiavdelning som tar hand om husen efter inflyttning.",
+      "tagg": "people"
+    }
+  ],
+  "berattelser": [
+    {
+      "rubrik": "Kvarteret Hagen i Ljungby",
+      "text": "24 radhus sålda på tre veckor – inflyttning i juni.",
+      "tagg": "bostad"
+    },
+    {
+      "rubrik": "Seniorhus i Alvesta",
+      "text": "16 enplanshus med gemensamhetslokal klara i höst.",
+      "tagg": "hem"
+    },
+    {
+      "rubrik": "Väggfabriken byggs ut",
+      "text": "Kapaciteten fördubblas till 120 hus om året.",
+      "tagg": "tra"
+    }
+  ],
+  "nyckeltal": [
+    {
+      "varde": "1 300",
+      "enhet": "",
+      "etikett": "Hus sålda"
+    },
+    {
+      "varde": "95",
+      "enhet": "",
+      "etikett": "Anställda"
+    },
+    {
+      "varde": "2,9",
+      "enhet": "Mkr",
+      "etikett": "Radhus från"
+    },
+    {
+      "varde": "10",
+      "enhet": "år",
+      "etikett": "Garanti"
+    }
+  ],
+  "projekt": [
+    {
+      "namn": "Kvarteret Hagen",
+      "ort": "Ljungby",
+      "typ": "Radhus",
+      "ar": "2026",
+      "text": "24 radhus med tre och fyra sovrum.",
+      "tagg": "bostad",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Seniorbyn Skogsbrynet",
+      "ort": "Alvesta",
+      "typ": "Seniorboende",
+      "ar": "2026",
+      "text": "16 enplanshus med gemensamhetslokal.",
+      "tagg": "hem",
+      "status": "Färdigt"
+    },
+    {
+      "namn": "Parhusen vid Lagan",
+      "ort": "Ljungby",
+      "typ": "Parhus",
+      "ar": "2025",
+      "text": "18 parhus med carport och trädgård.",
+      "tagg": "hem"
+    },
+    {
+      "namn": "Kedjehusen i Värnamo",
+      "ort": "Värnamo",
+      "typ": "Kedjehus",
+      "ar": "2025",
+      "text": "20 kedjehus på 120 kvm.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Radhusen i Älmhult",
+      "ort": "Älmhult",
+      "typ": "Radhus",
+      "ar": "2024",
+      "text": "30 radhus nära stationen.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Seniorhusen i Markaryd",
+      "ort": "Markaryd",
+      "typ": "Seniorboende",
+      "ar": "2024",
+      "text": "12 enplanshus med trädgårdsskötsel.",
+      "tagg": "hem"
+    }
+  ],
+  "process": [
+    {
+      "titel": "Intresseanmälan",
+      "text": "Anmäl intresse och få besked när nästa område släpps.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Köp och tillval",
+      "text": "Välj hus, tomt och tillval – kök, golv och färger.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Bygge",
+      "text": "Väggarna byggs i fabriken, huset reses på plats på några veckor.",
+      "tagg": "bygg"
+    },
+    {
+      "titel": "Inflyttning",
+      "text": "Besiktning, nycklar och tio års garanti.",
+      "tagg": "bostad"
+    }
+  ],
+  "hallbarhet": {
+    "rubrik": "Billiga att bo i, inte bara att köpa",
+    "text": "Ett hus ska vara billigt att bo i hela livet. Våra hus klarar energiklass B, har frånluftsvärmepump och är förberedda för solceller. Väggarna byggs inomhus i Ljungby med trä från Småland.",
+    "mal": [
+      [
+        "B",
+        "energiklass i alla nya hus"
+      ],
+      [
+        "100 %",
+        "av stommarna i trä från Småland"
+      ],
+      [
+        "3 %",
+        "materialspill i fabriken"
+      ]
+    ]
+  },
+  "karriar": {
+    "rubrik": "Bygg hus folk har råd med",
+    "text": "Hos oss bygger du hela hus – i fabriken eller på plats. Vi har fasta arbetstider, ordnade arbetsplatser och lärlingsplatser varje år.",
+    "jobb": [
+      [
+        "Snickare",
+        "Ljungby"
+      ],
+      [
+        "Fabriksarbetare",
+        "Ljungby"
+      ],
+      [
+        "Säljare",
+        "Värnamo"
+      ]
+    ]
+  },
+  "kultur": "Varje inflyttning firas med att familjen får en äppelbuske att plantera i trädgården.",
+  "citat": {
+    "text": "Pappa ville att alla skulle ha råd med ett eget hus. Vi räknar fortfarande på varje krona.",
+    "namn": "Lena Svensson",
+    "roll": "Vd, dotter till grundaren",
+    "tagg": "people"
+  },
+  "omdomen": [
+    {
+      "text": "Vi trodde aldrig att vi skulle ha råd med eget hus. Nu betalar vi mindre än vi gjorde i hyra.",
+      "namn": "Sara och Daniel J.",
+      "ort": "Ljungby"
+    },
+    {
+      "text": "Garantiavdelningen kom dagen efter att vi ringt. Det var en dörr som hängde, nu är den perfekt.",
+      "namn": "Ingvar L.",
+      "ort": "Älmhult"
+    },
+    {
+      "text": "Vi flyttade från villan till seniorbyn och har aldrig ångrat oss.",
+      "namn": "Gun och Bertil S.",
+      "ort": "Alvesta"
+    }
+  ],
+  "faq": [
+    [
+      "Vad kostar ett radhus?",
+      "Från 2,9 miljoner kronor för 115 kvm inklusive tomt. Priserna varierar mellan områden."
+    ],
+    [
+      "Hur lång tid tar det från köp till inflyttning?",
+      "Normalt 8–12 månader beroende på var i bygget området är."
+    ],
+    [
+      "Kan jag välja tillval?",
+      "Ja, kök, golv, kakel och färger väljer du i vår tillvalsstudio i Ljungby."
+    ],
+    [
+      "Är det äganderätt eller bostadsrätt?",
+      "Nästan alla våra hus säljs som äganderätt med egen tomt."
+    ],
+    [
+      "Vad ingår i garantin?",
+      "Tio års garanti på konstruktion och tätskikt, och besiktning efter två år."
+    ],
+    [
+      "Bygger ni på min tomt?",
+      "Nej, vi bygger bara på egna områden."
+    ],
+    [
+      "Var bygger ni nästa gång?",
+      "Vi har områden på gång i Ljungby, Värnamo, Alvesta och Älmhult. Anmäl intresse för att få besked."
+    ]
+  ],
+  "certifikat": [
+    {
+      "titel": "Byggföretagen",
+      "text": "Avtal enligt ABS 18 med färdigställandeskydd.",
+      "ikon": "dokument"
+    },
+    {
+      "titel": "Säker Vatten",
+      "text": "Alla våtrum enligt branschreglerna.",
+      "ikon": "vatten"
+    },
+    {
+      "titel": "PEFC",
+      "text": "Spårbart trä i alla stommar.",
+      "ikon": "skog"
+    },
+    {
+      "titel": "ID06",
+      "text": "Personalliggare på alla byggen.",
+      "ikon": "las"
+    }
+  ],
+  "kunder": [
+    "Ljungby kommun",
+    "Alvesta kommun",
+    "Värnamo kommun",
+    "Älmhults kommun",
+    "Markaryds kommun",
+    "Samfällighetsföreningen Hagen"
+  ],
+  "kunder_rubrik": "Kommuner vi bygger i",
+  "nyheter": [
+    [
+      "2026-09-09",
+      "Hagen slutsålt",
+      "24 radhus sålda på tre veckor i Ljungby.",
+      "bostad"
+    ],
+    [
+      "2026-06-24",
+      "Skogsbrynet inflyttat",
+      "16 seniorhus i Alvesta har fått sina ägare.",
+      "hem"
+    ],
+    [
+      "2026-02-26",
+      "Väggfabriken byggs ut",
+      "Plats för 120 hus om året från 2027.",
+      "tra"
+    ]
+  ],
+  "kontakt": {
+    "adress": "Kånnavägen 5",
+    "postnr": "341 92",
+    "ort": "Ljungby",
+    "telefon": "070-174 06 37",
+    "epost": "hus@kannahus.se",
+    "orgnr": ""
+  },
+  "oppettider": "Mån–fre 8–16, visningar lör 11–14",
+  "omrade": "Kronoberg och södra Jönköpings län – Ljungby, Värnamo, Alvesta, Älmhult och Markaryd",
+  "fot_cta": "Vill du ha eget hus? Anmäl intresse för nästa område.",
+  "bild": {
+    "hb": "bostad",
+    "panel": "hem",
+    "sida_bolag": "tra"
+  },
+  "text": {
+    "topp_hem": "Kånna Hus",
+    "kontakt_knapp": "Anmäl intresse",
+    "hero_knapp": "Våra hus",
+    "hero_lank": "Områden till salu",
+    "ber_rubrik": "I våra områden",
+    "proj_etikett": "Områden",
+    "proj_rubrik": "Radhus och parhus i Småland",
+    "process_rubrik": "Från intresse till inflyttning",
+    "hb_etikett": "Billigt att bo",
+    "hb_lank": "Om energi och trä",
+    "omdomen_etikett": "Husägarna",
+    "omdomen_rubrik": "Familjer som flyttat in",
+    "faq_rubrik": "Frågor om husköp",
+    "boka_rubrik": "Anmäl intresse",
+    "boka_falt": [
+      "Namn",
+      "Telefon",
+      "E-post",
+      "Ort och önskemål"
+    ],
+    "ny_rubrik": "Nytt från Kånna",
+    "bolag_rubrik": "Hus, fabrik, mark och garanti",
+    "medarbetare": "Husbyggarna"
+  }
+}

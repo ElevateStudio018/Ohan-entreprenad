@@ -1,0 +1,418 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Himmelstalunds Byggnads AB",
+  "kortnamn": "Himmelstalund",
+  "slug": "himmelstalund-bygg",
+  "typ": "Sjukhus och offentliga lokaler, Östergötland",
+  "tagline": "Sjukhus, rättsväsende, universitet",
+  "slogan": "Vi bygger sjukhus, laboratorier, polishus och universitetslokaler i Östergötland och Mälardalen – byggnader som inte får stå still.",
+  "hero_rubrik": "Vi bygger där samhället inte får stanna",
+  "hero_text": "Sjukhus, labb, polishus och universitetsbyggnader i Norrköping, Linköping och Mälardalen. 520 anställda med egen installationssamordning.",
+  "intro_rubrik": "290 000 kvm sjukhus och labb sedan 2000",
+  "om": [
+    "Himmelstalunds Byggnads grundades 1949 i Norrköping och byggde under efterkrigstiden bostäder och skolor åt staden. Från nittiotalet växte vi in i de mest tekniska byggnaderna: sjukhus, laboratorier och lokaler för rättsväsendet.",
+    "Idag är vi 520 anställda med huvudkontor i Norrköping och kontor i Linköping och Västerås. Vi har egen installationssamordning, egna lag för renrum och en avdelning som bara bygger om i sjukhus under drift."
+  ],
+  "vagval_rubrik": "Vilken verksamhet bygger ni för?",
+  "tjanster": [
+    {
+      "titel": "Sjukhus",
+      "ikon": "vard",
+      "href": "verksamhet.html",
+      "text": "Vårdavdelningar, operation och akut."
+    },
+    {
+      "titel": "Laboratorier",
+      "ikon": "sok",
+      "href": "verksamhet.html",
+      "text": "Labb och renrum för vård och forskning."
+    },
+    {
+      "titel": "Polis och rättsväsende",
+      "ikon": "las",
+      "href": "verksamhet.html",
+      "text": "Polishus, domstolar och häkten."
+    },
+    {
+      "titel": "Universitet",
+      "ikon": "skola",
+      "href": "verksamhet.html",
+      "text": "Undervisningslokaler och forskningsbyggnader."
+    },
+    {
+      "titel": "Ombyggnad under drift",
+      "ikon": "hamare",
+      "href": "verksamhet.html",
+      "text": "Ombyggnad i sjukhus som är igång dygnet runt."
+    },
+    {
+      "titel": "Installationssamordning",
+      "ikon": "kugge",
+      "href": "verksamhet.html",
+      "text": "Samordning av el, VVS, gas och styr."
+    },
+    {
+      "titel": "Samverkan",
+      "ikon": "folk",
+      "href": "verksamhet.html",
+      "text": "Partnering med öppna böcker."
+    },
+    {
+      "titel": "Kontakta oss",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Prata med vår affärschef."
+    }
+  ],
+  "affarsomraden": [
+    {
+      "titel": "Sjukhus och vård",
+      "text": "Nya vårdbyggnader och ombyggnader i sjukhus som är i drift. Vi kan vårdhygien, medicinska gaser, strålskydd och hur man bygger bredvid en operationssal.",
+      "text2": "Vi har byggt om på sju sjukhus i Östergötland och Mälardalen sedan 2005.",
+      "tagg": "interior"
+    },
+    {
+      "titel": "Laboratorier och renrum",
+      "text": "Labb för sjukvård, forskning och läkemedel, med renrumsklassning, dragskåp och avancerad ventilation. Egen avdelning för validering.",
+      "text2": "Renrum upp till ISO-klass 5.",
+      "tagg": "vvs"
+    },
+    {
+      "titel": "Rättsväsende och säkerhet",
+      "text": "Polishus, domstolar och häkten med höga krav på säkerhet och sekretess. All personal är säkerhetsprövad.",
+      "text2": "Vi har byggt fyra polishus och två tingsrätter sedan 2010.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Universitet och forskning",
+      "text": "Undervisningslokaler, bibliotek och forskningsbyggnader för universiteten i Linköping och Norrköping.",
+      "text2": "Campus Norrköping har fått tre nya byggnader av oss sedan 2015.",
+      "tagg": "stad"
+    }
+  ],
+  "bolag": [
+    {
+      "namn": "Himmelstalund Vård",
+      "segment": "Sjukhus och vård",
+      "rubrik": "Bygger bredvid operationssalen",
+      "text": "Projekt och ombyggnader i sjukhus och vårdbyggnader.",
+      "tagg": "interior"
+    },
+    {
+      "namn": "Himmelstalund Samhälle",
+      "segment": "Rättsväsende och universitet",
+      "rubrik": "Säkerhetsprövat och dokumenterat",
+      "text": "Polishus, domstolar och universitetsbyggnader.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Östgöta Renrum",
+      "segment": "Dotterbolag",
+      "rubrik": "ISO-klass 5",
+      "text": "Bygger och validerar renrum och laboratorier.",
+      "tagg": "vvs"
+    },
+    {
+      "namn": "Himmelstalund Mälardalen",
+      "segment": "Regionkontor Västerås",
+      "rubrik": "Vård och labb i Mälardalen",
+      "text": "Bygger sjukhus och labb i Västmanland och Uppsala län.",
+      "tagg": "stad"
+    }
+  ],
+  "berattelser": [
+    {
+      "rubrik": "Ny akutmottagning i Norrköping",
+      "text": "Akuten byggs om i etapper medan patienterna fortsätter komma.",
+      "tagg": "interior"
+    },
+    {
+      "rubrik": "Polishuset i Linköping",
+      "text": "Ny polisstation med arrest och utbildningslokaler klar.",
+      "tagg": "kontor"
+    },
+    {
+      "rubrik": "Renrum för cellterapi",
+      "text": "Östgöta Renrum har validerat ett renrum i ISO-klass 5.",
+      "tagg": "vvs"
+    }
+  ],
+  "nyckeltal": [
+    {
+      "varde": "520",
+      "enhet": "",
+      "etikett": "Anställda"
+    },
+    {
+      "varde": "290 000",
+      "enhet": "kvm",
+      "etikett": "Sjukhus och labb"
+    },
+    {
+      "varde": "1949",
+      "enhet": "",
+      "etikett": "Grundat i Norrköping"
+    },
+    {
+      "varde": "2,1",
+      "enhet": "Mdkr",
+      "etikett": "Omsättning 2025"
+    }
+  ],
+  "projekt": [
+    {
+      "namn": "Akutmottagningen",
+      "ort": "Norrköping",
+      "typ": "Sjukhus",
+      "ar": "2026",
+      "text": "Ombyggnad av akuten i fem etapper under drift.",
+      "tagg": "interior",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Polishuset Kallerstad",
+      "ort": "Linköping",
+      "typ": "Rättsväsende",
+      "ar": "2026",
+      "text": "Polisstation med arrest och utbildningslokaler.",
+      "tagg": "kontor",
+      "status": "Färdigt"
+    },
+    {
+      "namn": "Cellterapilabbet",
+      "ort": "Linköping",
+      "typ": "Laboratorium",
+      "ar": "2025",
+      "text": "Renrum i ISO-klass 5 för cellterapi.",
+      "tagg": "vvs"
+    },
+    {
+      "namn": "Campus Norrköping, Hus Strömmen",
+      "ort": "Norrköping",
+      "typ": "Universitet",
+      "ar": "2025",
+      "text": "Undervisningslokaler för 1 200 studenter.",
+      "tagg": "stad"
+    },
+    {
+      "namn": "Operationsavdelningen",
+      "ort": "Västerås",
+      "typ": "Sjukhus",
+      "ar": "2024",
+      "text": "Åtta nya operationssalar med hybridsal.",
+      "tagg": "interior"
+    },
+    {
+      "namn": "Tingsrätten",
+      "ort": "Nyköping",
+      "typ": "Rättsväsende",
+      "ar": "2024",
+      "text": "Ombyggnad av tingsrätt med säkerhetssalar.",
+      "tagg": "kontor"
+    }
+  ],
+  "process": [
+    {
+      "titel": "Verksamhetsanalys",
+      "text": "Vi går igenom flöden, hygien och säkerhetskrav med verksamheten.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Samverkan",
+      "text": "Gemensam målkostnad och öppna böcker med beställaren.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Produktion under drift",
+      "text": "Etapper, hygienrutiner och dygnet runt-beredskap.",
+      "tagg": "bygg"
+    },
+    {
+      "titel": "Validering och överlämning",
+      "text": "Provning, validering och dokumentation enligt verksamhetens krav.",
+      "tagg": "interior"
+    }
+  ],
+  "hallbarhet": {
+    "rubrik": "Sjukhus som drar mindre energi",
+    "text": "Sjukhus och labb använder mycket energi dygnet runt. Vi bygger med värmeåtervinning, behovsstyrd ventilation och solceller – och har sänkt energin i ombyggda vårdbyggnader med i snitt 35 procent.",
+    "mal": [
+      [
+        "−35 %",
+        "energi i ombyggda vårdbyggnader"
+      ],
+      [
+        "100 %",
+        "fossilfri el på våra byggen"
+      ],
+      [
+        "Miljöbyggnad Guld",
+        "i tre av de senaste fem projekten"
+      ]
+    ]
+  },
+  "karriar": {
+    "rubrik": "Bygg där det betyder något",
+    "text": "Hos oss bygger du operationssalar, labb och polishus – byggnader där kraven är höga och resultatet viktigt. Vi utbildar egna medarbetare i vårdhygien och säkerhet.",
+    "jobb": [
+      [
+        "Projektchef sjukhus",
+        "Norrköping"
+      ],
+      [
+        "Installationssamordnare",
+        "Linköping"
+      ],
+      [
+        "Arbetsledare",
+        "Västerås"
+      ]
+    ]
+  },
+  "kultur": "Alla nyanställda följer en dag med vårdpersonal på sjukhuset innan de börjar bygga där.",
+  "citat": {
+    "text": "En akutmottagning kan inte stänga för renovering. Vi bygger i deras rytm, inte tvärtom.",
+    "namn": "Göran Wahlström",
+    "roll": "Vd",
+    "tagg": "people"
+  },
+  "omdomen": [
+    {
+      "text": "Akuten har varit öppen varje dag under ombyggnaden. Patienterna har knappt märkt något.",
+      "namn": "Helena B., verksamhetschef",
+      "ort": "Norrköping"
+    },
+    {
+      "text": "Renrummet validerades på första försöket. Det är ovanligt.",
+      "namn": "Johan E., forskningschef",
+      "ort": "Linköping"
+    },
+    {
+      "text": "Säkerhetskraven var höga och de klarade alla utan anmärkning.",
+      "namn": "Peter M., lokalstrateg polisen",
+      "ort": "Linköping"
+    }
+  ],
+  "faq": [
+    [
+      "Kan ni bygga om i sjukhus som är i drift?",
+      "Ja, det är en av våra specialiteter. Vi arbetar i etapper med vårdhygien och beredskap dygnet runt."
+    ],
+    [
+      "Bygger ni renrum?",
+      "Ja, genom Östgöta Renrum bygger och validerar vi renrum upp till ISO-klass 5."
+    ],
+    [
+      "Är personalen säkerhetsprövad?",
+      "Ja, för projekt inom rättsväsende och sjukvård genomgår personalen säkerhetsprövning."
+    ],
+    [
+      "Arbetar ni i samverkan?",
+      "Ja, de flesta större uppdrag görs i samverkan med öppna böcker."
+    ],
+    [
+      "Var bygger ni?",
+      "Östergötland, Sörmland, Västmanland och Uppsala län."
+    ],
+    [
+      "Hur stora projekt tar ni?",
+      "Från cirka 20 miljoner till 1,5 miljarder kronor."
+    ]
+  ],
+  "certifikat": [
+    {
+      "titel": "ISO 9001, 14001, 45001",
+      "text": "Certifierat lednings- och arbetsmiljösystem.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Säkerhetsskydd",
+      "text": "Säkerhetsskyddsavtal för känsliga projekt.",
+      "ikon": "las"
+    },
+    {
+      "titel": "Vårdhygien",
+      "text": "Alla i vårdmiljö utbildade i vårdhygien.",
+      "ikon": "vard"
+    },
+    {
+      "titel": "Miljöbyggnad Guld",
+      "text": "Erfarenhet av certifiering på högsta nivå.",
+      "ikon": "lov"
+    }
+  ],
+  "certifikat_rubrik": "Krav för känsliga miljöer",
+  "kunder": [
+    "Region Östergötland",
+    "Region Västmanland",
+    "Polisens lokalförsörjning",
+    "Linköpings universitet",
+    "Domstolsverket",
+    "Norrköpings kommun"
+  ],
+  "kunder_rubrik": "Offentliga beställare",
+  "nyheter": [
+    [
+      "2026-10-26",
+      "Akuten etapp 3 klar",
+      "Ny triage och åtta behandlingsrum tagna i bruk.",
+      "interior"
+    ],
+    [
+      "2026-06-30",
+      "Polishuset i Linköping överlämnat",
+      "Ny polisstation med arrest och utbildning.",
+      "kontor"
+    ],
+    [
+      "2026-03-09",
+      "Renrum validerat på första försöket",
+      "ISO-klass 5 för cellterapi i Linköping.",
+      "vvs"
+    ]
+  ],
+  "kontakt": {
+    "adress": "Kungsgatan 54",
+    "postnr": "602 33",
+    "ort": "Norrköping",
+    "telefon": "070-174 06 38",
+    "epost": "info@himmelstalundbygg.se",
+    "orgnr": ""
+  },
+  "oppettider": "Mån–fre 7.30–16.30",
+  "omrade": "Östergötland, Sörmland, Västmanland och Uppsala län",
+  "fot_cta": "Planerar ni ett sjukhus, labb eller polishus? Prata med oss i tidigt skede.",
+  "bild": {
+    "hb": "interior",
+    "panel": "interior",
+    "sida_om": "stad"
+  },
+  "text": {
+    "topp_hem": "Himmelstalunds Byggnads",
+    "hero_knapp": "Vår verksamhet",
+    "hero_lank": "Projekt",
+    "ber_rubrik": "Aktuellt",
+    "proj_etikett": "Projekt",
+    "proj_rubrik": "Sjukhus, labb och rättsväsende",
+    "proj_rubrik_lista": "Byggnader där samhället inte får stanna",
+    "process_etikett": "Arbetssätt",
+    "process_rubrik": "Bygga under drift",
+    "hb_etikett": "Energi i sjukhus",
+    "hb_lank": "Om våra miljömål",
+    "omdomen_etikett": "Beställarna",
+    "omdomen_rubrik": "Verksamheterna om oss",
+    "faq_rubrik": "Vanliga frågor",
+    "boka_rubrik": "Kontakta affärschefen",
+    "boka_falt": [
+      "Namn",
+      "Organisation",
+      "Telefon",
+      "Projekt och skede"
+    ],
+    "ny_rubrik": "Nyheter från Himmelstalund",
+    "bolag_rubrik": "Fyra affärsområden",
+    "medarbetare": "Himmelstalundarna",
+    "meny_bolag": "Affärsområden"
+  }
+}

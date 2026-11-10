@@ -1,0 +1,145 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Tjärö Hamnar AB (publ)",
+  "kortnamn": "Tjärö",
+  "slug": "tjaro",
+  "typ": "Hamn- och terminalkoncern, Karlshamn",
+  "tagline": "Kaj till kaj",
+  "slogan": "Tjärö äger och driver tolv hamnar och containerterminaler runt Östersjön och Nordsjön – med kranar, kajer, magasin och egna stuvare.",
+  "hero_rubrik": "Varannan container till Sverige lyfts av oss",
+  "hero_text": "Tolv hamnar i fem länder, 2,4 miljoner containrar om året och 5 600 medarbetare. Vi äger kajerna och driver terminalerna själva.",
+  "intro_rubrik": "Östersjöns största hamnoperatör",
+  "om": [
+    "Tjärö Stuveri grundades 1923 i Karlshamn för att lasta trä och granit på segelfartyg. På 1970-talet byggdes den första containerkranen och 1994 köpte bolaget hamnen av kommunen.",
+    "I dag äger vi tolv hamnar från Luleå till Gdańsk och Esbjerg. Aktien är noterad sedan 2006, och vi har behållit principen från stuveritiden: det är våra egna stuvare och kranförare som lyfter godset."
+  ],
+  "vagval_rubrik": "Vad ska lastas eller lossas?",
+  "tjanster": [
+    {"titel": "Containerterminaler", "ikon": "lada", "href": "verksamhet.html", "text": "Lyft, lagring och tullhantering i sex containerterminaler."},
+    {"titel": "Ro-ro och färjor", "ikon": "bat", "href": "verksamhet.html", "text": "Trailer- och färjeterminaler med 40 avgångar per dygn."},
+    {"titel": "Bulk och energi", "ikon": "eld", "href": "verksamhet.html", "text": "Kol, biobränsle, spannmål och flytande bulk i egna magasin och tankar."},
+    {"titel": "Skogsprodukter", "ikon": "skog", "href": "verksamhet.html", "text": "Sågade trävaror, pappersrullar och massa under tak."},
+    {"titel": "Hamnlogistik", "ikon": "karta", "href": "verksamhet.html", "text": "Lager, tullager och tåg direkt till kaj."},
+    {"titel": "Vindkraftslogistik", "ikon": "vind", "href": "verksamhet.html", "text": "Förmontering och utskeppning av havsvindkraftverk."},
+    {"titel": "Bli stuvare", "ikon": "hjalm", "href": "karriar.html", "text": "Kranförare, stuvare och truckförare med betald utbildning."},
+    {"titel": "Aktien", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för TJRO."}
+  ],
+  "affarsomraden": [
+    {"titel": "Container", "text": "Sex terminaler i Göteborg, Karlshamn, Helsingborg, Gävle, Gdańsk och Aarhus. Fjärrstyrda kranar och automatiska grindar kortar tiden vid kaj.", "text2": "2,4 miljoner TEU hanterades 2025, en ökning med 8 procent.", "tagg": "infra"},
+    {"titel": "Ro-ro och färjor", "text": "Trailerterminaler för färjelinjer till Polen, Tyskland, Litauen och Finland. Lastbilar och trailers hanteras dygnet runt.", "text2": "1,1 miljoner trailers och 3,2 miljoner passagerare 2025.", "tagg": "stad"},
+    {"titel": "Bulk och skog", "text": "Torr och flytande bulk, trävaror, massa och papper. Många av terminalerna har egen järnväg direkt till industrin.", "text2": "31 miljoner ton bulk och skogsprodukter över kaj.", "tagg": "industri"},
+    {"titel": "Hamnutveckling", "text": "Vi bygger nya kajer, muddrar farleder och förbereder ytor för havsvind. Allt byggs i egen regi med entreprenörer på ramavtal.", "text2": "Investeringsplanen omfattar 14 miljarder kronor till 2030.", "tagg": "anlaggning"}
+  ],
+  "bolag": [
+    {"namn": "Tjärö Container Terminals AB", "segment": "Container", "rubrik": "Sex terminaler, en plattform", "text": "Driver containerterminalerna med gemensamt bokningssystem och gemensam kranutbildning.", "tagg": "infra"},
+    {"namn": "Tjärö Ferry Ports AB", "segment": "Ro-ro och färjor", "rubrik": "40 avgångar per dygn", "text": "Färje- och trailerterminaler i Karlshamn, Trelleborg, Nynäshamn och Gdańsk.", "tagg": "stad"},
+    {"namn": "Tjärö Bulk & Forest AB", "segment": "Bulk och skog", "rubrik": "Under tak och på räls", "text": "Bulk- och skogsterminaler i Luleå, Sundsvall, Gävle och Karlshamn med egna magasin.", "tagg": "industri"}
+  ],
+  "lokala_bolag": ["Tjärö Karlshamn", "Tjärö Göteborg", "Tjärö Helsingborg", "Tjärö Gävle", "Tjärö Sundsvall", "Tjärö Luleå", "Tjärö Trelleborg", "Tjärö Nynäshamn", "Tjärö Gdańsk Sp. z o.o.", "Tjärö Aarhus A/S", "Tjärö Esbjerg A/S", "Tjärö Klaipėda UAB", "Tjärö Stuveri AB", "Blekinge Hamnbogsering AB"],
+  "berattelser": [
+    {"rubrik": "Fjärrstyrda kranar i Gävle", "text": "Fyra nya ship-to-shore-kranar styrs från en kontrollsal 300 meter bort. Kranförarna sitter i värme och utan vibrationer.", "tagg": "infra"},
+    {"rubrik": "Havsvind från Karlshamn", "text": "Den nya tunglastkajen tar emot sina första tornsegment till en vindpark i södra Östersjön i vår.", "tagg": "anlaggning"},
+    {"rubrik": "Landström för alla färjor", "text": "Från årsskiftet kopplas alla färjor i Karlshamn och Trelleborg till el vid kaj.", "tagg": "el"}
+  ],
+  "nyckeltal": [
+    {"varde": "2,4", "enhet": "milj. TEU", "etikett": "Containrar 2025", "trend": [1.7, 1.8, 2.0, 2.1, 2.0, 2.2, 2.4], "trend_text": "Hanterade containrar, miljoner TEU"},
+    {"varde": "12", "enhet": "", "etikett": "Hamnar i fem länder"},
+    {"varde": "17,8", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [11.2, 11.9, 13.4, 15.1, 15.8, 16.6, 17.8], "trend_text": "Nettoomsättning, mdr kr"},
+    {"varde": "5 600", "enhet": "", "etikett": "Medarbetare", "trend": [4300, 4500, 4700, 5000, 5200, 5400, 5600], "trend_text": "Anställda inklusive egna stuvare"}
+  ],
+  "projekt": [
+    {"namn": "Tunglastkajen Stilleryd", "ort": "Karlshamn", "typ": "Kaj för havsvind", "ar": "2027", "text": "400 meter kaj med bärighet för 50 ton per kvadratmeter och 18 hektar förmonteringsyta.", "tagg": "anlaggning"},
+    {"namn": "Containerterminal Fredriksskans", "ort": "Gävle", "typ": "Containerterminal", "ar": "2025", "text": "Fyra fjärrstyrda kranar och automatiska grindar för lastbil och tåg.", "tagg": "infra"},
+    {"namn": "Farledsmuddring Luleå", "ort": "Luleå", "typ": "Farled", "ar": "2026", "text": "Farleden fördjupas till 15 meter så att större malmfartyg kan anlöpa.", "tagg": "natur"},
+    {"namn": "Färjeläge 9", "ort": "Trelleborg", "typ": "Färjeterminal", "ar": "2024", "text": "Nytt färjeläge med landström och automatisk förtöjning.", "tagg": "stad"},
+    {"namn": "Westerplatte Logistics", "ort": "Gdańsk", "typ": "Hamnlogistik", "ar": "2026", "text": "120 000 kvadratmeter lager med räls direkt till containerterminalen.", "tagg": "industri"},
+    {"namn": "Skogsterminal Tunadal", "ort": "Sundsvall", "typ": "Skogsterminal", "ar": "2025", "text": "Magasin för 60 000 ton trävaror under tak med tåg från tre sågverk.", "tagg": "tra"}
+  ],
+  "process": [
+    {"titel": "Bokning", "text": "Rederiet bokar kajplats och lastbilen sin tid i porten i samma system, som samordnar kranar och personal.", "tagg": "kontor"},
+    {"titel": "Lossning", "text": "Egna kranförare lossar i snitt 32 containrar i timmen per kran.", "tagg": "infra"},
+    {"titel": "Terminal", "text": "Godset tullklareras, lagras och sorteras efter vidare transport på väg, räls eller nytt fartyg.", "tagg": "industri"},
+    {"titel": "Vidare på räls", "text": "38 procent av containrarna lämnar våra hamnar på tåg, de flesta inom ett dygn.", "tagg": "infra"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Mer gods på räls, fartyg på el",
+    "text": "Ett godståg från hamnen ersätter 40 lastbilar. Därför bygger vi järnväg till kaj i alla hamnar och subventionerar pendeltåg för containrar till inlandsterminaler. Landström för färjor och elektriska terminaltruckar minskar utsläppen i själva hamnen.",
+    "mal": [["50 %", "av containrarna vidare på tåg 2030"], ["100 %", "färjor på landström vid kaj 2027"], ["0", "fossila arbetsmaskiner i terminalerna 2030"]]
+  },
+  "karriar": {
+    "rubrik": "Lyft fartyg från kontrollsalen",
+    "text": "Nya kranförare utbildas i tio veckor i vår kransimulator i Karlshamn. Arbetet går i skift med skifttillägg och fem veckors sammanhängande ledighet per år.",
+    "jobb": [["Kranförare STS", "Gävle"], ["Stuvare", "Göteborg"], ["Terminalplanerare", "Karlshamn"], ["Projektledare kajbyggnad", "Luleå"]]
+  },
+  "kultur": "Varje stuvarlag har en lagbas som har arbetat minst fem år vid kaj och ansvarar för säkerheten på sitt pass.",
+  "citat": {"text": "Min farfar lastade granit med handkraft på Tjärökajen. Nu lyfter vi 40 ton med en joystick – men det är fortfarande våra egna stuvare som står för lyftet.", "namn": "Peter Ljungqvist", "roll": "Vd och koncernchef", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi bytte till Gävle för vår Asienlinje. Liggtiden vid kaj halverades när de fjärrstyrda kranarna kom.", "namn": "Martin K.", "ort": "Göteborg"},
+    {"text": "Våra trävaror går från sågverket på tåg direkt in i Tjärös magasin. Ingen omlastning, inga lastbilar.", "namn": "Annelie S.", "ort": "Sundsvall"},
+    {"text": "Tjärö förberedde kajen för vindkraftstornen på 14 månader. Vi hade räknat med tre år.", "namn": "Lars N.", "ort": "Karlshamn"}
+  ],
+  "faq": [
+    ["Vilka hamnar äger ni?", "Karlshamn, Göteborg (containerterminal), Helsingborg, Gävle, Sundsvall, Luleå, Trelleborg och Nynäshamn i Sverige, samt Gdańsk, Aarhus, Esbjerg och Klaipėda."],
+    ["Har ni egna stuvare?", "Ja, alla lyft utförs av egna anställda stuvare och kranförare enligt hamnavtalet."],
+    ["Kan godset gå vidare på tåg?", "Alla våra hamnar har järnväg till kaj. Vi kan boka tåg till inlandsterminaler i hela Sverige."],
+    ["Hur bokar jag tid för lastbil?", "Via Tjärö Gate-appen eller webbportalen. Utan bokad tid blir väntan längre."],
+    ["Var är aktien noterad?", "TJRO handlas på Nasdaq Stockholm Large Cap. Största ägare är tre svenska pensionsbolag."],
+    ["Bygger ni nya kajer själva?", "Vi är beställare och projektleder själva, med ramavtal för muddring och kajbyggnad."]
+  ],
+  "nyheter": [
+    ["2026-10-28", "Delårsrapport januari–september 2026", "Containervolymerna ökade med 6 procent och ro-ro med 4 procent.", "kontor"],
+    ["2026-09-09", "Avtal om förmontering av havsvind i Karlshamn", "Tunglastkajen ska ta emot 72 turbiner från 2027.", "anlaggning"],
+    ["2026-04-02", "Fjärrstyrda kranar i drift i Gävle", "Fyra nya kranar ökar kapaciteten med 40 procent.", "infra"]
+  ],
+  "investerare": {
+    "aktie": "TJRO",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "206,50",
+    "forandring": "+0,3 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-28"], ["Delårsrapport januari–juni 2026", "2026-07-22"], ["Delårsrapport januari–mars 2026", "2026-04-27"], ["Årsredovisning 2025", "2026-03-25"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-10"], ["Årsstämma, Karlshamn", "2027-05-04"]]
+  },
+  "kontor_rubrik": "Tolv hamnar, fem länder",
+  "kontor_text": "Varje hamn har egen hamnchef och egna stuvarlag. Koncernledning och kranskola finns i Karlshamn.",
+  "kontor_lista": [
+    ["Karlshamn – huvudkontor", "Tjäröhamnen 1. Koncernledning, kranskola och hamnens färje- och bulkterminaler."],
+    ["Göteborg", "Containerterminal vid Arendal, 980 medarbetare."],
+    ["Gävle", "Containerterminal med fjärrstyrda kranar och bulkhamn."],
+    ["Helsingborg", "Container- och ro-ro-terminal vid Öresund."],
+    ["Luleå", "Malm- och bulkhamn med ny farled."],
+    ["Trelleborg", "Färjeterminal med 22 dagliga avgångar till Tyskland och Polen."],
+    ["Gdańsk", "Containerterminal och hamnlogistik."],
+    ["Aarhus och Esbjerg", "Container och havsvindslogistik i Danmark."]
+  ],
+  "tidslinje_rubrik": "Hundra år vid kaj",
+  "tidslinje": [
+    ["1923", "Tjärö Stuveri grundas i Karlshamn och lastar trä och granit."],
+    ["1974", "Första containerkranen reses i Karlshamn."],
+    ["1994", "Tjärö köper Karlshamns hamn av kommunen."],
+    ["2006", "Börsnotering på Stockholmsbörsen."],
+    ["2013", "Förvärv av containerterminal i Gdańsk."],
+    ["2025", "Fjärrstyrda kranar tas i drift i Gävle."]
+  ],
+  "vagg_text": "Hamnarna har egna hamnchefer och lokala avtal med kommunerna. Systemen, kranskolan och investeringarna delas.",
+  "kontakt": {"adress": "Tjäröhamnen 1", "postnr": "374 31", "ort": "Karlshamn", "telefon": "070-174 06 24", "epost": "info@tjaro.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 8–16.30, terminalerna dygnet runt",
+  "omrade": "Sverige, Polen, Danmark och Litauen",
+  "fot_cta": "Planerar ni en ny linje eller ett nytt flöde? Prata med vår kommersiella avdelning.",
+  "bild": {"panel": "infra", "hb": "infra"},
+  "text": {
+    "ber_rubrik": "Senast vid kaj",
+    "proj_rubrik": "Kajer, kranar och farleder",
+    "proj_rubrik_lista": "Hamnprojekt i drift och under byggnad",
+    "process_rubrik": "Från kajplats till godståg",
+    "process_etikett": "Ett anlöp",
+    "hb_etikett": "Räls och landström",
+    "omdomen_rubrik": "Rederier och varuägare om Tjärö",
+    "faq_rubrik": "Frågor om våra hamnar",
+    "bolag_rubrik": "Container, färja, bulk",
+    "vagg_rubrik": "{n} hamnbolag runt Östersjön",
+    "panel_etikett": "Kranskolan i Karlshamn",
+    "siffror_etikett": "Tjärö i siffror",
+    "ny_rubrik": "Pressmeddelanden från Tjärö"
+  }
+}

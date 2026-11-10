@@ -1,0 +1,145 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ryholm Väg AB (publ)",
+  "kortnamn": "Ryholm",
+  "slug": "ryholm",
+  "typ": "Väg- och beläggningskoncern, Skövde",
+  "tagline": "Vägar året runt",
+  "slogan": "Ryholm tillverkar asfalt, lägger beläggning och sköter drift och vinterväghållning på 62 000 kilometer väg i Sverige, Norge och Finland.",
+  "hero_rubrik": "Plogad före sex, lagad före lunch",
+  "hero_text": "88 asfaltverk, 1 900 driftfordon och 8 100 medarbetare. Vi bygger vägen, lägger beläggningen och håller den farbar varje dygn.",
+  "intro_rubrik": "Nordens största väghållare",
+  "om": [
+    "Ryholm startade 1938 som ett åkeri i Skövde som körde grus och plogade landsvägar åt vägförvaltningen i Skaraborg. På 1960-talet byggdes det första asfaltverket och sedan dess har bolaget vuxit genom att ta över kommunala och statliga driftområden.",
+    "Aktien är noterad sedan 2007. Hälften av omsättningen kommer från långa driftkontrakt, där vi ansvarar för vägen i fem till tio år – och därför bygger beläggningen så att den håller."
+  ],
+  "vagval_rubrik": "Vad behöver vägen?",
+  "tjanster": [
+    {"titel": "Beläggning", "ikon": "vag", "href": "verksamhet.html", "text": "Asfalt på motorvägar, gator, flygplatser och industriytor."},
+    {"titel": "Drift och underhåll", "ikon": "kalender", "href": "verksamhet.html", "text": "Driftkontrakt för stat och kommun med jour dygnet runt."},
+    {"titel": "Vinterväghållning", "ikon": "bil", "href": "verksamhet.html", "text": "Plogning, saltning och sandning på 62 000 kilometer väg."},
+    {"titel": "Asfaltverk", "ikon": "fabrik", "href": "verksamhet.html", "text": "Asfaltmassa från 88 verk, även till andra entreprenörer."},
+    {"titel": "Vägmarkering", "ikon": "pensel", "href": "verksamhet.html", "text": "Linjer, räfflor och symboler med egna markeringsbilar."},
+    {"titel": "Bro och räcken", "ikon": "bro", "href": "verksamhet.html", "text": "Brounderhåll, kantbalkar och vägräcken."},
+    {"titel": "Bli maskinförare", "ikon": "hjalm", "href": "karriar.html", "text": "Asfaltläggare, vältförare och vinterförare."},
+    {"titel": "Aktien", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för RYHO."}
+  ],
+  "affarsomraden": [
+    {"titel": "Beläggning", "text": "Asfaltlag lägger beläggning från april till oktober på allt från villagator till motorvägar. Vi återvinner gammal asfalt direkt i nya massor.", "text2": "9,8 miljoner ton asfalt lades 2025, med 38 procent returasfalt.", "tagg": "anlaggning"},
+    {"titel": "Drift och vinter", "text": "Långa driftkontrakt där vi ansvarar för plogning, halkbekämpning, potthål, diken och skyltar. Väderstationer och sensorer i bilarna styr insatserna.", "text2": "184 driftområden för stat och kommun i tre länder.", "tagg": "infra"},
+    {"titel": "Asfalt- och stenmaterial", "text": "88 asfaltverk och 41 bergtäkter förser egna lag och externa kunder. Allt fler verk drivs med biobränsle i stället för olja.", "text2": "61 av verken är fossilfria i torkprocessen.", "tagg": "industri"},
+    {"titel": "Specialtjänster", "text": "Vägmarkering, räcken, broar och fräsning med egna specialfordon. Ofta som underentreprenör åt andra väghållare.", "text2": "Vägmarkeringen målar 210 000 kilometer linjer om året.", "tagg": "maskin"}
+  ],
+  "bolag": [
+    {"namn": "Ryholm Beläggning AB", "segment": "Beläggning", "rubrik": "Asfaltlag i hela landet", "text": "Lägger beläggning för stat, kommuner, flygplatser och industri från 64 orter.", "tagg": "anlaggning"},
+    {"namn": "Ryholm Drift AB", "segment": "Drift och vinter", "rubrik": "Vägen ska vara farbar", "text": "Ansvarar för drift och vinterväghållning i 184 driftområden.", "tagg": "infra"},
+    {"namn": "Ryholm Material AB", "segment": "Asfalt och sten", "rubrik": "88 verk, 41 täkter", "text": "Tillverkar asfaltmassa och stenmaterial till egna lag och externa kunder.", "tagg": "industri"},
+    {"namn": "Ryholm Veg AS", "segment": "Norge", "rubrik": "Fjellvegar og tunneler", "text": "Drift- och beläggningskontrakt på Østlandet och i Trøndelag.", "tagg": "natur"}
+  ],
+  "lokala_bolag": ["Ryholm Beläggning Väst", "Ryholm Beläggning Öst", "Ryholm Beläggning Syd", "Ryholm Beläggning Norr", "Ryholm Drift", "Ryholm Material", "Ryholm Vägmarkering AB", "Ryholm Veg AS", "Ryholm Tie Oy", "Skaraborgs Åkeri AB", "Billingens Stenbrott AB"],
+  "berattelser": [
+    {"rubrik": "Fossilfritt asfaltverk i Hova", "text": "Verket vid E20 torkar stenmaterialet med träpulver och har minskat utsläppen med 92 procent.", "tagg": "industri"},
+    {"rubrik": "Sensorer på 1 900 driftfordon", "text": "Varje plogbil mäter väglag och friktion och skickar data till driftcentralen var tionde sekund.", "tagg": "infra"},
+    {"rubrik": "E6 vid Uddevalla klar på fem nätter", "text": "Elva kilometer ny beläggning lades nattetid med trafiken omledd i ett körfält.", "tagg": "anlaggning"}
+  ],
+  "nyckeltal": [
+    {"varde": "62 000", "enhet": "km", "etikett": "Väg i driftkontrakt", "trend": [44000, 47000, 51000, 54000, 57000, 60000, 62000], "trend_text": "Kilometer väg i drift- och vinterkontrakt"},
+    {"varde": "9,8", "enhet": "milj. ton", "etikett": "Asfalt 2025", "trend": [8.6, 8.9, 9.4, 9.1, 9.3, 9.5, 9.8], "trend_text": "Utlagd asfalt, miljoner ton"},
+    {"varde": "24,7", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [17.1, 18.0, 19.6, 21.4, 22.3, 23.5, 24.7], "trend_text": "Nettoomsättning, mdr kr"},
+    {"varde": "8 100", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "E6 Uddevalla–Svarteborg", "ort": "Uddevalla", "typ": "Beläggning", "ar": "2026", "text": "Elva kilometer motorväg med ny slitbana på fem nätter.", "tagg": "anlaggning"},
+    {"namn": "Driftområde Skaraborg", "ort": "Skövde", "typ": "Drift och vinter", "ar": "2030", "text": "Femårskontrakt för 2 400 kilometer statlig väg.", "tagg": "infra"},
+    {"namn": "Asfaltverk Hova", "ort": "Gullspång", "typ": "Egen industri", "ar": "2025", "text": "Fossilfritt verk som torkar sten med träpulver.", "tagg": "industri"},
+    {"namn": "Rullbana 01/19", "ort": "Göteborg", "typ": "Flygplats", "ar": "2024", "text": "Ny beläggning på 3,3 kilometer rullbana under nattstängning.", "tagg": "infra"},
+    {"namn": "Rv 3 Gudbrandsdalen", "ort": "Lillehammer", "typ": "Drift", "ar": "2029", "text": "Driftkontrakt för fjällväg med vinterstängda pass.", "tagg": "natur"},
+    {"namn": "Gatuprogram Örebro", "ort": "Örebro", "typ": "Kommunal beläggning", "ar": "2026", "text": "Ramavtal för 140 gator om året med returasfalt.", "tagg": "stad"}
+  ],
+  "process": [
+    {"titel": "Mätning", "text": "Mätbilar skannar vägytan och räknar ut var spårdjup och sprickor kräver åtgärd först.", "tagg": "infra"},
+    {"titel": "Recept", "text": "Asfaltverket blandar massa med returasfalt efter vägens trafik och klimat.", "tagg": "industri"},
+    {"titel": "Utläggning", "text": "Läggare och vältar arbetar i lag om åtta, ofta nattetid för att störa trafiken minst.", "tagg": "anlaggning"},
+    {"titel": "Drift i tio år", "text": "Samma driftbolag sköter vägen efteråt, så ett dåligt jobb kostar oss själva.", "tagg": "maskin"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Gammal asfalt är bästa råvaran",
+    "text": "Returasfalt ersätter både bitumen och sten och halverar klimatpåverkan per ton. Vi tar emot fräsmassor på alla verk och har som mål att hälften av all massa ska vara återvunnen 2030. Asfaltverken byter olja mot biobränsle.",
+    "mal": [["50 %", "returasfalt i massorna 2030"], ["100 %", "fossilfria asfaltverk 2028"], ["–20 %", "salt per vintersäsong med sensorstyrd spridning"]]
+  },
+  "karriar": {
+    "rubrik": "Sommar på asfalten, vinter i plogbilen",
+    "text": "Många av våra förare arbetar med beläggning på sommaren och vinterväghållning på vintern – året runt hos samma arbetsgivare. Vi betalar körkort C och CE och utbildar på läggare och vältar.",
+    "jobb": [["Asfaltläggare", "Skövde"], ["Vinterförare", "Östersund"], ["Arbetsledare beläggning", "Göteborg"], ["Driftledare", "Lillehammer"]]
+  },
+  "kultur": "Varje driftområde har en driftledare som själv har kört plog minst en vinter.",
+  "citat": {"text": "Vi lägger asfalten och vi plogar vägen i tio år efteråt. Därför lägger vi den som om vi själva skulle laga den – för det gör vi.", "namn": "Mats Ekholm", "roll": "Vd och koncernchef", "tagg": "anlaggning"},
+  "omdomen": [
+    {"text": "Ryholm hade plogat hela kommunen före klockan sex efter snöovädret i januari. Inga klagomål från skolskjutsarna.", "namn": "Ann-Sofie R.", "ort": "Skövde"},
+    {"text": "Rullbanan stängdes bara nattetid under tre veckor. Ingen avgång blev försenad på grund av arbetet.", "namn": "Fredrik L.", "ort": "Göteborg"},
+    {"text": "Returasfalten i gatuprogrammet sänkte vårt klimatavtryck med 40 procent utan att kosta mer.", "namn": "Karolina J.", "ort": "Örebro"}
+  ],
+  "faq": [
+    ["Lägger ni asfalt åt privatpersoner?", "Ja, uppfarter och gårdsplaner från cirka 100 kvadratmeter via närmaste beläggningskontor."],
+    ["Vad är returasfalt?", "Gammal asfalt som fräses upp, krossas och blandas i ny massa. Den ersätter bitumen och sten."],
+    ["Vem ringer jag om en väg inte är plogad?", "För statliga vägar Trafikverkets vägassistans, för kommunala gator kommunen. Driftbolaget får uppdraget därifrån."],
+    ["Säljer ni asfalt till andra entreprenörer?", "Ja, alla 88 verk säljer massa till externa kunder."],
+    ["Var är aktien noterad?", "RYHO handlas på Nasdaq Stockholm Mid Cap sedan 2007."],
+    ["Hur länge gäller ett driftkontrakt?", "Normalt fem år med option på två, för både stat och kommun."]
+  ],
+  "nyheter": [
+    ["2026-10-24", "Delårsrapport januari–september 2026", "Beläggningssäsongen gav rekordvolymer och marginalen steg till 5,1 procent.", "kontor"],
+    ["2026-08-31", "Ryholm vinner driftkontrakt i Skaraborg", "Kontraktet omfattar 2 400 kilometer väg i fem år.", "infra"],
+    ["2026-05-07", "Fossilfritt asfaltverk invigt i Hova", "Verket torkar sten med träpulver i stället för olja.", "industri"],
+    ["2026-03-23", "Årsredovisning 2025", "Andelen returasfalt nådde 38 procent.", "kontor"]
+  ],
+  "investerare": {
+    "aktie": "RYHO",
+    "lista": "Nasdaq Stockholm Mid Cap",
+    "kurs": "127,55",
+    "forandring": "–0,8 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-24"], ["Delårsrapport januari–juni 2026", "2026-07-18"], ["Delårsrapport januari–mars 2026", "2026-04-25"], ["Årsredovisning 2025", "2026-03-23"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-06"], ["Årsstämma, Skövde", "2027-04-28"]]
+  },
+  "kontor_rubrik": "64 orter, 184 driftområden",
+  "kontor_text": "Beläggningslagen utgår från asfaltverken. Driftledarna bor i sina områden.",
+  "kontor_lista": [
+    ["Skövde – huvudkontor", "Ryholmsvägen 2. Koncernledning, driftcentral och Ryholm Beläggning Väst."],
+    ["Göteborg", "Beläggning och flygplatser i Västsverige."],
+    ["Stockholm", "Ryholm Beläggning Öst och kommunala gatuprogram."],
+    ["Malmö", "Ryholm Beläggning Syd."],
+    ["Östersund", "Ryholm Drift Norr och fjällvägar."],
+    ["Lillehammer", "Ryholm Veg AS."],
+    ["Tammerfors", "Ryholm Tie Oy."]
+  ],
+  "tidslinje_rubrik": "Från grusåkeri till väghållare",
+  "tidslinje": [
+    ["1938", "Ryholm startar som åkeri i Skövde och plogar landsvägar i Skaraborg."],
+    ["1962", "Första asfaltverket byggs vid Billingen."],
+    ["1993", "Första statliga driftkontraktet efter att vägverket konkurrensutsatts."],
+    ["2007", "Börsnotering på Stockholmsbörsen."],
+    ["2015", "Etablering i Norge genom förvärv."],
+    ["2025", "Första helt fossilfria asfaltverket i Hova."]
+  ],
+  "vagg_text": "Beläggning, drift och material är egna bolag men delar maskiner, verk och personal mellan säsongerna.",
+  "kontakt": {"adress": "Ryholmsvägen 2", "postnr": "541 34", "ort": "Skövde", "telefon": "070-174 06 30", "epost": "info@ryholm.se", "orgnr": ""},
+  "oppettider": "Växel mån–fre 7–16, driftcentral dygnet runt",
+  "omrade": "Sverige, Norge och Finland",
+  "fot_cta": "Ska en gata, väg eller gårdsplan beläggas? Kontakta närmaste asfaltverk.",
+  "bild": {"panel": "anlaggning", "hb": "industri"},
+  "text": {
+    "ber_rubrik": "Senast från vägarna",
+    "proj_rubrik": "Vägar vi lagt och sköter",
+    "process_rubrik": "Från mätbil till plogbil",
+    "process_etikett": "Vägens livscykel",
+    "hb_etikett": "Returasfalt",
+    "omdomen_rubrik": "Väghållarna om Ryholm",
+    "faq_rubrik": "Frågor om asfalt och vinter",
+    "bolag_rubrik": "Beläggning, drift, material och Norge",
+    "vagg_rubrik": "{n} bolag på vägarna",
+    "panel_etikett": "Förare sökes",
+    "hero_lank": "Våra vägprojekt",
+    "ny_rubrik": "Pressmeddelanden"
+  }
+}

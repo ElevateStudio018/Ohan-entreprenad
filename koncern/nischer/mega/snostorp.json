@@ -1,0 +1,140 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Snöstorp Bygg & Fastighet AB",
+  "kortnamn": "Snöstorp",
+  "slug": "snostorp",
+  "typ": "Bygger och förvaltar, Halmstad",
+  "tagline": "Byggt för att behållas",
+  "slogan": "Snöstorp bygger hyreshus, kontor och handelsplatser längs västkusten med egna hantverkare – och behåller nästan allt i egen förvaltning.",
+  "hero_rubrik": "Vi säljer inte husen vi bygger",
+  "hero_text": "2 800 medarbetare, 31 000 lägenheter och 1,4 miljoner kvadratmeter lokaler. Det vi bygger förvaltar vi själva i generationer.",
+  "intro_rubrik": "Västkustens största privata hyresvärd",
+  "om": [
+    "Murarmästare Nils Bengtsson byggde sitt första hyreshus i Snöstorp utanför Halmstad 1951 och bestämde sig för att behålla det. Hyrorna betalade nästa hus, och så har det fortsatt i tre generationer.",
+    "Familjen Bengtsson äger hela koncernen. Vi bygger med egna snickare, murare och betongarbetare och förvaltar med egna fastighetsskötare från Kungsbacka i norr till Helsingborg i söder."
+  ],
+  "vagval_rubrik": "Vad söker du?",
+  "tjanster": [
+    {"titel": "Lediga lägenheter", "ikon": "hem", "href": "verksamhet.html", "text": "31 000 hyresrätter i Halland, Göteborg och nordvästra Skåne."},
+    {"titel": "Lokaler och kontor", "ikon": "kontor", "href": "verksamhet.html", "text": "Kontor, butiker och lager från 50 till 20 000 kvadratmeter."},
+    {"titel": "Handelsplatser", "ikon": "lada", "href": "verksamhet.html", "text": "Sex handelsplatser och tolv stadsdelscentrum."},
+    {"titel": "Bygg i egen regi", "ikon": "kran", "href": "verksamhet.html", "text": "Egna byggare som bygger 900 lägenheter om året."},
+    {"titel": "Felanmälan", "ikon": "verktyg", "href": "om-oss.html#kontakt", "text": "Dygnet runt med egna fastighetsskötare på plats."},
+    {"titel": "Bostadskö", "ikon": "nyckel", "href": "verksamhet.html", "text": "Gratis kö utan avgift, poäng efter kötid."},
+    {"titel": "Lediga jobb", "ikon": "hjalm", "href": "karriar.html", "text": "Snickare, fastighetsskötare och förvaltare."},
+    {"titel": "Ägande och rapporter", "ikon": "graf", "href": "investerare.html", "text": "Årsredovisning och obligationsinformation."}
+  ],
+  "affarsomraden": [
+    {"titel": "Bostäder", "text": "Hyresrätter i alla storlekar, från studentettor till femrummare. Vi bygger nytt varje år och renoverar de äldsta husen med hyresgästerna kvar.", "text2": "31 000 lägenheter med 99,2 procents uthyrningsgrad.", "tagg": "bostad"},
+    {"titel": "Kommersiellt", "text": "Kontor, butiker, handelsplatser och lager i våra egna stadsdelar. Många hyresgäster har funnits hos oss i över trettio år.", "text2": "1,4 miljoner kvadratmeter lokaler med 3 200 hyresgäster.", "tagg": "kontor"},
+    {"titel": "Bygg", "text": "Egna byggare uppför alla nya hus och gör större renoveringar. Ingen extern vinstmarginal gör att vi kan bygga för lägre hyror.", "text2": "900 lägenheter och 40 000 kvadratmeter lokaler byggs per år.", "tagg": "bygg"},
+    {"titel": "Förvaltning", "text": "Egna fastighetsskötare, städare och trädgårdsarbetare i varje område. Felanmälan går direkt till den som ansvarar för huset.", "text2": "Hyresgästenkäten gav 84 av 100 i nöjdhet 2025.", "tagg": "hem"}
+  ],
+  "bolag": [
+    {"namn": "Snöstorp Bostäder AB", "segment": "Bostäder", "rubrik": "31 000 hem längs kusten", "text": "Äger och förvaltar hyresrätter i Halmstad, Varberg, Falkenberg, Kungsbacka, Göteborg, Ängelholm och Helsingborg.", "tagg": "bostad"},
+    {"namn": "Snöstorp Kommersiella AB", "segment": "Lokaler", "rubrik": "Kontor och handel i egna stadsdelar", "text": "Kontor, butiker och handelsplatser, ofta i bottenvåningarna i våra egna kvarter.", "tagg": "kontor"},
+    {"namn": "Snöstorp Byggnads AB", "segment": "Bygg i egen regi", "rubrik": "Egna snickare sedan 1951", "text": "Bygger och renoverar enbart åt koncernen, med 1 100 egna yrkesarbetare.", "tagg": "bygg"}
+  ],
+  "lokala_bolag": ["Snöstorp Halmstad", "Snöstorp Varberg", "Snöstorp Falkenberg", "Snöstorp Kungsbacka", "Snöstorp Göteborg", "Snöstorp Ängelholm", "Snöstorp Helsingborg", "Snöstorp Kommersiella", "Snöstorp Byggnads", "Halmstads Snickerifabrik AB", "Nissans Trädgårdsservice AB"],
+  "berattelser": [
+    {"rubrik": "Renovering med hyresgästerna kvar", "text": "Stambytet på Andersberg i Halmstad gjordes på sju dagar per lägenhet och ingen behövde flytta ut.", "tagg": "interior"},
+    {"rubrik": "Ny stadsdel i Varberg", "text": "Första etappen av Västerport med 420 hyresrätter och skola är under byggnad med egna lag.", "tagg": "bygg"},
+    {"rubrik": "Solceller på alla tak i Falkenberg", "text": "Alla 186 hus i Falkenberg har nu solceller som ger el till trapphus, tvättstugor och laddplatser.", "tagg": "solel"}
+  ],
+  "nyckeltal": [
+    {"varde": "31 000", "enhet": "", "etikett": "Lägenheter", "trend": [25000, 26000, 27100, 28200, 29000, 30100, 31000], "trend_text": "Lägenheter i egen förvaltning"},
+    {"varde": "99,2", "enhet": "%", "etikett": "Uthyrningsgrad bostäder"},
+    {"varde": "96", "enhet": "mdr kr", "etikett": "Fastighetsvärde", "trend": [61, 70, 82, 91, 88, 92, 96], "trend_text": "Fastighetsvärde, mdr kr"},
+    {"varde": "2 800", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "Västerport etapp 1", "ort": "Varberg", "typ": "Hyresrätter", "ar": "2027", "text": "420 hyresrätter, förskola och butiker vid nya stationen.", "tagg": "bygg"},
+    {"namn": "Andersberg stambyte", "ort": "Halmstad", "typ": "Renovering", "ar": "2026", "text": "1 240 lägenheter från 1968 renoveras med hyresgästerna boende kvar.", "tagg": "interior"},
+    {"namn": "Kvarteret Tullen", "ort": "Kungsbacka", "typ": "Kontor och bostäder", "ar": "2025", "text": "Kontor i fyra våningar och 96 hyresrätter ovanpå.", "tagg": "kontor"},
+    {"namn": "Flygstaden handelsplats", "ort": "Halmstad", "typ": "Handel", "ar": "2024", "text": "Ombyggnad av 42 000 kvadratmeter handel med ny matsal och solceller.", "tagg": "stad"},
+    {"namn": "Drottninghög", "ort": "Helsingborg", "typ": "Hyresrätter", "ar": "2026", "text": "210 nya lägenheter i en stadsdel vi förvaltat sedan 1974.", "tagg": "bostad"},
+    {"namn": "Majorna Hamnkvarter", "ort": "Göteborg", "typ": "Hyresrätter", "ar": "2028", "text": "340 hyresrätter i trä vid Röda sten.", "tagg": "bostad"}
+  ],
+  "process": [
+    {"titel": "Vi köper mark att behålla", "text": "Vi köper mark i områden där vi redan förvaltar, så att nya hus kan skötas av samma personal.", "tagg": "natur"},
+    {"titel": "Egna byggare", "text": "Snöstorp Byggnads bygger allt med egna yrkesarbetare och handlar upp installationer.", "tagg": "bygg"},
+    {"titel": "Vi bygger för hundra år", "text": "Tegelfasader, betongstomme och tåliga material – för vi ska äga husen när barnbarnen tar över.", "tagg": "bostad"},
+    {"titel": "Förvaltning i området", "text": "Varje område har ett eget förvaltningskontor och fastighetsskötare som bor i närheten.", "tagg": "hem"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Ett hus som står i hundra år är det klimatsmartaste",
+    "text": "Vi river nästan aldrig och renoverar med hyresgästerna kvar. Nya hus byggs i tegel och trä för lång livslängd, och alla tak med rätt läge får solceller. Fjärrvärmen i våra hus kommer från restvärme och biobränsle.",
+    "mal": [["–50 %", "energianvändning i husen från före 1980 till 2030"], ["100 %", "solceller på lämpliga tak 2028"], ["0", "renovräkningar – hyresgästerna bor kvar"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg huset, sköt det i trettio år",
+    "text": "Våra snickare och fastighetsskötare stannar i snitt 17 år. Vi har egna lärlingar i bygg och fastighet och betalar kollektivavtalslön från första dagen.",
+    "jobb": [["Snickare", "Halmstad"], ["Fastighetsskötare", "Göteborg"], ["Bostadsförvaltare", "Helsingborg"], ["Platschef nyproduktion", "Varberg"]]
+  },
+  "kultur": "Varje fastighetsskötare har sina egna hus och sitt eget nummer som hyresgästerna kan ringa.",
+  "citat": {"text": "Farfar byggde för att äga i hundra år. Om man ska äga ett hus i hundra år bygger man det på ett annat sätt än om man ska sälja det om tre.", "namn": "Johan Bengtsson", "roll": "Vd och delägare, tredje generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Vi bodde kvar under hela stambytet. Badrummet var klart på sju dagar och snickarna städade varje kväll.", "namn": "Gunilla P.", "ort": "Halmstad"},
+    {"text": "Vi har hyrt butiken av Snöstorp i 34 år. Samma förvaltare de senaste tolv.", "namn": "Ali S.", "ort": "Helsingborg"},
+    {"text": "Fastighetsskötaren kom inom en timme när vattnet läckte en söndagskväll. Han visste exakt var avstängningen satt.", "namn": "Emil K.", "ort": "Varberg"}
+  ],
+  "faq": [
+    ["Hur ställer jag mig i bostadskön?", "Registrera dig gratis på webben. Lägenheter fördelas efter kötid, och du behöver logga in en gång om året."],
+    ["Vem äger Snöstorp?", "Familjen Bengtsson äger hela koncernen. Bolaget har gröna obligationer på Nasdaq Stockholm men inga noterade aktier."],
+    ["Säljer ni fastigheter?", "Mycket sällan. Vi har sålt sju fastigheter sedan 1951, alla till kommuner för skolor eller vård."],
+    ["Bygger ni åt andra?", "Nej, Snöstorp Byggnads bygger enbart åt koncernen."],
+    ["Kan vi hyra lokal i bottenplan?", "Ja, kontakta Snöstorp Kommersiella. Vi prioriterar verksamheter som gör kvarteret levande."],
+    ["Hur gör jag felanmälan?", "I appen Mitt Snöstorp, via webben eller telefon dygnet runt."]
+  ],
+  "nyheter": [
+    ["2026-10-02", "Byggstart för Majorna Hamnkvarter", "340 hyresrätter i trä byggs med egna lag vid Röda sten.", "bostad"],
+    ["2026-06-24", "Snöstorp emitterar grön obligation", "800 miljoner kronor till energirenovering av hus från 1960-talet.", "kontor"],
+    ["2026-04-08", "Årsredovisning 2025", "Förvaltningsresultatet ökade med 9 procent och 920 lägenheter färdigställdes.", "kontor"]
+  ],
+  "investerare": {
+    "aktie": "Familjeägt sedan 1951",
+    "lista": "Onoterat – gröna obligationer på Nasdaq Stockholm",
+    "kurs": "",
+    "forandring": "",
+    "rapporter": [["Årsredovisning 2025", "2026-04-08"], ["Delårsrapport för obligationsinnehavare januari–juni 2026", "2026-08-21"], ["Grönt ramverk och investerarrapport", "2026-06-24"]],
+    "kalender": [["Bokslutskommuniké för obligationsinnehavare", "2027-02-25"], ["Årsredovisning 2026", "2027-04-07"]]
+  },
+  "kontor_text": "Varje stad har ett eget förvaltningskontor nära husen.",
+  "kontor_lista": [
+    ["Halmstad – huvudkontor", "Snöstorpsvägen 1. Koncernledning, Snöstorp Byggnads och förvaltning för 11 000 lägenheter."],
+    ["Varberg", "Förvaltning och nya stadsdelen Västerport."],
+    ["Falkenberg", "4 100 lägenheter och två handelsplatser."],
+    ["Kungsbacka", "Bostäder och kontor runt stationen."],
+    ["Göteborg", "5 600 lägenheter i Majorna, Kortedala och Hisingen."],
+    ["Helsingborg", "Bostäder och lokaler i Drottninghög och centrum."]
+  ],
+  "tidslinje_rubrik": "Ett hus i taget sedan 1951",
+  "tidslinje": [
+    ["1951", "Nils Bengtsson bygger sitt första hyreshus i Snöstorp."],
+    ["1968", "Andersberg med 1 240 lägenheter står klart."],
+    ["1974", "Första fastigheterna i Helsingborg."],
+    ["1992", "Snöstorp köper fastigheter i Göteborg under fastighetskrisen."],
+    ["2011", "Andra generationen lämnar över till Johan Bengtsson."],
+    ["2024", "Första hyreshuset i massivträ."]
+  ],
+  "kontakt": {"adress": "Snöstorpsvägen 1", "postnr": "302 60", "ort": "Halmstad", "telefon": "070-174 06 32", "epost": "info@snostorp.se", "orgnr": ""},
+  "oppettider": "Mån–fre 8–16, felanmälan dygnet runt",
+  "omrade": "Halland, Göteborg och nordvästra Skåne",
+  "fot_cta": "Söker du bostad eller lokal längs västkusten? Ställ dig i kön eller kontakta våra uthyrare.",
+  "bild": {"panel": "bostad", "hb": "bostad"},
+  "text": {
+    "ber_rubrik": "Senast i våra kvarter",
+    "proj_rubrik": "Hus vi bygger och renoverar",
+    "process_rubrik": "Bygga för att behålla",
+    "process_etikett": "Hundra år",
+    "hb_etikett": "Långsiktigt ägande",
+    "omdomen_rubrik": "Hyresgästerna om Snöstorp",
+    "faq_rubrik": "Frågor om att hyra",
+    "bolag_rubrik": "Bostäder, lokaler och bygg",
+    "vagg_rubrik": "{n} bolag i familjen",
+    "panel_etikett": "Jobba hos Snöstorp",
+    "siffror_etikett": "Snöstorp i siffror",
+    "ny_rubrik": "Nyheter"
+  }
+}

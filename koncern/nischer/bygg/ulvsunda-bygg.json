@@ -1,0 +1,429 @@
+{
+  "profil": "bygg",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Ulvsunda Byggnads AB",
+  "kortnamn": "Ulvsunda",
+  "slug": "ulvsunda-bygg",
+  "typ": "Totalentreprenör i Storstockholm",
+  "tagline": "Storstockholms totalentreprenör",
+  "slogan": "Vi är en av Stockholms större privatägda byggare – bostäder, kontor och skolor i totalentreprenad, med egen produktion i alla led.",
+  "hero_rubrik": "Stockholm växer. Vi bygger det.",
+  "hero_text": "Bostäder, kontor, skolor och vårdlokaler i Storstockholm. 880 anställda, egna stomlag och 30 pågående projekt.",
+  "intro_rubrik": "Privatägt sedan 1958, med 880 egna medarbetare",
+  "om": [
+    "Ulvsunda Byggnads grundades 1958 av byggmästaren Einar Ulvström i en barack vid Ulvsunda industriområde i Bromma. Bolaget har sedan dess byggt bostäder, kontor och skolor över hela Storstockholm och ägs fortfarande av familjen tillsammans med 140 anställda delägare.",
+    "Vi har 880 medarbetare och egna lag för stomme, betong, montering och inredning. Det gör att vi kan ta totalansvar för projekt på 50 miljoner till 1,5 miljarder kronor utan att bli beroende av långa kedjor av underentreprenörer."
+  ],
+  "vagval_rubrik": "Vad planerar ni att bygga?",
+  "tjanster": [
+    {
+      "titel": "Bostäder",
+      "ikon": "hus",
+      "href": "verksamhet.html",
+      "text": "Bostadsrätter och hyresrätter i kvarter och punkthus."
+    },
+    {
+      "titel": "Kontor",
+      "ikon": "kontor",
+      "href": "verksamhet.html",
+      "text": "Nya kontorshus och ombyggnad av äldre."
+    },
+    {
+      "titel": "Skolor",
+      "ikon": "skola",
+      "href": "verksamhet.html",
+      "text": "Grundskolor, gymnasier och förskolor."
+    },
+    {
+      "titel": "Vård och labb",
+      "ikon": "vard",
+      "href": "verksamhet.html",
+      "text": "Vårdlokaler, labb och tandvård."
+    },
+    {
+      "titel": "Egen stomme",
+      "ikon": "kran",
+      "href": "verksamhet.html",
+      "text": "Egna betong- och stomlag i alla projekt."
+    },
+    {
+      "titel": "Projektutveckling",
+      "ikon": "graf",
+      "href": "verksamhet.html",
+      "text": "Vi utvecklar mark tillsammans med fastighetsägare."
+    },
+    {
+      "titel": "Ombyggnad",
+      "ikon": "hamare",
+      "href": "verksamhet.html",
+      "text": "Kontor till bostäder och renovering av kulturhus."
+    },
+    {
+      "titel": "Kontakta oss",
+      "ikon": "telefon",
+      "href": "om-oss.html#kontakt",
+      "text": "Nå affärsutvecklingen direkt."
+    }
+  ],
+  "affarsomraden": [
+    {
+      "titel": "Bostäder",
+      "text": "Bostadsrätter och hyresrätter i kvarter från 60 till 400 lägenheter. Vi bygger åt bostadsutvecklare, allmännyttan och i egen regi.",
+      "text2": "Vi startade 1 100 lägenheter under 2025.",
+      "tagg": "bostad"
+    },
+    {
+      "titel": "Kontor och handel",
+      "text": "Nya kontorshus och ombyggnader där fasaden står kvar och allt bakom byts. Vi har byggt kontor för fyra av Stockholms största fastighetsägare.",
+      "text2": "Ombyggnad med bevarad stomme halverar klimatpåverkan jämfört med nybygge.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Skolor och offentligt",
+      "text": "Grundskolor, gymnasier, idrottshallar och vårdlokaler för kommuner och regionen. Ofta i samverkan med fast målkostnad.",
+      "text2": "Tolv skolor i Stockholms län sedan 2016.",
+      "tagg": "stad"
+    },
+    {
+      "titel": "Ombyggnad och kulturhus",
+      "text": "Äldre kontorshus blir bostäder, gamla industrier blir skolor. Vi har en egen avdelning för byggnadsvård som tar hand om det som ska bevaras.",
+      "text2": "Vi har byggt om fyra kulturmärkta hus på Östermalm och i Gamla stan.",
+      "tagg": "interior"
+    }
+  ],
+  "bolag": [
+    {
+      "namn": "Ulvsunda Bostad",
+      "segment": "Nyproduktion bostäder",
+      "rubrik": "1 100 lägenheter per år",
+      "text": "Bygger bostadsrätter och hyresrätter i Storstockholm.",
+      "tagg": "bostad"
+    },
+    {
+      "namn": "Ulvsunda Kommersiellt",
+      "segment": "Kontor, skolor och vård",
+      "rubrik": "Lokaler för hela regionen",
+      "text": "Totalentreprenader för kontor, skolor och vårdlokaler.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Ulvsunda Stomme",
+      "segment": "Dotterbolag",
+      "rubrik": "Betong i egen regi",
+      "text": "220 betongarbetare, formsättare och armerare som gjuter alla våra stommar.",
+      "tagg": "bygg"
+    },
+    {
+      "namn": "Ulvsunda Ombyggnad",
+      "segment": "Dotterbolag",
+      "rubrik": "När huset ska stå kvar",
+      "text": "Ombyggnader och kulturhistoriska byggnader i innerstaden.",
+      "tagg": "interior"
+    }
+  ],
+  "berattelser": [
+    {
+      "rubrik": "Kvarteret Stålverket reser sig",
+      "text": "Åtta hus och 380 lägenheter i Ulvsunda, de första klara 2027.",
+      "tagg": "bostad"
+    },
+    {
+      "rubrik": "Kontorshuset blir bostäder",
+      "text": "Ett sextiotalskontor på Kungsholmen byggs om till 140 lägenheter.",
+      "tagg": "stad"
+    },
+    {
+      "rubrik": "140 anställda delägare",
+      "text": "Fler medarbetare än någonsin köpte aktier i årets erbjudande.",
+      "tagg": "people"
+    }
+  ],
+  "nyckeltal": [
+    {
+      "varde": "1958",
+      "enhet": "",
+      "etikett": "Grundat i Bromma"
+    },
+    {
+      "varde": "880",
+      "enhet": "",
+      "etikett": "Medarbetare"
+    },
+    {
+      "varde": "30",
+      "enhet": "",
+      "etikett": "Pågående projekt"
+    },
+    {
+      "varde": "4,6",
+      "enhet": "Mdkr",
+      "etikett": "Omsättning 2025"
+    }
+  ],
+  "projekt": [
+    {
+      "namn": "Kvarteret Stålverket",
+      "ort": "Bromma",
+      "typ": "Bostäder",
+      "ar": "2026",
+      "text": "Åtta hus med 380 bostadsrätter och hyresrätter på gammal industrimark.",
+      "tagg": "bostad",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Fleminggatan 70",
+      "ort": "Kungsholmen",
+      "typ": "Ombyggnad kontor–bostad",
+      "ar": "2026",
+      "text": "Sextiotalskontor blir 140 lägenheter med bevarad stomme.",
+      "tagg": "stad",
+      "status": "Pågående"
+    },
+    {
+      "namn": "Hägerstensåsens skola",
+      "ort": "Hägersten",
+      "typ": "Skola",
+      "ar": "2025",
+      "text": "Grundskola för 900 elever med idrottshall och tillagningskök.",
+      "tagg": "stad"
+    },
+    {
+      "namn": "Huset vid Mälarhöjden",
+      "ort": "Mälarhöjden",
+      "typ": "Kontor",
+      "ar": "2025",
+      "text": "Kontorshus på 18 000 kvm i KL-trä och betong.",
+      "tagg": "kontor"
+    },
+    {
+      "namn": "Vårdcentralen Solna",
+      "ort": "Solna",
+      "typ": "Vård",
+      "ar": "2024",
+      "text": "Vårdcentral, tandvård och labb i en ny byggnad.",
+      "tagg": "interior"
+    },
+    {
+      "namn": "Strandvägen 28",
+      "ort": "Östermalm",
+      "typ": "Kulturhistorisk ombyggnad",
+      "ar": "2024",
+      "text": "1890-talshus med nya installationer och bevarade stuckaturer.",
+      "tagg": "interior"
+    }
+  ],
+  "process": [
+    {
+      "titel": "Tidigt skede",
+      "text": "Vi går in redan under detaljplanen och räknar på alternativ.",
+      "tagg": "kontor"
+    },
+    {
+      "titel": "Projektering",
+      "text": "Egen projekteringsledning och BIM-samordning.",
+      "tagg": "people"
+    },
+    {
+      "titel": "Produktion i egen regi",
+      "text": "Egna stomlag, egen arbetsledning och samma platschef hela vägen.",
+      "tagg": "bygg"
+    },
+    {
+      "titel": "Överlämning",
+      "text": "Slutbesiktning, drifttagning och två års garantiuppföljning.",
+      "tagg": "stad"
+    }
+  ],
+  "hallbarhet": {
+    "rubrik": "Halvera klimatet till 2030",
+    "text": "Vi har lovat att halvera klimatpåverkan per kvadratmeter från 2020 till 2030. Det gör vi med klimatförbättrad betong, KL-trä där det passar, fossilfria arbetsplatser och genom att bygga om i stället för att riva när det går.",
+    "mal": [
+      [
+        "−32 %",
+        "klimatpåverkan per kvm sedan 2020"
+      ],
+      [
+        "100 %",
+        "fossilfria arbetsmaskiner på våra byggen"
+      ],
+      [
+        "94 %",
+        "av byggavfallet sorteras"
+      ]
+    ]
+  },
+  "karriar": {
+    "rubrik": "Bli delägare i det du bygger",
+    "text": "Ulvsunda ägs till 30 procent av sina medarbetare. Efter två års anställning får du köpa aktier, och vi har egen yrkesskola för betongarbetare och snickare.",
+    "jobb": [
+      [
+        "Platschef bostäder",
+        "Bromma"
+      ],
+      [
+        "Betongarbetare",
+        "Stockholm"
+      ],
+      [
+        "Projekteringsledare",
+        "Bromma"
+      ],
+      [
+        "Arbetsledare ombyggnad",
+        "Östermalm"
+      ]
+    ]
+  },
+  "kultur": "En av sex medarbetare är delägare, och varje platschef har jobbat som yrkesarbetare hos oss.",
+  "citat": {
+    "text": "Farfar byggde med egna gubbar för att han ville veta att det blev rätt. Vi gör likadant, fast med 880 medarbetare.",
+    "namn": "Maria Ulvström",
+    "roll": "Vd, tredje generationen",
+    "tagg": "people"
+  },
+  "omdomen": [
+    {
+      "text": "Egen stomme gjorde att vi aldrig väntade på någon annan. Tidplanen höll under hela bygget.",
+      "namn": "Johan P., projektchef bostadsutvecklare",
+      "ort": "Bromma"
+    },
+    {
+      "text": "Skolan stod klar till höstterminen trots en tuff vinter. Lärarna fick en vecka i förväg att flytta in.",
+      "namn": "Annika R., lokalstrateg",
+      "ort": "Hägersten"
+    },
+    {
+      "text": "Stuckaturerna är restaurerade in i minsta detalj. Ingen skulle tro att huset har fått helt nya installationer.",
+      "namn": "Carl F., fastighetsägare",
+      "ort": "Östermalm"
+    }
+  ],
+  "faq": [
+    [
+      "Hur stora projekt tar ni?",
+      "Vi tar uppdrag från cirka 50 miljoner till 1,5 miljarder kronor."
+    ],
+    [
+      "Vilka entreprenadformer erbjuder ni?",
+      "Totalentreprenad, utförandeentreprenad och samverkan med öppna böcker."
+    ],
+    [
+      "Bygger ni utanför Stockholm?",
+      "Nej, vi bygger i Storstockholm – från Norrtälje i norr till Södertälje i söder."
+    ],
+    [
+      "Bygger ni i trä?",
+      "Ja, i KL-trä och limträ när det passar projektet, ofta i kombination med betongstomme."
+    ],
+    [
+      "Kan ni utveckla projekt tillsammans med oss?",
+      "Ja, vi samarbetar med markägare och fastighetsbolag från detaljplan till färdigt hus."
+    ],
+    [
+      "Hur ägs bolaget?",
+      "Familjen Ulvström äger 70 procent och 140 anställda äger resten."
+    ]
+  ],
+  "certifikat": [
+    {
+      "titel": "ISO 9001, 14001, 45001",
+      "text": "Certifierat lednings- och arbetsmiljösystem.",
+      "ikon": "skold"
+    },
+    {
+      "titel": "Miljöbyggnad och BREEAM",
+      "text": "Certifierade projekt på alla nivåer.",
+      "ikon": "lov"
+    },
+    {
+      "titel": "Fossilfria byggen",
+      "text": "Fossilfria arbetsmaskiner och transporter.",
+      "ikon": "blixt"
+    },
+    {
+      "titel": "ID06",
+      "text": "Personalliggare och tillträdeskontroll.",
+      "ikon": "las"
+    }
+  ],
+  "kunder": [
+    "Stockholmshem Väst",
+    "Bromma Bostadsutveckling AB",
+    "Stockholms stad, Skolfastigheter",
+    "Region Stockholm Lokaler",
+    "Mälarhöjdens Fastighets AB",
+    "Brf Stålverket",
+    "Kungsholmens Förvaltnings AB"
+  ],
+  "kunder_rubrik": "Några av våra beställare",
+  "nyheter": [
+    [
+      "2026-10-27",
+      "Stålverket i Ulvsunda tar form",
+      "Fyra av åtta hus har stomme – de första flyttar in 2027.",
+      "bostad"
+    ],
+    [
+      "2026-07-01",
+      "Delägarerbjudandet 2026",
+      "140 medarbetare äger nu del i bolaget.",
+      "people"
+    ],
+    [
+      "2026-03-18",
+      "Kontor blir bostäder på Kungsholmen",
+      "Ombyggnaden av Fleminggatan 70 har börjat.",
+      "stad"
+    ],
+    [
+      "2025-12-09",
+      "Ny yrkesskola för betong",
+      "24 elever började vår egna betongutbildning i Bromma.",
+      "bygg"
+    ]
+  ],
+  "kontakt": {
+    "adress": "Ulvsundavägen 106",
+    "postnr": "168 67",
+    "ort": "Bromma",
+    "telefon": "070-174 06 27",
+    "epost": "info@ulvsundabygg.se",
+    "orgnr": ""
+  },
+  "oppettider": "Mån–fre 7.30–16.30",
+  "omrade": "Storstockholm – från Norrtälje till Södertälje",
+  "fot_cta": "Planerar ni ett projekt i Stockholm? Prata med vår affärsutveckling.",
+  "bild": {
+    "hb": "stad",
+    "panel": "bygg",
+    "sida_om": "kontor"
+  },
+  "text": {
+    "topp_hem": "Ulvsunda Byggnads",
+    "hero_knapp": "Vår verksamhet",
+    "hero_lank": "Pågående projekt",
+    "ber_rubrik": "Aktuellt på byggena",
+    "proj_etikett": "Projekt",
+    "proj_rubrik": "Bygger Stockholm sedan 1958",
+    "proj_rubrik_lista": "Bostäder, kontor, skolor och ombyggnader",
+    "process_etikett": "Arbetssätt",
+    "process_rubrik": "Egen produktion i alla led",
+    "hb_etikett": "Klimatmål 2030",
+    "hb_lank": "Om våra klimatmål",
+    "omdomen_etikett": "Beställarna",
+    "omdomen_rubrik": "Vad beställarna säger",
+    "faq_rubrik": "Vanliga frågor",
+    "boka_rubrik": "Kontakta affärsutvecklingen",
+    "boka_falt": [
+      "Namn",
+      "Företag",
+      "Telefon",
+      "Projekt och skede"
+    ],
+    "ny_rubrik": "Nyheter från Ulvsunda",
+    "bolag_rubrik": "Fyra affärsområden",
+    "medarbetare": "Ulvsundafolket",
+    "logos_rubrik": "Beställare i Stockholm",
+    "meny_bolag": "Affärsområden"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Grimstorp Hus AB",
+  "kortnamn": "Grimstorp",
+  "slug": "grimstorp",
+  "typ": "Husfabriker med säte i Nässjö",
+  "tagline": "Husbyggare i Småland",
+  "slogan": "Grimstorp tillverkar villor, fritidshus, förskolor och flerbostadshus i trä i nio fabriker – och monterar dem på plats med egna lag.",
+  "hero_rubrik": "Ett hus i veckan blev fyrtio om dagen",
+  "hero_text": "Nio husfabriker, 3 600 medarbetare och 9 400 levererade hus och lägenheter 2025. Familjeägt i tredje generationen.",
+  "intro_rubrik": "Nordens största tillverkare av trähus",
+  "om": [
+    "Snickaren Gösta Grimstorp började tillverka monteringsfärdiga egnahem i en lada utanför Nässjö 1946. Husen skickades på järnväg i delar och restes av köparen själv på en helg med hjälp av grannar.",
+    "Familjen äger fortfarande hela koncernen genom Grimstorp Invest. I dag bygger vi villor, fritidshus, förskolor och flerbostadshus i nio fabriker i Sverige, Norge och Finland – fortfarande med virke från småländska sågverk."
+  ],
+  "vagval_rubrik": "Vilket hus ska byggas?",
+  "tjanster": [
+    {"titel": "Villor", "ikon": "hem", "href": "verksamhet.html", "text": "112 husmodeller under tre varumärken, från 90 till 260 kvadratmeter."},
+    {"titel": "Fritidshus", "ikon": "trad", "href": "verksamhet.html", "text": "Stugor och fritidshus som monteras på två dagar."},
+    {"titel": "Förskolor och LSS", "ikon": "skola", "href": "verksamhet.html", "text": "Modulära förskolor och gruppbostäder för kommuner."},
+    {"titel": "Flerbostadshus", "ikon": "hus", "href": "verksamhet.html", "text": "Hyres- och bostadsrätter i volymelement upp till sex våningar."},
+    {"titel": "Byggrätter och tomter", "ikon": "karta", "href": "verksamhet.html", "text": "Färdiga villatomter i 140 kommuner."},
+    {"titel": "Husvisning", "ikon": "nyckel", "href": "verksamhet.html", "text": "Visningshus i 38 husparker runt om i landet."},
+    {"titel": "Jobba i fabriken", "ikon": "hjalm", "href": "karriar.html", "text": "Snickare, montörer och produktionstekniker."},
+    {"titel": "Ägande och rapporter", "ikon": "graf", "href": "investerare.html", "text": "Årsredovisning, hållbarhetsrapport och obligationer."}
+  ],
+  "affarsomraden": [
+    {"titel": "Villor", "text": "Kataloghus och arkitektritade villor under varumärkena Grimstorp, Solbacka och Kvarnhus. Väggar och tak tillverkas inomhus och monteras på en vecka.", "text2": "5 200 villor levererades 2025 i Sverige, Norge och Finland.", "tagg": "hem"},
+    {"titel": "Fritidshus", "text": "Stugor och fritidshus för privatpersoner och hotell. Många levereras som färdiga moduler med kök och badrum på plats.", "text2": "1 400 fritidshus, varav en tredjedel till fjällen.", "tagg": "tra"},
+    {"titel": "Samhällsbyggnader", "text": "Förskolor, gruppbostäder och skolpaviljonger för kommuner. Standardiserade moduler gör att en förskola står klar åtta månader efter beställning.", "text2": "Ramavtal med 94 kommuner för förskolor och gruppbostäder.", "tagg": "bygg"},
+    {"titel": "Flerbostadshus", "text": "Volymelement i massivträ och regelstomme för hyres- och bostadsrätter. Varje lägenhet tillverkas färdig med golv, kök och badrum.", "text2": "2 800 lägenheter levererades 2025.", "tagg": "bostad"}
+  ],
+  "bolag": [
+    {"namn": "Grimstorp Villor AB", "segment": "Villor", "rubrik": "Tre varumärken, 112 modeller", "text": "Villor under Grimstorp, Solbacka och Kvarnhus, tillverkade i Nässjö, Vetlanda och Ånge.", "tagg": "hem"},
+    {"namn": "Grimstorp Modul AB", "segment": "Förskolor och flerbostadshus", "rubrik": "Färdiga rum på lastbil", "text": "Volymelement för bostäder och förskolor från fabrikerna i Eksjö och Hultsfred.", "tagg": "bygg"},
+    {"namn": "Grimstorp Hytte AS", "segment": "Fritidshus Norge", "rubrik": "Hytter till fjällen", "text": "Fritidshus och fjällstugor för den norska marknaden, tillverkade i Gjøvik.", "tagg": "tra"},
+    {"namn": "Grimstorp Talot Oy", "segment": "Villor Finland", "rubrik": "Egnahem i Österbotten", "text": "Villor och radhus från fabriken i Seinäjoki.", "tagg": "hem"}
+  ],
+  "lokala_bolag": ["Grimstorp Nässjö", "Grimstorp Vetlanda", "Grimstorp Ånge", "Grimstorp Eksjö", "Grimstorp Hultsfred", "Solbackahus AB", "Kvarnhus AB", "Grimstorp Hytte AS", "Grimstorp Talot Oy", "Grimstorp Mark AB", "Höglandets Takstol AB", "Smålands Fönsterfabrik AB"],
+  "berattelser": [
+    {"rubrik": "Förskolan stod klar på åtta månader", "text": "Förskolan Trollskogen i Tranås beställdes i januari och tog emot 120 barn i september.", "tagg": "bygg"},
+    {"rubrik": "Ny linje för massivträ i Eksjö", "text": "Fabriken tillverkar nu väggar och bjälklag i KL-trä till flerbostadshus upp till åtta våningar.", "tagg": "industri"},
+    {"rubrik": "Tredje generationen tar över", "text": "Karin Grimstorp efterträder sin far som vd efter tolv år i fabrikerna och fem som produktionschef.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "9 400", "enhet": "", "etikett": "Levererade bostäder 2025", "trend": [7200, 8100, 9300, 7600, 7900, 8600, 9400], "trend_text": "Villor, fritidshus och lägenheter per år"},
+    {"varde": "9", "enhet": "", "etikett": "Husfabriker"},
+    {"varde": "14,8", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [10.2, 11.6, 13.9, 12.4, 12.8, 13.6, 14.8], "trend_text": "Nettoomsättning, mdr kr"},
+    {"varde": "3 600", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "Förskolan Trollskogen", "ort": "Tranås", "typ": "Förskola", "ar": "2026", "text": "Sex avdelningar i moduler, monterade på elva dagar.", "tagg": "bygg"},
+    {"namn": "Kvarteret Spånten", "ort": "Växjö", "typ": "Hyresrätter", "ar": "2025", "text": "148 lägenheter i volymelement av massivträ, sex våningar.", "tagg": "bostad"},
+    {"namn": "Fjällbyn Ramundberget", "ort": "Härjedalen", "typ": "Fritidshus", "ar": "2025", "text": "42 fjällstugor levererade som färdiga moduler med bastu.", "tagg": "tra"},
+    {"namn": "Villaområdet Ekhagen", "ort": "Jönköping", "typ": "Villor", "ar": "2026", "text": "64 villor från Solbacka med solceller och bergvärme.", "tagg": "hem"},
+    {"namn": "Gruppbostad Lövåsen", "ort": "Uddevalla", "typ": "LSS-boende", "ar": "2024", "text": "Sex lägenheter och personalutrymme för kommunen.", "tagg": "bostad"},
+    {"namn": "Massivträlinjen", "ort": "Eksjö", "typ": "Egen industri", "ar": "2026", "text": "Ny produktionslinje för KL-trä med kapacitet för 2 000 lägenheter per år.", "tagg": "industri"}
+  ],
+  "process": [
+    {"titel": "Välj och anpassa", "text": "Kunden väljer modell i husparken och anpassar planlösning, fasad och kök med en husrådgivare.", "tagg": "hem"},
+    {"titel": "Tillverkning inomhus", "text": "Väggar, tak och moduler byggs i fabrik, i torr miljö och med fuktmätning av varje vägg.", "tagg": "industri"},
+    {"titel": "Montage på en vecka", "text": "Egna montagelag reser huset tätt på två till fem dagar.", "tagg": "tra"},
+    {"titel": "Inflyttning", "text": "Färdigställande, besiktning och tio års garanti på konstruktionen.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Virket växer inom tio mil",
+    "text": "Nästan allt virke köps från sågverk på Höglandet och i Kronoberg. Trästommen lagrar kol under husets livslängd, och fabriksproduktionen ger mindre spill än byggen på plats. Spillet blir pellets som värmer fabrikerna.",
+    "mal": [["100 %", "PEFC- eller FSC-certifierat virke"], ["–30 %", "klimatpåverkan per hus 2030 mot 2020"], ["2 %", "max materialspill i fabrikerna"]]
+  },
+  "karriar": {
+    "rubrik": "Bygg hus inomhus",
+    "text": "I fabriken bygger du hus i värme, på dagtid och utan stege i blåst. Vi lär upp snickare och montörer på plats och har lärlingsprogram tillsammans med gymnasierna på Höglandet.",
+    "jobb": [["Snickare husfabrik", "Nässjö"], ["Montagelagbas", "Göteborg"], ["Produktionstekniker", "Eksjö"], ["Husrådgivare", "Stockholm"]]
+  },
+  "kultur": "Många i fabrikerna är andra eller tredje generationen hos Grimstorp – och varje ny medarbetare får bygga en vägg i sitt första hus.",
+  "citat": {"text": "Farfar sa att ett hus ska kunna resas på en helg av den som ska bo i det. Vi tar hjälp av egna montörer nu, men tanken är densamma: det svåra ska göras i fabriken.", "namn": "Karin Grimstorp", "roll": "Vd, tredje generationen", "tagg": "people"},
+  "omdomen": [
+    {"text": "Huset var tätt efter tre dagar och vi flyttade in efter elva veckor. Montagelaget städade tomten varje kväll.", "namn": "Sofie och Daniel B.", "ort": "Jönköping"},
+    {"text": "Vi beställde förskolan i januari och barnen började i september. Ingen platsbyggd förskola hade klarat det.", "namn": "Per-Anders T.", "ort": "Tranås"},
+    {"text": "Stugorna kom färdiga med kök, bastu och badrum. Vi kopplade in vatten och el och kunde hyra ut till sportlovet.", "namn": "Ingrid M.", "ort": "Härjedalen"}
+  ],
+  "faq": [
+    ["Vem äger Grimstorp?", "Familjen Grimstorp äger hela koncernen genom Grimstorp Invest AB. Bolaget har obligationer noterade på Nasdaq Stockholm men inga aktier."],
+    ["Hur lång tid tar det att få ett hus?", "Från beställning till inflyttning tar det normalt sex till nio månader, varav montaget en vecka."],
+    ["Kan jag rita om husmodellen?", "Ja, de flesta modeller kan anpassas i planlösning och fasad. Helt arkitektritade hus erbjuds under Kvarnhus."],
+    ["Vilken garanti har husen?", "Tio års garanti på konstruktion och tak, två år på övrigt."],
+    ["Säljer ni tomter?", "Ja, Grimstorp Mark har färdiga villatomter i 140 kommuner."],
+    ["Bygger ni åt kommuner?", "Ja, förskolor, gruppbostäder och skolpaviljonger genom ramavtal eller egen upphandling."]
+  ],
+  "nyheter": [
+    ["2026-10-06", "Karin Grimstorp ny vd", "Tredje generationen tar över efter Bo Grimstorp som blir styrelseordförande.", "people"],
+    ["2026-08-19", "Massivträlinjen i Eksjö i drift", "Investeringen på 680 miljoner kronor fördubblar kapaciteten för flerbostadshus.", "industri"],
+    ["2026-04-14", "Årsredovisning 2025", "Rekordmånga levererade bostäder och god lönsamhet i alla segment.", "kontor"]
+  ],
+  "investerare": {
+    "aktie": "Familjeägt sedan 1946",
+    "lista": "Onoterat – gröna obligationer på Nasdaq Stockholm",
+    "kurs": "",
+    "forandring": "",
+    "rapporter": [["Årsredovisning 2025", "2026-04-14"], ["Hållbarhetsrapport 2025", "2026-04-14"], ["Ramverk för gröna obligationer", "2025-09-01"]],
+    "kalender": [["Delårsrapport för obligationsinnehavare, helår 2026", "2027-02-26"]]
+  },
+  "kontor_text": "Fabrikerna ligger nära skogen. Husparkerna ligger där kunderna bor.",
+  "kontor_lista": [
+    ["Nässjö – huvudkontor", "Fabriksgatan 3. Koncernledning och villafabriken, 820 medarbetare."],
+    ["Vetlanda", "Villafabrik och takstolstillverkning."],
+    ["Eksjö", "Grimstorp Modul och massivträlinjen."],
+    ["Hultsfred", "Moduler för förskolor och LSS."],
+    ["Ånge", "Villafabrik för Norrland."],
+    ["Gjøvik", "Grimstorp Hytte AS."],
+    ["Seinäjoki", "Grimstorp Talot Oy."]
+  ],
+  "tidslinje_rubrik": "Från en lada på Höglandet",
+  "tidslinje": [
+    ["1946", "Gösta Grimstorp tillverkar monteringsfärdiga egnahem i Nässjö."],
+    ["1968", "Första fabriken med löpande band för väggelement."],
+    ["1979", "Solbackahus förvärvas."],
+    ["1998", "Fabriken i Gjøvik köps och Grimstorp Hytte startar."],
+    ["2012", "Första förskolan i moduler."],
+    ["2026", "Massivträlinjen i Eksjö invigs och tredje generationen tar över."]
+  ],
+  "vagg_text": "Varumärkena har egna kataloger och husrådgivare, men väggarna kommer från samma fabriker.",
+  "kontakt": {"adress": "Fabriksgatan 3", "postnr": "571 38", "ort": "Nässjö", "telefon": "070-174 06 29", "epost": "info@grimstorphus.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, husparker även helger",
+  "omrade": "Sverige, Norge och Finland",
+  "fot_cta": "Drömmer ni om ett nytt hus? Boka tid med en husrådgivare i närmaste huspark.",
+  "bild": {"panel": "tra", "hb": "tra"},
+  "text": {
+    "ber_rubrik": "Senast från fabrikerna",
+    "proj_rubrik": "Hus vi har levererat",
+    "process_rubrik": "Från huspark till inflyttning",
+    "process_etikett": "Fabriksbyggt",
+    "hb_etikett": "Trä från Småland",
+    "omdomen_rubrik": "Husköpare och kommuner om oss",
+    "faq_rubrik": "Frågor om att bygga hus",
+    "bolag_rubrik": "Fyra bolag, nio fabriker",
+    "vagg_rubrik": "{n} bolag i familjen",
+    "panel_etikett": "Jobba i husfabriken",
+    "hero_knapp": "Se våra hus",
+    "ny_rubrik": "Nyheter från Grimstorp"
+  }
+}

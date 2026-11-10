@@ -1,0 +1,143 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Tveta Elektrifiering AB (publ)",
+  "kortnamn": "Tveta",
+  "slug": "tveta",
+  "typ": "Laddinfrastruktur för tunga fordon",
+  "tagline": "Ström till tung trafik",
+  "slogan": "Tveta bygger, äger och driver laddstationer för lastbilar, bussar och arbetsmaskiner – från nätanslutning och batterilager till laddkabeln.",
+  "hero_rubrik": "Lastbilen laddar medan föraren äter",
+  "hero_text": "1 900 laddpunkter för tunga fordon längs 14 000 kilometer väg, 140 bussdepåer och 3 800 medarbetare i sex länder.",
+  "intro_rubrik": "Norra Europas största nät för tung laddning",
+  "om": [
+    "Tveta startade 2009 som en elinstallationsfirma i Södertälje som byggde laddning för de första elbussarna i stadstrafiken. När lastbilstillverkarna började elektrifiera fick bolaget uppdrag att bygga laddning vid depåer och logistikcentraler.",
+    "Sedan noteringen 2019 har vi gått från att bygga åt andra till att äga och driva egna laddstationer. I dag står ägda stationer för 54 procent av omsättningen, medan installation och service åt kunder står för resten."
+  ],
+  "vagval_rubrik": "Vad ska laddas?",
+  "tjanster": [
+    {"titel": "Laddning längs vägen", "ikon": "laddning", "href": "verksamhet.html", "text": "Megawattladdning för lastbilar vid 210 stationer längs motorvägarna."},
+    {"titel": "Bussdepåer", "ikon": "bil", "href": "verksamhet.html", "text": "Depåladdning och pantografer för kollektivtrafiken i 140 depåer."},
+    {"titel": "Laddning hos åkerier", "ikon": "lada", "href": "verksamhet.html", "text": "Vi bygger och driver laddning på er tomt, mot en avgift per kilowattimme."},
+    {"titel": "Arbetsmaskiner", "ikon": "kran", "href": "verksamhet.html", "text": "Mobila laddcontainrar för byggarbetsplatser, gruvor och hamnar."},
+    {"titel": "Batterilager", "ikon": "blixt", "href": "verksamhet.html", "text": "Batterier som jämnar ut effekttoppar när nätet inte räcker."},
+    {"titel": "Nätanslutning", "ikon": "lampa", "href": "verksamhet.html", "text": "Egna nätstationer och högspänningsanslutning upp till 130 kV."},
+    {"titel": "Elektriker sökes", "ikon": "hjalm", "href": "karriar.html", "text": "Högspänningsmontörer, elektriker och servicetekniker."},
+    {"titel": "Aktien", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för TVETA."}
+  ],
+  "affarsomraden": [
+    {"titel": "Publika laddstationer", "text": "Laddparker för lastbilar längs motorvägarna, med vila, mat och dusch för förarna. Stationerna har 4–40 laddplatser och upp till 1 megawatt per fordon.", "text2": "210 stationer i drift, varav 46 med megawattladdning.", "tagg": "infra"},
+    {"titel": "Depåladdning", "text": "Laddning för bussbolag, kommuner och åkerier på deras egna depåer. Vi äger utrustningen och kunden betalar per kilowattimme.", "text2": "140 bussdepåer och 380 åkerier har laddning från Tveta.", "tagg": "el"},
+    {"titel": "Installation och service", "text": "Vi bygger laddning åt fordonstillverkare, fastighetsägare och industrier. Egna servicetekniker åtgärdar fel inom fyra timmar.", "text2": "9 400 laddpunkter står under serviceavtal.", "tagg": "solel"},
+    {"titel": "Energi och nät", "text": "Batterilager, egna nätstationer och avtal om flexibilitet med nätbolagen. Batterierna gör att vi kan ansluta laddning där nätet är svagt.", "text2": "Batterilager på 620 megawattimmar vid 88 platser.", "tagg": "industri"}
+  ],
+  "bolag": [
+    {"namn": "Tveta Charge AB", "segment": "Publik laddning", "rubrik": "Längs E4, E6 och E20", "text": "Äger och driver laddparker för tunga fordon i Sverige, Norge, Danmark, Finland, Tyskland och Polen.", "tagg": "infra"},
+    {"namn": "Tveta Depot AB", "segment": "Depåladdning", "rubrik": "Laddning som tjänst", "text": "Bygger och driver laddning på kundernas depåer mot avgift per kilowattimme.", "tagg": "el"},
+    {"namn": "Tveta Installation AB", "segment": "Installation och service", "rubrik": "Elektriker i 46 orter", "text": "Projekterar, installerar och servar laddning och nätstationer åt externa kunder.", "tagg": "solel"},
+    {"namn": "Tveta Grid AB", "segment": "Energi och nät", "rubrik": "Batterier när nätet inte räcker", "text": "Äger batterilager och nätstationer och säljer flexibilitet till nätbolagen.", "tagg": "industri"}
+  ],
+  "lokala_bolag": ["Tveta Charge Sverige", "Tveta Charge Norge AS", "Tveta Charge Danmark ApS", "Tveta Lataus Oy", "Tveta Laden GmbH", "Tveta Ładowanie Sp. z o.o.", "Tveta Depot", "Tveta Installation Syd", "Tveta Installation Mitt", "Tveta Installation Norr", "Tveta Grid", "Södertälje Högspänning AB"],
+  "berattelser": [
+    {"rubrik": "Megawattladdning i Jönköping", "text": "Stationen vid E4 i Torsvik laddar en fullastad 60-tonnare från 10 till 80 procent på 35 minuter.", "tagg": "infra"},
+    {"rubrik": "Alla stadsbussar i Uppsala på el", "text": "Den sista depån med 96 laddplatser togs i drift i september, byggd utan att trafiken stod still en enda dag.", "tagg": "el"},
+    {"rubrik": "Batteri i stället för ny ledning", "text": "Ett batterilager på 12 megawattimmar i Helsingborg gör att stationen kan öppna fyra år innan nätet förstärks.", "tagg": "industri"}
+  ],
+  "nyckeltal": [
+    {"varde": "1 900", "enhet": "", "etikett": "Laddpunkter för tung trafik", "trend": [120, 260, 480, 790, 1120, 1480, 1900], "trend_text": "Egna laddpunkter för tunga fordon"},
+    {"varde": "1,6", "enhet": "TWh", "etikett": "Levererad el 2025", "trend": [0.05, 0.12, 0.24, 0.45, 0.78, 1.1, 1.6], "trend_text": "Levererad el, TWh"},
+    {"varde": "11,9", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [2.1, 3.0, 4.4, 6.2, 8.0, 9.8, 11.9], "trend_text": "Nettoomsättning, mdr kr"},
+    {"varde": "3 800", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "Laddpark Torsvik", "ort": "Jönköping", "typ": "Megawattladdning", "ar": "2025", "text": "24 laddplatser för lastbilar med förarlounge och 8 megawattimmar batteri.", "tagg": "infra"},
+    {"namn": "Bussdepå Boländerna", "ort": "Uppsala", "typ": "Bussdepå", "ar": "2026", "text": "96 laddplatser för stadsbussar med egen nätstation på 20 megawatt.", "tagg": "el"},
+    {"namn": "Rasteplass Gardermoen", "ort": "Ullensaker", "typ": "Laddpark", "ar": "2026", "text": "Nordens största laddpark för tunga fordon med 40 platser.", "tagg": "infra"},
+    {"namn": "Hamnladdning Arendal", "ort": "Göteborg", "typ": "Arbetsmaskiner", "ar": "2025", "text": "Laddning för elektriska terminaltraktorer och straddlecarriers.", "tagg": "industri"},
+    {"namn": "Autohof Rostock-Süd", "ort": "Rostock", "typ": "Laddpark", "ar": "2027", "text": "Laddning för färjetrafiken mot Skandinavien med 30 platser.", "tagg": "infra"},
+    {"namn": "Batterilager Väla", "ort": "Helsingborg", "typ": "Batterilager", "ar": "2024", "text": "12 megawattimmar som kompenserar ett svagt lokalnät.", "tagg": "el"}
+  ],
+  "process": [
+    {"titel": "Effektutredning", "text": "Vi räknar på trafikflöden, laddbehov och vad nätet klarar innan platsen väljs.", "tagg": "kontor"},
+    {"titel": "Nät och mark", "text": "Vi förhandlar nätanslutning, köper eller arrenderar marken och söker bygglov.", "tagg": "mark"},
+    {"titel": "Bygge på tolv veckor", "text": "Förtillverkade laddmoduler och nätstationer gör att markarbete och montage tar runt tolv veckor.", "tagg": "el"},
+    {"titel": "Drift dygnet runt", "text": "Driftcentralen i Södertälje övervakar alla laddare och skickar tekniker inom fyra timmar.", "tagg": "solel"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Varje laddning ersätter diesel",
+    "text": "Elen vi levererade 2025 ersatte omkring 400 miljoner liter diesel. All el är ursprungsmärkt förnybar, och batterilagren laddas när priset och nätbelastningen är som lägst. Vi återvinner laddare och batterier genom avtal med tillverkarna.",
+    "mal": [["5 000", "laddpunkter för tung trafik 2030"], ["100 %", "förnybar el med ursprungsgaranti"], ["98 %", "tillgänglighet på varje laddare"]]
+  },
+  "karriar": {
+    "rubrik": "Elektrifiera lastbilstrafiken",
+    "text": "Vi behöver elektriker, högspänningsmontörer och servicetekniker som vill bygga något nytt. Vi betalar för högspänningsbehörighet och har egen utbildning i laddteknik.",
+    "jobb": [["Högspänningsmontör", "Södertälje"], ["Servicetekniker laddning", "Jönköping"], ["Projektledare laddparker", "Oslo"], ["Nätanalytiker", "Södertälje"]]
+  },
+  "kultur": "Varje servicetekniker har ett eget distrikt med cirka 200 laddare och ansvarar för att de är i drift.",
+  "citat": {"text": "Lastbilarna finns redan. Det som saknas är ström på rätt ställe vid rätt tid, och det är det enda vi gör.", "namn": "Sofia Khalil", "roll": "Vd och koncernchef", "tagg": "el"},
+  "omdomen": [
+    {"text": "Vi har 42 ellastbilar som laddar på vår egen tomt. Tveta äger laddarna, vi betalar per kilowattimme och slipper investeringen.", "namn": "Robert A.", "ort": "Norrköping"},
+    {"text": "Depån byggdes medan vi körde full trafik. Bussarna kom in på kvällen och laddade som vanligt.", "namn": "Maria W.", "ort": "Uppsala"},
+    {"text": "Vi laddar i Torsvik varje dag på väg till Malmö. Lounge, dusch och 35 minuter – det passar vilan.", "namn": "Jan-Ove L.", "ort": "Södertälje"}
+  ],
+  "faq": [
+    ["Hur betalar man för laddningen?", "Med Tveta-kort, app eller betalkort direkt i laddaren. Åkerier med avtal får månadsfaktura."],
+    ["Hur lång tid tar en laddning?", "Med megawattladdning går 10–80 procent på 30–45 minuter, beroende på batteri och fordon."],
+    ["Kan ni bygga laddning hos oss?", "Ja. Vi äger och driver laddningen och ni betalar per kilowattimme, eller köper anläggningen."],
+    ["Vad gör ni om nätet inte räcker?", "Vi installerar batterilager som laddas i lugna perioder och levererar effekt när fordonen laddar."],
+    ["Kan man boka laddplats?", "Ja, på alla stationer med megawattladdning kan platsen bokas i appen upp till sju dagar i förväg."],
+    ["Var är aktien noterad?", "TVETA handlas på Nasdaq Stockholm Mid Cap sedan 2019."]
+  ],
+  "nyheter": [
+    ["2026-10-30", "Delårsrapport januari–september 2026", "Levererad el ökade med 52 procent och omsättningen med 24 procent.", "kontor"],
+    ["2026-09-24", "Alla stadsbussar i Uppsala laddas av Tveta", "Den sista av fyra depåer togs i drift i september.", "el"],
+    ["2026-06-15", "Avtal om 30 laddparker i Tyskland", "Stationerna byggs längs A1 och A7 från Hamburg till Rostock.", "infra"]
+  ],
+  "investerare": {
+    "aktie": "TVETA",
+    "lista": "Nasdaq Stockholm Mid Cap",
+    "kurs": "58,72",
+    "forandring": "+3,4 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-30"], ["Delårsrapport januari–juni 2026", "2026-07-23"], ["Delårsrapport januari–mars 2026", "2026-04-30"], ["Årsredovisning 2025", "2026-03-31"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-12"], ["Kapitalmarknadsdag, Södertälje", "2027-03-10"], ["Årsstämma", "2027-05-11"]]
+  },
+  "kontor_rubrik": "Sex länder, en driftcentral",
+  "kontor_text": "Servicetekniker finns på 46 orter. Alla laddare övervakas från Södertälje.",
+  "kontor_lista": [
+    ["Södertälje – huvudkontor", "Morabergsvägen 12. Koncernledning, driftcentral och Tveta Grid."],
+    ["Jönköping", "Tveta Charge och regionens största laddpark."],
+    ["Göteborg", "Tveta Installation Väst och hamnladdning."],
+    ["Malmö", "Tveta Installation Syd och laddning mot kontinenten."],
+    ["Oslo", "Tveta Charge Norge AS."],
+    ["Helsingfors", "Tveta Lataus Oy."],
+    ["Hamburg", "Tveta Laden GmbH."]
+  ],
+  "tidslinje_rubrik": "Från en busslinje till sex länder",
+  "tidslinje": [
+    ["2009", "Tveta startar som elinstallatör i Södertälje och bygger laddning för de första elbussarna."],
+    ["2014", "Första depån för hel busslinje på el."],
+    ["2019", "Börsnotering på Nasdaq Stockholm."],
+    ["2021", "Första publika laddstationen för lastbilar vid E4."],
+    ["2023", "Megawattladdning tas i drift i Jönköping och Göteborg."],
+    ["2026", "Avtal om 30 laddparker i Tyskland."]
+  ],
+  "kontakt": {"adress": "Morabergsvägen 12", "postnr": "152 42", "ort": "Södertälje", "telefon": "070-174 06 25", "epost": "info@tveta.se", "orgnr": ""},
+  "oppettider": "Kundtjänst och driftcentral dygnet runt",
+  "omrade": "Sverige, Norge, Danmark, Finland, Tyskland och Polen",
+  "fot_cta": "Ska er fordonsflotta gå på el? Vi räknar på laddbehovet gratis.",
+  "bild": {"panel": "el", "hb": "infra"},
+  "text": {
+    "ber_rubrik": "Senast i laddnätet",
+    "proj_rubrik": "Laddparker och depåer",
+    "process_rubrik": "Från effektutredning till drift",
+    "process_etikett": "Tolv veckor",
+    "hb_etikett": "Bort från diesel",
+    "omdomen_rubrik": "Åkerier och bussbolag om Tveta",
+    "faq_rubrik": "Frågor om laddning",
+    "bolag_rubrik": "Fyra bolag, ett laddnät",
+    "vagg_rubrik": "{n} bolag i laddnätet",
+    "panel_etikett": "Jobba med högspänning",
+    "hero_lank": "Hitta en station",
+    "ny_rubrik": "Pressmeddelanden"
+  }
+}

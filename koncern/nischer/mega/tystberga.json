@@ -1,0 +1,143 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Tystberga Miljö AB (publ)",
+  "kortnamn": "Tystberga",
+  "slug": "tystberga",
+  "typ": "Rivning och sanering, Nyköping",
+  "tagline": "Rivning, sanering, återbruk",
+  "slogan": "Tystberga river byggnader och industrier, sanerar förorenad mark och tar tillvara det som går att använda igen – i Sverige, Norge och Danmark.",
+  "hero_rubrik": "Det som rivs i dag blir nästa hus",
+  "hero_text": "3 300 medarbetare, 620 rivningsmaskiner och 2,8 miljoner ton omhändertaget material 2025. 91 procent gick till återbruk eller återvinning.",
+  "intro_rubrik": "Nordens största rivnings- och saneringsföretag",
+  "om": [
+    "Tystberga Schakt började 1966 med en grävmaskin och en lastbil som rev ladugårdar i Södermanland. På 1980-talet kom de första stora saneringsuppdragen efter asbestförbudet, och sedan dess har miljö varit kärnan i verksamheten.",
+    "Aktien är noterad sedan 2012. I dag river vi allt från bostadsrättsbadrum till kärnkraftsnära industrier, sanerar gamla gasverk och bensinstationer och säljer återbrukade byggdelar från egna lager."
+  ],
+  "vagval_rubrik": "Vad ska rivas eller saneras?",
+  "tjanster": [
+    {"titel": "Rivning", "ikon": "hamare", "href": "verksamhet.html", "text": "Total- och selektiv rivning av hus, broar och industrier."},
+    {"titel": "Asbest och PCB", "ikon": "skold", "href": "verksamhet.html", "text": "Sanering av farliga ämnen med certifierad personal."},
+    {"titel": "Förorenad mark", "ikon": "sten", "href": "verksamhet.html", "text": "Utredning, schakt och behandling av förorenade massor."},
+    {"titel": "Håltagning och betong", "ikon": "verktyg", "href": "verksamhet.html", "text": "Sågning, borrning och vattenbilning i betong."},
+    {"titel": "Återbruk", "ikon": "lada", "href": "verksamhet.html", "text": "Inventering, demontering och försäljning av begagnade byggdelar."},
+    {"titel": "Brand- och vattenskador", "ikon": "eld", "href": "verksamhet.html", "text": "Sanering efter brand, vattenläckor och mögel, jour dygnet runt."},
+    {"titel": "Lediga jobb", "ikon": "hjalm", "href": "karriar.html", "text": "Rivare, saneringstekniker och maskinförare."},
+    {"titel": "Aktien", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för TYST."}
+  ],
+  "affarsomraden": [
+    {"titel": "Rivning", "text": "Vi river bostäder, kontor, broar och industrier med fjärrstyrda maskiner. Allt material sorteras på plats i upp till 22 fraktioner.", "text2": "1 840 rivningsprojekt genomfördes 2025.", "tagg": "rivning"},
+    {"titel": "Sanering", "text": "Asbest, PCB, bly och mögel tas bort innan rivning eller ombyggnad. Saneringsteknikerna är certifierade och arbetar i undertryck.", "text2": "Sanering står för 34 procent av omsättningen.", "tagg": "stadning"},
+    {"titel": "Mark och vatten", "text": "Förorenad mark från gasverk, sågverk och bensinstationer schaktas, behandlas eller stabiliseras. Egna jordbehandlingsanläggningar renar massorna.", "text2": "Sju behandlingsanläggningar tog emot 1,1 miljoner ton massor.", "tagg": "mark"},
+    {"titel": "Återbruk", "text": "Dörrar, fönster, balkar, tegel och inredning demonteras, provas och säljs från tre egna återbrukslager. Inventeringen görs innan rivningen startar.", "text2": "41 000 byggdelar såldes vidare 2025.", "tagg": "bygg"}
+  ],
+  "bolag": [
+    {"namn": "Tystberga Rivning AB", "segment": "Rivning", "rubrik": "620 maskiner, 22 fraktioner", "text": "River byggnader, broar och industrier med fjärrstyrda maskiner från 38 orter.", "tagg": "rivning"},
+    {"namn": "Tystberga Sanering AB", "segment": "Sanering", "rubrik": "Asbest, PCB och skador", "text": "Sanering av farliga ämnen samt brand- och vattenskador med jour.", "tagg": "stadning"},
+    {"namn": "Tystberga Mark & Miljö AB", "segment": "Förorenad mark", "rubrik": "Sju behandlingsanläggningar", "text": "Utreder, schaktar och behandlar förorenad mark och sediment.", "tagg": "mark"},
+    {"namn": "Tystberga Återbruk AB", "segment": "Återbruk", "rubrik": "Begagnat byggmaterial i stor skala", "text": "Säljer återbrukade byggdelar från lager i Nyköping, Göteborg och Malmö.", "tagg": "bygg"}
+  ],
+  "lokala_bolag": ["Tystberga Rivning Mitt", "Tystberga Rivning Väst", "Tystberga Rivning Syd", "Tystberga Rivning Norr", "Tystberga Sanering", "Tystberga Mark & Miljö", "Tystberga Återbruk", "Tystberga Riving AS", "Tystberga Nedrivning A/S", "Sörmlands Håltagning AB", "Nyköpings Asbestsanering AB"],
+  "berattelser": [
+    {"rubrik": "Gasverkstomten i Norrköping sanerad", "text": "180 000 ton förorenad jord schaktades och behandlades på tre år – nu kan 900 bostäder byggas.", "tagg": "mark"},
+    {"rubrik": "Ett kontorshus blev 14 000 byggdelar", "text": "Innan rivningen av ett kontor i Solna demonterades dörrar, glaspartier och undertak som säljs vidare.", "tagg": "bygg"},
+    {"rubrik": "Fjärrstyrd rivning av gammal silo", "text": "Den 52 meter höga silon i Oxelösund revs med fjärrstyrda maskiner utan att någon rivare var inne i riskzonen.", "tagg": "rivning"}
+  ],
+  "nyckeltal": [
+    {"varde": "91", "enhet": "%", "etikett": "Material till återbruk/återvinning", "trend": [78, 81, 84, 86, 88, 90, 91], "trend_text": "Andel av rivningsmaterial som återvinns"},
+    {"varde": "2,8", "enhet": "milj. ton", "etikett": "Omhändertaget material"},
+    {"varde": "13,2", "enhet": "mdr kr", "etikett": "Omsättning 2025", "trend": [7.9, 8.6, 9.4, 10.5, 11.3, 12.1, 13.2], "trend_text": "Nettoomsättning, mdr kr"},
+    {"varde": "3 300", "enhet": "", "etikett": "Medarbetare", "trend": [2300, 2450, 2600, 2800, 3000, 3150, 3300], "trend_text": "Anställda vid årets slut"}
+  ],
+  "projekt": [
+    {"namn": "Gasverkstomten", "ort": "Norrköping", "typ": "Marksanering", "ar": "2025", "text": "180 000 ton förorenad jord behandlad för 900 nya bostäder.", "tagg": "mark"},
+    {"namn": "Silon vid hamnen", "ort": "Oxelösund", "typ": "Industririvning", "ar": "2026", "text": "52 meter hög betongsilo riven med fjärrstyrda maskiner.", "tagg": "rivning"},
+    {"namn": "Kontorshuset Signalen", "ort": "Solna", "typ": "Selektiv rivning", "ar": "2024", "text": "14 000 byggdelar demonterade för återbruk före rivning.", "tagg": "bygg"},
+    {"namn": "Miljonprogram Ronna", "ort": "Södertälje", "typ": "Asbestsanering", "ar": "2026", "text": "Asbest och PCB sanerades i 860 lägenheter före stambyte.", "tagg": "stadning"},
+    {"namn": "Gammel sagbruk", "ort": "Drammen", "typ": "Sedimentsanering", "ar": "2027", "text": "Muddring och behandling av förorenade sediment vid ett gammalt sågverk.", "tagg": "natur"},
+    {"namn": "Bro över Motala ström", "ort": "Norrköping", "typ": "Brorivning", "ar": "2025", "text": "Betongbro från 1958 riven på tre nätter med trafiken omledd.", "tagg": "infra"}
+  ],
+  "process": [
+    {"titel": "Miljöinventering", "text": "Vi inventerar farliga ämnen och återbrukbara byggdelar innan någon offert lämnas.", "tagg": "kontor"},
+    {"titel": "Sanering först", "text": "Asbest, PCB och andra farliga ämnen tas bort av certifierade tekniker i undertryck.", "tagg": "stadning"},
+    {"titel": "Demontering och rivning", "text": "Återbrukbart demonteras för hand, resten rivs med fjärrstyrda maskiner och sorteras på plats.", "tagg": "rivning"},
+    {"titel": "Spårbart till sista ton", "text": "Varje lass vägs och dokumenteras, och beställaren får en rapport över vart allt material tog vägen.", "tagg": "mark"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vi mäter oss på vad som inte blir avfall",
+    "text": "Rivning står för en stor del av Sveriges avfall. Vi sorterar på plats, krossar betong till ballast och säljer byggdelar vidare från egna lager. Förorenad jord behandlas och återanvänds i stället för att deponeras.",
+    "mal": [["95 %", "återbruk och återvinning av rivningsmaterial 2030"], ["100 000", "sålda återbrukade byggdelar per år 2030"], ["0", "exponeringstillbud för asbest"]]
+  },
+  "karriar": {
+    "rubrik": "Riv säkert, rädda det som går",
+    "text": "Vi utbildar rivare och saneringstekniker i egen skola i Nyköping, med asbestbehörighet och maskinkort. Nattarbete och jour ger tillägg.",
+    "jobb": [["Rivare", "Göteborg"], ["Saneringstekniker asbest", "Stockholm"], ["Maskinförare rivningsmaskin", "Nyköping"], ["Miljöinventerare", "Malmö"]]
+  },
+  "kultur": "Ingen rivare går in i en byggnad som inte är miljöinventerad – och vem som helst får stoppa ett jobb.",
+  "citat": {"text": "Det mest hållbara huset är det som redan står. När ett hus ändå måste rivas är det vårt jobb att se till att så lite som möjligt blir sopor.", "namn": "Roger Tidblad", "roll": "Vd och koncernchef", "tagg": "rivning"},
+  "omdomen": [
+    {"text": "Tystberga inventerade hela kontoret och sålde vidare 14 000 byggdelar. Vår rivningskostnad sjönk och klimatrapporten blev bättre.", "namn": "Jenny N.", "ort": "Solna"},
+    {"text": "Asbestsaneringen i 860 lägenheter gick på schema och hyresgästerna kunde bo kvar.", "namn": "Kjell A.", "ort": "Södertälje"},
+    {"text": "Gasverkstomten var ett problem i hundra år. Tystberga löste det på tre.", "namn": "Lena B.", "ort": "Norrköping"}
+  ],
+  "faq": [
+    ["Tar ni små rivningsjobb?", "Ja, från ett badrum till en hel industri. Mindre jobb hanteras av lokala kontor."],
+    ["Hur vet jag om det finns asbest?", "Vi gör en miljöinventering och tar prover som analyseras av ackrediterat labb."],
+    ["Kan vi köpa återbrukade byggdelar?", "Ja, från våra lager i Nyköping, Göteborg och Malmö eller i webbutiken."],
+    ["Vad händer med förorenad jord?", "Den behandlas i våra anläggningar och återanvänds som fyllnad där det är tillåtet. Resten deponeras."],
+    ["Har ni jour för brand- och vattenskador?", "Ja, dygnet runt i hela Sverige."],
+    ["Var är aktien noterad?", "TYST handlas på Nasdaq Stockholm Mid Cap sedan 2012."]
+  ],
+  "nyheter": [
+    ["2026-10-29", "Delårsrapport januari–september 2026", "Omsättningen ökade med 11 procent och återbruket med 40 procent.", "kontor"],
+    ["2026-08-20", "Nytt återbrukslager i Malmö", "Lagret på 8 000 kvadratmeter säljer begagnade byggdelar till byggföretag och privatpersoner.", "bygg"],
+    ["2026-04-16", "Tystberga sanerar gammalt sågverk i Drammen", "Uppdraget omfattar 240 000 ton sediment.", "natur"]
+  ],
+  "investerare": {
+    "aktie": "TYST",
+    "lista": "Nasdaq Stockholm Mid Cap",
+    "kurs": "84,95",
+    "forandring": "+1,1 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-29"], ["Delårsrapport januari–juni 2026", "2026-07-17"], ["Delårsrapport januari–mars 2026", "2026-04-29"], ["Årsredovisning 2025", "2026-03-30"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-11"], ["Årsstämma, Nyköping", "2027-05-05"]]
+  },
+  "kontor_text": "38 kontor i tre länder. Rivningsskolan och huvudkontoret ligger i Nyköping.",
+  "kontor_lista": [
+    ["Nyköping – huvudkontor", "Brandkärrsvägen 9. Koncernledning, rivningsskola och återbrukslager."],
+    ["Stockholm", "Tystberga Sanering och rivning i Storstockholm, 720 medarbetare."],
+    ["Göteborg", "Tystberga Rivning Väst och återbrukslager."],
+    ["Malmö", "Tystberga Rivning Syd och nytt återbrukslager."],
+    ["Norrköping", "Mark & Miljö med behandlingsanläggning."],
+    ["Drammen", "Tystberga Riving AS."],
+    ["Århus", "Tystberga Nedrivning A/S."]
+  ],
+  "tidslinje_rubrik": "Från ladugårdar till gasverk",
+  "tidslinje": [
+    ["1966", "Tystberga Schakt börjar riva ladugårdar i Södermanland."],
+    ["1984", "Första asbestsaneringen efter förbudet."],
+    ["1999", "Första jordbehandlingsanläggningen öppnar i Norrköping."],
+    ["2012", "Börsnotering på Nasdaq Stockholm."],
+    ["2019", "Tystberga Återbruk startar."],
+    ["2024", "Etablering i Danmark."]
+  ],
+  "vagg_text": "Lokala rivningsbolag med egna maskiner, men samma miljöinventering och samma rapport till varje beställare.",
+  "kontakt": {"adress": "Brandkärrsvägen 9", "postnr": "611 38", "ort": "Nyköping", "telefon": "070-174 06 34", "epost": "info@tystberga.se", "orgnr": ""},
+  "oppettider": "Mån–fre 7–16, skadejour dygnet runt",
+  "omrade": "Sverige, Norge och Danmark",
+  "fot_cta": "Ska något rivas eller saneras? Börja med en miljöinventering.",
+  "bild": {"panel": "rivning", "hb": "mark"},
+  "text": {
+    "ber_rubrik": "Senast från rivningarna",
+    "proj_rubrik": "Rivningar och saneringar",
+    "proj_rubrik_lista": "Genomförda och pågående uppdrag",
+    "process_rubrik": "Från inventering till rapport",
+    "process_etikett": "Spårbar rivning",
+    "hb_etikett": "Återbruk",
+    "omdomen_rubrik": "Beställarna om Tystberga",
+    "faq_rubrik": "Frågor om rivning och sanering",
+    "bolag_rubrik": "Fyra bolag i rivningskedjan",
+    "vagg_rubrik": "{n} bolag i tre länder",
+    "panel_etikett": "Rivningsskolan",
+    "ny_rubrik": "Pressmeddelanden"
+  }
+}

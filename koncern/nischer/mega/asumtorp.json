@@ -1,0 +1,144 @@
+{
+  "profil": "mega",
+  "demo": "Exempelsajt från Elevate Studio – företaget är påhittat.",
+  "namn": "Åsumtorp Fastigheter AB (publ)",
+  "kortnamn": "Åsumtorp",
+  "slug": "asumtorp",
+  "typ": "Handelsfastigheter med säte i Kristianstad",
+  "tagline": "Där vardagen handlar",
+  "slogan": "Åsumtorp äger och driver handelsplatser, stadsdelscentrum och dagligvarufastigheter i 120 svenska och finska orter – med egen centrumledning på varje plats.",
+  "hero_rubrik": "Mataffären, apoteket och torget runt hörnet",
+  "hero_text": "412 handelsfastigheter, 6 200 butiker och 2 400 medarbetare. Vi äger platserna där människor handlar varje vecka.",
+  "intro_rubrik": "Nordens största ägare av vardagshandel",
+  "om": [
+    "Åsumtorp grundades 1979 när en grupp handlare i Kristianstad köpte en nedlagd tegelfabrik och byggde en av Sveriges första externa handelsplatser. Sedan dess har vi köpt och byggt handelsfastigheter med dagligvaruhandel som ankare.",
+    "Aktien är noterad sedan 2010. Nästan 70 procent av hyrorna kommer från mataffärer, apotek, systembolag och vårdcentraler – verksamheter som fungerar även när näthandeln växer."
+  ],
+  "vagval_rubrik": "Vad letar ni efter?",
+  "tjanster": [
+    {"titel": "Butikslokaler", "ikon": "lada", "href": "verksamhet.html", "text": "Lokaler från 40 till 12 000 kvadratmeter i 120 orter."},
+    {"titel": "Dagligvaror", "ikon": "hus", "href": "verksamhet.html", "text": "Fastigheter för livsmedelsbutiker med lastzon och parkering."},
+    {"titel": "Stadsdelscentrum", "ikon": "folk", "href": "verksamhet.html", "text": "Torg, butiker, vård och service i bostadsområden."},
+    {"titel": "Handelsplatser", "ikon": "karta", "href": "verksamhet.html", "text": "Externa handelsplatser vid infarter och motorvägar."},
+    {"titel": "Vård och service", "ikon": "vard", "href": "verksamhet.html", "text": "Vårdcentraler, tandvård och apotek i våra centrum."},
+    {"titel": "Laddning och parkering", "ikon": "laddning", "href": "verksamhet.html", "text": "Parkering och snabbladdning för kunderna på 280 platser."},
+    {"titel": "Lediga jobb", "ikon": "hjalm", "href": "karriar.html", "text": "Centrumledare, fastighetstekniker och väktare."},
+    {"titel": "Aktien", "ikon": "graf", "href": "investerare.html", "text": "Kurs, rapporter och kalender för ASUM."}
+  ],
+  "affarsomraden": [
+    {"titel": "Dagligvarufastigheter", "text": "Fristående fastigheter för livsmedelsbutiker med långa avtal. Hyresgästerna är de tre största matkedjorna och flera lokala handlare.", "text2": "186 fastigheter med en snittlöptid på 11,4 år.", "tagg": "stad"},
+    {"titel": "Stadsdelscentrum", "text": "Centrum i bostadsområden med mataffär, apotek, vårdcentral och bibliotek. Vi arbetar med kommunerna för att centrumen ska vara trygga och levande.", "text2": "142 centrum, varav 38 i områden som polisen klassar som utsatta.", "tagg": "people"},
+    {"titel": "Handelsplatser", "text": "Externa handelsplatser med bygghandel, möbler och dagligvaror vid stadens infarter. Vi bygger om dem med bostäder och kontor där detaljplanen tillåter.", "text2": "84 handelsplatser med 2,1 miljoner kvadratmeter.", "tagg": "kontor"},
+    {"titel": "Centrumdrift", "text": "Egen centrumledning, städning, väktare och fastighetsteknik på varje plats. Det gör att vi vet vad som händer i centrumet en vanlig tisdag.", "text2": "1 600 av medarbetarna arbetar ute i centrumen.", "tagg": "stadning"}
+  ],
+  "bolag": [
+    {"namn": "Åsumtorp Dagligvaror AB", "segment": "Dagligvarufastigheter", "rubrik": "186 matbutiker, långa avtal", "text": "Äger fristående butiksfastigheter för livsmedelshandeln i Sverige och Finland.", "tagg": "stad"},
+    {"namn": "Åsumtorp Centrum AB", "segment": "Stadsdelscentrum", "rubrik": "Torget i 142 stadsdelar", "text": "Äger och utvecklar centrum i bostadsområden tillsammans med kommuner och allmännyttan.", "tagg": "people"},
+    {"namn": "Åsumtorp Handelsplatser AB", "segment": "Handelsplatser", "rubrik": "Infarter som blir stadsdelar", "text": "Externa handelsplatser som kompletteras med bostäder, kontor och skolor.", "tagg": "kontor"},
+    {"namn": "Åsumtorp Service AB", "segment": "Centrumdrift", "rubrik": "Egen personal på varje plats", "text": "Centrumledning, städ, säkerhet och fastighetsteknik för koncernens fastigheter.", "tagg": "stadning"}
+  ],
+  "lokala_bolag": ["Åsumtorp Skåne", "Åsumtorp Småland", "Åsumtorp Väst", "Åsumtorp Mälardalen", "Åsumtorp Stockholm", "Åsumtorp Norrland", "Åsumtorp Kauppakeskukset Oy", "Åsumtorp Service", "Åsumtorp Trygghet AB", "Tegelbruket Handel AB", "Helgeåns Fastighetsteknik AB"],
+  "berattelser": [
+    {"rubrik": "Vårdcentral flyttar in i gamla varuhuset", "text": "Ett tomt varuhus i Hässleholm blir vårdcentral, tandvård och bibliotek på 4 800 kvadratmeter.", "tagg": "interior"},
+    {"rubrik": "Bostäder på parkeringen", "text": "Detaljplanen för 320 lägenheter ovanpå handelsplatsens parkering i Kristianstad har vunnit laga kraft.", "tagg": "bostad"},
+    {"rubrik": "Tryggare centrum med egna värdar", "text": "Centrumvärdar i 38 centrum har halverat antalet anmälda brott på tre år.", "tagg": "people"}
+  ],
+  "nyckeltal": [
+    {"varde": "412", "enhet": "", "etikett": "Handelsfastigheter"},
+    {"varde": "68", "enhet": "%", "etikett": "Hyror från nödvändighetshandel", "trend": [58, 60, 63, 65, 66, 67, 68], "trend_text": "Andel hyror från dagligvaror, apotek och vård"},
+    {"varde": "71", "enhet": "mdr kr", "etikett": "Fastighetsvärde", "trend": [44, 49, 58, 66, 64, 68, 71], "trend_text": "Fastighetsvärde, mdr kr"},
+    {"varde": "2 400", "enhet": "", "etikett": "Medarbetare"}
+  ],
+  "projekt": [
+    {"namn": "Gamla varuhuset", "ort": "Hässleholm", "typ": "Ombyggnad till vård", "ar": "2026", "text": "Tomt varuhus blir vårdcentral, tandvård och bibliotek.", "tagg": "interior"},
+    {"namn": "Tegelbruket Bostäder", "ort": "Kristianstad", "typ": "Bostäder på handelsplats", "ar": "2028", "text": "320 lägenheter ovanpå parkeringsdäcket vid handelsplatsen.", "tagg": "bostad"},
+    {"namn": "Rosengårds centrum", "ort": "Malmö", "typ": "Stadsdelscentrum", "ar": "2025", "text": "Nytt torg, belysning och tolv nya butiker efter dialog med de boende.", "tagg": "stad"},
+    {"namn": "Matbutik Ljungby Norra", "ort": "Ljungby", "typ": "Dagligvaror", "ar": "2024", "text": "Ny livsmedelsbutik med solceller och laddplatser, avtal på femton år.", "tagg": "stad"},
+    {"namn": "Kauppakeskus Hervanta", "ort": "Tammerfors", "typ": "Stadsdelscentrum", "ar": "2026", "text": "Ombyggt centrum vid spårvägens hållplats.", "tagg": "kontor"},
+    {"namn": "Handelsplats Arvidstorp", "ort": "Falkenberg", "typ": "Handelsplats", "ar": "2025", "text": "Utbyggnad med 18 000 kvadratmeter och solcellspark på taken.", "tagg": "solel"}
+  ],
+  "process": [
+    {"titel": "Ankare först", "text": "Varje plats börjar med en mataffär på långt avtal. Resten av butikerna följer kundflödet.", "tagg": "stad"},
+    {"titel": "Dialog med de boende", "text": "I stadsdelscentrum frågar vi de boende vad som saknas innan vi hyr ut lediga lokaler.", "tagg": "people"},
+    {"titel": "Egen drift", "text": "Centrumledare, städ och väktare är anställda av oss, inte upphandlade.", "tagg": "stadning"},
+    {"titel": "Förtätning", "text": "Parkeringar och tomma varuhus blir bostäder, vård och skolor där detaljplanen tillåter.", "tagg": "bostad"}
+  ],
+  "hallbarhet": {
+    "rubrik": "Vardagshandel ska nås utan bil",
+    "text": "Två tredjedelar av våra centrum ligger i bostadsområden där de flesta går eller cyklar dit. På handelsplatserna bygger vi solceller på taken och laddplatser på parkeringen, och nya bostäder på parkeringsytor gör att fler bor nära handeln.",
+    "mal": [["100 %", "av taken med solceller där det är möjligt 2028"], ["3 000", "laddplatser för kunder 2028"], ["–50 %", "anmälda brott i utsatta centrum mot 2022"]]
+  },
+  "karriar": {
+    "rubrik": "Var den som gör torget tryggt",
+    "text": "Våra centrumledare och centrumvärdar arbetar varje dag på samma plats och känner både handlarna och de boende. Vi söker också fastighetstekniker och projektledare för om- och tillbyggnader.",
+    "jobb": [["Centrumledare", "Malmö"], ["Centrumvärd", "Göteborg"], ["Fastighetstekniker", "Kristianstad"], ["Projektledare handelsfastigheter", "Stockholm"]]
+  },
+  "kultur": "Centrumledarna har egen budget för evenemang och lokala samarbeten, och känner de flesta handlare vid namn.",
+  "citat": {"text": "Folk köper möbler på nätet, men mjölk, medicin och en tid hos doktorn köper man där man bor. Det är där vi äger.", "namn": "Eva Lindahl", "roll": "Vd och koncernchef", "tagg": "people"},
+  "omdomen": [
+    {"text": "Åsumtorp frågade oss boende vad centrumet saknade. Nu har vi ett bibliotek och en vårdcentral på torget.", "namn": "Fatima A.", "ort": "Malmö"},
+    {"text": "Vårt femtonåriga avtal gav oss trygghet att investera i en helt ny butik med solceller och laddning.", "namn": "Mikael H.", "ort": "Ljungby"},
+    {"text": "Centrumvärden känner alla ungdomar vid namn. Det har gjort större skillnad än kamerorna.", "namn": "Hans O.", "ort": "Göteborg"}
+  ],
+  "faq": [
+    ["Hur hyr jag en butikslokal?", "Kontakta uthyrningen för den region du är intresserad av. Vi har lediga lokaler från 40 kvadratmeter."],
+    ["Varför satsar ni på dagligvaror?", "Matbutiker, apotek och vård påverkas mindre av näthandel och konjunktur, och de drar kunder till resten av platsen."],
+    ["Bygger ni bostäder?", "Ja, på parkeringar och i tomma lokaler där detaljplanen tillåter. Bostäderna säljs eller hyrs ut genom partners."],
+    ["Har ni egna väktare?", "Ja, Åsumtorp Trygghet har 210 väktare och centrumvärdar i våra centrum."],
+    ["Var är aktien noterad?", "ASUM handlas på Nasdaq Stockholm Large Cap sedan 2010."],
+    ["Finns ni i Finland?", "Ja, med 31 stadsdelscentrum och dagligvarufastigheter i Tammerfors, Åbo och Uleåborg."]
+  ],
+  "nyheter": [
+    ["2026-10-23", "Delårsrapport januari–september 2026", "Förvaltningsresultatet ökade med 8 procent och vakansgraden sjönk till 3,1 procent.", "kontor"],
+    ["2026-09-11", "Laga kraft för 320 bostäder i Kristianstad", "Bostäderna byggs ovanpå parkeringen vid handelsplatsen Tegelbruket.", "bostad"],
+    ["2026-06-03", "Åsumtorp köper 22 matbutiker i Finland", "Förvärvet omfattar 2,4 miljarder kronor.", "stad"]
+  ],
+  "investerare": {
+    "aktie": "ASUM",
+    "lista": "Nasdaq Stockholm Large Cap",
+    "kurs": "61,30",
+    "forandring": "+0,5 %",
+    "rapporter": [["Delårsrapport januari–september 2026", "2026-10-23"], ["Delårsrapport januari–juni 2026", "2026-07-17"], ["Delårsrapport januari–mars 2026", "2026-04-24"], ["Årsredovisning 2025", "2026-03-27"]],
+    "kalender": [["Bokslutskommuniké 2026", "2027-02-12"], ["Årsstämma, Kristianstad", "2027-04-23"]]
+  },
+  "kontor_rubrik": "120 orter, sex regioner",
+  "kontor_text": "Varje region har uthyrare och förvaltare. Centrumledarna sitter i centrumen.",
+  "kontor_lista": [
+    ["Kristianstad – huvudkontor", "Tegelbruksvägen 4. Koncernledning och Åsumtorp Skåne."],
+    ["Malmö", "Stadsdelscentrum i Malmö, Lund och Landskrona."],
+    ["Växjö", "Åsumtorp Småland och dagligvarufastigheter."],
+    ["Göteborg", "Åsumtorp Väst med 34 centrum."],
+    ["Stockholm", "Stadsdelscentrum i förorterna."],
+    ["Sundsvall", "Åsumtorp Norrland."],
+    ["Tammerfors", "Åsumtorp Kauppakeskukset Oy."]
+  ],
+  "tidslinje_rubrik": "Från tegelbruk till 412 platser",
+  "tidslinje": [
+    ["1979", "Handlare i Kristianstad bygger en handelsplats i ett nedlagt tegelbruk."],
+    ["1990", "Första stadsdelscentrumet köps i Malmö."],
+    ["2004", "Dagligvarufastigheter blir eget affärsområde."],
+    ["2010", "Börsnotering på Nasdaq Stockholm."],
+    ["2018", "Etablering i Finland."],
+    ["2023", "Åsumtorp Trygghet startar med egna centrumvärdar."]
+  ],
+  "vagg_text": "Regionerna äger fastigheterna, men drift, trygghet och centrumledning är egen personal i hela koncernen.",
+  "kontakt": {"adress": "Tegelbruksvägen 4", "postnr": "291 59", "ort": "Kristianstad", "telefon": "070-174 06 33", "epost": "info@asumtorp.se", "orgnr": ""},
+  "oppettider": "Kontor mån–fre 8–16.30, centrumjour dygnet runt",
+  "omrade": "Sverige och Finland",
+  "fot_cta": "Söker ni butikslokal eller vill utveckla ett centrum med oss? Kontakta närmaste region.",
+  "bild": {"panel": "people", "hb": "stad"},
+  "text": {
+    "ber_rubrik": "Senast i våra centrum",
+    "proj_rubrik": "Centrum och handelsplatser vi utvecklar",
+    "process_rubrik": "Så bygger vi en handelsplats",
+    "process_etikett": "Vardagshandel",
+    "hb_etikett": "Nära handel",
+    "omdomen_rubrik": "Handlare och boende om Åsumtorp",
+    "faq_rubrik": "Frågor om lokaler och aktien",
+    "bolag_rubrik": "Fyra bolag i vardagshandeln",
+    "vagg_rubrik": "{n} bolag, 412 platser",
+    "panel_etikett": "Jobba i centrumen",
+    "hero_knapp": "Lediga lokaler",
+    "ny_rubrik": "Pressmeddelanden"
+  }
+}
