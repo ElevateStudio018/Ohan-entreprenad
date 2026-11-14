@@ -1,0 +1,488 @@
+{
+ "sajt": "https://www.haningeriv.se/",
+ "datum": "2026-11-14T21:18:27.311Z",
+ "sidor": 1,
+ "sidorISajtkarta": 1,
+ "lankar": {
+  "interna": 0,
+  "externa": 0
+ },
+ "bilder": 0,
+ "betyg": {
+  "SEO": 26,
+  "Tillgänglighet": 63,
+  "Bästa praxis": 67,
+  "Prestanda": 71,
+  "Säkerhet och mejl": 50,
+  "Länkar": 100
+ },
+ "google": {
+  "performance": 42,
+  "accessibility": 41,
+  "best-practices": 50,
+  "seo": 43
+ },
+ "googlePerSida": {
+  "/": {
+   "performance": 84,
+   "accessibility": 82,
+   "best-practices": 100,
+   "seo": 85
+  },
+  "/page-sitemap.xml": {
+   "performance": 0,
+   "accessibility": 0,
+   "best-practices": 0,
+   "seo": 0
+  }
+ },
+ "mejl": {
+  "spf": {
+   "found": true,
+   "record": "v=spf1 include:_custspf.one.com include:spf.protection.outlook.com ~all",
+   "lookups": 2
+  },
+  "dmarc": {
+   "found": false,
+   "policy": null
+  },
+  "dkim": {
+   "found": false,
+   "selectors": [],
+   "checked": 10
+  },
+  "mx": {
+   "found": true,
+   "hosts": [
+    "mx1.pub.mailpod11-cph3.one.com",
+    "mx2.pub.mailpod11-cph3.one.com",
+    "mx3.pub.mailpod11-cph3.one.com",
+    "mx4.pub.mailpod11-cph3.one.com"
+   ]
+  }
+ },
+ "fel": [
+  {
+   "kategori": "seo",
+   "id": "title-missing",
+   "fel": "Sidan saknar titel",
+   "antal": 1,
+   "var": [
+    "/page-sitemap.xml"
+   ]
+  },
+  {
+   "kategori": "seo",
+   "id": "desc-missing",
+   "fel": "Saknar metabeskrivning",
+   "antal": 1,
+   "var": [
+    "/page-sitemap.xml"
+   ]
+  },
+  {
+   "kategori": "seo",
+   "id": "h1-missing",
+   "fel": "Saknar rubrik h1",
+   "antal": 1,
+   "var": [
+    "/page-sitemap.xml"
+   ]
+  },
+  {
+   "kategori": "seo",
+   "id": "canonical",
+   "fel": "Saknar canonical-länk",
+   "antal": 1,
+   "var": [
+    "/page-sitemap.xml"
+   ]
+  },
+  {
+   "kategori": "seo",
+   "id": "og",
+   "fel": "Saknar fullständig Open Graph",
+   "antal": 1,
+   "var": [
+    "/page-sitemap.xml"
+   ]
+  },
+  {
+   "kategori": "seo",
+   "id": "thin",
+   "fel": "Tunn text, under 150 ord (49 ord)",
+   "antal": 1,
+   "var": [
+    "/page-sitemap.xml"
+   ]
+  },
+  {
+   "kategori": "access",
+   "id": "lang",
+   "fel": "Språket är inte angivet",
+   "antal": 1,
+   "var": [
+    "/page-sitemap.xml"
+   ]
+  },
+  {
+   "kategori": "access",
+   "id": "viewport",
+   "fel": "Saknar viewport",
+   "antal": 1,
+   "var": [
+    "/page-sitemap.xml"
+   ]
+  },
+  {
+   "kategori": "practice",
+   "id": "doctype",
+   "fel": "Saknar doctype",
+   "antal": 1,
+   "var": [
+    "/page-sitemap.xml"
+   ]
+  },
+  {
+   "kategori": "practice",
+   "id": "charset",
+   "fel": "Saknar charset",
+   "antal": 1,
+   "var": [
+    "/page-sitemap.xml"
+   ]
+  },
+  {
+   "kategori": "security",
+   "id": "dkim",
+   "fel": "DKIM hittades inte",
+   "antal": 1,
+   "var": [
+    "domänen"
+   ]
+  },
+  {
+   "kategori": "security",
+   "id": "dmarc",
+   "fel": "DMARC saknas",
+   "antal": 1,
+   "var": [
+    "domänen"
+   ]
+  },
+  {
+   "kategori": "security",
+   "id": "cert",
+   "fel": "Certifikatet går ut om 21 dagar",
+   "antal": 1,
+   "var": [
+    "domänen"
+   ]
+  },
+  {
+   "kategori": "perf",
+   "id": "google:first-contentful-paint",
+   "fel": "Googles test: First Contentful Paint",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "2,2 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:largest-contentful-paint",
+   "fel": "Googles test: Largest Contentful Paint",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "3,6 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:speed-index",
+   "fel": "Googles test: Speed Index",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "5,1 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:font-display-insight",
+   "fel": "Googles test: Teckensnittsvisning",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 560 ms"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:image-delivery-insight",
+   "fel": "Googles test: Förbättra bildleveransen",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 103 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:network-dependency-tree-insight",
+   "fel": "Googles test: Nätverksberoendeträd",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "perf",
+   "id": "google:render-blocking-insight",
+   "fel": "Googles test: Begäranden om renderingsblockering",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 910 ms"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:interactive",
+   "fel": "Googles test: Time to Interactive",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "4,5 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:render-blocking-resources",
+   "fel": "Googles test: Ta bort resurser som blockerar renderingen",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 910 ms"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:uses-responsive-images",
+   "fel": "Googles test: Använd bilder med rätt storlek",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 50 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:offscreen-images",
+   "fel": "Googles test: Skjut upp inläsningen av bilder som inte visas på skärmen",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 442 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:unused-css-rules",
+   "fel": "Googles test: Reducera CSS som inte används",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 12 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:unused-javascript",
+   "fel": "Googles test: Reducera JavaScript som inte används",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 88 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:uses-optimized-images",
+   "fel": "Googles test: Koda bilder effektivt",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 8 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:modern-image-formats",
+   "fel": "Googles test: Skicka bilder i modernare bildformat",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 275 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:legacy-javascript",
+   "fel": "Googles test: Undvik att skicka äldre JavaScript till moderna webbläsare",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 0 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:total-byte-weight",
+   "fel": "Googles test: Undvik enorm nätverksbelastning",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Den sammanlagda storleken var 4 780 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:mainthread-work-breakdown",
+   "fel": "Googles test: Minska arbetsbelastningen på modertråden",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "2,6 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:font-display",
+   "fel": "Googles test: Se till att all text förblir synlig medan webbteckensnitten läses in",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "perf",
+   "id": "google:largest-contentful-paint-element",
+   "fel": "Googles test: Element som största uppritningen av innehåll gjordes för",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "3 580 ms"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:unsized-images",
+   "fel": "Googles test: Alla bildelement har inte `width` och `height`",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:aria-allowed-attr",
+   "fel": "Googles test: Alla attribut av typen `[aria-*]` stämmer inte med elementets roll",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:aria-allowed-role",
+   "fel": "Googles test: Använder ARIA-roller på inkompatibla element",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:color-contrast",
+   "fel": "Googles test: Kontrasten mellan bakgrundsfärg och förgrundsfärg är inte tillräckligt stor.",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:heading-order",
+   "fel": "Googles test: Rubrikelementen har inte ordnats i följd i fallande ordning",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:link-name",
+   "fel": "Googles test: Vissa länkar har inte ett igenkännligt namn",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:skip-link",
+   "fel": "Googles test: Länkar för att hoppa över är inte fokuserbara.",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "seo",
+   "id": "google:meta-description",
+   "fel": "Googles test: Dokumentet har ingen metabeskrivning",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "seo",
+   "id": "google:link-text",
+   "fel": "Googles test: Länkar har inte beskrivande text",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "7 länkar hittades"
+  }
+ ],
+ "sidinfo": [
+  {
+   "url": "/page-sitemap.xml",
+   "titel": "",
+   "titelLangd": 0,
+   "beskrivning": "",
+   "beskrLangd": 0,
+   "h1": 0,
+   "ord": 49,
+   "canonical": "",
+   "noindex": false,
+   "ld": 0,
+   "ldTypes": []
+  }
+ ]
+}

@@ -14,6 +14,9 @@ import shutil
 import subprocess
 import sys
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import seo  # noqa: E402
+
 ROT = pathlib.Path(__file__).resolve().parent
 OHAN = pathlib.Path(sys.argv[1]).resolve()
 UT = pathlib.Path(sys.argv[2]).resolve()
@@ -184,7 +187,7 @@ def bolag_och_tjanster(self):
                   f'<span class="t4-bt"><small>{E(x.get("segment", ""))}</small><b>{E(x["namn"])}</b><span>{E(x.get("rubrik", ""))}</span></span>'
                   f'<i class="t4-pil">{PIL}</i></a>')
     rutor = "".join(f'<li><a href="{t["href"]}">{ikon(t["ikon"])}<span>{E(t["titel"])}</span>{PIL}</a></li>'
-                    for t in b["tjanster"] if "omr-" in t["href"])
+                    for t in b["tjanster"] if t.get("ruta"))
     return f'''<section class="sek t4" aria-labelledby="t4-h"><div class="wrap">
   <div class="t4-huvud"><span class="etikett">Koncernen</span><h2 id="t4-h">Våra bolag</h2></div>
   <div class="t4-bolagen">{bolag}</div>
@@ -195,7 +198,7 @@ def bolag_och_tjanster(self):
 
 def kunder(self):
     """Våra största kunder: vita loggkort på mörk botten; kundens färg och namn vid hover."""
-    li = "".join(f'<li style="--k:{c}"><img src="img/kunder/{f}.png" alt="{E(n)}" style="--h:{h}px" loading="lazy"><span>{E(n)}</span></li>'
+    li = "".join(f'<li style="--k:{c}"><img src="img/kunder/{f}.png" alt="" style="--h:{h}px" loading="lazy"><span>{E(n)}</span></li>'
                  for f, n, h, c in KUNDER)
     return f'''<section class="sek ku pa-mork" aria-labelledby="ku-h"><div class="wrap">
   <div class="ku-huvud"><div><span class="etikett">Kunder</span><h2 id="ku-h">Våra största kunder</h2></div>
@@ -213,10 +216,10 @@ def sida_projekt(self, slug, namn):
     li = ""
     for f, t, alt in GALLERI:
         namn_ = "g-" + f.replace("/", "-")
-        li += (f'<li data-typ="{E(t)}"><button type="button" aria-label="Visa större: {E(alt)}">'
+        li += (f'<li data-typ="{E(t)}"><button type="button">'
                f'<img src="img/g/{namn_.replace(".jpg", "-s.jpg")}" data-full="img/g/{namn_}" alt="{E(alt)}" loading="lazy">'
                f'<span class="gl-text"><small>{E(t)}</small><b>{E(alt)}</b></span></button></li>')
-    lb = (f'<div class="gl-lb" role="dialog" aria-modal="true" aria-label="Bildvisning" hidden><img src="data:," alt=""><p></p>'
+    lb = (f'<div class="gl-lb" role="dialog" aria-modal="true" aria-label="Bildvisning" hidden><img src="data:," alt="" width="1600" height="1200"><p></p>'
           f'<button type="button" class="gl-stang" aria-label="Stäng">×</button><button type="button" class="gl-bak" aria-label="Föregående bild">{PIL}</button>'
           f'<button type="button" class="gl-fram" aria-label="Nästa bild">{PIL}</button></div>')
     innehall = f'''<section class="sek gl" data-galleri aria-label="Projektbilder"><div class="wrap">
@@ -296,6 +299,10 @@ body[data-herotext="nere"] .hero .hero-txt h1, body[data-herotext="nere"] .hero 
 
 /* Processen: fyra pilar */
 .hpp-lista, .hpp-steg { --n: 4; }
+
+/* Kontrast: små nummer och etiketter med full färg */
+.ku .etikett, .pf .etikett, .r5 .etikett { opacity: 1; }
+.hpp-nr, .mhn-nr { opacity: 1 !important; }
 
 /* Våra största kunder: vita loggkort; kundens färg som list och namn vid hover */
 .ku h2 { color: #fff; margin: 10px 0 0; }
@@ -396,6 +403,9 @@ def postprocess(out):
                 s = s.replace(a, "\0").replace(c, a).replace("\0", c)
             return s
         doc = re.sub(r'<section[^>]*aria-labelledby="mhn-h".*?</section>', byt, doc, flags=re.S)
+        doc = seo.lankar(doc)
+        doc = seo.rubriker(doc)
+        doc = seo.sida(doc, f.name, FAQ)
         if f.name == "om-oss.html":  # generatorn upprepar första om-stycket tre gånger på Om oss
             om0 = E(json.loads((ROT / "brief.json").read_text(encoding="utf-8"))["om"][0])
             delar = doc.split(om0)
@@ -411,7 +421,7 @@ def postprocess(out):
     hb = HB_CSS.read_text(encoding="utf-8")
     hb = hb.replace("rgba(10,31,54,", "rgba(14,18,24,").replace("rgba(6,18,32,", "rgba(14,18,24,").replace("rgba(14,42,71,", "rgba(14,18,24,")
     with open(out / "assets" / "bas.css", "a", encoding="utf-8") as fh:
-        fh.write(hb + HRS_CSS)
+        fh.write(hb + HRS_CSS + seo.TS_CSS)
     shutil.copy(ROT / "offert.js", out / "assets" / "offert.js")
     shutil.copy(ROT / "hrs.js", out / "assets" / "hrs.js")
     shutil.copy(ROT / "logo" / "hrs-logo.png", out / "assets" / "logo.png")
@@ -483,19 +493,40 @@ def meta(out):
     (out / "paket.json").unlink(missing_ok=True)
 
 
+FAQ = json.loads((ROT / "brief.json").read_text(encoding="utf-8"))["faq"]
+
+
 def main():
     prepare_bank()
     generera = load_generator()
     brief = json.loads((ROT / "brief.json").read_text(encoding="utf-8"))
     paket = json.loads((ROT / "paket.json").read_text(encoding="utf-8"))
-    generera.Sajt(brief, paket, UT).bygg()
+    if seo.PRODUKTION:
+        brief["demo"] = None  # sökbar sajt: ingen förslagsetikett och ingen noindex
+    s = generera.Sajt(brief, paket, UT)
+    s.bygg()
+    seo.tjanstesidor(s)
+    seo.sida_404(s)
     galleri_bilder(UT)
     postprocess(UT)
     redirects(UT)
-    meta(UT)
+    (UT / "paket.json").unlink(missing_ok=True)
+    sidor = sorted([p.name for p in UT.glob("*.html") if p.name not in REDIRECTS and p.name != "404.html"], key=lambda n: (n != "index.html", n))
+    seo.filer(UT, sidor)
+    seo.og_bild(UT, ROT / "kalla" / "hero-kapning.jpg")
+    seo.inline_skript(UT)
+    seo.typsnitt(UT, NODE / "node_modules" / "@fontsource" / "poppins")
     optimize_css(UT)
     to_webp(UT)
-    print(f"Byggde {brief['namn']} -> {UT}")
+    seo.responsiva(UT)
+    seo.sidhjalte(UT)
+    seo.hjalte_mobil(UT, ROT / "kalla" / "hero-kapning.jpg")
+    seo.loggor(UT)
+    seo.bildmatt(UT)
+    seo.inline_css(UT, NODE / "node_modules" / ".bin")
+    seo.versionera(UT)
+    seo.stada(UT)
+    print(f"Byggde {brief['namn']} -> {UT} ({'produktion' if seo.PRODUKTION else 'förslag'}, {seo.SAJT})")
 
 
 if __name__ == "__main__":

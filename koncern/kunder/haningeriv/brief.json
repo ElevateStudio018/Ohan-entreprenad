@@ -18,38 +18,44 @@
   {
    "titel": "Rivning",
    "ikon": "hamare",
-   "href": "verksamhet.html#omr-0",
-   "text": "Hela byggnader, lägenheter, rum och väggar."
-  },
-  {
-   "titel": "Stambytesrivning",
-   "ikon": "ror",
-   "href": "verksamhet.html#omr-0",
-   "text": "Rivning inför stambyte åt stora byggföretag."
+   "href": "rivning.html",
+   "ruta": true,
+   "text": "Hela byggnader, lägenheter, rum och väggar – och stambytesrivning."
   },
   {
    "titel": "Sanering",
    "ikon": "skold",
-   "href": "verksamhet.html#omr-1",
+   "href": "sanering.html",
+   "ruta": true,
    "text": "Mögel, asbest, vattenskador, olja och lukt."
   },
   {
    "titel": "Betonghåltagning",
    "ikon": "sten",
-   "href": "verksamhet.html#omr-2",
+   "href": "betonghaltagning.html",
+   "ruta": true,
    "text": "Kärnborrning, vägg- och golvsågning."
   },
   {
    "titel": "Friläggning av rör",
    "ikon": "vatten",
-   "href": "verksamhet.html#omr-2",
+   "href": "frilaggning-av-ror.html",
+   "ruta": true,
    "text": "Golv, väggar och golvbrunnar vid fuktskador."
   },
   {
-   "titel": "Konsult & bemanning",
+   "titel": "Byggkonsult",
+   "ikon": "ritning",
+   "href": "byggkonsult.html",
+   "ruta": true,
+   "text": "Rådgivning och planering i små och stora projekt."
+  },
+  {
+   "titel": "Bemanning",
    "ikon": "folk",
-   "href": "verksamhet.html#omr-3",
-   "text": "Rådgivning och byggpersonal för korta och långa uppdrag."
+   "href": "bemanning.html",
+   "ruta": true,
+   "text": "Byggpersonal för korta och långa uppdrag."
   },
   {
    "titel": "Begär offert",
@@ -321,6 +327,7 @@
   "boka_text": "Vi tror på service och att alltid ge mer än vad som efterfrågas, så du kan kontakta oss utan att förbinda dig till något. Samma formulär gäller båda bolagen: rivning och sanering hos oss, bygg och renovering hos Haninge Byggteam – eller båda, till exempel när ett badrum ska rivas och byggas upp igen.",
   "bolag_knapp": "Om våra bolag",
   "sida_projekt_titel": "Projekt",
+  "las_mer": "Se projektbilder",
   "sida_karriar_etikett": "Karriär",
   "sida_karriar_rubrik": "Intresseanmälan",
   "sida_karriar_text": "Skicka en intresseanmälan med dina uppgifter och din erfarenhet av rivning, sanering eller håltagning, så hör vi av oss när vi behöver förstärkning.",

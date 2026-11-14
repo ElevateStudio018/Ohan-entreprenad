@@ -19,12 +19,12 @@ brief = {
  ],
  "vagval_rubrik": "Vad kan vi hjälpa dig med?",
  "tjanster": [
-  {"titel": "Rivning", "ikon": "hamare", "href": "verksamhet.html#omr-0", "text": "Hela byggnader, lägenheter, rum och väggar."},
-  {"titel": "Stambytesrivning", "ikon": "ror", "href": "verksamhet.html#omr-0", "text": "Rivning inför stambyte åt stora byggföretag."},
-  {"titel": "Sanering", "ikon": "skold", "href": "verksamhet.html#omr-1", "text": "Mögel, asbest, vattenskador, olja och lukt."},
-  {"titel": "Betonghåltagning", "ikon": "sten", "href": "verksamhet.html#omr-2", "text": "Kärnborrning, vägg- och golvsågning."},
-  {"titel": "Friläggning av rör", "ikon": "vatten", "href": "verksamhet.html#omr-2", "text": "Golv, väggar och golvbrunnar vid fuktskador."},
-  {"titel": "Konsult & bemanning", "ikon": "folk", "href": "verksamhet.html#omr-3", "text": "Rådgivning och byggpersonal för korta och långa uppdrag."},
+  {"titel": "Rivning", "ikon": "hamare", "href": "rivning.html", "ruta": True, "text": "Hela byggnader, lägenheter, rum och väggar – och stambytesrivning."},
+  {"titel": "Sanering", "ikon": "skold", "href": "sanering.html", "ruta": True, "text": "Mögel, asbest, vattenskador, olja och lukt."},
+  {"titel": "Betonghåltagning", "ikon": "sten", "href": "betonghaltagning.html", "ruta": True, "text": "Kärnborrning, vägg- och golvsågning."},
+  {"titel": "Friläggning av rör", "ikon": "vatten", "href": "frilaggning-av-ror.html", "ruta": True, "text": "Golv, väggar och golvbrunnar vid fuktskador."},
+  {"titel": "Byggkonsult", "ikon": "ritning", "href": "byggkonsult.html", "ruta": True, "text": "Rådgivning och planering i små och stora projekt."},
+  {"titel": "Bemanning", "ikon": "folk", "href": "bemanning.html", "ruta": True, "text": "Byggpersonal för korta och långa uppdrag."},
   {"titel": "Begär offert", "ikon": "dokument", "href": "om-oss.html#boka", "text": "Svar inom 24 timmar, även helger."},
   {"titel": "Jobba hos oss", "ikon": "hjalm", "href": "karriar.html", "text": "Vi tar emot intresseanmälningar löpande."}
  ],
@@ -104,7 +104,7 @@ brief = {
   "ber_etikett": "Projekt", "ber_rubrik": "Utvalda uppdrag", "boka_rubrik": "Begär offert",
   "boka_text": "Vi tror på service och att alltid ge mer än vad som efterfrågas, så du kan kontakta oss utan att förbinda dig till något. Samma formulär gäller båda bolagen: rivning och sanering hos oss, bygg och renovering hos Haninge Byggteam – eller båda, till exempel när ett badrum ska rivas och byggas upp igen.",
   "bolag_knapp": "Om våra bolag", "sida_projekt_titel": "Projekt",
-  "sida_karriar_etikett": "Karriär", "sida_karriar_rubrik": "Intresseanmälan",
+  "las_mer": "Se projektbilder", "sida_karriar_etikett": "Karriär", "sida_karriar_rubrik": "Intresseanmälan",
   "sida_karriar_text": "Skicka en intresseanmälan med dina uppgifter och din erfarenhet av rivning, sanering eller håltagning, så hör vi av oss när vi behöver förstärkning.",
   "medarbetare": "Medarbetarna", "ny_senaste": "Från våra arbetsplatser", "panel_lank": "Till intresseanmälan",
   "sida_projekt_ingress": "Bilder från våra arbetsplatser: stambyten, lokaler, lägenheter och hallar."

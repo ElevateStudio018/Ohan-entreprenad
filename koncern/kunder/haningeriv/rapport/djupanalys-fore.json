@@ -1,0 +1,872 @@
+{
+ "sajt": "https://www.haningeriv.se/",
+ "datum": "2026-11-14T21:20:02.927Z",
+ "sidor": 5,
+ "sidorISajtkarta": 5,
+ "lankar": {
+  "interna": 12,
+  "externa": 0
+ },
+ "bilder": 40,
+ "betyg": {
+  "SEO": 83,
+  "Tillgänglighet": 88,
+  "Bästa praxis": 95,
+  "Prestanda": 77,
+  "Säkerhet och mejl": 50,
+  "Länkar": 100
+ },
+ "google": {
+  "performance": 73,
+  "accessibility": 86,
+  "best-practices": 92,
+  "seo": 88
+ },
+ "googlePerSida": {
+  "/": {
+   "performance": 78,
+   "accessibility": 82,
+   "best-practices": 100,
+   "seo": 85
+  },
+  "/tjanster/": {
+   "performance": 74,
+   "accessibility": 84,
+   "best-practices": 100,
+   "seo": 85
+  },
+  "/kontakt/": {
+   "performance": 65,
+   "accessibility": 85,
+   "best-practices": 79,
+   "seo": 92
+  },
+  "/offertforfragan/": {
+   "performance": 73,
+   "accessibility": 90,
+   "best-practices": 79,
+   "seo": 85
+  },
+  "/om-oss/": {
+   "performance": 73,
+   "accessibility": 89,
+   "best-practices": 100,
+   "seo": 92
+  }
+ },
+ "mejl": {
+  "spf": {
+   "found": true,
+   "record": "v=spf1 include:_custspf.one.com include:spf.protection.outlook.com ~all",
+   "lookups": 2
+  },
+  "dmarc": {
+   "found": false,
+   "policy": null
+  },
+  "dkim": {
+   "found": false,
+   "selectors": [],
+   "checked": 10
+  },
+  "mx": {
+   "found": true,
+   "hosts": [
+    "mx1.pub.mailpod11-cph3.one.com",
+    "mx2.pub.mailpod11-cph3.one.com",
+    "mx3.pub.mailpod11-cph3.one.com",
+    "mx4.pub.mailpod11-cph3.one.com"
+   ]
+  }
+ },
+ "fel": [
+  {
+   "kategori": "seo",
+   "id": "desc-missing",
+   "fel": "Saknar metabeskrivning",
+   "antal": 5,
+   "var": [
+    "/",
+    "/offertforfragan/",
+    "/om-oss/",
+    "/tjanster/",
+    "/kontakt/"
+   ]
+  },
+  {
+   "kategori": "seo",
+   "id": "heading-skip",
+   "fel": "Rubriknivåerna hoppar",
+   "antal": 5,
+   "var": [
+    "/",
+    "/offertforfragan/",
+    "/om-oss/",
+    "/tjanster/",
+    "/kontakt/"
+   ]
+  },
+  {
+   "kategori": "seo",
+   "id": "generic",
+   "fel": "Länktext som \"läs mer\" eller \"klicka här\"",
+   "antal": 3,
+   "var": [
+    "/",
+    "/offertforfragan/",
+    "/tjanster/"
+   ]
+  },
+  {
+   "kategori": "access",
+   "id": "link-empty",
+   "fel": "Länkar utan text eller etikett",
+   "antal": 5,
+   "var": [
+    "/",
+    "/offertforfragan/",
+    "/om-oss/",
+    "/tjanster/",
+    "/kontakt/"
+   ]
+  },
+  {
+   "kategori": "perf",
+   "id": "blocking",
+   "fel": "Skript i sidhuvudet blockerar visningen (2 st)",
+   "antal": 5,
+   "var": [
+    "/",
+    "/offertforfragan/",
+    "/om-oss/",
+    "/tjanster/",
+    "/kontakt/"
+   ]
+  },
+  {
+   "kategori": "perf",
+   "id": "img-size",
+   "fel": "Bilder utan width och height (16 st)",
+   "antal": 2,
+   "var": [
+    "/",
+    "/om-oss/"
+   ]
+  },
+  {
+   "kategori": "perf",
+   "id": "inline-scripts",
+   "fel": "Många inline-skript (11)",
+   "antal": 5,
+   "var": [
+    "/",
+    "/offertforfragan/",
+    "/om-oss/",
+    "/tjanster/",
+    "/kontakt/"
+   ]
+  },
+  {
+   "kategori": "seo",
+   "id": "thin",
+   "fel": "Tunn text, under 150 ord (140 ord)",
+   "antal": 1,
+   "var": [
+    "/offertforfragan/"
+   ]
+  },
+  {
+   "kategori": "access",
+   "id": "input-label",
+   "fel": "Fält utan etikett",
+   "antal": 2,
+   "var": [
+    "/offertforfragan/",
+    "/kontakt/"
+   ]
+  },
+  {
+   "kategori": "practice",
+   "id": "blank",
+   "fel": "Ny flik utan rel=\"noopener\" (1 st)",
+   "antal": 2,
+   "var": [
+    "/offertforfragan/",
+    "/kontakt/"
+   ]
+  },
+  {
+   "kategori": "links",
+   "id": "redir",
+   "fel": "Intern länk som omdirigeras",
+   "antal": 30,
+   "var": [
+    "/ → /kontakt",
+    "/ → /om-oss",
+    "/ → /tjanster",
+    "/ → /offertforfragan",
+    "/ → /hem",
+    "/ → /integritetspolicy",
+    "/offertforfragan/ → /kontakt",
+    "/offertforfragan/ → /integritetspolicy"
+   ]
+  },
+  {
+   "kategori": "perf",
+   "id": "img-format",
+   "fel": "Bild över 120 KB i jpg eller png (233 KB)",
+   "antal": 2,
+   "var": [
+    "/wp/www.haningeriv.se/wp-content/uploads/2022/04/logga-haninge.jpg",
+    "/wp/www.haningeriv.se/wp-content/uploads/2022/04/miljo-om-oss-1024x761.jpg"
+   ]
+  },
+  {
+   "kategori": "perf",
+   "id": "img-big",
+   "fel": "Stor bild över 300 KB (335 KB)",
+   "antal": 1,
+   "var": [
+    "/wp/www.haningeriv.se/wp-content/uploads/2022/04/rivning-haltagning.jpg"
+   ]
+  },
+  {
+   "kategori": "security",
+   "id": "dkim",
+   "fel": "DKIM hittades inte",
+   "antal": 1,
+   "var": [
+    "domänen"
+   ]
+  },
+  {
+   "kategori": "security",
+   "id": "dmarc",
+   "fel": "DMARC saknas",
+   "antal": 1,
+   "var": [
+    "domänen"
+   ]
+  },
+  {
+   "kategori": "security",
+   "id": "cert",
+   "fel": "Certifikatet går ut om 21 dagar",
+   "antal": 1,
+   "var": [
+    "domänen"
+   ]
+  },
+  {
+   "kategori": "perf",
+   "id": "google:first-contentful-paint",
+   "fel": "Googles test: First Contentful Paint",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "2,6 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:largest-contentful-paint",
+   "fel": "Googles test: Largest Contentful Paint",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "4,1 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:speed-index",
+   "fel": "Googles test: Speed Index",
+   "antal": 3,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/"
+   ],
+   "varde": "5,7 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:font-display-insight",
+   "fel": "Googles test: Teckensnittsvisning",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: 480 ms"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:image-delivery-insight",
+   "fel": "Googles test: Förbättra bildleveransen",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: 103 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:network-dependency-tree-insight",
+   "fel": "Googles test: Nätverksberoendeträd",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "perf",
+   "id": "google:render-blocking-insight",
+   "fel": "Googles test: Begäranden om renderingsblockering",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: 1 210 ms"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:interactive",
+   "fel": "Googles test: Time to Interactive",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "5,0 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:max-potential-fid",
+   "fel": "Googles test: Högsta potentiella fördröjning till första inmatningen",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "140 ms"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:render-blocking-resources",
+   "fel": "Googles test: Ta bort resurser som blockerar renderingen",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: 1 210 ms"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:uses-responsive-images",
+   "fel": "Googles test: Använd bilder med rätt storlek",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: 50 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:offscreen-images",
+   "fel": "Googles test: Skjut upp inläsningen av bilder som inte visas på skärmen",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "Beräknad besparing: 442 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:unused-css-rules",
+   "fel": "Googles test: Reducera CSS som inte används",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: 12 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:unused-javascript",
+   "fel": "Googles test: Reducera JavaScript som inte används",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: 88 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:uses-optimized-images",
+   "fel": "Googles test: Koda bilder effektivt",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: 8 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:modern-image-formats",
+   "fel": "Googles test: Skicka bilder i modernare bildformat",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: 275 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:legacy-javascript",
+   "fel": "Googles test: Undvik att skicka äldre JavaScript till moderna webbläsare",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: 0 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:total-byte-weight",
+   "fel": "Googles test: Undvik enorm nätverksbelastning",
+   "antal": 3,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/"
+   ],
+   "varde": "Den sammanlagda storleken var 4 660 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:mainthread-work-breakdown",
+   "fel": "Googles test: Minska arbetsbelastningen på modertråden",
+   "antal": 4,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/"
+   ],
+   "varde": "2,3 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:font-display",
+   "fel": "Googles test: Se till att all text förblir synlig medan webbteckensnitten läses in",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "perf",
+   "id": "google:largest-contentful-paint-element",
+   "fel": "Googles test: Element som största uppritningen av innehåll gjordes för",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": "4 130 ms"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:unsized-images",
+   "fel": "Googles test: Alla bildelement har inte `width` och `height`",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:aria-allowed-attr",
+   "fel": "Googles test: Alla attribut av typen `[aria-*]` stämmer inte med elementets roll",
+   "antal": 3,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:aria-allowed-role",
+   "fel": "Googles test: Använder ARIA-roller på inkompatibla element",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:color-contrast",
+   "fel": "Googles test: Kontrasten mellan bakgrundsfärg och förgrundsfärg är inte tillräckligt stor.",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:heading-order",
+   "fel": "Googles test: Rubrikelementen har inte ordnats i följd i fallande ordning",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:link-name",
+   "fel": "Googles test: Vissa länkar har inte ett igenkännligt namn",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "access",
+   "id": "google:skip-link",
+   "fel": "Googles test: Länkar för att hoppa över är inte fokuserbara.",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "seo",
+   "id": "google:meta-description",
+   "fel": "Googles test: Dokumentet har ingen metabeskrivning",
+   "antal": 5,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "seo",
+   "id": "google:link-text",
+   "fel": "Googles test: Länkar har inte beskrivande text",
+   "antal": 3,
+   "var": [
+    "/",
+    "/tjanster/",
+    "/offertforfragan/"
+   ],
+   "varde": "7 länkar hittades"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:bootup-time",
+   "fel": "Googles test: Minska körningstiden för JavaScript",
+   "antal": 1,
+   "var": [
+    "/tjanster/"
+   ],
+   "varde": "4,1 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:cache-insight",
+   "fel": "Googles test: Använd effektiva cachelivslängder",
+   "antal": 2,
+   "var": [
+    "/kontakt/",
+    "/offertforfragan/"
+   ],
+   "varde": "Beräknad besparing: 18 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:lcp-discovery-insight",
+   "fel": "Googles test: Upptäcka LCP-begäran",
+   "antal": 2,
+   "var": [
+    "/kontakt/",
+    "/om-oss/"
+   ],
+   "varde": ""
+  },
+  {
+   "kategori": "perf",
+   "id": "google:prioritize-lcp-image",
+   "fel": "Googles test: Läs in bilden i förväg för största uppritningen av innehåll",
+   "antal": 2,
+   "var": [
+    "/kontakt/",
+    "/om-oss/"
+   ],
+   "varde": "Beräknad besparing: −100 ms"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:uses-long-cache-ttl",
+   "fel": "Googles test: Skicka statiska tillgångar med en effektiv cachelagringspolicy",
+   "antal": 2,
+   "var": [
+    "/kontakt/",
+    "/offertforfragan/"
+   ],
+   "varde": "2 resurser hittades"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:third-party-summary",
+   "fel": "Googles test: Minska påverkan från tredjepartskod",
+   "antal": 2,
+   "var": [
+    "/kontakt/",
+    "/offertforfragan/"
+   ],
+   "varde": "Tredjepartskod blockerade huvudtråden i 280 ms"
+  },
+  {
+   "kategori": "practice",
+   "id": "google:third-party-cookies",
+   "fel": "Googles test: Använder tredjepartscookies",
+   "antal": 2,
+   "var": [
+    "/kontakt/",
+    "/offertforfragan/"
+   ],
+   "varde": "1 cookie hittades"
+  },
+  {
+   "kategori": "practice",
+   "id": "google:inspector-issues",
+   "fel": "Googles test: Felen loggades i `Issues`-panelen i Chromes verktyg för programmerare",
+   "antal": 2,
+   "var": [
+    "/kontakt/",
+    "/offertforfragan/"
+   ],
+   "varde": ""
+  }
+ ],
+ "sidinfo": [
+  {
+   "url": "/",
+   "titel": "Hem - Haninge Riv & Sanering",
+   "titelLangd": 28,
+   "beskrivning": "",
+   "beskrLangd": 0,
+   "h1": 1,
+   "ord": 873,
+   "canonical": "https://www.haningeriv.se/",
+   "noindex": false,
+   "ld": 1,
+   "ldTypes": [
+    "WebPage",
+    "ReadAction",
+    "ImageObject",
+    "BreadcrumbList",
+    "ListItem",
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "PropertyValueSpecification",
+    "Organization",
+    "ImageObject"
+   ]
+  },
+  {
+   "url": "/offertforfragan/",
+   "titel": "Offertförfrågan - Haninge Riv & Sanering",
+   "titelLangd": 40,
+   "beskrivning": "",
+   "beskrLangd": 0,
+   "h1": 1,
+   "ord": 140,
+   "canonical": "https://www.haningeriv.se/offertforfragan/",
+   "noindex": false,
+   "ld": 1,
+   "ldTypes": [
+    "WebPage",
+    "ReadAction",
+    "BreadcrumbList",
+    "ListItem",
+    "ListItem",
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "PropertyValueSpecification",
+    "Organization",
+    "ImageObject"
+   ]
+  },
+  {
+   "url": "/om-oss/",
+   "titel": "Om oss - Haninge Riv & Sanering",
+   "titelLangd": 31,
+   "beskrivning": "",
+   "beskrLangd": 0,
+   "h1": 1,
+   "ord": 612,
+   "canonical": "https://www.haningeriv.se/om-oss/",
+   "noindex": false,
+   "ld": 1,
+   "ldTypes": [
+    "WebPage",
+    "ReadAction",
+    "ImageObject",
+    "BreadcrumbList",
+    "ListItem",
+    "ListItem",
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "PropertyValueSpecification",
+    "Organization",
+    "ImageObject"
+   ]
+  },
+  {
+   "url": "/tjanster/",
+   "titel": "Tjänster - Haninge Riv & Sanering",
+   "titelLangd": 33,
+   "beskrivning": "",
+   "beskrLangd": 0,
+   "h1": 1,
+   "ord": 716,
+   "canonical": "https://www.haningeriv.se/tjanster/",
+   "noindex": false,
+   "ld": 1,
+   "ldTypes": [
+    "WebPage",
+    "ReadAction",
+    "BreadcrumbList",
+    "ListItem",
+    "ListItem",
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "PropertyValueSpecification",
+    "Organization",
+    "ImageObject"
+   ]
+  },
+  {
+   "url": "/kontakt/",
+   "titel": "Kontakt - Haninge Riv & Sanering",
+   "titelLangd": 32,
+   "beskrivning": "",
+   "beskrLangd": 0,
+   "h1": 1,
+   "ord": 179,
+   "canonical": "https://www.haningeriv.se/kontakt/",
+   "noindex": false,
+   "ld": 1,
+   "ldTypes": [
+    "WebPage",
+    "ReadAction",
+    "ImageObject",
+    "BreadcrumbList",
+    "ListItem",
+    "ListItem",
+    "WebSite",
+    "SearchAction",
+    "EntryPoint",
+    "PropertyValueSpecification",
+    "Organization",
+    "ImageObject"
+   ]
+  }
+ ]
+}
