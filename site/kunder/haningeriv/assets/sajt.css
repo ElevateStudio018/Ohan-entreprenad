@@ -1,24 +1,25 @@
 /* Haninge Riv & Sanering AB
-   Grafiskt paket: samma som systerbolaget Haninge Byggteam AB (HB-AB, claude/sleepy-planck-gklneu):
-   Poppins 700, marinblått #0e2a47, mörkt #0a1f36, gult #f6c30f, piller-knappar, rundning 16 px på kort och bilder.
+   Grafiskt paket: samma system som systerbolaget Haninge Byggteam AB (HB-AB, claude/sleepy-planck-gklneu) –
+   Poppins 700, piller-knappar, rundning 16 px, etiketter, processpilar – men med HRS egna färger:
+   orange #DB6E2D, nästan svart #0E1218, skiffer #283D49.
    Upplägg efter koncernreceptet: transparent header över helskärmsbild, vägvalsrutor i varumärkesfärgen,
    bild + färgpanel kant i kant, projektkort, helfärgad sidfot. Pillerknappar. */
 
 :root {
-  --ink: #0a1f36;
-  --ink-2: #091b2d;
-  --slate: #0e2a47;
-  --text: #14171b;
-  --orange: #f6c30f;
-  --orange-hi: #ffd43b;
-  --orange-text: #0e2a47;
-  --tint: #e7eaed;
-  --grey: #eff1f3;
-  --line: #e3e4e6;
+  --ink: #0E1218;
+  --ink-2: #1A2129;
+  --slate: #283D49;
+  --text: #0E1218;
+  --orange: #DB6E2D;
+  --orange-hi: #E57A3A;
+  --orange-text: #A64A14;
+  --tint: #F7EEE7;
+  --grey: #F2F2F0;
+  --line: #DEDCD7;
   --white: #FFFFFF;
-  --muted: #5d6168;
-  --on-dark: #E6E9EE;
-  --on-dark-muted: #A3AFBD;
+  --muted: #5A6870;
+  --on-dark: #E6E7E8;
+  --on-dark-muted: #9EA6AC;
   --font: "Poppins", system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-head: var(--font);
   --r: 16px;
@@ -30,7 +31,7 @@
 
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; scroll-padding-top: 100px; }
-body { margin: 0; font-family: var(--font); font-size: 17px; line-height: 1.65; color: var(--text); -webkit-font-smoothing: antialiased; background: var(--white); overflow-x: hidden; }
+body { margin: 0; font-family: var(--font); font-size: 17px; line-height: 1.65; color: var(--slate); -webkit-font-smoothing: antialiased; background: var(--white); overflow-x: hidden; }
 img { display: block; max-width: 100%; height: auto; }
 a { color: inherit; }
 p { margin: 0 0 1em; }
@@ -53,8 +54,8 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 .btn-white:hover { background: var(--orange); color: var(--text); }
 .btn-orange { background: var(--orange); color: var(--text); }
 .btn-orange:hover { background: var(--orange-hi); }
-.btn-ink { background: var(--slate); color: #fff; }
-.btn-ink:hover { background: var(--ink-2); }
+.btn-ink { background: var(--ink); color: #fff; }
+.btn-ink:hover { background: var(--slate); }
 .btn-ghost { border-color: rgba(255,255,255,.7); color: #fff; }
 .btn-ghost:hover { background: #fff; color: var(--ink); border-color: #fff; }
 .btn-line { border-color: var(--ink); color: var(--ink); }
@@ -93,7 +94,7 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 .masthead.solid .logo-light, .no-hero .logo-light, .menu-open .logo-light { display: none; }
 .masthead.solid .logo-dark, .no-hero .logo-dark, .menu-open .logo-dark { display: block; }
 .masthead.solid .nav a:hover, .no-hero .nav a:hover { background: var(--grey); }
-.masthead.solid .nav .btn, .no-hero .nav .btn { background: var(--slate); color: #fff; }
+.masthead.solid .nav .btn, .no-hero .nav .btn { background: var(--ink); color: #fff; }
 .masthead.solid .nav .btn:hover, .no-hero .nav .btn:hover { background: var(--orange); color: var(--ink); }
 .no-hero main { padding-top: calc(var(--top-h) + var(--head-h)); }
 
@@ -121,7 +122,7 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 .hero-slides { position: absolute; inset: 0; z-index: -2; }
 .hero-slides img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity 1.4s ease; }
 .hero-slides img.on { opacity: 1; }
-.hero::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(0deg, rgba(10,31,54,.82) 0%, rgba(10,31,54,.3) 50%, rgba(10,31,54,.42) 100%); }
+.hero::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(0deg, rgba(14,18,24,.82) 0%, rgba(14,18,24,.3) 50%, rgba(14,18,24,.42) 100%); }
 .hero .wrap { width: 100%; padding-top: 180px; padding-bottom: clamp(56px, 9vh, 104px); }
 .hero h1 { color: #fff; max-width: 16ch; margin-bottom: 24px; }
 .hero p { font-size: clamp(1.1rem, 1.5vw, 1.3rem); max-width: 46ch; color: var(--on-dark); margin-bottom: 34px; }
@@ -141,16 +142,16 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 /* Faktaband – orange yta direkt under heron */
 .facts { background: var(--orange); color: var(--ink); }
 .facts ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); }
-.facts li { padding: clamp(28px, 3.4vw, 44px) clamp(16px, 2vw, 28px); border-left: 1px solid rgba(10,31,54,.2); }
+.facts li { padding: clamp(28px, 3.4vw, 44px) clamp(16px, 2vw, 28px); border-left: 1px solid rgba(14,18,24,.2); }
 .facts li:first-child { border-left: 0; padding-left: 0; }
 .facts strong { display: block; font-weight: 700; font-size: clamp(2rem, 3.4vw, 3.2rem); line-height: 1; letter-spacing: -0.035em; margin-bottom: 10px; overflow-wrap: anywhere; }
 .facts span { display: block; font-size: 1rem; line-height: 1.4; max-width: 24ch; }
-@media (max-width: 900px) { .facts ul { grid-template-columns: 1fr 1fr; } .facts li:nth-child(3) { border-left: 0; padding-left: 0; } .facts li:nth-child(n+3) { border-top: 1px solid rgba(10,31,54,.2); } }
+@media (max-width: 900px) { .facts ul { grid-template-columns: 1fr 1fr; } .facts li:nth-child(3) { border-left: 0; padding-left: 0; } .facts li:nth-child(n+3) { border-top: 1px solid rgba(14,18,24,.2); } }
 @media (max-width: 420px) { .facts strong { font-size: 1.7rem; } }
 
 /* Process – pilar som hos Haninge Byggteam (sista pilen gul) */
 .steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px; }
-.step-head { display: flex; flex-direction: column; justify-content: center; min-height: 96px; padding: 14px 40px 14px 22px; background: var(--slate); color: #fff; clip-path: polygon(0 0, calc(100% - 24px) 0, 100% 50%, calc(100% - 24px) 100%, 0 100%, 14px 50%); border-radius: var(--r) 0 0 var(--r); }
+.step-head { display: flex; flex-direction: column; justify-content: center; min-height: 96px; padding: 14px 40px 14px 22px; background: var(--ink); color: #fff; clip-path: polygon(0 0, calc(100% - 24px) 0, 100% 50%, calc(100% - 24px) 100%, 0 100%, 14px 50%); border-radius: var(--r) 0 0 var(--r); }
 .steps li:first-child .step-head { clip-path: polygon(0 0, calc(100% - 24px) 0, 100% 50%, calc(100% - 24px) 100%, 0 100%); }
 .steps li:last-child .step-head { background: var(--orange); color: var(--text); }
 .step-n { display: block; font-size: .8rem; font-weight: 600; opacity: .75; margin-bottom: 2px; }
@@ -175,7 +176,7 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 .svc-car::-webkit-scrollbar { display: none; }
 .svc-card { position: relative; isolation: isolate; overflow: hidden; flex: 0 0 min(340px, 78vw); height: 460px; border-radius: var(--r); scroll-snap-align: start; color: #fff; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; padding: 24px; }
 .svc-card img { position: absolute; inset: 0; z-index: -2; width: 100%; height: 100%; object-fit: cover; transition: transform .6s ease; }
-.svc-card::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(10,31,54,.35), transparent 30%, transparent 50%, rgba(10,31,54,.85)); }
+.svc-card::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(14,18,24,.35), transparent 30%, transparent 50%, rgba(14,18,24,.85)); }
 .svc-card::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 6px; background: var(--orange); transform: scaleX(0); transform-origin: left; transition: transform .35s ease; }
 .svc-n { font-weight: 700; font-size: 1.1rem; }
 .svc-t strong { display: block; font-size: 1.6rem; line-height: 1.15; }
@@ -187,7 +188,7 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 /* Om oss – två foton och ett vitt textkort över skarven */
 .about { position: relative; display: grid; grid-template-columns: 3fr 2fr; grid-template-rows: minmax(0, 1fr); gap: 14px; height: 620px; }
 .about > img { width: 100%; height: 100%; min-height: 0; object-fit: cover; border-radius: var(--r); display: block; }
-.about-card { position: absolute; left: 50%; top: 50%; transform: translate(-58%, -50%); width: min(520px, 90%); background: #fff; padding: clamp(28px, 4vw, 48px); border-radius: var(--r); box-shadow: 0 30px 60px -25px rgba(10,31,54,.55); border-top: 6px solid var(--orange); }
+.about-card { position: absolute; left: 50%; top: 50%; transform: translate(-58%, -50%); width: min(520px, 90%); background: #fff; padding: clamp(28px, 4vw, 48px); border-radius: var(--r); box-shadow: 0 30px 60px -25px rgba(14,18,24,.55); border-top: 6px solid var(--orange); }
 .about-card h2 { margin-top: 0; }
 .about-card .btns { margin-top: 26px; }
 @media (max-width: 960px) {
@@ -225,12 +226,12 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 
 /* Kunder – vita kort på grå botten, kundens färg som list vid hovring */
 .logos { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
-.logos li { position: relative; background: var(--white); border-radius: var(--r); min-height: 170px; display: grid; place-items: center; padding: 32px 28px 44px; box-shadow: 0 1px 2px rgba(10,31,54,.06); overflow: hidden; transition: transform .25s, box-shadow .25s; }
+.logos li { position: relative; background: var(--white); border-radius: var(--r); min-height: 170px; display: grid; place-items: center; padding: 32px 28px 44px; box-shadow: 0 1px 2px rgba(14,18,24,.06); overflow: hidden; transition: transform .25s, box-shadow .25s; }
 .logos li::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 5px; background: var(--c); transform: scaleX(0); transform-origin: left; transition: transform .3s ease; }
 .logos img { display: block; height: var(--h, 40px); width: auto; max-width: 100%; object-fit: contain; }
 .logos span { position: absolute; left: 12px; right: 12px; bottom: 14px; text-align: center; font-size: .85rem; font-weight: 600; color: var(--c); opacity: 0; transition: opacity .25s; }
 @media (hover: hover) {
-  .logos li:hover { transform: translateY(-6px); box-shadow: 0 18px 40px -18px rgba(10,31,54,.35); }
+  .logos li:hover { transform: translateY(-6px); box-shadow: 0 18px 40px -18px rgba(14,18,24,.35); }
   .logos li:hover::before { transform: scaleX(1); }
   .logos li:hover span { opacity: 1; }
 }
@@ -243,7 +244,7 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 .section.grey:has(+ .sc-sec) { padding-bottom: 0; }
 .section.grey + .sc-sec { padding-top: 16px; }
 .shortcuts { display: grid; grid-template-columns: repeat(var(--n, 4), 1fr); gap: 16px; }
-.sc { position: relative; background: var(--white); border-radius: var(--r); padding: 28px 24px 24px; text-decoration: none; color: var(--ink); display: flex; flex-direction: column; min-height: 250px; overflow: hidden; box-shadow: 0 1px 2px rgba(10,31,54,.06); transition: transform .25s, box-shadow .25s; }
+.sc { position: relative; background: var(--white); border-radius: var(--r); padding: 28px 24px 24px; text-decoration: none; color: var(--ink); display: flex; flex-direction: column; min-height: 250px; overflow: hidden; box-shadow: 0 1px 2px rgba(14,18,24,.06); transition: transform .25s, box-shadow .25s; }
 .sc::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 5px; background: var(--orange); transform: scaleX(0); transform-origin: left; transition: transform .3s; }
 .sc-ico { width: 60px; height: 60px; border-radius: 50%; background: var(--orange); color: var(--ink); display: grid; place-items: center; margin-bottom: 22px; }
 .sc-ico svg { width: 30px; height: 30px; }
@@ -251,14 +252,14 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 .sc-sub { display: block; margin-top: 4px; color: var(--muted); font-size: .95rem; }
 .sc-arrow { margin-top: auto; padding-top: 18px; color: var(--orange-text); }
 .sc-arrow svg { width: 22px; height: 22px; transition: transform .2s; }
-.sc:hover { transform: translateY(-6px); box-shadow: 0 20px 40px -22px rgba(10,31,54,.4); text-decoration: none; }
+.sc:hover { transform: translateY(-6px); box-shadow: 0 20px 40px -22px rgba(14,18,24,.4); text-decoration: none; }
 .sc:hover::after { transform: none; }
 .sc:hover .sc-arrow svg { transform: translateX(6px); }
 @media (max-width: 960px) { .shortcuts { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 480px) { .shortcuts { gap: 10px; } .sc { min-height: 0; padding: 20px; } .sc-ico { width: 48px; height: 48px; margin-bottom: 14px; } .sc-ico svg { width: 24px; height: 24px; } }
 
 /* Sidfot – helfärgad */
-.footer { background: var(--slate); color: var(--on-dark-muted); padding: clamp(56px, 7vw, 88px) 0 24px; font-size: 1rem; }
+.footer { background: var(--ink); color: var(--on-dark-muted); padding: clamp(56px, 7vw, 88px) 0 24px; font-size: 1rem; }
 .footer a { color: var(--on-dark); text-decoration: none; }
 .footer a:hover { color: #fff; text-decoration: underline; text-underline-offset: 3px; }
 .foot-cta { display: flex; justify-content: space-between; align-items: center; gap: 24px; flex-wrap: wrap; padding-bottom: clamp(40px, 5vw, 64px); margin-bottom: clamp(40px, 5vw, 56px); border-bottom: 1px solid rgba(255,255,255,.14); }
@@ -277,7 +278,7 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 /* Undersidor */
 .page-hero { position: relative; min-height: 72svh; display: flex; align-items: flex-end; color: #fff; background: var(--ink); isolation: isolate; overflow: hidden; }
 .page-hero img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; }
-.page-hero::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(0deg, rgba(10,31,54,.84) 0%, rgba(10,31,54,.35) 55%, rgba(10,31,54,.5) 100%); }
+.page-hero::after { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(0deg, rgba(14,18,24,.84) 0%, rgba(14,18,24,.35) 55%, rgba(14,18,24,.5) 100%); }
 .page-hero .wrap { width: 100%; padding-top: 170px; padding-bottom: clamp(48px, 7vw, 88px); }
 .page-hero h1 { color: #fff; font-size: clamp(2.5rem, 5.6vw, 4.6rem); max-width: 15ch; }
 .page-hero p { font-size: clamp(1.08rem, 1.5vw, 1.25rem); max-width: 52ch; color: var(--on-dark); margin: 0; }
@@ -318,7 +319,7 @@ h3 { font-size: 1.25rem; letter-spacing: -0.015em; }
 .banner { position: relative; isolation: isolate; min-height: 640px; display: flex; align-items: center; scroll-margin-top: var(--head-h); }
 .banner > img { position: absolute; inset: 0; z-index: -1; width: 100%; height: 100%; object-fit: cover; }
 .banner .wrap { width: 100%; padding-top: 64px; padding-bottom: 64px; }
-.banner-card { max-width: 540px; background: var(--orange); color: var(--ink); padding: clamp(28px, 4vw, 52px); border-radius: var(--r); box-shadow: 0 30px 60px -30px rgba(10,31,54,.6); }
+.banner-card { max-width: 540px; background: var(--orange); color: var(--ink); padding: clamp(28px, 4vw, 52px); border-radius: var(--r); box-shadow: 0 30px 60px -30px rgba(14,18,24,.6); }
 .banner-card h2 { color: var(--ink); margin-top: 0; } .banner-card .btns { margin-top: 26px; }
 @media (max-width: 900px) { .vals { grid-template-columns: 1fr; } .val { display: grid; grid-template-columns: 2fr 3fr; } .val-img { aspect-ratio: auto; min-height: 220px; grid-row: span 3; } .val h3 { margin-top: 18px; } }
 @media (max-width: 560px) { .val { display: block; } .val-img { aspect-ratio: 16 / 9; } .banner { min-height: 0; } .banner .wrap { padding-top: 220px; padding-bottom: 24px; } }
