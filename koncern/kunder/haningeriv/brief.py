@@ -7,15 +7,15 @@ brief = {
  "namn": "Haninge Riv & Sanering AB",
  "kortnamn": "Haninge Riv & Sanering",
  "slug": "haninge-riv-sanering",
- "typ": "Rivning, sanering och håltagning",
+ "typ": "Välkommen till Haninge Riv och Sanering",
  "tagline": "Framåtsträvande inom rivning och sanering",
  "slogan": "Rivning, sanering och håltagning",
  "hero_rubrik": "Rivning, sanering och håltagning",
- "hero_text": "Vi arbetar åt byggföretag, fastighetsägare och privatpersoner – från stambytesrivning till enstaka väggar och rum. Bas i Österhaninge, söder om Stockholm.",
- "intro_rubrik": "Rivning och sanering med bas i Haninge",
+ "hero_text": "Vi tar hand om grovjobbet – och vi har alltid en plan och en plan B på plats. Åt byggföretag, fastighetsägare och privatpersoner, från stambytesrivning till enstaka väggar och rum.",
+ "intro_rubrik": "Vi tar alltid det säkra före det osäkra",
  "om": [
-  "Haninge Riv och Sanering är ett rivnings- och saneringsbolag i Österhaninge med hög beredskap för den lokala marknadens behov. Medarbetarna har lång erfarenhet av rivning, sanering och håltagning, vilket gör att vi kan ta oss an större och mer avancerade projekt.",
-  "Små och stora rivningar, krävande saneringar och håltagning som gör byggnaden eller rummet färdigt – det är arbeten vi utför regelbundet. Vi arbetar också med friläggning av rör vid fuktskador, som konsulter inom bygg och med bemanning av byggpersonal."
+  "Haninge Riv och Sanering är ett framåtsträvande rivnings- och saneringsbolag i Österhaninge, med hög beredskap för den lokala marknadens behov. Vårt team består av bra ledare och arbetskamrater som alltid får jobbet gjort.",
+  "Små och stora rivningsarbeten, krävande saneringsarbeten och håltagning som leder till att byggnaden eller rummet är komplett – det är arbeten vi kan och utför regelbundet. Snabbt betyder inte slarvigt: efter många år i branschen har vi ett öga för detaljer, utan att slösa onödig tid."
  ],
  "vagval_rubrik": "Vad kan vi hjälpa dig med?",
  "tjanster": [
@@ -29,14 +29,14 @@ brief = {
   {"titel": "Jobba hos oss", "ikon": "hjalm", "href": "karriar.html", "text": "Vi tar emot intresseanmälningar löpande."}
  ],
  "affarsomraden": [
-  {"titel": "Rivning", "text": "Tunga och lätta rivningsjobb: hela byggnader eller delar av dem, lägenheter, enstaka rum och väggar – och stambytesrivning åt stora byggföretag.",
-   "text2": "Innan vi börjar kontrollerar vi vilka material som finns i byggnaden och hur konstruktionen hänger ihop. Sortering och miljöriktig hantering av avfallet ingår.", "tagg": "hrs-rivning"},
-  {"titel": "Sanering", "text": "Mögel, asbest, vattenskador, olja, lukt och klotter – och marksanering och rengöring av avlopp, rör och fasader.",
-   "text2": "Skadliga ämnen saneras i inplastade zoner. Akuta ärenden tar vi så snart vi kan.", "tagg": "hrs-sanering"},
-  {"titel": "Håltagning & friläggning", "text": "Kärnborrning, vägg- och golvsågning för rör, ventilation, dörrar och trappor – och friläggning av rör vid fuktskador i golv, väggar och golvbrunnar.",
-   "text2": "Vi gör hål i betongen efter gjutning och förbereder för installationer och kabel- och eldragning.", "tagg": "hrs-haltagning"},
-  {"titel": "Konsult & bemanning", "text": "Vi arbetar som konsulter åt både små och stora företag, och tillhandahåller erfaren byggpersonal till rivning, renovering och annan typ av bygg.",
-   "text2": "Ibland kan vi bemanna med kort varsel, men de flesta jobb kräver planering. Hör av dig i god tid.", "tagg": "hrs-lift"}
+  {"titel": "Rivning", "text": "Vi jobbar med både tunga och lätta rivningsarbeten – hela byggnader eller delar av byggnader, lägenheter, enstaka väggar och rum. Och stambytesrivning åt stora byggföretag.",
+   "text2": "Vårt team kontrollerar material och konstruktion innan vi börjar. Med prover och ritningar planerar vi ett säkert rivningsarbete som du kan känna dig trygg med – och sortering av avfallet ingår självklart.", "tagg": "hrs-rivning"},
+  {"titel": "Sanering", "text": "Bort med det som inte hör hemma och in med en fräschare miljö. Mögel, asbest, klotter, vattenskador, olja och lukt – och marksanering och rengöring av avlopp, rör och fasader.",
+   "text2": "Skadliga ämnen saneras i inplastade zoner. Har du ett akut ärende kan du alltid kontakta oss.", "tagg": "hrs-sanering"},
+  {"titel": "Håltagning & friläggning", "text": "När nya vattenrör eller ventilationsrör ska in, när kök och badrum renoveras eller när du vill ha en mer öppen planlösning. Och vid fuktskador frilägger vi rören som blivit utsatta.",
+   "text2": "Vi gör hål i betongen efter gjutning och förbereder för olika typer av installationer samt kabel- och eldragningar.", "tagg": "hrs-haltagning"},
+  {"titel": "Konsult & bemanning", "text": "Vi kan byggbranschen ut och innantill. Ta hjälp av våra konsulter i stora som små projekt – och av vår bemanning när ditt företag behöver erfaren byggpersonal, kort eller lång tid.",
+   "text2": "I vissa fall kan vi bemanna med kort varsel, men många jobb kräver planering långt i förväg. Hör av dig i god tid.", "tagg": "hrs-lift"}
  ],
  "bolag": [
   {"namn": "Haninge Riv & Sanering AB", "segment": "Rivning, sanering och håltagning", "rubrik": "Framåtsträvande inom rivning och sanering",
@@ -45,8 +45,8 @@ brief = {
    "text": "Totalrenoveringar, kök och badrum, målning, golv och plattsättning, snickeri, tillbyggnader, betong och VVS – för privatpersoner, företag och bostadsrättsföreningar i Stockholm och på Södertörn.", "tagg": "hrs-hb"}
  ],
  "berattelser": [
-  {"rubrik": "Stambytesrivning åt stora byggföretag", "text": "Lägenhet för lägenhet, med sortering och bortforsling.", "tagg": "hrs-rivning"},
-  {"rubrik": "Sanering i inplastade zoner", "text": "Mögel, asbest och vattenskador – damm och ämnen stannar där de ska.", "tagg": "hrs-sanering2"}
+  {"rubrik": "Vi tar hand om grovjobbet", "text": "Stambytesrivning åt stora byggföretag – lägenhet för lägenhet, med sortering och bortforsling.", "tagg": "hrs-rivning"},
+  {"rubrik": "Det säkra före det osäkra", "text": "Sanering i inplastade zoner, så att damm och skadliga ämnen stannar där de ska.", "tagg": "hrs-sanering2"}
  ],
  "nyckeltal": [
   {"varde": "6", "enhet": "", "etikett": "Tjänsteområden"},
@@ -64,45 +64,45 @@ brief = {
  ],
  "process_rubrik": "Så går ett uppdrag till",
  "process": [
-  {"titel": "Förfrågan", "text": "Beskriv jobbet i formuläret eller ring oss. Vi svarar inom 24 timmar, även på helger.", "tagg": "hrs-bil"},
-  {"titel": "Provtagning", "text": "Vi går igenom material och konstruktion och tar prover, så att inget rasar och inga skadliga ämnen sprids.", "tagg": "hrs-sluss"},
-  {"titel": "Offert och plan", "text": "Med prover och ritningar som grund planerar vi ett säkert arbete enligt gällande regler och lagar.", "tagg": "hrs-konsult"},
-  {"titel": "Utförande", "text": "Vi håller dig uppdaterad under hela processen och sorterar avfallet för återvinning.", "tagg": "hrs-hall"}
+  {"titel": "Förfrågan", "text": "Ring eller beskriv jobbet i formuläret. Vi svarar inom 24 timmar, även på helger – och du förbinder dig inte till något.", "tagg": "hrs-bil"},
+  {"titel": "Provtagning", "text": "Säkerhet och hälsa får man aldrig glömma. Vi analyserar och tar prover – i vissa fall flera – innan arbetet börjar.", "tagg": "hrs-sluss"},
+  {"titel": "En plan och en plan B", "text": "Med prover och ritningar som grund gör vi en planering som är smidig och smärtfri för dig.", "tagg": "hrs-konsult"},
+  {"titel": "Grovjobbet", "text": "Vi tar hand om grovjobbet, håller dig uppdaterad och sorterar avfallet för miljövänlig återvinning.", "tagg": "hrs-hall"}
  ],
  "hallbarhet": {
-  "rubrik": "Hållbarhet i varje rivning",
-  "text": "Vi tar prover innan arbetet börjar, sorterar avfallet på plats och lämnar det till återvinning. Farliga material tas om hand enligt gällande regler, och vi använder så miljövänliga verktyg som möjligt.",
+  "rubrik": "Alltid miljövänligt",
+  "text": "Oavsett om jobbet är litet eller stort avlägsnar vi överflödigt material och skadliga ämnen på ett säkert sätt och tar hand om miljövänlig återvinning. Du behöver aldrig oroa dig över att material och partiklar hanteras fel – och vi använder så miljövänliga verktyg som möjligt.",
   "mal": [["Prover", "tas innan arbetet börjar"], ["Sorterat", "avfall lämnas till återvinning"], ["Säker", "hantering av farliga material"]]
  },
  "karriar": {
   "rubrik": "Arbeta hos oss",
-  "text": "Teamet består av ledare och arbetskamrater som får jobbet gjort. Vi tar emot intresseanmälningar löpande – berätta vem du är och vad du kan, så hör vi av oss när vi behöver förstärkning.",
+  "text": "Vårt team består av bra ledare och arbetskamrater som alltid får jobbet gjort. Vi tar emot intresseanmälningar löpande – berätta vem du är och vad du kan, så hör vi av oss när vi behöver förstärkning.",
   "jobb": [["Intresseanmälan", "Österhaninge"]]
  },
  "kultur": "Teamwork är en viktig del av arbetsmiljön, och det märks för kunden också.",
  "faq": [
   ["Hur snabbt svarar ni på en förfrågan?", "Vi svarar inom 24 timmar, även på helger. Ring oss eller beskriv jobbet i formuläret."],
-  ["Kostar det något att fråga?", "Nej. Du kan kontakta oss med frågor om ditt projekt utan att binda dig till något. Konsultationen är kostnadsfri."],
-  ["Tar ni prover innan ni river?", "Ja. Vi går igenom material och konstruktion och tar prover – ibland flera – innan arbetet börjar, så att inget rasar och inga skadliga ämnen sprids."],
-  ["Tar ni akuta saneringar?", "Ja, akuta ärenden tar vi så snart vi kan, till exempel vattenskador."],
+  ["Kostar det något att fråga?", "Nej. Vi tror på service, så du kan alltid kontakta oss utan att förbinda dig till något. Konsultationen är kostnadsfri – sedan bestämmer du själv om du vill samarbeta med oss."],
+  ["Tar ni prover innan ni river?", "Ja, alltid. Säkerhet och hälsa får man aldrig glömma. Vi analyserar konstruktionen och tar prover – i vissa fall flera – så att inget rasar och inga skadliga ämnen påverkar din hälsa under eller efter jobbet. Vi tar alltid det säkra före det osäkra."],
+  ["Tar ni akuta saneringar?", "Ja. Har du ett akut ärende, till exempel en vattenskada, kan du alltid kontakta oss."],
   ["Kan ni bemanna med kort varsel?", "Ibland, men de flesta jobb kräver planering. Hör av dig i god tid så hittar vi rätt personal."],
   ["Var finns ni?", "Vi har vår bas i Österhaninge, söder om Stockholm. Berätta var uppdraget finns när du hör av dig."]
  ],
  "kontakt": {"adress": "Albybergsringen, lokal 35", "postnr": "", "ort": "Österhaninge", "telefon": TEL, "epost": MAIL, "orgnr": ""},
  "oppettider": "Mån–fre 07–16, lör 10–13",
  "omrade": "Österhaninge, söder om Stockholm",
- "fot_cta": "Ska du riva, sanera eller ta upp hål i betong? Vi svarar inom 24 timmar.",
- "fot_text": "Rivning, sanering och betonghåltagning åt byggföretag, fastighetsägare och privatpersoner. Bas i Österhaninge, söder om Stockholm.",
+ "fot_cta": "Ska något rivas, saneras eller borras? Vi tar hand om grovjobbet.",
+ "fot_text": "Rivning, sanering och betonghåltagning åt byggföretag, fastighetsägare och privatpersoner. Vi har den expertis ni behöver.",
  "bild": {"panel": "hrs-folk", "hb": "hrs-miljo", "om": "hrs-bil", "sida_bolag": "hrs-bil", "sida_om": "hrs-bil2", "sida_hb": "hrs-miljo",
           "sida_faq": "hrs-hall2", "sida_karriar": "hrs-folk", "citat": "hrs-folk"},
  "text": {
   "bolag_etikett": "Koncernen", "bolag_rubrik": "Våra bolag", "meny_bolag": "Våra bolag", "bolag_kol": ["Bolag", "Inriktning", "Verksamhet"],
   "bolag_till": "Till {namn}",
   "sida_bolag_ingress": "Haninge Riv & Sanering och Haninge Byggteam arbetar sida vid sida från Albybergsringen i Österhaninge – rivning, sanering och håltagning i det ena bolaget, bygg och renovering i det andra.",
-  "sida_bolag_lank": "Kontakta oss", "hb_etikett": "Hållbarhet", "fot_cta": "Ska du riva, sanera eller ta upp hål i betong? Vi svarar inom 24 timmar.",
+  "sida_bolag_lank": "Kontakta oss", "hb_etikett": "Hållbarhet", "fot_cta": "Ska något rivas, saneras eller borras? Vi tar hand om grovjobbet.",
   "ny_etikett": "Projekt", "ny_rubrik": "Från våra arbetsplatser", "ny_rubrik_lista": "Från våra arbetsplatser", "ny_lank": "Alla projekt",
   "ber_etikett": "Projekt", "ber_rubrik": "Utvalda uppdrag", "boka_rubrik": "Begär offert",
-  "boka_text": "Ett formulär för båda bolagen i koncernen: rivning, sanering och håltagning hos oss, bygg och renovering hos Haninge Byggteam – eller båda, till exempel när ett badrum ska rivas och byggas upp igen. Konsultationen är kostnadsfri.",
+  "boka_text": "Vi tror på service och att alltid ge mer än vad som efterfrågas, så du kan kontakta oss utan att förbinda dig till något. Samma formulär gäller båda bolagen: rivning och sanering hos oss, bygg och renovering hos Haninge Byggteam – eller båda, till exempel när ett badrum ska rivas och byggas upp igen.",
   "bolag_knapp": "Om våra bolag", "sida_projekt_titel": "Projekt",
   "sida_karriar_etikett": "Karriär", "sida_karriar_rubrik": "Intresseanmälan",
   "sida_karriar_text": "Skicka en intresseanmälan med dina uppgifter och din erfarenhet av rivning, sanering eller håltagning, så hör vi av oss när vi behöver förstärkning.",
@@ -115,7 +115,7 @@ brief = {
   ["Håltagning", "Kärnborrning i betongvägg", "Hål för rör och ventilation.", "hrs-haltagning"]
  ],
  "boka_rubrik": "Begär offert",
- "boka_text": "Ett formulär för båda bolagen i koncernen: rivning, sanering och håltagning hos oss, bygg och renovering hos Haninge Byggteam – eller båda, till exempel när ett badrum ska rivas och byggas upp igen. Konsultationen är kostnadsfri.",
+ "boka_text": "Vi tror på service och att alltid ge mer än vad som efterfrågas, så du kan kontakta oss utan att förbinda dig till något. Samma formulär gäller båda bolagen: rivning och sanering hos oss, bygg och renovering hos Haninge Byggteam – eller båda, till exempel när ett badrum ska rivas och byggas upp igen.",
  "sidor": [["verksamhet", "Tjänster", "verksamhet"], ["bolag", "Våra bolag", "bolag"], ["projekt", "Projekt", "projekt"],
            ["hallbarhet", "Hållbarhet", "hallbarhet"], ["faq", "Frågor & svar", "faq"], ["karriar", "Jobba hos oss", "karriar"], ["om-oss", "Om oss", "om-oss"]],
  "nav": ["verksamhet", "bolag", "projekt", "hallbarhet", "karriar", "om-oss"],

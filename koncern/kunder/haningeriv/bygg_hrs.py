@@ -26,6 +26,9 @@ FORM_EMAIL = "elevate.studio018@gmail.com"
 FORM_TILL = {"hrs": FORM_EMAIL, "hb": FORM_EMAIL}
 TEL = "072-002 22 00"
 HB_URL = "https://www.haningebyggteam.se/"
+TEL_KNAPP = ('<a class="head-tel" href="tel:+46720022200" aria-label="Ring oss: 072-002 22 00">'
+             '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+             '<path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a1 1 0 0 1-1 1A16 16 0 0 1 4 5a1 1 0 0 1 1-1z"/></svg><span>072-002 22 00</span></a>')
 
 WORK_TYPES = ["Rivning", "Stambytesrivning", "Sanering", "Betonghåltagning", "Friläggning av rör vid fuktskada",
               "Konsult inom bygg", "Bemanning av byggpersonal"]
@@ -124,7 +127,7 @@ def tjanster_kort(self):
                  f'<span class="tk-text"><small>{i + 1:02d}</small><b>{E(a["titel"])}</b><span>{E(a["text"])}</span><i>Läs mer {PIL}</i></span></a></li>')
     return f'''<section class="sek tk" aria-labelledby="tk-h"><div class="wrap">
   <div class="tk-huvud"><div><span class="etikett">Vårt erbjudande</span><h2 id="tk-h">Våra tjänster</h2></div>
-    <p>Rivning, sanering och betonghåltagning – och runt det friläggning av rör, byggkonsult och bemanning av byggpersonal.</p>
+    <p>Från rivning av innerväggar till hela våningsbyggnader – vi tar hand om allt som krävs för att jobbet ska ske smidigt och säkert.</p>
     {self.knapp("Alla tjänster", "verksamhet.html")}</div>
   <ul class="tk-grid">{kort}</ul>
 </div></section>'''
@@ -280,6 +283,13 @@ body[data-header="transparent"].har-hero .head:not(.fast) .logga .logga-mork { d
 /* Herorubriken är längre än Byggteams: lite mindre grad */
 body[data-herotext="nere"] .hero .hero-txt h1, body[data-herotext="nere"] .hero .hero-txt h2 { font-size: calc(clamp(44px, 6.6vw, 112px) * var(--skala-r)); max-width: 11em; }
 
+/* Telefonknappen i sidhuvudet: orange med numret, rund ikon på smal mobil */
+.head-tel { display: inline-flex; align-items: center; gap: 8px; min-height: 40px; padding: 9px 18px 9px 14px; border-radius: 999px; background: var(--c-a); color: var(--c-a-ink); font: 600 14px/1 var(--font-t); white-space: nowrap; text-decoration: none; transition: background .2s, transform .2s; }
+.head-tel svg { width: 18px; height: 18px; flex: none; }
+.head-tel:hover { background: #e57a3a; transform: translateY(-1px); }
+@media (max-width: 479px) { .head-tel { width: 42px; height: 42px; padding: 0; justify-content: center; } .head-tel span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); } }
+@media (min-width: 1180px) and (max-width: 1379px) { .head-kontakt { display: none !important; } .nav { gap: 20px; } }
+
 /* Sex tjänsterutor: tre eller sex i bredd */
 @media (min-width: 760px) { .t4-rutor { grid-template-columns: repeat(3, 1fr); } }
 @media (min-width: 1200px) { .t4-rutor { grid-template-columns: repeat(6, 1fr); } }
@@ -372,6 +382,8 @@ def postprocess(out):
                           '<p class="fot-namn"><img class="fot-logga" src="assets/logo-vit.png" alt="Haninge Riv &amp; Sanering AB" width="170" height="94"></p>')
         # Bilderna är HRS egna foton från arbetsplatserna, inte illustrationer: ingen "Illustrationsbild"-märkning.
         doc = re.sub(r'<span class="(?:foto-not|figtext)">Illustrationsbild</span>', "", doc)
+        # Telefonnumret syns alltid: orange knapp i sidhuvudet, som på HRS gamla sajt
+        doc = doc.replace('<div class="head-verktyg">', '<div class="head-verktyg">' + TEL_KNAPP, 1)
         # Ingen sökfunktion på sajten: ta bort sökknappen. Generatorns "Kvalitet & miljö" heter Hållbarhet här.
         doc = re.sub(r'<a class="sok" href="#".*?</a>', "", doc, flags=re.S)
         doc = doc.replace("Kvalitet &amp; miljö", "Hållbarhet").replace("Kvalitet & miljö", "Hållbarhet")
