@@ -370,6 +370,8 @@ def postprocess(out):
         doc = re.sub(r'(<a class="logga"[^>]*>)<svg.*?</svg>', r"\1", doc, flags=re.S)
         doc = doc.replace('<p class="fot-namn">Haninge Riv &amp; Sanering</p>',
                           '<p class="fot-namn"><img class="fot-logga" src="assets/logo-vit.png" alt="Haninge Riv &amp; Sanering AB" width="170" height="94"></p>')
+        # Bilderna är HRS egna foton från arbetsplatserna, inte illustrationer: ingen "Illustrationsbild"-märkning.
+        doc = re.sub(r'<span class="(?:foto-not|figtext)">Illustrationsbild</span>', "", doc)
         # Ingen sökfunktion på sajten: ta bort sökknappen. Generatorns "Kvalitet & miljö" heter Hållbarhet här.
         doc = re.sub(r'<a class="sok" href="#".*?</a>', "", doc, flags=re.S)
         doc = doc.replace("Kvalitet &amp; miljö", "Hållbarhet").replace("Kvalitet & miljö", "Hållbarhet")
