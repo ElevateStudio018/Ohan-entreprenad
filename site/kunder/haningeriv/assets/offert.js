@@ -17,10 +17,31 @@
     web: document.getElementById("f-web")
   };
 
+  // Ett formulär för båda bolagen: valet styr vilka uppdragstyper som visas och vart förfrågan skickas.
+  var NAMN = { hrs: "Haninge Riv & Sanering", hb: "Haninge Byggteam", bada: "Båda bolagen" };
+  var radios = form.querySelectorAll("input[name=bolag]");
+  function bolag() { return (form.querySelector("input[name=bolag]:checked") || {}).value || "hrs"; }
+  function filtrera() {
+    var b = bolag();
+    form.querySelectorAll("#f-typ optgroup").forEach(function (g) {
+      var visa = b === "bada" || g.dataset.bolag === b;
+      g.hidden = !visa; g.disabled = !visa;
+    });
+    var valt = f.typ.selectedOptions[0];
+    if (valt && valt.parentNode.disabled) f.typ.value = "";
+  }
+  radios.forEach(function (r) { r.addEventListener("change", filtrera); });
+  // Väljer man en typ som hör till det andra bolaget (vid "Båda") behålls valet; annars följer listan bolaget.
+  filtrera();
+
   // "Begär offert" on a service page arrives with ?typ=… and that type chosen.
   var typ = new URLSearchParams(location.search).get("typ");
   if (typ) {
-    for (var i = 0; i < f.typ.options.length; i++) if (f.typ.options[i].text === typ) f.typ.selectedIndex = i;
+    for (var i = 0; i < f.typ.options.length; i++) if (f.typ.options[i].text === typ) {
+      var g = f.typ.options[i].parentNode.dataset ? f.typ.options[i].parentNode.dataset.bolag : null;
+      if (g) { form.querySelector("input[name=bolag][value=" + g + "]").checked = true; filtrera(); }
+      f.typ.selectedIndex = i;
+    }
   }
 
   function mark(key, input, bad) {
@@ -52,14 +73,14 @@
     submit.textContent = "Skickar …";
     sendErr.hidden = true;
     var payload = {
-      _subject: "Offertförfrågan från hemsidan – " + f.namn.value.trim(),
+      _subject: "Offertförfrågan – " + NAMN[bolag()] + " – " + f.namn.value.trim(),
       _template: "table",
       _captcha: "false",
       _honey: f.web.value,
       Namn: f.namn.value.trim(),
       Telefon: f.tel.value.trim() || "–",
       "E-post": f.epost.value.trim() || "–",
-      Kundtyp: (form.querySelector("input[name=kund]:checked") || {}).value || "–",
+      Bolag: NAMN[bolag()],
       "Typ av uppdrag": f.typ.value || "–",
       "Önskad start": f.start.value || "–",
       "Adress/ort": f.adress.value.trim() || "–",
@@ -67,16 +88,25 @@
       Sida: location.pathname
     };
     if (f.epost.value.trim()) payload._replyto = f.epost.value.trim();
-    fetch(form.getAttribute("data-endpoint"), {
-      method: "POST",
-      headers: { "Content-Type": "application/json", Accept: "application/json" },
-      body: JSON.stringify(payload)
-    }).then(function (r) {
-      return r.json().catch(function () { return null; }).then(function (j) {
-        if (!r.ok || !j || String(j.success) !== "true") throw new Error("not sent");
+    var b = bolag(), till = b === "bada" ? ["hrs", "hb"] : [b];
+    var sand = till.map(function (k) { return form.getAttribute("data-endpoint-" + k); })
+      .filter(function (u, i, a) { return a.indexOf(u) === i; });  // samma adress två gånger: skicka en gång
+    Promise.all(sand.map(function (url) {
+      return fetch(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify(payload)
+      }).then(function (r) {
+        return r.json().catch(function () { return null; }).then(function (j) {
+          if (!r.ok || !j || String(j.success) !== "true") throw new Error("not sent");
+        });
       });
-    }).then(function () {
+    })).then(function () {
+      document.getElementById("qdone-txt").textContent = b === "bada"
+        ? "Förfrågan har gått till både Haninge Riv & Sanering och Haninge Byggteam. Vi hör av oss så snart vi kan."
+        : "Förfrågan har gått till " + NAMN[b] + ". Vi hör av oss så snart vi kan.";
       form.reset();
+      filtrera();
       form.hidden = true;
       done.hidden = false;
       done.focus();

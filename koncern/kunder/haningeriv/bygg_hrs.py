@@ -21,11 +21,20 @@ NODE = pathlib.Path(sys.argv[3]).resolve() if len(sys.argv) > 3 else ROT
 
 # Förhandsvisningen skickar förfrågningarna till Elevate Studio; byt till info@haningeriv.se vid lansering.
 FORM_EMAIL = "elevate.studio018@gmail.com"
+# Det gemensamma formuläret skickar till det bolag kunden väljer (båda vid "Båda / vet inte").
+# Vid lansering: HRS -> info@haningeriv.se, Byggteam -> info@haningebyggteam.se.
+FORM_TILL = {"hrs": FORM_EMAIL, "hb": FORM_EMAIL}
 TEL = "072-002 22 00"
 HB_URL = "https://www.haningebyggteam.se/"
 
 WORK_TYPES = ["Rivning", "Stambytesrivning", "Sanering", "Betonghåltagning", "Friläggning av rör vid fuktskada",
-              "Konsult inom bygg", "Bemanning av byggpersonal", "Annat"]
+              "Konsult inom bygg", "Bemanning av byggpersonal"]
+# Haninge Byggteams uppdragstyper (samma som i Byggteams eget formulär, HB-AB/scripts/bygg_koncern.py)
+HB_TYPES = ["Totalrenovering", "Köksrenovering", "Badrumsrenovering", "Målning och ytskikt", "Golv, kakel och klinker",
+            "Snickeri och inredning", "Dörrar, fönster och tak", "Om- och tillbyggnad, utomhus", "VVS och ledningsarbeten"]
+BOLAG_VAL = [("hrs", "Rivning, sanering & håltagning", "Haninge Riv & Sanering"),
+             ("hb", "Bygg & renovering", "Haninge Byggteam"),
+             ("bada", "Båda / vet inte", "Vi fördelar förfrågan")]
 START_OPTIONS = ["Så snart som möjligt", "Inom 1–3 månader", "Inom 3–6 månader", "Senare / vet inte"]
 
 # Den gamla sajtens adresser pekar vidare.
@@ -230,9 +239,15 @@ def galleri_bilder(out):
 
 
 def quote_form():
-    types = "".join(f"<option>{E(t)}</option>" for t in WORK_TYPES)
+    """Ett offertformulär för båda bolagen: kunden väljer vad det gäller och förfrågan går till rätt bolag."""
+    val = "".join(f'<label class="bv-val"><input type="radio" name="bolag" value="{k}"{" checked" if k == "hrs" else ""}>'
+                  f'<span><b>{E(t)}</b><small>{E(u)}</small></span></label>' for k, t, u in BOLAG_VAL)
+    types = (f'<optgroup label="Haninge Riv &amp; Sanering" data-bolag="hrs">{"".join(f"<option>{E(t)}</option>" for t in WORK_TYPES)}</optgroup>'
+             f'<optgroup label="Haninge Byggteam" data-bolag="hb">{"".join(f"<option>{E(t)}</option>" for t in HB_TYPES)}</optgroup>'
+             '<option>Annat</option>')
     start = "".join(f"<option>{E(t)}</option>" for t in START_OPTIONS)
-    return f'''<form class="boka-form" id="qform" novalidate data-endpoint="https://formsubmit.co/ajax/{FORM_EMAIL}">
+    return f'''<form class="boka-form" id="qform" novalidate data-endpoint-hrs="https://formsubmit.co/ajax/{FORM_TILL["hrs"]}" data-endpoint-hb="https://formsubmit.co/ajax/{FORM_TILL["hb"]}">
+<fieldset class="hel bv"><legend>Vad gäller förfrågan?</legend><div class="bv-lista">{val}</div></fieldset>
 <label><span>Namn *</span><input id="f-namn" name="namn" autocomplete="name" required><small class="fel" id="e-namn" hidden>Ange ditt namn.</small></label>
 <label><span>Telefon *</span><input id="f-tel" name="tel" type="tel" autocomplete="tel"><small class="fel" id="e-tel" hidden>Ange telefon eller e-post.</small></label>
 <label><span>E-post</span><input id="f-epost" name="epost" type="email" autocomplete="email"><small class="fel" id="e-epost" hidden>Kontrollera e-postadressen.</small></label>
@@ -242,10 +257,10 @@ def quote_form():
 <label class="hel"><span>Beskriv jobbet</span><textarea id="f-besk" name="besk" rows="4"></textarea></label>
 <div class="hp" aria-hidden="true"><label>Lämna tomt<input id="f-web" name="web" tabindex="-1" autocomplete="off"></label></div>
 <button class="knapp knapp-primar" type="submit"><span>Skicka offertförfrågan</span></button>
-<p class="hel boka-fin">Vi svarar inom 24 timmar, även på helger. Uppgifterna används endast för att besvara din förfrågan.</p>
+<p class="hel boka-fin">Förfrågan går bara till det bolag du väljer, eller till båda. Uppgifterna används endast för att besvara den.</p>
 <p class="hel fel" id="send-err" role="alert" hidden>Förfrågan kunde inte skickas. Försök igen eller ring {TEL}.</p>
 </form>
-<div class="boka-form boka-klar" id="qdone" tabindex="-1" hidden><h3>Tack för din förfrågan</h3><p>Vi återkommer inom 24 timmar.</p>
+<div class="boka-form boka-klar" id="qdone" tabindex="-1" hidden><h3>Tack för din förfrågan</h3><p id="qdone-txt">Vi hör av oss så snart vi kan.</p>
 <button class="knapp" type="button" id="qagain"><span>Skicka en ny förfrågan</span></button></div>'''
 
 
@@ -288,6 +303,22 @@ body[data-herotext="nere"] .hero .hero-txt h1, body[data-herotext="nere"] .hero 
 .ku-lista li:hover::before { transform: none; }
 .ku-lista li:hover span { color: var(--k); }
 @media (max-width: 599px) { .ku-lista li { min-height: 120px; padding: 24px 12px 16px; } .ku-lista img { max-height: 40px; } }
+
+/* Offertformuläret: val av bolag */
+.bv { border: 0; margin: 0; padding: 0; min-width: 0; }
+.bv legend { font-size: 14px; font-weight: 600; margin-bottom: 8px; padding: 0; }
+.bv-lista { display: grid; gap: 10px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.bv-val { position: relative; display: block; cursor: pointer; }
+.bv-val input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.bv-val span { display: grid; gap: 3px; height: 100%; padding: 13px 14px 13px 40px; border: 1px solid var(--c-line); border-radius: min(var(--r-card), 10px); background: var(--c-yta); transition: border-color .2s, background .2s; }
+.bv-val span::before { content: ""; position: absolute; left: 14px; top: 16px; width: 16px; height: 16px; border-radius: 50%; border: 2px solid var(--c-mut); background: #fff; }
+.bv-val b { font-size: 14.5px; line-height: 1.25; }
+.bv-val small { font-size: 12.5px; font-weight: 500; color: var(--c-mut); }
+.bv-val:hover span { border-color: var(--c-ink); }
+.bv-val input:checked + span { border-color: var(--c-a); background: #fff; box-shadow: inset 0 0 0 1px var(--c-a); }
+.bv-val input:checked + span::before { border-color: var(--c-a); background: radial-gradient(circle, var(--c-a) 0 4px, #fff 5px); }
+.bv-val input:focus-visible + span { outline: 2px solid var(--c-ink); outline-offset: 2px; }
+@media (max-width: 759px) { .bv-lista { grid-template-columns: 1fr; } }
 
 /* Projektsidan: bildgalleri med filter */
 .gl .pf-chips button { color: var(--c-ink); border-color: var(--c-line); }

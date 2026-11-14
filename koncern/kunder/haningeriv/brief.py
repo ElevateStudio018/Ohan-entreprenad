@@ -102,7 +102,7 @@ brief = {
   "sida_bolag_lank": "Kontakta oss", "hb_etikett": "Hållbarhet", "fot_cta": "Ska du riva, sanera eller ta upp hål i betong? Vi svarar inom 24 timmar.",
   "ny_etikett": "Projekt", "ny_rubrik": "Från våra arbetsplatser", "ny_rubrik_lista": "Från våra arbetsplatser", "ny_lank": "Alla projekt",
   "ber_etikett": "Projekt", "ber_rubrik": "Utvalda uppdrag", "boka_rubrik": "Begär offert",
-  "boka_text": "Beskriv jobbet så återkommer vi inom 24 timmar, även på helger. Konsultationen är kostnadsfri och du binder dig inte till något.",
+  "boka_text": "Ett formulär för båda bolagen i koncernen: rivning, sanering och håltagning hos oss, bygg och renovering hos Haninge Byggteam – eller båda, till exempel när ett badrum ska rivas och byggas upp igen. Konsultationen är kostnadsfri.",
   "bolag_knapp": "Om våra bolag", "sida_projekt_titel": "Projekt",
   "sida_karriar_etikett": "Karriär", "sida_karriar_rubrik": "Intresseanmälan",
   "sida_karriar_text": "Skicka en intresseanmälan med dina uppgifter och din erfarenhet av rivning, sanering eller håltagning, så hör vi av oss när vi behöver förstärkning.",
@@ -115,7 +115,7 @@ brief = {
   ["Håltagning", "Kärnborrning i betongvägg", "Hål för rör och ventilation.", "hrs-haltagning"]
  ],
  "boka_rubrik": "Begär offert",
- "boka_text": "Beskriv jobbet så återkommer vi inom 24 timmar, även på helger. Konsultationen är kostnadsfri och du binder dig inte till något.",
+ "boka_text": "Ett formulär för båda bolagen i koncernen: rivning, sanering och håltagning hos oss, bygg och renovering hos Haninge Byggteam – eller båda, till exempel när ett badrum ska rivas och byggas upp igen. Konsultationen är kostnadsfri.",
  "sidor": [["verksamhet", "Tjänster", "verksamhet"], ["bolag", "Våra bolag", "bolag"], ["projekt", "Projekt", "projekt"],
            ["hallbarhet", "Hållbarhet", "hallbarhet"], ["faq", "Frågor & svar", "faq"], ["karriar", "Jobba hos oss", "karriar"], ["om-oss", "Om oss", "om-oss"]],
  "nav": ["verksamhet", "bolag", "projekt", "hallbarhet", "karriar", "om-oss"],

@@ -9,4 +9,4 @@ python3 brief.py                # skriver brief.json och paket.json
 python3 bygg_hrs.py ../../.. ../../../site/kunder/haningeriv <mapp med node_modules för purgecss + lightningcss>
 ```
 
-Före lansering: byt `FORM_EMAIL` i `bygg_hrs.py` till info@haningeriv.se, ta bort `demo` i `brief.py` och fyll i organisationsnummer.
+Före lansering: sätt `FORM_TILL` i `bygg_hrs.py` till info@haningeriv.se (HRS) och info@haningebyggteam.se (Byggteam), ta bort `demo` i `brief.py` och fyll i organisationsnummer.
