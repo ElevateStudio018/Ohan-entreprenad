@@ -1,125 +1,90 @@
-(() => {
-  const $ = (s, el = document) => el.querySelector(s);
-  const $$ = (s, el = document) => [...el.querySelectorAll(s)];
-  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+(function () {
+  "use strict";
+  var head = document.getElementById("head");
+  var btn = document.getElementById("menyKnapp");
+  var meny = document.getElementById("meny");
 
-  // Headern blir vit när man scrollat förbi toppen
-  const mast = $('.masthead');
-  if (mast && !document.body.classList.contains('no-hero')) {
-    const upd = () => mast.classList.toggle('solid', scrollY > 40);
-    addEventListener('scroll', upd, { passive: true });
-    upd();
+  // Menyn: öppnas under headern, stängs med Esc, klick på länk eller krysset.
+  if (btn && meny) {
+    var setOpen = function (open) {
+      meny.hidden = !open;
+      btn.setAttribute("aria-expanded", String(open));
+      btn.setAttribute("aria-label", open ? "Stäng menyn" : "Öppna menyn");
+      if (head) head.classList.toggle("fast", open || window.scrollY > 40);
+    };
+    btn.addEventListener("click", function () { setOpen(meny.hidden); });
+    meny.addEventListener("click", function (e) { if (e.target.closest("a")) setOpen(false); });
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !meny.hidden) { setOpen(false); btn.focus(); } });
   }
 
-  // Mobilmeny
-  const menuBtn = $('.menu-btn');
-  if (menuBtn) {
-    menuBtn.addEventListener('click', () => {
-      const open = document.body.classList.toggle('menu-open');
-      menuBtn.setAttribute('aria-expanded', open);
-    });
-    $$('.nav a').forEach(a => a.addEventListener('click', () => {
-      document.body.classList.remove('menu-open');
-      menuBtn.setAttribute('aria-expanded', 'false');
-    }));
+  // Transparent header över heron blir solid när man scrollar.
+  if (head) {
+    var onScroll = function () { head.classList.toggle("fast", window.scrollY > 40 || (meny && !meny.hidden)); };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
   }
 
-  // Bildspel i heron
-  const slides = $$('.hero-slides img');
-  const dots = $$('.hero-dots button');
-  if (slides.length > 1) {
-    let i = 0, timer;
-    const show = n => {
-      slides[i].classList.remove('on'); dots[i]?.setAttribute('aria-current', 'false');
+  // Bildspel i heron: byter bild var 7:e sekund, prickar och nästa-knapp. Pausar när man håller muspekaren över.
+  document.querySelectorAll("[data-bildspel]").forEach(function (spel) {
+    var slides = spel.querySelectorAll(".bild-slide");
+    var prickar = spel.querySelectorAll(".spel-prickar button");
+    var nasta = spel.querySelector(".spel-nasta");
+    if (slides.length < 2) return;
+    var i = 0, timer = null, reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    var visa = function (n) {
       i = (n + slides.length) % slides.length;
-      slides[i].classList.add('on'); dots[i]?.setAttribute('aria-current', 'true');
+      slides.forEach(function (s, k) { s.classList.toggle("aktiv", k === i); s.setAttribute("aria-hidden", String(k !== i)); });
+      prickar.forEach(function (p, k) { p.setAttribute("aria-current", String(k === i)); });
     };
-    const start = () => { if (!reduce) timer = setInterval(() => show(i + 1), 7000); };
-    dots.forEach((d, k) => d.addEventListener('click', () => { clearInterval(timer); show(k); start(); }));
+    var start = function () { if (!reduce) { clearInterval(timer); timer = setInterval(function () { visa(i + 1); }, 7000); } };
+    prickar.forEach(function (p, k) { p.addEventListener("click", function () { visa(k); start(); }); });
+    if (nasta) nasta.addEventListener("click", function () { visa(i + 1); start(); });
+    spel.addEventListener("mouseenter", function () { clearInterval(timer); });
+    spel.addEventListener("mouseleave", start);
+    visa(0);
     start();
-    document.addEventListener('visibilitychange', () => { clearInterval(timer); if (!document.hidden) start(); });
-  }
+  });
 
-  // Tjänstekarusell på startsidan: pilknappar
-  const car = $('.svc-car');
-  const carBtns = $$('.car-btns button');
-  if (car && carBtns.length) {
-    const step = () => ($('.svc-card', car)?.offsetWidth || 340) + 16;
-    const upd = () => {
-      carBtns[0].disabled = car.scrollLeft < 4;
-      carBtns[1].disabled = car.scrollLeft + car.clientWidth >= car.scrollWidth - 4;
-    };
-    carBtns.forEach(b => b.addEventListener('click', () => car.scrollBy({ left: +b.dataset.d * step(), behavior: reduce ? 'auto' : 'smooth' })));
-    car.addEventListener('scroll', upd, { passive: true });
-    addEventListener('resize', upd);
-    upd();
-  }
-
-  // Tjänstemeny: markera aktiv sektion
-  const svcLinks = $$('.svc-nav a');
-  if (svcLinks.length && 'IntersectionObserver' in window) {
-    const map = new Map(svcLinks.map(a => [a.getAttribute('href').slice(1), a]));
-    const io = new IntersectionObserver(es => es.forEach(e => {
-      if (!e.isIntersecting) return;
-      svcLinks.forEach(a => a.classList.remove('on'));
-      const a = map.get(e.target.id);
-      if (a) { a.classList.add('on'); a.scrollIntoView({ block: 'nearest', inline: 'center' }); }
-    }), { rootMargin: '-45% 0px -50% 0px' });
-    map.forEach((_, id) => { const el = document.getElementById(id); if (el) io.observe(el); });
-  }
-
-  // Galleri: filter + bildvisning
-  const gallery = $('.gallery');
-  if (gallery) {
-    const figs = $$('figure', gallery);
-    $$('.filters button').forEach(b => b.addEventListener('click', () => {
-      $$('.filters button').forEach(x => x.setAttribute('aria-pressed', x === b));
-      figs.forEach(f => { f.hidden = b.dataset.f !== 'alla' && f.dataset.cat !== b.dataset.f; });
-    }));
-    const lb = $('.lightbox'), lbImg = $('img', lb), lbTxt = $('p', lb);
-    let cur = 0, last = null;
-    const visible = () => figs.filter(f => !f.hidden);
-    const open = fig => {
-      cur = visible().indexOf(fig);
-      const img = $('img', fig);
-      lbImg.src = img.dataset.full || img.src; lbImg.alt = img.alt;
-      lbTxt.textContent = $('figcaption', fig)?.textContent || '';
-      lb.classList.add('open'); document.body.style.overflow = 'hidden';
-      $('.lb-close', lb).focus();
-    };
-    const close = () => { lb.classList.remove('open'); document.body.style.overflow = ''; last?.focus(); };
-    const go = d => { const v = visible(); open(v[(cur + d + v.length) % v.length]); };
-    figs.forEach(f => {
-      f.tabIndex = 0; f.setAttribute('role', 'button');
-      f.addEventListener('click', () => { last = f; open(f); });
-      f.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); last = f; open(f); } });
-    });
-    $('.lb-close', lb).addEventListener('click', close);
-    $('.lb-prev', lb).addEventListener('click', () => go(-1));
-    $('.lb-next', lb).addEventListener('click', () => go(1));
-    lb.addEventListener('click', e => { if (e.target === lb) close(); });
-    document.addEventListener('keydown', e => {
-      if (!lb.classList.contains('open')) return;
-      if (e.key === 'Escape') close();
-      if (e.key === 'ArrowLeft') go(-1);
-      if (e.key === 'ArrowRight') go(1);
-    });
-  }
-
-  // Formulär: öppnar e-postprogrammet med meddelandet ifyllt.
-  // Byt mot en formulärtjänst när sajten går live.
-  $$('form[data-mail]').forEach(form => {
-    form.addEventListener('submit', e => {
-      e.preventDefault();
-      if (!form.reportValidity()) return;
-      const d = new FormData(form);
-      const rows = [];
-      for (const [k, v] of d.entries()) if (k !== 'samtycke' && String(v).trim()) rows.push(k + ': ' + v);
-      const subject = form.dataset.subject + (d.get('Namn') ? ' – ' + d.get('Namn') : '');
-      location.href = 'mailto:' + form.dataset.mail + '?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(rows.join('\n'));
-      $('.form-ok', form)?.classList.add('show');
+  // Projektkarusellen: pilknappar scrollar en bredd i taget.
+  document.querySelectorAll("[data-karusell]").forEach(function (k) {
+    var lista = document.getElementById(k.getAttribute("data-karusell"));
+    if (!lista) return;
+    k.querySelectorAll("button").forEach(function (b) {
+      b.addEventListener("click", function () { lista.scrollBy({ left: (b.classList.contains("bak") ? -1 : 1) * lista.clientWidth * 0.9, behavior: "smooth" }); });
     });
   });
 
-  $$('[data-year]').forEach(el => el.textContent = new Date().getFullYear());
+  // Bolag i flikar: klick eller piltangenter byter bolag.
+  document.querySelectorAll("[data-flikar]").forEach(function (f) {
+    var flikar = f.querySelectorAll('[role="tab"]');
+    var valj = function (k) {
+      flikar.forEach(function (t, i) {
+        var vald = i === k;
+        t.setAttribute("aria-selected", String(vald));
+        t.tabIndex = vald ? 0 : -1;
+        document.getElementById(t.getAttribute("aria-controls")).hidden = !vald;
+      });
+    };
+    flikar.forEach(function (t, i) {
+      t.addEventListener("click", function () { valj(i); });
+      t.addEventListener("keydown", function (e) {
+        if (e.key === "ArrowDown" || e.key === "ArrowRight") { e.preventDefault(); valj((i + 1) % flikar.length); flikar[(i + 1) % flikar.length].focus(); }
+        if (e.key === "ArrowUp" || e.key === "ArrowLeft") { e.preventDefault(); var n = (i - 1 + flikar.length) % flikar.length; valj(n); flikar[n].focus(); }
+      });
+    });
+    valj(0);
+  });
+
+  // Innehåll som glider in när det syns.
+  var els = document.querySelectorAll(".reveal");
+  if ("IntersectionObserver" in window) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) { if (en.isIntersecting) { en.target.classList.add("syns"); io.unobserve(en.target); } });
+    }, { rootMargin: "0px 0px -6% 0px" });
+    els.forEach(function (el) { io.observe(el); });
+  } else {
+    els.forEach(function (el) { el.classList.add("syns"); });
+  }
+
+  document.querySelectorAll("[data-year]").forEach(function (y) { y.textContent = new Date().getFullYear(); });
 })();
