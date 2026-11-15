@@ -1,6 +1,6 @@
 # Djupanalys före och efter – Haninge Riv & Sanering
 
-Körd 2026-11-14 med Elevate Studios egen kod för Djupanalys (`elevate-studio-pre/worker/crawl.js` och `sitecheck.js`)
+Körd 2026-11-15 med Elevate Studios egen kod (med rättningarna i grenen `fix/djupanalys-matfel`) för Djupanalys (`elevate-studio-pre/worker/crawl.js` och `sitecheck.js`)
 och samma poängsättning som `assets/js/sitetest-deep.js`. Googles test är Lighthouse (mobil, simulerad 4G) – samma motor som
 PageSpeed Insights – körd lokalt, en ren körning per sida. Den nya sajten testades i produktionsläge på en lokal HTTPS-server
 som beter sig som Cloudflare Pages/Netlify (`test/serve.mjs`). Mejl och certifikat läses från domänen haningeriv.se i båda fallen.
@@ -9,31 +9,25 @@ som beter sig som Cloudflare Pages/Netlify (`test/serve.mjs`). Mejl och certifik
 
 | | SEO | Tillgänglighet | Bästa praxis | Prestanda | Säkerhet och mejl | Länkar |
 |---|---|---|---|---|---|---|
-| Gamla haningeriv.se (5 sidor) | 83 | 88 | 95 | 77 | 50 | 100 |
-| Nya sajten (14 sidor) | 100 | 100 | 100 | 99 | 50 | 100 |
+| Gamla haningeriv.se (5 sidor) | 83 | 87 | 95 | 75 | 83 | 100 |
+| Nya sajten (14 sidor) | 100 | 100 | 100 | 99 | 83 | 100 |
 
 Googles test, snitt över de 12 viktigaste sidorna (SEO / Tillgänglighet / Bästa praxis / Prestanda):
-gamla 88 | 86 | 92 | 73 – nya 100 | 100 | 100 | 99.
+gamla 88 | 84 | 92 | 69 – nya 100 | 100 | 100 | 98.
 
 ## Vad som återstår och varför
 
-- **Säkerhet och mejl 50**: DMARC saknas i haningeriv.se:s DNS. Det är en DNS-post hos one.com, inte en del av
-  sajten. Lägg till TXT-posten `_dmarc.haningeriv.se` med värdet `v=DMARC1; p=quarantine; rua=mailto:info@haningeriv.se`.
-  DKIM finns redan (one.com, väljarna `rsa1` och `rsa2`) men verktyget letar inte efter de väljarna, se nedan.
-  Certifikatet för haningeriv.se går ut om 21 dagar enligt crt.sh (gäller nuvarande webbhotell; vid flytt får sajten ett nytt certifikat).
-  Betyget växlar mellan 50 och 67 beroende på om crt.sh svarar. Med DMARC på plats, verktygets DKIM-fel rättat och ett certifikat med mer än 30 dagar kvar blir det 100.
+- **Säkerhet och mejl 83**: DMARC saknas i haningeriv.se:s DNS. Det är en DNS-post hos one.com, inte en del av
+  sajten. Lägg till TXT-posten `_dmarc.haningeriv.se` med värdet `v=DMARC1; p=quarantine; rua=mailto:info@haningeriv.se`,
+  så blir det 100. DKIM finns redan (one.com, väljarna `rsa1` och `rsa2`).
 - **Prestanda 99**: verktyget sätter max 99 så fort Googles test har ett enda förslag. Det som återstår är att
   skicka ännu mindre bilder till mobiler än skärmen behöver, vilket skulle göra fotona suddiga. Googles prestanda per sida: / 96, /bemanning.html 99, /betonghaltagning.html 100, /bolag.html 100, /byggkonsult.html 100, /faq.html 99, /frilaggning-av-ror.html 99, /hallbarhet.html 97, /karriar.html 99, /om-oss.html 97, /projekt.html 100, /rivning.html 99.
 
-## Fel i verktyget som påverkar resultatet
+## Rättade mätfel i verktyget
 
-1. **Sajtkartindex följs inte.** WordPress-sajter (som gamla haningeriv.se) har `sitemap.xml` som pekar på `page-sitemap.xml`.
-   Verktyget läser då bara startsidan och `page-sitemap.xml` som om den vore en sida. Utan rättning fick gamla sajten SEO 26,
-   Tillgänglighet 63, Bästa praxis 67, Prestanda 71 – därför kördes den gamla sajten här med sina fem riktiga sidor.
-2. **Säkerhetsrubrikerna mäts fel.** Steget `headers` kör svaret genom `withHeaders()` – Elevate Studios egna rubriker – så
-   alla sajter får CSP, HSTS m.fl. i testet oavsett vad de har.
-3. **Stilfilens cache** kontrolleras alltid på `/assets/css/site.min.css` (Elevate Studios egen sökväg).
-4. **DKIM**: väljarlistan saknar one.com:s `rsa1`/`rsa2`, så one.com-kunder får alltid "DKIM hittades inte".
+Fyra fel i Djupanalys gav missvisande resultat och är rättade (ElevateStudio018/elevate-studio-pre, grenen `fix/djupanalys-matfel`):
+sajtkartindex följs nu (gamla haningeriv.se läses som sina fem sidor), säkerhetsrubrikerna mäts som sajten svarar (gamla sajten
+saknar alla sex, nya sajten har dem), stilfilens cache läses från sajtens egen stilfil och one.com:s DKIM-nycklar hittas.
 
 ## Sökordstäckning – vilken sida svarar på sökningen?
 

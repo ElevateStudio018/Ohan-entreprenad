@@ -1,6 +1,6 @@
 {
  "sajt": "https://www.haningeriv.se/",
- "datum": "2026-11-14T21:20:02.927Z",
+ "datum": "2026-11-14T23:07:09.715Z",
  "sidor": 5,
  "sidorISajtkarta": 5,
  "lankar": {
@@ -10,21 +10,21 @@
  "bilder": 40,
  "betyg": {
   "SEO": 83,
-  "Tillgänglighet": 88,
+  "Tillgänglighet": 87,
   "Bästa praxis": 95,
-  "Prestanda": 77,
-  "Säkerhet och mejl": 50,
+  "Prestanda": 75,
+  "Säkerhet och mejl": 83,
   "Länkar": 100
  },
  "google": {
-  "performance": 73,
-  "accessibility": 86,
+  "performance": 69,
+  "accessibility": 84,
   "best-practices": 92,
   "seo": 88
  },
  "googlePerSida": {
   "/": {
-   "performance": 78,
+   "performance": 83,
    "accessibility": 82,
    "best-practices": 100,
    "seo": 85
@@ -36,20 +36,20 @@
    "seo": 85
   },
   "/kontakt/": {
-   "performance": 65,
+   "performance": 56,
    "accessibility": 85,
    "best-practices": 79,
    "seo": 92
   },
   "/offertforfragan/": {
-   "performance": 73,
-   "accessibility": 90,
+   "performance": 61,
+   "accessibility": 86,
    "best-practices": 79,
    "seo": 85
   },
   "/om-oss/": {
-   "performance": 73,
-   "accessibility": 89,
+   "performance": 70,
+   "accessibility": 83,
    "best-practices": 100,
    "seo": 92
   }
@@ -65,9 +65,12 @@
    "policy": null
   },
   "dkim": {
-   "found": false,
-   "selectors": [],
-   "checked": 10
+   "found": true,
+   "selectors": [
+    "rsa1",
+    "rsa2"
+   ],
+   "checked": 12
   },
   "mx": {
    "found": true,
@@ -231,27 +234,63 @@
    ]
   },
   {
-   "kategori": "security",
-   "id": "dkim",
-   "fel": "DKIM hittades inte",
+   "kategori": "practice",
+   "id": "hdr-content-security-policy",
+   "fel": "Säkerhetspolicy (CSP) saknas",
    "antal": 1,
    "var": [
-    "domänen"
+    "startsidan"
+   ]
+  },
+  {
+   "kategori": "practice",
+   "id": "hdr-strict-transport-security",
+   "fel": "HSTS saknas",
+   "antal": 1,
+   "var": [
+    "startsidan"
+   ]
+  },
+  {
+   "kategori": "practice",
+   "id": "hdr-x-content-type-options",
+   "fel": "X-Content-Type-Options saknas",
+   "antal": 1,
+   "var": [
+    "startsidan"
+   ]
+  },
+  {
+   "kategori": "practice",
+   "id": "hdr-x-frame-options",
+   "fel": "X-Frame-Options saknas",
+   "antal": 1,
+   "var": [
+    "startsidan"
+   ]
+  },
+  {
+   "kategori": "practice",
+   "id": "hdr-referrer-policy",
+   "fel": "Referrer-Policy saknas",
+   "antal": 1,
+   "var": [
+    "startsidan"
+   ]
+  },
+  {
+   "kategori": "practice",
+   "id": "hdr-permissions-policy",
+   "fel": "Permissions-Policy saknas",
+   "antal": 1,
+   "var": [
+    "startsidan"
    ]
   },
   {
    "kategori": "security",
    "id": "dmarc",
    "fel": "DMARC saknas",
-   "antal": 1,
-   "var": [
-    "domänen"
-   ]
-  },
-  {
-   "kategori": "security",
-   "id": "cert",
-   "fel": "Certifikatet går ut om 21 dagar",
    "antal": 1,
    "var": [
     "domänen"
@@ -269,7 +308,7 @@
     "/offertforfragan/",
     "/om-oss/"
    ],
-   "varde": "2,6 s"
+   "varde": "2,5 s"
   },
   {
    "kategori": "perf",
@@ -283,19 +322,21 @@
     "/offertforfragan/",
     "/om-oss/"
    ],
-   "varde": "4,1 s"
+   "varde": "3,4 s"
   },
   {
    "kategori": "perf",
    "id": "google:speed-index",
    "fel": "Googles test: Speed Index",
-   "antal": 3,
+   "antal": 5,
    "var": [
     "/",
     "/tjanster/",
-    "/kontakt/"
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
    ],
-   "varde": "5,7 s"
+   "varde": "5,8 s"
   },
   {
    "kategori": "perf",
@@ -309,7 +350,7 @@
     "/offertforfragan/",
     "/om-oss/"
    ],
-   "varde": "Beräknad besparing: 480 ms"
+   "varde": "Beräknad besparing: 500 ms"
   },
   {
    "kategori": "perf",
@@ -351,7 +392,7 @@
     "/offertforfragan/",
     "/om-oss/"
    ],
-   "varde": "Beräknad besparing: 1 210 ms"
+   "varde": "Beräknad besparing: 1 000 ms"
   },
   {
    "kategori": "perf",
@@ -365,17 +406,7 @@
     "/offertforfragan/",
     "/om-oss/"
    ],
-   "varde": "5,0 s"
-  },
-  {
-   "kategori": "perf",
-   "id": "google:max-potential-fid",
-   "fel": "Googles test: Högsta potentiella fördröjning till första inmatningen",
-   "antal": 1,
-   "var": [
-    "/"
-   ],
-   "varde": "140 ms"
+   "varde": "5,1 s"
   },
   {
    "kategori": "perf",
@@ -389,7 +420,7 @@
     "/offertforfragan/",
     "/om-oss/"
    ],
-   "varde": "Beräknad besparing: 1 210 ms"
+   "varde": "Beräknad besparing: 1 000 ms"
   },
   {
    "kategori": "perf",
@@ -495,20 +526,19 @@
     "/tjanster/",
     "/kontakt/"
    ],
-   "varde": "Den sammanlagda storleken var 4 660 Kibit"
+   "varde": "Den sammanlagda storleken var 4 332 Kibit"
   },
   {
    "kategori": "perf",
    "id": "google:mainthread-work-breakdown",
    "fel": "Googles test: Minska arbetsbelastningen på modertråden",
-   "antal": 4,
+   "antal": 3,
    "var": [
     "/",
-    "/tjanster/",
     "/kontakt/",
     "/offertforfragan/"
    ],
-   "varde": "2,3 s"
+   "varde": "2,4 s"
   },
   {
    "kategori": "perf",
@@ -536,7 +566,7 @@
     "/offertforfragan/",
     "/om-oss/"
    ],
-   "varde": "4 130 ms"
+   "varde": "3 400 ms"
   },
   {
    "kategori": "perf",
@@ -552,11 +582,13 @@
    "kategori": "access",
    "id": "google:aria-allowed-attr",
    "fel": "Googles test: Alla attribut av typen `[aria-*]` stämmer inte med elementets roll",
-   "antal": 3,
+   "antal": 5,
    "var": [
     "/",
     "/tjanster/",
-    "/kontakt/"
+    "/kontakt/",
+    "/offertforfragan/",
+    "/om-oss/"
    ],
    "varde": ""
   },
@@ -654,13 +686,13 @@
   },
   {
    "kategori": "perf",
-   "id": "google:bootup-time",
-   "fel": "Googles test: Minska körningstiden för JavaScript",
+   "id": "google:total-blocking-time",
+   "fel": "Googles test: Total Blocking Time",
    "antal": 1,
    "var": [
-    "/tjanster/"
+    "/kontakt/"
    ],
-   "varde": "4,1 s"
+   "varde": "200 ms"
   },
   {
    "kategori": "perf",
@@ -686,6 +718,16 @@
   },
   {
    "kategori": "perf",
+   "id": "google:max-potential-fid",
+   "fel": "Googles test: Högsta potentiella fördröjning till första inmatningen",
+   "antal": 1,
+   "var": [
+    "/kontakt/"
+   ],
+   "varde": "130 ms"
+  },
+  {
+   "kategori": "perf",
    "id": "google:prioritize-lcp-image",
    "fel": "Googles test: Läs in bilden i förväg för största uppritningen av innehåll",
    "antal": 2,
@@ -693,7 +735,7 @@
     "/kontakt/",
     "/om-oss/"
    ],
-   "varde": "Beräknad besparing: −100 ms"
+   "varde": "Beräknad besparing: 670 ms"
   },
   {
    "kategori": "perf",
@@ -710,12 +752,11 @@
    "kategori": "perf",
    "id": "google:third-party-summary",
    "fel": "Googles test: Minska påverkan från tredjepartskod",
-   "antal": 2,
+   "antal": 1,
    "var": [
-    "/kontakt/",
-    "/offertforfragan/"
+    "/kontakt/"
    ],
-   "varde": "Tredjepartskod blockerade huvudtråden i 280 ms"
+   "varde": "Tredjepartskod blockerade huvudtråden i 290 ms"
   },
   {
    "kategori": "practice",

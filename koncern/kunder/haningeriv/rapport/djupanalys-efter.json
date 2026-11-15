@@ -1,6 +1,6 @@
 {
  "sajt": "https://127.0.0.1:8443/",
- "datum": "2026-11-14T21:53:47.746Z",
+ "datum": "2026-11-14T23:09:22.150Z",
  "sidor": 14,
  "sidorISajtkarta": 14,
  "lankar": {
@@ -13,24 +13,24 @@
   "Tillgänglighet": 100,
   "Bästa praxis": 100,
   "Prestanda": 99,
-  "Säkerhet och mejl": 50,
+  "Säkerhet och mejl": 83,
   "Länkar": 100
  },
  "google": {
-  "performance": 99,
+  "performance": 98,
   "accessibility": 100,
   "best-practices": 100,
   "seo": 100
  },
  "googlePerSida": {
   "/": {
-   "performance": 96,
+   "performance": 83,
    "accessibility": 100,
    "best-practices": 100,
    "seo": 100
   },
   "/bemanning.html": {
-   "performance": 99,
+   "performance": 98,
    "accessibility": 100,
    "best-practices": 100,
    "seo": 100
@@ -54,7 +54,7 @@
    "seo": 100
   },
   "/faq.html": {
-   "performance": 99,
+   "performance": 100,
    "accessibility": 100,
    "best-practices": 100,
    "seo": 100
@@ -66,7 +66,7 @@
    "seo": 100
   },
   "/hallbarhet.html": {
-   "performance": 97,
+   "performance": 99,
    "accessibility": 100,
    "best-practices": 100,
    "seo": 100
@@ -107,9 +107,12 @@
    "policy": null
   },
   "dkim": {
-   "found": false,
-   "selectors": [],
-   "checked": 10
+   "found": true,
+   "selectors": [
+    "rsa1",
+    "rsa2"
+   ],
+   "checked": 12
   },
   "mx": {
    "found": true,
@@ -124,26 +127,8 @@
  "fel": [
   {
    "kategori": "security",
-   "id": "dkim",
-   "fel": "DKIM hittades inte",
-   "antal": 1,
-   "var": [
-    "domänen"
-   ]
-  },
-  {
-   "kategori": "security",
    "id": "dmarc",
    "fel": "DMARC saknas",
-   "antal": 1,
-   "var": [
-    "domänen"
-   ]
-  },
-  {
-   "kategori": "security",
-   "id": "cert",
-   "fel": "Certifikatet går ut om 21 dagar",
    "antal": 1,
    "var": [
     "domänen"
@@ -153,13 +138,22 @@
    "kategori": "perf",
    "id": "google:largest-contentful-paint",
    "fel": "Googles test: Largest Contentful Paint",
-   "antal": 3,
+   "antal": 2,
    "var": [
     "/",
-    "/hallbarhet.html",
     "/om-oss.html"
    ],
    "varde": "2,8 s"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:total-blocking-time",
+   "fel": "Googles test: Total Blocking Time",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "510 ms"
   },
   {
    "kategori": "perf",
@@ -177,6 +171,16 @@
     "/hallbarhet.html"
    ],
    "varde": "Beräknad besparing: 232 Kibit"
+  },
+  {
+   "kategori": "perf",
+   "id": "google:max-potential-fid",
+   "fel": "Googles test: Högsta potentiella fördröjning till första inmatningen",
+   "antal": 1,
+   "var": [
+    "/"
+   ],
+   "varde": "560 ms"
   },
   {
    "kategori": "perf",
@@ -199,10 +203,9 @@
    "kategori": "perf",
    "id": "google:largest-contentful-paint-element",
    "fel": "Googles test: Element som största uppritningen av innehåll gjordes för",
-   "antal": 3,
+   "antal": 2,
    "var": [
     "/",
-    "/hallbarhet.html",
     "/om-oss.html"
    ],
    "varde": "2 780 ms"
